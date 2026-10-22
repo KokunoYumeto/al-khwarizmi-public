@@ -1,0 +1,18 @@
+{
+ "lane": "AK15 Jewish calendar (Hyderabad edition, 1947; packet file 60, PDF pages 1-10)",
+ "packet_file_sha256": "26C55E7ECCA9597508EE4552B72CCBA95DEEC91C7F75F1DC49FF1E64C4382573",
+ "canonical_source_checkpoint_sha256": "c6640f322a83eec62fcff10ee25e6ac756c587a0b174dfcc4b28b3d4b36e7714",
+ "canonical_source_checkpoint_note": "SHA-256 over the page files in order: file name, a NUL byte, the bytes",
+ "last_fully_transcribed_source_unit": "PDF010",
+ "last_fully_verified_source_unit": "PDF010",
+ "first_untouched_source_unit": null,
+ "owned_units_total": 10,
+ "owned_units_disposed": 10,
+ "excluded_range": "PDF011-PDF320 (range disposition)",
+ "unresolved_count": 7,
+ "figure_count": 0,
+ "formula_or_table_count": 7,
+ "critical_notes": 26,
+ "text_lines": 143,
+ "note_lines": 1
+}

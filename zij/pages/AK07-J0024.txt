@@ -1,0 +1,50 @@
+@page 24 XX
+@lang de
+% JP2 0024: the introduction, p. XX: the end of no. 11; the additions of N, no. 12: a note of a second hand on the
+% latitude of the moon in eclipses (fol. 47v); no. 13: notes of a second and a third hand on solar eclipses (fol. 49r);
+% Suter's judgement of them begins.
+541 und 571 an, die in C und O fehlen ; die erstern scheinen von gleicher Hand zu
+sein, wie die vorhergehenden, die letztern von einer andern Hand. Da die Tafel
+stets von jedermann fortgesetzt werden kann, so verzichten wir auf die Wiedergabe
+dieser Zeilen.
+@p 12) Auf fol. 47{sup:v} (in unserm Text p. 29) ist nach den Worten {i:erit et ipsa meri-}
+{i:dionalis} von 2. Hand (?) hinzugefügt : {i:Haec circa meridiem, alibi autem : Inventa vera}
+{i:lunae latitudine nadair}{sup:1}) {i:gradus coniunctionis ponatur in astrolabio super horam con-}
+{i:iunctiones et videatur quot gradibus distet gradus coniunctionis a centro minimi circuli}
+{i:almucantarat, et si fuit vera lunae latitudo septemtrionalis, auferatur ab illis gradibus,}
+{i:si meridiana, addatur ; et per id fiat introitus in tabulas latitudinis per aspectum.}
+@p 13) Auf fol. 49{sup:r} (in unserm Text p. 29) ist nach den Worten : {i:horas coniunctionis}
+{i:quaesitae ponet} von 2. Hand hinzugefügt : {i:Introitus harum tabularum hic est : primo}
+{i:videatur coniunctionis distantia solis et lunae a capite vel cauda et si fuerit luna in}
+{i:longiori longitudine sui brevis circuli}{sup:2}) {i:intretur in tabulas priores, aliter in posteriores}
+{i:et sumatur de digitis quod opponitur distantiae praedictae. Exinde sumatur diversitas}
+{i:aspectus lunae et videatur quot digitis ipsa aequipolleat. Et si fuerit luna tunc septem-}
+{i:trionalis a sole addantur illi digiti super inventos digitos in tabula, si meridiana, demantur}
+{i:si poterit, aliter enim non erit eclipsis ; et sic inventum erit quantitas eclipsis. Et tunc}
+{i:cum illo invento in tabula sumantur minuta casus in eius directo et erit mora usque ad}
+{i:mediam eclipsim. In diversitate aspectus quot fuerint digiti sic inveniatur : Per tabulas}
+{i:elbut inveniatur quantitas solaris corporis et dividatur in XII aequas partes quia semper}
+{i:duodecima diametri solis digitus dicitur. Videatur quotiens eius duodecima in diversitate}
+{i:aspectus contineatur, et tot fient ex ea digiti. Si ergo inventum fuerit plus XII digitis}
+{i:et XLVIII min. in longitudine propiori vel plus X et XLVIII min. in longiori, et luna}
+{i:fuerit septemtrionalis a sole, auferantur praedicti digiti de invento et residuum clarum}
+{i:in sole relinquitur. Si vero luna fuerit meridiana et inventum secundum se obscurabit}
+{i:de sole, haec secundum eos quibus sol semper meridianus est ; quia cum fuerit septem-}
+{i:trionalis contra operari oportebit.}
+@p Hierauf folgt von 3. Hand : {i:Sed et in maiori elongatione ante caudam vel post}
+{i:caput, quia usque ad XXIII gradus fit solis eclipsis. Et tunc sciatur vera lunae latitudo}
+{i:et diversitas aspectus latitudinis eius ; et auferatur minus de maiori, et per residuum erit}
+{i:quantitas scita eclipsis, cuius digiti per solis et residui quantitatem, ut praedictum est,}
+{i:investigentur, et per eos mora in tabula. Iungantur autem medietates}{sup:3}) {i:diametrorum}
+{i:solis et lunae, et si residuum praedictum fuerit eis aequale vel maius, non erit eclipsis,}
+{i:si nichilum fuerit residuum, totalis, si vero residuum minus fuerit, erit eclipsis partialis.}
+@p Wir haben im Kommentar zu Kap. 35 bemerkt, dass dieses sehr kurz und
+jedenfalls unvollständig sei. Dies scheint auch der Verfasser des ersten der obigen
+Zusätze gefühlt zu haben, und glaubte daher, eine bessere, verständlichere Darstellung
+der Bestimmung einer Sonnenfinsternis geben zu müssen. Allein seine Regel ist,
+@n {sup:1}) Wahrscheinlich {i:nadir}.
+@n {sup:2}) {i:brevis circuli} = {i:epicycli}.
+@n {sup:3}) Im Text {i:mediates}.
+@obs The page number «XX» stands at the head of the page, centred, with a rule below it. L01-L04 end no. 11, begun at the foot of p. XIX (JP2 0023, L37-L38): N gives the conjunctions and oppositions also for the years 541 and 571, which Suter does not reproduce.
+@obs The notes of N are quoted in italics, with Suter's words in roman between them; «(?)» (L06) upright. L20: the a of «mediam» is of a different design from the italic a of the line, taller and more upright, a sort of another fount; transcribed as a. The colons and semicolons of the Latin stand after the thin space of the edition, as in the German (6-13 px measured).
+@obs N03: «Im Text mediates»: the text of the note has «mediates», which the quotation (L33) gives as «medietates».

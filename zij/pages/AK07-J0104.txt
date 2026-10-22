@@ -1,0 +1,52 @@
+@page 104 72
+@lang de
+% JP2 0104: Suter's commentary, p. 72: chapter 25, the right ascensions of the signs in the right sphere: the formula
+% with sine and cosine, the right spherical triangle with a figure; the example of 25° of Aries (23° 5′ 49″) and
+% al-Battānī's value; the count from the beginning of Capricorn (notes 1-3).
+@c {b:Kap. 25. Die Aufgänge der Tierkreiszeichen in der geraden Sphäre.}
+@c (Text p. 18—19, Tafel 59—59{sup:b}).
+@p Dieses Kapitel mit den zugehörigen Tafeln lehrt die {i:Rectascension} ({i:a}) jedes Grades
+der Ekliptik in der geraden Sphäre (d. h. am Aequator, oder wie unsere Tafeln haben :
+{i:secundum terram Arin}){sup:1}) berechnen. Es geschieht dies nach derselben Formel wie
+bei {sp:Batt.}, nämlich
+@c sin {i:a} = {fr:sin {i:δ} · cos {i:ε}|cos {i:δ} · sin {i:ε}} · {i:r}.
+@p Da {sp:Batt.}, sowie auch {sp:Kh.} die Tangenten und Cotangenten wohl kennen, aber
+nur Tafeln derselben für den Radius (Gnomon) 12 haben, so benutzen sie nicht die
+einfachere Formel : sin {i:a} = tg {i:δ} · cot {i:ε}, die der Formel sin {i:a} = {fr:tg {i:b}|tg {i:B}} des rechtwinkligen
+sphärischen Dreieckes entspricht. In unserm Falle ist Winkel {i:B} die Schiefe ({i:ε}) der
+Ekliptik, {i:c} ein bestimmter Bogen der Ekliptik, {i:b} die Deklination ({i:δ}) des Punktes {i:A}
+der Ekliptik, {i:a} der entsprechende Bogen des Aequa-
+tors, d. h. die {i:Rectascension} des Punktes {i:A} ; obige
+Formel lautet also für unsern Fall :
+@c sin {i:a} = {fr:tg {i:δ}|tg {i:ε}} = tg {i:δ} · cot {i:ε} = {fr:sin {i:δ} · cos {i:ε}|cos {i:δ} · sin {i:ε}}.
+Diesen Ausdruck mussten die arabischen Mathema-
+tiker noch mit {i:r} = 60{sup:{i:p}} multiplizieren, weil ihre
+trigonometrischen Funktionen für diesen Radius be-
+rechnet waren. Wir geben hiefür ein {i:Beispiel :}
+@p Was für eine Rectascension entspricht dem Bogen 25° des Widders ? Für
+diesen Fall müssen wir zuerst in Tafel 21 die Deklination (Obliquatio) {i:δ} der Sonne
+für den 25.° des Widders suchen, sie ist 9° 50′ 21″, die Schiefe der Ekliptik nimmt
+{sp:Kh.} zu 23° 51′ an, die Berechnung nach der Formel sin {i:a} = tg {i:δ} · cot {i:ε} ergibt (mit
+fünfstelligen Logarithmen berechnet) für {i:a} den Wert 23° 5′ 50″, unsere Tafel 59 hat
+bei 25° Länge (in der Rubrik {i:Horoscopus arietis}) die Zahl 113° 5′ 49″ ; da {sp:Kh.}, wie
+auch {sp:Batt.} in den entsprechenden Tafeln{sup:2}), die Rectascension von 0° des Steinbocks
+an zählt statt von 0° des Widders an, so muss man 3 Zeichen = 90° abziehen und
+erhält so {i:a} = 23° 5′ 49″.{sup:3}) — {sp:Batt.}’s Werte weichen natürlich von denen {sp:Kh.}’s ab,
+da er die Schiefe der Ekliptik = 23° 35′ annimmt, auch begnügt sich {sp:Batt.} mit
+Graden und Minuten, er hat in unserm Beispiele eine Rectascension von 113° 8′
+(= 23° 8′).
+@p Dass einige arabische Astronomen die Rectascension von 0° des Steinbocks
+an zählen, hat seinen Grund darin, weil dann gerade diese um 90° vermehrte Rect-
+ascension den Grad des Aequators angibt, der zu derselben Zeit aufgeht, da der
+@n {sup:1}) {i:Arin} ({i:Azin}, heute {i:Udjain}, s. oben p. 33) wurde von den ältern arabischen Astronomen unter
+@n den Aequator versetzt, und als die Mitte der bewohnten Erdhälfte betrachtet.
+@n {sup:2}) Ed. {sp:Nallino}, II, 61—64.
+@n {sup:3}) Wir haben bei sechs Proben keinen grössern Fehler als 1″—2″ getroffen.
+@obs The page number «72» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L02: the heading of chapter 25, in bold, centred, with the reference to the text below it; «59b», the b raised.
+@obs L07 and L16: the formulas displayed, centred, their fractions built up, written {fr:NUMERATOR|DENOMINATOR}, «·» the raised dot of multiplication; L07 ends «· r.», L16 with a full stop. L10: the formula «sin a = tg b / tg B» within the line, its fraction built up. a, b, c, A, B, C, δ, ε, r italic; sin, cos, tg, cot upright. L18: «60p», the p raised and italic.
+@obs A figure stands at the left of L13-L19, which are set in a narrower measure at its right; it is not reproduced. A right spherical triangle: B at the left, C at the lower right, A at the upper right; the arc c from B to A above, the arc a from B to C below, the arc b from A down to C on the right, the right angle at C. The letters are italic.
+@obs L03-L20. Checked: in the right spherical triangle with the right angle at C, the angle B the obliquity ε, the hypotenuse c the longitude, the side b the declination δ and the side a the right ascension, sin a = tan b cot B = tg δ · cot ε = sin δ cos ε : (cos δ sin ε), as printed.
+@obs L21-L32. Checked: with ε = 23° 51′, sin δ = sin 25° sin ε gives δ = 9° 50′ 21″, the value of Table 21 (L23), and tan a = cos ε tan 25° gives a = 23° 5′ 52″ (23° 5′ 51.7″), against Suter's 23° 5′ 50″ with five-place logarithms and 23° 5′ 49″ in Table 59; with Ptolemy's 23° 51′ 20″ it is 23° 5′ 48.5″. With al-Battānī's 23° 35′ it is 23° 8′ 24″, his 113° 8′ less 90°. The Table 59 values are to be compared with the table.
+@obs L34: after the hyphen of «Rect-» a thin vertical stroke, lighter than the print, of spacing material; L33: a small mark above the line before «0°»; not transcribed. N01: «Arin», «Azin», «Udjain» in italics.
+@obs Spaced type, marked {sp:}: «Batt.», «Kh.», «Nallino»; italics: «Rectascension» (L03, L14; upright in L21, L27, L31, L33-L34), «secundum terram Arin», «Beispiel :», «Horoscopus arietis», the letters of the formulas.
+@obs The colons, the semicolons and the question mark stand after the thin space of the edition (10-18 px measured; «49″ ;» L26, 18 px).

@@ -1,0 +1,272 @@
+{
+ "anchor": "AK05-F158",
+ "frame": 158,
+ "frame_file": "page_158.jpg",
+ "frame_sha256": "975558e24523fc7826a6b99efb903ccbb8226bbd68fa0667935cf262236744eb",
+ "printed_page": "١٥٢",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 158, printed p. 152: the springs and rivers beyond the seventh clime go on: two springs, a spring from the town درقطٮر and another spring; the rivers ماسو⟨س⟩ and عاٮوس, the latter past the mountain مٮلٮاو; three springs from the mountain اسڡٮٮورقيون, the second through the town اراٮٮاسا; and the beginning of the river اسطولس from the mountain سرطاميڡا. The editor's running numbers (٢٣٠٣)-(٢٣٢٢) and the numbers of Suhrāb; the folio of the manuscript, «(fol. 35ᵇ)», within a line; a letter and numerals supplied by the editor between angle brackets. Three lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F158-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "عين اوّلها عند طول {ov:كا ل} والعرض {ov:مح م} (٢٣٠٣) ومصبّها فى البحر عند طول {ov:ٮح ك}",
+   "margin": null,
+   "cells": null,
+   "plain": "عين اوّلها عند طول كا ل والعرض مح م (٢٣٠٣) ومصبّها فى البحر عند طول ٮح ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "والعرض {ov:مط ٮه} (٢٣٠٤) * عين اوّلها عند طول {ov:كا ل} والعرض {ov:ن ه} (٢٣٠٥) ومصبّها",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض مط ٮه (٢٣٠٤) * عين اوّلها عند طول كا ل والعرض ن ه (٢٣٠٥) ومصبّها",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "فى البحر عند طول {ov:ٮح {z}} والعرض {ov:ں ٮه} (٢٣٠٦) * عين من مدينة درقطٮر اوّلها عند",
+   "margin": null,
+   "cells": null,
+   "plain": "فى البحر عند طول ٮح ō والعرض ں ٮه (٢٣٠٦) * عين من مدينة درقطٮر اوّلها عند",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "طول {ov:كح ل} والعرض {ov:مط مه} (٢٣٠٧) [٢١٤٥] ومصبّها فى البحر عند طول {ov:كٮ ك}",
+   "margin": null,
+   "cells": null,
+   "plain": "طول كح ل والعرض مط مه (٢٣٠٧) [٢١٤٥] ومصبّها فى البحر عند طول كٮ ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "والعرض {ov:نب له} (٢٣٠٨) [٢١٤٦] * عين اوّلها عند طول {ov:كه م} والعرض {ov:ٮٮ ى} (٢٣٠٩)",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض نب له (٢٣٠٨) [٢١٤٦] * عين اوّلها عند طول كه م والعرض ٮٮ ى (٢٣٠٩)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "مصبّها فى البحر عند طول {ov:⟨كد⟩{n:a} ل} والعرض {ov:ند ل}{n:b} (٢٣١٠) * نهر ماسو⟨س⟩{n:c}",
+   "margin": "(fol. 35ᵇ)",
+   "cells": null,
+   "plain": "مصبّها فى البحر عند طول ⟨كد⟩ ل والعرض ند ل (٢٣١٠) * نهر ماسو⟨س⟩",
+   "note_marks": [
+    "a",
+    "b",
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "اوّله عند طول {ov:لح {z}} والعرض {ov:ٮا م} (٢٣١١) [٢١٤٧] مصبّه فى البحر عند طول {ov:ل ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "اوّله عند طول لح ō والعرض ٮا م (٢٣١١) [٢١٤٧] مصبّه فى البحر عند طول ل ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "والعرض {ov:ٮح {z}} (٢٣١٢) [٢١٤٨] * نهر عاٮوس اوّله عند طول {ov:ما ل} والعرض {ov:⟨نب⟩{n:c} {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض ٮح ō (٢٣١٢) [٢١٤٨] * نهر عاٮوس اوّله عند طول ما ل والعرض ⟨نب⟩ ō",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "(٢٣١٣) [٢١٤٩] يمرّ مماسّاً لجبل مٮلٮاو ومصبّه فى البحر عند طول {ov:لٮ {z}} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٣١٣) [٢١٤٩] يمرّ مماسّاً لجبل مٮلٮاو ومصبّه فى البحر عند طول لٮ ō والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "{ov:نط {z}} (٢٣١٤) [٢١٥٠] * عين من جبل اسڡٮٮورقيون اوّله عند طول {ov:لط ن} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "نط ō (٢٣١٤) [٢١٥٠] * عين من جبل اسڡٮٮورقيون اوّله عند طول لط ن والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "{ov:ٮو م} (٢٣١٥) [٢١٥١] مصبّها فى البحر عند طول {ov:لح {z}} والعرض {ov:ٮح ك} (٢٣١٦)",
+   "margin": null,
+   "cells": null,
+   "plain": "ٮو م (٢٣١٥) [٢١٥١] مصبّها فى البحر عند طول لح ō والعرض ٮح ك (٢٣١٦)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "[٢١٥٢] * عين من هٰذا الجبل ايضاً اوّلها عند طول {ov:م {z}} والعرض {ov:ٮو {z}} (٢٣١٧)",
+   "margin": null,
+   "cells": null,
+   "plain": "[٢١٥٢] * عين من هٰذا الجبل ايضاً اوّلها عند طول م ō والعرض ٮو ō (٢٣١٧)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "[٢١٥٣] تمرّ الى الموضع الّذى طوله {ov:له مه} والعرض {ov:نج ك} (٢٣١٨) [٢١٥٤] ثمّ تمرّ الى",
+   "margin": null,
+   "cells": null,
+   "plain": "[٢١٥٣] تمرّ الى الموضع الّذى طوله له مه والعرض نج ك (٢٣١٨) [٢١٥٤] ثمّ تمرّ الى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "مدينة اراٮٮاسا وتدخلها وتخرج منها عند طول {ov:لط م} والعرض {ov:س ل} (٢٣١٩) [٢١٥٥]",
+   "margin": null,
+   "cells": null,
+   "plain": "مدينة اراٮٮاسا وتدخلها وتخرج منها عند طول لط م والعرض س ل (٢٣١٩) [٢١٥٥]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "ومصبّها فى البحر عند طول {ov:لح م} والعرض {ov:سا ل} (٢٣٢٠) [٢١٥٦] * عين من هٰذا",
+   "margin": null,
+   "cells": null,
+   "plain": "ومصبّها فى البحر عند طول لح م والعرض سا ل (٢٣٢٠) [٢١٥٦] * عين من هٰذا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "الجبل ايضاً اوّلها عند طول {ov:مٮ م} والعرض {ov:ٮه مه} (٢٣٢١) [٢١٥٧] ومصبّها فى البحر",
+   "margin": null,
+   "cells": null,
+   "plain": "الجبل ايضاً اوّلها عند طول مٮ م والعرض ٮه مه (٢٣٢١) [٢١٥٧] ومصبّها فى البحر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F158-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "عند طول {ov:ما ه} والعرض {ov:ٮح {z}} (٢٣٢٢) [٢١٥٨] * نهر اسطولس من جبل سرطاميڡا",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول ما ه والعرض ٮح ō (٢٣٢٢) [٢١٥٨] * نهر اسطولس من جبل سرطاميڡا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L06: the manuscript has a gap at the degrees between the brackets; the editor supplies them from the course of the coast given by the points (2308) and (1019) (note a). Point (1019) of the coast of the outer sea is at the longitude 25° 0′ and the latitude 55° 0′ (frame 074).",
+  "L06: a variant reading of the latitude is ند ك, with a line over the numerals (note b).",
+  "L06, L08: the manuscript is badly damaged at the letters between the brackets; the editor supplies them from S (note c)."
+ ],
+ "unresolved": [
+  "L10: the second low stroke after the loop is a little thicker than the first and may be a small low loop without a visible counter, as in the editor's form of note c on frame 068; transcribed as a tooth."
+ ],
+ "observations": [
+  "The springs and rivers beyond the seventh clime go on from p. 151 (frame 157), whose last point is the spring on the island of Thule (2301)-(2302). L01-L03: «عين اوّلها عند طول كا ل والعرض مح م (٢٣٠٣) ومصبّها فى البحر عند طول ٮح ك والعرض مط ٮه (٢٣٠٤) *», a spring whose beginning is at the longitude 21° 30′ and the latitude مح م, and its mouth in the sea at the longitude ٮح ك and the latitude مط ٮه; «عين اوّلها عند طول كا ل والعرض ن ه (٢٣٠٥) ومصبّها فى البحر عند طول ٮح {z} والعرض ں ٮه (٢٣٠٦) *», a spring whose beginning is at the longitude 21° 30′ and the latitude 50° 5′, and its mouth at the longitude ٮح ō and the latitude ں ٮه. Points (2303)-(2306) have no numbers of Suhrāb.",
+  "L03-L06: «عين من مدينة درقطٮر اوّلها عند طول كح ل والعرض مط مه (٢٣٠٧) ومصبّها فى البحر عند طول كٮ ك والعرض نب له (٢٣٠٨) *», a spring from the town درقطٮر, whose beginning is at the longitude كح ل and the latitude 49° 45′, and its mouth in the sea at the longitude 22° 20′ and the latitude 52° 35′; «عين اوّلها عند طول كه م والعرض ٮٮ ى (٢٣٠٩) مصبّها فى البحر عند طول ⟨كد⟩ ل والعرض ند ل (٢٣١٠) *», a spring whose beginning is at the longitude 25° 40′ and the latitude ٮٮ ى, and its mouth in the sea at the longitude ⟨24°⟩ 30′ and the latitude 54° 30′. «مصبّها» (L06) stands without و; (2309) and (2310) have no numbers of Suhrāb.",
+  "L03: «درقطٮر»: د, ر, the ق with its two dots and the ط, then a tooth without a dot, 19 px above the joining stroke, and the ر, whose head rises beside it as a separate stroke. The town is entry 512 of the table of the cities, «درڡطٯ» (frame 042, L02), at the longitude 28° 30′ and the latitude 49° 20′, where the editor gives the form of this entry (2307) as درقطٮر.",
+  "L06-L08: «نهر ماسو⟨س⟩ اوّله عند طول لح {z} والعرض ٮا م (٢٣١١) مصبّه فى البحر عند طول ل ل والعرض ٮح {z} (٢٣١٢) *», the river ماسو⟨س⟩, whose beginning is at the longitude 38° 0′ and the latitude ٮا م, and its mouth in the sea at the longitude 30° 30′ and the latitude ٮح ō. «مصبّه» stands without و.",
+  "L08-L10: «نهر عاٮوس اوّله عند طول ما ل والعرض ⟨نب⟩ {z} (٢٣١٣) يمرّ مماسّاً لجبل مٮلٮاو ومصبّه فى البحر عند طول لٮ {z} والعرض نط {z} (٢٣١٤) *», the river عاٮوس, whose beginning is at the longitude 41° 30′ and the latitude ⟨52°⟩ 0′; it passes touching the mountain مٮلٮاو, and its mouth in the sea is at the longitude لٮ ō and the latitude 59° 0′. «عاٮوس»: the ع, the alif, a tooth without a dot, 20 px high, joined to a و, and the final س.",
+  "L09: «مٮلٮاو»: an initial م; a low tooth without a dot, rising 6 px above the joining stroke; the ل; a second low tooth without a dot, rising 6 px; the alif; and a final و. The mountain is entries 895-896 of the table of the mountains, «جبل مٮلٮاق» (frame 068, L02), whose boundaries are at 34° 40′ and 52° 30′ and at 39° 0′ and 52° 30′ (frame 069, L02); the editor's note b there gives the form of this entry (2314), مٮلٮاو, with the same strokes.",
+  "L10-L11: «عين من جبل اسڡٮٮورقيون اوّله عند طول لط ن والعرض ٮو م (٢٣١٥) مصبّها فى البحر عند طول لح {z} والعرض ٮح ك (٢٣١٦) *», a spring from the mountain اسڡٮٮورقيون; its beginning is at the longitude 39° 50′ and the latitude ٮو م, and its mouth in the sea at the longitude 38° 0′ and the latitude ٮح ك. «اوّله» stands with the pronoun of the masculine after «عين», and «مصبّها» without و.",
+  "L10: «اسڡٮٮورقيون»: the alif; the three teeth of a س; an upright loop without dots, 14 px wide and 16 px high, with a white counter; two low teeth without dots, 5 to 6 px high; a و with its round head and its tail; then «رقيون», with the two dots of the ق and of the ي and the dot of the ن. The mountain is entries 899-900 of the table of the mountains, «جبل اسڡورڡون» (frame 068, L04), whose first boundary is at the longitude 39° 0′ and the latitude ٮو م and whose last at 42° 40′ and 54° 45′ (frame 069, L04); the editor's note c there gives the form of this entry (2315), the same sequence of strokes.",
+  "L12-L15: «عين من هٰذا الجبل ايضاً اوّلها عند طول م {z} والعرض ٮو {z} (٢٣١٧) تمرّ الى الموضع الّذى طوله له مه والعرض نج ك (٢٣١٨) ثمّ تمرّ الى مدينة اراٮٮاسا وتدخلها وتخرج منها عند طول لط م والعرض س ل (٢٣١٩) ومصبّها فى البحر عند طول لح م والعرض سا ل (٢٣٢٠) *», a spring also from this mountain, whose beginning is at the longitude 40° 0′ and the latitude ٮو ō; it passes to the place whose longitude is 35° 45′ and latitude 53° 20′, then passes to the town اراٮٮاسا, enters it and leaves it at the longitude 39° 40′ and the latitude 60° 30′, and its mouth in the sea is at the longitude 38° 40′ and the latitude 61° 30′. The town is entry 523 of the table of the cities, «اراٮٮاسا بين البحر وخليج» (frame 042, L13), at the longitude 39° 20′ and the latitude 60° 30′; here, as there, two teeth without dots stand between the second and the third alif.",
+  "L15-L17: «عين من هٰذا الجبل ايضاً اوّلها عند طول مٮ م والعرض ٮه مه (٢٣٢١) ومصبّها فى البحر عند طول ما ه والعرض ٮح {z} (٢٣٢٢) *», a spring also from this mountain, whose beginning is at the longitude 42° 40′ and the latitude ٮه مه, the place of the last boundary of the mountain in the table, and its mouth in the sea at the longitude 41° 5′ and the latitude ٮح ō. Then «نهر اسطولس من جبل سرطاميڡا», the river اسطولس from the mountain سرطاميڡا, continued on p. 153. The mountain is entries 901-902 of the table of the mountains, «جبل سرطامڡا» (frame 068, L05), where the editor's note d gives the form of entry (2323), سرطاميڡا; here the ي has its two dots and the loop before the final alif has none.",
+  "Numerals: «كا ل» (L01, L02), 21° 30′; «ن ه» (L02), with the dot of the ن, 50° 5′; «مط مه» (L04), 49° 45′; «نب له» (L05), with the dots of the ن and of the ب, 52° 35′; «كه م» (L05), 25° 40′; «⟨كد⟩ ل» (L06), 24° 30′; «ند ل» (L06), 54° 30′; «ل ل» (L07), 30° 30′; «ما ل» (L08), 41° 30′; «⟨نب⟩ {z}» (L08), 52° 0′; «نط {z}» (L10), 59° 0′; «لط ن» (L10), 39° 50′; «م {z}» (L12), 40° 0′; «له مه» (L13), 35° 45′; «نج ك» (L13), with the dots of the ن and of the ج, 53° 20′; «لط م» (L14), 39° 40′; «س ل» (L14), 60° 30′; «سا ل» (L15), 61° 30′; «ما ه» (L17), 41° 5′. The minutes «ه» of «ن ه» (L02) and «ما ه» (L17) are the small round ring of the isolated ه, 20 px wide, 5; the ك of «ٮح ك» (L01, L11), «كٮ ك» (L04) and «نج ك» (L13) is the isolated ك with its small inner stroke, 20.",
+  "«مط ٮه» (L02), «ں ٮه» (L03) and «ٮه مه» (L16): a tooth without its dot joined to a final ه, 28 to 29 px wide, where the isolated ه is the ring of 20 px: read with ي 15, read with ن 55. «ں ٮه» (L03): the degrees are the round bowl of a final ن without its dot, 50, so 50° 15′ read with ي. «ٮه مه» (L16), the degrees of a latitude: read with ن, 55° 45′.",
+  "«كٮ ك» (L04): the degrees are a long oblique stroke over a flat bowl, 90 px wide, without the small inner stroke of the isolated ك: the ك joined to a final ب without its dot, 22, as on frame 014 (L11); 22° 20′. «لٮ {z}» (L09): the ل joined to the flat final bowl of a ب without its dot, 65 px wide, 32; 32° 0′. «مٮ م» (L16): the م joined to the same bowl, 42; 42° 40′.",
+  "«ٮٮ ى» (L05): a tooth joined to a final ب, both without dots, 63 px wide, with a tall riser and a small bump at the right end of the bowl, where the isolated ب is a bowl of about 50 px with a riser at each end: read with ن, 52° 10′, beside the mouth of the spring before it at 52° 35′ (L05); read with ي, 12. A speck of 3 by 3 px below the bowl is smaller than the dot of a ب.",
+  "A tooth without its dot in the other numerals, transcribed so: in the longitudes «ٮح ك» (L01) and «ٮح {z}» (L03), read with ي: 18° 20′ and 18° 0′; in the latitudes «ٮا م» (L07), «ٮح {z}» (L08, L17), «ٮو م» (L11), «ٮح ك» (L11) and «ٮو {z}» (L12), read with ن: 51° 40′, 58° 0′, 56° 40′, 58° 20′ and 56° 0′, beside «نط {z}», «نب له», «نج ك» and «ند ل» printed with the dot of the ن. «ٮو م» (L11) is the latitude of the first boundary of the mountain اسڡٮٮورقيون in the table.",
+  "«مح م» (L01), «ٮح» (L01, L03, L08, L11, L17), «كح ل» (L04) and «لح» (L07, L11, L15): the ح shows no dot in the bowl, where «نج ك» (L13) has the dot of the ج; the same form is a ج without its dot, 3. The town درقطٮر lies at كح ل, 28° 30′ read with ح, in the table.",
+  "L15: «لح م»: the stem of the ل, 10 px wide and 46 px high, stands 1 to 2 px apart from the ح, its joining stroke not printed; a numeral beginning with an alif before the ح does not occur. Transcribed لح, 38° 40′.",
+  "Angle brackets, each followed by a note mark, around what the editor supplies: «⟨كد⟩» (L06), the degrees of the longitude, with the mark a, both under the line over the numerals; «⟨س⟩» (L06), the last letter of «ماسو⟨س⟩», mark c; «⟨نب⟩» (L08), the degrees of the latitude, with the mark c, both under the line over the numerals. Transcribed with the brackets.",
+  "L06: the folio of the Strasbourg manuscript, «(fol. 35ᵇ)», is printed in Latin type within the line, between the longitude «⟨كد⟩ ل» and «والعرض»; transcribed as a margin note before the line.",
+  "Signs in the text, transcribed as printed: «اوّلها» (L01, L02, L03, L05, L12, L16) and «اوّله» (L07, L08, L10) with a shadda over the و; «ومصبّها» (L01, L02, L04, L15, L16), «مصبّها» (L06, L11), «مصبّه» (L07) and «ومصبّه» (L09) with a shadda over the ب; «يمرّ» (L09) and «تمرّ» (L13, twice) with a shadda over the ر; «مماسّاً» (L09) with a shadda over the س and the tanwin of the accusative over the alif; «هٰذا» (L12, L15) with a small alif over the ه; «ايضاً» (L12, L16) with the tanwin of the accusative over its alif; «الّذى» (L13) with a shadda over the ل; «ثمّ» (L13) with a shadda over the م; «فى» and «الى» end in a ى without dots.",
+  "The running numbers run (٢٣٠٣)-(٢٣٢٢) without a gap. The numbers of Suhrāb: (٢٣٠٣)-(٢٣٠٦) and (٢٣٠٩)-(٢٣١٠) have none; [٢١٤٥] and [٢١٤٦] after (٢٣٠٧) and (٢٣٠٨); [٢١٤٧]-[٢١٥٨] after (٢٣١١)-(٢٣٢٢). [٢١٥٢] and [٢١٥٣] stand at the beginnings of L12 and L13, after the running numbers at the ends of L11 and L12.",
+  "Asterisks: the small open stars with six points, after (٢٣٠٤) (L02), (٢٣٠٦) (L03), [٢١٤٦] (L05), (٢٣١٠) (L06), [٢١٤٨] (L08), [٢١٥٠] (L10), [٢١٥٢] (L12), [٢١٥٦] (L15) and [٢١٥٨] (L17), are transcribed as asterisks.",
+  "Note marks: L06, a after «⟨كد⟩», under the line over the numerals, b after the latitude and c after «⟨س⟩»; L08, c after «⟨نب⟩», under the line over the numerals.",
+  "Marks not transcribed: L07, a small speck after «فى»; small specks of the impression.",
+  "The editor's footnotes stand in three lines below a short rule at the left: notes a-c; note c serves the brackets of L06 and L08. The page number «— ١٥٢ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

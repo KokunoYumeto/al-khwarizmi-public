@@ -1,0 +1,252 @@
+{
+ "anchor": "AK01-F104",
+ "frame": 104,
+ "frame_file": "page_104.jpg",
+ "frame_sha256": "57c261adff39b5f051384bf81e145452146d9da009f4162bb21d9f759752ef08",
+ "printed_page": "٨٨",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 104, printed p. 88: the problem of frame 103 (three sons, two daughters, four bequests) worked with the dirham whole: the quarter of the estate taken as six and the estate as twenty-four; from the quarter a share and a dirham, a fifth of the rest and another dirham: the bequests from the quarter are three and four fifths of a share; from the third, eight, these are taken, a quarter of the rest and a dirham, and the eighth of the estate, three: the third is short by a quarter of a part and three fifths of a share; from the two thirds, sixteen, fifteen parts and three quarters remain less three fifths of a share, equal to eight shares: a daughter's share one part and a hundred and forty-three of a hundred and seventy-two. Then the same with whole parts: from a quarter of the estate a share, a dirham, a fifth of the rest and a dirham: the bequests from the quarter twelve parts of two hundred and forty and four fifths of a share and a dirham and four fifths; from the third, eighty, these are taken, then a quarter of the rest and a dirham: fifty-one less three fifths of a share and ..., continued on the next page. The values check exactly.",
+ "lines": [
+  {
+   "id": "AK01-F104-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "تخرج الدرهم صحاحاً وهو فى هذا الوجه أحسن وهو أن تأخذ ربع مال وتسميه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "فاجعله ستة والمال أربعة وعشرون . فالق من الربع نصيبا فيبقى ستة غير نصيب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "ثم الق درهما فتبقى خمسة غير نصيب فالق خمس ما تبقى فيبقى أربعة غير أربعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "أخماس نصيب ثم الق درهما آخر فيبقى معك ثلاثة غير أربعة أخماس نصيب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "فقد علمت أن الوصية من الربع ثلثة وأربعة أخماس نصيب ثم ارجع الى الثلث",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "وهو ثمانية فالق منه ثلاثة واربعة اخماس نصيب فتبقى خمسة غير اربعة اخماس",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "نصيب فيلغى ربع ذلك ايضا للوصية ودرهما فيبقى معك سهمان وثلاثة ارباع",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "سهم الا ثلاثة اخماس نصيب ثم الق ثمن المال وهو ثلاثة فيبقى عليك بعد الثلث",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "ربع سهم وثلاثة اخماس نصيب فارجع الى الثلثين وهما ستة عشر فالق من ذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "ربع واحد وثلاثة اخماس نصيب فيبقى من المال خمسة عشر سهما وثلاثة ارباع",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "سهم غير ثلاثة اخماس نصيب فاجبر ذلك بثلاثة أخماس نصيب وزدها على",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "الانصباء وهى ثمانية فيكون خمسة عشر سهماً وثلاثة أرباع سهم تعدل ثمانية أنصباء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "وثلاثة أخماس نصيب فاقسم ذلك عليه فما بلغ فهو القسم وهو النصيب والمال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "أربعة وعشرون ويكون لكل بنت سهم ومائة وثلاثة وأربعون جزءاً من مائة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "واثنين وسبعين جزءا من سهم . فان أردت أن تخرج السهام صحيحة فخذ ربع مال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "فالق منه نصيباً فيبقى ربع مال الا نصيباً ثم الق منه درهما ثم الق خمس ما بقى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "من الربع وهو خمس ربع مال الا خمس نصيب والا خمس درهم والق درهما",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "ثانياً فيبقى أربعة أخماس الربع الا أربعة أخماس نصيب والا درهما وأربعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "أخماس درهم فالوصية من الربع اثنى عشر سهماً من مائتين وأربعين سهماً من مال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "وأربعة أخماس نصيب ودرهم وأربعة أخماس درهم فخذ الثلث وهو ثمانون فالق",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "منه اثنى عشر وأربعة أخماس نصيب ودرهما وأربعة أخماس درهم ثم الق ربع مابقى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F104-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "معك ودرهما فيبقى معك من الثلث أحد وخمسون الا ثلاثة أخماس نصيب والا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The ending ـقى is printed in two forms on this page: in L02-L10 with the flat, sweeping tail of the final ى, as in فيبقى (L02), فتبقى and تبقى (L03); in L16-L22 with a deep, round bowl hanging from the loop of the ق, which has the shape of the final ق of الق (L16), in فيبقى (L16, L18, L22), بقى (L16) and مابقى (L21), where the yā' of بقى is certain. Both forms are transcribed ـقى.",
+  "L05: ثلثة (L05), as printed, three, without the alif that ثلاثة has on this page (L04, L06).",
+  "L08-L09: «فيبقى عليك بعد الثلث ربع سهم وثلاثة اخماس نصيب», as printed: after the eighth of the estate is cast away, the bequests exceed the third by a quarter of a part and three fifths of a share, which are taken from the two thirds (L09-L10); the heirs have consented to the bequests (frame 103, L16).",
+  "Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): مابقى (L21; 16 between the alif and the ب, where ما بقى in L16 has 32 and ما تبقى in L03 28).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: تأخذ ربع (L01; 16 between the ذ and the ر, where فخذ الثلث in L20 has 24 and بعد الثلث in L08 20, and the د stands 3 to 8 px from the ع in أحدعشر on frames 056 and 062; in doubt, the space is written); الانصباء وهى (L12; 15 between the hamza on the line and the conjunction و, as أجزاء من on frame 098, 15; in doubt, the space is written); خمسة عشر (L12; 16 between the ة and the ع) and صحيحة فخذ (L15; 17 between the ة and the ف), at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one. The لا stands 28 px from the خ in الا خمس and والا خمس (L17), where it stands 20 to 26 px from the next letter without a space (والانصيباً on frame 103, 22); a word space is transcribed.",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: الوجه أحسن (L01), ثم الق (L03), مائتين وأربعين (L19), الق ربع, ربع مابقى (L21).",
+  "The full stops (gaps as the nearest approach of the ink at 400 ppi) stand between spaces: after وعشرون, before فالق (L02; 25 and 25), and after سهم, before فان (L15; 27 and 25).",
+  "Plain alif where a hamza might be expected, as printed: فاجعله, فالق (L02), الق, فالق (L03), الق (L04), ارجع, الى (L05), فالق, واربعة, اخماس, اربعة, اخماس (L06), ايضا, ارباع (L07), الا, اخماس, الق (L08), اخماس, فارجع, الى, فالق (L09), اخماس, ارباع (L10), اخماس, فاجبر (L11), الانصباء (L12), فاقسم (L13), واثنين, فان (L15), فالق, الا (L16), الق (L16, twice), الا, والا, والق (L17), الا, والا (L18), اثنى (L19), فالق (L20), اثنى, الق (L21), الا, والا (L22); with hamza: أحسن, أن, تأخذ (L01), أربعة (L02), أربعة (L03, twice), أخماس (L04, twice), أربعة (L04), أن, وأربعة, أخماس (L05), أخماس (L11, the second), أرباع, أنصباء (L12), أخماس (L13), أربعة, وأربعون (L14), أردت, أن (L15), أربعة (L18, twice), أخماس (L18, twice), وأربعة (L18), أخماس, وأربعين (L19), وأربعة (L20, twice), أخماس (L20, twice), وأربعة (L21, twice), أخماس (L21, twice), أحد, أخماس (L22); with madda: آخر (L04); on ي: ومائة, مائة (L14), مائتين (L19); the hamza on the line: الانصباء, أنصباء (L12), جزءاً (L14), جزءا (L15).",
+  "With tanwīn on the final alif: صحاحاً (L01), سهماً (L12; L19, twice), جزءاً (L14), نصيباً (L16, twice), ثانياً (L18); without tanwīn as printed: نصيبا (L02), درهما (L03, L04, L16, L17, L18), ايضا, ودرهما (L07), سهما (L10), جزءا (L15), ودرهما (L21, L22).",
+  "The final yā' is printed without dots: فى (L01), فيبقى (L02, L03, L04, L07, L08, L10, L16, L18, L22), فتبقى, تبقى (L03), الى (L05), فتبقى (L06), فيلغى (L07), الى (L09), على (L11), وهى (L12), بقى (L16), اثنى (L19), اثنى, مابقى (L21).",
+  "The print stretches أخماس (L04, the second, and L11, the second, between the م and the alif), فيبقى (L08, between the ي and the ب), والمال (L13, between the م and the alif), لكل (L14, between the ل and the ك), منه (L16, the second, between the ن and the ه) and وأربعة (L18, between the ع and the ة) with the elongation stroke; the stroke is not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

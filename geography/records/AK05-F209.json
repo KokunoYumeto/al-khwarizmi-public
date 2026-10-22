@@ -1,0 +1,83 @@
+{
+ "anchor": "AK05-F209",
+ "frame": 209,
+ "frame_file": "page_209.jpg",
+ "frame_sha256": "a724f7cc528ad237b61b123d85945ad7ffb0844fbbbf5c101806daf4be478194",
+ "printed_page": "-",
+ "kind": "title",
+ "role": "MODERN_EDITORIAL (title page)",
+ "comment": "Frame 209: the back of the German title page (frame 210): the imprint of the printer of the text and of the plates.",
+ "lines": [
+  {
+   "id": "AK05-F209-L01",
+   "n": 1,
+   "kind": "latin",
+   "text": "BUCHDRUCK VON ADOLF HOLZHAUSEN,",
+   "margin": null,
+   "cells": null,
+   "plain": "BUCHDRUCK VON ADOLF HOLZHAUSEN,",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F209-L02",
+   "n": 2,
+   "kind": "latin",
+   "text": "UNIVERSITÄTSBUCHDRUCKER IN WIEN,",
+   "margin": null,
+   "cells": null,
+   "plain": "UNIVERSITÄTSBUCHDRUCKER IN WIEN,",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F209-L03",
+   "n": 3,
+   "kind": "latin",
+   "text": "VII., KANDLGASSE 19—21",
+   "margin": null,
+   "cells": null,
+   "plain": "VII., KANDLGASSE 19—21",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F209-L04",
+   "n": 4,
+   "kind": "latin",
+   "text": "LICHTDRUCK VON MAX JAFFÉ,",
+   "margin": null,
+   "cells": null,
+   "plain": "LICHTDRUCK VON MAX JAFFÉ,",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F209-L05",
+   "n": 5,
+   "kind": "latin",
+   "text": "WIEN, XVII., LEOPOLD-ERNST-GASSE 36",
+   "margin": null,
+   "cells": null,
+   "plain": "WIEN, XVII., LEOPOLD-ERNST-GASSE 36",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The imprint stands in the middle of the page, in small Roman capitals: the text was printed (letterpress) by Adolf Holzhausen, university printer in Vienna, VII., Kandlgasse 19-21, and the plates (collotype) by Max Jaffé, Vienna, XVII., Leopold-Ernst-Gasse 36. «LICHTDRUCK VON MAX JAFFÉ» is letter-spaced. The figures of «19—21» are old-style. The title page of frame 210 shows through faintly from the other side of the leaf.",
+  "The German front matter is bound at the end of the volume, which opens from the right: the title leaves (frames 209-214) and the introduction (frames 182-208) are read from frame 214 back to frame 182. The Arabic title page of 1926 is frame 007."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

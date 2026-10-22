@@ -1,0 +1,4 @@
+@page 1 -
+@kind binding
+% JP2 0001: the front cover of the library's binding.
+@obs The front cover of the binding, of dark, textured cloth, without lettering on the side; photographed in low light.

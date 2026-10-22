@@ -1,0 +1,358 @@
+{
+ "anchor": "AK05-F068",
+ "frame": 68,
+ "frame_file": "page_068.jpg",
+ "frame_sha256": "e34075bf7542ca16dd19404bdc8ac1717fd16f7ee07965a196684f7fa8e077c8",
+ "printed_page": "٦٢",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 068, printed p. 62: the right-hand page of the opening pp. 62-63 of the table of the mountains beyond the seventh clime: the numbers and names of eighteen entries, 893/894-927/928, among them Fālī and Qālī, a mountain joined to this mountain, two watchtowers built by Dhū l-Qarnayn, Qarmāniyā and Rūmīqā, with three mountains without a name; the folio of the manuscript, «(fol. 16ᵃ)», in the margin. Four lines of the editor's footnotes, continued from the foot of p. 63.",
+ "lines": [
+  {
+   "id": "AK05-F068-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٨٩٣ ٨٩٤) | [١٣٨٣ ١٣٨٤] | جبل ٮوٮونا",
+   "margin": null,
+   "cells": [
+    "(٨٩٣ ٨٩٤)",
+    "[١٣٨٣ ١٣٨٤]",
+    "جبل ٮوٮونا"
+   ],
+   "plain": "(٨٩٣ ٨٩٤) | [١٣٨٣ ١٣٨٤] | جبل ٮوٮونا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٨٩٥ ٨٩٦) | [١٣٨٥ ١٣٨٦] | جبل مٮلٮاق{n:b}",
+   "margin": null,
+   "cells": [
+    "(٨٩٥ ٨٩٦)",
+    "[١٣٨٥ ١٣٨٦]",
+    "جبل مٮلٮاق{n:b}"
+   ],
+   "plain": "(٨٩٥ ٨٩٦) | [١٣٨٥ ١٣٨٦] | جبل مٮلٮاق",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٨٩٧ ٨٩٨) | [١٣٩١ ١٣٩٢] | جبل سورطاٮا",
+   "margin": null,
+   "cells": [
+    "(٨٩٧ ٨٩٨)",
+    "[١٣٩١ ١٣٩٢]",
+    "جبل سورطاٮا"
+   ],
+   "plain": "(٨٩٧ ٨٩٨) | [١٣٩١ ١٣٩٢] | جبل سورطاٮا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٨٩٩ ٩٠٠) | [١٣٨٧ ١٣٨٨] | جبل اسڡورڡون{n:c}",
+   "margin": null,
+   "cells": [
+    "(٨٩٩ ٩٠٠)",
+    "[١٣٨٧ ١٣٨٨]",
+    "جبل اسڡورڡون{n:c}"
+   ],
+   "plain": "(٨٩٩ ٩٠٠) | [١٣٨٧ ١٣٨٨] | جبل اسڡورڡون",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٩٠١ ٩٠٢) | [١٣٨٩ ١٣٩٠] | جبل سرطامڡا{n:d}",
+   "margin": null,
+   "cells": [
+    "(٩٠١ ٩٠٢)",
+    "[١٣٨٩ ١٣٩٠]",
+    "جبل سرطامڡا{n:d}"
+   ],
+   "plain": "(٩٠١ ٩٠٢) | [١٣٨٩ ١٣٩٠] | جبل سرطامڡا",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٩٠٣ ٩٠٤) | [١٣٩٣ ١٣٩٤] | جبل ڡرطس",
+   "margin": null,
+   "cells": [
+    "(٩٠٣ ٩٠٤)",
+    "[١٣٩٣ ١٣٩٤]",
+    "جبل ڡرطس"
+   ],
+   "plain": "(٩٠٣ ٩٠٤) | [١٣٩٣ ١٣٩٤] | جبل ڡرطس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٩٠٥ ٩٠٦) | [١٣٩٥ ١٣٩٦] | جبل فالى",
+   "margin": null,
+   "cells": [
+    "(٩٠٥ ٩٠٦)",
+    "[١٣٩٥ ١٣٩٦]",
+    "جبل فالى"
+   ],
+   "plain": "(٩٠٥ ٩٠٦) | [١٣٩٥ ١٣٩٦] | جبل فالى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٩٠٧ ٩٠٨) | [١٣٩٧ ١٣٩٨] | جبل قالى",
+   "margin": null,
+   "cells": [
+    "(٩٠٧ ٩٠٨)",
+    "[١٣٩٧ ١٣٩٨]",
+    "جبل قالى"
+   ],
+   "plain": "(٩٠٧ ٩٠٨) | [١٣٩٧ ١٣٩٨] | جبل قالى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٩٠٩ ٩١٠) | [١٣٩٩ ١٤٠٠] | جبل",
+   "margin": null,
+   "cells": [
+    "(٩٠٩ ٩١٠)",
+    "[١٣٩٩ ١٤٠٠]",
+    "جبل"
+   ],
+   "plain": "(٩٠٩ ٩١٠) | [١٣٩٩ ١٤٠٠] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٩١١ ٩١٢) | [١٤٠١ ١٤٠٢] | جبل",
+   "margin": null,
+   "cells": [
+    "(٩١١ ٩١٢)",
+    "[١٤٠١ ١٤٠٢]",
+    "جبل"
+   ],
+   "plain": "(٩١١ ٩١٢) | [١٤٠١ ١٤٠٢] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٩١٣ ٩١٤) | [١٤٠٣ ١٤٠٤] | جبل ٮادنس",
+   "margin": null,
+   "cells": [
+    "(٩١٣ ٩١٤)",
+    "[١٤٠٣ ١٤٠٤]",
+    "جبل ٮادنس"
+   ],
+   "plain": "(٩١٣ ٩١٤) | [١٤٠٣ ١٤٠٤] | جبل ٮادنس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٩١٥ ٩١٦) | [١٤٠٥ ١٤٠٦] | جبل دٮڡا{n:g}",
+   "margin": "(fol. 16ᵃ)",
+   "cells": [
+    "(٩١٥ ٩١٦)",
+    "[١٤٠٥ ١٤٠٦]",
+    "جبل دٮڡا{n:g}"
+   ],
+   "plain": "(٩١٥ ٩١٦) | [١٤٠٥ ١٤٠٦] | جبل دٮڡا",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٩١٧ ٩١٨) | [١٤٠٧ ١٤٠٨] | جبل",
+   "margin": null,
+   "cells": [
+    "(٩١٧ ٩١٨)",
+    "[١٤٠٧ ١٤٠٨]",
+    "جبل"
+   ],
+   "plain": "(٩١٧ ٩١٨) | [١٤٠٧ ١٤٠٨] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٩١٩ ٩٢٠) | [١٤٠٩ ١٤١٠] | جبل متّصل بهٰذا الجبل",
+   "margin": null,
+   "cells": [
+    "(٩١٩ ٩٢٠)",
+    "[١٤٠٩ ١٤١٠]",
+    "جبل متّصل بهٰذا الجبل"
+   ],
+   "plain": "(٩١٩ ٩٢٠) | [١٤٠٩ ١٤١٠] | جبل متّصل بهٰذا الجبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٩٢١ ٩٢٢) | [١٤١١ ١٤١٢] | جبل افيقا{n:l}",
+   "margin": null,
+   "cells": [
+    "(٩٢١ ٩٢٢)",
+    "[١٤١١ ١٤١٢]",
+    "جبل افيقا{n:l}"
+   ],
+   "plain": "(٩٢١ ٩٢٢) | [١٤١١ ١٤١٢] | جبل افيقا",
+   "note_marks": [
+    "l"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٩٢٣ ٩٢٤) | [١٤١٣ ١٤١٤] | منظرتان{n:m} بناهما ذو القرنين",
+   "margin": null,
+   "cells": [
+    "(٩٢٣ ٩٢٤)",
+    "[١٤١٣ ١٤١٤]",
+    "منظرتان{n:m} بناهما ذو القرنين"
+   ],
+   "plain": "(٩٢٣ ٩٢٤) | [١٤١٣ ١٤١٤] | منظرتان بناهما ذو القرنين",
+   "note_marks": [
+    "m"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(٩٢٥ ٩٢٦) | [١٤١٥ ١٤١٦] | جبل قرمانيا{n:n}",
+   "margin": null,
+   "cells": [
+    "(٩٢٥ ٩٢٦)",
+    "[١٤١٥ ١٤١٦]",
+    "جبل قرمانيا{n:n}"
+   ],
+   "plain": "(٩٢٥ ٩٢٦) | [١٤١٥ ١٤١٦] | جبل قرمانيا",
+   "note_marks": [
+    "n"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F068-L18",
+   "n": 18,
+   "kind": "row",
+   "text": "(٩٢٧ ٩٢٨) | [١٤١٧ ١٤١٨] | جبل روميقا{n:o}",
+   "margin": null,
+   "cells": [
+    "(٩٢٧ ٩٢٨)",
+    "[١٤١٧ ١٤١٨]",
+    "جبل روميقا{n:o}"
+   ],
+   "plain": "(٩٢٧ ٩٢٨) | [١٤١٧ ١٤١٨] | جبل روميقا",
+   "note_marks": [
+    "o"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L02: at entry (2314) the name is written مٮلٮاو, with the strokes of the name on this page and a final و (note b, printed at the foot of p. 63).",
+  "L04: at entry (2315) the name is written with an alif and a س, an upright loop without dots, a low tooth without a dot and a small low loop, then «ورقيون», with the two dots of the ق and of the ي and the dot of the ن (note c, printed at the foot of p. 63).",
+  "L05: at entry (2323) the name is written سرطاميڡا (note d, printed at the foot of p. 63).",
+  "L12: at entry (2376) the name is written دقيا, with a variant reading ريقا, and at entry (2378) دقيا, with a variant reading ديڡا (note g, printed at the foot of p. 63).",
+  "L15: at entries (2365) and (2383) the name is written اڡقا, at (2367) افقا, at (2369) اڡيڡا, at (2371) اڡيفا and at (2373) اڡٮڡا (note l).",
+  "L16: the manuscript has منظرتين, the oblique case of the dual (note m).",
+  "L17: at entry (2391) the name is written ڡرمانيا, a loop without dots joined to a ر (note n).",
+  "L18: at entry (2395) the name is written in the same way, at (2397) زوميڡا, and at (2399) with a gap, marked by six dots between angle brackets, before «ڡا», ⟨......⟩ڡا (note o)."
+ ],
+ "unresolved": [
+  "L02: the first low tooth, between the م and the ل, may also belong to the joining stroke of the initial م: ملٮاق. Transcribed مٮلٮاق."
+ ],
+ "observations": [
+  "The table of the mountains beyond the seventh clime goes on across the opening pp. 62-63, without a heading: each line of p. 62 is continued by the same line of p. 63 (frame 069), which gives the boundaries, the colour and the direction. The running numbers go on from entry 891/892 (frame 066) and run (٨٩٣ ٨٩٤)-(٩٢٧ ٩٢٨). The numbers of Suhrāb run from [١٣٨٣ ١٣٨٤] to [١٤١٧ ١٤١٨] without a gap, but not in order: L03 has [١٣٩١ ١٣٩٢], and L04 and L05 have [١٣٨٧ ١٣٨٨] and [١٣٨٩ ١٣٩٠]. The folio of the Strasbourg manuscript, «(fol. 16ᵃ)», is printed in Latin type in the right margin beside entry 915/916 (L12).",
+  "L09, L10, L13: the word «جبل» alone. L14: «جبل متّصل بهٰذا الجبل», a mountain joined to this mountain, with a shadda over the ت of «متّصل» and a dagger alif over the ه of «بهٰذا». L16: «منظرتان بناهما ذو القرنين», two watchtowers that Dhū l-Qarnayn built, the only entry of the page that does not begin with «جبل». L07: «فالى», with the dot of the ف, and L08: «قالى», with the two dots of the ق; both end in a ى without dots. L15: «افيقا», L17: «قرمانيا» and L18: «روميقا», with all their dots.",
+  "L01: «ٮوٮونا»: two teeth without dots, each joined to a و, then a tooth with the dot of a ن joined to the final alif. L03: «سورطاٮا»: the tooth before the final alif has no dot. L11: «ٮادنس»: the tooth joined to the alif has no dot, and the tooth before the final س has the dot of a ن.",
+  "L02: «مٮلٮاق»: an initial م; a low tooth without a dot, rising 7 px above the joining stroke; a ل; a second low tooth without a dot, rising 6 px; the alif; and a final ق with its two dots. The second tooth stands between the ل and the alif, which are therefore not joined in the ligature «لا»; the initial م of «قرمانيا» (L17) joins its alif without a tooth. The editor's note b prints the same sequence of strokes with a final و.",
+  "L04: «اسڡورڡون»: after the three teeth of the س, an upright loop without dots, 14 px wide and 18 px high, with a white counter, and after the ر another, 16 by 21 px, each followed by a و; the final ن has its dot. Both loops have the form of the loop of ف or ق without dots (frame 066, L07); transcribed ڡ. L05: «سرطامڡا»: an upright loop without dots between the م and the final alif; transcribed ڡ. L06: «ڡرطس»: the initial loop has no dots; transcribed ڡ. L12: «دٮڡا»: a tooth without a dot and an upright loop without dots before the final alif.",
+  "L11: the closing bracket of [١٤٠٣ ١٤٠٤], at the left, is printed with its upper arm only, the lower end of its stroke a speck; transcribed as a bracket. L13: a thin oblique stroke, about 20 px long, above the ٤ of ١٤٠٨, much thinner than the type; not transcribed.",
+  "The editor's footnotes of the opening begin at the foot of p. 63 (frame 069) with notes a-g and continue here in four lines with notes h, i, k, l, m, n and o. The texts of notes b, c, d and g, whose marks stand on this page (L02, L04, L05, L12), are printed on p. 63; the marks of notes h, i and k stand on p. 63 (frame 069, L13, L14). In note l, a thin hooked tick, about 8 px long, stands above the first loop of the last form; it is smaller than a dot and is not taken as one. In note o, the gap at entry (2399) is marked by six dots between angle brackets.",
+  "The page number «— ٦٢ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

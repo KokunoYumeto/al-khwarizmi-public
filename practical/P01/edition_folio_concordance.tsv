@@ -1,0 +1,67 @@
+text	section	study_pdf_page	study_printed_page	folio_where_it_begins	folio_markers_printed_in_the_edition	seen_on_the_leaves	order_note
+Text 1	opening	PDF010	110	77v	78r	77v: basmala and red «صنعة الاسطرلاب»	-
+Text 1	table	PDF011	111	78r (foot: title), 78v (body)	78r, 78v	78r: red «جدول» and the four lines of the title at the foot of the page; 78v: the table	reordered: the edition prints the title and the table before the paragraph headed «الكواكب», which stands above the title on 78r and continues on 79r
+Text 1	«الكواكب»	PDF012	112	78r (middle)	78r, 79r, 79v	78r: red «الكواكب» in mid-page; 79r: red «عمل المقنطرات بالهندسة»	see the row above
+Text 1	figures	PDF013	113	79v	80r, 80v	80r and 80v: the figures (80r labelled «الدايرة الاولى»)	-
+Text 1	end	PDF014	114	81r	81r, 81v	81r: red «عمل الظل في ظهر الاسطرلاب بالهندسة»; 81v:1-3	-
+Text 2	[1]	PDF015	115	81v (line 4)	81v, 82r	81v:4: «قال محمد بن موسى الخوارزمي…»	-
+Text 2	[2a]	PDF015	115	82r	-	-	-
+Text 2	[2b]	PDF015	115	82r	82v	-	-
+Text 2	[2c]	PDF015	115	82v	-	-	-
+Text 2	[2d]	PDF015	115	82v	83r	-	-
+Text 2	[3]	PDF016	116	83r	83v	-	-
+Text 2	[4a]	PDF016	116	83v	-	-	-
+Text 2	[4b]	PDF016	116	83v	84r	-	-
+Text 2	[5a]	PDF017	117	84r	-	-	-
+Text 2	[5b]	PDF017	117	84r	-	-	-
+Text 2	[5c]	PDF017	117	84r	-	-	-
+Text 2	[6]	PDF017	117	84r	84v	-	-
+Text 2	[7]	PDF017	117	84v	-	-	-
+Text 2	[8]	PDF017	117	84v	-	-	-
+Text 2	[9a]	PDF017	117	84v	-	-	-
+Text 2	[9b]	PDF017	117	84v	85r	-	-
+Text 2	[10]	PDF018	118	85r	-	-	-
+Text 2	[11a]	PDF018	118	85r	-	-	-
+Text 2	[11b]	PDF018	118	85r	85v	-	-
+Text 2	[12a]	PDF018	118	85v	-	-	-
+Text 2	[12b]	PDF018	118	85v	-	-	-
+Text 2	[12c]	PDF018	118	85v	-	-	-
+Text 2	[13]	PDF018	118	85v	-	-	-
+Text 2	[14]	PDF018	118	85v	86r	-	-
+Text 2	[15a]	PDF019	119	86r	-	-	-
+Text 2	[15b]	PDF019	119	86r	-	-	-
+Text 2	[16]	PDF019	119	86r	86v	-	-
+Text 2	[17]	PDF019	119	86v	-	-	-
+Text 2	[18]	PDF019	119	86v	87r	-	-
+Text 2	[19]	PDF020	120	87r	-	-	-
+Text 2	[20]	PDF020	120	87r	-	-	-
+Text 2	[21]	PDF020	120	87r	-	-	-
+Text 2	[22a]	PDF020	120	87v (top)	87v	-	-
+Text 2	[22b]	PDF020	120	87v	-	-	-
+Text 2	[23]	PDF020	120	87v	88r	-	-
+Text 2	[24]	PDF021	121	88r (foot)	88v	88r foot: red centred «معرفة مطرح الشعاع بالاسطرلاب»	-
+Text 2	[25]	PDF021	121	88v	-	88v: red centred «تحويل سني المواليد بالاسطرلاب»	-
+Text 2	[26a]	PDF021	121	88v	-	-	-
+Text 2	[26b]	PDF021	121	88v	89r	-	-
+Text 2	[26c]	PDF022	122	89v:7-11	89v:7-11	89v:7: begins with red «ووجدت» in «ووجدت في نسخة اخرى اذا اردت ان تعلم طالع السنة»; 89v:11 ends «فاعلم ذلك ان شا الله تعالى»	reordered: the edition's sequence differs from the manuscript's here; on the leaves the order is [27] [28a] [28b] (89r), [28c] (89v:1-6), [26c] (89v:7-11), [29] (89v:12-90r:10), [28d] [28e] (90r:11-17)
+Text 2	[27]	PDF022	122	89r (continued)	89r (cont.)	89r: red «معرفة المدينة التي انت فيها جنوبية او شمالية»	reordered: the edition's sequence differs from the manuscript's here; on the leaves the order is [27] [28a] [28b] (89r), [28c] (89v:1-6), [26c] (89v:7-11), [29] (89v:12-90r:10), [28d] [28e] (90r:11-17)
+Text 2	[28a]	PDF022	122	89r	-	89r: red «معرفة طلوع الفجر ومغيب الشفق»	-
+Text 2	[28b]	PDF022	122	89r	-	89r: red «مغيب الشفق»	-
+Text 2	[28c]	PDF022	122	89v:1-6	89v:1-6	89v:1: red «معرفة وقت الظهر والعصر» at the head of the page	reordered: the edition's sequence differs from the manuscript's here; on the leaves the order is [27] [28a] [28b] (89r), [28c] (89v:1-6), [26c] (89v:7-11), [29] (89v:12-90r:10), [28d] [28e] (90r:11-17)
+Text 2	[28d]	PDF022	122	90r:11-17	90r:11-17	90r:11: red «وقت الظهر» within the line	reordered: the edition's sequence differs from the manuscript's here; on the leaves the order is [27] [28a] [28b] (89r), [28c] (89v:1-6), [26c] (89v:7-11), [29] (89v:12-90r:10), [28d] [28e] (90r:11-17)
+Text 2	[28e]	PDF022	122	90r:11-17	-	-	reordered: the edition's sequence differs from the manuscript's here; on the leaves the order is [27] [28a] [28b] (89r), [28c] (89v:1-6), [26c] (89v:7-11), [29] (89v:12-90r:10), [28d] [28e] (90r:11-17)
+Text 2	[29]	PDF023	123	89v:12-17	89v:12-17, 90r:1-10	89v:12: red «معرفة السمت»	reordered: the edition's sequence differs from the manuscript's here; on the leaves the order is [27] [28a] [28b] (89r), [28c] (89v:1-6), [26c] (89v:7-11), [29] (89v:12-90r:10), [28d] [28e] (90r:11-17)
+Text 2	[30a]	PDF023	123	90v (top)	90v, 91r	90v: red «معرفة وقت طلوع القمر» at the head of the page	-
+Text 2	[30b]	PDF023	123	91r	-	91r: red «معرفة الطالع بالاسطرلاب من القمر»	-
+Text 2	[30c]	PDF024	124	91r	91v	-	-
+Text 2	[31]	PDF024	124	91v	-	91v:2: red «اذا اردت ان تعرف انصاف النهار»	-
+Text 2	[31b]	PDF024	124	91v (to line 7)	-	-	-
+Text 3	whole	PDF024-026	124-126	91v:8	91v, 92r, 94r	91v:8 red «عمل بركار…»; 92r:6 red «صفة العمل بهذا البيكار»; 94r the table	reordered: the table of 94r is printed with the text it belongs to (p. 106)
+Text 4	whole	PDF026-027	126-127	92r:17	92r, 92v (the figure of 93r on p. 127)	92r:17 red «عمل صفيحة…»; 93r the figure	-
+Text 5	whole	PDF027	127	96r	96r	96r «باب معرفة العلة…»	-
+Text 6	whole	PDF028	128	96r	96r, 96v	96r red «مطرح الشعاع بالاسطرلاب»	-
+Text 7	whole	PDF028	128	96v	96v	96v red «قسمة بطلميوس الطرائق الخمس»	-
+Text 8	whole	PDF028-029	128-129	96v	96v, 97r, 97v	96v red «عمل ربع…»; 97r red «صفة العمل بهذا الربع اذا عمل»	-
+Text 9	whole	PDF030	130	A 198v	198v, 199r	not seen	-
+Text 10	whole	PDF031-032	131-132	A 196v	196v, 197r	not seen	-
+Text 11	whole	PDF033-034	133-134	A 192r	192r	not seen	-

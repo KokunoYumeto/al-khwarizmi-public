@@ -1,0 +1,32 @@
+@page 262 230
+@lang la
+% JP2 0262: Tab. 115, p. 230: the table of the conversion of the years of nativity, in O only: the excess of ten to a
+% hundred and of one to ten years over whole days, in days, hours and minutes and in degrees, minutes and seconds,
+% with the apparatus (notes 1-2 and a-c).
+@ml O 158{sup:r}.
+@c {b:[Tabula conversionis annorum nativitatis]}
+@tw size=scriptsize span=1.04 0.6 0.63 0.63 0.63 0.6 0.63 0.63 0.63 0.6 0.63 0.63 0.63 0.6 0.63 0.63 0.63
+@t Anni | Conversio |  |  | Anni | Conversio |  |  | Anni | Conversio |  |  | Anni | Conversio |  |
+@t deceni | annorum |  |  | singu- | annorum |  |  | deceni | annorum |  |  | singu- | annorum |  |
+@t  | nativitatis |  |  | lares | nativitatis |  |  |  | nativitatis |  |  | lares | nativitatis |  |
+@t  | decennorum |  |  |  | singularium |  |  |  | decennorum |  |  |  | singularium |  |
+@t  | {b:Dies} | {b:Horae} | {b:Min.} |  | {b:Dies} | {b:Horae} | {b:Min.} |  | {b:Gr.} | {b:Min.}{sup:1}) | {b:Sec.}{sup:2}) |  | {b:Gr.} | {b:Min.}{sup:1}) | {b:Sec.}{sup:2})
+@t 10 | 2 | 14 | 1 | 1 | 0 | 6 | 12 | 10 | 210 | 22 | 30 | 1 | 93 | 2 | 15{sup:a})
+@t 20 | 5 | 4 | 3 | 2 | 0 | 12 | 24 | 20 | 60 | 45 | 0 | 2 | 186 | 4 | 30
+@t 30 | 7 | 18 | 4 | 3 | 0 | 18 | 36 | 30 | 271 | 7 | 30 | 3 | 279 | 6 | 45
+@t 40 | 10 | 8 | 6 | 4 | 1 | 0 | 48 | 40 | 121 | 30 | 0 | 4 | 12 | 9 | 0
+@t 50 | 12 | 22 | 7 | 5 | 1 | 7 | 1 | 50 | 331 | 52 | 30 | 5 | 105 | 11 | 15
+@t 60 | 15 | 12 | 9 | 6 | 1 | 13 | 13 | 60 | 182 | 15 | 0 | 6 | 198{sup:b}) | 13 | 30
+@t 70 | 18 | 2 | 10 | 7 | 1 | 19 | 25 | 70 | 32 | 37 | 30 | 7 | 291{sup:c}) | 15 | 45
+@t 80 | 20 | 16 | 12 | 8 | 2 | 1 | 37 | 80 | 293 | 0 | 0 | 8 | 24 | 18 | 0
+@t 90 | 23 | 6 | 13 | 9 | 2 | 7 | 49 | 90 | 93 | 22 | 30 | 9 | 117 | 20 | 15
+@t 100 | 25 | 20 | 15 | 10 | 2 | 14 | 1 | 100 | 303 | 45 | 0 | 10 | 210 | 22 | 30
+@n {sup:1}) Min.] Dak. O — {sup:2}) Sec.] Elth. O.
+@n {sup:a}) 15] 35 O — {sup:b}) 198] 168 O — {sup:c}) 291] 93 O.
+@obs The page number «230» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 115», in bold sans serif, underlined. The page has no signature. The title (L01), «[Tabula conversionis annorum nativitatis]», the table of the conversion of the years of nativity, in bold, in square brackets: the table stands only in O, on its last leaves, and the title is the editor's (Suter, p. 102, JP2 0134, L08-L20). The folio, «O 158r.», the letter raised, stands at the left of the title; here as a left margin note. The upper half of the page shows the text of p. 229 (JP2 0261) through the leaf, mirrored; not transcribed.
+@obs The table: sixteen columns in four groups divided by double rules, each group a column of years and three columns of the conversion: «Anni deceni», the years by tens, with «Conversio annorum nativitatis decennorum» in «Dies», «Horae» and «Min.»; «Anni singu-lares», the single years, with «Conversio annorum nativitatis singularium» in the same units; and again «Anni deceni» and «Anni singu-lares» with the conversions in «Gr.», «Min.1)» and «Sec.2)», where O has «Dak.» and «Elth.» (notes 1 and 2). Here each head is set from the top, one printed line to a line (L02-L05), «singu-lares» divided as printed; the units in L06; the cells separated by our «|»; a head followed by empty cells spans their columns. L07-L16, the years 10 to 100 and 1 to 10.
+@obs The degree columns: the conversion of one year is 93° 2′ 15″ (L07), and the numbers for 2 to 10 years are its multiples less whole circles (186° 4′ 30″, 279° 6′ 45″, 12° 9′ 0″ ... 210° 22′ 30″); the conversion of ten years, 210° 22′ 30″ (930° 22′ 30″ less two circles), the same in both columns (L07, L16), and its multiples for 20 to 100 years agree with the table except at 80 years (L14), where 243° 0′ 0″, the sum of the numbers for 10 and 70 years (210° 22′ 30″, 32° 37′ 30″), is printed 293° 0′ 0″: see the critical note. The time columns are the degree columns turned into time at 15° to the hour: 93° 2′ 15″ make 6h 12m 9s, printed 0d 6h 12m (L07), and 210° 22′ 30″, 62h 1m 30s, 2d 14h 1m (L07). The decades are the multiples of 2d 14h 1m 30s with the half minute dropped (30, 50, 70 and 90 years: 7d 18h 4m, 12d 22h 7m, 18d 2h 10m, 23d 6h 13m, L09, L11, L13, L15); the single years the multiples of 6h 12m 9s to the nearest minute, except at 4 years, 1d 0h 48m for 1d 0h 48m 36s (L10), and at 10 years, 2d 14h 1m as in the decades.
+@obs Suter's explanation and example (p. 102, JP2 0134, L23-L39, and p. 103, JP2 0135, L01-L15): the table gives the time and the arc by which the sun, after a number of whole years from a birth, is still short of its place at the birth; for the 35th birthday, 30 years give 7d 18h 4m (L09) and 5 years 1d 7h 1m (L11), together 9d 1h 5m, as Suter has. The year of the table exceeds 365 days by 6h 12m 9s (one year gives 0d 6h 12m, L07), the time of 93° 2′ 15″, which Suter compares with the sidereal year of the Arabic Sindhind and with the 6h 13m 2s of chapters 20 and 21.
+@obs Notes on the readings. The edition's readings are the multiples of 93° 2′ 15″: 15 in the seconds of one year (note a, L07: O's 35), 198 for six years (note b, L12: O's 168) and 291 for seven (note c, L13: O's 93). Only O has the table, so these are the editor's corrections of O.
+@obs A point stands above and to the right of the 5 of «Tab. 115» and specks in the margins; not transcribed.
+@critical AK07-CN271 | wrong figure | L14 | 293 | 243 | the degrees of the conversion of 80 years: eight times the 930° 22′ 30″ of ten years are 7443°, 243° after twenty circles, and 243° 0′ 0″ is the sum of the numbers for 10 and 70 years (210° 22′ 30″ and 32° 37′ 30″, L07, L13) and the 20d 16h 12m of the same line (L14) turned into degrees at 15° to the hour; with 243 each decade exceeds the one before by 210° 22′ 30″, as everywhere else in the column; the apparatus has no variant; a 9 is printed for the 4 | high | none

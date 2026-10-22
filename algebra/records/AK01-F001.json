@@ -1,0 +1,194 @@
+{
+ "anchor": "AK01-F001",
+ "frame": 1,
+ "frame_file": "page_001.jpg",
+ "frame_sha256": "db3d5058aae0e6aa81f9b51f559c2ef76d27c9d458c1693b20aeeab6e94e637d",
+ "printed_page": "-",
+ "kind": "cover",
+ "role": "MODERN_EDITORIAL (the edition's printed wrapper); COPY_PROVENANCE (binding)",
+ "comment": "Frame 001: the front cover of the Columbia copy: the printed paper wrapper of the edition, mounted on the library's cloth binding. The wrapper repeats the title page with the series number «No. 2».",
+ "lines": [
+  {
+   "id": "AK01-F001-L01",
+   "n": 1,
+   "kind": "centre",
+   "text": "الجامعة المصرية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L02",
+   "n": 2,
+   "kind": "centre",
+   "text": "كلية العلوم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L03",
+   "n": 3,
+   "kind": "centre",
+   "text": "No. 2",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L04",
+   "n": 4,
+   "kind": "centre",
+   "text": "كتاب الجبر والمقابلة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L05",
+   "n": 5,
+   "kind": "centre",
+   "text": "لمحمد بن موسى الخوارزمى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L06",
+   "n": 6,
+   "kind": "centre",
+   "text": "قام بتقديمه والتعليق عليه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L07",
+   "n": 7,
+   "kind": "centre",
+   "text": "على مصطفى مشرفة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L08",
+   "n": 8,
+   "kind": "centre",
+   "text": "دكتور فى الفلسفة ــ دكتور فى العلوم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L09",
+   "n": 9,
+   "kind": "centre",
+   "text": "من جامعة لندن",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L10",
+   "n": 10,
+   "kind": "centre",
+   "text": "أستاذ الرياضة التطبيقية بالجامعة المصرية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L11",
+   "n": 11,
+   "kind": "centre",
+   "text": "و",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L12",
+   "n": 12,
+   "kind": "centre",
+   "text": "محمد مرسى أحمد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L13",
+   "n": 13,
+   "kind": "centre",
+   "text": "دكتور فى الفلسفة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L14",
+   "n": 14,
+   "kind": "centre",
+   "text": "من جامعة إدنبرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L15",
+   "n": 15,
+   "kind": "centre",
+   "text": "أستاذ الرياضة البحتة المساعد بالجامعة المصرية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L16",
+   "n": 16,
+   "kind": "centre",
+   "text": "مطبعة فتح الله الياس نورى وأولاده بمصر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F001-L17",
+   "n": 17,
+   "kind": "centre",
+   "text": "١٩٣٩",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The lines stand on the wrapper as on the title page (frame 007): the faculty in two underlined lines at the top right, then «No. 2» in Latin type, the title, the author, a short rule, the line on the editors, the two editors in two columns (Mušarrafa on the right, Aḥmad on the left, «و» between them), a double rule and the printer with the year. The wrapper prints أحمد with the hamza, the title page احمد without it."
+ ],
+ "copy_matter": [
+  "The wrapper is mounted on the green cloth binding of Columbia University Libraries; the binding and its spine are copy matter, not part of the edition."
+ ],
+ "critical_notes": []
+}

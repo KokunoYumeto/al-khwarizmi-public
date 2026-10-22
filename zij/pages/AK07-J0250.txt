@@ -1,0 +1,49 @@
+@page 250 218
+@lang la
+% JP2 0250: Tab. 103, p. 218: the projection of the rays continued: three fields, for the ascendant at 5°, 10° and
+% 15° of Libra, the columns from Libra to Pisces, each field with the numbers for the sextile, the quadrature and the
+% trine, with the apparatus (notes 1-7 and a-m).
+C 96{sup:v}, O 152{sup:r}, N 63{sup:r}.
+@c {b:Quinque}{sup:1}) {b:gradus Librae}
+@c {b:Exagonum}{sup:4}) {b:68° 57′} — {b:Tetragonum}{sup:5}) {b:103°}{sup:a}) {b:25′} — {b:Trigonum}{sup:6}) {b:137°}{sup:b}) {b:53′}
+@tw size=footnotesize 0.95 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62
+@t Gradus | Libra |  | Scorpius |  | Sagittar. |  | Capricorn. |  | Aquarius |  | Pisces |
+@t aequales | Aries |  | Taurus |  | Gemini |  | Cancer |  | Leo |  | Virgo |
+@t  | Horoscopus |  | Horoscopus{sup:7}) |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus{sup:7}) |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Mjn.}
+@t 5{sup:c}) | 6 | 5 | 42 | 28 | 78 | 43 | 112 | 16 | 145 | 8 | 177 | 27
+@t 10 | 12 | 20 | 48 | 46 | 84 | 18 | 117 | 43 | 150 | 28{sup:e}) | 183 | 30
+@t 15 | 18 | 38 | 54{sup:d}) | 53 | 89 | 55 | 122 | 53 | 156 | 10 | 189 | 25
+@t 20 | 24 | 45 | 60 | 44 | 95 | 43 | 128 | 13 | 161 | 25 | 195 | 20
+@t 25 | 30 | 40 | 66 | 56 | 101 | 13 | 133 | 53 | 166 | 45 | 200 | 56
+@t 30{sup:c}) | 36 | 58 | 73 | 3 | 106 | 48 | 139 | 40 | 171 | 55 | 206 | 50
+@c {b:Decem}{sup:2}) {b:gradus Librae}
+@c {b:Exagonum}{sup:4}) {b:68° 23′} — {b:Tetragonum}{sup:5}) {b:102° 34′} — {b:Trigonum}{sup:6}) {b:136° 46′}
+@t 5{sup:f}) | 5 | 52 | 43 | 20{sup:g}) | 80 | 8 | 112 | 48{sup:h}) | 144 | 55 | 176 | 32
+@t 10 | 12 | 0 | 49 | 25 | 85 | 38 | 118 | 0 | 149 | 50 | 182 | 30
+@t 15 | 18 | 25 | 55 | 35 | 91 | 23 | 123 | 13 | 155 | 5 | 188 | 10
+@t 20 | 24 | 35 | 61 | 25 | 97 | 0 | 128 | 31 | 160 | 35 | 193 | 50
+@t 25 | 30 | 42 | 67 | 45 | 102 | 20 | 133 | 38 | 165 | 37 | 199 | 20
+@t 30{sup:f}) | 36 | 55 | 74 | 13 | 107 | 13 | 138 | 14 | 170 | 50 | 205 | 8
+@c {b:Quindecim}{sup:3}) {b:gradus Librae}
+@c {b:Exagonum}{sup:4}) {b:68° 16′} — {b:Tetragonum}{sup:5}) {b:102° 25′}{sup:i}) — {b:Trigonum}{sup:6}) {b:136° 32′}{sup:k})
+@t 5{sup:l}) | 6 | 0 | 42 | 48 | 79 | 15 | 113 | 46 | 144 | 38 | 176 | 40
+@t 10 | 12 | 12 | 49 | 8 | 85 | 30 | 119 | 1 | 150 | 18 | 182 | 18
+@t 15 | 18 | 12 | 55 | 18 | 91 | 21 | 124 | 24 | 155 | 28 | 187 | 55
+@t 20 | 24 | 28 | 61 | 8 | 97 | 19 | 129 | 49 | 160 | 46 | 193 | 40
+@t 25 | 30 | 28 | 67 | 38 | 102 | 51 | 134 | 47 | 166 | 1 | 199 | 12
+@t 30{sup:l}) | 36 | 36 | 74 | 3 | 108 | 15{sup:m}) | 139 | 46 | 171 | 16 | 204 | 49
+@n {sup:1}) Quinque] Quintus O, {i:om.} C, V. N — {sup:2}) Decem] Decimus O, {i:om.} C, X. N — {sup:3}) Quindecim] Vice-
+@n simus O, {i:om.} C, XV. N — {sup:4})—{sup:5})—{sup:6}) Exagonum‐‐Tetragonum—Trigonum] ON, {i:om.} C, {i:item in seq. tab.} —
+@n {sup:7})—{sup:7}) {i:Titulos harum quinque column. om.} C, {i:item in seq. tab.}
+@n {sup:a}) 103] C, 104 O — {sup:b}) 137] ON, 138 C — {sup:c})—{sup:c}) 5....30] ON, {i:om.} C — {sup:d}) 54] O, 55 C — {sup:e}) 28] N,
+@n 38 CO — {sup:f})—{sup:f}) 5....30] ON, {i:om.} C — {sup:g}) 20] C, 10 O — {sup:h}) 48] O, 70 C — {sup:i}) 25] C, 26 O — {sup:k}) 32] C,
+@n 82 O — {sup:l})—{sup:l}) 5....30] ON, {i:om.} C — {sup:m}) 15] C, 19 O.
+@obs The page number «218» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 103», in bold sans serif, underlined. The page has no signature and no title: the folios of the manuscripts stand at the left above the double rule of the first field, in one line of their own, «C 96v, O 152r, N 63r.», the letters raised (L01).
+@obs The page holds three fields, as pp. 206-217 (JP2 0238-0249): «Quinque1) gradus Librae» (L02), «Decem2) gradus Librae» (L14) and «Quindecim3) gradus Librae» (L22), the ascendant at 5°, 10° and 15° of Libra, with the numbers for the sextile, the quadrature and the trine (L03, L15, L23), the three names with the notes 4, 5 and 6 in each field: C omits them, here and in the following tables; headings and numbers in bold. The columns begin with the sign of the ascendant: «Libra Aries Horoscopus», «Scorpius Taurus Horoscopus7)», «Sagittar. Gemini Horoscopus», «Capricorn. Cancer Horoscopus», «Aquarius Leo Horoscopus» and «Pisces Virgo Horoscopus7)»: C omits the heads of the five columns from Scorpius to Pisces, here and in the following tables (note 7); each head is set from the top, one printed line to a line (L04-L06), with «Gradus aequales», printed upwards, in L04-L05, and the units in L07, the last of which reads «Mjn.» (critical note). The numbers are counted from the beginning of Libra. In each field the first and the last number of the first column carry the paired notes c, f and l: C omits the numbers 5 to 30 of the first column. The second and the third field have no heads. Double rules divide the fields.
+@obs The numbers at the head of a field, as on pp. 206-217 (JP2 0238-0249), are a third, a half and two thirds of the last number of the field: 206° 50′ (L13) gives 68° 56.7′, 103° 25′ and 137° 53.3′, printed 68° 57′, 103° 25′ and 137° 53′ (L03); 205° 8′ (L21) gives 68° 22.7′, 102° 34′ and 136° 45.3′, printed 68° 23′, 102° 34′ and 136° 46′ (L15); 204° 49′ (L29) gives 68° 16.3′, 102° 24.5′ and 136° 32.7′, printed 68° 16′, 102° 25′ and 136° 32′ (L23).
+@obs The columns: in Libra the three fields lie within 19′, 21′ and 38′ of the oblique ascensions from the beginning of Libra for the latitude 38° 30′ (computed with the obliquity 23° 35′; 6° 10′, 12° 21′, 18° 33′, 24° 45′, 30° 59′, 37° 14′), mostly below them; from Scorpius on they fall further below them, at the end of Sagittarius by 3° 31′, 3° 6′ and 2° 4′ (106° 48′, 107° 13′ and 108° 15′ for 110° 19′). In Capricornus to Pisces, the signs of short ascension, the oblique ascensions grow more slowly than the columns, which pass them between 25° of Capricornus and 5° of Aquarius and end 26° 50′, 25° 8′ and 24° 49′ above them (206° 50′, 205° 8′ and 204° 49′ for 180°). The second field lies 18′ to 1° 9′ above the mean of the first and the third from 5° of Scorpius to 25° of Sagittarius, and 13′ to 1° 29′ below it from 5° of Capricornus to the end of Pisces, except at 5° of Aquarius.
+@obs Notes on the readings. Checked by the rule of the heads, by the other fields, which differ by 5° of the ascendant, and by the steps of the columns: the edition's readings are the nearer in the quadrature and the trine of the first field (notes a and b, L03: C's 103 against O's 104, and the 137 of O and N against C's 138; a half and two thirds of 206° 50′ are 103° 25′ and 137° 53.3′), at 15° of Scorpius in the first (note d, L10: O's 54 against C's 55, the steps 6° 7′ and 5° 51′ against 7° 7′ and 4° 51′), at 5° of Capricornus in the second (note h, L16: O's 48 against C's 70, which is no number of minutes) and in the quadrature and the trine of the third (notes i and k, L23: C's 25 and 32 against O's 26 and 82, a half and two thirds of 204° 49′ being 102° 24.5′ and 136° 32.7′, and 82 no number of minutes). At 10° of Aquarius in the first field (note e, L09) N's 28, which the edition adopts, gives the steps 5° 20′ and 5° 42′, the 38 of C and O 5° 30′ and 5° 32′; at 5° of Scorpius in the second (note g, L16) C's 20, which the edition adopts, gives 6° 25′ and 6° 5′, O's 10 6° 15′ and 6° 15′; at 30° of Sagittarius in the third (note m, L29) C's 15 gives 5° 24′ and 5° 31′, O's 19 5° 28′ and 5° 27′; in columns whose steps vary by more than 30′, none of these is decided. Notes c, f and l: C omits the first column of each field.
+@obs Without variants: in the second field 138° 14′ at 30° of Capricornus (L21) lies 1° 26′ and 1° 32′ below the other fields (139° 40′, 139° 46′), between the steps 4° 36′ and 6° 41′; with 139° 14′ they would be 5° 36′ and 5° 41′.
+@obs The dash between «Exagonum» and «Tetragonum» in N02 is made up of two short dashes (16 and 18 px with a gap of 3 px, 37 px in all); here written as two hyphens (U+2010). The lemmata of notes c, f and l, «5....30», have four points. Italics: «om.», «item in seq. tab.», «Titulos harum quinque column. om.».
+@critical AK07-CN242 | wrong sort | L07 | {b:Mjn.} | {b:Min.} | the heads of the other five columns of minutes read «Min.»; the stem of the i runs below the line with a hook to the left, a j | high | none

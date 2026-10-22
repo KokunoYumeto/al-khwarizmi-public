@@ -1,0 +1,59 @@
+@page 146 114
+@lang la
+% JP2 0146: Tab. 3a, p. 114: the Syrian (Roman) months, their days and the notae (weekday numbers) of their first
+% days in the 28 years of the cycle, the leap years marked, with the apparatus (notes 1-9, a-h, and Ms. C's addition).
+@ml C 43{sup:v}, M 82{sup:v}, O 100{sup:v}, N 20{sup:v}.
+@c {b:Tabula ad inveniendum quota feria intret quilibet mensis romanorum solaris}{sup:1})
+@tw size=footnotesize span=1.1 1.6 1.1 1.1 1.25 1.25 1.25 1 1 1 1 1 1 1 1.1
+@t Anni romanorum plani{sup:2}) | Tisrin | Tisrin | Keinun{sup:4}) | Anni bissextiles | Keinun{sup:4}) | Sabat | Adar{sup:6}) | Nizan | Iiar{sup:7}) | Hezi- | Temuz | Ab | Elul{sup:8})
+@t | elawel{sup:3}) | elachir | elawel{sup:5}) | | elachir | | | | | ren | | |
+@t | Numeri | | | | | | dierum | | | mensium{sup:9}) | | |
+@t | 31 | 30 | 31{sup:1}/{sub:4}{sup:a}) | | 31{sup:b}) | 28 | 31 | 30 | 31 | 30 | 31{sup:c}) | 31 | 30
+@t | {b:Octobr.} | {b:Novbr.} | {b:Decbr.} | | {b:Jan.} | {b:Febr.} | {b:Mart.} | {b:April.} | {b:Maius} | {b:Jun.} | {b:Jul.} | {b:Aug.} | {b:Septbr.}
+@t 1 | 2 | 5 | 7 | | 3 | 6 | 6 | 2 | 4 | 7 | 2 | 5 | 1
+@t 2 | 3 | 6 | 1 | | 4 | 7 | 7 | 3 | 5 | 1 | 3 | 6 | 2
+@t 3 | 4 | 7 | 2 | bissext. | 6 | 2 | 2 | 5 | 7 | 3 | 5 | 1 | 4
+@t 4 | 6 | 2 | 4{sup:h}) | | 7 | 3 | 3 | 6 | 1 | 4 | 6 | 2 | 5
+@t 5 | 7 | 3 | 5 | | 1 | 4 | 4 | 7 | 2 | 5 | 7 | 3 | 6
+@t 6 | 1 | 4 | 6 | | 2 | 5 | 5 | 1 | 3 | 6 | 1 | 4 | 7
+@t 7 | 2 | 5 | 7 | bissext. | 4 | 7 | 7 | 3 | 5 | 1 | 3 | 6 | 2
+@t 8 | 4 | 7{sup:f}) | 2 | | 5 | 1 | 1 | 4 | 6 | 2 | 4 | 7 | 3
+@t 9 | 5 | 1 | 3 | | 6 | 2 | 2 | 5 | 7 | 3 | 5 | 1 | 4
+@t 10 | 6 | 2 | 4 | | 7 | 3 | 3 | 6 | 1 | 4 | 6 | 2 | 5
+@t 11 | 7 | 3{sup:g}) | 5 | bissext. | 2 | 5 | 5 | 1 | 3 | 6 | 1 | 4 | 7
+@t 12 | 2 | 5 | 7 | | 3 | 6 | 6 | 2 | 4 | 7 | 2 | 5 | 1
+@t 13 | 3 | 6 | 1 | | 4 | 7 | 7 | 3 | 5 | 1 | 3 | 6 | 2
+@t 14 | 4 | 7 | 2 | | 5 | 1 | 1 | 4 | 6 | 2 | 4 | 7 | 3
+@t 15 | 5 | 1 | 3 | bissext. | 7 | 3 | 3 | 6 | 1 | 4 | 6 | 2 | 5
+@t 16 | 7 | 3 | 5 | | 1 | 4 | 4 | 7 | 2 | 5 | 7 | 3 | 6
+@t 17 | 1 | 4 | 6 | | 2 | 5 | 5 | 1 | 3 | 6 | 1 | 4 | 7
+@t 18 | 2 | 5 | 7 | | 3 | 6 | 6 | 2 | 4 | 7 | 2 | 5 | 1
+@t 19 | 3 | 6 | 1 | bissext. | 5 | 1 | 1 | 4 | 6 | 2 | 4 | 7 | 3
+@t 20 | 5 | 1 | 3 | | 6 | 2 | 2 | 5 | 7 | 3 | 5 | 1 | 4
+@t 21 | 6 | 2 | 4 | | 7 | 3 | 3 | 6 | 1 | 4 | 6 | 2 | 5
+@t 22 | 7{sup:d}) | 3 | 5 | | 1 | 4 | 4 | 7 | 2 | 5 | 7 | 3 | 6
+@t 23 | 1 | 4 | 6 | bissext. | 3 | 6 | 6 | 2 | 4 | 7 | 2 | 5 | 1
+@t 24 | 3 | 6 | 1 | | 4 | 7 | 7 | 3 | 5 | 1 | 3 | 6 | 2
+@t 25 | 4{sup:e}) | 7 | 2 | | 5 | 1 | 1 | 4 | 6 | 2 | 4 | 7 | 3
+@t 26 | 5 | 1 | 3 | | 6 | 2 | 2 | 5 | 7 | 3 | 5 | 1 | 4
+@t 27 | 6 | 2 | 4 | bissext. | 1 | 4 | 4 | 7 | 2 | 5 | 7 | 3 | 6
+@t 28 | 1 | 4 | 6 | | 2 | 5 | 5 | 1 | 3 | 6 | 1 | 4 | 7
+@n {sup:1}) Tabula . . . . solaris] CN, Tabula romanorum ad inveniendum quota feria intret mensis solaris M,
+@n Pagina inveniendi qua die intret quilibet romanorum mensis secundum positionem quartae diei in fine
+@n decembris, bissextique in mense Januarii O — {sup:2}) plani] O, expansi CM, residui N — {sup:3}) elawel] CN, elauel M
+@n — {sup:4}) Keinun] C, Reinun MN — {sup:5}) elawel] CN, elaue M — {sup:6}) Adar] MN, abar C — {sup:7}) Iiar] N, iar M,
+@n Hiiar C — {sup:8}) Elul] CN, ebul M. {i:Haec nomina mens. syriac. om.} O — {sup:9}) Numeri . . . . mensium] CN, No-
+@n mina mensium M, {i:om.} O.
+@n {sup:a}) 31{sup:1}/{sub:4}] 31 et quarta CON, 31 M — {sup:b}) 31] CON, 30 M — {sup:c}) 31] CON, 30 M — {sup:d}) 7] CMN,
+@n 4 O — {sup:e}) 4] O, 3 CMN — {sup:f}) 7] OMN, 6 C — {sup:g}) 3] CON, 4 M — {sup:h}) 4] CMN, 3 O.
+@n {i:Addid.} C {i:haec:} Nota : {b:per} annos arabum et menses in alexandri annos et menses omni anno re-
+@n ducto V dies et quarta addes de numero dierum inventorum subtractos, subtrahe superfluum dierum men-
+@n sium super XXX ab octobre usque ad praesentem, deinde annorum summae detrahe quantum XXVIII.{sup:us}
+@n metitur, per reliquum denique intrabis adiecto tamen anno, si menses X dies habundavit, et invenies.
+@obs The page number «114» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 3a», in bold sans serif, underlined, the a raised. The title (L01), in bold, its note number in roman; the folios of the manuscripts, «C 43v, M 82v,» over «O 100v, N 20v.», stand at the left of the title, the letters v raised; here as one left margin note. The page has no signature.
+@obs The table: a thick and a thin rule above the head, a double rule below it; vertical rules divide the fourteen columns, double ones on either side of the column of the leap years and after the first column; thin rules under the names of the months, under «Numeri dierum mensium» and under the days; no rule closes the table at the foot. The heads of the first and the fifth column, «Anni romanorum plani» and «Anni bissextiles», are printed turned through a quarter, reading upwards, beside the four rows of the heads of the months; here they stand in the first row (L02). The names of the months are printed in one or two lines (L02-L03), «Numeri dierum mensium» runs across both halves of the table (L04), and the Roman names of the months (L06) are set in small bold type. Each printed row is one line here, the cells separated by our «|».
+@obs L07-L34. Checked against the Julian calendar: the row r is the year of the Seleucid era («anni romanorum») whose remainder by 28 is r (28 for 0), beginning on 1 October of the Julian year 312 less (p. 40, JP2 0072), and the notae count the weekdays from 1 for Sunday. All 84 notae of October, November and December, and the 252 of January to September in the 21 common years, are the weekdays of the first days of the months (with the readings of notes d-h). In the seven leap years, marked «bissext.» in the rows 3, 7, 11, 15, 19, 23 and 27, the year whose February is that of a Julian leap year, the notae of January and February are one day later than the Julian weekdays, those of March to September agree: the table places the leap day at the end of December, «Keinun elawel» with 31 1/4 days (note a), as O's title says, «secundum positionem quartae diei in fine decembris, bissextique in mense Januarii» (N02-N03), and as Maslama's table in Nallino's al-Battānī (II, 302), «intercalatione mense Decembri posita».
+@obs The months of the heads (L05): 31, 30, 31 1/4, 31, 28, 31, 30, 31, 30, 31, 31, 30 days, 365 1/4 in all; from one month to the next the nota grows by the days of the month less whole weeks, 3 after 31 days, 2 after 30 and 0 after 28, and by 4 after December in the leap years.
+@obs N09: «per», in bold type (strokes 5-6 px where the roman of the line has 4-4.5 px); see the critical note. N09: «haec:», the colon set close; «Nota :», after the thin space (9 px). N11: «XXVIII.us», the letters «us» raised after the point. N02-N03: O's title quoted in full; N05: «Haec nomina mens. syriac. om.» in italics. The ellipses «. . . .» of the lemmata as printed.
+@obs N09-N12: Ms. C's added note on the use of the table after Tab. 3: the years and months of Alexander found there are corrected for the five and a quarter days of the year and for the months of more than 30 days from October to the present month, the years are reduced by the greatest multiple of 28, and the table is entered with the remainder. Suter works the same corrections in his examples (p. 39, JP2 0071).
+@critical AK07-CN085 | wrong fount | N09 | Nota : {b:per} annos | Nota : per annos | the word «per» in C's added rule is set in bold type; the rest of the quotation and of the apparatus is in roman | medium | none

@@ -1,0 +1,4 @@
+@page 217 -
+@kind provenance
+% Frame 217: the last endpaper, with the library's barcode label.
+@copy The barcode label «COLUMBIA UNIVERSITY LIBRARIES», number «0050628623», at the top of the endpaper, with pencil strokes scribbled across it; not part of the edition.

@@ -1,0 +1,4 @@
+@page 40 -
+@kind blank
+% Frame 040: the verso of the plate of frame 039, blank.
+@obs The facsimile of frame 039 shows through the paper, mirrored. A thin dark curved line near the lower left of the leaf, a hair or a fibre, is not ink of the print.

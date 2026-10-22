@@ -1,0 +1,45 @@
+@page 243 211
+@lang la
+% JP2 0243: Tab. 96, p. 211: the projection of the rays continued: three fields, for the ascendant at 20°, 25° and
+% 30° of Gemini, the columns from Gemini to Scorpius, each field with the numbers for the sextile, the quadrature and
+% the trine, with the apparatus (notes a-g).
+@r C 93{sup:r}, O 148{sup:v}—149{sup:r}, N 59{sup:v}.
+@c {b:Viginti gradus Geminorum}
+@c {b:Exagonum 57° 34′} — {b:Tetragonum 86° 22′} — {b:Trigonum 115° 8′}
+@tw size=footnotesize 0.95 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62
+@t Gradus | Gemini |  | Cancer |  | Leo |  | Virgo |  | Libra |  | Scorpius |
+@t aequales | Sagittar. |  | Capricor. |  | Aquarius |  | Pisces |  | Aries |  | Taurus |
+@t  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 5 | 4 | 40 | 35 | 15 | 70 | 50 | 104 | 10 | 130 | 35 | 152 | 23
+@t 10 | 9 | 3 | 40 | 55 | 76 | 35 | 109 | 0 | 134 | 20 | 156 | 23
+@t 15 | 13 | 40 | 46 | 34 | 82{sup:a}) | 17 | 113 | 20 | 138 | 40 | 160 | 58
+@t 20 | 18 | 50 | 52 | 30 | 88 | 15 | 117 | 52 | 141 | 53 | 164 | 11
+@t 25 | 24 | 2 | 58 | 32 | 93 | 50 | 122 | 10 | 145 | 18 | 168 | 18
+@t 30 | 29 | 30 | 63 | 50 | 99 | 35 | 126 | 53 | 148 | 38 | 172{sup:b}) | 43
+@c {b:Viginti quinque gradus Geminorum}
+@c {b:Exagonum 58° 6′} — {b:Tetragonum 87° 8′}{sup:c}) — {b:Trigonum 116° 11′}{sup:d})
+@t 5 | 4 | 32 | 34 | 55 | 69 | 55 | 103 | 56 | 131 | 8 | 154 | 40
+@t 10 | 8 | 56 | 40 | 27 | 75 | 32 | 108 | 43 | 135 | 6 | 158 | 36
+@t 15 | 13 | 48 | 46 | 22 | 81 | 37 | 113 | 22 | 138 | 7 | 162 | 8
+@t 20 | 18 | 52 | 52 | 25 | 87 | 37 | 117 | 28 | 142 | 48 | 165 | 28{sup:e})
+@t 25 | 24 | 13 | 58 | 27 | 93 | 20 | 122 | 28 | 146 | 52 | 169 | 55
+@t 30 | 29 | 27 | 63 | 42 | 99 | 10 | 127 | 20 | 150 | 50 | 174 | 17
+@c {b:Triginta gradus Geminorum}
+@c {b:Exagonum 59° 38′} — {b:Tetragonum 88° 29′}{sup:f}) — {b:Trigonum 119° 16′}
+@t 5 | 4 | 30 | 35 | 48 | 70 | 39 | 105 | 19 | 133 | 53 | 157 | 59
+@t 10 | 8 | 55 | 40 | 33 | 76 | 46 | 110 | 21 | 137 | 41 | 161g) | 56
+@t 15 | 13 | 47 | 46 | 31 | 82 | 46 | 115 | 13 | 141 | 44 | 165 | 52
+@t 20 | 19 | 3 | 52 | 18 | 88 | 51 | 120 | 8 | 145 | 59 | 170 | 9
+@t 25 | 24 | 3 | 58 | 26 | 94 | 41 | 124 | 53 | 150 | 3 | 174 | 32
+@t 30 | 29 | 23 | 64 | 46 | 100 | 33 | 129 | 46 | 154 | 9 | 178 | 55
+@n {sup:a}) 82] C, 102 O — {sup:b}) 172] ON, 170 C — {sup:c}) 87. 8] CO, 89. 28 N — {sup:d}) 116. 11] CO, 119. 16 N —
+@n {sup:e}) 28] C, 18 O — {sup:f}) 88. 29] C, 89. 38 O, 89. 28 N — {sup:g}) 161] 151 CON.
+@obs The page number «211» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 96», in bold sans serif, underlined. At the foot, the signature «27*» on the right; recorded here, not transcribed as a line. The page has no title: the folios of the manuscripts stand at the right above the double rule of the first field, in one line of their own, «C 93r, O 148v—149r, N 59v.», the letters raised (L01).
+@obs The page holds three fields, as pp. 206-210 (JP2 0238-0242): «Viginti gradus Geminorum» (L02), «Viginti quinque gradus Geminorum» (L14) and «Triginta gradus Geminorum» (L22), the ascendant at 20°, 25° and 30° of Gemini, with the numbers for the sextile, the quadrature and the trine (L03, L15, L23); headings and numbers in bold. The heads of the columns of the first field as on p. 210 (JP2 0242, L05-L08), from Gemini to Scorpius, with «Horoscopus» in each and without notes, and «Capricor.» for the «Capricorn.» of the other pages; here L04-L07. The second and the third field have no heads. Double rules divide the fields.
+@obs The numbers at the head of a field, as on pp. 206-210 (JP2 0238-0242), are a third, a half and two thirds of the last number of the field: 172° 43′ (L13) gives 57° 34.3′, 86° 21.5′ and 115° 8.7′, printed 57° 34′, 86° 22′ and 115° 8′ (L03); 174° 17′ (L21) gives 58° 5.7′, 87° 8.5′ and 116° 11.3′, printed 58° 6′, 87° 8′ and 116° 11′ (L15); 178° 55′ (L29) gives 59° 38.3′, 89° 27.5′ and 119° 16.7′, where the sextile and the trine are printed 59° 38′ and 119° 16′ and the quadrature C's 88° 29′ (L23; note f).
+@obs The columns, as on pp. 208-210 (JP2 0240-0242): in Gemini and Cancer the three fields lie within 44′, 43′ and 35′ of the oblique ascensions from the beginning of Gemini for the latitude 38° 30′ (computed with the obliquity 23° 35′), mostly above them, except at 5° of Cancer in the third field (below); at the end of Scorpius they reach 172° 43′, 174° 17′ and 178° 55′, where the oblique ascension from the beginning of Gemini is 214° 10′. The six fields of Gemini grow unevenly with the ascendant: their last numbers are 163° 59′, 167° 45′ and 170° 7′ on p. 210 (JP2 0242), then 172° 43′, 174° 17′ and 178° 55′; from the end of Cancer to the end of Scorpius the second field here lies 31′ to 2° 5′ below the mean of the first and the third.
+@obs Notes on the readings. Checked by the other fields and by the steps of the columns: the edition's readings are the nearer at 15° of Leo in the first field (note a, L10: C's 82 against O's 102), at 30° of Scorpius in the first (note b, L13: the 172 of O and N against C's 170; the numbers at the head belong to 172° 42′ to 172° 44′), in the quadrature and the trine of the second (notes c and d, L15: the 87° 8′ and 116° 11′ of C and O, a half and two thirds of 174° 17′, against N's 89° 28′ and 119° 16′, the quadrature and the trine of the third field), at 20° of Scorpius in the second (note e, L19: C's 28 against O's 18, the steps 3° 20′ and 4° 27′ against 3° 10′ and 4° 37′) and at 10° of Scorpius in the third (note g, L25: the editor's 161 for the 151 of all three manuscripts, the steps 3° 57′ and 3° 56′). In the quadrature of the third field (note f, L23) N's 89° 28′ is the nearer: half of 178° 55′ is 89° 27.5′, and the sextile 59° 38′ and the trine 119° 16′ belong to 178° 54′; the edition's 88° 29′, from C, lies 59′ below, O's 89° 38′ 10′ above.
+@obs Without variants: in the third field 35° 48′ at 5° of Cancer (L24) lies 33′ and 53′ above the other fields (35° 15′, 34° 55′) and 1° 16.5′ above the oblique ascension, 34° 31.5′, between the steps 6° 25′ and 4° 45′. In the second field 138° 7′ at 15° of Libra (L18) lies between the steps 3° 1′ and 4° 41′, where the column rises otherwise by 3° 48′ to 4° 4′; in the first field 138° 40′ at 15° of Libra (L10) between the steps 4° 20′ and 3° 13′.
+@obs The note letter g at 10° of Scorpius in the third field (L25) is printed on the line, in the size of the figures: see the critical note.
+@critical AK07-CN234 | wrong fount | L25 | 161g) | 161{sup:g}) | the note letters of the tables are set small and raised, as the f) of the same field (L23); the g is printed on the line in the size of the figures | high | none

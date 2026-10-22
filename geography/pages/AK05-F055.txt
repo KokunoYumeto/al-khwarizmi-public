@@ -1,0 +1,39 @@
+@page 55 ٤٩
+@cols 12,12,12,12,12,12,12,12,22,22
+@align c,c,c,c,c,c,c,c,c,c
+% Frame 055, printed p. 49: the left-hand page of the opening pp. 48-49. For the seventeen mountains of p. 48 (frame
+% 054), entries 687/688-719/720, the longitude and the latitude of the first and of the last boundary, the colour and
+% the direction of the head. Three lines of the editor's footnotes, continued at the foot of p. 48.
+@r لط | {z} | كو | ى | ما | م | كر | ٮه | وردىّ | جنوب
+@r م | {z} | كز | مه | م | {z} | كط | ك | لازورد | مغربىّ
+@r م | ن | لا | مه | مج | {z} | كط | ن | احمر | جنوب
+@r مٮ | ل | كه | ن | مه | {z} | كو | {z} | اصفر | جنوب
+@r مه | م | كه | مه | مز | {z} | كد | ك | لازورد | جنوب
+@r مه | مه | كو | كه | مز | مه | كر | {z} | احمر | شمال
+@r مه | مه | لا | {z} | مو | ل | كط | ل | لازورد | جنوب
+@r مز | ل | ل | ك | مط | {z} | ل | ك | احمر | جنوب
+@r مح | ك | كح | مه | مط | مه | كز | {z} | وردىّ | جنوب
+@r ٮد | مه | كح | مه | ٮو | {z} | كح | ى | اصفر | جنوب
+@r نه | ل | كه | {z} | نز | {z} | كه | ل | احمر | جنوب
+@r قب | ك | كح | ى | ڡد | ل | كح | ل | حديدىّ | شمال
+@r قٮ | ل | كر | ن | قد | ك | كه | {z} | لازورد | شمال
+@r قو | {z} | كد | ل | قر | م | كو | {z} | لازورد | جنوب
+@r قط | ٮه | كه | ن | ڡا | مه | كو | ن | وردىّ | شمال
+@r قكا | م | كر | {z} | ڡكط | {z} | كو | مه | وردىّ{n:f} | شمال
+@r ق⟨م⟩{n:h} | ك | له | {z} | قه | م | كز | ل | احمر | شمال
+@ednotes a b c d e 3
+@obs The page is the left-hand page of the opening pp. 48-49: each of its lines continues the same line of p. 48 (frame 054), L01-L17, entries 687/688-719/720. Each row gives, from the right, the degrees and the minutes of the longitude and of the latitude of the first boundary, the same for the last boundary, the colour and the direction, in the columns of p. 39 (frame 045); the page has no heads.
+@obs The colours are «وردىّ», rose (L01, L09, L15, L16); «لازورد», lapis blue (L02, L05, L07, L13, L14); «احمر», red (L03, L06, L08, L11, L17); «اصفر», yellow (L04, L10); and «حديدىّ», iron-coloured (L12). The directions are «جنوب», south (L01, L03-L05, L07-L11, L14), «مغربىّ», western (L02), and «شمال», north (L06, L12, L13, L15-L17). «وردىّ», «حديدىّ» and «مغربىّ» end in a ى without dots with a shadda over it.
+@obs Letters printed without their dots in the numerals, transcribed so: مٮ (L04, the degrees of the first longitude), an initial م joined to a final ب without its dot, 42; ٮد (L10, the degrees of the first longitude), a tooth without its dot joined to a د, where the first longitudes of the neighbouring rows are 48 and 55 (L09, L11); ٮو (L10, the degrees of the last longitude), a tooth without its dot joined to a و, where the last longitudes of the neighbouring rows are 49 and 57; قٮ (L13, the degrees of the first longitude), the ق with its two dots joined to a final ب without its dot, where L12 prints «قب», 102, with the dot below the ب; and the loop of ف or ق without dots in the degrees of the last longitude: ڡد (L12), ڡا (L15) and ڡكط (L16), where L13, L14 and L17 print «قد», «قر» and «قه» with the two dots of the ق.
+@obs With their dots: كز (L02, the degrees of the first latitude; L09, L17, the degrees of the last latitude), مز (L05, L06, the degrees of the last longitude; L08, the degrees of the first longitude) and نز (L11, the degrees of the last longitude), 27, 47 and 57; مج (L03, the degrees of the last longitude), 43, the dot of the ج in its bowl; نه (L11, the degrees of the first longitude), 55; ن (L03, the minutes of the first longitude and of the last latitude; L04, L13, L15, the minutes of the first latitude; L15, the minutes of the last latitude), 50; the two dots of the ق in قب (L12), قو (L14), قط (L15) and قكا (L16), the degrees of the first longitude.
+@obs In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: كر (L01, L06, the degrees of the last latitude; L13, L16, the degrees of the first latitude), 27, and قر (L14, the degrees of the last longitude), 107. L02, L09 and L17 print كز with the dot.
+@obs The degrees printed with a final ح, مح (L09, the degrees of the first longitude) and كح (L09, L10, L12, the degrees of the first latitude; L10, L12, the degrees of the last latitude), show no dot in the bowl; the same form is a ج without its dot, 3, which L03 prints with its dot in «مج». Transcribed as printed.
+@obs The minutes of the last latitude in L01 and of the first longitude in L15, «ٮه», are a tooth without its dot joined to a final ه. The isolated ك, 20, is printed with the small inner stroke of the letter throughout (L02, L05, L08, L09, L12, L13, L17).
+@obs L17: the degrees of the first longitude are printed «ق⟨م⟩»: an initial ق with its two dots, and a م between angle brackets, followed by the note mark h: the editor supplies the م from S where the manuscript has a gap (note h). Transcribed with both brackets in the degrees cell; the minutes, «ك», stand outside them.
+@obs L16: the note mark f stands after the colour, «وردىّ».
+@obs L08: a thin straight line crosses «احمر» at the height of its upper part, running 15 px past the alif to the right, and goes on, broken and fainter, to the end of «جنوب»; it is as dark as the print at its right end. Whether it is a mark in this copy or a defect of the print does not show; it is not transcribed.
+@obs Specks, not transcribed: L01, a speck, 8 by 7 px, to the left of the zero of the minutes of the first longitude, smaller than the dots of the font, which are some 10 px across; L02, a short dash between the first longitude and the first latitude; L09, a short slanting stroke, 7 by 13 px, above the minutes of the first latitude.
+@obs A short rule stands above each pair of degrees and minutes in every row, the first ones at the top of the page; L17 has none below it. The rules are not transcribed.
+@obs The editor's footnotes of the opening begin here, in three lines below a short rule at the left: notes a-d, whose marks stand on p. 48 (frame 054, L01, L05, L06, L08) and whose readings are recorded there, and the beginning of note e, which continues at the foot of p. 48 with notes f, g and h. Below the notes, at the left, the signature «4» of the printed sheet; the page number «— ٤٩ —» stands at the foot, centred.
+@variant L16: the manuscript reads مغربى, western, in the place of the colour; the editor corrects it from S (note f, printed at the foot of p. 48).
+@variant L17: the manuscript has a gap in the degrees of the longitude of the first boundary; the editor supplies the م from S (note h, printed at the foot of p. 48).

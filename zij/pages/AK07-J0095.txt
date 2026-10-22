@@ -1,0 +1,56 @@
+@page 95 63
+@lang de
+% JP2 0095: Suter's commentary, p. 63: chapter 17 continued: the latitude of Saturn after al-Battānī (2° 34′, or
+% 2° 28′ with his data and al-Khwārizmī's rules); north or south; the arguments of the latitude in Ptolemy, al-Battānī
+% and al-Khwārizmī; the lower planets; the example of the latitude of Venus for 15 Ṣafar 540 begins (notes 1-2).
+@p Die Berechnung nach den Regeln {sp:Batt.}’s ergibt den Wert 2° 34′ ; die Berechnung
+nach den Daten {sp:Batt.}’s, aber nach den Regeln {sp:Kh.}’s ergibt 2° 28′.
+@p Ob die Breite {i:nördlich} oder {i:südlich} sei, darüber sagt unser Text gar nichts,
+während sich {sp:Batt.} (I, 115—116) deutlich darüber ausspricht ; nach seinen Regeln
+ist sie in unserm Beispiel für Saturn {i:südlich} ; ferner ist der Planet {i:descendens,} d. h.
+von der Ekliptik aus gegen Süden gehend, was man auch in unserer Tafel 31 direkt
+ablesen kann : die Kolonne, der wir die {i:lat. sec.} entnommen haben, ist überschrieben
+{i:latitudo Saturni recedentis.} — Nach der Regel unseres Textes ist das Argument für
+die {i:lat. sec.,} wie es scheint, vom aufsteigenden Knoten aus über das Perigeum des
+Deferens des Planeten gezählt, von demselben Knoten aus über das Apogeum gezählt
+wäre es = 360° — 130° 24′ = 229° 36′, aus welchem Werte leichter zu erkennen
+wäre, dass die Breite südlich ist. — Die hier gegebene Regel für die Bestimmung
+der {i:lat. sec.} ist übrigens dieselbe, wie die zur Bestimmung der Breite des Mondes
+gegebene (s. oben p. 58—59).
+@p Vergleicht man unsere Regel mit denjenigen bei {sp:Ptol.} und {sp:Batt.}, die ziemlich
+übereinstimmend sind, so sieht man, dass sie sich in Bezug auf die Argumente für
+die Breite und die Verhältniszahlen gerade entgegengesetzt verhalten : {sp:Ptol.} bestimmt
+die Breitenzahl mit Hilfe der {i:Anomalia aequata} als Argument, die Verhältniszahl
+(mit der man die gefundene Breite multiplizieren muss) mit Hilfe der um 50° (beim
+Saturn) vermehrten wahren Länge des Planeten{sup:1}) als Argument ; {sp:Kh.} dagegen bestimmt
+die Breitenzahl mit Hilfe des Abstandes des Planeten vom aufsteigenden Knoten
+(d. h. indirekt mit Hilfe der wahren Länge), die Verhältniszahl ({i:latit. prima}) aber mit
+Hilfe der {i:Anomalia aequata} als Argument. Diese verschiedenen Auffassungen bedingen
+dann natürlich auch eine ganz abweichende Einrichtung der Tafeln, wir wollen
+nur einen Hauptunterschied anführen : {sp:Ptol.} und {sp:Batt.} haben bei den obern Planeten
+beim Argument 180° das Maximum der Breite, bei 0° (360°) das Minimum ; {sp:Kh.} dagegen
+hat bei 90° (270°) das Maximum der {i:Latitudo secunda,} bei 0° und 180° das Minimum.
+@p Für die {i:untern} Planeten ist die Theorie der Bestimmung der {i:Breite} und die
+Berechnung mit Hilfe der Tafeln bei {sp:Ptol.} und {sp:Batt.} noch bedeutend komplizierter
+als für die obern ; man erlasse mir auf dieselbe hier einzutreten, ich verweise den
+Leser für das nähere auf die {sp:Nallino}’sche Ausgabe {sp:Batt.}’s{sup:2}).
+@p Als {i:Beispiel} geben wir die Berechnung der {i:Breite} der {i:Venus} für den Beginn
+des 15. Ṣafar 540 d. H. nach den Regeln und Tafeln {sp:Kh.}’s.
+@p Die {i:Anomalia} ({i:argumentum} im Text) {i:aequata} der Venus für diesen Zeitpunkt
+ist nach den Tafeln 15—17 berechnet = 118° 15′ (s. oben p. 54),
+dazu gehört in Tafel 48 die {i:latit. prima} = 1{sup:{i:p}} 15′.
+@t | | Anomalia aequata | | = | 118° 15′
+@t | | Länge des Knotens | | = | 59° 27′
+@t Mittlere Länge der Venus gleich der der Sonne | | | | = | 131° 1′
+@t | | Summa : | | | 308° 43′
+dazu gehört in Tafel 46 die {i:latitud. sec.} 3° 54′.
+@n {sup:1}) {sp:Batt.} nimmt statt der wahren Länge das Centrum.
+@n {sup:2}) I, 115—116, und II, 249—253.
+@obs The page number «63» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L02 continue the example of the latitude of Saturn of p. 62 (JP2 0094, L31-L38): al-Battānī's rules give 2° 34′, al-Battānī's data with al-Khwārizmī's rules 2° 28′; Suter's computations are not given.
+@obs L11. Checked: 360° − 130° 24′ = 229° 36′. L03-L12: the argument 130° 24′ lies between 90° and 180°, where by the formula of p. 62 (JP2 0094, L11) the latitudo secunda decreases from its maximum, and the heading «latitudo Saturni recedentis» of the column of Table 31 is to be compared with the table.
+@obs L37-L40: the computation, set as a table: the names right-aligned before a column of signs of equality, the figures after them; «Summa :» below a rule under the figures, without a sign of equality. Each printed row is one line here, the cells separated by our «|»; the empty cells give the columns room and are not printed. Checked: 118° 15′ + 59° 27′ + 131° 1′ = 308° 43′; 118° 15′ is the argumentum examinatum of Venus of p. 54 (JP2 0086, L32), 131° 1′ the mean longitude of the sun of p. 42 rounded (p. 53, JP2 0085, N01). The latitudo prima 1p 15′ (Table 48) and the latitudo secunda 3° 54′ (Table 46) are to be compared with the tables.
+@obs L19-L20: Ptolemy's argument for the ratio, the true longitude increased by 50° for Saturn; note 1: al-Battānī takes the centrum instead of the true longitude.
+@obs L23: the v of «verschiedenen» and L28: the d of «die» are partly covered by grey blots of the scan, the letters legible; L20: a speck above the line between «wahren» and «Länge»; not transcribed. L36 and L41: «1p» with the p raised and italic, as on p. 62.
+@obs The dashes: L04 «115—116», L14 «58—59», L35 «15—17» long (39-47 px), with small gaps; L08, L11 and L12 the long dash with a space on either side; N02 «115—116» and «249—253», the long dash of the small type of the notes (31 px, with gaps of 5 and 9 px).
+@obs Spaced type, marked {sp:}: «Batt.», «Kh.», «Ptol.», «Nallino»; italics: «nördlich», «südlich» (L03, L05; upright in L12), «descendens,», «lat. sec.», «latitudo Saturni recedentis.», «Anomalia aequata», «latit. prima», «Latitudo secunda,», «untern», «Breite» (L28, L32), «Beispiel», «Venus» (L32; upright in L34), «Anomalia», «argumentum», «aequata», «latitud. sec.».
+@obs The colons and semicolons stand after the thin space of the edition (10-15 px measured; «obern ;» in L30, 11 px).

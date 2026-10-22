@@ -1,0 +1,241 @@
+{
+ "anchor": "AK01-F061",
+ "frame": 61,
+ "frame_file": "page_061.jpg",
+ "frame_sha256": "0458b7a886aa9a515f82e25fd2f1551cd39ae98fad111d4be8ee718d94e4c2fe",
+ "printed_page": "٤٥",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 061, printed p. 45: the tenth of the various problems solved (the product of the parts of ten divided by their difference gives five and a quarter; reduced to a square and fifty-two and a half equal to twenty roots and a half); the eleventh, «فان قال» in bold: a square of which two thirds of its fifth equal a seventh of its root (the square is one and twenty-nine parts of a hundred and ninety-six); the twelfth, again in bold: three quarters of the fifth of a square equal four fifths of its root, continued on the next page. Below the rule two footnotes of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F061-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "فقياسه أن تأخذ شيئاً من العشرة فيبقى عشرة الاشيئاً فاضرب أحدهما فى الآخر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "فيكون عشرة أجذار الا مالا فهو ماخرج من ضرب أحد القسمين فى الآخر ثم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "قسمت ذلك على فضل مابين القسمين وهوعشرة الا شيئين فخرج من القسم خمسة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "وربع ومتى ضربت خمسة وربعاً فى عشرة الا شيئين خرج لك المال المضروب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "وهو عشرة أشياء الا مالا فاضرب خمسة وربعاً فى عشرة الا شيئين يكون ذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "اثنين وخمسين درهماونصفاً الاعشرة أجذار ونصفا تعدل عشرةأجذار إلا مالا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "فاجبر الاثنين والخمسين والنصف بالعشرة الأجذار والنصف وزدها على العشرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "الأجذار إلا مالا ثم اجبرها بالمال وزد المال على اثنين وخمسين درهما ونصف",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "فيكون معك عشرون جذراً ونصف جذر تعدل اثنين وخمسين درهما ونصفاًومالا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "فقابل بها على مافسرنا فى أول الكتاب {b:فان قال} مال ثلثا خمسه مثل سبع جذره {n:١}",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان قال"
+   ]
+  },
+  {
+   "id": "AK01-F061-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "فان المال كله يعدل جذراً ونصف سبع جذر فالجذر اربعةعشر جزءاً من خمسة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "عشر من المال . وقياسه أن تضرب ثلثى خمس مال فى سبعة ونصف ليتم المال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "واضرب ما معك وهو سبع جذر فى مثل ذلك فيصير المال يعدل جذراً ونصف",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "سبع جذر ويصير جذره واحدا ونصف سبع فالمال واحد وتسعة وعشرون جزءاً",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "من مائة وستة وتسعين من درهم وثلثا خمسه يكون ثلاثين جزءاً من مائة وستة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "وتسعين وسبع جذره أيضاً ثلاثون جزءاً من مائةوستة وتسعين {b:فان قال} مال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان قال"
+   ]
+  },
+  {
+   "id": "AK01-F061-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "ثلاثة أرباع خمسه مثل أربعة أخماس جذره {n:٢} قياسه أن تزيد على ثلاثة",
+   "note_marks": [
+    "٢"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "أرباع خمسه مثل ربعها ليكون الجذر تاماً وذلك ثلاثة وثلاثة أرباع",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F061-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "من عشرين فاجعلها ارباعاً كلها فتكون خمسة عشر من ثمانين فاقسم الثمانين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١",
+    "٢"
+   ],
+   "lines": 2,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L10 and L16: the words فان قال are printed in a bold face, the run-in headings of the eleventh and the twelfth of the various problems; the words that follow are in the face of the text. Neither heading has a full stop before it: in L10 the bold ف stands 4 px (nearest approach of the ink at 400 ppi) from the ب that ends الكتاب, and a word space is transcribed, as after any connecting letter; in L16 it stands 33 px after وتسعين. The bold ن is printed without its dot and the two dots of the bold ق run together, as on frames 055-060; transcribed ن and ق.",
+  "L01: فيبقى (L01): the ending ـقى is printed in its round form, a deep bowl hanging from the loop of the ق, which has the shape of the final ق, as in فالق (frame 062, L11), and not the flat, sweeping tail of فيبقى on frame 059 (L01, L03); the two dots of the ق are printed faint, close to its loop. The print uses the round form also where the yā' is certain, as in بقى (frame 104, L16), مابقى (frame 104, L21) and تلقى (frame 105, L14); the word is transcribed فيبقى, as the text spells it everywhere else.",
+  "L06 and L08: إلا is printed with a hamza below the alif before مالا; الا has a plain alif everywhere else on this page.",
+  "L03: فخرج is printed with the head of the ف set on the خ, whose dot is not printed apart, as in فخرج on frame 060, L16.",
+  "Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): الاشيئاً (L01; 23 between the لا and the ش, as the ligature stands from the next letter inside a word, 20 to 26 px, where it stands 27 or more from the next word on frames 055-060), ماخرج (L02; 10 between the alif and the خ, where ما خرج on frame 058, L06, stands 26 apart), مابين (L03; 17), وهوعشرة (L03; 23 between the و and the ع, the distance of the conjunction و from the ع of وعشرة, 23 px on frame 046, where وهو عشرة in L05 stands 36 apart), درهماونصفاً (L06; 9 between the alif and the conjunction و), الاعشرة (L06; 20 between the لا and the ع, as inside الاعداد on frame 053, L05), عشرةأجذار (L06; 9 between the ة and the alif), ونصفاًومالا (L09; 14 between the alif and the conjunction و), مافسرنا (L10; 12 between the alif and the ف), اربعةعشر (L11; 6 between the ة and the ع), مائةوستة (L16; 6 between the ة and the conjunction و).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: فهو ماخرج (L02; 26 between the و and the م, where the conjunction و of ومالا in L09 stands 19 from the م), درهما ونصف (L08; 20 between the alif and the conjunction و) and درهما ونصفاًومالا (L09; 23), where درهماونصفاً in L06 has 9; ما معك (L13; 23 between the alif and the م, where مامعك on frame 057 has 10); مائة وستة (L15; 18 and 23 between the ة and the conjunction و, where مائةوستة in L16 has 6); واحدا ونصف (L14; 28); وستة وتسعين (L16; 21).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: من العشرة (L01), فيبقى عشرة (L01), فى الآخر (L02), قسمت ذلك (L03), من القسم (L03), تعدل عشرةأجذار (L06; 8 between the final ل and the ع), فيكون معك, معك عشرون, عشرون جذراً, تعدل اثنين, اثنين وخمسين, وخمسين درهما (L09), فى أول (L10), مثل سبع (L10), من مائةوستة (L16; 9 between the ن and the م).",
+  "L12: the full stop stands between spaces (25 and 23 px). The note marks: (١) ends L10, 21 px after جذره; (٢) stands between spaces in L17, 36 px after جذره and 30 px before قياسه; neither has a full stop.",
+  "Plain alif where a hamza might be expected, as printed: الاشيئاً, فاضرب (L01), الا (L02, L03, L04; L05, twice), فاضرب (L05), اثنين, الاعشرة (L06), فاجبر, الاثنين (L07), اجبرها, اثنين (L08), اثنين (L09), فان (L10, L11, L16), اربعةعشر (L11), واضرب (L13), فاجعلها, ارباعاً, فاقسم (L19); with hamza: أن, تأخذ, أحدهما (L01), أجذار, أحد (L02), أشياء (L05), أجذار, عشرةأجذار (L06), الأجذار (L07, L08), أول (L10), أن (L12), أيضاً (L16), أرباع, أربعة, أخماس, أن (L17), أرباع (L18, twice); below the alif: إلا (L06, L08); with madda: الآخر (L01, L02); on ي: شيئاً (L01, twice), شيئين (L03, L04, L05), مائة (L15, twice), مائةوستة (L16); the hamza on the line: أشياء (L05), جزءاً (L11, L14, L15, L16).",
+  "With tanwīn on the final alif: شيئاً (L01, twice), الاشيئاً (L01), وربعاً (L04, L05), درهماونصفاً (L06), جذراً (L09, L11, L13), ونصفاًومالا (L09), جزءاً (L11, L14, L15, L16), أيضاً (L16), تاماً (L18), ارباعاً (L19); without tanwīn as printed: مالا (L02, L05, L06, L08), ونصفا (L06, the second), درهما (L08, L09), واحدا (L14).",
+  "The final yā' is printed without dots: فى (L01, L02, L04, L05, L10, L12, L13), فيبقى (L01), على (L03, L07, L08, L10, L17), ومتى (L04), ثلثى (L12).",
+  "The print stretches الكتاب (L10, between the ل and the ك), قياسه and أربعة (L17, between the س and the ه, and between the ع and the ة) and ربعها (L18, between the ه and the alif) with the elongation stroke; the stroke is not transcribed.",
+  "Notes (١) and (٢) of the editors restate the eleventh and the twelfth of the various problems in modern notation and solve them: (2/15)x² = (1/7)x, x = 15/14, x² = 225/196; and (3/20)x² = (4/5)x, x = 16/3. Neither is reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,53 @@
+@page 116 84
+@lang de
+% JP2 0116: Suter's commentary, p. 84: chapter 31 continued: the end of the explanation of the twelfths; the corrected
+% argument of latitude and the corrected anomaly; the correction for places east or west of Cordova; the example of the
+% opposition in the middle of Rabīʿ II 146: the mean opposition from Tables 70-72 (notes 1-4).
+lungen {i:M} und {i:S} an bis zur Konjunktion {i:K} zu laufen haben. Da das Verhältnis der
+stündlichen Bewegungen der beiden Gestirne nicht konstant ist, so gibt dies Verfahren
+nicht ganz genaue Resultate, und {sp:Batt.} bemerkt daher auch, sein weitläufigeres
+Verfahren sei das richtigere.
+@p Es werden nun noch zwei andere Vorschriften gemacht, die für die Bestimmung
+der Konjunktion ohne Belang sind, aber für die später kommende Berechnung einer
+allfällig eintretenden Finsternis gebraucht werden. {i:Erstens} wird (p. 24) bemerkt, die
+Gleichung des Mondes sei auch vom Argument der Breite zu subtrahieren (bezw.
+dazu zu addieren), dies gibt in unserm Falle 167° 8′ — 4° 15′ 45″ = 162° 52′ 15″,
+ferner sei zu dieser Grösse die korrigierte Längendifferenz (6° 15′ 16″) zu addieren, dies
+gibt : 169° 7′ 31″ als korrigiertes Argument der Breite. {i:Zweitens} wird (p. 24—25) bei-
+gefügt, dass man auch die Anomalie des Mondes noch für die gefundene Zeitkorrektur
+von 10{sup:h} 55{sup:m} 48{sup:s} zu korrigieren habe ; dies geschieht dadurch, dass man diese Grösse
+mit 32′ 40″, d. h. der mittlern stündlichen Bewegung der Anomalie des Mondes multi-
+pliziert, man erhält dadurch, wenn man statt 10{sup:h} 55{sup:m} 48{sup:s} den Dezimalbruch 10,93
+nimmt, 5° 57′ 3″, dies zur Anomalie (119° 10′) addiert{sup:1}) gibt 125° 7′ = die korrigierte
+Anomalie (im Texte : {i:argumentum ratum}).
+@p Am Schlusse wird noch angegeben, wie man die Zeit der Konjunktion zu
+korrigieren habe, wenn der Beobachtungsort westlich oder östlich von Cordova liege.{sup:2})
+Dann wird noch für den Fall, dass man Aequatorialstunden in ungleiche Stunden,
+oder umgekehrt verwandeln wolle, darauf hingewiesen, dass man hiefür die Tafeln
+der Zeitgleichung (67—68) benutzen müsse.
+@p Wir geben auch noch ein {i:Beispiel} einer {i:Oppositionsberechnung.}
+@p Zu welcher Zeit hat um die Mitte des Monats {i:Rabīʿ II} (zählt 29 Tage) d. J. 146
+d. H. die {i:Opposition} von Sonne und Mond (der {i:Vollmond}) stattgefunden ?{sup:3})
+@p Nach den Tafeln 70—72 findet man :
+@t | | | Longit. media | Anomalia | Argumentum
+@t | | Dies et horae | solis et lunae | lunae | latitud. lunae
+@t Am Ende des 120. Jahr | | 14{sup:d} 6{sup:h} 34{sup:m} 9{sup:s} | 279° 28′ 28″ | 29° 12′ 6″ | 67° 12′ 57″
+@t für 25 Jahre | | 4 11 21 | 91 37 55 | 185 3 54 | 201 10 50
+@t für 4 Monate | | {ul:1} 14 12 9{sup:4}) | 87 18 58 | 77 27 4 | 92 0 42
+@t für den 0. Rabīʿ II, 146 : | | 14{sup:d} 0{sup:h} 57{sup:m} 39{sup:s} | 458° 25′ 21″ | 291° 43′ 4″ | 360° 24′ 29″
+@t | | | = 98° 25′ 21″ | | = 0° 24′ 29″
+@p Man bestimmt nun die wahren Längen von Sonne und Mond nach den Tafeln
+21—26 :
+@n {sup:1}) Diese Korrektur ist zu subtrahieren, wenn der Mond der Sonne voraus ist.
+@n {sup:2}) Der Text ist hier fehlerhaft, es muss {i:oriente} mit {i:occidente} vertauscht werden.
+@n {sup:3}) Der 1. Rabīʿ II d. J. 146 entspricht dem 17. Juni 763.
+@n {sup:4}) {ul:1} bedeutet, dass dieser Tag negativ zu nehmen, also von der Summe der übrigen Tage und
+@n Stunden zu subtrahieren ist.
+@obs The page number «84» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 completes the sentence that ends p. 83 (JP2 0115, L30), «die noch die beiden Gestirne von den Stel-».
+@obs L07-L17: the two further rules of chapter 31 of the Latin text (pp. 24-25, JP2 0056-0057). Checked: 167° 8′ − 4° 15′ 45″ = 162° 52′ 15″, and + 6° 15′ 16″ = 169° 7′ 31″; 10h 55m 48s = 10.93 hours, and 10.93 × 32′ 40″ = 357.05′ = 5° 57′ 3″; 119° 10′ + 5° 57′ 3″ = 125° 7′. L17: «argumentum ratum», the «ratum argumentum» of the Latin text (p. 25, JP2 0057, L02-L03).
+@obs L18-L19 and N02: the correction for the longitude of the place (p. 25, JP2 0057, L04-L07): Suter's emendation, «oriente» and «occidente» exchanged, agrees with the check recorded on that page. L20-L22: the equation of time for converting equal hours into unequal ones (p. 25, JP2 0057, L07-L11).
+@obs L27-L33: the computation, set as the table of p. 82 (JP2 0114): five columns divided by vertical rules, not transcribed; «Dies et horae» set between the two lines of the other heads; dotted leaders after «für 25 Jahre» and «für 4 Monate», not transcribed; a rule above L32, broken at the vertical rules; L33, «= 98° 25′ 21″» and «= 0° 24′ 29″», the sums less 360°. Each printed row is one line here, the cells separated by our «|»; the empty cells give the columns room and are not printed. L31 and N04: the 1 of the days is printed with a short bar under it, Suter's sign that the day is to be subtracted; written {ul:1}.
+@obs L27-L33. Checked: 14d 6h 34m 9s + 4h 11m 21s + 14h 12m 9s − 1d = 14d 0h 57m 39s; 279° 28′ 28″ + 91° 37′ 55″ + 87° 18′ 58″ = 458° 25′ 21″; 29° 12′ 6″ + 185° 3′ 54″ + 77° 27′ 4″ = 291° 43′ 4″; 67° 12′ 57″ + 201° 10′ 50″ + 92° 0′ 42″ = 360° 24′ 29″. With Brahmagupta's synodic month (p. 82, JP2 0114): 300 months exceed the 25 years 1-25 of the cycle (8859 days) by 4h 11m 27s (L30: 4h 11m 21s), and the three months to the beginning of Rabīʿ II (89 days) exceed three synodic months by 9h 47m 53s, so that the time to the next opposition is shortened by that much (L31: −1d + 14h 12m 9s = −9h 47m 51s). N03: counted from 15 July 622, 1 Rabīʿ II 146 is 17 June 763.
+@obs L24: «Rabīʿ II» in italics, with the macron and the ʿayn raised; L32 and N03 upright. Spaced type, marked {sp:}: «Batt.»; italics: «M», «S», «K», «Erstens», «Zweitens», «argumentum ratum», «Beispiel», «Oppositionsberechnung.», «Opposition», «Vollmond», «oriente», «occidente».
+@obs The dashes: L09 «8′ — 4°», the long dash with a space on either side (45 px); L11 «24—25» (38 px), L22 «67—68» (49 px), L26 «70—72» (39 px) and L35 «21—26» (45 px), the long dash set close.
+@obs The colons, semicolons and the question mark stand after the thin space of the edition (11-14 px measured; «146 :» in L32, 14 px; «stattgefunden ?», 12 px).

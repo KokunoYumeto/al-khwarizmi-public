@@ -1,0 +1,53 @@
+@page 74 42
+@lang de
+% JP2 0074: Suter's commentary, p. 42: chapter 7 continued: the difference from al-Battānī's longitudes and the
+% sidereal year; the length of the year from Tables 4 and 5; the tropical year and the precession; the mean places of
+% the sun and the moon for noon of 15 Ṣafar 540 (notes 1-4).
+auch bei den Längen der Planeten finden wir diesen Unterschied von 8{sup:1}/{sub:2} bis 9{sup:1}/{sub:2}°
+wieder, mit Ausnahme des Mars, wo der Unterschied 11{sup:1}/{sub:2}° ist ; wahrscheinlich liegen
+hier Fehler der Abschreiber vor. Diese Unterschiede rühren von der Nichtbeachtung
+der {i:Praezession} des Frühlingspunktes her ; in der Tat legte {sp:Kh.} für die Bestimmung
+des mittlern Laufes der Sonne das {i:Sternjahr} und nicht das {i:tropische} Jahr, wie {sp:Batt.}
+zu Grunde ; wenn wir nämlich nach Tafel 4 und 5 die Zeit bestimmen, die die Sonne
+braucht, um einen ganzen Umkreis (= 360°) zu durchlaufen, so finden wir :
+@t In 12 · 30 = | 360 Tagen | = 12 · (29° 34′ 5″) = | 354° 49′
+@t „ | 5 „ | = | 4° 55′ 41″
+@t „ | 6 Stdn. | = | 14′ 47″
+@t „ | 13 Min. | = | 32″
+@t also in | 365{sup:d} 6{sup:h} 13{sup:m} | = | 360° 0′ 0″
+{sp:Kh.} nahm also die Länge des Sternjahres zu 365{sup:d} 6{sup:h} 13{sup:m} an ; wir finden im {i:Sūrya-}
+{i:Siddhānta}{sup:1}) für die Länge des Sternjahres 365{sup:d} 6{sup:h} 12,6{sup:m}, was ungefähr mit unserer
+Berechnung stimmt{sup:2}). — {sp:Kh.} erwähnt das tropische Jahr gar nicht in seinem Werke,
+und es scheint in der Tat, dass auch die Inder bis und mit {sp:Brahmagupta} es nicht
+gekannt haben. Das, was im {i:Sūrya-Siddhānta}{sup:3}) über die Praezession gesagt ist, soll
+nach {sp:Burgess} und {sp:Thibaut}{sup:4}) eine spätere Einschiebung sein ; dagegen lehrte aller-
+dings Āryabhaṭṭa am Ende des 5. Jahrh. n. Chr. die {i:Trepidation} der Fixsterne, bezw.
+des Frühlingspunktes.
+@p Als Beispiele für den Gebrauch der Tafeln geben wir die Berechnung des
+mittlern Ortes der Sonne und des Mondes für Mittag den {i:15. Ṣafar} des J. 540 d. H.
+@t {i:1. Sonne} : | Länge am Ende des 510. Jahres | = | 38° 35′ 45″
+@t | Zunahme in 29 Jahren | = | 49° 2′ 50″
+@t | „ „ 1 Monat | = | 29° 34′ 5″
+@t | „ „ 14 Tagen | = | 13° 47′ 54″
+@t | Summa | = | 131° 0′ 34″
+Also war die mittlere Länge der Sonne zur genannten Zeit = 131° 0′ 34″.
+@t {i:2. Mond} : | Länge am Ende des 510. Jahres | = | 40° 56′ 38″
+@t | Zunahme in 29 Jahren | = | 53° 24′ 16″
+@t | „ „ 1 Monat | = | 35° 17′ 26″
+@t | „ „ 14 Tagen | = | 184° 28′ 8″
+@t | Summa : | = | 314° 6′ 28″
+Also war die mittlere Länge des Mondes zur genannten Zeit = 314° 6′ 28″.
+@n {sup:1}) E. {sp:Burgess}, {i:Translation of the S. S.}, im Journal of the American Oriental Society, Vol. VI,
+@n 1860, p. 161.
+@n {sup:2}) S. unten Kap. 21 u. 22.
+@n {sup:3}) Transl. {sp:Burgess}, l. c. p. 244—249.
+@n {sup:4}) {i:Astronomie, Astrologie u. Mathematik}, im Grundriss der Indo-Arischen Philologie u. Alter-
+@n tumskunde, 3. Bd. 9. Heft, p. 45–46.
+@obs The page number «42» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «auch» continues the sentence that ends p. 41 (JP2 0073, L38) with a semicolon.
+@obs L08-L12: the computation of the year, set as a small table: the ditto marks „ stand under «In» and under «Tagen»; the last row, «also in 365d 6h 13m = 360° 0′ 0″», stands below a rule across the table; «·», the raised dot of multiplication. L23-L27 and L29-L33: the two examples, set as tables: the ditto marks „ under «Zunahme in»; the sums below a short rule under the figures; L23 and L29 «1. Sonne :», «2. Mond :» in italics with their numbers; L33 has «Summa : =», L27 «Summa =». Each printed row is one line here, the cells separated by our «|»; the empty cells give the words room and are not printed. L13-L14: «365d 6h 13m», «365d 6h 12,6m», the letters raised.
+@obs L08-L12, L23-L34. Checked: 12 × 29° 34′ 5″ = 354° 49′; the four values add up to 360° 0′ 0″; 38° 35′ 45″ + 49° 2′ 50″ + 29° 34′ 5″ + 13° 47′ 54″ = 131° 0′ 34″, and 40° 56′ 38″ + 53° 24′ 16″ + 35° 17′ 26″ + 184° 28′ 8″ = 314° 6′ 28″. The month of the examples is Muḥarram, 30 days, and the 14 days run from noon of 1 Ṣafar to noon of 15 Ṣafar; the 29 years 511-539 have eleven leap years, 10277 days; the 510 years are seventeen cycles of 10631 days, 180727 days.
+@obs L08-L14. Checked: the values for 360 days, 5 days, 6 hours and 13 minutes are rounded to the second and the first is twelve times the rounded value for thirty days, so that they fix the length of the year only to within a few minutes. The long periods of the tables fix it more closely, and they fit the year of Brahmagupta's Brahmasphuṭasiddhānta, 1 577 916 450 000 days in 4 320 000 000 years, 365.2584375 days or 365d 6h 12m 9s: with it 10277 days give 49° 2′ 50″, the value of L24, and 180727 days added to the radix 113° 25′ 48″ (p. 41, JP2 0073, L36) give 38° 35′ 47″, against 38° 35′ 45″ in L23; 30 days give 29° 34′ 5″ and 14 days 13° 47′ 54″, as in L25-L26. The year of 365d 6h 13m (L13) gives 49° 1′ 48″ and 38° 17′ 45″, the Sūrya-Siddhānta's year of 1 577 917 828 days in 4 320 000 years 49° 2′ 18″ and 38° 26′ 27″. For the moon, Brahmagupta's 57 753 300 000 revolutions in the same days give 53° 24′ 17″ for the 29 years (L30: 53° 24′ 16″), 35° 17′ 26″ for 30 days and 184° 28′ 8″ for 14 days, as in L31-L32; the Sūrya-Siddhānta's 57 753 336 revolutions give 53° 22′ 15″ for the 29 years.
+@obs L19: «Āryabhaṭṭa», with the macron over the capital A and dots under both t, upright and not spaced. L07: the last n of «durchlaufen» is a bold sort; N02: the first 1 of «161», 23 px wide where the last is 17 px, is a bold sort; transcribed as the letters. N04: «244—249», the long dash set close; N06: «45–46», a shorter dash (26 px) with a gap of 8-9 px on either side; transcribed as an en dash. N01: «S. S.», the Sūrya-Siddhānta, in italics within the title.
+@obs Spaced type, marked {sp:}: «Kh.», «Batt.», «Brahmagupta», «Burgess», «Thibaut». Italics: «Praezession» (L04; upright in L17), «Sternjahr», «tropische» (L05; upright in L15), «Sūrya-Siddhānta», «Trepidation», «15. Ṣafar» with its number, and the titles.
+@obs The colons and semicolons stand after the thin space of the edition (9-12 px measured).
+@obs L08-L13: in the additions, p. 235 (JP2 0267, L22-L33), Suter computes the length of the year again from Tables 4 and 5, without the multiplication by 12, and finds 365d 6h 12m.

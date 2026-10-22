@@ -1,0 +1,762 @@
+{
+ "anchor": "AK07-J0094",
+ "jp2_index": 94,
+ "jp2_member": "b24872489_0094.jp2",
+ "jp2_sha256": "8df62aee09d6233c3826fa099573e1a9b1faa4f75d273fb8da06ec2b5f41654c",
+ "reading_copy": "page_0094.jpg",
+ "reading_copy_sha256": "0cf88e9d341ec77048f51ac6c47625a35a513c0b347a3d15cad717d2c8663b04",
+ "printed_page": "62",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0094: Suter's commentary, p. 62: chapter 17 continued: the second proportion with arcs for sines; the columns latitudo secunda and latitudo prima of Tables 27-56 compared with the rule of the Sūrya-Siddhānta; the example of the latitude of Saturn for 15 Ṣafar 540 (note 1).",
+ "lines": [
+  {
+   "id": "AK07-J0094-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "oder wie oben bemerkt wurde, statt der Sinus die Bogen (Winkel) gesetzt :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "oder wie oben bemerkt wurde, statt der Sinus die Bogen (Winkel) gesetzt :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L02",
+   "n": 2,
+   "kind": "centre",
+   "text": "{fr:Breite in der mittleren Dist. {i:r}|Breite in der wahren Dist {i:r′}} = {fr:{i:r′}|{i:r}},",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(Breite in der mittleren Dist. r)/(Breite in der wahren Dist r′) = (r′)/(r),",
+   "italic": [
+    "r",
+    "r′",
+    "r′",
+    "r"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "dies ist die 2. Proportion des {i:Sūrya-Siddhānta.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dies ist die 2. Proportion des Sūrya-Siddhānta.",
+   "italic": [
+    "Sūrya-Siddhānta."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L04",
+   "n": 4,
+   "kind": "indent",
+   "text": "Es stimmen nun die Werte der Breite der Planeten nach {sp:Batt.} berechnet",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Es stimmen nun die Werte der Breite der Planeten nach Batt. berechnet",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "keineswegs mit den nach dem {i:Sūrya-Siddhānta} berechneten, aber auch die letztern",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "keineswegs mit den nach dem Sūrya-Siddhānta berechneten, aber auch die letztern",
+   "italic": [
+    "Sūrya-Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "stimmen nicht mit den nach {sp:Kh.} berechneten. Wir haben oben schon bemerkt,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "stimmen nicht mit den nach Kh. berechneten. Wir haben oben schon bemerkt,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "dass die Regel {sp:Kh.}’s keine direkte Übereinstimmung mit der des {i:Sūrya-Siddhānta}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dass die Regel Kh.’s keine direkte Übereinstimmung mit der des Sūrya-Siddhānta",
+   "italic": [
+    "Sūrya-Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "zeige, wir wollen nun nachzuweisen versuchen, wie weit sie übereinstimmen.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zeige, wir wollen nun nachzuweisen versuchen, wie weit sie übereinstimmen.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L09",
+   "n": 9,
+   "kind": "indent",
+   "text": "Wir haben gefunden, dass die Zahlen der letzten Kolonne in den Tafeln 27—56,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wir haben gefunden, dass die Zahlen der letzten Kolonne in den Tafeln 27—56,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "die die Überschrift {i:Latitudo secunda} trägt, erhalten werden nach der Formel :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die die Überschrift Latitudo secunda trägt, erhalten werden nach der Formel :",
+   "italic": [
+    "Latitudo secunda"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L11",
+   "n": 11,
+   "kind": "centre",
+   "text": "sin {i:lat. sec.} = sin {i:argum.} × sin {i:lat. maxim.},",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sin lat. sec. = sin argum. × sin lat. maxim.,",
+   "italic": [
+    "lat. sec.",
+    "argum.",
+    "lat. maxim."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "wo das {i:argumentum} = wahre Länge des Planeten weniger Länge seines Knotens =",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wo das argumentum = wahre Länge des Planeten weniger Länge seines Knotens =",
+   "italic": [
+    "argumentum"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "Distanz des Planeten vom Knoten ist, und die {i:lat. max.} (in der mittleren Distanz) =",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Distanz des Planeten vom Knoten ist, und die lat. max. (in der mittleren Distanz) =",
+   "italic": [
+    "lat. max."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "der {i:lat. secunda} für 90° ist (bei Saturn = 5° nach {sp:Kh.}) ; es stimmt also diese {i:lat.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der lat. secunda für 90° ist (bei Saturn = 5° nach Kh.) ; es stimmt also diese lat.",
+   "italic": [
+    "lat. secunda",
+    "lat."
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "{i:secunda} mit dem Zähler des Wertes für die Breite in wahrer Distanz (s. p. 61){sup:1}).",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "secunda mit dem Zähler des Wertes für die Breite in wahrer Distanz (s. p. 61)1).",
+   "italic": [
+    "secunda"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "Nun heisst es in der Regel {sp:Kh.}’s, man müsse die {i:lat. secunda} durch die {i:lat. prima}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Nun heisst es in der Regel Kh.’s, man müsse die lat. secunda durch die lat. prima",
+   "italic": [
+    "lat. secunda",
+    "lat. prima"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "teilen, um die gesuchte Breite zu erhalten, aber nicht durch die {i:lat. prima,} die dem",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "teilen, um die gesuchte Breite zu erhalten, aber nicht durch die lat. prima, die dem",
+   "italic": [
+    "lat. prima,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "vorigen Argumente (Distanz des Planeten vom Knoten) entspricht, sondern durch",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "vorigen Argumente (Distanz des Planeten vom Knoten) entspricht, sondern durch",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "diejenige, die dem Argument {i:Anomalia aequata} ({i:elheza examinatum} (!) im Texte)",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "diejenige, die dem Argument Anomalia aequata (elheza examinatum (!) im Texte)",
+   "italic": [
+    "Anomalia aequata",
+    "elheza examinatum"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "entspricht ; vergleicht man dies mit der im {i:Sūrya-Siddhānta} für die Breite in der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "entspricht ; vergleicht man dies mit der im Sūrya-Siddhānta für die Breite in der",
+   "italic": [
+    "Sūrya-Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "wahren Distanz gegebenen Formel, so müsste also diese {i:lat. prima,} die der {i:Anomalia}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wahren Distanz gegebenen Formel, so müsste also diese lat. prima, die der Anomalia",
+   "italic": [
+    "lat. prima,",
+    "Anomalia"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "{i:aequata} entspricht, gleich dem variabeln Radius {i:r′} sein. Die Tafeln der Planeten",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "aequata entspricht, gleich dem variabeln Radius r′ sein. Die Tafeln der Planeten",
+   "italic": [
+    "aequata",
+    "r′"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "(Nr. 27—56) enthalten aber dieses {i:r′} nicht in absoluter Grösse, sondern geben sein",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(Nr. 27—56) enthalten aber dieses r′ nicht in absoluter Grösse, sondern geben sein",
+   "italic": [
+    "r′"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "Verhältnis zum mittleren Radius {i:r} an, oder mit andern Worten : Die Zahlen der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Verhältnis zum mittleren Radius r an, oder mit andern Worten : Die Zahlen der",
+   "italic": [
+    "r"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "Kolonne {i:lat. prima} repräsentieren die Werte für {i:r′}, wenn {i:r} = 1 angenommen wird.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kolonne lat. prima repräsentieren die Werte für r′, wenn r = 1 angenommen wird.",
+   "italic": [
+    "lat. prima",
+    "r′",
+    "r"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L26",
+   "n": 26,
+   "kind": "indent",
+   "text": "Wie dieses {i:r′} bestimmt worden ist, konnten wir nicht herausfinden, aber",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wie dieses r′ bestimmt worden ist, konnten wir nicht herausfinden, aber",
+   "italic": [
+    "r′"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "jedenfalls ist es unrichtig, wenn die Kolonne der {i:lat. prima} mit Graden und",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "jedenfalls ist es unrichtig, wenn die Kolonne der lat. prima mit Graden und",
+   "italic": [
+    "lat. prima"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "Minuten überschrieben ist, {i:r′} oder vielmehr {fr:{i:r′}|{i:r}} ist eine unbenannte Grösse, und es",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Minuten überschrieben ist, r′ oder vielmehr (r′)/(r) ist eine unbenannte Grösse, und es",
+   "italic": [
+    "r′",
+    "r′",
+    "r"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "sollte daher statt {i:Grade} und {i:Minuten} heissen {i:Partes} und {i:Minutae,} dann erhält man",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sollte daher statt Grade und Minuten heissen Partes und Minutae, dann erhält man",
+   "italic": [
+    "Grade",
+    "Minuten",
+    "Partes",
+    "Minutae,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "auch für den Quotienten von {i:lat. sec.} durch {i:lat. prima} wieder Grade und Minuten.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "auch für den Quotienten von lat. sec. durch lat. prima wieder Grade und Minuten.",
+   "italic": [
+    "lat. sec.",
+    "lat. prima"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L31",
+   "n": 31,
+   "kind": "indent",
+   "text": "Wir wollen nun genau den Regeln {sp:Kh.}’s entsprechend ein {i:Beispiel} geben. Es",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wir wollen nun genau den Regeln Kh.’s entsprechend ein Beispiel geben. Es",
+   "italic": [
+    "Beispiel"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "sei die {i:Breite} des {i:Saturns} für den Anfang des 15. Ṣafar d. J. 540 d. H. zu bestimmen :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sei die Breite des Saturns für den Anfang des 15. Ṣafar d. J. 540 d. H. zu bestimmen :",
+   "italic": [
+    "Breite",
+    "Saturns"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L33",
+   "n": 33,
+   "kind": "indent",
+   "text": "Die {i:Anomalia aequata} ({i:elheza examinata}) für diesen Zeitpunkt ist = 109° 24{sup:1}/{sub:2}′",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Die Anomalia aequata (elheza examinata) für diesen Zeitpunkt ist = 109° 241/2′",
+   "italic": [
+    "Anomalia aequata",
+    "elheza examinata"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "(s. p. 53), dazu gehört nach Tafel 30 die latitudo prima 1° 15′, oder vielmehr 1{sup:{i:p}} 15′",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(s. p. 53), dazu gehört nach Tafel 30 die latitudo prima 1° 15′, oder vielmehr 1p 15′",
+   "italic": [
+    "p"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "= 1{sup:1}/{sub:4} ; der wahre Ort des Planeten für diesen Zeitpunkt ist = 27° 12′ (s. p. 53), die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "= 11/4 ; der wahre Ort des Planeten für diesen Zeitpunkt ist = 27° 12′ (s. p. 53), die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L36",
+   "n": 36,
+   "kind": "text",
+   "text": "Länge des Knotens = 103° 12′ (s. p. 64), diese beiden addiert, gibt 130° 24′ ; diesem",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Länge des Knotens = 103° 12′ (s. p. 64), diese beiden addiert, gibt 130° 24′ ; diesem",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "Argument entspricht in Tafel 31 die latitudo secunda 3° 48″ 27′, nun haben wir :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Argument entspricht in Tafel 31 die latitudo secunda 3° 48″ 27′, nun haben wir :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-L38",
+   "n": 38,
+   "kind": "centre",
+   "text": "3° 48{sup:1}/{sub:2}′ ∶ 1{sup:{i:p}} 15′ = 228{sup:1}/{sub:2}′ ∶ 1{sup:1}/{sub:4} = 183′ = 3° 3′ = {i:gesuchte Breite.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "3° 481/2′ ∶ 1p 15′ = 2281/2′ ∶ 11/4 = 183′ = 3° 3′ = gesuchte Breite.",
+   "italic": [
+    "p",
+    "gesuchte Breite."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0094-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Wenn man statt „grösste Breite“ „{i:sin} grösste Breite“ setzt.",
+   "margin": null,
+   "plain": "1) Wenn man statt „grösste Breite“ „sin grösste Breite“ setzt.",
+   "italic": [
+    "sin"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «62» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «oder wie oben bemerkt wurde» continues the explanation of the second proportion from p. 61 (JP2 0093, L34), «also sin HMB : sin PEA = r′ : r,».",
+  "L02, L11 and L38: the formulas displayed, centred; the fractions of L02 and L28 built up, written {fr:NUMERATOR|DENOMINATOR}; L02 ends with a comma after the last fraction, L11 with a comma after «maxim.». In the denominator of L02 «Dist» has no point, where the numerator has «Dist. r»; see the critical note. L38: the colons of the two divisions set with a word space on either side (31-32 px measured), written ∶ (U+2236); «1p», the p raised and in italics, as in L34.",
+  "L11-L15 and L33-L38. Checked: with the greatest latitude of Saturn, 5° (L14), the formula of L11 gives for the argument 130° 24′ a latitudo secunda of 3° 48′ 20″, for 130° 3° 49′ 42″ and for 131° 3° 46′ 17″; the 3° 48′ 27″ of the example, read from Table 31, answers to a greatest latitude of 5° 0′ 9″. 27° 12′ + 103° 12′ = 130° 24′: the true place of Saturn of p. 53 (JP2 0085) and the number of its node in chapter 19 (p. 64, JP2 0096, L38; Latin p. 15, JP2 0047, L08-L09), which the text of chapter 17 adds to the place of the planet («draconis sui numerus loco eiusdem planetae prius examinato coacervabitur», p. 14, JP2 0046, L10-L11), where L12 takes the longitude of the node away. 3° 48½′ = 228½′, and 228½′ : 1¼ = 182.8′, 183′ = 3° 3′. The values of Tables 30 and 31 are to be compared with the tables.",
+  "L19: «elheza examinatum (!)», Suter's «(!)» upright: the Latin of chapter 17 (p. 14, JP2 0046, L09) has «elheca … examinatum». L24: «Worten : Die», the capital after the colon as printed. N01: «sin» in italics within the second quotation.",
+  "Spaced type, marked {sp:}: «Batt.», «Kh.»; italics: «Sūrya-Siddhānta», «Latitudo secunda», «lat. sec.», «argum.», «lat. maxim.», «argumentum», «lat. max.», «lat. secunda», «lat. prima», «Anomalia aequata», «elheza examinatum», «elheza examinata», «r», «r′», «Grade», «Minuten», «Partes», «Minutae,», «Beispiel», «Breite» (L32), «Saturns», «gesuchte Breite.»; «latitudo prima» (L34) and «latitudo secunda» (L37) upright.",
+  "The other colons and the semicolons stand after the thin space of the edition (8-13 px measured; «Kh.) ;» in L14, 8 px)."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK07-CN056",
+   "class": "missing point",
+   "line": "L02",
+   "printed": "Breite in der wahren Dist r′",
+   "proposed": "Breite in der wahren Dist. r′",
+   "evidence": "the abbreviation has its point in the numerator of the same fraction, «Breite in der mittleren Dist. r», and on p. 61 (JP2 0093, L04-L08)",
+   "confidence": "high",
+   "impact": "none"
+  },
+  {
+   "id": "AK07-CN057",
+   "class": "wrong signs",
+   "line": "L37",
+   "printed": "3° 48″ 27′",
+   "proposed": "3° 48′ 27″",
+   "evidence": "the minutes and the seconds have exchanged their signs: the next line divides 3° 48½′, that is 3° 48′ 30″, rounded from 3° 48′ 27″",
+   "confidence": "high",
+   "impact": "none on the result"
+  }
+ ]
+}

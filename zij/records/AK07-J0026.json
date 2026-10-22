@@ -1,0 +1,775 @@
+{
+ "anchor": "AK07-J0026",
+ "jp2_index": 26,
+ "jp2_member": "b24872489_0026.jp2",
+ "jp2_sha256": "3a289f34d491b030fbdeedc7ece3d91a7ef7c670443e89186835b713033b6870",
+ "reading_copy": "page_0026.jpg",
+ "reading_copy_sha256": "b7d48cfd6b07a68ef670e2cfcd3ca3d08276c89ae8c35b36c6b0216b57989c54",
+ "printed_page": "XXII",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0026: the introduction, p. XXII: Hermes, Ophiel and Mephistopheles; the four words of O fol. 132v; the Arabic words of C fol. 83r (Nallino's reading); the Persian names of the planets in the titles of the tables, and the two Iranian names of Venus (Nallino's reading).",
+ "lines": [
+  {
+   "id": "AK07-J0026-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "dem {i:Hermes Trismegistos} oder {i:Thoth} der Aegypter identifiziert worden ist, und dieser",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dem Hermes Trismegistos oder Thoth der Aegypter identifiziert worden ist, und dieser",
+   "italic": [
+    "Hermes Trismegistos",
+    "Thoth"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "war der Schutzgott der Alchemisten, Astrologen und Magier. In den Mirakel- und",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "war der Schutzgott der Alchemisten, Astrologen und Magier. In den Mirakel- und",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "Zauberbüchern des christlichen Mittelalters wird als einer der sieben Fürsten der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Zauberbüchern des christlichen Mittelalters wird als einer der sieben Fürsten der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "Unterwelt {i:Ophiel} genannt ; dieses Wort ist sehr wahrscheinlich zusammengesetzt aus",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Unterwelt Ophiel genannt ; dieses Wort ist sehr wahrscheinlich zusammengesetzt aus",
+   "italic": [
+    "Ophiel"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "dem griech. {i:ophis} = Schlange, und dem hebr. {i:el} = Gott, also Schlangengott =",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dem griech. ophis = Schlange, und dem hebr. el = Gott, also Schlangengott =",
+   "italic": [
+    "ophis",
+    "el"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "{i:Hermes} ; verbunden mit dem {i:megistos} des Wortes {i:Trismegistos} wurde {i:Ophiel} zu {i:Megi-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Hermes ; verbunden mit dem megistos des Wortes Trismegistos wurde Ophiel zu Megi-",
+   "italic": [
+    "Hermes",
+    "megistos",
+    "Trismegistos",
+    "Ophiel",
+    "Megi-"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "{i:stophiel,} und hieraus entstand das verderbte oder absichtlich entstellte {i:Mephistopheles.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "stophiel, und hieraus entstand das verderbte oder absichtlich entstellte Mephistopheles.",
+   "italic": [
+    "stophiel,",
+    "Mephistopheles."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "Es ist dies wohl die beste Etymologie für dieses Wort{sup:1}). .",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Es ist dies wohl die beste Etymologie für dieses Wort1). .",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L09",
+   "n": 9,
+   "kind": "indent",
+   "text": "Wieder im Ms. O stehen am obern Rand von fol. 132{sup:v} (in unserm Text p. 20)",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wieder im Ms. O stehen am obern Rand von fol. 132v (in unserm Text p. 20)",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "die vier Wörter : {i:eltabeb, helhacib, elhaazem, el-munegim} ; das erste, zweite und vierte",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die vier Wörter : eltabeb, helhacib, elhaazem, el-munegim ; das erste, zweite und vierte",
+   "italic": [
+    "eltabeb, helhacib, elhaazem, el-munegim"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "sind wohl zu lesen : {i:al-ṭabīb, al-ḥāsib, al-munaddjim}, und bedeuten dann : der Arzt,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sind wohl zu lesen : al-ṭabīb, al-ḥāsib, al-munaddjim, und bedeuten dann : der Arzt,",
+   "italic": [
+    "al-ṭabīb, al-ḥāsib, al-munaddjim"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "der Rechner, der Astronom ; das dritte weiss ich nicht zu deuten. Was der Schreiber",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Rechner, der Astronom ; das dritte weiss ich nicht zu deuten. Was der Schreiber",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "mit diesen Wörtern sagen will, ist mir unklar, vielleicht meint er, dass das folgende",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mit diesen Wörtern sagen will, ist mir unklar, vielleicht meint er, dass das folgende",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "Kapitel : {i:Quot gradibus in qualibet regione quodlibet oriatur signum} für diese Berufs-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kapitel : Quot gradibus in qualibet regione quodlibet oriatur signum für diese Berufs-",
+   "italic": [
+    "Quot gradibus in qualibet regione quodlibet oriatur signum"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "arten von Wichtigkeit sei.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "arten von Wichtigkeit sei.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L16",
+   "n": 16,
+   "kind": "indent",
+   "text": "Im Ms. C stehen auf fol. 83{sup:r} (p. 27 unseres Textes) nach den Worten {i:et accipies}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Im Ms. C stehen auf fol. 83r (p. 27 unseres Textes) nach den Worten et accipies",
+   "italic": [
+    "et accipies"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "{i:quod contra invenies} die folgenden : {i:wakhod mebibelche} ; {sp:Nallino} glaubt und wohl",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "quod contra invenies die folgenden : wakhod mebibelche ; Nallino glaubt und wohl",
+   "italic": [
+    "quod contra invenies",
+    "wakhod mebibelche"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "mit Recht, das letzte Wort müsse gelesen werden {i:mekibelche} und dann hiesse der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mit Recht, das letzte Wort müsse gelesen werden mekibelche und dann hiesse der",
+   "italic": [
+    "mekibelche"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "Satz : {i:wakhudh mā ḳibālahā}{sup:2}), d. h. und nimm was ihm (d. h. dem Argument) gegen-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Satz : wakhudh mā ḳibālahā2), d. h. und nimm was ihm (d. h. dem Argument) gegen-",
+   "italic": [
+    "wakhudh mā ḳibālahā"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "über steht ; also einfach der arabische Text zu der vorhergehenden Übersetzung",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "über steht ; also einfach der arabische Text zu der vorhergehenden Übersetzung",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "{i:et accipies quod contra invenies.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "et accipies quod contra invenies.",
+   "italic": [
+    "et accipies quod contra invenies."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L22",
+   "n": 22,
+   "kind": "indent",
+   "text": "In den Titeln der Tafeln 27, 33, 39 u. 45 steht in beiden Mss. C u. O jeweilen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "In den Titeln der Tafeln 27, 33, 39 u. 45 steht in beiden Mss. C u. O jeweilen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "nach dem {i:arabischen} Namen des Planeten noch der {i:persische}, nur auf Tafel 51 fehlt",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nach dem arabischen Namen des Planeten noch der persische, nur auf Tafel 51 fehlt",
+   "italic": [
+    "arabischen",
+    "persische"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "der persische für Merkur. Diejenigen für Saturn ({i:Keiwen} = {i:Kaiwān}), Jupiter ({i:Hormi}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der persische für Merkur. Diejenigen für Saturn (Keiwen = Kaiwān), Jupiter (Hormi",
+   "italic": [
+    "Keiwen",
+    "Kaiwān",
+    "Hormi"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "= {i:Hormuz}) und Mars ({i:Baheram} = {i:Bahrām}) habe ich wohl erkannt, die für Venus{sup:3})",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "= Hormuz) und Mars (Baheram = Bahrām) habe ich wohl erkannt, die für Venus3)",
+   "italic": [
+    "Hormuz",
+    "Baheram",
+    "Bahrām"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "aber sind so verdorben, dass mir die Deutung nicht gelingen wollte. Auf fol. 122{sup:v}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "aber sind so verdorben, dass mir die Deutung nicht gelingen wollte. Auf fol. 122v",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "(Tafel 45) des Ms. O stehen nach dem arabischen Namen für Venus ({i:elzohara}) folgende",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(Tafel 45) des Ms. O stehen nach dem arabischen Namen für Venus (elzohara) folgende",
+   "italic": [
+    "elzohara"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "Worte : {i:beied hakht eneid,} auf fol. 65{sup:r} des Ms. C steht nach demselben arabischen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Worte : beied hakht eneid, auf fol. 65r des Ms. C steht nach demselben arabischen",
+   "italic": [
+    "beied hakht eneid,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "Worte : {i:bei ed halt eneid.} Ich vermutete wohl im letzten Worte {i:eneid} den mir bekannten",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Worte : bei ed halt eneid. Ich vermutete wohl im letzten Worte eneid den mir bekannten",
+   "italic": [
+    "bei ed halt eneid.",
+    "eneid"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "persischen Namen für Venus {i:nāhīd}, mich störte aber das {i:e} vor {i:neid}, ich wusste",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "persischen Namen für Venus nāhīd, mich störte aber das e vor neid, ich wusste",
+   "italic": [
+    "nāhīd",
+    "e",
+    "neid"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "nämlich nicht, dass der persische Name auch {i:anāhīd} geschrieben wird ; gänzlich",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nämlich nicht, dass der persische Name auch anāhīd geschrieben wird ; gänzlich",
+   "italic": [
+    "anāhīd"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "unverständlich aber war mir {i:beied hakht} oder {i:bei ed halt.} Da führte mich auch",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "unverständlich aber war mir beied hakht oder bei ed halt. Da führte mich auch",
+   "italic": [
+    "beied hakht",
+    "bei ed halt."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "wieder das Wissen {sp:Nallinos} in diesen Dingen auf den richtigen Weg : {i:beied hakht}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wieder das Wissen Nallinos in diesen Dingen auf den richtigen Weg : beied hakht",
+   "italic": [
+    "beied hakht"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Nallinos"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "{i:eneid} ist verdorben aus {i:bēdukht anāhīd} ; dies sind Namen zweier alter iranischer",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "eneid ist verdorben aus bēdukht anāhīd ; dies sind Namen zweier alter iranischer",
+   "italic": [
+    "eneid",
+    "bēdukht anāhīd"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "weiblicher Gottheiten, die später dann auf den Planeten Venus übertragen worden",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "weiblicher Gottheiten, die später dann auf den Planeten Venus übertragen worden",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L36",
+   "n": 36,
+   "kind": "text",
+   "text": "sind. — Es ist sehr wahrscheinlich, dass diese persischen Namen für die Planeten",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sind. — Es ist sehr wahrscheinlich, dass diese persischen Namen für die Planeten",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "von {sp:Al-Khwārizmī} herstammen, denn {sp:Maslama} wird kaum persisch verstanden",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "von Al-Khwārizmī herstammen, denn Maslama wird kaum persisch verstanden",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Khwārizmī",
+    "Maslama"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-L38",
+   "n": 38,
+   "kind": "text",
+   "text": "haben.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "haben.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Vergl. J. {sp:Goebel} in {i:Beilage zur Allgem. Zeitung}, 1905, Nr. 195.",
+   "margin": null,
+   "plain": "1) Vergl. J. Goebel in Beilage zur Allgem. Zeitung, 1905, Nr. 195.",
+   "italic": [
+    "Beilage zur Allgem. Zeitung"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Goebel"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "{sup:2}) Für den Leser, dem das Arabische unbekannt ist, bemerken wir, dass die Westaraber das",
+   "margin": null,
+   "plain": "2) Für den Leser, dem das Arabische unbekannt ist, bemerken wir, dass die Westaraber das",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "{i:ā} wie {i:ē} ausgesprochen haben, und jetzt in Marokko noch so sprechen ({i:Fēs} für {i:Fās}).",
+   "margin": null,
+   "plain": "ā wie ē ausgesprochen haben, und jetzt in Marokko noch so sprechen (Fēs für Fās).",
+   "italic": [
+    "ā",
+    "ē",
+    "Fēs",
+    "Fās"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0026-N04",
+   "n": 4,
+   "kind": "note",
+   "text": "{sup:3}) Für diesen Planeten hatten die Perser zwei verschiedene Namen.",
+   "margin": null,
+   "plain": "3) Für diesen Planeten hatten die Perser zwei verschiedene Namen.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «XXII» stands at the head of the page, centred, with a rule below it. L01-L08 end the explanation of the note of O fol. 127v begun on p. XXI (JP2 0025, L26-L41): Merkur stands for Iblīs because Hermes was identified with Hermes Trismegistos and Thoth.",
+  "L08: after «Wort1).» a second point stands on the base line, 35 px to the right, as dark and as large as the full stop before it (7 by 6 px, darkest pixel 15); transcribed as printed, see the critical note.",
+  "L31: the m of «nämlich» is printed broken, its last arch and stem faint, so that the word looks like «nänılich»; transcribed «nämlich». N03: the italic capital F of «Fēs» and «Fās» is heavier than the rest of the words; transcribed as italics.",
+  "Marks not transcribed: a speck at the right of the page number; a small mark, like the corner of a spacing sort, at the upper left of the d of «dem» (L27)."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK07-CN006",
+   "class": "stray point",
+   "line": "L08",
+   "printed": "Wort{sup:1}). .",
+   "proposed": "Wort{sup:1}).",
+   "evidence": "a second point, printed after the full stop that ends the paragraph, has no function; a raised spacing sort or a point that has slipped in the forme",
+   "confidence": "medium",
+   "impact": "none"
+  }
+ ]
+}

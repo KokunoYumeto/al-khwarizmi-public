@@ -1,0 +1,393 @@
+{
+ "anchor": "AK02-F020",
+ "frame": 20,
+ "frame_file": "page_020.jpg",
+ "frame_sha256": "509c0dc42f922ce67e2cd90c6312ce08f12061cd314fb06f0a55f4be877df343",
+ "printed_page": "14",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 020, printed p. 14: division continued: the divisor moved one place to the right after each round, a place with a circle not passed over; what stands above the divisor at the end is the quotient, what remains is a part of one; division the converse of multiplication; the example of division, 46468 by 324, set out.",
+ "lines": [
+  {
+   "id": "AK02-F020-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "fac in diminutione quem admodum fecimus in inicio libri.",
+   "margin": null,
+   "plain": "fac in diminutione quem admodum fecimus in inicio libri.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "Cum uolueris minuere aliquem numerum de aliquo numero,et",
+   "margin": null,
+   "plain": "Cum uolueris minuere aliquem numerum de aliquo numero,et",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "similiter fac,donec multiplices eum in uniuersis differentiis in-",
+   "margin": null,
+   "plain": "similiter fac,donec multiplices eum in uniuersis differentiis in-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "ferioris numeri super quem diuidis. Post hec muta uniuersas",
+   "margin": null,
+   "plain": "ferioris numeri super quem diuidis. Post hec muta uniuersas",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "differentias inferioris numeri, super quem diuidis, una diffe-",
+   "margin": null,
+   "plain": "differentias inferioris numeri, super quem diuidis, una diffe-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "rentia uersus dexteram, et pone in directo prime differentie",
+   "margin": null,
+   "plain": "rentia uersus dexteram, et pone in directo prime differentie",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "illius ad similitudinem illius quod prius posuisti. Quod cum",
+   "margin": null,
+   "plain": "illius ad similitudinem illius quod prius posuisti. Quod cum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "multiplicaueris in ultima differentia inferioris numeri super",
+   "margin": null,
+   "plain": "multiplicaueris in ultima differentia inferioris numeri super",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "quem diuidis, consument id quod supra eum est, uel quod",
+   "margin": null,
+   "plain": "quem diuidis, consument id quod supra eum est, uel quod",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "fuerit prope eum: et multiplica illud quod posuisti in directo",
+   "margin": null,
+   "plain": "fuerit prope eum: et multiplica illud quod posuisti in directo",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "eius in ultima differentia numeri inferioris ; et minue quod",
+   "margin": null,
+   "plain": "eius in ultima differentia numeri inferioris ; et minue quod",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "exierit tibi de multiplicatione de eo quod supra eum est; et",
+   "margin": null,
+   "plain": "exierit tibi de multiplicatione de eo quod supra eum est; et",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "sic facies in uniuersis differentiis : et si remanserit de diffe-",
+   "margin": null,
+   "plain": "sic facies in uniuersis differentiis : et si remanserit de diffe-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "rentiis numeri superioris quem diuidis aliquid quod debeat di-",
+   "margin": null,
+   "plain": "rentiis numeri superioris quem diuidis aliquid quod debeat di-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "uidi,semper muta differentias inferioris numeri una differentia,",
+   "margin": null,
+   "plain": "uidi,semper muta differentias inferioris numeri una differentia,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "donec sit prima differentia eius in directo alicuius differentie",
+   "margin": null,
+   "plain": "donec sit prima differentia eius in directo alicuius differentie",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "superioris numeri : quod si fuerit in aliqua differentia, ex dif-",
+   "margin": null,
+   "plain": "superioris numeri : quod si fuerit in aliqua differentia, ex dif-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "ferentiis numeri quem diuidis, circulus, et peruenerit mutatio",
+   "margin": null,
+   "plain": "ferentiis numeri quem diuidis, circulus, et peruenerit mutatio",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "ad eum, non transeas eum, quem ad modum fecisti in multi-",
+   "margin": null,
+   "plain": "ad eum, non transeas eum, quem ad modum fecisti in multi-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "plicatione. Set pones in directo eius aliquid quod multipli-",
+   "margin": null,
+   "plain": "plicatione. Set pones in directo eius aliquid quod multipli-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "cabis quem ad modum narrauimus. Cumque perfeceris hec",
+   "margin": null,
+   "plain": "cabis quem ad modum narrauimus. Cumque perfeceris hec",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "omnia, quicquid exierit tibi ex differentiis in directo numeri",
+   "margin": null,
+   "plain": "omnia, quicquid exierit tibi ex differentiis in directo numeri",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "quem diuidis, illud debetur uni: et si aliquid remanserit, erit",
+   "margin": null,
+   "plain": "quem diuidis, illud debetur uni: et si aliquid remanserit, erit",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "pars unius ex eo numero quem diuidis,et numquam remanebit",
+   "margin": null,
+   "plain": "pars unius ex eo numero quem diuidis,et numquam remanebit",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "nisi quod erit minus illo quod diuidis. Si autem plus reman-",
+   "margin": null,
+   "plain": "nisi quod erit minus illo quod diuidis. Si autem plus reman-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "serit, scito quod errasti.",
+   "margin": null,
+   "plain": "serit, scito quod errasti.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L27",
+   "n": 27,
+   "kind": "indent",
+   "text": "Et scito quod diuisio sit similis multiplicationi; set hoc fit",
+   "margin": null,
+   "plain": "Et scito quod diuisio sit similis multiplicationi; set hoc fit",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "econuerso: quare in diuisione minuimus, et ibi addimus, idest",
+   "margin": null,
+   "plain": "econuerso: quare in diuisione minuimus, et ibi addimus, idest",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "in multiplicatione eius exemplar est. Quod cum uellemus di-",
+   "margin": null,
+   "plain": "in multiplicatione eius exemplar est. Quod cum uellemus di-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "uidere quadraginta sex milia et quadrigentos sexaginta octo",
+   "margin": null,
+   "plain": "uidere quadraginta sex milia et quadrigentos sexaginta octo",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "super tercentos .{sc:xxiiii}., posuimus primum in dextera parte",
+   "margin": null,
+   "plain": "super tercentos .xxiiii., posuimus primum in dextera parte",
+   "italic": [],
+   "small_caps": [
+    "xxiiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "octo; postea posuimus sex uersus sinistram qui sunt sexaginta:",
+   "margin": null,
+   "plain": "octo; postea posuimus sex uersus sinistram qui sunt sexaginta:",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F020-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "de inde .{sc:iiii}.{sup:or} qui sunt quadringenti; postea sex que sunt .{sc:vi}.",
+   "margin": null,
+   "plain": "de inde .iiii.or qui sunt quadringenti; postea sex que sunt .vi.",
+   "italic": [],
+   "small_caps": [
+    "iiii",
+    "vi"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 14 )» stands at the head of the page, centred. The page has no footnotes and no signature.",
+  "L29-L33: the example of division, forty-six thousand four hundred and sixty-eight, «quadraginta sex milia et quadrigentos sexaginta octo», by three hundred and twenty-four, «tercentos .xxiiii.», written place by place from the right. L30: «quadrigentos», without the n, as on p. 9 (frame 015, L11); L33 has «quadringenti».",
+  "L21: a dark speck, 8 by 8 px, stands above the second stem of the n of «narrauimus», so that the letter looks like «ri»; the letter is an n, its two stems joined by the arch. Transcribed «narrauimus».",
+  "Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): without a space after the comma, L02 «numero,et» (10 px, the median word space of the line 16.5 px), L03 «fac,donec» (5 px), L15 «uidi,semper» (7 px) and L24 «diuidis,et» (6 px); with a space before the mark, L11 «inferioris ;» (10 px), L13 «differentiis :» (20 px) and L17 «numeri :» (19 px). L23 «uni:» (8 px before the colon) is set close.",
+  "Marks not transcribed: light specks at mid-height between «si» and «fuerit» (L17) and between «diuidis,» and «illud» (L23), and after «errasti.» (L26)."
+ ],
+ "copy_matter": [
+  "A reader's notes in pencil: «quod» in the left margin beside L06, with «et» underlined; «quod» in the right margin beside L12 and L13, with «et» underlined in both lines; a mark above «narrauimus» (L21); «quia» in the left margin beside L28, with «quare» underlined. Not part of the edition."
+ ],
+ "critical_notes": []
+}

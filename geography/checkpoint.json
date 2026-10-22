@@ -1,0 +1,16 @@
+{
+ "lane": "AK05 geography (Mzik 1926 in the Baghdad reprint of 1962, 218 frames)",
+ "canonical_source_checkpoint_sha256": "104de5fdf60ce07e12e1c9e8ffff38da1b3da6463302fb70ceec0ebeb8d2531d",
+ "canonical_source_checkpoint_note": "SHA-256 over the page files in order: file name, a NUL byte, the bytes",
+ "last_fully_transcribed_source_unit": "frame218",
+ "last_fully_verified_source_unit": "frame218",
+ "first_untouched_source_unit": null,
+ "owned_units_total": 218,
+ "owned_units_disposed": 218,
+ "unresolved_count": 80,
+ "figure_count": 5,
+ "table_rows": 1001,
+ "critical_notes": 22,
+ "text_lines": 2506,
+ "editors_note_lines_withheld": 589
+}

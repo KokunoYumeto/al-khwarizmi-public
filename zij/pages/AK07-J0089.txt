@@ -1,0 +1,56 @@
+@page 89 57
+@lang de
+% JP2 0089: Suter's commentary, p. 57: chapter 14 continued: the example of Saturn (6 days still direct, 236 days
+% already direct); the second case, the anomaly greater than the second station; the stations on the epicycle after
+% Ptolemy and al-Battānī, with a figure (notes 1-4).
+Zu diesem Falle gehört unser obiges Beispiel für den Planeten Saturn : Er ist, wie
+wir gefunden haben, rechtläufig, der Unterschied zwischen Statio I. und Anomal. aeq.
+ist 5° 45{sup:1}/{sub:2}′, also bleibt er noch {fr:5° 45{sup:1}/{sub:2}′|57′} = c. 6 Tage rechtläufig, wird dann stationnär
+und hierauf rückläufig. — Will man wissen, wie lange der Planet schon rechtläufig
+war, so addiert man die Anomal. aeq. zur 1. Station{sup:1}) und teilt die Summe durch
+57′ ; dies gibt in unserm Falle {fr:224° 34{sup:1}/{sub:2}′|57′} = 236 Tage ; im ganzen war er also 242
+Tage rechtläufig.
+@p {i:2. Fall} : Die {i:Anomal. aeq.} ist {i:grösser} als die 2. Station. Will man wissen, wie
+lange der Planet noch rechtläufig bleibt, so subtrahiert man die Anomal. aeq. von
+360°, addiert zum Reste die 1. Station, und dividiert das Resultat durch die tägliche
+Bewegung der Anomalie des Planeten. Will man wissen, wie lange der Planet schon
+rechtläufig war, so nimmt man den Unterschied zwischen der Anomal. aeq. und der
+2. Station, und teilt ihn durch die tägliche Bewegung der Anomalie des Planeten{sup:2}).
+@p Dieses alles wird sich wohl leicht aus folgender Figur erkennen lassen, wenn
+wir derselben noch einige Bemerkungen beifügen :
+@p {i:E} sei die Erde, {i:H} das Centrum
+des Epizykels, {i:B} und {i:C} sind die
+Stationen I und II, bei denen die
+Rückläufigkeit beginnt, bezw. auf-
+hört. Nach der Theorie des {sp:Ptol.},
+der auch {sp:Batt.} folgt, beginnt die
+Rückläufigkeit nicht etwa in dem
+Berührungspunkt {i:D} der Tangente
+von {i:E} an den Epizykel, sondern in
+einem Punkte {i:B}, der so liegt, dass
+{i:FB} ∶ {i:BE} = dem Verhältnis der Geschwindigkeit des Epizykelzentrums zu derjenigen
+des Planeten im Epizykel ist ; ist jenes Verhältnis ({i:FB} ∶ {i:BE}) grösser als dieses, so ist
+der Planet rückläufig, und dies findet statt in dem Bogen {i:BC}, in dem Bogen {i:CAB}
+ist er rechtläufig (wobei auch die geringe Zeit des Stillstandes inbegriffen ist). Die
+Stationen I und II sind aber nicht konstant, sondern ändern sich mit der Lage des
+Epizykelcentrums {i:H} im {i:Deferens}, d. h. mit dem sog. {i:Centrum} des Planeten ; daher
+muss man mit dem {i:Centrum} ({i:aequat.}) in die Tafeln der Recht- und Rückläufigkeit
+eintreten. Über die Berechnung der Stationen für jedes beliebige Centrum von 0°—180°
+vergleiche man {sp:Batt.}{sup:3}) und {sp:Ptol.}{sup:4})
+@n {sup:1}) Eigentlich : (360° — Stat. II.) + Anomal. aeq.
+@n {sup:2}) Diesen Fall berüchsichtigt {sp:Batt.} gar nicht, {sp:Kh.} nur die 2. Frage dieses Falles mit der Stelle
+@n (p. 13), die beginnt : {i:Si vero de progrediente scire desideras.} Der Text des 46. Kap. bei {sp:Batt.} weicht
+@n übrigens in der Ausgabe von 1645 an einigen Stellen von der Übersetzung {sp:Nallinos} und dem
+@n arab. Texte ab ; es ist wahrscheinlich, dass der letztere Auslassungen aufweist, die der arab. Text,
+@n der {sp:Plato von Tivoli} vorlag, nicht hatte.
+@n {sup:3}) Ed. {sp:Nallino}, II, 245—247.
+@n {sup:4}) Ed. {sp:Heiberg}, II, 450—494 ; Übersetzung v. K. {sp:Manitius}, II, 267– 302.
+@obs The page number «57» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «8» on the right; recorded here, not transcribed as a line. L01-L07 continue the first case of p. 56 (JP2 0088, L33-L35).
+@obs L03 and L06: the two divisions are printed as built-up fractions, «5° 45½′» and «224° 34½′» over «57′», written {fr:NUMERATOR|DENOMINATOR}; «45½′», «34½′» with the raised 1 and the lowered 2.
+@obs L01-L07. Checked: the first station of Saturn, 115° 10′, less its anomaly, 109° 24½′ (pp. 55-56, JP2 0087-0088), is 5° 45½′, and 345½′ : 57′ = 6.06, about 6 days; the anomaly plus the first station, 109° 24½′ + 115° 10′ = 224° 34½′, the arc from the second station, 244° 50′, through 360° to the anomaly (note 1: 360° − 244° 50′ + 109° 24½′ = 224° 34½′), and 13474½′ : 57′ = 236.4, 236 days; 236 + 6 = 242. The daily motion of 57′ is that of note 2 of p. 56 (JP2 0088), 57′ 8″, in whole minutes.
+@obs A figure stands at the right of L17-L25, which are set in a narrower measure at its left; it is not reproduced. The circle of the epicycle about H, with A at the left end and P at the right end of a horizontal line through H, which runs on to E far to the right; on the circle K at the upper left, C at the upper right, B at the lower right, G at the lower left and D at the bottom, marked with a short stroke; the lines E C K, E B G and the tangent E D; F on the chord G B, joined to H by a line perpendicular to the chord, so that F is its middle; a small arrow at A pointing down and one between P and C pointing up, the direction of the planet on the epicycle. The letters are italic: A, B, C, D, E, F, G, H, K, P.
+@obs L16-L29: the stations after Apollonius, as Ptolemy gives them (Almagest XII, 1): the planet is stationary at B, where half the chord, F B, is to B E as the speed of the centre of the epicycle to that of the planet on the epicycle; retrograde on the arc B C nearest the earth, direct on the arc C A B. Checked: with the anomaly counted from A in the direction of the arrows, A G B P C K, the station B has an anomaly less than 180° and C its complement to 360°, as on p. 55 (JP2 0087, L18-L22).
+@obs L26 and L27: «FB ∶ BE», the colon of the ratio with a space on either side (16-18 px), written ∶ (U+2236). N08: «267– 302», a short dash (13 px), lighter than the print, with a space after it, where «450—494» in the same line has the long dash set close; transcribed as printed, as «151– 152» on p. XI (JP2 0014, N07). N01: «(360° — Stat. II.)», the minus sign printed as a long dash with a space on either side.
+@obs Spaced type, marked {sp:}: «Ptol.», «Batt.», «Kh.», «Nallinos», «Plato von Tivoli», «Nallino», «Heiberg», «Manitius»; italics: the letters of the figure, «2. Fall», «Anomal. aeq.» (L08; upright in L02, L05, L09, L12), «grösser», «Deferens», «Centrum» (L31-L32), «aequat.», the Latin of N03. L03: «stationnär», as on p. 55.
+@obs The colons and semicolons stand after the thin space of the edition (7-16 px measured; «ab ;» in N05, 7 px).
+@critical AK07-CN053 | misprint | N02 | berüchsichtigt | berücksichtigt | the verb is «berücksichtigen», «Diesen Fall berücksichtigt Batt. am Schlusse des 46. Kap.» (p. 56, JP2 0088, N06); an h is printed for the k | high | none

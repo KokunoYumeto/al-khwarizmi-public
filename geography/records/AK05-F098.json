@@ -1,0 +1,281 @@
+{
+ "anchor": "AK05-F098",
+ "frame": 98,
+ "frame_file": "page_098.jpg",
+ "frame_sha256": "fad5dc16ee2f2755d26ff872aa36f6aa3c074ed1f9ef9f1790ed072a1905836f",
+ "printed_page": "٩٢",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 098, printed p. 92: the islands in the sea of Tangier continued: the end of the coast of the island with a town of p. 91, back to its first point; five small islands in a row; another island with a town, followed round its coast; ten small islands; the islands كيوس and حرنيس; and three islands of a quarter of a degree. The editor's running numbers (١٤٠٩)-(١٤٢٤) and the numbers of Suhrāb [٩٤٤]-[٩٥٣]; two passages supplied by the editor between angle brackets. Five lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F098-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "تمرّ على صورة الطيلسان تمرّ بعرض {ov:لح {z}} (١٤٠٩) [٩٤٤] وتصير الى طول {ov:مط {z}}{n:a}",
+   "margin": null,
+   "cells": null,
+   "plain": "تمرّ على صورة الطيلسان تمرّ بعرض لح ō (١٤٠٩) [٩٤٤] وتصير الى طول مط ō",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F098-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "والعرض {ov:لد {z}}{n:b} (١٤١٠) [٩٤٥] تمرّ الى طول {ov:مز {z}}{n:c} والعرض {ov:لد ك} (١٤١١)",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض لد ō (١٤١٠) [٩٤٥] تمرّ الى طول مز ō والعرض لد ك (١٤١١)",
+   "note_marks": [
+    "b",
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F098-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "[٩٤٦] مصبّ نهر وتمرّ الى الموضع الّذى منه ابتدأنا وهو عند طول {ov:مه ن} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "[٩٤٦] مصبّ نهر وتمرّ الى الموضع الّذى منه ابتدأنا وهو عند طول مه ن والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F098-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "{ov:لد {z}}{n:d}{n:e} * خمس جزائر صغار* مقدار سدس جزء سدس جزء فيما بين طول {ov:مز ں} (١٤١٢)",
+   "margin": null,
+   "cells": null,
+   "plain": "لد ō * خمس جزائر صغار* مقدار سدس جزء سدس جزء فيما بين طول مز ں (١٤١٢)",
+   "note_marks": [
+    "d",
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F098-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "الى طول {ov:ن ن} (١٤١٣) وهى كلّها على عرض {ov:لا ں} * جزيرة فيها مدينة اوّلها عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "الى طول ن ن (١٤١٣) وهى كلّها على عرض لا ں * جزيرة فيها مدينة اوّلها عند طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F098-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "{ov:مط ك} والعرض {ov:له {z}}{n:f} (١٤١٤) [٩٤٧] وتمرّ على صورة الطيلسان تمرّ بعرض {ov:لد م}",
+   "margin": null,
+   "cells": null,
+   "plain": "مط ك والعرض له ō (١٤١٤) [٩٤٧] وتمرّ على صورة الطيلسان تمرّ بعرض لد م",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F098-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "(١٤١٥) [٩٤٨] وتصير الى طول {ov:نا ك} والعرض {ov:له ل} (١٤١٦) [٩٤٩] تمرّ الى طول",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٤١٥) [٩٤٨] وتصير الى طول نا ك والعرض له ل (١٤١٦) [٩٤٩] تمرّ الى طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F098-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "{ov:نا {z}} والعرض {ov:لو {z}} (١٤١٧) [٩٥٠] تمرّ الى طول {ov:مط ل} والعرض {ov:لو {z}} (١٤١٨)",
+   "margin": null,
+   "cells": null,
+   "plain": "نا ō والعرض لو ō (١٤١٧) [٩٥٠] تمرّ الى طول مط ل والعرض لو ō (١٤١٨)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F098-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "[٩٥١] تمرّ الى طول {ov:مط ك} والعرض {ov:له {z}}{n:f}{n:g} وهو الموضع الّذى منه ابتدأ⟨نا⟩{n:h} * عشر",
+   "margin": null,
+   "cells": null,
+   "plain": "[٩٥١] تمرّ الى طول مط ك والعرض له ō وهو الموضع الّذى منه ابتدأ⟨نا⟩ * عشر",
+   "note_marks": [
+    "f",
+    "g",
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F098-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "جزائر صغار* مقدار عشر جزء فى عشر جزء وموضعها فى مقدار جزء ونصف فى جزء",
+   "margin": null,
+   "cells": null,
+   "plain": "جزائر صغار* مقدار عشر جزء فى عشر جزء وموضعها فى مقدار جزء ونصف فى جزء",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F098-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "ونصف وسط هٰذه الجزائر عند طول {ov:ن ك} والعرض {ov:لر ك} (١٤١٩) * جزيرة كيوس",
+   "margin": null,
+   "cells": null,
+   "plain": "ونصف وسط هٰذه الجزائر عند طول ن ك والعرض لر ك (١٤١٩) * جزيرة كيوس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F098-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "مقدار جزء ونصف فى جزء وسطها عند طول {ov:نا ك} والعرض{n:i} {ov:لح مه} (١٤٢٠) [٩٥٢] *",
+   "margin": null,
+   "cells": null,
+   "plain": "مقدار جزء ونصف فى جزء وسطها عند طول نا ك والعرض لح مه (١٤٢٠) [٩٥٢] *",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F098-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "جزيرة حرنيس مقدار جزء وربع فى ⟨نصف جزء وسطها عند طول {ov:نا م}⟩{n:k} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة حرنيس مقدار جزء وربع فى ⟨نصف جزء وسطها عند طول نا م⟩ والعرض",
+   "note_marks": [
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F098-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "{ov:لٮ {z}} (١٤٢١) [٩٥٣] * جزيرة مقدار ربع جزء وسطها عند طول {ov:ٮح {z}} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "لٮ ō (١٤٢١) [٩٥٣] * جزيرة مقدار ربع جزء وسطها عند طول ٮح ō والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F098-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "{ov:لح ل} (١٤٢٢) * جزيرة مقدار ربع جزء وسطها عند طول ⟨{ov:ند {z}}⟩{n:l} والعرض {ov:لح ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "لح ل (١٤٢٢) * جزيرة مقدار ربع جزء وسطها عند طول ⟨ند ō⟩ والعرض لح ل",
+   "note_marks": [
+    "l"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F098-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "(١٤٢٣) * جزيرة مقدار ربع جزء وسطها عند طول {ov:ند {z}} والعرض {ov:لد ل} (١٤٢٤) *",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٤٢٣) * جزيرة مقدار ربع جزء وسطها عند طول ند ō والعرض لد ل (١٤٢٤) *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l"
+   ],
+   "lines": 5,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: a variant reading of the longitude is مط ه, with a line over the numerals (note a).",
+  "L02: a variant reading of the latitude is لد ه, with a line over the numerals (note b).",
+  "L02: a variant reading of the longitude is مز ه, with a line over the numerals (note c).",
+  "L04: a variant reading of the latitude is لد م, with a line over the numerals (note d).",
+  "L04: the point is the same as point 1408 (note e).",
+  "L06, L09: a variant reading of the latitude is له ه, with a line over the numerals (note f).",
+  "L09: the point is the same as point 1414 (note g).",
+  "L09: the letters between the brackets are written by a later hand in the manuscript (note h).",
+  "L12-L13: the text between the marks i and k stands in the margin of the manuscript, very indistinct and in part cut away (note i-k).",
+  "L13: the manuscript has a gap at the words between the brackets; the editor supplies them after S (note k).",
+  "L15: the manuscript lacks the longitude of island 1423; the editor supplies it in view of the position of the neighbouring islands (note l)."
+ ],
+ "unresolved": [
+  "L09: the bracketed letters may also be read as an alif beside a speck: ابتدأ⟨ا⟩. Transcribed ابتدأ⟨نا⟩."
+ ],
+ "observations": [
+  "The description of the island with a town of p. 91 (frame 097, L15) goes on: its coast from point to point, with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}, the editor's running numbers in parentheses and the numbers of Suhrāb in square brackets. L01: «تمرّ على صورة الطيلسان تمرّ بعرض لح {z} (١٤٠٩)», along the shape of the ṭaylasān at the latitude لح {z} (point 1409, given by its latitude only); then points 1410 and 1411; L03-L04: «مصبّ نهر وتمرّ الى الموضع الّذى منه ابتدأنا وهو عند طول مه ن والعرض لد {z}», the mouth of a river; and it passes to the place from which we began, which is at the longitude 45° 50′ and the latitude 34° 0′, without a running number; the editor's note e identifies it with point 1408, whose longitude is printed «مه ں» there, without the dot of the ن (frame 097, L15).",
+  "L04-L05: «خمس جزائر صغار* مقدار سدس جزء سدس جزء فيما بين طول مز ں (١٤١٢) الى طول ن ن (١٤١٣) وهى كلّها على عرض لا ں», five small islands of the size of a sixth of a degree by a sixth of a degree, between the longitude مز ں and the longitude 50° 50′, all of them on the latitude لا ں.",
+  "L05-L09: «جزيرة فيها مدينة اوّلها عند طول مط ك والعرض له {z}», an island without a name, on which is a town; the first point of its coast is at the longitude 49° 20′ and the latitude 35° 0′ (point 1414); then «وتمرّ على صورة الطيلسان تمرّ بعرض لد م» (L06), along the shape of the ṭaylasān at the latitude 34° 40′ (point 1415, given by its latitude only); points 1416-1418; and «تمرّ الى طول مط ك والعرض له {z} وهو الموضع الّذى منه ابتدأ⟨نا⟩» (L09), to the longitude 49° 20′ and the latitude 35° 0′, which is the place from which we began, without a running number; the editor's note g identifies it with point 1414.",
+  "L09-L11: «عشر جزائر صغار* مقدار عشر جزء فى عشر جزء وموضعها فى مقدار جزء ونصف فى جزء ونصف وسط هٰذه الجزائر عند طول ن ك والعرض لر ك (١٤١٩)», ten small islands, each of the size of a tenth of a degree by a tenth of a degree, whose place is within one and a half degrees by one and a half degrees; the middle of these islands at the longitude 50° 20′ and the latitude لر ك.",
+  "L11-L16: «جزيرة كيوس مقدار جزء ونصف فى جزء» (L11-L12), the island كيوس, of one and a half degrees by one degree, point 1420; «جزيرة حرنيس مقدار جزء وربع فى ⟨نصف جزء⟩» (L13), the island حرنيس, of one and a quarter degrees by half a degree, point 1421; and three islands of a quarter of a degree, «جزيرة مقدار ربع جزء» (L14-L16), points 1422-1424. «كيوس» and «حرنيس» are printed with all their dots; the ح of «حرنيس» has none.",
+  "The running numbers run (١٤٠٩)-(١٤٢٤) without a gap; the numbers of Suhrāb, [٩٤٤]-[٩٥٣], stand after (١٤٠٩)-(١٤١١), (١٤١٤)-(١٤١٨), (١٤٢٠) and (١٤٢١), without a gap; points 1412, 1413, 1419 and 1422-1424 have none. Each island or group ends with a small open star with six points, transcribed as an asterisk.",
+  "L04, L10: «صغار*»: an asterisk with six solid arms stands after the word, raised like the note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (frame 046, L10), as on frame 094 (L03); the stars between the entries are small open stars with six points.",
+  "L09: «ابتدأ⟨نا⟩», followed by the note mark h: within the angle brackets stand an alif and, at its right, a round dot of 8 by 8 px, about 24 px above the line, where the dot of the ن of نا stands; the tooth of the ن has not printed. Transcribed ⟨نا⟩, as «ابتدأنا» of L03. The editor's note h says that the words between the brackets are written by a later hand in the manuscript.",
+  "L12-L13: the note mark i stands after «والعرض» of L12, before the numerals, and the mark k after the closing angle bracket of L13: the text between the two marks stands in the margin of the manuscript, very indistinct and in part cut away (note i-k); within it, «⟨نصف جزء وسطها عند طول نا م⟩», between angle brackets, fills a gap of the manuscript after S (note k). L15: the degrees and the minutes of the longitude of island 1423, «⟨ند {z}⟩», are printed between angle brackets, followed by the mark l, with the line over the numerals between the brackets: the manuscript lacks them, and the editor supplies them in view of the position of the neighbouring islands (note l). Transcribed with the brackets.",
+  "Signs in the text, transcribed as printed: «تمرّ», «وتمرّ» and «مصبّ» (L03) with a shadda; «الّذى» (L03, L09) with a shadda over the ل; «كلّها» (L05) and «اوّلها» (L05) with a shadda; «ابتدأنا» (L03) and «ابتدأ» (L09) with a hamza over the alif; «هٰذه» (L11) with a dagger alif above the ه; «جزائر» and «الجزائر» with a hamza on the tooth; «جزء» with a hamza on the line after the ز; «الّذى», «فى» and «وهى» end in a ى without dots.",
+  "Letters printed without their dots in the numerals, transcribed so: «ں» (L04, the minutes of the longitude, «مز ں»; L05, the minutes of the latitude, «لا ں»), the bowl of a final ن without its dot, 50, where L03, L05 and L11 print «ن» with the dot; «لٮ» (L14, the degrees of the latitude), the flat final bowl of the ب without its dot, 32; «ٮح» (L14, the degrees of the longitude), a tooth without its dot, which read as a ن gives 58, beside the longitudes 51° 40′ (L13) and 54° 0′ (L15, L16) of the neighbouring islands. With their dots: «مز» (L02, L04), with the dot of the ز, 47.",
+  "In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: «لر» (L11, the degrees of the latitude), 37, a ر joined to the ل with a single rounded head.",
+  "The ح of the numerals, «لح» (L01, L12, L15, twice) and «ٮح» (L14), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. The isolated ك, 20, is printed with the small inner stroke of the letter (L02, L06, L07, L09, L11, L12).",
+  "Note marks: L01, a after the longitude; L02, b after the latitude and c after the longitude; L04, d and e after the latitude; L06, f after the latitude; L09, f and g after the latitude, and h after the closing angle bracket; L12, i after «والعرض»; L13, k after the closing angle bracket; L15, l after the closing angle bracket. The mark f stands twice, at the latitude of point 1414 and at the same latitude of its return.",
+  "Marks not transcribed: L08, a short horizontal stroke, 13 by 7 px, like a hyphen, between the ٤ and the second ١ of (١٤١٨), at the middle of the figures. The page is speckled throughout with small grey points of the paper.",
+  "The editor's footnotes stand in five lines below a short rule at the left: notes a-l, one of them, i-k, on the text between two marks. The page number «— ٩٢ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

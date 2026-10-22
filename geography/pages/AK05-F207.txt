@@ -1,0 +1,7 @@
+@page 207 VI
+@kind editorial
+% Frame 207, printed p. VI: the editor's introduction continued, in German.
+@withheld the editor's introduction, p. VI, in German: 30 printed lines
+@obs Topics of the page, with the entries and notes that it cites (the introduction is read for understanding and not reproduced or paraphrased): the index of names, announced for a later volume of the series; the earlier descriptions of the manuscript by W. Spitta and C. A. Nallino; its leaves, its blank pages (compare the editor's note g on p. 37, frame 043) and its two misbound leaves, fol. 35 and 45 (compare frames 156 and 159).
+@obs The introduction, pp. V-XXXI, is bound in the reverse order of its pages, from p. XXXI (frame 182) to p. V (frame 208); the frames keep the physical order, and the introduction is read from frame 208 back to frame 182. This page follows p. V (frame 208); p. VII follows on frame 206.
+@obs The page number «— VI —» stands at the foot, centred. The page has no footnotes.

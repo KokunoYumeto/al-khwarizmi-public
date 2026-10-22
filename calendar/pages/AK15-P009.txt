@@ -1,0 +1,31 @@
+@page 9 ٨
+% PDF 9, printed p. 8: the end of the positions at the building of the Temple and the positions at the beginning of the
+% years of Dhū l-Qarnayn, in abjad letters (de Blois's section 7); the procedure for the mean position of the sun and the
+% moon from the completed Seleucid years, the small base and the base of days, by signs, degrees, minutes and further
+% sexagesimal places (section 8); the beginning of the statement of the base of days.
+ج ـ رمت لد ـ المريخ ـ يخ انه كور ـ الزهرة ـ رنب يامر
+عطارد ـ الج يط اط ـ الرأس ـ د كو لد نا ـ وسط الشمس لاول
+سنى ذى القرنين و ـ يح لا لح ـ القمر ـ د و مه مط ـ اوج القمر
+ر كو ير يط ـ زحل ـ ح ح ـ كد و ـ المشترى ـ ج يب نب
+لح لج ـ المريخ ـ ح يب يد مو ـ الزهرة ـ ب ا ـ كب ج
+عطارد ـ ر ى الح ـ الرأس ـ د كج ما كز •
+@p فمن اراد ان يعرف موضع الشمس للوسط ووسط القمر
+فليأخد سنى ذى القرنين التامة ويزيد عليها تسعة ابدا ثم يلقى ما
+اجتمع من تسعة عشر سنة فما بقى دون تسع عشرة سنة فهى سنون
+قمرية من عمل المحزور فيجعله اياما قمرية فما بلغ فهو الاصل الصغير
+فاضربه فى دور ايهما اردت معرفة وسطه فما بلغ فاقسمه على
+اصل الايام فما خرج فسنون شمسية فالقها ثم اضرب ما بقى فى
+اثنى عشر وتقسمه على اصل الايام فما خرج فبروج وما بقى
+فاضربه فى ثلاثين وتقسمه على الاصل فما خرج فدرج وما بقى
+فاضربه فى ستين وتقسمه على الاصل فما خرج فدقايق ثم
+نستخرج كذلك ما احببت من الثوانى والثوالث والروابع
+ما خرج من البروج والدرج والدقايق فزدها على موضع ايهما
+نسبت له التاريخ فما بلغ فهو وسطه لطلوع الشمس ان شاء الله •
+@p اصل الايام لخمسة وثلثين الف الف وتسعمائة الف وخمسة
+@obs The running head «استخراج تاريخ اليهود للخوارزمى» stands at the head of the page, the page number «٨» at its right; at the lower left the catchword «وسبعون», the first word of p. 9 (PDF 10); recorded here, not transcribed as lines. L06 is a short line ending with the edition's full stop (•), as L18 ends with one; L07 and L19 begin with a paragraph indent (about 130 and 115 px).
+@obs L01-L06 continue the positions of p. 7 (PDF 8) in abjad letters, divided into groups by spaces and dashes as printed: L01-L02 the end of the list for the building of the Temple (Jupiter, Mars, Venus, Mercury, the head), L02-L06 the list for the beginning of the years of Dhū l-Qarnayn: the mean sun «و ـ يح لا لح» (6 signs 18 degrees 31 minutes 38 seconds), the moon «د و مه مط», the apogee of the moon «ر كو ير يط», Saturn «ح ح ـ كد و», Jupiter «ج يب نب لح لج», Mars «ح يب يد مو», Venus «ب ا ـ كب ج», Mercury «ر ى الح», the head «د كج ما كز» (4 signs 23 degrees 41 minutes 27 seconds). These positions have up to five groups, sign, degrees, minutes, seconds and further places, as the procedure of L07-L18 provides. L03 «و مه» and L04 «كد و» are written as two groups as on p. 7 (PDF 8). L02 «اط»: an alif and a ط, set touching; L04 «ير»: under the head of the ر a blob of 12 x 9 px with a notch below, a pair of dots, so that the head is the tooth of a ي (the first ر of the line has no dots); L06 «ر»: no dot above.
+@obs Read as printed: L08 «فليأخد», the last letter without a dot; L08 «يلقى ما», L09 «اجتمع من»: the م is a filled oval standing apart from the next letter, as on p. 7 (PDF 8); read م. L09 «تسعة عشر سنة» beside «تسع عشرة سنة»; L10 «المحزور»; L15 «فدقايق» and L17 «والدقايق» with ي for the hamza; L16 «نستخرج», the first letter with one dot above (8 x 9 px); L18 «نسبت», the first letter with one dot above (9 x 9 px) and one dot under the third (ب); L19 «لخمسة», with the ligature of ل and خ as in «الخميس» (p. 6, PDF 7), «وثلثين», «وتسعمائة».
+@obs Checked: L08-L09 add 9 to the completed years of Dhū l-Qarnayn and cast out nineteens to find the years of the current cycle; this agrees with an interval of 3448 years between the creation of Adam and the beginning of the era, since 3448 = 19 x 181 + 9 (see AK15-CN022 on p. 7, PDF 8).
+@unres L01-L02: the positions of Jupiter, Mars, Venus and Mercury at the building of the Temple, «ج ـ رمت لد», «يخ انه كور», «رنب يامر» and «الج يط اط», are not regular abjad groups (ر, 200, cannot stand for a sign, degrees or minutes, and «مت», «انه», «كور», «يامر» are not abjad numbers); they cannot be restored from the print; the print is kept.
+@unres L03-L04 and L06: the apogee of the moon «ر كو ير يط» and Mercury «ر ى الح» begin with ر (200), which cannot stand for a sign, and «ير» is not an abjad number; with ز for ر (a missing dot) the apogee would read 7 signs 26 degrees 17 minutes 19 seconds and Mercury would begin with 7 signs 10 degrees; not checked against the author's tables; the print is kept.
+@critical AK15-CN024 | wrong letter | L08 | فليأخد | فليأخذ | «let him take» the completed years; the ذ has lost its dot | high | none

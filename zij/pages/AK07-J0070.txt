@@ -1,0 +1,48 @@
+@page 70 38
+@lang de
+% JP2 0070: Suter's commentary, p. 38: the end of chapter 4 (Table 2b, the Coptic months; the names in the glossary);
+% chapter 5, the conversion of years of the Hijra into years of the Seleucid ("Roman") era with Table 3: the first
+% example, 1 Muḥarram 520 = 26 Kānūn II 1437 = 26 January 1126; the second begins (notes 1-4).
+Monate, die auch {sp:Ptol.} für seine astronomischen Angaben gebraucht hat, mit ihren
+{i:Signa} oder {i:Notae}. — Die persischen sowohl als koptischen Namen sind in den beiden
+Mss. M und N, in denen allein die beiden Tafeln 2{sup:a} und 2{sup:b} stehen, ziemlich entstellt,
+wir haben die richtigen nach {sp:Nallino}{sup:1}) und {sp:Al-Bīrūnīs} {i:Chronologie}{sup:2}) in das
+Glossar aufgenommen.
+@c {b:Kap. 5. Über die Auffindung des römischen Jahres.}
+@c (Text p. 6—7, Tafeln 3 u. 3{sup:a}.)
+@p Der Titel heisst eigentlich : {i:De anni bissextilis inventione}. Es handelt sich aber
+in der Tat um die Verwandlung der Jahre der {i:Hidjra} in Jahre der {i:Seleucidischen Aera},
+oder um die Auffindung des {i:römischen} Datums, das einem gegebenen {i:arabischen} Datum
+entspricht. Die Jahre der römischen Aera wurden nämlich auch {i:anni bissextiles} (Schalt-
+jahre) genannt, was etwas eigentümlich erscheint, da ja die Araber auch Schaltjahre
+hatten ; es steht dieses {i:anni bissextiles} aber im Gegensatz zu den {i:anni vagi} der Aegypter,
+die keine {i:Intercalation} kannten. Die zugehörige Tafel 3 ist betitelt : {i:Pagina reducendi}
+{i:annos Alexandri ad elhigeram}, was eigentlich unrichtig ist. Die Tafel ist etwas anders
+eingerichtet als die entsprechenden Tafeln bei {sp:Batt.}{sup:3}), die für den Anfang jedes Jahres
+der {i:Hidjra} von 1 bis 600 das zugehörige Datum der {i:römischen Aera} geben ; die Tafel
+{sp:Kh.}’s nimmt viel weniger Raum ein, erfordert aber noch Nebenrechnungen. Wir
+geben drei Beispiele für diese Reduktion :
+@p 1. Welchem Tage der {i:römischen Aera} entspricht der {i:1. Muḥarram} des Jahres
+520 d. H. ?
+@t Am Ende des 510. Jahres d. H. waren verflossen | | 1427 J. | 7 M. | 5{sup:1}/{sub:4} T. | der röm. Aera
+@t 9 muhammed. Jahre sind | | = 8 „ | 8 „ | 27 „ | „ „ „
+@t | Summa : | 1436 „ | 3 „ | 32{sup:1}/{sub:4} „ |
+@p Da eine einmalige Verwandlung von 12 Monaten zu einem Jahre stattgefunden
+hat, so hat man von dieser Summe 5{sup:1}/{sub:4} Tage zu subtrahieren (nimmt man nämlich
+für 12 Monate ein Jahr, so hat man 5{sup:1}/{sub:4} Tage zu viel genommen){sup:4}), dies gibt 1436 J.
+3 M. 27 T. ; da unter den 3 Monaten vom Oktober an zwei Monate mit 31 Tagen sich
+befinden, so muss man von der Zahl der Tage noch 2 subtrahieren, dies gibt 25 Tage,
+d. h. seit dem Beginn der römischen Aera (1. Okt. 312 v. Chr.) sind 1436 J. 3 M. 25 T.
+verflossen, d. h. der {i:1. Muḥarram} 520 d. H. entspricht dem {i:26. Kānūn II.} des Jahres
+1437, d. i. dem {i:26. Januar} des J. 1126 n. Chr.
+@p 2. Welchem Tage der {i:römischen Aera} entspricht der {i:5. Radjab} des Jahres
+413 d. H. ?
+@n {sup:1}) {sp:Batt.}, ed. {sp:Nallino}, I, 67 u. 243.
+@n {sup:2}) Englische Übersetzung v. {sp:Sachau}, p. 82, u. 199—217, arab. Text p. 215—233.
+@n {sup:3}) Ed. {sp:Nallino}, II, 9—18.
+@n {sup:4}) Da die Monate nur zu 30 Tagen gerechnet sind.
+@obs The page number «38» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «Monate» continues «Die Tafel 2b enthält die ägyptischen (koptischen)» at the end of p. 37 (JP2 0069, L36). L06-L07: the heading of chapter 5, in bold, centred, with the reference to the text below it.
+@obs L22-L24: the computation of the first example, set as a small table: the years («J.»), months («M.») and days («T.») in columns, repeated by ditto marks „ in L23 and L24, those of L23 also under «der röm. Aera»; L24, «Summa :» and the sum, stands below a rule under the figures of L23. Each printed row is one line here, the cells separated by our «|»; the empty cells give the words room and are not printed.
+@obs L22-L32. Checked: with years of 365¼ days and months of 30 days (note 4), 1427 years 7 months 5¼ days are 521427 days, which lead from 1 October 312 B.C. exactly to 1 Muḥarram 511 counted from the epoch of the tables (seventeen cycles of 10631 days after 15 July 622), Friday 4 May 1117; 8 years 8 months 27 days are 3189 days, the nine Arab years 511-519 (three of them leap years); the sum is 1436 years 3 months 32¼ days; less 5¼ days for the twelve months counted as a year, and two days for October and December, it is 1436 years 3 months 25 days, which lead to 26 January 1126 (1 October 1125 is the beginning of the Seleucid year 1437), the date of p. 37 (JP2 0069, L10-L17).
+@obs L20, L31-L33: «1. Muḥarram», «26. Kānūn II.», «26. Januar», «5. Radjab» in italics with their numbers. Spaced type: «Ptol.», «Nallino», «Al-Bīrūnīs», «Batt.», «Kh.», «Sachau». N02: the words from «u. 199» to the end of the note are printed heavier than its beginning (strokes of 5 px against 4 px), a difference of inking. N01: a speck above the line after the note number; not transcribed.
+@obs The colons, semicolons and question marks stand after the thin space of the edition (10-13 px measured; «Summa :» 10 px, «d. H. ?» 11 and 13 px).

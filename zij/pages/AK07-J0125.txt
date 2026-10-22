@@ -1,0 +1,58 @@
+@page 125 93
+@lang de
+% JP2 0125: Suter's commentary, p. 93: chapter 34 continued: the medium coelum 228° 40′; the hour angle of the moon,
+% 79° 33′, explained with a figure; the parallax in longitude, 54′, and the apparent place of the moon; the parallax in
+% latitude begins: the ecliptic zenith distance 57° 34′ 38″ (notes 1-2).
+{i:Rectascension} oder von seiner {i:Ascensio obliqua} ; wir haben daher dasselbe ebenfalls
+nach {sp:Batt.} bestimmt, und = 228° 40′ gefunden. Nun sagen die Regeln {sp:Kh.}’s, man
+müsse sowohl mit der {i:wahren Länge} des Mondes (= 303° 20′), als auch mit der des
+{i:Medium Coelum} (= 228° 40′) in die Tafeln 59—59{sup:b}, mit denen man die Längen in
+Rectascensionen und umgekehrt verwandelt, eintreten ; tut man dies, so findet man für
+die Rectascension des Mondes 305° 43′, für die des Medium Coelum 226° 10′, die
+Differenz beider = 79° 33′ ist der {i:Stundenwinkel} des Mondes zu der gegebenen Zeit.{sup:1})
+Zu besserem Verständnis gebe ich hier bei-
+stehende Figur, in welcher, damit sie mit
+unserem Beispiel besser stimme, der auf der
+hintern Halbkugel liegende Schnittpunkt von
+Aequator und Ekliptik als Frühlingspunkt,
+der auf der vordern liegende also als Herbst-
+punkt {i:W} angenommen werden musste ; dann
+ist also (wenn {i:HT} = Horizont, {i:AQ} = Aequa-
+tor, {i:EK} = Ekliptik, {i:L} = Aszendent, {i:M} =
+Mond) 180° + {i:WM} die Länge des Mondes,
+180° + {i:WR} seine Rectascension, 180° + {i:WL}
+die Länge des Aszendenten, 180° + {i:WN} seine
+Rectascension, 180° — {i:EW} die Länge des
+Medium Coelum, 180° — {i:AW} seine Rect-
+ascension, mithin ist 180° + {i:WR} — (180° — {i:AW})
+= {i:WR} + {i:AW} = {i:AR} = ∠ {i:APR} = {i:s} = Stunden-
+winkel des Mondes. — Mit dem Stundenwinkel des Mondes (79° 33′) tritt man nun
+in die Tafel der Parallaxen (Tafel 77) ein und findet daselbst für die {i:Längenparallaxe}
+c. 1{sup:h} 33{sup:1}/{sub:2}{sup:m} ; diese Grösse multipliziert man mit der ungleichen stündlichen Bewegung
+des Mondes, die für die Anomalie 125° 7′ = 34′ 34″ ist, man erhält so c. 54′. — {sp:Kh.}
+gibt also in seinen Tafeln die Parallaxe der Länge in Zeit an, {sp:Batt.} dagegen in
+Kreisteilen ; in unserm Falle ist also der scheinbare Ort des Mondes, wie er sich
+unsern Augen zeigt, von dem wahren, wie er sich aus der Berechnung und den
+Tafeln ergeben hat, um 54′ entfernt, und zwar muss man nach den Vorschriften
+des Textes diese Parallaxe zum wahren Ort des Mondes (303° 19′ 48″) addieren, um
+den scheinbaren Ort des Mondes zu erhalten, dieser ist also 304° 13′ 48″.
+@p Die Regel für die Auffinduug der {i:Parallaxe} in der {i:Breite} ist nun ein wenig
+einfacher, da die Fragen des {i:Aszendenten} und des {i:Medium Coelum} für uns erledigt
+sind. Es wird nun verlangt, die {i:Obliquatio} des {i:Medium Coelum,} d. h. die Deklination
+des Mondes (= der der Sonne) zu jener Zeit zu bestimmen, diese ist nach Tafel 22
+= — 19° 44′ 38″, die Breite von Cordova nehmen wir rund 37° 50′ an, dies gibt für die
+Ekliptik-Zenitdistanz {i:EZ} = 57° 34′ 38″, unser Text nennt dies das {i:interstitium medii}
+@n {sup:1}) Auf trigonometrischem Wege finden wir diesen Stundenwinkel = 79° 36′.
+@n {sup:2}) Denn der Mond befindet sich zwischen Ascendens und Medium Coelum, oder ist, wie sich
+@n {sp:Batt.} (I, 81 u. 83) deutlicher ausdrückt, vom Ascendens weniger als 90° entfernt.
+@obs The page number «93» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 completes the sentence that ends p. 92 (JP2 0124, L41), «ob vom Aszendenten selbst, oder von seiner». L04: «59—59b», the b raised.
+@obs A figure stands at the right of L08-L23, which are set in a narrower measure at its left; it is not reproduced. A circle, the meridian, with Z at its top, A and E at its upper left, P at its upper right, a small s beside P and a small arc marking the angle at P, H and T at the ends of a horizontal dashed diameter, K at the lower right and Q at the bottom right; dashed lines from the centre to Z, A, E, P, K and Q. Solid arcs: the horizon from H through L to T, below the diameter; the equator from A through W, D, N and R to Q; the ecliptic from E through W, L and M to K; the arcs from P through L to N and from P through M to R. W stands on the dashed diameter H T, D and N below L. The letters are italic.
+@obs L01-L07 and N01. Checked: with ε = 23° 51′ the right ascension of 228° 40′ is 226° 7′ (Table 59: 226° 10′), that of 303° 20′ 305° 43′; 305° 43′ − 226° 10′ = 79° 33′, and 305° 43′ − 226° 7′ = 79° 36′ (N01). The hour angle of the sun at 6h 44m 29s of the true time (p. 92, JP2 0124) is 78° 53′; the 40′ more are 2m 40s of time; to be compared with the equation of time of Tables 67-68.
+@obs L08-L23. Checked: with W the autumnal point, the longitude 180° + WM = 303° 20′ and the right ascension 180° + WR = 305° 43′ give WM = 123° 20′ and WR = 125° 43′. The midheaven of the example, 228° 40′, with its right ascension 226° 10′, lies 48° 40′ and 46° 10′ beyond W in the order of the signs, so that for these numbers its longitude and right ascension are 180° + WE and 180° + WA, not 180° − EW and 180° − AW as in L20-L22, which follow the figure with E and A before W; the hour angle is in either case the arc AR of the equator between the meridian and the hour circle of the moon, here WR − WA = 79° 33′. The angle APR at the pole, s, measures the arc AR.
+@obs L24-L33. Checked: 1h 33½m = 1.5583 h, and 1.5583 × 34′ 34″ = 53′ 52″, «c. 54′»; 303° 19′ 48″ + 54′ = 304° 13′ 48″. With the sine rule of the lunar equation (p. 46, JP2 0078) the hourly true motion at the anomaly 125° 7′ is 32′ 56″ + 32′ 40″ · sin 4° 56′ · |cos 125° 7′| / cos q = 34′ 33″, near the 34′ 34″ of Table 63. The table value 1h 33½m is to be compared with Table 77. N02: the moon between the ascendant and the midheaven, east of the meridian; the rule of chapter 34 of the text (p. 28, JP2 0060, L20-L21), «Si enim fuerit luna inter horoscopum et medium caelum, erit hoc productum horis coniunctionis addendum», which Suter applies to the place of the moon.
+@obs L36-L39. Checked: sin δ = sin 23° 51′ · sin 303° 20′ gives δ = −19° 44′ 39″, the 19° 44′ 38″ south of Table 22; 37° 50′ + 19° 44′ 38″ = 57° 34′ 38″, the zenith distance of the moon at its culmination. The Latin of chapter 34 (p. 28, JP2 0060, L27) asks for the declination of the midheaven, «ipsius medii caeli obliquatio»; that of 228° 40′ would be 17° 40′ south.
+@obs The note 2 has no reference in the text of the page; see the critical note. L34: «Auffinduug»; see the critical note. L26: «1h 33 1/2m», the h and m raised, the fraction small; L38: «= — 19° 44′ 38″», the minus a long dash after a space. N02: «Ascendens» with c, where the text has «Aszendent».
+@obs Spaced type, marked {sp:}: «Batt.», «Kh.»; italics: «Rectascension» (L01), «Ascensio obliqua», «wahren Länge», «Medium Coelum» (L04, L35, L36; upright in L06, L21), «Stundenwinkel», the letters of the figure, «Längenparallaxe», «Parallaxe», «Breite», «Aszendenten», «Obliquatio», «EZ», «interstitium medii».
+@obs The colons and semicolons stand after the thin space of the edition (11-14 px measured).
+@critical AK07-CN073 | missing note number | L32 | addieren, um | addieren{sup:2}), um | the note 2 at the foot of the page, «Denn der Mond befindet sich zwischen Ascendens und Medium Coelum», gives the reason why the parallax is added to the true place of the moon; no reference to it is printed in the text | medium | none on the text
+@critical AK07-CN074 | turned letter | L34 | Auffinduug | Auffindung | «die Regel für die Auffindung», as «die Regel für die Auffindung des Medium Coelum» (p. 92, JP2 0124, L38-L39); the n before the g is printed as u, a turned n | high | none

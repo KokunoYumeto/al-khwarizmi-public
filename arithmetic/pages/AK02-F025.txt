@@ -1,0 +1,46 @@
+@page 25 19
+% Frame 025, printed p. 19: two degrees and 45 minutes multiplied by three degrees, 10 minutes and 30 seconds: both
+% factors brought down to their lowest order, multiplied, and the product raised by divisions by sixty; the general
+% rule; a shorter way announced.
+@p Et si uolueris multiplicare duo integra, idest duos gradus
+et {sc:xlv}. minuta in tribus integris et {sc:x}. minutis , ac .{sc:xxx}.
+secundis, pone duo integra minuta, idest multiplicabis ea in
+.{sc:lx}., et erunt .{sc:c}.{sc:xx}., quibus addes predicta .{sc:xlv}. minuta,
+et erunt .{sc:x}{sup:.c.}{sc:lv}. minuta:serva ea; quare iam reddidisti ea in ul-
+timam differentiam.Post hec fac predictos tres gradus minuta,
+multiplicando ea in {sc:lx}. ut supra. Quibus addes .{sc:x}. predicta
+minuta, et erunt .{sc:c}.{sc:xc}. minuta: de inde pone ipsa .{sc:c}.{sc:xc}. mi-
+nuta secunda, multiplicando iterum ea in .{sc:lx}., donec reddas
+ea in ultimam differentiam, idest in secunda. Erunt .{sc:xi}. milia
+quadrigenta, quibus addes .{sc:xxx}. secunda que sunt cum eis.
+Eruntque .{sc:xi}. milia quadringenta secunda. Sicque reddes ea
+in ultimum genus fractionis eiusdem numeri. Multiplica hec
+omnia predicta in .{sc:c}. {sc:lxv}. minuta, et erunt mille milium, et
+octingenta octoginta quinque milia ac nongenta quinquaginta
+tercia: quare multiplicasti ea,idest in secundas in minutiis, et
+facta sunt tercia. Quod diuides per {sc:lx}., ut reddantur secun-
+da. Exibuntque tibi .{sc:xxxi}. milia et quadringenta .{sc:xxx}.{sup:ta} {sc:ii}.{sup:o}
+secunda, et remanebunt .{sc:xxx}.{sup:ta} tercia. Item diuides secunda
+per .{sc:lx}.,ut reddantur minuta. Exibuntque tibi quingenta .{sc:xx}.
+tria minuta , et super erunt {sc:lii}. secunda. Rursum diuide
+minuta, ut reddantur gradus, idest numerus integer. Eruntque
+.{sc:viii}.{sup:to}, et remanebunt .{sc:xl}{sup:ta}{sc:iii}{sup:a}. minuta. Eritque omne quod
+exierit de multiplicacione octo gradus, et {sc:xliii}. minuta, et
+{sc:lii}. secunda, ac .{sc:xxx}. tercia: et similiter facies de uniuersis
+fractionibus; reddes scilicet unamquamque ex eis quam uolue-
+ris multiplicare in aliam inferiorem differentiam que fuerit in
+unaquaque ex eis. Post hec multiplica unam earum in aliam;
+et serua quod exierit;et uide ex qua differentiarum sit: deinde
+diuide per .{sc:lx}. quemadmodum dixi tibi , ut erigas eas ad
+gradus, uel ergo peruenerint ex differentiis que sunt infra gra-
+dus, et quod fuerit, ipsum erit quod exiuit tibi de multiplica-
+cione unius earum in aliam : et est ei alius modus breuior:
+@obs The page number «( 19 )» stands at the head of the page, centred. The page has no footnotes and no signature.
+@obs L01-L25: two degrees and forty-five minutes multiplied by three degrees, ten minutes and thirty seconds. The first factor is turned into minutes: two by sixty, 120, and forty-five, 165 (printed «.xlv.» with «.c.» above it, see the critical note). The second into minutes, three by sixty and ten, 190, and into seconds, 190 by sixty, 11400, and thirty, 11430 (printed 11400, see the critical note). Seconds by minutes give thirds: 11430 by 165, 1885950 thirds, «mille milium, et octingenta octoginta quinque milia ac nongenta quinquaginta»; divided by sixty, 31432 seconds and thirty thirds; by sixty, 523 minutes and fifty-two seconds; by sixty, eight degrees and forty-three minutes. The product: eight degrees, 43 minutes, 52 seconds and 30 thirds.
+@obs L25-L33: the general rule: each factor is brought down to the lowest order in it, the two are multiplied, the order of the product is found, and the product is raised by divisions by sixty to degrees. The page ends with the announcement of a shorter way, «alius modus breuior:».
+@obs L05: the numeral «.xlv.» has «.c.», in smaller type, set above it over the junction of the x and the l; transcribed after the x as a raised group. L05: «serva», with v, where the edition prints u elsewhere (L29 «serua»); transcribed as printed. L11: «quadrigenta», without the n, where L12 and L18 have «quadringenta».
+@obs Numerals: L02 «xlv.» and «x.», L07 «lx.», L14 «lxv.», L17 «lx.,», L21 «lii.», L24 «xliii.» and L25 «lii.» without the opening point; L14 «.c. lxv.», one hundred and sixty-five, with a word space after the point of «.c.» (20 px). Raised letters: L18 «.xxx.ta ii.o», triginta duo, L19 «.xxx.ta», L23 «.viii.to», octo, and «.xlta iiia.», quadraginta tria, with no point between «xlta» and «iiia».
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): with a space before the mark, L02 «minutis ,» (18 px), L21 «minuta ,» (19 px), L30 «tibi ,» (21 px) and L33 «aliam :» (23 px); without a space after the mark, L05 «minuta:serva» (2 px), L06 «differentiam.Post» (6 px, the median word space of the line 18 px), L16 «ea,idest» (5 px), L20 «.lx.,ut» (6 px) and L29 «exierit;et» (6 px). L08 «minuta:», the colon 9 px from the word, is set close, with a space after it (14 px). L09 «secunda, multiplicando» (14 px, median 19 px), L12 «.xi. milia» (15 px, median 19.5 px) and L18 «da. Exibuntque» (21 px, median 26 px) have a space. Specks after the point of L13 «numeri.» and L24 «xliii.» and after the comma of L14 «milium,» shorten the measured gaps; the gaps to the next word are 20, 34 and 27 px. The semicolons of L05, L26, L28 and L29 have printed tails (darkest pixel 54 to 63); L25 «tercia:» is a colon, its two dots without a tail.
+@critical AK02-CN014 | wrong numeral | L05 | .xlv. with .c. set above | .c.lxv. | two degrees are 120 minutes (L04), and with the forty-five minutes they make 165, the number multiplied in L14, «.c. lxv.»; the print has «xlv», forty-five, with «.c.» set above between the x and the l, which read as c added to xlv is 145 | high | the sum of the minutes reads forty-five with an added hundred; the working continues with 165
+@critical AK02-CN015 | omitted numeral | L12 | .xi. milia quadringenta secunda | .xi. milia quadringenta .xxx. secunda | 190 minutes are 11400 seconds (L10-L11), and the thirty seconds added in L11 make 11430; the product that follows (L14-L16), 1885950 thirds, is 11430 by 165, where 11400 by 165 is 1881000 | high | the number of seconds reads 11400 for 11430; the product is computed from 11430
+@copy A reader's notes in pencil: «quia» in the right margin beside L05 and L16, with «quare» underlined in both lines; L07, a bracket after «Quibus»; L11, «quadrigenta» underlined and «quadringenta» in the right margin; L17, a stroke above «sunt»; L19, a slash through the s of «diuides», with a slash and the deletion sign (deleatur) in the right margin; L25, «et» underlined and «quod» in the right margin, and a light stroke at the upper right of the colon of «tercia:»; L26, a small stroke below «quam»; L33, a slash through the m of «aliam», «alia» written below the line, «et» underlined, and «Quod» in the right margin. Not part of the edition.

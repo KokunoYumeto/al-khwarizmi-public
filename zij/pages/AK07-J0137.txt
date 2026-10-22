@@ -1,0 +1,55 @@
+@page 137 105
+@lang de
+% JP2 0137: Suter's commentary, p. 105: the end of the chapter on Table 116: the terms, «Fines secundum Medos»; the
+% literature on these astrological notions; the conclusion on al-Khwārizmī's sources begins (notes 1-3).
+genannt, arab. {i:ḥadd,} pl. {i:ḥudūd}) verzeichnet. Jedes Tierkreiszeichen wird auch in
+fünf, im allgemeinen ungleiche Teile geteilt, und jedem einer der fünf Planeten
+(Sonne und Mond fallen hier weg) als Herr zugeteilt. So wird den ersten 6° des
+Widders {i:Jupiter,} den nächsten 6° {i:Venus,} den folgenden 8° {i:Merkur,} den weitern 5°
+{i:Mars} und den letzten 5° {i:Saturn} zugeteilt. Auch hier existierten verschiedene Ver-
+teilungssysteme, das hier befolgte weicht von dem der Rose {sp:Batt.}’s (im äussersten
+Kreisring) ab, und scheint das von {sp:Nallino}{sup:1}) den {sp:Aegyptern} zugeschriebene
+System zu sein, das auch von den meisten arabischen Astrologen angenommen wurde.
+Der Titel dieses Teils der Tafel ist : {i:Fines secundum Medos} ; der Verfasser schreibt
+also diese Verteilungsmethode den Medern zu, meint er damit Babylonier oder Perser ?
+{sp:Batt.} nennt in seinen Königstafeln (II, 2) einen {sp:Darius}, den Vorgänger des {sp:Cyrus},
+einen Meder ({i:Medus}), ebenso {sp:Al-Bīrūnī} in seiner Chronologie. {sup:2})
+@p Für weitere Details in Bezug auf diese astrologischen Begriffe verweise ich
+ausser auf die lateinischen Ausgaben griechischer und arabischer Astrologen, wie
+{sp:Ptol.}, {sp:Albumasar}, {sp:Alcabitius}, {sp:Albohazen}, etc. noch auf folgende Schriften :
+{sp:Batt.}, ed. {sp:Nallino}, II, 309—314 ; {sp:Loth}, {i:Al-Kindi als Astrolog}, in {i:Morgenländische}
+{i:Forschungen,} Festschrift f. {sp:H. L. Fleischer}, Leipzig 1875 ; {sp:Dieterici}, {i:Die Propädeutik}
+{i:der Araber im 10. Jahrh.}, Berlin 1865, p. 46—85 ; {sp:Boll}, {i:Sphaera,} Leipzig 1903 ; {sp:Bouché-}
+{sp:Leclercq}, {i:L’astrologie grecque,} Paris 1899 ; {sp:Uhlemann}, {i:Grundzüge der Astronomie}
+{i:und Astrologie der Alten, besonders der Aegypter,} Leipzig 1857.
+@p Wenn wir am Schlusse zu überblicken versuchen, was sich uns über die Quellen,
+denen {sp:Kh.} gefolgt ist, aus dem Studium dieses Werkes ergeben hat, so müssen wir
+eingestehen, dass das Resultat kein entschiedenes, nur in wenigen Punkten sicher
+stehendes ist. Gewiss ist, dass er in der Bestimmung der {i:mittlern Örter} der Planeten
+das {i:indisch-persische} Verfahren adoptiert, d. h. das siderische Jahr zu Grunde gelegt
+hat ; ferner dass er in der Grösse der {i:Schiefe} der {i:Ekliptik} dem {sp:Ptol.} gefolgt ist.
+Sehr wahrscheinlich ist{sup:3}), dass er in der Berechnung der {i:Gleichungen} der {i:Planeten}
+den Weg der {i:Perser,} d. h. der {i:Tafeln} des {i:Shāh,} gegangen ist, die wiederum auf den
+{i:Siddhāntas} der {i:Inder,} auf welchen ist nicht bestimmt zu sagen, basieren. {i:Persische}
+Spuren bemerken wir ferner in den Tafeln der {i:wahren} oder {i:ungleichen Bewegung} der
+Sonne und des Mondes, wie die Beibehaltung des Ausdruckes {i:buht} beweist, den {sp:Batt.}
+nicht kennt. In den Tafeln der {i:Konjunktionen} u. {i:Oppositionen} ({i:Syzygien}) ist {sp:Kh.} (oder
+{sp:Maslama?}) wahrscheinlich hauptsächlich {sp:Ptol.} gefolgt, in der Berechnung der {i:Fin-}
+{i:sternisse} und der {i:Mond-Parallaxe} finden wir wieder Annäherung an die {i:Inder.} Dass sich
+{sp:Kh.}, mehr an die indirekten persischen Quellen als an die direkten indischen gehalten
+haben mag, ist wahrscheinlich und auch leicht erklärlich, da er eben ein geborner
+Perser war ; es ist auch möglich, dass er in der ersten Ausgabe seiner Tafeln sich
+@n {sup:1}) {sp:Batt.} II, 309.
+@n {sup:2}) Ed. {sp:Sachau}, engl. Übersetzung, p. 101.
+@n {sup:3}) S. oben p. 32.
+@obs The page number «105» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «14» on the right; recorded here, not transcribed as a line. L01 completes the sentence that ends p. 104 (JP2 0136, L41), «Rechts in der untern Hälfte der Tafel sind die Grenzen (Termini, hier Fines».
+@obs A short centred rule separates L20 from L21; the closing section on al-Khwārizmī's sources begins after it.
+@obs L01-L08 and N01. Checked: 6° + 6° + 8° + 5° + 5° = 30°: the terms of Aries, Jupiter 0°-6°, Venus 6°-12°, Mercury 12°-20°, Mars 20°-25°, Saturn 25°-30°. Nallino (II, 309-314) is the note on the astrological rose of p. 299 of the «Tabulae spuriae»; on II, 309 the Egyptian terms, «Aegyptiam rationem plerumque Arabes sequuntur», as L07-L08 say. The terms of Table 116 are to be compared with the table.
+@obs L11-L12 and N02. Checked against Nallino's notes on the tables of kings (II, 192-193): «Darius Medus» stands in al-Battānī's canon in the place of Nabonadius, the king before Cyrus, and al-Bīrūnī's Chronology, «p. 89 text., 101 vers.», has «Darius al-Mādāy primus»; N02 cites the same page of Sachau's translation.
+@obs L21-L37 and N03. Checked: the mean motions on the sidereal year (pp. 42 and 65, JP2 0074 and 0097); the obliquity 23° 51′, Ptolemy's 23° 51′ 20″ without the seconds (p. 58, JP2 0090); N03, p. 32 (JP2 0064): the Persian «Tafeln des Shāh».
+@obs L13: «Für», the r broken to its stem, so that it looks like «Füı»; read as printed word. L35: «Kh., mehr»; see the critical note. L33: «Maslama?)», the question mark set at the letter spacing of the name (11 px). L12: «Chronologie. 2)», the note number after a space following the full stop, as on p. 103 (JP2 0135, L15).
+@obs L01: «ḥadd», «ḥudūd», with the dot under the h and the macron. L29: «Siddhāntas»; L28: «Shāh».
+@obs The dashes: L16 «309—314» (48 px), L18 «46—85» (44 px), long dashes set close.
+@obs Spaced type, marked {sp:}: «Batt.», «Nallino», «Aegyptern», «Darius», «Cyrus», «Al-Bīrūnī», «Ptol.», «Albumasar», «Alcabitius», «Albohazen», «Loth», «H. L. Fleischer», «Dieterici», «Boll», «Bouché-Leclercq», «Uhlemann», «Kh.», «Maslama?», «Sachau»; italics: «ḥadd,», «ḥudūd», the planets of L04-L05, «Fines secundum Medos», «Medus», the titles of L16-L20, «mittlern Örter», «indisch-persische», «Schiefe», «Ekliptik», «Gleichungen», «Planeten», «Perser,», «Tafeln», «Shāh,», «Siddhāntas», «Inder,», «Persische», «wahren», «ungleichen Bewegung», «buht», «Konjunktionen», «Oppositionen», «Syzygien», «Finsternisse», «Mond-Parallaxe», «Inder.».
+@obs The colons, semicolons and the question mark of L10 stand after the thin space of the edition (10-14 px measured).
+@critical AK07-CN082 | stray comma | L35 | Kh., mehr | Kh. mehr | the comma divides the subject «Kh.» of the clause «Dass sich Kh. … gehalten haben mag» from the rest of it; no comma belongs there | medium | none

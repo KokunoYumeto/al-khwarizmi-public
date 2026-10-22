@@ -1,0 +1,322 @@
+{
+ "anchor": "AK05-F062",
+ "frame": 62,
+ "frame_file": "page_062.jpg",
+ "frame_sha256": "90384bb6f7cc00ad11c553ee1089d3658f0fa988f8cdb8fa57ff7e916ce58aa3",
+ "printed_page": "٥٦",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 062, printed p. 56: the right-hand page of the opening pp. 56-57 of the table of the mountains: the numbers and descriptions of the last ten mountains of the fifth clime, entries 809/810-827/828: a mountain that runs to Dunbāwand between Qazwīn and al-Rayy, the mountain of Ṭabaristān between Jurjān and Nīsābūr, a mountain between this mountain and Samarqand, عزن and اوقرقوس among them; the headings of the sixth clime and of its mountains; and its first four mountains, entries 829/830-835/836, among them a mountain on the sea in which is the temple of Venus. One line of the editor's footnotes, continued from the foot of p. 57.",
+ "lines": [
+  {
+   "id": "AK05-F062-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٨٠٩ ٨١٠) | [١٢٩٩ ١٣٠٠] | جبل متّصل بهٰذا الجبل يمرّ الى دنباوند{n:a} ما",
+   "margin": null,
+   "cells": [
+    "(٨٠٩ ٨١٠)",
+    "[١٢٩٩ ١٣٠٠]",
+    "جبل متّصل بهٰذا الجبل يمرّ الى دنباوند{n:a} ما"
+   ],
+   "plain": "(٨٠٩ ٨١٠) | [١٢٩٩ ١٣٠٠] | جبل متّصل بهٰذا الجبل يمرّ الى دنباوند ما",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "| | بين قزوين والرىّ",
+   "margin": null,
+   "cells": [
+    "",
+    "",
+    "بين قزوين والرىّ"
+   ],
+   "plain": "| | بين قزوين والرىّ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٨١١ ٨١٢) | [١٣٠١ ١٣٠٢] | جبل",
+   "margin": null,
+   "cells": [
+    "(٨١١ ٨١٢)",
+    "[١٣٠١ ١٣٠٢]",
+    "جبل"
+   ],
+   "plain": "(٨١١ ٨١٢) | [١٣٠١ ١٣٠٢] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٨١٣ ٨١٤) | [١٣٠٣ ١٣٠٤] | جبل طبرستان{n:b} يمرّ ⟨في⟩{n:c} ما بين جرجان ونيسابور{n:d}",
+   "margin": null,
+   "cells": [
+    "(٨١٣ ٨١٤)",
+    "[١٣٠٣ ١٣٠٤]",
+    "جبل طبرستان{n:b} يمرّ ⟨في⟩{n:c} ما بين جرجان ونيسابور{n:d}"
+   ],
+   "plain": "(٨١٣ ٨١٤) | [١٣٠٣ ١٣٠٤] | جبل طبرستان يمرّ ⟨في⟩ ما بين جرجان ونيسابور",
+   "note_marks": [
+    "b",
+    "c",
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٨١٥ ٨١٦) | [١٣٠٥ ١٣٠٦] | جبل",
+   "margin": null,
+   "cells": [
+    "(٨١٥ ٨١٦)",
+    "[١٣٠٥ ١٣٠٦]",
+    "جبل"
+   ],
+   "plain": "(٨١٥ ٨١٦) | [١٣٠٥ ١٣٠٦] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٨١٧ ٨١٨) | [١٣٠٧ ١٣٠٨] | جبل يمرّ فيما بين هٰذا الجبل وسمرقند",
+   "margin": null,
+   "cells": [
+    "(٨١٧ ٨١٨)",
+    "[١٣٠٧ ١٣٠٨]",
+    "جبل يمرّ فيما بين هٰذا الجبل وسمرقند"
+   ],
+   "plain": "(٨١٧ ٨١٨) | [١٣٠٧ ١٣٠٨] | جبل يمرّ فيما بين هٰذا الجبل وسمرقند",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٨١٩ ٨٢٠) | [١٣٠٩ ١٣١٠] | جبل متّصل بهٰذا الجبل",
+   "margin": null,
+   "cells": [
+    "(٨١٩ ٨٢٠)",
+    "[١٣٠٩ ١٣١٠]",
+    "جبل متّصل بهٰذا الجبل"
+   ],
+   "plain": "(٨١٩ ٨٢٠) | [١٣٠٩ ١٣١٠] | جبل متّصل بهٰذا الجبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٨٢١ ٨٢٢) | [١٣١١ ١٣١٢] | جبل",
+   "margin": null,
+   "cells": [
+    "(٨٢١ ٨٢٢)",
+    "[١٣١١ ١٣١٢]",
+    "جبل"
+   ],
+   "plain": "(٨٢١ ٨٢٢) | [١٣١١ ١٣١٢] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٨٢٣ ٨٢٤) | | جبل متّصل بهٰذا الجبل",
+   "margin": null,
+   "cells": [
+    "(٨٢٣ ٨٢٤)",
+    "",
+    "جبل متّصل بهٰذا الجبل"
+   ],
+   "plain": "(٨٢٣ ٨٢٤) | | جبل متّصل بهٰذا الجبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٨٢٥ ٨٢٦) | [١٣١٥ ١٣١٦] | جبل عزن",
+   "margin": null,
+   "cells": [
+    "(٨٢٥ ٨٢٦)",
+    "[١٣١٥ ١٣١٦]",
+    "جبل عزن"
+   ],
+   "plain": "(٨٢٥ ٨٢٦) | [١٣١٥ ١٣١٦] | جبل عزن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٨٢٧ ٨٢٨) | [١٣١٣ ١٣١٤] | جبل اوقرقوس{n:g}",
+   "margin": null,
+   "cells": [
+    "(٨٢٧ ٨٢٨)",
+    "[١٣١٣ ١٣١٤]",
+    "جبل اوقرقوس{n:g}"
+   ],
+   "plain": "(٨٢٧ ٨٢٨) | [١٣١٣ ١٣١٤] | جبل اوقرقوس",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L12",
+   "n": 12,
+   "kind": "heading",
+   "text": "الإقليم السادس",
+   "margin": null,
+   "cells": null,
+   "plain": "الإقليم السادس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L13",
+   "n": 13,
+   "kind": "heading",
+   "text": "الجبال الّتى فى",
+   "margin": null,
+   "cells": null,
+   "plain": "الجبال الّتى فى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٨٢٩ ٨٣٠) | [١٣١٧ ١٣١٨] | جبل اوٮد",
+   "margin": null,
+   "cells": [
+    "(٨٢٩ ٨٣٠)",
+    "[١٣١٧ ١٣١٨]",
+    "جبل اوٮد"
+   ],
+   "plain": "(٨٢٩ ٨٣٠) | [١٣١٧ ١٣١٨] | جبل اوٮد",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٨٣١ ٨٣٢) | [١٣١٩ ١٣٢٠] | جبل ٮوٮدوغز",
+   "margin": null,
+   "cells": [
+    "(٨٣١ ٨٣٢)",
+    "[١٣١٩ ١٣٢٠]",
+    "جبل ٮوٮدوغز"
+   ],
+   "plain": "(٨٣١ ٨٣٢) | [١٣١٩ ١٣٢٠] | جبل ٮوٮدوغز",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٨٣٣ ٨٣٤) | [١٣٢١ ١٣٢٢] | جبل متّصل بالبحر فيه هيكل الزهرة",
+   "margin": null,
+   "cells": [
+    "(٨٣٣ ٨٣٤)",
+    "[١٣٢١ ١٣٢٢]",
+    "جبل متّصل بالبحر فيه هيكل الزهرة"
+   ],
+   "plain": "(٨٣٣ ٨٣٤) | [١٣٢١ ١٣٢٢] | جبل متّصل بالبحر فيه هيكل الزهرة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F062-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(٨٣٥ ٨٣٦) | [١٣٢٣ ١٣٢٤] | جبل",
+   "margin": null,
+   "cells": [
+    "(٨٣٥ ٨٣٦)",
+    "[١٣٢٣ ١٣٢٤]",
+    "جبل"
+   ],
+   "plain": "(٨٣٥ ٨٣٦) | [١٣٢٣ ١٣٢٤] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "e",
+    "f",
+    "g"
+   ],
+   "lines": 1,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: the manuscript writes the name دٮاوند (note a, printed at the foot of p. 57).",
+  "L04: the manuscript writes the name طرساں (note b, printed at the foot of p. 57).",
+  "L04: the word في is missing in the manuscript; the editor supplies it (note c, printed at the foot of p. 57).",
+  "L04: the manuscript writes the name نساور (note d, printed at the foot of p. 57).",
+  "L11: at entry (2054) the name is written اوڡوڡوس, without dots (note g)."
+ ],
+ "unresolved": [
+  "L10: the one dot over «عزن» may also belong to the ع, which would then be a غ, and the ز a ر: غرن. Transcribed عزن."
+ ],
+ "observations": [
+  "The table of the mountains goes on across the opening pp. 56-57: each row of p. 56 is continued by a row of p. 57 (frame 063), which gives the boundaries, the colour and the direction. The description of entry 809/810 takes two printed lines, L01-L02; the second line has no numbers and is transcribed as a row with empty number cells; its boundaries, colour and direction stand on p. 57 at the height of L02, as on the openings pp. 52-55 (frames 058-061).",
+  "L12-L13: the headings of the sixth clime and of its mountains, «الإقليم السادس» and «الجبال الّتى فى», are set in the large type at the inner edge of the page and continued on p. 57 by «عرضه مه *», its latitude, 45, and «الإقليم السادس *». Unlike the headings of the earlier climes (frames 044, 048, 052, 056, 058), they begin without a star; their ends on p. 57 close with one. Transcribed as headings. L12: «الإقليم», with a hamza below the alif; L13: «الّتى», with a shadda over the ل, and «فى», with the dot of the ف and no dots on the ى.",
+  "The running numbers go on from entry 807/808 (frame 060) and run (٨٠٩ ٨١٠)-(٨٣٥ ٨٣٦). The numbers of Suhrāb are [١٢٩٩ ١٣٠٠]-[١٣١١ ١٣١٢] (L01-L08), [١٣١٥ ١٣١٦] (L10), [١٣١٣ ١٣١٤] (L11) and [١٣١٧ ١٣١٨]-[١٣٢٣ ١٣٢٤] (L14-L17); entry 823/824 (L09) has none.",
+  "The descriptions: L01-L02, a mountain joined to this mountain, which runs to Dunbāwand between Qazwīn and al-Rayy; L04, the mountain of Ṭabaristān, which runs between Jurjān and Nīsābūr; L06, a mountain that runs between this mountain and Samarqand; L07, L09, a mountain joined to this mountain; L16, a mountain joined to the sea, in which is the temple of Venus, «هيكل الزهرة». L03, L05, L08, L17: the word «جبل» alone.",
+  "L04: «⟨في⟩»: the word stands between angle brackets, followed by the note mark c: the editor supplies it (note c). It is printed with the two dots of the final ي, where the ى of «فى» elsewhere has none (L13).",
+  "L10: «عزن»: an initial ع, joined to a ز, and a final ن with its dot. A single dot, 10 by 10 px, stands over the joint of the ع and the ز, nearer to the head of the ز. Transcribed عزن.",
+  "L11: «اوقرقوس»: after «او», a ق with its two dots joined to a letter that descends below the line with only a slight rise at its head, 4 px, a ر; then a ق with its two dots joined to a و, whose head is a loop rising 8 px above the joining stroke; then a final س. Transcribed اوقرقوس.",
+  "L14: «اوٮد»: after «او», a tooth without a dot joined to a د. L15: «ٮوٮدوغز»: a tooth without a dot, 15 px high, joined to a و; a tooth without a dot joined to a د; a و; and «غز», the غ and the ز with their dots.",
+  "Signs transcribed as printed: «متّصل» (L01, L07, L09, L16), with a shadda above the two dots of the ت; «بهٰذا» (L01, L07, L09) and «هٰذا» (L06), with the dagger alif above the ه, transcribed ٰ; «يمرّ» (L01, L04, L06), with a shadda over the ر; «والرىّ» (L02), with a shadda over the final ى, which has no dots; «الى» (L01) ends in a ى without dots. With their dots: «دنباوند» (L01), the ن above and the ب below; «قزوين» (L02); «طبرستان», «جرجان» and «ونيسابور» (L04); «وسمرقند» (L06); «فيه هيكل الزهرة» (L16).",
+  "The editor's footnotes of the opening begin at the foot of p. 57 (frame 063) with notes a, b, c and d, whose marks stand on this page (L01, L04), and continue here in one line with notes e and f, whose marks stand on p. 57, and note g (L11).",
+  "The page number «— ٥٦ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,38 @@
+@page 11 ٥
+% Frame 011, printed p. 5: the cities of the first clime continued, entries 19-34: from Simāt on the cape of the sea,
+% the coast of Yemen, Aden, Ṣanʿāʾ and Ḥaḍramawt, to Maʿlā; the folio of the manuscript, «(fol. 3ᵃ)», in the margin
+% beside the last entry. Five lines of the editor's footnotes.
+@r (١٩) | [٥] | سماٮ{n:a} على انف البحر | ٮح | ل | يح | ل{n:b}
+@r (٢٠) | [٦] | مدينة على البحر | سٮ | {z} | ح | يه
+@r (٢١) | [٧] | مارا من اليمن على البحر | سح | {z} | يه | ي⟨ه⟩{n:c}
+@r (٢٢) | [٨] | الفسَ{n:d} على البحر | سح | {z} | ٮٮ | يه
+@r (٢٣) | [١٠] | عدن اليمن{n:e} على البحر | سه | {z} | ٮح | {z}
+@r (٢٤) | [٩] | صنعاء | سح | ل | ⟨ٮد | ل⟩{n:f}
+@r (٢٥) | [١١] | ساوالى على البحر | سو | ل | ى | {z}
+@r (٢٦) | [١٢] | مدينة سيقر | سح | ٮه | ٮٮ | ك
+@r (٢٧) | [١٣] | مدينة منبيس{n:g} | سح | ل | ٮه | ل
+@r (٢٨) | [١٤] | مدينة مرهوذا | سط | {z} | ٮح | {z}
+@r (٢٩) | [١٥] | مدينة على البحر | سط | ل | و | {z}
+@r (٣٠) | [٥٦] | مدينة قنانا على البحر{n:h} | عب | ل | ٮ | مه
+@r (٣١) | [١٦] | حضرموت | عا | {z} | ٮٮ | ل
+@r (٣٢) | | مدينة الطيب | عٮ | {z} | ⟨د⟩{n:i} | ل
+@r (٣٣) | [٥٦] | مدينة ڡٮاٮا على البحر | عٮ | ل | ٮ | مه
+@m (fol. 3ᵃ)
+@r (٣٤) | [١٧] | مدينة معلا | عح | يه | ٮٮ | مه
+@ednotes a b c d e f g h i 5
+@obs The table goes on from frame 010 without a heading: the cities of the first clime, entries 19-34. The folio of the Strasbourg manuscript, «(fol. 3ᵃ)», is printed in Latin type in the left margin beside entry 34 (L16).
+@obs L06: the latitude of Ṣanʿāʾ is printed «⟨ٮد ل⟩», the degrees and the minutes within one pair of angle brackets, the whole latitude supplied by the editor (note f); it is transcribed with the opening bracket in the degrees cell and the closing one in the minutes cell.
+@obs L03: the minutes of the latitude are printed «ي⟨ه⟩»: the ي stands outside the angle brackets, and only the ه is supplied (note c).
+@obs L04: above the final س of الفس stands a short stroke, 16 px long, slanting down to the left, in the shape and place of a fatḥa; transcribed as a fatḥa, «الفسَ». The editor's note mark d stands after it.
+@obs Letters printed without their dots, transcribed so: سماٮ (L01, the final letter); ڡٮاٮا (L15), the name of entry 30, قنانا (L12), printed without its dots, which the editor's note h identifies with entry 33; in the numerals ٮح (L01, the degrees of the longitude; L05, L10, the degrees of the latitude, where L01 prints يح with the two dots of the ي below the tooth), سٮ (L02), ٮد (L06) and عٮ (L14, L15), the tooth or the final ب without a dot; ٮ (L12, L15), the isolated ب without its dot, with one riser at the right end of the bowl; ٮٮ (L04, L08, L13, L16), a tooth joined to a final ب, both without dots, with two risers at the right end of the bowl, a tall and a short one, as يٮ and يب on frame 013 (L14, L11); ٮه (L08, the minutes of the longitude; L09, the degrees of the latitude), a tooth joined to a final ه, without its dot, the form printed with its dots in يه (L02-L04, L16). The longitude of entry 30 (L12), عب, has its dot.
+@obs The degrees of the latitude of entries 20 (ح), 29 (و), 30 and 33 (ٮ) and 32 (⟨د⟩) are printed with a single letter, a number below 10, where the latitude of the first clime is 16° 27' (frame 010, L01), entries 19 and 21 have يح and يه, entries 23 and 28 ٮح, entries 22, 26, 31 and 34 ٮٮ, and entry 27 ٮه, which read with a ي gives 15; the editor's notes do not comment on them. Transcribed as printed.
+@obs L08: the minutes of the latitude, ك, are printed with the small inner stroke of the letter, not with a line below.
+@obs The page number «— ٥ —» stands at the foot, centred.
+@variant L01: at entry (1129) the name سماٮ is written شابث; the editor refers to the same entry for the minutes of the latitude (note b).
+@variant L03: the ه of the minutes of the latitude fills a gap of the manuscript.
+@variant L04: for الفس the manuscript reads العس; at entry (1227) the name is written القس.
+@variant L05: for اليمن the manuscript reads اس.
+@variant L06: the latitude of Ṣanʿāʾ is damaged in the manuscript and is supplied from the Zīj of Ibn Yūnus (the Leiden manuscript, 134, col. 1, line 23).
+@variant L09: at entry (1692) the name منبيس is written differently, without its dots.
+@variant L12: entry 30 is the same as entry 33; at entry (1139) the name is written قتانا.
+@variant L14: the degrees of the latitude are damaged in the manuscript, but the reading is certain.

@@ -1,0 +1,51 @@
+@page 25 XXI
+@lang de
+% JP2 0025: the introduction, p. XXI: the end of Suter's judgement of the eclipse notes; the corrupt Arabic words and
+% sentences of the text and tables: three notes of the manuscript O (fol. 103v, 104v, 127v), with the readings of
+% Nallino and Seybold.
+wenn man sie mit derjenigen {sp:Al-Battānīs} vergleicht, wohl auch nicht richtig, zum
+mindesten ebenfalls unvollständig, was eine spätere Hand veranlasst hat, eine zweite
+Berichtigung hinzuzufügen.
+@p Im Text und in den Tafeln kommen einige ganz verdorbene {i:arabische} Wörter und
+Sätze vor, die ich an dieser Stelle zu erklären versuchen möchte, da ich dieselben
+im Glossar nicht gut unter einem bestimmen Stichwort unterbringen konnte. Wie
+sie in das Werk gekommen sind, ist mit Ausnahme der persischen Namen für die
+Planeten schwer zu entscheiden, mir scheinen sie blosse Spielereien des Übersetzers,
+oder eines Abschreibers zu sein ; es ist kaum anzunehmen, dass sie von {sp:Maslama}
+{sp:al-Madjrīṭī}, oder gar von {sp:Al-Khwārizmī} herstammen. Für die freundliche
+Hilfe, die mir bei den schwierigen Stellen die Herren Proff. {sp:Nallino} in Palermo und
+{sp:Seybold} in Tübingen geleistet haben, spreche ich ihnen auch an dieser Stelle
+meinen verbindlichen Dank aus.
+@p Im Ms. O steht auf fol. 103{sup:v} (Tafel 7) folgende Note am obern Rand : {i:kulelach.}
+{i:vveli. kemithl. elhileli. fikemelen. wanuczeni.} Dies soll wohl heissen : {i:kull al-aḥwāli}
+{i:kamithl al-hilāli fī kamālin wanuḳṣānin,} und bedeutet frei übersetzt : Alle Verände-
+rungen (des Lebens, der Natur) verhalten sich wie der Mond, (sie äussern sich) in
+einer Zunahme (bis zur Vollständigkeit), und in einer (darauf folgenden) Abnahme.
+@p In demselben Ms. steht auf fol. 104{sup:v} (Tafel 9) über dem Kolonnentitel {i:Heza Saturni}
+{i:supradictum} folgende Note : {i:Nota quod hoc argumentum felek eltedewir servit. bifelek}
+{i:eltedewir lieztekim asmir.} — {i:Felek eltedewir} = {i:falak al-tadwīr} ist der {i:Epizykel} der
+Planeten ; {i:lieztekim asmir} könnte, wie {sp:Nallino} vermutet, heissen : {i:liyastakīm as-sair},
+oder {i:al-masīr}, d. h. dass er den Lauf (des Planeten) bestimme, ordne, reguliere ; in
+der Tat ist der Epizykel zu diesem Zwecke eingeführt worden.
+@p In dem gleichen Ms. befindet sich auf fol. 127{sup:v} (Tafel 55) am obern Rand
+folgende Note : {i:Cullel. kavvekib. kumna. fiscerafehu. ille Otari. ahine unxi ademu.}
+{sp:Nallino} vermutete, das Ganze möchte ein Vers zur Ehre oder Lobpreisung irgend
+einer hohen Persönlichkeit (eines Fürsten) sein, und sollte lauten : {i:Kullu’l-kawākibi}
+{i:ḳumna fī sharafihi illā ʿOṭārida,} d. h. alle Planeten erhoben sich zu seiner Ehre
+ausser Merkur ; die drei Wörter aber {i:ahine unxi ademu} blieben ihm unklar. — Bei
+einem Besuche im Herbst 1913 bei Herrn Prof. {sp:Seybold} in Tübingen legte ich ihm
+diese Stelle ebenfalls vor, sie erinnerte ihn sofort an einige Ḳorānstellen{sup:1}), wo von
+den Engeln die Rede ist, die alle ausser {i:Iblīs} (dem Satan) vor {i:Adam} niederfielen,
+und er stellte daher die wohl mit Recht begründete Vermutung auf, das {i:a} von {i:ahine}
+sei wohl verdorben aus {i:d} und gehöre ans Ende von {i:Otari}, das {i:x} in {i:unxi} sei nach
+spanischer Transskriptionsart als {i:sh} zu lesen, so dass also die drei letzten Wörter
+zu lesen wären : {i:ḥīna unshi’a ādamu}, also der ganze Satz in halb klassischer, halb
+vulgärer Aussprache : {i:kull al-kawākib ḳumna fī sharafihi illā ʿOṭārid ḥīna unshi’a}
+{i:ādamu}, d. h. alle Planeten erhoben sich zu seiner (Adams) Ehre ausser Merkur, zur
+Zeit da Adam erschaffen wurde. — Dass hier {i:Merkur} die Stelle des {i:Satans} ({i:Iblīs})
+vertritt, hat seinen Grund wohl darin, dass im Mittelalter der griechiche {i:Hermes} mit
+@n {sup:1}) Vergl. die Suren II, 32 ; VII, 11 ; XX, 116.
+@obs The page number «XXI» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «IV» on the right; recorded here, not transcribed as a line.
+@obs The words of the notes of O are printed in italics as they stand in the manuscript, each followed by a point; the readings proposed for them in italics with the dots under ḥ, ḳ, ṣ, ṭ, the macrons and the ʿayn as a raised reversed comma (L29, L38). L15 «vveli» and L26 «kavvekib» have two italic v's, where «wanuczeni» (L15) has the italic w. L28 «Kullu’l-» and L37-L38 «unshi’a»: the apostrophe after the i stands beside the dot of the i.
+@critical AK07-CN004 | misprint | L06 | bestimmen | bestimmten | «unter einem bestimmen Stichwort», under a particular headword: the participle is «bestimmten»; the t has dropped out | high | none
+@critical AK07-CN005 | misprint | L41 | griechiche | griechische | «der griechiche Hermes», the Greek Hermes: the adjective is «griechische»; the s before ch has dropped out | high | none

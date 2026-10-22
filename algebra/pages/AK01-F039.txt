@@ -1,0 +1,9 @@
+@page 39 -
+@kind facsimile
+% Frame 039: a plate: the facsimile, in a line block, of a page of the manuscript with the demonstration of the fifth
+% case, a square and twenty-one dirhams equal ten roots, from «مثل احد اضلاع سطح اد» to its end, with the figure of
+% the demonstration below the text, a note in the top margin, and the catchword «واما» at the foot. It follows
+% printed p. 24 (frame 038); its verso (frame 040) is blank.
+@fig AK01-F039-FIG1 560 440 2300 3300
+@obs The facsimile is reproduced as an image; its handwritten text is not transcribed. Its lines correspond to the edition's text from frame 038, L02, to the end of the demonstration on frame 041.
+@obs The manuscript names the point at which the line حه is halved with ج, a jīm with its dot: «على نقطة ج» and «خط هج» in the fifth line of the page, where the print has ع (frame 038, L07; critical note AK01-CN003). In the first line it writes the label هن with the ن upright (frame 038, L02; critical note AK01-CN004).

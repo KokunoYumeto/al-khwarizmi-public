@@ -1,0 +1,768 @@
+{
+ "anchor": "AK07-J0076",
+ "jp2_index": 76,
+ "jp2_member": "b24872489_0076.jp2",
+ "jp2_sha256": "0bc603369ad5c178bf7c8e2a904f3ea6dff175e351ffbff5ca17b03f1488bda7",
+ "reading_copy": "page_0076.jpg",
+ "reading_copy_sha256": "e7054e0efb75551f5383ebb6853b1464e24056b9eb2cee7d9c459aaa70ddf07e",
+ "printed_page": "44",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0076: Suter's commentary, p. 44: chapter 8 continued: the example (the true place of the sun for 15 Ṣafar 540, 9° 14′ 34″ of Leo); the interpolation; the geometric explanation of the equation of the sun in the eccentric hypothesis, with a figure (notes 1-4).",
+ "lines": [
+  {
+   "id": "AK07-J0076-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "{i:Apogeum} = 77° 55′, so erhalten wir die {i:Anomalie} = 53° 5′ 34″, mit diesem Argument",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Apogeum = 77° 55′, so erhalten wir die Anomalie = 53° 5′ 34″, mit diesem Argument",
+   "italic": [
+    "Apogeum",
+    "Anomalie"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "tritt man in die Tafel 22 ein und findet hier für die {i:Gleichung} der Sonne mit Hilfe",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "tritt man in die Tafel 22 ein und findet hier für die Gleichung der Sonne mit Hilfe",
+   "italic": [
+    "Gleichung"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "der Interpolation 1° 46′, diese Gleichung von der mittlern Länge subtrahiert, gibt",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Interpolation 1° 46′, diese Gleichung von der mittlern Länge subtrahiert, gibt",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "als {i:wahren Ort} der Sonne 129° 14′ 34″, d. h. die Sonne befand sich in diesem Zeit-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "als wahren Ort der Sonne 129° 14′ 34″, d. h. die Sonne befand sich in diesem Zeit-",
+   "italic": [
+    "wahren Ort"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "punkt in 9° 14′ 34″ des Löwen.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "punkt in 9° 14′ 34″ des Löwen.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L06",
+   "n": 6,
+   "kind": "indent",
+   "text": "Die Erklärung, wie man bei allfälligen Minuten der Anomalie zu verfahren habe,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Die Erklärung, wie man bei allfälligen Minuten der Anomalie zu verfahren habe,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "ist in unserm Texte (p. 9—10 : {i:Quod si ab argumento partes aliquae restiterint} . . .) ver-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ist in unserm Texte (p. 9—10 : Quod si ab argumento partes aliquae restiterint . . .) ver-",
+   "italic": [
+    "Quod si ab argumento partes aliquae restiterint"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "dorben ; es ist natürlich dieselbe Berechnung von Proportionalteilen auszuführen,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dorben ; es ist natürlich dieselbe Berechnung von Proportionalteilen auszuführen,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "wie bei unsern logarith.-trigonometrischen Tafeln.{sup:1})",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wie bei unsern logarith.-trigonometrischen Tafeln.1)",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L10",
+   "n": 10,
+   "kind": "indent",
+   "text": "Wir geben im folgenden die geometrische Erklärung zu dem obigen Verfahren",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wir geben im folgenden die geometrische Erklärung zu dem obigen Verfahren",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "der Bestimmung der wahren Länge der Sonne nach {sp:Ptol.-Batt.}, und zwar nach",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Bestimmung der wahren Länge der Sonne nach Ptol.-Batt., und zwar nach",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ptol.-Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "der exzentrischen Hypothese, d. h. die Sonne bewege sich in einem zur Ekliptik",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der exzentrischen Hypothese, d. h. die Sonne bewege sich in einem zur Ekliptik",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "exzentrischen Kreise, nicht auf einem Epizykel. {sp:Ptol.} hat übrigens schon gezeigt,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "exzentrischen Kreise, nicht auf einem Epizykel. Ptol. hat übrigens schon gezeigt,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ptol."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "dass man genau zu demselben Resultate komme mit Hilfe eines Epizykels.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dass man genau zu demselben Resultate komme mit Hilfe eines Epizykels.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L15",
+   "n": 15,
+   "kind": "indent",
+   "text": "Es sei {i:E} der Mittelpunkt der Ekliptik, also der Erdmittelpunkt, {i:M} der Mittel-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Es sei E der Mittelpunkt der Ekliptik, also der Erdmittelpunkt, M der Mittel-",
+   "italic": [
+    "E",
+    "M"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "punkt des exzentrischen Kreises, in dem sich die Sonne gleichförmig bewegen soll.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "punkt des exzentrischen Kreises, in dem sich die Sonne gleichförmig bewegen soll.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "{i:A} ist also das Apogeum, {i:P} das Perigeum der Sonne ;",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "A ist also das Apogeum, P das Perigeum der Sonne ;",
+   "italic": [
+    "A",
+    "P"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "diese letztere befinde sich im Punkte {i:S}, {i:F} sei der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "diese letztere befinde sich im Punkte S, F sei der",
+   "italic": [
+    "S",
+    "F"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "Frühlingspunkt. Nun ist ∢ {i:FMS} die mittlere Länge",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Frühlingspunkt. Nun ist ∢ FMS die mittlere Länge",
+   "italic": [
+    "FMS"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "der Sonne, hievon zieht man die Länge des Apo-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Sonne, hievon zieht man die Länge des Apo-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "geums, d. h. den ∢ {i:FMA} ab, und hat dann den",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "geums, d. h. den ∢ FMA ab, und hat dann den",
+   "italic": [
+    "FMA"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "∢ {i:AMS}, die sogenannte {i:mittlere Anomalie}, in unsern",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "∢ AMS, die sogenannte mittlere Anomalie, in unsern",
+   "italic": [
+    "AMS",
+    "mittlere Anomalie"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "Tafeln gewöhnlich {i:Argument} genannt. Wir wollen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Tafeln gewöhnlich Argument genannt. Wir wollen",
+   "italic": [
+    "Argument"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "aber den ∢ {i:AES} haben, unter dem von der Erde ({i:E})",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "aber den ∢ AES haben, unter dem von der Erde (E)",
+   "italic": [
+    "AES",
+    "E"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "aus gesehen, der Bogen {i:AS} erscheint, den die Sonne",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "aus gesehen, der Bogen AS erscheint, den die Sonne",
+   "italic": [
+    "AS"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "vom Apogeum an durchlaufen hat ; diesen Winkel erhalten wir, wenn wir von der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "vom Apogeum an durchlaufen hat ; diesen Winkel erhalten wir, wenn wir von der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "mittlern Anomalie den ∢ {i:α}, die sogenannte {i:Gleichung} der Sonne, subtrahieren. Der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mittlern Anomalie den ∢ α, die sogenannte Gleichung der Sonne, subtrahieren. Der",
+   "italic": [
+    "α",
+    "Gleichung"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "∢ {i:AES}, oder auch {i:AMG}, wenn {i:MG} ∥ {i:ES}, heisst nun die {i:wahre Anomalie}, addiert",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "∢ AES, oder auch AMG, wenn MG ∥ ES, heisst nun die wahre Anomalie, addiert",
+   "italic": [
+    "AES",
+    "AMG",
+    "MG",
+    "ES",
+    "wahre Anomalie"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "man dazu wieder ∢ {i:AMF}, d. h. die Länge des Apogeums, so hat man den ∢ {i:FMG}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "man dazu wieder ∢ AMF, d. h. die Länge des Apogeums, so hat man den ∢ FMG",
+   "italic": [
+    "AMF",
+    "FMG"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "oder Bogen {i:FG}, d. h. die {i:wahre Länge} der Sonne. — In unserm Text wird die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "oder Bogen FG, d. h. die wahre Länge der Sonne. — In unserm Text wird die",
+   "italic": [
+    "FG",
+    "wahre Länge"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "Gleichung {i:α} direkt von der mittlern Länge der Sonne abgezogen, was natürlich auf",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Gleichung α direkt von der mittlern Länge der Sonne abgezogen, was natürlich auf",
+   "italic": [
+    "α"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "dasselbe hinauskommt.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dasselbe hinauskommt.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L33",
+   "n": 33,
+   "kind": "indent",
+   "text": "Wie man für jeden Bogen {i:AS}, oder für jede mittlere Anomalie, die Gleichung",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wie man für jeden Bogen AS, oder für jede mittlere Anomalie, die Gleichung",
+   "italic": [
+    "AS"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "berechnet, will ich hier nicht ausführlich auseinandersetzen, ich bemerke nur, dass",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "berechnet, will ich hier nicht ausführlich auseinandersetzen, ich bemerke nur, dass",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "{sp:Ptol.}{sup:2}) und {sp:Batt.}{sup:3}) sie mittels des pythagor. Lehrsatzes und trigonometrischer Be-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Ptol.2) und Batt.3) sie mittels des pythagor. Lehrsatzes und trigonometrischer Be-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ptol.",
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L36",
+   "n": 36,
+   "kind": "text",
+   "text": "ziehungen aus den Dreiecken {i:HME} und {i:HES} berechnen, {sp:al-Bīrūnī}{sup:4}) aber, indem er",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ziehungen aus den Dreiecken HME und HES berechnen, al-Bīrūnī4) aber, indem er",
+   "italic": [
+    "HME",
+    "HES"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "al-Bīrūnī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "mit Hilfe des Cosinus-Satzes aus dem Dreieck {i:EMS} zuerst {i:ES}, und dann aus dem",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mit Hilfe des Cosinus-Satzes aus dem Dreieck EMS zuerst ES, und dann aus dem",
+   "italic": [
+    "EMS",
+    "ES"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-L38",
+   "n": 38,
+   "kind": "text",
+   "text": "rechtwinkligen Dreieck {i:HES} den ∢ {i:α} berechnet.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "rechtwinkligen Dreieck HES den ∢ α berechnet.",
+   "italic": [
+    "HES",
+    "α"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Vergl. auch {sp:Batt.}, ed. {sp:Nallino}, I, 72, Z. 9—13.",
+   "margin": null,
+   "plain": "1) Vergl. auch Batt., ed. Nallino, I, 72, Z. 9—13.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt.",
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "{sup:2}) {i:Almagest} III, 5 (ed. {sp:Heiberg}, I, 240—255, deutsche Übers. von K. {sp:Manitius}, I, 173—180).",
+   "margin": null,
+   "plain": "2) Almagest III, 5 (ed. Heiberg, I, 240—255, deutsche Übers. von K. Manitius, I, 173—180).",
+   "italic": [
+    "Almagest"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Heiberg",
+    "Manitius"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "{sup:3}) Ed. {sp:Nallino}, I, 48, 219—220.",
+   "margin": null,
+   "plain": "3) Ed. Nallino, I, 48, 219—220.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0076-N04",
+   "n": 4,
+   "kind": "note",
+   "text": "{sup:4}) Vergl. {i:Biblioth. mathem.} {b:11}{sub:3}, 1910, p. 45 u. 71.",
+   "margin": null,
+   "plain": "4) Vergl. Biblioth. mathem. 113, 1910, p. 45 u. 71.",
+   "italic": [
+    "Biblioth. mathem."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "11"
+   ]
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «44» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «Apogeum» continues «Subtrahieren wir davon das» at the end of p. 43 (JP2 0075, L34).",
+  "A figure stands at the left of L17-L25, which are set in a narrower measure at its right; it is not reproduced. Two circles of the same radius: the eccentric with the centre M, on which lie A at the left end of the dashed horizontal diameter, F at the upper left, G and S at the lower left, and P at the right end of the diameter; and the circle of the ecliptic with the centre E, which passes through P′ at the right end of the same dashed line. The solid lines F M, S M produced to H, H E and S E; the dashed line G M, parallel to S E; the angle α marked twice, at S between S M and S E, and at M between M G and M S; L38 calls the triangle H E S right-angled. The letters are italic: A, M, E, P, P′, F, G, H, S, α.",
+  "L01-L05. Checked: 131° 0′ 34″ − 77° 55′ = 53° 5′ 34″; 131° 0′ 34″ − 1° 46′ = 129° 14′ 34″, which is 9° 14′ 34″ of Leo (from 120°). The equation of 1° 46′ is to be compared with Table 22. L15-L32. Checked: A, M and E lie on one line with M between A and E, so that ∢ AMS is the exterior angle of the triangle EMS at M and equals ∢ MES + ∢ MSE, that is ∢ AES + α; the true anomaly ∢ AES is the mean anomaly less the equation α, and ∢ AMG = ∢ AES and ∢ GMS = α, since MG ∥ ES.",
+  "L07: «(p. 9—10 : Quod si ab argumento partes aliquae restiterint . . .)», the quotation in italics, the colon after a thin space (12 px), three points. L19, L21, L22, L24, L27-L29, L38: «∢», the angle sign, a < with a short stroke across it, set before the italic letters with a space. L28: «MG ∥ ES», the sign of parallels printed as two vertical strokes.",
+  "L31: the h of «Gleichung» is a bold sort. N04: «11₃» (the third series), the 11 bold and the 3 lowered. L33: a dark speck below the e of «jeden»; L30: a speck on the base line after «wird»; not transcribed.",
+  "Spaced type, marked {sp:}: «Ptol.-Batt.», «Ptol.», «Batt.», «al-Bīrūnī», «Nallino», «Heiberg», «Manitius»; italics: the letters of the figure, «Apogeum», «Anomalie» (L01), «Gleichung» (L02, L27), «wahren Ort», «mittlere Anomalie», «Argument», «wahre Anomalie», «wahre Länge», «Almagest», «Biblioth. mathem.».",
+  "The colons and semicolons stand after the thin space of the edition (10-13 px measured)."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

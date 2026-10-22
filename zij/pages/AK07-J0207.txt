@@ -1,0 +1,55 @@
+@page 207 175
+@lang la
+% JP2 0207: Tab. 61, p. 175: the true hourly motions of the sun and the moon (Gedval elbuht), the radii of the sun and
+% the moon and the two columns of the dragon, for the anomalies 1° to 30° and 359° to 330°, with the apparatus (notes 1-5 and a-b).
+@c {b:Gedval elbuht} (CO)
+@m C 76{sup:v}, O 133{sup:v}.
+@c {b:[Tabula motus veri Solis et Lunae]}
+@tw size=footnotesize span=1.1 0.5 0.5 0.5 0.5 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62
+@t Semitae numerorum |  |  |  | Harket |  | Harket{sup:2}) |  | Dimidium |  | Dimidia |  | Primum |  | Secundum |
+@t  |  |  |  | elscems |  | Lunae |  | rotae |  | quantitas |  | dimidium |  | dimidium |
+@t  |  |  |  | fil zahat |  | in hora |  | Solis (O) |  | rotae |  | rotae |  | rotae |
+@t  |  |  |  | Motus Solis |  |  |  |  |  | Lunae{sup:3}) (O) |  | Draconis (O) |  | Draconis (O) |
+@t  |  |  |  | in hora{sup:1}) |  |  |  |  |  |  |  |  |  |  |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:4}) | {b:Sec.}{sup:5}) | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.}
+@t 0 | 1 | 11 | 29 | 2 | 22 | 30 | 12 | 15 | 40 | 14 | 38 | 11 | 52 | 48 | 19
+@t 0 | 2 | 11 | 28 | 2 | 22 | 30 | 12 | 15 | 40 | 14 | 38 | 11 | 52 | 48 | 20
+@t 0 | 3 | 11 | 27 | 2 | 22 | 30 | 12 | 15 | 40 | 14 | 39 | 11 | 52 | 48 | 20
+@t 0 | 4 | 11 | 26 | 2 | 22 | 30 | 13 | 15 | 40 | 14 | 39 | 11 | 52 | 48 | 20
+@t 0 | 5 | 11 | 25 | 2 | 22 | 30 | 13 | 15 | 40 | 14 | 39 | 11 | 52 | 48 | 20
+@t 0 | 6 | 11 | 24 | 2 | 22 | 30 | 13 | 15 | 40 | 14 | 39 | 11 | 52 | 48 | 21
+@t 0 | 7 | 11 | 23 | 2 | 22 | 30 | 13 | 15 | 40 | 14 | 39 | 11 | 52 | 48 | 21
+@t 0 | 8 | 11 | 22 | 2 | 22 | 30 | 14 | 15 | 40 | 14 | 39 | 11 | 52 | 48 | 22
+@t 0 | 9 | 11 | 21 | 2 | 22 | 30 | 14 | 15 | 40 | 14 | 39 | 11 | 52 | 48 | 22
+@t 0 | 10 | 11 | 20 | 2 | 22 | 30 | 14 | 15 | 40 | 14 | 39 | 11 | 52 | 48 | 23
+@t 0 | 11 | 11 | 19 | 2 | 22 | 30 | 15 | 15 | 40 | 14 | 40 | 11 | 52 | 48 | 24
+@t 0 | 12 | 11 | 18 | 2 | 22 | 30 | 15 | 15 | 40 | 14 | 40 | 11 | 52 | 48 | 25
+@t 0 | 13 | 11 | 17 | 2 | 22 | 30 | 16 | 15 | 41 | 14 | 40 | 11 | 52 | 48 | 26
+@t 0 | 14 | 11 | 16 | 2 | 22 | 30 | 17 | 15 | 41 | 14 | 40 | 11 | 53 | 48 | 27
+@t 0 | 15 | 11 | 15 | 2 | 23 | 30 | 17 | 15 | 41 | 14 | 41 | 11 | 53 | 48 | 28
+@t 0 | 16 | 11 | 14 | 2 | 23 | 30 | 18 | 15 | 41 | 14 | 41 | 11 | 53 | 48 | 29
+@t 0 | 17 | 11 | 13 | 2 | 23 | 30 | 19 | 15 | 41 | 14 | 42 | 11 | 53 | 48 | 30
+@t 0 | 18 | 11 | 12 | 2 | 23 | 30 | 20 | 15 | 41 | 14 | 42 | 11 | 53 | 48 | 32
+@t 0 | 19 | 11 | 11 | 2 | 23 | 30 | 21 | 15 | 41 | 14 | 43 | 11 | 53 | 48 | 34
+@t 0 | 20 | 11 | 10 | 2 | 23 | 30 | 22 | 15 | 41 | 14 | 43 | 11 | 53 | 48 | 35
+@t 0 | 21 | 11 | 9 | 2 | 23 | 30 | 23 | 15 | 42 | 14 | 44 | 11 | 53 | 48 | 37
+@t 0 | 22 | 11 | 8 | 2 | 23 | 30 | 24 | 15 | 42 | 14 | 44 | 11 | 54 | 48 | 39
+@t 0 | 23 | 11 | 7 | 2 | 23 | 30 | 25 | 15 | 42 | 14 | 45 | 11 | 54 | 48 | 41
+@t 0 | 24 | 11 | 6 | 2 | 23 | 30 | 27 | 15 | 42 | 14 | 45 | 11 | 54 | 48 | 43
+@t 0 | 25 | 11 | 5 | 2 | 23 | 30 | 28 | 15 | 43 | 14 | 46 | 11 | 54 | 48 | 44{sup:b})
+@t 0 | 26 | 11 | 4 | 2 | 23 | 30 | 29 | 15 | 43 | 14 | 47 | 11 | 54 | 48 | 47
+@t 0 | 27 | 11 | 3 | 2 | 23 | 30 | 30 | 15 | 43 | 14 | 47 | 11 | 55 | 48 | 49
+@t 0 | 28 | 11 | 2 | 2 | 23 | 30 | 32 | 15 | 44 | 14 | 48 | 11 | 55 | 48 | 51
+@t 0 | 29 | 11 | 1 | 2 | 23 | 30 | 33 | 15 | 44 | 14 | 48 | 11 | 55 | 48 | 53
+@t 1{sup:a}) | 0 | 11 | 0 | 2 | 23 | 30 | 34 | 15 | 44 | 14 | 49 | 11 | 55 | 48 | 55
+@n {sup:1}) Harket . . . . hora] O, Motus solis in hora. harket elihems ficaht C — {sup:2}) Harket] O, motus C —
+@n {sup:3}) Lunae] Solis O — {sup:4}) Min.] O, dak. C, {i:itemque in cet. colum.} — {sup:5}) Sec.] O, theniae C, {i:itemque in}
+@n {i:cet. colum.}
+@n {sup:a}) 1] 0 CO — {sup:b}) 44] O, 64 C.
+@obs The page number «175» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 61», in bold sans serif, underlined. The page has no signature. The titles (L01-L02), «Gedval elbuht (CO)», jadwal al-buht, the table of the buht, and the editor's «[Tabula motus veri Solis et Lunae]» in square brackets, in bold, the siglum in roman. The folios of the manuscripts stand at the right of the second title, «C 76v, O 133v.», the letters raised; here as a right margin note.
+@obs The table: sixteen columns, divided by double vertical rules into the four columns of the arguments under «Semitae numerorum» and six pairs «Min.», «Sec.»: «Harket elscems fil zahat Motus Solis in hora1)», the motion of the sun in an hour, «Harket2) Lunae in hora», «Dimidium rotae Solis (O)», «Dimidia quantitas rotae Lunae3) (O)», «Primum dimidium rotae Draconis (O)» and «Secundum dimidium rotae Draconis (O)»; the units in smaller bold type, «Min.4)» and «Sec.5)» with the notes in the first pair. The heads are centred in their columns, in one to five lines. Here each head is set from the top, one printed line to a line (L03-L08); the cells separated by our «|»; a head followed by empty cells spans their columns.
+@obs L09-L38. The arguments, the anomalies 0s 1° to 1s 0° and their complements 11s 29° to 11s 0°, with the reading of note a at 1s 0°; Tables 61-66 run from 0° to 180° of anomaly (Suter, p. 78, JP2 0110, L14-L18). In L29 the 37 of the last column is printed faint.
+@obs L09-L38. Checked: the hourly motions are the mean hourly motions less a term in the cosine of the anomaly α: 2′ 27″ 50‴ − 5.6″ cos α for the sun, with the mean motion of p. 65 (JP2 0097, L20-L21), and 32′ 56″ 27‴ − 2′ 43.9″ cos α for the moon, with the mean motion as Suter corrects it there (L17-L19). The coefficients are the hourly motions in anomaly, 2′ 27″ 50‴ and 32′ 40″, times the rates at which the equations of Tables 21-26, 2° 14′ and 4° 56′ times δ : 23° 51′ (p. 132, JP2 0164), grow at 0°, 2° 14′ : 23° 51′ · sin 23° 51′ and 4° 56′ : 23° 51′ · sin 23° 51′. The second column agrees within 0.6″ and the third within 1.1″ in every row; the least motions, 2′ 22″ and 30′ 12″ (p. 78, L19-L21), are 2′ 22.2″ and 30′ 12.5″ by this law.
+@obs L09-L38. Checked against the relations of Suter's commentary: the sixth column is five times the hourly motion of the sun and the seventh 1 3/5 times that of the moon (p. 90, JP2 0122, L11-L18), within 3″ and 1″ of the rounded motions of the second and third columns and within 1.0″ and 1.5″ of the law above; their difference, the radius of the earth's shadow (L16-L18 there), grows from 36′ 27″ at 1° to 37′ 0″ at 30°. The fourth column, the radius of the sun, is 6.6 times the hourly motion of the sun, from 11/20 of the daily motion for the diameter (p. 79, JP2 0111, L01-L03), within 1.3″ of the law; the fifth, the radius of the moon, is 0.4846 times the hourly motion of the moon within 0.7″, where 29/720 of the daily motion for the diameter (L03 there) gives 0.4833 times and values 1.6″ to 2.9″ smaller.
+@obs Notes on the readings. Note a: the edition's 1 for the 0 of C and O makes the argument of L38 1s 0°, 30°, the complement of 11s 0°. Note b: O's 44 is 1 3/5 times 30′ 28″, 48′ 44.8″, and 48′ 44.7″ by the law above; C's 64 is not a number of seconds.
+@obs Notes 1-5: C's head of the second pair, «Motus solis in hora. harket elihems ficaht», with the point after «hora» as printed, and its «motus» for «Harket», ḥaraka, motion; O's «Solis» for «Lunae» in the head of the fifth pair. «dak.» and «theniae», the daqāʾiq and thawānī, minutes and seconds. Italics: «itemque in cet. colum.». N01: the ellipsis «. . . .» of the lemma as printed.

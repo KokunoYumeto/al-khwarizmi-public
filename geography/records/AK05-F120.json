@@ -1,0 +1,293 @@
+{
+ "anchor": "AK05-F120",
+ "frame": 120,
+ "frame_file": "page_120.jpg",
+ "frame_sha256": "21055b81d47e4f99fb282e487179e05ba2057a77ff63d288f4435e5ef9219201",
+ "printed_page": "١١٤",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 120, printed p. 114: the rivers of the first clime continued: the river سالس from the mountain منيدروس; the river سورس into الذهبانيّة and its two branches حوسان and اطانس; the river سوا س from the mountain of the ruby past سوسه, قطيغورا and a town beyond the equator, and a river that leaves it and returns to it; the beginning of the river اوطاسى on the island of the jewels. The editor's running numbers (١٧١٨)-(١٧٣٠), with (١٧٢٦/١), and the numbers of Suhrāb [١٧٢٦]-[١٧٣٩]; words supplied by the editor between angle brackets. Three lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F120-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "نهر سالس يخرج من جبل منيدروس عند طول {ov:ڡمح {z}} والعرض {ov:ٮو ل}{n:a} (١٧١٨) [١٧٢٦]",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر سالس يخرج من جبل منيدروس عند طول ڡمح ō والعرض ٮو ل (١٧١٨) [١٧٢٦]",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "ومصبّه فى البحر عند طول {ov:ڡس ك}{n:b} والعرض {ov:ح ى} (١٧١٩) [١٧٢٧] * يخرج من",
+   "margin": null,
+   "cells": null,
+   "plain": "ومصبّه فى البحر عند طول ڡس ك والعرض ح ى (١٧١٩) [١٧٢٧] * يخرج من",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "هٰذا النهر نهر سورس يدخل فى جزيرة* الذهبانيّة اوّله عند طول {ov:ڡن {z}}{n:c} والعرض {ov:ى {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "هٰذا النهر نهر سورس يدخل فى جزيرة* الذهبانيّة اوّله عند طول ڡن ō والعرض ى ō",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "(١٧٢٠) [١٧٢٨] ومصبّه فى البحر عند طول {ov:ڡمر {z}} والعرض {ov:ا ٮه} (١٧٢١) [١٧٢٩] *",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٧٢٠) [١٧٢٨] ومصبّه فى البحر عند طول ڡمر ō والعرض ا ٮه (١٧٢١) [١٧٢٩] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "يخرج من نهر سورس هذا نهران احدهما حوسان اوّله عند طول {ov:ڡمط {z}} والعرض {ov:ر {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "يخرج من نهر سورس هذا نهران احدهما حوسان اوّله عند طول ڡمط ō والعرض ر ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "(١٧٢٢) [١٧٣٠] وآخره فى البحر عند طول {ov:قمه ل}{n:d} والعرض {ov:ه ك} (١٧٢٣) [١٧٣١] *",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٧٢٢) [١٧٣٠] وآخره فى البحر عند طول قمه ل والعرض ه ك (١٧٢٣) [١٧٣١] *",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "والنهر الثانى اطانس اوّله عند{n:d} ⟨طول {ov:ڡمح ل} والعرض {ov:د ل} (١٧٢٤) [١٧٣٢] ومصبّه",
+   "margin": null,
+   "cells": null,
+   "plain": "والنهر الثانى اطانس اوّله عند ⟨طول ڡمح ل والعرض د ل (١٧٢٤) [١٧٣٢] ومصبّه",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "فى البحر عند طول⟩{n:e} {ov:قا ل} والعرض {ov:ا مه} (١٧٢٥) [١٧٣٣] *",
+   "margin": null,
+   "cells": null,
+   "plain": "فى البحر عند طول⟩ قا ل والعرض ا مه (١٧٢٥) [١٧٣٣] *",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "نهر سوا س يخرج من جبل اروس احروسس وهو جبل الياقوت اوّله عند طول {ov:قسط ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر سوا س يخرج من جبل اروس احروسس وهو جبل الياقوت اوّله عند طول قسط ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "والعرض {ov:ه {z}} (١٧٢٦) [١٧٣٤] يمرّ هٰذا النهر بمدينة سوسه ومدينة لا اسم لها{n:f} قرب",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض ه ō (١٧٢٦) [١٧٣٤] يمرّ هٰذا النهر بمدينة سوسه ومدينة لا اسم لها قرب",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "خطّ الاستواء وبمدينة قطيغورا{n:g} وبمدينة خلف خطّ الاستواء عرضها {ov:و مه} (١٧٢٦/١)",
+   "margin": null,
+   "cells": null,
+   "plain": "خطّ الاستواء وبمدينة قطيغورا وبمدينة خلف خطّ الاستواء عرضها و مه (١٧٢٦/١)",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "[١٧٣٥] ويصبّ فى البحر عند طول {ov:قسر {z}} والعرض خلف الاستواء {ov:ط {z}} (١٧٢٧)",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٧٣٥] ويصبّ فى البحر عند طول قسر ō والعرض خلف الاستواء ط ō (١٧٢٧)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "[١٧٣٦] * يخرج من هٰذا النهر نهر ويرجع اليه اوّله عند طول {ov:ڡسو {z}} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٧٣٦] * يخرج من هٰذا النهر نهر ويرجع اليه اوّله عند طول ڡسو ō والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "خلف الاستواء {ov:ا م} (١٧٢٨) [١٧٣٧] يبلغ الى طول {ov:ڡسو م} والعرض {ov:ح {z}} خلف",
+   "margin": null,
+   "cells": null,
+   "plain": "خلف الاستواء ا م (١٧٢٨) [١٧٣٧] يبلغ الى طول ڡسو م والعرض ح ō خلف",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "الاستواء (١٧٢٩) [١٧٣٨] * ومصبّه عند طول {ov:ڡسه م} والعرض {ov:ه {z}}{n:h} خلف الاستواء",
+   "margin": null,
+   "cells": null,
+   "plain": "الاستواء (١٧٢٩) [١٧٣٨] * ومصبّه عند طول ڡسه م والعرض ه ō خلف الاستواء",
+   "note_marks": [
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "(١٧٣٠) [١٧٣٩] *",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٧٣٠) [١٧٣٩] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F120-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "نهر اوطاسى{n:i} يخرج من عين فى جزيرة الجواهر اوّل العين عند طول {ov:ڡعد {z}} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر اوطاسى يخرج من عين فى جزيرة الجواهر اوّل العين عند طول ڡعد ō والعرض",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: a variant reading of the latitude is ٮو ō, the tooth without a dot, with a line over the numerals (note a).",
+  "L02: a variant reading of the longitude is قل ك, with a line over the numerals (note b).",
+  "L03: a variant reading of the longitude is قز ō, with the dot of the ز and a line over the numerals (note c).",
+  "L06-L07: the words between the two marks d stand in the margin of the manuscript, by a later hand (note d-d).",
+  "L07-L08: the manuscript lacks the words between the brackets; the editor supplies them after S (note e).",
+  "L10: the manuscript has لم سما for لا اسم لها (note f).",
+  "L11: a variant reading of the name is ڡطعورا, with the loop without dots (note g).",
+  "L15: a variant reading of the latitude is ه ō, with a line over the numerals, the ه printed in the two-eyed form drawn with two triangles, as on frame 112 (notes e and h) (note h).",
+  "L17: a variant reading of the name is ازطاسى (note i)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The rivers of the first clime go on from p. 113 (frame 119), whose last entry ends with [١٧٢٥] and a star. L01-L02: «نهر سالس يخرج من جبل منيدروس عند طول ڡمح {z} والعرض ٮو ل (١٧١٨)», the river سالس comes out of the mountain منيدروس at the longitude ڡمح ō and the latitude ٮو ل; «ومصبّه فى البحر عند طول ڡس ك والعرض ح ى (١٧١٩) *», and its mouth in the sea is at the longitude ڡس ك and the latitude ح ى. The coast of frame 082 (L11) passes the mouth of a river سالس.",
+  "L02-L04: «يخرج من هٰذا النهر نهر سورس يدخل فى جزيرة* الذهبانيّة اوّله عند طول ڡن {z} والعرض ى {z} (١٧٢٠)», out of this river comes the river سورس, which goes into the island or peninsula الذهبانيّة; its beginning is at the longitude ڡن ō and the latitude 10° 0′; «ومصبّه فى البحر عند طول ڡمر {z} والعرض ا ٮه (١٧٢١) *», and its mouth in the sea is at the longitude ڡمر ō and the latitude ا ٮه. The editor's note e on p. 76 (frame 082) gives this name at entry (1720).",
+  "L05-L08: «يخرج من نهر سورس هذا نهران احدهما حوسان اوّله عند طول ڡمط {z} والعرض ر {z} (١٧٢٢)», out of this river سورس come two rivers; one of them is حوسان, whose beginning is at the longitude ڡمط ō and the latitude ر ō; «وآخره فى البحر عند طول قمه ل والعرض ه ك (١٧٢٣) *», and its end is in the sea at the longitude 145° 30′ and the latitude 5° 20′; «والنهر الثانى اطانس اوّله عند ⟨طول ڡمح ل والعرض د ل (١٧٢٤) ومصبّه فى البحر عند طول⟩ قا ل والعرض ا مه (١٧٢٥) *», and the second river is اطانس, whose beginning is at the longitude ڡمح ل and the latitude 4° 30′, and whose mouth in the sea is at the longitude 101° 30′ and the latitude 1° 45′. The coast of frame 082 (L14) passes the mouth of a river «حوساں», there with the final ن without its dot; here «حوسان» has its dot.",
+  "L09-L12: «نهر سوا س يخرج من جبل اروس احروسس وهو جبل الياقوت اوّله عند طول قسط ل والعرض ه {z} (١٧٢٦)», the river سوا س comes out of the mountain اروس احروسس, which is the mountain of the ruby; its beginning is at the longitude 169° 30′ and the latitude 5° 0′; «يمرّ هٰذا النهر بمدينة سوسه ومدينة لا اسم لها قرب خطّ الاستواء وبمدينة قطيغورا وبمدينة خلف خطّ الاستواء عرضها و مه (١٧٢٦/١)», this river passes by the town سوسه and a town without a name near the equator, by the town قطيغورا, and by a town beyond the equator whose latitude is 6° 45′; «ويصبّ فى البحر عند طول قسر {z} والعرض خلف الاستواء ط {z} (١٧٢٧)», and it flows into the sea at the longitude قسر ō and the latitude 9° 0′ beyond the equator.",
+  "L13-L16: «* يخرج من هٰذا النهر نهر ويرجع اليه اوّله عند طول ڡسو {z} والعرض خلف الاستواء ا م (١٧٢٨)», out of this river comes a river that returns to it; its beginning is at the longitude ڡسو ō and the latitude 1° 40′ beyond the equator; «يبلغ الى طول ڡسو م والعرض ح {z} خلف الاستواء (١٧٢٩) *», it reaches the longitude ڡسو م and the latitude ح ō beyond the equator; «ومصبّه عند طول ڡسه م والعرض ه {z} خلف الاستواء (١٧٣٠) *», and its mouth is at the longitude ڡسه م and the latitude 5° 0′ beyond the equator.",
+  "L17: «نهر اوطاسى يخرج من عين فى جزيرة الجواهر اوّل العين عند طول ڡعد {z} والعرض», the river اوطاسى comes out of a spring on the island of the jewels; the beginning of the spring is at the longitude ڡعد ō and the latitude …, continued on p. 115.",
+  "L07-L08: «⟨طول ڡمح ل والعرض د ل (١٧٢٤) [١٧٣٢] ومصبّه فى البحر عند طول⟩», between angle brackets across the two lines, followed by the note mark e: the manuscript lacks these words, and the editor supplies them after S (note e). Transcribed with the brackets.",
+  "L06-L07: the note mark d stands after the longitude «قمه ل» (L06) and again after «عند» (L07): the passage between the two marks, «والعرض ه ك (١٧٢٣) [١٧٣١] * والنهر الثانى اطانس اوّله عند», stands in the margin of the manuscript, by a later hand (note d-d).",
+  "L09: «سوا س»: the س stands 19 px from the alif, where the words of the line stand 14 to 23 px apart; transcribed with the space. The coast of frame 089 (L14) prints the river «سواس», its س 7 px from the alif.",
+  "L09: «اروس احروسس»: two words, 23 px apart; the ح of «احروسس» has no dot. L09: «الياقوت», with all its dots.",
+  "L11: the latitude «و مه», 6° 45′: the و stands 11 px from the مه, where the degrees and the minutes of the other numerals of the page stand 15 to 30 px apart; transcribed with the space. The running number «(١٧٢٦/١)», 1726/1, is the editor's number for a point that he counts after 1726; the editor's note e on p. 3 (frame 009) gives the form قطيغورا of the name at this entry. Point 1726/1 has no number of Suhrāb, and [١٧٣٥] at the beginning of L12 follows it.",
+  "L03: «جزيرة*»: an asterisk with six solid arms stands after the word, raised like the note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (frame 046, L10), here an indefinite noun with a definite attribute, «جزيرة* الذهبانيّة». The small open stars with six points, after [١٧٢٧] (L02), after [١٧٢٩] (L04), after [١٧٣١] (L06), after [١٧٣٣] (L08), after [١٧٣٦] (L13), after [١٧٣٨] (L15) and after [١٧٣٩] (L16), are transcribed as asterisks.",
+  "Signs in the text, transcribed as printed: «ومصبّه» (L02, L04, L07, L15), «اوّله» (L03, L05, L07, L09, L13), «اوّل» (L17), «يمرّ» (L10), «خطّ» (L11, twice) and «ويصبّ» (L12) with a shadda; «الذهبانيّة» (L03) with a shadda over the ي; «وآخره» (L06) with a madda over the alif; «هٰذا» (L03, L10, L13) with a dagger alif above the ه, and «هذا» (L05) without it; «الاستواء» (L11, L12, L14, L15) with a hamza on the line; «فى», «الى», «الثانى» and «اوطاسى» end in a ى without dots.",
+  "Names: «منيدروس» (L01), «سورس» (L03, L05), «الذهبانيّة» (L03), «حوسان» (L05), «اطانس» (L07), «سوسه» (L10), «قطيغورا» (L11), «الجواهر» and «اوطاسى» (L17) are printed with their dots. The town «سوسه» is entry 7 of the table of the cities (frame 009, L11) and entry 67 (frame 013, L15); frame 009 (L09) prints «قطيغوراا», with two alifs.",
+  "Numerals with the loop of ف or ق without dots in the degrees of the longitude, transcribed so: «ڡمح» (L01, L07), «ڡس» (L02), «ڡن» (L03), with the dot of the ن, «ڡمر» (L04), «ڡمط» (L05), «ڡسو» (L13, L14), «ڡسه» (L15) and «ڡعد» (L17), which read with ق give 148, 160, 150, 147, 149, 166, 165 and 174. With the two dots of the ق: «قمه ل» (L06), 145° 30′; «قا ل» (L08), 101° 30′; «قسط ل» (L09), 169° 30′; «قسر» (L12), 167. In «ڡمح», «ڡمر», «ڡمط» and «قمه» the medial م is a diamond that stands out above and below the joining stroke.",
+  "Other numerals: «ٮو ل» (L01), a tooth without its dot joined to a و, which read with a ي gives 16° 30′; «ى {z}» (L03) and «ح ى» (L02), the isolated ى without dots, 10; «ا ٮه» (L04), the minutes a tooth without its dot joined to a final ه, 28 by 27 px, which read with a ي give 1° 15′, where the isolated ه, 5, of L06, L10 and L15 is a small round ring, 19 to 21 px across; «د ل» (L07), 4° 30′; «ا مه» (L08), 1° 45′; «ط {z}» (L12), 9° 0′; «ا م» (L14), 1° 40′; «ڡسو م» (L14) and «ڡسه م» (L15), the م of the minutes 10 and 18 px from the degrees.",
+  "In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: «ڡمر» (L04), «ر {z}» (L05), 7° 0′, and «قسر» (L12).",
+  "The ح of the numerals, «ڡمح» (L01, L07) and «ح» (L02, L14), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. In L01 a speck, 4 by 2 px, stands inside the bowl of the ح of «ڡمح», much smaller than the dot of a ج. The isolated ك, 20, is printed with the small inner stroke of the letter (L02, L06).",
+  "The running numbers run (١٧١٨)-(١٧٣٠), with (١٧٢٦/١) after (١٧٢٦), and the numbers of Suhrāb [١٧٢٦]-[١٧٣٩], each after its running number, without a gap; (١٧٢٠), (١٧٢٢) and (١٧٣٠) stand at the beginning of L04, L06 and L16, [١٧٣٥] and [١٧٣٦] at the beginning of L12 and L13.",
+  "Note marks: L01, a after the latitude; L02, b after the longitude; L03, c after the longitude; L06, d after the longitude; L07, d after «عند»; L08, e after the closing bracket; L10, f after «لها»; L11, g after «قطيغورا»; L15, h after the latitude; L17, i after «اوطاسى».",
+  "Marks not transcribed: L02, a round dot, 10 by 11 px, to the right of «ومصبّه», before the beginning of the line; L03, a small upright tick, 4 by 8 px, above and to the right of the initial ي of «يدخل»; L13, specks up to 4 by 6 px between the zero sign of the longitude and «والعرض»; L14, a thin flat dash, 23 by 5 px, 16 px above the final alif of «الاستواء», thinner and flatter than the madda of «وآخره» (L06), a thick wavy stroke of 31 by 12 px set just above its alif, and a smaller dash, 11 by 4 px, above «خلف».",
+  "The editor's footnotes stand in three lines below a short rule at the left: notes a-i. The page number «— ١١٤ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,51 @@
+@page 14 X
+@lang de
+% JP2 0014: the introduction, p. X: no Arabic text survives; the manuscripts used: Chartres (C), Oxford (O), their
+% contents and folios; the Mazarine manuscript in Paris (M) begins.
+@p Leider ist von den arabischen Texten {sp:Al-Khwārizmīs} sowohl als {sp:Maslamas},
+soweit unsre heutige Kenntnis der arabischen Handschriften geht, nichts mehr vor-
+handen ; wir geben freilich die Hoffnung noch nicht auf, dass von der Bearbeitung
+{sp:Maslamas} noch einmal in spanischen Bibliotheken etwas gefunden werden könnte,
+ist doch auch erst vor drei Jahren zum ersten mal durch C. H. {sp:Haskins} auf das
+Vorhandensein einer Handschrift der {sp:Athelhard}’schen Übersetzung in Madrid
+aufmerksam gemacht worden.{sup:1})
+@p Was die von A. {sp:Björnbo} und mir benutzten Handschriften anbetrifft, so ist
+eine genaue Beschreibung derselben mir nicht möglich, da mir nur diejenige von
+{i:Chartres}, die ich noch einmal kommen lassen musste, vorgelegen hat, von denjenigen
+von {i:Oxford} und {i:Madrid} sind mir nur Photographien der Athelhard’schen Über-
+setzung zu Gesichte gekommen, die sehr unvollständige Handschrift der {i:Mazarin}’schen
+Bibliothek in {i:Paris} habe ich nie gesehen. Ich muss mich daher darauf beschränken,
+nach den mir vorliegenden Photographien und nach den Katalogen der {i:Bibliothèque}
+{i:publique} von {i:Chartres} und der {i:Bibliothèque Mazarine}{sup:2}) in {i:Paris} einige wenige Notizen
+über diese Handschriften zu geben.
+@p Die Manuskripte von {i:Chartres}, Bibliothèque publique, (C) und {i:Oxford}, Bodleian
+Library, (O) sind beide Pergament-Handschriften aus dem 12. Jahrh., nach den An-
+gaben der Verfasser der Kataloge ; das erstere ist bezeichnet mit Nr. 214 (173){sup:3}),
+das zweite mit Cod. Auct. F. I. 9. Sie sind im allgemeinen gut geschrieben und leicht
+zu lesen, C etwas besser als O. Der beschriebene Blattraum misst bei C 26/18 cm,
+bei O (nach den Photographien) im Durchschnitt 15/10 cm. Beide Handschriften
+sind ziemlich vollständig, doch enthält C mehrere grössere Stellen, die in O fehlen,
+und auch umgekehrt (s. Text). Unsere Abhandlung bildet in C den Schluss von
+fol. 41{sup:r} bis 102{sup:r}, in O nimmt sie fol. 99{sup:v} bis 159{sup:v} ein, fol. 159 ist aber aus Versehen
+ans Ende verschoben worden, es sollte zwischen 99 und 100 stehen, so dass die
+Arbeit eigentlich mit fol. 158 abschliesst.
+@p C und O enthalten noch einige andere Abhandlungen, von denen ich nur die
+wichtigsten nennen will : In C befinden sich noch die erste Hälfte der Abhandlung
+über das Astrolabium von {sp:Hermannus Contractus}, und Fragmente der Geometrie
+{sp:Gerberts} und des {i:Liber Embadorum} von {sp:Savasorda} (nach {sp:Chasles}) ; in O kom-
+men noch vor : der {i:Computus} {sp:Gerlandi} und der {i:Abacus} {sp:Bernelini} ({i:auctore juniore}
+{i:Bernhelmo !}).
+@p Das Manuskript der Bibliothèque Mazarine in {i:Paris} (M){sup:4}), bezeichnet mit
+Nr. 3642 (1258){sup:5}) ist ganz unvollständig ; statt 37 Kapitel im Texte enthält es deren
+nur die ersten 21, und diese bilden die kleinere Hälfte des Textes, und statt c. 120
+@n {sup:1}) {i:English Historical Review}, July 1911, p. 493—494.
+@n {sup:2}) Beide im Jahre 1890 zu Paris erschienen.
+@n {sup:3}) {i:Catalogue général des mss. des biblioth. publ. de France}, Départements, Tome XI, p. 109—110.
+@n {sup:4}) {sp:Björnbo} hatte für diese Handschrift den Buchstaben M gewählt ; ich wollte in dieser
+@n Hinsicht keine Änderungen mehr vornehmen, und habe daher für das Ms. der {i:Biblioteca Nacional}
+@n zu Madrid den Buchstaben N gewählt.
+@n {sup:5}) {i:Catalogue général des mss. des biblioth. publ. de France}, Départements, Tom. III, p. 151– 152.
+@obs The page number «X» stands at the head of the page, centred, with a rule below it.
+@obs L30: «Contractus» is printed with the ct ligature of the type, c and t joined by an arc above; transcribed as two letters. L25: the r and v after the folio numbers are raised, recto and verso.
+@obs N07: «151– 152», a short dash followed by a space, where N01 and N03 print the long dash between the figures without a space («493—494», «109—110»); transcribed as printed.
+@obs Marks not transcribed: a dark speck above the hyphen of «kom-» (L31); mid-height specks between «de» and «France» (N03) and between «kleinere» and «Hälfte» (L36).

@@ -1,0 +1,65 @@
+@page 150 118
+@lang la
+% JP2 0150: Tab. 7, p. 118: the mean motion of the moon and of its anomaly in the Arab months and in 1-30 days, in
+% signs, degrees, minutes and seconds, with the apparatus (notes 1-15, a-t, and Ms. O's marginal notes).
+@c {b:Medialitas lunae et argumentum eiusdem} (O)
+@c {b:Wacat elkamar wahezatu — Medius cursus lunae et argumentum eiusdem} (C)
+@tw 1 1
+@ml C 47{sup:r}, O 103{sup:v}.
+@t {b:Menses arabici} (C) | {b:Dies} (C)
+@tw size=footnotesize span=1.16 1.85 0.75 0.75 0.85 0.85 0.75 0.75 0.85 0.85 1.3 0.75 0.75 0.85 0.85 0.75 0.75 0.85 0.85
+@t Menses | Medialitas lunae | | | | Argumentum lunae | | | | Numerus | Medialitas lunae | | | | Argumentum lunae | | |
+@t arabum{sup:1}) | in mensibus{sup:2}) | | | | in mensibus{sup:3}) | | | | dierum | in diebus{sup:4}) | | | | in diebus{sup:5}) | | |
+@t | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:6}) | {b:Sec.}{sup:7}) | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:6}) | {b:Sec.}{sup:7}) | | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:6}) | {b:Sec.}{sup:7}) | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:6}) | {b:Sec.}{sup:7})
+@t Elmuharram | 1 | 5 | 17 | 26 | 1 | 1 | 56 | 59{sup:g}) | 1 | 0 | 13 | 10 | 35 | 0 | 13 | 3 | 53
+@t  | | | | | | | | | 2 | 0 | 26 | 21 | 10 | 0 | 26 | 7 | 48
+@t Zafar | 1 | 27 | 24 | 18 | 1 | 20 | 50 | 5 | 3 | 1 | 9 | 31 | 45 | 1 | 9 | 11 | 42
+@t  | | | | | | | | | 4 | 1 | 22 | 42 | 20 | 1 | 22{sup:o}) | 15 | 36
+@t Rabe prim.{sup:8}) | 3 | 2 | 41 | 48{sup:b}) | 2 | 22 | 46{sup:e}) | 4 | 5 | 2 | 5 | 52 | 54 | 2 | 5 | 19{sup:r}) | 30
+@t  | | | | | | | | | 6 | 2 | 19 | 3 | 29 | 2 | 18 | 23 | 24
+@t Rabe sec.{sup:9}) | 3 | 24 | 48 | 36 | 3 | 11 | 40 | 10 | 7 | 3 | 2 | 14 | 4 | 3 | 1 | 27 | 18
+@t  | | | | | | | | | 8 | 3 | 15 | 24 | 39 | 3 | 14 | 31 | 12
+@t Jumedi | 5 | 0 | 6 | 2 | 4{sup:d}) | 13 | 36{sup:f}) | 9 | 9 | 3 | 28 | 35 | 14 | 3 | 27 | 35 | 6
+@t elawel{sup:10}) | | | | | | | | | 10 | 4 | 11 | 45 | 49 | 4 | 10 | 39{sup:s}) | 0
+@t Jumedi | 5 | 22 | 12 | 54 | 5 | 2 | 30 | 15 | 11 | 4 | 24 | 56 | 24 | 4 | 23 | 42 | 54
+@t elakhir{sup:11}) | | | | | | | | | 12 | 5 | 8 | 6 | 59 | 5 | 6 | 46 | 48
+@t Regeb | 6 | 27 | 30 | 20 | 6 | 4 | 27 | 14 | 13 | 5 | 21 | 17 | 33 | 5 | 19 | 50{sup:t}) | 42
+@t  | | | | | | | | | 14 | 6 | 4 | 28 | 8 | 6 | 2 | 54 | 36
+@t Scabin{sup:12}) | 7 | 19 | 37 | 12 | 6 | 23 | 20 | 20 | 15 | 6 | 17 | 38 | 43 | 6 | 15 | 58 | 30
+@t  | | | | | | | | | 16 | 7 | 0 | 49 | 18 | 6 | 29 | 2 | 24
+@t Ramadh.{sup:13}) | 8 | 24 | 54 | 38 | 7 | 25 | 17 | 19 | 17 | 7 | 13 | 59 | 53{sup:m}) | 7 | 12 | 6 | 18
+@t  | | | | | | | | | 18 | 7 | 27 | 10 | 28 | 7 | 25 | 10 | 12
+@t Scawel{sup:14}) | 9 | 17 | 1 | 30 | 8 | 14 | 10 | 24 | 19 | 8 | 10 | 21 | 3 | 8 | 8 | 14 | 6
+@t  | | | | | | | | | 20 | 8 | 23{sup:i}) | 31 | 38 | 8 | 21 | 18 | 0
+@t Dulkada{sup:15}) | 10 | 22 | 14{sup:a}) | 56 | 9 | 16 | 7 | 23 | 21 | 9 | 6 | 42 | 12 | 9 | 4 | 21 | 54
+@t  | | | | | | | | | 22 | 9 | 19 | 52 | 47 | 9 | 17 | 25 | 48
+@t Dulheia | 11 | 14 | 25 | 48{sup:c}) | 10 | 5 | 0 | 28 | 23 | 10 | 3 | 3 | 22 | 10 | 0 | 29 | 42
+@t  | | | | | | | | | 24 | 10 | 16{sup:k}) | 13 | 57 | 10 | 13{sup:p}) | 33 | 36
+@t  | | | | | | | | | 25 | 10 | 29 | 24 | 32 | 10 | 26{sup:q}) | 37 | 29
+@t  | | | | | | | | | 26 | 11 | 12 | 35 | 7 | 11 | 9 | 41 | 23
+@t  | | | | | | | | | 27 | 11{sup:h}) | 25 | 45 | 42 | 11 | 22 | 45 | 17
+@t  | | | | | | | | | 28 | 0 | 8 | 56 | 17{sup:n}) | 0 | 5 | 49 | 11
+@t  | | | | | | | | | 29 | 0 | 22{sup:l}) | 6 | 52 | 0 | 18 | 53 | 5
+@t  | | | | | | | | | 30 | 1 | 5 | 17 | 26 | 1 | 1 | 56 | 59
+@n {sup:1}) Menses arabum] O, menses lunae arabicae C — {sup:2}) Medialitas . . . . mensibus] O, medius cursus —
+@n elwacat C — {sup:3}) Argumentum . . . . mensibus] O, argumentum — elheza C — {sup:4}) Medialitas . . . . diebus] Argu-
+@n mentum lunae in diebus O, id est medius cursus — elwacat C — {sup:5}) Argumentum . . . . diebus] O, id est argu-
+@n mentum — elheza C — {sup:6}) Min.] O, Puncta C — {sup:7}) Sec.] O, Minuta C — {sup:8}) prim.] O, elawel C —{sup:9}) sec.] O,
+@n elahhir C — {sup:10}) Jumedi elawel] C, Gum. O — {sup:11}) Jumedi elakhir] C, Gum. O — {sup:12}) Scabin] O, Sabin C —
+@n {sup:13}) Ramadh.] Ramdham C, Rath’. (?) O — {sup:14}) Scawel] O, Sawel C — {sup:15}) Dulkada] Dulrada C, Dulk.‘ O.
+@n {sup:a}) 14] C, 18 O — {sup:b}) 48] C, 44 O — {sup:c}) 48] C, 47 O — {sup:d}) 4] C, 3 O — {sup:e}) 46] C, 47 O — {sup:f}) 36] C,
+@n 37 O — {sup:g}) 59] O, 58 C — {sup:h}) 11] O, 10 C — {sup:i}) 23] C, 24 O — {sup:k}) 16] O, 26 C — {sup:l}) 22] O, 21 C — {sup:m}) 53] C,
+@n 54 O — {sup:n}) 17] O, 16 C — {sup:o}) 22 O, 21 C — {sup:p}) 13] O, 42 C — {sup:q}) 26] C, 23 O — {sup:r}) 19] O, 9 C — {sup:s}) 39] O,
+@n 29 C — {sup:t}) 50] O, 1 (?) C.
+@n {i:Addid.} O {i:in marg. super.:} kulelach vveli kemithl elhileli fikemelen wanuczeni. Nota quia ({i:sic})
+@n luna in felek eltedewir motum firmamenti sequatur, ut solem aspiciat. — {i:Addid. etiam in marg. infer.:}
+@n Secundum Emirethium (?) cum fuerit inter initium argumenti Saturni vel Iovis vel Martis et solem quan-
+@n tum ad eorum centrum dico 120 gradus, erunt ipsi in statione prima. Iterumque, cum fuerit inter cen-
+@n trum eorum et solem alii 120, erunt ipsi in statione secunda. Sciendum etiam quod Venus a sole non
+@n ultra 47, Mercurius vero non ultra 7 ({i:recte 27}) recedit.
+@obs The page number «118» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 7», in bold sans serif, underlined. The titles, in bold, the sigla in roman: L01 that of O, L02 that of C; L03, «Menses arabici (C)» over the left half of the table and «Dies (C)» over the right half, C's heads of the two halves. The folios of the manuscripts, «C 47r, O 103v.», stand at the left of L03, the letters r and v raised; here as a left margin note. The page has no signature.
+@obs The table: a thick and a thin rule above the head, a double rule below it; vertical rules divide the eighteen columns, double ones after the months and before and after the column of the days; thin rules under the heads that span the four columns of signs, degrees, minutes and seconds, whose heads «Sig.», «Gr.», «Min.», «Sec.» are set in small bold type. «Menses arabum» is printed in two lines, «Numerus dierum» turned through a quarter, reading upwards, in two lines; here its two words stand in L04 and L05. Each printed row is one line here, the cells separated by our «|»; a head followed by empty cells spans their columns. The months stand on every second row, from the row of the first day; «Jumedi elawel» and «Jumedi elakhir» are printed in two lines, the second line in the row below (L16, L18).
+@obs L07-L36, the days. Checked against the daily motions of al-Khwārizmī's parameters (Tab. 6, p. 117, JP2 0149), the moon 13° 10′ 34″ 52‴ and the anomaly 13° 3′ 53″ 58‴: all 30 days of the moon and of the anomaly agree with n times these motions to within 0.5″, rounded to the second (with the readings of notes h, i, k-t); the anomaly of the first day, 13° 3′ 53″, is the value cut off (53.98″). The 30 days, 1s 5° 17′ 26″ and 1s 1° 56′ 59″, are the values of the first month.
+@obs L07-L29, the months. Checked: the months give the motion in 30, 59, 89, … 354 days, the months of 30 and 29 days in turn: the moon agrees to within 0.6″ and the anomaly to within 1.1″ in all months but four places, where the edition prints the reading of C and O's reading agrees with the computation: Dulkada, the moon in 325 days, 10s 22° 18′ 56″, against 14′ printed (note a, O 18); Rabe prim., the moon in 89 days, 3s 2° 41′ 44″, against 48″ printed (note b, O 44); Rabe prim., the anomaly in 89 days, 2s 22° 47′ 4″, against 46′ printed (note e, O 47); Jumedi elawel, the anomaly in 148 days, 4s 13° 37′ 9″, against 36′ printed (note f, O 37). The year of the months, 354 days, 11s 14° 25′ 48″ and 10s 5° 0′ 28″, is the motion of the single year 1 of Tab. 6 (11s 14° 25′ 47″, 10s 5° 0′ 29″).
+@obs N09: «o) 22 O, 21 C»; see the critical note. N04: «C —9) sec.]», the dash set close to the note number. N06: «Rath’. (?)», «Dulk.‘», with the apostrophe and the turned comma as printed. N11: «vveli», with two v. N11-N16: Ms. O's notes in the upper and the lower margin: the moon in the «felek eltedewir» (the sphere of the epicycle) follows the motion of the firmament; the stations of Saturn, Jupiter and Mars at 120° between the sun and the argument, «Secundum Emirethium (?)»; Venus never more than 47° from the sun, Mercury not more than 7°, «recte 27», the editor's correction. The ellipses «. . . .» of the lemmata as printed. Italics: «Addid.», «in marg. super.:», «sic», «Addid. etiam in marg. infer.:», «recte 27».
+@critical AK07-CN086 | missing bracket | N09 | {sup:o}) 22 O, 21 C | {sup:o}) 22] O, 21 C | the lemma of every note of the apparatus is closed by a square bracket, as «n) 17] O, 16 C» and «p) 13] O, 42 C» beside it; the bracket after 22 is not printed | high | none

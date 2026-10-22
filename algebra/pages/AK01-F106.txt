@@ -1,0 +1,45 @@
+@page 106 ٩٠
+% Frame 106, printed p. 90: the first problem of the chapter of completion, begun on frame 105, worked: thirteen parts;
+% from an estate its third less the husband's three parts, its quarter less the mother's two and its fifth less a
+% daughter's one are cast away: thirteen sixtieths of the estate and six parts equal thirteen parts; completed, the
+% estate is thirty-two parts and four thirteenths, four hundred and twenty with the part thirteen. Then, under «فان
+% كانت الفريضة على حالها» in bold, the complement of a quarter by the mother's share and the complement of a fifth of
+% what remains by a daughter's share: three fifths of the estate and two parts and three fifths equal thirteen parts;
+% the part three, the estate fifty-two, the bequests seven and six. Then, under the same bold words, the complement of
+% a fifth by the mother's share and a sixth of what remains: two thirds of the estate and a part and two thirds equal
+% thirteen parts; the part five, the estate eighty-five, the bequests seven and thirteen, and sixty-five remain. The
+% values check exactly. No footnote on this page.
+الفريضة فتجدها من ثلاثة عشر ثم خذ مالا فالق منه ثلثه الا ثلاثة أسهم نصيب
+الزوج ثم الق ربعه الا سهمين نصيب الأم ثم الق خمسه الا سهما نصيب البنت
+فيبقى المال ثلاثة عشر جزءاً من ستين جزءاً وستة أسهم تعدل ثلاثة عشر سهما
+فالق الستة من ثلاثة عشر سهما فتبقى ثلاثة عشر جزءاً من ستين جزءا من مال
+تعدل سبعة أسهم فكمل مالك وهو أن تضرب السبعة الأسهم فى أربعة وثمانية
+أجزاء من ثلاثة عشر فيكون معك مال يعدل اثنتين وثلاثين سهما وأربعة أجزاء
+من ثلاثة عشر فيكون المال اربعمائة وعشرين . {b:فان كانت الفريضة على حالها}
+وأوصت لرجل بتكملة ربع المال بنصيب الأم ولآخر بتكملة خمس ما يبقى من
+المال بعد الوصية الأولى بنصيب بنت فأقم سهام الفريضة فتجدها من ثلاثة عشر
+ثم خذ مالا فالق منه ربعه الا سهمين ثم الق خمس ما يبقى معك من المال الا
+سهما ثم انظر ما بقى من المال بعد السهام فتجد ذلك ثلاثة أخماس مال وسهمين
+وثلاثة اخماس سهم تعدل ثلاثة عشر سهما فالق سهمين وثلاثة أخماس سهم من
+ثلاثة عشر سهما فيبقى عشرة أسهم وخمسا سهم تعدل ثلاثة أخماس مال فتمم
+مالك وهو أن تزيد على ما معك من السهام ثلثيها فيكون معك مال يعدل سبعة
+عشر سهما وثلث سهم فاجعل السهم ثلاثة فيكون المال اثنين وخمسين والسهم
+ثلاثة والوصيةالأولى سبعة والثانية ستة. {b:فان كانت الفريضة على حالها} وأوصت
+لرجل بتكملة خمس المال بنصيب الأم ولآخر بسدس ما يبقى من المال فالسهام
+ثلاثة عشر فخذ مالا فالق منه خمسه الا سهمين ثم الق سدس ما يبقى معك فيبقى
+ثلثا مال وسهم وثلثا سهم تعدل ثلاثة عشر سهما فالق سهما وثلثى سهم من ثلاثة
+عشر سهما فيبقى ثلثا مال تعدل أحد عشر سهما وثلثا فتمم مالك وهو أن تزيد
+على السهام نصفها فيكون معك مال يعدل سبعةعشرسهما فاجعل المال خمسة وثمانين
+والسهم خمسة والوصية الأولى سبعة والثانية ثلاثة عشر وبقى خمسة وستون
+@obs L01: «الفريضة فتجدها من ثلاثة عشر» (L01) goes on from the last word of frame 105, «فأقم» (frame 105, L22): «فأقم الفريضة فتجدها من ثلاثة عشر», without a break between the pages.
+@obs L07, L16: the words فان كانت الفريضة على حالها (L07, L16), the run-in headings of the next two problems, as on frames 091, 095, 096, 098 and 105, are printed in a bold face, each after a full stop; وأوصت (L08, L16), which follows, is in the face of the text. The bold ن of فان is printed without its dot; transcribed ن.
+@obs L18: فخذ (L18), printed with the ف set on the head of the خ and the dot of the خ to its right, as on frames 089, 093 and 101.
+@obs The ending ـقى is printed in its flat form in فيبقى (L03) and in its round form, with the shape of the final ق, in فتبقى (L04); both are transcribed ـقى.
+@obs Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): والوصيةالأولى (L16; 9 between the ة and the alif, where والوصية الأولى in L22 has 26); سبعةعشرسهما (L21; 6 between the ة and the ع, where ثلاثة عشر has 20 in L09; and the ر stands 29 px from the س above the baseline, its tail 19 px from it, as the ر stands from the ة inside عشرة, L13, 30 and 18, where عشر سهما with a space in L19 has 49 and 35).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: سبعة والثانية (L16; 15 between the ة and the conjunction و, at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one; in doubt, the space is written); ما يبقى (L18; 21 between the alif and the ي, where ما يبقى has 32 in L08, 36 in L10 and 37 in L17, and the alif stands 17 to 20 px from a tooth inside a word, as مايبقى on frames 087, 091 and 092; in doubt, the space is written).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: ثم خذ (L01), منه ثلثه (L01), الأولى سبعة (L16), مال يعدل, يعدل سبعةعشرسهما, فاجعل المال (L21).
+@obs The full stops (gaps as the nearest approach of the ink at 400 ppi): after وعشرين, before the bold فان, between spaces (L07; 27 and 25); after ستة, before the bold فان, close after the word, 10 px from the ة, and 25 px before فان (L16); it is transcribed close after the word, with a space before the next, as on frame 099 (L10).
+@obs Plain alif where a hamza might be expected, as printed: فالق, الا (L01), الق, الا (L02, twice each), فالق (L04), اثنتين (L06), اربعمائة, the bold فان (L07), فالق, الا, الق, الا (L10), انظر (L11), اخماس, فالق (L12), فاجعل, اثنين (L15), the bold فان (L16), فالق, الا, الق (L18), فالق (L19), فاجعل (L21); with hamza: أسهم (L01, L03, L05, L13), الأم (L02, L08, L17), أن, الأسهم, أربعة (L05), أجزاء, وأربعة (L06), وأوصت (L08, L16), الأولى, فأقم (L09), أخماس (L11, L13), أخماس (L12, the second), أن (L14, L20), والوصيةالأولى (L16), أحد (L20), الأولى (L22); with madda: ولآخر (L08, L17); on ي: اربعمائة (L07); the hamza on the line: جزءاً (L03, twice; L04), جزءا (L04), أجزاء (L06, twice).
+@obs With tanwīn on the final alif: جزءاً (L03, twice; L04); without tanwīn as printed: مالا (L01, L10, L18), سهما (L02, L03, L04, L06, L11, L12, L13, L15; L19, twice; L20, twice), جزءا (L04), وثلثا (L20), and سبعةعشرسهما (L21).
+@obs L13: «وخمسا سهم», L19: «ثلثا مال وسهم وثلثا سهم», L20: «ثلثا مال», as printed, the dual without its ن before the noun that follows it, as on frames 094, 095 and 099.
+@obs The final yā' is printed without dots: فيبقى (L03, L13, L18, L20), فتبقى (L04), فى (L05), the bold على (L07, L16), يبقى (L08, L10, L17, L18), الأولى (L09, L22), بقى (L11), على (L14, L21), والوصيةالأولى (L16), وثلثى (L19), وبقى (L22).

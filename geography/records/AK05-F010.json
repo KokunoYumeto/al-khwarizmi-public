@@ -1,0 +1,287 @@
+{
+ "anchor": "AK05-F010",
+ "frame": 10,
+ "frame_file": "page_010.jpg",
+ "frame_sha256": "3605c08d508f8985f0e09a6c7112a97afc285c6b7d2824c6f064c7df5647935b",
+ "printed_page": "٤",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 010, printed p. 4: the heading of the first clime, «الإقليم الأوّل عرضه يو كر», its latitude 16° 27', and of its cities; entries 9-18: Nāris, Mūrā and Dunqula of Nubia, Kūs al-Wāghila, a city of Sarandīb, a city of China, the three Chinese ports Khānfū, Khānjū and Qānṣū without coordinates, and Adūlī on the sea. Eleven lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F010-L01",
+   "n": 1,
+   "kind": "heading",
+   "text": "* الإقليم الأوّل عرضه {ov:يو كر} *",
+   "margin": null,
+   "cells": null,
+   "plain": "* الإقليم الأوّل عرضه يو كر *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F010-L02",
+   "n": 2,
+   "kind": "heading",
+   "text": "* المدن الّتى فى الإقليم الأوّل *",
+   "margin": null,
+   "cells": null,
+   "plain": "* المدن الّتى فى الإقليم الأوّل *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F010-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٩) | [١] | ⟨مدينة ٮارس⟩{n:a}ا | ى | {z} | يه | ل",
+   "margin": null,
+   "cells": [
+    "(٩)",
+    "[١]",
+    "⟨مدينة ٮارس⟩{n:a}ا",
+    "ى",
+    "{z}",
+    "يه",
+    "ل"
+   ],
+   "plain": "(٩) | [١] | ⟨مدينة ٮارس⟩ا | ى | ō | يه | ل",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F010-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(١٠) | [٢] | مدينة مورا | ٮٮ | ل{n:b} | يه | {z}",
+   "margin": null,
+   "cells": [
+    "(١٠)",
+    "[٢]",
+    "مدينة مورا",
+    "ٮٮ",
+    "ل{n:b}",
+    "يه",
+    "{z}"
+   ],
+   "plain": "(١٠) | [٢] | مدينة مورا | ٮٮ | ل | يه | ō",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F010-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(١١) | [٣] | مدينة النوبة دنقلة{n:c} | نج | {z} | ⟨ٮد⟩{n:d} | ل",
+   "margin": null,
+   "cells": [
+    "(١١)",
+    "[٣]",
+    "مدينة النوبة دنقلة{n:c}",
+    "نج",
+    "{z}",
+    "⟨ٮد⟩{n:d}",
+    "ل"
+   ],
+   "plain": "(١١) | [٣] | مدينة النوبة دنقلة | نج | ō | ⟨ٮد⟩ | ل",
+   "note_marks": [
+    "c",
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F010-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(١٢) | | كوس الواغلة | ن{n:e} | {z} | ٮٮ | {z}",
+   "margin": null,
+   "cells": [
+    "(١٢)",
+    "",
+    "كوس الواغلة",
+    "ن{n:e}",
+    "{z}",
+    "ٮٮ",
+    "{z}"
+   ],
+   "plain": "(١٢) | | كوس الواغلة | ن | ō | ٮٮ | ō",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F010-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(١٣) | | طروڡاى فى جزيرة سرنديب | ڡكد | {z} | ح | {z}",
+   "margin": null,
+   "cells": [
+    "(١٣)",
+    "",
+    "طروڡاى فى جزيرة سرنديب",
+    "ڡكد",
+    "{z}",
+    "ح",
+    "{z}"
+   ],
+   "plain": "(١٣) | | طروڡاى فى جزيرة سرنديب | ڡكد | ō | ح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F010-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(١٤) | | ⟨مدينة من⟩{n:f} بلاد الصين | قعٮ | {z} | يو | {z}",
+   "margin": null,
+   "cells": [
+    "(١٤)",
+    "",
+    "⟨مدينة من⟩{n:f} بلاد الصين",
+    "قعٮ",
+    "{z}",
+    "يو",
+    "{z}"
+   ],
+   "plain": "(١٤) | | ⟨مدينة من⟩ بلاد الصين | قعٮ | ō | يو | ō",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F010-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(١٥) | | خانفوا{n:g} | {z}^2 | {z}^2",
+   "margin": null,
+   "cells": [
+    "(١٥)",
+    "",
+    "خانفوا{n:g}",
+    "{z}^2",
+    "{z}^2"
+   ],
+   "plain": "(١٥) | | خانفوا | ō^2 | ō^2",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F010-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(١٦) | | خانجوا{n:h} | {z}^2 | {z}^2",
+   "margin": null,
+   "cells": [
+    "(١٦)",
+    "",
+    "خانجوا{n:h}",
+    "{z}^2",
+    "{z}^2"
+   ],
+   "plain": "(١٦) | | خانجوا | ō^2 | ō^2",
+   "note_marks": [
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F010-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(١٧) | | قانصوا{n:i} | {z}^2 | {z}^2",
+   "margin": null,
+   "cells": [
+    "(١٧)",
+    "",
+    "قانصوا{n:i}",
+    "{z}^2",
+    "{z}^2"
+   ],
+   "plain": "(١٧) | | قانصوا | ō^2 | ō^2",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F010-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(١٨) | [٤] | مدينة ادولى على البحر | نح | ل | يح | ل",
+   "margin": null,
+   "cells": [
+    "(١٨)",
+    "[٤]",
+    "مدينة ادولى على البحر",
+    "نح",
+    "ل",
+    "يح",
+    "ل"
+   ],
+   "plain": "(١٨) | [٤] | مدينة ادولى على البحر | نح | ل | يح | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+   ],
+   "lines": 11,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L04: for the longitude, ٮٮ ل, the manuscript gives the variant reading ب ل.",
+  "L06: for the degrees of the longitude, ن (50), the manuscript gives the variant reading ل (30), with the minutes ō.",
+  "L08: the words ⟨مدينة من⟩ fill a gap of the manuscript.",
+  "L09: for خانفوا the manuscript reads حايقوا; the editor compares Ibn Khurradādhbih (BGA VI, p. 69, line 5).",
+  "L10: for خانجوا the manuscript reads ٮانقوا; the editor compares the same passage (BGA VI, p. 69, line 6).",
+  "L11: for قانصوا the manuscript reads ٮالصوا; the editor compares the same passage (BGA VI, p. 69, line 7)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "L01-L02: the two headings stand between small open stars, transcribed as asterisks. In L01 the latitude of the clime, «يو كر», is printed with a line above the two numerals, the line with which the edition marks numerals written with letters in the running text; transcribed with {ov:…}. The ر of كر stands for ز, 7 (introduction, frame 196, p. XVII): 16° 27'.",
+  "From this page the second column carries, in square brackets, the numbers of the same entries in Suhrāb's ʿAjāʾib al-aqālīm: [١]-[٣] at entries 9-11 and [٤] at entry 18; the other entries have none.",
+  "The angle brackets ⟨ ⟩: the editor's note a says that he marks between them what he supplies where the manuscript is damaged, has a gap or omits something, and with dots between them what he could not supply; the words of entry 9 are supplied from Suhrāb, whose book he cites as S. Transcribed as printed: ⟨مدينة ٮارس⟩ (L03), ⟨ٮد⟩ (L05, the degrees of the latitude), ⟨مدينة من⟩ (L08).",
+  "L03: «⟨مدينة ٮارس⟩ا», as printed: after the closing bracket and the note mark a stands a single alif, outside the brackets, the letter that the manuscript keeps of the damaged words; the first letter of ٮارس, a tooth joined to the alif, is printed without a dot.",
+  "Letters printed without their dots, transcribed so: the degrees of the longitude ٮٮ (L04) and of the latitude ٮٮ (L06), each a tooth joined to a final ب, both without dots, with two risers at the right end of the bowl, a tall and a short one, where the isolated ب has one (frame 013, L15); ڡكد (L07), the loop of ف or ق without dots; ٮد (L05) and ٮارس (L03), the tooth without its dot; ى, the final form without dots (L03, the degrees of the longitude, 10). The ق of قعٮ (L08) has its two dots, printed small; the print of this cell is blurred, and the shape between the ق and the final ٮ is that of a medial ع.",
+  "L09-L11: for the three ports of China, entries 15-17, the print sets a single zero sign in the middle of each pair of columns, under the rules of the longitude and of the latitude; transcribed as a zero sign spanning the two columns.",
+  "L05: the editor's note c says that the manuscript is damaged at دنقلة but the reading is certain; note d, that the degrees of the latitude are damaged and are supplied from S.",
+  "The page number «— ٤ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

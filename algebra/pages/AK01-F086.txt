@@ -1,0 +1,32 @@
+@page 86 ٧٠
+% Frame 086, printed p. 70: the problem of frame 085 concluded (the seventh a hundred and sixty, the eighth a hundred
+% and forty, eight hundred and twenty to the heirs). Then «باب آخر من الوصايا» in bold: when some heirs allow a
+% bequest of more than a third and others do not: whoever allows it bears the excess in his share, and for whoever
+% does not, the third holds in any case. «مثال ذلك» in bold: a woman leaves her husband, her son and her mother and
+% bequeaths two fifths of her estate to one man and a quarter to another; the son allows both bequests, the mother
+% half, the husband nothing beyond the third; the shares from twelve, seven to the son, three to the husband, two to
+% the mother, continued on the next page. Below the rule one footnote of the editors.
+السبع مائة وستون والثمن مائة وأربعون وبقى ثمانمائة وعشرون سهما بين
+الورثة على سهامهم . {b:باب آخر من الوصايا} وهو اذا لم يجز بعض الورثة وأجاز
+بعضهم والوصية أكثر من الثلث . اعلم أن الحكم فى ذلك أن من أجاز من الورثة
+أكثر من الثلث من الوصية فذلك داخل عليه فى حصته ومن لم يجز فالثلث
+جايز عليه على كل حال . {b:مثال ذلك} إمرة ماتت وتركث زوجها وابنها وامها
+وأوصت لرجل بخمسى مالها ولآخر بربع مالها فأجاز الابن الوصيتين جميعاً
+وأجازت الأم النصف لهما ولم يجز الزوج شيئاً من ذلك الا الثلث {n:١} فقياس
+ذلك أن تقيم سهام الفريضة فتجدها من اثنى عشر سهما . للابن من ذلك سبعة
+أسهم وللزوج ثلاثة أسهم وللأم سهمان وأنت تعلم أن الزوج يجوز عليه الثلث
+فينبغى أن يكون فى يده مثلا ما يخرج من حصته للوصايا وفى يده ثلاثة للوصايا
+@ednotes ١ 12
+@obs L02 and L05: the words باب آخر من الوصايا (L02), the heading of a third chapter of the book of wills, and مثال ذلك (L05), which introduces its example, are printed in a bold face, run in after full stops; the words that follow are in the face of the text. The bold ن is printed without its dot; transcribed ن.
+@obs L05: «إمرة», as printed, with a hamza below the alif, for امرأة, a woman, which frame 085 prints with the hamza on the alif (L06); «جايز», as printed, with a dotted ي for the hamza of جائز. Both are transcribed as printed.
+@obs L05: «وتركث», as printed: the final letter carries three dots (8 by 7 px each, 3 to 9 px apart, nearest approach of the ink at 400 ppi), arranged as the dots of ث, where the same verb has a ت with two dots on frame 085, L06 (وتركت) and the ت of ماتت in this line has two. See the critical note AK01-CN024.
+@obs أكثر (L03, L04) is transcribed as one word; the print sets its ك 22 px from the alif in L03, as everywhere in this edition (frames 071 and 072).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: اذا لم (L02; 25 between the alif and the ل), لهما ولم (L07; 24 between the alif and the conjunction و), where an alif stands 2 to 17 px from the next letter without a space.
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: بعضهم والوصية (L03; 8 between the final م and the conjunction و), من أجاز (L03), بخمسى مالها (L06).
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after سهامهم, before the bold باب (L02; 21 and 23), after الثلث, before اعلم (L03; 20 and 21), after حال, before the bold مثال (L05; 25 and 26), after سهما, before للابن (L08; 25 and 28). The note mark (١) stands in a space of 115 px between الثلث and فقياس (L07), without a full stop.
+@obs Plain alif where a hamza might be expected, as printed: اذا (L02), اعلم (L03), وابنها, وامها (L05), الابن (L06), الا (L07), اثنى, للابن (L08); with hamza: وأربعون (L01), وأجاز (L02), أكثر, أن (L03, twice), أجاز (L03), أكثر (L04), وأوصت, فأجاز (L06), وأجازت, الأم (L07), أن (L08, L10), أسهم (L09, twice), وللأم, وأنت, أن (L09); below the alif: إمرة (L05); with madda: the bold آخر (L02), ولآخر (L06); on ي: مائة (L01, twice), ثمانمائة (L01).
+@obs With tanwīn on the final alif: جميعاً (L06), شيئاً (L07); without tanwīn as printed: سهما (L01, L08), مثلا (L10).
+@obs The final yā' is printed without dots: وبقى (L01), على (L02, L05, twice), فى (L03, L04, L10, twice), بخمسى (L06), اثنى (L08), فينبغى (L10).
+@obs The print stretches ثمانمائة and سهما (L01), الحكم (L03), مالها (L06, twice) and ثلاثة (L10) with the elongation stroke; the stroke is not transcribed.
+@obs Note (١) of the editors works out the shares of the example in modern notation: the husband 3, the mother 2 and the son 7 of twelve; the two bequests together 2/5 + 1/4 = 13/20; reading the mother's half as half of her share and the husband's third as a third of his, the son pays 13/20 of his 7/12, 91/240, the husband a third of his 3/12, 1/12, the mother half of her 2/12, 1/12; the bequests together 131/240, and there remain to the son 49, to the husband 40 and to the mother 20 parts of 240. The editors call the problem obscure. The values are consistent (49 + 40 + 20 + 131 = 240). The note is not reproduced.
+@critical AK01-CN024 | wrong or defective letter | L05 | وتركث | وتركت | The verb is وتركت, and she left, as in the same construction on frame 085, L06 («امرأة ملكت وتركت زوجها»); the print gives its final letter three dots, as a ث, where the ت of ماتت before it in the same line has two. | high | none on the mathematics: the word is clear

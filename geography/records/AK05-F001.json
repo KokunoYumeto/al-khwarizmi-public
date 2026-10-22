@@ -1,0 +1,21 @@
+{
+ "anchor": "AK05-F001",
+ "frame": 1,
+ "frame_file": "page_001.jpg",
+ "frame_sha256": "86476bf2c7bff3d76ed03d27bc5044d25a91a1168a2f58bceb9a7d3b067787b5",
+ "printed_page": "-",
+ "kind": "binding",
+ "role": "COPY_PROVENANCE (binding)",
+ "comment": "Frame 001: the front board of the Columbia binding: blue cloth, the spine at the right (the book opens from the right), with dark patches on the spine.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [],
+ "copy_matter": [
+  "The front board of the library's binding, in blue cloth, with the spine at the right; worn and patched; not part of the edition."
+ ],
+ "critical_notes": []
+}

@@ -1,0 +1,22 @@
+{
+ "anchor": "AK07-J0030",
+ "jp2_index": 30,
+ "jp2_member": "b24872489_0030.jp2",
+ "jp2_sha256": "a33e0e1dae0774ff7b372249b4e166b111c6d0bb21387e1b6ded1db70cf36430",
+ "reading_copy": "page_0030.jpg",
+ "reading_copy_sha256": "35031678522eb2642f1361a5605f62a7e4406080e3799d5c61d6ef821cc94893",
+ "printed_page": "[XXVI]",
+ "kind": "blank",
+ "language": null,
+ "role": "blank",
+ "file": "suter",
+ "comment": "JP2 0030: the back of p. XXV, p. [XXVI]; nothing printed.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Blank. The text of p. XXV shows through the leaf, mirrored; damp stains run down from the top; small specks."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

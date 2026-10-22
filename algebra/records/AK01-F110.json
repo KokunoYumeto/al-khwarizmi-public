@@ -1,0 +1,267 @@
+{
+ "anchor": "AK01-F110",
+ "frame": 110,
+ "frame_file": "page_110.jpg",
+ "frame_sha256": "a63342dcf5650c35ec82e5e5417e4f619a276fe36404d4ac824ae5f03907a9f2",
+ "printed_page": "٩٤",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 110, printed p. 94: the last marriage problem of frame 109 worked (she dies first, leaving ten dirhams and bequeathing a third; he then dies leaving a hundred and twenty and bequeathing a third to a man): her estate twenty dirhams and a thing; a third bequeathed, half of the rest returns to the husband's heirs: they have a hundred and sixteen and two thirds less a thing and two thirds of a thing, twice the two bequests, four things: the bequest twenty dirhams and ten seventeenths. Then «باب العتق فى المرض» in bold, a new chapter, on manumission in illness: two slaves freed in illness, one of whom dies leaving more than his value and a daughter; what the master's son and daughter take before and after the master's death, and by clientage; a slave freed in illness who must work off two thirds of his value, or two thirds of what remains, or nothing if he has paid it all; and a slave worth three hundred dirhams who dies leaving three hundred and a daughter, begun, continued on the next page. No footnote on this page.",
+ "lines": [
+  {
+   "id": "AK01-F110-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "الزوج مائةدرهم وعشرةدراهم من ذلك وصية المرأة شىء فيبقى مائةدرهم وعشرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "دراهم غير شىء ويصير فى أيدى ورثة المرأة عشرون درهما وشىء وأوصت من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "ذلك بثلثه وهو ستة دراهم وثلثان وثلث شىء ويرجع الى ورثة الزوج من ذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "بالميراث نصف ما بقى وهو ستة دراهم وثلثان وثلث شىء فيصير فى أيدى ورثة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "الزوج مائة درهم وستةعشر درهما وثلثان غير شىء وثلثى شىء تعدل مثلى الوصيتين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "وذلك اربعة أشياء فاجبر ذلك فيكون مائة وستة عشر درهما وثلثى درهم تعدل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "خمسة أشياء وثلثى شىء فالشىء الواحد يعدل عشرين درهما وعشرة أجزاء من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "سبعة عشر جزءا من درهم وهى الوصية فاعلم ذلك .{b:باب العتق فى المرض} . اذا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "باب العتق فى المرض"
+   ]
+  },
+  {
+   "id": "AK01-F110-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "أعتق الرجل عبدين له فى مرضه وترك السيد ابنا وابنة ثم مات أحد العبدين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "وترك مالا أكثر من قيمته وترك ابنة فاجعل ثلثى قيمته وما سعى فيه العبدالآخر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "وميراث السيد منه بين الابن والبنت للذكر مثل حظ الأنثيين اذاكان العبدمات",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "قبل السيد فان كان العبد مات بعد السيد جعلت ثلثى قيمته وما سعى فيه العبد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "الآخر بين الابن والبنت للذكر مثل حظ الأنثيين وما بقى من بعد ذلك فهو للذكر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "دون الأنثى لأن النصف من ميراث العبد لابنة العبد والنصف بالولاء لابن",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "السيد وليس للابنة شىء وكذلك لو أعتق رجل عبدا له فى مرض موته ولا مال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "له غيره ثم مات العبد قبل السيد . فان اعتق الرجل عبدا فى مرضه ولا مال له",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "غيره فان العبد يسعى فى ثلثى قيمته . فان كان السيد قد تعجل منه ثلثى قيمته",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "فاستهلكها السيد ثم مات السيد فان العبد يسعى فى ثلثى ما بقى . فان كان قد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "استوفى منه قيمته كلها فاستهلكها فلا سبيل على العبد لأنه قد أدى جميع قيمته .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "فان أعتق عبدا له فى مرض موته قيمته ثلثمائة درهم ولا مال له غيره ثم مات العبد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "وترك ثلثمائة درهم وترك بنتا فقياسه أن تجعل وصية العبد شيئا ويسعى فيما بقى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F110-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "من قيمته وهو ثلثمائة غير شىء فصار فى يد المولى السعاية وهى ثلثمائة غير شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L01: «الزوج مائةدرهم وعشرةدراهم» (L01) goes on from the last words of frame 109, «فيبقى فى ايدى ورثة» (frame 109, L22): of the husband's hundred and twenty, a hundred and ten remain with his heirs after the dower of ten.",
+  "L01-L02: «فيبقى مائةدرهم وعشرة دراهم غير شىء», as printed, a hundred and ten less a thing, the woman's bequest only, where the sum of L05, «مائة درهم وستةعشر درهما وثلثان غير شىء وثلثى شىء», a hundred and sixteen and two thirds less a thing and two thirds, and the four things of the equation (L05-L06) also take away the thing that the legatee of the third receives. See the critical note AK01-CN034.",
+  "L08: the words باب العتق فى المرض (L08), the heading of a new chapter of the book of wills, on manumission in illness, are printed in a bold face, between full stops; اذا, which follows, is in the face of the text.",
+  "Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): مائةدرهم (L01, twice; 6 between the ة and the د each time), وعشرةدراهم (L01; 8), where مائة درهم in L05 has 16 and ثلثمائة درهم in L20 20; وستةعشر (L05; 6 between the ة and the ع, where وستة عشر in L06 has 25); العبدالآخر (L10; 8 between the د and the alif, as أحدالقسمين on frame 051, 8, where the د stands 18 to 26 px from the alif with a space); اذاكان (L11; 6 between the alif and the ك, as ماكان and واذاكان on frames 029, 035, 043 and 072, 5 to 7, where هذا كان and جمعتهما كان have 21 and 25); العبدمات (L11; 3 between the د and the م, where العبد مات in L12 has 24).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: مائة درهم (L05; 16 between the ة and the د, at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one); وشىء وأوصت (L02; 15 between the hamza on the line and the conjunction و) and شىء تعدل (L05; 12 between the hamza on the line and the ت), where the hamza stands 2 to 11 px from the next letter without a space and 15 or more with one; بعد ذلك (L13; 16 between the د and the ذ, as on frame 101, L09, 18, and فزد ذلك on frame 094, 19); قد أدى (L19; 18 between the د and the alif, where العبدالآخر in L10 has 8); in doubt, the space is written.",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: دراهم من, ذلك وصية (L01), فى أيدى (L02), وثلثان غير, وثلثى شىء (L05), من قيمته (L10), فان كان (L12), وليس للابنة (L15), أعتق عبدا, فى مرض (L20).",
+  "The full stops (gaps as the nearest approach of the ink at 400 ppi): in L08 the full stop after ذلك stands 27 px after the word and 12 px before the bold باب, and is transcribed with a space before it and none after it, as on frame 098, L12; the full stop after the bold heading, before اذا, stands between spaces (L08; 26 and 23), as do those after السيد, before فان (L16; 26 and 29), after قيمته, before فان (L17; 27 and 26), and after بقى, before فان (L18; 30 and 27); the full stop after قيمته ends L19 (27 px after the word).",
+  "L20-L22: the hundreds are printed ثلثمائة (L20, L21; L22, twice), without the alif of ثلاث, as on frames 089-105, where frame 108, L09, prints ثلاثمائة; transcribed as printed.",
+  "Plain alif where a hamza might be expected, as printed: اربعة, فاجبر (L06), فاعلم, اذا (L08), ابنا, وابنة (L09), فاجعل, ابنة (L10), الابن, اذاكان (L11), الابن (L13), لابنة, لابن (L14), للابنة (L15), اعتق (L16), فاستهلكها (L18), استوفى, فاستهلكها (L19); with hamza: المرأة (L01), أيدى, المرأة, وأوصت (L02), أيدى (L04), أشياء (L06), أشياء, أجزاء (L07), أعتق, أحد (L09), أكثر (L10), الأنثيين (L11, L13), الأنثى, لأن (L14), أعتق (L15), لأنه, أدى (L19), أعتق (L20), أن (L21); with madda: العبدالآخر (L10), الآخر (L13); on ي: مائةدرهم (L01, twice), مائة (L05, L06), ثلثمائة (L20, L21; L22, twice), شيئا (L21); the hamza on the line: شىء (L01), شىء, وشىء (L02), شىء (L03, L04; L05, twice), أشياء (L06), أشياء, شىء, فالشىء, أجزاء (L07), جزءا (L08), بالولاء (L14), شىء (L15; L22, twice).",
+  "Without tanwīn as printed: درهما (L02, L05, L06, L07), جزءا (L08), ابنا (L09), مالا (L10), عبدا (L15, L16, L20), بنتا, شيئا (L21).",
+  "L05-L07: «وثلثى شىء» (L05, L07), «مثلى الوصيتين» (L05) and «وثلثى درهم» (L06), as printed: the dual without its ن before the noun that follows it, as on frames 094, 095, 099, 106, 108 and 109.",
+  "The final yā' is printed without dots: فيبقى (L01), فى, أيدى (L02), الى (L03), بقى, فى, أيدى (L04), وثلثى, مثلى (L05), وثلثى (L06, L07), وهى, the bold فى (L08), فى (L09), ثلثى, سعى (L10), ثلثى, سعى (L12), بقى (L13), الأنثى (L14), فى (L15, L16), يسعى, فى, ثلثى (L17, ثلثى twice), يسعى, فى, ثلثى, بقى (L18), استوفى, على, أدى (L19), فى (L20), ويسعى, بقى (L21), فى, المولى, وهى (L22).",
+  "The print stretches أحد (L09, between the ح and the د) and فاستهلكها (L18, L19, between the ل and the ك) with the elongation stroke; the stroke is not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK01-CN034",
+   "class": "omission in the statement",
+   "line": "L02",
+   "printed": "فيبقى مائةدرهم وعشرة دراهم غير شىء (L01-L02)",
+   "proposed": "فيبقى مائةدرهم وعشرة دراهم غير شيئين",
+   "evidence": "The husband has bequeathed a third of his property to a man (frame 109, L21-L22), so that, as in the problem before it, the third is shared in halves and the legatee receives a thing as the woman does (frame 109, L12-L14). The print takes away only the woman's thing: a hundred and ten less a thing (L01-L02). With her estate, twenty dirhams and a thing, and her bequest of a third, half of the rest, six dirhams and two thirds and a third of a thing, returns to the husband's heirs (L02-L04): 110 − x + 6 2/3 + x/3 = 116 2/3 − 2/3 x, where the print states 116 2/3 less a thing and two thirds of a thing (L05), 116 2/3 − 1 2/3 x, which is 110 − 2x + 6 2/3 + x/3. The equation with twice the two bequests, four things (L05-L06), and its result, 350/17 = 20 10/17 (L07-L08), follow from the printed sum (checked exactly). The step that gives the legatee of the third his thing is missing, or the remainder should read «غير شيئين».",
+   "confidence": "high that the working deducts two things where L02 states one; whether the step was lost in the print or in the manuscript, or abbreviated by the author, is not known",
+   "impact": "none on the result: the sum, the equation and the bequest of twenty dirhams and ten seventeenths are those of two things"
+  }
+ ]
+}

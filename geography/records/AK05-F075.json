@@ -1,0 +1,240 @@
+{
+ "anchor": "AK05-F075",
+ "frame": 75,
+ "frame_file": "page_075.jpg",
+ "frame_sha256": "bd2d65f20398b976d33c9d9f282bb7f1f2bafa9263ea089b2f774f63802cadb0",
+ "printed_page": "٦٩",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 075, printed p. 69: the end of the outer western and northern sea, which returns along the meridian of one degree to the point where it began; the heading of the sea of Tangier, the seas of مرطاسه, of Ifrīqiya, of Barqa, of Egypt and Syria, of ٮرقه and of لزقه, all joined to one another; and the beginning of their course from the copper idols at Tangier, with the editor's running numbers (١٠٢٨)-(١٠٣٨), to the towns ثوقا and Diarrhytus. Four lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F075-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "الى طول {ov:س {z}} والعرض {ov:عب {z}} (١٠٢٨) [٦١١] يمرّ الى طول {ov:نح {z}} والعرض {ov:عح {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "الى طول س ō والعرض عب ō (١٠٢٨) [٦١١] يمرّ الى طول نح ō والعرض عح ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F075-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "(١٠٢٩) [٦١٢] ويرجع من هناك الى طول جزء واحد والعرض {ov:عح {z}} (١٠٣٠)",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٠٢٩) [٦١٢] ويرجع من هناك الى طول جزء واحد والعرض عح ō (١٠٣٠)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F075-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "[٦١٣] ويرجع على طول {ov:ا {z}} من عرض {ov:عح {z}} الى عرض {ov:{z} ى} على سمت طول جزء",
+   "margin": null,
+   "cells": null,
+   "plain": "[٦١٣] ويرجع على طول ا ō من عرض عح ō الى عرض ō ى على سمت طول جزء",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F075-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "واحد{n:a} فيرجع الى الموضع الّذى فيه ابتدأنا بذكره{n:b} *",
+   "margin": null,
+   "cells": null,
+   "plain": "واحد فيرجع الى الموضع الّذى فيه ابتدأنا بذكره *",
+   "note_marks": [
+    "a",
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F075-L05",
+   "n": 5,
+   "kind": "heading",
+   "text": "* بحر طنجة وبحر مرطاسه{n:c} وبحر أفريقيّة{n:d}",
+   "margin": null,
+   "cells": null,
+   "plain": "* بحر طنجة وبحر مرطاسه وبحر أفريقيّة",
+   "note_marks": [
+    "c",
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F075-L06",
+   "n": 6,
+   "kind": "heading",
+   "text": "وبحر برقة وبحر مصر والشام وبحر ٮرقه{n:e}",
+   "margin": null,
+   "cells": null,
+   "plain": "وبحر برقة وبحر مصر والشام وبحر ٮرقه",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F075-L07",
+   "n": 7,
+   "kind": "heading",
+   "text": "ولزقه{n:f} كلّها متّصلة بعضها ببعض *",
+   "margin": null,
+   "cells": null,
+   "plain": "ولزقه كلّها متّصلة بعضها ببعض *",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F075-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "الابتداء من بحر طنجة من عند الأصنام النحاس من طول {ov:ز ل} والعرض {ov:له م}{n:g} ⟨يمرّ⟩{n:h}",
+   "margin": null,
+   "cells": null,
+   "plain": "الابتداء من بحر طنجة من عند الأصنام النحاس من طول ز ل والعرض له م ⟨يمرّ⟩",
+   "note_marks": [
+    "g",
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F075-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "الى طول {ov:ح ل} والعرض {ov:له ل} (١٠٣١) [٦١٥] يمرّ الى طول {ov:ى {z}} والعرض {ov:لح م}",
+   "margin": null,
+   "cells": null,
+   "plain": "الى طول ح ل والعرض له ل (١٠٣١) [٦١٥] يمرّ الى طول ى ō والعرض لح م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F075-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "(١٠٣٢) [٦١٦] يمرّ الى طول {ov:يح {z}} والعرض {ov:لح ك} (١٠٣٣) [٦١٧] يمرّ الى طول",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٠٣٢) [٦١٦] يمرّ الى طول يح ō والعرض لح ك (١٠٣٣) [٦١٧] يمرّ الى طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F075-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "{ov:يد {z}} والعرض {ov:لٮ ل} (١٠٣٤) [٦١٨] يمرّ الى طول {ov:يح {z}} والعرض {ov:لٮ {z}} (١٠٣٥)",
+   "margin": null,
+   "cells": null,
+   "plain": "يد ō والعرض لٮ ل (١٠٣٤) [٦١٨] يمرّ الى طول يح ō والعرض لٮ ō (١٠٣٥)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F075-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "[٦١٩] وهناك مصبّ نهر خليفان يمرّ الى طول {ov:كح {z}} والعرض {ov:لٮ {z}} (١٠٣٦) [٦٢٠]",
+   "margin": null,
+   "cells": null,
+   "plain": "[٦١٩] وهناك مصبّ نهر خليفان يمرّ الى طول كح ō والعرض لٮ ō (١٠٣٦) [٦٢٠]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F075-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "ويمرّ على صورة الطيلسان{n:i} يمرّ بعرض {ov:لح {z}} (١٠٣٧) [٦٢١] ويمرّ الى طول {ov:لب {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "ويمرّ على صورة الطيلسان يمرّ بعرض لح ō (١٠٣٧) [٦٢١] ويمرّ الى طول لب ō",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F075-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "والعرض {ov:لب {z}} (١٠٣٨) [٦٢٢] يمرّ الى مدينة ثوقا ⟨ومدينة⟩{n:k} ذياررطس ويمرّ الى",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض لب ō (١٠٣٨) [٦٢٢] يمرّ الى مدينة ثوقا ⟨ومدينة⟩ ذياررطس ويمرّ الى",
+   "note_marks": [
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L04: the place is the same as point 967 (frame 072, L03) (note a).",
+  "L04: the letters «نا بذكره», the end of «ابتدأنا» and «بذكره», are written by a later hand in the manuscript (note b).",
+  "L05: for the sea of مرطاسه the editor refers to entry (1558), and for the sea of Ifrīqiya to entry (1559) (notes c and d).",
+  "L06: for the sea of ٮرقه the editor refers to entry (1580) (note e).",
+  "L07: for the sea of لزقه the editor refers to entry (1570) (note f).",
+  "L08: the manuscript has the latitude ل م, with a line over the numerals; the correct reading, له م, stands in its margin; the point is the same as point 987 (note g).",
+  "L08: the manuscript lacks the word يمرّ, which the editor supplies (note h).",
+  "L13: the manuscript has قوارة before الطيلسان (note i).",
+  "L14: the manuscript lacks the word ومدينة, which the editor supplies (note k)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "L01-L04 end the outer western and northern sea: after the point of latitude 72 (L01) the coast passes to the latitude «عح», returns from there to the longitude of one degree, «ويرجع من هناك الى طول جزء واحد» (L02), and returns along the longitude «ا {z}», 1° 0′, from the latitude «عح» to the latitude «{z} ى», 0° 10′, on the meridian of one degree, «على سمت طول جزء واحد», and so back to the place with whose mention it began, «فيرجع الى الموضع الّذى فيه ابتدأنا بذكره» (L03-L04): the first point of p. 66 (frame 072, L03), longitude 1° 0′ and latitude 0° 10′ (note a). L04 ends with a small open star, transcribed as an asterisk. «جزء» has a hamza on the line; «الّذى» a shadda over the ل; «ابتدأنا» a hamza over the alif.",
+  "L05-L07: the heading of the next section, in the large type, between two small open stars, transcribed as asterisks: «* بحر طنجة وبحر مرطاسه وبحر أفريقيّة وبحر برقة وبحر مصر والشام وبحر ٮرقه ولزقه كلّها متّصلة بعضها ببعض *», the sea of Tangier, the sea of مرطاسه, the sea of Ifrīqiya, the sea of Barqa, the sea of Egypt and Syria, and the sea of ٮرقه and لزقه, all of them joined to one another. «أفريقيّة», with a hamza over the alif and a shadda over the ي; «كلّها», with a shadda over the ل; «متّصلة», with a shadda over the ت; «ببعض» is printed with a long kashida, the stretched joining stroke, before the ض, which is not transcribed. «مرطاسه» and «لزقه» end in ه, «برقة» in ة; «ٮرقه» begins with a tooth without a dot, joined to the ر.",
+  "L08: the course of the new section begins «الابتداء من بحر طنجة من عند الأصنام النحاس», the beginning is from the sea of Tangier, from the copper idols (frame 073, L05-L06), at the longitude «ز ل», with the dot of the ز, and the latitude «له م»; this first point has neither a running number nor a number of Suhrāb (the editor's note g gives it as point 987). The word «⟨يمرّ⟩», between angle brackets and followed by the note mark h, is supplied by the editor, which the manuscript lacks (note h). L12: «وهناك مصبّ نهر خليفان», there is the mouth of the river Khalīfān; L13: «على صورة الطيلسان», along the shape of the ṭaylasān, and «يمرّ بعرض», it passes at the latitude; L14: «يمرّ الى مدينة ثوقا ⟨ومدينة⟩ ذياررطس», it passes to the town of ثوقا and the town of Diarrhytus, with «⟨ومدينة⟩» supplied by the editor (note k). The running numbers run (١٠٢٨)-(١٠٣٨), and the numbers of Suhrāb [٦١١]-[٦١٣] and [٦١٥]-[٦٢٢].",
+  "Letters printed without their dots in the numerals, transcribed so: لٮ, a ل joined to a final ب without its dot, 32 (L11, both latitudes; L12, the latitude), where L13 and L14 print لب with the dot. With their dots: نح (L01), 58; عب (L01), 72; يح (L10, L11) and يد (L11), with the two dots of the ي, 18 and 14; ز (L08), 7.",
+  "The ح of the numerals, نح and عح (L01-L03), ح (L09), لح (L09, L10, L13), يح (L10, L11) and كح (L12), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.",
+  "Note marks: L04, a after «واحد» and b after «بذكره»; L05, c after «مرطاسه» and d after «أفريقيّة»; L06, e after «ٮرقه»; L07, f after «ولزقه»; L08, g after the latitude and h after «⟨يمرّ⟩»; L13, i after «الطيلسان»; L14, k after «⟨ومدينة⟩».",
+  "The editor's footnotes stand in four lines below a short rule at the left: notes a-k. The page number «— ٦٩ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

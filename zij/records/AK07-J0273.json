@@ -1,0 +1,71 @@
+{
+ "anchor": "AK07-J0273",
+ "jp2_index": 273,
+ "jp2_member": "b24872489_0273.jp2",
+ "jp2_sha256": "92115add04ab7485300065f71a2417ab30d4fc195a97b346a64c93afe3e5171c",
+ "reading_copy": "page_0273.jpg",
+ "reading_copy_sha256": "538408e734f5b05eefd46cd37d725fdf89341bf93288e7f914f1b59bf1c13d73",
+ "printed_page": "[239]",
+ "kind": "divider",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (part title)",
+ "file": "suter",
+ "comment": "JP2 0273: the part title of the glossary and the index, p. [239].",
+ "lines": [
+  {
+   "id": "AK07-J0273-L01",
+   "n": 1,
+   "kind": "centre",
+   "text": "GLOSSAR",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "GLOSSAR",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0273-L02",
+   "n": 2,
+   "kind": "centre",
+   "text": "UND",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "UND",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0273-L03",
+   "n": 3,
+   "kind": "centre",
+   "text": "NAMEN- UND SACHREGISTER",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "NAMEN- UND SACHREGISTER",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The part title, unnumbered, before the glossary and the index of names and subjects: «GLOSSAR» (L01) and «NAMEN- UND SACHREGISTER» (L03) in letter-spaced capitals of the size of «TEXT» and «TAFELN» on pp. [XXVII] and [107] (JP2 0031, 0139), with «UND» (L02) between them in small capitals, all centred a little above the middle of the page. Damp stains run down from the top and up from the foot; specks."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

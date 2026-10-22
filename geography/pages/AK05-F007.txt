@@ -1,0 +1,14 @@
+@page 7 -
+@kind title
+% Frame 007: the title page of the 1926 edition, in calligraphy, on the white paper of the text.
+@c كتاب صورة الأرض
+@c من المدن والجبال والبحار والجزائر والأنهار
+@c استخرجه أبو جعفر محمّد بن موسى الخوارزمىّ
+@c من كتاب جغرافيا الّذى ألّفه بطلميوس القلوذىّ
+@c وقد اعتنى بنسخه وتصحيحه
+@c هانس فون مژيك
+@c طبع فى مدينة ڤينا الجليلة
+@c بمطبعة آدولف هولزهوزن
+@c سنة ١٣٤٥ ه وهى ١٩٢٦ م
+@obs The title page is written in calligraphy and printed from a block. Its lines are transcribed with the words divided as usual, since the calligraphy sets them close and lets them overlap; hamza and shadda are transcribed where they are written (الأرض, والأنهار, أبو, محمّد, الخوارزمىّ, الّذى, ألّفه, القلوذىّ, آدولف). The other vowel signs of the calligraphy (a ḍamma over the ب of كتاب and the ص of صورة, over the ه of استخرجه, ألّفه, بنسخه and تصحيحه, a fatḥa over the ع of طبع and the م of مدينة, a kasra under the alif of استخرجه and the س of سنة) and its small v-shaped signs over and under letters are not transcribed. The editor's name is written مژيك, with ژ, three dots over the ز, for the ž of Mžik, and Vienna ڤينا, with ڤ, three dots over the ف, for its v; موسى carries a short upright stroke over its final ى, and «ه» after the Hijri year 1345 and «م» after 1926 abbreviate the eras.
+@obs The 1962 reprint reproduces this page on its own title page (frame 005) and adds two lines in type.

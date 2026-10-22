@@ -1,0 +1,53 @@
+@page 75 43
+@lang de
+% JP2 0075: Suter's commentary, p. 43: the end of chapter 7: the correction for places east or west of Arin; the
+% addition on the mile and the degree (66 2/3 miles, 24000 miles round the earth; the "Caldei"); chapter 8, the true
+% place of the sun: the apogee 77° 55′, the anomaly and the equation; the example begins (notes 1-3).
+@p Es wird im Text am Schlusse der Regel bemerkt, wie man zu verfahren habe,
+wenn der Ort, für den man die mittlere Länge eines Planeten bestimmen will, östlich
+oder westlich von {i:Arin} liege.
+@p Am Schlusse des Kapitels findet sich ein Zusatz, der in C und O nur am Rande,
+dagegen in M im Texte steht, und der sich über das Verhältnis von Graden und
+Meilen ausspricht ; es wird angegeben, dass auf der Erde auf einen Grad 66{sup:2}/{sub:3} Meilen
+kommen, dass also der Umfang der Erde 24000 Meilen sei ; anfänglich ist bemerkt,
+dass nach den Chaldäern 4000 Kameelschritte eine Meile ausmachen.
+@p Diese Meile, von denen 66{sup:2}/{sub:3} auf einen Grad gehen sollen, ist die von den
+arabischen Geographen und Astronomen in ihren Angaben gewöhnlich gebrauchte
+Meile zu 4000 Ellen ({i:dhirāʿ}), die Elle zu 24 Fingern ({i:aṣbaʿ} oder {i:iṣbaʿ}) ; nach {sp:Nallino}{sup:1})
+war eine solche Meile c. 1973 m. Nach der Gradmessung unter {sp:al-Ma’mūn} kam
+dann neben diesem Werte auch der bessere von 56{sup:2}/{sub:3} Meilen = 1° in Gebrauch.
+@p M. {sp:Chasles}{sup:2}) schliesst aus obiger Stelle, dass schon die {i:Chaldäer} (Babylonier)
+den nahezu richtigen Umfang der Erde gekannt hätten. Wir wollen dies nicht
+absolut bestreiten, aber erstens ist die Angabe, dass es für eine Meile von c. 2000
+Meter 4000 Kameelschritte brauche, schon etwas verdächtig, und zweitens sind hier
+unter {i:Caldei} höchst wahrscheinlich die {i:Araber} verstanden, denn wir halten diese
+Stelle für eine Einschiebung des Übersetzers, oder von Abschreibern ; p. 11 des
+Textes kommt nämlich in einer Stelle, die unzweifelhaft eine Einschiebung ist, noch-
+mals das Wort {i:Caldei} vor, und dort bezeichnet es sicher die Araber ; das Ms. O hat
+auch in der Tat statt „a Caldeis“ „arabice“.
+@c {b:Kap. 8. Über die Auffindung des (wahren) Ortes der Sonne.}
+@c (Text p. 9—10, Tafel 21—26.)
+@p Um den wahren Ort der Sonne aus dem mittlern zu bestimmen, muss man
+nach der Vorschrift dieses Kapitels von der mittlern Länge der Sonne die Länge des
+{i:Apogeums} derselben, die in diesen Tafeln zu 77° 55′ angenommen wird{sup:3}), subtrahieren,
+dies gibt die sogenannte {i:Anomalie} der Sonne ; zu dieser als Argument sucht man in
+den Tafeln 21—26 die sogenannte {i:Gleichung} der Sonne ; diese Gleichung muss man
+von der mittlern Länge der Sonne subtrahieren, bezw. zu ihr addieren, je nachdem
+die Anomalie kleiner oder grösser als 180° ist, das Resultat gibt die {i:wahre Länge}
+der Sonne.
+@p {i:Beispiel} : Im vorigen Kapitel fanden wir die mittlere Länge der Sonne für den
+Mittag des {i:15. Ṣafar} des Jahres 540 d. H. = 131° 0′ 34″. Subtrahieren wir davon das
+@n {sup:1}) {i:Il valore metrico del grado di meridiano secondo i geografi arabi}, im Cosmos di Guido Cora,
+@n Vol. XI, 1892—93, fascic. I—IV, u. {i:Estratto}, Torino, 1893.
+@n {sup:2}) {i:Recherches sur l’astronomie ancienne}, in Comptes-rendus de l’Académie des Sciences, t. XXIII,
+@n Paris, 1846, p. 851.
+@n {sup:3}) Diese Zahl kann, wenn die Zahlen durch arab. Buchstaben ausgedrückt sind, leicht mit
+@n 77° 15′ verwechselt werden, und dann würde der Wert mit dem der spätern Redaktion des {i:Sūrya-}
+@n {i:Siddhānta} und des arab. {i:Sindhind} (nach dem Zeugnis {sp:Ibn Hibintās}) stimmen (vergl. {sp:Batt.}, ed.
+@n {sp:Nallino}, I, 218).
+@obs The page number «43» stands at the head of the page, centred, with a rule below it. At the foot, the signature «6*» on the right. L23-L24: the heading of chapter 8, in bold, centred, with the reference to the text below it.
+@obs L04-L08: the addition at the end of chapter 7 (p. 9 of the text, JP2 0041). Checked: 360 × 66⅔ = 24000 miles; at 1973 m (L12) these are 47 352 km, and 360 × 56⅔ = 20 400 miles are 40 249 km; 4000 camel paces to a mile of about 2000 m (L16-L17) are paces of half a metre, which Suter calls suspicious.
+@obs L27: the apogee of the sun, 77° 55′, as in chapter 8 of the text (p. 9, JP2 0041, L17: two signs 17° 55′). N05-N08: in the letters of the abjad 55 is nūn hāʾ and 15 yāʾ hāʾ, two letters that differ in their dots when joined.
+@obs L09: the paragraph is indented 30 px more than the others of the page (its first ink at x 337, where L01 and L14 begin at 307 and 311). L07: after «Erde» a faint mark like a closing bracket, much lighter than the print; not transcribed. L11: «dhirāʿ», «aṣbaʿ», «iṣbaʿ» in italics, the ʿayn upright and raised. L12: «al-Ma’mūn» spaced; L14 «Chasles»; N07 «Ibn Hibintās», with the macron, «Batt.»; N08 «Nallino». L22: „a Caldeis“ „arabice“, two quotations in German quotation marks.
+@obs N01 and N03: the titles in italics, the rest upright; N02 «1892—93», «I—IV», the long dash set close.
+@obs The colons and semicolons stand after the thin space of the edition (8-12 px measured).

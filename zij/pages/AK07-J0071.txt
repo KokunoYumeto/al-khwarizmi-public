@@ -1,0 +1,50 @@
+@page 71 39
+@lang de
+% JP2 0071: Suter's commentary, p. 39: chapter 5 continued: the second and the third example (5 Radjab 413 =
+% 3 October 1022; 3 Shawwāl 399 = 30 May 1009); the epoch of the tables, 15 July 622; Table 3a (notes 1-2).
+@t Am Ende des 390. Jahres d. H. waren verflossen | | 1311 J. | 2 M. | {sup:1}/{sub:4} T. | der röm. Aera
+@t 22 muhammed. Jahre sind | | = 21 „ | 4 „ | 5{sup:3}/{sub:4} „ | „ „ „
+@t die 6 ersten muhammed. Monate sind | | = | 5 „ | 27 „ | „ „ „
+@t dazu im Radjab noch | | | | 4 „ |
+@t | Summa : | 1333 „ | 0 „ | 7 „ |
+@p Da wieder eine einmalige Verwandlung von 12 Monaten in ein Jahr stattgefunden
+hat, muss man von dieser Summe 5{sup:1}/{sub:4} Tage abziehen, dies gibt 1333 J. 0 M. 2 T.,
+d. h. seit dem Beginn der römischen Aera sind bis zum 5. Radjab 413 d. H. 1333 J.
+0 M. 2 T. verflossen, oder der 5. Radjab 413 entspricht dem 3. {i:Tishrīn I.} des Jahres
+1334, d. i. dem {i:3. Oktober} 1022 n. Chr.{sup:1})
+@p 3. Welchem Tage der {i:römischen Aera} entspricht der {i:3. Shawwāl} des Jahres
+399 d. H. ?
+@t Am Ende des 390. Jahres d. H. waren verflossen | | 1311 J. | 2 M. | {sup:1}/{sub:4} T. | der röm. Aera
+@t 8 muhammed. Jahre sind | | = 7 „ | 9 „ | 8{sup:1}/{sub:4} „ | „ „ „
+@t die 9 ersten muhammed. Monate sind | | = | 8 „ | 26 „ | „ „ „
+@t dazu im Shawwāl noch | | | | 2 „ |
+@t | Summa : | 1319 „ | 7 „ | 36{sup:1}/{sub:2} „ |
+@p Da wieder eine einmalige Verwandlung von 12 Monaten in ein Jahr statt-
+gefunden hat, muss man von dieser Summe 5{sup:1}/{sub:4} Tage abziehen, dies gibt 1319 J.
+7 M. 31{sup:1}/{sub:4} T. ; da unter den 7 Monaten vom Oktober an vier Monate mit 31 Tagen
+sich befinden, so muss man von der Zahl der Tage noch 4 subtrahieren, dies gibt
+1319 J. 7 M. 27{sup:1}/{sub:4} T. ; da ferner unter diesen 7 Monaten der Februar sich befindet,
+muss man zu der Zahl der Tage noch 2 addieren, dies gibt 1319 J. 7 M. 29{sup:1}/{sub:4} T.,
+d. h. seit dem Beginn der römischen Aera sind bis zum 3. Shawwāl 399 d. H. 1319 J.
+7 M. 29 T. verflossen, oder der {i:3. Shawwāl} 399 entspricht dem {i:30. Hiyār} (richtige
+Form {i:Ayyār}) 1320, d. i. dem {i:30. Mai} 1009.
+@p Nach den heutigen Vergleichungstabellen erhält man für das erste Beispiel den
+27. Januar, für das zweite den 4. Oktober, und für das dritte den 31. Mai ; {sp:Kh.} oder
+{sp:Maslama} hat also wie {sp:Batt.} den Beginn der muhammedanischen Aera auf den
+15. Juli 622 statt auf den 16. angesetzt.
+@p Die Tafel 3{sup:a} dient dazu zu bestimmen, ob das gefundene römische Jahr ein
+Schaltjahr sei oder nicht, und mit welchem Wochentage es und seine Monate be-
+ginnen. Die mit den Monatsnamen überschriebenen Kolonnen enthalten die {i:Signa}
+({i:Notae}). Es ist zu bemerken, dass man, wenn man den Beginn eines Monats eines
+bestimmten Jahres in der {i:julianischen} Zeitrechnung haben will, zu dieser Jahreszahl
+noch 311 (312) zu addieren hat.{sup:2}) Ferner ist zu berücksichtigen, dass im julianischen
+@n {sup:1}) Fällt das Datum in die Monate Oktober bis Dezember, so muss man von der römischen
+@n Jahreszahl 312 abziehen, um die christliche (julianische) Jahreszahl zu erhalten, sonst 311, wofür
+@n der Leser die Erklärung leicht finden wird.
+@n {sup:2}) Vergl. die vorhergehende Note.
+@obs The page number «39» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L10 complete the second example, begun at the end of p. 38 (JP2 0070, L33-L34).
+@obs L01-L05 and L13-L17: the computations, set as on p. 38: the years («J.»), months («M.») and days («T.») in columns, repeated by ditto marks „, those after the days also under «der röm. Aera»; the sum below a rule. Each printed row is one line here, the cells separated by our «|»; the empty cells give the words room and are not printed. «Radjab» and «Shawwāl» are upright in the computations and in L08-L09 and L24, italic with their numbers in L11 and L25.
+@obs L01-L10. Checked: 390 Arab years are thirteen cycles of 10631 days; 1 Muḥarram 391 is 478903 days after 1 October 312 B.C., 1311 Julian years and 60¼ days, 1311 years 2 months ¼ day with months of thirty days. The 22 years 391-412 have eight leap years, 7796 days, 21 years 4 months 5¾ days; the first six months 177 days, 5 months 27 days. The sum less 5¼ days is 1333 years 0 months 1¾ days, which the text gives as 2 days: 1 October 1022 is 486878 days after the epoch, and 5 Radjab 413 is two days later, 3 October 1022, counted from 15 July 622.
+@obs L13-L26. Checked: the 8 years 391-398 have three leap years, 2835 days, 7 years 9 months 8¼ days; the first nine months 266 days, 8 months 26 days; the sum, 1319 years 7 months 36½ days, less 5¼ days, less four days for October, December, January and March and plus two for February, is 1319 years 7 months 29¼ days, and 7 months and 29 days after 1 October 1008 is 30 May 1009, the date that the day count from 15 July 622 gives for 3 Shawwāl 399. L27-L30: counted from 16 July 622 the three examples give 27 January 1126, 4 October 1022 and 31 May 1009, the dates of the modern tables.
+@obs L09: «3.» upright before the italic «Tishrīn I.»; L10: «3. Oktober» italic with its number. L28-L29: «Kh.», «Maslama» and «Batt.» spaced. L31: «3a», the a raised. L07: a speck at the foot of the e of «Summe»; not transcribed.
+@obs The colons, semicolons and the question mark stand after the thin space of the edition (10-14 px measured; «Summa :» 10 and 11 px, «d. H. ?» 10 px).

@@ -1,0 +1,5 @@
+@page 2 -
+@kind provenance
+% JP2 0002: the front pastedown, with a bookplate, a shelfmark and a barcode.
+@obs Nothing of the edition is printed on this page.
+@copy The bookplate «Ex Libris R. M. Burrell», with the drawing of a turbaned figure seated cross-legged and reading a book; below it, in pencil, the shelfmark «(2) AJB.CA.AA2»; at the foot, a barcode label «22501959681».

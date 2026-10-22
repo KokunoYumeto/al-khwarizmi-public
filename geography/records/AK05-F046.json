@@ -1,0 +1,333 @@
+{
+ "anchor": "AK05-F046",
+ "frame": 46,
+ "frame_file": "page_046.jpg",
+ "frame_sha256": "385d3d5ee61ce1d06d87e1a7400fd077a33ccdc7b01cea6da06330156f4df980",
+ "printed_page": "٤٠",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 046, printed p. 40: the right-hand page of the opening pp. 40-41 of the table of the mountains. The numbers and names of seventeen mountains, entries 562/563-594/595: Thalā, Lūrāṭīs, Maʿras the lower, the mountain Ghāna, Ghādbaṭn, الڡس, Mārī whose beginning is at the sea, Hāris, ⟨Bālīs⟩, three mountains without a name and the Black Mountain, the mountain اهرد on the island of Sarandīb, called the mountain of al-Ruhūn, Awrnā, مٮٮدروس, and Hūsas and مصوں on the island of the jewels. Three lines of the editor's footnotes, continued from the foot of p. 41.",
+ "lines": [
+  {
+   "id": "AK05-F046-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٥٦٢ ٥٦٣) | [١٠٦١ ١٠٦٢] | جبل ثلا",
+   "margin": null,
+   "cells": [
+    "(٥٦٢ ٥٦٣)",
+    "[١٠٦١ ١٠٦٢]",
+    "جبل ثلا"
+   ],
+   "plain": "(٥٦٢ ٥٦٣) | [١٠٦١ ١٠٦٢] | جبل ثلا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٥٦٤ ٥٦٥) | [١٠٦٥ ١٠٦٦] | جبل لوراطيس",
+   "margin": null,
+   "cells": [
+    "(٥٦٤ ٥٦٥)",
+    "[١٠٦٥ ١٠٦٦]",
+    "جبل لوراطيس"
+   ],
+   "plain": "(٥٦٤ ٥٦٥) | [١٠٦٥ ١٠٦٦] | جبل لوراطيس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٥٦٦ ٥٦٧) | [١٠٦٣ ١٠٦٤] | جبل معرس الأسفل جبل غانه{n:a}",
+   "margin": null,
+   "cells": [
+    "(٥٦٦ ٥٦٧)",
+    "[١٠٦٣ ١٠٦٤]",
+    "جبل معرس الأسفل جبل غانه{n:a}"
+   ],
+   "plain": "(٥٦٦ ٥٦٧) | [١٠٦٣ ١٠٦٤] | جبل معرس الأسفل جبل غانه",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٥٦٨ ٥٦٩) | [١٠٦٧ ١٠٦٨] | جبل غادبطن",
+   "margin": null,
+   "cells": [
+    "(٥٦٨ ٥٦٩)",
+    "[١٠٦٧ ١٠٦٨]",
+    "جبل غادبطن"
+   ],
+   "plain": "(٥٦٨ ٥٦٩) | [١٠٦٧ ١٠٦٨] | جبل غادبطن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٥٧٠ ٥٧١) | [١٠٦٩ ١٠٧٠] | جبل الڡس",
+   "margin": null,
+   "cells": [
+    "(٥٧٠ ٥٧١)",
+    "[١٠٦٩ ١٠٧٠]",
+    "جبل الڡس"
+   ],
+   "plain": "(٥٧٠ ٥٧١) | [١٠٦٩ ١٠٧٠] | جبل الڡس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٥٧٢ ٥٧٣) | [١٠٧١ ١٠٧٢] | جبل مارى أوّله مع البحر",
+   "margin": null,
+   "cells": [
+    "(٥٧٢ ٥٧٣)",
+    "[١٠٧١ ١٠٧٢]",
+    "جبل مارى أوّله مع البحر"
+   ],
+   "plain": "(٥٧٢ ٥٧٣) | [١٠٧١ ١٠٧٢] | جبل مارى أوّله مع البحر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٥٧٤ ٥٧٥) | [١٠٧٣ ١٠٧٤] | جبل هارس",
+   "margin": null,
+   "cells": [
+    "(٥٧٤ ٥٧٥)",
+    "[١٠٧٣ ١٠٧٤]",
+    "جبل هارس"
+   ],
+   "plain": "(٥٧٤ ٥٧٥) | [١٠٧٣ ١٠٧٤] | جبل هارس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٥٧٦ ٥٧٧) | [١٠٧٥ ١٠٧٦ ١٠٨٧ ١٠٨٨] | جبل ⟨باليس⟩{n:b}",
+   "margin": null,
+   "cells": [
+    "(٥٧٦ ٥٧٧)",
+    "[١٠٧٥ ١٠٧٦ ١٠٨٧ ١٠٨٨]",
+    "جبل ⟨باليس⟩{n:b}"
+   ],
+   "plain": "(٥٧٦ ٥٧٧) | [١٠٧٥ ١٠٧٦ ١٠٨٧ ١٠٨٨] | جبل ⟨باليس⟩",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٥٧٨ ٥٧٩) | [١٠٧٧ ١٠٧٨] | جبل",
+   "margin": null,
+   "cells": [
+    "(٥٧٨ ٥٧٩)",
+    "[١٠٧٧ ١٠٧٨]",
+    "جبل"
+   ],
+   "plain": "(٥٧٨ ٥٧٩) | [١٠٧٧ ١٠٧٨] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٥٨٠ ٥٨١) | [١٠٧٩ ١٠٨٠] | جبل* الأسود",
+   "margin": null,
+   "cells": [
+    "(٥٨٠ ٥٨١)",
+    "[١٠٧٩ ١٠٨٠]",
+    "جبل* الأسود"
+   ],
+   "plain": "(٥٨٠ ٥٨١) | [١٠٧٩ ١٠٨٠] | جبل* الأسود",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٥٨٢ ٥٨٣) | [١٠٨١ ١٠٨٢] | جبل",
+   "margin": null,
+   "cells": [
+    "(٥٨٢ ٥٨٣)",
+    "[١٠٨١ ١٠٨٢]",
+    "جبل"
+   ],
+   "plain": "(٥٨٢ ٥٨٣) | [١٠٨١ ١٠٨٢] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٥٨٤ ٥٨٥) | [١٠٨٣ ١٠٨٤] | جبل",
+   "margin": null,
+   "cells": [
+    "(٥٨٤ ٥٨٥)",
+    "[١٠٨٣ ١٠٨٤]",
+    "جبل"
+   ],
+   "plain": "(٥٨٤ ٥٨٥) | [١٠٨٣ ١٠٨٤] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٥٨٦ ٥٨٧) | [١٠٨٥ ١٠٨٦] | جبل اهرد فى جزيرة سرنديب يقال له جبل الرهون{n:e}",
+   "margin": null,
+   "cells": [
+    "(٥٨٦ ٥٨٧)",
+    "[١٠٨٥ ١٠٨٦]",
+    "جبل اهرد فى جزيرة سرنديب يقال له جبل الرهون{n:e}"
+   ],
+   "plain": "(٥٨٦ ٥٨٧) | [١٠٨٥ ١٠٨٦] | جبل اهرد فى جزيرة سرنديب يقال له جبل الرهون",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٥٨٨ ٥٨٩) | [١٠٨٩ ١٠٩٠] | جبل اورنا{n:f}",
+   "margin": null,
+   "cells": [
+    "(٥٨٨ ٥٨٩)",
+    "[١٠٨٩ ١٠٩٠]",
+    "جبل اورنا{n:f}"
+   ],
+   "plain": "(٥٨٨ ٥٨٩) | [١٠٨٩ ١٠٩٠] | جبل اورنا",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٥٩٠ ٥٩١) | [١٠٩١ ١٠٩٢] | جبل مٮٮدروس{n:g}",
+   "margin": null,
+   "cells": [
+    "(٥٩٠ ٥٩١)",
+    "[١٠٩١ ١٠٩٢]",
+    "جبل مٮٮدروس{n:g}"
+   ],
+   "plain": "(٥٩٠ ٥٩١) | [١٠٩١ ١٠٩٢] | جبل مٮٮدروس",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٥٩٢ ٥٩٣) | [١٠٩٣ ١٠٩٤] | جبل هوسس فى جزيرة الجوهر",
+   "margin": null,
+   "cells": [
+    "(٥٩٢ ٥٩٣)",
+    "[١٠٩٣ ١٠٩٤]",
+    "جبل هوسس فى جزيرة الجوهر"
+   ],
+   "plain": "(٥٩٢ ٥٩٣) | [١٠٩٣ ١٠٩٤] | جبل هوسس فى جزيرة الجوهر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F046-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(٥٩٤ ٥٩٥) | [١٠٩٥ ١٠٩٦] | جبل مصوں فى جزيرة الجوهر",
+   "margin": null,
+   "cells": [
+    "(٥٩٤ ٥٩٥)",
+    "[١٠٩٥ ١٠٩٦]",
+    "جبل مصوں فى جزيرة الجوهر"
+   ],
+   "plain": "(٥٩٤ ٥٩٥) | [١٠٩٥ ١٠٩٦] | جبل مصوں فى جزيرة الجوهر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "d",
+    "e",
+    "f",
+    "g"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L03: at entry (1677) it is called جبل الغابه (note a, printed at the foot of p. 41).",
+  "L08: the manuscript lacks here the name of the mountain from which the rivers of entries (1686)-(1687) and (1688)-(1689) rise; the editor supplies the name from entry (1686) (note b, printed at the foot of p. 41).",
+  "L13: at entries (1698), (1700) and (1702) it is called جبل مالا.",
+  "L14: at entry (1770) the name is written ادورا, and at entry (1772) اذورا.",
+  "L15: at entries (1716), (1718) and (1784) the name is written منيدروس."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table of the mountains goes on across the opening pp. 40-41: each line of p. 40 is continued by the same line of p. 41 (frame 047), which gives the boundaries, the colour and the direction. The page has no heading. The running numbers go on from entry 560/561 (frame 044) and run (٥٦٢ ٥٦٣)-(٥٩٤ ٥٩٥); every mountain has two numbers of Suhrāb, which run [١٠٦١]-[١٠٩٦] with two exceptions to their order: L02 has [١٠٦٥ ١٠٦٦] and L03 [١٠٦٣ ١٠٦٤], and L08 has four (below).",
+  "L08: the bracket of the numbers of Suhrāb holds four numbers in two tiers within one pair of square brackets, «١٠٧٥ ١٠٧٦» above «١٠٨٧ ١٠٨٨»; transcribed «[١٠٧٥ ١٠٧٦ ١٠٨٧ ١٠٨٨]», the upper pair first, as on frame 012 (L01). The name «باليس» stands between angle brackets, followed by the note mark b: the editor supplies it (note b).",
+  "L09, L11, L12: the name is the word «جبل» alone. L10: «جبل* الأسود», the Black Mountain: an asterisk stands after «جبل», raised like the editor's note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (introduction, frame 184, p. XXIX); «الأسود» with a hamza over the alif.",
+  "L01: «ثلا», the three dots of the ث printed as one blot, 18 by 18 px and 198 px of ink, where a single dot of the page has some 60 to 80. L02: «لوراطيس», the ي with its two dots. L04: «غادبطن», with the dots of the غ, the ب and the ن.",
+  "L03: «معرس الأسفل», the lower Maʿras, the ع without a dot and «الأسفل» with a hamza over the alif; then «جبل غانه», the غ and the ن with their dots, followed by the note mark a.",
+  "L05: «الڡس»: after «ال», a loop with a counter, 14 by 17 px, without dots, joined on the line to a س: the loop of ف or ق, where the م of this font is a small filled loop (L15, L17). Transcribed الڡس.",
+  "L06: «مارى» ends in a ى without dots. «أوّله», with a mark over the alif 15 by 13 px, the size and form of the hamza of «الأسفل» (L03, 15 by 14 px), where the madda over the alif of «وآخره» is a flat stroke 28 by 10 px (frame 044, L10); transcribed as a hamza. A shadda stands over the و. Frame 044 prints the same word without the hamza (L10, L12).",
+  "L13: «جبل اهرد فى جزيرة سرنديب يقال له جبل الرهون», the mountain اهرد on the island of Sarandīb, which is called the mountain of al-Ruhūn: «اهرد» without dots; «فى» with the dot of the ف and no dots on the ى; «جزيرة» and «سرنديب» with all their dots.",
+  "L14: «اورنا», the ن with its dot. L15: «مٮٮدروس»: after «جبل», a small filled loop, 17 by 20 px, the initial م; two low teeth without dots, 4 and 7 px high; a د, whose upright is 26 px; then «روس». The editor's note g gives the form of entries (1716), (1718) and (1784), «منيدروس», with the dots of the ن and the ي.",
+  "L16: «هوسس»: after the و, six teeth before the bowl of the final س, the first 15 px high, as the first stroke of a س after a letter that does not join (frame 043, L07), and the others 8 to 12 px; transcribed هوسس. L17: «مصوں», the initial م a small filled loop; the final ن without its dot. L16, L17: «فى جزيرة الجوهر», on the island of the jewels.",
+  "Specks, not transcribed: L04, two specks, 4 by 4 and 3 by 4 px, at mid-height between the ٥ and the ٦ of the first running number, much smaller than the zero of the numbers of Suhrāb, a dot 13 by 13 px; and a speck, 6 by 8 px, at the lower right of the ٩ of the second.",
+  "The editor's footnotes of the opening run across both pages: they begin at the foot of p. 41 (frame 047) with notes a, b and c and the beginning of note d, and continue here with the end of note d, a correction of the manuscript in a numeral of p. 41, and notes e, f and g. The texts of notes a and b, whose marks stand on this page (L03, L08), are printed on p. 41.",
+  "The page number «— ٤٠ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,22 @@
+{
+ "anchor": "AK07-J0001",
+ "jp2_index": 1,
+ "jp2_member": "b24872489_0001.jp2",
+ "jp2_sha256": "51b01835c80b7e2b49cd4823ac4d40662b8b5d4de3bc3e323a5adc56c8baf4a9",
+ "reading_copy": "page_0001.jpg",
+ "reading_copy_sha256": "7cd320a7a744b8270c7763a7a606e27d6330ff038282b74b2555516649d22e58",
+ "printed_page": "-",
+ "kind": "binding",
+ "language": null,
+ "role": "COPY_PROVENANCE (binding)",
+ "file": "suter",
+ "comment": "JP2 0001: the front cover of the library's binding.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The front cover of the binding, of dark, textured cloth, without lettering on the side; photographed in low light."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,35 @@
+@page 80 ٧٤
+% Frame 080, printed p. 74: the end of the sea of Tangier and the seas joined to it, which meets the outer western sea
+% at the place of the three idols; the heading of the sea of al-Qulzum, the Green Sea and the seas of Sind, India,
+% China and Basra, joined to one another, which are the Great Sea; and the beginning of their course from al-Qulzum,
+% with the editor's running numbers (١١١٨)-(١١٣٢), past the towns ثاس and شابث. Two lines of the editor's footnotes.
+الى طول {ov:ح ك}{n:a} والعرض {ov:لز {z}}{n:b} (١١١٨) [٧٠٤] مماسّ* لجبل لوس يمرّ الى طول {ov:ح {z}}{n:c}
+والعرض {ov:لو ك} (١١١٩) [٧٠٥] يمرّ الى طول {ov:ز ل} والعرض {ov:لو ك} (١١٢٠) [٧٠٦]
+متّصل* ببحر* المغربىّ الخارج وموضع الأصنام الثلٰثة الّتى ذكرناها آنفاً *
+@h * بحر القلزم وبحر* الأخضر وبحر السند
+@h وبحر الهند وبحر الصين وبحر البصرة
+@h بعضها متّصل ببعض وهو البحر الكبير *
+اوّله من{n:d} طول {ov:نه ن} والعرض {ov:كح {z}} (١١٢١) [٧٠٧] مماسّ* لمدينة القلزم وجبل ويمرّ
+الى طول {ov:نح {z}} والعرض {ov:كد {z}}{n:e} (١١٢٢) [٧٠٨] ويمرّ الى طول {ov:نط {z}} والعرض {ov:كا {z}}
+(١١٢٣) [٧٠٩] ويمرّ الى طول {ov:نط {z}} والعرض {ov:ك ك} (١١٢٤) [٧١٠] يمرّ على صورة
+الطيلسان يمرّ بطول {ov:نز م} (١١٢٥) [٧١١] ويمرّ بمدينة ثاس{n:f} وينتهى الى طول {ov:ٮح مه}
+والعرض {ov:ٮو ل} (١١٢٦) [٧١٢] يمرّ الى طول {ov:ٮح ى} والعرض {ov:ٮد ك} (١١٢٧) [٧١٣]
+يمرّ الى طول {ov:ٮط ن}{n:g} والعرض {ov:ٮب ك} (١١٢٨) [٧١٤] يمرّ على صورة لطيلسان الى اسفل
+مدينة شابث عند طول {ov:ٮح ٮه} والعرض {ov:ى ن} (١١٢٩) [٧١٥] يمرّ الى طول {ov:ٮط يه}
+والعرض {ov:ى ن} (١١٣٠) [٧١٦] يمرّ الى طول {ov:ٮط {z}} والعرض {ov:ى {z}} (١١٣١) [٧١٧]
+يمرّ الى طول {ov:سا ل} والعرض {ov:ح ى} (١١٣٢) [٧١٨] مع اسفل مدينة ويمرّ على صورة
+@ednotes a b c d e f g 2
+@obs L01-L03 end the sea of Tangier and the seas joined to it: the running text goes on from p. 73 (frame 079), whose last word, «ويمرّ», L01 continues with «الى طول»; the points (١١١٨)-(١١٢٠), with the numbers of Suhrāb [٧٠٤]-[٧٠٦], pass «مماسّ* لجبل لوس», touching the mountain لوس (L01), and the sea is «متّصل* ببحر* المغربىّ الخارج وموضع الأصنام الثلٰثة الّتى ذكرناها آنفاً», joined to the outer western sea and the place of the three idols that we mentioned before (frame 073, L05-L06). L03 ends with a small open star with six points, transcribed as an asterisk. «الأصنام» has a hamza over the alif; «الثلٰثة» a dagger alif above the ل; «الّتى» a shadda over the ل; «آنفاً» a madda over the first alif and the tanwin of the accusative over the last.
+@obs L04-L06: the heading of the next section, in the large type, between two small open stars with six points, transcribed as asterisks: «* بحر القلزم وبحر* الأخضر وبحر السند وبحر الهند وبحر الصين وبحر البصرة بعضها متّصل ببعض وهو البحر الكبير *», the sea of al-Qulzum, the Green Sea, the sea of Sind, the sea of India, the sea of China and the sea of Basra, joined to one another, which are the Great Sea. «الأخضر» has a hamza over the alif and «متّصل» a shadda over the ت. In this large type the ب of «بحر» and «وبحر» is set above the ح as a short oblique stroke, with its dot below the ح, as in the heading of p. 69 (frame 075).
+@obs L01, L07: «مماسّ*»; L03: «متّصل*» and «ببحر*»; L04: «وبحر*»: an asterisk with six solid arms stands after the word, raised like the note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (frame 046, L10).
+@obs L07-L15: the course of the new sea from point to point, with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}, the editor's running numbers in parentheses, (١١٢١)-(١١٣٢), and the numbers of Suhrāb in square brackets, [٧٠٧]-[٧١٨]. The places of the coast: L07: «اوّله من طول», its beginning is from the longitude, and «مماسّ* لمدينة القلزم وجبل», touching the town of al-Qulzum and a mountain; L09-L10: «يمرّ على صورة الطيلسان يمرّ بطول», along the shape of the ṭaylasān, at the longitude; L10: «ويمرّ بمدينة ثاس وينتهى الى طول», past the town of ثاس, and it ends at the longitude; L12-L13: «يمرّ على صورة لطيلسان الى اسفل مدينة شابث عند طول», along the shape of the ṭaylasān to below the town of شابث; L15: «مع اسفل مدينة ويمرّ على صورة», along the lower part of a town whose name is not given, and along the shape of, continued on p. 75. «اوّله» has a shadda over the و; «يمرّ» and «ويمرّ» over the ر; «وينتهى» ends in a ى without dots.
+@obs L12: «لطيلسان» is printed without the alif of the article, after «صورة», where L09-L10 print «صورة الطيلسان»; transcribed as printed. A short oblique stroke, 14 by 5 px, with the form of a fatha, stands above the ص of this «صورة»; not transcribed.
+@obs Letters printed without their dots in the numerals, transcribed so: a tooth without its dot in the degrees of the longitude, ٮح (L10, L11, L13) and ٮط (L12, L13, L14), which read as a ن give 58 and 59, beside the longitudes «نح» and «نط» with the dot of L08 and L09; ٮه (L13, the minutes of the longitude), a tooth joined to a final ه, the form that L07 prints with the dot of the ن, نه; and in the degrees of the latitude, ٮو (L11) and ٮد (L11), which read with a ي give 16 and 14, and ٮب (L12), with the dot of the ب, 12, between the latitudes 20° 20′ (L09) and 10° 50′ (L13). With their dots: نه (L07), 55; نح (L08), 58; نط (L08, L09), 59; نز (L10), 57; لز (L01), 37; ز (L02), 7; يه (L13), with the two dots of the ي; ن (L07, L12-L14, the minutes).
+@obs The ح of the numerals, ح (L01, L15), كح (L07), نح (L08) and ٮح (L10, L11, L13), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. The isolated ى, 10, has no dots (L11, L13-L15). The isolated ك, 20, is printed with the small inner stroke of the letter (L01, L02, L09, L11, L12).
+@obs Note marks: L01, a after the first longitude, b after the latitude and c after the second longitude; L07, d after «من»; L08, e after the first latitude; L10, f after «ثاس»; L12, g after the longitude.
+@obs The editor's footnotes stand in two lines below a short rule at the left: notes a-g. The page number «— ٧٤ —» stands at the foot, centred.
+@variant L01: variant readings: of the first longitude ح ل, of the latitude لز ه, and of the second longitude ح ه, each with a line over the numerals (notes a, b, c).
+@variant L07: the word «من», before the mark d, is a later insertion in the manuscript (note d).
+@variant L08: variant readings of the first latitude are كو {z} and كر {z}, each with a line over the numerals (note e).
+@variant L10: a variant reading of the name is ثاش (note f).
+@variant L12: a variant reading of the longitude is ٮط ك, with a line over the numerals and the tooth without a dot (note g).

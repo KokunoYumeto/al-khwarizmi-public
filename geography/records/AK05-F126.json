@@ -1,0 +1,289 @@
+{
+ "anchor": "AK05-F126",
+ "frame": 126,
+ "frame_file": "page_126.jpg",
+ "frame_sha256": "2d7a5f10e2c015f1b657508cb1c97c1e8c5c3bad1df981678ae57f73349d7999",
+ "printed_page": "١٢٠",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 126, printed p. 120: a river from a mountain whose name is not given, into which two rivers from two springs flow; a river from the town طاووس past the mountains اسلوس and مقلٮان and the mountain of the sun to the sea between برقة and اسفارٮوس; a river from the mountain زارس to a small lake at the town ٮرٮاريا; ⟨a river from the mountain⟩ of Kirmān; and the beginning of another river from the same mountain. The editor's running numbers (١٨٠٩)-(١٨٢٤) and the numbers of Suhrāb [١٨١٤]-[١٨٢٩]; words supplied by the editor between angle brackets. Four lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F126-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "نهر من جبل اوّله عند طول {ov:لر ك}{n:a} والعرض {ov:كو مه} (١٨٠٩) [١٨١٤] ومصبّه فى البحر",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر من جبل اوّله عند طول لر ك والعرض كو مه (١٨٠٩) [١٨١٤] ومصبّه فى البحر",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F126-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "عند طول {ov:لر ل}{n:b} والعرض {ov:لٮ ى} (١٨١٠) [١٨١٥] * يصبّ الى هٰذا النهر نهران",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول لر ل والعرض لٮ ى (١٨١٠) [١٨١٥] * يصبّ الى هٰذا النهر نهران",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F126-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "من عينين احداهما{n:c} اوّلها عند طول {ov:لو ل} والعرض {ov:كط م} (١٨١١) [١٨١٦] ومصبّها",
+   "margin": null,
+   "cells": null,
+   "plain": "من عينين احداهما اوّلها عند طول لو ل والعرض كط م (١٨١١) [١٨١٦] ومصبّها",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F126-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "فى النهر عند طول {ov:لز ك} والعرض {ov:كط م} (١٨١٢) [١٨١٧] والثانية اوّلها عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "فى النهر عند طول لز ك والعرض كط م (١٨١٢) [١٨١٧] والثانية اوّلها عند طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F126-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "{ov:لر {z}} والعرض {ov:ل م} (١٨١٣) [١٨١٨] ومصبّها فى النهر{n:d} عند طول {ov:لز ك} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "لر ō والعرض ل م (١٨١٣) [١٨١٨] ومصبّها فى النهر عند طول لز ك والعرض",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F126-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "{ov:ل {z}} (١٨١٤) [١٨١٩] *",
+   "margin": null,
+   "cells": null,
+   "plain": "ل ō (١٨١٤) [١٨١٩] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F126-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "نهر يخرج من مدينة طاووس اوّله عين عند طول {ov:ں {z}} والعرض {ov:كح {z}} (١٨١٥)",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر يخرج من مدينة طاووس اوّله عين عند طول ں ō والعرض كح ō (١٨١٥)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F126-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "[١٨٢٠] يمرّ بجبل اسلوس{n:e} عند عرض {ov:كط ل} وطول {ov:مح {z}} (١٨١٦) [١٨٢١] ويمرّ",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٨٢٠] يمرّ بجبل اسلوس عند عرض كط ل وطول مح ō (١٨١٦) [١٨٢١] ويمرّ",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F126-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "الى جبل مقلٮان عند عرض {ov:كر {z}} وطول {ov:مو {z}} (١٨١٧) [١٨٢٢] ويمرّ الى جبل الشمس",
+   "margin": null,
+   "cells": null,
+   "plain": "الى جبل مقلٮان عند عرض كر ō وطول مو ō (١٨١٧) [١٨٢٢] ويمرّ الى جبل الشمس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F126-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "عند عرض {ov:ل {z}} وطول {ov:مح {z}} (١٨١٨) [١٨٢٣] ويصبّ فى البحر فيما بين برقة",
+   "margin": null,
+   "cells": null,
+   "plain": "عند عرض ل ō وطول مح ō (١٨١٨) [١٨٢٣] ويصبّ فى البحر فيما بين برقة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F126-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "واسفارٮوس عند طول {ov:مٮ ك} والعرض {ov:لح ك} (١٨١٩) [١٨٢٤] * ونهر يخرج من",
+   "margin": null,
+   "cells": null,
+   "plain": "واسفارٮوس عند طول مٮ ك والعرض لح ك (١٨١٩) [١٨٢٤] * ونهر يخرج من",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F126-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "جبل زارس{n:f} اوّله عند طول {ov:مه ى}{n:g} والعرض {ov:كد مه}{n:h} (١٨٢٠) [١٨٢٥] ويمرّ ⟨الى",
+   "margin": null,
+   "cells": null,
+   "plain": "جبل زارس اوّله عند طول مه ى والعرض كد مه (١٨٢٠) [١٨٢٥] ويمرّ ⟨الى",
+   "note_marks": [
+    "f",
+    "g",
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F126-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "ع⟩{n:i}رض {ov:كح ل} (١٨٢١) [١٨٢٦] ويصبّ فى بطيحة صغيرة عند مدينة ٮرٮاريا عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "ع⟩رض كح ل (١٨٢١) [١٨٢٦] ويصبّ فى بطيحة صغيرة عند مدينة ٮرٮاريا عند طول",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F126-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "{ov:ں {z}} والعرض {ov:⟨كد ك⟩}{n:k} (١٨٢٢) [١٨٢٧] * ⟨نهر من جبل⟩{n:l} كرمان اوّله عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "ں ō والعرض ⟨كد ك⟩ (١٨٢٢) [١٨٢٧] * ⟨نهر من جبل⟩ كرمان اوّله عند طول",
+   "note_marks": [
+    "k",
+    "l"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F126-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "{ov:ص {z}} والعرض {ov:كط {z}} (١٨٢٣) [١٨٢٨] ومصبّه فى ⟨البحر عند طول {ov:فط {z}} وال⟩{n:m}عرض",
+   "margin": null,
+   "cells": null,
+   "plain": "ص ō والعرض كط ō (١٨٢٣) [١٨٢٨] ومصبّه فى ⟨البحر عند طول فط ō وال⟩عرض",
+   "note_marks": [
+    "m"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F126-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "{ov:كح {z}} (١٨٢٤) [١٨٢٩] * ونهر من هٰذا الجبل ايضاً ⟨اوّله عند طول {ov:صب {z}}⟩{n:m}",
+   "margin": null,
+   "cells": null,
+   "plain": "كح ō (١٨٢٤) [١٨٢٩] * ونهر من هٰذا الجبل ايضاً ⟨اوّله عند طول صب ō⟩",
+   "note_marks": [
+    "m"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: a variant reading of the longitude is لر ل, with a line over the numerals (note a).",
+  "L02: a variant reading of the longitude is لر ك, with a line over the numerals (note b).",
+  "L03: the manuscript reads احدهما (note c).",
+  "L05: the manuscript reads البحر (note d).",
+  "L08: a variant reading of the name is اسطوس (note e).",
+  "L12: a variant reading of the name is فارس (note f).",
+  "L12: a variant reading of the longitude is مر ى, with a line over the numerals (note g).",
+  "L12: a variant reading of the latitude is كه مه, with a line over the numerals (note h).",
+  "L12, L13: the manuscript is badly damaged at the letters between the brackets (note i).",
+  "L14: the manuscript has a gap at the numerals between the brackets; the editor supplies them after S (note k).",
+  "L14: the manuscript has a gap at the words between the brackets; the editor supplies them (note l).",
+  "L15, L16: the manuscript has a gap at the words between the brackets; the editor supplies them after S (note m)."
+ ],
+ "unresolved": [
+  "L09: the low rise between the ل and the alif may also be a lengthened joining stroke without a tooth: مقلان. Transcribed مقلٮان."
+ ],
+ "observations": [
+  "The page begins a new entry after the asterisk with which p. 119 (frame 125) ends. L01-L02: «نهر من جبل اوّله عند طول لر ك والعرض كو مه (١٨٠٩)», a river from a mountain whose name is not given; its beginning is at the longitude لر ك and the latitude 26° 45′; «ومصبّه فى البحر عند طول لر ل والعرض لٮ ى (١٨١٠) *», and its mouth in the sea is at the longitude لر ل and the latitude لٮ ى.",
+  "L02-L06: «يصبّ الى هٰذا النهر نهران من عينين احداهما اوّلها عند طول لو ل والعرض كط م (١٨١١)», two rivers from two springs flow into this river; the beginning of the one is at the longitude 36° 30′ and the latitude 29° 40′; «ومصبّها فى النهر عند طول لز ك والعرض كط م (١٨١٢)», and its mouth in the river is at the longitude 37° 20′ and the latitude 29° 40′; «والثانية اوّلها عند طول لر {z} والعرض ل م (١٨١٣)», and the beginning of the second is at the longitude لر ō and the latitude 30° 40′; «ومصبّها فى النهر عند طول لز ك والعرض ل {z} (١٨١٤) *», and its mouth in the river is at the longitude 37° 20′ and the latitude 30° 0′.",
+  "L07-L11: «نهر يخرج من مدينة طاووس اوّله عين عند طول ں {z} والعرض كح {z} (١٨١٥)», a river comes out of the town طاووس, whose beginning is a spring at the longitude ں ō and the latitude 28° 0′; «يمرّ بجبل اسلوس عند عرض كط ل وطول مح {z} (١٨١٦)», it passes the mountain اسلوس at the latitude 29° 30′ and the longitude 48° 0′; «ويمرّ الى جبل مقلٮان عند عرض كر {z} وطول مو {z} (١٨١٧)», and passes to the mountain مقلٮان at the latitude كر ō and the longitude 46° 0′; «ويمرّ الى جبل الشمس عند عرض ل {z} وطول مح {z} (١٨١٨)», and passes to the mountain of the sun at the latitude 30° 0′ and the longitude 48° 0′; «ويصبّ فى البحر فيما بين برقة واسفارٮوس عند طول مٮ ك والعرض لح ك (١٨١٩) *», and it flows into the sea between برقة and اسفارٮوس, at the longitude مٮ ك and the latitude 38° 20′. Points 1816-1818 give the latitude before the longitude, «عند عرض ... وطول».",
+  "The town طاووس is entry 136 of the table of the cities (frame 018, L08), «مدينة طاووسن», at the longitude ن ō and the latitude كح ō; the town اسفارنوس is entry 218 (frame 023, L05), «اسفارنوس على البحر», where the editor's note gives اسفارٮوس at entry (1042). The mountains are entries 701-702 (frame 054, L08), «جبل اسطوس», where the editor's note d gives اسلوس at this entry (1816), with the variant reading اسطوس; entries 697-698 (frame 054, L06), «جبل مقلبان», where the editor's note c says that entry (1817) writes the name the same way; and entries 691-692 (frame 054, L03), «جبل الشمس».",
+  "L09: «مقلٮان»: the م, the ق with its two dots, the ل, then a joining stroke of 25 px to the alif, with a low rise, 4 px wide and 3 to 4 px above the stroke, and the final ن with its dot. Without a dot below the stroke. Transcribed with a low tooth without a dot, the place of the ب of «مقلبان», which the editor's note on entries 697-698 gives for this entry.",
+  "L11-L14: «ونهر يخرج من جبل زارس اوّله عند طول مه ى والعرض كد مه (١٨٢٠)», and a river comes out of the mountain زارس; its beginning is at the longitude 45° 10′ and the latitude 24° 45′; «ويمرّ ⟨الى ع⟩رض كح ل (١٨٢١)», and it passes ⟨to the lat⟩itude 28° 30′, point 1821 given by its latitude only; «ويصبّ فى بطيحة صغيرة عند مدينة ٮرٮاريا عند طول ں {z} والعرض ⟨كد ك⟩ (١٨٢٢) *», and it flows into a small lake at the town ٮرٮاريا, at the longitude ں ō and the latitude ⟨24° 20′⟩. The mountain is entries 695-696 of the table of the mountains (frame 054, L05), «جبل زارش», where the editor's note b gives زارس at this entry (1820), with the variant reading فارس; the town is entry 135 of the table of the cities (frame 018, L07), «مدينة ٮرباريا», at the longitude مط م and the latitude كد م.",
+  "L13: «ٮرٮاريا»: a tooth without a dot joined to a ر, the two strokes forming a notch at the top, a group 33 px wide where the ر before «يا» is 24 px wide; a tooth without a dot, 17 px high, joined to the alif; the ر; and «يا» with the two dots of the ي. The entry of the table, «مدينة ٮرباريا» (frame 018, L07), begins with the same group, and its second tooth has the dot of the ب; the editor's corrigenda (p. 163, frame 169) refer from that entry to this one, «ٮرٮاريا». L11: «واسفارٮوس»: after «واسفا», the ر, with a speck of 3 by 3 px above it, smaller than the dots of the font, and a tooth without a dot joined to the و, then the final س.",
+  "L14-L16: «⟨نهر من جبل⟩ كرمان اوّله عند طول ص {z} والعرض كط {z} (١٨٢٣)», ⟨a river from the mountain⟩ of Kirmān; its beginning is at the longitude 90° 0′ and the latitude 29° 0′; «ومصبّه فى ⟨البحر عند طول فط {z} وال⟩عرض كح {z} (١٨٢٤) *», and its mouth is in ⟨the sea at the longitude 89° 0′ and the⟩ latitude 28° 0′; then «ونهر من هٰذا الجبل ايضاً ⟨اوّله عند طول صب {z}⟩», and a river also from this mountain, ⟨whose beginning is at the longitude 92° 0′⟩, continued on p. 121. The mountain of Kirmān is entries 647-648 of the table of the mountains (frame 050, L13).",
+  "Angle brackets, each followed by a note mark, around what the editor supplies: «⟨الى ع⟩» (L12-L13), from the end of L12 to the beginning of «عرض» in L13, whose «رض» follows the closing bracket and the note mark i; «⟨كد ك⟩» (L14), within the line over the numerals, note k; «⟨نهر من جبل⟩» (L14), note l; «⟨البحر عند طول فط {z} وال⟩» (L15), note m, the ل of «وال» printed in its joining form before the bracket, «عرض» after the note mark; «⟨اوّله عند طول صب {z}⟩» (L16), note m, the line over the numerals reaching over the closing bracket. Transcribed with the brackets.",
+  "In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII). The letter joined to the ل in «لر ك» (L01), «لر ل» (L02) and «لر {z}» (L05) has the small hooked head of the joined ر, 46 to 58 px of ink beside the stem, as the ز with its dot of «لز ك» (L04, L05), 49 and 56 px, and the ر of «لر» on frame 079 (L15), 65 px, not the round head of the و of «لو ل» (L03), 98 px, or of «لو» on frame 079 (L10), 99 px; transcribed ر as printed, 37. Read so, the two tributaries reach the river at the longitude 37° 20′, between the longitudes 37° 20′ and 37° 30′ of its beginning and its mouth. The editor's notes a and b print the same hooked head.",
+  "Numerals: «كو مه» (L01), 26° 45′; «لو ل» (L03), 36° 30′; «كط م» (L03, L04), 29° 40′; «لز ك» (L04, L05), with the dot of the ز, 37° 20′; «ل م» (L05), 30° 40′; «ل {z}» (L06, L10), 30° 0′; «كح {z}» (L07, L16), 28° 0′; «كط ل» (L08), 29° 30′; «مح {z}» (L08, L10), 48° 0′; «مو {z}» (L09), 46° 0′; «لح ك» (L11), 38° 20′; «مه ى» (L12), 45° 10′; «كد مه» (L12), 24° 45′; «كح ل» (L13), 28° 30′; «⟨كد ك⟩» (L14), 24° 20′; «ص {z}» (L15), 90° 0′; «كط {z}» (L15), 29° 0′; «فط {z}» (L15), with the dot of the ف, 89° 0′; «صب {z}» (L16), with the dot of the ب, 92° 0′.",
+  "Without their dots, transcribed so: «لٮ» (L02), the ل joined to the flat final bowl of a ب without its dot, 32; «مٮ» (L11), the م joined to the same bowl, 42; «ں» (L07, L14), the small round bowl of a final ن without its dot, 32 to 35 px wide, 50, beside the flat bowl of «لٮ», 55 px wide, and the longitude ن ō of the town طاووس in the table; «كر» (L09), the ر without the dot of the ز, which read with ز gives 27.",
+  "The ح of the numerals, «كح» (L07, L13, L16), «مح» (L08, L10) and «لح» (L11), shows no dot in the bowl. The isolated ى, 10, has no dots (L02, L12).",
+  "Signs in the text, transcribed as printed: «اوّله» (L01, L07, L12, L14, L16) and «اوّلها» (L03, L04) with a shadda over the و; «ومصبّه» (L01, L15), «ومصبّها» (L03, L05), «يصبّ» (L02) and «ويصبّ» (L10, L13) with a shadda over the ب; «يمرّ» (L08) and «ويمرّ» (L08, L09, L12) with a shadda over the ر; «هٰذا» (L02, L16) with a dagger alif above the ه; «ايضاً» (L16) with the tanwin of the accusative over its alif; «فى» and «الى» end in a ى without dots.",
+  "The running numbers run (١٨٠٩)-(١٨٢٤) without a gap, and the numbers of Suhrāb [١٨١٤]-[١٨٢٩] stand after each of them, without a gap. [١٨٢٠] stands at the beginning of L08, after the running number (١٨١٥) at the end of L07.",
+  "Asterisks: the small open stars with six points, after [١٨١٥] (L02), after [١٨١٩] (L06), after [١٨٢٤] (L11), after [١٨٢٧] (L14) and after [١٨٢٩] (L16), are transcribed as asterisks.",
+  "Note marks: L01, a after the longitude; L02, b after the longitude; L03, c after «احداهما»; L05, d after «النهر»; L08, e after «اسلوس»; L12, f after «زارس», g after the longitude and h after the latitude; L13, i after the closing bracket; L14, k after the closing bracket of the latitude and l after the closing bracket of «⟨نهر من جبل⟩»; L15, m after the closing bracket; L16, m after the closing bracket.",
+  "Marks not transcribed: L05, a dot of 8 by 7 px on the line after «عند», smaller than the dots of the font.",
+  "The editor's footnotes stand in four lines below a short rule at the left: notes a-m. The page number «— ١٢٠ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,269 @@
+{
+ "anchor": "AK05-F108",
+ "frame": 108,
+ "frame_file": "page_108.jpg",
+ "frame_sha256": "93a077bf7542e5d86d6eda6bc22198ab1b76d9feae2d5414a0a2fe31ea897f9b",
+ "printed_page": "١٠٢",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 108, printed p. 102: the places in which the boundaries of the countries are written, continued: the land in the kingdom of the Berbers; inhabited Arabia, the lands of Sind, of India beyond the river جنجس, of China, of Tangier, of مرطانيه, of Ifrīqiya, of مرماوقى, of Midian and of Kirmān, the desert of Kirmān, the lands of Kābul, of Syria, of Fārs and of Herat. The editor's running numbers (١٥٥٢)-(١٥٦٦) and the numbers of Suhrāb [٥٠١]-[٥١٥]; the folio of the manuscript, «(fol. 28ᵇ)», within the line; words supplied by the editor between angle brackets, and a passage written in the margin of the manuscript. Five lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F108-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "والعرض {ov:ٮط {z}} (١٥٥٢) [٥٠١] * بلاد العربيّة العامرة وهى بلاد اليمن واليمامة",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض ٮط ō (١٥٥٢) [٥٠١] * بلاد العربيّة العامرة وهى بلاد اليمن واليمامة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F108-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "والبحرين وعمان وسط كتابها عند طول {ov:عج {z}} والعرض {ov:يط{n:a} ⟨{z}⟩}{n:b} (١٥٥٣) [٥٠٢] *",
+   "margin": null,
+   "cells": null,
+   "plain": "والبحرين وعمان وسط كتابها عند طول عج ō والعرض يط ⟨ō⟩ (١٥٥٣) [٥٠٢] *",
+   "note_marks": [
+    "a",
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F108-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "بلاد السند وسط كتابها عند طول {ov:ڡح ل} والعرض {ov:كٮ م} (١٥٥٤) [٥٠٣] * بلاد",
+   "margin": null,
+   "cells": null,
+   "plain": "بلاد السند وسط كتابها عند طول ڡح ل والعرض كٮ م (١٥٥٤) [٥٠٣] * بلاد",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F108-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "الهند الّتى خارج من نهر جنجس{n:c} وسط كتابها{n:d} عند طول {ov:ٯ {z}} والعرض {ov:كح ل} (١٥٥٥)",
+   "margin": null,
+   "cells": null,
+   "plain": "الهند الّتى خارج من نهر جنجس وسط كتابها عند طول ٯ ō والعرض كح ل (١٥٥٥)",
+   "note_marks": [
+    "c",
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F108-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "[٥٠٤] * بلاد الصين وسط كتابها عند طول {ov:قس ل} والعرض {ov:ٮو ل} (١٥٥٦) [٥٠٥] *",
+   "margin": null,
+   "cells": null,
+   "plain": "[٥٠٤] * بلاد الصين وسط كتابها عند طول قس ل والعرض ٮو ل (١٥٥٦) [٥٠٥] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F108-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "بلاد طنجة وسط كتابها عند طول {ov:يا {z}} والعرض {ov:لب {z}}{n:e} (١٥٥٧) [٥٠٦] * بلاد",
+   "margin": null,
+   "cells": null,
+   "plain": "بلاد طنجة وسط كتابها عند طول يا ō والعرض لب ō (١٥٥٧) [٥٠٦] * بلاد",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F108-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "مرطانيه{n:f} ⟨وسط⟩{n:g} كتابها عند طول {ov:ك {z}} والعرض {ov:كو {z}}{n:h} (١٥٥٨) [٥٠٧] *",
+   "margin": "(fol. 28ᵇ)",
+   "cells": null,
+   "plain": "مرطانيه ⟨وسط⟩ كتابها عند طول ك ō والعرض كو ō (١٥٥٨) [٥٠٧] *",
+   "note_marks": [
+    "f",
+    "g",
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F108-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "بلاد افريقيّة وسط كتابها عند طول {ov:لد ل} والعرض {ov:كو ل} (١٥٥٩) [٥٠٨] * بلاد",
+   "margin": null,
+   "cells": null,
+   "plain": "بلاد افريقيّة وسط كتابها عند طول لد ل والعرض كو ل (١٥٥٩) [٥٠٨] * بلاد",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F108-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "مرماوقى{n:i} وسطها عند طول {ov:مح {z}} والعرض {ov:كز ل} (١٥٦٠) [٥٠٩] * بلاد مدين",
+   "margin": null,
+   "cells": null,
+   "plain": "مرماوقى وسطها عند طول مح ō والعرض كز ل (١٥٦٠) [٥٠٩] * بلاد مدين",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F108-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "وسطها عند طول {ov:سب {z}}{n:k} والعرض {ov:ل ك} (١٥٦١) [٥١٠] * بلاد كرمان وسطها",
+   "margin": null,
+   "cells": null,
+   "plain": "وسطها عند طول سب ō والعرض ل ك (١٥٦١) [٥١٠] * بلاد كرمان وسطها",
+   "note_marks": [
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F108-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "عند طول {ov:صو ه}{n:l} والعرض {ov:كح ل}{n:m} (١٥٦٢) [٥١١] * برّيّة كرمان وسطها عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول صو ه والعرض كح ل (١٥٦٢) [٥١١] * برّيّة كرمان وسطها عند طول",
+   "note_marks": [
+    "l",
+    "m"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F108-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "⟨{ov:صو {z}}⟩{n:n} والعرض{n:m} {ov:كط م} (١٥٦٣) [٥١٢] * بلاد كابل وسط كتابها عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "⟨صو ō⟩ والعرض كط م (١٥٦٣) [٥١٢] * بلاد كابل وسط كتابها عند طول",
+   "note_marks": [
+    "n",
+    "m"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F108-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "{ov:قا ل} والعرض {ov:كط {z}} (١٥٦٤) [٥١٣] * بلاد سوريه وهى الشام وسطها عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "قا ل والعرض كط ō (١٥٦٤) [٥١٣] * بلاد سوريه وهى الشام وسطها عند طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F108-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "{ov:سه {z}} والعرض {ov:لب {z}} (١٥٦٥) [٥١٤] * بلاد فارس وسطها عند طول {ov:ڡ {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "سه ō والعرض لب ō (١٥٦٥) [٥١٤] * بلاد فارس وسطها عند طول ڡ ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F108-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "والعرض {ov:لح ل} (١٥٦٦) [٥١٥] * بلاد هراة وسطها عند طول {ov:ڡو {z}} والعرض {ov:له ن}",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض لح ل (١٥٦٦) [٥١٥] * بلاد هراة وسطها عند طول ڡو ō والعرض له ن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n"
+   ],
+   "lines": 5,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L02: a variant reading of the degrees of the latitude is ك, 20, with a line over it (note a).",
+  "L02: the manuscript lacks the zero of the minutes of the latitude; the editor supplies it (note b).",
+  "L04: the manuscript has حٮحس, without dots, for جنجس; the editor refers to entry (2021) (note c).",
+  "L04: the manuscript has كتابه for كتابها (note d).",
+  "L06: the manuscript has, by mistake, كا {z} for the latitude, with a line over the numerals; the editor corrects it after al-Battānī, vol. III, p. 235 (note e).",
+  "L07: for the headings before entries (1031) and (1373) the editor gives the name as مرطاسه; the letters between the alif and the final ه show a tooth and a low rise, which may also be read as a single tooth, مرطاٮه; the heading before (1373), frame 095 (L10), prints ومرطاس (note f).",
+  "L07: the manuscript lacks the word وسط; the editor supplies it (note g).",
+  "L07: a variant reading of the latitude is كو ل, with a line over the numerals (note h).",
+  "L09: a variant reading of the name is مرمارقى (note i).",
+  "L10: a variant reading of the longitude is س {z}, with a line over the numerals (note k).",
+  "L11: variant readings of the longitude are صد ه and صه ه, each with a line over the numerals (note l).",
+  "L11-L12: the text between the marks m, the desert of Kirmān with its longitude, stands in the margin of the manuscript, written by a later hand (note m-m).",
+  "L12: the longitude is illegible in the manuscript; the editor supplies it after S (note n)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The places in which the boundaries of the countries are written go on from p. 101 (frame 107), whose last words, «بلاد بمملكة البربر وسط الكتاب عند طول كو {z}», L01 continues with «والعرض ٮط {z} (١٥٥٢)», the latitude of the land in the kingdom of the Berbers. Then the countries, each with the longitude and latitude of the middle of its writing, «وسط كتابها عند طول … والعرض …» or «وسطها عند طول … والعرض …», with the degrees and the minutes written with letters under one line, transcribed with {ov:…}: «بلاد العربيّة العامرة وهى بلاد اليمن واليمامة والبحرين وعمان» (L01-L02), inhabited Arabia, which is the land of the Yemen, al-Yamāma, al-Baḥrayn and ʿUmān; «بلاد السند» (L03), Sind; «بلاد الهند الّتى خارج من نهر جنجس» (L03-L04), the land of India that lies beyond the river جنجس; «بلاد الصين» (L05), China; «بلاد طنجة» (L06), Tangier; «بلاد مرطانيه» (L06-L07); «بلاد افريقيّة» (L08), Ifrīqiya; «بلاد مرماوقى» (L08-L09); «بلاد مدين» (L09-L10), Midian; «بلاد كرمان» (L10-L11), Kirmān; «برّيّة كرمان» (L11-L12), the desert of Kirmān; «بلاد كابل» (L12-L13), Kābul; «بلاد سوريه وهى الشام» (L13), Syria, which is al-Shām; «بلاد فارس» (L14), Fārs; and «بلاد هراة» (L15), Herat, whose entry ends on p. 103. Each country ends with a small open star with six points, transcribed as an asterisk.",
+  "The running numbers run (١٥٥٢)-(١٥٦٦) and the numbers of Suhrāb [٥٠١]-[٥١٥], each after its running number, without a gap; [٥٠٤] stands at the beginning of L05. L07: the folio of the Strasbourg manuscript, «(fol. 28ᵇ)», is printed in Latin type within the line, between «والعرض» and the latitude «كو {z}»; transcribed as a margin note before the line.",
+  "Angle brackets, each followed by a note mark, around what the editor supplies: L02, the zero of the minutes of the latitude, «يط ⟨{z}⟩», which the manuscript lacks (note b); the line over the numerals runs over the degrees, the note mark a, the opening bracket and the zero, and ends at the closing bracket. L07: «⟨وسط⟩», which the manuscript lacks (note g). L12: the longitude of the desert of Kirmān, «⟨صو {z}⟩», illegible in the manuscript and supplied after S (note n); the line over the numerals reaches over the closing bracket, the opening bracket stands just beyond its right end. Transcribed with the brackets.",
+  "L11-L12: the note mark m stands after the latitude of Kirmān, «كح ل», and again after «والعرض» of L12: the text between the two marks, the desert of Kirmān with its longitude, stands in the margin of the manuscript, written by a later hand (note m-m).",
+  "Signs in the text, transcribed as printed: «العربيّة» (L01) and «افريقيّة» (L08) with a shadda over the ي; «الّتى» (L04) with a shadda over the ل; «برّيّة» (L11) with a shadda over the ر and another over the ي; «وهى» (L01, L13), «الّتى», «مرماوقى» end in a ى without dots. The names «جنجس» (L04), with the dots of both ج and of the ن, «مرطانيه» (L07), «مرماوقى» (L09), «سوريه» (L13) and «هراة» (L15) are printed with their dots.",
+  "Numerals printed without dots, transcribed so: «ٮط» (L01, the degrees of the latitude), a tooth without its dot joined to a ط, which read with a ي gives 19, as «يط» of L02, printed with the two dots of the ي; «ڡح» (L03, the degrees of the longitude), the loop of ف or ق without dots joined to a ح, 88 read with ف, 108 read with ق; «كٮ» (L03, the degrees of the latitude), the flat final bowl of a ب without its dot, 22; «ٮو» (L05, the degrees of the latitude), a tooth without its dot joined to a و, 16 read with a ي, 56 read with a ن; «ڡو» (L15, the degrees of the longitude), the loop joined to a و, 86 read with ف, 106 read with ق.",
+  "L04 and L14, the degrees of the longitude, are printed with a single letter, a loop without dots: in L04 the loop stands above a deep round bowl, the isolated ق, as the last letter of «سيناٯ» on frame 076 (L16), transcribed ٯ, 100; in L14 the loop has a flat tail, the isolated ف, transcribed ڡ, 80.",
+  "With their dots: «عج» (L02), with a dot of 7 by 7 px in the bowl of the ج, 73; «يط» (L02) and «يا» (L06), with the two dots of the ي below, joined into one mark; «قس» (L05) and «قا» (L13), with the two dots of the ق, 160 and 101; «قس» is printed with a long final stroke of the س; «لب» (L06, L14) and «سب» (L10), with the dot of the ب; «كز» (L09), with the dot of the ز; «ن» (L15, the minutes of the latitude), with the dot of the ن.",
+  "The ح of the numerals, «ڡح» (L03), «كح» (L04, L11), «مح» (L09) and «لح» (L15), shows no dot in the bowl; the same form is a ج without its dot, 3, which L02 prints with its dot in «عج». Transcribed as printed. The isolated ك, 20, is printed with the small inner stroke of the letter (L07, the degrees of the longitude; L10, the minutes of the latitude). The isolated ه, 5 (L11, the minutes of the longitude), is the small round form of the letter.",
+  "Note marks: L02, a after the degrees of the latitude, within the line over the numerals, and b after the closing bracket; L04, c after «جنجس» and d after «كتابها»; L06, e after the latitude; L07, f after «مرطانيه», g after «⟨وسط⟩» and h after the latitude; L09, i after «مرماوقى»; L10, k after the longitude; L11, l after the longitude and m after the latitude; L12, n after the closing bracket and m after «والعرض».",
+  "Marks not transcribed: L02, a blot of ink in dark speckled patches over «وعمان وسط», with a short vertical stroke above the ط of «وسط»; the words remain legible. L08: the line over «لد ل» is printed in two pieces. L15: a dot of 10 by 8 px stands at the upper right of the zero sign of the longitude, 22 px to the left of the loop of «ڡو», not over it.",
+  "The editor's footnotes stand in five lines below a short rule at the left: notes a-n, one of them, m-m, on the text between two marks. The page number «— ١٠٢ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,518 @@
+{
+ "anchor": "AK07-J0268",
+ "jp2_index": 268,
+ "jp2_member": "b24872489_0268.jp2",
+ "jp2_sha256": "1006a8f76bc46e455c5cdf15d44d92a275ee25f842de82ff288905d97fcefa6e",
+ "reading_copy": "page_0268.jpg",
+ "reading_copy_sha256": "0c42407ff519c5a8ed462ca9e084f2cb283e1cb81cb163aa811293c113e8372c",
+ "printed_page": "236",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0268: Additions and corrections, p. 236: 4. concluded; 5. «S... elmirech» of Tab. 92 read «Secundum Emirethium» (Eumathius, Ammonius, al-Zarqālī); 6. Haskins's report of the Corpus Christi College manuscript; 7. the parallaxes of Tab. 77 and 77a; with the closing rule.",
+ "lines": [
+  {
+   "id": "AK07-J0268-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "{sp:Batt.} ed. {sp:Nallino}, I, 206—209). — Diese Bemerkung ist auch in Berücksichtigung",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Batt. ed. Nallino, I, 206—209). — Diese Bemerkung ist auch in Berücksichtigung",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt.",
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "zu ziehen bei meinen Angaben p. 65 und 103.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zu ziehen bei meinen Angaben p. 65 und 103.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L03",
+   "n": 3,
+   "kind": "indent",
+   "text": "{b:5.} Auf Tafel 92 in den Noten soll {i:S... elmirech} wahrscheinlich heissen {i:Secun-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "5. Auf Tafel 92 in den Noten soll S... elmirech wahrscheinlich heissen Secun-",
+   "italic": [
+    "S... elmirech",
+    "Secun-"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "5."
+   ]
+  },
+  {
+   "id": "AK07-J0268-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "{i:dum Emirethium} (vergl. auch Tafel 7), und sich auf die astronomischen Tafeln des",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dum Emirethium (vergl. auch Tafel 7), und sich auf die astronomischen Tafeln des",
+   "italic": [
+    "dum Emirethium"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "{sp:Eumathius} (d. i. wahrscheinlich {sp:Ammonius}) beziehen, die von {sp:Al-Zarḳālī}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Eumathius (d. i. wahrscheinlich Ammonius) beziehen, die von Al-Zarḳālī",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Eumathius",
+    "Ammonius",
+    "Al-Zarḳālī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "verbessert worden sind, von welcher Verbesserung sich ein Ms. in München (Nr. 853",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "verbessert worden sind, von welcher Verbesserung sich ein Ms. in München (Nr. 853",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "des Katal. v. Aumer) befindet, dessen Schluss lautet : „Beendigt ist der {i:Kānōn} des",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des Katal. v. Aumer) befindet, dessen Schluss lautet : „Beendigt ist der Kānōn des",
+   "italic": [
+    "Kānōn"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "{sp:Eumathius}, verbessert von {sp:Abū Isḥāḳ al-Naḳḳāsh}, bekannt unter dem Namen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Eumathius, verbessert von Abū Isḥāḳ al-Naḳḳāsh, bekannt unter dem Namen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Eumathius",
+    "Abū Isḥāḳ al-Naḳḳāsh"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "{sp:Al-Zarḳālah}, in der Mitte des {i:Dhu’l-Ḥidjdja} 655 (Ende 1257)“. — Ammonius lebte",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Al-Zarḳālah, in der Mitte des Dhu’l-Ḥidjdja 655 (Ende 1257)“. — Ammonius lebte",
+   "italic": [
+    "Dhu’l-Ḥidjdja"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Al-Zarḳālah"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "zu Alexandria am Ende des 5. Jahrh. n. Chr. (vergl. auch {sp:Batt.} ed. {sp:Nallino}, I,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zu Alexandria am Ende des 5. Jahrh. n. Chr. (vergl. auch Batt. ed. Nallino, I,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt.",
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "XXXV, N. 5). — Ich habe auch an {i:al-mirrīkh} = Mars gedacht, ebenso an {i:al-mizādj}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "XXXV, N. 5). — Ich habe auch an al-mirrīkh = Mars gedacht, ebenso an al-mizādj",
+   "italic": [
+    "al-mirrīkh",
+    "al-mizādj"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "= Temperament, astrol. Natur eines Gestirns (vergl. {sp:Batt.} ed. {sp:Nallino}, II, 352—353),",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "= Temperament, astrol. Natur eines Gestirns (vergl. Batt. ed. Nallino, II, 352—353),",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt.",
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "aber beides gibt an jener Stelle (Tafel 92) keinen Sinn.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "aber beides gibt an jener Stelle (Tafel 92) keinen Sinn.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L14",
+   "n": 14,
+   "kind": "indent",
+   "text": "{b:6.} Als diese Arbeit schon zur Hälfte gedruckt war, erhielt ich von Herrn",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "6. Als diese Arbeit schon zur Hälfte gedruckt war, erhielt ich von Herrn",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "6."
+   ]
+  },
+  {
+   "id": "AK07-J0268-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "Prof. C. H. {sp:Haskins} in Cambridge (Mass.) die Mitteilung, dass im Ms. 283 des {i:Cor-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Prof. C. H. Haskins in Cambridge (Mass.) die Mitteilung, dass im Ms. 283 des Cor-",
+   "italic": [
+    "Cor-"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Haskins"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "{i:pus Christi Coll.} in Oxford eine Abschrift von {sp:Athelhards} Übersetzung der Tafeln",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "pus Christi Coll. in Oxford eine Abschrift von Athelhards Übersetzung der Tafeln",
+   "italic": [
+    "pus Christi Coll."
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Athelhards"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "{sp:Kb.’s} vorhanden sei, die aber wahrscheinlich ziemlich unvollständig sei. Er bemerkt",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kb.’s vorhanden sei, die aber wahrscheinlich ziemlich unvollständig sei. Er bemerkt",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kb.’s"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "noch, dass, soweit er es feststellen konnte, dieser Text eher mit dem des Oxforder",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "noch, dass, soweit er es feststellen konnte, dieser Text eher mit dem des Oxforder",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "Ms. {i:Auct. F. I. 9} als mit dem der Mss. von Chartres und Madrid übereinstimme. Es",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Ms. Auct. F. I. 9 als mit dem der Mss. von Chartres und Madrid übereinstimme. Es",
+   "italic": [
+    "Auct. F. I. 9"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "wäre allerdings von Interesse, dieses Ms. nachträglich noch zur Vergleichung heran-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wäre allerdings von Interesse, dieses Ms. nachträglich noch zur Vergleichung heran-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "zuziehen ; ich muss aber diese Arbeit solchen Gelehrten überlassen, denen dieses",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zuziehen ; ich muss aber diese Arbeit solchen Gelehrten überlassen, denen dieses",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "Ms. leichter zugänglich ist als mir, also in erster Linie den englischen.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Ms. leichter zugänglich ist als mir, also in erster Linie den englischen.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L23",
+   "n": 23,
+   "kind": "indent",
+   "text": "{b:7.} Es wurde in Kap. 34 vergessen, den Leser darauf aufmerksam zu machen,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "7. Es wurde in Kap. 34 vergessen, den Leser darauf aufmerksam zu machen,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "7."
+   ]
+  },
+  {
+   "id": "AK07-J0268-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "dass in den Tafeln 77 und 77{sup:a} die Parallaxe der Breite in Kreisteilen, nicht in",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dass in den Tafeln 77 und 77a die Parallaxe der Breite in Kreisteilen, nicht in",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "Zeitteilen wie diejenige der Länge, angegeben ist. — In Tafel 77{sup:a} ist die Überschrift",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Zeitteilen wie diejenige der Länge, angegeben ist. — In Tafel 77a ist die Überschrift",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "{i:Longitudo et Latitudo} irreführend, es sind nämlich die in diesen Kolonnen für die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Longitudo et Latitudo irreführend, es sind nämlich die in diesen Kolonnen für die",
+   "italic": [
+    "Longitudo et Latitudo"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0268-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "Argumente 91—150 verzeichneten Werte nur Parallaxen der Länge.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Argumente 91—150 verzeichneten Werte nur Parallaxen der Länge.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «236» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 continues the parenthesis of p. 235 (JP2 0267, L39). After L27, a short double rule, centred, closes the additions and corrections; not transcribed as a line. The lower half of the page is blank; the text of the next page shows through, mirrored.",
+  "The cross-references, checked: Tab. 92 (p. 207, JP2 0239, N03) has the addition of C «S. . . (?) elmirech (?) a zodiaco in aequinoctialem radiatio cadit»; Tab. 7 (p. 118, JP2 0150, N13) has «Secundum Emirethium (?) cum fuerit ...»; Tab. 77a (p. 192, JP2 0224) has the head «Longitudo et Latitudo5)» over the columns of the parallax for the arguments 91 to 150, and Tab. 77 (p. 191, JP2 0223) gives the parallax in longitude in hours, minutes and seconds and the parallax in latitude in minutes and seconds of arc; p. 65 (JP2 0097) and p. 103 (JP2 0135, L09-L15) treat the length of the year.",
+  "Spaced type, marked {sp:}: «Batt.» (L01, L10, L12), «Nallino» (L01, L10, L12), «Eumathius» (L05, L08), «Ammonius» (L05), «Al-Zarḳālī» (L05), «Abū Isḥāḳ al-Naḳḳāsh» (L08), «Al-Zarḳālah» (L09), «Haskins» (L15), «Athelhards» (L16), «Kb.’s» (L17); «Ammonius» in L09 and «Aumer» (L07) are not spaced. Italics: «S... elmirech», «Secun-dum Emirethium», «Kānōn», «Dhu’l-Ḥidjdja», «al-mirrīkh», «al-mizādj», «Cor-pus Christi Coll.», «Auct. F. I. 9», «Longitudo et Latitudo». Bold: «5.», «6.», «7.». «77a» (L24, L25) with the a raised. The dash of «206—209» (L01) is printed in two pieces that touch, 49 px; the other dashes are long (45-48 px). A tick stands in the margin before «Eumathius» in L08 and a speck over the second s of «Mss.» in L19; not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK07-CN275",
+   "class": "wrong letter",
+   "line": "L17",
+   "printed": "{sp:Kb.’s}",
+   "proposed": "{sp:Kh.’s}",
+   "evidence": "Suter's abbreviation of al-Khwārizmī's name is «Kh.» throughout, as «Kh.’s» on p. 235 (JP2 0267, L02); a b is printed for the h",
+   "confidence": "high",
+   "impact": "none"
+  }
+ ]
+}

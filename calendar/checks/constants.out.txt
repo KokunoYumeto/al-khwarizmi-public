@@ -1,0 +1,11 @@
+month: 29d 12h 793p = 765433 parts (AK15-CN026: 765,433)
+12 months: 354d 8h 876p; 13 months: 383d 21h 589p (AK15-CN010)
+cycle of 235 months: 6939d 16h 595p (AK15-CN011)
+solar year = cycle / 19: 365d 5h 18955/19 parts; parts / 1080 = 3791/4104 hour (p. 7: 3791/4104)
+13 months less whole weeks: 5d 21h 589p
+gate for a leap year beginning on Thursday: Tuesday 9h 204p less 5d 21h 589p = Wednesday 11h 695p (AK15-CN015)
+BeTUTaKPaT: Monday 15h 589p less 5d 21h 589p = Tuesday 18h 0p (AK15-CN021)
+Adam to the Seleucid era: 3448 mod 19 = 9; 3448 + 1135 = 4583; printed 4082 - 1135 = 2947, mod 19 = 2 (AK15-CN022)
+least number of cycles with whole days: 5184; days 35975351 (printed 35,975,351)
+years 98496 (printed 98,496); months 1218240; days / years = 35975351/98496 = 365.246822
+revolutions of the moon = months + years = 1316736 (printed 1,016,736; AK15-CN025); days / revolutions = 27.321613; days / months = 29.530594

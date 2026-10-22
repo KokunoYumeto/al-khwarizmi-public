@@ -1,0 +1,41 @@
+@page 54 ٤٨
+@cols 22,50,82
+@align r,c,r
+% Frame 054, printed p. 48: the right-hand page of the opening pp. 48-49 of the table of the mountains of the third
+% clime: the numbers and names of seventeen mountains, entries 687/688-719/720: حوٮا, ٮد, the mountain of the sun,
+% Farʿī, Zārish, Maqlabān, Asṭūs, اٮعاما, a mountain joined to the sea, the mountain of the mine, ارٮٮطا, اوٮدٮون and
+% Thabrūn, and four without a name. Two lines of the editor's footnotes, continued from the foot of p. 49.
+@r (٦٨٧ ٦٨٨) | [١١٧٧ ١١٧٨] | جبل حوٮا{n:a}
+@r (٦٨٩ ٦٩٠) | [١١٧٩ ١١٨٠] | جبل ٮد
+@r (٦٩١ ٦٩٢) | [١١٨١ ١١٨٢] | جبل الشمس
+@r (٦٩٣ ٦٩٤) | [١١٨٣ ١١٨٤] | جبل فرعى
+@r (٦٩٥ ٦٩٦) | [١١٨٥ ١١٨٦] | جبل زارش{n:b}
+@r (٦٩٧ ٦٩٨) | [١١٨٧ ١١٨٨] | جبل مقلبان{n:c}
+@r (٦٩٩ ٧٠٠) | [١١٩٩ ١٢٠٠] | جبل
+@r (٧٠١ ٧٠٢) | [١١٨٩ ١١٩٠] | جبل اسطوس{n:d}
+@r (٧٠٣ ٧٠٤) | [١١٩٥ ١١٩٦] | جبل اٮعاما
+@r (٧٠٥ ٧٠٦) | [١١٩٧ ١١٩٨] | جبل متّصل بالبحر{n:e}
+@r (٧٠٧ ٧٠٨) | [١٢٠١ ١٢٠٢] | جبل المعدن
+@r (٧٠٩ ٧١٠) | [١٢٠٣ ١٢٠٤] | جبل
+@r (٧١١ ٧١٢) | [١٢٠٥ ١٢٠٦] | جبل
+@r (٧١٣ ٧١٤) | [١٢٠٧ ١٢٠٨] | جبل ارٮٮطا
+@r (٧١٥ ٧١٦) | [١٢٠٩ ١٢١٠] | جبل
+@r (٧١٧ ٧١٨) | [١٢١١ ١٢١٢] | جبل اوٮدٮون
+@r (٧١٩ ٧٢٠) | [١٢١٣ ١٢١٤] | جبل ثبرون{n:g}
+@ednotes e f g h 2
+@obs The table of the mountains of the third clime goes on across the opening pp. 48-49, without a heading: each line of p. 48 is continued by the same line of p. 49 (frame 055), which gives the boundaries, the colour and the direction. The running numbers go on from entry 685/686 (frame 052) and run (٦٨٧ ٦٨٨)-(٧١٩ ٧٢٠). The numbers of Suhrāb are [١١٧٧ ١١٧٨]-[١١٨٧ ١١٨٨] (L01-L06), [١١٩٩ ١٢٠٠] (L07), [١١٨٩ ١١٩٠] (L08), [١١٩٥ ١١٩٦] and [١١٩٧ ١١٩٨] (L09, L10) and [١٢٠١ ١٢٠٢]-[١٢١٣ ١٢١٤] (L11-L17); [١١٩١]-[١١٩٤] do not appear on the page.
+@obs L07, L12, L13, L15: the name is the word «جبل» alone. L03: «جبل الشمس», the mountain of the sun; L10: «جبل متّصل بالبحر», a mountain joined to the sea, with a shadda over the ت of «متّصل»; L11: «جبل المعدن», the mountain of the mine.
+@obs Names printed without dots, transcribed so: L01: «حوٮا», the ح without a dot, a و, and a short tooth without a dot joined to the final alif; the editor's note a gives the form of entry (1745), «رحوما». L02: «ٮد», a short tooth without a dot joined to a د. L16: «اوٮدٮون»: after «او», a tooth without a dot joined to a د, a tooth without a dot joined to a و, and a final ن with its dot.
+@obs L09: «اٮعاما»: after the first alif, an upright 22 px high without a dot, joined at its foot to a medial ع, a filled hump on the line like the medial ع of «المعدن» (L11), and a second alif; then «ما». An ع after a letter that does not join has the form of an open hook (L04, «فرعى»), which this group does not show; the upright is therefore read as a tooth before the ع. Transcribed اٮعاما.
+@obs L14: «ارٮٮطا»: after «ار», two teeth without dots, the first 14 px and the second 6 px high, then the ط and the final alif, where the medial س of «اسطوس» (L08) has three low teeth before the ط; the same form stands on p. 121 (frame 127, L10), at entry (1835), where a river from this mountain falls into the river that reaches the sea at the town امرس. Transcribed with two teeth without dots.
+@unres L14: the two teeth may be the teeth of a س with one tooth not printed: ارسطا. Transcribed ارٮٮطا.
+@obs With their dots: L04: «فرعى», the ف with its dot and the final ى without dots; L05: «زارش», the ز with its dot and the ش with its three; L06: «مقلبان», with the two dots of the ق and the dots of the ب and the ن; L08: «اسطوس»; L17: «ثبرون», the three dots of the ث set as a triangle, the ب with its dot below and the ن with its dot.
+@obs Marks not transcribed: L05, a short dash, 12 by 5 px, at mid-height to the left of «زارش», before the note mark b, not of the round form of the dots of the font; L13, the zero of the second number of Suhrāb, [١٢٠٦], is printed as a small curve open at its lower left, of the size of the zeros of the neighbouring numbers (L12, L14), which are solid round dots; transcribed ٠.
+@obs The editor's footnotes of the opening begin at the foot of p. 49 (frame 055) with notes a-d and the beginning of note e, and continue here in two lines, set in two columns, with the end of note e and notes f, g and h. The texts of notes a-d, whose marks stand on this page (L01, L05, L06, L08), are printed on p. 49; the marks of notes f and h stand on p. 49 (L16, L17).
+@obs The page number «— ٤٨ —» stands at the foot, centred.
+@variant L01: at entry (1745) the name is written رحوما (note a, printed at the foot of p. 49).
+@variant L05: at entry (1820) the name is written زارس, with the variant reading فارس (note b, printed at the foot of p. 49).
+@variant L06: at entry (1817) the name is written the same way, مقلبان (note c, printed at the foot of p. 49).
+@variant L08: at entry (1816) the name is written اسلوس, with the variant reading اسطوس (note d, printed at the foot of p. 49).
+@variant L10: on the map of the course of the Nile in the manuscript, fol. 30ᵇ and 31ᵃ (plate III), and at entry (1642), the mountain is called جبل المقطّم, the Muqaṭṭam (note e).
+@variant L17: at entries (2042) and (2044) the name is written ٮورون (note g).

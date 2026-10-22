@@ -1,0 +1,440 @@
+{
+ "anchor": "AK05-F018",
+ "frame": 18,
+ "frame_file": "page_018.jpg",
+ "frame_sha256": "7a511ce0d6d3baf776549b50ca3f532b1d295049fd0e21a3ea31f7ea1b223514",
+ "printed_page": "١٢",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 018, printed p. 12: the cities of the third clime continued, entries 129-147: places of the Maghrib from Isṭamī to Barbāriyā, then cities and monasteries of the Nile valley, Ṭāwūsan, Anṭīsū, Isnā, Armant, Abshāyā, Akhmīm and the monastery of Akhmīm, the monastery of Fāw, Asyūṭ, Ashmūn and Anṣinā; the folio of the manuscript, «(fol. 4ᵇ)», in the margin beside the last entry. One line of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F018-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(١٢٩) | [١٠٨] | اسطمى | كه | ل | ل | {z}",
+   "margin": null,
+   "cells": [
+    "(١٢٩)",
+    "[١٠٨]",
+    "اسطمى",
+    "كه",
+    "ل",
+    "ل",
+    "{z}"
+   ],
+   "plain": "(١٢٩) | [١٠٨] | اسطمى | كه | ل | ل | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(١٣٠) | [١٠٩] | راما على شرقه الجبل | كز | ل | كح | له",
+   "margin": null,
+   "cells": [
+    "(١٣٠)",
+    "[١٠٩]",
+    "راما على شرقه الجبل",
+    "كز",
+    "ل",
+    "كح",
+    "له"
+   ],
+   "plain": "(١٣٠) | [١٠٩] | راما على شرقه الجبل | كز | ل | كح | له",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(١٣١) | [١١٠] | اوسطانا | لا | ل | كط | ل",
+   "margin": null,
+   "cells": [
+    "(١٣١)",
+    "[١١٠]",
+    "اوسطانا",
+    "لا",
+    "ل",
+    "كط",
+    "ل"
+   ],
+   "plain": "(١٣١) | [١١٠] | اوسطانا | لا | ل | كط | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(١٣٢) | [١١١] | مدينة حامّة{n:a} | لد | ل{n:b} | كح | ل",
+   "margin": null,
+   "cells": [
+    "(١٣٢)",
+    "[١١١]",
+    "مدينة حامّة{n:a}",
+    "لد",
+    "ل{n:b}",
+    "كح",
+    "ل"
+   ],
+   "plain": "(١٣٢) | [١١١] | مدينة حامّة | لد | ل | كح | ل",
+   "note_marks": [
+    "a",
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(١٣٣) | [١١٢] | مدينة اراما | له | ك | كح | {z}",
+   "margin": null,
+   "cells": [
+    "(١٣٣)",
+    "[١١٢]",
+    "مدينة اراما",
+    "له",
+    "ك",
+    "كح",
+    "{z}"
+   ],
+   "plain": "(١٣٣) | [١١٢] | مدينة اراما | له | ك | كح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(١٣٤) | [١١٣] | مدينة ڡاسا | لو | {z} | ل | {z}",
+   "margin": null,
+   "cells": [
+    "(١٣٤)",
+    "[١١٣]",
+    "مدينة ڡاسا",
+    "لو",
+    "{z}",
+    "ل",
+    "{z}"
+   ],
+   "plain": "(١٣٤) | [١١٣] | مدينة ڡاسا | لو | ō | ل | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(١٣٥) | [١١٤] | مدينة ٮرباريا | مط | م | كد | م",
+   "margin": null,
+   "cells": [
+    "(١٣٥)",
+    "[١١٤]",
+    "مدينة ٮرباريا",
+    "مط",
+    "م",
+    "كد",
+    "م"
+   ],
+   "plain": "(١٣٥) | [١١٤] | مدينة ٮرباريا | مط | م | كد | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(١٣٦) | [١١٥] | مدينة طاووسن | ن | {z} | كح | {z}",
+   "margin": null,
+   "cells": [
+    "(١٣٦)",
+    "[١١٥]",
+    "مدينة طاووسن",
+    "ن",
+    "{z}",
+    "كح",
+    "{z}"
+   ],
+   "plain": "(١٣٦) | [١١٥] | مدينة طاووسن | ن | ō | كح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(١٣٧) | [١١٦] | مدينة ثاريطا | ٮٮ | {z} | كز | ل",
+   "margin": null,
+   "cells": [
+    "(١٣٧)",
+    "[١١٦]",
+    "مدينة ثاريطا",
+    "ٮٮ",
+    "{z}",
+    "كز",
+    "ل"
+   ],
+   "plain": "(١٣٧) | [١١٦] | مدينة ثاريطا | ٮٮ | ō | كز | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(١٣٨) | [١١٨] | مدينة انطيسوا | ند | {z} | كر | م",
+   "margin": null,
+   "cells": [
+    "(١٣٨)",
+    "[١١٨]",
+    "مدينة انطيسوا",
+    "ند",
+    "{z}",
+    "كر",
+    "م"
+   ],
+   "plain": "(١٣٨) | [١١٨] | مدينة انطيسوا | ند | ō | كر | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(١٣٩) | [١١٩] | مدينة اسنا | ٮد | يه | كد | م",
+   "margin": null,
+   "cells": [
+    "(١٣٩)",
+    "[١١٩]",
+    "مدينة اسنا",
+    "ٮد",
+    "يه",
+    "كد",
+    "م"
+   ],
+   "plain": "(١٣٩) | [١١٩] | مدينة اسنا | ٮد | يه | كد | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(١٤٠) | [١١٧] | مدينة ارمنت | نج | ك | كد | كه",
+   "margin": null,
+   "cells": [
+    "(١٤٠)",
+    "[١١٧]",
+    "مدينة ارمنت",
+    "نج",
+    "ك",
+    "كد",
+    "كه"
+   ],
+   "plain": "(١٤٠) | [١١٧] | مدينة ارمنت | نج | ك | كد | كه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(١٤١) | [١٢١] | مدينة ابشايا{n:c} | ٮه | {z} | كه | ں",
+   "margin": null,
+   "cells": [
+    "(١٤١)",
+    "[١٢١]",
+    "مدينة ابشايا{n:c}",
+    "ٮه",
+    "{z}",
+    "كه",
+    "ں"
+   ],
+   "plain": "(١٤١) | [١٢١] | مدينة ابشايا | ٮه | ō | كه | ں",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(١٤٢) | [١٢٢] | مدينة اخميم | ٮه | ل | كو | ں",
+   "margin": null,
+   "cells": [
+    "(١٤٢)",
+    "[١٢٢]",
+    "مدينة اخميم",
+    "ٮه",
+    "ل",
+    "كو",
+    "ں"
+   ],
+   "plain": "(١٤٢) | [١٢٢] | مدينة اخميم | ٮه | ل | كو | ں",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(١٤٣) | | دير اخميم | ٮه | م | كر | {z}",
+   "margin": null,
+   "cells": [
+    "(١٤٣)",
+    "",
+    "دير اخميم",
+    "ٮه",
+    "م",
+    "كر",
+    "{z}"
+   ],
+   "plain": "(١٤٣) | | دير اخميم | ٮه | م | كر | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(١٤٤) | | دير فاو{n:d} | ٮو | ن | كر | ل",
+   "margin": null,
+   "cells": [
+    "(١٤٤)",
+    "",
+    "دير فاو{n:d}",
+    "ٮو",
+    "ن",
+    "كر",
+    "ل"
+   ],
+   "plain": "(١٤٤) | | دير فاو | ٮو | ن | كر | ل",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(١٤٥) | | اسيوط | نو | مط | كو | مح",
+   "margin": null,
+   "cells": [
+    "(١٤٥)",
+    "",
+    "اسيوط",
+    "نو",
+    "مط",
+    "كو",
+    "مح"
+   ],
+   "plain": "(١٤٥) | | اسيوط | نو | مط | كو | مح",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L18",
+   "n": 18,
+   "kind": "row",
+   "text": "(١٤٦) | | اشمون{n:e} | نز | {z} | كز | {z}",
+   "margin": null,
+   "cells": [
+    "(١٤٦)",
+    "",
+    "اشمون{n:e}",
+    "نز",
+    "{z}",
+    "كز",
+    "{z}"
+   ],
+   "plain": "(١٤٦) | | اشمون | نز | ō | كز | ō",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F018-L19",
+   "n": 19,
+   "kind": "row",
+   "text": "(١٤٧) | | انصنى | ٮر | {z} | كو | لط",
+   "margin": "(fol. 4ᵇ)",
+   "cells": [
+    "(١٤٧)",
+    "",
+    "انصنى",
+    "ٮر",
+    "{z}",
+    "كو",
+    "لط"
+   ],
+   "plain": "(١٤٧) | | انصنى | ٮر | ō | كو | لط",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e"
+   ],
+   "lines": 1,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L04: the manuscript reads حامه, with a final ه for the ة.",
+  "L04: for the longitude, لد ل, the manuscript gives the variant reading لد ك.",
+  "L07: at entry (1822) the name is written ٮرٮاريا, the second tooth without its dot (a note added in the editor's corrigenda (p. 163, frame 169)).",
+  "L08: at entry (1815) the name is written طاووس (a note added in the editor's corrigenda (p. 163, frame 169)).",
+  "L13: the manuscript reads انسانى for ابشايا.",
+  "L16: the manuscript reads ٮاو for فاو, without the dot of the ف.",
+  "L18: the manuscript reads اسمون for اشمون, without the dots of the ش."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 017 without a heading: the cities of the third clime, entries 129-147. Entries 129-131 and 143-147 are printed without the word «مدينة»; entries 143-147 have no numbers of Suhrāb. The numbers of Suhrāb run [١٠٨]-[١١٦] in entries 129-137, then [١١٨], [١١٩], [١١٧] in entries 138-140 and [١٢١], [١٢٢] in entries 141-142; transcribed as printed. The folio of the Strasbourg manuscript, «(fol. 4ᵇ)», is printed in Latin type in the right margin beside entry 147 (L19).",
+  "L01: the letter before the final ى of «اسطمى» is a small loop with a counter, raised a little above the line and joined below to the bowl of the ى, the build of the م in «صلمى» (frame 014, L01); the medial ق of «شرقه» (L02) stands higher above the line. Transcribed م.",
+  "L02: «على شرقه الجبل», as printed: the ق with its two dots and a final ه. L04: «حامّة», with a shadda over the م. L06: the first letter of «ڡاسا», the initial loop of ف or ق joined to the alif, is printed without dots. L08: «طاووسن», with two و. L07: «ٮرباريا»: the first letter is a tooth without a dot joined to a ر, the two strokes forming a notch at the top, where the isolated ر of the font is a plain curved stroke (frame 021, L08, «عارٮرا»); transcribed ٮر. The ب after it has its dot.",
+  "Letters printed without their dots in the numerals, transcribed so: ٮٮ (L09, the degrees of the longitude), a tooth joined to a final ب, both without dots, with two risers at the right end of the bowl where the isolated ب has one; ٮد (L11), ٮه (L13-L15) and ٮو (L16), the tooth without its dot, in the degrees of the longitude; ں (L13, L14), the bowl of a final ن without its dot, in the minutes of the latitude. With their dots: كز (L02, the longitude; L09 and L18, the latitude), ند (L10), نج (L12), ن (L08; L16, the minutes of the longitude), نو (L17) and نز (L18), and يه (L11, the minutes of the longitude).",
+  "L10, L15, L16: the degrees of the latitude are printed كر, with ر, and L19: the degrees of the longitude, ٮر, a tooth without a dot joined to a ر, the two strokes forming a notch at the top, where the isolated ر of the font is a plain curved stroke (frame 021, L09); in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII). Transcribed ر as printed.",
+  "L13-L15: the degrees of the longitude, «ٮه», are a tooth without its dot joined to a final ه; read with a ن they give 55, between the neighbouring entries of the valley of the Nile, ٮٮ, ند, ٮد and نج before them and ٮو, نو, نز and ٮر after them. So also on frame 014 (L13, L15).",
+  "L04: note b stands after the minutes of the longitude; it gives the variant reading «لد ك», 34° 20', printed with a line above the numerals.",
+  "The page number «— ١٢ —» stands at the foot, centred."
+ ],
+ "copy_matter": [
+  "A faint grey curl, perhaps a fibre, beside the minutes of the latitude of entry 145 (L17), and a smaller one beside the minutes of the latitude of entry 144 (L16)."
+ ],
+ "critical_notes": []
+}

@@ -1,0 +1,58 @@
+@page 35 3
+@lang la
+% JP2 0035: the Latin text, p. 3: the Roman months; the solar year eleven days longer than the lunar; the conversion of
+% years through days; the eras of the table that follows (the Flood, Alexander, the era, the Incarnation, the Hijra);
+% with the apparatus (notes 1-41).
+Continet autem annus romanus menses XII, quorum primus October XXXI dies
+habens, November vero XXX, December autem{sup:1}) XXXI et quartam, poniturque
+bissextus in fine Decembris, unde idem mensis annis tribus XXXI dierum com-
+putatur{sup:2}), quarto vero XXXII{sup:3}), Januarius autem{sup:4}) XXXI, Februarius XXVIII, Mar-
+tius XXXI{sup:5}), Aprilis XXX, Maius XXXI, Junius XXX, Julius XXXI{sup:6}), Augustus
+XXXI, September XXX.
+@p Secundum hanc igitur anni{sup:7}) positionem palam est, quod{sup:8}) annus solaris anno
+lunari{sup:9}) diebus XI maior reperitur ; XXX enim quintae et sextae XI dies complent{sup:10}).
+@p Si quis ergo{sup:11}) numero supradictorum annorum{sup:12}) crescente scire velit, quot
+anni arabici a quot annis romanis pariter contineantur, et hos et illos in dies dis-
+solvat ; sicque patebit{sup:13}) eorum convenientia.
+@p Quoniam ergo{sup:14}) liber iste diversis nationibus prodesse petit{sup:15}), quarum{sup:16}) non
+omnes idem{sup:17}) tempus observant, ideo sequens pagina tempora tam{sup:18}) diversorum
+regum quam eventuum{sup:19}) continens subscripta est, ut cum haec praecepta secun-
+dum tempus elhigere et annos arabum data et notata sint{sup:20}), tum{sup:21}) et tempus{sup:22})
+et anni ipsi in quaslibet{sup:23}) aliarum nationum notas{sup:24}) reduci possint.
+@p [Quoniam vero{sup:25}) tractatu exigente anni terminos introduximus, eiusdem
+divisio{sup:26}) quoque disserenda est{sup:27}). Annus igitur in menses XII, mensis in dies
+numero diversos, dies in horas XXIIII, hora in {i:dakaicas}{sup:28}) LX{sup:29}), {i:dakaica}{sup:30}) in LX
+{i:zenias} id est secundas{sup:31}) dividitur{sup:32}).
+@p Nunc autem, quoniam ut supra dictum est diversa a diversis notantur tempora,
+diversorum regum tempora adhibenda sunt : ab {i:Athofen}{sup:33}) itaque, id est diluvio {sp:Noae},
+usque ad {i:elkarnain}{sup:34}), id est {sp:Alexandrum} anni {ov:II}DCCXCIII{sup:35}), menses vero duo,
+dies autem V ; ab {sp:Alexandro} vero usque ad {i:Acofra}{sup:36}), id est {i:era}, anni CCLXXIII,
+menses IX, dies XVII ; ab {i:era}{sup:37}) autem{sup:38}) usque ad incarnationem {i:domini} anni
+XXXVIII ; ab incarnatione vero {i:domini}{sup:39}) usque ad {i:elhigeram} anni DCXXI, menses
+VI, dies XV. Quia vero ut supra dictum{sup:40}) est liber iste status planetarum atque
+draconis secundum annos atque menses arabum determinat, nos vero latinorum
+@m C 41{sup:v}
+studemus utilitati{sup:41}), ideo et in primis tabulam suppositam | praenotavimus, per
+@n {sup:1}) autem] {i:om.} O. — {sup:2}) computatur] {i:om.} O. — {sup:3}) XXXII] XXXII computabitur O, XXX duorum N.
+@n — {sup:4}) autem] vero O. — {sup:5}) XXXI] XXX C. — {sup:6}) XXXI] XXX O. — {sup:7}) anni] {i:om.} M. — {sup:8}) quod] quia
+@n COMN. — {sup:9}) solaris anno lunari] romanorum qui et Alexandri dicitur anno arabum O. — {sup:10}) XXX . . . .
+@n complent] {i:om.} ON. — {sup:11}) ergo] vero O. — {sup:12}) annorum] numerorum M. — {sup:13}) patebit] palam erit O. —
+@n {sup:14}) ergo] itaque O (S.). — {sup:15}) petit] C, potest ON, p{sup:t} M. — {sup:16}) quarum] quorum CMN. — {sup:17}) idem] iam
+@n C. — {sup:18}) tam] tum M. — {sup:19}) eventuum] proventuum O. — {sup:20}) sint] C, sunt O, st M. — {sup:21}) tum] tamen
+@n ON. — {sup:22}) tempus] tempus illud O. — {sup:23}) quaslibet] qualibet CM. — {sup:24}) notas] {i:om.} O. — {sup:25}) vero] au-
+@n tem M. — {sup:26}) divisio] {i:om.} M. — {sup:27}) est] {i:om.} M. — {sup:28}) dakaicas] M, dacaicas C, minuta N. — {sup:29}) LX]
+@n {i:om.} C. — {sup:30}) dakaica] minuta N. — {sup:31}) zenias id est secundas] C, zenias idem est secundas M, secunda
+@n N. — {sup:32}) dividitur] dividuntur N ; {i:addid.} C ct N {i:in margine} : Nota quod (quia N) secundum librum hea
+@n (canonum N) non peragit sol singulis annis cursum suum, deest enim quantum ipse progreditur dum
+@n tres gradus et duo minuta (duae dakaicae C) circuli extimi oriuntur. Quae collecta annis quidem CXX
+@n diem et paxillum (sic! paral. C) diei exigunt. — {sup:33}) Athofen] CM, atophen N. — {sup:34}) elkarnain] CM,
+@n elcarnein N. — {sup:35}) {ov:II}DCCXCIII] N, IIDCCXCIII M, DCCXCIII C. — {sup:36}) Acofra] C, Cofra M, aszofra N. —
+@n {sup:37}) era] N, eris CM. — {sup:38}) autem] {i:om.} M. — {sup:39}) domini] {i:om.} M. — {sup:40}) supra dictum] suprascriptum N.
+@n — {sup:41}) utilitati] utilitat C.
+@obs The page number «3» stands at the head of the page, centred, with a rule below it. At the foot, the signature «1*» on the right.
+@obs L23 and N14: «{ov:II}DCCXCIII», the two I's under one bar, which multiplies them by a thousand: 2793 years from the Flood to Alexander; the M of note 35 has the same figures without the bar. L29: the vertical bar between «suppositam» and «praenotavimus» marks the beginning of fol. 41 verso of C, which the note in the right margin, «C 41v», names; transcribed as a margin note.
+@obs L17: the square bracket before «Quoniam» is the editor's; no closing bracket stands on this page. The names «Noae», «Alexandrum» and «Alexandro» (L22-L24) are letter-spaced; the Arabic words and «era» and «domini» are in italics.
+@obs N05: «p{sup:t}», p with a raised t, the abbreviation of M. N13: «(sic! paral. C)», the editor's remark on the reading of C. The colons and semicolons of the text and the apparatus stand after the thin space of the edition (7-13 px measured).
+@obs Marks not transcribed: a dark dot at mid-height between «arabum» and «data» (L15).
+@critical AK07-CN012 | misprint | N10 | ct N | et N | «addid. C et N in margine», C and N add in the margin; the e of «et» is printed as c | high | none
+@critical AK07-CN278 | misprint | N10 | secundum librum hea (canonum N) | secundum kiteb hea (librum canonum N) | the list of misprints, p. [237] (JP2 0271, L03), reads «kiteb hea (librum canonum N)» for «librum hea (canonum N)» in note 32, which runs on into N11: the addition is given in the words of C, with the readings of N in parentheses | high | none

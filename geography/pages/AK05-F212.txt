@@ -1,0 +1,18 @@
+@page 212 -
+@kind title
+% Frame 212: the series title page: the third volume of the «Bibliothek arabischer Historiker und Geographen».
+@lc BIBLIOTHEK
+@lc ARABISCHER HISTORIKER
+@lc UND GEOGRAPHEN
+@lc HERAUSGEGEBEN VON
+@lc HANS v. MŽIK
+@lc Dritter Band:
+@lc DAS KITĀB ṢŪRAT AL-ARḌ
+@lc DES ABŪ ǦAʿFAR MUḤAMMAD
+@lc IBN MŪSĀ AL-ḪUWĀRIZMĪ
+@lc Arabischer Text
+@lc MCMXXVI
+@lc Otto Harrassowitz · Leipzig
+@obs The series title page: «Bibliothek arabischer Historiker und Geographen», edited by Hans v. Mžik, third volume: the «Kitāb ṣūrat al-arḍ» of Abū Ǧaʿfar Muḥammad ibn Mūsā al-Ḫuwārizmī, Arabic text; 1926, Otto Harrassowitz, Leipzig. Set in Roman capitals, with three lines in black letter (Fraktur), transcribed in Roman type: «Dritter Band:» (L06), «Arabischer Text» (L10) and «Otto Harrassowitz · Leipzig» (L12). A rule separates the date from the publisher's line.
+@obs L05: «MŽIK», with a haček over the Z; the title page prints «MŹIK» (frame 210, L10).
+@obs A pale stain at the left edge of the leaf.

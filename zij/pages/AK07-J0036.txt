@@ -1,0 +1,56 @@
+@page 36 4
+@lang la
+% JP2 0036: the Latin text, p. 4: the use of the conversion table (the end of the bracketed passage); chapter 3, on the
+% headings of the tables: the division of the circle and of time, the years 1 to 30 and the collected years; with the
+% apparatus (notes 1-35).
+quam ab eo quidem anno quo hic liber in nostrum sermonem translatus est usque
+in{sup:1}) tempora infinita ex annis quotlibet romanis et mensibus cum diebus annorum
+et mensium et dierum arabicorum aequalitas sumi queat. Huiusce ergo tabulae{sup:2})
+introitus talis est : Cum enim quotus sit ab elhigera{sup:3}) annus vel mensis vel dies
+quaeris, per annos domini secundum trigenarium collectos in annos arabum sibi
+adiunctos intrandum erit, adiunctumque notandum ; deinde per annos eiusdem pla-
+nos in suum item adiunctum ipsumque servandum, similique modo in mensibus.
+Quibus omnibus simul collectis minora in maiora reducenda sunt, quotiens autem
+menses XII in annum reducuntur, totiens VI dies dierum numero addendi sunt.
+Quod{sup:4}) si menses annum non complentes remanserint, pro uno quidem{sup:5}) nichil,
+pro duobus vero dies unus, pro tribus item{sup:6}) unus, pro quatuor duo addendi sunt{sup:7}).
+Sic igitur et annos et menses et dies arabum romanis annis cum mensibus et die-
+bus aequatos habebis]{sup:8}).
+@ml M 84{sup:r}
+@c {b:Cap. 3. De numerorum praescriptionibus.}
+@ml N 10{sup:r}
+@p His hactenus explicatis hoc etiam addendum est, ut quoniam fere omnes huius
+libri tabulae{sup:9}) nomine mensium vel annorum planorum{sup:10}) vel annorum collecto-
+rum{sup:11}) arabicorum praetitulatae sunt, quid sibi velit haec praesignatio intimetur.
+@p Considerantes itaque philosophi planetarum rotas, rotarum deinde circumferentias,
+rotasque in signa, signa in gradus, gradus in dakaicas{sup:12}), dakaicas{sup:12}) in secundas{sup:13})
+@ml O 159{sup:r}
+dividentes, quantum{sup:14}) istarum portionum{sup:15}) | singuli planetae singulis temporibus
+peragrent{sup:16}), determinare intenderunt. Quare et tempus dividendum esse, annum
+itaque{sup:17}) in menses, menses in dies, dies in horas, horas in dakaicas{sup:18}) diviserunt.
+Habentes itaque{sup:19}) quot annis sive{sup:20}) mensibus quisque planetarum rotam suam
+peragret{sup:21}), ab annis ad menses, a mensibus ad{sup:22}) dies, a diebus ad horas, ab horis
+ad{sup:22}) dakaicas{sup:23}) pervenerunt. Itemque habita anni unius ratione ab uno anno
+usque ad XXX ascenderunt. Habentes igitur{sup:24}) quid planetae supradicti annis XXX
+percurrant{sup:25}), addendo{sup:26}) XXX super XXX usque ad LX, sicque in{sup:27}) infinita anno-
+rum et{sup:28}) mensium et{sup:29}) dierum et horarum spatia stellarum motus dimensi sunt.
+Hac itaque ratione et dakaicis{sup:30}) horarum et ipsis horis et diebus et mensibus et
+annis planis{sup:31}) et annis collectis in prima linea praescriptis consequenter secundum
+ipsorum{sup:32}) planetarum meatus signa et{sup:33}) gradus et dakaicas{sup:34}) et secundas{sup:35}) ad-
+@n {sup:1}) in] ad M. — {sup:2}) tabulae] {i:om.} M. — {sup:3}) elhigera] eligera M. — {sup:4}) Quod] Qui C. — {sup:5}) quidem) quo-
+@n que M. — {sup:6}) item] autem M. — {sup:7}) sunt] {i:om.} M. — {sup:8}) {i:Quae in uncis inclusa om.} O. — {sup:9}) tabulae] pa-
+@n ginae O. — {sup:10}) planorum] residuorum N. — {sup:11}) collectorum] {i:om.} O. — {sup:12}) dakaicas] O, dakaycas M, da-
+@n kaikas C, minuta N. — {sup:13}) secundas] secunda N. — {sup:14}) quantum] quarum O. — {sup:15}) portionum] partium
+@n O. — {sup:16}) peragrent] {i:om.} O. — {sup:17}) itaque] {i:om.} O. — {sup:18}] dakaicas] C, dabaycas M, momenta O, minuta
+@n N. — {sup:19}) itaque] igitur O. — {sup:20}) sive] C, vel O. — {sup:21}) peragret] perag’e M. — {sup:22}) ad] in M. — {sup:23}) dakaicas]
+@n momenta O, minuta N. — {sup:24}) igitur] itaque O. — {sup:25}) percurrant] peragrent O. — {sup:26}) addendo] addendae
+@n C. — {sup:27}) LX, sicque in] XL fitque O. — {sup:28}) et] {i:om.} O. — {sup:29}) et] {i:om.} O. — {sup:30}) dakaicis] partibus O, mi-
+@n nutis N. — {sup:31}) planis] residuis N, {i:itemque in capit. sequent.} — {sup:32}) ipsorum] ipsarum M. — {sup:33}) signa et]
+@n et signa O. — {sup:34}) dakaicas] minuta N. — {sup:35}) secundas] secunda N.
+@obs The page number «4» stands at the head of the page, centred, with a rule below it. L01-L13 end the passage on the conversion table begun on p. 3 (JP2 0035, L17); the square bracket that closes it stands in L13, «habebis]», and note 8 says that O omits what is enclosed.
+@obs L14: the chapter heading, «Cap. 3. De numerorum praescriptionibus.», in bold, centred; in the left margin «M 84r» beside it and «N 10r» beside L15. L20: the vertical bar between «portionum15)» and «singuli» marks the beginning of fol. 159 recto of O, which the note in the left margin, «O 159r», names; Suter says on p. X (JP2 0014, L25-L27) that this leaf of O is bound out of place and belongs between fols. 99 and 100.
+@obs L19 and L24: the note numbers 12 and 22 are each printed twice, after the two words of the text to which the same note applies.
+@obs N06: «perag’e», the abbreviation of M as the edition prints it, with an apostrophe. N07: the bracket after the note number 24 is printed broken, its middle missing, so that it looks like a comma and a stroke; transcribed «24)». N05: the long dash before the note number 18 is printed in two pieces; transcribed as one.
+@obs The colon of L04 and the semicolon of L06 stand after the thin space of the edition (10 and 9 px measured).
+@critical AK07-CN013 | wrong bracket | N01 | quidem) | quidem] | the lemma of the apparatus closes with a square bracket, «Quod] Qui C.», «item] autem M.»; after «quidem» a round bracket is printed | high | none
+@critical AK07-CN014 | wrong bracket | N05 | {sup:18}] | {sup:18}) | the note numbers of the apparatus are followed by a round bracket, «17)», «19)»; after 18 a square bracket is printed | high | none

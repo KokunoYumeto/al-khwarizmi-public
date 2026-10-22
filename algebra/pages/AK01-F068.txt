@@ -1,0 +1,44 @@
+@page 68 ٥٢
+% Frame 068, printed p. 52: the twenty-eighth of the various problems concluded (the first men are two); the
+% twenty-ninth, «فان قال» in the face of the text, states the twenty-sixth again (a quantity times its two thirds
+% gives five) and works it in more detail: the root of seven and a half, checked: the root of three and a third, which
+% is two thirds of it, times the root of seven and a half is five; the thirtieth: a quantity times three of its roots
+% gives five times the quantity (the root one and two thirds, the quantity two and seven ninths); the thirty-first: a
+% quantity less its third, times three of its roots, gives the quantity back (a quarter); the thirty-second: a quantity
+% from which four of its roots are taken, a third of the rest equal to the four roots (two hundred and fifty-six); the
+% thirty-third begun, continued on the next page. Below the rule two footnotes of the editors.
+الستة وخذ جذر ما اجتمع فانقص منه نصف الجذر الذى كنت ضربته فى مثله
+وهو نصف وما بقى فهو عدد الرجال الأولين وهما فى هذه المسئلة رجلان . فان
+قال مال ضربته فى ثلثيه فكان خمسة {n:١} . فقياسه أنك اذا ضربته فى مثله
+كان سبعة ونصفاً . فتقول هو جذر سبعة ونصف فى ثلثى جذر سبعة
+ونصف فاضرب ثلثين فى ثلثين فيكون أربعة أتساع وأربعة أتساع فى سبعة
+ونصف يكون ثلاثة وثلثاً فجذر ثلاثة وثلث هو ثلثا جذر سبعة
+ونصف فاضرب ثلاثة وثلثاً فى سبعة ونصف فيكون خمسة وعشرين فجذرها
+خمسة . فان قال مال تضربه فى ثلاثة اجذاره فيكون خمسة أمثال المال الأول
+فكأنه قال مال ضربته فى جذره فكان مثل المال الأول وثلثيه فجذر المال درهم
+وثلثان والمال درهمان وسبعة أتساع . فان قال مال تلقى ثلثه ثم تضرب الباقى
+فى ثلاثة أجذار المال فيعود المال الأول . فقياسه أنك اذا ضربت المال الأول
+كله من قبل أن تلقى ( ثلثه ) فى ثلاثة أجذاره كان مالا ونصفا لأن ثلثيه فى
+ثلاثة أجذاره مال فهو كله فى ثلاثة أجذاره مال ونصف وهو كله فى جذر واحد
+نصف مال فجذر المال نصف والمال ربع فثلثا المال سدس وثلاثة أجذار المال درهم
+ونصف فمتى ما ضربت سدساً فى درهم ونصف خرج ربعاً وهو المال . فان قال
+مال تعزل أربعة أجذاره ثم تأخذ ثلث ما بقى فيكون مثل الأربعة الأجذار فالمال
+مائتان وستة وخمسون . فقياسه أنك تعلم أن ثلث ما بقى مثل الأربعة الأجذار
+وأن ( ما ) {n:٣} بقى مثل اثنى عشر جذره فزد عليها الأربعة الأجذار فتكون ستة
+عشر جذراً وهو جذر المال . فان قال مال عزلت جذره وزدت على جذره جذر
+@ednotes ١ ٢ 2
+@obs Every problem of this page is introduced with فان قال in the face of the text: at the end of L02, and in L08, L10, L15 and L19.
+@obs L02-L07: the twenty-ninth problem states the twenty-sixth of frame 067, L01, again, with فكان for فبلغ, «مال ضربته فى ثلثيه فكان خمسة» (L03), and works it in more detail: the root of seven and a half (L04), two thirds of whose root is the root of three and a third (L06), and the root of three and a third times the root of seven and a half is the root of twenty-five, five (L07-L08). The editors' note (١) remarks on the repetition.
+@obs L12: «( ثلثه )», as printed: the parentheses stand 44 and 39 px (nearest approach of the ink at 400 ppi) from the word inside them, as far as from the words outside them (43 and 44); transcribed with a space on either side. No note of the editors refers to them.
+@obs L18: «( ما )», as printed: the parentheses stand 31 px from the م and 19 px from the alif inside them, as far as the opening one stands from وأن (19), and farther than in the close setting of frames 054, 063 and 065 (10 to 13 px from an alif); transcribed with a space on either side. The editors' note says that the word in parentheses is added to the text.
+@obs L18: the note mark after the parentheses is printed (٣), the numeral with two notches at its top, as ٣; the mark (٢) of frame 067, L09, has one. The page has two footnotes, (١) and (٢), and the mark refers to the second, which comments on the word in parentheses of this line. The mark is transcribed as printed. It stands 25 px after the closing parenthesis and 22 px before بقى.
+@obs L18: above the alif of اثنى (L18) a short flat stroke is printed, 11 by 3 px, 2 px above the top of the alif, curved down at its left end. It has neither the form of the hamza of أن in L17 (a hook of about 15 by 12 px) nor that of the madda of الآخر on frame 067, L07 (a slanted stroke about 40 px long). اثنى has a plain alif on frames 062 to 067. Transcribed اثنى; the stroke is not transcribed.
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: وخذ جذر (L01; 19 between the ذ and the ج, where فخذ جذرها on frame 067, L03, has 25); فثلثا المال (L14; 20 between the two alifs, as منها العشرين on frame 063, L07).
+@obs After ة a word space is transcribed where the gap is 16 px or more; the narrowest such gaps on this page: الأربعة الأجذار (L16; 19, L18; 18).
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after رجلان, before فان (L02; 18 and 21), after ونصفاً, before فتقول (L04; 42 and 38), after خمسة, before فان (L08; 21 and 26), after أتساع, before فان (L10; 30 and 39), after الأول, before فقياسه (L11; 26 and 27), after المال, before فان (L15; 23 and 23; L19; 21 and 20), after وخمسون, before فقياسه (L17; 18 and 20). L03: the note mark (١) stands 33 px after خمسة, the full stop 38 px after the mark and 27 px before فقياسه.
+@obs Plain alif where a hamza might be expected, as printed: اجتمع, فانقص (L01), فان (L02, L08, L10, L15, L19), اذا (L03, L11), فاضرب (L05, L07), اجذاره (L08), اثنى (L18); with hamza: الأولين (L02), أنك (L03, L11, L17), أربعة, أتساع, وأربعة (L05), أمثال, الأول (L08), فكأنه, الأول (L09), أتساع (L10), أجذار, الأول (L11, twice), أن, أجذاره, لأن (L12), أجذاره (L13, twice), أجذار (L14), أربعة, أجذاره, تأخذ, الأربعة, الأجذار (L16), أن, الأربعة, الأجذار (L17), وأن, الأربعة, الأجذار (L18); on ي: المسئلة (L02), مائتان (L17).
+@obs With tanwīn on the final alif: ونصفاً (L04), وثلثاً (L06, L07), سدساً, ربعاً (L15), جذراً (L19); without tanwīn as printed: مالا, ونصفا (L12).
+@obs The final yā' is printed without dots: الذى (L01), فى throughout, بقى (L02, L16, L17, L18), ثلثى (L04), تلقى, الباقى (L10), تلقى (L12), فمتى (L15), اثنى (L18), على (L19).
+@obs The print stretches فقياسه (L03), سبعة (L04, three times; L05; L06), يكون and فجذر (L06, at length), فيكون (L08) and the second المال of L11 with the elongation stroke; the stroke is not transcribed. The machine reading of L06 breaks off at the long stroke of فجذر and has none of the words after it.
+@obs The ف before ج and م is printed with its head set on the next letter, as before خ on frames 052 and 061: فجذر (L06, L09, L14), فجذرها (L07), فمتى (L15). The machine reading has فخذر in L14 and فتى in L15.
+@obs Notes (١) and (٢) of the editors: (١) remarks that this problem was stated before and is repeated here in more detail; (٢) says that the word in parentheses in L18 is added to the text. Neither is reproduced.

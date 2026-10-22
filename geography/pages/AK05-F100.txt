@@ -1,0 +1,45 @@
+@page 100 ٩٤
+% Frame 100, printed p. 94: the islands of the sea of al-Qulzum concluded, nine single islands; then the heading of
+% the islands in the Green Sea and of Sind, India and China, and its first islands, the last of them followed round its
+% coast. The editor's running numbers (١٤٤٠)-(١٤٥٣) and the numbers of Suhrāb [٩٦٤]-[٩٦٩] and [٩٧١]-[٩٧٣]; the folio
+% of the manuscript, «(fol. 26ᵃ)», at the beginning of the heading; two passages supplied by the editor between angle
+% brackets. Two lines of the editor's footnotes.
+نصف جزء وسطها عند طول {ov:س ل} والعرض {ov:ير م} (١٤٤٠) * جزيرة مقدار ربع جزء
+وسطها عند طول {ov:نح ن} والعرض {ov:يح {z}} (١٤٤١) * جزيرة مقدار ثلث جزء وسطها
+عند طول {ov:سح ل} والعرض {ov:كح ل}{n:a} (١٤٤٢) [٩٦٤] * جزيرة مقدار ربع جزء وسطها
+عند طول {ov:سٮ م} والعرض {ov:ك م} (١٤٤٣) [٩٦٥] * جزيرة مقدار جزء وسطها عند طول
+{ov:س ل} والعرض {ov:ٮه ں} (١٤٤٤) [٩٦٦] * جزيرة مقدار ثلثى جزء ⟨وسطها⟩{n:b} عند طول
+{ov:س ل} والعرض {ov:يح ن} (١٤٤٥) [٩٦٧] * جزيرة مقدار نصف جزء وسطها عند طول
+{ov:سٮ {z}} والعرض {ov:يح ى} (١٤٤٦) * جزيرة مقدار ثلث جزء وسطها عند طول {ov:س ل}
+والعرض {ov:ى ك}{n:c} (١٤٤٧) [٩٦٨] * جزيرة مقدار نصف جزء وسطها عند طول
+{ov:سٮ ى} والعرض {ov:ى ى} (١٤٤٨) [٩٦٩] *
+@m (fol. 26ᵃ)
+@h * ⟨الجزائر الّتى فى⟩{n:d} البحر الأخضر
+@h والسند والهند والصين *
+جزيرة مقدار ربع جزء وسطها عند طول {ov:سو ى} والعرض {ov:ط ى}{n:e} (١٤٤٩) * جزيرة
+مقدار نصف جزء وسطها عند طول {ov:سز ل} والعرض {ov:و م}{n:f} (١٤٥٠) [٩٧١] * جزيرة
+مقدار ثلثى جزء وسطها عند طول {ov:سح ك} والعرض {ov:ح ك}{n:g} (١٤٥١) [٩٧٢] * جزيرة
+مقدار ربع جزء وسطها عند طول {ov:ع ك} والعرض {ov:ر ى} (١٤٥٢) * جزيرة اوّلها عند
+طول {ov:عد ل} والعرض {ov:ح ك} (١٤٥٣) [٩٧٣] تمرّ الى طول {ov:عر {z}}{n:h} والعرض {ov:ٮا {z}}
+@ednotes a b c d e f g h 2
+@obs The islands of the sea of al-Qulzum go on from p. 93 (frame 099), whose last words, «جزيرة مقدار», L01 continues with «نصف جزء»: single islands, each with its size and the longitude and latitude of its middle, «وسطها عند طول … والعرض …», running numbers (١٤٤٠)-(١٤٤٨): of half a degree, «نصف جزء» (L01, L06, L08); of a quarter of a degree, «ربع جزء» (L01, L03); of a third of a degree, «ثلث جزء» (L02, L07); of one degree, «جزء» (L04); and of two thirds of a degree, «ثلثى جزء» (L05). Each island ends with a small open star with six points, transcribed as an asterisk.
+@obs L10-L11: the heading of the next section, in larger type, centred on two lines: «* ⟨الجزائر الّتى فى⟩ البحر الأخضر / والسند والهند والصين *», the islands in the Green Sea and of Sind, India and China. The words «الجزائر الّتى فى» stand between angle brackets, followed by the note mark d: the manuscript has a gap there, and the editor supplies them (note d). The folio of the Strasbourg manuscript, «(fol. 26ᵃ)», is printed in Latin type at the beginning of L10, before the star; transcribed as a margin note before the line. «الأخضر» has a hamza over the alif and «الّتى» a shadda over the ل; «والصين» is printed with a long kashida, the stretched joining stroke, between the ي and the ن, which is not transcribed.
+@obs L12-L16: the islands of the Green Sea: single islands of a quarter of a degree, «ربع جزء» (L12, L15), half a degree, «نصف جزء» (L13), and two thirds of a degree, «ثلثى جزء» (L14), running numbers (١٤٤٩)-(١٤٥٢); then «جزيرة اوّلها عند طول عد ل والعرض ح ك (١٤٥٣)» (L15-L16), an island without a name and without a size, the first point of whose coast is at the longitude 74° 30′ and the latitude ح ك; then «تمرّ الى طول عر ō والعرض ٮا ō», continued on p. 95.
+@obs L05: «⟨وسطها⟩», between angle brackets, followed by the note mark b: the manuscript lacks the word, and the editor supplies it (note b). Transcribed with the brackets.
+@obs The running numbers run (١٤٤٠)-(١٤٥٣) without a gap. The numbers of Suhrāb, [٩٦٤]-[٩٦٩], stand after (١٤٤٢)-(١٤٤٥), (١٤٤٧) and (١٤٤٨), and [٩٧١]-[٩٧٣] after (١٤٥٠), (١٤٥١) and (١٤٥٣); [٩٧٠] stands after (١٤٣٩) on p. 93 (frame 099, L16). Points 1440, 1441, 1446, 1449 and 1452 have none.
+@obs Signs in the text, transcribed as printed: «اوّلها» (L15) with a shadda over the و; «تمرّ» (L16) with a shadda; «جزء» with a hamza on the line after the ز; «ثلثى» ends in a ى without dots.
+@obs Numerals: «ير» (L01, the degrees of the latitude), the ي with its two dots below joined to a ر without a dot, which with ر read as ز gives 17° 40′; «يح» (L02, L06, L07, the degrees of the latitude), with the two dots of the ي; «نح» (L02), «ن» (L02, L06, the minutes), with the dot of the ن; «سز» (L13), with the dot of the ز, 67. Letters without their dots, transcribed so: «سٮ» (L04, L07, L09, the degrees of the longitude), the flat final bowl of the ب without its dot, 62; «ں» (L05, the minutes of the latitude), the bowl of a final ن without its dot, 50; «ٮا» (L16, the degrees of the second latitude), a tooth without its dot joined to an alif, which read with a ي gives 11.
+@obs In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: «ر» (L15, the degrees of the latitude), a single rounded stroke like the ر of frame 072 (L06), where the د of frame 091 (L01) has an angular foot, 7; a speck of 3 by 3 px stands at the left of its head, smaller than the dots of the font; «عر» (L16, the degrees of the longitude), 77.
+@obs L05, the latitude: «ٮه ں», a tooth without its dot joined to a final ه, the form of «يه», then the bowl of a final ن without its dot; read with a ي and a ن it gives 15° 50′, within the latitudes 10° 10′-28° 30′ of the other islands of the sea of al-Qulzum on the page. The editor's notes do not comment on it.
+@obs The ح of the numerals, «يح» (L02, L06, L07), «نح» (L02), «سح» (L03, L14), «كح» (L03) and «ح» (L14, L16, the degrees of the latitude), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. The isolated ى, 10, has no dots (L07, L08, L09, L12, L15). The isolated ك, 20, is printed with the small inner stroke of the letter.
+@obs Note marks: L03, a after the latitude; L05, b after «⟨وسطها⟩»; L08, c after the latitude; L10, d after the closing angle bracket; L12, e after the latitude; L13, f after the latitude; L14, g after the latitude; L16, h after the longitude.
+@obs Marks not transcribed: L07, a short horizontal stroke, 41 by 9 px, about 30 px below the second ٤ of (١٤٤٦), between the lines.
+@obs The editor's footnotes stand in two lines below a short rule at the left: notes a-h. The page number «— ٩٤ —» stands at the foot, centred.
+@variant L03: a variant reading of the latitude is كح لد, with a line over the numerals (note a).
+@variant L05: the manuscript lacks the word وسطها; the editor supplies it (note b).
+@variant L08: a variant reading of the latitude is ى ل, with a line over the numerals (note c).
+@variant L10: the manuscript has a gap at الجزائر الّتى فى; the editor supplies the words (note d).
+@variant L12: a variant reading of the latitude is ك ى, with a line over the numerals (note e).
+@variant L13: a variant reading of the latitude is ز م, with a line over the numerals (note f).
+@variant L14: a variant reading of the latitude is ح ط, with a line over the numerals (note g).
+@variant L16: a variant reading of the longitude is عو {z}, with a line over the numerals (note h).

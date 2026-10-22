@@ -1,0 +1,52 @@
+@page 96 ٩٠
+% Frame 096, printed p. 90: the islands in the sea of Tangier continued: four small islands within one area; the island
+% قيرش with two towns and the island سرحس with four towns, each followed round its coast; four islands in a row; two
+% single islands; three islands in a row; two single islands; and the island ڡلڡوسس with a town. The editor's running
+% numbers (١٣٧٦)-(١٣٩٢) and the numbers of Suhrāb [٩٢٨]-[٩٣٥]; the folio of the manuscript, «(fol. 24ᵇ)», within the
+% line. Four lines of the editor's footnotes.
+جزائر كلّ جزيرة مقدار ثلث جزء فى ثلث جزء كلّها فى مقدار جزءين فى جزءين وسط ذٰلك
+عند طول {ov:كو م} والعرض {ov:لح {z}}{n:a} (١٣٧٦) * جزيرة قيرش{n:b} فيها مدينتان اوّلها عند طول
+{ov:كح ن} والعرض {ov:لح ن} (١٣٧٧) [٩٢٨] تمرّ الى طول {ov:لٮ {z}} والعرض {ov:لط {z}} (١٣٧٨)
+@m (fol. 24ᵇ)
+[٩٢٩] تمرّ الى طول {ov:لٮ ك}{n:c} والعرض {ov:م م} (١٣٧٩) [٩٣٠] تمرّ الى طول
+{ov:كط ل} والعرض {ov:م ن} (١٣٨٠) [٩٣١] تمرّ الى الموضع الّذى منه ابتدأنا وهو عند طول
+{ov:كح ن} والعرض {ov:لح ن}{n:d} * جزيرة سرحس فيها اربع مدن اوّلها عند طول {ov:كح ك} والعرض
+{ov:له مه} (١٣٨١) [٩٣٢] تمرّ الى طول {ov:لب م} والعرض {ov:لد مه} (١٣٨٢) [٩٣٣] تمرّ الى
+طول {ov:لب {z}} والعرض {ov:له ں} (١٣٨٣) [٩٣٤] تمرّ الى طول {ov:كح م} والعرض {ov:لز ں} (١٣٨٤)
+[٩٣٥] وتمرّ الى الموضع الّذى منه ابتدأ⟨نا⟩{n:e} وهو عند طول {ov:كح ك} والعرض {ov:له مه}{n:f} *
+اربع جزائر مقدار ثلثى جزء فيما بين طول {ov:لٮ {z}} (١٣٨٥) الى طول {ov:لر ك} (١٣٨٦)
+وهى صفّ واحد وأوسطها على عرض {ov:م {z}} * جزيرة مقدار ربع جزء وسطها عند طول
+{ov:لب ل} والعرض {ov:لز م} (١٣٨٧) * جزيرة مقدار ربع جزء وسطها عند طول {ov:لب م}
+والعرض {ov:لر ل} (١٣٨٨) * ثلث جزائر مقدار ثلث جزء ثلث جزء وهى فيما بين طول
+{ov:لج {z}} (١٣٨٩) الى طول {ov:له ك}{n:g} (١٣٩٠) وسطها على عرض {ov:لد ل} * جزيرة مقدار
+ثلث جزء وسطها على ⟨طول⟩{n:h} {ov:لد {z}} والعرض {ov:لب ك} (١٣٩١) * جزيرة مقدار نصف
+جزء وسطها على طول {ov:له ل} والعرض {ov:لج {z}}{n:i} (١٣٩٢) * جزيرة ڡلڡوسس{n:k} فيها مدينة{n:l}
+@ednotes a b c d e f g h i k l 4
+@obs The islands in the sea of Tangier go on from p. 89 (frame 095), whose last word, «اربع», L01 continues with «جزائر كلّ جزيرة مقدار ثلث جزء فى ثلث جزء كلّها فى مقدار جزءين فى جزءين وسط ذٰلك عند طول كو م والعرض لح {z} (١٣٧٦)», four islands, each of the size of a third of a degree by a third of a degree, all of them within two degrees by two degrees, the middle of that at the longitude 26° 40′ and the latitude لح {z}.
+@obs L02-L06: «جزيرة قيرش فيها مدينتان اوّلها عند طول كح ن والعرض لح ن», the island قيرش, on which are two towns; the first point of its coast is at the longitude كح ن and the latitude لح ن (point 1377); then «تمرّ الى طول … والعرض …», points 1378-1380, and «تمرّ الى الموضع الّذى منه ابتدأنا وهو عند طول كح ن والعرض لح ن», back to the place from which we began, without a running number; the editor's note d identifies it with point 1377. «قيرش» has the two dots of the ق, the two dots of the ي below and the three dots of the ش; the editor's note b gives the forms of the name at three other entries.
+@obs L06-L09: «جزيرة سرحس فيها اربع مدن اوّلها عند طول كح ك والعرض له مه», the island سرحس, on which are four towns; the first point of its coast is at the longitude كح ك and the latitude 35° 45′ (point 1381); then points 1382-1384, and «وتمرّ الى الموضع الّذى منه ابتدأ⟨نا⟩ وهو عند طول كح ك والعرض له مه», back to the place from which we began, without a running number; the editor's note f identifies it with point 1381. «سرحس» has no dot in the ح.
+@obs L10-L16: «اربع جزائر مقدار ثلثى جزء فيما بين طول لٮ {z} (١٣٨٥) الى طول لر ك (١٣٨٦) وهى صفّ واحد وأوسطها على عرض م {z}», four islands of the size of two thirds of a degree, between the longitude لٮ {z} and the longitude لر ك, in one row, their middles on the latitude 40° 0′; two islands of a quarter of a degree, «ربع جزء» (L11, L12), points 1387 and 1388; «ثلث جزائر مقدار ثلث جزء ثلث جزء وهى فيما بين طول لج {z} (١٣٨٩) الى طول له ك (١٣٩٠) وسطها على عرض لد ل», three islands of a third of a degree by a third of a degree, between the longitude 33° 0′ and the longitude 35° 20′, their middle on the latitude 34° 30′; an island of a third of a degree, point 1391, and an island of half a degree, «نصف جزء» (L15-L16), point 1392; then «جزيرة ڡلڡوسس فيها مدينة», the island ڡلڡوسس, on which is a town, continued on p. 91. «ڡلڡوسس» has no dots: two closed loops, the second with a white counter, joined by the ل and followed by the و and the two س.
+@obs The running numbers run (١٣٧٦)-(١٣٩٢) without a gap; the numbers of Suhrāb, [٩٢٨]-[٩٣٥], stand after (١٣٧٧)-(١٣٨٤), without a gap. Each island or group ends with a small open star with six points, transcribed as an asterisk (L02, L06, L09, L11-L16); the star of L02 has its inner ring broken open. L04: the folio of the Strasbourg manuscript, «(fol. 24ᵇ)», is printed in Latin type within the line, between [٩٢٩] and «تمرّ»; transcribed as a margin note before the line.
+@obs L09: «ابتدأ⟨نا⟩», the نا between angle brackets, followed by the note mark e; L15: «⟨طول⟩», between angle brackets, followed by the note mark h: the manuscript lacks the words between the brackets, and the editor supplies them (notes e and h). Transcribed with the brackets.
+@obs Signs in the text, transcribed as printed: «كلّها» (L01), «صفّ» (L11), «تمرّ», «وتمرّ» and «اوّلها» (L02, L06) with a shadda; «الّذى» (L05, L09) with a shadda over the ل; «ذٰلك» (L01) with a dagger alif above the ذ; «جزءين» (L01, twice) with a hamza between the ز and the ي; «جزء» with a hamza on the line after the ز; «ابتدأنا» (L05) and «ابتدأ» (L09) with a hamza over the alif; «وأوسطها» (L11) with a hamza over the alif; «الّذى», «فى», «ثلثى» and «وهى» end in a ى without dots. L01: over the ل of «كلّ» the shadda is printed as a solid mark, 12 by 11 px, where the shadda of the font is a small sign of about 12 by 7 px (frame 091, L14); transcribed with the shadda.
+@obs Letters printed without their dots in the numerals, transcribed so: «لٮ» (L03, L04, L10, the degrees of the longitude), the flat final bowl of the ب without its dot, 32, where L07, L08, L12 and L15 print «لب» with the dot below; «ں» (L08, the minutes of both latitudes), the bowl of a final ن without its dot, 50, where L03, L05 and L06 print «ن» with the dot. With their dots: «لج» (L14, L16), with the dot of the ج, 33; «لز» (L12, the degrees of the latitude), with the dot of the ز, 37.
+@obs L08, the degrees of the second latitude, «لز»: over the head of the ز stands a thin arc, 9 by 5 px, open below, where the dot of the ز stands in L12 (11 by 12 px); transcribed as the dot, لز, 37.
+@unres L08: the thin arc over the ز may be a speck: لر ں, read as 37 all the same. Transcribed لز ں.
+@obs In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: «لر» (L10, the degrees of the longitude; L13, the degrees of the latitude), 37.
+@obs The ح of the numerals, «لح» (L02, L03, L06) and «كح» (L03, L06, L08, L09), shows no dot in the bowl; the same form is a ج without its dot, 3, which L14 and L16 print with its dot. Transcribed as printed. The isolated ك, 20, is printed with the small inner stroke of the letter (L04, L06, L09, L10, L14, L15). L07: in the minutes of the second latitude, «مه», the م is printed apart from the ه.
+@obs L04: the text prints «لٮ ك», the ب without its dot, and the editor's note c gives the reading of the manuscript as «لب ك», with the dot of the ب.
+@obs L16: the latitude of island 1392 is printed «لج {z}», with the dot of the ج; the editor's note i gives the reading of the manuscript and a variant reading, both different.
+@obs Note marks: L02, a after the latitude and b after «قيرش»; L04, c after the longitude; L06, d after the latitude; L09, e after «⟨نا⟩» and f after the latitude; L14, g after the second longitude; L15, h after «⟨طول⟩»; L16, i after the latitude, k after «ڡلڡوسس» and l after «مدينة».
+@obs Marks not transcribed: L05, a short oblique stroke, 11 by 7 px, with two specks beside it, about 25 px below the ل of the minutes of the longitude, «كط ل»; L12, a speck of 5 by 6 px at the left of the tail of the م of «لز م».
+@obs The editor's footnotes stand in four lines below a short rule at the left: notes a-l. The page number «— ٩٠ —» stands at the foot, centred.
+@variant L02: a variant reading of the latitude is لح م, with a line over the numerals (note a).
+@variant L02: at entry (346) the name of the island is written فربس, at entry (1921) ڡرس, with a loop without dots, and at entry (1927) قرنس (note b).
+@variant L04: the manuscript has لب ك for the longitude, with the dot of the ب and a line over the numerals; the editor marks the reading «sic» (note c).
+@variant L06: the point is the same as point 1377 (note d).
+@variant L09: the manuscript lacks the نا of ابتدأنا; the editor supplies it (note e).
+@variant L09: the point is the same as point 1381 (note f).
+@variant L14: variant readings of the second longitude are لد ك and ل ك, each with a line over the numerals (note g).
+@variant L15: the manuscript lacks the word طول; the editor supplies it (note h).
+@variant L16: the manuscript has ٮح {z} for the latitude, the tooth without a dot, and a variant reading is لح ه, each with a line over the numerals (note i).
+@variant L16: a variant reading of the name is ڡلٮوسس, with a loop and a tooth without dots (note k).
+@variant L16: the manuscript has مدينتين, two towns, for مدينة (note l).

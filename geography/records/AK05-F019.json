@@ -1,0 +1,438 @@
+{
+ "anchor": "AK05-F019",
+ "frame": 19,
+ "frame_file": "page_019.jpg",
+ "frame_sha256": "54403f3a681978f506b3a422b9b3f70f9e20219669c810f897460a5f136e318a",
+ "printed_page": "١٣",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 019, printed p. 13: the cities of the third clime continued, entries 148-164: Ṭaḥā, then ten places of Egypt, al-Qays, Iqnā, Ahnās, al-Bahnasā, Qamin, Dalāṣ, al-Fayyūm, Manf, Qaṣr Miṣr and ʿAyn Shams, for which the table gives two longitudes, the second after the word «اخرى»; then Qūnā, al-Qulzum on the sea, a city, Madyan, al-Jār and the city of the Prophet. Two lines of the editor's footnotes, with one word of a third.",
+ "lines": [
+  {
+   "id": "AK05-F019-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(١٤٨) | | طحا^4 | نز | مه | كز | يه",
+   "margin": null,
+   "cells": [
+    "(١٤٨)",
+    "",
+    "طحا^4",
+    "نز",
+    "مه",
+    "كز",
+    "يه"
+   ],
+   "plain": "(١٤٨) | | طحا^4 | نز | مه | كز | يه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(١٤٩) | | القيس | ٮح | {z} | اخرى{n:a} | نح | ⟨{z}⟩{n:b} | كز | نط",
+   "margin": null,
+   "cells": [
+    "(١٤٩)",
+    "",
+    "القيس",
+    "ٮح",
+    "{z}",
+    "اخرى{n:a}",
+    "نح",
+    "⟨{z}⟩{n:b}",
+    "كز",
+    "نط"
+   ],
+   "plain": "(١٤٩) | | القيس | ٮح | ō | اخرى | نح | ⟨ō⟩ | كز | نط",
+   "note_marks": [
+    "a",
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(١٥٠) | | اقنا | س | {z} | اخرى | ٮح | ⟨{z}⟩{n:c} | كر | ل",
+   "margin": null,
+   "cells": [
+    "(١٥٠)",
+    "",
+    "اقنا",
+    "س",
+    "{z}",
+    "اخرى",
+    "ٮح",
+    "⟨{z}⟩{n:c}",
+    "كر",
+    "ل"
+   ],
+   "plain": "(١٥٠) | | اقنا | س | ō | اخرى | ٮح | ⟨ō⟩ | كر | ل",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(١٥١) | | اهناس | س | ى | اخرى | نح | ⟨{z}⟩{n:d} | كح | {z}",
+   "margin": null,
+   "cells": [
+    "(١٥١)",
+    "",
+    "اهناس",
+    "س",
+    "ى",
+    "اخرى",
+    "نح",
+    "⟨{z}⟩{n:d}",
+    "كح",
+    "{z}"
+   ],
+   "plain": "(١٥١) | | اهناس | س | ى | اخرى | نح | ⟨ō⟩ | كح | ō",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(١٥٢) | | البهنسا | س | له | اخرى | نح | م | كط | {z}",
+   "margin": null,
+   "cells": [
+    "(١٥٢)",
+    "",
+    "البهنسا",
+    "س",
+    "له",
+    "اخرى",
+    "نح",
+    "م",
+    "كط",
+    "{z}"
+   ],
+   "plain": "(١٥٢) | | البهنسا | س | له | اخرى | نح | م | كط | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(١٥٣) | | قمن{n:e} | سا | ه | اخرى | ند | ه | كح | ى",
+   "margin": null,
+   "cells": [
+    "(١٥٣)",
+    "",
+    "قمن{n:e}",
+    "سا",
+    "ه",
+    "اخرى",
+    "ند",
+    "ه",
+    "كح",
+    "ى"
+   ],
+   "plain": "(١٥٣) | | قمن | سا | ه | اخرى | ند | ه | كح | ى",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(١٥٤) | | دلاص | سا | ك | اخرى | ند | ⟨{z}⟩{n:f} | كر | ٮه",
+   "margin": null,
+   "cells": [
+    "(١٥٤)",
+    "",
+    "دلاص",
+    "سا",
+    "ك",
+    "اخرى",
+    "ند",
+    "⟨{z}⟩{n:f}",
+    "كر",
+    "ٮه"
+   ],
+   "plain": "(١٥٤) | | دلاص | سا | ك | اخرى | ند | ⟨ō⟩ | كر | ٮه",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(١٥٥) | | الفيّوم | سا | نه | اخرى | ند | ٮه | كح | {z}",
+   "margin": null,
+   "cells": [
+    "(١٥٥)",
+    "",
+    "الفيّوم",
+    "سا",
+    "نه",
+    "اخرى",
+    "ند",
+    "ٮه",
+    "كح",
+    "{z}"
+   ],
+   "plain": "(١٥٥) | | الفيّوم | سا | نه | اخرى | ند | ٮه | كح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(١٥٦) | | منف | سا | مه | اخرى | ند | م | كط | يه",
+   "margin": null,
+   "cells": [
+    "(١٥٦)",
+    "",
+    "منف",
+    "سا",
+    "مه",
+    "اخرى",
+    "ند",
+    "م",
+    "كط",
+    "يه"
+   ],
+   "plain": "(١٥٦) | | منف | سا | مه | اخرى | ند | م | كط | يه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(١٥٧) | | قصر مصر | سا | ن | اخرى | ند | ں | ل | {z}",
+   "margin": null,
+   "cells": [
+    "(١٥٧)",
+    "",
+    "قصر مصر",
+    "سا",
+    "ن",
+    "اخرى",
+    "ند",
+    "ں",
+    "ل",
+    "{z}"
+   ],
+   "plain": "(١٥٧) | | قصر مصر | سا | ن | اخرى | ند | ں | ل | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(١٥٨) | | عين شمس | سا | ن | اخرى | ند | مه | ل | د",
+   "margin": null,
+   "cells": [
+    "(١٥٨)",
+    "",
+    "عين شمس",
+    "سا",
+    "ن",
+    "اخرى",
+    "ند",
+    "مه",
+    "ل",
+    "د"
+   ],
+   "plain": "(١٥٨) | | عين شمس | سا | ن | اخرى | ند | مه | ل | د",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(١٥٩) | [١٢٤] | مدينة قونا^4 | نه | م | كر | {z}",
+   "margin": null,
+   "cells": [
+    "(١٥٩)",
+    "[١٢٤]",
+    "مدينة قونا^4",
+    "نه",
+    "م",
+    "كر",
+    "{z}"
+   ],
+   "plain": "(١٥٩) | [١٢٤] | مدينة قونا^4 | نه | م | كر | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(١٦٠) | [١٢٥] | القلزم على البحر^4 | ٮو | ل | كح | ك",
+   "margin": null,
+   "cells": [
+    "(١٦٠)",
+    "[١٢٥]",
+    "القلزم على البحر^4",
+    "ٮو",
+    "ل",
+    "كح",
+    "ك"
+   ],
+   "plain": "(١٦٠) | [١٢٥] | القلزم على البحر^4 | ٮو | ل | كح | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(١٦١) | [١٢٦] | مدينة^4 | ٮر | م | ل | يه",
+   "margin": null,
+   "cells": [
+    "(١٦١)",
+    "[١٢٦]",
+    "مدينة^4",
+    "ٮر",
+    "م",
+    "ل",
+    "يه"
+   ],
+   "plain": "(١٦١) | [١٢٦] | مدينة^4 | ٮر | م | ل | يه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(١٦٢) | [١٢٧] | مدينة مدين{n:g}^4 | سا | ك | كط | {z}",
+   "margin": null,
+   "cells": [
+    "(١٦٢)",
+    "[١٢٧]",
+    "مدينة مدين{n:g}^4",
+    "سا",
+    "ك",
+    "كط",
+    "{z}"
+   ],
+   "plain": "(١٦٢) | [١٢٧] | مدينة مدين^4 | سا | ك | كط | ō",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(١٦٣) | [١٢٨] | الجار{n:h}^4 | سد | ك | كد | {z}",
+   "margin": null,
+   "cells": [
+    "(١٦٣)",
+    "[١٢٨]",
+    "الجار{n:h}^4",
+    "سد",
+    "ك",
+    "كد",
+    "{z}"
+   ],
+   "plain": "(١٦٣) | [١٢٨] | الجار^4 | سد | ك | كد | ō",
+   "note_marks": [
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F019-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(١٦٤) | [١٢٩] | مدينة الرسول عليه السلام^4 | سه | ك | كه | {z}",
+   "margin": null,
+   "cells": [
+    "(١٦٤)",
+    "[١٢٩]",
+    "مدينة الرسول عليه السلام^4",
+    "سه",
+    "ك",
+    "كه",
+    "{z}"
+   ],
+   "plain": "(١٦٤) | [١٢٩] | مدينة الرسول عليه السلام^4 | سه | ك | كه | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L02: the minutes of the second longitude are missing in the manuscript.",
+  "L03: the minutes of the second longitude are missing in the manuscript.",
+  "L04: the minutes of the second longitude are missing in the manuscript.",
+  "L06: the manuscript reads ڡمن for قمن, without the dots of the ق.",
+  "L07: the minutes of the second longitude are missing in the manuscript.",
+  "L15: the manuscript reads مدن for مدين.",
+  "L16: at entry (1239) the name الجار is written الحار, without the dot of the ج."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 018 without a heading: the cities of the third clime, entries 148-164. For entries 149-158 the table has a further pair of columns, ruled like the others, between the names and the longitudes: it holds a first longitude, degrees and minutes, then the word «اخرى» stands between the columns, and the longitude columns hold the second; the latitude follows as usual. Entries 148 and 159-164 have one longitude, and their names stand over the further columns; transcribed so, the name spanning them. Entries 148-158 have no numbers of Suhrāb; entries 159-164 have [١٢٤]-[١٢٩]. Entries 148-158 and 160 and 163 are printed without the word «مدينة»; entry 161 is the word «مدينة» alone.",
+  "L02: the editor's note a, at the first «اخرى», says that the word نسخة is to be supplied: «نسخة اخرى», another copy. The note mark stands only at L02; the word recurs without it in L03-L11.",
+  "L02-L04, L07: the minutes of the second longitude are printed as a zero sign between angle brackets, «⟨ō⟩», the editor's sign for what he supplies; his notes b, c, d and f say that the minutes are missing in the manuscript.",
+  "Letters printed without their dots in the numerals, transcribed so: ٮح (L02, the first longitude; L03, the second), the tooth without its dot; ٮو (L13, the degrees of the longitude), the tooth without its dot; ٮه (L07, the minutes of the latitude; L08, the minutes of the second longitude), a tooth joined to a final ه; ں (L10, the minutes of the second longitude), the bowl of a final ن without its dot. With their dots: نز (L01), نح (L02, L04, L05), ند (L06-L11), نه (L12), the ن with its dot; ن (L10, L11, the minutes of the first longitude); كز (L01, L02) and نز (L01), the ز with its dot; يه (L01, L09, L14), the ي with its two dots. The isolated ه, 5 (L06, the minutes of both longitudes), is a small round ring.",
+  "L03, L07, L12: the degrees of the latitude are printed كر, with ر, and L14: the degrees of the longitude, ٮر; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII). Transcribed ر as printed.",
+  "L14: the degrees of the longitude, ٮر: a tooth without a dot joined to a ر, the two strokes forming a notch at the top, where the isolated ر of the font is a plain curved stroke (frame 021, L09, where the ر alone stands for 7); the neighbouring entries have نه, ٮو, سا, سد and سه. Transcribed ٮر.",
+  "L08: «الفيّوم», with a shadda over the ي. L02: two small specks stand on the line after «القيس»; they are not transcribed.",
+  "The isolated ك of the minutes (L07, the first longitude; L13, the latitude; L15-L17, the longitude) is printed with the small inner stroke of the letter.",
+  "The page number «— ١٣ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

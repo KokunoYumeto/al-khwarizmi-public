@@ -1,0 +1,26 @@
+@page 3 ٢
+% PDF 3, printed p. 2: the beginning of the treatise: the basmala; the duty of the wise to keep the customs of the
+% righteous; the Torah on the lights as signs for times, days and years (Genesis 1:14); the command to keep the month
+% of the flowers, Nisan, and the Passover on its fifteenth night, at the full moon (de Blois's section 1).
+@c بسم الله الرحمن الرحيم
+ان العاقل حقيق ان تكون عنايته مصروفة فيما يستصلح به مفترض
+دينه ويحيي به سنن الصالحين من سلفه فاذا فعل ذلك توكل الله
+له بالكفاية وايده بالمؤونة واتاه اجر الدارين الدنيا والآخرة •
+@p ان الله تبارك وتعالى قال فى التوراة فى السفر الاول لكن
+الصبا فى ربيع فصلا بين الليل والنهار ودليلا على الاوقات والايام
+والسنين ثم امر الله تعالى موسى عليه السلام فى السفر الخامس
+الموكد لما قبله من الاسفار ان يحتفظ بشهر الاوراد وهو شهر نيسن
+الذى يتجدد فيه الشهر ويورق فيه الشجر وتتشقق الارض عن
+زهراتها ويدرك فيه الشعير وان يتخذ فى الليلة الخامسة عشرة منه
+فسحا لربه بما امتن الله به عليه وعلى بنى اسرائيل فى اخراجهم من
+ارض مصر ليلا وان يكون ذلك موافقا لامتلاء القمر وتمام نوره
+وجعله رأس الشهور وانزل به الوحى فى السفر الاول ثم امر فى
+السفر الثانى ان يحتفظ بهذه الليلة طول الابد مع آى كثيرة من
+التورٰة اكد ذلك فيه لما اراد من اختيار بنى اسرائيل وامتحانهم
+@obs The running head «استخراج تاريخ اليهود للخوارزمى» stands at the head of the page, the page number «٢» at its right; at the lower left the catchword «وابتلاء», the first word of p. 3 (PDF 4); recorded here, not transcribed as lines. L01, the basmala, is centred; L05 begins with a paragraph indent. L04 ends with the edition's full stop, a large round dot at mid-height, written •.
+@obs Spacing. The edition sets the letters that do not join the next with irregular white after them: on this page the white inside a word after such a letter measures 5 to 14 px (العا قل, الصا لحين, ذ لك 13 px), and a word space 6 to 17 px (calendar/tools/gaps.py), so that the gaps do not show where a word ends. The words are divided by the sense. Where the print suggests another division: L03, the alif of اذا stands 7 px from فعل and 14 px from the ذ, so that the line reads at first sight «فاذ افعل»; L06, «والنهار ودليلا» is set «والنها رود ليلا» (13 px after the alif, 15 px after the د), and «ليلا على» with 6 px between the words.
+@obs Read as printed: L02 «مفترض»; L04 «بالمؤونة», with the hamza on the first و, «والآخرة» with the madda; L08 «الموكد» without hamza, «الاوراد», «نيسن»; L11 «فسحا», the Passover, with س; L13 «رأس» with the hamza; L14 «آى» with the madda and the final ى without dots; L15 «التورٰة», with a small raised alif in place of the alif of التوراة (so printed with the full alif in L05). L14: the two dots of the ي of «كثيرة» run into the tail of the ر; L06: those of «والايام» stand low under the line.
+@obs In the left margin beside L06, a short vertical stroke (about 25 px), outside the text block; not transcribed.
+@critical AK15-CN001 | missing letter | L05 | لكن | لتكن | the quotation is Genesis 1:14, «Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years» (Hebrew yehi meʾorot birqiaʿ ha-shamayim); the sentence needs the verb «let there be», لتكن; «لكن», «but», gives no sense before «الصبا فى ربيع فصلا بين الليل والنهار» | medium | none
+@critical AK15-CN002 | wrong letter | L06 | ربيع | رقيع | «the firmament» of Genesis 1:14 is Hebrew raqiaʿ, which Arabic versions of the Bible keep as رقيع; «ربيع», «spring», gives no sense here; ب and ق differ only in their dots | medium | none
+@critical AK15-CN003 | probable misprint | L06 | الصبا | الضياء (?) | Genesis 1:14 has «lights» (Hebrew meʾorot) as the subject that divides the day from the night; «الصبا» (the east wind; youth) gives no sense; الضيا(ء), «the light», differs from it only in the dots of ض and ي; another word for the lights is possible | low | none

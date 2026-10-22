@@ -1,0 +1,31 @@
+@page 165 ١٥٩
+% Frame 165, printed p. 159: the beginning of the editor's index, «فهرس», in Arabic: the sections of the text with the
+% printed pages on which they stand, the cities from beyond the equator to beyond the seventh clime and the mountains
+% from beyond the equator to the fourth clime.
+@cols 125,25
+@align r,c
+@h * فهرس *
+@c * المدن الّتى على كرة الأرض المعمورة *
+@rh | صحيفة
+@r المدن الّتى خلف خطّ الاستواء | ٣
+@r المدن الّتى فى الإقليم الأوّل | ٤—٨
+@r المدن الّتى فى الإقليم الثانى | ٨—١١
+@r المدن الّتى فى الإقليم الثالث | ١١—١٥
+@r المدن الّتى فى الإقليم الرابع | ١٥—٢٣
+@r المدن الّتى فى الإقليم الخامس | ٢٣—٢٨
+@r المدن الّتى فى الإقليم السادس | ٢٨—٣٢
+@r المدن الّتى فى الإقليم السابع | ٣٣—٣٤
+@r المدن الّتى خلف الإقليم السابع الى عرض ثلٰثة وستّين | ٣٥—٣٧
+@c * الجبال الّتى على كرة الأرض المعمورة *
+@r الجبال الّتى خلف خطّ الاستواء | ٣٨—٣٩
+@r الجبال الّتى فى الإقليم الأوّل | ٣٨—٤٣
+@c صفة الجبل المحيط بجزيرة الياقوت ٤٢—٤٣
+@r الجبال الّتى فى الإقليم الثانى | ٤٢—٤٧
+@r الجبال الّتى فى الإقليم الثالث | ٤٦—٥١
+@r الجبال الّتى فى الإقليم الرابع | ٥٠—٥٣
+@obs The editor's index of the edition begins here, after the end of the text on p. 158 (frame 164): «* فهرس *», index, in the large type, centred, between two small open stars; then the sections of the text, each with the printed pages of the edition on which it stands, in a column at the left under the head «صحيفة», page. The printed page N of the text is frame N + 6 (p. 3 is frame 009, p. 158 frame 164). Transcribed as a table of two columns, the section and its pages.
+@obs L02, L13: the heads of the two groups of the page, centred, between two small open stars: «* المدن الّتى على كرة الأرض المعمورة *», the cities on the globe of the inhabited earth, and «* الجبال الّتى على كرة الأرض المعمورة *», the mountains on the globe of the inhabited earth. L03: «صحيفة», the head of the column of the pages, at the left, below the first of them.
+@obs The pages are given with Arabic-Indic digits, a range with a long dash between its first and its last page, the first at the right: «٤—٨», pp. 4-8. They agree with the frames: the cities beyond the equator stand on p. 3 (frame 009), the table of the mountains begins on p. 38 (frame 044), and the description of the mountain around the island of the Yāqūt, «صفة الجبل المحيط بجزيرة الياقوت», on pp. 42-43 (frames 048-049).
+@obs L16: «صفة الجبل المحيط بجزيرة الياقوت ٤٢—٤٣» is set as a sub-entry under the first clime, indented from the right, with its pages after it in the middle of the line, not in the column at the left; transcribed as a centred line.
+@obs Signs, transcribed as printed: «الّتى» with a shadda over the ل; «خطّ» (L04, L14) with a shadda over the ط; «الاستواء» with a hamza on the line; «الإقليم» with a hamza below the alif; «الأوّل» (L05, L15) with a hamza over the alif and a shadda over the و; «الأرض» (L02, L13) with a hamza over the alif; «ثلٰثة» (L12) with a small alif over the ل and «وستّين» with a shadda over the ت; «فى» and «الى» end in a ى without dots.
+@obs The page number «— ١٥٩ —» stands at the foot, centred. The page has no footnotes.

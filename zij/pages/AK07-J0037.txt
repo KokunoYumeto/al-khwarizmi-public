@@ -1,0 +1,53 @@
+@page 37 5
+@lang la
+% JP2 0037: the Latin text, p. 5: the end of chapter 3; chapter 4, on finding the first weekday of the Arab months by the
+% notulae of the collected years, the single years and the months; the epoch of 1126; with the apparatus (notes 1-48).
+iunxerunt, annos videlicet planos ab uno ad XXX vocantes, collectos{sup:1}) vero quicun-
+que secundum trigenarium numerum coacervantur{sup:2}). Nos autem ad sequentia
+transeamus.
+@c {b:Cap. 4. De introitu{sup:3}) mensium arabum secundum tabulam subscriptam{sup:4}).}
+@p Executio itaque{sup:5}) tabulae suppositae{sup:6}) per quam principium{sup:7}) mensium arabum
+invenitur haec est : Signabitur ergo{sup:8}) annorum collectorum notula{sup:9}), deinde notula{sup:10})
+annorum planorum secundum praesens tempus{sup:11}) ; postremo notula quoque{sup:12}) men-
+sis{sup:13}), cuius{sup:14}) introitum quaerimus{sup:15}). Iunctis autem{sup:16}) illis tribus notulis{sup:17}), ab
+earum{sup:18}) acervo{sup:19}) septenarius auferendus est{sup:20}), quodque{sup:21}) residuum fuerit, pri-
+mam diem mensis quaesitam monstrat. Si enim{sup:22}) unitas residua fuerit, prima feria,
+sin autem{sup:23}) binarius, secunda significatur, et sic de ceteris. Ordo autem notu-
+larum{sup:24}) primo mensium quidem hic{sup:25}) est. Cum enim primo mensi{sup:26}) prima feria
+data sit, atque eidem XXX dies numerandi ratione, secundo mensi tertia ab ea ac-
+cidet feria{sup:27}). Cui quia XXIX dies dati sunt, numerando quidem{sup:28}) tertio mensi
+@m C 42{sup:r}
+quarta accidet feria | et sic de ceteris. Quoniam{sup:29}) autem secundum dierum dato-
+rum numerum ultimi mensis quaternarius notula{sup:30}) est, primus quoque{sup:31}) annus
+planus quaternario notatur. Cui quaternario{sup:32}) quaternarium addendo et ab inde
+coacervato{sup:33}) septenarium auferendo secundi anni plani notula{sup:34}) nascetur, et sic de
+ceteris excepto eo quod in congestis unitate crescit additio ex congestione quintae et
+sextae partis supradictae, unde hic ordo variatur. Quoniam{sup:35}) vero secundum hanc{sup:36})
+regulam tum ex quaternarii additione et septenarii ablatione, tum ex partium con-
+gestione ultimi plani quinarius{sup:37}) notula{sup:33}) est, primus quoque{sup:39}) collectorum{sup:40})
+quinario notatur. Cui quidem{sup:41}) quinarium addendo et ab inde coacervato{sup:42}) sep-
+tenarium{sup:43}) auferendo secunda collectorum notula{sup:44}) nascitur{sup:45}), et sic de cete-
+ris. Certitudo itaque tabulae secundum praedictam numerandi rationem{sup:46}) con-
+stituetur.
+@p Anno ab incarnatione domini MCXXVI die januarii XXVI prima fuit dies {i:Al-}
+{i:muharram}{sup:47}) et feria tertia, annus autem arabicus DXX{sup:48}).
+@n {sup:1}) collectos] collectis M. — {sup:2}) coacervantur] {i:corr. ex} coadcervantur M. — {sup:3}) introitu] inventione
+@n introitus O. — {sup:4}) subscriptam] praescriptam M ; secundum . . . . subscriptam] {i:om.} O. — {sup:5}) itaque]
+@n namque M. — {sup:6}) suppositae] praepositae M. — {sup:7}) principium] introitus O. — {sup:8}) ergo] {i:om.} O. — {sup:9}) notula]
+@n nota O. — {sup:10}) notula] {i:om.} O. — {sup:11}) tempus] tempus nota O. — {sup:12}) notula quoque] {i:om.} O. —{sup:13}) mensis]
+@n menses M. — {sup:14}) cuius] cuiusque O. — {sup:15}) quaerimus] quaerimus nota O. — {sup:16}) autem] itaque O. —
+@n {sup:17}) notulis] {i:om.} O. — {sup:18}) earum] eorum O. — {sup:19}) acervo] summa O. — {sup:20}) auferendus est] aufertur O.
+@n — {sup:21}) quodque] quod ergo O. — {sup:22}) enim] autem M. — {sup:23}) sin autem] si vero O. — {sup:24}) notularum] no-
+@n tarum O. — {sup:25}) hic] hec O. — {sup:26}) mensi] mensis C. — {sup:27}) secundo . . . . feria] tertia ab ea accidet feria
+@n secundo mensi C. — {sup:28}) quidem] {i:om.} O. — {sup:29}) Quoniam] sicut O. — {sup:30}) notula] nota O. — {sup:31}) primus
+@n quoque] sic primus O. — {sup:32}) quaternario] quaternio M. — {sup:33}) ab inde coacervato] a tota hac summa O.
+@n — {sup:34}) notula] nota O. — {sup:35}) Quoniam] Cum O. — {sup:36}) hanc] {i:om.} M. — {sup:37}) quinarius] quaternarius M. —
+@n {sup:38}) notula] nota O. — {sup:39}) primus quoque] tum etiam O. — {sup:40}) collectorum] collectus O. — {sup:41}) quidem]
+@n {i:om.} O. — {sup:42}) inde coacervato] hac summa O. — {sup:43}) septenarium] O, septem CMN. — {sup:44}) collectorum
+@n notula] M, nota O. — {sup:45}) nascitur] {i:om.} C. — {sup:46}) rationem] {i:om.} C. — {sup:47}) Almuharram] Almuharran O. —
+@n {sup:48}) Anno . . . . DXX] O, {i:om.} CN.
+@obs The page number «5» stands at the head of the page, centred, with a rule below it. L01-L03 end chapter 3 (p. 4, JP2 0036). L04: the chapter heading, in bold, centred. L15: the vertical bar between «feria» and «et» marks the beginning of fol. 42 recto of C, which the note in the right margin, «C 42r», names; transcribed as a margin note.
+@obs L06: the i of «invenitur» is a sort that stands raised above the base line, its foot at the height of the middle of the n; transcribed «invenitur». L09: the e of «quodque» is lightly printed, with a stain beside it.
+@obs L27-L28: the epoch of the example, 26 January 1126, a Tuesday (feria tertia), the first day of al-Muharram of the Arab year 520; the sentence stands only in O (note 48). Checked: in the arithmetical calendar of the Hijra 1 Muharram 520 falls on 27 January 1126 (Julian), a Wednesday, counted from the civil epoch (16 July 622), and on 26 January, a Tuesday, counted from the astronomical epoch (15 July 622), one day earlier, which the text follows.
+@obs N04: «O. —{sup:13})», the dash set close to the note number. The colon of L06 and the semicolon of L07 stand after the thin space of the edition (14 and 11 px measured).
+@critical AK07-CN015 | wrong note number | L22 | notula{sup:33}) | notula{sup:38}) | the note numbers of the line run 37, 38, 39, 40, and the apparatus has note 38 on «notula» (N12, «38) notula] nota O.»); the number after «notula» is printed 33, which is already the note on «coacervato» in L18 | high | the variant of O belongs to note 38

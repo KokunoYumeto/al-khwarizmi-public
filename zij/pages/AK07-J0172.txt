@@ -1,0 +1,59 @@
+@page 172 140
+@lang la
+% JP2 0172: Tab. 29, p. 140: the equations of Saturn, with its corrected apogee, first station and latitude, for the
+% arguments 2s 1° to 3s 0° (and 9s 29° to 9s 0°), with the apparatus (notes 1-4 and a-k).
+@c {b:Coaequatio Saturni} (N) — {b:Tadil zohal} (O)
+@c {b:Examinatio Saturni} (C)
+@ml C 57{sup:r}, O 114{sup:v},
+@c {b:Locus draconis eius 3 S. 13 G. 12 M.} (CO)
+@tw size=footnotesize span=1.14 0.85 0.85 0.85 0.85 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.75
+@ml N 26{sup:v}.
+@t Pagina numerorum (O){sup:1}) |  |  |  | Sublimatio |  |  | Exami- |  | Exami- |  | Statio prima |  |  | Latitudo Saturni |  |  |  |
+@t Catar eladed (C) |  |  |  | ascensus |  |  | natio |  | natio |  | Saturni |  |  | accedentis |  |  |  |
+@t Augmentum |  | Dimlnutio |  | Saturni |  |  | ipsius |  | centri |  |  |  |  | {b:prima} |  | {b:secunda} |  |
+@t proprietatum |  | proprietatum |  | examinata{sup:3}) |  |  | elheza{sup:4}) |  |  |  |  |  |  |  |  |  |  |
+@t omnium{sup:2}) |  | omnium{sup:2}) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 2 | 1 | 9 | 29 | 8 | 2 | 33 | 4 | 45 | 7 | 30 | 3 | 23 | 29 | 1 | 21 | 4 | 22 | 23
+@t 2 | 2 | 9 | 28 | 8 | 2 | 31 | 4 | 48 | 7 | 33 | 3 | 23 | 30 | 1 | 21 | 4 | 24 | 53
+@t 2 | 3 | 9 | 27 | 8 | 2 | 30 | 4 | 51 | 7 | 37 | 3 | 23 | 32 | 1 | 21 | 4 | 27 | 18
+@t 2 | 4 | 9 | 26 | 8 | 2 | 28 | 4 | 54 | 7 | 40 | 3 | 23 | 33 | 1 | 21 | 4 | 29 | 38
+@t 2 | 5 | 9 | 25 | 8 | 2 | 27 | 4 | 57 | 7 | 44 | 3 | 23 | 34 | 1 | 21 | 4 | 31 | 53
+@t 2 | 6 | 9 | 24 | 8 | 2 | 25 | 5 | 0 | 7 | 47 | 3 | 23 | 36 | 1 | 21 | 4 | 34 | 4
+@t 2 | 7 | 9 | 23 | 8 | 2 | 24 | 5 | 3 | 7 | 51 | 3 | 23 | 37 | 1 | 21 | 4 | 36 | 9
+@t 2 | 8 | 9 | 22 | 8 | 2 | 23 | 5 | 5 | 7{sup:c}) | 54 | 3 | 23 | 38 | 1 | 21 | 4 | 38 | 9
+@t 2 | 9 | 9 | 21 | 8 | 2 | 21 | 5 | 8 | 7{sup:c}) | 58 | 3 | 23 | 40 | 1 | 20 | 4 | 40 | 4
+@t 2 | 10 | 9 | 20 | 8 | 2 | 20 | 5 | 10 | 8 | 1 | 3 | 23 | 41{sup:e}) | 1 | 20 | 4 | 41 | 54
+@t 2 | 11 | 9 | 19 | 8 | 2 | 19 | 5 | 13 | 8 | 5 | 3 | 23 | 42 | 1 | 20 | 4 | 43 | 39{sup:k})
+@t 2 | 12 | 9 | 18 | 8 | 2 | 18 | 5 | 15 | 8 | 8 | 3 | 23 | 44 | 1 | 20 | 4 | 45 | 19
+@t 2 | 13 | 9 | 17 | 8 | 2 | 16 | 5 | 18 | 8 | 12 | 3 | 23 | 45 | 1 | 20 | 4 | 46 | 53
+@t 2 | 14 | 9 | 16 | 8 | 2 | 15 | 5 | 20 | 8 | 15 | 3 | 23 | 47 | 1 | 20 | 4 | 48 | 23
+@t 2 | 15 | 9 | 15 | 8 | 2 | 14 | 5 | 22 | 8 | 17 | 3 | 23 | 50 | 1 | 20{sup:g}) | 4 | 49 | 46
+@t 2 | 16 | 9 | 14 | 8 | 2 | 13 | 5 | 24 | 8 | 19 | 3 | 23 | 51 | 1 | 20{sup:g}) | 4 | 51 | 5
+@t 2 | 17 | 9 | 13 | 8 | 2 | 12 | 5 | 26 | 8 | 20 | 3 | 23 | 53 | 1 | 19 | 4 | 52 | 19
+@t 2 | 18 | 9 | 12 | 8 | 2 | 11 | 5 | 28 | 8 | 22 | 3 | 23 | 55 | 1 | 19 | 4 | 53 | 27
+@t 2 | 19 | 9 | 11 | 8 | 2 | 10 | 5 | 30 | 8 | 23 | 3 | 23 | 57 | 1 | 19 | 4 | 54 | 29
+@t 2 | 20 | 9 | 10 | 8 | 2 | 10 | 5 | 31 | 8 | 25 | 3 | 23 | 58 | 1 | 19 | 4 | 55 | 26
+@t 2 | 21 | 9 | 9 | 8 | 2 | 9 | 5 | 35 | 8 | 26 | 3 | 23 | 59 | 1 | 19 | 4 | 56 | 18
+@t 2 | 22 | 9 | 8 | 8 | 2 | 8 | 5 | 36 | 8 | 27 | 3 | 24 | 1 | 1 | 19 | 4 | 57 | 5
+@t 2 | 23 | 9 | 7 | 8 | 2 | 8 | 5 | 37 | 8 | 28 | 3 | 24 | 3 | 1 | 19{sup:h}) | 4 | 57 | 46
+@t 2 | 24 | 9 | 6 | 8 | 2 | 7 | 5 | 38 | 8 | 29 | 3 | 24 | 4 | 1 | 19{sup:h}) | 4 | 58 | 21
+@t 2 | 25 | 9 | 5 | 8 | 2 | 7 | 5 | 38{sup:a}) | 8 | 31 | 3 | 24 | 6 | 1 | 18 | 4 | 58 | 51
+@t 2 | 26 | 9 | 4 | 8 | 2 | 6 | 5 | 39{sup:b}) | 8 | 32 | 3 | 24 | 7 | 1 | 18 | 4 | 59 | 16
+@t 2 | 27 | 9 | 3 | 8 | 2 | 6 | 5 | 39 | 8 | 33{sup:d}) | 3 | 24 | 8{sup:f}) | 1 | 18 | 4 | 59 | 35
+@t 2 | 28 | 9 | 2 | 8 | 2 | 5 | 5 | 40 | 8 | 34 | 3 | 24 | 9 | 1 | 18 | 4 | 59 | 49
+@t 2 | 29 | 9 | 1 | 8 | 2 | 5 | 5 | 41 | 8 | 35 | 3 | 24 | 10 | 1 | 18 | 4 | 59 | 57
+@t 3 | 0 | 9 | 0 | 8 | 2 | 4 | 5 | 42 | 8 | 36 | 3 | 24 | 11 | 1 | 18 | 5{sup:i}) | 0 | 0
+@n {sup:1}) Pagina numerorum] Linee numeri N — {sup:2}) Augmentum (Diminutio) . . . . omnium] ON, {i:om.} C —
+@n {sup:3}) Sublimatio . . . . examinata] O, Sublimatio Saturni definita CN — {sup:4}) ipsius elheza] O, argumenti CN.
+@n {sup:a}) 38] 37 CON – {sup:b}) 39] 38 CON — {sup:c}) 7] ON, 8 C — {sup:d}) 33] ON, 34 C — {sup:e}) 41] ON, 51 C —
+@n {sup:f}) 8] C, {i:ras.} O — {sup:g}) 20] C, 19 O — {sup:h}) 19] C, 18 O — {sup:i}) 5] N, 4 CO — {sup:k}) 39] ON, 29 C.
+@obs The page number «140» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 29», in bold sans serif, underlined. The page has no signature. A small mark above the first title is a speck; not transcribed. The titles (L01-L03), in bold, the sigla in roman; L03, the place of Saturn's node, in smaller bold type, «3 S. 13 G. 12 M.» with «G.» and «M.» for the «Gr.» and «Min.» of pp. 138-139 (JP2 0170-0171), followed by the sigla «(CO)» in roman instead of a note. The folios of the manuscripts stand at the left of the last title in two lines, «C 57r, O 114v,» and «N 26v.», the letters raised; no folio of M is given. Here as left margin notes.
+@obs The table: rules and heads as on pp. 138-139 (JP2 0170-0171), with «Pagina numerorum (O)1) Catar eladed (C)» over the four columns of the arguments, divided below a rule into «Augmentum proprietatum omnium2)» and «Dimlnutio proprietatum omnium2)» in smaller type; «Sublimatio ascensus Saturni examinata3)»; «Examinatio ipsius elheza4)» and «Examinatio centri», each hyphenated «Exami-natio»; «Statio prima Saturni»; «Latitudo Saturni accedentis» over «prima» and «secunda» in smaller bold type. Here each head is set from the top, one printed line to a line (L04-L08), the cells separated by our «|»; a head followed by empty cells spans their columns. L09, the units, in bold.
+@obs L10-L39. Checked as on p. 138 (JP2 0170): the Latitudo secunda is 5° · sin x to within 0.7″ in every row, 5° 0′ 0″ at 90°. The Sublimatio is 8s 4° 55′ less half the Examinatio argumenti of the same row, a half minute counted as a whole, in every row except 81°-85° (L30-L34): there the Sublimatio, 8s 2° 9′, 8s 2° 8′, 8s 2° 8′, 8s 2° 7′ and 8s 2° 7′, answers to an Examinatio argumenti of 5° 32′ or 5° 33′, 5° 34′ or 5° 35′, 5° 34′ or 5° 35′, 5° 36′ or 5° 37′ and 5° 36′ or 5° 37′, where the table has 5° 35′, 5° 36′, 5° 37′, 5° 38′ and 5° 38′. With the values that the Sublimatio requires, the Examinatio argumenti rises steadily by 1′ or 2′ a degree from 5° 31′ at 80°, where the table steps from 5° 31′ to 5° 35′ at 81°.
+@obs Notes a and b. At 85° the edition prints 5° 38′, where C, O and N have 5° 37′: the 37 of the manuscripts agrees with the Sublimatio of the row, 8s 2° 7′, the 38 of the edition does not. At 86° both the edition's 39 and the manuscripts' 38 agree with the Sublimatio, 8s 2° 6′. Without the readings of notes a and b the column falls from 5° 38′ at 84° to 5° 37′ at 85°; by the Sublimatio the excess lies in the values of 81°-84°.
+@obs L10-L39, compared with the equation of the epicycle of p. 138 (r = 5.95): the Examinatio argumenti is 1.0′ to 2.6′ larger from 61° to 80° and from 85° to 90°, and 3.5′ to 4.5′ larger from 81° to 84°. The figures that Suter compares at 70° (p. 50, JP2 0082, L20), Sublimatio 242° 20′, Examinatio centri 8° 1′ and Examinatio argumenti 5° 10′, are those of L19.
+@obs L10-L39, the other columns, compared from row to row: the Examinatio centri increases by 3′ and 4′ in turn from 61° to 74°, then by 2′ or 1′ a degree, to 8° 36′ at 90°, the greatest equation (8° 36′ of the comparison on p. 139, JP2 0171). The Statio prima increases from 3s 23° 29′ to 3s 24° 11′ by 1′ to 3′ a degree, by 3′ from 74° to 75°. The Latitudo prima is 1° 21′ to 68°, 1° 20′ to 76°, 1° 19′ to 84° and 1° 18′ from 85° on.
+@obs Notes on the readings. Checked: the editor's readings agree with the rows around them where the variants depart: the Examinatio centri 7° 54′ and 7° 58′ at 68° and 69° (notes c, against C's 8) and 8° 33′ at 87° (note d); the Statio prima 3s 23° 41′ at 70° (note e) and 3s 24° 8′ at 87° (note f); the Latitudo prima in notes g and h; the Latitudo secunda 5° 0′ 0″ at 90° (note i, N, against the 4 of C and O) and 4° 43′ 39″ at 71° (note k, 4° 43′ 39.3″ computed).
+@obs N03: the dash after «37 CON» is shorter than the others, 30 px against 41-43 px, and is transcribed as an en dash. Italics: «om.» and «ras.». N01-N02: the ellipses «. . . .» of the lemmata as printed. L06, «Dimlnutio»: see the critical note.
+@critical AK07-CN117 | wrong sort | L06 | Dimlnutio | Diminutio | the head «Diminutio proprietatum omnium» on pp. 138-139 (JP2 0170-0171) and the lemma «Augmentum (Diminutio) . . . . omnium]» of note 2 here; an l, of the height of the d, is printed for the second i | high | none

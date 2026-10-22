@@ -1,0 +1,47 @@
+@page 247 215
+@lang la
+% JP2 0247: Tab. 100, p. 215: the projection of the rays continued: three fields, for the ascendant at 20°, 25° and
+% 30° of Leo, the columns from Leo to Capricornus, each field with the numbers for the sextile, the quadrature and
+% the trine, with the apparatus (notes 1-4 and a-m).
+@r C 95{sup:r}, O 150{sup:v}, N 61{sup:v}.
+@c {b:Viginti}{sup:1}) {b:gradus Leonis}
+@c {b:Exagonum 68° 37′} — {b:Tetragonum 102° 55′} — {b:Trigonum 137° 14′}
+@tw size=footnotesize 0.95 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62
+@t Gradus | Leo |  | Virgo |  | Libra |  | Scorpius |  | Sagittar. |  | Capricorn.{sup:2}) |
+@t aequales | Aquarius |  | Pisces |  | Aries |  | Taurus |  | Gemini |  | Cancer |
+@t  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 5 | 6 | 25 | 43 | 31 | 80 | 13 | 113 | 31 | 144 | 41 | 177 | 6
+@t 10 | 12 | 30{sup:a}) | 49 | 38 | 85 | 48 | 118 | 43 | 149 | 51 | 182 | 23
+@t 15 | 18 | 36 | 55 | 51 | 91 | 23 | 123 | 56 | 155 | 1 | 188 | 6
+@t 20 | 24 | 54 | 62 | 13 | 97 | 3 | 128 | 58 | 160 | 33 | 193 | 55
+@t 25 | 31 | 8 | 68{sup:b}) | 23 | 102 | 43 | 134 | 25 | 165 | 48 | 199 | 55
+@t 30 | 37 | 13 | 74 | 33 | 108 | 23 | 139 | 43 | 171 | 28 | 205 | 51
+@c {b:Viginti quinque}{sup:3}) {b:gradus Leonis}
+@c {b:Exagonum 68° 41′} — {b:Tetragonum 103° 1′}{sup:c}) — {b:Trigonum 137° 21′}{sup:d})
+@t 5 | 5 | 45 | 43 | 23 | 80 | 3 | 113 | 57 | 145 | 47 | 177{sup:e}) | 30
+@t 10 | 11 | 55 | 49 | 53 | 85 | 58 | 119 | 10 | 150 | 57 | 182{sup:f}) | 55
+@t 15 | 18 | 10 | 56 | 11 | 91 | 38 | 124 | 32 | 156 | 17 | 188 | 40
+@t 20 | 24 | 20 | 62 | 33 | 97 | 33 | 129 | 40 | 161 | 42 | 194 | 20
+@t 25 | 30 | 50 | 68 | 48 | 103 | 21 | 135 | 22 | 166 | 50 | 200 | 10
+@t 30 | 37 | 33 | 74 | 53 | 108 | 29 | 140 | 42 | 172 | 20 | 206 | 2
+@c {b:Triginta}{sup:4}) {b:gradus Leonis}
+@c {b:Exagonum 69° 20′} — {b:Tetragonum 104° 0′} — {b:Trigonum 138° 40′}
+@t 5 | 6{sup:g}) | 3 | 42 | 28 | 79 | 30 | 114 | 30 | 147 | 20 | 179 | 30{sup:l})
+@t 10 | 12 | 18 | 48 | 55 | 85 | 15 | 120 | 0 | 152 | 25 | 184 | 55
+@t 15 | 18 | 20 | 55 | 20{sup:h}) | 91 | 25 | 125 | 30 | 158 | 0 | 190 | 28{sup:m})
+@t 20 | 24 | 35 | 61 | 32 | 97 | 15 | 130 | 45 | 163 | 34 | 196 | 15
+@t 25 | 30 | 26 | 67 | 28{sup:i}) | 103 | 15 | 136 | 25 | 168 | 46 | 202 | 10
+@t 30 | 36 | 20 | 73 | 55 | 109 | 10 | 142 | 0 | 174{sup:k}) | 15 | 208 | 0
+@n {sup:1}) Viginti] C, Vicesimus O, XX. N — {sup:2}) Capricornus] C, {i:corr. ex.} Aquarius O — {sup:3}) Viginti quin-
+@n que] Vicesimus O, XXV. CN — {sup:4}) Triginta] Tricesimus O, XXX. CN.
+@n {sup:a}) 30] C, 25 ON — {sup:b}) 68] O, 78 C — {sup:c}) 103. 1.] ON, 104. 0. C — {sup:d}) 137. 21.] ON, 138. 40. C —
+@n {sup:e}) 177] 167 CON — {sup:f}) 182] 172 CON — {sup:g}) 6] O, 5 C — {sup:h}) 20] C, 10 ON — {sup:i}) 28] C, 18 O — {sup:k}) 174] O,
+@n 164 C — {sup:l}) 30] C, 35 ON — {sup:m}) 28] C, 27 O.
+@obs The page number «215» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 100», in bold sans serif, underlined. The page has no signature and no title: the folios of the manuscripts stand at the right above the double rule of the first field, in one line of their own, «C 95r, O 150v, N 61v.», the letters raised (L01).
+@obs The page holds three fields, as pp. 206-214 (JP2 0238-0246): «Viginti1) gradus Leonis» (L02), «Viginti quinque3) gradus Leonis» (L14) and «Triginta4) gradus Leonis» (L22), the ascendant at 20°, 25° and 30° of Leo, with the numbers for the sextile, the quadrature and the trine (L03, L15, L23); headings and numbers in bold. The heads of the columns of the first field as on p. 214 (JP2 0246, L05-L08), from Leo to Capricornus, with «Horoscopus» in each, and with note 2 at «Capricorn.», which O wrote over «Aquarius» (L04-L07). The second and the third field have no heads. Double rules divide the fields.
+@obs The numbers at the head of a field, as on pp. 206-214 (JP2 0238-0246), are a third, a half and two thirds of the last number of the field: 205° 51′ (L13) gives 68° 37′, 102° 55.5′ and 137° 14′, printed 68° 37′, 102° 55′ and 137° 14′ (L03); 206° 2′ (L21) gives 68° 40.7′, 103° 1′ and 137° 21.3′, printed 68° 41′, 103° 1′ and 137° 21′ (L15); 208° 0′ (L29) gives 69° 20′, 104° 0′ and 138° 40′, as printed (L23).
+@obs The columns, as on p. 214 (JP2 0246): in Leo the first field lies within 26′ of the oblique ascensions from the beginning of Leo for the latitude 38° 30′ (computed with the obliquity 23° 35′; 6° 14′, 12° 31′, 18° 48′, 25° 6′, 31° 23′, 37° 39′), the second 6′ to 46′ below them and the third 11′ to 1° 19′ below them; in Virgo the first lies 18′ to 29′ below them, the second from 31′ below to 6′ above them and the third 58′ to 1° 26′ below them; from Libra on all three fall far below them, to 205° 51′, 206° 2′ and 208° 0′ at the end of Capricornus, where the oblique ascension from the beginning of Leo is 214° 10′. The last numbers of the six fields of Leo grow by 2° 32′, 2° 5′, 1° 56′, 11′ and 1° 58′ (199° 18′, 201° 50′ and 203° 55′ on p. 214, JP2 0246, L14, L22, L30; here L13, L21, L29); from the end of Sagittarius on the first field here stands 30′ to 52′ above the mean of the neighbouring fields, the second 32′ to 54′ below it.
+@obs Notes on the readings. Checked by the other fields, which differ by 5° of the ascendant, and by the steps of the columns: the edition's readings are the nearer at 10° of Leo in the first field (note a, L09: C's 30 against the 25 of O and N, the steps 6° 5′ and 6° 6′ against 6° 0′ and 6° 11′; the oblique ascension 12° 31′), at 25° of Virgo in the first (note b, L12: O's 68 against C's 78), in the quadrature and the trine of the second (notes c and d, L15: the 103° 1′ and 137° 21′ of O and N, a half and two thirds of 206° 2′, against C's 104° 0′ and 138° 40′, the quadrature and the trine of the third field, L23), at 5° and 10° of Capricornus in the second (notes e and f, L16-L17: the editor's 177 and 182 for the 167 and 172 of all three manuscripts), at 5° of Leo in the third (note g, L24: O's 6 against C's 5, the steps 6° 3′ and 6° 15′ against 5° 3′ and 7° 15′), at 25° of Virgo in the third (note i, L28: C's 28 against O's 18, the steps 5° 56′ and 6° 27′ against 5° 46′ and 6° 37′) and at 30° of Sagittarius in the third (note k, L29: O's 174 against C's 164). At 15° of Virgo in the third field (note h, L26) C's 20 gives the steps 6° 25′ and 6° 12′, the 10 of O and N 6° 15′ and 6° 22′; at 5° of Capricornus in the third (note l, L24) C's 30 gives 5° 15′ and 5° 25′, the 35 of O and N 5° 20′ and 5° 20′; at 15° of Capricornus in the third (note m, L26) the readings differ by 1′; none of these is decided.
+@obs The numbers of the notes c and d (N03) end with a point before the bracket and before the siglum C, «103. 1.]», «104. 0. C», «137. 21.]», «138. 40. C»: see the critical note. The dash before the note g (N04) is broken into a short piece of 7 px and a long one of 30 px; written as one dash. «corr. ex.» (N01) in italics, the point of «corr.» set low. A speck at the upper left of the C of «5 C» (N04), and specks in the margins; not transcribed.
+@critical AK07-CN240 | stray point | N03 | {sup:c}) 103. 1.] ON, 104. 0. C — {sup:d}) 137. 21.] ON, 138. 40. C | {sup:c}) 103. 1] ON, 104. 0 C — {sup:d}) 137. 21] ON, 138. 40 C | the numbers of the heads in the notes end without a point before the bracket and before the sigla, as «109. 19] ON, 100. 9. 19 C» on p. 210 (JP2 0242, N02) and «87. 8] CO, 89. 28 N» on p. 211 (JP2 0243, N01); here a point is printed after the last number of each of the four readings | medium | none

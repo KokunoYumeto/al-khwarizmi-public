@@ -1,0 +1,271 @@
+{
+ "anchor": "AK05-F133",
+ "frame": 133,
+ "frame_file": "page_133.jpg",
+ "frame_sha256": "4a17cce4f18aab3cb6f153cb9614fbc50f1a7649d67eda6a5a8923e50beeb016",
+ "printed_page": "١٢٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 133, printed p. 127: the springs and rivers of the fifth clime continued: the river from the mountain ايدوقرا concluded; the river on the island ڡرس past the town شرفى; two rivers on the island سرخس, the second past the town لٮيس; the spring on the island قرنس, whose river divides into two, one through the town قروى, with a further river from the same spring; and the river from the mountain اطى on an island. The editor's running numbers (١٩١٩)-(١٩٣٤) and the numbers of Suhrāb [١٩١٩]-[١٩٣٤]; the folio of the manuscript, «(fol. 38ᵃ)», within a line; numerals supplied by the editor between angle brackets. Three lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F133-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "يخرج من جبل ايدوقرا اوّله عند طول {ov:يه له} والعرض {ov:لط م} (١٩١٩) [١٩١٩] ومصبّه",
+   "margin": null,
+   "cells": null,
+   "plain": "يخرج من جبل ايدوقرا اوّله عند طول يه له والعرض لط م (١٩١٩) [١٩١٩] ومصبّه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "فى البحر عند طول {ov:ٮو ك} والعرض {ov:⟨لح مه⟩}{n:a} (١٩٢٠) [١٩٢٠] * نهر فى جزيرة ڡرس",
+   "margin": null,
+   "cells": null,
+   "plain": "فى البحر عند طول ٮو ك والعرض ⟨لح مه⟩ (١٩٢٠) [١٩٢٠] * نهر فى جزيرة ڡرس",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "اوّله عند طول {ov:ل ك} والعرض {ov:لط م} (١٩٢١) [١٩٢١] يمرّ بمدينة شرفى{n:b}",
+   "margin": "(fol. 38ᵃ)",
+   "cells": null,
+   "plain": "اوّله عند طول ل ك والعرض لط م (١٩٢١) [١٩٢١] يمرّ بمدينة شرفى",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "ومصبّه فى البحر عند طول {ov:كط كه} والعرض {ov:م يه} (١٩٢٢) [١٩٢٢] * نهر فى جزيرة",
+   "margin": null,
+   "cells": null,
+   "plain": "ومصبّه فى البحر عند طول كط كه والعرض م يه (١٩٢٢) [١٩٢٢] * نهر فى جزيرة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "سرخس اوّله عين عند طول {ov:ل ك} والعرض {ov:لو ن} (١٩٢٣) [١٩٢٣] ومصبّه فى البحر",
+   "margin": null,
+   "cells": null,
+   "plain": "سرخس اوّله عين عند طول ل ك والعرض لو ن (١٩٢٣) [١٩٢٣] ومصبّه فى البحر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "عند طول {ov:كح م} والعرض {ov:لر {z}} (١٩٢٤) [١٩٢٤] * ونهر فى هٰذه الجزيرة ايضاً{n:c} اوّله عين",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول كح م والعرض لر ō (١٩٢٤) [١٩٢٤] * ونهر فى هٰذه الجزيرة ايضاً اوّله عين",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "عند طول {ov:لا {z}} والعرض {ov:لو {z}} (١٩٢٥) [١٩٢٥] يمرّ داخل مدينة لٮيس ومصبّه فى",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول لا ō والعرض لو ō (١٩٢٥) [١٩٢٥] يمرّ داخل مدينة لٮيس ومصبّه فى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "البحر عند طول {ov:لب {z}} والعرض {ov:لز {z}} (١٩٢٦) [١٩٢٦] *",
+   "margin": null,
+   "cells": null,
+   "plain": "البحر عند طول لب ō والعرض لز ō (١٩٢٦) [١٩٢٦] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "عين فى جزيرة قرنس اوّلها عند طول {ov:لا مه} والعرض {ov:لط ٮه}{n:d} (١٩٢٧) [١٩٢٧] يمرّ الى",
+   "margin": null,
+   "cells": null,
+   "plain": "عين فى جزيرة قرنس اوّلها عند طول لا مه والعرض لط ٮه (١٩٢٧) [١٩٢٧] يمرّ الى",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "موضع طوله {ov:لا ى} والعرض {ov:م ك} (١٩٢٨) [١٩٢٨] * ثمّ يفترق من هٰذا الموضع",
+   "margin": null,
+   "cells": null,
+   "plain": "موضع طوله لا ى والعرض م ك (١٩٢٨) [١٩٢٨] * ثمّ يفترق من هٰذا الموضع",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "نهران احدهما يدخل مدينة قروى ويخرج منها فيصبّ فى البحر عند طول {ov:لب {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "نهران احدهما يدخل مدينة قروى ويخرج منها فيصبّ فى البحر عند طول لب ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "والعرض {ov:لط ى} (١٩٢٩) [١٩٢٩] والنهر الآخر يصبّ فى البحر عند طول {ov:لا ل} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض لط ى (١٩٢٩) [١٩٢٩] والنهر الآخر يصبّ فى البحر عند طول لا ل والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "{ov:م مه} (١٩٣٠) [١٩٣٠] * ويخرج من هٰذه العين ايضاً نهر اوّله عند طول {ov:لا ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "م مه (١٩٣٠) [١٩٣٠] * ويخرج من هٰذه العين ايضاً نهر اوّله عند طول لا ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "والعرض {ov:م ى} (١٩٣١) [١٩٣١] ومصبّه فى البحر عند طول {ov:لب ٮه} والعرض {ov:م ى}",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض م ى (١٩٣١) [١٩٣١] ومصبّه فى البحر عند طول لب ٮه والعرض م ى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "(١٩٣٢) [١٩٣٢] *",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٩٣٢) [١٩٣٢] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "نهر يخرج من جبل اطى{n:e} فى جزيرة اوّله عند طول {ov:له {z}} والعرض {ov:لو يه} (١٩٣٣)",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر يخرج من جبل اطى فى جزيرة اوّله عند طول له ō والعرض لو يه (١٩٣٣)",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F133-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "[١٩٣٣] مصبّه فى البحر عند طول {ov:لح م} والعرض {ov:لو مه} (١٩٣٤) [١٩٣٤] * ونهر",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٩٣٣] مصبّه فى البحر عند طول لح م والعرض لو مه (١٩٣٤) [١٩٣٤] * ونهر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L02: the manuscript has a gap at the latitude between the brackets; the editor supplies it from the course of the coast between points (1116) and (1117) and after S (note a).",
+  "L03: a variant reading of the name is شرڡى (note b).",
+  "L06: the word ايضاً is missing in the manuscript (note c).",
+  "L09: a variant reading of the latitude is لط مه, with a line over the numerals (note d).",
+  "L16: a variant reading of the name is اطر (note e)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The river goes on from p. 126 (frame 132), whose last word is «نهر». L01-L02: «يخرج من جبل ايدوقرا اوّله عند طول يه له والعرض لط م (١٩١٩)», it comes out of the mountain ايدوقرا; its beginning is at the longitude 15° 35′ and the latitude 39° 40′; «ومصبّه فى البحر عند طول ٮو ك والعرض ⟨لح مه⟩ (١٩٢٠) *», and its mouth in the sea is at the longitude ٮو ك and the latitude ⟨38° 45′⟩. The mountain is entries 779-780 of the table of the mountains (frame 060, L03), «جبل ايدوقرا», whose second boundary lies at the longitude 15° 40′ and the latitude 39° 45′ (frame 061, L03).",
+  "L02-L04: «نهر فى جزيرة ڡرس اوّله عند طول ل ك والعرض لط م (١٩٢١) يمرّ بمدينة شرفى ومصبّه فى البحر عند طول كط كه والعرض م يه (١٩٢٢) *», a river on the island ڡرس, whose beginning is at the longitude 30° 20′ and the latitude 39° 40′; it passes the town شرفى, and its mouth in the sea is at the longitude 29° 25′ and the latitude 40° 15′. The town is entry 346 of the table of the cities (frame 030, L11), «سرڡا فى جزيرة فربس», where the editor's note f equates the entry with entry 411 and gives the form of this entry (1922), شرفى, with the variant reading شرڡى. L02: «ڡرس»: a loop without dots joined to the ر, whose tail descends below the line, and a final س; no dot stands over the loop. L03: «شرفى», with the three dots of the ش and the dot of the ف.",
+  "L04-L06: «نهر فى جزيرة سرخس اوّله عين عند طول ل ك والعرض لو ن (١٩٢٣) ومصبّه فى البحر عند طول كح م والعرض لر {z} (١٩٢٤) *», a river on the island سرخس, whose beginning is a spring at the longitude 30° 20′ and the latitude 36° 50′, and its mouth in the sea at the longitude 28° 40′ and the latitude لر ō. «سرخس» has the dot of the خ, where the table of the cities names the island «سرحس», without the dot (frame 030, L10, entry 345).",
+  "L06-L08: «ونهر فى هٰذه الجزيرة ايضاً اوّله عين عند طول لا {z} والعرض لو {z} (١٩٢٥) يمرّ داخل مدينة لٮيس ومصبّه فى البحر عند طول لب {z} والعرض لز {z} (١٩٢٦) *», and a river also on this island, whose beginning is a spring at the longitude 31° 0′ and the latitude 36° 0′; it passes inside the town لٮيس, and its mouth in the sea is at the longitude 32° 0′ and the latitude 37° 0′. The town is entry 348 of the table of the cities (frame 030, L13), «لٮس فى جزيرة», where the editor's note h gives the form of this entry (1926), لٮيس.",
+  "L07: «لٮيس»: after the ل, five low teeth, 3 to 5 px above the joining stroke, then the bowl of the final س: a tooth without a dot, a tooth with the two dots of the ي below it, and the three teeth of the س, where the ل of «اطلس» on frame 129 (L01) passes straight into the three teeth of its س. The editor's note on entry 348 prints the same letters for this entry.",
+  "L09-L15: «عين فى جزيرة قرنس اوّلها عند طول لا مه والعرض لط ٮه (١٩٢٧)», a spring on the island قرنس, whose beginning is at the longitude 31° 45′ and the latitude لط ٮه; «يمرّ الى موضع طوله لا ى والعرض م ك (١٩٢٨) *», it passes to a place whose longitude is 31° 10′ and the latitude 40° 20′; «ثمّ يفترق من هٰذا الموضع نهران احدهما يدخل مدينة قروى ويخرج منها فيصبّ فى البحر عند طول لب {z} والعرض لط ى (١٩٢٩)», then two rivers branch off from this place; one of them enters the town قروى, goes out of it and flows into the sea at the longitude 32° 0′ and the latitude 39° 10′; «والنهر الآخر يصبّ فى البحر عند طول لا ل والعرض م مه (١٩٣٠) *», and the other river flows into the sea at the longitude 31° 30′ and the latitude 40° 45′; «ويخرج من هٰذه العين ايضاً نهر اوّله عند طول لا ل والعرض م ى (١٩٣١) ومصبّه فى البحر عند طول لب ٮه والعرض م ى (١٩٣٢) *», and from this spring also comes a river, whose beginning is at the longitude 31° 30′ and the latitude 40° 10′, and its mouth in the sea at the longitude لب ٮه and the latitude 40° 10′. The town قروى is entry 347 of the table of the cities (frame 030, L12), «ڡورى فى جزيرة», where the editor's note g gives the form of this entry (1929), قروى. «قرنس» and «قروى» have the two dots of the ق, «قرنس» the dot of the ن.",
+  "L16-L17: «نهر يخرج من جبل اطى فى جزيرة اوّله عند طول له {z} والعرض لو يه (١٩٣٣) مصبّه فى البحر عند طول لح م والعرض لو مه (١٩٣٤) *», a river comes out of the mountain اطى on an island; its beginning is at the longitude 35° 0′ and the latitude 36° 15′, and its mouth in the sea at the longitude 38° 40′ and the latitude 36° 45′; then «ونهر», and a river, continued on p. 128. The mountain is entries 781-782 of the table of the mountains (frame 060, L04), «جبل اورا فى جزيرة», where the editor's note c gives the form of this entry (1933), اطى, with the variant reading اطر. «اطى» ends in a ى without dots.",
+  "L03: the folio of the Strasbourg manuscript, «(fol. 38ᵃ)», is printed in Latin type within the line, between «بمدينة» and «شرفى»; transcribed as a margin note before the line.",
+  "L02: the latitude «⟨لح مه⟩» stands between angle brackets within the line over the numerals, followed by the note mark a: the editor supplies it where the manuscript has a gap. Transcribed with the brackets.",
+  "Numerals: «يه له» (L01), with the two dots of the ي, 15° 35′; «لط م» (L01, L03), 39° 40′; «⟨لح مه⟩» (L02), 38° 45′; «ل ك» (L03, L05), 30° 20′; «كط كه» (L04), 29° 25′; «م يه» (L04), with the two dots of the ي, 40° 15′; «لو ن» (L05), with the dot of the ن, 36° 50′; «كح م» (L06), 28° 40′; «لا {z}» (L07), 31° 0′; «لو {z}» (L07), 36° 0′; «لب {z}» (L08, L11), with the dot of the ب, 32° 0′; «لز {z}» (L08), with the dot of the ز, 37° 0′; «لا مه» (L09), 31° 45′; «لا ى» (L10), 31° 10′; «م ك» (L10), 40° 20′; «لط ى» (L12), 39° 10′; «لا ل» (L12, L13), 31° 30′; «م مه» (L13), 40° 45′; «م ى» (L14, twice), 40° 10′; «له {z}» (L16), 35° 0′; «لو يه» (L16), 36° 15′; «لح م» (L17), 38° 40′; «لو مه» (L17), 36° 45′. In «لو» (L05, L07, L16, L17) the و is a round loop that stands out 12 px from the stem of the ل.",
+  "Without their dots, transcribed so: «ٮو» (L02), the degrees of the longitude, a tooth without its dot joined to a و, which read with a ي gives 16, beside the longitude 15° 35′ of the beginning of the river; «لر» (L06), the degrees of the latitude: the letter joined to the foot of the ل has the small pointed head of the ر, 8 px from the stem; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII), so 37; «ٮه» (L09, the minutes of the latitude; L14, the minutes of the longitude), a tooth without its dot joined to a final ه, 26 by 25 and 24 by 25 px, which read with a ي gives 15, where the isolated ه, 5, is a small round ring of some 18 by 20 px (frame 121, L01) and L04 and L16 print «يه» with the two dots.",
+  "The ح of the numerals, «لح» (L02, L17) and «كح» (L06), shows no dot in the bowl. The isolated ك, 20, is printed with the small inner stroke of the letter (L02, L03, L05, L10); the isolated ى, 10, has no dots (L10, L12, L14).",
+  "Signs in the text, transcribed as printed: «اوّله» (L01, L03, L05, L06, L13, L16) and «اوّلها» (L09) with a shadda over the و; «ومصبّه» (L01, L04, L05, L07, L14), «مصبّه» (L17), «فيصبّ» (L11) and «يصبّ» (L12) with a shadda over the ب; «يمرّ» (L03, L07, L09) with a shadda over the ر; «ثمّ» (L10) with a shadda; «هٰذه» (L06, L13) and «هٰذا» (L10) with a dagger alif above the ه; «ايضاً» (L06, L13) with the tanwin of the accusative over its alif; «الآخر» (L12) with a madda over the alif; «فى», «الى» and «قروى» end in a ى without dots. L06: «اوّله» and «عين» stand 7 px apart.",
+  "The running numbers run (١٩١٩)-(١٩٣٤) without a gap, and the numbers of Suhrāb [١٩١٩]-[١٩٣٤] stand after each of them, the same numbers. [١٩٣٣] stands at the beginning of L17, after the running number (١٩٣٣) at the end of L16; (١٩٣٢) [١٩٣٢] stand alone in L15.",
+  "Asterisks: the small open stars with six points, after [١٩٢٠] (L02), [١٩٢٢] (L04), [١٩٢٤] (L06), [١٩٢٦] (L08), [١٩٢٨] (L10), [١٩٣٠] (L13), [١٩٣٢] (L15) and [١٩٣٤] (L17), are transcribed as asterisks.",
+  "Note marks: L02, a after the closing bracket of the latitude; L03, b after «شرفى»; L06, c after «ايضاً»; L09, d after the latitude; L16, e after «اطى».",
+  "Marks not transcribed: L03, a small open ring, 17 by 14 px, with a few specks, below the closing parenthesis of the folio; L04, a ragged speck, 13 by 14 px, beside the dot of the ف of «فى» before «جزيرة»; L09, faint broken strokes, 2 to 6 px high, below the running number (١٩٢٧) and the number of Suhrāb [١٩٢٧]; in the first line of the footnotes, a dot of 9 by 9 px before the note mark a.",
+  "The editor's footnotes stand in three lines below a short rule at the left: notes a-e. Note b prints «شرڡى», the loop without dots. The page number «— ١٢٧ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

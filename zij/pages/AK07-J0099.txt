@@ -1,0 +1,66 @@
+@page 99 67
+@lang de
+% JP2 0099: Suter's commentary, p. 67: chapter 22 continued: the example of the evening of 29 Shaʿbān 540, computed
+% in two columns: the true longitudes of the sun (322° 27′) and the moon (332° 4′), their difference 9° 37′, and the
+% longitude of the node begun for the latitude of the moon (note 1).
+Differenz zu subtrahieren.“ — Wie die Tafel 57{sup:a} zu gebrauchen ist, um die Zeit
+der ersten Sichtbarkeit der Mondsichel zu bestimmen, wird am besten aus einem
+Beispiel klar werden.
+@p {i:Beispiel :} Es ist zu untersuchen, ob am 29. {i:Shaʿbān}{sup:1}) des Jahres 540 d. H. Abends
+die Mondsichel sichtbar wurde.
+@cl {i:Mittlere Länge der Sonne :}
+@cl Am Ende des 510. Jahres = 38° 35′ 45″
+@cl Zunahme für 29 Jahre = 49° 2′ 50″
+@cl „ „ 7 Mon. = 204° 1′ 11″
+@cl „ „ 29 Tage = 28° 34′ 57″
+@cl „ „ 6 Std. = 14′ 47″
+@cl 320° 29′ 30″
+@cl Apogeum der Sonne : 77° 55′
+@cl {i:Anomalie :} 242° 34′ 30″
+@cl Hiezu findet man in Tafel 24 die Glei-
+@cl chung 1° 57′ 35″, diese zu der mittlern
+@cl Länge addiert, gibt für die {i:wahre Länge}
+@cl der Sonne rund 322° 27′.
+@cr {i:Mittlere Länge des Mondes :}
+@cr Am Ende des 510. Jahres = 40° 56′ 38″
+@cr Zunahme für 29 Jahre = 53° 24′ 16″
+@cr „ „ 7 Mon. = 207° 30′ 20″
+@cr „ „ 29 Tage = 22° 6′ 52″
+@cr „ „ 6 Std. = 3° 17′ 39″
+@cr 327° 15′ 45″
+@cr {i:Anomalie des Mondes :}
+@cr Am Ende des 510. Jahres = 61° 52′ 40″
+@cr Zunahme für 29 Jahre = 348° 56′ 57″
+@cr „ „ 7 Mon. = 184° 27′ 14″
+@cr „ „ 29 Tage = 18° 53′ 5″
+@cr „ „ 6 Std. = 3° 15′ 58″
+@cr 617° 25′ 54″
+@cr —360°
+@cr {i:Anomalie :} 257° 25′ 54″
+@cr Hiezu findet man in Tafel 24 die Glei-
+@cr chung 4° 48′ 29″, diese zu der mittlern
+@cr Länge addiert, gibt für die {i:wahre Länge}
+@cr des Mondes rund 332° 4′.
+@p Differenz der beiden wahren Längen = 9° 37′. Wir haben nun die {i:Breite} des
+Mondes für diese Zeit zu bestimmen :
+@cl Wahre Länge des Mondes = 332° 4′.
+@cr Länge des Drachenkopfes (n. Tafel 19 u. 20) :
+@cr Am Ende des 510. Jahres = 92° 38′ 42″
+@cr Zunahme für 29 Jahre = 184° 41′ 57″
+@cr „ „ 7 Mon. = 10° 58′ 16″
+@cr „ „ 29 Tage = 1° 32′ 14″
+@cr „ „ 6 Std. = 48″
+@cr 289° 51′ 57″
+@n {sup:1}) Dass ich diesen Tag wähle, hat seinen Grund darin, weil die Bestimmung des Sichtbar-
+@n werdens der Mondsichel eigentlich nur für diesen Tag von Bedeutung ist, denn mit dem Ende des
+@n 29. {i:Shaʿbān} beginnt (Abends 6 Uhr) der Fastenmonat {i:Ramaḍān.} Die Fasten beginnen aber nicht
+@n etwa um 6 Uhr, sondern im Momente, wo die Mondsichel zuerst sichtbar wird. Dies kann längere
+@n Zeit vor oder nach 6 Uhr stattfinden. Da nun das Wetter nicht immer gestattet, das Erscheinen
+@n der Mondsichel zu beobachten, so müssen eben die Rechnung und die Tafeln zu Hilfe genommen
+@n werden.
+@obs The page number «67» stands at the head of the page, centred, with a rule below it. At the foot, the signature «9*» on the right. L01: «Differenz zu subtrahieren.“» ends the quotation of chapter 22 begun on p. 66 (JP2 0098, L35-L36). L01: «57a», the a raised.
+@obs L06-L38 and L41-L48: the computations are set in two columns, transcribed one after the other, the left column first: L06-L18 the sun, L19-L38 the moon; after the full-width lines L39-L40, L41 on the left and the node L42-L48 on the right. In each column the names stand at the left, joined by «=» to the figures in a column at the right; the ditto marks „ stand under «Zunahme» and «für»; the sums and the anomalies stand below rules under the figures (L12, L14, L25, L32, L34, L48), «—360°» (L33) under the sum, the minus sign set close to the figures (12 px); «Anomalie :» (L14, L34), «Mittlere Länge der Sonne :», «Mittlere Länge des Mondes :» and «Anomalie des Mondes :» in italics with their colons; L13 «Apogeum der Sonne :» upright.
+@obs L06-L48. Checked: 38° 35′ 45″ + 49° 2′ 50″ + 204° 1′ 11″ + 28° 34′ 57″ + 14′ 47″ = 320° 29′ 30″; 320° 29′ 30″ − 77° 55′ = 242° 34′ 30″; 320° 29′ 30″ + 1° 57′ 35″ = 322° 27′ 5″. 40° 56′ 38″ + 53° 24′ 16″ + 207° 30′ 20″ + 22° 6′ 52″ + 3° 17′ 39″ = 327° 15′ 45″. 61° 52′ 40″ + 348° 56′ 57″ + 184° 27′ 14″ + 18° 53′ 5″ + 3° 15′ 58″ = 617° 25′ 54″, less 360° 257° 25′ 54″; 327° 15′ 45″ + 4° 48′ 29″ = 332° 4′ 14″; 332° 4′ − 322° 27′ = 9° 37′. 92° 38′ 42″ + 184° 41′ 57″ + 10° 58′ 16″ + 1° 32′ 14″ + 48″ = 289° 51′ 57″.
+@obs L06-L48. Checked: the increments are those of seven months of 207 days, 29 days and 6 hours; with Brahmagupta's parameters (p. 42, JP2 0074) 207 days give the sun 204° 1′ 12″, the moon 207° 30′ 20″, its anomaly 184° 27′ 14″, the node 10° 58′ 17″; 29 days 28° 34′ 57″, 22° 6′ 52″, 18° 53′ 5″, 1° 32′ 13″; 6 hours 14′ 47″, 3° 17′ 39″, 3° 15′ 58″, 48″. For the node the 29 years of the table, 184° 41′ 57″, are 8″ more than these parameters give (184° 41′ 49″) and than the 184° 42′ of p. 59 (JP2 0091, L26), rounded. With the count of p. 42 (JP2 0074, L22-L27), where noon of 15 Ṣafar is 1 month and 14 days after the end of the year, 7 months, 29 days and 6 hours lead to 6 in the evening of 30 Shaʿbān; the evening that ends 29 Shaʿbān would be 28 days and 6 hours. The equations of Table 24, 1° 57′ 35″ and 4° 48′ 29″, are to be compared with the table.
+@obs L04 and N03: «Shaʿbān», «Ramaḍān.» in italics, with the ʿayn raised and the dot under the ḍ. L04: the colon after «Beispiel» is italic, after a thin space (12 px).
+@obs The colons and the semicolon stand after the thin space of the edition (10-19 px measured; «bestimmen :» L40, 19 px).

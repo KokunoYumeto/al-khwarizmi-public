@@ -1,0 +1,53 @@
+@page 220 188
+@lang la
+% JP2 0220: Tab. 74, p. 188: the lunar eclipses at the greatest distance continued: the digits, the casus and the half
+% mora for the arguments of latitude 359° 30′-349° 0′ and 180° 30′-191° 0′, and the table of proportion for the
+% anomalies 62°-120° and 240°-298°, with the apparatus (notes 1-3 and a-e).
+@ml C 84{sup:r}, O 140{sup:v},
+@c {b:Defectus lunares spatio longinquo} (ON)
+@ml N 46{sup:r}.
+@c {b:Elkucufet elkamarie libood elabaat. longinquo sive remoto} (C)
+@tw size=footnotesize span=1.0 0.6 0.6 0.7 0.6 0.6 0.6 0.65 0.65 0.65 0.65 0.8 0.85 0.85 0.85
+@t Argumentum latitudinis |  |  |  | Digiti |  | Dakaicae{sup:1}) |  | Dakaicae{sup:1}) |  | Tabula proportionis{sup:2}) |  |  |
+@t  |  |  |  | defectus |  | casus |  | medietatis |  | Partitiones |  | Dakaicae{sup:1}) |
+@t  |  |  |  |  |  |  |  | morae{sup:3}) |  | diversitatum |  | superationum |
+@t {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Dig.} | {b:Min.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Gr.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 359 | 30 | 180 | 30 | 19 | 50 | 29 | 19 | 21 | 16 | 62 | 298 | 14 | 52
+@t 359 | 0 | 181 | 0 | 18 | 53 | 29 | 52 | 20 | 52 | 64 | 296 | 15 | 55{sup:e})
+@t 358 | 30 | 181 | 30 | 17 | 57 | 30 | 3 | 20 | 12 | 66 | 294 | 16 | 41
+@t 358 | 0 | 182 | 0 | 17 | 0 | 30 | 31 | 19 | 14 | 68 | 292 | 17 | 38
+@t 357 | 30 | 182 | 30 | 16 | 2 | 31 | 38 | 17 | 38 | 70 | 290 | 18 | 36
+@t 357 | 0 | 183 | 0 | 15 | 4 | 32 | 44 | 15 | 48 | 72 | 288 | 19 | 36
+@t 356 | 30 | 183 | 30 | 14 | 7 | 34 | 1 | 13 | 47 | 74 | 286 | 20 | 36
+@t 356 | 0 | 184 | 0 | 13 | 9 | 36 | 42 | 10 | 21{sup:d}) | 76 | 284 | 21 | 36
+@t 355 | 30 | 184 | 30 | 12 | 11 | 41 | 4 | 4{sup:c}) | 0 | 78 | 282 | 22 | 36
+@t 355 | 0 | 185 | 0 | 11 | 14 | 44 | 52 | 0 | 0 | 80 | 280 | 23 | 36
+@t 354 | 30 | 185 | 30 | 10 | 17 | 43 | 36 | 0 | 0 | 82 | 278 | 24 | 36
+@t 354 | 0 | 186 | 0 | 9 | 20 | 42 | 11 | 0 | 0 | 84 | 276 | 25 | 36
+@t 353 | 30 | 186 | 30 | 8 | 21 | 40 | 28 | 0 | 0 | 86 | 274 | 26 | 38
+@t 353 | 0 | 187 | 0 | 7 | 23 | 38 | 42 | 0 | 0 | 88 | 272 | 27 | 40
+@t 352 | 30 | 187 | 30 | 6 | 25 | 36 | 27 | 0 | 0 | 90 | 270 | 28 | 42
+@t 352 | 0 | 188 | 0 | 5 | 30 | 34 | 10 | 0 | 0 | 92 | 268 | 29 | 44
+@t 351 | 30 | 188 | 30 | 4 | 29 | 31 | 13 | 0 | 0 | 94 | 266 | 30 | 46
+@t 351 | 0 | 189 | 0 | 3 | 25{sup:a}) | 28 | 7{sup:b}) | 0 | 0 | 96 | 264 | 31 | 48
+@t 350 | 30 | 189 | 30 | 2 | 40 | 24 | 32 | 0 | 0 | 98 | 262 | 32 | 50
+@t 350 | 0 | 190 | 0 | 1 | 40 | 19 | 30 | 0 | 0 | 100 | 260 | 33 | 52
+@t 349 | 30 | 190 | 30 | 0 | 40 | 12 | 10 | 0 | 0 | 102 | 258 | 34 | 54
+@t 349 | 0 | 191 | 0 | 0 | 40 | 0 | 10 | 0 | 0 | 104 | 256 | 35 | 56
+@t  |  |  |  |  |  |  |  |  |  | 106 | 254 | 36 | 58
+@t  |  |  |  |  |  |  |  |  |  | 108 | 252 | 38 | 0
+@t  |  |  |  |  |  |  |  |  |  | 110 | 250 | 39 | 0
+@t  |  |  |  |  |  |  |  |  |  | 112 | 248 | 40 | 0
+@t  |  |  |  |  |  |  |  |  |  | 114 | 246 | 41 | 0
+@t  |  |  |  |  |  |  |  |  |  | 116 | 244 | 42 | 0
+@t  |  |  |  |  |  |  |  |  |  | 118 | 242 | 43 | 0
+@t  |  |  |  |  |  |  |  |  |  | 120 | 240 | 44 | 0
+@n {sup:1}) Dakaicae] CO, Minuta N — {sup:2}) Tabula proportionis] N, Tabula propositionis C, Pagina propor-
+@n tionis O — {sup:3}) medietatis morae] CO, mediae morae N.
+@n {sup:a}) 25] O, 35 C — {sup:b}) 7] O, 50 C — {sup:c}) 4] CO, 14 N — {sup:d}) 21] C, 31 O — {sup:e}) 55] O, 45 C.
+@obs The page number «188» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 74», in bold sans serif, underlined. The page has no signature. The titles (L01-L02), in bold, the sigla in roman: «Defectus lunares spatio longinquo (ON)» and C's «Elkucufet elkamarie libood elabaat. longinquo sive remoto (C)», the Arabic title of p. 187 (JP2 0219) with the Latin «longinquo sive remoto», far or remote, after it. A thin oblique stroke like an acute stands over the o of «longinquo» in L01, as on p. 186 (JP2 0218) over the o of «coniunctionis», and a speck over the first o of «libood» in L02; not transcribed. The folios of the manuscripts stand at the left of the titles in two lines, «C 84r, O 140v,» and «N 46r.», the letters raised; here as left margin notes.
+@obs The table: as on p. 187, fourteen columns: «Argumentum latitudinis» over «Gr.», «Min.», «Gr.», «Min.»; «Digiti defectus» over «Dig.», «Min.»; «Dakaicae1) casus» and «Dakaicae1) medietatis morae3)», each over «Min.», «Sec.»; «Tabula proportionis2)» over «Partitiones diversitatum», two columns «Gr.», and «Dakaicae1) superationum», «Min.», «Sec.». Here each head is set from the top, one printed line to a line (L03-L06); the cells separated by our «|»; a head followed by empty cells spans their columns. The first ten columns end with the row of 349° 0′ (L28); the table of proportion continues to 120° (L36). A speck stands in the empty column of the digits at L31; not transcribed.
+@obs L07-L28. The arguments of latitude 359° 30′ to 349° 0′, every half degree, and 180° 30′ to 191° 0′, the same distances from the nodes as on p. 187, 0° 30′ to 11° 0′, in the reverse order. Checked: the values are those of p. 187 for the same distances in every row except five. At 6° 30′ and 7° 0′ from the node (L19, L20) the digits are 8 dig. 21′ and 7 dig. 23′, the readings of C on p. 187 (notes c and b there) against the edition's 8 dig. 40′ and 7 dig. 33′. At 5° 30′ and 8° 30′ (L17, L23) the casus is 43′ 36″ and 31′ 13″ where p. 187 has 43′ 56″ and 31′ 53″: the computation of p. 187 gives 43′ 31″ and 31′ 10″ (see the critical notes there). At 9° 0′ (L24) the edition has O's 3 dig. 25′ and 28′ 7″ (notes a and b), where C has the 3 dig. 35′ and 28′ 50″ printed on p. 187: the computation gives 3 dig. 26.6′ and 27′ 55″. The digits of p. 187 lie 2′ to 11′ above the computation, and C's 35 keeps their steps (2 dig. 40′, 3 dig. 35′, 4 dig. 29′: 55′ and 54′, against 45′ and 64′ with O's 25); the casus of the partial eclipses lies 2″ to 30″ above it, and O's 7 keeps its steps (24′ 32″, 28′ 7″, 31′ 13″: 3′ 35″ and 3′ 6″, against 4′ 18″ and 2′ 23″ with C's 50; 3′ 53″ and 3′ 14″ computed). The last row (L28), 349° 0′ and 191° 0′, 11° from the node, has 0 dig. 40′ and 0′ 10″ where p. 187 begins with 10° 50′ and 169° 10′ and no eclipse; at 11° the latitude, 51′ 31″, exceeds R + r, 50′ 38″, and the digits and the casus repeat the 40 and the 10 of the row above. No note bears on these values.
+@obs L07-L36, the table of proportion: the anomalies 62°-120° and 298°-240°, continuing p. 187 (60°, 14′ 0″). Checked: the values agree within 6″ with the share of the decrease of the moon's distance on its epicycle of 5p 10′, in sixtieths, as on p. 187; from 70° to 84° they grow by 1′ for 2°, from 84° to 108° by 1′ 2″, from 108° to 120° again by 1′, to 44′ 0″ at 120° (43′ 59″ computed). Suter's example, the anomaly 285° 45′ (p. 88, JP2 0120, L23-L25), 74° 15′ from 360°, falls between 74° (20′ 36″) and 76° (21′ 36″): 20′ 43.5″, Suter's 20′ 43″ (20′ 41″ computed).
+@obs Notes on the readings. Checked: the edition's 4′ 0″ and 10′ 21″ of the half mora at 4° 30′ and 4° 0′ (notes c and d: the 4 of C and O against N's 14, C's 21 against O's 31) are those of p. 187. At 64° (note e) O's 15′ 55″, the edition's reading, and C's 15′ 45″ lie 4″ and 6″ from the computation (15′ 51″); C's gives the steps 53″ and 56″ from 14′ 52″ to 16′ 41″, O's 63″ and 46″. Notes a and b: see above.
+@obs Notes 1-3: N's «Minuta» for «Dakaicae»; C's «Tabula propositionis» and O's «Pagina proportionis» for «Tabula proportionis»; N's «mediae morae» for «medietatis morae». N01: the comma after N in note 2 is printed faint. N01-N02: «propor-tionis» divided at the end of the line.

@@ -1,0 +1,50 @@
+@page 240 208
+@lang la
+% JP2 0240: Tab. 93, p. 208: the projection of the rays continued: three fields, for the ascendant at 5°, 10° and 15°
+% of Taurus, the columns from Taurus to Libra, each field with the numbers for the sextile, the quadrature and the
+% trine, with the apparatus (note 1 and notes a-s).
+C 91{sup:v}, O 147{sup:v},
+N 58{sup:r}.
+@c {b:Quinque gradus Tauri}
+@c {b:Exagonum 50° 54′} — {b:Tetragonum 76° 21′}{sup:a}) — {b:Trigonum 101° 70′} (!){sup:b})
+@tw size=footnotesize 0.95 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62
+@t Gradus | Taurus |  | Gemini |  | Cancer |  | Leo |  | Virgo |  | Libra |
+@t aequales | Scorpius |  | Sagittar. |  | Capricorn. |  | Aquarius |  | Pisces |  | Aries |
+@t  | Horoscopus{sup:1}) |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus{sup:1}) |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 5 | 3 | 20 | 26 | 25{sup:c}) | 56 | 45 | 89 | 53 | 116 | 23 | 137 | 43
+@t 10 | 6 | 43 | 30 | 50 | 62 | 15 | 94 | 43 | 120 | 21 | 139 | 53
+@t 15 | 10 | 20 | 36 | 30 | 67 | 46 | 99 | 23 | 123 | 25 | 143 | 2
+@t 20 | 14 | 43 | 40 | 40 | 73 | 30 | 103{sup:e}) | 49 | 126 | 55 | 146 | 13
+@t 25 | 17 | 27 | 45 | 53 | 79 | 17 | 108 | 31 | 130 | 23 | 149 | 31
+@t 30 | 22 | 0 | 50 | 15 | 85 | 3{sup:d}) | 112 | 53 | 133 | 53 | 152 | 43
+@c {b:Decem gradus Tauri}
+@c {b:Exagonum 51° 24′}{sup:f}) — {b:Tetragonum 77°}{sup:g}) {b:21′} — {b:Trigonum 103° 8′}
+@t 5 | 3 | 18 | 26 | 38 | 56 | 50 | 90 | 15 | 117 | 36 | 138 | 48
+@t 10 | 6 | 50 | 31 | 0 | 62 | 20 | 95 | 10 | 121 | 16 | 141{sup:m}) | 53
+@t 15 | 10 | 35 | 35 | 40 | 68{sup:l}) | 7 | 100 | 5 | 124 | 46 | 144 | 55
+@t 20 | 14 | 22 | 39{sup:i}) | 50 | 73 | 50 | 104 | 50 | 128 | 23 | 148{sup:n}) | 11
+@t 25 | 18 | 18{sup:h}) | 45 | 55 | 79 | 36 | 109 | 29 | 132 | 8 | 151 | 28
+@t 30 | 22 | 20 | 51 | 29 | 85 | 20 | 113 | 58 | 135 | 13{sup:l}) | 154 | 43
+@c {b:Quindecim gradus Tauri}
+@c {b:Exagonum 54° 36′}{sup:o}) — {b:Tetragonum 81° 55′} — {b:Trigonum 109° 13′}
+@t 5 | 3 | 15 | 26 | 15 | 56 | 28 | 89 | 21 | 117 | 16 | 138 | 45
+@t 10 | 6 | 45 | 30 | 40 | 61 | 53 | 94 | 18 | 120 | 56 | 141{sup:q}) | 58
+@t 15 | 10 | 25 | 35 | 30 | 67 | 43 | 99 | 18 | 124 | 35 | 145{sup:r}) | 13
+@t 20 | 14 | 8 | 40 | 40 | 73 | 35 | 104 | 13 | 128 | 16 | 148{sup:s}) | 27
+@t 25 | 18 | 12 | 45 | 50 | 79 | 9 | 108 | 43 | 131 | 56 | 151 | 41
+@t 30 | 22{sup:p}) | 5 | 51 | 8 | 84 | 18 | 113 | 31 | 135 | 31 | 154 | 53
+@n {sup:1-1}) Horoscopus] CN, Hore O.
+@n {sup:a}) 21] C, {i:om.} O. — {sup:b}) 70] CON — {sup:c}) 25] ON, 26 C — {sup:d}) 3] O, 1 C — {sup:e}) 103] ON, 104 C —
+@n {sup:f}) 24] O, 34 C — {sup:g}) 77] ON, 76 C — {sup:h}) 18] O, 8 C — {sup:i}) 39] O, 41 C, 40 N — {sup:k}) 68] O, 67 C — {sup:l}) 13]
+@n O, 43 C — {sup:m}) 141] ON, 41 C — {sup:n}) 148] ON, 147 C — {sup:o}) 36] O, 37 C — {sup:p}) 22] ON, 13 C — {sup:q}) 141]
+@n ON, 41 C — {sup:r}) 145] ON, 144 C — {sup:s}) 148] ON, 147 C.
+@obs The page number «208» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 93», in bold sans serif, underlined. The page has no signature and no title: the folios of the manuscripts stand at the left above the double rule of the first field, in two lines of their own, «C 91v, O 147v,» and «N 58r.», the second indented, the letters raised (L01-L02).
+@obs The page holds three fields, as pp. 206-207 (JP2 0238-0239): «Quinque gradus Tauri» (L03), «Decem gradus Tauri» (L15) and «Quindecim gradus Tauri» (L23), the ascendant at 5°, 10° and 15° of Taurus, with the numbers for the sextile, the quadrature and the trine, «Exagonum», «Tetragonum» and «Trigonum» (L04, L16, L24); headings and numbers in bold, the editor's «(!)» in L04 in roman. The columns begin here with the sign of the ascendant: «Taurus Scorpius Horoscopus1)», «Gemini Sagittar. Horoscopus», «Cancer Capricorn. Horoscopus», «Leo Aquarius Horoscopus», «Virgo Pisces Horoscopus» and «Libra Aries Horoscopus1)», where O has «Hore» (note 1); here each head is set from the top, one printed line to a line (L05-L07), with «Gradus aequales», printed upwards, in L05-L06, and the units in L08. The numbers are counted from the beginning of Taurus: 3° 20′ at 5° of Taurus in the first field, the oblique ascension of these 5° for the latitude 38° 30′ being 3° 20.5′ (computed with the obliquity 23° 35′).
+@obs The numbers at the head of a field, as on pp. 206-207 (JP2 0238-0239), are a third, a half and two thirds of one number. In the first field 50° 54′ and 76° 21′ (L04) are a third and a half of 152° 42′, the last number of the field being 152° 43′ (L14); two thirds of it are 101° 48.7′, where the trine has «101° 70′ (!)», the 70 of all three manuscripts (note b), as if 102° 10′. In the second field the quadrature 77° 21′ and the trine 103° 8′ (L16) are a half and two thirds of 154° 42′, the last number being 154° 43′ (L22), whose third is 51° 34′, C's reading of note f; the edition's 24, from O, gives 51° 24′. In the third field 54° 36′, 81° 55′ and 109° 13′ (L24) are a third, a half and two thirds of 163° 48′ to 163° 50′, 8° 56′ more than the last number of the field, 154° 53′ (L30), whose thirds are 51° 37.7′, 77° 26.5′ and 103° 15.3′. The same three numbers stand at the head of the field of 30° of Taurus on p. 209 (JP2 0241, L24), with the quadrature 81° 45′, where the sextile and the trine are a third and two thirds of its last number, 163° 50′.
+@obs The columns of Taurus and Gemini agree with the oblique ascensions from the beginning of Taurus for 38° 30′ within 10′ in the first field except at four places (below), within 20′ in the second except at 20° of Gemini (note i, L20), and within 18′ in the third; from Cancer on the columns fall below them, to 152° 43′, 154° 43′ and 154° 53′ at the end of Libra, where the oblique ascension from the beginning of Taurus is 198° 42′.
+@obs Notes on the readings. Checked by the other two fields, which differ by 5° of the ascendant, and by the steps of the columns: the edition's readings are the nearer at 20° of Leo in the first field (note e, L12: the 103 of O and N against C's 104, the steps 4° 26′ and 4° 42′ against 5° 26′ and 3° 42′), in the quadrature of the second (note g, L16), at 15° of Cancer and at 10° and 20° of Libra in the second (notes k, m and n, L19, L18, L20: O's 68 against C's 67, the steps 5° 47′ and 5° 43′ against 4° 47′ and 6° 43′, the other fields having 67° 46′ and 67° 43′; the 141 and 148 of O and N against C's 41 and 147, the latter giving the steps 2° 16′ and 4° 17′ for 3° 16′ and 3° 17′), in the sextile of the third (note o, L24: O's 36 against C's 37, a third of 163° 49′ being 54° 36.3′), and at 30° of Taurus and 10°, 15° and 20° of Libra in the third (notes p, q, r and s, L30, L26, L27, L28: the 22, 141, 145 and 148 of O and N against C's 13, 41, 144 and 147; the steps of Libra 3° 13′ to 3° 15′). C's readings are the nearer in the sextile of the second field (note f, L16, above) and at 30° of Virgo in the second (note l, L22: C's 43 against O's 13, the steps 3° 45′, 3° 35′ and 3° 5′ into Libra against 3° 45′, 3° 5′ and 3° 35′; 135° 31′ in the third field); N's at 20° of Gemini in the second (note i, L20: N's 40 against O's 39 and C's 41; 40° 40′ in the other fields, the oblique ascension 40° 38′, and the steps 5° 10′ and 5° 5′ against 4° 10′ and 6° 5′ with O's and 6° 10′ and 4° 5′ with C's). At 25° of Taurus in the second field (note h, L21) O's 18, which the edition adopts, keeps the steps rising (3° 47′, 3° 56′ and 4° 2′, against 3° 47′, 3° 46′ and 4° 12′ with C's 8), while C's 18° 8′ lies nearer to the third field and to the oblique ascension (18° 12′; 18° 4′); at 5° of Gemini and 30° of Cancer in the first field (notes c and d, L09, L14) the readings differ by 1′ and 2′; none of these is decided. Note a confirms the quadrature of the first field, 76° 21′ (L04), half of 152° 42′.
+@obs Without variants, in the first field: 14° 43′ and 17° 27′ at 20° and 25° of Taurus (L12-L13) lie 21′ and 35′ above, and 51′ and 45′ below, the other fields (14° 22′, 14° 8′; 18° 18′, 18° 12′), the oblique ascensions being 14° 9′ and 18° 4′, between the steps 3° 37′, 4° 23′, 2° 44′ and 4° 33′; 36° 30′ at 15° of Gemini (L11) lies 50′ and 60′ above the other fields (35° 40′, 35° 30′; the oblique ascension 35° 42′), between the steps 5° 40′ and 4° 10′; and 50° 15′ at 30° of Gemini (L14) lies 74′ and 53′ below them (51° 29′, 51° 8′; 51° 9′), between the steps 4° 22′ and 6° 30′. From Cancer on the first field lies below the other two, up to 2° 10′ at the end of Libra (152° 43′ against 154° 43′ and 154° 53′); its last number equals that of the third field of p. 207 (JP2 0239, L30).
+@obs Specks above the 137 of Libra in L09, before the 53 of Cancer and after the 58 of Libra in L26, and in the left margin beside L24; not transcribed. Italics: «om.».
+@critical AK07-CN228 | stray point | N02 | {i:om.} O. — {sup:b}) | {i:om.} O — {sup:b}) | the readings of a note end without a point before the dash, as «70] CON —» after it; a point is printed after O, as on p. 191 (JP2 0223, N02) | high | none
+@critical AK07-CN229 | wrong note letter | L19 | 68{sup:l}) | 68{sup:k}) | the apparatus has «k) 68] O, 67 C» and «l) 13] O, 43 C» (N03-N04), and the letter l is printed again at the 13 of Virgo (L22), while no k stands in the field; an l is printed for the k | high | none

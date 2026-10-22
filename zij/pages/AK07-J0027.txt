@@ -1,0 +1,53 @@
+@page 27 XXIII
+@lang de
+% JP2 0027: the introduction, p. XXIII: the principles of the edition: the spelling of the Latin text; the Roman figures
+% of the text and the Arabic figures of the tables; the three signs for zero; the confusion of the titles and column
+% heads of the tables in C, O and M.
+@p Über die Grundsätze, die mich bei der Wiedergabe des Textes und der Tafeln
+geleitet haben, muss ich folgendes bemerken :
+@p Im Texte sind die Wörter wiedergegeben, wie sie in den Handschriften stehen,
+mit den Ausnahmen, dass erstens für die Genitiv- und Dativendung der ersten Deklin.
+Sing. das heutige {i:ae} statt des mittelalterlichen {i:e} geschrieben worden ist, zweitens
+für {i:u}, wenn es vor einem Vokal steht, also {i:v} gelesen wird, stets dieser Buchstabe
+gesetzt worden ist ; drittens ist in beiden Mss. für {i:t} vor {i:i} und folgendem Vokal oft
+(nicht immer) {i:c} gesetzt, wir haben immer {i:t} geschrieben.
+@p Der Text und die Tafeln enthalten nur römische Ziffern, mit Ausnahme einiger
+Zusätze aus späterer Zeit in O und N. Im Text habe ich die römischen Ziffern
+beibehalten mit Ausnahme des Zusatzes von späterer Hand zu Kap. 21, der sehr viele
+und grössere Zahlen enthält und nur in C vorkommt. In den Tafeln habe ich, um
+den Druck und das Lesen zu erleichtern, alle Ziffern durch arabische ersetzt.
+@p Für die Null kommen im Text sowohl als in den Tafeln drei Zeichen vor :
+C und O haben bald τ (= {i:teca}){sup:1}), bald θ (= {i:theta} ?), N hat stets {ov:0}{sup:2}). Interessant ist,
+dass in N an verschiedenen Stellen, von denen ich in den Fussnoten einige erwähnt
+habe, für 38 (einige male auch für 28) geschrieben steht XXX0 (bezw. XX0) ; um die
+Zahl in römischen Ziffern nicht zu gross werden zu lassen, wurde also VIII durch
+0 ersetzt, es ist dies jedenfalls der Anfangsbuchstabe von {i:octo}.
+@p Was die Tafeln anbetrifft, so weisen alle Handschriften mit Ausnahme von N
+in den Titeln und Kolonnenüberschriften eine unglaubliche Willkür und Inkonsequenz
+auf ; bald steht sowohl der arabische als auch der lateinische Titel, bald nur der
+arabische, bald nur der lateinische, bald gar kein Titel. Auch die Kolonnenüber-
+schriften lauten oft verschieden, obgleich sie dasselbe bezeichnen sollen, so steht z. B
+im gleichen Ms. in der einen Tafel {i:menses arabici}, in der andern {i:menses arabum}, in
+der einen {i:in annis collectis}, in der andern bloss {i:in collectis}, in der einen {i:via}, in der
+andern {i:semita}, in einer dritten {i:catar} (= {i:linea}), in der einen {i:recedentis}, in der andern
+{i:descendentis}, u. s. w. ; oft sind auch Kolonnentitel ganz weggelassen, besonders in C.
+Das grösste Durcheinander herrscht in den Bezeichnungen der kleinern Winkelteile :
+die eine Tafel hat {i:Min. Sec.}, die andere {i:Dak.}{sup:3}) {i:Then.}{sup:4}), eine dritte {i:Dak. Sec.}, eine
+vierte (besonders in C, aber nicht durchweg) {i:P.}{sup:5}) {i:M.}{sup:6}), und zwar diese Namen bald
+so abgekürzt, bald vollständig ausgeschrieben. Nur in der Bezeichnung der Tier-
+kreiszeichen ({i:Signa}) und Grade ({i:Gradus}) herrscht Übereinstimmung, nur sind sie
+@n {sup:1}) Vergl. M. {sp:Curtze}, {i:Petri Philomeni de Dacia in Algorismum vulgarem Johannis de Sacro-}
+@n {i:bosco Commentarius}, Hauniae 1897, p. 2 u. 26.
+@n {sup:2}) τ und {ov:0} befinden sich auch in dem {i:Prologus N. Ocreati in Helceph ad Adelardum Batensem}
+@n {i:magistrum suum} (herausgeg. von C. {sp:Henry} in den Abhandlungen z. Geschichte der mathem. Wissen-
+@n schaften III, p. 131 ff.). Ebenso steht im Ms. des Escurial, das {sp:Nallino} zu seiner Ausgabe {sp:Al-}
+@n {sp:Battānīs} benutzt hat, in den Tafeln, wenn z. B. Minuten fehlen, dafür das Zeichen {ov:0}.
+@n {sup:3}) {b:{i:Dak.}} = {b:{i:Dakaicae}} (v. Gloss. arab.).
+@n {sup:4}) {b:{i:Then.}} = {b:{i:Theniae}} (v. Gloss. arab.).
+@n {sup:5}) {b:{i:P.}} = {b:{i:Puncta}} für {b:{i:Min.}}
+@n {sup:6}) {b:{i:M.}} = {b:{i:Minuta}} für {i:Sec.}
+@obs The page number «XXIII» stands at the head of the page, centred, with a rule below it. At the foot, the signature «IV*» on the right.
+@obs L15, N03, N06: the three signs for zero are printed as a Greek small tau, τ, a narrow oval with a crossbar, θ, and the figure 0 with a bar above it, {ov:0} (transcribed {ov:0}). L17 «XXX0» and «XX0» and L19 «0» are the figure zero without a bar. L15: «theta ?», the question mark, upright, after a thin space of 10 px.
+@obs N07-N10: the abbreviations and their expansions are set in a heavier italic than the other italics of the notes (strokes measured on the scan: horizontal runs of ink, mean 5.3-5.6 px in «Dakaicae», «Theniae», «Puncta», «Minuta», 4.9 px in «Min.», against 4.3-4.6 px in «Prologus», «Ocreati» and «Sec.»); transcribed as bold italic, «Sec.» (N10) as italic. The distinction for «Min.» is the least certain.
+@obs Marks not transcribed: a speck at the right margin beside L07, after «oft».
+@critical AK07-CN007 | missing point | L24 | z. B | z. B. | the abbreviation of «zum Beispiel» is printed «z. B.» elsewhere (N06 of this page); the point after the B, at the end of the line, is not printed | high | none

@@ -1,0 +1,56 @@
+@page 34 2
+@lang la
+% JP2 0034: the Latin text, p. 2: the end of the preamble; chapter 1, the Arab year (354 or 355 days, the months);
+% chapter 2, the Roman year begins (365 days and a quarter); with the apparatus (notes 1-42).
+magis certum quam necessarium habeat. Cum vero et eis imbutus fuerit atque{sup:1})
+{i:elmagesti}{sup:2}) {sp:Ptolomaei} attemptaverit, omnia quae hic procedunt necessario pro-
+venire{sup:3}) non dubitabit. Hactenus hoc.
+@p Nunc vero, quoniam hic{sup:4}) tempus{sup:5}) cum planetarum cursu comparatur, de
+eis{sup:6}) primo agendum est.
+@ml M 83{sup:r}
+@c {b:Cap. 1. Descriptio{sup:7}) anni arabum{sup:8}).}
+@p Annus igitur arabum secundum lunae cursum consideratur. Id enim tempus
+annum vocant, dum luna a sole{sup:9}) discessa duodecies eum consecuta est, quem{sup:10})
+CCCLIIII dies adiectis quinta et sexta diei{sup:11}), quae sunt eius diei scilicet{sup:12}) undecim
+trigesimae, continuant. Hae autem adiectiones, dum dimidium diei aut eo minus,
+non computantur, eritque annus CCCLIIII dierum ; cum vero maius dimidio{sup:13}) aggre-
+gaverint{sup:14}), dies integer computabitur, eritque annus{sup:15}) CCCLV dierum. Dicitur au-
+tem{sup:16}) annus hic lingua arabica {i:elkebice.} Est itaque hic annus arabum XII menses
+in se continens, quorum primus quidem {i:elmuharram}{sup:17}) dierum XXX, secundus vero
+{i:zafar}{sup:18}) dierum XXVIIII, sicque de ceteris variatum{sup:19}) est, ut subscripta{sup:20}) demon-
+strat tabula, excepto eo quod{sup:21}) ultimus quidem {i:dulheia}{sup:22}), cum ex{sup:23}) sua positione{sup:24})
+XXVIIII dierum sit, ex supradictis partibus concreto{sup:25}) die ipse etiam XXX dierum
+nonnunquam{sup:26}) supputatur. Ex{sup:27}) his itaque id{sup:28}) accidit, ut initium anni arabum{sup:29})
+variato exitu{sup:30}), quandoque in hieme, interdum{sup:31}) in aestate accidit{sup:32}).
+@ml N 8{sup:v}
+@c {b:Cap. 2. Descriptio{sup:33}) anni romanorum.}
+@p Annus{sup:34}) autem romanorum secundum cursum solis diebus CCCLXV{sup:35}) et
+quarta{sup:36}) coniunctus{sup:37}). Haec autem additio, dum quarta vel media fuerit{sup:38}), non
+computabitur. Cum autem dimidio diei maius{sup:39}), dies integer ponetur eritque annus
+CCCLXVI{sup:40}) dierum, diciturque a romanis bissextilis{sup:41}), ab arabibus {i:elkebice}{sup:42}).
+@n {sup:1}) atque] et O. — {sup:2}) elmagesti] congestionem O {i:suprascr.} (S.) — {sup:3}) provenire] provenit M. — {sup:4}) hic]
+@n enim C. — {sup:5}) tempus] C, temporum MN, temporis transitus O. — {sup:6}) eis] O, his C. — {sup:7}) Descriptio] De
+@n termino O. — {sup:8}) arabum] arabici M ; {i:post} arabum C {i:scrips.} incipit, M incipit ezich. — {sup:9}) sole] sola M.
+@n — {sup:10}) quem] scil. annum N {i:suprascr.} — {sup:11}) quinta . . . diei] scil. parte tertia XXlIII horarum, id est
+@n octo N s{i:uprascr.} — {sup:12}) diei scilicet] {i:om.} N. — {sup:13}) dimidio] scil. die N {i:suprascr.} — {sup:14}) dum . . . aggre-
+@n gaverint] CMN, quod luna a solis coniunctione discedens duodecies eum attingendo metitur, quod
+@n CCCLIIII diebus continetur cum additione quintae et sextae partis diei. Est autem quinta et sexta
+@n diei partes XI, quarum XXX in die. Si enim dies in XXX dividatur partes. erunt earum XI totius diei
+@n quinta et sexta. Hae additiones, dum medietas diei aut ea minus fuerint, non computantur, eritque
+@n annus CCCL[I]V dierum ; {i:c}um vero medietate maius explebunt O. — {sup:15}) CCCLIIII . . . . annus] {i:om.} M.
+@n — {sup:16}) Dicitur autem] diciturque O. — {sup:17}) elmuharram] almuharran O, elmuharrum M. — {sup:18}) Zafar]
+@n szaphar N. — {sup:19}) variatum] narratum M. — {sup:20}) subscripta] O, suprascripta, {i:supra quod scriptum est} infra
+@n N. — {sup:21}) quod] qui C. — {sup:22}) dulheia] dulhega O, dulheya M, {i:et O marg. adscr.} — {sup:23}) ex] {i:om.} O. — {sup:24}) sua
+@n positione] supositione M. — {sup:25}) concreto] creato O. — {sup:26}) nonnunquam] quandoque O. — {sup:27}) Ex] et M. —
+@n {sup:28}) id] {i:suprascr.} M. — {sup:29}) arabum] id est elmuharran {i:O adiec.} — {sup:30}) exitu] transitu O. — {sup:31}) interdum] quan-
+@n doque O. — {sup:32}) accidit] accidat CN. — {sup:33}) Descriptio] De termino O. — {sup:34}) Annus] Anni O. — {sup:35}) CCCLXV]
+@n CCCLV M. — {sup:36}) quarta] quarta diei parte O. — {sup:37}) coniunctus] continetur O. — {sup:38}) fuerit] {i:om.} M. —
+@n {sup:39}) dimidio diei maius] medietate diei maior O. — {sup:40}) CCCLXVI] CCCLXV O. — {sup:41}) bissextilis] bisex-
+@n tilis N. — {sup:42}) elkebice] elkedice M ; ab . . . . elkebice {i:om.} O.
+@obs The page number «2» stands at the head of the page, centred, with a rule below it.
+@obs L06 and L20: the chapter headings, «Cap. 1. Descriptio anni arabum.» and «Cap. 2. Descriptio anni romanorum.», in a bold roman type, centred; in the left margin beside them the folios of M and N at which the chapters begin, «M 83r» and «N 8v». L02: «Ptolomaei» is letter-spaced, «elmagesti» in italics; the Arabic words of the text (elkebice, elmuharram, zafar, dulheia) are in italics.
+@obs N02: the D of «De» is printed broken, only its stem and the right part of its bowl visible; transcribed «De». N04: «XXlIII», the third numeral a lower-case l, taller than the I's and with a slanting head serif; transcribed as printed (see the critical note). N05: the s of «suprascr.» is upright, the rest of the word italic; N10: the c of «cum» is italic, the rest of the word upright; transcribed as printed. N08: «partes. erunt», a full stop where the sentence goes on; transcribed as printed. N10: «CCCL[I]V», the square brackets the editor's, supplying the I that O lacks.
+@obs N01: «(S.)», the editor's initial, marks a reading of his own. The semicolons of the text and the apparatus stand after the thin space of the edition (8-11 px measured).
+@obs Marks not transcribed: a light mark above the o of «vero» (L11) and a light speck above the last e of «positione» (N13).
+@critical AK07-CN010 | wrong punctuation | N08 | partes. erunt | partes, erunt | the sentence «Si enim dies in XXX dividatur partes, erunt earum XI totius diei quinta et sexta» runs on: the condition and its consequence are divided by a full stop where a comma is needed | medium | none on the reading of O that the note reports
+@critical AK07-CN011 | wrong sort | N04 | XXlIII | XXIIII | the numeral, twenty-four hours, is set with a lower-case l in the place of the first I | high | none

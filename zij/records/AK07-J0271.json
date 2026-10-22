@@ -1,0 +1,446 @@
+{
+ "anchor": "AK07-J0271",
+ "jp2_index": 271,
+ "jp2_member": "b24872489_0271.jp2",
+ "jp2_sha256": "b3e9e310bf1536360b7c47a1ada51b2c066aba5d1389fa39c56b6bf9b6876451",
+ "reading_copy": "page_0271.jpg",
+ "reading_copy_sha256": "cabcd0c5264c50f56af95d9fd5b28b1377445d2e8ed997ca2c425d555fc45181",
+ "printed_page": "[237]",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0271: the list of misprints (Druckfehler), p. [237]: sixteen corrections to the Latin text, the commentary and the tables.",
+ "lines": [
+  {
+   "id": "AK07-J0271-L01",
+   "n": 1,
+   "kind": "centre",
+   "text": "{b:Druckfehler.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Druckfehler.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "Druckfehler."
+   ]
+  },
+  {
+   "id": "AK07-J0271-L02",
+   "n": 2,
+   "kind": "centre",
+   "text": "(Bei Angabe der Zeilenzahl sind die Fuss-Noten nicht berücksichtigt).",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(Bei Angabe der Zeilenzahl sind die Fuss-Noten nicht berücksichtigt).",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L03",
+   "n": 3,
+   "kind": "table",
+   "text": "Pag. | 3, | Note 32 lies kiteb hea (librum canonum N) statt librum hea (canonum N).",
+   "cells": [
+    "Pag.",
+    "3,",
+    "Note 32 lies kiteb hea (librum canonum N) statt librum hea (canonum N)."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Pag. | 3, | Note 32 lies kiteb hea (librum canonum N) statt librum hea (canonum N).",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L04",
+   "n": 4,
+   "kind": "table",
+   "text": "— | 6, | Z. 10 v. u. lies {sup:26}) statt {sup:21}).",
+   "cells": [
+    "—",
+    "6,",
+    "Z. 10 v. u. lies {sup:26}) statt {sup:21})."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "— | 6, | Z. 10 v. u. lies 26) statt 21).",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L05",
+   "n": 5,
+   "kind": "table",
+   "text": "— | 17, | Note 8 muss zwischen CO und alius eingefügt werden : {i:sed supra} planum {i:scrips.} C elmus-",
+   "cells": [
+    "—",
+    "17,",
+    "Note 8 muss zwischen CO und alius eingefügt werden : {i:sed supra} planum {i:scrips.} C elmus-"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "— | 17, | Note 8 muss zwischen CO und alius eingefügt werden : sed supra planum scrips. C elmus-",
+   "italic": [
+    "sed supra",
+    "scrips."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L06",
+   "n": 6,
+   "kind": "table",
+   "text": "| | tewi, {i:supra} diminutum elmaruz.",
+   "cells": [
+    "",
+    "",
+    "tewi, {i:supra} diminutum elmaruz."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| | tewi, supra diminutum elmaruz.",
+   "italic": [
+    "supra"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L07",
+   "n": 7,
+   "kind": "table",
+   "text": "— | 22, | Z. 9 v. o. lies {sup:11a}) statt {sup:10a}).",
+   "cells": [
+    "—",
+    "22,",
+    "Z. 9 v. o. lies {sup:11a}) statt {sup:10a})."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "— | 22, | Z. 9 v. o. lies 11a) statt 10a).",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L08",
+   "n": 8,
+   "kind": "table",
+   "text": "— | 26, | Z. 1 v. u. lies {sup:39}) und {sup:40}) statt {sup:38}) und {sup:39}), ebenso in den Noten (letzte Zeile) {sup:40}) statt {sup:39}).",
+   "cells": [
+    "—",
+    "26,",
+    "Z. 1 v. u. lies {sup:39}) und {sup:40}) statt {sup:38}) und {sup:39}), ebenso in den Noten (letzte Zeile) {sup:40}) statt {sup:39})."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "— | 26, | Z. 1 v. u. lies 39) und 40) statt 38) und 39), ebenso in den Noten (letzte Zeile) 40) statt 39).",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L09",
+   "n": 9,
+   "kind": "table",
+   "text": "— | —, | Z. 8 v. u. lies tabulam statt tabulum.",
+   "cells": [
+    "—",
+    "—,",
+    "Z. 8 v. u. lies tabulam statt tabulum."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "— | —, | Z. 8 v. u. lies tabulam statt tabulum.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L10",
+   "n": 10,
+   "kind": "table",
+   "text": "— | 31, | Z. 15 v. o. (Anfang) lies tetragoni statt trigoni.",
+   "cells": [
+    "—",
+    "31,",
+    "Z. 15 v. o. (Anfang) lies tetragoni statt trigoni."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "— | 31, | Z. 15 v. o. (Anfang) lies tetragoni statt trigoni.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L11",
+   "n": 11,
+   "kind": "table",
+   "text": "— | 49, | Z. 11 v. u. lies p. VII stat p. I.",
+   "cells": [
+    "—",
+    "49,",
+    "Z. 11 v. u. lies p. VII stat p. I."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "— | 49, | Z. 11 v. u. lies p. VII stat p. I.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L12",
+   "n": 12,
+   "kind": "table",
+   "text": "— | 50, | Z. 7 v. u. lies 167° statt 67°.",
+   "cells": [
+    "—",
+    "50,",
+    "Z. 7 v. u. lies 167° statt 67°."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "— | 50, | Z. 7 v. u. lies 167° statt 67°.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L13",
+   "n": 13,
+   "kind": "table",
+   "text": "— | 62, | Z. 2 {b:v}. u. lies 48′27″ statt 48″27′.",
+   "cells": [
+    "—",
+    "62,",
+    "Z. 2 {b:v}. u. lies 48′27″ statt 48″27′."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "— | 62, | Z. 2 v. u. lies 48′27″ statt 48″27′.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "v"
+   ]
+  },
+  {
+   "id": "AK07-J0271-L14",
+   "n": 14,
+   "kind": "table",
+   "text": "— | 66, | Note 1 lies p. 103 statt Kap. 38.",
+   "cells": [
+    "—",
+    "66,",
+    "Note 1 lies p. 103 statt Kap. 38."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "— | 66, | Note 1 lies p. 103 statt Kap. 38.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L15",
+   "n": 15,
+   "kind": "table",
+   "text": "— | 92, | Z. 19 v. u. lies so statt zo.",
+   "cells": [
+    "—",
+    "92,",
+    "Z. 19 v. u. lies so statt zo."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "— | 92, | Z. 19 v. u. lies so statt zo.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L16",
+   "n": 16,
+   "kind": "table",
+   "text": "— | 100, | Z. 9 und 10 v. o. lies Ascensio obliqua statt Rectascension.",
+   "cells": [
+    "—",
+    "100,",
+    "Z. 9 und 10 v. o. lies Ascensio obliqua statt Rectascension."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "— | 100, | Z. 9 und 10 v. o. lies Ascensio obliqua statt Rectascension.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L17",
+   "n": 17,
+   "kind": "table",
+   "text": "— | 120, | (Tab. 9) lies in der Abteilung „Heza Saturni supradictum“ überschrieben bei 60 (Dies)",
+   "cells": [
+    "—",
+    "120,",
+    "(Tab. 9) lies in der Abteilung „Heza Saturni supradictum“ überschrieben bei 60 (Dies)"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "— | 120, | (Tab. 9) lies in der Abteilung „Heza Saturni supradictum“ überschrieben bei 60 (Dies)",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L18",
+   "n": 18,
+   "kind": "table",
+   "text": "| | in der Kol. der „Signa“ 1 statt 0.",
+   "cells": [
+    "",
+    "",
+    "in der Kol. der „Signa“ 1 statt 0."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| | in der Kol. der „Signa“ 1 statt 0.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L19",
+   "n": 19,
+   "kind": "table",
+   "text": "— | 131 | (Tab. 20) N. 7 lies in statt tn.",
+   "cells": [
+    "—",
+    "131",
+    "(Tab. 20) N. 7 lies in statt tn."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "— | 131 | (Tab. 20) N. 7 lies in statt tn.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0271-L20",
+   "n": 20,
+   "kind": "table",
+   "text": "— | 145 | (Tab. 34) N. 1 lies Jauzegarhu statt Jauzezarhu.",
+   "cells": [
+    "—",
+    "145",
+    "(Tab. 34) N. 1 lies Jauzegarhu statt Jauzezarhu."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "— | 145 | (Tab. 34) N. 1 lies Jauzegarhu statt Jauzezarhu.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The list of misprints, p. [237], without a page number; the contents (p. [III], JP2 0007) give pp. 233-237 for the additions and corrections. The heading «Druckfehler.» (L01) in bold, below the upper third of the page, and the remark in parentheses (L02), centred; then the list, each entry beginning with «Pag.» or a long dash for it and the page, right-aligned, followed in L19-L20 by no comma; a second long dash (L09) stands for the page 26 of the entry before. Here the entries in three columns, «Pag.», the page and the correction, separated by our «|»; L06 and L18 continue the entries of L05 and L17 under their text. At the foot of the list a short double rule, centred; not transcribed. The rest of the page is blank. Italics: «sed supra», «scrips.», «supra» (L05-L06).",
+  "The entries, checked against the places they correct, counting the lines of the text without the footnotes, as L02 says: p. 3, note 32 (JP2 0035, N10-N11; critical note AK07-CN278); p. 6, the 10th line from the foot, L20 (JP2 0038; AK07-CN016); p. 17, note 8 (JP2 0049, N04; AK07-CN279); p. 22, L09 (JP2 0054; AK07-CN036); p. 26, the last line, L28, and the last line of the notes, N17 (JP2 0058; AK07-CN044, AK07-CN280, AK07-CN045); p. 26, the 8th line from the foot, L21 (AK07-CN043); p. 31, L15 (JP2 0063; AK07-CN281); p. 49, the 11th line from the foot, L29 (JP2 0081; AK07-CN282); p. 50, the 7th line from the foot, L34 (JP2 0082), where this copy already has «167°», the 1 in a heavier sort than the 6 and the 7; p. 62, the 2nd line from the foot, L37 (JP2 0094; AK07-CN057); p. 66, note 1 (JP2 0098, N01; AK07-CN283); p. 92, the 19th line from the foot, L22 (JP2 0124; AK07-CN072); p. 100, L09 and L10 (JP2 0132; AK07-CN284, AK07-CN285); p. 120, Tab. 9, the sign of the anomaly of Saturn at 60 days, L29 (JP2 0152; AK07-CN286); p. 131, Tab. 20, note 7, N04 (JP2 0163; AK07-CN109); p. 145, Tab. 34, note 1, N01 (JP2 0177; AK07-CN287). The critical notes AK07-CN016, CN036, CN043, CN044, CN045, CN057, CN072 and CN109 rest on the evidence of their own pages, the others on this list; the error of p. 120 is also shown by the arithmetic of its column."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK07-CN276",
+   "class": "misprint",
+   "line": "L11",
+   "printed": "stat p. I.",
+   "proposed": "statt p. I.",
+   "evidence": "«statt» in every other entry of the list; one t is printed",
+   "confidence": "high",
+   "impact": "none"
+  },
+  {
+   "id": "AK07-CN277",
+   "class": "wrong fount",
+   "line": "L13",
+   "printed": "Z. 2 {b:v}. u.",
+   "proposed": "Z. 2 v. u.",
+   "evidence": "the abbreviation «v. u.» is set in roman in every other entry, as «Z. 7 v. u.» in the line above; the v is printed in bold type",
+   "confidence": "high",
+   "impact": "none"
+  }
+ ]
+}

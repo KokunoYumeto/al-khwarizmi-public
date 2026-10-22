@@ -1,0 +1,584 @@
+{
+ "anchor": "AK07-J0064",
+ "jp2_index": 64,
+ "jp2_member": "b24872489_0064.jp2",
+ "jp2_sha256": "2bc9c79aff675d302b334e83d5ec45e0721a87f390ea5a0dbfead0b745c1b31f",
+ "reading_copy": "page_0064.jpg",
+ "reading_copy_sha256": "aed8f23c5a79c52ef14998798846708a60887a2761ac977667e86a64c43161f5",
+ "printed_page": "[32]",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0064: Suter's commentary, first page (p. [32]): introduction to the text (text pp. 1-2): the word zīj; the early Arabic tables after the Indian Siddhāntas; the two editions of the Sindhind of al-Khwārizmī; Maslama's recension; the Brahma- and Sūrya-Siddhānta; the Persian tables of the Shāh (notes 1-2).",
+ "lines": [
+  {
+   "id": "AK07-J0064-L01",
+   "n": 1,
+   "kind": "heading",
+   "text": "KOMMENTAR",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "KOMMENTAR",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L02",
+   "n": 2,
+   "kind": "centre",
+   "text": "{b:Einleitung des Textes.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Einleitung des Textes.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "Einleitung des Textes."
+   ]
+  },
+  {
+   "id": "AK07-J0064-L03",
+   "n": 3,
+   "kind": "centre",
+   "text": "(Text p. 1—2.)",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(Text p. 1—2.)",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L04",
+   "n": 4,
+   "kind": "indent",
+   "text": "Das arabische Wort {i:ezich} = {i:elzīdj} (gesprochen {i:ez-zīdj}) ist, wie noch verschiedene",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Das arabische Wort ezich = elzīdj (gesprochen ez-zīdj) ist, wie noch verschiedene",
+   "italic": [
+    "ezich",
+    "elzīdj",
+    "ez-zīdj"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "andere arabische technische Ausdrücke, nicht übersetzt ; es ist ursprünglich ein per-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "andere arabische technische Ausdrücke, nicht übersetzt ; es ist ursprünglich ein per-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "sisches Wort ({i:zīg}) und bedeutet die Grundfäden (Zettel) des Zeuges, in die der Weber",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sisches Wort (zīg) und bedeutet die Grundfäden (Zettel) des Zeuges, in die der Weber",
+   "italic": [
+    "zīg"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "oder Sticker den Einschlag oder die Stickerei hineinwirkt, dann diesem entsprechend",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "oder Sticker den Einschlag oder die Stickerei hineinwirkt, dann diesem entsprechend",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "„astronomisches Tafelwerk“. Solche gab es in der arabischen astronomischen Litte-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "„astronomisches Tafelwerk“. Solche gab es in der arabischen astronomischen Litte-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "ratur eine grosse Zahl : Die ältesten waren die nach den indischen {i:Siddhāntas} (s. Ein-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ratur eine grosse Zahl : Die ältesten waren die nach den indischen Siddhāntas (s. Ein-",
+   "italic": [
+    "Siddhāntas"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "leitung) verfassten Tafeln von {sp:Ibrāhīm al-Fazārī} und {sp:Yaʿḳūb b. Ṭāriḳ} ; dann",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "leitung) verfassten Tafeln von Ibrāhīm al-Fazārī und Yaʿḳūb b. Ṭāriḳ ; dann",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ibrāhīm al-Fazārī",
+    "Yaʿḳūb b. Ṭāriḳ"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "kommen die beiden Ausgaben des {i:Sindhind} (arab. Schreibweise des indischen {i:Siddhānta})",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "kommen die beiden Ausgaben des Sindhind (arab. Schreibweise des indischen Siddhānta)",
+   "italic": [
+    "Sindhind",
+    "Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "des {sp:Muh. b. Mūsā al-Khwārizmī}, die wahrscheinlich in den Jahren 800—830",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des Muh. b. Mūsā al-Khwārizmī, die wahrscheinlich in den Jahren 800—830",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Muh. b. Mūsā al-Khwārizmī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "n. Chr. verfasst worden sind ; hierauf die „erprobten Tafeln“ der Astronomen {sp:Al-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "n. Chr. verfasst worden sind ; hierauf die „erprobten Tafeln“ der Astronomen Al-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "{sp:Ma’mūns} ({sp:Yaḥyā b. Abī Manṣūr}, {sp:Sened b. ʿAlī}, {sp:ʿAbbās b. Saʿīd al-Djauharī}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Ma’mūns (Yaḥyā b. Abī Manṣūr, Sened b. ʿAlī, ʿAbbās b. Saʿīd al-Djauharī",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ma’mūns",
+    "Yaḥyā b. Abī Manṣūr",
+    "Sened b. ʿAlī",
+    "ʿAbbās b. Saʿīd al-Djauharī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "u. a.){sup:1}). — Es ist möglich, dass die spätere Ausgabe des {i:Sindhind} von {sp:Kh.} schon",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "u. a.)1). — Es ist möglich, dass die spätere Ausgabe des Sindhind von Kh. schon",
+   "italic": [
+    "Sindhind"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "etwas beeinflusst gewesen sein mag durch die Beobachtungen der Astronomen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "etwas beeinflusst gewesen sein mag durch die Beobachtungen der Astronomen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "{sp:Al-Ma’mūns}, und sich deshalb etwas weiter von den indischen Vorlagen entfernt",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Al-Ma’mūns, und sich deshalb etwas weiter von den indischen Vorlagen entfernt",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Ma’mūns"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "hat als die erste Ausgabe, und dass wahrscheinlich, wie wir aus dem Inhalt des",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "hat als die erste Ausgabe, und dass wahrscheinlich, wie wir aus dem Inhalt des",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "vorliegenden Werkes schliessen möchten, {sp:Maslama al-Madjrīṭī} (s. Einleitung) diese",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "vorliegenden Werkes schliessen möchten, Maslama al-Madjrīṭī (s. Einleitung) diese",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Maslama al-Madjrīṭī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "zweite Ausgabe einer Umarbeitung unterzogen hat. Doch lässt sich selbstverständlich",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zweite Ausgabe einer Umarbeitung unterzogen hat. Doch lässt sich selbstverständlich",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "hierüber nichts sicheres sagen, wir stellen nur Vermutungen auf, die uns als berechtigt",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "hierüber nichts sicheres sagen, wir stellen nur Vermutungen auf, die uns als berechtigt",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "erscheinen. — Welchen der verschiedenen indischen {i:Siddhāntas} {sp:Kh.} seinen Tafeln zu",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "erscheinen. — Welchen der verschiedenen indischen Siddhāntas Kh. seinen Tafeln zu",
+   "italic": [
+    "Siddhāntas"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "Grunde gelegt habe, ist ebenfalls nicht sicher zu entscheiden ; bis jetzt hat man es",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Grunde gelegt habe, ist ebenfalls nicht sicher zu entscheiden ; bis jetzt hat man es",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "als ziemlich wahrscheinlich betrachtet, dass es der {i:Brahma-Siddhānta} (verfasst von",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "als ziemlich wahrscheinlich betrachtet, dass es der Brahma-Siddhānta (verfasst von",
+   "italic": [
+    "Brahma-Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "{sp:Brahmagupta} in der ersten Hälfte des 7. Jahrh. n. Chr.) gewesen sei ; wir werden",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Brahmagupta in der ersten Hälfte des 7. Jahrh. n. Chr.) gewesen sei ; wir werden",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Brahmagupta"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "aber weiter unten sehen, dass auch andere {i:Siddhāntas} in Frage kommen können,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "aber weiter unten sehen, dass auch andere Siddhāntas in Frage kommen können,",
+   "italic": [
+    "Siddhāntas"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "besonders der {i:Sūrya-Siddhānta}. Dies würde dann darauf hindeuten, dass vielleicht",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "besonders der Sūrya-Siddhānta. Dies würde dann darauf hindeuten, dass vielleicht",
+   "italic": [
+    "Sūrya-Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "{sp:Kh.} auch die persischen „Tafeln des Shāh“ ({i:zīdj al-shāh}, oder {i:zīdj al-shahriyār}){sup:2}) zu",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kh. auch die persischen „Tafeln des Shāh“ (zīdj al-shāh, oder zīdj al-shahriyār)2) zu",
+   "italic": [
+    "zīdj al-shāh",
+    "zīdj al-shahriyār"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "Rate gezogen hat, die im 2. Jahrh. der {i:Hidjra} ins Arabische übersetzt worden sind,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Rate gezogen hat, die im 2. Jahrh. der Hidjra ins Arabische übersetzt worden sind,",
+   "italic": [
+    "Hidjra"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Vergl. für diese Astronomen : H. {sp:Suter}, {i:Die Mathematiker und Astronomen der Araber}, etc.,",
+   "margin": null,
+   "plain": "1) Vergl. für diese Astronomen : H. Suter, Die Mathematiker und Astronomen der Araber, etc.,",
+   "italic": [
+    "Die Mathematiker und Astronomen der Araber"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Suter"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "p. 3—14, und unsere Einleitung zu dieser Ausgabe.",
+   "margin": null,
+   "plain": "p. 3—14, und unsere Einleitung zu dieser Ausgabe.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0064-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "{sup:2}) Vergl. {sp:Batt.}, ed. {sp:Nallino}, I, 218.",
+   "margin": null,
+   "plain": "2) Vergl. Batt., ed. Nallino, I, 218.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt.",
+    "Nallino"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The first page of Suter's commentary; the page number, 32 by the sequence of pages, is not printed. The page begins about a quarter of the way down: L01 «KOMMENTAR» in capitals, with a short rule below it; L02 «Einleitung des Textes.» in bold, centred; L03 «(Text p. 1—2.)», centred. The page has no signature.",
+  "Spaced type, marked {sp:}: the names «Ibrāhīm al-Fazārī», «Yaʿḳūb b. Ṭāriḳ», «Muh. b. Mūsā al-Khwārizmī», «Al-Ma’mūns», «Yaḥyā b. Abī Manṣūr», «Sened b. ʿAlī», «ʿAbbās b. Saʿīd al-Djauharī», «Kh.» (Suter's abbreviation of al-Khwārizmī), «Maslama al-Madjrīṭī», «Brahmagupta», «Suter», «Batt.» (al-Battānī) and «Nallino»; italics: the Arabic and Persian words and the titles. «Muh.» without a dot under the h.",
+  "The colons and semicolons stand after the thin space of the edition (10-12 px measured)."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

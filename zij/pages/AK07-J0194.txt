@@ -1,0 +1,61 @@
+@page 194 162
+@lang la
+% JP2 0194: Tab. 51, p. 162: the equations of Mercury, with its corrected apogee, first station and latitude, for the
+% arguments 0s 1° to 1s 0° (and 11s 29° to 11s 0°), with the apparatus (notes 1-3 and a-o).
+@c {b:Coaequatio Mercurii} (N)
+@c {b:Tadil elotari elketib} (O)
+@ml C 68{sup:r}, O 125{sup:v},
+@c {b:Examinatio Mercurii} (C)
+@ml N 33{sup:v}.
+@c {b:Locus autem draconis eius 0. 21. 10} (CN)
+@tw size=footnotesize span=1.14 0.85 0.85 0.85 0.85 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.75
+@t Pagina numerorum (O) |  |  |  | Sublimatio |  |  | Exami- |  | Exami- |  | Statio prima |  |  | Latitudo Mercurii |  |  |  |
+@t Semita numerorum (C) |  |  |  | ascensus |  |  | natio |  | natio |  | Mercurii |  |  | ascendentis{sup:3}) |  |  |  |
+@t Augmentum |  | Diminutio |  | Mercurii{sup:1}) |  |  | ipsius |  | centri |  |  |  |  | {b:prima} |  | {b:secunda} |  |
+@t proprietatum |  | proprietatum |  |  |  |  | elheza{sup:2}) |  |  |  |  |  |  |  |  |  |  |
+@t omnium |  | omnium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 0 | 1 | 11 | 29 | 7 | 14 | 46 | 0 | 16 | 0 | 4 | 4 | 27 | 14 | 1 | 44 | 0 | 6 | 33
+@t 0 | 2 | 11 | 28 | 7 | 14 | 38 | 0 | 32 | 0 | 8 | 4 | 27 | 14 | 1 | 44 | 0 | 13 | 5
+@t 0 | 3 | 11 | 27 | 7 | 14 | 30 | 0 | 48 | 0 | 12 | 4 | 27 | 14 | 1 | 44 | 0 | 19 | 38
+@t 0 | 4 | 11 | 26 | 7 | 14 | 22 | 1 | 4 | 0 | 16 | 4 | 27 | 13 | 1 | 44 | 0 | 26 | 10
+@t 0 | 5 | 11 | 25 | 7 | 14 | 14 | 1 | 20 | 0 | 20 | 4 | 27 | 13 | 1 | 44 | 0 | 32 | 41
+@t 0 | 6 | 11 | 24 | 7 | 14 | 6 | 1 | 36 | 0 | 24 | 4 | 27 | 13 | 1 | 44 | 0 | 39 | 12
+@t 0 | 7 | 11 | 23 | 7 | 13 | 58 | 1 | 58 | 0 | 28 | 4 | 27 | 12 | 1 | 43 | 0 | 45 | 42
+@t 0 | 8 | 11 | 22 | 7 | 13 | 50 | 2 | 9 | 0 | 33 | 4 | 27 | 12 | 1 | 43 | 0 | 52 | 11
+@t 0 | 9 | 11 | 21 | 7 | 13 | 42 | 2 | 25 | 0 | 37 | 4 | 27 | 11 | 1 | 43 | 0 | 58 | 40
+@t 0 | 10 | 11 | 20 | 7 | 13 | 34 | 2 | 41 | 0 | 41 | 4 | 27 | 11 | 1 | 43 | 1 | 5{sup:i}) | 7
+@t 0 | 11 | 11 | 19 | 7 | 13 | 26 | 2 | 57 | 0 | 45 | 4 | 27 | 9 | 1 | 43 | 1 | 11 | 33
+@t 0 | 12 | 11 | 18 | 7 | 13 | 18 | 3 | 13 | 0 | 49 | 4 | 27 | 8 | 1 | 43 | 1 | 17 | 58{sup:m})
+@t 0 | 13 | 11 | 17 | 7 | 13 | 10 | 3 | 29 | 0 | 53 | 4 | 27 | 8 | 1 | 43 | 1 | 24 | 21
+@t 0 | 14 | 11 | 16 | 7 | 13 | 2 | 3 | 45 | 0 | 57 | 4 | 27 | 7 | 1 | 43 | 1 | 30 | 43
+@t 0 | 15 | 11 | 15 | 7 | 12 | 54 | 4 | 1 | 1 | 1 | 4 | 27 | 6 | 1 | 42 | 1 | 37 | 3
+@t 0 | 16 | 11 | 14 | 7 | 12 | 46 | 4 | 16 | 1 | 5 | 4 | 27 | 4 | 1 | 42 | 1 | 43 | 22
+@t 0 | 17 | 11 | 13 | 7 | 12 | 38 | 4 | 32 | 1 | 9 | 4 | 27 | 2 | 1 | 42 | 1 | 49 | 38{sup:n})
+@t 0 | 18 | 11 | 12 | 7 | 12 | 30 | 4 | 48 | 1 | 12 | 4 | 27 | 0 | 1 | 42 | 1 | 55 | 53{sup:o})
+@t 0 | 19 | 11 | 11 | 7 | 12{sup:b}) | 22 | 5 | 4 | 1 | 16 | 4 | 26 | 59 | 1 | 42 | 2 | 2 | 5
+@t 0 | 20 | 11 | 10 | 7 | 12{sup:c}) | 15 | 5 | 19 | 1 | 20 | 4 | 26 | 56 | 1 | 42 | 2 | 8 | 15
+@t 0 | 21 | 11 | 9 | 7 | 12 | 7 | 5 | 35 | 1 | 23 | 4 | 26 | 54 | 1 | 42 | 2 | 14 | 23
+@t 0 | 22 | 11 | 8 | 7 | 11 | 59 | 5 | 51 | 1 | 27 | 4 | 26 | 52 | 1 | 42 | 2 | 20 | 29
+@t 0 | 23 | 11 | 7 | 7 | 11 | 51 | 6{sup:e}) | 6 | 1 | 31 | 4 | 26 | 50 | 1 | 41 | 2 | 26 | 32
+@t 0 | 24 | 11 | 6 | 7 | 11 | 43 | 6 | 22 | 1 | 35 | 4 | 26 | 49 | 1 | 41 | 2 | 32 | 32
+@t 0 | 25 | 11 | 5 | 7 | 11 | 36 | 6 | 38{sup:g}) | 1 | 39 | 4 | 26 | 47 | 1 | 41 | 2 | 38 | 29
+@t 0 | 26 | 11 | 4 | 7 | 11 | 28 | 6{sup:e}) | 53 | 1 | 42 | 4 | 26 | 45 | 1 | 41 | 2 | 44 | 23
+@t 0 | 27 | 11 | 3 | 7 | 11 | 20 | 7{sup:f}) | 8 | 1 | 46 | 4 | 26 | 42 | 1 | 41 | 2 | 56 | 15
+@t 0 | 28 | 11 | 2 | 7 | 11 | 12 | 7 | 24 | 1 | 50 | 4 | 26 | 40 | 1 | 41 | 2 | 56 | 3
+@t 0 | 29 | 11 | 1 | 7 | 11 | 5 | 7 | 39 | 1 | 54{sup:h}) | 4 | 26 | 38 | 1 | 41 | 3{sup:k}) | 1 | 48
+@t 1{sup:a}) | 0 | 11 | 0 | 7 | 10{sup:d}) | 57 | 7{sup:f}) | 55 | 1 | 59 | 4 | 26 | 36 | 1 | 41 | 3{sup:k}) | 7{sup:l}) | 30
+@n {sup:1}) Sublimatio . . . . Mercurii] O, Sublimatio Mercurii definita C — {sup:2}) ipsius elheza] O, argumenti C —
+@n {sup:3}) Latitudo . . . . ascendentis] O, Latitudo accessus Mercurii C.
+@n {sup:a}) 1] N, 0 CO — {sup:b}) 12] ON, 10 C — {sup:c}) 12] ON, 10 C — {sup:d}) 10] O, 11 C — {sup:e})—{sup:e}) 6] C, 5 O —
+@n {sup:f})—{sup:f}) 7] C, 5 O — {sup:g}) 38] C, 37 O — {sup:h}) 54] O, 55 C — {sup:i}) 5] O, 0 C — {sup:k}) 3] C, 2 O — {sup:l}) 7] 50 CO —
+@n {sup:m}) 58] 18 CO — {sup:n}) 38] 18 CO — {sup:o}) 53] 13 CO.
+@obs The page number «162» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 51», in bold sans serif, underlined. The page has no signature. A speck at the left of the titles; not transcribed. The titles (L01-L04), in bold, the sigla in roman: N's title, O's «Tadil elotari elketib», C's «Examinatio Mercurii»; L04, the place of the node of Mercury, «Locus autem draconis eius 0. 21. 10», in smaller bold type, followed by «(CN)»: 21° 10′, the value of chapter 19 of the text (p. 15, JP2 0047) and of p. 64 (JP2 0096, L38). The folios of the manuscripts stand at the left of L03 and L04, «C 68r, O 125v,» and «N 33v.», the letters raised; here as left margin notes.
+@obs The table: rules and heads as on pp. 156-161 (JP2 0188-0193), with «Pagina numerorum (O) Semita numerorum (C)» over the four columns of the arguments, divided below a rule into «Augmentum proprietatum omnium» and «Diminutio proprietatum omnium» in smaller type, without notes; «Sublimatio ascensus Mercurii1)», without «examinata»; «Examinatio ipsius elheza2)» and «Examinatio centri», each hyphenated «Exami-natio»; «Statio prima Mercurii»; «Latitudo Mercurii ascendentis3)» over «prima» and «secunda» in smaller bold type. Here each head is set from the top, one printed line to a line (L05-L09), the cells separated by our «|»; a head followed by empty cells spans their columns. L10, the units, in bold.
+@obs L11-L40. Checked: each value of the Sublimatio is 7s 14° 54′, the apogee of Mercury (text, chapter 18, p. 15, JP2 0047; 224° 54′), less half the Examinatio argumenti of the same row, a half minute counted as a whole, except at 7° and 25°. At 7° (L17), 7s 13° 58′ answers to an Examinatio argumenti of 1° 52′ or 1° 53′, where the table has 1° 58′, the minutes of the Sublimatio of the row; the steps of the column to and from 7°, 22′ and 11′, stand against 16′ on either side, and the epicycle below gives 1° 52.5′. No note of the apparatus bears on the 58. At 25° (L35, note g) the edition prints C's 6° 38′; O's 37 agrees with the Sublimatio of the row, 7s 11° 36′, the 38 does not; the epicycle gives 6° 37.7′.
+@obs L11-L40, the Examinatio argumenti. Apart from 7° it agrees to within 0.8′ in every row with the equation of the anomaly of an epicycle, arc tan (r sin x : (60 + r cos x)), for r = 21.97, the radius that fits the other twenty-nine values best; the radius that reproduces each value is 21.82 from 1° to 6°, 22.05 to 22.08 from 8° to 15° and 21.92 to 22.01 from 16° to 30°. The column rises by 15′ or 16′ a degree to 7° 55′ at 30°.
+@obs L11-L40, the Latitudo secunda. It is 6° 15′ · sin x to within 0.6″ in every row except at 27° (L37), where the minutes are printed 56: see the critical note; its greatest value, 6° 15′, is to be compared with p. 164. The editor's readings in notes i and k-o, where C and O differ, give the computed values: 1° 5′ 7″ at 10° (O), 1° 17′ 58″, 1° 49′ 38″ and 1° 55′ 53″ at 12°, 17° and 18°, and 3° 1′ 48″ and 3° 7′ 30″ at 29° and 30°.
+@obs L11-L40, the other columns: the Examinatio centri increases by 3′ to 5′ a degree, mostly 4′, to 1° 59′ at 30°; it lies between 1.6′ below and 0.2′ above 3° 56′ · sin x from 1° to 29°, and 1° 59′ at 30° is 1′ more than 3° 56′ · sin 30°; the greatest value is to be compared with p. 164. The Statio prima decreases from 4s 27° 14′ to 4s 26° 36′, by 0′ or 1′ a degree to 11° and by 1′ to 3′ from 11° on. The Latitudo prima is 1° 44′ to 6°, 1° 43′ to 14°, 1° 42′ to 22° and 1° 41′ from 23° on.
+@obs Notes on the readings. Note a: the last argument, 1s 0°, is N's; C and O have 0. Checked: the degrees 12 of the Sublimatio at 19° and 20° (notes b and c, O and N, against C's 10) and O's 7s 10° 57′ at 30° (note d, against C's 11) agree with the rule; the degrees 6 and 7 of the Examinatio argumenti from 23° to 26° and from 27° to 30° (notes e-e and f-f, C, against O's 5) with the epicycle; O's 1° 54′ of the Examinatio centri at 29° (note h, against C's 55) with the steps of the column.
+@obs N01-N02: the ellipses of the lemmata, «Sublimatio....Mercurii» and «Latitudo....ascendentis», are set close to the words, transcribed «. . . .» as elsewhere.
+@critical AK07-CN150 | probable misprint | L37 | 56 | 50 | the minutes of the Latitudo secunda at 27°, printed 2° 56′ 15″: 6° 15′ · sin 27° = 2° 50′ 14.8″, with the seconds of the table; the column must rise to 90°, and 2° 56′ 15″ is more than the 2° 56′ 3″ of 28°, whose minutes it repeats; no note of the apparatus reports it | medium | none

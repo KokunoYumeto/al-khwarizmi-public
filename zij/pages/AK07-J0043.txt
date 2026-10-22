@@ -1,0 +1,57 @@
+@page 43 11
+@lang la
+% JP2 0043: the Latin text, p. 11: the end of chapter 10: the corrected apogee, the centre and the argument, their
+% equations, the final centre (elhacil) and the true place of the planet; the interpolation for the minutes; with the
+% apparatus (notes 1-40).
+dum{sup:1}) itaque sublimationem hanc cum{sup:2}) argumenti examinatione, totumque{sup:3}) istud
+sublimatio examinata nominandum est. Haec deinde{sup:4}) sublimatio examinata{sup:5})
+ab ipsius{sup:6}) planetae {i:elwacat}{sup:7}) auferenda est{sup:8}), quodque residuum fuerit, centrum
+dicetur{sup:9}).
+@p Cum{sup:10}) hoc itaque centro{sup:11}) in centri examinationem{sup:12}) intrandum est{sup:13}).
+Deinde si centrum ipsum maius sex signis fuerit, examinatio sua ipsi{sup:14}) centro ad-
+denda, eademque ipsi argumento detrahenda est. Sin autem centrum ipsum{sup:15}) mi-
+nus sex signis fuerit, examinatio sua{sup:16}) a centro auferenda{sup:17}) eademque argumento
+addenda{sup:18}) erit. Sicque ista aucta vel{sup:19}) diminuta centrum examinatum argumen-
+tumque{sup:20}) examinatum vocabuntur{sup:21}). Deinde cum{sup:22}) hoc argumento examinato{sup:23})
+in argumenti examinationem{sup:24}) intrandum ipsaque observanda{sup:25}).
+@p Quod si argumentum examinatum{sup:26}) sex signis maius fuerit, erit ipsa exami-
+natio{sup:27}) a centro invento auferenda{sup:28}), sin autem{sup:29}) minus, eidem addenda{sup:30}), quod-
+que{sup:31}) inde surget, a {sp:Caldeis}{sup:32}) {i:elhacil}, a nobis obtentum vel centrum ultimum
+potest dici{sup:33}). Huic denique centro ultimo sublimatio examinata addenda est. Hinc
+igitur coacervatum locum tibi planetae{sup:34}) ostendet.
+@m C 45{sup:r}
+@p Illud{sup:35}) quoque promptissimum habere memento. Quod si alicui eorum sive
+argumento sive centro, cum quorum signis et gradibus tantum intratur in tabulas
+@m M 85{sup:r}
+examinationis | planetarum, dakaicae aliquot superfuerint, cum eisdem signis et
+gradibus uno gradu adiecto iterum intrandum erit. Quod si examinatio prior supra
+posteriorem dakaicas{sup:36}) aliquot adiiciat, vel e contrario posterior supra priorem,
+erit quantum pertinebit dakaicis superius relictis ex hac adiectione examinationi
+priori subtrahendum vel addendum. Quod autem illis ex his attinet sic accipe :
+Quotcunque fuerint{sup:37}) {i:dakaicae} illae, totidem {i:eltheniae}{sup:38}) i. e. secundae{sup:39}) ex singulis
+his dakaicis illis pertinent{sup:40}).
+@n {sup:1}) coniungendum] intrandum est, iungendo O. — {sup:2}) cum] cum ipsius O. — {sup:3}) totumque] totum O.
+@n — {sup:4}) deinde] itaque O. — {sup:5}) examinata] {i:om.} O. — {sup:6}) ipsius] medialitate O. — {sup:7}) elwacat] {i:om.} O. —
+@n {sup:8}) est] {i:om.} O — {sup:9}) dicetur] dicendum est O. — {sup:10}) Cum] Per O. — {sup:11}) centro] centrum O. — {sup:12}) centri
+@n examinationem] C, centri examinatione M, examen ipsius centri O. — {sup:13}) est] {i:om.} O. — {sup:14}) ipsi] ipso
+@n M. — {sup:15}) examinatio . . . . ipsum] examen ipsius centri super ipsum centrum addendum est, idemque
+@n examen ab argumento auferendum. Si vero centrum O. — {sup:16}) examinatio sua] examen O. — {sup:17}) aufe-
+@n renda] auferendum O. — {sup:18}) eademque argumento addenda] C, eodemque argumento addenda M, idem-
+@n que super argumentum addendum O. — {sup:19}) vel] C, et M. — {sup:20}) argumentumque] argumentum M. —
+@n {sup:21}) aucta . . . . . vocabuntur] et centrum et elheca inventa dicentur O. — {sup:22}) cum] per O. — {sup:23}) argu-
+@n mento examinato] argumentum O. — {sup:24}) examinationem] examinatione M, examen O. — {sup:25}) ipsaque
+@n observanda] ipsumque observandum O. — {sup:26}) examinatum] {i:om.} O. — {sup:27}) erit ipsa examinatio] C, eritque
+@n ipsa examinatio M, examen erit ipsius argumenti O. — {sup:28}) auferenda] auferendum O. — {sup:29}) sin autem]
+@n si vero O. — {sup:30}) eidem addenda] idem eidem addendum O. — {sup:31}) quodque] Quod itaque O. — {sup:32}) a
+@n Caldeis] arabice O. — {sup:33}) obtentum . . . . dici] vero obtentum dici potest O. — {sup:34}) denique . . . . planetae]
+@n ergo obtento addenda est sullimatio examinata ; quodque inde creverit, ipsum tibi locum planetae suo
+@n fine O. — {sup:35}) Illud] Istud M. — {sup:36}) dakaicas] dakaicam C. — {sup:37}) fuerint] C, fuerit M. — {sup:38}) eltheniae]
+@n M, elteniae C. — {sup:39}) secundae] M, secunda C. — {sup:40}) Illud . . . . pertinent] {i:om.} O, {i:sed in marg. addidit} :
+@n Nota quod (O quia) sic leviter minues : Quotquot eltheniae fuerint a LX minuentur. Dakecis ({i:sic}) vero
+@n unam addemus, totumque a LX minuemus. Similiter dareis et elburugis uno addito fiet subtractio
+@n daregarum a triginta, signorum a duodecim.
+@obs The page number «11» stands at the head of the page, centred, with a rule below it. At the foot, the signature «2*» on the right. L01-L16 end chapter 10, begun on p. 10 (JP2 0042, L15-L21).
+@obs L17: «C 45r» stands in the right margin beside the line, but no vertical bar in the line marks where fol. 45 recto of C begins. L19: the vertical bar between «examinationis» and «planetarum» marks the beginning of fol. 85 recto of M, which the note in the right margin, «M 85r», names. Both transcribed as margin notes.
+@obs L14: «Caldeis» is letter-spaced; «elhacil», the name of the Chaldeans (the Arabic in O, note 32) for the final centre, in italics. L24: «i. e.», id est.
+@obs The colon of L23 and the colons and the semicolon of N15, N17 and N18 stand after the thin space of the edition (8-14 px measured). N03: «{i:om.} O —», without a point after the siglum before the dash. N09: the omission in the lemma is printed as five points. N18: «(O quia)», the reading of O in roman type; «(sic)» with «sic» in italics.
+@obs Marks not transcribed: a speck above the bracket after the note number 33 (L15).

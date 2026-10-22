@@ -1,0 +1,10 @@
+@page 209 -
+@kind title
+% Frame 209: the back of the German title page (frame 210): the imprint of the printer of the text and of the plates.
+@lc BUCHDRUCK VON ADOLF HOLZHAUSEN,
+@lc UNIVERSITÄTSBUCHDRUCKER IN WIEN,
+@lc VII., KANDLGASSE 19—21
+@lc LICHTDRUCK VON MAX JAFFÉ,
+@lc WIEN, XVII., LEOPOLD-ERNST-GASSE 36
+@obs The imprint stands in the middle of the page, in small Roman capitals: the text was printed (letterpress) by Adolf Holzhausen, university printer in Vienna, VII., Kandlgasse 19-21, and the plates (collotype) by Max Jaffé, Vienna, XVII., Leopold-Ernst-Gasse 36. «LICHTDRUCK VON MAX JAFFÉ» is letter-spaced. The figures of «19—21» are old-style. The title page of frame 210 shows through faintly from the other side of the leaf.
+@obs The German front matter is bound at the end of the volume, which opens from the right: the title leaves (frames 209-214) and the introduction (frames 182-208) are read from frame 214 back to frame 182. The Arabic title page of 1926 is frame 007.

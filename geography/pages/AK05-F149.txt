@@ -1,0 +1,53 @@
+@page 149 ١٤٣
+% Frame 149, printed p. 143: the springs and rivers that fall into the great river نويس: a spring, whose mouth touches a
+% town that has no name; a river from a town that has no name in the map, whose mouth touches a town also; a river
+% from the mountain سورطاٮا; and two springs. The editor's running numbers (٢١٦٢)-(٢١٧٢) and the numbers of Suhrāb; the
+% folio of the manuscript, «(fol. 43ᵇ)», within a line; numerals and words supplied by the editor between angle
+% brackets. Ten lines of the editor's footnotes.
+(٢١٦٢) [٢٠٨٢] * ويقع الى النهر الكبير عين اوّلها عند طول {ov:⟨لد {z}⟩}{n:a} والعرض
+{ov:مو⟨يه⟩}{n:a} (٢١٦٣) [٢٠٨٣] ومصبّها فى النهر مماسّ* لمدينة ⟨لا⟩{n:b} اسم{n:c} ⟨لها⟩{n:d} عند طول
+{ov:مح {z}} والعرض {ov:مو ن} (٢١٦٤) [٢٠٨٤] * ويقع الى هٰذا النهر الكبير ايضاً نهر من
+مدينة ⟨لا⟩{n:d} اسم{n:e} ⟨لها⟩{n:f} فى الصورة ⟨اوّله⟩{n:f} عند طول {ov:⟨لد ك⟩}{n:g} والعرض {ov:مه مه}
+(٢١٦٥) [٢٠٨٥] ومصبّه فى النهر مماسّ* لمدينة ايضاً عند طول {ov:مح م}{n:h} والعرض {ov:مو يه}
+(٢١٦٦) [٢٠٨٦] * ويقع الى النهر الكبير ايضاً نهر من جبل سورطاٮا اوّله عند طول
+{ov:م يه} والعرض {ov:مط ل} (٢١٦٧) [٢٠٨٧] ومصبّه فى النهر عند طول {ov:مب {z}} والعرض
+{ov:مح {z}} (٢١٦٨) [٢٠٨٨] * ويقع ايضاً الى النهر الكبير عين اوّلها عند طول {ov:مد ل}
+والعرض {ov:مح ى} (٢١٦٩) [٢٠٨٩] ومصبّها فى النهر{n:k} عند طول {ov:مد ل} والعرض {ov:مو {z}}
+(٢١٧٠) [٢٠٩٠] * ويقع ايضاً الى النهر الكبير عين اوّلها عند طول {ov:مه ل}{n:l} والعرض
+{ov:مح م}{n:m} (٢١٧١) ومصبّها فى النهر عند طول {ov:مه ل}{n:n} والعرض {ov:مو {z}} (٢١٧٢) * ويقع
+@ednotes a b c d e f g h i k l m n 10
+@obs The river from the great river نويس past داطه, دواسس and اكلس goes on from p. 142 (frame 148), whose last words, «فيقع فى النهر الّذى يخرج منه عند طول مز ل والعرض مه {z}», and it falls into the river out of which it comes at the longitude 47° 30′ and the latitude 45° 0′, L01 continues with the running number of that point, (٢١٦٢), and its number of Suhrāb.
+@obs L01-L03: «ويقع الى النهر الكبير عين اوّلها عند طول ⟨لد {z}⟩ والعرض مو⟨يه⟩ (٢١٦٣) ومصبّها فى النهر مماسّ* لمدينة ⟨لا⟩ اسم ⟨لها⟩ عند طول مح {z} والعرض مو ن (٢١٦٤) *», and into the great river falls a spring whose beginning is at the longitude ⟨34° 0′⟩ and the latitude 46° ⟨15′⟩, and its mouth is in the river, touching a town that has ⟨no⟩ name, at the longitude 48° 0′ and the latitude 46° 50′. The town is entry 482 of the table of the cities, «مدينة» (frame 039, L10), the word alone, at the longitude مح ك and the latitude 46° 30′.
+@obs L03-L06: «ويقع الى هٰذا النهر الكبير ايضاً نهر من مدينة ⟨لا⟩ اسم ⟨لها⟩ فى الصورة ⟨اوّله⟩ عند طول ⟨لد ك⟩ والعرض مه مه (٢١٦٥)», and into this great river falls also a river from a town that has ⟨no⟩ name in the map; ⟨its beginning⟩ is at the longitude ⟨34° 20′⟩ and the latitude 45° 45′; «ومصبّه فى النهر مماسّ* لمدينة ايضاً عند طول مح م والعرض مو يه (٢١٦٦) *», and its mouth is in the river, touching a town also, at the longitude مح م and the latitude 46° 15′. The editor's note e names the town meant as entry 478 of the table of the cities, «مدينة مانايالوس» (frame 039, L06), at the longitude 34° 15′ and the latitude 45° 10′.
+@obs L06-L08: «ويقع الى النهر الكبير ايضاً نهر من جبل سورطاٮا اوّله عند طول م يه والعرض مط ل (٢١٦٧) ومصبّه فى النهر عند طول مب {z} والعرض مح {z} (٢١٦٨) *», and into the great river falls also a river from the mountain سورطاٮا, whose beginning is at the longitude 40° 15′ and the latitude 49° 30′, and its mouth in the river at the longitude 42° 0′ and the latitude مح ō. The mountain is entries 897-898 of the table of the mountains, «جبل سورطاٮا» (frame 068, L03), whose last boundary is at the longitude 40° 20′ and the latitude 49° 30′ (frame 069, L03); here, too, the tooth before the final alif has no dot.
+@obs L08-L10: «ويقع ايضاً الى النهر الكبير عين اوّلها عند طول مد ل والعرض مح ى (٢١٦٩) ومصبّها فى النهر عند طول مد ل والعرض مو {z} (٢١٧٠) *», and into the great river falls also a spring whose beginning is at the longitude 44° 30′ and the latitude مح ى, and its mouth in the river at the longitude 44° 30′ and the latitude 46° 0′.
+@obs L10-L11: «ويقع ايضاً الى النهر الكبير عين اوّلها عند طول مه ل والعرض مح م (٢١٧١) ومصبّها فى النهر عند طول مه ل والعرض مو {z} (٢١٧٢) *», and into the great river falls also a spring whose beginning is at the longitude 45° 30′ and the latitude مح م, and its mouth in the river at the longitude 45° 30′ and the latitude 46° 0′; «ويقع», and there falls, continued on p. 144.
+@obs Numerals: «⟨لد {z}⟩» (L01), 34° 0′; «مو⟨يه⟩» (L02), 46° ⟨15′⟩; «مو ن» (L03), with the dot of the ن, the minutes printed close to the degrees, 46° 50′; «⟨لد ك⟩» (L04), 34° 20′; «مه مه» (L04), 45° 45′; «مو يه» (L05), 46° 15′; «م يه» (L07), 40° 15′; «مط ل» (L07), 49° 30′; «مب {z}» (L07), with the dot of the ب, 42° 0′; «مد ل» (L08, L09), 44° 30′; «مو {z}» (L09, L11), 46° 0′; «مه ل» (L10, L11), 45° 30′.
+@obs «مح {z}» (L03, L08), «مح م» (L05, L11) and «مح ى» (L09): the ح shows no dot in the bowl; the same form is a ج without its dot, 3. Read with ح they give 48° 0′, 48° 40′ and 48° 10′: the mouth of L03 touches the town of entry 482, whose longitude the table prints «مح ك», and the latitudes of L08, L09 and L11 lie in the seventh clime, which begins at the latitude 48° (frame 039, L01).
+@obs L01: the line over «⟨لد {z}⟩» is printed in two pieces, 67 and 48 px long, with a narrow gap between them.
+@obs Angle brackets, each followed by a note mark, around what the editor supplies: «⟨لد {z}⟩» (L01) and «⟨يه⟩» (L02), the numerals under the line over them, note a; «⟨لا⟩» (L02), note b; «⟨لها⟩» (L02) and «⟨لا⟩» (L04), note d; «⟨لها⟩» and «⟨اوّله⟩» (L04), note f; «⟨لد ك⟩» (L04), note g. Transcribed with the brackets. In L02 the degrees «مو» stand outside the bracket and only the minutes «يه» within it.
+@obs L02 and L05: «مماسّ*»: an asterisk with six solid arms stands after the word, raised like the note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (frame 046, L10), as on frames 135 (L03), 141 (L06) and 146 (L08).
+@obs L04: the folio of the Strasbourg manuscript, «(fol. 43ᵇ)», is printed in Latin type within the line, between the note mark g and «والعرض»; transcribed as a margin note before the line.
+@obs Signs in the text, transcribed as printed: «اوّلها» (L01, L08, L10) and «اوّله» (L06) and «⟨اوّله⟩» (L04) with a shadda over the و; «ومصبّها» (L02, L09, L11) and «ومصبّه» (L05, L07) with a shadda over the ب; «مماسّ» (L02, L05) with a shadda over the س; «هٰذا» (L03) with a small alif over the ه; «ايضاً» (L03, L05, L06, L08, L10) with the tanwin of the accusative over its alif; «فى» and «الى» end in a ى without dots.
+@obs The running numbers run (٢١٦٢)-(٢١٧٢) without a gap. The numbers of Suhrāb run [٢٠٨٢]-[٢٠٩٠] after (٢١٦٢)-(٢١٧٠); (٢١٧١) and (٢١٧٢) have none. (٢١٦٥) and (٢١٦٦) stand at the beginning of L05 and L06, (٢١٧٠) at the beginning of L10.
+@obs Asterisks: the small open stars with six points, after [٢٠٨٢] (L01), [٢٠٨٤] (L03), [٢٠٨٦] (L06), [٢٠٨٨] (L08), [٢٠٩٠] (L10) and (٢١٧٢) (L11), are transcribed as asterisks; the editor's asterisks after «مماسّ» (L02, L05) are transcribed after the word.
+@obs Note marks: L01, a after the bracketed longitude; L02, a after the latitude, b after «⟨لا⟩», c after «اسم» and d after «⟨لها⟩»; L04, d after «⟨لا⟩», e after «اسم», f after «⟨لها⟩» and after «⟨اوّله⟩», and g after the bracketed longitude; L05, h after the longitude; L09, k after «النهر»; L10, l after the longitude; L11, m after the latitude and n after the longitude. The mark of note h has the flat shoulder and the two feet of the footnote label h, not the round bowl of b.
+@obs Note i, «V. l. مزيه», a variant reading of a numeral, stands between notes h and k in the footnotes, but no mark i is printed in the text; the variant, مز يه with a line over it, 47° 15′, differs in one letter from the latitude «مو يه» of point 2166 (L05), which follows the mark h, and also resembles the longitude «م يه» of point 2167 (L07).
+@critical AK05-CN014 | missing note mark | L05 | مو يه | مو يه{n:i} | the footnotes print a note i, a variant reading مز يه with a line over it, between note h, whose mark follows the longitude of L05, and note k, whose mark stands in L09, while the text has no mark i; the latitude of L05, «مو يه», differs from the variant in one letter, و for ز | medium | the place of the variant reading; the longitude «م يه» of L07 is the other possible place
+@obs Marks not transcribed: small specks of the impression around the numerals.
+@obs The editor's footnotes stand in ten lines below a short rule at the left: notes a-n; notes c and e are long. The page number «— ١٤٣ —» stands at the foot, centred.
+@variant L01: the manuscript has a gap at the numerals between the brackets; the editor supplies them from S (note a).
+@variant L02: the manuscript has a gap at the numerals between the brackets; the editor supplies them from S (note a).
+@variant L02: the word between the brackets is missing in the manuscript (note b).
+@variant L02: the manuscript reads لتسم; the town (482) has no name in the table of the cities; the editor concludes that the copyist erred and that لا اسم لها is to be read, as the remark فى الصورة at (2165) in the same context confirms (note c).
+@variant L02: the word between the brackets is missing in the manuscript (note d).
+@variant L04: the word between the brackets is missing in the manuscript (note d).
+@variant L04: the manuscript reads لتسم; the whole passage is badly damaged; for the correction لا اسم لها the editor refers to note c, and remarks that the town meant here, (478), has the name مانايالوس in the table of the cities (note e).
+@variant L04: the words between the brackets, لها and اوّله, are missing in the manuscript (note f).
+@variant L04: the manuscript has a gap at the numerals between the brackets; the editor supplies them from S (note g).
+@variant L05: a variant reading of the longitude is مح ō, with a line over the numerals (note h).
+@variant L05: a variant reading of a numeral, whose mark is not printed in the text, is مز يه, with the dot of the ز and a line over the numerals (note i).
+@variant L09: the manuscript reads البحر (note k).
+@variant L10: a variant reading of the longitude is مد ل, with a line over the numerals (note l).
+@variant L11: a variant reading of the latitude is مح ى, with a line over the numerals (note m).
+@variant L11: a variant reading of the longitude is مد ل, with a line over the numerals (note n).

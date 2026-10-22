@@ -1,0 +1,110 @@
+@page 286 252
+@lang de
+% JP2 0286: the index of names and subjects, p. 252: Heza to Meridian-Distanz (H-M), in two columns.
+@cl Heza s. Argumentum.
+@cl Höhe der Sonne (artifa solis) 21—22, 76, 77.
+@cl Horae aequales s. Aequatorial-Stunden ; — in-
+@cl aequales s. Zeitstunden.
+@cl — diurnae s. Tagesstunden.
+@cl — nocturnae s. Nachtstunden.
+@cl Horoscopi signorum (= Aufgänge der Tier-
+@cl kreiszeichen) s. Signum, und Glossar, s. v.
+@cl Matale.
+@cl Horoscopus (Ascendens), der zu einer be-
+@cl stimmten Zeit aufgehende Punkt der Eklip-
+@cl tik, 25, 28—31, 91—94, 97, 98, 100, 101, T. 79.
+@cl Houtsma, M. Th. XXV.
+@cl {b:I.}
+@cl Ibn Abī Uṣaibiʿa VII.
+@cl — al-Adamī 33, 49.
+@cl — ʿEzrā s. Abraham b. ʿEzrā.
+@cl — Hibintā 43, 46, 99, 100, 106.
+@cl — al-Ḳifṭī VII, 33.
+@cl — Ṣāʿid s. Ḳāḍī Ṣāʿid.
+@cl — Yūnus 47.
+@cl Ibrāhīm al-Fazārī VIII, 32, 33.
+@cl Ideler, L. XVIII, 36.
+@cl Immersio s. Casus.
+@cl Intercalation (des Schalttages) XV, 34.
+@cl Interstitium 24, 29, 93.
+@cl Isidor von Sevilla XVIlI.
+@cl {b:J.}
+@cl Jahr, arabisches, s. Annus Arabum.
+@cl — römisches (seleucid.) s. Annus Romanorum.
+@cl — siderisches (Sternjahr) 42, 65, 66, 102, 105,
+@cl 235.
+@cl — tropisches 42, 66, 102.
+@cl Johannes de Sacrobosco XXIII (N. 1).
+@cl — von Sevilla Xl.
+@cl Jordanus Nemorarius XI.
+@cl Judices (= Domini) 104, T. 116.
+@cl {b:K.}
+@cl al-Ḳabīṣī 99, 105.
+@cl Ḳāḍī Ṣāʿid VII, IX, 33.
+@cl Kardadja, Teilung desselben 70.
+@cl Karpinski, L. C. XII.
+@cl Kaurezmi s. Khwārizmī.
+@cl Khaṇḍakhādyaka 79, 90.
+@cl al-Khwārizmī, Muh. b. Mūsā VII—X, XII,
+@cl XIII, XV, XXI, XXIl, XXIV, 1, 32—35, 38—42,
+@cl 45—47, 49—60, 62—66, 68—75, 77—81, 86, 87,
+@cl 90—97, 99—103, 105, 106, 233—236, T. 116.
+@cr al-Kindī 105.
+@cr Knotenlinie, des Mondes 65.
+@cr Knotenpunkte, des Mondes 12, 14, 15, 27, 41,
+@cr 55, 65, 67, 68.
+@cr — der Planeten 15, 64.
+@cr Konjunktion und Opposition (Syzygien) der
+@cr Sonne und des Mondes XIX, 23—29, 33,
+@cr 81—86, 89, 92, 94—96, 106, T. 69—72.
+@cr — scheinbare, von Sonne und Mond 94, 95.
+@cr Kreis, exzentrischer s. Circulus excentricus.
+@cr {b:L.}
+@cr Länge, mittlere s. Bewegung, mittlere.
+@cr Länge, wahre, des Mondes 10, 14, 16, 33, 45,
+@cr 46, 58, 59, 66—68, 81—86, 93, T. 6—8, 21—26.
+@cr — — der Sonne 9, 10, 16, 33, 43—45, 66, 67,
+@cr 81—86, T. 4, 5, 21—26.
+@cr — — der obern Planeten 10, 11, 33, 46—54,
+@cr 60, 62, T. 9—14, 27—44.
+@cr — — der untern Planeten 12, 33, 54, 55, 60,
+@cr 62, T. 15—18, 45—56.
+@cr — — des Drachenkopfes 12, 55, 58, 59, 67, 68,
+@cr T. 19, 20.
+@cr Latitudo lunae, etc., s. Breite.
+@cr — regionum (habitationum) s. Breite, geogr.
+@cr Liber Embadorum X.
+@cr Lippert, J. 33.
+@cr London, Meridian von, XVIII.
+@cr Longinquitas maxima lunae s. Spatium lon-
+@cr ginquum.
+@cr — minima lunae s. Spatium propinquum.
+@cr Loth, O. 105.
+@cr {b:M.}
+@cr al-Madjrīṭī s. Maslama.
+@cr al-Ma’mūn, Khalife VIII, 32, 43, 47, 106.
+@cr Manitius, K. 44, 57, 74, 81, 90, 233.
+@cr al-Manṣūr, Khalife 70.
+@cr — b. ʿAlī b. ʿIrāḳ 49.
+@cr Maslama b. Aḥmed al-Madjrīṭī VII—X, XIIl,
+@cr XV, XXl, XXII, 32—35, 39, 40, 77, 81, 86, 90,
+@cr 100, 102, 103, 105, 106.
+@cr Medialitas s. Bewegung, mittlere.
+@cr Mediocritas s. dasselbe.
+@cr Medium coelum 25, 28, 29, 91—94.
+@cr Medius cursus s. Bewegung, mittlere.
+@cr Megistophiel XXII.
+@cr Mekka 74.
+@cr Menelaus, Satz des, 74.
+@cr Mephistopheles XXII.
+@cr Meridian-Distanz 92.
+@obs The page number «252» stands at the head of the page, centred, with a rule below it. The page has no signature. Two columns divided by a vertical rule, as on pp. [249]-251 (JP2 0283-0285), transcribed column by column: the left column L01-L48, the right L49-L97; the letter heads «I.» (L14), «J.» (L28), «K.» (L38), «L.» (L59) and «M.» (L80) in bold, centred in their columns, each after a blank line; each entry begins at the edge of its column, its further lines indented, the subentries with a dash indented less, and the subentries of a subentry («— — der Sonne», L63) with two dashes.
+@obs Roman numerals set with a lowercase l in place of an I, as on pp. 250-251 (JP2 0284-0285): «XVIlI» (L27), «Xl» (L35), «XXIl» (L46), «XIIl» (L86), «XXl» (L87); transcribed as printed. The sort is told apart by its top: the l has a flag on the left only, the I serifs on both sides.
+@obs The semicolon of L03 stands after a thin space (9 px); written with a space. L64: the dash of «81—86» is printed with a gap: a fragment of 6 px after the 1, then 8 px of white, then the dash (25 px); written —. The other dashes are long (27-47 px). L05: a speck before the dash; L31: a speck below the j of «Sternjahr»; not transcribed. L82: «al-Ma’mūn», the hamza as an apostrophe ’. L37: «Judices (= Domini)»; L07: «(= Aufgänge», the = with a space after the parenthesis.
+@obs Checked against the text, for example: «artifa» on pp. 21-22 (JP2 0053-0054), «Houtsma» on p. XXV, «Ibn Abī Uṣaibiʿa», «Ibn al Ḳifṭī» and «Ḳāḍī Ibn Ṣāʿid» on p. [VII] (JP2 0011), «Ibn al-Adamī» on pp. 33 and 49, «Ibn Hibintā» on pp. 43, 46, 99, 100 and 106, «Ibn Yūnus» on pp. 46 and 47, «Ideler» on pp. XVIII and 36, «Isidor» on p. XVIII, «Sternjahr» on p. 42, «Johannis de Sacro-bosco» in note 1 of p. XXIII (JP2 0027), «Jordanus» on p. XI, «Kardadja» on p. 70, «Karpinski» on p. XII, «Elkaurezmi» on p. 1 (JP2 0033), «al-Kindī» on p. 105, the motion of the nodes and the apsides on p. 65 (JP2 0097, L11), «Liber Embadorum» on p. X, «Lippert» on p. 33, «London» on p. XVIII, «Loth» on p. 105, «Ma’mūn» on p. 43, «Manitius» on all the pages cited, «Al-Manṣūrs» on p. 70 (JP2 0102), «Megi-stophiel» and «Mephistopheles» on p. XXII (JP2 0026), «Menelaus» and «Mekka» on p. 74.
+@critical AK07-CN310 | wrong sort | L27 | XVIlI | XVIII | Isidore of Seville is named on p. XVIII (JP2 0022); the fourth sign of the numeral is a lowercase l, with a flag on the left only at its top, where the I on either side of it has serifs on both sides | high | none
+@critical AK07-CN311 | wrong sort | L35 | Xl | XI | John of Seville is named on p. XI (JP2 0015); the second sign of the numeral is a lowercase l, with a flag on the left only at its top, where the I of «XI» in the next line (L36) has serifs on both sides | high | none
+@critical AK07-CN312 | wrong sort | L46 | XXIl | XXII | the numeral is read XXII among the references XXI, XXII, XXIV of al-Khwārizmī; its last sign is a lowercase l, with a flag on the left only at its top | high | none
+@critical AK07-CN313 | missing accent | L45 | Muh. | Muḥ. | the abbreviation of Muḥammad has the dot under the h in the index, as «al-Battānī, Muḥ. b. Djābir» and «al-Bīrūnī, Muḥ. b. Aḥmed» (p. 250, JP2 0284, L13 and L40); here the dot is missing | high | none
+@critical AK07-CN314 | wrong sort | L86 | XIIl | XIII | the numeral is read XIII between «VII—X» and «XV» of the references to Maslama; its last sign is a lowercase l, with a flag on the left only at its top | high | none
+@critical AK07-CN315 | wrong sort | L87 | XXl | XXI | the numeral is read XXI between XV and XXII of the references to Maslama; its last sign is a lowercase l, with a flag on the left only at its top | high | none

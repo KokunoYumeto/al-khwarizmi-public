@@ -1,0 +1,62 @@
+@page 168 136
+@lang la
+% JP2 0168: Tab. 25, p. 136: the equations of the sun and of the moon, the declination of the sun and the latitude of
+% the moon for the arguments 4s 1° to 5s 0° (and 7s 29° to 7s 0°), with the apparatus (notes 1-3 and a-l).
+@ml C 55{sup:r}, O 112{sup:v}
+@c {b:Tadil elscems wa elkamar} (O) — {b:Examinatio solis et lunae} (C)
+@ml N 22{sup:v}.
+@c {b:Coaequatio solis et lunae} (N)
+@tw size=footnotesize span=1.14 0.9 0.8 0.85 0.8 0.7 0.8 0.8 0.7 0.8 0.8 0.75 0.8 0.8 0.7 0.8 0.8
+@t Semitae numerorum (O) | | | | Examinatio | | | Examinatio | | | Obliquatio | | | Latitudo | |
+@t Catar eladed (C) | | | | Solis{sup:2}) | | | Lunae{sup:3}) | | | Solis | | | Lunae | |
+@t Computatio | | Computatio | | Motus | | | Motus | | | recedentis | | | recedentis | |
+@t minuenda et | | augenda | | velox | | | velox | | | | | | | |
+@t augmentum | | et diminutio | | | | | | | | | | | | |
+@t examinis | | examinis | | | | | | | | | | | | |
+@t et numeri{sup:1}) | | et numeri{sup:1}) | | | | | | | | | | | | |
+@t {b:Sig.} | {b:Gr.} | {b:Sig,} | {b:Gr.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 4 | 1 | 7 | 29 | 1 | 53 | 56 | 4 | 11 | 41 | 20 | 16 | 45 | 3 | 51 | 25
+@t 4 | 2 | 7 | 28 | 1 | 52 | 40 | 4 | 8 | 53 | 20 | 4 | 14 | 3 | 48 | 57
+@t 4 | 3 | 7 | 27 | 1 | 51 | 22 | 4 | 6 | 1 | 19 | 49 | 22 | 3 | 46 | 26
+@t 4 | 4 | 7 | 26 | 1 | 50 | 3 | 4 | 3 | 5 | 19 | 35 | 10 | 3 | 43{sup:e}) | 49
+@t 4 | 5 | 7 | 25 | 1 | 48 | 41 | 4 | 0 | 4 | 19 | 20 | 35 | 3 | 41 | 9
+@t 4 | 6 | 7 | 24 | 1 | 47 | 17 | 3 | 57 | 0 | 19 | 5 | 46 | 3 | 38 | 25
+@t 4 | 7 | 7 | 23 | 1 | 45 | 52{sup:a}) | 3 | 53 | 49 | 18 | 50 | 24 | 3 | 35 | 38
+@t 4 | 8 | 7 | 22 | 1 | 44 | 24 | 3 | 50 | 36 | 18 | 35 | 49 | 3 | 32{sup:f}) | 47
+@t 4 | 9 | 7 | 21 | 1 | 42 | 54 | 3 | 47 | 18 | 18 | 18 | 51 | 3 | 29 | 49
+@t 4 | 10 | 7 | 20 | 1 | 41 | 23 | 3 | 43 | 58 | 18 | 2 | 45 | 3 | 26 | 48
+@t 4 | 11 | 7 | 19 | 1 | 39 | 48 | 3 | 40 | 31 | 17 | 46 | 6 | 3 | 23 | 45
+@t 4 | 12 | 7 | 18 | 1 | 38 | 18 | 3 | 37{sup:b}) | 2 | 17 | 29 | 14 | 3 | 20 | 38
+@t 4 | 13 | 7 | 17 | 1 | 36 | 39 | 3 | 33 | 29 | 17 | 12 | 3 | 3 | 17 | 27
+@t 4 | 14 | 7 | 16 | 1 | 35 | 0 | 3 | 29 | 51 | 16 | 54{sup:c}) | 33 | 3 | 13{sup:g}) | 58
+@t 4 | 15 | 7 | 15 | 1 | 33 | 21 | 3 | 26 | 11 | 16 | 36{sup:d}) | 49 | 3 | 10{sup:h}) | 54
+@t 4 | 16 | 7 | 14 | 1 | 31 | 39 | 3 | 22 | 28 | 16 | 18 | 47 | 3 | 7 | 31
+@t 4 | 17 | 7 | 13 | 1 | 29 | 56 | 3 | 18 | 40 | 16 | 0 | 26 | 3 | 4 | 8
+@t 4 | 18 | 7 | 12 | 1 | 28 | 12 | 3 | 14 | 49 | 15 | 41 | 52 | 3 | 0 | 40
+@t 4 | 19 | 7 | 11 | 1 | 26 | 26 | 3 | 10 | 12 | 15 | 23 | 1 | 2 | 57 | 11
+@t 4 | 20 | 7 | 10 | 1 | 24 | 38 | 3 | 6 | 58 | 15 | 3 | 52 | 2 | 53{sup:i}) | 32{sup:l})
+@t 4 | 21 | 7 | 9 | 1 | 22 | 50 | 3 | 2 | 58 | 14 | 44 | 31 | 2 | 49 | 53
+@t 4 | 22 | 7 | 8 | 1 | 21 | 0 | 2 | 58 | 50 | 14 | 24 | 54 | 2 | 46 | 12
+@t 4 | 23 | 7 | 7 | 1 | 19 | 8 | 2 | 54 | 47 | 14 | 5 | 1 | 2 | 42 | 29
+@t 4 | 24 | 7 | 6 | 1 | 17 | 12 | 2 | 50 | 38 | 13 | 44 | 52 | 2 | 38 | 42
+@t 4 | 25 | 7 | 5 | 1 | 15 | 21 | 2 | 46 | 26 | 13 | 24 | 38 | 2 | 34 | 53
+@t 4 | 26 | 7 | 4 | 1 | 13 | 26 | 2 | 42 | 7 | 13 | 4 | 5 | 2 | 30 | 59
+@t 4 | 27 | 7 | 3 | 1 | 11 | 29 | 2 | 37 | 53 | 12 | 43 | 20 | 2 | 27{sup:k}) | 3
+@t 4 | 28 | 7 | 2 | 1 | 9 | 32 | 2 | 33 | 34 | 12 | 22 | 10 | 2 | 23 | 4
+@t 4 | 29 | 7 | 1 | 1 | 7 | 32 | 2 | 29 | 6 | 12 | 1 | 11 | 2 | 19 | 3
+@t 5 | 0 | 7 | 0 | 1 | 5 | 32 | 2 | 24 | 46 | 11 | 39 | 50 | 2 | 15 | 0
+@n {sup:1}) Computatio . . . . numeri] O, {i:om. C} — {sup:2}) Examinatio solis] O, tadil solis C — {sup:3}) Examinatio lunae] O,
+@n tadil lunae C.
+@n {sup:a}) 52] C, 51 O — {sup:b}) 37] ON, 38 C — {sup:c}) 54] C, 14 O — {sup:d}) 36] 46 COBj — {sup:e}) 43] 48 CO —
+@n {sup:f}) 32] ON. 22 C — {sup:g}) 13] C, 14 ON — {sup:h}) 10] C, 46 O — {sup:i}) 53] C, 13 O — {sup:k}) 27] ON, 28 C —
+@n {sup:l}) 32] O, 52 C.
+@obs The page number «136» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 25», in bold sans serif, underlined. The titles (L01, L02), in bold, the sigla in roman, as on p. 133 (JP2 0165); the folios of the manuscripts, «C 55r, O 112v» over «N 22v.», stand at the left of the titles, the letters raised; here as left margin notes. The page has no signature.
+@obs The table: rules and heads as on p. 135 (JP2 0167), «Motus velox» and «recedentis»: «Semitae numerorum (O) Catar eladed (C)» over the four columns of the arguments, divided below a rule into «Computatio minuenda et augmentum examinis et numeri1)» and «Computatio augenda et diminutio examinis et numeri1)» in five lines of smaller type, both heads with the note number 1. Here each head is set from the top, one printed line to a line (L03-L09), the cells separated by our «|»; a head followed by empty cells spans their columns.
+@obs L11-L40. Checked: the values for 120° + x are those for 60° − x of Tab. 22 (p. 133, JP2 0165) in reverse order, and the last row, 5s 0°, repeats 1s 0° of Tab. 21 (p. 132, JP2 0164). The two tables differ in nineteen places. Here the table has values within 3″ of the computation (as on p. 132) where Tab. 22 deviates: at 132° (48°) the sun, 1° 38′ 18″, and the declination, 17° 29′ 14″; at 135° (45°) and 140° (40°) the latitude, 3° 10′ 54″ and 2° 53′ 32″; at 140° the moon, 3° 6′ 58″; at 142° (38°) the declination, 14° 24′ 54″. The other differences, at 127°, 137°, 144°, 145°, 146° and 148°, are of 1″ to 5″.
+@obs L11-L40, the deviations of this table from the computation: the declination at 122°, 20° 4′ 14″ against 20° 3′ 14″ (Tab. 22 at 58°: 20° 3′ 55″), and at 128°, 18° 35′ 49″ against 18° 34′ 48″ (Tab. 22 at 52°: 18° 34′ 49″), each a minute too large; at 148°, 12° 22′ 10″ against 12° 22′ 22″ (Tab. 22 at 32°: 12° 22′ 23″); the moon at 139°, 3° 10′ 12″ against 3° 10′ 55″ (Tab. 22 at 41°: 3° 10′ 52″); the latitude at 134°, 3° 13′ 58″ against 3° 14′ 13″ (Tab. 22 at 46°: 3° 14′ 13″), with C's 13 of note g, where O and N have 14: the seconds 58 are wrong in all three. No note of the apparatus bears on the others. The small deviations at 130°, 142°, 146° and 149° (moon) and 126° and 130° (declination) are those of Tab. 22 at the same distance from 90°.
+@obs Notes on the readings. Checked: the editor's 36 (note d, against the 46 of C, O and Björnbo) and 43 (note e, against the 48 of C and O) give the computed values, 16° 36′ 49″ and 3° 43′ 49″. At 140° the edition combines C's minutes and O's seconds (notes i and l): C's 52 seconds, 2° 53′ 52″, is the value of Tab. 22 at 40°, 19″ too large.
+@obs L10, the second «Sig,»; N01, «om. C», the siglum in italics; N03, «COBj» without its point; N04, «ON. 22 C»: see the critical notes. The ellipses «. . . .» of the lemmata as printed.
+@critical AK07-CN111 | wrong punctuation | L10 | {b:Sig,} | {b:Sig.} | the abbreviation of «Signa», «Sig.» in the first column of the same head and in every head of the tables; the point is printed as a comma, its tail below the line | medium | none
+@critical AK07-CN112 | wrong fount | N01 | {i:om. C} | {i:om.} C | the siglum after «om.» is in roman everywhere in the apparatus, as «om. M» (p. 109, JP2 0141); here the C is set in italics with «om.» | medium | none
+@critical AK07-CN113 | missing point | N03 | 46 COBj — | 46 COBj. — | the abbreviation of Björnbo's name, «Bj.», as «16 COBj. —» on p. 135 (JP2 0167) | medium | none
+@critical AK07-CN114 | wrong punctuation | N04 | {sup:f}) 32] ON. 22 C | {sup:f}) 32] ON, 22 C | the readings of a note are divided by a comma, as «g) 13] C, 14 ON» beside it; a point is printed after ON | high | none

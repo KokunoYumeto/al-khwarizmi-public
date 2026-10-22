@@ -1,0 +1,485 @@
+{
+ "anchor": "AK02-F024",
+ "frame": 24,
+ "frame_file": "page_024.jpg",
+ "frame_sha256": "5d5e03c52b0fbf4937905120abad7b0513ac080021bcb30baa18c5f5d5026512",
+ "printed_page": "18",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 024, printed p. 18: the places of the sexagesimal fractions, degrees, minutes, seconds, thirds; the order of a product found by joining the places of the factors; examples with minutes, seconds and thirds; one and a half multiplied by one and a half through minutes and seconds.",
+ "lines": [
+  {
+   "id": "AK02-F024-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "rentie: prima igitur est differentia graduum, in qua est nume-",
+   "margin": null,
+   "plain": "rentie: prima igitur est differentia graduum, in qua est nume-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "rus integer, et in secunda mansione erunt minuta. In tercia",
+   "margin": null,
+   "plain": "rus integer, et in secunda mansione erunt minuta. In tercia",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "quoque sunt secunda; et in quarta tercia, et ita usque in .{sc:ix}.,",
+   "margin": null,
+   "plain": "quoque sunt secunda; et in quarta tercia, et ita usque in .ix.,",
+   "italic": [],
+   "small_caps": [
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "et .{sc:x}. mansione : et scito quod omnis numerus integer qui",
+   "margin": null,
+   "plain": "et .x. mansione : et scito quod omnis numerus integer qui",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "multiplicatur in numero integro, efficitur numerus integer; et",
+   "margin": null,
+   "plain": "multiplicatur in numero integro, efficitur numerus integer; et",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "omnis numerus integer multiplicatus in aliqua fractione, effi-",
+   "margin": null,
+   "plain": "omnis numerus integer multiplicatus in aliqua fractione, effi-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "citur ex genere illius fractionis; eruntque duo gradus multi-",
+   "margin": null,
+   "plain": "citur ex genere illius fractionis; eruntque duo gradus multi-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "plicati in duobus minutis .{sc:iiii}. minuta, et tres gradus in sex",
+   "margin": null,
+   "plain": "plicati in duobus minutis .iiii. minuta, et tres gradus in sex",
+   "italic": [],
+   "small_caps": [
+    "iiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "terciis .{sc:xviii}. tercia. Minuta quoque in minutis erunt secun-",
+   "margin": null,
+   "plain": "terciis .xviii. tercia. Minuta quoque in minutis erunt secun-",
+   "italic": [],
+   "small_caps": [
+    "xviii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "da; et secunda in secundis tercia; et tercia in terciis quarta ;",
+   "margin": null,
+   "plain": "da; et secunda in secundis tercia; et tercia in terciis quarta ;",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "et quarta in quartis quarta : quare coniunctis utrasque diffe-",
+   "margin": null,
+   "plain": "et quarta in quartis quarta : quare coniunctis utrasque diffe-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "rentias quas multiplicas inuicem;et quod colligitur ex numero",
+   "margin": null,
+   "plain": "rentias quas multiplicas inuicem;et quod colligitur ex numero",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "fractionum simile ei quod exit de numero integro in inuicem",
+   "margin": null,
+   "plain": "fractionum simile ei quod exit de numero integro in inuicem",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "multiplicato. Verbi gratia. Sex minuta multiplicata in {sc:vii}.",
+   "margin": null,
+   "plain": "multiplicato. Verbi gratia. Sex minuta multiplicata in vii.",
+   "italic": [],
+   "small_caps": [
+    "vii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "minuciis, erunt .{sc:xlii}. secunda: quare minuta sunt partes ex",
+   "margin": null,
+   "plain": "minuciis, erunt .xlii. secunda: quare minuta sunt partes ex",
+   "italic": [],
+   "small_caps": [
+    "xlii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "{sc:lx}. partibus unius integri : et cum multiplicaueris partes ex",
+   "margin": null,
+   "plain": "lx. partibus unius integri : et cum multiplicaueris partes ex",
+   "italic": [],
+   "small_caps": [
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "{sc:lx}. in .{sc:lx}., erit quod exierit de multiplicacione ex {sc:lx}. in {sc:lx}.,",
+   "margin": null,
+   "plain": "lx. in .lx., erit quod exierit de multiplicacione ex lx. in lx.,",
+   "italic": [],
+   "small_caps": [
+    "lx",
+    "lx",
+    "lx",
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "que sunt tria milia sexcenta: et similiter .{sc:vii}. secunda in .{sc:ix}.",
+   "margin": null,
+   "plain": "que sunt tria milia sexcenta: et similiter .vii. secunda in .ix.",
+   "italic": [],
+   "small_caps": [
+    "vii",
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "minutis erunt .{sc:lx}. tria tercia ; eruntque omnia quoque {sc:lx}.",
+   "margin": null,
+   "plain": "minutis erunt .lx. tria tercia ; eruntque omnia quoque lx.",
+   "italic": [],
+   "small_caps": [
+    "lx",
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "ex eis secundum unum, et remanebunt tria tercia : quare mi-",
+   "margin": null,
+   "plain": "ex eis secundum unum, et remanebunt tria tercia : quare mi-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "nuta sunt partes ex {sc:lx}., et secunda partes ex tribus milibus",
+   "margin": null,
+   "plain": "nuta sunt partes ex lx., et secunda partes ex tribus milibus",
+   "italic": [],
+   "small_caps": [
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "et sexcentis. Multiplica ergo ea in inuicem , et efficientur",
+   "margin": null,
+   "plain": "et sexcentis. Multiplica ergo ea in inuicem , et efficientur",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "partes ex ducentis milibus et {sc:xvi}. milibus que sunt tercia ,",
+   "margin": null,
+   "plain": "partes ex ducentis milibus et xvi. milibus que sunt tercia ,",
+   "italic": [],
+   "small_caps": [
+    "xvi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "et sunt .{sc:lx}. ex tribus milibus et sexcentis.",
+   "margin": null,
+   "plain": "et sunt .lx. ex tribus milibus et sexcentis.",
+   "italic": [],
+   "small_caps": [
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L25",
+   "n": 25,
+   "kind": "indent",
+   "text": "Et cum uolueris multiplicare unum et dimidium in duo et",
+   "margin": null,
+   "plain": "Et cum uolueris multiplicare unum et dimidium in duo et",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "dimidio, fac unum et dimidium minuta, et erunt .{sc:xc}. Iterum",
+   "margin": null,
+   "plain": "dimidio, fac unum et dimidium minuta, et erunt .xc. Iterum",
+   "italic": [],
+   "small_caps": [
+    "xc"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "fac unum et dimidium quem uis multiplicare in eadem minu-",
+   "margin": null,
+   "plain": "fac unum et dimidium quem uis multiplicare in eadem minu-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "ta, et erunt similiter .{sc:xc}. : multiplica unum ex eis in alio, et",
+   "margin": null,
+   "plain": "ta, et erunt similiter .xc. : multiplica unum ex eis in alio, et",
+   "italic": [],
+   "small_caps": [
+    "xc"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "erunt .{sc:viii}. milia et .{sc:c}. secunda : diuide secunda per {sc:lx}.,",
+   "margin": null,
+   "plain": "erunt .viii. milia et .c. secunda : diuide secunda per lx.,",
+   "italic": [],
+   "small_caps": [
+    "viii",
+    "c",
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "et erunt minuta: quare omnia queque | {sc:lx}{sup:ta} {sc:ii}{sup:da}. faciunt unum",
+   "margin": "car. 108 {i:verso}.",
+   "plain": "et erunt minuta: quare omnia queque | lxta iida. faciunt unum",
+   "italic": [],
+   "small_caps": [
+    "lx",
+    "ii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "minutum. Exibuntque tibi .{sc:c}.{sc:xxx}.{sup:ta} {sc:v}{sup:que} minuta : et diuide",
+   "margin": null,
+   "plain": "minutum. Exibuntque tibi .c.xxx.ta vque minuta : et diuide",
+   "italic": [],
+   "small_caps": [
+    "c",
+    "xxx",
+    "v"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "ea per {sc:lx}., et erunt gradus: quare omnia queque .{sc:lx}.{sup:ta} minuta",
+   "margin": null,
+   "plain": "ea per lx., et erunt gradus: quare omnia queque .lx.ta minuta",
+   "italic": [],
+   "small_caps": [
+    "lx",
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "faciunt unum gradum;et hoc erit unum integrum ex numero :",
+   "margin": null,
+   "plain": "faciunt unum gradum;et hoc erit unum integrum ex numero :",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F024-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "exibuntque tibi duo et {sc:xvi}. minuta, que sunt quarta unius.",
+   "margin": null,
+   "plain": "exibuntque tibi duo et xvi. minuta, que sunt quarta unius.",
+   "italic": [],
+   "small_caps": [
+    "xvi"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 18 )» stands at the head of the page, centred. The page has no footnotes and no signature.",
+  "L01-L13: the places of the fractions: the first place is that of the degrees, «graduum», where the whole number stands, the second that of the minutes, the third of the seconds, the fourth of the thirds, and so on to the ninth and tenth place. A whole number by a whole number gives a whole number, a whole number by a fraction a fraction of the same kind: two degrees by two minutes, four minutes; three degrees by six thirds, eighteen thirds. Minutes by minutes give seconds; the products of seconds by seconds, thirds by thirds and fourths by fourths are printed as thirds, fourths and fourths (see the critical note). The rule: the places of the two factors are joined, and the number is found as for whole numbers.",
+  "L14-L24: six minutes by seven minutes, forty-two seconds, minutes being parts of sixty and their products parts of 3600; seven seconds by nine minutes, sixty-three thirds, which are one second and three thirds, seconds being parts of 3600 and their products with minutes parts of 216000, «ducentis milibus et xvi. milibus», which are thirds, 216000 being sixty times 3600.",
+  "L25-L34: one and a half multiplied «in duo et dimidio» (see the critical note): each factor made ninety minutes; ninety by ninety, «.viii. milia et .c.» seconds, 8100; divided by sixty, «.c.xxx.ta vque» minutes, 135; divided by sixty, two degrees and «xvi.» minutes, printed for fifteen (see the critical note), «que sunt quarta unius»: one and a half by one and a half is two and a quarter.",
+  "L30: the vertical bar between «queque» and «lx», with a word space on each side, marks the beginning of fol. 108 verso of the manuscript, which the note in the left margin, «car. 108 verso.», names; transcribed as a margin note.",
+  "Numerals: L14 «vii.», L16 and L17 «lx.» at the beginning of the line, L17 «ex lx. in lx.,», L19 «quoque lx.», L21 «ex lx.,», L23 «xvi.», L29 and L32 «per lx.,» and L34 «xvi.» without the opening point. Raised letters: L30 «lx» and «ii» with «ta» and «da», sixty seconds, the raised letters set above the numerals, «ta» over the x and «da» over the two i; L31 «.c.xxx.ta vque», one hundred and thirty-five, and L32 «.lx.ta», with the raised letters after the numerals.",
+  "Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): with a space before the mark, L04 «mansione :» (20 px), L10 «quarta ;» (15 px), L11 «quarta :» (17 px), L16 «integri :» (21 px), L19 «tercia ;» (16 px), L20 «tercia :» (17 px), L22 «inuicem ,» (19 px), L23 «tercia ,» (19 px), L28 «.xc. :» (11 px), L29 «secunda :» (19 px), L31 «minuta :» (12 px) and L33 «numero :» (18 px); without a space after the mark, L12 «inuicem;et» (7 px, the median word space of the line 17 px) and L33 «gradum;et» (6 px). L01 «rentie: prima» (12 px) and L08 «.iiii. minuta» (11 px, median 15.5 px) have a space. The pencil underline of «quare» shortens the measured gap after the colon of L20 «tercia :»; the gap to «quare» is 20 px.",
+  "L33: «numero :» is a printed colon, to which a reader has added a tail in pencil below the lower dot (darkest pixel of the tail 99, where the printed tail of «gradum;» in the same line is 39 to 59); the semicolons of L03, L05, L07, L10, L12, L19 and L33 «gradum;» have printed tails (darkest pixel 35 to 53).",
+  "L34: the full stop after «unius» is lightly printed (darkest pixel 100), and the s before it lightly inked; transcribed as a full stop."
+ ],
+ "copy_matter": [
+  "A reader's notes in pencil: L02, a small stroke below «erunt»; L03, a stroke after «quarta», a tilde over «ix» with a stroke below it, and «ix» with a raised «a» in the right margin; L04, a tilde over «x» with a stroke below it, «et» before «scito» underlined, and «quod» and «x» with a raised «a» in the left margin; «quinta, quia» in the left margin beside L11, with «quarta» before the colon and «quare» underlined; «quia» in the left margin beside L15 and L20, with «quare» underlined; «quam» in the left margin beside L27; «quia» in the left margin beside L30, with «quare» underlined, and beside L32; L33, a tail added below the colon of «numero :»; «xv» with a bar above it in the left margin beside L34, with «xvi» underlined; small dots or ticks at «integer» (L05), «plicati» (L08), «quem» (L27), «minuta» (L30) and «omnia» (L32). Not part of the edition."
+ ],
+ "critical_notes": [
+  {
+   "id": "AK02-CN011",
+   "class": "wrong ordinals",
+   "line": "L10",
+   "printed": "secunda in secundis tercia; et tercia in terciis quarta ; et quarta in quartis quarta",
+   "proposed": "secunda in secundis quarta; et tercia in terciis sexta; et quarta in quartis octaua",
+   "evidence": "the rule that follows (L11-L12), «coniunctis utrasque differentias quas multiplicas inuicem», joins the places of the two factors, and the cases the page works follow it: degrees by minutes give minutes and degrees by thirds thirds (L07-L09), minutes by minutes seconds (L09-L10, L14-L15), seconds by minutes thirds (L18-L20); by it seconds by seconds give fourths, thirds by thirds sixths and fourths by fourths eighths, where the print has thirds, fourths and fourths. The fault may lie instead in the second factors: seconds, thirds and fourths by minutes give thirds, fourths and fifths",
+   "confidence": "medium",
+   "impact": "the three products are wrong as printed; the rule and the worked examples are right"
+  },
+  {
+   "id": "AK02-CN012",
+   "class": "wrong number words",
+   "line": "L25",
+   "printed": "in duo et dimidio",
+   "proposed": "in unum et dimidium",
+   "evidence": "the working is that of one and a half by one and a half: the first factor is made ninety minutes, and «Iterum fac unum et dimidium quem uis multiplicare in eadem minuta, et erunt similiter .xc.» (L26-L28) makes the second, also one and a half, ninety minutes; ninety by ninety, 8100 seconds, 135 minutes, two degrees and a quarter (L28-L34). Two and a half would be 150 minutes, and ninety by 150 gives 13500 seconds, 225 minutes, three degrees and three quarters",
+   "confidence": "high",
+   "impact": "the example names a second factor that its working does not use; the working and the result are right for one and a half by one and a half"
+  },
+  {
+   "id": "AK02-CN013",
+   "class": "wrong numeral",
+   "line": "L34",
+   "printed": "xvi.",
+   "proposed": "xv.",
+   "evidence": "135 minutes (L31) divided by sixty give two degrees and fifteen minutes, and the text calls the minutes «quarta unius», a quarter of one, which is fifteen minutes",
+   "confidence": "high",
+   "impact": "the result reads two degrees and sixteen minutes for two degrees and fifteen"
+  }
+ ]
+}

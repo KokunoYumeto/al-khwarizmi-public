@@ -1,0 +1,338 @@
+{
+ "anchor": "AK05-F060",
+ "frame": 60,
+ "frame_file": "page_060.jpg",
+ "frame_sha256": "f88a8df1d20f094f631fa7032e4606bde922ef73a02a455d2daad3fc2b4782fb",
+ "printed_page": "٥٤",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 060, printed p. 54: the right-hand page of the opening pp. 54-55 of the table of the mountains of the fifth clime: the numbers and names of seventeen mountains, entries 775/776-807/808: Lūs, joined to the sea, Arsṭafārā, Īdūqrā, Awrā on an island, Fāriss, nine without a name, the two mountains Ḥārith and Ḥuwayrith, the mountain between al-Mawṣil and Shahrazūr, and a mountain joined to Hamadhān, Ḥārith and Ḥuwayrith that reaches the mountain of Qazwīn; the folio of the manuscript, «(fol. 14ᵇ)», in the margin. Two lines of the editor's footnotes, continued from the foot of p. 55.",
+ "lines": [
+  {
+   "id": "AK05-F060-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٧٧٥ ٧٧٦) | [١٢٦٥ ١٢٦٦] | جبل لوس متّصل بالبحر",
+   "margin": null,
+   "cells": [
+    "(٧٧٥ ٧٧٦)",
+    "[١٢٦٥ ١٢٦٦]",
+    "جبل لوس متّصل بالبحر"
+   ],
+   "plain": "(٧٧٥ ٧٧٦) | [١٢٦٥ ١٢٦٦] | جبل لوس متّصل بالبحر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٧٧٧ ٧٧٨) | [١٢٦٧ ١٢٦٨] | جبل ارسطفارا{n:a}",
+   "margin": null,
+   "cells": [
+    "(٧٧٧ ٧٧٨)",
+    "[١٢٦٧ ١٢٦٨]",
+    "جبل ارسطفارا{n:a}"
+   ],
+   "plain": "(٧٧٧ ٧٧٨) | [١٢٦٧ ١٢٦٨] | جبل ارسطفارا",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٧٧٩ ٧٨٠) | [١٢٦٩ ١٢٧٠] | جبل ايدوقرا{n:b}",
+   "margin": null,
+   "cells": [
+    "(٧٧٩ ٧٨٠)",
+    "[١٢٦٩ ١٢٧٠]",
+    "جبل ايدوقرا{n:b}"
+   ],
+   "plain": "(٧٧٩ ٧٨٠) | [١٢٦٩ ١٢٧٠] | جبل ايدوقرا",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٧٨١ ٧٨٢) | [١٢٧١ ١٢٧٢] | جبل اورا{n:c} فى جزيرة",
+   "margin": null,
+   "cells": [
+    "(٧٨١ ٧٨٢)",
+    "[١٢٧١ ١٢٧٢]",
+    "جبل اورا{n:c} فى جزيرة"
+   ],
+   "plain": "(٧٨١ ٧٨٢) | [١٢٧١ ١٢٧٢] | جبل اورا فى جزيرة",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٧٨٣ ٧٨٤) | [١٢٧٣ ١٢٧٤] | جبل",
+   "margin": null,
+   "cells": [
+    "(٧٨٣ ٧٨٤)",
+    "[١٢٧٣ ١٢٧٤]",
+    "جبل"
+   ],
+   "plain": "(٧٨٣ ٧٨٤) | [١٢٧٣ ١٢٧٤] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٧٨٥ ٧٨٦) | [١٢٧٥ ١٢٧٦] | جبل فارسس",
+   "margin": null,
+   "cells": [
+    "(٧٨٥ ٧٨٦)",
+    "[١٢٧٥ ١٢٧٦]",
+    "جبل فارسس"
+   ],
+   "plain": "(٧٨٥ ٧٨٦) | [١٢٧٥ ١٢٧٦] | جبل فارسس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٧٨٧ ٧٨٨) | [١٢٧٧ ١٢٧٨] | جبل",
+   "margin": null,
+   "cells": [
+    "(٧٨٧ ٧٨٨)",
+    "[١٢٧٧ ١٢٧٨]",
+    "جبل"
+   ],
+   "plain": "(٧٨٧ ٧٨٨) | [١٢٧٧ ١٢٧٨] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٧٨٩ ٧٩٠) | [١٢٧٩ ١٢٨٠] | جبل",
+   "margin": null,
+   "cells": [
+    "(٧٨٩ ٧٩٠)",
+    "[١٢٧٩ ١٢٨٠]",
+    "جبل"
+   ],
+   "plain": "(٧٨٩ ٧٩٠) | [١٢٧٩ ١٢٨٠] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٧٩١ ٧٩٢) | [١٢٨١ ١٢٨٢] | جبل",
+   "margin": null,
+   "cells": [
+    "(٧٩١ ٧٩٢)",
+    "[١٢٨١ ١٢٨٢]",
+    "جبل"
+   ],
+   "plain": "(٧٩١ ٧٩٢) | [١٢٨١ ١٢٨٢] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٧٩٣ ٧٩٤) | [١٢٨٣ ١٢٨٤] | جبل",
+   "margin": null,
+   "cells": [
+    "(٧٩٣ ٧٩٤)",
+    "[١٢٨٣ ١٢٨٤]",
+    "جبل"
+   ],
+   "plain": "(٧٩٣ ٧٩٤) | [١٢٨٣ ١٢٨٤] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٧٩٥ ٧٩٦) | [١٢٨٥ ١٢٨٦] | جبل",
+   "margin": null,
+   "cells": [
+    "(٧٩٥ ٧٩٦)",
+    "[١٢٨٥ ١٢٨٦]",
+    "جبل"
+   ],
+   "plain": "(٧٩٥ ٧٩٦) | [١٢٨٥ ١٢٨٦] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٧٩٧ ٧٩٨) | [١٢٨٧ ١٢٨٨] | جبل",
+   "margin": null,
+   "cells": [
+    "(٧٩٧ ٧٩٨)",
+    "[١٢٨٧ ١٢٨٨]",
+    "جبل"
+   ],
+   "plain": "(٧٩٧ ٧٩٨) | [١٢٨٧ ١٢٨٨] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٧٩٩ ٨٠٠) | [١٢٨٩ ١٢٩٠] | جبل",
+   "margin": null,
+   "cells": [
+    "(٧٩٩ ٨٠٠)",
+    "[١٢٨٩ ١٢٩٠]",
+    "جبل"
+   ],
+   "plain": "(٧٩٩ ٨٠٠) | [١٢٨٩ ١٢٩٠] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٨٠١ ٨٠٢) | [١٢٩١ ١٢٩٢] | جبل",
+   "margin": "(fol. 14ᵇ)",
+   "cells": [
+    "(٨٠١ ٨٠٢)",
+    "[١٢٩١ ١٢٩٢]",
+    "جبل"
+   ],
+   "plain": "(٨٠١ ٨٠٢) | [١٢٩١ ١٢٩٢] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٨٠٣ ٨٠٤) | [١٢٩٣ ١٢٩٤] | جبلا حارث وحويرث",
+   "margin": null,
+   "cells": [
+    "(٨٠٣ ٨٠٤)",
+    "[١٢٩٣ ١٢٩٤]",
+    "جبلا حارث وحويرث"
+   ],
+   "plain": "(٨٠٣ ٨٠٤) | [١٢٩٣ ١٢٩٤] | جبلا حارث وحويرث",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٨٠٥ ٨٠٦) | [١٢٩٥ ١٢٩٦] | جبل ما بين الموصل وشهرزور",
+   "margin": null,
+   "cells": [
+    "(٨٠٥ ٨٠٦)",
+    "[١٢٩٥ ١٢٩٦]",
+    "جبل ما بين الموصل وشهرزور"
+   ],
+   "plain": "(٨٠٥ ٨٠٦) | [١٢٩٥ ١٢٩٦] | جبل ما بين الموصل وشهرزور",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(٨٠٧ ٨٠٨) | [١٢٩٧ ١٢٩٨] | جبل متّصل بهٰذا الجبل وبهمذان وحارث",
+   "margin": null,
+   "cells": [
+    "(٨٠٧ ٨٠٨)",
+    "[١٢٩٧ ١٢٩٨]",
+    "جبل متّصل بهٰذا الجبل وبهمذان وحارث"
+   ],
+   "plain": "(٨٠٧ ٨٠٨) | [١٢٩٧ ١٢٩٨] | جبل متّصل بهٰذا الجبل وبهمذان وحارث",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F060-L18",
+   "n": 18,
+   "kind": "row",
+   "text": "| | وحويرث حتّى يضرب جبل قزوين",
+   "margin": null,
+   "cells": [
+    "",
+    "",
+    "وحويرث حتّى يضرب جبل قزوين"
+   ],
+   "plain": "| | وحويرث حتّى يضرب جبل قزوين",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "d",
+    "e",
+    "f",
+    "g"
+   ],
+   "lines": 2,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L02: a variant reading is انطسفارا; at entry (1913) the name is written ارطسفازا, with the variant reading ارطسقارا (note a, printed at the foot of p. 55).",
+  "L03: at entry (1118) it is called ادواقرا (note b, printed at the foot of p. 55).",
+  "L04: a variant reading is واروى; at entry (1933) the name is written اطى, with the variant reading اطر (note c, printed at the foot of p. 55)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table of the mountains of the fifth clime goes on across the opening pp. 54-55, without a heading: each row of p. 54 is continued by a row of p. 55 (frame 061), which gives the boundaries, the colour and the direction. The description of entry 807/808 takes two printed lines, L17-L18; the second line has no numbers and is transcribed as a row with empty number cells. Its boundaries, colour and direction stand on p. 55 at the height of the second line (L18), and p. 55 has no line at the height of L17, as on the opening pp. 52-53 (frames 058-059).",
+  "The running numbers go on from entry 773/774 (frame 058) and run (٧٧٥ ٧٧٦)-(٨٠٧ ٨٠٨); the numbers of Suhrāb run [١٢٦٥ ١٢٦٦]-[١٢٩٧ ١٢٩٨] without a gap. The folio of the Strasbourg manuscript, «(fol. 14ᵇ)», is printed in Latin type in the right margin beside entry 801/802 (L14).",
+  "L05, L07-L14: the name is the word «جبل» alone. L01: «جبل لوس متّصل بالبحر», the mountain Lūs, joined to the sea; L04: «فى جزيرة», on an island; L15: «جبلا حارث وحويرث», the two mountains Ḥārith and Ḥuwayrith, the ث of both names with its three dots; L16: «جبل ما بين الموصل وشهرزور», the mountain between al-Mawṣil and Shahrazūr; L17-L18: «جبل متّصل بهٰذا الجبل وبهمذان وحارث وحويرث حتّى يضرب جبل قزوين», a mountain joined to this mountain and to Hamadhān, Ḥārith and Ḥuwayrith, until it strikes the mountain of Qazwīn.",
+  "L02: «ارسطفارا», the three teeth of the س, the ط and the ف with its dot; L03: «ايدوقرا», the ي with its two dots below and the ق with its two; L04: «اورا». L06: «فارسس»: after «فار», six low teeth, 3 to 10 px high, before the bowl of the final س, in two groups of three: the teeth of two س. Transcribed فارسس.",
+  "Signs transcribed as printed: «متّصل» (L01, L17), with a shadda above the two dots of the ت; «بهٰذا» (L17), with the dagger alif above the ه, transcribed ٰ; «حتّى» (L18), with a shadda over the ت; «فى» (L04), with the dot of the ف and no dots on the ى. With their dots: «بالبحر» (L01), «همذان» (L17), «يضرب» and «قزوين» (L18).",
+  "The editor's footnotes of the opening begin at the foot of p. 55 (frame 061) with notes a, b and c, whose marks stand on this page (L02-L04), and continue here in two lines with notes d, e, f and g, whose marks stand on p. 55.",
+  "Specks, not transcribed: L15, a small mark, 6 by 5 px, above the last digit of the first number of Suhrāb.",
+  "The page number «— ٥٤ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

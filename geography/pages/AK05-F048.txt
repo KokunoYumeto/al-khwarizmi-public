@@ -1,0 +1,47 @@
+@page 48 ٤٢
+@cols 22,50,82
+@align r,c,r
+% Frame 048, printed p. 42: the right-hand page of the opening pp. 42-43. Six lines of text begin the description of
+% the mountain that surrounds the island of the Yāqūt in the far east: where it begins, the points it passes, entries
+% 596-600, and how it encloses the island; the text goes on at the top of p. 43. Then the headings of the second clime
+% and of its mountains, and the numbers and names of eight mountains, entries 607/608-621/622, among them Sarʿāṭūs,
+% حرحس and Lūthiyā; the folios of the manuscript, «(fol. 11ᵇ)» and «(fol. 12ᵃ)». Two lines of the editor's footnotes,
+% continued from the foot of p. 43.
+@m (fol. 11ᵇ)
+* صفة الجبل المحيط بجزيرة الياقوت الّتى فى اوّل حدّ المشرق فى اقصا* بحر
+الصين ⟨وهو⟩{n:a} البحر المظلم الّذى لا يسلك وجبل محيط* بجزيرة الياقوت يبتدئ من طول
+{ov:ڡسر {z}} وعرض {ov:ٮد ل} (٥٩٦) [١٤٥٧] مارّا الى عرض {ov:ط {z}} على استوى* (٥٩٧)
+[١٤٥٨] ثمّ يستدير الى عرض {ov:ه {z}} وطول {ov:ڡع {z}} (٥٩٨) [١٤٥٩] ويمرّ فيدخل البحر
+المظلم عند عرض {ov:د {z}} وطول {ov:ڡعٮ {z}} (٥٩٩) [١٤٦٠] ويدخل فى البحر عند{n:b} عرض
+{ov:ح ل} وطول {ov:ڡعح ل} (٦٠٠) [١٤٦١] ثمّ يحيط بالجزيرة على هيئة السفط{n:c} ثمّ يجىء الجبل
+@m (fol. 12ᵃ)
+@h * الإقليم الثانى
+@h * الجبال الّتى فى
+@r (٦٠٧ ٦٠٨) | [١٠٩٧ ١٠٩٨] | جبل
+@r (٦٠٩ ٦١٠) | [١٠٩٩ ١١٠٠] | جبل
+@r (٦١١ ٦١٢) | [١١٠١ ١١٠٢] | جبل
+@r (٦١٣ ٦١٤) | [١١٠٣ ١١٠٤] | جبل سرعاطوس
+@r (٦١٥ ٦١٦) | [١١٠٥ ١١٠٦] | جبل حرحس{n:f}
+@r (٦١٧ ٦١٨) | [١١٠٧ ١١٠٨] | جبل لوثيا{n:g}
+@r (٦١٩ ٦٢٠) | [١١٠٩ ١١١٠] | جبل
+@r (٦٢١ ٦٢٢) | [١١١١ ١١١٢] | جبل
+@ednotes e f g 2
+@obs L01-L06: the description of the mountain that surrounds the island of the Yāqūt, «صفة الجبل المحيط بجزيرة الياقوت», is set as running text in the type of the tables, the full width of the page; it goes on at the top of p. 43 (frame 049, L01-L06), from page to page and not across the opening. The headings L07-L08 and the rows L09-L16 run across the opening as on pp. 38-39 (frames 044-045): L07, «* الإقليم الثانى», is continued on p. 43 by «عرضه كد *», the second clime and its latitude, 24; L08, «* الجبال الّتى فى», by «الإقليم الثانى *», the mountains in the second clime; and each row by the same row of p. 43, which gives the boundaries, the colour and the direction. The headings stand at the inner edge of the page, next to their ends on p. 43; transcribed as headings.
+@obs L01: the folio of the Strasbourg manuscript, «(fol. 11ᵇ)», is printed in Latin type at the beginning of the line, within the text block, and is followed by a small open six-pointed star, transcribed as an asterisk, with which the description begins, as the headings L07 and L08 begin with the same star. The folio «(fol. 12ᵃ)» is printed in the right margin beside the heading of the second clime (L07).
+@obs L01: «اقصا*», L02: «محيط*» and L03: «استوى*»: an asterisk with six round-ended arms, as on frame 046 (L10), stands after the word, raised: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (introduction, frame 184, p. XXIX). «اقصا» ends in an alif; «استوى», without the article, in a ى without dots.
+@obs L02: «⟨وهو⟩»: the word stands between angle brackets, followed by the note mark a: the editor supplies it (note a).
+@obs L02, L05: «المظلم», and L01: «المحيط»: the م after the ل of the article is a small loop at the foot of the ل, to the right of its stem, so that the following ظ or ح stands next to the ل; in «المشرق» (L01) the م is a loop on the line to the left of the ل.
+@obs L03-L06: the coordinates in the text are written with letters, each pair of degrees and minutes with a line above it, transcribed with {ov:…}: L03, the longitude «ڡسر» with the zero, the latitude «ٮد ل» and the latitude «ط» with the zero; L04, the latitude «ه» with the zero and the longitude «ڡع» with the zero; L05, the latitude «د» with the zero and the longitude «ڡعٮ» with the zero; L06, the latitude «ح ل» and the longitude «ڡعح ل». The running numbers (٥٩٦)-(٦٠٠) and the numbers of Suhrāb [١٤٥٧]-[١٤٦١] follow the points of the description.
+@obs Letters printed without their dots in the numerals of the text, transcribed so: the loop of ف or ق without dots in the longitudes, ڡسر (L03), ڡع (L04), ڡعٮ (L05), the last with a final ب without its dot, and ڡعح (L06); ٮد (L03), a tooth without its dot joined to a د, 14. In ڡسر the editor reads ر as ز, 7 (introduction, frame 196, p. XVII), so 167; transcribed ر as printed. The isolated ه of L04 is a small round ring, the round form of the letter. The ح of L06, alone and in ڡعح, shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.
+@obs Signs transcribed as printed: L01: «الّتى», «اوّل» and «حدّ» with a shadda; L02: «الّذى» with a shadda over the ل and the dot of the ذ, and «يبتدئ» with a hamza over the final ى; L03: «مارّا» with a shadda over the ر; L04: «ثمّ» and «ويمرّ» with a shadda; L06: «ثمّ», twice, with a shadda, «هيئة» with a hamza over the tooth, and «يجىء», a final ى without dots followed by a hamza on the line, 15 by 15 px, larger than a dot of the font. «على» (L03, L06), «الى» (L03, L04) and «فى» (L01, twice; L05) end in a ى without dots. L07: «الإقليم» with a hamza below the alif; L08: «الّتى» with a shadda over the ل.
+@obs L09-L16: each mountain has two running numbers in one pair of parentheses and two numbers of Suhrāb in one pair of square brackets. The running numbers go on from the description, whose last number, (٦٠٦), stands on p. 43, and run (٦٠٧ ٦٠٨)-(٦٢١ ٦٢٢); the numbers of Suhrāb run [١٠٩٧]-[١١١٢], after [١٠٩٥ ١٠٩٦] of the last mountain of the first clime (frame 046, L17). L09-L11, L15, L16: the name is the word «جبل» alone.
+@obs L12: «سرعاطوس», the ع without a dot; L13: «حرحس», the two ح without dots; L14: «لوثيا», the ث with its three dots and the ي with its two.
+@obs L16: the middle digit of the second running number, a ٢, is printed heavier than the others, with a small third point at its top, but it is 22 px wide like the other ٢ of the page (20 to 22 px), where a ٣ is 31 px (L12, the first running number). Transcribed (٦٢٢), the number after (٦٢١).
+@obs The editor's footnotes of the opening begin at the foot of p. 43 (frame 049) with notes a, b, c and d and the beginning of note e, and continue here in two lines with the end of note e and notes f and g. The texts of notes a, b and c, whose marks stand on this page (L02, L05, L06), are printed on p. 43.
+@obs The page number «— ٤٢ —» stands at the foot, centred.
+@variant L01: at entry (1726) the mountain is called جبل اروس احروسس and جبل الياقوت (a note added in the editor's corrigenda (p. 163, frame 169)).
+@variant L02: the word وهو is missing in the manuscript; the editor supplies it (note a, printed at the foot of p. 43).
+@variant L05: the manuscript reads الى, to, for عند, at (note b, printed at the foot of p. 43).
+@variant L06: the manuscript writes the word with ص in place of the س (note c, printed at the foot of p. 43).
+@variant L13: at entry (1744) the name is written سرجيس, with the variant reading حزجيس, and at entry (1746) سرحس, with the variant reading حرحس.
+@variant L14: at entry (1641) the name is written اليوها.

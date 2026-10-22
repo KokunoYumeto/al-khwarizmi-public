@@ -1,0 +1,25 @@
+{
+ "anchor": "AK05-F189",
+ "frame": 189,
+ "frame_file": "page_189.jpg",
+ "frame_sha256": "baddd5850372585930b5b0dde4dfa770b2ffdcbdc0b8ed56d06caa560248ac11",
+ "printed_page": "XXIV",
+ "kind": "editorial",
+ "role": "MODERN_EDITORIAL (not reproduced)",
+ "comment": "Frame 189, printed p. XXIV: the editor's introduction continued, in German.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [
+  "the editor's introduction, p. XXIV, in German: 24 printed lines, with letters, running numbers and page numbers in Arabic type, in sections headed by the letter they treat"
+ ],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Topics of the page, with the entries and notes that it cites (the introduction is read for understanding and not reproduced or paraphrased): the zero sign, ب, ح and د, with (٤٠٩) (frame 034), (١٢٧١) (frame 089), (١٥٢٩) (frame 105), (١٦٤١) (frame 114), (١٢٩٩) (frame 091) and Esna (١٣٩) (frame 018).",
+  "The introduction, pp. V-XXXI, is bound in the reverse order of its pages, from p. XXXI (frame 182) to p. V (frame 208); the frames keep the physical order, and the introduction is read from frame 208 back to frame 182. This page follows p. XXIII (frame 190); p. XXV follows on frame 188.",
+  "The page number «— XXIV —» stands at the foot, centred. The page has no footnotes."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

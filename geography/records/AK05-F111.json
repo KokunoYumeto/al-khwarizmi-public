@@ -1,0 +1,257 @@
+{
+ "anchor": "AK05-F111",
+ "frame": 111,
+ "frame_file": "page_111.jpg",
+ "frame_sha256": "2794a948c9989667fedfeae7a07e75df9d3623fc24038f37b858783fa26c54d8",
+ "printed_page": "١٠٥",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 111, printed p. 105: the places in which the boundaries of the countries are written, concluded: Germania, the land of the Slavs; سڡمرقى; the forest of ارقونيوس; Sarmatia, the land of the Burjān; الٮتز; the island of Taurica; Sarmatia, the land of the Alans; اسقونيا, the land of the Turks; Scythia, the land of the Toghuzghuz; سيرقى; and Magog. The editor's running numbers (١٥٩٣)-(١٦٠٣) and the numbers of Suhrāb [٥٤١]-[٥٥٠]; two letters supplied by the editor between angle brackets. Seven lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F111-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "[٥٤١] * بلاد عرمانيا وهى ارض الصقالبة وسطها عند طول {ov:لو م} والعرض {ov:نب {z}}{n:a}",
+   "margin": null,
+   "cells": null,
+   "plain": "[٥٤١] * بلاد عرمانيا وهى ارض الصقالبة وسطها عند طول لو م والعرض نب ō",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F111-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "(١٥٩٣) [٥٤٢] * بلاد سڡمرقى وهى الجزيرة المفتوحة الى البرّ وسطها عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٥٩٣) [٥٤٢] * بلاد سڡمرقى وهى الجزيرة المفتوحة الى البرّ وسطها عند طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F111-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "{ov:ما م} والعرض {ov:سا {z}} (١٥٩٤) [٥٤٣] * بلاد غابة{n:b} ارقونيوس وسطها عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "ما م والعرض سا ō (١٥٩٤) [٥٤٣] * بلاد غابة ارقونيوس وسطها عند طول",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F111-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "{ov:ما {z}}{n:c} والعرض {ov:ٮح {z}}{n:d} (١٥٩٥) [٥٤٤] * بلاد سرماطيه وهى ارض برجان وسطها",
+   "margin": null,
+   "cells": null,
+   "plain": "ما ō والعرض ٮح ō (١٥٩٥) [٥٤٤] * بلاد سرماطيه وهى ارض برجان وسطها",
+   "note_marks": [
+    "c",
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F111-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "عند طول {ov:مه {z}}{n:e} والعرض {ov:نب {z}}{n:f} (١٥٩٦) [٥٤٥] * بلاد الٮتز{n:g} وسطها عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول مه ō والعرض نب ō (١٥٩٦) [٥٤٥] * بلاد الٮتز وسطها عند طول",
+   "note_marks": [
+    "e",
+    "f",
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F111-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "{ov:ٮر {z}}{n:h} والعرض {ov:ٮح {z}}{n:i} (١٥٩٧) [٥٥١] * جزيرة طوقيا وهى متّصلة بالتيز{n:k} وسطها",
+   "margin": null,
+   "cells": null,
+   "plain": "ٮر ō والعرض ٮح ō (١٥٩٧) [٥٥١] * جزيرة طوقيا وهى متّصلة بالتيز وسطها",
+   "note_marks": [
+    "h",
+    "i",
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F111-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "عند طول {ov:ٮح ل} والعرض {ov:ٮج ل} (١٥٩٨) [٥٥٢] * بلاد سرماطيه وهى ارض اللان{n:l}",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول ٮح ل والعرض ٮج ل (١٥٩٨) [٥٥٢] * بلاد سرماطيه وهى ارض اللان",
+   "note_marks": [
+    "l"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F111-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "وسطها عند طول {ov:عح {z}}{n:m} والعرض {ov:ٮط ل} (١٥٩٩) [٥٤٦] * بلاد اسقونيا{n:n} وهى",
+   "margin": null,
+   "cells": null,
+   "plain": "وسطها عند طول عح ō والعرض ٮط ل (١٥٩٩) [٥٤٦] * بلاد اسقونيا وهى",
+   "note_marks": [
+    "m",
+    "n"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F111-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "ارض الترك وسطها عند طول {ov:قد {z}} والعرض {ov:نز ل} (١٦٠٠) [٥٤٧] * بلاد اسقوثيا",
+   "margin": null,
+   "cells": null,
+   "plain": "ارض الترك وسطها عند طول قد ō والعرض نز ل (١٦٠٠) [٥٤٧] * بلاد اسقوثيا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F111-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "وهى ارض التغزغز وسط⟨ها⟩{n:o} عند طول {ov:ڡمح {z}} والعرض {ov:ٮط ل}{n:p} (١٦٠١) [٥٤٨] *",
+   "margin": null,
+   "cells": null,
+   "plain": "وهى ارض التغزغز وسط⟨ها⟩ عند طول ڡمح ō والعرض ٮط ل (١٦٠١) [٥٤٨] *",
+   "note_marks": [
+    "o",
+    "p"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F111-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "بلاد سيرقى وهى ارض سينستان{n:q} وسطها عند طول {ov:ڡس {z}}{n:r} والعرض {ov:ٮد ل}{n:s} (١٦٠٢)",
+   "margin": null,
+   "cells": null,
+   "plain": "بلاد سيرقى وهى ارض سينستان وسطها عند طول ڡس ō والعرض ٮد ل (١٦٠٢)",
+   "note_marks": [
+    "q",
+    "r",
+    "s"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F111-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "[٥٤٩] * بلاد ماجوج عند طول {ov:قعا ل} والعرض {ov:ٮح {z}}{n:t} (١٦٠٣) [٥٥٠]{n:u} *",
+   "margin": null,
+   "cells": null,
+   "plain": "[٥٤٩] * بلاد ماجوج عند طول قعا ل والعرض ٮح ō (١٦٠٣) [٥٥٠] *",
+   "note_marks": [
+    "t",
+    "u"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r",
+    "s",
+    "t",
+    "u"
+   ],
+   "lines": 7,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: the manuscript has, by mistake, س {z} for the latitude, with a line over the numerals; the editor corrects it after al-Battānī, vol. III, p. 234 (note a).",
+  "L03: the manuscript has غايه for غابة (note b).",
+  "L04: a variant reading of the longitude is ما ه, with a line over the numerals (note c).",
+  "L04: a variant reading of the latitude is ٮح ه, with a line over the numerals (note d).",
+  "L05: a variant reading of the longitude is مه ه, with a line over the numerals (note e).",
+  "L05: a variant reading of the latitude is نب ه, with a line over the numerals (note f).",
+  "L05: at entry (1598) the name is written التيز, with all its dots; a variant reading is الٮر, without dots, a tooth joined to the ر (note g).",
+  "L06: a variant reading of the longitude is ر ه, with a line over the numerals (note h).",
+  "L06: a variant reading of the latitude is ٮح ه, with a line over the numerals (note i).",
+  "L06: a variant reading of the name is الٮر, without dots (note k).",
+  "L07: at entries (861-862) and (863-864) the name is written الان; the editor compares the mountain جبل الان (939-940) (note l).",
+  "L08: a variant reading of the longitude is عٮ {z}, the flat final bowl of a ب without its dot, with a line over the numerals (note m).",
+  "L08: at entry (1601) the name is written اسقوثيا (note n).",
+  "L10: the manuscript lacks the ها of وسطها; the editor supplies it (note o).",
+  "L10: a variant reading of the latitude is ٮد ل, with a line over the numerals (note p).",
+  "L11: the manuscript has سيسيان for سينستان; the editor compares entry (408) (note q).",
+  "L11: a variant reading of the longitude is قل {z}, with a line over the numerals (note r).",
+  "L11: a variant reading of the latitude is مد ل, with a line over the numerals (note s).",
+  "L12: the manuscript has لح {z} for the latitude, with a line over the numerals (note t).",
+  "L12: fol. 29ᵇ of the manuscript is blank (note u)."
+ ],
+ "unresolved": [
+  "L05: the two dots over the taller tooth may be the dots of the ت displaced from the small tooth, with those of a ي not printed: التيز, the name of L06. Transcribed الٮتز.",
+  "L06: the notched form may also be read as a single ر whose head is split, ر, 7. Transcribed ٮر."
+ ],
+ "observations": [
+  "The places in which the boundaries of the countries are written end on this page. L01 begins with the number of Suhrāb, [٥٤١], of the last country of p. 104 (frame 110, L11, entry 1592). Then the countries, each with the longitude and latitude of its middle, «وسطها عند طول … والعرض …», with the degrees and the minutes written with letters under one line, transcribed with {ov:…}: «بلاد عرمانيا وهى ارض الصقالبة» (L01), Germania, which is the land of the Slavs; «بلاد سڡمرقى وهى الجزيرة المفتوحة الى البرّ» (L02), سڡمرقى, which is the peninsula open to the land; «بلاد غابة ارقونيوس» (L03), the land of the forest of ارقونيوس; «بلاد سرماطيه وهى ارض برجان» (L04), Sarmatia, which is the land of the Burjān; «بلاد الٮتز» (L05); «جزيرة طوقيا وهى متّصلة بالتيز» (L06), the island طوقيا, which is joined to التيز; «بلاد سرماطيه وهى ارض اللان» (L07), Sarmatia, which is the land of the Alans; «بلاد اسقونيا وهى ارض الترك» (L08-L09), the land of the Turks; «بلاد اسقوثيا وهى ارض التغزغز» (L09-L10), Scythia, which is the land of the Toghuzghuz; «بلاد سيرقى وهى ارض سينستان» (L11); and «بلاد ماجوج عند طول …» (L12), Magog, without «وسطها». Each entry ends with a small open star with six points, transcribed as an asterisk; the last, after [٥٥٠] and the note mark u, closes the section.",
+  "The running numbers run (١٥٩٣)-(١٦٠٣) without a gap. The numbers of Suhrāb stand after each running number: [٥٤٢]-[٥٤٥] after (١٥٩٣)-(١٥٩٦), then [٥٥١] and [٥٥٢] after (١٥٩٧) and (١٥٩٨), then [٥٤٦]-[٥٥٠] after (١٥٩٩)-(١٦٠٣): Suhrāb has the island طوقيا and the second Sarmatia after the other countries of the page.",
+  "L10: «وسط⟨ها⟩», the ها between angle brackets, followed by the note mark o: the manuscript lacks it, and the editor supplies it (note o). Transcribed with the brackets.",
+  "Signs in the text, transcribed as printed: «البرّ» (L02) with a shadda over the ر; «متّصلة» (L06) with a shadda over the ت.",
+  "Names: «عرمانيا», «الصقالبة», «غابة», «ارقونيوس», «سرماطيه», «برجان», «طوقيا», «بالتيز», «اللان», «اسقونيا», «الترك», «اسقوثيا», «التغزغز», «سينستان» and «ماجوج» are printed with all their dots. L02: «سڡمرقى»: after the س a raised loop without dots, then a small loop on the line, the م, the ر and «قى», whose ق has its two dots. L11: «سيرقى», the ي with its two dots below joined at the top to the head of the ر. L05: «الٮتز»: after the ل a small tooth without a dot, then a taller tooth with two dots above, joined at the top to the head of the ز, which has its dot; in «بالتيز» of L06 the two dots of the ت stand over the small tooth and the two dots of the ي below the taller one. Transcribed as printed.",
+  "Numerals: «نب» (L01, L05, the degrees of the latitude), with the dot of the ن above and that of the ب below, 52; «قد» (L09) and «قعا» (L12), with the two dots of the ق, 104 and 171; «نز» (L09, the degrees of the latitude), with the dot of the ن and that of the ز, 57; «ٮج» (L07, the degrees of the latitude), a tooth without its dot joined to a ج with its dot, which read with a ي gives 13 and read with a ن 53. Without dots, transcribed so: a tooth in «ٮح» (L04, L06, L12, the degrees of the latitude; L07, the degrees of the longitude), «ٮط» (L08, L10) and «ٮد» (L11), the degrees of the latitude, which read as a ن give 58, 59 and 54; the loop of ف or ق in «ڡمح» (L10) and «ڡس» (L11), the degrees of the longitude, which read with ق give 148 and 160.",
+  "L06, the degrees of the longitude, are printed with the notched form ٮر of frame 041 (L06): a short tooth without a dot joined to a ر, the two forming a notch, 3 px deep, at the top, where the isolated ر of the numerals is a single rounded stroke (frame 072, L06); in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ٮر, which read as نز gives 57 and read as يز 17. The editor's note h gives the variant reading ر ه.",
+  "The ح of the numerals, «ٮح» (L04, L06, L07, L12), «عح» (L08) and «ڡمح» (L10), shows no dot in the bowl; the same form is a ج without its dot, 3, which L07 prints with its dot in «ٮج». Transcribed as printed.",
+  "Note marks: L01, a after the latitude; L03, b after «غابة»; L04, c after the longitude and d after the latitude; L05, e after the longitude, f after the latitude and g after «الٮتز»; L06, h after the longitude, i after the latitude and k after «بالتيز»; L07, l after «اللان»; L08, m after the longitude and n after «اسقونيا»; L10, o after «⟨ها⟩» and p after the latitude; L11, q after «سينستان», r after the longitude and s after the latitude; L12, t after the latitude and u after [٥٥٠].",
+  "Marks not transcribed: L03, a speck of 6 by 6 px above the م of the longitude «ما م», smaller than the dots of the font, about 9 by 9 px; L01, a speck of 4 by 3 px above the dot of the ن of «نب»; L12, a few small specks of ink at the upper right of the zero of the latitude.",
+  "The editor's footnotes stand in seven lines below a short rule at the left: notes a-u. The page number «— ١٠٥ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

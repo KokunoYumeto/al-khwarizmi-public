@@ -1,0 +1,39 @@
+@page 36 ٢٢
+% Frame 036, printed p. 22: the first geometric demonstration of "a square and ten roots equal thirty-nine dirhams":
+% the square اب with a rectangle two and a half wide on each side, and the four corner squares of two and a half by
+% two and a half that complete the great square ده. The figure stands at the left of lines 3-12, which are set in a
+% narrower measure beside it. No footnotes on this page.
+مربع مجهول الاضلاع وهو المال الذى تريد أن تعرفه وتعرف جذره وهو سطح
+{ov:اٮ} وكل ضلع من اضلاعه فهو جذره وكل ضلع من أضلاعه إذا ضربته فى عدد
+من الأعداد فما بلغت الأعداد
+فهى اعداد جذور . كل جذر
+مثل جذر ذلك السطح فلما
+قيل إن مع المال عشرة اجذاره
+اخذنا ربع العشرة وهواثنان
+ونصف وصيرنا كل ربع منها
+مع ضلع من اضلاع السطح
+فصار مع السطح الأول الذى
+هو سطح {ov:اٮ} اربعة سطوح
+متساوية طول كل سطح منها
+مثل جذر سطح {ov:اٮ} وعرضه اثنان ونصف وهى سطوح ع {ov:ط} {ov:ك} ح
+فحدث سطح متساوى الاضلاع مجهول أيضا ناقص فى زواياه الأربع فى
+كل زاوية من النقصان اثنان ونصف فى اثنين ونصف فصار الذى يحتاج
+إليه من الزيادة حتى يتربع السطح اثنان ونصف فى مثله اربع مرات ومبلغ
+ذلك جميعه خمسة وعشرون . وقد علمنا أن السطح الأول الذى هو سطح المال
+والأربعة السطوح التى حوله وهى عشرة اجذار هى تسعة وثلاثون من العدد.
+فاذا زدنا عليها الخمسةوالعشرين التى هى المربعات الاربع التى هى على زواياسطح
+{ov:اٮ} تم تربيع السطح الاعظم وهو سطح {ov:ده} وقد علمنا أن ذلك كله اربعة
+وستون وأحد أضلاعه جذره وهو ثمانية فاذا نقصنا من الثمانيةمثل ربع العشرة
+مرتين من طرفى ضلع السطح الأعظم الذى هو سطح {ov:ده} وهو خمسة بقى من
+@fig AK01-F036-FIG1 200 885 1325 2125 after=2
+@obs The figure: a square divided into nine. The middle square is marked المال, with a letter at two of its opposite corners; the rectangles on its sides are marked ح (above), ج (left), ك (right) and ط (below); each corner square is marked ستة وربع; a letter stands outside the upper left corner of the whole and ه outside its lower right. The figure is drawn, not set in type, and is reproduced as an image.
+@obs Letters printed as the labels of the figure carry a short wavy line above them (here a line above): اب (L02, L11, L13, L20), the line over its ب; ده (L20, L22), the line over its ه; ط and ك (L13). The first and the last of the four labels of L13, ع and ح, are printed without it; the last has the initial form of the letter, without a dot.
+@obs L13: the four labels after سطوح are printed ع, ط, ك, ح. The first has the shape of an ʿayn (a closed head and a tail, without a dot), unlike the ح of the figure; the figure has no ع. The same sort names a point thirteen times on frame 38. See the critical note AK01-CN001.
+@obs Set without a word space after a non-connecting letter, and transcribed so: وهواثنان (L07), الخمسةوالعشرين and زواياسطح (L19), الثمانيةمثل (L21). After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: المال الذى and تعرفه وتعرف (L01), إن مع and مع المال (L06), على زواياسطح (L19).
+@obs Plain alif where a hamza might be expected, as printed: الاضلاع (L01, L14), اضلاعه (L02; the same line has أضلاعه), اعداد (L04; L03 has الأعداد), اجذاره (L06), اخذنا (L07), اضلاع (L09), اربعة (L11, L20), اربع (L16), اجذار (L18), فاذا (L19, L21), الاربع (L19; L14 has الأربع), الاعظم (L20; L22 has الأعظم).
+@obs The print stretches some words with the elongation stroke (kashīda) to fill the line, as جذر and وعرضه (L13), أيضا (L14), فصار (L15); the stroke is not transcribed.
+@obs L02: between the second ضلع and the following word, a small vertical string of ink specks stands at the height of the letters: a blemish of the print, neither a letter nor a note mark; not transcribed.
+@obs L18: the full stop at the end of the line is set close to العدد. L22 ends without a full stop; the sentence runs on to the next page.
+@obs The ب of the label اب is printed without its dot every time (L02, L11, L13, L20); transcribed ٮ, the dotless form. The figure's ب has no dot either.
+@critical AK01-CN001 | labels of the text and of the figure disagree | L13 | ع ط ك ح | ج ط ك ح | The line names the four rectangles that lie on the sides of the square اب. The figure on this page labels them ح, ج, ك and ط, and has no ع. Three of the four printed labels are letters of the figure; the fourth, ع, is not, and ج, a label of the figure, is the one the line lacks. With ا, ب, د and ه, the labels of the figure are the first eleven letters of the abjad order without و, ز and ي; ع comes much later in that order. In the next demonstration (frame 038) the same sort names a point thirteen times; the figure of that demonstration has no ع either, and the manuscript, of which the edition reproduces that page (frame 039), writes ج there (AK01-CN003). | high that ع stands for the ج of the figure; whether the printer set ع for the label ج on purpose or in error is not known | none on the mathematics: the labels only name the rectangles of the figure
+@copy Pencil of a reader of the Columbia copy, in the top margin: the equation x² + 10x = 39.

@@ -1,0 +1,57 @@
+@page 229 197
+@lang la
+% JP2 0229: Tab. 82, p. 197: the division of the houses for the ascendant in Cancer: the beginnings of the second to
+% the sixth house for every degree of the ascendant, with the apparatus (notes a-s).
+@m C 87{sup:v}, O 144{sup:r},
+@c {b:Aequatio casarum duodecim signo cancri}
+@tw size=footnotesize 1.3 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65
+@m N 51{sup:v}.
+@t Gradus | Secundum |  | Tertium |  | Quartum |  | Quintum |  | Sextum |
+@t aequales | Cancer |  | Leo |  | Virgo |  | Libra |  | Scorpius |
+@t ortus | [et Leo] |  | [et Virgo] |  | [et Libra] |  | [et Scorpius] |  | [et Sagittar.] |
+@t cancri |  |  |  |  |  |  |  |  |  |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 1 | 22 | 29 | 15 | 0 | 9 | 5 | 18 | 59 | 26 | 38{sup:q})
+@t 2 | 23 | 31 | 16 | 6{sup:c}) | 10 | 15 | 20 | 8 | 27 | 41
+@t 3 | 24 | 33{sup:a}) | 17 | 12 | 11 | 25{sup:h}) | 21 | 17 | 28 | 44
+@t 4 | 25 | 35 | 18 | 18 | 12 | 36{sup:i}) | 22 | 26 | 29 | 47
+@t  |  |  |  |  |  |  |  |  | Sagitt. |
+@t 5 | 26 | 37 | 19 | 25 | 13 | 47 | 23 | 36 | 0 | 50{sup:r})
+@t 6 | 27 | 40 | 20 | 34{sup:d}) | 15{sup:f}) | 1 | 24 | 47 | 1 | 53{sup:s})
+@t 7 | 28 | 43 | 21 | 43{sup:e}) | 16 | 15 | 25 | 59 | 2 | 56
+@t 8 | 29 | 46 | 22 | 52 | 17 | 29{sup:i}) | 27 | 11 | 3 | 59
+@t  | Leo |  |  |  |  |  |  |  |  |
+@t 9 | 0 | 50 | 24 | 1 | 18 | 43 | 28 | 23 | 5 | 2
+@t 10 | 1 | 54 | 25 | 11 | 19 | 58{sup:k}) | 29 | 35 | 6 | 6
+@t  |  |  |  |  |  |  | Scorp. |  |  |
+@t 11 | 2 | 59 | 26 | 23 | 21{sup:g}) | 15 | 0 | 47{sup:m}) | 7 | 8
+@t 12 | 4 | 4 | 27 | 35 | 22 | 32 | 1 | 59 | 8 | 11
+@t 13 | 5 | 9 | 28 | 49 | 23 | 49 | 3 | 11 | 9 | 13
+@t 14 | 6 | 14 | 29 | 59 | 25 | 6 | 4 | 22 | 10 | 16
+@t  |  |  | Virgo |  |  |  |  |  |  |
+@t 15 | 7 | 20 | 1 | 11 | 26 | 24 | 5 | 34 | 11 | 19
+@t 16 | 8 | 25 | 2 | 23 | 27 | 44 | 6 | 45 | 12 | 21
+@t 17 | 9 | 31 | 3 | 36 | 29 | 4 | 7 | 56 | 13 | 23
+@t  |  |  |  |  | Libra |  |  |  |  |
+@t 18 | 10 | 37 | 4 | 49 | 0 | 24 | 9 | 6 | 14 | 26
+@t 19 | 11 | 43 | 6 | 2 | 1 | 45 | 10 | 16 | 15 | 28
+@t 20 | 12 | 49 | 7 | 15 | 3 | 6 | 11 | 26 | 16 | 30
+@t 21 | 13 | 56{sup:b}) | 8 | 30 | 4 | 24 | 12 | 37 | 17 | 32
+@t 22 | 15 | 3 | 9 | 45 | 5 | 42 | 13 | 48 | 18 | 34
+@t 23 | 16 | 10 | 11 | 0 | 7 | 0 | 14 | 59 | 19 | 36
+@t 24 | 17 | 18 | 12 | 16 | 8 | 19 | 16 | 10 | 20 | 37
+@t 25 | 18 | 26 | 13 | 32 | 9 | 38{sup:l}) | 17 | 20 | 21 | 39
+@t 26 | 19 | 35 | 14 | 50 | 11 | 0 | 18 | 32 | 22 | 41
+@t 27 | 20 | 44 | 16 | 8 | 12 | 23 | 19 | 43{sup:n}) | 23{sup:o}) | 44
+@t 28 | 21 | 53 | 17 | 26 | 13 | 46 | 20 | 55 | 24{sup:p}) | 46
+@t 29 | 23 | 3 | 18 | 45 | 15 | 9 | 22 | 6 | 25 | 49
+@t 30 | 24 | 13 | 20 | 4 | 16 | 32 | 23 | 18 | 26 | 51
+@n {sup:a}) 33] C, 24 O — {sup:b}) 56] C, 57 O — {sup:c}) 6] C, 2 O — {sup:d}) 34] C, 24 O — {sup:e}) 43] O, 48 C — {sup:f}) 15] C,
+@n 14 O — {sup:g}) 21] C, 19 O — {sup:h}) 25] ON, 30 C — {sup:i})—{sup:i}) 36—29] C, 35, 37, 48, 1, 15 O — {sup:k}) 58] O, 53 C —
+@n {sup:l}) 38] C, 18 O — {sup:m}) 47] C, 45 O — {sup:n}) 43] O, 53 C — {sup:o}) 23] C, 13 O — {sup:p}) 24] C, 14 O — {sup:q}) 38] ON,
+@n 28 C — {sup:r}) 50] ON, 1(?) C — {sup:s}) 53] C, 54 O.
+@obs The page number «197» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 82», in bold sans serif, underlined. The page has no signature. The title (L01), «Aequatio casarum duodecim signo cancri», the equation of the twelve houses for the sign of Cancer, in bold, without sigla. The folios of the manuscripts stand at the right of the title in two lines, «C 87v, O 144r,» and «N 51v.», the letters raised; here as right margin notes beside L01 and L02.
+@obs The table: as on p. 196 (JP2 0228), the degrees of the ascendant, «Gradus aequales ortus cancri», in four lines, and five pairs «Gr.», «Min.» under «Secundum Cancer [et Leo]», «Tertium Leo [et Virgo]», «Quartum Virgo [et Libra]», «Quintum Libra [et Scorpius]» and «Sextum Scorpius [et Sagittar.]», the heads of p. 196, here right for the ascendant in Cancer. Here each head is set from the top, one printed line to a line (L02-L05); the units in L06; the cells separated by our «|»; a head followed by empty cells spans their columns. The names of the signs into which the beginnings pass stand in lines of their own over their columns: «Sagitt.» (L11) over the sixth house, «Leo» (L16) over the second, «Scorp.» (L19) over the fifth, «Virgo» (L24) over the third and «Libra» (L28) over the fourth. Specks after the 0 of the sixth house in L12, below the 35 of the fifth in L18 and before the 26 of the sixth in L41; not transcribed.
+@obs L07-L41. The beginnings of the houses for the ascendant at 1° to 30° of Cancer, by the rule of p. 194 (JP2 0226). Checked with the obliquity 23° 35′ and the latitude 38° 40′: the degrees and minutes agree within 2′ in 100 of the 150 places and within 3′ in 121. The fifth house lags by 3′ to 4.4′ at 4°-8° (L10-L15); the fourth exceeds the computation by 3.2′ to 8.3′ at 17°-23° (L27-L34); and from 27° on the columns run ahead of it, increasingly, at 30° (L41) by 4.5′, 8.7′, 13.0′, 7.6′ and 4.6′ in the second to the sixth house. The table thus departs from the computation in the opposite sense to the lag at the end of p. 195 and the beginning of p. 196 (JP2 0227-0228).
+@obs Notes on the readings. Checked by the computation: the edition's readings are the nearer at 3° in the second house (note a: C's 33 against O's 24; 24° 31.7′ computed), at 2°, 6° and 7° in the third (notes c, d and e: C's 6 and 34 against O's 2 and 24, O's 43 against C's 48; 16° 4.3′, 20° 34.6′, 21° 43.4′), at 3°, 4°-8°, 10° and 25° in the fourth (notes h, i-i, k and l: the 25 of O and N against C's 30; C's 36, 47, 1, 15 and 29, where O has 35, 37, 48, 1 and 15, its last three the values of the rows above; O's 58 against C's 53; C's 38 against O's 18; 11° 24.2′, 12° 36.2′, 13° 48.9′, 15° 2.1′, 16° 15.9′, 17° 30.3′, 20° 0.6′, 9° 37.0′), at 11° and 27° in the fifth (notes m and n: C's 47 against O's 45, O's 43 against C's 53; 0° 48.3′, 19° 42.0′), and at 1° and 5° in the sixth (notes q and r: the 38 and 50 of O and N against C's 28 and «1(?)»; 26° 36.6′, 0° 50.6′); the degrees of notes f, g, o and p (C's 15 and 21 in the fourth house at 6° and 11°, C's 23 and 24 in the sixth at 27° and 28°, against O's 14, 19, 13 and 14) are those that the order of the columns requires. At 21° in the second house and 6° in the sixth (notes b and s) O's 57 and 54 are the nearer to the computation, 13° 57.8′ and 1° 53.9′, by 1′.
+@obs N02: «36—29», the long dash of the range; the comma after «48» printed in two pieces. N04: «1(?)», C's reading with the question mark of the edition.

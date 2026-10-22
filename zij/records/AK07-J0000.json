@@ -1,0 +1,22 @@
+{
+ "anchor": "AK07-J0000",
+ "jp2_index": 0,
+ "jp2_member": "b24872489_0000.jp2",
+ "jp2_sha256": "32eee6659a36b87fed4a5edc6e7d52f08c2b89c8da7859f11f291874e9948cd4",
+ "reading_copy": "page_0000.jpg",
+ "reading_copy_sha256": "7f04c5e03e82750bdea99661df35e0bee85e025798d143ea9d2144dffb41a411",
+ "printed_page": "-",
+ "kind": "scan",
+ "language": null,
+ "role": "SCAN_EXTRINSIC",
+ "file": "suter",
+ "comment": "JP2 0000: the colour card of the digitisation, photographed before the book; not part of it.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The colour card of the digitisation: a chart of 24 colour patches («24ColorCard») in a holder labelled «APRIL2013», a white patch, a card marked «LEFT», and an angled ruler in inches and centimetres, on a black ground. Not part of the book; the navigation PDF of the Internet Archive omits this image."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,49 @@
+@page 85 53
+@lang de
+% JP2 0085: Suter's commentary, p. 53: chapter 10 continued: the end of the computation of Saturn after al-Battānī
+% (8° 50′ of Taurus); the same computation after al-Khwārizmī's tables: the anomaly, the corrected apogee, the centre
+% and its equation, the equation of the anomaly, the centrum ultimum (27° 12′ of Aries) (notes 1-4).
+@t | Centrum aequat. | | = | 144° 5′ 20″ |
+@t | Aequat. anomal.corr. | | = | 6° 14′ 20″ |
+@t | | | | 150° 19′ 40″ |
+@t | | Apogeum | = | 248° 30′ |
+@t | | addiert : | = | 398° 50′ |
+@t | | | | —360° |
+@t | | | = | 38° 50′ = {i:wahre Länge} |
+d. h. Saturn befand sich zu der gegebenen Zeit in 8° 50′ des Stiers.
+@c 2. Nach {sp:Al-Khwārizmī}.
+@t Mittlere Länge der Sonne (nach den Tafeln 4 u. 5, s. oben p. 42) | | | = | 131° 1′{sup:1}) |
+@t „ „ des Saturns (nach den Tafeln 9 u. 10) | | | = | 26° 33′ (386° 33′) |
+@t | Anomalie (Argumentum) | | = | 104° 28′ |
+@t | Mittlere Länge des Saturns | | = | 386° 33′ |
+@t | Sublimatio (Apogeum) definita (für 104° 28′) | | = | 242° 5′{sup:2}) |
+@t | | Centrum | = | 144° 28′ |
+@t | Hierzu gehört (nach Tafel 31) die Examinatio centri | | = | 4° 56′ 30″{sup:3}) |
+@t | | subtrahiert : | = | 139° 31′ 30″ |
+@p Dies ist das Centrum aequatum oder examinatum.
+@t | Anomalie | | = | 104° 28′ |
+@t | Examinatio centri | | = | 4° 56′ 30″{sup:3}) |
+@t | | addiert : | | 109° 24′ 30″ |
+@p Dies ist das Argumentum (Anomalia) examinatum. Zu diesem wird in Tafel 30
+die Examinatio argumenti ({i:elheza}), d. i. die Gleichung der Anomalie gesucht, sie ist
+= 5° 35′ 35″, diese ist zum Centrum examinatum = 139° 31′ 30″ zu addieren{sup:4}), dies
+gibt 145° 7′ : diese Grösse nennt {sp:Kh.} das Centrum ultimum ; addiert man dazu wieder
+die Sublimatio examinata = 242° 5′, so hat man die {i:wahre Länge} des Saturns für die
+gegebene Zeit, also = 387° 12′ = 27° 12′, d. h. der Saturn befand sich in 27° 12′ des
+Widders.
+@n {sup:1}) Die Sekunden lassen wir weg, wenn sie unter 30 sind, und runden sie zu 1′ auf, wenn sie
+@n über 30 sind.
+@n {sup:2}) Nach den Regeln des Textes muss man, wenn die Anomalie grösser als 180° ist, zu der
+@n Sublim. examin. noch die Examin. argumenti ({i:elheza}) addieren, und die Summe von der mittlern
+@n Länge des Planeten subtrahieren.
+@n {sup:3}) Ist das Centrum grösser als 180°, so muss die Examin. centri zum Centrum addiert, dagegen
+@n von der Anomalie subtrahiert werden.
+@n {sup:4}) Wenn das Argumentum (Anomalia) examinatum kleiner als 180° ist, dagegen vom Centrum
+@n examinatum zu subtrahieren, wenn das Argumentum examinatum grösser als 180° ist.
+@obs The page number «53» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L08 end the computation after al-Battānī begun on p. 52 (JP2 0084, L17-L32), which ends «gibt :». L09: «2. Nach Al-Khwārizmī.», centred, the name spaced.
+@obs L01-L07 and L10-L21: the computations, set as tables: the names are joined to the figures by dotted leaders (L01, L02, L04, L13-L15, L19, L20), which are not transcribed; the figures stand in a column after a column of «=»; L03, L05, L07, L12, L17 and L21 stand below short rules under the figures; L03 and L06 have no «=», and L21 «addiert :» none; in L11 the ditto marks „ stand under «Mittlere» and «Länge»; «Apogeum», «addiert :», «Anomalie (Argumentum)», «Centrum», «subtrahiert :» and «addiert :» are set further to the right than the other names. Each printed row is one line here, the cells separated by our «|»; the empty cells give the columns room and are not printed.
+@obs L01-L08. Checked: 144° 5′ 20″ + 6° 14′ 20″ = 150° 19′ 40″; + 248° 30′ = 398° 49′ 40″, written 398° 50′, the seconds rounded as note 1 says; less 360° 38° 50′, which is 8° 50′ of Taurus (from 30°).
+@obs L10-L28. Checked: 131° 1′ is the mean longitude of the sun of p. 42 (JP2 0074, L28), 131° 0′ 34″, rounded (note 1); 131° 1′ − 26° 33′ = 104° 28′; 386° 33′ − 242° 5′ = 144° 28′; 144° 28′ − 4° 56′ 30″ = 139° 31′ 30″; 104° 28′ + 4° 56′ 30″ = 109° 24′ 30″; 139° 31′ 30″ + 5° 35′ 35″ = 145° 7′ 5″, written 145° 7′; 145° 7′ + 242° 5′ = 387° 12′, less 360° 27° 12′, which is 27° 12′ of Aries. The two true longitudes, 38° 50′ and 27° 12′, differ by 11° 38′, of which 9° 40′ is the difference of the two mean longitudes, 396° 13′ and 386° 33′ (see p. 41, JP2 0073, L31-L38, and p. 50, JP2 0082, L36-L39). The values taken from Tables 9-10 and 30-31 are to be compared with the tables.
+@obs L14: «Sublimatio (Apogeum) definita», where L26 and p. 50 (JP2 0082, L08) have «Sublimatio examinata». L02: «anomal.corr.», set close: the gap after the point of «anomal.» measures 6-7 px, where the word space after «Aequat.» measures 22 px. L06: «—360°», the dash set close to the figures (5 px), where p. 45 (JP2 0077, L29) sets «— 360°» with a gap of 16 px.
+@obs N08: a speck above the final a of «Anomalia»; not transcribed. Spaced type, marked {sp:}: «Al-Khwārizmī», «Kh.»; italics: «wahre Länge» (L07, L26), «elheza» (L23, N04).
+@obs The colons and the semicolon stand after the thin space of the edition (12-17 px measured).

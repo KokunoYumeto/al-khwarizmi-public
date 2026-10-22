@@ -1,0 +1,42 @@
+@page 12 6
+% Frame 012, printed p. 6: the carrying continued, with examples in the second and third places that reach the fourth;
+% the characters by which the carried and the remaining numbers are written; the value of a figure by its place; how
+% to tell how many places a number has.
+si fuerint .{sc:x}. uel plus, fac de .{sc:x}. unum, et iterum pone eum
+in differentia tercia ; et quod remanserit infra .{sc:x}. maneat in
+suo loco. Quod autem dicimus plus .{sc:x}., hoc pertinet ad mul-
+tum numerum. Verbi gratia. Si fuerit in secunda uel tercia
+differentia magnus numerus, utpote si inueneris in differentia
+tercia,que est differentia centenorum, .{sc:ix}.;et si fuerint in dif-
+ferentia secunda .{sc:x}., facies de .{sc:x}. unum, et mutabis eum ad
+terciam differentiam, ubi iunges eum cum .{sc:ix}. , et fiunt .{sc:x}. :
+facies unum de ipsis .{sc:x}.,et mutabis eum in quarta differentia,
+et ibi erit mille. Si uero inuenisses in secunda differentia .{sc:xx}.,
+et facies de eis duo, addensque duo super .{sc:ix}. in tercia diffe-
+rentia, et fierent .{sc:xi}.: faceres iterum de .{sc:x}. unum, et mutares
+eum ad quartam differentiam,ubi esset mille, et remanet unum
+in tercia differentia : et ideo dicit .{sc:x}. uel plus. Et hoc scien-
+dum, quare cum mutaueris numerum,et posueris eum in se-
+quenti differentia, debes ponere per caracteres suos, idest si
+fuerint .{sc:x}. , pones pro eis caracterem qui significat in prima
+differentia unum; et si fuerint .{sc:xx}., pones pro eis caracterem
+qui significat in prima differentia duo, et sic de ceteris intel-
+lige.Si uero remanserit in eadem differentia,de qua mutasti nu-
+merum, aliquid ex numero, dimitte eum similiter per caracte-
+res suos, idest si remanserit unum uel duo, dimittes eum ibi
+per caracterem qui significat eundem numerum, idest si reman-
+serit unum, describes ibi caracterem unius; et si remanserint
+duo, describes ibi caracterem duorum et cetera. Set significa-
+bit unaqueque figura secundum quod fuerit differentia, idest
+in prima differentia significabit unitates ; in secunda dece-
+no ({i:sic}); in tercia centenos et cetera, sicut supra dictum est.
+@p Si autem fuerit numerus multus, et uolueris scire quotus sit,
+uel quot differentie sint in ipso, ut scribas eum in libro, uel
+loquaris de eo, scito quod non sit in aliqua differentia plus
+.{sc:ix}., nec minus uno, nisi circulus sit qui nichil est. Cum ergo
+uolueris hoc scire, numera differentias, incipiens a prima que
+@obs The page number «( 6 )» stands at the head of the page, centred. The page has no footnotes and no signature.
+@obs L27-L28: «dece-|no (sic)»: the edition prints «deceno», divided at the end of L27, and marks the form with «(sic)» in italics; a reader has written an «s» in pencil between «no» and the bracket (see the copy matter), which makes it «decenos». The «s» is lighter than the print (its darkest pixels 90-140, where the letters of the line are darker than 90).
+@obs L12: «.xi.:» is a printed colon, to which a reader has added a tail in pencil below the lower dot (darkest pixel 87); the semicolons of L02, L06, L18, L24, L27 and L28 are printed (darkest pixel of the tail 46 to 70).
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): without a space after the mark, L06 «tercia,que» (4 px) and «.ix.;et» (11 px, the median word space of the line 17 px), L15 «numerum,et» (9 px, median 17 px), L09 «.x.,et» (5 px), L13 «differentiam,ubi» (6 px), L20 «lige.Si» (9 px, median 14) and «differentia,de» (7 px); with a space before the mark, L02 «tercia ;» (18 px), L08 «.ix. ,» (21 px) and «.x. :» (11 px), L14 «differentia :» (10 px), L17 «.x. ,» (20 px) and L27 «unitates ;» (12 px). L12 «.xi.:» and L18 «.xx.,» have 8 px before the mark, without a space.
+@copy A reader's notes in pencil: in the left margin, «ibique» beside L08 and «quartam differentiam» beside L09; L09, a stroke over «.x.»; beside L15, «quia» and a second word, with «quare» underlined in the line; L16, a small stroke between «idest» and «si»; L12, a tail added below the colon of «.xi.:»; L28, an «s» written between «no» and «(sic)»; L32, a stroke before «.ix.,». Not part of the edition.

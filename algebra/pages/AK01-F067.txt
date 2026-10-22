@@ -1,0 +1,38 @@
+@page 67 ٥١
+% Frame 067, printed p. 51: the twenty-sixth of the various problems: a quantity multiplied by its two thirds gives
+% five (two thirds of a square equal five; completed, a square equals seven and a half, whose root is the quantity);
+% the twenty-seventh, «فان قال» in bold: two quantities that differ by two dirhams, the smaller divided by the larger
+% giving a half (two and four), the eighth problem of frame 060 again; the twenty-eighth, «فان قال» in the face of the
+% text: a dirham divided among some men, each receiving a thing; one man added, each receives a sixth of a dirham
+% less; the rule and its working to a square and a root equal to six dirhams, continued on the next page. Below the
+% rule two footnotes of the editors.
+مال ضربته فى ثلثيه فبلغ خمسة {n:١} . فقياسه أن تضرب شيئاً فى ثلثى شىء فيكون
+ثلثى مال تعدل خمسة فأكمله بمثل نصفه وزد على الخمسة مثل نصفها فيصير معك
+مال يعدل سبعة ونصفاً فخذ جذرها وهو الشىء الذى تريد أن تضربه فى ثلثيه
+فيكون خمسة . {b:فان قال} مالان بينهما درهمان قسمت القليل على الكثير فأصاب
+القسم نصف درهم . قياسه أن تضرب شيئاً ودرهمين فى القسم وهو نصف فيكون
+نصف شىء ودرهما تعدل شيئاً فالق نصف شىء بنصف شىء يبقى درهم يعدل نصف
+شىء فأضعفه فيكون معك شىء يعدل درهمين وهو أحد المالين والمال الآخر
+أربعة . فان قال قسمت درهما على رجال فأصابهم شىء ثم زدت فيهم رجلا ثم
+قسمت عليهم درهما فأصابهم أقل من القسم الأول بسدس درهم {n:٢} . فقياسه أن
+تضرب عدد الرجال الأولين وهم شىء فى النقصان الذى بينهم ثم تضرب
+ما اجتمع فى عدد الرجال الأولين والآخرين ثم تقسم ما اجتمع على ما بين الرجال
+الأولين والآخرين فانه يخرج مالك الذى قسمته فاضرب عدد الرجال الأولين
+وهم شىء فى السدس الذى بينهم فيكون سدس جذر ثم اضرب ذلك فى عدد
+الرجال الأولين والآخرين وهو شىء وواحد يكون سدس مال وسدس جذر
+مقسوم على درهم تعدل درهما فكمل المال الذى معك وهو أن تضربه فى ستة
+فيكون معك مال وجذر فاضرب الدرهم فى ستة فيكون ستة دراهم فيكون مالا
+وجذراً تعدل ستة دراهم فنصف الجذر وأضربه فى مثله فيكون ربعاً فزده على
+@ednotes ١ ٢ 4
+@obs L04: the words فان قال (L04) are printed in a bold face, the run-in heading of the twenty-seventh of the various problems, as on frames 055-062 and 066; the bold ن is printed without its dot and the two dots of the bold ق run together; transcribed ن and ق. L08 introduces the twenty-eighth with فان قال (L08) in the face of the text.
+@obs L04-L08: the twenty-seventh problem, two quantities that differ by two dirhams, the smaller divided by the larger giving a half, is the eighth of the various problems of frame 060, stated in the same words, «مالان بينهما درهمان قسمت القليل على الكثير فأصاب القسم نصف درهم» (frame 060, L05), and solved again in shorter form, with the same result, two and four.
+@obs L03: فخذ is printed with the head of the ف set on the خ, as on frames 052 and 061.
+@obs After ة and the hamza on the line, a word space is transcribed where the gap is 16 or 15 px or more (nearest approach of the letter bodies at 400 ppi); the narrowest such gaps on this page: ستة فيكون (L16; 20), ستة دراهم (L16; 19, L17; 23), شىء بنصف (L06; 20), شىء فى (L13; 17), where شىءفيكون on frame 064, L07, set without a space, has 7.
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: فى عدد, على ما and الرجال الأولين (L11), فى ستة (L16; 8 between the ى and the س).
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after خمسة, before the bold فان (L04; 27 and 25), after درهم, before قياسه (L05; 21 and 21), after أربعة, before فان (L08; 20 and 25). The note marks (١) and (٢) stand in a space after خمسة (L01; 36 px) and درهم (L09; 34 px), and each is followed by a full stop in a space (26 and 27 px in L01, 25 and 26 in L09).
+@obs L16 is printed in a worn type, like the last lines of frames 055 and 058: the heads of the م of مال and of مالا are open, the upper part of the alif of مال (29 px) stands apart, the top of the لا of مالا stands apart, and the alif of دراهم is broken in two (31 and 15 px, where the alif of مالا in the same line is 57 px high); L17: the dot of the ف of فى before مثله is printed as a hollow, broken mark (11 by 11 px) 11 px above the head of the letter. None of these marks is a vowel sign; the letters are transcribed plain.
+@obs Plain alif where a hamza might be expected, as printed: فالق (L06), فان (L08), اجتمع (L11, twice), فانه, فاضرب (L12), اضرب (L13), فاضرب (L16); with hamza: أن (L01, L03, L05, L09, L15), فأكمله (L02), فأصاب (L04), فأضعفه, أحد (L07), أربعة, فأصابهم (L08), فأصابهم, أقل, الأول (L09), الأولين (L10, L11; L12, twice; L14), وأضربه (L17), where the same imperative has a plain alif on frames 063 and 064 (واضربها, واضرب); with madda: الآخر (L07), والآخرين (L11, L12, L14); on ي: شيئاً (L01, L05, L06); the hamza on the line: شىء (L01; L06, three times; L07, twice; L08, L10, L13, L14), الشىء (L03).
+@obs With tanwīn on the final alif: شيئاً (L01, L05, L06), ونصفاً (L03), وجذراً, ربعاً (L17); without tanwīn as printed: ودرهما (L06), درهما (L08, L09, L15), رجلا (L08), مالا (L16).
+@obs The final yā' is printed without dots: فى throughout, ثلثى (L01, L02), على (L02, L04, L08, L11, L15, L17), الذى (L03, L10, L12, L13, L15), يبقى (L06).
+@obs The print stretches الكثير (L04) and والمال (L07) with the elongation stroke; the stroke is not transcribed.
+@obs Notes (١) and (٢) of the editors restate the twenty-sixth and the twenty-eighth problems in modern notation: (١) two thirds of the square of the quantity equal five, the quantity the root of seven and a half; (٢) the difference of a dirham divided among x men and among x and one men is a sixth, which they rewrite as a sixth of x times x and one equal to one, and they remark that this last form is the one al-Khwārizmī uses. Neither note is reproduced.

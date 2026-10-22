@@ -1,0 +1,22 @@
+{
+ "anchor": "AK07-J0140",
+ "jp2_index": 140,
+ "jp2_member": "b24872489_0140.jp2",
+ "jp2_sha256": "c28e090bb7c02b97e09d2b34bef925acd63e4d7aedc2a8c72221aaf2ab734b02",
+ "reading_copy": "page_0140.jpg",
+ "reading_copy_sha256": "ecb653f9b9bb698d3ed117fbbb8fb6f171b9ce84bcdf575cdfecaa6f7750b4dd",
+ "printed_page": "[108]",
+ "kind": "blank",
+ "language": null,
+ "role": "blank",
+ "file": "suter",
+ "comment": "JP2 0140: the back of the part title, p. [108]; nothing printed.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Blank. The word «TAFELN» of p. [107] shows through the leaf, mirrored; damp stains run down from the top; small specks."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

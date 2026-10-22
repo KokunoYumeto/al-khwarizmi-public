@@ -1,0 +1,49 @@
+@page 22 16
+% Frame 022, printed p. 16: the example of division concluded: the divisor moved under 1108, the figure 3, the
+% remainder 136, the quotient 143 and 136 parts of 324; division by a single place, 1800 by 9, with circles.
+super tres unum. Iterum mutabis numerum super quem diui-
+dis, idest {sc:iiii}.{sup:or} sub {sc:viii}., erunt duo sub circulo et tres sub
+uno: postea scribes in directo {sc:iiii}. super numerum superiorem
+quem diuidis in ordine .{sc:iiii}., atque unius tres, quos multipli-
+cabis in tribus, et erunt .{sc:ix}.; minuesque eos de eo quod est
+supra tres, qui sunt {sc:xi}., et remanebunt super tres duo. Mul-
+tiplicabis quoque tres in duobus qui succedunt tres, et erunt
+{sc:vi}., quo minues de eo quod est supra tres qui sunt .{sc:xx}. ,
+remanebunt .{sc:xiiii}. Iterum multiplicabis predictos tres in
+.{sc:iiii}.{sup:or} qui succedunt duos, et erunt {sc:xii}. ; minuesque eos de
+eo quod super illos est, qui sunt {sc:cxxviii}., et remanebunt su-
+pra .{sc:iiii}. sex, et supra duos tres, et supra tres unum. Exibit-
+que nobis quod debetur uni ex eis; et hoc erit .{sc:cxliii}. ,
+et {sc:cxxxvi}.partes de .{sc:ccc}.{sc:xxiiii}. partibus unius: et hec figura
+eorum.
+@m car. 107 {i:verso}.
+@p | Et si uolueris diuidere differentias plures super unam, ut
+pote mille .{sc:dccc}. per .{sc:ix}., scribes mille octingentos, quorum
+figura est, ut ponas uersus dexteram duos circulos : postea
+.{sc:viii}.; deinde unum: post hec ponas .{sc:ix}. sub .{sc:viii}., eo quod
+sint plus .{sc:viii}. : deinde scribes in directo eius super octo ali-
+quid,quod cum multiplicaueris in .{sc:ix}.,consumet quod est super
+se , idest {sc:xviii}. qui sunt super .{sc:ix}.; inueniesque illud esse
+duo, quos multiplicabis .{sc:ix}. {sc:ix}. et erunt .{sc:xviii}.; minuesque
+eos de eo quod est desuper, et nichil remanebit : de inde
+muta .{sc:ix}. una differentia uersus dexteram, et fient sub cir-
+culo. Ponesque aliquid de super, quod cum multiplicaueris
+in .{sc:ix}., nichil erit: quare est circulus super .{sc:ix}., et nullus nu-
+merus est ibidem. Pones ergo circulum in directo .{sc:ix}. in or-
+dine duorum, et multiplicabis .{sc:ix}. in circulo, eritque circulus,
+idest nichil. Post hec muta etiam .{sc:ix}. ad differentiam que est
+ante eam, que est prima differentia; eruntque .{sc:ix}.sub circulo:
+et fac de eis quem admodum fecisti de circulo qui erat eos ({i:sic}).
+Eruntque ibidem duo circuli, post quos erunt duo qui sunt
+@obs The page number «( 16 )» stands at the head of the page, centred. The page has no footnotes and no signature.
+@obs L01-L15: the division of 46468 by 324 concluded (pp. 14-15, frames 020-021). The divisor is moved under 1108, the remainder of the second round: four under eight, two under the circle, three under one. The quotient figure three: three by three, nine, from eleven leaves two; three by two, six, from twenty leaves fourteen; three by four, twelve, from «cxxviii.», printed for 148 (see the critical note), leaves six above the four, three above the two and one above the three, 136. The result: «.cxliii.», 143, and «cxxxvi. partes de .ccc.xxiiii. partibus unius», 136 parts of 324 parts of one: 46468 = 324 × 143 + 136. L14-L15 «et hec figura eorum.»: the figure is not printed.
+@obs L16-L33: the second example, a number of several places divided by one place: «mille .dccc.», 1800, by «.ix.», 9: two circles, then eight and one; nine under eight; the quotient figure two, nine by two, eighteen, nothing remains; nine moved under the circle, a circle above it in the quotient; nine moved again to the first place, under a circle. The page ends in the course of the example.
+@obs L16: the vertical bar at the beginning of the paragraph marks the beginning of fol. 107 verso of the manuscript, which the note in the left margin, «car. 107 verso.», names; transcribed as a margin note.
+@obs L23: «quos multiplicabis .ix. ix.»: the numeral nine is printed twice, the second time without its opening point; see the critical note.
+@obs L14: «cxxxvi.partes» and «.ccc.xxiiii.» are printed without a space after the point. «unius:» is a colon; a dark wedge-shaped speck, 6 by 12 px, stands below the base line 8 px to the left of its lower dot, not joined to it; not transcribed.
+@obs L21: «consumet quod», the two words 10 px apart, where the other word spaces of the line are 12 to 14 px; transcribed with a space. L26: the bowl of the q of «quod» is broken, only its upper part printed beside the stem.
+@obs L32: «eos (sic)»: the edition marks the form with «(sic)» in italics.
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): with a space before the mark, L08 «.xx. ,» (22 px), L10 «xii. ;» (23 px), L13 «.cxliii. ,» (22 px), L18 «circulos :» (10 px), L20 «.viii. :» (13 px), L22 «se ,» (16 px) and L24 «remanebit :» (21 px); without a space after the mark, L21 «quid,quod» (6 px) and «.ix.,consumet» (9 px, the median word space of the line 14 px) and L31 «.ix.sub» (11 px, median 17 px). L03 «uno: postea» (12 px) has a space. Specks after the comma of L18 «est,» and after the point of L03 «iiii.», and pencil marks at L04 «tres,», L05 «tribus,» and L14 «unius:», shorten the measured gaps; the spaces there are read on the scan.
+@critical AK02-CN009 | wrong numeral | L11 | cxxviii. | cxlviii. | after the second figure of the quotient the places above the divisor hold one, four and eight: fourteen, the remainder of twenty less six (L08-L09), and the eight of 1108 (L02); three by four, twelve, taken from them leaves «sex … tres … unum», 136 (L12), which is 148 less 12, where 128 less 12 is 116 | high | the intermediate number reads 148; the remainder 136 and the result 143 and 136/324 are right
+@critical AK02-CN010 | repeated word | L23 | .ix. ix. | .ix. | the numeral nine is printed twice, the second time without its opening point, in «quos multiplicabis .ix. ix. et erunt .xviii.», multiply them (the two) by nine and they are eighteen; the sense and the parallel «quod cum multiplicaueris in .ix.» (L21) need it once | medium | none on the sense
+@copy A reader's notes in pencil: L07, «quoque» underlined; L08, «vi.» underlined; «super» in the left margin beside L12, with «supra» underlined; «quod» beside L14, with «et» underlined, and a hook below the colon of «unius:»; «duo» beside L18, with «duos» underlined; «inueniensque» beside L22, with «ni» of «inueniesque» marked; «quia» beside L27, with «quare» underlined; L33, an accent over the «e» of «ibidem». Not part of the edition.

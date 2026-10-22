@@ -1,0 +1,4 @@
+@page 291 -
+@kind blank
+% JP2 0291: the free endpaper at the end of the book, its recto; nothing printed.
+@obs A leaf of the binding without printed matter of the edition, the recto of the free endpaper after the last leaf of the book; small specks and creases.

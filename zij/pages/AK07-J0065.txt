@@ -1,0 +1,51 @@
+@page 65 33
+@lang de
+% JP2 0065: Suter's commentary, p. 33: the Persian tables and Ibn al-Qifṭī's report; the meridian of Arin (Ujjain);
+% the epoch of the Hijra and the radix of the sun in Table 4; Maslama's change of era; the name Ptolemy (notes 1-3).
+und sich wahrscheinlich auf den {i:Sūrya-Siddhānta} stützten. Besonders der Wert des
+Apogeums der Sonne und die Art der Berechnung der Gleichungen der Planeten
+könnten aus diesen persischen Tafeln genommen sein, sagt doch {sp:Ibn al-Ḳifṭī}{sup:1}) in
+seiner Biographie {sp:Al-Fazārīs} nach {sp:Ibn al-Adamī}{sup:2}) folgendes : „Er ({sp:Kh.}) stützte
+sich in seinen Tafeln auf die mittlern Örter des {i:Sindhind}, wich aber von ihm ab
+in den Gleichungen (der Planeten) und in der Schiefe (der Ekliptik) ; er setzte seine
+Gleichungen fest nach der Methode der {sp:Perser}, und die Deklination der Sonne
+nach der Methode des {sp:Ptolemäus}.“ Da die letztere Behauptung, wie wir unten
+sehen werden, richtig ist, so mag wohl auch die erste wahr sein, nachweisen können
+wir dies nicht, da diese persischen Tafeln nicht mehr vorhanden sind.
+@p Nach der Einleitung des Textes beziehen sich die Daten der Tafeln für die
+mittlern und wahren Örter von Sonne, Mond und Planeten (oder wie die Araber
+sagen, der sieben Planeten) auf den Meridian von {i:Arin} (falsche Schreibweise für
+{i:Azīn} oder {i:Uzain}, und dieses wieder die arabische Form für das indische {i:Udjain}, in
+Sanskrit {i:Ujjayini}), im nördlichen Vorder-Indien gelegen, (g. B. 23° 11′, g. L. 75° 52′ Gr.)
+Was die Zeit anbetrifft, worauf sich die {i:Radix} der verschiedenen Tafeln jeweilen
+bezieht, so ist als Anfangszeitpunkt angegeben der Mittag des 1. {i:Muḥarram} des Jahres 1
+der Hidjra (d. i. der 15. Juli 622 n. Chr.) ; z. B. in Tafel 4 steht als Radix für die
+Sonne 3{sup:s} 23° 25′ 48″ (= 113° 25′ 48″), d. h. dies war die mittlere Länge der Sonne am
+Mittag (astron. Beginn des Tages bei den meisten arab. Astronomen) des 1. {i:Muḥarram}
+des Jahres 1 der {i:Hidjra} für den Meridian von {i:Arin}. {sp:Maslama al-Madjrīṭī} hat also,
+wie wir schon in der Einleitung bemerkt haben, die {i:Aera} {sp:Yezdegirds} (Beginn am
+16. Juni 632 n. Chr.), die {sp:Kh.} zu Grunde gelegt hatte, durch die muhammedanische
+ersetzt, den Meridian von {i:Arin} aber hat er beibehalten ; dies gilt aber nur für die
+Tafeln der mittlern und wahren Bewegung der Sonne, des Mondes und der fünf
+Planeten ; wir werden später sehen, dass {sp:Maslama} eine Reihe von Tafeln (besonders
+die der Konjunktionen, Oppositionen und Finsternisse) auf den Meridian von {i:Cordova}
+bezogen hat. Es ist also die Möglichkeit nicht ausgeschlossen, dass diese Tafeln
+ursprünglich nicht im Werke {sp:Kh.}’s enthalten waren ; hierauf hindeutende Angaben
+hat ja, wie wir in der Einleitung gesehen haben, der spanische Gelehrte {sp:Ibn Ṣāʿid}
+gemacht, und {sp:Ibn al-Ḳifṭī}{sup:3}) hat sie wiederholt ; doch wäre in diesem Falle das
+Werk {sp:Kh.}’s auch gar zu unbedeutend gewesen, denn gerade diese Tafeln gehören
+zu den wichtigsten eines astronomischen Werkes.
+@p In dieser Einleitung tritt auch der einzige Eigenname auf, den ausser denen
+des Verfassers und des Übersetzers diese Tafeln enthalten, der Name „{sp:Ptolomaeus}“,
+Man sieht also, was sich auch aus dem Studium der Tafeln ergibt, dass {sp:Kh.} schon,
+wie dann die spätern Astronomen, insbesondere {sp:Batt.}, sich auf den {i:Almagest} des
+{sp:Ptolemäus} stützte, und also auch durch diesen wesentlich beeinflusst worden ist,
+was sich im Laufe unserer Betrachtung an verschiedenen Stellen zeigen wird.
+@n {sup:1}) Vergl. die Ausgabe von {sp:Lippert}, Leipzig, 1903, p. 270—271.
+@n {sup:2}) Vergl. H. {sp:Suter}, {i:Die Mathematiker und Astronomen der Araber}, etc. p. 44.
+@n {sup:3}) Edid. {sp:Lippert}, p. 326.
+@obs The page number «33» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «5» on the right; recorded here, not transcribed as a line.
+@obs L19: «3s 23° 25′ 48″ (= 113° 25′ 48″)», the s raised. Checked: three signs of 30 degrees and 23 degrees are 113 degrees. To be compared with Table 4. L18: the epoch of the Hijra, 15 July 622; L23: the era of Yazdegird, 16 June 632. Checked: 15 July 622 (Julian) is the day 1948439 of the Julian period, a Thursday, the astronomical epoch of the Hijra; 16 June 632 is the day 1952063, a Tuesday, the epoch of the era of Yazdegird; the two epochs are 3624 days apart.
+@obs Spaced type, marked {sp:}: the names, «Kh.», «Perser», «Ptolemäus», «Ptolomaeus», «Batt.», «Lippert», «Suter»; italics: the Indian and Arabic words and names of places, «Radix» (L16), «Muḥarram», «Hidjra» (L21), «Aera», «Almagest» and the title in N02. L18: «Radix» and «Hidjra» upright. L15: «(g. B. 23° 11′, g. L. 75° 52′ Gr.)», geographical latitude and longitude east of Greenwich, with no stop after the bracket.
+@obs The colon and the semicolons stand after the thin space of the edition (12-14 px measured).
+@critical AK07-CN048 | wrong punctuation | L35 | der Name „Ptolomaeus“, | der Name „Ptolomaeus“. | the sentence ends at the name: the next line begins a new sentence with a capital, «Man sieht also»; a comma is printed after the closing quotation mark | high | none

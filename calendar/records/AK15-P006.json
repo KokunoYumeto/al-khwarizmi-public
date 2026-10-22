@@ -1,0 +1,216 @@
+{
+ "anchor": "AK15-P006",
+ "pdf_page": 6,
+ "printed_page": "٥",
+ "kind": "text",
+ "role": "AK_TEXT (the printed witness of al-Khwarizmi's treatise)",
+ "image_raw_stream_sha256": "0cd9f69d949e65766adc0531b12862e0607be28d1c80b4a0f9f110c8717510dc",
+ "image_decoded_pixels_sha256": "08c4fca71141110987559822dc71384d4311f8b4d6ab81a8156a03d732c8aa24",
+ "comment": "PDF 6, printed p. 5: the end of the nineteen-year cycle, years 16-19 (de Blois's section 3); the hour of 1080 parts, the lunar month of 29 days 12 hours 793 parts, the lunar years of twelve and thirteen months and the cycle of 6939 days (section 4); the beginning of the rules for the first day of Tishri and the length of the year, later called the four gates (section 5).",
+ "lines": [
+  {
+   "id": "AK15-P006-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "والسنة السادسة عشر اذار واذار ـ السنة السابعة عشر اذار السنة",
+   "plain": "والسنة السادسة عشر اذار واذار ـ السنة السابعة عشر اذار السنة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "الثامنة عشر اذار ـ السنة التاسعة عشر اذار واذار ـ آخر الساعة",
+   "plain": "الثامنة عشر اذار ـ السنة التاسعة عشر اذار واذار ـ آخر الساعة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "من ساعات القمر ـ ١٠٨٠ ـ وشهر القمر من ميلاد الى ميلاد تسعة",
+   "plain": "من ساعات القمر ـ ١٠٨٠ ـ وشهر القمر من ميلاد الى ميلاد تسعة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "وعشرون يوما واثنا عشر ساعة ـ ٧٩٣ ـ جزء •",
+   "plain": "وعشرون يوما واثنا عشر ساعة ـ ٧٩٣ ـ جزء •",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L05",
+   "n": 5,
+   "kind": "indent",
+   "text": "واما سنة القمر فاذا كانت اثنا عشر شهرا ثلثمائة واربعة",
+   "plain": "واما سنة القمر فاذا كانت اثنا عشر شهرا ثلثمائة واربعة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "وخمسون يوما وثمان ساعات ـ ٨٧٦ ـ جزءا واذا كانت ثلاثة عشر",
+   "plain": "وخمسون يوما وثمان ساعات ـ ٨٧٦ ـ جزءا واذا كانت ثلاثة عشر",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "شهرا فايامها ـ ٣٨٣ ـ يوما و ـ ٢١ ـ ساعة و ـ ٤٨٩ ـ جزء",
+   "plain": "شهرا فايامها ـ ٣٨٣ ـ يوما و ـ ٢١ ـ ساعة و ـ ٤٨٩ ـ جزء",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "واما المحزور الصغير فهى تسع عشرة سنة معبرة تكون بسنى القمر",
+   "plain": "واما المحزور الصغير فهى تسع عشرة سنة معبرة تكون بسنى القمر",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "تسع عشرة سنة وسبعة اشهر ويكون عدد ايامها ـ ٦٩٣٩ ـ يوما",
+   "plain": "تسع عشرة سنة وسبعة اشهر ويكون عدد ايامها ـ ٦٩٣٩ ـ يوما",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "وست عشرة ساعة و ـ ٤٩٤ ـ جزء كل تشرى سنة فيها عبور لولد",
+   "plain": "وست عشرة ساعة و ـ ٤٩٤ ـ جزء كل تشرى سنة فيها عبور لولد",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "قمره قبل ـ ٤٩١ ـ يمضى من الساعة التاسعة من يوم الجمعة فان رأس",
+   "plain": "قمره قبل ـ ٤٩١ ـ يمضى من الساعة التاسعة من يوم الجمعة فان رأس",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "تشرى يوم السبت وتكون مرحشوان وكسليو ناقصين فان لم تكن",
+   "plain": "تشرى يوم السبت وتكون مرحشوان وكسليو ناقصين فان لم تكن",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "فى تلك السنة عبور ولا فى السنة المقبلة وولد القمر قبل ان يمضى ـ",
+   "plain": "فى تلك السنة عبور ولا فى السنة المقبلة وولد القمر قبل ان يمضى ـ",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "٤٠٨ ـ جزءا من الساعة الاولى من ليلة الجمعة فان رأس تشرى",
+   "plain": "٤٠٨ ـ جزءا من الساعة الاولى من ليلة الجمعة فان رأس تشرى",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "يوم السبت ويكون مرحشوان وكسليو ناقصين وان ولد القمر بعد",
+   "plain": "يوم السبت ويكون مرحشوان وكسليو ناقصين وان ولد القمر بعد",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "١٠٩ ـ الى حد يوم السبت فان رأس تشرى يوم السبت ويكون",
+   "plain": "١٠٩ ـ الى حد يوم السبت فان رأس تشرى يوم السبت ويكون",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "مرحشوان وكسليو تامين فان لم يكن فى السنة عبور وكان فى السنة",
+   "plain": "مرحشوان وكسليو تامين فان لم يكن فى السنة عبور وكان فى السنة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "المقبلة عبور وولد القمر قبل ـ ٢٠٤ ـ الى حد يوم السبت ويكون",
+   "plain": "المقبلة عبور وولد القمر قبل ـ ٢٠٤ ـ الى حد يوم السبت ويكون",
+   "cells": null
+  },
+  {
+   "id": "AK15-P006-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "مرحشوان وكسليو تامين وكل تشرى سنة فيها عبور لولد قمره",
+   "plain": "مرحشوان وكسليو تامين وكل تشرى سنة فيها عبور لولد قمره",
+   "cells": null
+  }
+ ],
+ "unresolved": [
+  "L02: «آخر الساعة من ساعات القمر ـ ١٠٨٠»: the sentence gives the number of parts in an hour (1080, de Blois's section 4); «آخر», «the last», gives no clear sense here (اجزاء الساعة, «the parts of the hour»?); the print is kept."
+ ],
+ "observations": [
+  "The running head «استخراج تاريخ اليهود للخوارزمى» stands at the head of the page, the page number «٥» at its left; recorded here, not transcribed as a line. L05 begins with a paragraph indent; L08 does not. L04 ends with the edition's full stop (•); after «جزء» in L10 no stop is printed, only a small mark above the hamza.",
+  "The numbers are printed in Arabic-Indic digits between dashes (written ـ, as on p. 4, PDF 5). L16: the last digit of «١٠٩» is a small loop (13 px) set high, without the stem of the nine, so that it stands at the height of the tops of the other digits; read ٩. L13: «ولا فى» is set close, «ولافى»; L15: «ويكون مرحشوان» is set without a space; the words are divided by the sense.",
+  "Read as printed: L02 «آخر الساعة», with the madda; L05 «ثلثمائة»; L06 «وثمان»; L07 «شهرا فايامها» set «شهر افايامها»; L10 «عبور», the Hebrew ‘ibbur; L11 «يمضى».",
+  "Checked: twelve months of 29 days 12 hours 793 parts make 354 days 8 hours 876 parts, as L05-L06 print; thirteen make 383 days 21 hours 589 parts (L07 prints 489); the nineteen-year cycle of 235 months, 12 x 354d 8h 876p + 7 x 383d 21h 589p, makes 6939 days 16 hours 595 parts (L09-L10 print 6939 days 16 hours 494 parts). The day of L11-L19 begins at nightfall, so that «the ninth hour of Friday» is the twenty-first hour of the Jewish day (from 20 hours to 21 hours after nightfall) and «the first hour of the night of Friday» its first hour: the limits of L11 and L14 are Friday 20h 491p and Friday 0h 408p of the later reckoning, both limits of the four gates of the standard calendar (calendar/checks/gates.py). The 204 of L18 is Friday 9h 204p, the limit of the gates for a common year followed by a leap year (AK15-CN013)."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK15-CN010",
+   "class": "wrong figure",
+   "line": "L07",
+   "printed": "٤٨٩",
+   "proposed": "٥٨٩",
+   "evidence": "thirteen lunar months of 29d 12h 793p make 383 days 21 hours 589 parts (13 x 793 = 10309 parts = 9 hours 589 parts), as the twelve-month year of L05-L06 (354d 8h 876p) plus one month gives (876 + 793 = 1669 parts = 1 hour 589 parts); the five is printed as a four, as de Blois describes for the numerals of this edition",
+   "confidence": "high",
+   "impact": "the length of the thirteen-month year"
+  },
+  {
+   "id": "AK15-CN011",
+   "class": "wrong figure",
+   "line": "L10",
+   "printed": "٤٩٤",
+   "proposed": "٥٩٥",
+   "evidence": "the cycle of 235 lunar months makes 6939 days 16 hours 595 parts (235 x 793 = 186355 parts = 172 hours 595 parts), the sum of twelve years of 354d 8h 876p and seven of 383d 21h 589p; L09-L10 have the days and hours right; both fives of 595 are printed as fours",
+   "confidence": "high",
+   "impact": "the length of the cycle"
+  },
+  {
+   "id": "AK15-CN012",
+   "class": "wrong figure",
+   "line": "L16",
+   "printed": "١٠٩",
+   "proposed": "٤٠٨",
+   "evidence": "L13-L16 give the two cases of a year that is common and is followed by a common year: a molad before 408 parts of the first hour of the night of Friday gives the first of Tishri on Saturday with Marheshvan and Kislev deficient, «وان ولد القمر بعد ...» the same Saturday with both full; the dividing limit is the same 408 parts, the limit Friday 0h 408p of the four gates of the standard calendar (calendar/checks/gates.py)",
+   "confidence": "medium",
+   "impact": "the limit of the full year"
+  },
+  {
+   "id": "AK15-CN013",
+   "class": "omission",
+   "line": "L18",
+   "printed": "وولد القمر قبل ـ ٢٠٤ ـ الى حد يوم السبت ويكون مرحشوان وكسليو تامين",
+   "proposed": "وولد القمر قبل ـ ٢٠٤ ـ [جزءا يمضى من الساعة العاشرة من ليلة الجمعة فان رأس تشرى يوم السبت ويكون مرحشوان وكسليو ناقصين وان ولد القمر بعد ـ ٢٠٤ ـ] الى حد يوم السبت ويكون مرحشوان وكسليو تامين",
+   "evidence": "L17-L19 give the case of a common year followed by a leap year; for it the four gates of the standard calendar (calendar/checks/gates.py) give two cases divided by one limit: a molad from Thursday 18h to Friday 9h 204p, the first of Tishri on Saturday with the year deficient (353 days), and from Friday 9h 204p to Saturday 18h, Saturday with the year complete (355 days); Friday 9h 204p is 204 parts of the tenth hour of the night of Friday; the print keeps the beginning of the first case («قبل ـ ٢٠٤ ـ») and the end of the second («الى حد يوم السبت ... تامين»), as when the eye passes from the first ٢٠٤ to the second; the words in brackets follow the parallel sentence of L13-L17 and are not attested; «فان رأس تشرى يوم السبت» may also be missing before «ويكون» (cf. L16)",
+   "confidence": "medium",
+   "impact": "the rule for a common year followed by a leap year"
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+@page 178 -
+@kind blank
+% Frame 178: the back of the sheet of plate IV; nothing printed.
+@obs Blank. The map of plate IV (frame 177) shows through faintly from the other side of the sheet.

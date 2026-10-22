@@ -1,0 +1,195 @@
+{
+ "anchor": "AK15-P004",
+ "pdf_page": 4,
+ "printed_page": "٣",
+ "kind": "text",
+ "role": "AK_TEXT (the printed witness of al-Khwarizmi's treatise)",
+ "image_raw_stream_sha256": "eba5d02588827d9a411cb31828b9f11e30e919cfacc9ba6283c250109a4d1f97",
+ "image_decoded_pixels_sha256": "3d1d09e59172d54dd928991575d38dd55beb4bd932e6fda6f478a5712997a9f6",
+ "comment": "PDF 4, printed p. 3: the end of the introduction (de Blois's section 1): the prophet had to use both the solar and the lunar year so that the Passover falls on the 15th of Nisan, the 14th night of the lunar month, unlike the reckoning of the Greeks and the Persians, who keep to the solar year; the computation of the courses of the sun and the moon; the nineteen-year cycle with seven added months, the small mahzor; the intercalated year and the last Adar; this knowledge kept by a few of the Israelites.",
+ "lines": [
+  {
+   "id": "AK15-P004-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "وابتلاء طاعتهم فيما جعل لهم السبيل ليجزيهم عما يعملون فلم يكن",
+   "plain": "وابتلاء طاعتهم فيما جعل لهم السبيل ليجزيهم عما يعملون فلم يكن",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "لنبى الله عليه السلام بد من اعمال سنة الشمس وسنة القمر ويتبين",
+   "plain": "لنبى الله عليه السلام بد من اعمال سنة الشمس وسنة القمر ويتبين",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "حسابهما والصاحة ولغير السنين التى سيأتى على تفسير العمل به فيها",
+   "plain": "حسابهما والصاحة ولغير السنين التى سيأتى على تفسير العمل به فيها",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "ليكون الفسح فى شهر الاوراد فى ليلة خمس عشرة من نيسان",
+   "plain": "ليكون الفسح فى شهر الاوراد فى ليلة خمس عشرة من نيسان",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "واربع عشرة ليلة من شهر القمر وذلك مخالف لحساب اليونانين",
+   "plain": "واربع عشرة ليلة من شهر القمر وذلك مخالف لحساب اليونانين",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "واهل فارس لاقتصارهم على سنة الشمس وشهورها وموافقة",
+   "plain": "واهل فارس لاقتصارهم على سنة الشمس وشهورها وموافقة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "شهور الاهلة ومخالفتها فامر صلى الله عليه ان يضع حسابا يدل فيه",
+   "plain": "شهور الاهلة ومخالفتها فامر صلى الله عليه ان يضع حسابا يدل فيه",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "على مسير الشمس والقمر وعدد ايام كل واحد منهما وفى كم يجتمعان",
+   "plain": "على مسير الشمس والقمر وعدد ايام كل واحد منهما وفى كم يجتمعان",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "اذا افترقا من الايام والساعات واجزائهما ومواضع الكواكب",
+   "plain": "اذا افترقا من الايام والساعات واجزائهما ومواضع الكواكب",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "السبعة ورأس السنين لليوم الذى خلق فيه آدم وجعل فى كل تسعة",
+   "plain": "السبعة ورأس السنين لليوم الذى خلق فيه آدم وجعل فى كل تسعة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "عشر سنة قمرية زيادة سبعة اشهر وسمى التسعة عشر بزيادتها",
+   "plain": "عشر سنة قمرية زيادة سبعة اشهر وسمى التسعة عشر بزيادتها",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "المحزور الصغير وتفسيره الدور ويسمى السنة التى تكون فيها زيادة",
+   "plain": "المحزور الصغير وتفسيره الدور ويسمى السنة التى تكون فيها زيادة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "اشهر من السبعة الاشهر السنة المعبرة وسمى ذلك الشهر الزايد",
+   "plain": "اشهر من السبعة الاشهر السنة المعبرة وسمى ذلك الشهر الزايد",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "اذار الاخير لحاجة جماعة بنى اسرائيل الى معرفته ولما فيه من الدلالة",
+   "plain": "اذار الاخير لحاجة جماعة بنى اسرائيل الى معرفته ولما فيه من الدلالة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "على ايامهم واعيادهم ومداخل رؤس شهورهم وسنى تاريخهم",
+   "plain": "على ايامهم واعيادهم ومداخل رؤس شهورهم وسنى تاريخهم",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "فضت القرون بعد القرون •",
+   "plain": "فضت القرون بعد القرون •",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L17",
+   "n": 17,
+   "kind": "indent",
+   "text": "وذلك محفوظ فى خاص خاصة من بنى اسرائيل ليس لهم",
+   "plain": "وذلك محفوظ فى خاص خاصة من بنى اسرائيل ليس لهم",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "كثير عدد وهو مستغلق على الجمهور الاعظم لاهمالهم النظر فيه",
+   "plain": "كثير عدد وهو مستغلق على الجمهور الاعظم لاهمالهم النظر فيه",
+   "cells": null
+  },
+  {
+   "id": "AK15-P004-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "ولقلة عنايتهم واتكالهم على المعرفة من اخبارهم فعملت فى ذلك",
+   "plain": "ولقلة عنايتهم واتكالهم على المعرفة من اخبارهم فعملت فى ذلك",
+   "cells": null
+  }
+ ],
+ "unresolved": [
+  "L03: «والصاحة ولغير السنين التى سيأتى على تفسير العمل به فيها»: the sense of «والصاحة» is not clear (والصحة? المصالحة?); the print is kept."
+ ],
+ "observations": [
+  "The running head «استخراج تاريخ اليهود للخوارزمى» stands at the head of the page, the page number «٣» at its left; recorded here, not transcribed as a line. L16 ends with the edition's full stop, a large round dot (•); L17 begins with a paragraph indent.",
+  "Read as printed: L01 «ليجزيهم», with a short horizontal mark above the ي (a broken shadda?), «عما»; L02 «لنبى», the final ى without dots; L03 «سيأتى» with the hamza on the alif; L05 «اليونانين», with one ي (for اليونانيين; the dots of the ن, the ي and the final ن measured: one above, two below, one above); L10 «ورأس» with the hamza; L12 «المحزور», the Hebrew mahzor (cycle); L13 «المعبرة» (Hebrew ‘ibbur, the intercalated year) and «الزايد» with ي for the hamza; L14 «اذار الاخير», the second Adar; L15 «رؤس». The spacing after letters that do not join is as irregular as on p. 2 (PDF 3); the words are divided by the sense.",
+  "L16: the first letter of «فضت» is a filled loop with a dot (9 px) standing 17 px above it; no letter of L15 above it has a dot below; read ف."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK15-CN004",
+   "class": "wrong letter",
+   "line": "L16",
+   "printed": "فضت",
+   "proposed": "مضت",
+   "evidence": "«ومداخل رؤس شهورهم وسنى تاريخهم مضت القرون بعد القرون», «as century followed century»: the verb is مضت; ف (a loop with a dot above) and م (a loop without one) differ by the dot",
+   "confidence": "medium",
+   "impact": "none"
+  },
+  {
+   "id": "AK15-CN005",
+   "class": "probable misprint",
+   "line": "L13",
+   "printed": "زيادة اشهر من السبعة الاشهر",
+   "proposed": "زيادة شهر من السبعة الاشهر",
+   "evidence": "the intercalated year receives one of the seven months added in the cycle (L11), and the next words name «that added month», «ذلك الشهر الزايد», the last Adar; «اشهر», months, has an alif too many",
+   "confidence": "medium",
+   "impact": "none"
+  }
+ ]
+}

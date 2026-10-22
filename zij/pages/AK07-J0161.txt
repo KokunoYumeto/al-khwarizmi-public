@@ -1,0 +1,54 @@
+@page 161 129
+@lang la
+% JP2 0161: Tab. 18, p. 129: the anomaly of Mercury in 1-30 days, in 1-24 hours and in 2-60 minutes of an hour,
+% in signs, degrees, minutes and seconds, with the apparatus (notes 1-6 and a-u).
+@c {b:Elheza Ozari} (O)
+@m C 52{sup:r}, O 109{sup:r},
+@c {b:Heca avtarid} (C)
+@m N 33{sup:r}.
+@c {b:Argumentum Mercurii} (N)
+@tw size=footnotesize span=1.1 1.2 0.8 0.8 0.9 0.9 1.2 0.8 0.8 0.9 0.9 1.25 0.8 0.8 0.9 0.9
+@t Numerus | Heza Mercurii | | | | Numerus | Heza Mercurii | | | | Partes{sup:3}) | Heza Mercurii | | |
+@t dierum | in diebus{sup:1}) | | | | horarum | in horis{sup:2}) | | | | horarum | in partibus horarum{sup:4}) | | |
+@t | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:5}) | {b:Sec.}{sup:6}) | | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.} | | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 1 | 0 | 3 | 6 | 24 | 1 | 0 | 0 | 7{sup:l}) | 46 | 2 | 0 | 0 | 0 | 15
+@t 2 | 0 | 6 | 12 | 48 | 2 | 0 | 0 | 15{sup:m}) | 32 | 4 | 0 | 0 | 0 | 31
+@t 3 | 0 | 9 | 19 | 12 | 3 | 0 | 0 | 23 | 18 | 6 | 0 | 0 | 0 | 47
+@t 4 | 0 | 12 | 25 | 36{sup:g}) | 4 | 0 | 0 | 31 | 4 | 8 | 0 | 0 | 1 | 2
+@t 5 | 0 | 15 | 32 | 1 | 5 | 0 | 0 | 38 | 50 | 10 | 0 | 0 | 1 | 18
+@t 6 | 0 | 18 | 38 | 25 | 6 | 0 | 0 | 46 | 36 | 12 | 0 | 0 | 1 | 33
+@t 7 | 0 | 21 | 44 | 49 | 7 | 0 | 0 | 54 | 22 | 14 | 0 | 0 | 1 | 49
+@t 8 | 0 | 24 | 51 | 13{sup:h}) | 8 | 0 | 1 | 2 | 8 | 16 | 0 | 0 | 2 | 4
+@t 9 | 0 | 27 | 57 | 37 | 9 | 0 | 1 | 9 | 54{sup:p}) | 18 | 0 | 0 | 2 | 20
+@t 10 | 1{sup:a}) | 1 | 4 | 1 | 10 | 0 | 1 | 17 | 40 | 20 | 0 | 0 | 2 | 35
+@t 11 | 1 | 4 | 10 | 25 | 11 | 0 | 1 | 25 | 26 | 22 | 0 | 0 | 2 | 51{sup:s})
+@t 12 | 1 | 7 | 16 | 50 | 12 | 0 | 1 | 33 | 12 | 24 | 0 | 0 | 3 | 6
+@t 13 | 1 | 10 | 23{sup:d}) | 14{sup:i}) | 13 | 0 | 1 | 40 | 58 | 26 | 0 | 0 | 3 | 22
+@t 14 | 1 | 13 | 29 | 38 | 14 | 0 | 1 | 48 | 44 | 28 | 0 | 0 | 3 | 37
+@t 15 | 1 | 16 | 36 | 2 | 15 | 0 | 1 | 56 | 30 | 30 | 0 | 0 | 3 | 53
+@t 16 | 1 | 19{sup:b}) | 42 | 26 | 16 | 0 | 2 | 4 | 16 | 32 | 0 | 0 | 4 | 9
+@t 17 | 1 | 22 | 48 | 50 | 17 | 0 | 2 | 12 | 2 | 34 | 0 | 0 | 4 | 24
+@t 18 | 1 | 25 | 55 | 14 | 18 | 0 | 2 | 19 | 48 | 36 | 0 | 0 | 4 | 40
+@t 19 | 1 | 29 | 1 | 39 | 19 | 0 | 2 | 27{sup:n}) | 34 | 38 | 0 | 0 | 4 | 55
+@t 20 | 2 | 2 | 8 | 3 | 20 | 0 | 2 | 35 | 20 | 40 | 0 | 0 | 5 | 11
+@t 21 | 2 | 5{sup:c}) | 14 | 27 | 21 | 0 | 2 | 43{sup:o}) | 6{sup:q}) | 42 | 0 | 0 | 5 | 26
+@t 22 | 2 | 8 | 20 | 51{sup:k}) | 22 | 0 | 2 | 50 | 52 | 44 | 0 | 0 | 5 | 42
+@t 23 | 2 | 11 | 27{sup:e}) | 15 | 23 | 0 | 2 | 58 | 38 | 46 | 0 | 0 | 5 | 57
+@t 24 | 2 | 14 | 33{sup:f}) | 39 | 24 | 0 | 3 | 6 | 24{sup:r}) | 48 | 0 | 0 | 6 | 13
+@t 25 | 2 | 17 | 40 | 3 | | | | | | 50 | 0 | 0 | 6 | 28
+@t 26 | 2 | 20 | 46 | 27 | | | | | | 52 | 0 | 0 | 6 | 44
+@t 27 | 2 | 23 | 52 | 52 | | | | | | 54 | 0 | 0 | 6 | 59{sup:t})
+@t 28 | 2 | 26 | 59 | 16 | | | | | | 56 | 0 | 0 | 7 | 15
+@t 29 | 3 | 0 | 5 | 40 | | | | | | 58 | 0 | 0 | 7 | 30
+@t 30 | 3 | 3 | 12 | 4 | | | | | | 60 | 0 | 0 | 7 | 46{sup:u})
+@n {sup:1}) Heza . . . . diebus] O, heca mercurii in dies C — {sup:2}) Heza . . . . horis] O, argumentum mercurii in
+@n horas C — {sup:3}) Partes] O, dakaicae C — {sup:4}) Heza . . . . horarum] O, argumentum mercurii in dakaicas hora-
+@n rum C — {sup:5}) et {sup:6}) {i:V. notas in tab. 8.}
+@n {sup:a}) 1] C, 0 O — {sup:b}) 19] ON, 30 C — {sup:c}) 5] ON, 6 C — {sup:d}) 23] ON, 22 (?) {i:in ras.} C — {sup:e}) 27] C, 28 O —
+@n {sup:f}) 33] C, 32 O — {sup:g}) 36] O, 37 C — {sup:h}) 13] ON, 14 C — {sup:i}) 14] ON, 23 C — {sup:k}) 51] ON, {i:om.} C — {sup:l}) 7]
+@n ON, 6 C — {sup:m}) 15] 12 CO — {sup:n}) 27] C, 28 O — {sup:o}) 43] 23 CO — {sup:p}) 54] 24 CO — {sup:q}) 6] ON, 5 C —
+@n {sup:r}) 24] ON, 34 C — {sup:s}) 51] ON, 50 C — {sup:t}) 59] ON, 70 C — {sup:u}) 46] ON, 45 C.
+@obs The page number «129» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 18», in bold sans serif, underlined. The three titles (L01-L03), in bold, the sigla in roman: L01 that of O, L02 that of C («avtarid», Mercury), L03 that of N; the folios of the manuscripts, «C 52r, O 109r,» over «N 33r.», stand at the right of L02 and L03, the letters raised; here as margin notes. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «17» on the right; recorded here, not transcribed as a line.
+@obs The table: a thick and a thin rule above the head, a double rule below it; vertical rules divide the fifteen columns, double ones before and after each column of arguments; thin rules under the heads that span the four columns of signs, degrees, minutes and seconds, whose heads «Sig.», «Gr.», «Min.», «Sec.» are set in small bold type, only the first «Min.» and «Sec.» with note numbers. «Numerus dierum», «Numerus horarum» and «Partes3) horarum» are printed turned through a quarter, reading upwards, in two lines; here their words stand in L04 and L05. Each printed row is one line here, the cells separated by our «|»; a head followed by empty cells spans their columns. The hours end with 24 (L30).
+@obs L07-L36. Checked against the daily motion of the anomaly of Mercury of Tab. 17 (p. 128, JP2 0160), 3° 6′ 24″ 8‴ with Brahmagupta's parameters: the 30 days agree with n × 3° 6′ 24.14″ to within 0.6″ (with the readings of notes a-k), the 24 hours with n × 7′ 46.0″ to within 0.6″ (with the readings of notes l-r, and the editor's 15, 43 and 54 of notes m, o and p, where C and O have 12, 23 and 24, all three required by the computation), and the «partes horarum», the sixtieths of an hour, with 7.77″ to the part to within 0.53″ (with the readings of notes s-u). The 30 days, 3s 3° 12′ 4″, are the month Elmuharram of Tab. 17 (3s 3° 12′ 4″); the 24 hours, 3° 6′ 24″, the first day.
+@obs L28, the 44 parts: «5 | 42», the lower part of the 2 faintly printed, its head clear; read as 42 (computed 5′ 41.7″). N04: «22 (?) in ras.», the editor's question mark and «in ras.», the reading of C over an erasure. N04: «0 O», N06: «12 CO», «23 CO», «24 CO»: the readings against the edition's. Italics: «V. notas in tab. 8.», «in ras.», «om.».

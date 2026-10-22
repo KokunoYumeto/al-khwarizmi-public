@@ -1,0 +1,53 @@
+UNIVERSAL GALOIS-DERIVED PRODUCTION STANDARD
+=============================================
+
+Recorded: 2026-08-16
+
+This is the controlling production architecture for every applicable transcription packet prepared by this task. It supersedes any older instruction that would blend languages, silently repair a source transcription, omit difficult figures, or treat a clean build as proof of source fidelity.
+
+1. Bounded ownership
+--------------------
+Do only the work/range named by the active session prompt. A packet label proves only its stated witness/work/range boundary; it does not prove a complete author corpus. Use the declared highest-resolution primary pixels, page topology, source map, and witness roles. OCR, prior TeX, translations, and navigation PDFs are comparison witnesses unless explicitly promoted by a source gate.
+
+2. Separate monolingual editions
+--------------------------------
+Never request or produce a bilingual, facing-page, or mixed-language edition. Produce one standalone monolingual source-language edition. Produce one independent standalone monolingual edition for each target language. N target languages require N target-language editions. Cross-language comparison belongs in evidence ledgers and canonical correction records, not in a combined reader.
+
+3. Three editorial layers
+-------------------------
+Layer 1 is an immutable diplomatic/source-faithful transcription keyed to stable source anchors. Preserve witnessed wording, spelling, notation, formulas, errors, uncertainties, page/line structure, figures, and intrinsic publication matter. Never silently normalize or emend it.
+
+Layer 2 is a faithful direct translation of a recorded Layer-1 checkpoint. It preserves meaning, logical force, notation, uncertainty, and source anchors. It never silently corrects, strengthens, modernizes, or adds hypotheses.
+
+Layer 3 is a separately labelled critical edition/apparatus. Corrections, qualifications, reconstructions, later mathematical knowledge, proof repairs, counterexamples, and explanatory modernization belong only here. Layer 3 never rewrites Layers 1 or 2.
+
+4. Critical apparatus and style
+-------------------------------
+Give every finding a stable apparatus ID and exact source coordinates. Record: issue class; diplomatic reading; faithful translation; proposed critical reading; required hypotheses; proof, counterexample, or witness evidence; confidence; propagation impact; prior-notice result; and citations. Distinguish a proved repair from a conjectural reconstruction and from an unresolved reading. Never back-project later mathematics into the historical author's voice.
+
+Use restrained scholarly typography: unobtrusive note markers, footnotes/endnotes, and a numbered Critical Notes appendix. Do not use repeated colored boxes, chat cards, warning panels, or decorative callouts as the apparatus language.
+
+5. Figures and diagrams
+-----------------------
+A figure never disappears because editable reconstruction is difficult. Use LaTeX/TikZ/SVG only when every visible line, curve, label, glyph, datum, orientation, and spatial relation can be reproduced faithfully. Otherwise retain an untouched crop from the highest-resolution authority and create a separate presentation derivative for inclusion with \\includegraphics. Permitted operations are content-preserving crop, deskew, rotation, grayscale, background/level adjustment, and bilevel conversion only when no information is removed. Never erase faint strokes, add or strengthen lines, close gaps, alter glyphs/labels/geometry, inpaint, or conjecturally complete damage. Return raw and derivative files, source coordinates/crop box, dimensions, every operation and parameter, SHA-256 hashes, insertion status, and render comparison.
+
+6. Extrinsic scan matter
+------------------------
+Exclude non-publication digitizer/platform/holding-library matter from the scholarly body unless it is intrinsic to the historical witness or publication. Examples include “Digitized by Google,” “Original from the University of Michigan,” scanner or repository notices, platform watermarks, barcodes, call slips, ownership stamps, scale bars, color targets, service cards, and copy-specific bindings. Record relevant copy evidence only in witness provenance/topology or a labelled apparatus note.
+
+7. Mandatory return evidence
+----------------------------
+Return named monolingual TeX/PDF artifacts; a disposition for every owned physical source unit; source/line/page alignment; evidence ledger; unresolved-reading ledger; witness-variant ledger where applicable; critical-findings ledger; figure-provenance ledger; correction-routing and language-synchronization receipts; deterministic build/render receipt; and a self-excluding SHA-256 manifest. Checkpoints must name last_fully_transcribed_source_unit, last_fully_verified_source_unit, and first_untouched_source_unit. Preserve superseded checkpoints with reasons and hashes.
+
+Every translation independently replays its owned source pixels. Suspected canon errors return as evidence-backed proposals; they are never silent patches. Accepted corrections create a new canonical checkpoint and propagate to affected language editions while preserving earlier releases.
+
+8. Integration and cold audit
+-----------------------------
+Integration must prove exact coverage with no gap/overlap, replay every seam, inspect every figure/flagged formula/blank/colophon/trailing leaf, compile cleanly, and visually inspect the render. An independent cold auditor replays the candidate without patching it. A failure freezes that candidate; repair produces a successor and reruns the complete audit. Human review may be welcomed later but is never a release gate. Build success alone is not source verification.
+
+Scholarly-editing basis
+-----------------------
+- MLA Committee on Scholarly Editions: reliability requires accuracy, adequacy, appropriateness, consistency, and explicitness; alterations and variants require documented apparatus. https://tei-c.org/Vault/ETE/Preview/guidelines.html
+- TEI P5 Critical Apparatus: stable apparatus entries, base readings/lemmas, variant readings, witness attribution, responsibility, and certainty. https://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html
+- Association for Documentary Editing minimum standards: consistent transcription conventions and disclosure of image editing, with an unedited version retained when extensive clarity edits are made. https://documentaryediting.org/resources/about-documentary-editing/minimum-standards-for-electronic-editions/
+

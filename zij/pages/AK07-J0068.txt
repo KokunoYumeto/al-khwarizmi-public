@@ -1,0 +1,50 @@
+@page 68 36
+@lang de
+% JP2 0068: Suter's commentary, p. 36: the end of chapter 2 (the name of the Spanish era; the second table of the
+% addition; Table 3); chapter 3, the headings of the columns of the tables; chapter 4, the beginning of the Arab
+% months, begins (notes 1-4).
+(= leer, Null) in Verbindung stehe, wie {sp:Ideler}{sup:1}) vermutet, ist sehr unwahr-
+scheinlich.{sup:2})
+@p Am Schlusse dieses Zusatzes wird eine zweite Tafel erwähnt, mit welcher die
+Jahre der christlichen Zeitrechnung (es steht aber neben {i:anni domini} auch {i:anni romani}
+im Text) in arabische verwandelt werden können ; die Tafel fehlt in allen Mss. (s.
+Einleitung), es befindet sich bloss die Tafel 3 in CO und N, die betitelt ist : {i:Pagina}
+{i:reducendi annos Alexandri ad elhigeram}, die aber in erster Linie dazu dient, arabische
+Jahre in solche der Seleucidischen Aera zu verwandeln, allerdings kann sie für das
+umgekehrte auch dienen, wir kommen auf sie unten zurück.
+@c {b:Kap. 3. Über die Überschriften der Tafel-Kolonnen.}
+@c (Text p. 4—5.)
+@p So muss man den Titel {i:de numerorum praescriptionibus} übersetzen. Der Ver-
+fasser erklärt hier, was man unter {i:anni collecti}, {i:anni plani}, {i:gradus}, {i:dakaicae}, etc. zu
+verstehen habe, und wie man beim Gebrauche der Tafeln (er führt als Beispiel die-
+jenigen für die Bestimmung der mittlern Örter der Planeten an) zu verfahren habe.
+Ich habe zu diesem Kapitel folgende Bemerkungen hinzuzufügen : In {i:anni plani} ist
+{i:planum} die Übersetzung des arabischen {i:mabsūṭ} = ausgebreitet ; statt {i:planum} findet
+man daher auch (in C) {i:expansum}, {sp:wir} würden sagen {i:anni singuli}, N hat {i:anni residui}.
+— Die erste Kolonne der Tafeln{sup:3}) für die Bestimmung der mittlern Örter der Planeten
+enthält gewöhnlich den Weg des Planeten von der {i:Radix} an in je 30 Jahren ; dann
+folgt die Kolonne für die einzelnen Jahre von 1 bis 30, dann die Kolonne für die
+Monate u. s. f. Für das Wort „Minute“ wird eigentümlicherweise öfters in C und O
+das arabische {i:daḳīḳa}, und zwar in der Pluralform {i:daḳā’iḳ} gebraucht, diese wird
+lateinisch durch {i:dakaica} wiedergegeben, und dieses dann wie ein echt lateinisches
+Wort dekliniert (z. B. {i:dakaicarum}). Dagegen wird, besonders in Ms. C, für „Sekunde“
+die arabische Singularform {i:thenia} = {i:thāniya} gesetzt, und von dieser der Plural {i:theniae}
+gebildet, statt die arabische Pluralform {i:thawānī} zu setzen. Im übrigen hat das Ms. C
+meistens {i:puncta} statt {i:minutae}{sup:4}), und {i:minuta} statt {i:secundae}{sup:4}). — Auf die Willkür und
+Inkonsequenz, die in diesen Kolonnen-Überschriften herrscht, habe ich schon in der
+Einleitung aufmerksam gemacht.
+@c {b:Kap. 4. Über den Beginn der arabischen Monate.}
+@c (Text p. 5, Tafeln 2—2{sup:b}.)
+@p Dieses Kapitel, zu dem Tafel 2 gehört, die in allen vier Mss., in O aber auf
+der letzten Seite (159{sup:r}) sich befindet, lehrt den Wochentag ({i:feria}) bestimmen, mit
+dem jeder beliebige arabische Monat in jedem beliebigen Jahre beginnt. Ich gebe,
+@n {sup:1}) {i:Handbuch der math. u. techn. Chronologie}, Berlin 1826, II, 423—425.
+@n {sup:2}) Vergl. auch {sp:Dozy}, {i:Supplément aux dictionnaires arabes}, s. v. {i:ṣafar} u. {i:aṣfar}.
+@n {sup:3}) Nach der Kolonne der Jahre.
+@n {sup:4}) Ich schreibe {i:minutae} und {i:secundae} statt {i:minuta} und {i:secunda}, indem ich diese Wörter als
+@n Adjectiva zu {i:partes} auffasse, das richtige wäre eigentlich ({i:partes}) {i:primae}, ({i:partes}) {i:secundae}.
+@obs The page number «36» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «(= leer, Null)» continues «ob dies mit ṣifr» at the end of p. 35 (JP2 0067, L37): the name of the Spanish era, «ṣufr», and «ṣifr», empty, zero. L10 and L31: the headings of chapters 3 and 4, in bold, centred, each followed by the reference to the text, centred.
+@obs L28: the note number 4 stands twice, after «minutae» and after «secundae»; the note explains both. L32: «2—2b», the b raised; L34: «159r», the r raised.
+@obs Spaced type, marked {sp:}: «Ideler», «wir» (L18, for emphasis), «Dozy»; italics: the Latin and Arabic words and the titles. The transliteration: «mabsūṭ» (L17), «daḳīḳa», «daḳā’iḳ» (L23), «thāniya», «thawānī» (L26-L27), with the dots under ṭ and ḳ and the macrons as printed; N02 «ṣafar», «aṣfar».
+@obs N05: «zu partes» and «secundae.» are printed heavier than the rest of the line; their strokes measure 5-5.5 px where the other words of the line measure 4-5 px, a difference of inking, not of type; transcribed in the type of the line.
+@obs The colons and semicolons stand after the thin space of the edition (8-11 px measured).

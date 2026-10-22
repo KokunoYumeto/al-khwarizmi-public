@@ -1,0 +1,192 @@
+{
+ "anchor": "AK01-F034",
+ "frame": 34,
+ "frame_file": "page_034.jpg",
+ "frame_sha256": "3e7b2334db580d07c283d84f9009f2cbe4766ba8008f9a49d8e31ac62d3fd47d",
+ "printed_page": "٢٠",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 034, printed p. 20: the end of \"half a square and five roots equal twenty-eight\"; the second compound kind, squares and numbers equal to roots: \"a square and twenty-one equal ten roots\", solved by subtracting and by adding the root to half the roots; this kind works by addition and by subtraction. Two footnotes of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F034-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "خمسة فاضربها فى مثلها تكون خمسة وعشرين فزدها على الستة والخمسين تكون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F034-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "احدا وثمانين فخذ جذرها وهو تسعة فانقص منها نصف الاجذار وهو {n:١}خمسة",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F034-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "فيبقى أربعة وهو جذر المال الذى أردت والمال ستة عشر ونصفه ثمانية وكذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F034-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "فافعل بجميع ما جاءك من الأموال والجذور وما عادلهامن العدد تصب ان شاء الله.",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F034-L05",
+   "n": 5,
+   "kind": "indent",
+   "text": "وأما الأموال والعددالتى تعدل الجذور فنحو قولك مال وأحد وعشرون من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F034-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "العدد يعدل عشرة اجذاره ومعناه أى مال إذا زدت عليه واحدا وعشرين درهما",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F034-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "كان ما اجتمع مثل عشرة أجذار ذلك المال. فبابه {n:٢}أن تنصف الاجذار فتكون",
+   "note_marks": [
+    "٢"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F034-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "خمسة فاضربها فى مثلها تكون خمسة وعشرين فأنقص منها الواحد والعشرين التى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F034-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "ذكر انها مع المال فيبقى اربعة فخذ جذرهاوهو اثنان فانقصه من نصف الاجذار",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F034-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "وهو خمسة فيبقى ثلاثة وهو جذر المال الذى تريده والمال تسعة . وان شئت",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F034-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "فزد الجذر على نصف الاجذار فتكون سبعة وهو جذر المال الذى تريده والمال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F034-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "تسعة واربعون . فاذا وردت عليك مسئلة تخرجك الى هذا الباب فامتحن",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F034-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "صوابها بالزيادة فان لم تكن فهى بالنقصان لا محالة وهذا الباب يعمل بالزيادة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F034-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "والنقصان جميعا وليس ذلك فى غيره من الابواب الثلاثة التى يحتاج فيها إلى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F034-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "تنصيف الاجذار . واعلم انك اذا نصفت الاجذار فى هذا الباب وضربتها فى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١",
+    "٢"
+   ],
+   "lines": 6,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L02: the edition prints وهو; the editors' note (١) reports that the manuscript has وهى, with وهو written above it, by the copyist or a reader."
+ ],
+ "unresolved": [],
+ "observations": [
+  "L05: وأحد, with a hamza on the alif, as printed, in مال وأحد وعشرون (one square and twenty-one); L06 has واحدا وعشرين.",
+  "L08: فأنقص with a hamza on the alif, as printed; L02 and L09 have فانقص, فانقصه.",
+  "Set without a word space after a non-connecting letter, and transcribed so: عادلهامن (L04), والعددالتى (L05), جذرهاوهو (L09). After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: ان شاء (L04), قولك مال, وعشرون من (L05), أى مال (L06), والعشرين التى (L08).",
+  "L02: the note mark (١) stands after وهو, close before خمسة; L07: the note mark (٢) stands close before أن. The full stops after الله (L04) and المال (L07) are set close.",
+  "Plain alif where a hamza might be expected, as printed: احدا (L02), الاجذار (L02, L07, L09, L11, L15), ان (L04), اجذاره (L06), انها, اربعة (L09), وان (L10), واربعون, فاذا, الى (L12), فان (L13), الابواب (L14), انك, اذا (L15).",
+  "Without tanwīn as printed: احدا (L02), واحدا, درهما (L06), جميعا (L14)."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

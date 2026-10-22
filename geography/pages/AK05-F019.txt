@@ -1,0 +1,40 @@
+@page 19 ١٣
+@cols 12,16,38,12,12,14,12,14,12,12
+% Frame 019, printed p. 13: the cities of the third clime continued, entries 148-164: Ṭaḥā, then ten places of
+% Egypt, al-Qays, Iqnā, Ahnās, al-Bahnasā, Qamin, Dalāṣ, al-Fayyūm, Manf, Qaṣr Miṣr and ʿAyn Shams, for which the
+% table gives two longitudes, the second after the word «اخرى»; then Qūnā, al-Qulzum on the sea, a city, Madyan,
+% al-Jār and the city of the Prophet. Two lines of the editor's footnotes, with one word of a third.
+@r (١٤٨) | | طحا^4 | نز | مه | كز | يه
+@r (١٤٩) | | القيس | ٮح | {z} | اخرى{n:a} | نح | ⟨{z}⟩{n:b} | كز | نط
+@r (١٥٠) | | اقنا | س | {z} | اخرى | ٮح | ⟨{z}⟩{n:c} | كر | ل
+@r (١٥١) | | اهناس | س | ى | اخرى | نح | ⟨{z}⟩{n:d} | كح | {z}
+@r (١٥٢) | | البهنسا | س | له | اخرى | نح | م | كط | {z}
+@r (١٥٣) | | قمن{n:e} | سا | ه | اخرى | ند | ه | كح | ى
+@r (١٥٤) | | دلاص | سا | ك | اخرى | ند | ⟨{z}⟩{n:f} | كر | ٮه
+@r (١٥٥) | | الفيّوم | سا | نه | اخرى | ند | ٮه | كح | {z}
+@r (١٥٦) | | منف | سا | مه | اخرى | ند | م | كط | يه
+@r (١٥٧) | | قصر مصر | سا | ن | اخرى | ند | ں | ل | {z}
+@r (١٥٨) | | عين شمس | سا | ن | اخرى | ند | مه | ل | د
+@r (١٥٩) | [١٢٤] | مدينة قونا^4 | نه | م | كر | {z}
+@r (١٦٠) | [١٢٥] | القلزم على البحر^4 | ٮو | ل | كح | ك
+@r (١٦١) | [١٢٦] | مدينة^4 | ٮر | م | ل | يه
+@r (١٦٢) | [١٢٧] | مدينة مدين{n:g}^4 | سا | ك | كط | {z}
+@r (١٦٣) | [١٢٨] | الجار{n:h}^4 | سد | ك | كد | {z}
+@r (١٦٤) | [١٢٩] | مدينة الرسول عليه السلام^4 | سه | ك | كه | {z}
+@ednotes a b c d e f g h 3
+@obs The table goes on from frame 018 without a heading: the cities of the third clime, entries 148-164. For entries 149-158 the table has a further pair of columns, ruled like the others, between the names and the longitudes: it holds a first longitude, degrees and minutes, then the word «اخرى» stands between the columns, and the longitude columns hold the second; the latitude follows as usual. Entries 148 and 159-164 have one longitude, and their names stand over the further columns; transcribed so, the name spanning them. Entries 148-158 have no numbers of Suhrāb; entries 159-164 have [١٢٤]-[١٢٩]. Entries 148-158 and 160 and 163 are printed without the word «مدينة»; entry 161 is the word «مدينة» alone.
+@obs L02: the editor's note a, at the first «اخرى», says that the word نسخة is to be supplied: «نسخة اخرى», another copy. The note mark stands only at L02; the word recurs without it in L03-L11.
+@obs L02-L04, L07: the minutes of the second longitude are printed as a zero sign between angle brackets, «⟨ō⟩», the editor's sign for what he supplies; his notes b, c, d and f say that the minutes are missing in the manuscript.
+@obs Letters printed without their dots in the numerals, transcribed so: ٮح (L02, the first longitude; L03, the second), the tooth without its dot; ٮو (L13, the degrees of the longitude), the tooth without its dot; ٮه (L07, the minutes of the latitude; L08, the minutes of the second longitude), a tooth joined to a final ه; ں (L10, the minutes of the second longitude), the bowl of a final ن without its dot. With their dots: نز (L01), نح (L02, L04, L05), ند (L06-L11), نه (L12), the ن with its dot; ن (L10, L11, the minutes of the first longitude); كز (L01, L02) and نز (L01), the ز with its dot; يه (L01, L09, L14), the ي with its two dots. The isolated ه, 5 (L06, the minutes of both longitudes), is a small round ring.
+@obs L03, L07, L12: the degrees of the latitude are printed كر, with ر, and L14: the degrees of the longitude, ٮر; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII). Transcribed ر as printed.
+@obs L14: the degrees of the longitude, ٮر: a tooth without a dot joined to a ر, the two strokes forming a notch at the top, where the isolated ر of the font is a plain curved stroke (frame 021, L09, where the ر alone stands for 7); the neighbouring entries have نه, ٮو, سا, سد and سه. Transcribed ٮر.
+@obs L08: «الفيّوم», with a shadda over the ي. L02: two small specks stand on the line after «القيس»; they are not transcribed.
+@obs The isolated ك of the minutes (L07, the first longitude; L13, the latitude; L15-L17, the longitude) is printed with the small inner stroke of the letter.
+@obs The page number «— ١٣ —» stands at the foot, centred.
+@variant L02: the minutes of the second longitude are missing in the manuscript.
+@variant L03: the minutes of the second longitude are missing in the manuscript.
+@variant L04: the minutes of the second longitude are missing in the manuscript.
+@variant L06: the manuscript reads ڡمن for قمن, without the dots of the ق.
+@variant L07: the minutes of the second longitude are missing in the manuscript.
+@variant L15: the manuscript reads مدن for مدين.
+@variant L16: at entry (1239) the name الجار is written الحار, without the dot of the ج.

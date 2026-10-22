@@ -1,0 +1,20 @@
+@page 210 -
+@kind title
+% Frame 210: the German title page of the 1926 edition.
+@lc DAS KITĀB
+@lc ṢŪRAT AL-ARḌ DES ABŪ ǦAʿFAR
+@lc MUḤAMMAD IBN MŪSĀ
+@lc AL-ḪUWĀRIZMĪ
+@lc Herausgegeben
+@lc NACH DEM HANDSCHRIFTLICHEN UNIKUM DER
+@lc BIBLIOTHÈQUE DE L’UNIVERSITÉ ET RÉGIONALE
+@lc IN STRASSBURG / COD. 4247 /
+@lc VON
+@lc HANS v. MŹIK
+@lc Mit fünf Tafeln in Lichtdruck
+@lc MCMXXVI
+@lc Otto Harrassowitz · Leipzig
+@obs The title page is set in Roman capitals, with three lines in black letter (Fraktur), transcribed in Roman type: «Herausgegeben» (L05), «Mit fünf Tafeln in Lichtdruck» (L11) and «Otto Harrassowitz · Leipzig» (L13). The transliterated names keep the diacritics of the print: the dots below Ṣ, Ḍ and Ḥ, the macrons, the haček of Ǧ and the breve below Ḫ of «AL-ḪUWĀRIZMĪ», the half ring of «ǦAʿFAR». The shelfmark of the manuscript, «COD. 4247», stands between two thin slanting strokes, transcribed as slashes; its figures are old-style. A rule separates the date, «MCMXXVI», 1926, from the publisher's line.
+@obs L10: the editor's name is printed «MŹIK», with an acute accent over the Z, where the series title page prints «MŽIK», with a haček (frame 212, L04), the form of the name Mžik; see the critical note. The reprint's copy of this page has the same accent (frame 214).
+@obs The volume is the third of the series «Bibliothek arabischer Historiker und Geographen» (frame 212). Its back, frame 209, carries the imprint.
+@critical AK05-CN022 | wrong accent | L10 | MŹIK | MŽIK | the editor's name is printed with an acute accent over the Z, where the series title page of the same volume prints it with a haček, «HANS v. MŽIK» (frame 212, L04), the spelling of the name Mžik; the reprint's copy of this page has the same acute (frame 214, L10) | medium | the name of the editor, Hans von Mžik

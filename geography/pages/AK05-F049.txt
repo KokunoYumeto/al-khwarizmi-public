@@ -1,0 +1,45 @@
+@page 49 ٤٣
+@cols 12,12,12,12,12,12,12,12,22,22
+@align c,c,c,c,c,c,c,c,c,c
+% Frame 049, printed p. 43: the left-hand page of the opening pp. 42-43. Six lines of text end the description of the
+% mountain around the island of the Yāqūt (frame 048): its course to the equator, beyond it and back into the first
+% clime, entries 601-606, its colour and direction, and the words that introduce its picture. Then the ends of the
+% headings of the second clime, with its latitude, 24, and of its mountains, and for the eight mountains of p. 42,
+% entries 607/608-621/622, the longitude and the latitude of the first and of the last boundary, the colour and the
+% direction of the head. Two lines of the editor's footnotes, continued at the foot of p. 42.
+على طول {ov:ڡعح ل} حتّى ينتهى الى خطّ الاستواء (٦٠١) [١٤٦٢] ثمّ يستدير الى طول
+{ov:ڡعو ل} ويكون العرض خلف خطّ الاستوى* {ov:ج ٮه} (٦٠٢) [١٤٦٣] ثمّ يستدير الى طول
+{ov:ڡعط {z}} مماسّ* لخطّ الاستوى* (٦٠٣) [١٤٦٤] ثمّ يمرّ على هٰذا الطول الى ان يصير
+العرض من الإقليم الأوّل {ov:و {z}} (٦٠٤) [١٤٦٥] ثمّ يستدير الى ان يصير العرض {ov:ط ل}
+والطول {ov:ڡعو ل} (٦٠٥) [١٤٦٦] ثمّ يستدير الى ان يصير الطول {ov:ڡعح {z}} والعرض {ov:ه ل} (٦٠٦)
+[١٤٦٧] ولونه احمر وهو شرقىّ ومبتدأ الجبل الى المشرق ويمرّ حول الجزيرة{n:d} وهٰذه صورته{n:e} *
+@h عرضه {ov:كد} *
+@h الإقليم الثانى *
+@r ٮه | {z} | ٮو | ك | ٮه | {z} | كد | {z} | لازورد | مشرقىّ
+@r كد | {z} | ك | {z} | كد | ى | كج | {z} | وردىّ | مغربىّ
+@r كر | {z} | ك | {z} | كو | {z} | كح | {z} | اصفر | مغربىّ
+@r كط | {z} | ك | {z} | لح | ل | ك | {z} | لازورد | شمال
+@r لط | ى | كا | {z} | مح | ل | كا | {z} | ازرق | جنوب
+@r نب | ن | كح | {z} | ٮج | {z} | كط | {z} | طاووسىّ | مغربىّ
+@r سه | ك | ك | ى | ع | ك | ٮط | م | حديذىّ | جنوب
+@r سه | ك | كح | ك | سو | م | كا | مه | احمر | مشرقىّ
+@ednotes a b c d e 2
+@obs L01-L06 end the description of the mountain around the island of the Yāqūt that begins on p. 42 (frame 048, L01-L06): L01 continues the last line of p. 42, «ثمّ يجىء الجبل», the mountain then comes. The description closes at the end of L06 with a small open six-pointed star, transcribed as an asterisk. The headings L07-L08 and the rows L09-L16 continue the same lines of p. 42 across the opening: L07, «عرضه كد *», ends the heading «* الإقليم الثانى», the second clime, its latitude 24; L08, «الإقليم الثانى *», ends «* الجبال الّتى فى», the mountains in the second clime; L09-L16 give the boundaries, the colours and the directions of the mountains of p. 42, L09-L16, entries 607/608-621/622, in the columns of p. 39 (frame 045); the page has no heads. The headings stand at the inner edge of the page, next to their beginnings on p. 42; transcribed as headings.
+@obs L07: «عرضه» is printed with a long kashida, the stretched joining stroke, between the ض and the ه; the kashida is not transcribed. The latitude «كد» has a line above it, 87 px long, transcribed with {ov:…}, as the latitude of the first clime on frame 045 (L15); unlike that heading, «عرضه» has no و before it. L08: «الإقليم» with a hamza below the alif.
+@obs L01-L05: the coordinates in the text are written with letters, each pair of degrees and minutes with a line above it, transcribed with {ov:…}: the longitudes «ڡعح ل» (L01), «ڡعو ل» (L02, L05), «ڡعط» with the zero (L03) and «ڡعح» with the zero (L05); the latitudes «ج ٮه» (L02), «و» with the zero (L04), «ط ل» (L04) and «ه ل» (L05). The running numbers (٦٠١)-(٦٠٦) and the numbers of Suhrāb [١٤٦٢]-[١٤٦٧] follow the points of the description, as on p. 42.
+@obs Letters printed without their dots in the numerals of the text: the loop of ف or ق in all the longitudes, ڡعح, ڡعو and ڡعط; the ح of ڡعح (L01, L05), with no dot in the bowl, the same form as a ج without its dot, 3. With its dot: ج (L02), 3. The minutes of «ج ٮه» (L02) are a tooth without its dot joined to a final ه; the ه of «ه ل» (L05) is the isolated letter, 5, a small round form, 18 by 19 px, its counter filled with ink. Transcribed as printed.
+@obs L02: «الاستوى*» and L03: «مماسّ*» and «الاستوى*»: an asterisk with six round-ended arms stands after the word, raised: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (introduction, frame 184, p. XXIX). L01 prints «الاستواء» with a hamza after the alif; «الاستوى» ends in a ى without dots.
+@obs Signs transcribed as printed: L01: «حتّى», «خطّ» and «ثمّ» with a shadda; L02: «خطّ» and «ثمّ»; L03: «مماسّ», «لخطّ», «ثمّ» and «يمرّ»; L04, L05: «ثمّ»; L06: «شرقىّ», with a shadda over the final ى without dots, and «ويمرّ». L03: «هٰذا» and L06: «وهٰذه», with a short upright stroke above the ه, the dagger alif, transcribed ٰ, as on frame 041 (L03). L04: «الإقليم» with a hamza below the alif and «الأوّل» with a hamza over the alif and a shadda over the و; L06: «ومبتدأ» with a hamza over the final alif. «على» (L01, L03), «الى» (L01-L06), «ينتهى» (L01) end in a ى without dots.
+@obs L06: the note mark d stands after «الجزيرة» and the mark e after «صورته»: his picture, the map of the island, which the editor does not print here (note e).
+@obs The colours of L09-L16 are «لازورد», lapis blue (L09, L12); «وردىّ», rose (L10); «اصفر», yellow (L11); «ازرق», blue (L13); «طاووسىّ», peacock-coloured (L14); «حديذىّ» (L15); and «احمر», red (L16). The directions are «مشرقىّ», eastern (L09, L16), «مغربىّ», western (L10, L11, L14), «شمال», north (L12), and «جنوب», south (L13, L15). «مشرقىّ», «وردىّ», «مغربىّ», «طاووسىّ» and «حديذىّ» end in a ى without dots with a shadda over it; «مغربىّ» has the dot of the ب in all three places.
+@obs L15: «حديذىّ»: a dot, 10 by 12 px, the size of the dots of the font, stands above the second د, so that it reads as a ذ; frame 047 (L05) prints the same colour «حديدىّ», without it. Transcribed as printed.
+@obs Letters printed without their dots in the numerals of the table, transcribed so: ٮو (L09, the degrees of the first latitude), the tooth without its dot, 16; ٮج (L14, the degrees of the last longitude), the tooth without its dot joined to a ج with its dot, 13; ٮط (L15, the degrees of the last latitude), 19. With their dots: كج (L10, the degrees of the last latitude), 23, the dot of the ج small, 9 by 7 px; نب (L14, the degrees of the first longitude), 52, the ن with its dot above and the ب with its dot below; ن (L14, the minutes of the first longitude), 50.
+@obs L11, the degrees of the first longitude, «كر»: a ر without the dot of a ز; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII), so 27; transcribed ر as printed.
+@obs The degrees printed with a final ح, كح (L11, the degrees of the last latitude; L14, L16, the degrees of the first latitude), لح (L12) and مح (L13), the degrees of the last longitude, show no dot in the bowl; the same form is a ج without its dot, 3, which L10 and L14 print with its dot. Transcribed as printed.
+@obs The degrees of both longitudes in L09, «ٮه», are a tooth without its dot joined to a final ه. The isolated ك, 20, is printed with the small inner stroke of the letter throughout (L09-L12, L15, L16).
+@obs A short rule stands below each pair of degrees and minutes in L09-L15, and above each pair in L09; L16 has none below it. The rules are not transcribed.
+@obs The editor's footnotes of the opening begin here, in two lines below a short rule at the left: notes a, b and c, whose marks stand on p. 42 (frame 048, L02, L05, L06) and whose readings are recorded there, note d and the beginning of note e, which continues at the foot of p. 42.
+@obs The page number «— ٤٣ —» stands at the foot, centred.
+@copy Faint grey hairlines, fibres on the paper: L07, two short curls to the left of the star and at the right end of the line; L11, a curved hairline between the first and the last boundary; L14, a curl at the left of the degrees of the first latitude.
+@variant L06: the manuscript reads الجبل, the mountain, for الجزيرة, the island (note d).
+@variant L06: here the manuscript has the map of the island of the Yāqūt and of the mountain around it, which the editor gives as plate I (note e, continued at the foot of p. 42).

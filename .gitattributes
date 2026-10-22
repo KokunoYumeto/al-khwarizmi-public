@@ -1,0 +1,3 @@
+# Every file is stored and checked out byte for byte: the checkpoints and checksums of the lanes are
+# computed over the bytes of the files, so no line-ending conversion may touch them.
+* -text

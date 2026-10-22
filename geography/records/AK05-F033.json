@@ -1,0 +1,391 @@
+{
+ "anchor": "AK05-F033",
+ "frame": 33,
+ "frame_file": "page_033.jpg",
+ "frame_sha256": "8a0ba1b07e471cc2e3c22a8b1588f667093c3153b1e8f4f2b10891420ffb0e63",
+ "printed_page": "٢٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 033, printed p. 27: the cities of the fifth clime continued, entries 385-400: Qūmis, Ṭamīs near the sea, Astarābādh, Jurjān near the sea, Nīsābūr, Ṭūs, Sarakhs, Marw, Marw al-Rūdh, Ammūya, Bukhārā, Balkh, Samarqand, Ushrūsana, Khujanda and Banākath. Four lines of the editor's footnotes, the last holding one word.",
+ "lines": [
+  {
+   "id": "AK05-F033-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٣٨٥) | [٣٦٥] | قومس | عح | يه | لو | كه",
+   "margin": null,
+   "cells": [
+    "(٣٨٥)",
+    "[٣٦٥]",
+    "قومس",
+    "عح",
+    "يه",
+    "لو",
+    "كه"
+   ],
+   "plain": "(٣٨٥) | [٣٦٥] | قومس | عح | يه | لو | كه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F033-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٣٨٦) | | طميس قرب البحر | عح | م | لح | م",
+   "margin": null,
+   "cells": [
+    "(٣٨٦)",
+    "",
+    "طميس قرب البحر",
+    "عح",
+    "م",
+    "لح",
+    "م"
+   ],
+   "plain": "(٣٨٦) | | طميس قرب البحر | عح | م | لح | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F033-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٣٨٧) | | استاراباذ{n:a} | عط | ن | لح | مه",
+   "margin": null,
+   "cells": [
+    "(٣٨٧)",
+    "",
+    "استاراباذ{n:a}",
+    "عط",
+    "ن",
+    "لح",
+    "مه"
+   ],
+   "plain": "(٣٨٧) | | استاراباذ | عط | ن | لح | مه",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F033-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٣٨٨) | [٣٣٩] | جرجان قرب البحر | ڡ | مه | لح | ن",
+   "margin": null,
+   "cells": [
+    "(٣٨٨)",
+    "[٣٣٩]",
+    "جرجان قرب البحر",
+    "ڡ",
+    "مه",
+    "لح",
+    "ن"
+   ],
+   "plain": "(٣٨٨) | [٣٣٩] | جرجان قرب البحر | ڡ | مه | لح | ن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F033-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٣٨٩) | [٣٤٠] | نيسابور{n:b} | ف | مه | لز | {z}",
+   "margin": null,
+   "cells": [
+    "(٣٨٩)",
+    "[٣٤٠]",
+    "نيسابور{n:b}",
+    "ف",
+    "مه",
+    "لز",
+    "{z}"
+   ],
+   "plain": "(٣٨٩) | [٣٤٠] | نيسابور | ف | مه | لز | ō",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F033-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٣٩٠) | [٣٤١] | طوس | قب | ن | لز | {z}",
+   "margin": null,
+   "cells": [
+    "(٣٩٠)",
+    "[٣٤١]",
+    "طوس",
+    "قب",
+    "ن",
+    "لز",
+    "{z}"
+   ],
+   "plain": "(٣٩٠) | [٣٤١] | طوس | قب | ن | لز | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F033-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٣٩١) | [٣٤٢] | سرخس | ڡح | ك | لح | {z}",
+   "margin": null,
+   "cells": [
+    "(٣٩١)",
+    "[٣٤٢]",
+    "سرخس",
+    "ڡح",
+    "ك",
+    "لح",
+    "{z}"
+   ],
+   "plain": "(٣٩١) | [٣٤٢] | سرخس | ڡح | ك | لح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F033-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٣٩٢) | [٣٤٣] | مرو | فد | ك | لح | له",
+   "margin": null,
+   "cells": [
+    "(٣٩٢)",
+    "[٣٤٣]",
+    "مرو",
+    "فد",
+    "ك",
+    "لح",
+    "له"
+   ],
+   "plain": "(٣٩٢) | [٣٤٣] | مرو | فد | ك | لح | له",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F033-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٣٩٣) | [٣٤٤] | مرو الروذ{n:c} | ڡه | {z} | لح | ن",
+   "margin": null,
+   "cells": [
+    "(٣٩٣)",
+    "[٣٤٤]",
+    "مرو الروذ{n:c}",
+    "ڡه",
+    "{z}",
+    "لح",
+    "ن"
+   ],
+   "plain": "(٣٩٣) | [٣٤٤] | مرو الروذ | ڡه | ō | لح | ن",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F033-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٣٩٤) | [٣٤٥] | امّويه{n:d} | فه | مه | لر | م",
+   "margin": null,
+   "cells": [
+    "(٣٩٤)",
+    "[٣٤٥]",
+    "امّويه{n:d}",
+    "فه",
+    "مه",
+    "لر",
+    "م"
+   ],
+   "plain": "(٣٩٤) | [٣٤٥] | امّويه | فه | مه | لر | م",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F033-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٣٩٥) | [٣٤٦] | بخارا | ڡر | ك | لر | ن",
+   "margin": null,
+   "cells": [
+    "(٣٩٥)",
+    "[٣٤٦]",
+    "بخارا",
+    "ڡر",
+    "ك",
+    "لر",
+    "ن"
+   ],
+   "plain": "(٣٩٥) | [٣٤٦] | بخارا | ڡر | ك | لر | ن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F033-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٣٩٦) | [٣٤٧] | بلخ | ڡح | له | لح | م",
+   "margin": null,
+   "cells": [
+    "(٣٩٦)",
+    "[٣٤٧]",
+    "بلخ",
+    "ڡح",
+    "له",
+    "لح",
+    "م"
+   ],
+   "plain": "(٣٩٦) | [٣٤٧] | بلخ | ڡح | له | لح | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F033-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٣٩٧) | [٣٤٨] | سمرقند | ڡط | ل | لر | ل",
+   "margin": null,
+   "cells": [
+    "(٣٩٧)",
+    "[٣٤٨]",
+    "سمرقند",
+    "ڡط",
+    "ل",
+    "لر",
+    "ل"
+   ],
+   "plain": "(٣٩٧) | [٣٤٨] | سمرقند | ڡط | ل | لر | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F033-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٣٩٨) | [٣٤٩] | اشروسنة{n:e} | صا | ى | لو | م",
+   "margin": null,
+   "cells": [
+    "(٣٩٨)",
+    "[٣٤٩]",
+    "اشروسنة{n:e}",
+    "صا",
+    "ى",
+    "لو",
+    "م"
+   ],
+   "plain": "(٣٩٨) | [٣٤٩] | اشروسنة | صا | ى | لو | م",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F033-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٣٩٩) | [٣٥٠] | خجندة{n:f} | صٮ | ل | لز | ى",
+   "margin": null,
+   "cells": [
+    "(٣٩٩)",
+    "[٣٥٠]",
+    "خجندة{n:f}",
+    "صٮ",
+    "ل",
+    "لز",
+    "ى"
+   ],
+   "plain": "(٣٩٩) | [٣٥٠] | خجندة | صٮ | ل | لز | ى",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F033-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٤٠٠) | [٣٥١] | بناكث{n:g} | صد | ل | لج | ل",
+   "margin": null,
+   "cells": [
+    "(٤٠٠)",
+    "[٣٥١]",
+    "بناكث{n:g}",
+    "صد",
+    "ل",
+    "لج",
+    "ل"
+   ],
+   "plain": "(٤٠٠) | [٣٥١] | بناكث | صد | ل | لج | ل",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L03: the manuscript reads استاراٮار, with a final ر for the ذ and without the dot of the ب.",
+  "L05: the manuscript reads ٮسابور, with a single tooth without a dot before the س; at entries (813-814) the name is written نساٮور, without the ي and without the dot of the ب.",
+  "L09: the manuscript reads مرواروذ, as one word; at entry (1975) the name is written مروارود.",
+  "L10: the manuscript reads امونه.",
+  "L14: the manuscript reads اسروسنه, without the dots of the ش and with a final ه, here and at entry (2207).",
+  "L15: the manuscript reads ححنده, without the dots of the خ and the ج and with a final ه; at entry (2207) the name is written خحنده, without the dot of the ج.",
+  "L16: the manuscript reads نياكت."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 032 without a heading: the cities of the fifth clime, entries 385-400. No entry has the word «مدينة». Entries 386 and 387 have no number of Suhrāb; the others have [٣٦٥] (entry 385) and [٣٣٩]-[٣٥١] (entries 388-400).",
+  "Signs in the names, transcribed as printed: L10: «امّويه», with a shadda over the م.",
+  "L10: to the left of the note mark d stand a small curved stroke like an apostrophe, 6 by 8 px, and a round blot, 13 by 13 px, at the height of the note mark. Neither has the form of the editor's asterisk, a six-pointed star (frame 029, L08), and the notes do not mention them; not transcribed.",
+  "Letters printed without their dots in the numerals, transcribed so: the loop of ف or ق without dots in the degrees of the longitude, ڡ (L04), the isolated letter, a loop on a long flat bowl, 80, where L05 prints the same letter with its dot, ف; ڡح (L07, L12), ڡه (L09), ڡر (L11) and ڡط (L13); صٮ (L15), the ص and a final ب without its dot, 92. With their dots: ف (L05), فد (L08), فه (L10); قب (L06), the two dots of the ق above and the dot of the ب below; ن (L03, L06, the minutes of the longitude; L04, L09, L11, the minutes of the latitude); يه (L01); the ز of لز (L05, L06, L15).",
+  "L11: the degrees of the longitude, ڡر: the loop without dots joined to a ر; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed. A speck, 5 by 5 px, stands some 45 px to the left of the loop, at the height of its top and away from the head of the ر, above which the dot of a ز would stand; it is not transcribed.",
+  "The degrees printed with a final ح, عح (L01, L02), ڡح (L07, L12) and لح (L02-L04, L07-L09, L12), show no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.",
+  "L16: the degrees of the latitude, لج: a round dot, 6 by 6 px and as dark as the letters, stands in the bowl below the head of the ج, where this font sets the dot of the letter; it is smaller than the dot of the ج on frames 030 (L14) and 032 (L10), 8 to 9 px across. Transcribed لج, 33; the latitudes of the other entries of the page are 36 to 38 degrees.",
+  "L06: the degrees of the longitude, قب, 102, are printed with the two dots of the ق and the dot of the ب; the longitudes of the other entries of the page are 78 to 94 degrees. Transcribed as printed; the editor has no note on the entry.",
+  "The isolated ك, 20, is printed with the small inner stroke of the letter (L07, L08, L11, the minutes of the longitude).",
+  "Specks, not transcribed: L02, a speck to the right of the ع of the degrees of the longitude; L05, a speck, 4 by 4 px, to the right of the dot of the ف of the degrees of the longitude and lower than it, where the dot is 9 by 10 px; L06, a short horizontal stroke at the foot of the zero of the running number, between the zero and the bracket beside it; L07, two small dark specks to the right of the zero sign of the minutes of the latitude; L09, a dark speck below the line between the minutes and the degrees of the longitude; L13, a short dash to the left of the ل of the minutes of the longitude; L16, a short dash to the right of the ل of the degrees of the latitude.",
+  "L10, L11, L13, the degrees of the latitude: «لر»: the letter joined to the foot of the ل has the small pointed head of the joined ر, which stands out 6 to 7 px from the stem, as the ز of «لز» with its dot (L05, L06, L15, 7 to 8 px), where the و of «لو» (L01, L14) is a round loop that stands out 12 to 13 px and begins higher on the stem; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed, which read with ز gives 37.",
+  "The page number «— ٢٧ —» stands at the foot, centred."
+ ],
+ "copy_matter": [
+  "A faint wavy grey hairline lies in the space between the number of Suhrāb and the running number of entry 388 (L04), a fibre on the paper."
+ ],
+ "critical_notes": []
+}

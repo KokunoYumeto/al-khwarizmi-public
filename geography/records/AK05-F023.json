@@ -1,0 +1,438 @@
+{
+ "anchor": "AK05-F023",
+ "frame": 23,
+ "frame_file": "page_023.jpg",
+ "frame_sha256": "4b288e1bbe414e1101eca0c3ca8b888eb3c86a742b4314ef26115c1c3f323291",
+ "printed_page": "١٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 023, printed p. 17: the cities of the fourth clime continued, entries 214-230: places on and near the sea, Ṭarābulus of the Maghrib, the city of Tūnis with two pairs of coordinates, four places without coordinates (Tāhart, Tāqdamt, Targha, Kutāma), ٮرقه near the sea and places on the sea and on an island; the folio of the manuscript, «(fol. 5ᵇ)», in the margin. Two lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F023-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٢١٤) | [١٩٧] | ڡرقا قرب البحر | لر | {z} | لا | ن",
+   "margin": null,
+   "cells": [
+    "(٢١٤)",
+    "[١٩٧]",
+    "ڡرقا قرب البحر",
+    "لر",
+    "{z}",
+    "لا",
+    "ن"
+   ],
+   "plain": "(٢١٤) | [١٩٧] | ڡرقا قرب البحر | لر | ō | لا | ن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٢١٥) | [١٩٨] | اثانا على البحر | لح | {z} | لٮ | يه",
+   "margin": null,
+   "cells": [
+    "(٢١٥)",
+    "[١٩٨]",
+    "اثانا على البحر",
+    "لح",
+    "{z}",
+    "لٮ",
+    "يه"
+   ],
+   "plain": "(٢١٥) | [١٩٨] | اثانا على البحر | لح | ō | لٮ | يه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٢١٦) | [١٩٩] | سوقيا على البحر | لط | {z} | لٮ | يه",
+   "margin": null,
+   "cells": [
+    "(٢١٦)",
+    "[١٩٩]",
+    "سوقيا على البحر",
+    "لط",
+    "{z}",
+    "لٮ",
+    "يه"
+   ],
+   "plain": "(٢١٦) | [١٩٩] | سوقيا على البحر | لط | ō | لٮ | يه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٢١٧) | [٢٠٠] | ماوں على البحر | لط | ل | لا | ن",
+   "margin": null,
+   "cells": [
+    "(٢١٧)",
+    "[٢٠٠]",
+    "ماوں على البحر",
+    "لط",
+    "ل",
+    "لا",
+    "ن"
+   ],
+   "plain": "(٢١٧) | [٢٠٠] | ماوں على البحر | لط | ل | لا | ن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٢١٨) | [٢٠١] | اسفارنوس{n:a} على البحر | مٮ | {z} | لٮ | مه",
+   "margin": null,
+   "cells": [
+    "(٢١٨)",
+    "[٢٠١]",
+    "اسفارنوس{n:a} على البحر",
+    "مٮ",
+    "{z}",
+    "لٮ",
+    "مه"
+   ],
+   "plain": "(٢١٨) | [٢٠١] | اسفارنوس على البحر | مٮ | ō | لٮ | مه",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٢١٩) | | طرابلس المغرب على البحر | م | م | لٮ | {z}",
+   "margin": null,
+   "cells": [
+    "(٢١٩)",
+    "",
+    "طرابلس المغرب على البحر",
+    "م",
+    "م",
+    "لٮ",
+    "{z}"
+   ],
+   "plain": "(٢١٩) | | طرابلس المغرب على البحر | م | م | لٮ | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٢٢٠) | | مدينة تونس | لٮ | {z} | لح | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٢٠)",
+    "",
+    "مدينة تونس",
+    "لٮ",
+    "{z}",
+    "لح",
+    "{z}"
+   ],
+   "plain": "(٢٢٠) | | مدينة تونس | لٮ | ō | لح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "| | | ما | مه{n:b} | لو | م",
+   "margin": null,
+   "cells": [
+    "",
+    "",
+    "",
+    "ما",
+    "مه{n:b}",
+    "لو",
+    "م"
+   ],
+   "plain": "| | | ما | مه | لو | م",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٢٢١) | | تاهرت | | | |",
+   "margin": null,
+   "cells": [
+    "(٢٢١)",
+    "",
+    "تاهرت",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "plain": "(٢٢١) | | تاهرت | | | |",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٢٢٢) | | تاقدمت{n:c} | | | |",
+   "margin": null,
+   "cells": [
+    "(٢٢٢)",
+    "",
+    "تاقدمت{n:c}",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "plain": "(٢٢٢) | | تاقدمت | | | |",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٢٢٣) | | ترغة{n:d} | | | |",
+   "margin": null,
+   "cells": [
+    "(٢٢٣)",
+    "",
+    "ترغة{n:d}",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "plain": "(٢٢٣) | | ترغة | | | |",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٢٢٤) | | كتامة | | | |",
+   "margin": null,
+   "cells": [
+    "(٢٢٤)",
+    "",
+    "كتامة",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "plain": "(٢٢٤) | | كتامة | | | |",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٢٢٥) | [٢٠٢] | ٮرقه قرب البحر | مح | {z} | لح | مه",
+   "margin": "(fol. 5ᵇ)",
+   "cells": [
+    "(٢٢٥)",
+    "[٢٠٢]",
+    "ٮرقه قرب البحر",
+    "مح",
+    "{z}",
+    "لح",
+    "مه"
+   ],
+   "plain": "(٢٢٥) | [٢٠٢] | ٮرقه قرب البحر | مح | ō | لح | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٢٢٦) | | سرداسه{n:e} فى جزيرة | مب | ح | لو | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٢٦)",
+    "",
+    "سرداسه{n:e} فى جزيرة",
+    "مب",
+    "ح",
+    "لو",
+    "{z}"
+   ],
+   "plain": "(٢٢٦) | | سرداسه فى جزيرة | مب | ح | لو | ō",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٢٢٧) | [٢٠٤] | اقاليا{n:f} على البحر | مح | م | لد | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٢٧)",
+    "[٢٠٤]",
+    "اقاليا{n:f} على البحر",
+    "مح",
+    "م",
+    "لد",
+    "{z}"
+   ],
+   "plain": "(٢٢٧) | [٢٠٤] | اقاليا على البحر | مح | م | لد | ō",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٢٢٨) | | قورٮں{n:g} على البحر | مد | م | لح | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٢٨)",
+    "",
+    "قورٮں{n:g} على البحر",
+    "مد",
+    "م",
+    "لح",
+    "{z}"
+   ],
+   "plain": "(٢٢٨) | | قورٮں على البحر | مد | م | لح | ō",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(٢٢٩) | | طريش على البحر | مو | {z} | لا | ل",
+   "margin": null,
+   "cells": [
+    "(٢٢٩)",
+    "",
+    "طريش على البحر",
+    "مو",
+    "{z}",
+    "لا",
+    "ل"
+   ],
+   "plain": "(٢٢٩) | | طريش على البحر | مو | ō | لا | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F023-L18",
+   "n": 18,
+   "kind": "row",
+   "text": "(٢٣٠) | [٢٠٥] | ڡرنبوس على البحر | مو | {z} | لا | ل",
+   "margin": null,
+   "cells": [
+    "(٢٣٠)",
+    "[٢٠٥]",
+    "ڡرنبوس على البحر",
+    "مو",
+    "{z}",
+    "لا",
+    "ل"
+   ],
+   "plain": "(٢٣٠) | [٢٠٥] | ڡرنبوس على البحر | مو | ō | لا | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g"
+   ],
+   "lines": 2,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L04: at entry (1745) the name is written ماون (a note added in the editor's corrigenda (p. 163, frame 169), which print the name of this line «اوں», without its م).",
+  "L05: at entry (1042) the name اسفارنوس is written اسفارٮوس, with the variant reading اسفادوس; the editor's corrigenda (p. 163, frame 169) add that at entry (1819) it is written اسفارٮوس.",
+  "L08: for the second longitude, ما مه, the manuscript gives the variant reading مٮ مه, printed with a line above the numerals.",
+  "L10: the manuscript reads ناقوٮ for تاقدمت.",
+  "L11: the manuscript reads تدغه for ترغة.",
+  "L14: the editor identifies the place with entry (332), سردانيه.",
+  "L15: at entry (1043) the name اقاليا is written اقالينا.",
+  "L16: the editor suggests that the entry is perhaps the one numbered [٢٠٣] in Suhrāb."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 022 without a heading: the cities of the fourth clime, entries 214-230. Numbers of Suhrāb stand at entries 214-218 ([١٩٧]-[٢٠١]), 225 ([٢٠٢]), 227 ([٢٠٤]) and 230 ([٢٠٥]); [٢٠٣] does not appear, and the editor's note g proposes it for entry 228. Only entry 220 has the word «مدينة». The folio of the Strasbourg manuscript, «(fol. 5ᵇ)», is printed in Latin type in the left margin beside entry 225 (L13).",
+  "L07-L08: entry 220, the city of Tūnis, has two pairs of coordinates, printed on two lines and joined on the right by a brace; the running number and the name stand between the two lines. Transcribed as two rows, the second without number and name; the minutes of the second longitude carry the editor's note mark b.",
+  "L09-L12: entries 221-224, Tāhart, Tāqdamt, Targha and Kutāma, have no coordinates: the columns of the numerals are empty, and no rules are printed in them from below the second line of entry 220 to above entry 225.",
+  "L01, L18: «ڡرقا» and «ڡرنبوس» begin with a loop raised above the line and joined by a stroke on the line to a ر: the loop of ف or ق without dots, of the size and height of the ق of «قرب» (L01), which has its two dots. An isolated و stands on the line and goes straight into its tail, without a joining stroke and without the head of a ر; transcribed ڡر.",
+  "Letters printed without their dots in the names, transcribed so: «ٮرقه» (L13), the tooth before the ر; «ماوں» (L04), the final ن; «قورٮں» (L16), a tooth and the final ن after the ر. L02: «اثانا»: the three dots of the ث are printed as one mark; the ن has its dot. L09, L10: the two dots of the first ت of «تاهرت» and «تاقدمت» are printed touching the top of the following alif.",
+  "Letters printed without their dots in the numerals, transcribed so: لٮ, the final ب without its dot, in the degrees of the latitude (L02, L03, L05, L06) and of the longitude (L07); مٮ (L05, the degrees of the longitude). With their dots: مب (L14, the degrees of the longitude); يه (L02, L03) and ن (L01, L04), in the minutes of the latitude.",
+  "L01: the degrees of the longitude, لر: in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed. L18: in the degrees of the longitude, مو, the م is printed apart from the و.",
+  "Below the notes, at the left, the signature «2» of the printed sheet; the page number «— ١٧ —» stands at the foot, centred.",
+  "L13: the editor's corrigenda (p. 163, frame 169) read «برقة» for «ٮرقه» (critical note AK05-CN017)."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK05-CN017",
+   "class": "corrected in the corrigenda",
+   "line": "L13",
+   "printed": "ٮرقه",
+   "proposed": "برقة",
+   "evidence": "the editor's list of additions and corrections on p. 163 (frame 169) reads برقة for ٮرقه in this line, p. 17, line 13",
+   "confidence": "high",
+   "impact": "the name of entry 225 reads برقة, Barqa"
+  }
+ ]
+}

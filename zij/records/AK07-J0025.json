@@ -1,0 +1,787 @@
+{
+ "anchor": "AK07-J0025",
+ "jp2_index": 25,
+ "jp2_member": "b24872489_0025.jp2",
+ "jp2_sha256": "69e5299387bd84b47878edcf596dd20fc04955400020f6aa599c671460da5169",
+ "reading_copy": "page_0025.jpg",
+ "reading_copy_sha256": "1ae24af60b9a2d8a93c9c16339bfb254bddacbf50fad5457bce211740b2c5b90",
+ "printed_page": "XXI",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0025: the introduction, p. XXI: the end of Suter's judgement of the eclipse notes; the corrupt Arabic words and sentences of the text and tables: three notes of the manuscript O (fol. 103v, 104v, 127v), with the readings of Nallino and Seybold.",
+ "lines": [
+  {
+   "id": "AK07-J0025-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "wenn man sie mit derjenigen {sp:Al-Battānīs} vergleicht, wohl auch nicht richtig, zum",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wenn man sie mit derjenigen Al-Battānīs vergleicht, wohl auch nicht richtig, zum",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Battānīs"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "mindesten ebenfalls unvollständig, was eine spätere Hand veranlasst hat, eine zweite",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mindesten ebenfalls unvollständig, was eine spätere Hand veranlasst hat, eine zweite",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "Berichtigung hinzuzufügen.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Berichtigung hinzuzufügen.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L04",
+   "n": 4,
+   "kind": "indent",
+   "text": "Im Text und in den Tafeln kommen einige ganz verdorbene {i:arabische} Wörter und",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Im Text und in den Tafeln kommen einige ganz verdorbene arabische Wörter und",
+   "italic": [
+    "arabische"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "Sätze vor, die ich an dieser Stelle zu erklären versuchen möchte, da ich dieselben",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Sätze vor, die ich an dieser Stelle zu erklären versuchen möchte, da ich dieselben",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "im Glossar nicht gut unter einem bestimmen Stichwort unterbringen konnte. Wie",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "im Glossar nicht gut unter einem bestimmen Stichwort unterbringen konnte. Wie",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "sie in das Werk gekommen sind, ist mit Ausnahme der persischen Namen für die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sie in das Werk gekommen sind, ist mit Ausnahme der persischen Namen für die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "Planeten schwer zu entscheiden, mir scheinen sie blosse Spielereien des Übersetzers,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Planeten schwer zu entscheiden, mir scheinen sie blosse Spielereien des Übersetzers,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "oder eines Abschreibers zu sein ; es ist kaum anzunehmen, dass sie von {sp:Maslama}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "oder eines Abschreibers zu sein ; es ist kaum anzunehmen, dass sie von Maslama",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Maslama"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "{sp:al-Madjrīṭī}, oder gar von {sp:Al-Khwārizmī} herstammen. Für die freundliche",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "al-Madjrīṭī, oder gar von Al-Khwārizmī herstammen. Für die freundliche",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "al-Madjrīṭī",
+    "Al-Khwārizmī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "Hilfe, die mir bei den schwierigen Stellen die Herren Proff. {sp:Nallino} in Palermo und",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Hilfe, die mir bei den schwierigen Stellen die Herren Proff. Nallino in Palermo und",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "{sp:Seybold} in Tübingen geleistet haben, spreche ich ihnen auch an dieser Stelle",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Seybold in Tübingen geleistet haben, spreche ich ihnen auch an dieser Stelle",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Seybold"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "meinen verbindlichen Dank aus.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "meinen verbindlichen Dank aus.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L14",
+   "n": 14,
+   "kind": "indent",
+   "text": "Im Ms. O steht auf fol. 103{sup:v} (Tafel 7) folgende Note am obern Rand : {i:kulelach.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Im Ms. O steht auf fol. 103v (Tafel 7) folgende Note am obern Rand : kulelach.",
+   "italic": [
+    "kulelach."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "{i:vveli. kemithl. elhileli. fikemelen. wanuczeni.} Dies soll wohl heissen : {i:kull al-aḥwāli}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "vveli. kemithl. elhileli. fikemelen. wanuczeni. Dies soll wohl heissen : kull al-aḥwāli",
+   "italic": [
+    "vveli. kemithl. elhileli. fikemelen. wanuczeni.",
+    "kull al-aḥwāli"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "{i:kamithl al-hilāli fī kamālin wanuḳṣānin,} und bedeutet frei übersetzt : Alle Verände-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "kamithl al-hilāli fī kamālin wanuḳṣānin, und bedeutet frei übersetzt : Alle Verände-",
+   "italic": [
+    "kamithl al-hilāli fī kamālin wanuḳṣānin,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "rungen (des Lebens, der Natur) verhalten sich wie der Mond, (sie äussern sich) in",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "rungen (des Lebens, der Natur) verhalten sich wie der Mond, (sie äussern sich) in",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "einer Zunahme (bis zur Vollständigkeit), und in einer (darauf folgenden) Abnahme.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "einer Zunahme (bis zur Vollständigkeit), und in einer (darauf folgenden) Abnahme.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L19",
+   "n": 19,
+   "kind": "indent",
+   "text": "In demselben Ms. steht auf fol. 104{sup:v} (Tafel 9) über dem Kolonnentitel {i:Heza Saturni}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "In demselben Ms. steht auf fol. 104v (Tafel 9) über dem Kolonnentitel Heza Saturni",
+   "italic": [
+    "Heza Saturni"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "{i:supradictum} folgende Note : {i:Nota quod hoc argumentum felek eltedewir servit. bifelek}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "supradictum folgende Note : Nota quod hoc argumentum felek eltedewir servit. bifelek",
+   "italic": [
+    "supradictum",
+    "Nota quod hoc argumentum felek eltedewir servit. bifelek"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "{i:eltedewir lieztekim asmir.} — {i:Felek eltedewir} = {i:falak al-tadwīr} ist der {i:Epizykel} der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "eltedewir lieztekim asmir. — Felek eltedewir = falak al-tadwīr ist der Epizykel der",
+   "italic": [
+    "eltedewir lieztekim asmir.",
+    "Felek eltedewir",
+    "falak al-tadwīr",
+    "Epizykel"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "Planeten ; {i:lieztekim asmir} könnte, wie {sp:Nallino} vermutet, heissen : {i:liyastakīm as-sair},",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Planeten ; lieztekim asmir könnte, wie Nallino vermutet, heissen : liyastakīm as-sair,",
+   "italic": [
+    "lieztekim asmir",
+    "liyastakīm as-sair"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "oder {i:al-masīr}, d. h. dass er den Lauf (des Planeten) bestimme, ordne, reguliere ; in",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "oder al-masīr, d. h. dass er den Lauf (des Planeten) bestimme, ordne, reguliere ; in",
+   "italic": [
+    "al-masīr"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "der Tat ist der Epizykel zu diesem Zwecke eingeführt worden.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Tat ist der Epizykel zu diesem Zwecke eingeführt worden.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L25",
+   "n": 25,
+   "kind": "indent",
+   "text": "In dem gleichen Ms. befindet sich auf fol. 127{sup:v} (Tafel 55) am obern Rand",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "In dem gleichen Ms. befindet sich auf fol. 127v (Tafel 55) am obern Rand",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "folgende Note : {i:Cullel. kavvekib. kumna. fiscerafehu. ille Otari. ahine unxi ademu.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "folgende Note : Cullel. kavvekib. kumna. fiscerafehu. ille Otari. ahine unxi ademu.",
+   "italic": [
+    "Cullel. kavvekib. kumna. fiscerafehu. ille Otari. ahine unxi ademu."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "{sp:Nallino} vermutete, das Ganze möchte ein Vers zur Ehre oder Lobpreisung irgend",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Nallino vermutete, das Ganze möchte ein Vers zur Ehre oder Lobpreisung irgend",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "einer hohen Persönlichkeit (eines Fürsten) sein, und sollte lauten : {i:Kullu’l-kawākibi}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "einer hohen Persönlichkeit (eines Fürsten) sein, und sollte lauten : Kullu’l-kawākibi",
+   "italic": [
+    "Kullu’l-kawākibi"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "{i:ḳumna fī sharafihi illā ʿOṭārida,} d. h. alle Planeten erhoben sich zu seiner Ehre",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ḳumna fī sharafihi illā ʿOṭārida, d. h. alle Planeten erhoben sich zu seiner Ehre",
+   "italic": [
+    "ḳumna fī sharafihi illā ʿOṭārida,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "ausser Merkur ; die drei Wörter aber {i:ahine unxi ademu} blieben ihm unklar. — Bei",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ausser Merkur ; die drei Wörter aber ahine unxi ademu blieben ihm unklar. — Bei",
+   "italic": [
+    "ahine unxi ademu"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "einem Besuche im Herbst 1913 bei Herrn Prof. {sp:Seybold} in Tübingen legte ich ihm",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "einem Besuche im Herbst 1913 bei Herrn Prof. Seybold in Tübingen legte ich ihm",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Seybold"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "diese Stelle ebenfalls vor, sie erinnerte ihn sofort an einige Ḳorānstellen{sup:1}), wo von",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "diese Stelle ebenfalls vor, sie erinnerte ihn sofort an einige Ḳorānstellen1), wo von",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "den Engeln die Rede ist, die alle ausser {i:Iblīs} (dem Satan) vor {i:Adam} niederfielen,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "den Engeln die Rede ist, die alle ausser Iblīs (dem Satan) vor Adam niederfielen,",
+   "italic": [
+    "Iblīs",
+    "Adam"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "und er stellte daher die wohl mit Recht begründete Vermutung auf, das {i:a} von {i:ahine}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "und er stellte daher die wohl mit Recht begründete Vermutung auf, das a von ahine",
+   "italic": [
+    "a",
+    "ahine"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "sei wohl verdorben aus {i:d} und gehöre ans Ende von {i:Otari}, das {i:x} in {i:unxi} sei nach",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sei wohl verdorben aus d und gehöre ans Ende von Otari, das x in unxi sei nach",
+   "italic": [
+    "d",
+    "Otari",
+    "x",
+    "unxi"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L36",
+   "n": 36,
+   "kind": "text",
+   "text": "spanischer Transskriptionsart als {i:sh} zu lesen, so dass also die drei letzten Wörter",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "spanischer Transskriptionsart als sh zu lesen, so dass also die drei letzten Wörter",
+   "italic": [
+    "sh"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "zu lesen wären : {i:ḥīna unshi’a ādamu}, also der ganze Satz in halb klassischer, halb",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zu lesen wären : ḥīna unshi’a ādamu, also der ganze Satz in halb klassischer, halb",
+   "italic": [
+    "ḥīna unshi’a ādamu"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L38",
+   "n": 38,
+   "kind": "text",
+   "text": "vulgärer Aussprache : {i:kull al-kawākib ḳumna fī sharafihi illā ʿOṭārid ḥīna unshi’a}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "vulgärer Aussprache : kull al-kawākib ḳumna fī sharafihi illā ʿOṭārid ḥīna unshi’a",
+   "italic": [
+    "kull al-kawākib ḳumna fī sharafihi illā ʿOṭārid ḥīna unshi’a"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L39",
+   "n": 39,
+   "kind": "text",
+   "text": "{i:ādamu}, d. h. alle Planeten erhoben sich zu seiner (Adams) Ehre ausser Merkur, zur",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ādamu, d. h. alle Planeten erhoben sich zu seiner (Adams) Ehre ausser Merkur, zur",
+   "italic": [
+    "ādamu"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L40",
+   "n": 40,
+   "kind": "text",
+   "text": "Zeit da Adam erschaffen wurde. — Dass hier {i:Merkur} die Stelle des {i:Satans} ({i:Iblīs})",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Zeit da Adam erschaffen wurde. — Dass hier Merkur die Stelle des Satans (Iblīs)",
+   "italic": [
+    "Merkur",
+    "Satans",
+    "Iblīs"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-L41",
+   "n": 41,
+   "kind": "text",
+   "text": "vertritt, hat seinen Grund wohl darin, dass im Mittelalter der griechiche {i:Hermes} mit",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "vertritt, hat seinen Grund wohl darin, dass im Mittelalter der griechiche Hermes mit",
+   "italic": [
+    "Hermes"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0025-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Vergl. die Suren II, 32 ; VII, 11 ; XX, 116.",
+   "margin": null,
+   "plain": "1) Vergl. die Suren II, 32 ; VII, 11 ; XX, 116.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «XXI» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «IV» on the right; recorded here, not transcribed as a line.",
+  "The words of the notes of O are printed in italics as they stand in the manuscript, each followed by a point; the readings proposed for them in italics with the dots under ḥ, ḳ, ṣ, ṭ, the macrons and the ʿayn as a raised reversed comma (L29, L38). L15 «vveli» and L26 «kavvekib» have two italic v's, where «wanuczeni» (L15) has the italic w. L28 «Kullu’l-» and L37-L38 «unshi’a»: the apostrophe after the i stands beside the dot of the i."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK07-CN004",
+   "class": "misprint",
+   "line": "L06",
+   "printed": "bestimmen",
+   "proposed": "bestimmten",
+   "evidence": "«unter einem bestimmen Stichwort», under a particular headword: the participle is «bestimmten»; the t has dropped out",
+   "confidence": "high",
+   "impact": "none"
+  },
+  {
+   "id": "AK07-CN005",
+   "class": "misprint",
+   "line": "L41",
+   "printed": "griechiche",
+   "proposed": "griechische",
+   "evidence": "«der griechiche Hermes», the Greek Hermes: the adjective is «griechische»; the s before ch has dropped out",
+   "confidence": "high",
+   "impact": "none"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "anchor": "AK01-F125",
+ "frame": 125,
+ "frame_file": "page_125.jpg",
+ "frame_sha256": "b8bac7327fe7a67fce4ace35dbef63a0b8f07152b04f0c0ecf74eae21634a30c",
+ "printed_page": "-",
+ "kind": "blank",
+ "role": "blank",
+ "comment": "Frame 125: a blank leaf side, on the grey paper of the wrapper.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Blank, on grey paper of the tone of the edition's printed wrapper (frames 001 and 126), darker than the white paper of the text leaves; nothing printed."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

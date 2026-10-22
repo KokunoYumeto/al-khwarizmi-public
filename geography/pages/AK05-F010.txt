@@ -1,0 +1,32 @@
+@page 10 ٤
+% Frame 010, printed p. 4: the heading of the first clime, «الإقليم الأوّل عرضه يو كر», its latitude 16° 27', and
+% of its cities; entries 9-18: Nāris, Mūrā and Dunqula of Nubia, Kūs al-Wāghila, a city of Sarandīb, a city of China,
+% the three Chinese ports Khānfū, Khānjū and Qānṣū without coordinates, and Adūlī on the sea. Eleven lines of the
+% editor's footnotes.
+@h * الإقليم الأوّل عرضه {ov:يو كر} *
+@h * المدن الّتى فى الإقليم الأوّل *
+@r (٩) | [١] | ⟨مدينة ٮارس⟩{n:a}ا | ى | {z} | يه | ل
+@r (١٠) | [٢] | مدينة مورا | ٮٮ | ل{n:b} | يه | {z}
+@r (١١) | [٣] | مدينة النوبة دنقلة{n:c} | نج | {z} | ⟨ٮد⟩{n:d} | ل
+@r (١٢) | | كوس الواغلة | ن{n:e} | {z} | ٮٮ | {z}
+@r (١٣) | | طروڡاى فى جزيرة سرنديب | ڡكد | {z} | ح | {z}
+@r (١٤) | | ⟨مدينة من⟩{n:f} بلاد الصين | قعٮ | {z} | يو | {z}
+@r (١٥) | | خانفوا{n:g} | {z}^2 | {z}^2
+@r (١٦) | | خانجوا{n:h} | {z}^2 | {z}^2
+@r (١٧) | | قانصوا{n:i} | {z}^2 | {z}^2
+@r (١٨) | [٤] | مدينة ادولى على البحر | نح | ل | يح | ل
+@ednotes a b c d e f g h i 11
+@obs L01-L02: the two headings stand between small open stars, transcribed as asterisks. In L01 the latitude of the clime, «يو كر», is printed with a line above the two numerals, the line with which the edition marks numerals written with letters in the running text; transcribed with {ov:…}. The ر of كر stands for ز, 7 (introduction, frame 196, p. XVII): 16° 27'.
+@obs From this page the second column carries, in square brackets, the numbers of the same entries in Suhrāb's ʿAjāʾib al-aqālīm: [١]-[٣] at entries 9-11 and [٤] at entry 18; the other entries have none.
+@obs The angle brackets ⟨ ⟩: the editor's note a says that he marks between them what he supplies where the manuscript is damaged, has a gap or omits something, and with dots between them what he could not supply; the words of entry 9 are supplied from Suhrāb, whose book he cites as S. Transcribed as printed: ⟨مدينة ٮارس⟩ (L03), ⟨ٮد⟩ (L05, the degrees of the latitude), ⟨مدينة من⟩ (L08).
+@obs L03: «⟨مدينة ٮارس⟩ا», as printed: after the closing bracket and the note mark a stands a single alif, outside the brackets, the letter that the manuscript keeps of the damaged words; the first letter of ٮارس, a tooth joined to the alif, is printed without a dot.
+@obs Letters printed without their dots, transcribed so: the degrees of the longitude ٮٮ (L04) and of the latitude ٮٮ (L06), each a tooth joined to a final ب, both without dots, with two risers at the right end of the bowl, a tall and a short one, where the isolated ب has one (frame 013, L15); ڡكد (L07), the loop of ف or ق without dots; ٮد (L05) and ٮارس (L03), the tooth without its dot; ى, the final form without dots (L03, the degrees of the longitude, 10). The ق of قعٮ (L08) has its two dots, printed small; the print of this cell is blurred, and the shape between the ق and the final ٮ is that of a medial ع.
+@obs L09-L11: for the three ports of China, entries 15-17, the print sets a single zero sign in the middle of each pair of columns, under the rules of the longitude and of the latitude; transcribed as a zero sign spanning the two columns.
+@obs L05: the editor's note c says that the manuscript is damaged at دنقلة but the reading is certain; note d, that the degrees of the latitude are damaged and are supplied from S.
+@obs The page number «— ٤ —» stands at the foot, centred.
+@variant L04: for the longitude, ٮٮ ل, the manuscript gives the variant reading ب ل.
+@variant L06: for the degrees of the longitude, ن (50), the manuscript gives the variant reading ل (30), with the minutes ō.
+@variant L08: the words ⟨مدينة من⟩ fill a gap of the manuscript.
+@variant L09: for خانفوا the manuscript reads حايقوا; the editor compares Ibn Khurradādhbih (BGA VI, p. 69, line 5).
+@variant L10: for خانجوا the manuscript reads ٮانقوا; the editor compares the same passage (BGA VI, p. 69, line 6).
+@variant L11: for قانصوا the manuscript reads ٮالصوا; the editor compares the same passage (BGA VI, p. 69, line 7).

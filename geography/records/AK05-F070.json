@@ -1,0 +1,354 @@
+{
+ "anchor": "AK05-F070",
+ "frame": 70,
+ "frame_file": "page_070.jpg",
+ "frame_sha256": "a16fed0981d4000c4ce47b0ba6dada54a4242aec0c6d995349db8e042b3a0891",
+ "printed_page": "٦٤",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 070, printed p. 64: the right-hand page of the opening pp. 64-65 of the table of the mountains beyond the seventh clime: the numbers and names of nineteen entries, 929/930-965/966, among them the mountain of the Alans, the mountain of Gog, the surrounding one, whose beginning is from al-Sughd, the mountain of Magog, dark and joined to the surrounding mountain, and two mountains in the land of Gog; the folio of the manuscript, «(fol. 16ᵇ)», in the margin. Three lines of the editor's footnotes, continued from the foot of p. 65.",
+ "lines": [
+  {
+   "id": "AK05-F070-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٩٢٩ ٩٣٠) | [١٤١٩ ١٤٢٠] | جبل",
+   "margin": null,
+   "cells": [
+    "(٩٢٩ ٩٣٠)",
+    "[١٤١٩ ١٤٢٠]",
+    "جبل"
+   ],
+   "plain": "(٩٢٩ ٩٣٠) | [١٤١٩ ١٤٢٠] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٩٣١ ٩٣٢) | [١٤٢١ ١٤٢٢] | جبل ارسانا{n:a}",
+   "margin": null,
+   "cells": [
+    "(٩٣١ ٩٣٢)",
+    "[١٤٢١ ١٤٢٢]",
+    "جبل ارسانا{n:a}"
+   ],
+   "plain": "(٩٣١ ٩٣٢) | [١٤٢١ ١٤٢٢] | جبل ارسانا",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٩٣٣ ٩٣٤) | [١٤٢٣ ١٤٢٤] | جبل",
+   "margin": null,
+   "cells": [
+    "(٩٣٣ ٩٣٤)",
+    "[١٤٢٣ ١٤٢٤]",
+    "جبل"
+   ],
+   "plain": "(٩٣٣ ٩٣٤) | [١٤٢٣ ١٤٢٤] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٩٣٥ ٩٣٦) | [١٤٢٥ ١٤٢٦] | جبل يجىء من اوّل هٰذا الجبل",
+   "margin": null,
+   "cells": [
+    "(٩٣٥ ٩٣٦)",
+    "[١٤٢٥ ١٤٢٦]",
+    "جبل يجىء من اوّل هٰذا الجبل"
+   ],
+   "plain": "(٩٣٥ ٩٣٦) | [١٤٢٥ ١٤٢٦] | جبل يجىء من اوّل هٰذا الجبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٩٣٧ ٩٣٨) | [١٤٢٧ ١٤٢٨] | جبل اسقاسيا{n:c}",
+   "margin": null,
+   "cells": [
+    "(٩٣٧ ٩٣٨)",
+    "[١٤٢٧ ١٤٢٨]",
+    "جبل اسقاسيا{n:c}"
+   ],
+   "plain": "(٩٣٧ ٩٣٨) | [١٤٢٧ ١٤٢٨] | جبل اسقاسيا",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٩٣٩ ٩٤٠) | [١٤٢٩ ١٤٣٠] | جبل الان",
+   "margin": null,
+   "cells": [
+    "(٩٣٩ ٩٤٠)",
+    "[١٤٢٩ ١٤٣٠]",
+    "جبل الان"
+   ],
+   "plain": "(٩٣٩ ٩٤٠) | [١٤٢٩ ١٤٣٠] | جبل الان",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٩٤١ ٩٤٢) | [١٤٣١ ١٤٣٢] | جبل طفورا{n:f}",
+   "margin": null,
+   "cells": [
+    "(٩٤١ ٩٤٢)",
+    "[١٤٣١ ١٤٣٢]",
+    "جبل طفورا{n:f}"
+   ],
+   "plain": "(٩٤١ ٩٤٢) | [١٤٣١ ١٤٣٢] | جبل طفورا",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٩٤٣ ٩٤٤) | [١٤٣٣ ١٤٣٤] | جبل سونيا",
+   "margin": null,
+   "cells": [
+    "(٩٤٣ ٩٤٤)",
+    "[١٤٣٣ ١٤٣٤]",
+    "جبل سونيا"
+   ],
+   "plain": "(٩٤٣ ٩٤٤) | [١٤٣٣ ١٤٣٤] | جبل سونيا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٩٤٥ ٩٤٦) | [١٤٣٥ ١٤٣٦] | جبل متّصل بهٰذا الجبل",
+   "margin": null,
+   "cells": [
+    "(٩٤٥ ٩٤٦)",
+    "[١٤٣٥ ١٤٣٦]",
+    "جبل متّصل بهٰذا الجبل"
+   ],
+   "plain": "(٩٤٥ ٩٤٦) | [١٤٣٥ ١٤٣٦] | جبل متّصل بهٰذا الجبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٩٤٧ ٩٤٨) | [١٤٣٧ ١٤٣٨] | جبل انازاٮا",
+   "margin": null,
+   "cells": [
+    "(٩٤٧ ٩٤٨)",
+    "[١٤٣٧ ١٤٣٨]",
+    "جبل انازاٮا"
+   ],
+   "plain": "(٩٤٧ ٩٤٨) | [١٤٣٧ ١٤٣٨] | جبل انازاٮا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٩٤٩ ٩٥٠) | [١٤٣٩ ١٤٤٠] | جبل",
+   "margin": null,
+   "cells": [
+    "(٩٤٩ ٩٥٠)",
+    "[١٤٣٩ ١٤٤٠]",
+    "جبل"
+   ],
+   "plain": "(٩٤٩ ٩٥٠) | [١٤٣٩ ١٤٤٠] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٩٥١ ٩٥٢) | [١٤٤١ ١٤٤٢] | جبل اورقيون",
+   "margin": null,
+   "cells": [
+    "(٩٥١ ٩٥٢)",
+    "[١٤٤١ ١٤٤٢]",
+    "جبل اورقيون"
+   ],
+   "plain": "(٩٥١ ٩٥٢) | [١٤٤١ ١٤٤٢] | جبل اورقيون",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٩٥٣ ٩٥٤) | [١٤٤٣ ١٤٤٤] | جبل لناتيتى",
+   "margin": null,
+   "cells": [
+    "(٩٥٣ ٩٥٤)",
+    "[١٤٤٣ ١٤٤٤]",
+    "جبل لناتيتى"
+   ],
+   "plain": "(٩٥٣ ٩٥٤) | [١٤٤٣ ١٤٤٤] | جبل لناتيتى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٩٥٥ ٩٥٦) | [١٤٤٥ ١٤٤٦] | جبل اسمريا",
+   "margin": null,
+   "cells": [
+    "(٩٥٥ ٩٥٦)",
+    "[١٤٤٥ ١٤٤٦]",
+    "جبل اسمريا"
+   ],
+   "plain": "(٩٥٥ ٩٥٦) | [١٤٤٥ ١٤٤٦] | جبل اسمريا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٩٥٧ ٩٥٨) | [١٤٤٧ ١٤٤٨] | جبل ارانيا",
+   "margin": null,
+   "cells": [
+    "(٩٥٧ ٩٥٨)",
+    "[١٤٤٧ ١٤٤٨]",
+    "جبل ارانيا"
+   ],
+   "plain": "(٩٥٧ ٩٥٨) | [١٤٤٧ ١٤٤٨] | جبل ارانيا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٩٥٩ ٩٦٠) | [١٤٤٩ ١٤٥٠] | جبل ياجوج المحيط اوّله من الصغد",
+   "margin": null,
+   "cells": [
+    "(٩٥٩ ٩٦٠)",
+    "[١٤٤٩ ١٤٥٠]",
+    "جبل ياجوج المحيط اوّله من الصغد"
+   ],
+   "plain": "(٩٥٩ ٩٦٠) | [١٤٤٩ ١٤٥٠] | جبل ياجوج المحيط اوّله من الصغد",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(٩٦١ ٩٦٢) | [١٤٥١ ١٤٥٢] | جبل ماجوج وهو مظلم موصول بالجبل المحيط",
+   "margin": null,
+   "cells": [
+    "(٩٦١ ٩٦٢)",
+    "[١٤٥١ ١٤٥٢]",
+    "جبل ماجوج وهو مظلم موصول بالجبل المحيط"
+   ],
+   "plain": "(٩٦١ ٩٦٢) | [١٤٥١ ١٤٥٢] | جبل ماجوج وهو مظلم موصول بالجبل المحيط",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L18",
+   "n": 18,
+   "kind": "row",
+   "text": "(٩٦٣ ٩٦٤) | [١٤٥٣ ١٤٥٤] | جبل حسدس فى بلاد ياجوج",
+   "margin": "(fol. 16ᵇ)",
+   "cells": [
+    "(٩٦٣ ٩٦٤)",
+    "[١٤٥٣ ١٤٥٤]",
+    "جبل حسدس فى بلاد ياجوج"
+   ],
+   "plain": "(٩٦٣ ٩٦٤) | [١٤٥٣ ١٤٥٤] | جبل حسدس فى بلاد ياجوج",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F070-L19",
+   "n": 19,
+   "kind": "row",
+   "text": "(٩٦٥ ٩٦٦) | [١٤٥٥ ١٤٥٦] | جبل دورالس فى بلاد ياجوج",
+   "margin": null,
+   "cells": [
+    "(٩٦٥ ٩٦٦)",
+    "[١٤٥٥ ١٤٥٦]",
+    "جبل دورالس فى بلاد ياجوج"
+   ],
+   "plain": "(٩٦٥ ٩٦٦) | [١٤٥٥ ١٤٥٦] | جبل دورالس فى بلاد ياجوج",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "d",
+    "e",
+    "f",
+    "g",
+    "h"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L02: at entry (2401) the name is written ارساٮا, the tooth before the final alif without the dot of the ن (note a, printed at the foot of p. 65).",
+  "L05: at entry (2227) the name is written اسقاسا, and at entries (2229) and (2231) اسڡاسا, with a loop without dots (note c, printed at the foot of p. 65).",
+  "L07: at entry (2239) the name is written طغورا (note f)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table of the mountains beyond the seventh clime goes on across the opening pp. 64-65, without a heading: each line of p. 64 is continued by the same line of p. 65 (frame 071), which gives the boundaries, the colour and the direction. The running numbers go on from entry 927/928 (frame 068) and run (٩٢٩ ٩٣٠)-(٩٦٥ ٩٦٦); the numbers of Suhrāb run [١٤١٩ ١٤٢٠]-[١٤٥٥ ١٤٥٦] without a gap. The folio of the Strasbourg manuscript, «(fol. 16ᵇ)», is printed in Latin type in the right margin beside entry 963/964 (L18).",
+  "L01, L03, L11: the word «جبل» alone. L04: «جبل يجىء من اوّل هٰذا الجبل», a mountain that comes from the beginning of this mountain: «يجىء» with the dots of the ي and of the ج, a ى without dots and a hamza on the line after it; «اوّل» with a shadda over the و; «هٰذا» with a dagger alif over the ه. L09: «جبل متّصل بهٰذا الجبل», a mountain joined to this mountain, as on p. 62 (frame 068, L14). L06: «جبل الان», the mountain of the Alans. L16: «جبل ياجوج المحيط اوّله من الصغد», the mountain of Gog, the surrounding one, whose beginning is from al-Sughd, «اوّله» with a shadda over the و. L17: «جبل ماجوج وهو مظلم موصول بالجبل المحيط», the mountain of Magog, which is dark, joined to the surrounding mountain. L18: «جبل حسدس فى بلاد ياجوج» and L19: «جبل دورالس فى بلاد ياجوج», mountains in the land of Gog; «فى» has the dot of the ف and no dots on the ى.",
+  "L10: «انازاٮا»: the tooth before the first alif has the dot of a ن, and the tooth before the final alif has none. L13: «لناتيتى», with the dots of the ن, of the two ت and of the ي, ends in a ى without dots. L02: «ارسانا», L05: «اسقاسيا», L08: «سونيا», L12: «اورقيون», L14: «اسمريا» and L15: «ارانيا», with all their dots.",
+  "L07: «طفورا»: after the ط, an upright loop, 13 px wide and 15 px high, with a white counter and a dot above it; transcribed ف. In the form of entry (2239) that the editor's note f gives, the letter after the ط is lower and wider, 17 by 14 px, with a dot above: the medial غ.",
+  "Marks not transcribed: L08, a short raised stroke, 23 by 8 px, between the two numbers of Suhrāb; L09, a dot of 5 by 5 px at mid-height between the two running numbers, smaller than the dots of the font.",
+  "The editor's footnotes of the opening begin at the foot of p. 65 (frame 071) with notes a-c and the beginning of note d, and continue here in three lines with the end of note d and notes e-h. The texts of notes a and c, whose marks stand on this page (L02, L05), are printed on p. 65; the marks of notes d, e, g and h stand on p. 65 (frame 071, L05, L06, L08, L16). In note c, a tick of 5 by 4 px stands above the loop of the second form; it is smaller than a dot and is not taken as one.",
+  "The page number «— ٦٤ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

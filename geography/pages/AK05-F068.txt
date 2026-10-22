@@ -1,0 +1,45 @@
+@page 68 ٦٢
+@cols 22,50,82
+@align r,c,r
+% Frame 068, printed p. 62: the right-hand page of the opening pp. 62-63 of the table of the mountains beyond the
+% seventh clime: the numbers and names of eighteen entries, 893/894-927/928, among them Fālī and Qālī, a mountain joined
+% to this mountain, two watchtowers built by Dhū l-Qarnayn, Qarmāniyā and Rūmīqā, with three mountains without a name;
+% the folio of the manuscript, «(fol. 16ᵃ)», in the margin. Four lines of the editor's footnotes, continued from the
+% foot of p. 63.
+@r (٨٩٣ ٨٩٤) | [١٣٨٣ ١٣٨٤] | جبل ٮوٮونا
+@r (٨٩٥ ٨٩٦) | [١٣٨٥ ١٣٨٦] | جبل مٮلٮاق{n:b}
+@r (٨٩٧ ٨٩٨) | [١٣٩١ ١٣٩٢] | جبل سورطاٮا
+@r (٨٩٩ ٩٠٠) | [١٣٨٧ ١٣٨٨] | جبل اسڡورڡون{n:c}
+@r (٩٠١ ٩٠٢) | [١٣٨٩ ١٣٩٠] | جبل سرطامڡا{n:d}
+@r (٩٠٣ ٩٠٤) | [١٣٩٣ ١٣٩٤] | جبل ڡرطس
+@r (٩٠٥ ٩٠٦) | [١٣٩٥ ١٣٩٦] | جبل فالى
+@r (٩٠٧ ٩٠٨) | [١٣٩٧ ١٣٩٨] | جبل قالى
+@r (٩٠٩ ٩١٠) | [١٣٩٩ ١٤٠٠] | جبل
+@r (٩١١ ٩١٢) | [١٤٠١ ١٤٠٢] | جبل
+@r (٩١٣ ٩١٤) | [١٤٠٣ ١٤٠٤] | جبل ٮادنس
+@m (fol. 16ᵃ)
+@r (٩١٥ ٩١٦) | [١٤٠٥ ١٤٠٦] | جبل دٮڡا{n:g}
+@r (٩١٧ ٩١٨) | [١٤٠٧ ١٤٠٨] | جبل
+@r (٩١٩ ٩٢٠) | [١٤٠٩ ١٤١٠] | جبل متّصل بهٰذا الجبل
+@r (٩٢١ ٩٢٢) | [١٤١١ ١٤١٢] | جبل افيقا{n:l}
+@r (٩٢٣ ٩٢٤) | [١٤١٣ ١٤١٤] | منظرتان{n:m} بناهما ذو القرنين
+@r (٩٢٥ ٩٢٦) | [١٤١٥ ١٤١٦] | جبل قرمانيا{n:n}
+@r (٩٢٧ ٩٢٨) | [١٤١٧ ١٤١٨] | جبل روميقا{n:o}
+@ednotes h i k l m n o 4
+@obs The table of the mountains beyond the seventh clime goes on across the opening pp. 62-63, without a heading: each line of p. 62 is continued by the same line of p. 63 (frame 069), which gives the boundaries, the colour and the direction. The running numbers go on from entry 891/892 (frame 066) and run (٨٩٣ ٨٩٤)-(٩٢٧ ٩٢٨). The numbers of Suhrāb run from [١٣٨٣ ١٣٨٤] to [١٤١٧ ١٤١٨] without a gap, but not in order: L03 has [١٣٩١ ١٣٩٢], and L04 and L05 have [١٣٨٧ ١٣٨٨] and [١٣٨٩ ١٣٩٠]. The folio of the Strasbourg manuscript, «(fol. 16ᵃ)», is printed in Latin type in the right margin beside entry 915/916 (L12).
+@obs L09, L10, L13: the word «جبل» alone. L14: «جبل متّصل بهٰذا الجبل», a mountain joined to this mountain, with a shadda over the ت of «متّصل» and a dagger alif over the ه of «بهٰذا». L16: «منظرتان بناهما ذو القرنين», two watchtowers that Dhū l-Qarnayn built, the only entry of the page that does not begin with «جبل». L07: «فالى», with the dot of the ف, and L08: «قالى», with the two dots of the ق; both end in a ى without dots. L15: «افيقا», L17: «قرمانيا» and L18: «روميقا», with all their dots.
+@obs L01: «ٮوٮونا»: two teeth without dots, each joined to a و, then a tooth with the dot of a ن joined to the final alif. L03: «سورطاٮا»: the tooth before the final alif has no dot. L11: «ٮادنس»: the tooth joined to the alif has no dot, and the tooth before the final س has the dot of a ن.
+@obs L02: «مٮلٮاق»: an initial م; a low tooth without a dot, rising 7 px above the joining stroke; a ل; a second low tooth without a dot, rising 6 px; the alif; and a final ق with its two dots. The second tooth stands between the ل and the alif, which are therefore not joined in the ligature «لا»; the initial م of «قرمانيا» (L17) joins its alif without a tooth. The editor's note b prints the same sequence of strokes with a final و.
+@unres L02: the first low tooth, between the م and the ل, may also belong to the joining stroke of the initial م: ملٮاق. Transcribed مٮلٮاق.
+@obs L04: «اسڡورڡون»: after the three teeth of the س, an upright loop without dots, 14 px wide and 18 px high, with a white counter, and after the ر another, 16 by 21 px, each followed by a و; the final ن has its dot. Both loops have the form of the loop of ف or ق without dots (frame 066, L07); transcribed ڡ. L05: «سرطامڡا»: an upright loop without dots between the م and the final alif; transcribed ڡ. L06: «ڡرطس»: the initial loop has no dots; transcribed ڡ. L12: «دٮڡا»: a tooth without a dot and an upright loop without dots before the final alif.
+@obs L11: the closing bracket of [١٤٠٣ ١٤٠٤], at the left, is printed with its upper arm only, the lower end of its stroke a speck; transcribed as a bracket. L13: a thin oblique stroke, about 20 px long, above the ٤ of ١٤٠٨, much thinner than the type; not transcribed.
+@obs The editor's footnotes of the opening begin at the foot of p. 63 (frame 069) with notes a-g and continue here in four lines with notes h, i, k, l, m, n and o. The texts of notes b, c, d and g, whose marks stand on this page (L02, L04, L05, L12), are printed on p. 63; the marks of notes h, i and k stand on p. 63 (frame 069, L13, L14). In note l, a thin hooked tick, about 8 px long, stands above the first loop of the last form; it is smaller than a dot and is not taken as one. In note o, the gap at entry (2399) is marked by six dots between angle brackets.
+@obs The page number «— ٦٢ —» stands at the foot, centred.
+@variant L02: at entry (2314) the name is written مٮلٮاو, with the strokes of the name on this page and a final و (note b, printed at the foot of p. 63).
+@variant L04: at entry (2315) the name is written with an alif and a س, an upright loop without dots, a low tooth without a dot and a small low loop, then «ورقيون», with the two dots of the ق and of the ي and the dot of the ن (note c, printed at the foot of p. 63).
+@variant L05: at entry (2323) the name is written سرطاميڡا (note d, printed at the foot of p. 63).
+@variant L12: at entry (2376) the name is written دقيا, with a variant reading ريقا, and at entry (2378) دقيا, with a variant reading ديڡا (note g, printed at the foot of p. 63).
+@variant L15: at entries (2365) and (2383) the name is written اڡقا, at (2367) افقا, at (2369) اڡيڡا, at (2371) اڡيفا and at (2373) اڡٮڡا (note l).
+@variant L16: the manuscript has منظرتين, the oblique case of the dual (note m).
+@variant L17: at entry (2391) the name is written ڡرمانيا, a loop without dots joined to a ر (note n).
+@variant L18: at entry (2395) the name is written in the same way, at (2397) زوميڡا, and at (2399) with a gap, marked by six dots between angle brackets, before «ڡا», ⟨......⟩ڡا (note o).

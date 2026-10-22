@@ -1,0 +1,4 @@
+@page 172 -
+@kind blank
+% Frame 172: the back of plate I; nothing printed.
+@obs Blank. The map of plate I (frame 171) shows through faintly from the other side of the leaf.

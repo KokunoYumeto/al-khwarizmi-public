@@ -1,0 +1,214 @@
+{
+ "anchor": "AK15-P005",
+ "pdf_page": 5,
+ "printed_page": "٤",
+ "kind": "text",
+ "role": "AK_TEXT (the printed witness of al-Khwarizmi's treatise)",
+ "image_raw_stream_sha256": "eaa5b049e8a38c1b8444d9c351de372068c2bc89801fb81a399854ff829017f7",
+ "image_decoded_pixels_sha256": "79d5468368a394afa57662f3e01ccd098ee54d5b9259ea2647ca4438a571137e",
+ "comment": "PDF 5, printed p. 4: the end of the introduction; the names of the months of the Israelites and their days, the regular, the full and the defective year and the intercalated year with its two Adars (de Blois's section 2); the small cycle of nineteen lunar years with seven added months, years 1-15 (de Blois's section 3).",
+ "lines": [
+  {
+   "id": "AK15-P005-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "كتابا قريب المأخذ واضح الدلالة لتخف به المؤونة على من",
+   "plain": "كتابا قريب المأخذ واضح الدلالة لتخف به المؤونة على من",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "تكلف معرفته وبالله التوفيق •",
+   "plain": "تكلف معرفته وبالله التوفيق •",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L03",
+   "n": 3,
+   "kind": "indent",
+   "text": "فاول ذلك تسمية شهور بنى اسرائيل وعدد ايام كل شهر",
+   "plain": "فاول ذلك تسمية شهور بنى اسرائيل وعدد ايام كل شهر",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "فاولها نيسن وهو ـ ٣٠ ـ يوما ـ اير ـ ٢٩ ـ يوما ـ سيوان ـ ٣٠",
+   "plain": "فاولها نيسن وهو ـ ٣٠ ـ يوما ـ اير ـ ٢٩ ـ يوما ـ سيوان ـ ٣٠",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "يوما ـ تمز ـ ٢٩ يوما ـ اوب ـ ٣٠ ـ يوما ـ ايلل ـ ٢٩ يوما",
+   "plain": "يوما ـ تمز ـ ٢٩ يوما ـ اوب ـ ٣٠ ـ يوما ـ ايلل ـ ٢٩ يوما",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "تشرى ـ ٣٠ يوما ـ فاذا كانت السنة تقدير شهر تام وشهر ناقص",
+   "plain": "تشرى ـ ٣٠ يوما ـ فاذا كانت السنة تقدير شهر تام وشهر ناقص",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "فرحشوان ـ ٢٩ ـ يوما ـ وكسليو ـ ٣٠ ـ يوما ـ وطبيث ـ ٢٩",
+   "plain": "فرحشوان ـ ٢٩ ـ يوما ـ وكسليو ـ ٣٠ ـ يوما ـ وطبيث ـ ٢٩",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "يوما ـ وشباط ـ ٣٠ ـ يوما ـ واذار ـ ٢٩ يوما ، وان زادت السنة",
+   "plain": "يوما ـ وشباط ـ ٣٠ ـ يوما ـ واذار ـ ٢٩ يوما ، وان زادت السنة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "على التقدير يوما ، كان مرحشوان ـ ٣٠ ـ يوما ـ وكسليو ـ ٣٠ ـ",
+   "plain": "على التقدير يوما ، كان مرحشوان ـ ٣٠ ـ يوما ـ وكسليو ـ ٣٠ ـ",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "يوما •",
+   "plain": "يوما •",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L11",
+   "n": 11,
+   "kind": "indent",
+   "text": "وان كانت السنة ناقصة يوما كان مرحشوان ـ ٢٩ ـ يوما",
+   "plain": "وان كانت السنة ناقصة يوما كان مرحشوان ـ ٢٩ ـ يوما",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "وكسليو ـ ٢٩ ـ يوما واذا كان السنة معبرة كان اذار الاول ـ ٣٠",
+   "plain": "وكسليو ـ ٢٩ ـ يوما واذا كان السنة معبرة كان اذار الاول ـ ٣٠",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "يوما وكان اذار الاخير ـ ٢٩ ـ يوما ثم المحزور الاصغر وهو تسع",
+   "plain": "يوما وكان اذار الاخير ـ ٢٩ ـ يوما ثم المحزور الاصغر وهو تسع",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "عشرة سنة قمرية فيها من الزياد سبعة اشهر فالسنة الاولى اذار",
+   "plain": "عشرة سنة قمرية فيها من الزياد سبعة اشهر فالسنة الاولى اذار",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "السنة الثانية اذار ـ السنة الثالثة اذار ـ السنة الرابعة اذار ـ السنة",
+   "plain": "السنة الثانية اذار ـ السنة الثالثة اذار ـ السنة الرابعة اذار ـ السنة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "الخامسة اذار ـ السنة السادسة اذار ـ السنة السابعة اذار ـ السنة الثامنة",
+   "plain": "الخامسة اذار ـ السنة السادسة اذار ـ السنة السابعة اذار ـ السنة الثامنة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "اذار واذار ـ السنة التاسعة اذار ـ السنة العاشرة اذار ـ السنة",
+   "plain": "اذار واذار ـ السنة التاسعة اذار ـ السنة العاشرة اذار ـ السنة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "الحادية عشر اذار واذار ـ السنة الثانية عشر اذار ـ السنة الثالثة",
+   "plain": "الحادية عشر اذار واذار ـ السنة الثانية عشر اذار ـ السنة الثالثة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P005-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "عشر اذار ـ السنة الرابعة عشر اذار واذار ـ السنة الخامسة عشر اذار",
+   "plain": "عشر اذار ـ السنة الرابعة عشر اذار واذار ـ السنة الخامسة عشر اذار",
+   "cells": null
+  }
+ ],
+ "unresolved": [],
+ "observations": [
+  "The running head «استخراج تاريخ اليهود للخوارزمى» stands at the head of the page, the page number «٤» at its right; recorded here, not transcribed as a line. At the foot, centred, «(١)», with no mark in the text that refers to it (a mark of the printer's sheet?), and at the lower left the catchword «والسنة», the first word of p. 5 (PDF 6); recorded here, not transcribed as lines. L03 and L11 begin with a paragraph indent; L02 and L10 end with the edition's full stop (•); L08 and L09 have the Arabic comma «،».",
+  "The numbers of days are printed in Arabic-Indic digits, set between dashes; the dashes vary in length (about 15 to 40 px) and some are broken in two; all are written ـ. L11: the dash after «٢٩» carries a dot above it; not transcribed.",
+  "The names of the months, as printed: نيسن, اير, سيوان, تمز, اوب, ايلل, تشرى, فرحشوان (L07) and مرحشوان (L09, L11), كسليو, طبيث, شباط, اذار. L07: the first letter of «فرحشوان» is a loop with a dot well above it, as in «فضت» (p. 3, PDF 4, L16); under the two teeth after the ط of «وطبيث» one dot each, above the last its three dots; read طبيث. L12 «واذا كان السنة», كان without the ت of the feminine, as printed; L14 «من الزياد».",
+  "Checked: the regular year (تقدير, a full and a defective month in turn: Nisan 30, Iyyar 29, Sivan 30, Tammuz 29, Av 30, Elul 29, Tishri 30, Marheshvan 29, Kislev 30, Tevet 29, Shevat 30, Adar 29) has 354 days; the full year, with Marheshvan and Kislev of 30, 355; the defective year, with both of 29, 353; the intercalated year has Adar I of 30 and Adar II of 29 days, 30 days more."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK15-CN006",
+   "class": "wrong letter",
+   "line": "L07",
+   "printed": "فرحشوان",
+   "proposed": "مرحشوان",
+   "evidence": "the month Marheshvan, printed «مرحشوان» in L09 and L11; ف (a loop with a dot) for م",
+   "confidence": "high",
+   "impact": "none"
+  },
+  {
+   "id": "AK15-CN007",
+   "class": "missing letter",
+   "line": "L14",
+   "printed": "من الزياد",
+   "proposed": "من الزيادة",
+   "evidence": "«فيها من الزيادة سبعة اشهر», «in it an addition of seven months», as «زيادة سبعة اشهر» on p. 3 (PDF 4, L11); the ة is missing",
+   "confidence": "medium",
+   "impact": "none"
+  },
+  {
+   "id": "AK15-CN008",
+   "class": "missing words",
+   "line": "L15",
+   "printed": "السنة الثالثة اذار",
+   "proposed": "السنة الثالثة اذار واذار",
+   "evidence": "the cycle has seven intercalated years («سبعة اشهر», L14; p. 3, L11); the print marks only five as intercalated (8, 11, 14, 16, 19: L17-L19 and p. 5, PDF 6); the third year is the first intercalated year of the scheme 3, 5, 8, 11, 14, 16, 19 that de Blois reads in the manuscript (his section 3, «g-b-ṭ-b-g»)",
+   "confidence": "high",
+   "impact": "the count of intercalated years in the printed cycle"
+  },
+  {
+   "id": "AK15-CN009",
+   "class": "missing words",
+   "line": "L16",
+   "printed": "الخامسة اذار",
+   "proposed": "الخامسة اذار واذار",
+   "evidence": "as AK15-CN008: the fifth year is the second intercalated year of the scheme 3, 5, 8, 11, 14, 16, 19",
+   "confidence": "high",
+   "impact": "the count of intercalated years in the printed cycle"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+@page 233 201
+@lang la
+% JP2 0233: Tab. 86, p. 201: the division of the houses for the ascendant in Scorpius: the beginnings of the second
+% to the sixth house for every degree of the ascendant, with the apparatus (notes a-f).
+@m C 88{sup:v}, O 145{sup:r},
+@c {b:Aequatio casarum duodecim signo scorpionis}
+@tw size=footnotesize 1.3 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65
+@m N 53{sup:v}.
+@t Gradus | Secundum |  | Tertium |  | Quartum |  | Quintum |  | Sextum |
+@t aequales | Sagittar. |  | Capricorn. |  | Aquarius |  | Pisces |  | Aries |
+@t ortus | [et Capricor.] |  | [et Aquar.] |  | [et Pisces] |  | [et Aries] |  | [et Taurus] |
+@t scorpii |  |  |  |  |  |  |  |  |  |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 1 | 4 | 5 | 4 | 52 | 6 | 8 | 3 | 22 | 2 | 16
+@t 2 | 5 | 5 | 5 | 56 | 7 | 22 | 4 | 36 | 3 | 25
+@t 3 | 6 | 5 | 7 | 0 | 8 | 36 | 5 | 50 | 4 | 35
+@t 4 | 7 | 6 | 8 | 4 | 9 | 51 | 7 | 4 | 5 | 44
+@t 5 | 8 | 6 | 9 | 8 | 11 | 6 | 8 | 18 | 6 | 54
+@t 6 | 9 | 6 | 10 | 12 | 12 | 21 | 9 | 32 | 8 | 4
+@t 7 | 10 | 6 | 11 | 17 | 13 | 37 | 10 | 46 | 9 | 14{sup:e})
+@t 8 | 11 | 6 | 12 | 21 | 14 | 53 | 12 | 2 | 10 | 23{sup:f})
+@t 9 | 12 | 6 | 13 | 26{sup:d}) | 16 | 9 | 13 | 17 | 11 | 33
+@t 10 | 13 | 6 | 14 | 30 | 17 | 25 | 14 | 32 | 12 | 43
+@t 11 | 14 | 6 | 15 | 35 | 18 | 42 | 15 | 48 | 13 | 52
+@t 12 | 15 | 6 | 16 | 41 | 19 | 59 | 17 | 4 | 15 | 2
+@t 13 | 16 | 6 | 17 | 47 | 21 | 16 | 18 | 20 | 16 | 12
+@t 14 | 17 | 7{sup:b}) | 18 | 53 | 22 | 34 | 19 | 36 | 17 | 21
+@t 15 | 18 | 7 | 19 | 59 | 23 | 52 | 20 | 53 | 18 | 31
+@t 16 | 19 | 7 | 21 | 4 | 25 | 9 | 22 | 9 | 19 | 40
+@t 17 | 20 | 7 | 22 | 10 | 26 | 26 | 23 | 25 | 20 | 50
+@t 18 | 21 | 7 | 23 | 16 | 27 | 44 | 24 | 41 | 21 | 59
+@t 19 | 22 | 7 | 24 | 22 | 29 | 1 | 25 | 57 | 23 | 9
+@t  |  |  |  |  | Pisces |  |  |  |  |
+@t 20 | 23 | 7 | 25 | 29 | 0 | 19 | 27 | 13 | 24 | 18
+@t 21 | 24 | 7 | 26 | 35 | 1 | 38 | 28 | 30 | 25 | 28
+@t 22 | 25{sup:a}) | 8 | 27 | 42 | 2 | 58 | 29 | 47 | 26 | 37
+@t  |  |  |  |  |  |  | Aries |  |  |
+@t 23 | 26 | 8 | 28 | 50 | 4 | 18 | 1 | 4 | 27 | 47
+@t 24 | 27 | 8 | 29 | 58 | 5 | 38 | 2 | 21 | 28 | 56
+@t  |  |  | Aquar. |  |  |  |  |  | Taurus |
+@t 25 | 28 | 9 | 1 | 6 | 6 | 58 | 3 | 39 | 0 | 6
+@t 26 | 29 | 10 | 2 | 17 | 8 | 22 | 4 | 58 | 1 | 16
+@t  | Capric. |  |  |  |  |  |  |  |  |
+@t 27 | 0 | 12{sup:c}) | 3 | 28 | 9 | 46 | 6 | 17 | 2 | 26
+@t 28 | 1 | 14 | 4 | 39 | 11 | 11 | 7 | 36 | 3 | 36
+@t 29 | 2 | 16 | 5 | 50 | 12 | 36 | 8 | 55 | 4 | 47
+@t 30 | 3 | 18 | 7 | 1 | 14 | 0 | 10 | 15 | 5 | 57
+@n {sup:a}) 25] O, 26 C — {sup:b}) 7] C, 6 O — {sup:c}) 12] C, 11 O — {sup:d}) 26] C, 36 O — {sup:e}) 14] CO, 13 N — {sup:f}) 23] C, 24 O.
+@obs The page number «201» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 86», in bold sans serif, underlined. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «26» on the right; recorded here, not transcribed as a line. The title (L01), «Aequatio casarum duodecim signo scorpionis», the equation of the twelve houses for the sign of Scorpius, in bold, without sigla. The folios of the manuscripts stand at the right of the title in two lines, «C 88v, O 145r,» and «N 53v.», the letters raised; here as right margin notes beside L01 and L02.
+@obs The table: as on pp. 194-200 (JP2 0226-0232), the degrees of the ascendant, «Gradus aequales ortus scorpii», in four lines, and five pairs «Gr.», «Min.» under «Secundum Sagittar. [et Capricor.]», «Tertium Capricorn. [et Aquar.]», «Quartum Aquarius [et Pisces]», «Quintum Pisces [et Aries]» and «Sextum Aries [et Taurus]». Here each head is set from the top, one printed line to a line (L02-L05); the units in L06; the cells separated by our «|»; a head followed by empty cells spans their columns. The names of the signs into which the beginnings pass stand in lines of their own over their columns: «Pisces» (L26) over the fourth house, «Aries» (L30) over the fifth, «Aquar.» and «Taurus» (L33) over the third and the sixth, and «Capric.» (L36) over the second; each at the row where the computation passes into that sign.
+@obs L07-L40. The beginnings of the houses for the ascendant at 1° to 30° of Scorpius, by the rule of p. 194 (JP2 0226). Checked with the obliquity 23° 35′ and the latitude 38° 40′: the degrees and minutes agree within 2′ in 115 of the 150 places and within 3′ in 133. The fourth house runs ahead by 2.1′ to 3.5′ from 7° to 16° (L13-L22) and lags by 2′ to 2.6′ at 20°-22°. From 26° (L35) the columns run ahead of the computation, increasingly, at 30° (L40) by 4.4′, 11.4′, 19.0′, 10.3′ and 5.5′ in the second to the sixth house, the counterpart of the lag at the end of Tab. 80 for Taurus (p. 195, JP2 0227).
+@obs Notes on the readings. Checked by the computation: the edition's readings are the nearer at 22° in the second house (note a: O's 25 against C's 26 in the degrees; 25° 8.0′ computed), at 9° in the third (note d: C's 26 against O's 36; 13° 25.1′) and at 8° in the sixth (note f: C's 23 against O's 24; 10° 21.9′). At 14° and 27° in the second house (notes b and c) the edition has C's 7 and 12, which keep the steps of the column (61′ and 60′, 62′ and 62′), where O's 6 and 11, which lie 0.2′ and 0.1′ from the computation (17° 6.2′, 0° 10.9′), give 60′ and 61′, 61′ and 63′; at 7° in the sixth (note e) the 14 of C and O, against N's 13, lies 1.8′ from the computation, 9° 12.2′.

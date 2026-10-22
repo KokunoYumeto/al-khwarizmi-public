@@ -1,0 +1,292 @@
+{
+ "anchor": "AK07-J0102",
+ "jp2_index": 102,
+ "jp2_member": "b24872489_0102.jp2",
+ "jp2_sha256": "4df64c448a1e90decb7db2731a3d77c3cad7e2df0dc76690572ec64fec820ebc",
+ "reading_copy": "page_0102.jpg",
+ "reading_copy_sha256": "2525ebb1e686846fa2c19fbfeab915cff909929a63883a21d750da57afc1dc6f",
+ "printed_page": "70",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0102: Suter's commentary, p. 70: chapter 23 continued: the sine table taken from Ptolemy's table of chords; the Indian scholar at the court of al-Manṣūr; a figure of the circle in twelve signs with the sinus plani and sinus diminuti; Bhāskara; the works of Yaʿqūb b. Ṭāriq on the kardaja (note 1).",
+ "lines": [
+  {
+   "id": "AK07-J0102-L01",
+   "n": 1,
+   "kind": "indent",
+   "text": "Wir sind mit {sp:Björnbo} der Ansicht, {sp:Kh.} habe seine Sinustafel der {sp:Ptole-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wir sind mit Björnbo der Ansicht, Kh. habe seine Sinustafel der Ptole-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Björnbo",
+    "Kh.",
+    "Ptole-"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0102-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "{sp:mäischen} Sehnentafel durch Halbierung der Winkel und Sehnen entnommen,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mäischen Sehnentafel durch Halbierung der Winkel und Sehnen entnommen,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "mäischen"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0102-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "erwähnt er doch selbst am Schlusse des Kapitels den {i:Almagest} ; vielleicht rühren",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "erwähnt er doch selbst am Schlusse des Kapitels den Almagest ; vielleicht rühren",
+   "italic": [
+    "Almagest"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0102-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "auch daher die ziemlich häufig vorkommenden Abweichungen von 1″, indem der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "auch daher die ziemlich häufig vorkommenden Abweichungen von 1″, indem der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0102-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "eine bei der Halbierung ungerader Sekundenzahlen auf-, der andere abgerundet hat.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "eine bei der Halbierung ungerader Sekundenzahlen auf-, der andere abgerundet hat.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0102-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "Unmöglich wäre es freilich nicht, dass der indische Gelehrte, der ums Jahr 750 an",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Unmöglich wäre es freilich nicht, dass der indische Gelehrte, der ums Jahr 750 an",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0102-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "den Hof {sp:Al-Manṣūrs} kam, in seinem {i:Siddhānta} eine Sinustafel von Grad zu Grad",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "den Hof Al-Manṣūrs kam, in seinem Siddhānta eine Sinustafel von Grad zu Grad",
+   "italic": [
+    "Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Al-Manṣūrs"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0102-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "fortschreitend mitgebracht hätte, die dann vom indischen Radius 3438 auf den Radius",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "fortschreitend mitgebracht hätte, die dann vom indischen Radius 3438 auf den Radius",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0102-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "60 reduziert worden wäre. Doch kennen wir bis jetzt kein früheres Werk als den",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "60 reduziert worden wäre. Doch kennen wir bis jetzt kein früheres Werk als den",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0102-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "{i:Siddhānta-Śiromani} des {sp:Bhāskara}, in dem die Berechnung des Sinus von 1° gelehrt",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Siddhānta-Śiromani des Bhāskara, in dem die Berechnung des Sinus von 1° gelehrt",
+   "italic": [
+    "Siddhānta-Śiromani"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Bhāskara"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0102-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "wird. Übrigens darf nicht unerwähnt bleiben, dass ein wahrscheinlich etwas älterer",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wird. Übrigens darf nicht unerwähnt bleiben, dass ein wahrscheinlich etwas älterer",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0102-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "Zeitgenosse {sp:Kh.}’s, {sp:Yaʿḳūb b. Ṭāriḳ}, zwei Werke verfasst hat, betitelt „über die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Zeitgenosse Kh.’s, Yaʿḳūb b. Ṭāriḳ, zwei Werke verfasst hat, betitelt „über die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh.",
+    "Yaʿḳūb b. Ṭāriḳ"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0102-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "Teilung des {i:Kardadja}“ (d. h. des Sinus oder Bogens von 3° 45′), und „astronomische",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Teilung des Kardadja“ (d. h. des Sinus oder Bogens von 3° 45′), und „astronomische",
+   "italic": [
+    "Kardadja"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0102-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "Tafeln nach dem {i:Sindhind} verfasst von Grad zu Grad“.{sup:1}) Hieraus muss man, wenn",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Tafeln nach dem Sindhind verfasst von Grad zu Grad“.1) Hieraus muss man, wenn",
+   "italic": [
+    "Sindhind"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0102-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Vergl. H. {sp:Suter}, {i:Die Mathematiker und Astronomen der Araber}, etc. p. 4.",
+   "margin": null,
+   "plain": "1) Vergl. H. Suter, Die Mathematiker und Astronomen der Araber, etc. p. 4.",
+   "italic": [
+    "Die Mathematiker und Astronomen der Araber"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Suter"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «70» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 continues chapter 23 from p. 69 (JP2 0101, L39).",
+  "Between L07 and L08 a figure in the full width of the page; it is not reproduced. It is the figure that stands at the end of chapter 23 in Ms. N only, as Suter says on p. 71 (JP2 0103, L10-L22), where he explains it. A circle divided into the twelve signs, numbered I to XII in italic Roman numerals in the arcs, I to VI from the top down on the left, VII to XII from the bottom up on the right; the vertical diameter, the horizontal diameter, and the chords that join the points of division: two horizontal chords above the diameter and two below it, and two vertical chords on either side of the vertical diameter, which together form a tall and a wide rectangle. Along the upper half of the vertical diameter, written upwards, «Sinus diminuti»; below the horizontal diameter, above the lower side of the wide rectangle, «Sinus plani». Above the horizontal diameter, which small strokes divide into six parts, six times «XX»; below it, in the segments between the circle and the vertical chords and between the chords, from the left: «Gr. VIII M. II S. XIX», «Gr. XXI M. LVII S. XLI», «Gr. XXX», «Gr. XXX», «Gr. XXI M. LVII S. XLI», «Gr. VIII M. II S. XIX», each abbreviation and number in a line of its own. All the letters of the figure are italic.",
+  "The figure. Checked: on a radius of 60 the diameter has 120 parts, six times XX, and the strokes on it stand 20 parts apart, as measured on the scan (about 227 px for 20 parts on a diameter of 1361 px). The vertical chords join the points of division at 30° and 60° from the horizontal diameter, and they cut it 60 cos 30° = 51;57,41 and 60 cos 60° = 30 parts from the centre: the segments are 60 − 51;57,41 = 8;2,19 (the versed sine of 30°), 51;57,41 − 30 = 21;57,41 and 30, as labelled, and their sum is 60. The half chords of the rectangles are the sines of 30° and 60°, 30 and 51;57,41.",
+  "L01-L05: «Wir sind mit Björnbo der Ansicht»: the sine table from Ptolemy's table of chords by halving the arcs and the chords; the differences of 1″ from rounding odd seconds up or down. L08-L09: the Indian radius 3438, the minutes in a radian (3437.75). L12-L14: the kardaja of 3° 45′, the twenty-fourth part of a quadrant.",
+  "L09: a short oblique stroke at the foot of the b of «bis»; L08: a speck above the c of «fortschreitend»; not transcribed. L10: «Siddhānta-Śiromani», the acute over the capital Ś standing high, between the lines.",
+  "Spaced type, marked {sp:}: «Björnbo», «Kh.», «Ptolemäischen», «Al-Manṣūrs», «Bhāskara», «Yaʿḳūb b. Ṭāriḳ», «Suter»; italics: «Almagest», «Siddhānta», «Siddhānta-Śiromani», «Kardadja», «Sindhind», the title in N01.",
+  "The semicolon of L03 stands after the thin space of the edition (10 px measured)."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

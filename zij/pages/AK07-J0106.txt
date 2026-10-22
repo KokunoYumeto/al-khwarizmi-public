@@ -1,0 +1,52 @@
+@page 106 74
+@lang de
+% JP2 0106: Suter's commentary, p. 74: chapters 26 and 26a continued: al-Battānī's tables of oblique ascensions; the
+% formula of the oblique ascension by the ascensional difference, derived from a figure of the sphere; al-Battānī's
+% form of it; al-Khwārizmī's rule with the shadow begins (notes 1-4).
+von {i:Mekka}, {i:Baghdād}, {i:Ḥarrān} und {i:al-Raḳḳa}, und dann noch allgemein für alle Orte,
+deren Tageslängen 13{sup:h} bis 16{sup:h}, in Intervallen von je 15{sup:m}, betragen.{sup:1})
+@p {sp:Batt.} gibt zwei Wege an für die Bestimmung der schiefen Aufsteigungen für
+irgend einen Ort{sup:2}), der zweite, dem auch teilweise {sp:Kh.} folgt, ist folgender :
+@c {i:Ascensio obliqua} für die Breite {i:φ} = {i:Ascensio recta} ∓ {i:arc sin} ({i:tg φ} · {i:tg δ})
+wo {i:δ} die Deklination des betreffenden Punktes der Ekliptik ist, dessen {i:Ascensio obliqua}
+man sucht. Diese Formel ergibt sich aus folgender Figur, aus der sie auch {sp:Ptol.} mittels
+des Satzes des {sp:Menelaus} ableitet{sup:3}) ; {i:HT} sei
+der Horizont, {i:AQ} der Aequator, {i:EK} die Ekliptik,
+♈ der Frühlingspunkt, {i:P} der nördliche Pol
+des Aequators, {i:PN} der Deklinationskreis des
+aufgehenden Punktes {i:L} der Ekliptik ; dann
+ist ♈{i:N} die Rectascension und ♈{i:D} die Ascen-
+sio obliqua des Punktes {i:L} der Ekliptik, {i:DN}
+ist die sog. {i:Ascensional-Differenz.} Nun ist
+@c ♈{i:D} = ♈{i:N} — {i:DN},
+{i:DN} aber ergibt sich aus dem rechtwinkligen
+sphärischen Dreieck {i:DNL} in folgender Weise :
+{i:LN} ist die Deklination {i:δ} des Punktes {i:L},
+∠ {i:D} = arcus {i:AH} = 90°—{i:φ} ; also ist nach der
+oben angeführten Formel (sin {i:a} = {fr:tg {i:b}|tg {i:B}}):
+@c sin {i:DN} = {fr:tg {i:LN}|tg {i:D}} = {fr:tg {i:δ}|tg (90—{i:φ})} = tg {i:δ} · tg {i:φ},
+also ♈{i:D} = ♈{i:N} — arc sin (tg {i:δ} · tg {i:φ})
+oder : {i:Ascensio obliqua} = {i:Ascensio recta} — {i:arc sin} ({i:tg δ} · {i:tg φ}).
+Ist die Deklination {i:δ} des Punktes {i:L} südlich, so muss der Bogen, dessen Sinus
+tg {i:δ} · tg {i:φ} ist, zur {i:Ascensio recta} addiert werden.
+@p {sp:Batt.} gebraucht die Formel wieder in der Form : sin {i:DN} = {fr:sin {i:φ} · sin {i:δ}|cos {i:φ} · cos {i:δ}},
+während merkwürdigerweise {sp:Kh.} tg {i:φ} mit Hilfe des Gnomons bestimmt, oder aus der
+Schattentafel (Tafel der Cotangenten) entnimmt{sup:4}), er multipliziert dieses tg {i:φ} aber
+nicht mit tg {i:δ}, sondern in den verschiedenen Fällen mit gewissen Faktoren, deren
+Ursprung nicht recht klar ist, und die auch nur angenäherte Resultate ergeben.
+{sp:Kh.} gibt zuerst die Regel für die Bestimmung der {i:Ascensio obliqua} für das ganze
+Zeichen des Widders, er sagt : Man multipliziere den Mittagsschatten der Sonne,
+wenn sie im 1.° des Widders (eigentlich 0.°) sich befindet, mit 114 und teile das
+@n {sup:1}) Ibid. II, 65—71.
+@n {sup:2}) Ibid. II, 27 u. 187—189.
+@n {sup:3}) Ed. {sp:Heiberg}, I, 121 ff., Übersetzg. v. K. {sp:Manitius}, I, 83—85.
+@n {sup:4}) Die Schatten, besonders der Aequinoctial-Schatten (= tg {i:φ}) kommen übrigens schon im
+@n {i:Sūrya-Siddhānta} vor, eine Tafel derselben findet sich allerdings darin nicht, es wird jeweilen sin.
+@n durch cos. geteilt, oder der Schatten wird mit Hilfe des Gnomons für jeden Fall besonders bestimmt.
+@obs The page number «74» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 continues the sentence that ends p. 73 (JP2 0105, L36), «Batt. hat solche Tafeln für die Breiten». L02: «13h», «16h», «15m», the letters raised. N01-N02: «Ibid.», al-Battānī in Nallino's edition (p. 73, N02).
+@obs A figure stands at the left of L08-L22, which are set in a narrower measure at its right; it is not reproduced. A circle (the meridian) with Z at the top, P at the upper right, A and E at the upper left, H and T at the ends of a horizontal dashed diameter, K and Q at the lower right; dashed lines from the centre to Z, P, A, E, K and Q. Within the circle the arcs of the horizon from H through D and L to T, of the equator from A through the vernal point, D and N to Q, of the ecliptic from E through the vernal point and L to K, and of the circle of declination from P through L to N; the angle at D marked with a small arc. The vernal point is labelled with a small sign like a γ, where the text has ♈; the other letters are italic.
+@obs L05-L27. Checked: in the triangle D N L, right-angled at N, with the angle D between the equator and the horizon equal to the altitude of the equator, 90° − φ (the arc A H of the meridian), and the side L N the declination δ, the rule sin a = tg b : tg B of p. 72 (JP2 0104, L10) gives sin DN = tg δ : tg (90° − φ) = tg δ · tg φ; the point D of the equator rises with L, so that ♈D, the oblique ascension, is ♈N less DN for a northern declination and ♈N plus DN for a southern one; tg δ · tg φ = sin φ sin δ : (cos φ cos δ), al-Battānī's form (L27).
+@obs The formulas: L05 and L24 italic but for «für die Breite», the signs and the brackets, L05 with the sign ∓ (minus above plus); L16, L22 and L23 displayed; L16, L23 and L24 have the minus as a long dash, in L16 and L24 printed in two pieces (13 and 31 px, 23 and 20 px, with gaps of 2 and 3 px); L20 and L22 «90°—φ», «(90—φ)», the long dash set close. The fractions of L21, L22 and L27 are built up, written {fr:NUMERATOR|DENOMINATOR}; in L21 the formula stands within large round brackets that span the fraction, the colon set close after the bracket; L22 ends with a comma after a small space. «∠», the angle sign of L20, an upright ∠, where p. 44 (JP2 0076) has ∢; «♈», the sign of the vernal point (L10, L13, L16, L23), upright.
+@obs L13-L14: «die Ascensio obliqua» upright, divided «Ascen-|sio», where L05-L06, L24 and L32 set it in italics; L15 «Ascensional-Differenz.» in italics. L08: «Menelaus» spaced. L34: «im 1.° des Widders (eigentlich 0.°)», the degree sign after the point of the ordinal. The rule of L32-L34 continues on p. 75.
+@obs Spaced type, marked {sp:}: «Batt.», «Kh.», «Ptol.», «Menelaus», «Heiberg», «Manitius»; italics: the names of places in L01, «Ascensio obliqua», «Ascensio recta», «Ascensional-Differenz.», the letters of the figure and the formulas, «Sūrya-Siddhānta». The dashes of N01-N03 are the long dash of the small type (32-34 px; in N03 printed in two pieces, 8 and 24 px).
+@obs The colons and semicolons stand after the thin space of the edition (9-13 px measured).

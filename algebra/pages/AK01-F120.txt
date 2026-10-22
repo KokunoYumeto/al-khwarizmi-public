@@ -1,0 +1,45 @@
+@page 120 ١٠٤
+% Frame 120, printed p. 104: the problem of frame 119 concluded (the giver and the recipient both have intercourse
+% with the slave-girl; the giver bequeaths a third), in the view of Abū Ḥanīfa: four hundred less three things equal
+% twice the bequests, two things and two thirds: the thing forty-eight. Then, under «فان قال» in bold, a man gives in
+% his last illness a slave-girl worth three hundred, her bride-price a hundred, to a man who has intercourse with her;
+% the recipient gives her back in his illness, and the giver has intercourse with her: how much is valid and how much
+% reduced. The gift back is part of the thing: half a thing less thirty; the giver's hands hold three hundred and
+% sixty less a thing, twice the thing and the bride-price returned; begun, continued on the next page. The values check
+% exactly. No footnote on this page.
+العقر ثلث شىء وأعطى الموصى له بالثلث مثل وصية الأول شيئاً وثلث
+شىء فيبقى أربعمائة درهم غير ثلاثة أشياء تعدل مثلى الوصية وذلك شيئان
+وثلثى شىء فاجبر ذلك بثلاثة أشياء فيكون أربعمائة تعدل ثمانية أشياء وثلث شىء
+فقابل بذلك فيكون الشىء الواحد يعدل ثمانية وأربعين درهما . {b:فان قال} رجل
+وهب لرجل جارية فى مرض موته قيمتها ثلثمائة درهم وعقرها مائة درهم فوطئها
+الموهوب له ثم وهبها الموهوب له للواهب فى مرضه أيضا فوطئها الواهب . كم
+جاز منها وكم انتقص . قياسه أن تجعل قيمتها ثلثمائة درهم والوصية من ذلك شىء
+فيبقى فى أيدى ورثة الواهب ثلثمائة غير شىء وصار فى يد الموهوب له شىءفأعطى
+الموهوب له الواهب بعض الشىء وبقى فى يده شىء غير بعض شىء ورد اليه مائة
+غير ثلث شىء وأخذ العقر ثلث شىء غير ثلث بعض شىء فصار فى يده شىء وثلثا
+شىء غير مائة درهم غير بعض شىء وغير ثلث بعض شىءوذلك مثلا بعض الشىء
+فنصفه مثل بعض الشىء وهو خمسة أسداس شىء غير خمسين درهما وغير
+( ثلثى )بعض شىء فاجبر ذلك بثلثى بعض الشىء وبخمسين درهماً فيكون خمسة
+أسداس شىء تعدل بعض شىء وثلثى بعض شىء وخمسين درهماً فاردد ذلك الى
+بعض شىء لتعرفه وهو أن تأخذ ثلاثة أخماسه فيكون بعض الشىءوثلاثين درهما
+يعدل نصف شىء فيكون نصف شىء غير ثلاثين يعدل بعض الشىء الذى هو وصية
+الموهوب له للواهب فاعرف ذلك ثم ارجع الى ما بقى فى يد الواهب وهو
+ثلثمائة غير شىء وصار اليه بعض الشىء وهو نصف الشىء الا ثلاثين درهما
+فيبقى فى يده مائتان وسبعون غير نصف شىء وأخذ العقر وهو مائة درهم غير
+ثلث شىء ورد العقر وهو ثلث ما بقى من الشىء بعد رفع بعض الشىء وهو
+سدس شىء وعشرةدراهم فحصل فى يده ثلثمائة وستون غير شىء وذلك مثلا الشىء
+والعقر الذى رد فنصف ذلك مائة وثمانون غير نصف شىء وهو مثل الشىء
+@obs L01: «العقر ثلث شىء» (L01) goes on from the last words of frame 119, «فصار فى يده أربعمائة درهم غير شىء وثلث شىء ورد» (frame 119, L22): the giver returns the bride-price of his own intercourse, a third of a thing.
+@obs L02-L03: «تعدل مثلى الوصية وذلك شيئان وثلثى شىء», as printed: the two things and two thirds are the two bequests together, the recipient's thing and a third and the legatee's, as frame 119, L16-L17, says «مثلى الوصيتين وهما شيئان وثلثا شىء»; twice them and the three things make the eight things and a third of L03.
+@obs L04: the words فان قال (L04), the run-in heading of the next problem, are printed in a bold face, after a full stop; رجل, which follows, is in the face of the text. The bold ن is printed without its dot; transcribed ن.
+@obs L13: «( ثلثى )بعض», as printed: the word ثلثى stands between parentheses; the opening parenthesis, at the beginning of the line, stands 51 px (nearest approach of the ink at 400 ppi) before ثلثى, and the closing one 33 px after it and 12 px before بعض, set close to the next word as on frame 063, L15 (6 px). The word is required: half of «بعض شىء وثلث بعض شىء» (L11) is two thirds of part of a thing, which the next words restore, «فاجبر ذلك بثلثى بعض الشىء» (L13). No note of the editors refers to it, and the edition does not say what the parentheses mark.
+@obs L22: between رد and فنصف no full stop is printed: the small mark on the baseline before the ص of فنصف is the tooth of its ن, printed apart from the ف, with its dot above it.
+@obs Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): شىءفأعطى (L08; 9 between the hamza on the line and the ف); شىءوذلك (L11; 5 between the hamza on the line and the conjunction و); الشىءوثلاثين (L15; 6): the hamza stands 2 to 11 px from the next letter without a space and 15 or more with one; وعشرةدراهم (L21; 7 between the ة and the د), where the ة stands 1 to 14 px from the next letter without a space and 16 or more with one.
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: الشىء وبقى (L09; 14 between the hamza on the line and the conjunction و), شىء وصار (L08; 16) and شىء وثلثا (L10; 16); مائة درهم (L05, L19; 17 between the ة and the د) and ثلثمائة وستون (L21; 17 between the ة and the conjunction و), at the boundary of the gaps after ة; in doubt, the space is written.
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: ذلك شىء (L07; 16), الموهوب له (L08; 10), وذلك مثلا (L11; 10), بعض شىء (12), لتعرفه وهو (16), فيكون بعض (11), بعض الشىءوثلاثين (L15; 9), نصف شىء (7), يعدل بعض (10), بعض الشىء (9), الذى هو (L16; 8), وذلك مثلا (L21; 17).
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after درهما, before the bold فان (L04; 34 and 40), after الواهب, before كم (L06; 28 and 29), and after انتقص, before قياسه (L07; 22 and 22).
+@obs Plain alif where a hamza might be expected, as printed: فاجبر (L03, L13), انتقص (L07), اليه (L09, L18), فاردد, الى (L14), فاعرف, ارجع, الى (L17), الا (L18); with hamza: وأعطى, الأول (L01), أربعمائة (L02, L03), أشياء (L02; L03, twice), وأربعين (L04), أيضا (L06), أن (L07, L15), أيدى, شىءفأعطى (L08), وأخذ (L10, L19), أسداس (L12, L14), تأخذ, أخماسه (L15); on ي: شيئاً (L01), أربعمائة (L02, L03), شيئان (L02), ثلثمائة (L05, L07, L08, L18, L21), مائة (L05, L09, L11, L19, L22), فوطئها (L05, L06), مائتان (L19); the hamza on the line: شىء (L01, L02, L07, L08, L12, L13, L15, L18, L19, L20, L22; L03, L09, L11, L16, L21, twice; L14, three times; L10, four times), أشياء (L02; L03, twice), الشىء (L04, L09, L11, L12, L13, L16, L21, L22; L18, L20, twice), شىءفأعطى (L08), شىءوذلك (L11), الشىءوثلاثين (L15).
+@obs With tanwīn on the final alif: شيئاً (L01), درهماً (L13, L14); without tanwīn as printed: درهما (L04, L12, L15, L18), أيضا (L06).
+@obs L02-L03, L10-L11, L13-L14, L21: «مثلى الوصية» (L02), «وثلثى شىء» (L02-L03), «وثلثا شىء» (L10-L11), «مثلا بعض الشىء» (L11), «ثلثى» and «بثلثى بعض» (L13), «وثلثى بعض» (L14) and «مثلا الشىء» (L21), as printed: the dual without its ن before the noun that follows it, as on frames 094-119.
+@obs The final yā' is printed without dots: وأعطى, الموصى (L01), فيبقى (L02, L08, L19), مثلى (L02), وثلثى (L03, L14), فى (L05, L06, L09, L10, L17, L19, L21; L08, twice), أيدى, شىءفأعطى (L08), وبقى (L09), ثلثى, بثلثى (L13), الى (L14, L17), الذى (L16, L22), بقى (L17, L20).
+@obs The print stretches مثل (L01, L22, between the ث and the ل), أشياء (L02, between the ش and the ي), وصار (L18, between the ص and the alif) and بعد (L20, between the ع and the د) with the elongation stroke; the stroke is not transcribed.

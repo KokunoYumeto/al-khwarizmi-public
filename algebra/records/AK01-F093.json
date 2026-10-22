@@ -1,0 +1,245 @@
+{
+ "anchor": "AK01-F093",
+ "frame": 93,
+ "frame_file": "page_093.jpg",
+ "frame_sha256": "bee3ad276c59437d891bcb8692f64944984bd9124d44fb91b36786e4fded878e",
+ "printed_page": "٧٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 093, printed p. 77: the problem of frame 092 concluded: from a third less a share a quarter of the rest is taken; a quarter of the estate less three quarters of a share and two thirds of the estate, eleven twelfths of the estate less three quarters of a share, equal four shares; the estate five shares and two elevenths: the share eleven, the estate fifty-seven, the third nineteen, two to the legatee of the quarter, eleven to each son. Under «فان ترك» in bold: four sons, the bequest the share of a son less a fifth of what remains of the third after the share: an estate and a fifth of a third of an estate equal five shares and a fifth; the estate four shares and seven eighths: the estate thirty-nine, the third thirteen, the share eight, the bequest seven, continued on the next page. The values check exactly. No footnotes.",
+ "lines": [
+  {
+   "id": "AK01-F093-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "إلا نصيبا ثم تنقص منه ربع ما يبقى من الثلث وهو ربع ثلث إلا ربع نصيب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "فيبقى ربع مال إلا ثلاثة ارباع نصيب فزد عليه ثلثى المال فيكون أحد عشر جزءاً",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "من اثنى عشر جزءاً من مال الا ثلاثة أرباع نصيب تعدل أربعة أنصبا فاجبر ذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "بثلاثة أرباع نصيب وزدها على الأربعة الانصباء فيكون معك أحد عشر جزءاً",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "من اثنى عشر من مال يعدل أربعة أنصباء وثلاثة ارباع نصيب فكمل مالك وهو",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "أن تزيد على الأربعة الأنصباء والثلاثة الأرباع جزءاً من أحد عشر فيكون ذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "خمسة أنصباء وجزءين من أحد عشر من نصيب تعدل مالا فاجعل النصيب أحد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "عشر والمال سبعة وخمسين والثلث تسعة عشر برفع ذلك النصيب أحد عشر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "فيبقى منه ثمانية للموصى له بالربع اثنان وتبقى ستة مردودة على الثلثين وهما ثمانية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "وثلاثون فيكون أربعةوأربعين بين اربعةبنين لكل ابن أحد عشر سهماً . {b:فان ترك}",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان ترك"
+   ]
+  },
+  {
+   "id": "AK01-F093-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "أربعة بنين واوصى لرجل بمثل نصيب ابن إلا خمس ما يبقى من الثلث بعد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "النصيب . فالوصية من الثلث فخذ ثلثا واطرح منه نصيباً فيبقى ثلث إلا نصيباً",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "ثم اردد اليه ما استثنى وهو خمس الثلث إلا خمس نصيب فيكون ثلثاً وخمس",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "ثلث وذلك خمسان إلا نصيباً وخمس نصيب ثم زد ذلك على ثلثى المال فيكون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "مالا وخمس ثلث مال إلا نصيباً وخمس نصيب تعدل أربعة أنصباء فاجبر المال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "بنصيب وخمس نصيب وزده على الأربعة الأنصباء فيكون مالا وخمس ثلث",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "مال تعدل خمسة أنصباء وخمس نصيب فاردد ذلك الى مال واحد وهو أن تنقص",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "مما معك نصف ثمنه وهو جزء من ستة عشر فيصير معك مال يعدل أربعة أنصباء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "وسبعة اثمان نصيب فاجعل المال تسعة وثلاثين والثلث ثلاثة عشر والنصيب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "ثمانية فيبقى من الثلث خمسة خمسها واحد فزد عليه الواحد الذى استثناه من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F093-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "الوصية فتبقى الوصية سبعة ويبقى من الثلث ستة فزد عليها ثلثى المال وهو ستة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L10: the words فان ترك (L10), at the end of the line, are printed in a bold face, the run-in heading of the next problem, as on frame 089, L10 and L16, after a full stop; L11, which goes on with أربعة بنين, is in the face of the text. The bold ن is printed without its dot; transcribed ن.",
+  "L03: «أنصبا», as printed, without the hamza on the line after the alif, where the same word is printed أنصباء in L05, L07, L15, L17 and L18 (and الانصباء, الأنصباء in L04, L06 and L16); transcribed as printed.",
+  "L08: «برفع», as printed: its first letter carries one dot below, a ب.",
+  "L07: وجزءين (L07), the dual, with the hamza on the line 19 px (nearest approach of the letter bodies at 400 ppi) from the ي that follows it inside the word, as the ز stands 27 px from the hamza above the baseline in جزءاً (L02); transcribed as one word.",
+  "Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): أربعةوأربعين (L10; 8 between the ة and the conjunction و), where سبعة وخمسين in L08 has 23; اربعةبنين (L10; 13 between the ة and the ب), where أربعة بنين in L11 has 30.",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: أحد عشر (L10; 15 between the د and the ع, where the د stands 3 to 8 px from the ع in أحدعشر on frames 056 and 062, and 16 to 35 px where a space is set on this page, in L02, L04, L06, L07 and L08; in doubt, the space is written); الأنصباء والثلاثة (L06; 16 between the hamza on the line and the conjunction و) and أنصباء وثلاثة (L05; 17), where the hamza stands 4 to 11 px from the next letter without a space; ثمانية فيبقى (L20; 16 between the ة and the ف, at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one); واحد وهو (L17; 18 between the د and the conjunction و, as واحد وثلث on frame 064); مالا فاجعل (L07; 28 between the ligature لا and the ف, where the ligature stands 20 to 26 px from the next letter inside a word).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: مال إلا (L02, L15), ابن إلا (L11), ابن أحد (L10), خمسان إلا (L14), نصيب فيكون (L13), تعدل خمسة, أن تنقص (L17).",
+  "The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after سهماً, before the bold فان (L10; 28 and 20), and after النصيب, before فالوصية (L12; 23 and 41).",
+  "Plain alif where a hamza might be expected, as printed: ارباع (L02), اثنى, الا, فاجبر (L03), الانصباء (L04), اثنى, ارباع (L05), فاجعل (L07), اثنان (L09), اربعة, ابن, the bold فان (L10), واوصى, ابن (L11), واطرح (L12), اردد, اليه, استثنى (L13), فاجبر (L15), فاردد, الى (L17), اثمان, فاجعل (L19), استثناه (L20); with hamza: أحد (L02), أرباع, أربعة, أنصبا (L03), أرباع, الأربعة, أحد (L04), أربعة, أنصباء (L05), أن, الأربعة, الأنصباء, الأرباع, أحد (L06), أنصباء, أحد (L07, twice), أحد (L08), أربعة, وأربعين, أحد (L10), أربعة (L11), أربعة, أنصباء (L15), الأربعة, الأنصباء (L16), أنصباء, أن (L17), أربعة, أنصباء (L18); below the alif: إلا (L01, twice; L02, L11, L12, L13, L14, L15); the hamza on the line: جزءاً (L02, L03, L04, L06), الانصباء (L04), أنصباء (L05, L07, L15, L17, L18), الأنصباء (L06, L16), وجزءين (L07), جزء (L18).",
+  "With tanwīn on the final alif: جزءاً (L02, L03, L04, L06), سهماً (L10), نصيباً (L12, twice; L14, L15), ثلثاً (L13); without tanwīn as printed: نصيبا (L01), مالا (L07, L15, L16), ثلثا (L12).",
+  "The final yā' is printed without dots: يبقى (L01), فيبقى, ثلثى (L02), اثنى (L03), على (L04), اثنى (L05), على (L06), فيبقى, للموصى, وتبقى, على (L09), واوصى, يبقى (L11), فيبقى (L12), استثنى (L13), على, ثلثى (L14), على (L16), الى (L17), فيبقى, الذى (L20), فتبقى, ويبقى, ثلثى (L21).",
+  "The print stretches فيكون (L02, L04, L16, between the ي and the ك), بمثل (L11, between the م and the ث), المال (L19, between the م and the alif) and الواحد (L20, between the ح and the د) with the elongation stroke; the stroke is not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

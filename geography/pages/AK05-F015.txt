@@ -1,0 +1,39 @@
+@page 15 ٩
+% Frame 015, printed p. 9: the cities of the second clime continued, entries 82-97: Isnā, Armant, Atfuwā, Qifṭ,
+% al-Aqṣur, Qūṣ, Ṭūd, a place printed ڡصرى, Hū, al-Balyanā, Shaṭb, the emerald mine, the gold mine of the Bujja,
+% Thiyās on the sea of al-Qulzum, and Sabaʾ and Mahra of Yemen. Four lines of the editor's footnotes.
+@r (٨٢) | | اسنا{n:a} | ٮو | ل | كٮ | {z}
+@r (٨٣) | | ارمنت{n:b} | ٮو | ه | كا | مه
+@r (٨٤) | | اتفوا | ٮر | ه | كح | {z}
+@r (٨٥) | | قفط{n:c} | ٮر | م | كح | ں
+@r (٨٦) | | الاقصر{n:d} | ٮح | {z} | كح | مه
+@r (٨٧) | [١٢٣] | قوص | س | {z} | كح | {z}
+@r (٨٨) | | طود | س | م | كٮ | له
+@r (٨٩) | | ڡصرى | سا | {z} | كا | مه
+@r (٩٠) | | هو | سٮ | {z} | كا | ٮه
+@r (٩١) | | البلينا{n:e} | سح | ل | كٮ | {z}
+@r (٩٢) | | مدينة شطب{n:f} | سد | {z} | ك⟨..⟩{n:g} | له
+@r (٩٣) | | معدن الزمرّد | نز | {z} | كا | نه
+@r (٩٤) | | معدن الذهب بالبجه{n:h} | نز | نه | كا | مه
+@r (٩٥) | [٦٨] | ثياس{n:i} على بحر القلزم | ٮح | {z} | ٮر | {z}
+@r (٩٦) | [٦٩] | سبأ{n:k} من اليمن | سد | {z} | ٮر | ى
+@r (٩٧) | [٧٠] | مهرة من اليمن | سد | {z} | ٮح | ل
+@ednotes a b c d e f g h i k 4
+@obs The table goes on from frame 014 without a heading: the cities of the second clime, entries 82-97. Only entry 92 has the word «مدينة». Entries 82-86 and 88-94 have no numbers of Suhrāb. The number at entry 87, «[١٢٣]», stands outside the order of the numbers of the neighbouring entries, [٥٩]-[٦٧] on frame 014 and [٦٨]-[٧٠] at entries 95-97; transcribed as printed.
+@obs L08: the name of entry 89, «ڡصرى», is printed without dots on its first letter, the initial loop of ف or ق; transcribed so. The editor's notes do not comment on it. All other letters of the names on this page are printed with their dots.
+@obs L11: the degrees of the latitude are printed «ك⟨..⟩»: after the ك, two dots between angle brackets, the editor's sign for what he could not supply (frame 010, note a), then the note mark g. This ك has the small inner stroke of the letter.
+@obs Letters printed without their dots in the numerals, transcribed so: the tooth without its dot, ٮو (L01, L02), ٮر (L03, L04) and ٮح (L05, L14) in the degrees of the longitude, ٮر (L14, L15) and ٮح (L16) in the degrees of the latitude; the final ب without its dot in سٮ (L09, the degrees of the longitude); ں (L04, the minutes of the latitude), the bowl of a final ن without its dot. With their dots: نز (L12, L13), the ن with its dot above the tooth and the ز with its dot above the head of the letter, two dots side by side.
+@obs L03, L04, L14, L15: the degrees, ٮر, a tooth without its dot joined to a ر without a dot: in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed. L12, L13 print the ز with its dot, نز.
+@obs L01, L07, L10: the degrees of the latitude are printed «كٮ», a long oblique stroke over a flat bowl, 88 to 92 px wide, without the small inner stroke of the isolated ك: the ك joined to the final ب without its dot, 22 (frame 014, L11); the isolated ك, 20, of L11 has the inner stroke. Read so, 22° 0′, 22° 35′ and 22° 0′. L02, L03: the minutes of the longitude, ه, 5, are printed as a small round ring, the isolated letter; transcribed ه. L09: the minutes of the latitude, «ٮه», are a tooth without its dot joined to a final ه; transcribed ٮه.
+@obs L12: «الزمرّد», with a shadda over the ر. L15: «سبأ», with a hamza over the alif.
+@obs In note d a dark round spot lies on the lower stroke of the ص of the manuscript reading الاڡصر, joined to it on the line, not below it where the dots of the font stand; it is not read as a dot.
+@obs The page number «— ٩ —» stands at the foot, centred.
+@variant L01: the editor compares entry (139).
+@variant L02: the editor compares entry (140).
+@variant L04: the manuscript reads ڡڡط, without the dots of the ق and of the ف.
+@variant L05: the manuscript reads الاڡصر, without the dots of the ق.
+@variant L10: the manuscript reads الٮلٮٮا, without the dots of the ب, the ي and the ن.
+@variant L11: the manuscript reads سطٮ for شطب, without the dots of the ش and of the ب. In the latitude the manuscript is damaged and seems to keep only the ك.
+@variant L13: the manuscript reads بالٮحه for بالبجه, without the dots of the second ب and of the ج.
+@variant L14: at entry (1126) the name ثياس is written ثٮاس, with the variant reading ثماش.
+@variant L15: the manuscript reads سٮا, without the dot of the ب; at entry (1691) the name is written سبا.

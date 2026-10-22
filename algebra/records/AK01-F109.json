@@ -1,0 +1,253 @@
+{
+ "anchor": "AK01-F109",
+ "frame": 109,
+ "frame_file": "page_109.jpg",
+ "frame_sha256": "de5f1afffc9dec9685e141427895e5e080e34239ac6fbb33e4a30b5ca6031452",
+ "printed_page": "٩٣",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 109, printed p. 93: the marriage problem of frame 108 concluded: her bequest is three eighths of ninety-three and a third, thirty-five dirhams. Then three more: the same, with a debt of ten dirhams on the woman: the husband's heirs have ninety less two thirds of a thing, twice the thing: the bequest thirty-three dirhams and three quarters; the same, where the husband bequeaths a third of his property to a man: the third is shared between the two bequests, and the heirs have ninety-five less a thing and a half, four things: the bequest seventeen dirhams and three elevenths; and the same, where she dies first, leaving ten dirhams and bequeathing a third, and he then dies leaving a hundred and twenty dirhams and bequeathing a third to a man: begun, continued on the next page. No word on this page is printed in the bold face. No footnote on this page.",
+ "lines": [
+  {
+   "id": "AK01-F109-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "والثلث وهو خمسة وثلاثون درهما . فان كانت المسألة على حالها وعلى المرأة دين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "عشرة دراهم وأوصت بثلث مالها فقياس ذلك أن تعطى المرأة عشرة دراهم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "مهرها ويبقى تسعون لها منه وصية فتجعل وصيتها شيئاً فيبقى تسعون الا شيئا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "ويصير فى يد المرأة عشرة دراهم وشىء فتقضى من ذلك دينها عشرة دراهم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "فيبقى لها شىء وأوصت من ذلك بثلثه وهو ثلث شىء فيبقى ثلثا شىء يرجع الى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "الزوج من ذلك بالميراث نصفه وهو ثلث شىء فصار فى يد ورثة الزوج تسعون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "درهما الا ثلثى شىء وذلك مثلا الوصية التى هى الشىء وذلك شيئان فاجبرالتسعين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "بثلثى شىء وزده على الشيئين فيكون تسعين درهما تعدل شيئين وثلثى شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "فالشىء من ذلك ثلاثة أثمانه وهو ثلاثة وثلاثون درهما وثلاثة أرباع درهم وهى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "الوصية . فان كان تزوجها على مائة درهم ومهر مثلها عشرة دراهم وأوصى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "لرجل بثلث ماله . فقياس ذلك أن تعطى المرأة مهر مثلها وهو عشرة دراهم فيبقى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "تسعون درهما ثم تعطى من ذلك وصيتها شيئا ثم تعطى الموصى له بالثلث",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "أيضا شيئا لأن الثلث بينهما نصفان لا تأخذ المرأة شيئا الا أخذ صاحب الثلث",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "مثله فتعطى صاحب الثلث ايضا شيئا ثم ترجع الى ورثة الزوج ميراثه من المرأة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "خمسة دراهم ونصف شىء فيبقى فى ايدى ورثة الزوج خمسة وتسعون الا شيئا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "ونصفا وذلك يعدل اربعة اشياء فاجبر ذلك بشىء ونصف شىء فيبقى خمسة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "وتسعون تعدل خمسة أشياءونصفافاجعلها أنصافافيكون أحد عشر نصفا والدراهم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "أنصافا فتكون مائة وتسعين نصفا تعدل أحد عشر شيئا فالشىء الواحد يعدل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "سبعة عشر درهما وثلاثة أجزاء من أحد عشر من درهم فهى الوصية.فان تزوجها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "على مائة درهم ومهر مثلها عشرة دراهم ثم ماتت قبل الزوج وتركت عشرة دراهم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "وأوصت بثلث مالها ثم مات الزوج وترك مائة وعشرين درهما وأوصى لرجل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F109-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "بثلث ماله . فقياسه ان تعطى المرأة مهر مثلها عشرة دراهم فيبقى فى ايدى ورثة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L01: «والثلث وهو خمسة وثلاثون درهما» (L01) goes on from the last words of frame 108, «ثلاثة أثمان الثلاثة والتسعين» (frame 108, L22): three eighths of ninety-three and a third, thirty-five dirhams.",
+  "No word on this page is printed in the bold face: the problems that follow begin «فان كانت المسألة على حالها» (L01), «فان كان تزوجها» (L10) and «فان تزوجها» (L19) in the face of the text, where the problems of the book of wills began under bold words (frame 106, L07, L16); the alifs of these words are 3 to 4 px thick, where those of the bold heading on frame 106, L07, are 6 to 7.",
+  "The ending ـقى is printed on this page in its round form, with the shape of the final ق, in ويبقى, فيبقى (L03), فيبقى (L05, twice; L11, L15, L16, L22); transcribed ـقى.",
+  "Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): فاجبرالتسعين (L07; the ر stands 29 px from the alif above the baseline, its tail 11 px from it, as the ر stands from the next letter inside a word, the tail 8 to 19 px from it; the same gap above the baseline is found between words, where the tail decides); أشياءونصفافاجعلها (L17; 6 between the hamza on the line and the conjunction و, where the hamza stands 2 to 11 px from the next letter without a space and 15 or more with one, and 9 between the final alif of ونصفا and the ف, where the alif stands 2 to 17 px from the next letter inside a word); أنصافافيكون (L17; 13 between the final alif and the ف, where أنصافا فتكون in L18 has 30).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: سبعة عشر (L19; 16 between the ة and the ع, at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one) and مائة درهم (L20; 16 between the ة and the د); درهما وثلاثة (L19; 20 between the alif and the conjunction و, where درهماوثلث on frame 108, L18, set without a space, has 12); أحد عشر (L17; 18 between the د and the ع, as on frame 102, L14, 19, where the د stands 3 to 8 px from the ع in أحدعشر on frames 056, 062 and 105); عشر نصفا (L17; the ر stands 34 px from the ن above the baseline, its tail 22 px from it, beyond the 8 to 19 px of the tail inside a word; as عشر سهما on frame 102, L12; in doubt, the space is written).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: وتسعون تعدل, تعدل خمسة (L17; 8 between the ل and the خ), من أحد (L19; 4 between the ن and the alif), وتركت عشرة (L20; 6 between the ت and the ع).",
+  "The full stops (gaps as the nearest approach of the ink at 400 ppi): after درهما, before فان (L01; 31 and 25), after الوصية, before فان (L10; 26 and 26), after ماله, before فقياس (L11; 20 and 25), and after ماله, before فقياسه (L22; 26 and 28), between spaces; in L19 the stop is set close on both sides, 9 px after الوصية and 9 px before فان, and transcribed so, «الوصية.فان», as on frame 077, L15.",
+  "Plain alif where a hamza might be expected, as printed: الا (L03, L07), the first alif of فاجبرالتسعين (L07), الا (L13), ايضا, الى (L14), ايدى, الا (L15), اربعة, اشياء, فاجبر (L16), the alif of فاجعلها in أشياءونصفافاجعلها (L17), ان, ايدى (L22), الى (L05); with hamza: المسألة, المرأة (L01), وأوصت, أن, المرأة (L02), المرأة (L04), وأوصت (L05), أثمانه, أرباع (L09), وأوصى (L10), أن, المرأة (L11), أيضا, لأن, تأخذ, المرأة, أخذ (L13), المرأة (L14), the first alif of أشياءونصفافاجعلها and of أنصافافيكون, أحد (L17), أنصافا, أحد (L18), أجزاء, أحد (L19), وأوصت, وأوصى (L21), المرأة (L22); on ي: شيئاً, شيئا (L03), شيئان (L07), الشيئين, شيئين (L08), مائة (L10), شيئا (L12), شيئا (L13, twice), شيئا (L14, L15), مائة, شيئا (L18), مائة (L20, L21); the hamza on the line: وشىء (L04), شىء (L05, three times), شىء (L06), شىء, الشىء (L07), شىء (L08, twice), فالشىء (L09), شىء (L15), اشياء, بشىء, شىء (L16), أشياءونصفافاجعلها (L17), فالشىء (L18), أجزاء (L19). L13: أيضا with the hamza, L14: ايضا without; L22: ان and ايدى without, where L02 and L11 print أن and frame 108, L18, أيدى.",
+  "With tanwīn on the final alif: شيئاً (L03, the first); without tanwīn as printed: شيئا (L03, the second), درهما (L01, L07, L08, L09, L12, L19, L21), شيئا (L12; L13, twice; L14, L15, L18), أيضا (L13), ايضا (L14), ونصفا (L16), نصفا (L17, L18), أنصافا (L18).",
+  "L05, L07: «ثلثا شىء» (L05) and «مثلا الوصية» (L07), as printed: the dual without its ن before the noun that follows it, as on frames 094, 095, 099, 106 and 108.",
+  "The final yā' is printed without dots: على, وعلى (L01), تعطى (L02), ويبقى, فيبقى (L03), فى, فتقضى (L04), فيبقى (L05, twice), الى (L05), فى (L06), ثلثى, التى, هى (L07), بثلثى, على, وثلثى (L08), وهى (L09), على, وأوصى (L10), تعطى, فيبقى (L11), تعطى (L12, twice), الموصى (L12), فتعطى, الى (L14), فيبقى, فى, ايدى (L15), فيبقى (L16), فهى (L19), على (L20), وأوصى (L21), تعطى, فيبقى, فى, ايدى (L22).",
+  "The print stretches فيكون (L08, between the ي and the ك) and فتكون (L18, between the ت and the ك) with the elongation stroke; the stroke is not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

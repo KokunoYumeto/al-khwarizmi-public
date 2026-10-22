@@ -1,0 +1,46 @@
+@page 245 213
+@lang la
+% JP2 0245: Tab. 98, p. 213: the projection of the rays continued: three fields, for the ascendant at 20°, 25° and
+% 30° of Cancer, each with the numbers for the sextile, the quadrature and the trine; the numbers of the three
+% fields are, with a few exceptions, those of the fields of 5°, 10° and 15° of Cancer on p. 212; with the
+% apparatus (notes 1-3 and a-h).
+@r C 94{sup:r}, O 149{sup:v},
+@r N 60{sup:v}.
+@c {b:Viginti}{sup:1}) {b:gradus Cancri}
+@c {b:Exagonum 64° 25′} — {b:Tetragonum 96°}{sup:a}) {b:37′} — {b:Trigonum 128° 50′}
+@tw size=footnotesize 0.95 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62
+@t Gradus | Cancer |  | Leo |  | Virgo |  | Libra |  | Scorpius |  | Sagittar. |
+@t aequales | Capricorn. |  | Aquarius |  | Pisces |  | Aries |  | Taurus |  | Gemini |
+@t  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 5 | 5 | 40 | 41 | 45 | 75 | 30 | 106 | 58 | 132 | 22 | 158 | 38
+@t 10 | 11{sup:b}) | 10 | 47 | 37 | 82 | 48 | 111 | 10 | 136 | 28 | 163 | 8
+@t 15 | 17 | 8 | 54 | 8 | 87 | 45 | 115 | 28 | 140 | 33 | 167 | 48
+@t 20 | 23 | 9 | 60 | 18 | 92 | 50 | 119 | 38 | 144 | 42 | 173 | 3
+@t 25 | 29 | 13 | 66 | 10 | 97 | 42 | 123 | 56 | 149 | 11 | 178 | 5
+@t 30 | 35 | 40 | 72 | 20 | 102 | 48 | 128 | 13 | 153{sup:c}) | 48 | 183 | 33
+@c {b:Viginti quinque}{sup:2}) {b:gradus Cancri}
+@c {b:Exagonum 65° 42′} — {b:Tetragonum 97°}{sup:d}) {b:48′} — {b:Trigonum 130° 24′}
+@t 5 | 5 | 40 | 41 | 30 | 77 | 43 | 107 | 38 | 133 | 58 | 160 | 38
+@t 10 | 11{sup:e}) | 23 | 47{sup:f}) | 43 | 83 | 5 | 112 | 23 | 138 | 16 | 165 | 13
+@t 15 | 17 | 0 | 53{sup:g}) | 55 | 88 | 13 | 116 | 48 | 142 | 31 | 169 | 58
+@t 20 | 23 | 0 | 60 | 8 | 93 | 29 | 121 | 3 | 146 | 33 | 175 | 16
+@t 25 | 29 | 10 | 67 | 7 | 98 | 35 | 125 | 38 | 151 | 18 | 180 | 16
+@t 30 | 35 | 18 | 72 | 25 | 103 | 53 | 129 | 58 | 155 | 58 | 185 | 41
+@c {b:Triginta}{sup:3}) {b:gradus Cancri}
+@c {b:Exagonum 65° 56′} — {b:Tetragonum 98° 55′} — {b:Trigonum 131° 52′}
+@t 5 | 5 | 40 | 41 | 38 | 78 | 22 | 109 | 47 | 137 | 29 | 164 | 17
+@t 10 | 11 | 23 | 47 | 53 | 83 | 54 | 114 | 21 | 141 | 47 | 168 | 54
+@t 15 | 17 | 0 | 54 | 8 | 89 | 29 | 118{sup:h}) | 54 | 145 | 59 | 173 | 49
+@t 20 | 23 | 0 | 60 | 36 | 94 | 47 | 123 | 12 | 150 | 19 | 179 | 4
+@t 25 | 29 | 10 | 67 | 8 | 99 | 57 | 127 | 59 | 155 | 7 | 184 | 14
+@t 30 | 35 | 18 | 72 | 59 | 105 | 29 | 133 | 9 | 159 | 44 | 189 | 39
+@n {sup:1}) Viginti] CN, Vicesimus O — {sup:2}) Viginti quinque] CN, Vicesimus quintus O — {sup:3}) Triginta] C,
+@n Tricesimus O, xxx. N.
+@n {sup:a}) 96] 66 CON — {sup:b}) 11] ON, 9 C — {sup:c}) 153] O, 154 C — {sup:d}) 97] 72 C, 67 ON — {sup:e}) 11] ON, 9 C
+@n — {sup:f}) 47] O, 48 C — {sup:g}) 53] 54 CON — {sup:h}) 118] C, 128 O.
+@obs The page number «213» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 98», in bold sans serif, underlined. The page has no signature and no title: the folios of the manuscripts stand at the right above the double rule of the first field, in two lines of their own, «C 94r, O 149v,» and «N 60v.», the letters raised (L01-L02).
+@obs The page holds three fields, as pp. 206-212 (JP2 0238-0244): «Viginti1) gradus Cancri» (L03), «Viginti quinque2) gradus Cancri» (L15) and «Triginta3) gradus Cancri» (L23), the ascendant at 20°, 25° and 30° of Cancer, with the numbers for the sextile, the quadrature and the trine (L04, L16, L24); headings and numbers in bold. The heads of the columns of the first field as on p. 212 (JP2 0244, L04-L07), from Cancer to Sagittarius, with «Horoscopus» in each and without notes (L05-L08). The second and the third field have no heads. Double rules divide the fields.
+@obs The numbers of the three fields repeat those of the three fields of p. 212 (JP2 0244), for 5°, 10° and 15° of Cancer. The third field here (L25-L30) has all 72 numbers of the third field there (p. 212, L24-L29). The second has 62 of the 72 numbers of the second field there: its column of Cancer (5° 40′, 11° 23′, 17° 0′, 23° 0′, 29° 10′, 35° 18′) is that of the third field there, and it has 67° 7′ at 25° of Leo (L21) for 66° 7′ and 107° 38′ at 5° of Libra (L17) for 107° 58′. The first has 66 of the 72 numbers of the first field there, with 17° 8′ at 15° of Cancer (L11) for 17° 20′, 47° 37′ at 10° of Leo (L10) for 47° 57′, 75° 30′ at 5° of Virgo (L09) for 77° 30′, and at 20° of Libra, 25° and 30° of Sagittarius (L12-L14) 119° 38′, 178° 5′ and 183° 33′ for 119° 28′, 177° 5′ and 180° 33′, the readings that the first field there requires (p. 212, notes b and c and critical note AK07-CN235).
+@obs The numbers at the head of a field, as on pp. 206-212 (JP2 0238-0244), are a third, a half and two thirds of one number, here not the last number of the field: in the first field 64° 25′, 96° 37′ and 128° 50′ (L04) belong to 193° 14′ to 193° 15′, where the field ends with 183° 33′ (L14); in the second the quadrature 97° 48′ and the trine 130° 24′ (L16) are a half and two thirds of 195° 36′, whose third is 65° 12′, where the sextile has 65° 42′, the third of 197° 6′, and the field ends with 185° 41′ (L22); in the third 65° 56′, 98° 55′ and 131° 52′ (L24) belong to 197° 48′ to 197° 50′, and the field ends with 189° 39′ (L30). These numbers continue those of p. 212 (JP2 0244), 183° 33′, 185° 41′ and 189° 40′ to 191° 39′ for 5°, 10° and 15° of Cancer.
+@obs Notes on the readings. The edition's readings are those of the fields of p. 212 (JP2 0244): at 10° of Cancer in the first and the second field (notes b and e, L10, L18: the 11 of O and N against C's 9; 11° 10′ and 11° 23′), at 30° of Scorpius in the first (note c, L14: O's 153 against C's 154; 153° 48′), at 10° of Leo in the second (note f, L18: O's 47 against C's 48; 47° 43′) and at 15° of Libra in the third (note h, L27: C's 118 against O's 128; 118° 54′). The editor's corrections of the readings of all three manuscripts: the quadratures of the first and the second field (notes a and d, L04, L16: 96 for 66, half of 193° 14′ being 96° 37′; 97 for C's 72 and the 67 of O and N, half of 195° 36′ being 97° 48′), and at 15° of Leo in the second field (note g, L19: 53 for 54, 53° 55′ as on p. 212, JP2 0244, L18).

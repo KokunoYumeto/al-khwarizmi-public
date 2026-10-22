@@ -1,0 +1,34 @@
+@page 47 ٣١
+% Frame 047, printed p. 31: addition and subtraction continued: doubling, tripling and halving a root (the root of
+% nine doubled is the root of thirty-six, six; tripled, the root of eighty-one; halved, the root of two and a quarter);
+% then division, «القسم», a run-in heading in bold: the root of nine divided by the root of four, continued on the next
+% page. Below the rule four footnotes of the editors.
+أن تضرب اثنين فى اثنين ثم فى المال فيصير جذر ما اجتمع مثلى جذر ذلك المال
+وان أردت ثلاثة أمثاله فاضرب ثلاثة فى ثلاثة ثم فى المال فيكون جذر ما اجتمع
+ثلاثة أمثال جذر ذلك المال الأول وكذلك مازاد من الأضعاف أو نقص فعلى
+هذا المثال نفسه {n:١} . وان أردت أن تأخذ نصف جذر مال فينبغى أن تضرب
+نصفاً فى نصف فيكون ربعاً ثم فى المال فيكون جذر ما اجتمع مثل نصف جذر
+ذلك المال . وكذلك ثلثه أو ربعه أو أقل من ذلك أو أكثر بالغاً مابلغ فى النقصان
+والاضعاف : {b:ومثال ذلك} اذا أردت أن تضعف جذر تسعةضربت اثنين فى اثنين
+ثم فى تسعة فيكون ذلك ستة وثلاثين فخذ جذرها يكون ستة وهو كجذر تسعة {n:٢}
+وكذلك لوأردت أن تضعف جذر تسعة ثلاث مرات ضربت ثلاثة فى ثلاثة ثم
+فى تسعة فيكون أحد وثمانين فخذ جذرها تسعة وذلك جذر تسعة مضاعفاً ثلاث
+مرات . فان أردت أن تأخذ نصف جذر تسعة فانك تضرب نصفاً فى
+نصف فيكون ربعا ثم تضرب ربعاً فى تسعة فيكون اثنين وربعاً فتأخذ جذرها
+وهو واحد ونصف وهو نصف جذر تسعة وكذلك ما زاد أو نقص من
+المعلوم والاصم . فهذا طريقه . {b:القسم} {n:٣} وان أردت أن تقسم جذر تسعةعلى جذر
+أربعة {n:٤} فانك تقسم تسعة على اربعة فيكون اثنين وربعا فجذرها هو ما يصيب
+@ednotes ١ ٢ ٣ ٤ 5
+@obs L07: the words ومثال ذلك, and L14: the word القسم, are printed in a bold face; القسم, which begins the section on division, is a run-in heading after the full stop that ends the section on roots, and the text runs on in the same line.
+@obs Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): مازاد (L03; 11, where L13 has ما زاد with 29), تسعةضربت (L07; 2), تسعةعلى (L14; 5), مابلغ (L06; 17, where the same letters stand 13 and 14 px apart inside a word, كتابى and الأبواب on frame 043, and 28 to 35 with a space, ما يصيب, L15, and الا شيئا on frame 044), لوأردت (L09; 26 between the و and the alif, as close as a و stands to the next letter inside a word or after the conjunction و, 20 to 30 px; with a space after a word-final و the next letter stands 39 to 47 px away on this page: أو ربعه, أو أقل, أو أكثر, L06; أو نقص, L03 and L13).
+@obs After a non-connecting letter a word space is transcribed where the gap is a space: ما اجتمع (L01, L02, L05; 20 to 25 px, where مااستودعوا on frame 030 has 13), أحد وثمانين (L10; 22), ستة وثلاثين and ستة وهو (L08; 21 and 22), تسعة وذلك (L10; 21), تسعة على and اربعة فيكون (L15; 24 each). After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: ربعه أو and من ذلك, فى النقصان (L06), أردت أن, تضعف جذر, اثنين فى (L07), فى تسعة, يكون ستة (L08), فى ثلاثة (L09), وذلك جذر (L10; 7 px), وان أردت أن (L14).
+@obs L07: the colon after والاضعاف stands between spaces. L04: the full stop after the note mark (١), with a space on either side. The other full stops (L06, L11, L14 twice) stand between spaces.
+@obs Plain alif where a hamza might be expected, as printed: اثنين (L01, L07, L12, L15), اجتمع (L01, L02, L05), وان (L02, L04, L14), والاضعاف (L07; L03 has الأضعاف), اذا (L07), فان, فانك (L11), فانك (L15), والاصم (L14), اربعة (L15; the line begins أربعة); with hamza: أن (L01, L04, L07, L09, L11, L14), أردت (L02, L04, L07, L11, L14), أمثاله (L02), أمثال, الأول, الأضعاف, أو (L03), أو, أقل, أكثر (L06), أحد (L10), أربعة (L15).
+@obs With tanwīn on the final alif: نصفاً, ربعاً (L05), بالغاً (L06), مضاعفاً (L10), نصفاً (L11), ربعاً, وربعاً (L12, the second and the third); without tanwīn as printed: ربعا (L12, the first), وربعا (L15).
+@obs The final yā' is printed without dots: فى throughout, مثلى (L01), فعلى (L03), فينبغى (L04), على (L14, L15).
+@obs L10: أحد وثمانين, as printed.
+@obs The print stretches واحد (L13) and تسعة (L11) with the elongation stroke; the stroke is not transcribed.
+@obs L08: the note mark (٢) ends the line, after تسعة and a space; (٣) stands after القسم, (٤) after أربعة (L15), each with a space on either side.
+@variant Note (٢) of the editors gives at L08, after the word صح, the reading «كجذر تسعة مرتين», like the root of nine twice, for the printed كجذر تسعة; it does not say whether this is their own correction or a correction marked صح in the manuscript.
+@obs Note (٣) of the editors remarks, in substance, that القسم is the verbal noun of قسم يقسم and that modern usage says القسمة instead. Notes (١) and (٤) restate the rules for multiplying and dividing roots in modern notation. None is reproduced.
+@critical AK01-CN011 | omission in the statement | L08 | وهو كجذر تسعة | وهو كجذر تسعة مرتين | The line doubles the root of nine: two times two times nine is thirty-six, whose root, six, is twice the root of nine (three); the line says it is «like the root of nine». The reading «كجذر تسعة مرتين» is given by the editors' note (٢). The following lines treat tripling and halving in the same way and name the multiple: «جذر تسعة مضاعفاً ثلاث مرات» (L10). | high that the sense requires مرتين | none on the computation: six, the result, is stated correctly

@@ -1,0 +1,47 @@
+@page 64 ٥٨
+@cols 22,50,82
+@align r,c,r
+% Frame 064, printed p. 58: the right-hand page of the opening pp. 58-59 of the table of the mountains of the sixth
+% clime: the numbers and names of seventeen entries, 837/838-869/870: Awrus joined to the sea, Durṭārūn, اٮدس,
+% سڡولس, Durūman, Kalmūn, مسڡما, اودحس, the mountain of al-Bāb wa-l-Abwāb, the mountain between two seas with al-Bāb
+% wa-l-Abwāb and the Gate of the Alans, the mountain of the Gate of the Khazars and the Alans, a tower of stones, and
+% Isfaṭāfā, with five mountains without a name; the folio of the manuscript, «(fol. 15ᵃ)», in the margin. Three lines
+% of the editor's footnotes, continued from the foot of p. 59.
+@m (fol. 15ᵃ)
+@r (٨٣٧ ٨٣٨) | [١٣٢٥ ١٣٢٦] | جبل اورس{n:a} متّصل بالبحر
+@r (٨٣٩ ٨٤٠) | [١٣٢٧ ١٣٢٨] | جبل درطارون
+@r (٨٤١ ٨٤٢) | [١٣٢٩ ١٣٣٠] | جبل
+@r (٨٤٣ ٨٤٤) | [١٣٣١ ١٣٣٢] | جبل
+@r (٨٤٥ ٨٤٦) | [١٣٣٣ ١٣٣٤] | جبل اٮدس{n:b}
+@r (٨٤٧ ٨٤٨) | [١٣٣٥ ١٣٣٦] | جبل سڡولس{n:c}
+@r (٨٤٩ ٨٥٠) | [١٣٣٧ ١٣٣٨] | جبل درومن{n:d}
+@r (٨٥١ ٨٥٢) | [١٣٣٩ ١٣٤٠] | جبل كلمون
+@r (٨٥٣ ٨٥٤) | [١٣٤١ ١٣٤٢] | جبل مسڡما{n:f}
+@r (٨٥٥ ٨٥٦) | [١٣٤٣ ١٣٤٤] | جبل
+@r (٨٥٧ ٨٥٨) | [١٣٤٥ ١٣٤٦] | جبل اودحس{n:g}
+@r (٨٥٩ ٨٦٠) | [١٣٤٧ ١٣٤٨] | جبل الباب والأبواب
+@r (٨٦١ ٨٦٢) | [١٣٤٩ ١٣٥٠] | جبل فيما بين بحرين فيه الباب والأبواب وباب الان{n:h}
+@r (٨٦٣ ٨٦٤) | [١٣٥١ ١٣٥٢] | جبل باب الخزر والان{n:i}
+@r (٨٦٥ ٨٦٦) | | برج حجارة
+@r (٨٦٧ ٨٦٨) | [١٣٥٣ ١٣٥٤] | جبل
+@r (٨٦٩ ٨٧٠) | [١٣٥٥ ١٣٥٦] | جبل اسفطافا
+@ednotes g h i k 3
+@obs The table of the mountains of the sixth clime goes on across the opening pp. 58-59, without a heading: each line of p. 58 is continued by the same line of p. 59 (frame 065), which gives the boundaries, the colour and the direction. The running numbers go on from entry 835/836 (frame 062) and run (٨٣٧ ٨٣٨)-(٨٦٩ ٨٧٠); the numbers of Suhrāb run [١٣٢٥ ١٣٢٦]-[١٣٥٥ ١٣٥٦] without a gap; entry 865/866 (L15) has none. The folio of the Strasbourg manuscript, «(fol. 15ᵃ)», is printed in Latin type in the right margin beside entry 837/838 (L01).
+@obs L03, L04, L10, L16: the name is the word «جبل» alone. L15: «برج حجارة», a tower of stones, the only entry of the page that does not begin with «جبل», with the dots of the ب, the two ج and the ة. L01: «جبل اورس متّصل بالبحر», the mountain Awrus, joined to the sea, «متّصل» with a shadda above the two dots of the ت. L12: «جبل الباب والأبواب», the mountain of al-Bāb wa-l-Abwāb; L13: «جبل فيما بين بحرين فيه الباب والأبواب وباب الان», the mountain between two seas, in which are al-Bāb wa-l-Abwāb and the Gate of the Alans; L14: «جبل باب الخزر والان», the mountain of the Gate of the Khazars and the Alans. «والأبواب» (L12, L13) has a hamza over the alif.
+@obs L02: «درطارون»; L07: «درومن»; L08: «كلمون», the ن with its dot. L17: «اسفطافا», both ف with their dots above.
+@obs L05: «اٮدس»: after the alif, a short tooth without a dot, 10 to 14 px high, joined to a final د, whose arm rises 23 px at the left of the tooth, as in the numeral «ٮد» of the tables; then a final س. The editor's note b gives the form of entries (1947) and (1949), «اندس», with the dot of the ن. Transcribed اٮدس.
+@obs L06: «سڡولس»: an initial س; an upright rounded loop without dots, about 14 px wide, standing on the line; then «ولس». L09: «مسڡما»: an initial م; the three low teeth of a س (7 to 11 px); an upright rounded loop without dots, 16 px wide and rising 20 px, with its counter in the upper part; then «ما». Both loops have the form of the medial ف with its dot in L17, «اسفطافا», and of the loop of ف or ق without dots on frame 046 (L05); the medial ع of this font is a wider arch (frame 044, L07, «بعضه», and frame 049, L02, «العرض»). Transcribed ڡ.
+@unres L06: the loop without dots after the س may also be read as a medial ع, سعولس. Transcribed سڡولس.
+@unres L09: the loop without dots after the س may also be read as a medial ع, مسعما. Transcribed مسڡما.
+@obs L11: «اودحس», the ح without a dot; the editor's note g gives the form of entry (2121), «اوردخس», with a ر after the و and the dot of the خ.
+@obs The editor's footnotes of the opening begin at the foot of p. 59 (frame 065) with notes a-f and the beginning of note g, and continue here in three lines with the end of note g and notes h, i and k. The texts of notes a, b, c, d and f, whose marks stand on this page (L01, L05-L07, L09), are printed on p. 59; the mark of note k stands on p. 59.
+@obs The page number «— ٥٨ —» stands at the foot, centred.
+@variant L01: at entries (2073), (2078), (2080) and (2088) the name is written اروس (note a, printed at the foot of p. 59).
+@variant L05: at entries (1947) and (1949) the name is written اندس (note b, printed at the foot of p. 59).
+@variant L06: at entry (1951) the name is written سيفولس (note c, printed at the foot of p. 59).
+@variant L07: at entry (1951) the name is written درومر (note d, printed at the foot of p. 59).
+@variant L08: at entries (1951) and (2116) the name is written ٮلمون (a note added in the editor's corrigenda (p. 163, frame 169)).
+@variant L09: at entry (2122) the name is written مٮڡنبا: an initial م, a low tooth without a dot, a loop without dots of the same form as in L09, a ن with its dot above, a ب with its dot below, and a final alif (note f, printed at the foot of p. 59); the text prints the same form there (frame 145, L16).
+@variant L11: at entry (2121) the name is written اوردخس (note g).
+@variant L13: at entries (2192) and (2194) it is called جبل قوقا; after entry (2378), and on the map of the marsh in the manuscript, fol. 47ᵃ (plate IV), جبل فوقا (note h).
+@variant L14: at entry (1231) it is called جبل يون, and after entry (1260) جبل نون (note i).

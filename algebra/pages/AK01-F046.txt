@@ -1,0 +1,34 @@
+@page 46 ٣٠
+% Frame 046, printed p. 30: the end of (10 + ½x)(½ − 5x); the rule of signs restated; (10 + x)(x − 10) once more;
+% then the chapter on addition and subtraction begins, «باب الجمع والنقصان», a run-in heading in bold: roots of
+% numbers added and subtracted, (√200 − 10) + (20 − √200), (20 − √200) − (√200 − 10), 2√200 = √800; the sum and the
+% difference of 100 + x² − 20x and 50 + 10x − 2x²; doubling a root, continued on the next page. Below the rule three
+% footnotes of the editors.
+( شيئاً ) وثلاثة أرباع جذر ثم تضرب خمسة أجذار ناقصة فى نصف جذر زائد
+فيكون مالين ونصفا ناقصاً فذلك خمسة دراهم الا مالين ونصفا والا تسعة
+وأربعين جذراً وثلاثة أرباع جذر . فان قال عشرة وشىء فى شىء الا عشرة فكانه
+قال شىء وعشرة فى شىء الا عشرة فتقول شىء فى شىء مال زائد وعشرة فى شىء
+عشرة أشياء زائدة والا عشرة فى شىءعشرةأشياء ناقصةفذهبت الزيادة بالنقصان
+وبقى المال والا عشرة فى عشرة مائة منقوصة من المال فجميع ذلك مال الا مائة
+درهم . وكل ما كان من الضرب زائداً وناقصاً مثل الأشياءفى زيادةشىءفالضرب
+الأخير ناقص أبداً فاعلم ذلك وبالله التوفيق . {b:باب الجمع والنقصان} اعلم أن جذر
+مائتين الا عشرة مجموع الى عشرين الا جذر مائتين فانه عشرة سوياً {n:١} .
+وجذر مائتين الا عشرة منقوص من عشرين الا جذر مائتين فهو ثلاثون الا
+جذرى مائتين . وجذرا مائتين هوجذر ثمانى مائة . ومائة ومال الا عشرين جذراً
+مجموع اليه خمسون وعشرة أجذارالا مالين {n:٢} فهو مائة ( ومال ) وخمسون الا مالا
+والا عشرةأجذار {n:٣} . ومائةومال الى عشرين جذراً منقوص منه خمسون وعشرة
+أجذار الا مالين فهو خمسون درهما وثلاثة أموال الا ثلاثين جذراً . وأنامبين لك
+علة ذلك فى صورة تؤدى الى الطلب ان شاء الله تعالى . واعلم أن كل جذر مال
+معلوم أو أصم تريد أن تضعفه ومعنى اضعافك إياه أن تضربه فى اثنين فينبغى
+@ednotes ١ ٢ ٣ 6
+@obs L08: the chapter heading باب الجمع والنقصان is printed in a bold face after the full stop that ends the chapter on multiplication, and the text runs on in the same line.
+@obs Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letters above the baseline, px at 400 ppi): شىءعشرةأشياء and ناقصةفذهبت (L05; 7, 8 and 7), الأشياءفى and زيادةشىءفالضرب (L07; 1, 3 and 1), عشرةأجذار and ومائةومال (L13; 11 and 7), وأنامبين (L14; 8). After the same letters set with a space the gaps are 16 to 52 px on this page (عشرة أشياء, L05, 25; أشياء ناقصة, L05, 28; an alif before the next word: الا مالين, L12, 22).
+@obs L11: هوجذر, the و of هو 25 px from the ج, as close as the و of وجذرا on the same line stands to its ج (20 px); where the print sets a space after و, the next letter stands 40 px or more away (ونصفا والا, L02, 40; أو أصم, L16, 44). L12: أجذارالا, the ر 8 px from the alif, closer than the ر and the alif inside وجذرا (L11, 28) and دراهم (L02, 28); in L14 the same words are set with a space (47 px), and so transcribed.
+@obs Where the print sets the words close but leaves a narrow gap, a word space is transcribed: ومائة ومال (L11; 16 px, where L13 has the same words set without a space, 7), الا عشرين (L11; 19 px between the alif and the ع, which stand 10 to 11 px apart inside فاعلم, L08). After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: قال عشرة (L03; 8 px), ذلك مال (L06; 7), منه خمسون (L13; 13), مبين لك (L14; 9).
+@obs Parentheses as printed: «( شيئاً )» (L01) and «( ومال )» (L12), each with a narrow space inside. The preface of the edition does not say what the parentheses mark. In L12 the sum of 100 + x² − 20x and 50 + 10x − 2x² is printed «مائة ( ومال ) وخمسون الا مالا والا عشرةأجذار», that is 150 − x² − 10x with «ومال» set in parentheses; the editors' note (٣) proposes the reading without it, in their own words: perhaps he means a hundred and fifty less a square and less ten roots.
+@obs The full stops of L03, L07, L08, L11 (twice), L13, L14 and L15 stand between spaces; the full stop of L09 ends the line, after the note mark (١) and a space.
+@obs Plain alif where a hamza might be expected, as printed: الا throughout, والا (L02, L05, L06, L13), فان (L03), فانه (L09), الى (L09, L13, L15), اليه (L12), ان (L15), اضعافك (L16); with hamza: أرباع (L01, L03), أجذار (L01, L12, L13, L14), وأربعين (L03), أشياء (L05), الأشياءفى (L07), الأخير, أبداً, أن (L08), أموال, وأنامبين (L14), أن (L15, L16, twice), أو, أصم, إياه (L16); and the hamza on the wāw in تؤدى (L15).
+@obs With tanwīn on the final alif: شيئاً (L01), ناقصاً (L02), جذراً (L03, L11, L13, L14), زائداً, وناقصاً (L07), أبداً (L08), سوياً (L09); without tanwīn as printed: ونصفا (L02, twice), مالا (L12), درهما (L14).
+@obs The final yā' is printed without dots: فى throughout, وبقى (L06), الى (L09, L13, L15), جذرى, ثمانى (L11), تؤدى, تعالى (L15), ومعنى, فينبغى (L16); and before the hamza in شىء and وشىء throughout.
+@obs The print stretches المال (L06, the first) with the elongation stroke; the stroke is not transcribed.
+@obs Note (١) of the editors restates the two computations of L08-L11 with roots in modern notation, and note (٢) the sum of L11-L13; not reproduced.

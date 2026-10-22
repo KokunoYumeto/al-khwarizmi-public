@@ -1,0 +1,51 @@
+@page 105 73
+@lang de
+% JP2 0105: Suter's commentary, p. 73: the end of chapter 25 (the rising point of the equator; Kh.'s rule for the
+% cosine; errors of Table 59a near the solstices, with Suter's values for 1°-3° of Capricorn and Cancer); chapters 26
+% and 26a, the oblique ascensions, begin (notes 1-2).
+betreffende Grad der Ekliptik kulminiert, das war für astrologische Zwecke wichtig
+zu wissen. In unserm Beispiele geht also der Punkt des Aequators mit der Rect-
+ascension 113° 5′ 49″ zu gleicher Zeit auf, da der Punkt der Ekliptik mit der Länge
+25° kulminiert.{sup:1})
+@p {sp:Kh.} braucht den Ausdruck „Sinus der Ergänzung“ (d. h. Cosinus) noch nicht
+wie {sp:Batt.}, er sagt : „man subtrahiere den Bogen von 90° und suche zu der Differenz
+den Sinus.“ Der Begriff einer besondern Funktion war bei {sp:Kh.} also noch nicht so
+weit entwickelt wie bei {sp:Batt.}
+@p Die Erklärung der Tafeln stimmt mit derjenigen bei {sp:Batt.}{sup:2}) fast durchweg
+überein. Wir haben noch einige Fehler unserer Tafeln zu erwähnen : Die Rect-
+ascensionen der drei ersten Grade des Krebses (Tafel 59{sup:a}) stimmen in den Sekunden
+nicht mit denjenigen des Steinbocks, und sollten doch dieselben sein vermehrt um
+180° ; unsere Berechnung ergibt sogar in den Minuten noch teilweise Abweichungen,
+es können diese auch von Fehlern in den Deklinationen herrühren, denn bei Längen,
+die nicht mehr als 1°—2° von 90° bezw. 270° abweichen, bewirkt ein Unterschied
+von 1″ in der Deklination einen solchen von 1{sup:1}/{sub:2}′ bis 2{sup:1}/{sub:2}′ in der Rectascension ;
+nimmt man z. B. die Deklination bei 89° bezw. 271° 23° 50′ 46″ an statt 23° 50′ 47″,
+wie die Tafel hat, so wird die Rectascension von 1° des Steinbocks = 1° 5′ 55″ statt
+1° 3′ 30″. Nach unsern Berechnungen ergeben sich für die Rectascensionen der drei
+ersten Grade des Steinbocks und des Krebses folgende Werte, wenn man die Deklina-
+tionen nimmt, wie sie in Tafel 23 und 24 angegeben sind :
+@t | Steinbock : | Krebs : |
+@t | 1° 3′ 30″ | 181° 3′ 30″ |
+@t | 2° 10′ 34″ | 182° 10′ 34″ |
+@t | 3° 16′ 48″ | 183° 16′ 48″ |
+@p Von diesen Werten stimmt nur derjenige für 3° des Krebses mit dem in Tafel 59{sup:a}
+gegebenen bis auf 1″ überein.
+@c {b:Kap. 26 u. 26{sup:a}. Mit wie viel Graden (des Aequators) an einem beliebigen Orte jedes}
+@c {b:Tierkreiszeichen aufsteigt.}
+@c (Text p. 20 u. 21, Tafel 59–59{sup:b}.)
+@p Für Orte, die eine bestimmte Breite haben, also nicht im Aequator liegen, hat
+unser Werk keine besondern Tafeln für die Bestimmung der Aufsteigungen, erstens
+wohl aus dem Grunde, weil, wenn man viele Breiten berücksichtigen wollte, die Zahl
+der Tafeln sich sehr vergrössern würde, und zweitens vielleicht auch deshalb, weil
+diese sog. schiefen Aufsteigungen ({i:ascensiones obliquae}) in ziemlich einfacher Weise
+aus den geraden abgeleitet werden können. {sp:Batt.} hat solche Tafeln für die Breiten
+@n {sup:1}) Wir würden sagen : Der Punkt der Ekliptik mit der Länge 25° geht zu gleicher Zeit auf
+@n wie der Punkt des Aequators mit der Rectascension 23° 5′ 49″.
+@n {sup:2}) Ed. {sp:Nallino}, I, 13—14.
+@obs The page number «73» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.», the points after «hist», «filos» and «Afd» printed faintly, on the left, and the sheet number «10» on the right; recorded here, not transcribed as a line. L01 completes the sentence that ends p. 72 (JP2 0104, L35), «da der».
+@obs L01-L04 and N01-N02. Checked: when the point of the ecliptic of longitude 25°, right ascension 23° 5′ 49″ (p. 72), culminates, the point of the equator a quadrant east of the meridian, of right ascension 113° 5′ 49″, is on the horizon of the right sphere; and in the right sphere, whose horizon passes through the poles, the points of the ecliptic and of the equator of the same right ascension rise together, as note 1 says.
+@obs L13-L27. Checked: with ε = 23° 51′, a declination of 23° 50′ 47″ gives by sin a = tg δ · cot ε a right ascension 1° 3′ 28″ from the solstice, 23° 50′ 46″ gives 1° 5′ 52″ (Suter: 1° 3′ 30″ and 1° 5′ 55″); the declinations of 89°, 88° and 87° computed from ε are 23° 50′ 46.1″, 23° 50′ 4.5″ and 23° 48′ 55.0″, and 23° 50′ 5″ and 23° 48′ 55″ give 2° 10′ 33″ and 3° 16′ 48″ (Suter: 2° 10′ 34″, 3° 16′ 48″). Computed from the longitudes 271°-273° directly the right ascensions from the beginning of Capricorn are 1° 5′ 36″, 2° 11′ 12″ and 3° 16′ 46″. Cancer is opposite Capricorn, so its right ascensions are those of Capricorn increased by 180°. The values of Tables 23, 24 and 59a are to be compared with the tables.
+@obs L22-L25: Suter's values, set in two columns under the heads «Steinbock :» and «Krebs :», each head centred over its column. Each printed row is one line here, the cells separated by our «|»; the empty cells give the columns room and are not printed. L28-L30: the heading of chapters 26 and 26a, in bold, centred, in two lines, with the reference to the text below it; «26a», «59a», «59b», the letters raised.
+@obs The dashes: L15 «1°—2°», the long dash (45 px); L30 «59–59b», a short dash (25 px, gaps 7 and 15 px) in the small type of the reference; N03 «13—14», the long dash of the small type of the notes (30 px, gaps 8 and 9 px). L17-L18: below the 2 of «23°» in L17 a dark blot between the lines; not transcribed.
+@obs Spaced type, marked {sp:}: «Kh.», «Batt.», «Nallino»; italics: «ascensiones obliquae». L06-L07: Kh.'s rule in German quotation marks; L05 «„Sinus der Ergänzung“».
+@obs The colons and semicolons stand after the thin space of the edition (10-15 px measured; «sagen :» in N01, 12 px).

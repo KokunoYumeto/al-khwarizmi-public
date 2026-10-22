@@ -1,0 +1,43 @@
+@page 23 ١٧
+% Frame 023, printed p. 17: the cities of the fourth clime continued, entries 214-230: places on and near the sea,
+% Ṭarābulus of the Maghrib, the city of Tūnis with two pairs of coordinates, four places without coordinates (Tāhart,
+% Tāqdamt, Targha, Kutāma), ٮرقه near the sea and places on the sea and on an island; the folio of the manuscript,
+% «(fol. 5ᵇ)», in the margin. Two lines of the editor's footnotes.
+@r (٢١٤) | [١٩٧] | ڡرقا قرب البحر | لر | {z} | لا | ن
+@r (٢١٥) | [١٩٨] | اثانا على البحر | لح | {z} | لٮ | يه
+@r (٢١٦) | [١٩٩] | سوقيا على البحر | لط | {z} | لٮ | يه
+@r (٢١٧) | [٢٠٠] | ماوں على البحر | لط | ل | لا | ن
+@r (٢١٨) | [٢٠١] | اسفارنوس{n:a} على البحر | مٮ | {z} | لٮ | مه
+@r (٢١٩) | | طرابلس المغرب على البحر | م | م | لٮ | {z}
+@r (٢٢٠) | | مدينة تونس | لٮ | {z} | لح | {z}
+@r | | | ما | مه{n:b} | لو | م
+@r (٢٢١) | | تاهرت | | | |
+@r (٢٢٢) | | تاقدمت{n:c} | | | |
+@r (٢٢٣) | | ترغة{n:d} | | | |
+@r (٢٢٤) | | كتامة | | | |
+@m (fol. 5ᵇ)
+@r (٢٢٥) | [٢٠٢] | ٮرقه قرب البحر | مح | {z} | لح | مه
+@r (٢٢٦) | | سرداسه{n:e} فى جزيرة | مب | ح | لو | {z}
+@r (٢٢٧) | [٢٠٤] | اقاليا{n:f} على البحر | مح | م | لد | {z}
+@r (٢٢٨) | | قورٮں{n:g} على البحر | مد | م | لح | {z}
+@r (٢٢٩) | | طريش على البحر | مو | {z} | لا | ل
+@r (٢٣٠) | [٢٠٥] | ڡرنبوس على البحر | مو | {z} | لا | ل
+@ednotes a b c d e f g 2
+@obs The table goes on from frame 022 without a heading: the cities of the fourth clime, entries 214-230. Numbers of Suhrāb stand at entries 214-218 ([١٩٧]-[٢٠١]), 225 ([٢٠٢]), 227 ([٢٠٤]) and 230 ([٢٠٥]); [٢٠٣] does not appear, and the editor's note g proposes it for entry 228. Only entry 220 has the word «مدينة». The folio of the Strasbourg manuscript, «(fol. 5ᵇ)», is printed in Latin type in the left margin beside entry 225 (L13).
+@obs L07-L08: entry 220, the city of Tūnis, has two pairs of coordinates, printed on two lines and joined on the right by a brace; the running number and the name stand between the two lines. Transcribed as two rows, the second without number and name; the minutes of the second longitude carry the editor's note mark b.
+@obs L09-L12: entries 221-224, Tāhart, Tāqdamt, Targha and Kutāma, have no coordinates: the columns of the numerals are empty, and no rules are printed in them from below the second line of entry 220 to above entry 225.
+@obs L01, L18: «ڡرقا» and «ڡرنبوس» begin with a loop raised above the line and joined by a stroke on the line to a ر: the loop of ف or ق without dots, of the size and height of the ق of «قرب» (L01), which has its two dots. An isolated و stands on the line and goes straight into its tail, without a joining stroke and without the head of a ر; transcribed ڡر.
+@obs Letters printed without their dots in the names, transcribed so: «ٮرقه» (L13), the tooth before the ر; «ماوں» (L04), the final ن; «قورٮں» (L16), a tooth and the final ن after the ر. L02: «اثانا»: the three dots of the ث are printed as one mark; the ن has its dot. L09, L10: the two dots of the first ت of «تاهرت» and «تاقدمت» are printed touching the top of the following alif.
+@obs Letters printed without their dots in the numerals, transcribed so: لٮ, the final ب without its dot, in the degrees of the latitude (L02, L03, L05, L06) and of the longitude (L07); مٮ (L05, the degrees of the longitude). With their dots: مب (L14, the degrees of the longitude); يه (L02, L03) and ن (L01, L04), in the minutes of the latitude.
+@obs L01: the degrees of the longitude, لر: in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed. L18: in the degrees of the longitude, مو, the م is printed apart from the و.
+@obs Below the notes, at the left, the signature «2» of the printed sheet; the page number «— ١٧ —» stands at the foot, centred.
+@variant L04: at entry (1745) the name is written ماون (a note added in the editor's corrigenda (p. 163, frame 169), which print the name of this line «اوں», without its م).
+@variant L05: at entry (1042) the name اسفارنوس is written اسفارٮوس, with the variant reading اسفادوس; the editor's corrigenda (p. 163, frame 169) add that at entry (1819) it is written اسفارٮوس.
+@variant L08: for the second longitude, ما مه, the manuscript gives the variant reading مٮ مه, printed with a line above the numerals.
+@variant L10: the manuscript reads ناقوٮ for تاقدمت.
+@variant L11: the manuscript reads تدغه for ترغة.
+@variant L14: the editor identifies the place with entry (332), سردانيه.
+@variant L15: at entry (1043) the name اقاليا is written اقالينا.
+@variant L16: the editor suggests that the entry is perhaps the one numbered [٢٠٣] in Suhrāb.
+@obs L13: the editor's corrigenda (p. 163, frame 169) read «برقة» for «ٮرقه» (critical note AK05-CN017).
+@critical AK05-CN017 | corrected in the corrigenda | L13 | ٮرقه | برقة | the editor's list of additions and corrections on p. 163 (frame 169) reads برقة for ٮرقه in this line, p. 17, line 13 | high | the name of entry 225 reads برقة, Barqa

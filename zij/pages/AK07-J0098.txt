@@ -1,0 +1,55 @@
+@page 98 66
+@lang de
+% JP2 0098: Suter's commentary, p. 66: the end of chapters 20-21 (Ptolemy's year of 365d 14′ 48″ in the note of C);
+% chapter 22, the first visibility of the moon on the evening of the 29th: al-Bīrūnī's remark, al-Battānī's rule with
+% the latitude of the moon, with a figure; al-Khwārizmī's rule begins (notes 1-5).
+spätern {i:Ārya-Siddhānta} gefolgt sei, doch kann diese Frage aus den gegebenen Zahlen
+keineswegs endgiltig entschieden werden{sup:1}).
+@p In einer Note, die nur das Ms. C enthält, werden die Daten des {sp:Ptol.} für
+die Jahreslänge, die monatliche, tägliche und stündliche mittlere Bewegung der
+Sonne richtig angegeben, ebenso die Bahn der Sonne in einem Jahre (von 365 ganzen
+Tagen) und in 18 Jahren{sup:2}). Was die Jahreslänge anbetrifft, so ist sie zu 365{sup:d} 14′ 48″
+angegeben, d. h. zu 365 + {fr:14|60} + {fr:48|3600} Tagen, dies macht in Stunden, Minuten und
+Sekunden verwandelt = 365{sup:d} 5{sup:h} 55{sup:m} 12{sup:s}, d. i. die Länge des tropischen Jahres des
+{sp:Ptol.} — Eigentümlich ist es, dass im ganzen Werke {sp:Kh.}’s keine Angabe über die
+Länge des zu Grunde gelegten siderischen Jahres zu finden ist.
+@c {b:Kap. 22. Über das Erscheinen des Mondes am Abend des 29. Tages (des Monats).}
+@c (Text p. 16—17, Tafel 57{sup:a}.)
+@p Dieses Kapitel gehört zu den schwierigsten der arabischen Astronomie. {sp:Al-Bīrūnī}
+sagt hierüber in seiner {i:Chronologie}{sup:3}) : „Was das Erscheinen des Neumondes anbetrifft,
+so ist seine genaue Bestimmung weitläufig und schwierig (zu erklären) und bedarf
+komplizierter Rechnungen und vieler Tafeln ; es möge genügen auf das hinzuweisen,
+was über diesen Gegenstand in den Tafeln {sp:Al-Battānīs} und {sp:Ḥabash}’ des Rechners
+gesagt ist“.
+@p {sp:Batt.} behandelt diese Frage im 41. Kapitel{sup:4}), und G. {sp:Schiaparelli} und {sp:Nal-}
+{sp:lino} haben sie in ausgezeichneter Weise kommentiert{sup:5}). Ich kann hier nicht näher
+auf diesen Gegenstand eintreten, es möge genügen zu bemerken, dass die Regel {sp:Kh.}’s
+und seine Tafel wahrscheinlich auf anderer Grundlage beruhen müssen als die
+Darstellung {sp:Batt.}’s. Ich hebe nur einen Punkt hervor, der diese Behauptung zu
+stützen vermag. Nach {sp:Batt.} hängt das erste Erscheinen der Mondsichel nicht nur
+von dem Unterschied der wahren Längen von Sonne und Mond ab, sondern auch
+noch von der Breite des Mondes ; er gibt nun
+(p. 87) die Vorschrift, man müsse das Quadrat
+des Unterschiedes der wahren Längen von Sonne
+und Mond zum Quadrat der Breite des Mondes
+addieren, so erhalte man angenähert das Quadrat
+der Distanz des Mondes von der Sonne ; die Rich-
+tigkeit dieser Vorschrift ergibt sich ohne weiters aus beistehender Figur :
+@c {i:MS} ∽ {rt:{i:CS}{sup:2} + {i:MC}{sup:2}}.
+@p {sp:Kh.} aber, der die Breite des Mondes allerdings auch berücksichtigt, sagt
+(p. 16) : „Wenn die Breite des Mondes nördlich ist, so ist sie zu der Differenz der
+wahren Längen von Sonne und Mond zu addieren, wenn sie südlich ist, von jener
+@n {sup:1}) Vergl. auch Kap. 38.
+@n {sup:2}) Diese Angabe ist in den Graden fehlerhaft, es muss statt 1350 heissen 355.
+@n {sup:3}) Ed. {sp:Sachau}, arab. Text p. 196, engl. Übers. p. 176.
+@n {sup:4}) Ed. {sp:Nallino} I, 85—92.
+@n {sup:5}) Ibid. I, 265–272.
+@obs The page number «66» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L02 complete the sentence that ends p. 65 (JP2 0097, L38), «dass er dem Sūrya-Siddhānta und dem». L11-L12: the heading of chapter 22, in bold, centred, with the reference to the text below it; «57a», the a raised.
+@obs L03-L10: the note of C is the bracketed addition to chapter 21 on p. 16 of the Latin text (JP2 0048, L01-L10), whose «1350 (sic! recte 355)» note 2 corrects. L06-L08. Checked: 365 + 14/60 + 48/3600 = 365.24667 days, and 0.24667 days are 5h 55m 12s. L07: the fractions 14/60 and 48/3600 built up within the line, written {fr:NUMERATOR|DENOMINATOR}; L06 and L08 the d, h, m and s raised.
+@obs A figure stands at the left of L26-L31, which are set in a narrower measure at its right; it is not reproduced. An arc, concave downward, labelled «Ekliptik» in italics along its left part, with C and S on it; M above C, joined to C by a short vertical line and to S by a straight line. The letters M, C, S are italic.
+@obs L26-L33: al-Battānī's rule (Nallino I, 87): the square of the difference of the true longitudes of the sun and the moon plus the square of the moon's latitude is about the square of the moon's distance from the sun. Checked: in the triangle M C S, small and nearly plane, right-angled at C, MS² = CS² + MC². L33: the formula, displayed and centred, with a full stop after it: «∽», a sign like a letter S lying on its side with its ends curled, the sign of approximate equality, transcribed ∽ (U+223D); the radical is printed as a V-shaped sign with a bar over «CS² + MC²», written {rt:…}; M, S, C italic.
+@obs L13-L18: the passage of al-Bīrūnī's Chronology in German quotation marks; «Ḥabash’ des Rechners», Ḥabash al-Ḥāsib, spaced, with the dot under the Ḥ and the apostrophe of the genitive. L35-L36: the quotation of chapter 22 of the Latin text (p. 16, JP2 0048), in German, continued on p. 67. L02 «endgiltig» and L32 «ohne weiters», as printed.
+@obs L26: before «des» a thin mark like a bracket, «[», lighter than the print, of spacing material that came up to the height of the type; not transcribed. L09 and L12: the dash of «Ptol. — Eigentümlich» long, with a space on either side, and that of «16—17» long and set close, both printed in two pieces; N04: «85—92», the long dash of the small type of the notes (31 px, with gaps of 6 and 8 px); N05: «265–272», the short dash (26 px, with gaps of 10 and 9 px).
+@obs Spaced type, marked {sp:}: «Ptol.», «Kh.», «Al-Bīrūnī», «Al-Battānīs», «Ḥabash», «Batt.», «Schiaparelli», «Nallino», «Sachau»; italics: «Ārya-Siddhānta», «Chronologie», the letters of the formula.
+@obs The colons and semicolons stand after the thin space of the edition (10-12 px measured).
+@critical AK07-CN283 | wrong reference | N01 | Vergl. auch Kap. 38. | Vergl. auch p. 103. | the list of misprints, p. [237] (JP2 0271, L14), reads «p. 103» for «Kap. 38»: the text has 37 chapters, and on p. 103 (JP2 0135, L09-L15) Suter takes up the length of the year again, with a note back to pp. 42 and 65 | high | none

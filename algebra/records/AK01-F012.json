@@ -1,0 +1,23 @@
+{
+ "anchor": "AK01-F012",
+ "frame": 12,
+ "frame_file": "page_012.jpg",
+ "frame_sha256": "9c7fb029fc006532ad46eb2c6aeb5f1f8a23f2fddb2bc803e15311a68882d74d",
+ "printed_page": "-",
+ "kind": "editorial",
+ "role": "MODERN_EDITORIAL (not reproduced)",
+ "comment": "Frame 012: the editors' preface, end, dated and signed by the two editors.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [
+  "the editors' preface (مقدمة), second page, with its date and the signatures of the two editors"
+ ],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The preface (frames 011-012) states that the manuscript the edition follows is a copy made about five hundred years after the author's death, that the notes in its margins, added by readers, are not treated as part of the text, and that the editors corrected what they judged obvious copying errors without marking the corrections. The edition is therefore not a diplomatic edition of the manuscript; this transcription follows the edition as printed. The preface is dated 26/9/1937."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

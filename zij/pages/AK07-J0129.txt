@@ -1,0 +1,58 @@
+@page 129 97
+@lang de
+% JP2 0129: Suter's commentary, p. 97: chapters 32 and 36 continued: the division of the houses by the sixths of the
+% night and day arcs of the ascendant; the sizes of the houses; the seasonal hour for Cordova on the morning of
+% 23 January 901 (notes 1-3).
+durch die Pole des Aequators, sind also Meridiane oder Deklinationskreise ; der erste,
+durch den {i:Aszendenten} gehende, markiert den Anfang des I. Hauses ; um nun den
+Punkt auf der Ekliptik zu erhalten, durch den der zweite Kreis (vom Aszendenten
+aus gegen Osten nach der Ordnung der Tierkreiszeichen gezählt) geht, mit dem also
+das II. Haus beginnt, muss man den Nachtbogen des Aszendenten durch 6 teilen{sup:1}),
+das Resultat zur Rectascension des Aszendenten addieren, und zu dieser neuen
+Rectascension in den Tafeln 59—59{sup:b} die Länge suchen, so hat man den Grad des
+Anfangs des II. Hauses, und um 180° vermehrt den Grad des Anfangs des VIII. Hauses,
+der der Nadir ({i:Naẓīr}) zu dem des II. ist. Will man den Anfang des III. (bezw. IX.)
+Hauses haben, so addiert man zu der vorhin gefundenen Rectascension wiederum
+den 6. Teil des Nachtbogens, so ist die Summe die Rectascension des Anfangs des
+III. bezw. IX.) Hauses ; das gleiche gilt auch noch für die Berechnung des Anfangs
+des IV. (bezw. X.) Hauses. Um den Anfang des V. (bezw. XI.) Hauses zu erhalten,
+muss man zur Rectascension des IV. Hauses den 6. Teil des Tagebogens des Aszen-
+denten (= {cf:360° — Nachtbogen|6} = 60° — {cf:Nachtbogen|6}) addieren, und zu dieser Rectascension
+wieder die Länge suchen, diese ist der Anfang des V. (bezw. XI.) Hauses. In gleicher
+Weise verfährt man nun auch für die Auffindung der Anfänge des VI. u. VII. Hauses ;
+wenn die Berechnung richtig durchgeführt ist, so muss der Anfang des VII. Hauses
+der Nadir des Anfangs des I. Hauses, d. h. des Aszendenten sein.
+@p Man sieht also hieraus, dass diese zwölf Häuser von ungleicher Grösse waren,
+immerhin sind das I., II., III., VII., VIII., IX. unter sich kongruent, ebenso das IV., V.,
+VI., X., XI., XII. unter sich. Das Eigentümliche ist, dass sowohl auf den Tagebogen,
+wie auch auf den Nachtbogen kleinere und grössere Häuser fallen. Jede geographische
+Breite hat ihre besondere Häusergrösse, und diese wechselt wieder mit der Jahres-
+zeit ; nur am Aequator sind alle Häuser zu jeder Jahreszeit gleich gross{sup:2}).
+@p Im Kap. 32 wird dann noch angegeben wie man die Grösse (in Graden) einer
+{i:Zeitstunde,} also sowohl einer {i:Tages-} als einer {i:Nachtstunde} bestimmen könne ; man
+braucht dazu die Tafeln der schiefen Aufsteigungen für die betreffende Breite, diese
+Tafeln fehlen aber, wie früher schon bemerkt wurde, in diesem Werke. Wir haben
+die Grösse der Zeitstunde für Cordova, um eine Probe für die Anfänge der zwölf
+Häuser zu machen, angenähert nach den Tafeln {sp:Batt.}’s (II, 67) bestimmt, und für
+den Morgen des 23. Jan. 901, d. h. für den Aszendenten 297° 3′ (= 27° 3′ des Steinbocks)
+= 12° 4′ gefunden{sup:3}) ; man kann allerdings dieselbe auch trigonometrisch berechnen,
+indem man den Stundenwinkel der Sonne bei ihrem Aufgang an dem betreffenden
+Tage in Cordova sucht. Die Länge der Doppel-Tagesstunde ist also 24° 8′, die Länge
+der Doppel-Nachtstunde ist also = 35° 52′.
+@n {sup:1}) Dies gibt nach {sp:Kh.} die {i:tempora duarum horarum nocturnarum} ; unter {i:tempora} sind hier
+@n Aequatorialgrade verstanden.
+@n {sup:2}) Zur Zeit der Tag- und Nachtgleiche ist dies auch in den andern Breiten der Fall.
+@n {sup:3}) Diesem Werte liegt für Cordova die geogr. Breite 38° 30′ zu Grunde ; wir haben nämlich
+@n nachträglich in den Tafeln der {i:proiectio radiorum} gefunden, dass {sp:Al-Madjrīṭī} sie so gross an-
+@n genommen hat.
+@obs The page number «97» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «13» on the right; recorded here, not transcribed as a line. L01 continues the sentence that ends p. 96 (JP2 0128, L37), «Die sechs grössten Kreise gehen».
+@obs L15: the formula in the line, inside tall parentheses, its fractions built up in smaller type, written {cf:NUMERATOR|DENOMINATOR}; the minus signs long dashes (37 px in the numerator, 47 px in the line) with a space on either side. L07: «59—59b», the long dash set close, the b raised. L09: «Naẓīr», in italics, with the dot under the z and the macron.
+@obs L01-L19. Checked: the ascendant lies on the horizon, so that its right ascension is that of the midheaven plus its half day arc, and adding its half night arc gives the right ascension of the midheaven plus 180°, the lower midheaven, the beginning of the IV. house; adding then the half day arc gives the right ascension of the ascendant plus 180°, that of the opposite point of the ecliptic, the beginning of the VII. house, as L17-L19 say. The day arc and the night arc make 360°, so that a sixth of the day arc is 60° less a sixth of the night arc, as in L15.
+@obs L20-L25. Checked: the houses I-III and VII-IX each take a sixth of the night arc of the ascendant in right ascension, IV-VI and X-XII a sixth of its day arc. The two arcs are equal when the ascensional difference vanishes, tan φ · tan δ = 0, φ the latitude and δ the declination of the degree of the ascendant: at the equator always, at other latitudes when the ascendant is one of the equinoctial points. The size of the houses therefore follows the degree that rises, which changes in the course of every day; the season, in L24-L25 and N03, governs it when the ascendant is the place of the sun, as at sunrise.
+@obs L26-L36 and N04-N06. Checked: with al-Battānī's obliquity 23° 35′ the declination of 297° 3′ is 20° 52′ south; at the latitude 38° 30′ of N04 the ascensional difference is 17° 40′, the day arc 144° 41′ and its twelfth 12° 3′, «12° 4′» (with the latitude 37° 53′ of Cordova 12° 7′). Al-Battānī's table of the seasonal hours (Nallino II, 67) gives for Ḥarrān (36° 40′) 12° 3′ at 20° and 12° 20′ at 30° of Capricorn, 12° 15′ for 27° 3′, the value of the same computation at 36° 40′. 2 × 12° 4′ = 24° 8′; 2 × (30° − 12° 4′) = 35° 52′.
+@obs L12: «III. bezw. IX.)»; see the critical note. L27: «man» at the end of the line, the right side of its n faint; read as «man». L36: «ist also = 35° 52′», as Suter writes «ist also bei dieser Anomalie = 52′ 47″ — 12′ 20″» (p. 90, JP2 0122, L28).
+@obs Small specks before «Man» (L20), in the left margin beside L22 and after «einer» (L26); not transcribed.
+@obs Spaced type, marked {sp:}: «Batt.», «Kh.», «Al-Madjrīṭī»; italics: «Aszendenten» (L02; upright elsewhere), «Naẓīr», «Zeitstunde,», «Tages-», «Nachtstunde», «tempora duarum horarum nocturnarum», «tempora», «proiectio radiorum».
+@obs The colons and semicolons stand after the thin space of the edition (9-13 px measured).
+@copy A stroke of ink through the printed words «ist also» in L36, «der Doppel-Nachtstunde ist also = 35° 52′», drawn by hand over the two words in this copy. Not part of the edition.
+@critical AK07-CN076 | missing parenthesis | L12 | III. bezw. IX.) Hauses | III. (bezw. IX.) Hauses | the closing parenthesis after «IX.» has no opening one; «des III. (bezw. IX.)» in L09, «des IV. (bezw. X.)» and «des V. (bezw. XI.)» in L13 | high | none

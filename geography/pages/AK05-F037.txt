@@ -1,0 +1,40 @@
+@page 37 ٣١
+% Frame 037, printed p. 31: the cities of the sixth clime continued, entries 445-458: Dāṭiya, Asqūqū, دواٮسس, Aykhlas,
+% اوور on the sea, Als in a peninsula, Constantinople on the strait, Īliyūn near the sea, Nīqūmūdiyā, Ayṭaniyā,
+% Malūmīlīn, Amāsā, سٮسمانى and Māsūriyā. Six lines of the editor's footnotes.
+@r (٤٤٥) | [٣٩١] | داطيه{n:a} | مه | ك | مد | مه
+@r (٤٤٦) | [٣٩٢] | اسقوقو | مو | {z} | مح | ى
+@r (٤٤٧) | [٣٩٣] | دواٮسس{n:b} | مر | ن | مد | ك
+@r (٤٤٨) | [٣٩٤] | ايخلس{n:c} | مز | مه | مه | {z}
+@r (٤٤٩) | [٣٩٥] | اوور{n:d} على البحر | مح | ى | مح | مه
+@r (٤٥٠) | [٣٩٦] | الس فى شبه جزيرة | مح | له | مٮ | ٮه
+@r (٤٥١) | [٣٩٧] | قسطنطينيّة على الخليج | مط | ن | مه | {z}
+@r (٤٥٢) | [٣٩٨] | ايليون{n:e} قرب البحر | ن | مه | مٮ | ك
+@r (٤٥٣) | [٣٩٩] | نيقوموديا{n:f} | نا | {z} | مد | ٮه
+@r (٤٥٤) | [٣٨١ ٤٠٣] | ايطنيا | ند | ك | ما | مه
+@r (٤٥٥) | [٤١٥] | ملوميلين{n:g} | ند | مه | مٮ | ن
+@r (٤٥٦) | [٤١٦] | اماسا{n:h} | ٮر | ل | مه | {z}
+@r (٤٥٧) | [٤١٧] | سٮسمانى{n:i} | ٮح | ك | مح | مه
+@r (٤٥٨) | [٤١٨] | ماسوريا | ٮط | ٮه | ما | ن
+@ednotes a b c d e f g h i 6
+@obs The table goes on from frame 036 without a heading: the cities of the sixth clime, entries 445-458. All have numbers of Suhrāb: [٣٩١]-[٣٩٩] (entries 445-453), at entry 454 two numbers in one pair of square brackets, «٣٨١» above «٤٠٣», transcribed «[٣٨١ ٤٠٣]», as on frame 031, and [٤١٥]-[٤١٨] (entries 455-458); [٣٨١] is the number that does not appear on frame 036. No entry has the word «مدينة».
+@obs L03: «دواٮسس»: after the alif, a tooth 14 px above the line without a dot, then two groups of three low teeth, 3 to 6 px, the second running into the final bowl. The tooth is taller than the teeth of س, and the teeth that follow it are lower than those of an initial س, which are 10, 9 and 6 px in «اسقوقو» (L02) and «ماسوريا» (L14); transcribed دواٮسس. The note mark b stands lower than the other marks, at the height of the letters.
+@obs L05: «اوور»: after the alif, two و, the first with a short tail that ends at the line, the second with the long tail of the letter, then the ر; each و has the closed loop of the letter, which a د has not (L01, L03). Transcribed اوور.
+@obs L10: «ايطنيا»: a small round dot, 5 by 5 px, stands just above the top of the alif, at its left; it has not the form of a hamza, which in this font is some 15 by 14 px (frame 028, L08, «الأهواز»). Not transcribed.
+@obs L13: «سٮسمانى»: an initial س, with teeth of 13, 10 and 8 px; a tooth 18 px above the line without a dot; a second س with low teeth; م, ا, a ن with its dot and a final ى without dots. Transcribed so.
+@obs Signs in the names, transcribed as printed: L07: «قسطنطينيّة», with a shadda over the second ي. L06: «فى» has no dots on the ى.
+@obs Letters printed without their dots in the numerals, transcribed so: ٮر (L12, the degrees of the longitude), a tooth without its dot joined to a ر, as on frame 015 (L03, L04), and مر (L03, the degrees of the longitude); in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); ٮح (L13) and ٮط (L14, the degrees of the longitude), the tooth without its dot; مٮ (L06, L08, L11, the degrees of the latitude), the م and a final ب without its dot, 42. With their dots: مز (L04, the degrees of the longitude), the ز with its dot, 10 by 11 px, 14 px above the head of the letter; ن (L08, the degrees of the longitude; L03, L07, the minutes of the longitude; L11, L14, the minutes of the latitude); نا (L09) and ند (L10, L11), the ن with its dot.
+@obs The degrees printed with a final ح, مح (L02, L05, L13, the degrees of the latitude; L05, L06, the degrees of the longitude) and ٮح (L13), show no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. L13: two faint grey hairlines lie in the bowl of «ٮح», much lighter than the print; they are not a dot.
+@obs The isolated ك, 20, is printed with the small inner stroke of the letter (L01, L10, L13, the minutes of the longitude; L03, L08, the minutes of the latitude). The minutes of the latitude in L06 and L09 and of the longitude in L14, «ٮه», are a tooth without its dot joined to a final ه.
+@obs Specks, not transcribed: L03, a dark mark, 5 by 4 px, touching the head of the ر of the degrees of the longitude, «مر», at its upper left, half the size of a dot of the font and below the place of the dot of a ز; L04, a dark speck to the left of the degrees of the longitude, «مز», near the top of the ز; L06, a cluster of small specks above the degrees of the latitude «مٮ», smaller than the dots of the font, where no letter of the numeral has a dot above; L13, a dark speck above the degrees of the latitude «مح».
+@obs The page number «— ٣١ —» stands at the foot, centred.
+@copy Faint wavy grey hairlines, fibres on the paper: L02, at the closing bracket of the number of Suhrāb; L09, beside the degrees of the longitude, at the right; L11, below the minutes of the longitude.
+@variant L01: at entry (2162) the name is written داطه, with the variant reading راطه.
+@variant L03: at entry (2162) the name is written the same way; the editor gives a variant reading with more teeth between the alif and the final bowl.
+@variant L04: at entry (2162) the name is written اكلس; the editor suggests that it may be read اٮحاس.
+@variant L05: at entry (1085) the name is written اود.
+@variant L08: at entry (1947) the name is written ابليون, and at entry (1949) اٮلون.
+@variant L09: at entry (1054) the name is written نيقوموذيا.
+@variant L11: at entry (1951) the name is written قبلوميلس.
+@variant L12: at entry (1958) the name is written اماسيا, and at entry (2185) اماسٮ, with the variant readings امايسا and ٮما.
+@variant L13: at entry (1958) the name is written سيسماى, and at entry (2189) سسماى.

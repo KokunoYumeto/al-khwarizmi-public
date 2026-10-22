@@ -1,0 +1,48 @@
+@page 47 15
+@lang la
+% JP2 0047: the Latin text, p. 15: the end of chapter 18 (the apogees of Mars, Venus, Mercury and the moving apogee of
+% the moon); chapter 19, the nodes of the planets; chapter 20, the daily motion of the moon; chapter 21, the daily
+% motion of the sun; with the apparatus (notes 1-26), whose readings of C and M give the units above the figures.
+signa IIII, gradus VIII, dakaicae XXIIII{sup:1}) ; Veneris vero signa II, gradus XXI, dakaicae
+XV, eltheniae 0{sup:2}) ; Mercurii vero{sup:3}) signa VII, gradus XIIII{sup:4}), dakaicae LIIII{sup:5}). Lunae
+vero sublimatio mobilis est, in die quidem inter signa nichilum, gradus nichilum,
+dakaicae VI, secundae XL et XVIII tertiae et XLVIII quartae{sup:6}), in hora autem inter
+signa nichilum, inter gradus et nichilum, inter dakaicas nichilum, secundae vero
+XVI, tertiae autem XLII atque viginti septem quartae{sup:7}).
+@c {b:Cap. 19. De draconibus{sup:8}) planetarum.}
+@p Dracones vero planetarum hii sunt : Saturni quidem{sup:9}) signa III, gradus XIII,
+dakaicae XII{sup:10}) ; Iovis autem signa duo, gradus XXII, dakaica I{sup:11}) ; Martis vero
+signorum nullum, gradus XXI, dakaicae LIIII{sup:12}) ; Veneris autem draco{sup:13}) signum
+unum{sup:14}), gradus XXIX, dakaicae XXVII{sup:15}). Mercurii denique {i:eliauzehar} id est dra-
+conis{sup:16}) signorum nullum, gradus XXI, dakaicae X{sup:17}). Lunae demum draco mobilis
+est{sup:18}), in die quidem signorum nullum, graduum nullum (sic), dakaicae III, secundae
+XI, tertiae vero XLVIII{sup:19}), in hora vero signorum nullum, graduum nullum, dakai-
+carum etenim nulla, secundae VII, tertiae quinquaginta septem{sup:20}).
+@c {b:Cap. 20. De motu lunae diurno.}
+@p Motus autem{sup:21}) lunae in die signorum nullum, gradus XIII, dakaicae X, se-
+cundae XXXIIII, tertiae vero LII, quartae vero XLVIII{sup:22}), in hora vero signorum
+nullum, graduum nullum, dakaicae XXXII, secundae LVI, tertiae vero quadraginta
+VII et quinquaginta duae quartae{sup:23}).
+@c {b:Cap. 21. De motu solis diurno{sup:24}).}
+@p Motus vero solis in die signorum nullum, graduum nullus, dakaicae L novem,
+octo secundae{sup:25}), in hora vero signorum nullum, graduum nullus, dakaicae duae,
+XXVII secundae, quinquaginta tertiae, viginti quinque quartae{sup:26}).
+@n {sup:1}) Martis . . . . XXIIII] {i:om.} CM. — {sup:2}) Veneris . . . . o] {i:om.} O, Veneris vero S. II. G. XXI. P. XV. M.
+@n 0. C. — {sup:3}) vero] {i:om.} O. — {sup:4}) XIIII] O, XXIIII C. — {sup:5}) dakaicae LIIII] O, P. LIV. Mi. 0. CM. — {sup:6}) inter
+@n . . . . quartae] O, {st:S|0} {st:G|0} {st:P|VI} {st:M|XL} {st:delidhe|XVIII} {st:Q|XLVIII} C, {st:s|0} {st:g|0} {st:p|VI} {st:m|XL} {st:thelidhe|XVIII} {st:Q|XLVIII} M. — {sup:7}) inter . . . . quartae] O,
+@n {st:s|0} {st:g|0} {st:p|0} {st:m|XVI} {st:thel.|XLII} {st:Q|XXVII} CM. — {sup:8}) draconibus] drachonibus C. — {sup:9}) quidem] {i:om.} M. — {sup:10}) signa . . . . XII]
+@n O, {st:s|III} {st:g|XIII} {st:p|XII} {st:m|0} CM. — {sup:11}) signa . . . . I] O, {st:s|II} {st:g|XXII} {st:p|I} {st:m|0} CM. — {sup:12}) signorum . . . . LIIII] O, {st:s|0} {st:g|XXI} {st:p|XLIIII}
+@n {st:m|0} CM. — {sup:13}) draco] {i:om.} CM. — {sup:14}) signum unum] O, {i:om.} CM. — {sup:15}) signum . . . . XXVII] O, {st:g|XXIX} {st:p|XXVII}
+@n {st:m|0} C. — {sup:16}) eliauzehar id est draconis] egauzehar idem draconis O, {i:om.} M. — {sup:17}) Veneris . . . . X] {i:om.} M;
+@n signorum . . . . X] O, {st:s|0} {st:g|XXI} {st:p|X} {st:m|0} C. — {sup:18}) est] {i:om.} O. — {sup:19}) signorum . . . XLVIII] O, {st:s|0} {st:g|0} {st:p|III} {st:m|XI} {st:thelidae|XLVIII}
+@n CM. — {sup:20}) signorum . . . . septem] O, {st:s|0} {st:g|0} {st:p|0} {st:m|VII} {st:thel.|LVII} CM. CO {i:addid. in marg.} : Nota inter centrum appla-
+@n neticum et centrum planeticum duos gradus et dimidium interesse, quare inter sullimationem et sub-
+@n missionem secundum Arafa (?) gradus V (V {i:om.} O) intersunt. — {sup:21}) autem] {i:om.} C. — {sup:22}) signorum . . . .
+@n XLVIII] O, {st:s|0} {st:g|XIII} {st:p|X} {st:secundae|XXXIIII} {st:tertiae|LII} {st:quartae|XLVIII} CM. — {sup:23}) signorum . . . . quartae] O, {st:s|0} {st:g|0} {st:p|XXXII} {st:m|LVI} {st:thelithae|XLVII}
+@n {st:Q|LII} CM. — {sup:24}) De . . . . diurno] M, {i:om.} C, {i:addid. in fine} O. — {sup:25}) signorum . . . . secundae] O, {st:s|0} {st:g|0} {st:p|LIX}
+@n {st:m|VIII} CM. — {sup:26}) signorum . . . . quartae] O, {st:s|0} {st:g|0} {st:p|II} {st:m|XXVII} {st:thel.|L} {st:rabe|XXV} CM.
+@obs The page number «15» stands at the head of the page, centred, with a rule below it. L01-L06 end chapter 18 (p. 14, JP2 0046): the apogee of Mars four signs, 8 degrees, 24 minutes; of Venus two signs, 21 degrees, 15 minutes; of Mercury seven signs, 14 degrees, 54 minutes; the apogee of the moon moves, by 6′ 40″ 18‴ 48⁗ a day and 16″ 42‴ 27⁗ an hour. L07, L16 and L21: the headings of chapters 19-21, in bold, centred.
+@obs In the apparatus the readings of C and M are given as figures with the units printed small above them: S or s (signa), G or g (gradus), P or p (minutes, partes), M or m (seconds, minuta), «delidhe», «thelidhe», «thelidae», «thelithae», «thel.» (thirds, the Arabic thālitha), Q (quartae), «rabe» (fourths, rābiʿa), and once «secundae», «tertiae», «quartae» (N12). They are transcribed {st:LABEL|VALUE}, the label above the value; the readings of C in N03 have the capital labels S G P M, those of M the small ones.
+@obs Checked: the hourly motions against the daily ones divided by twenty-four. The sun: 59′ 8″ a day (L22-L23) gives 2′ 27″ 50‴ an hour; the text's 2′ 27″ 50‴ 25⁗ (L23-L24) is the twenty-fourth part of 59′ 8″ 10‴, a daily motion with 10 thirds, which the text does not state. The node of the moon: 3′ 11″ 48‴ a day (L13-L14) gives 7″ 59‴ 30⁗ an hour; the text's 7″ 57‴ (L15) is the twenty-fourth part of 3′ 10″ 48‴. The apogee of the moon: 6′ 40″ 18‴ 48⁗ a day (L04) gives 16″ 40‴ 47⁗; the text's 16″ 42‴ 27⁗ (L06) is the twenty-fourth part of 6′ 40″ 58‴ 48⁗. The moon: 13° 10′ 34″ 52‴ 48⁗ a day (L17-L18) gives 32′ 56″ 27‴ 12⁗; the text's 32′ 56″ 47‴ 52⁗ (L19-L20) is the twenty-fourth part of 13° 10′ 43″ 8‴ 48⁗. The readings of C and M in notes 6, 7, 19, 20, 22, 23, 25 and 26 give the same figures as the text.
+@obs L02: «eltheniae 0», the figure zero; the lemma of note 2 ends with the letter o, «Veneris . . . . o]», at the height of the small letters. L11: «eliauzehar» (al-jawzahar, the node) in italics. L13: «(sic)», upright, the editor's. L18: the r of «quartae» is printed without its arm, so that it looks like a dotless ı; transcribed «quartae».
+@obs N07: «{i:om.} M;», the semicolon set close to the siglum (3 px); the colons and semicolons of the text stand after the thin space of the edition (11-13 px measured), as does the colon after «marg.» in N09 (11 px). N08: «signorum . . . XLVIII», three points; the other lemmas have four. N09: the first 0 of the reading of note 20, under s, is lighter and thinner than the others.

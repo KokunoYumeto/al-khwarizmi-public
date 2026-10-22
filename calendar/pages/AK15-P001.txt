@@ -1,0 +1,23 @@
+@page 1 -
+@kind title
+% PDF 1: the title page of the collection in which the treatise is bound first, al-Rasa'il al-mutafarriqa fi al-hay'a
+% (Hyderabad, 1367 H / 1948): the device of the press, the title, the list of the eleven treatises, the edition, the
+% press, the place, the date and the print run. Context of the treatise (packet source map: PDF 1 = compilation).
+@h الرسائل المتفرقة فى الهيئة
+@c للمتقدمين ومعاصرى البيرونى
+@c ( وهى احدى عشر رسائل )
+@t ١ ـ استخراج تاريخ اليهود للحوارزمى | ٢ ـ تخطيط الساعات للنيريزى
+@t ٣ ـ استخراج تاريخ اليهود للقاينى | ٤ ـ استخراج الساعات للقابنى
+@t ٥ ـ اقامة البرهان على الدائرة للبوزجانى | ٦ ـ مساحة المجسم المكاف لويجن القوهى
+@t ٧ ـ كيفية تسطيح الكرة لاحمد الصغانى | ٨ ـ اشكال الدائرة لنصر بن عبدالله
+@t ٩ ـ المقادير المشتركة لابن البغدادى | ١٠ ـ الشكل القطاع لاحمد السجزى
+@c ١١ ـ الابعاد والاجرام لكوشيار الجيلى
+@h الطبعة الاولى
+@c بمطبعة جمعية دائرة المعارف العثمانية
+@c حيدرآباد الدكن ( الهند )
+@c سنة {fr:١٣٦٧ هـ|١٩٤٨ م}
+تعداد الطبع {fr:٥٠٠|١٣٥٧ ف}
+@obs Above the title, the device of the press: a shield under a crown in a burst of rays, with ribbons; on the lower ribbons the English words «HYDERABAD» and «DECCAN», along the right side of the shield «PUBLICATIONS»; the other words of the device are not legible in the scan. Not transcribed.
+@obs L01 and L10 are set in a larger type; L04-L08 are the two columns of the list of the treatises, written as rows (right column, then left column); L09, the eleventh treatise, is centred under them. The numbers of the list are followed by a short dash at the baseline, written ـ. Between L09 and L10 a rule with a small ornament in its middle. L13: «١٣٦٧ هـ» over a rule and «١٩٤٨ م» under it, with «سنة» at the right end of the rule; L14, at the lower left of the page: «تعداد الطبع» (the print run) with «٥٠٠» over a rule and «١٣٥٧ ف» (the year of the Fasli era) under it.
+@obs Read on the scan with the dots measured (calendar/tools/band.py): on this page a single dot is 5-7 px across and the two dots of a letter, run together, 9-12 px. L04: «للحوارزمى», the خ printed without its dot. L05: the name of the author of the fourth treatise is printed «للقابنى», with one dot (6 px) under the tooth after the alif, where the third treatise has «للقاينى» with two (9 px); «اليهود» of the third treatise is printed with its و filled in. L06: «المكاف», the word ends with the final ف, without the ى (or ئ) of المكافئ. L12: the د and the ك of «الدكن» are blotted; read الدكن. L08: a speck above the alif of «القطاع».
+@obs The item numbers: the five of the list (L06) is printed in the Indian form, a small round loop; transcribed ٥. The digits of the page are the Arabic-Indic digits (٤ in ١٩٤٨ in the Arabic form).

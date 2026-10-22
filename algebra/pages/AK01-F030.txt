@@ -1,0 +1,26 @@
+@page 30 ١٦
+% Frame 030, printed p. 16 (the number is printed between dashes at the head of the page): the end of the preface,
+% the purpose of the book (inheritance, legacies, partition, lawsuits, trade, the measuring of land and the digging of
+% canals, geometry), and the beginning of the work: number is composed of units; the three kinds of number used in
+% algebra. One footnote of the editors (١).
+ألفت من كتاب الجبر والمقابلة كتاباً مختصراً حاصراً للطيف الحساب وجليله
+لما يلزم الناس من الحاجة إليه فى مواريثهم ووصاياهم وفى مقاسمتهم وأحكامهم
+وتجاراتهم ، وفى جميع ما يتعاملون به بينهم من مساحة الأرضين وكرى الأنهار
+والهندسة وغير ذلك من وجوهه وفنونه ، مقدما لحسن النية فيه وراجيا لأن
+ينزله أهل الأدب بفضل مااستودعوا من نعم الله تعالى وجليل آلائه وجميل
+بلائه عندهم منزلته وبالله توفيق فى هذا وفى غيره عليه توكلت وهو رب العرش
+العظيم . وصلى الله على جميع الانبياء والمرسلين . وإنى لما نظرت فيما يحتاج اليه
+الناس من الحساب وجدت جميع ذلك عدداً ووجدت جميع الأعداد إنماتركبت
+من الواحد والواحد داخل فى جميع الأعداد . ووجدت جميع ما يلفظ به من
+الأعداد ما جاوز الواحد إلى العشرة يخرج مخرج الواحد ثم تثنى العشرةوتثلث
+كما فعل بالواحد فتكون منها العشرون والثلاثون الى تمام المائة . ثم تثنى المائة
+وتثلث كما فعل بالواحد وبالعشرة إلى الألف ثم كذلك تردد الألف عند كل
+عقد إلى غاية المدرك من العدد . ووجدت الأعداد التى يحتاج إليها فى
+حساب الجبر والمقابلة على ثلاثة ضروب {n:١} وهى جذور وأموال وعدد مفرد
+@ednotes ١ 8
+@obs Set without a word space after a non-connecting letter, and transcribed so: مااستودعوا (L05), إنماتركبت (L08); after the tā' marbūṭa: العشرةوتثلث (L10).
+@obs Plain alif where a hamza might be expected, as printed: الانبياء and اليه (L07, where L02 has إليه), الى (L11, where L10, L12 and L13 have إلى).
+@obs Without tanwīn as printed: مقدما, وراجيا (L04); with tanwīn on the final alif: كتاباً, مختصراً, حاصراً (L01), عدداً (L08).
+@obs The final yā' is printed without dots (فى, وكرى, تعالى, وإنى, التى, تثنى, وهى).
+@copy Pencil marks of a reader of the Columbia copy: underlines under L01-L04 and L08; a vertical stroke in the right margin beside L01-L06 with the English words «applications + uses».
+@obs L06: وبالله توفيق فى هذا, as printed: توفيق without the yā' of the first person.

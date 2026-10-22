@@ -1,0 +1,39 @@
+@page 92 ٧٦
+% Frame 092, printed p. 76: the problem of frame 091 concluded: an estate and a ninth and a tenth less three shares
+% and nineteen thirtieths equal thirteen; the estate thirteen shares and eighty parts of a hundred and nine; the share
+% a hundred and nine parts, the estate one thousand four hundred and ninety-seven, the husband's share three hundred
+% and twenty-seven. Then a man leaves two sisters and a wife and bequeaths the share of a sister less an eighth of what
+% remains after the bequest: the estate twenty-nine, the bequest five, the share eight. Then «وفى وجه آخر من
+% الوصايا» in bold: four sons, the share of a son bequeathed and a quarter of what remains of the third after the
+% share, begun, continued on the next page. Below the rule one footnote of the editors.
+جزءاً من سهم وزد على الثلاثة عشر مثلها فيكون مالا وتسعا وعشرا تعدل
+ستة عشر سهما وتسعة عشر جزءا من ثلاثين جزءا من سهم فرد ذلك الى مال
+واحد وهو أن تنقص من ذلك تسعة عشر جزءا من مائة وتسعة أجزاء فيبقى
+مال يعدل ثلاثة عشر سهما وثمانين جزءا من مائة وتسعة اجزاء من سهم فتجعل
+السهم مائة وتسعة اجزاء وتضرب الثلاثة عشر فى مائة وتسعة اجزاء وتزيد على
+ذلك ثمانين جزءا فيكون ألفاً وأربعمائة وسبعة وتسعين ونصيب الزوج ثلثمائة
+وسبعة وعشرون . فان ترك اختين وامرأة وأوصى لرجل بمثل نصيب أخت الا
+ثمن ما يبقى من المال بعد الوصية . فقياس ذلك أن تقيم الفريضة من اثنى عشر
+سهما لكل أخت ثلث ما يبقى من المال بعد الوصية فهذا مال إلا وصية فأنت تعلم
+أن ثمن ما يبقى مع الوصية يعدل نصيب أخت فثمن مايبقى هو ثمن مال الا ثمن
+وصية فثمن مال الا ثمن وصية مع وصية يعدل نصيب أخت وذلك ثمن مال
+وسبعة أثمان وصية فالمال كله يعدل ثلاثة أثمان مال وثلاث وصايا وخمسة اثمان
+وصية . فاطرح من المال ثلاثة اثمانه فيبقى خمسة اثمان مال تعدل ثلاث وصايا
+وخمسة اثمان وصية فالمال كله يعدل خمس وصايا واربعة أخماس وصية فالمال
+تسعة وعشرون والوصية خمسة والنصيب ثمانية . {b:وفى وجه آخر من الوصايا}
+رجل مات وترك أربعة بنين وأوصى لرجل بمثل نصيب أحد بنيه ولآخر بربع
+ما يبقى من الثلث ( بعد النصيب ) فاعلم أن الوصية انما هى من ثلث المال فى
+هذا النوع {n:١} . وقياسه أن تأخذ ثلث مال فتلقى منه النصيب فيبقى ثلث مال
+@ednotes ١ 3
+@obs L15: the words وفى وجه آخر من الوصايا (L15), the heading of another kind of bequest, as on frames 089 and 090, are printed in a bold face, after a full stop; the words that follow, on L16, are in the face of the text. The bold ن is printed without its dot; transcribed ن. In L07 the words فان ترك, which begin the problem of the two sisters, are printed in the face of the text.
+@obs L17: «( بعد النصيب )», as printed: the parentheses stand apart from the words they enclose, 34 and 37 px (nearest approach of the ink at 400 ppi) from بعد and النصيب, and 39 and 27 px from الثلث and فاعلم; they are transcribed with these spaces, where the parentheses of frame 085, L07, are set close to the word. No note of the editors refers to the words.
+@obs L06: the hundreds are printed ثلثمائة (L06), without the alif of ثلاث, as on frame 089 (L13), where the same number elsewhere has it; transcribed as printed.
+@obs Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): مايبقى (L10; 18 between the alif and the ي, where ما يبقى with a space has 29 earlier in the same line and 35 and 37 in L08 and L09, and the alif stands 17 to 20 px from a tooth inside a word on frames 087 and 091).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: وسبعة وعشرون (L07; 14 between the ة and the conjunction و, wider than the ة stands from a و set without a space, 4 to 9 px on frames 050, 089 and 090, and close to the narrowest spaces after ة, 15 px on frames 063 and 064; in doubt, the space is written; the same words have 24 in تسعة وعشرون, L15).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: من مائة (L04; 8 between the ن and the م), فى مائة (L05; 7 between the ى and the م), مال وثلاث (L12; 7 between the ل and the conjunction و).
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after وعشرون, before فان (L07; 27 and 28), after الوصية, before فقياس (L08; 29 and 28), after وصية, before فاطرح (L13; 21 and 27), after ثمانية, before the bold وفى (L15; 27 and 24), and after the note mark (١), before وقياسه (L18; 39 and 27). The note mark (١) stands 39 px after النوع (L18).
+@obs Plain alif where a hamza might be expected, as printed: الى (L02), اجزاء (L04; L05, twice), اختين, الا (L07), اثنى (L08), الا (L10, L11), the third اثمان (L12), اثمانه, اثمان (L13), اثمان, واربعة (L14), انما (L17); with hamza: أن, أجزاء (L03), ألفاً, وأربعمائة (L06), وامرأة, the second alif, وأوصى, أخت (L07), أن (L08), أخت, فأنت (L09), أن, أخت (L10), أخت (L11), the first two أثمان (L12), أخماس (L14), أربعة, وأوصى, أحد (L16), أن (L17), أن, تأخذ (L18); below the alif: إلا (L09); with madda: the bold آخر (L15), ولآخر (L16); on ي: مائة (L03, L04; L05, twice), وأربعمائة, ثلثمائة (L06), وامرأة (L07); the hamza on the line: جزءاً (L01), جزءا (L02, twice; L03, L04, L06), أجزاء (L03), اجزاء (L04; L05, twice).
+@obs With tanwīn on the final alif: جزءاً (L01), ألفاً (L06); without tanwīn as printed: مالا, وتسعا, وعشرا (L01), سهما (L02, L04, L09), جزءا (L02, twice; L03, L04, L06).
+@obs The final yā' is printed without dots: على (L01), الى (L02), فيبقى (L03), فى, على (L05), وأوصى (L07), يبقى, اثنى (L08), يبقى (L09), يبقى, مايبقى (L10), فيبقى (L13), the bold وفى (L15), وأوصى (L16), يبقى, هى, فى (L17), فتلقى, فيبقى (L18).
+@obs The print stretches لكل (L09, between the ل and the ك) with the elongation stroke; the stroke is not transcribed.
+@obs Note (١) of the editors restates the problem of L16-L18 in modern notation, with a son's share x: the first bequest is x, the second a quarter of (1/3 − x), and what remains of the estate, 1 − x − 1/4 (1/3 − x), equals 4x; hence x = 11/57, the first bequest 11/57 and the second 2/57. The values check exactly (4 × 11 + 11 + 2 = 57). The note is not reproduced.

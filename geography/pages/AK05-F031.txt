@@ -1,0 +1,36 @@
+@page 31 ٢٥
+% Frame 031, printed p. 25: the cities of the fifth clime continued, entries 351-367: Māsī on an island, Dalʿū,
+% Isṭāfā, places on the sea (لرسو, Fānū, Ṭarnūn, Afāsis), ڡرعامس, ڡورنا, Lādhiqiyya the maritime, ʿAmmūriyya, Qarsiyā
+% at a mountain, سلموس, Nūsā, Zibaṭra, Malaṭya and Hanzīṭ. Three lines of the editor's footnotes.
+@r (٣٥١) | [٢٩٦ ٣٦٦] | ماسى فى جزيرة | له | مه | م | ك
+@r (٣٥٢) | [٣٦٧] | مدينة دلعو | مه | م | لز | م
+@r (٣٥٣) | [٣١٥ ٣٦٨] | مدينة اسطافا | مه | م | لح | {z}
+@r (٣٥٤) | [٣١٦] | لرسو على البحر | مه | م | م | {z}
+@r (٣٥٥) | [٣١٧] | فانوا على حدّ البحر | مو | ل | لز | ل
+@r (٣٥٦) | [٣١٨] | طرنون{n:a} على البحر | مح | ن | م | ٮه
+@r (٣٥٧) | [٣٢٢] | افاسس على البحر | ٮا | يه | لز | كه
+@r (٣٥٨) | [٣١٩] | مدينة ڡرعامس{n:b} | نا | له | م | يه
+@r (٣٥٩) | [٣٢٠] | مدينة ڡورنا | نا | م | لز | {z}
+@r (٣٦٠) | [٣٢١] | مدينة لاذقيّة بحريّة | نب | م | لح | ن
+@r (٣٦١) | [٣٢٣] | عمّوريّة | نج | {z} | لح | {z}
+@r (٣٦٢) | [٣٢٤] | قرسيا مع جبل | ن⟨ه⟩{n:c} | {z} | لط | مه
+@r (٣٦٣) | [٣٢٥] | سلموس | ٮو | مه | لو | ك
+@r (٣٦٤) | [٣٢٨] | مدينة نوسا | ٮح | {z} | لح | {z}
+@r (٣٦٥) | [٣٢٩] | مدينة زبطرة | ٮط | ك | لط | {z}
+@r (٣٦٦) | [٣٣٠] | ملطية | سا | {z} | لط | {z}
+@r (٣٦٧) | [٣٣١] | هنزيط{n:d} | سا | م | لط | مه
+@ednotes a b c d 3
+@obs The table goes on from frame 030 without a heading: the cities of the fifth clime, entries 351-367. All have numbers of Suhrāb; at entries 351 and 353 the square brackets hold two numbers, «٢٩٦» above «٣٦٦» and «٣١٥» above «٣٦٨», transcribed «[٢٩٦ ٣٦٦]» and «[٣١٥ ٣٦٨]». Entries 352, 353, 358-360, 364 and 365 have the word «مدينة».
+@obs L08, L09: «ڡرعامس» and «ڡورنا» begin with a loop raised above the line and joined by a stroke on the line to the next letter: the loop of ف or ق without dots, as «ڡرقا» on frame 023 (L01); in «ڡرعامس» the next letter is a ر, with the small head of the letter (9 px), in «ڡورنا» a و, with its loop (14 px), followed by a separate ر. An isolated و does not join the next letter. Transcribed ڡر and ڡو.
+@obs L17: «هنزيط»: after the initial ه, a tooth with a dot above it, then a second upright with a dot above it that runs at its foot into the descending tail of a ز, then the ي with its two dots below and the ط; the two dots stand side by side, each above one of the uprights (centred 3 and 2 px from them). Transcribed هنزيط. The editor's note d gives the readings of the manuscript.
+@obs L12: the degrees of the longitude are printed «ن⟨ه⟩»: an initial ن, a tooth with its dot above, standing on the line outside the angle brackets, and the ه supplied by the editor between them (note c: the manuscript is unclear), followed by the note mark c; transcribed so. The longitudes of the neighbouring entries run نا, نا, نب, نج before it and ٮو, ٮح, ٮط after it.
+@obs Signs in the names, transcribed as printed: L05: «حدّ», with a shadda over the د; L10: «لاذقيّة» and «بحريّة», with a shadda over the ي; L11: «عمّوريّة», with a shadda over the م and over the ي.
+@obs Letters printed without their dots in the numerals, transcribed so: ٮا (L07, the degrees of the longitude), a tooth joined to an alif, where L08 and L09 print the same form with the dot of the ن, نا; ٮو, ٮح and ٮط (L13-L15, the degrees of the longitude), the tooth without its dot. With their dots: نا (L08, L09), نب (L10, the ن with its dot above and the ب with its dot below), نج (L11), ن (L06, the minutes of the longitude; L10, the minutes of the latitude), يه (L07, L08), and the ز of لز (L02, L05, L07, L09).
+@obs The degrees of the latitude printed لح (L03, L10, L11, L14) and of the longitude printed مح (L06) show no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.
+@obs The minutes of the latitude in L06, «ٮه», are a tooth without its dot joined to a final ه, the form that L07 and L08 print with the two dots of the ي, يه. The isolated ك, 20, has the small inner stroke of the letter (L01, L13, the minutes of the latitude; L15, the minutes of the longitude).
+@obs Specks, not transcribed: L03, a dark round dot to the left of the zero sign of the minutes of the latitude, and a fainter one above it; L04, a speck at the left of the bowl of the latitude «م»; L08, a speck to the left of the name, beside the note mark b.
+@obs The page number «— ٢٥ —» stands at the foot, centred.
+@variant L06: at entry (1053) the name طرنون is written ٮطرون; the editor's corrigenda (p. 163, frame 169) add a comparison with the town طروب at entry (1943), with the variant reading طرون.
+@variant L08: at entry (1944) the name ڡرعامس is written قرغامس.
+@variant L12: the degrees of the longitude are unclear in the manuscript; the ه is supplied from S.
+@variant L17: the manuscript reads هرٮط here and at entry (2129); at entry (2123) the name is written هيرٮط.

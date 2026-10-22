@@ -1,0 +1,50 @@
+@page 16 XII
+@lang de
+% JP2 0016: the introduction, p. XII: Robert of Chester as «Ordner» of the translation; Karpinski on Robert; the
+% contents of N, Roger of Hereford's tables for Hereford; the relation of the manuscripts C, O, M and N.
+die in den übrigen drei Handschriften fehlen, als „Ordner“ der Übersetzung des {sp:Athel-}
+{sp:hard von Bath} ein. Diese ordnende Hand spürt man nun allerdings in verschiedener
+Hinsicht im Texte, wie wir unten noch sehen werden, nicht aber in der Reihenfolge
+der Tafeln, da zeigt sich im Ms. N eine arge Unordnung, der wir in C und O nicht
+begegnen, aber jedenfalls dürfen wir diese nicht {sp:Robert von Chester} in die Schuhe
+schieben, sondern spätern Abschreibern oder Bindern der Handschrift.
+@p L. C. {sp:Karpinski}{sup:1}) betrachtet {sp:Robert von Chester} identisch mit {sp:Robertus}
+{sp:Ketenensis}, oder {sp:Retinensis} ({sp:Robert von Reading}), der den Korān zuerst
+ins Lateinische übersetzt (1143) und sich dann, wie er selbst bemerkt{sup:2}), dem Studium
+und der Übersetzung astronomisch-astrologischer Werke der Araber zugewandt hat.
+Bekanntlich existiert von ihm auch eine Übersetzung der {i:Algebra} {sp:Al-Khwārizmīs}{sup:3}).
+— Es ist schade, dass das Resultat dieser ordnenden Hand {sp:Robert von Chesters}
+uns leider wieder ungeordnet und unvollständig zugekommen ist.
+@p Unsere Abhandlung nimmt in der Handschrift N fol. 8{sup:r}—68{sup:v} ein. Ausserdem
+finden sich in diesem Codex noch eine Reihe von meist anonymen Texten und
+Tafeln mit astronomischem und astrologischem Inhalt, von denen uns nur die un-
+mittelbar nach unserer Abhandlung folgenden (fol. 69—84, d. h. bis zum Schluss)
+interessieren ; es sind Tafeln über verschiedene astronomische Gebiete, besonders
+über Finsternisse, verfasst von dem Engländer {sp:Roger von Hereford} (c. 1150—1220){sup:4})
+für die Breite und Länge dieses Ortes, die zu 52° bezw. 24° angegeben werden. So
+heisst es z. B. fol. 71 : {i:Sunt autem hae tabulae compositae super Herefordiam a magistro}
+{sp:Rogerio Herefordensi}, {i:sicut et praemissa tabula de eclipsi solis et regulae prae-}
+{i:scriptae. Est autem longitudo Herefordiae ab occidente arcus XXIV graduum, latitudo}
+{i:vero LII}{sup:5}). — Fol. 73 folgt : {i:Tabula medii motus solis super mediam noctem Herefordiae}
+{i:secundum annos domini}. — Diese Tafeln können als Ergänzungen der Übersetzung
+{sp:Athelhards} aufgefasst werden, denn gerade diese Partie des Werkes über die
+Finsternisse lässt zu wünschen übrig, indem die Tafeln der {i:Ascensiones obliquae} für
+{i:Cordova} fehlen ; dieses hat nun wohl {sp:Roger von Hereford} nachgeholt, aber nicht
+für Cordova, sondern für seinen Heimatsort.
+@p In welcher Beziehung stehen nun diese Handschriften zu einander ? Wie ich oben
+schon erwähnt habe, ist M höchst wahrscheinlich eine flüchtige Abschrift von C. Was
+N anbetrifft, so sind wir der Ansicht, {sp:Robert von Chester} habe sowohl C als O,
+bezw. ihre Archetypen, vor sich gehabt ; im Texte folgt er fast wörtlich C, nur wenige
+Abweichungen kommen vor ; in den Zahlen der Tafeln folgt er bald der Lesart von C,
+bald der von O, doch ist das erste häufiger. Die verbessernde Hand {sp:Roberts} zeigt
+sich vor allem darin, dass er die vielen arabischen Wörter, die C und O unübersetzt
+oder neben der Übersetzung beibehalten haben, mit ganz wenigen Ausnahmen durch
+@n {sup:1}) {i:Biblioth. mathem.} 3. Folge, 11. Bd. (1911) p. 127.
+@n {sup:2}) In der Einleitung zu seiner Korān-Übersetzung.
+@n {sup:3}) {i:Biblioth. mathem.} ibid. p. 125—131.
+@n {sup:4}) Vergl. meine Abhandlung : {i:Die Mathematik auf den Universitäten des Mittelalters}, p. 21 (Wis-
+@n senschaftl. Beilage zum Programm der Kantonsschule in Zürich, 1887).
+@n {sup:5}) An einer andern Stelle ist die Breite zu 51° 30′ angegeben.
+@obs The page number «XII» stands at the head of the page, centred, with a rule below it. L01 continues the sentence of p. XI (JP2 0015, L35): Robert of Chester names himself in the first sentence of N as the one who arranged the translation, «et per rodbertum cestrensem ordine digestus».
+@obs L14: between «68» and the raised v of «68v» stands a thin vertical stroke at the height of the raised letters, thinner than the strokes of the letters, probably the edge of a spacing sort; not transcribed. L21-L24: the Latin quotations from N are in italics; «Rogerio Herefordensi» (L22) is spaced, not italic.
+@obs Marks not transcribed: a dark speck at mid-height between «Ausnahmen» and «durch» (L37); a speck after the dash at the beginning of L12; a speck between «von» and «C.» (L32).

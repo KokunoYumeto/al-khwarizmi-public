@@ -1,0 +1,362 @@
+{
+ "anchor": "AK05-F014",
+ "frame": 14,
+ "frame_file": "page_014.jpg",
+ "frame_sha256": "7ec248b18595f2a834357ea9336408bbd73988ae7a5bb945c90966579bb917f6",
+ "printed_page": "٨",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 014, printed p. 8: the last cities of the first clime, entries 69-72, three places on the island of al-Jawhar and Sijilmāsa; the heading of the second clime, «الإقليم الثانى عرضه كد ō», its latitude 24° 0', and of its cities, with the folio of the manuscript, «(fol. 3ᵇ)», in the margin; entries 73-81: Thamūrqī, Taghīrā, the two Ḥarmī, Atfuwā, Banbān, Bilāq, Suwān and al-Qaṣr. Four lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F014-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٦٩) | [٤٥] | صلمى من جزيرة الجوهر | ڡعه | ل | ه | مه",
+   "margin": null,
+   "cells": [
+    "(٦٩)",
+    "[٤٥]",
+    "صلمى من جزيرة الجوهر",
+    "ڡعه",
+    "ل",
+    "ه",
+    "مه"
+   ],
+   "plain": "(٦٩) | [٤٥] | صلمى من جزيرة الجوهر | ڡعه | ل | ه | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F014-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٧٠) | [٥١] | صلاى من جزيرة الجوهر | ڡعو | ٮه | ا | ل",
+   "margin": null,
+   "cells": [
+    "(٧٠)",
+    "[٥١]",
+    "صلاى من جزيرة الجوهر",
+    "ڡعو",
+    "ٮه",
+    "ا",
+    "ل"
+   ],
+   "plain": "(٧٠) | [٥١] | صلاى من جزيرة الجوهر | ڡعو | ٮه | ا | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F014-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٧١) | [٤٦] | محلاى{n:a} من جزيرة الجوهر | ڡعر | ل | ٮ | ل",
+   "margin": null,
+   "cells": [
+    "(٧١)",
+    "[٤٦]",
+    "محلاى{n:a} من جزيرة الجوهر",
+    "ڡعر",
+    "ل",
+    "ٮ",
+    "ل"
+   ],
+   "plain": "(٧١) | [٤٦] | محلاى من جزيرة الجوهر | ڡعر | ل | ٮ | ل",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F014-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٧٢) | | مدينة سجلماسة{n:b} | لا | {z} | كا | {z}",
+   "margin": null,
+   "cells": [
+    "(٧٢)",
+    "",
+    "مدينة سجلماسة{n:b}",
+    "لا",
+    "{z}",
+    "كا",
+    "{z}"
+   ],
+   "plain": "(٧٢) | | مدينة سجلماسة | لا | ō | كا | ō",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F014-L05",
+   "n": 5,
+   "kind": "heading",
+   "text": "* الإقليم الثانى عرضه {ov:كد {z}} *",
+   "margin": "(fol. 3ᵇ)",
+   "cells": null,
+   "plain": "* الإقليم الثانى عرضه كد ō *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F014-L06",
+   "n": 6,
+   "kind": "heading",
+   "text": "* اسماء المدن الّتى فى الإقليم الثانى *",
+   "margin": null,
+   "cells": null,
+   "plain": "* اسماء المدن الّتى فى الإقليم الثانى *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F014-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٧٣) | [٥٩] | مدينة ثمورقى{n:c} | كح | ل | ٮح | {z}",
+   "margin": null,
+   "cells": [
+    "(٧٣)",
+    "[٥٩]",
+    "مدينة ثمورقى{n:c}",
+    "كح",
+    "ل",
+    "ٮح",
+    "{z}"
+   ],
+   "plain": "(٧٣) | [٥٩] | مدينة ثمورقى | كح | ل | ٮح | ō",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F014-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٧٤) | [٦٠] | مدينة تغيرا{n:d} | كه | ل | ٮح | ك",
+   "margin": null,
+   "cells": [
+    "(٧٤)",
+    "[٦٠]",
+    "مدينة تغيرا{n:d}",
+    "كه",
+    "ل",
+    "ٮح",
+    "ك"
+   ],
+   "plain": "(٧٤) | [٦٠] | مدينة تغيرا | كه | ل | ٮح | ك",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F014-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٧٥) | [٦١] | حرمى مدينة* الكبيرة | لد | {z} | ٮط | ل",
+   "margin": null,
+   "cells": [
+    "(٧٥)",
+    "[٦١]",
+    "حرمى مدينة* الكبيرة",
+    "لد",
+    "{z}",
+    "ٮط",
+    "ل"
+   ],
+   "plain": "(٧٥) | [٦١] | حرمى مدينة* الكبيرة | لد | ō | ٮط | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F014-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٧٦) | [٦٢] | حرمى مدينة مملكة الحبش{n:e} | ما | م | يط | م",
+   "margin": null,
+   "cells": [
+    "(٧٦)",
+    "[٦٢]",
+    "حرمى مدينة مملكة الحبش{n:e}",
+    "ما",
+    "م",
+    "يط",
+    "م"
+   ],
+   "plain": "(٧٦) | [٦٢] | حرمى مدينة مملكة الحبش | ما | م | يط | م",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F014-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٧٧) | [٦٣] | مدينة اتفوا{n:f} | ٮح | ل | كٮ | مه",
+   "margin": null,
+   "cells": [
+    "(٧٧)",
+    "[٦٣]",
+    "مدينة اتفوا{n:f}",
+    "ٮح",
+    "ل",
+    "كٮ",
+    "مه"
+   ],
+   "plain": "(٧٧) | [٦٣] | مدينة اتفوا | ٮح | ل | كٮ | مه",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F014-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٧٨) | [٦٤] | مدينة بنبان{n:g} | يد | ن | كح | {z}",
+   "margin": null,
+   "cells": [
+    "(٧٨)",
+    "[٦٤]",
+    "مدينة بنبان{n:g}",
+    "يد",
+    "ن",
+    "كح",
+    "{z}"
+   ],
+   "plain": "(٧٨) | [٦٤] | مدينة بنبان | يد | ن | كح | ō",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F014-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٧٩) | [٦٥] | مدينة بلاق{n:h} | ٮه | كه | كا | م",
+   "margin": null,
+   "cells": [
+    "(٧٩)",
+    "[٦٥]",
+    "مدينة بلاق{n:h}",
+    "ٮه",
+    "كه",
+    "كا",
+    "م"
+   ],
+   "plain": "(٧٩) | [٦٥] | مدينة بلاق | ٮه | كه | كا | م",
+   "note_marks": [
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F014-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٨٠) | [٦٧] | سوان{n:i} | ٮو | {z} | كٮ | ل",
+   "margin": null,
+   "cells": [
+    "(٨٠)",
+    "[٦٧]",
+    "سوان{n:i}",
+    "ٮو",
+    "{z}",
+    "كٮ",
+    "ل"
+   ],
+   "plain": "(٨٠) | [٦٧] | سوان | ٮو | ō | كٮ | ل",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F014-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٨١) | [٦٦] | القصر{n:k} | ٮه | ن | كا | مه",
+   "margin": null,
+   "cells": [
+    "(٨١)",
+    "[٦٦]",
+    "القصر{n:k}",
+    "ٮه",
+    "ن",
+    "كا",
+    "مه"
+   ],
+   "plain": "(٨١) | [٦٦] | القصر | ٮه | ن | كا | مه",
+   "note_marks": [
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L03: the manuscript is unclear; at entry (1732) the name محلاى is written مخلاى.",
+  "L04: the manuscript reads سحلماسه.",
+  "L07: at entry (1666) the name ثمورقى is written ثمنورٮقى, with the ن and a tooth without a dot before the ق.",
+  "L08: at entry (1675) the name تغيرا is written بغيرا, with ب for the ت.",
+  "L10: the manuscript reads الحلبس for الحبش.",
+  "L11: the manuscript reads انقوا for اتفوا; the editor compares entry (84).",
+  "L12: the manuscript reads بتبان for بنبان.",
+  "L13: the manuscript reads ٮلاق for بلاق, without the dot of the ب.",
+  "L14: at entry (1639) the name سوان is written اسوان.",
+  "L15: the editor compares entry (86), where the name is written الڡصر, without the dots of the ق."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 013 without a heading: the last four cities of the first clime, entries 69-72; entry 72 has no number of Suhrāb. Then the heading of the second clime and of its cities, set between small open stars, as on frame 010; the folio of the Strasbourg manuscript, «(fol. 3ᵇ)», is printed in Latin type in the right margin beside the first heading (L05), where on frames 009 and 011 it stands in the left margin.",
+  "L05: the latitude of the second clime, «كد ō», 24° 0', is printed with a line above the numeral and the zero sign, as the latitude of the first clime on frame 010; transcribed with {ov:…}. In both headings the alif of الإقليم carries a hamza below, printed under the ligature لا; in the first it is small, 13 px wide. L06: «الّتى», with a shadda over the ل.",
+  "A small round dot, 13 px across, stands in the space between the two headings, below the end of عرضه; it belongs to neither line and is not transcribed.",
+  "L09: an asterisk stands after مدينة, «حرمى مدينة* الكبيرة», raised like the editor's note marks. With it the editor marks the forms against the grammar of the classical language that he keeps from the manuscript, among them an indefinite noun with a definite attribute (introduction, frame 184, p. XXIX), as مدينة الكبيرة here; transcribed as printed.",
+  "Letters printed without their dots, transcribed so: in the numerals the loop of ف or ق without dots, ڡعه, ڡعو, ڡعر (L01-L03); the tooth without its dots, ٮح (L07, L08, L11), ٮط (L09), ٮه (L02, the minutes of the longitude; L13, L15, the degrees of the longitude), a tooth joined to a final ه, and ٮو (L14, the degrees of the longitude), a tooth joined to a و; and the isolated ب without its dot, with one riser at the right end of its bowl, ٮ (L03). Where the print dots the numerals they are transcribed with their dots: يط (L10), يد (L12).",
+  "L12: the degrees of the longitude, يد: a small dot, 7 px across and lighter than the dots of the font, stands 13 px above the tooth of the ي, whose two dots stand below it; it is not transcribed.",
+  "L11, L14: the degrees of the latitude are printed «كٮ», a long oblique stroke over a flat bowl, 88 and 103 px wide, without the small inner stroke of the isolated ك: the ك joined to the final ب without its dot, 22. The isolated ك, 20, is about 35 to 38 px wide and has the small inner stroke (L08, the minutes of the latitude); the ك joined to the final ب with its dot, «كب», is 81 to 89 px wide (frame 085, L02; frame 089, L01). Frame 085 prints «كب ك», with the dot, 22° 20′, as the latitude of a point of the coast (L02), and the same group without the dot, «كٮ ك», for a later point between 24° 0′ (L05) and 21° 0′ (L08) (L06); the latitude of the third clime is «ل كٮ», 30° 22′ (frame 017, L13), as the first clime has 16° 27′ (frame 010, L01). Read so, the latitudes of Atfuwā and Suwān are 22° 45′ and 22° 30′. The isolated ه, 5 (L01, the degrees of the latitude), is a small round ring; «ٮه» (L02, L13, L15) is the tooth of a ن or a ي joined to a final ه, the form that frame 013 (L04) prints with the dot of the ن, نه.",
+  "L13-L15: the degrees of the longitudes of Bilāq, Suwān and al-Qaṣr are printed «ٮه», «ٮو» and «ٮه», a tooth without its dot joined to the next letter; read with a ن they give 55° 25', 56° 0' and 55° 50', beside the longitude of the next places on the Nile, Isnā and Armant, ٮو, 56 (frame 015, L01, L02).",
+  "The page number «— ٨ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

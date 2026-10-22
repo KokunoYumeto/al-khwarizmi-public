@@ -1,0 +1,38 @@
+@page 17 ١١
+% Frame 017, printed p. 11: the last cities of the second clime, entries 115-126, places of India and China from
+% Amras on the sea to Aspithrā, the port of China, and the city of China; the heading of the third clime,
+% «الإقليم الثالث وعرضه ل كٮ», its latitude 30° 22', and of its cities; entries 127-128, Ūlā and Ūṭālbā. Three lines
+% of the editor's footnotes.
+@r (١١٥) | [٩٤] | امرس{n:a} على البحر | قح | ل | ك | {z}
+@r (١١٦) | [٩٥] | ڡاطالا{n:b} على انف البحر | ڡو | ك | ٮو | ل
+@r (١١٧) | [٩٦] | مدينة اسا{n:c} | قيا | {z} | ٮط | ك
+@r (١١٨) | [٩٧] | مدينة ارٮى | قٮٮ | ك | ك | م
+@r (١١٩) | [٩٨] | مدينة قارقورا{n:d} | قيو | {z} | ٮط | ى
+@r (١٢٠) | [٩٩] | مدينة فونطا | ڡنو | ل | ٮر | {z}
+@r (١٢١) | [١٠٠] | مدينة ساغيرا | قل | {z} | كج | ل
+@r (١٢٢) | [١٠١] | مدينة اطراسا{n:e} | قم | ل | كد | {z}
+@r (١٢٣) | [١٠٢] | مدينة اطراٮس | ڡمٮ | {z} | كٮ | {z}
+@r (١٢٤) | [١٠٣] | مدينة طوغما مع الجبل | ڡمٮ | م | ك | مه
+@r (١٢٥) | | اسفيثرا{n:f} على البحر مرفأ الصين | ڡسر | ٮه | ٮح | {z}
+@r (١٢٦) | [١٠٤] | مدينة الصين | ڡسد | م | ٮح | ل
+@h * الإقليم الثالث وعرضه {ov:ل كٮ} *
+@h * المدن الّتى فى الإقليم الثالث *
+@r (١٢٧) | [١٠٦] | مدينة اولا | ى | {z} | كط | م
+@r (١٢٨) | [١٠٧] | اوطالبا | ى | ك | كد | {z}
+@ednotes a b c d e f 3
+@obs The table goes on from frame 016 without a heading: the last cities of the second clime, entries 115-126. Then the heading of the third clime and of its cities, set between small open stars, and the first two cities of the third clime, entries 127-128. Entry 125 has no number of Suhrāb; the numbers run [٩٤]-[١٠٤] in entries 115-126 and [١٠٦], [١٠٧] in entries 127-128, and [١٠٥] does not appear on the page.
+@obs L13: the heading reads «الإقليم الثالث وعرضه ل كٮ», with و before عرضه, where the headings of the first and second climes have عرضه alone (frames 010 and 014). The latitude of the third clime, «ل كٮ», is printed with a line above the two numerals, transcribed with {ov:…}; its minutes are a long oblique stroke over a flat bowl, 120 px wide in the type of the heading, the ك joined to the final ب without its dot, 22 (frame 014, L11): 30° 22′. This is the latitude that Ptolemy gives for the parallel of the longest day of 14 hours (Almagest II 6), as the 16° 27′ of the first clime (frame 010, L01) is that of 13 hours. In L13 and L14 the alif of الإقليم carries a hamza below; L14: «الّتى», with a shadda over the ل. A speck, 4 px across, stands on the line between الثالث and the closing star of L14; it is not transcribed.
+@obs L02: the first letter of «ڡاطالا», the initial loop of ف or ق joined to the alif, is printed without dots; note b gives قاطلا from another entry. L04: «ارٮى», the tooth before the final ى without its dot; a speck stands on the line after the word. L09: «اطراٮس»: after the alif a tall tooth without its dot, then a final س with three small teeth and its bowl; transcribed so (the editor's note e at L08 compares this entry).
+@obs L01: a small oblique mark, 5 px wide and 6 px high, stands above «امرس» between the م and the س; it is smaller than the vowel signs of the font and is not transcribed.
+@obs L09, L10: the degrees of the longitude, «ڡمٮ»: the loop of ف or ق without dots, a medial م set below it, and the flat bowl of a final ب without its dot, with the small tooth with which the final ب joins; read with the values ق م ب, 142, beside the longitude of L08, قم, 140. L04: the degrees of the longitude, «قٮٮ»: the ق with its two dots, then a tooth and the final ب, both without dots, the build of قنٮ on frame 013 (L14).
+@obs Letters printed without their dots in the other numerals, transcribed so: the loop of ف or ق without dots, ڡو (L02), ڡنو (L06), ڡسر (L11) and ڡسد (L12); the tooth without its dots in the degrees of the latitude, ٮو (L02), ٮط (L03, L05), ٮر (L06) and ٮح (L11, L12; in L12 the tooth is printed apart from the ح). With their dots: the ق with its two dots in قح (L01), قيا (L03), قيو (L05), قل (L07) and قم (L08); the ي with its two dots in قيا and قيو; the ن of ڡنو (L06) and the ج of كج (L07).
+@obs L06, L11: in the degrees of the latitude ٮر (L06) and of the longitude ڡسر (L11) the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed.
+@obs L11: the minutes of the longitude, «ٮه», are a tooth without its dot joined to a final ه, as on frame 014 (L02); transcribed ٮه. The isolated ك, 20, has the small inner stroke of the letter in the latitudes of L01, L03, L04 and L10 and in the minutes of the longitude of L02, L04 and L16. In L09 the degrees of the latitude are «كٮ», a long oblique stroke over a flat bowl, 84 px wide, the ك joined to the final ب without its dot, 22 (frame 014, L11): 22° 0′.
+@obs L15: a small upright speck, 3 px wide and 7 px high, stands above the head of the ى of the longitude; it is not transcribed.
+@obs The page number «— ١١ —» stands at the foot, centred.
+@variant L01: at entry (1197) the name امرس is written اميرس, and at entry (1834) امرس; the editor's corrigenda (p. 163, frame 169) add that at entry (1986) it is written اميرس.
+@variant L02: at entry (1191) the name ڡاطالا is written قاطلا.
+@variant L03: at entry (1842) the name اسا is written ايشنا.
+@variant L05: at entry (1842) the name قارقورا is written ڡاڡورا, the two loops without dots, with the variant reading وڡوبا.
+@variant L08: the editor compares entry (123); at entry (1782) the name اطراسا is written اطراسن.
+@variant L11: at entry (1159) the name اسفيثرا is written اسفتر; the editor compares Suhrāb's number [٨٤].

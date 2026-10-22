@@ -1,0 +1,4 @@
+@page 20 ٨
+@kind editorial
+% Frame 020: the editors' study «الجبر قبل الخوارزمى» (algebra before al-Khwārizmī), with footnotes.
+@withheld the editors' study «الجبر قبل الخوارزمى» (algebra before al-Khwārizmī), with footnotes

@@ -1,0 +1,53 @@
+@page 236 204
+@lang la
+% JP2 0236: Tab. 89, p. 204: the division of the houses for the ascendant in Aquarius: the beginnings of the second
+% to the sixth house for every degree of the ascendant, with the apparatus (notes a-d).
+@ml C 89{sup:r}, O 146{sup:r},
+@c {b:Aequatio casarum duodecim signo aquarii}
+@tw size=footnotesize 1.3 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65
+@ml N 55{sup:r}.
+@t Gradus | Secundum |  | Tertium |  | Quartum |  | Quintum |  | Sextum |
+@t aequales | Pisces |  | Aries |  | Taurus |  | Gemini |  | Cancer |
+@t ortus | [et Aries] |  | [et Taurus] |  | [et Gemini] |  | [et Cancer] |  | [et Leo] |
+@t aquarii |  |  |  |  |  |  |  |  |  |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 1 | 7 | 16 | 16 | 0 | 22 | 54 | 15 | 57 | 8 | 15
+@t 2 | 8 | 16 | 16 | 55 | 23{sup:b}) | 38 | 16 | 44 | 9 | 7
+@t 3 | 9 | 16 | 17 | 50 | 24 | 22 | 17 | 31 | 9 | 59
+@t 4 | 10 | 17 | 18 | 45 | 25 | 6 | 18 | 18 | 10 | 51
+@t 5 | 11 | 17 | 19 | 39 | 25 | 50 | 19 | 5 | 11 | 43
+@t 6 | 12 | 17 | 20 | 34 | 26 | 36 | 19 | 53 | 12 | 35
+@t 7 | 13 | 18 | 21 | 29 | 27 | 22 | 20 | 40 | 13 | 28
+@t 8 | 14 | 19 | 22 | 24 | 28 | 7 | 21 | 28 | 14 | 20
+@t 9 | 15 | 20 | 23 | 19 | 28 | 52 | 22 | 15 | 15 | 13
+@t 10 | 16 | 21 | 24 | 14 | 29 | 37 | 23 | 3 | 16 | 5
+@t  |  |  |  |  | Gemini |  |  |  |  |
+@t 11 | 17 | 21 | 25 | 8 | 0 | 21 | 23 | 50 | 16 | 57
+@t 12 | 18 | 21 | 26 | 2 | 1 | 5 | 24 | 37 | 17 | 49
+@t 13 | 19 | 21 | 26 | 55 | 1 | 49 | 25 | 23 | 18 | 41
+@t 14 | 20 | 21 | 27 | 48 | 2 | 32 | 26 | 9 | 19 | 32
+@t 15 | 21 | 21 | 28 | 41 | 3 | 15 | 26 | 55 | 20 | 23
+@t 16 | 22 | 20 | 29 | 32 | 3 | 57 | 27 | 39 | 21 | 14
+@t  |  |  | Taurus |  |  |  |  |  |  |
+@t 17 | 23 | 19 | 0 | 22 | 4 | 39 | 28 | 23 | 22 | 5
+@t 18 | 24 | 17 | 1 | 12 | 5 | 21 | 29 | 7 | 22 | 55
+@t 19 | 25 | 15 | 2 | 2 | 6 | 1 | 29 | 51 | 23 | 45
+@t  |  |  |  |  |  |  | Cancer |  |  |
+@t 20 | 26 | 13 | 2 | 52{sup:a}) | 6 | 42 | 0 | 35 | 24{sup:d}) | 35
+@t 21 | 27 | 11 | 3 | 41 | 7 | 20 | 1 | 19 | 25 | 26
+@t 22 | 28 | 9 | 4 | 30 | 7 | 58 | 2 | 3 | 26 | 17
+@t 23 | 29 | 7 | 5 | 19 | 8 | 36 | 2 | 46{sup:c}) | 27 | 7
+@t  | Aries |  |  |  |  |  |  |  |  |
+@t 24 | 0 | 5 | 6 | 8 | 9 | 14 | 3 | 29 | 27 | 58
+@t 25 | 1 | 2 | 6 | 57 | 9 | 52 | 4 | 12 | 28 | 48
+@t 26 | 1 | 59 | 7 | 44 | 10 | 30 | 4 | 54 | 29 | 38
+@t  |  |  |  |  |  |  |  |  | Leo |
+@t 27 | 2 | 57 | 8 | 31 | 11 | 7 | 5 | 36 | 0 | 28
+@t 28 | 3 | 52 | 9 | 18 | 11 | 44 | 6 | 18 | 1 | 17
+@t 29 | 4 | 48 | 10 | 4 | 12 | 21 | 7 | 0 | 2 | 7
+@t 30 | 5 | 44 | 10 | 50 | 12 | 58 | 7 | 42 | 2 | 56
+@n {sup:a}) 52] O, 12 C — {sup:b}) 23] C, 24 O — {sup:c}) 46] CO, 56 N — {sup:d}) 24] ON, 23 C.
+@obs The page number «204» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 89», in bold sans serif, underlined. The page has no signature. The title (L01), «Aequatio casarum duodecim signo aquarii», the equation of the twelve houses for the sign of Aquarius, in bold, without sigla. The folios of the manuscripts stand at the left of the title in two lines, «C 89r, O 146r,» and «N 55r.», the letters raised; here as left margin notes beside L01 and L02.
+@obs The table: as on pp. 194-203 (JP2 0226-0235), the degrees of the ascendant, «Gradus aequales ortus aquarii», in four lines, and five pairs «Gr.», «Min.» under «Secundum Pisces [et Aries]», «Tertium Aries [et Taurus]», «Quartum Taurus [et Gemini]», «Quintum Gemini [et Cancer]» and «Sextum Cancer [et Leo]». Here each head is set from the top, one printed line to a line (L02-L05); the units in L06; the cells separated by our «|»; a head followed by empty cells spans their columns. The names of the signs into which the beginnings pass stand in lines of their own over their columns: «Gemini» (L17) over the fourth house, «Taurus» (L24) over the third, «Cancer» (L28) over the fifth, «Aries» (L33) over the second and «Leo» (L37) over the sixth, each at the row where the computation passes into that sign. A dark blot over the 8 of the third house in L34; not transcribed.
+@obs L07-L41. The beginnings of the houses for the ascendant at 1° to 30° of Aquarius, by the rule of p. 194 (JP2 0226). Checked with the obliquity 23° 35′ and the latitude 38° 40′: the degrees and minutes agree within 2′ in 125 of the 150 places and within 3′ in 133. The first rows continue the excess at the end of p. 203 (JP2 0235), at 1° (L07) by 5.2′, 9.8′, 13.8′, 8.5′ and 4.3′ in the second to the sixth house, decreasing to 4°; the fourth house runs ahead by 2.1′ to 5.4′ from 15° to 22° (L21-L31), most at 20° (L29), 6° 42′ for 6° 36.6′.
+@obs Notes on the readings. Checked by the computation: the edition's readings are the nearer at 20° in the third house (note a: O's 52 against C's 12; 2° 52.3′ computed), at 2° in the fourth (note b: C's 23 against O's 24 in the degrees; 23° 28.8′, the table's 38 lying in the excess of the first rows), at 23° in the fifth (note c: the 46 of C and O against N's 56; 2° 45.2′) and at 20° in the sixth (note d: the 24 of O and N against C's 23 in the degrees; 24° 35.6′).

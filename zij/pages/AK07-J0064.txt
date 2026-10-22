@@ -1,0 +1,40 @@
+@page 64 [32]
+@lang de
+% JP2 0064: Suter's commentary, first page (p. [32]): introduction to the text (text pp. 1-2): the word zīj; the early
+% Arabic tables after the Indian Siddhāntas; the two editions of the Sindhind of al-Khwārizmī; Maslama's recension;
+% the Brahma- and Sūrya-Siddhānta; the Persian tables of the Shāh (notes 1-2).
+@h KOMMENTAR
+@c {b:Einleitung des Textes.}
+@c (Text p. 1—2.)
+@p Das arabische Wort {i:ezich} = {i:elzīdj} (gesprochen {i:ez-zīdj}) ist, wie noch verschiedene
+andere arabische technische Ausdrücke, nicht übersetzt ; es ist ursprünglich ein per-
+sisches Wort ({i:zīg}) und bedeutet die Grundfäden (Zettel) des Zeuges, in die der Weber
+oder Sticker den Einschlag oder die Stickerei hineinwirkt, dann diesem entsprechend
+„astronomisches Tafelwerk“. Solche gab es in der arabischen astronomischen Litte-
+ratur eine grosse Zahl : Die ältesten waren die nach den indischen {i:Siddhāntas} (s. Ein-
+leitung) verfassten Tafeln von {sp:Ibrāhīm al-Fazārī} und {sp:Yaʿḳūb b. Ṭāriḳ} ; dann
+kommen die beiden Ausgaben des {i:Sindhind} (arab. Schreibweise des indischen {i:Siddhānta})
+des {sp:Muh. b. Mūsā al-Khwārizmī}, die wahrscheinlich in den Jahren 800—830
+n. Chr. verfasst worden sind ; hierauf die „erprobten Tafeln“ der Astronomen {sp:Al-}
+{sp:Ma’mūns} ({sp:Yaḥyā b. Abī Manṣūr}, {sp:Sened b. ʿAlī}, {sp:ʿAbbās b. Saʿīd al-Djauharī}
+u. a.){sup:1}). — Es ist möglich, dass die spätere Ausgabe des {i:Sindhind} von {sp:Kh.} schon
+etwas beeinflusst gewesen sein mag durch die Beobachtungen der Astronomen
+{sp:Al-Ma’mūns}, und sich deshalb etwas weiter von den indischen Vorlagen entfernt
+hat als die erste Ausgabe, und dass wahrscheinlich, wie wir aus dem Inhalt des
+vorliegenden Werkes schliessen möchten, {sp:Maslama al-Madjrīṭī} (s. Einleitung) diese
+zweite Ausgabe einer Umarbeitung unterzogen hat. Doch lässt sich selbstverständlich
+hierüber nichts sicheres sagen, wir stellen nur Vermutungen auf, die uns als berechtigt
+erscheinen. — Welchen der verschiedenen indischen {i:Siddhāntas} {sp:Kh.} seinen Tafeln zu
+Grunde gelegt habe, ist ebenfalls nicht sicher zu entscheiden ; bis jetzt hat man es
+als ziemlich wahrscheinlich betrachtet, dass es der {i:Brahma-Siddhānta} (verfasst von
+{sp:Brahmagupta} in der ersten Hälfte des 7. Jahrh. n. Chr.) gewesen sei ; wir werden
+aber weiter unten sehen, dass auch andere {i:Siddhāntas} in Frage kommen können,
+besonders der {i:Sūrya-Siddhānta}. Dies würde dann darauf hindeuten, dass vielleicht
+{sp:Kh.} auch die persischen „Tafeln des Shāh“ ({i:zīdj al-shāh}, oder {i:zīdj al-shahriyār}){sup:2}) zu
+Rate gezogen hat, die im 2. Jahrh. der {i:Hidjra} ins Arabische übersetzt worden sind,
+@n {sup:1}) Vergl. für diese Astronomen : H. {sp:Suter}, {i:Die Mathematiker und Astronomen der Araber}, etc.,
+@n p. 3—14, und unsere Einleitung zu dieser Ausgabe.
+@n {sup:2}) Vergl. {sp:Batt.}, ed. {sp:Nallino}, I, 218.
+@obs The first page of Suter's commentary; the page number, 32 by the sequence of pages, is not printed. The page begins about a quarter of the way down: L01 «KOMMENTAR» in capitals, with a short rule below it; L02 «Einleitung des Textes.» in bold, centred; L03 «(Text p. 1—2.)», centred. The page has no signature.
+@obs Spaced type, marked {sp:}: the names «Ibrāhīm al-Fazārī», «Yaʿḳūb b. Ṭāriḳ», «Muh. b. Mūsā al-Khwārizmī», «Al-Ma’mūns», «Yaḥyā b. Abī Manṣūr», «Sened b. ʿAlī», «ʿAbbās b. Saʿīd al-Djauharī», «Kh.» (Suter's abbreviation of al-Khwārizmī), «Maslama al-Madjrīṭī», «Brahmagupta», «Suter», «Batt.» (al-Battānī) and «Nallino»; italics: the Arabic and Persian words and the titles. «Muh.» without a dot under the h.
+@obs The colons and semicolons stand after the thin space of the edition (10-12 px measured).

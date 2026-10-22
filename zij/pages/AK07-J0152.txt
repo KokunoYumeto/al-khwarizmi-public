@@ -1,0 +1,67 @@
+@page 152 120
+@lang la
+% JP2 0152: Tab. 9, p. 120: the mean motion of Saturn in the collected and the single Arab years and in the Arab
+% months, and the anomaly of Saturn («Heza») in days and hours, with the apparatus (notes 1-20, a-n).
+@ml C 48{sup:v}, M 85{sup:v},
+@c {b:Medius cursus Saturni} (N) — {b:Medialitas Saturni} (O)
+@ml O 104{sup:v}, N 24{sup:v}.
+@c {b:Medius cursus Saturni — Wacat elzohal}{sup:1}) (CM)
+@tw size=footnotesize span=1.1 1.1 0.75 0.75 0.85 0.85 0.9 0.75 0.75 0.85 0.85 1.8 0.75 0.75 0.85 0.85
+@t Anni | Medialitas{sup:2}) Saturni | | | | Anni | Medialitas{sup:2}) Saturni | | | | Menses{sup:5}) | Medialitas Saturni | | |
+@t collecti | in collectis{sup:3}) | | | | plani | in planis{sup:4}) | | | | | in mensibus{sup:6}) | | |
+@t | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:7}) | {b:Sec.}{sup:8}) | | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:7}) | {b:Sec.}{sup:8}) | | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:7}) | {b:Sec.}{sup:8})
+@t Radix | 3 | 27 | 58 | 37 | 1 | 0 | 11 | 50 | 15 | Elmuharram{sup:9}) | 0 | 1 | 0 | 11
+@t 30 | 3 | 23 | 28 | 25 | 2 | 0 | 23{sup:c}) | 42 | 31 | Zafar | 0 | 1 | 58 | 22
+@t 60 | 3 | 18 | 58 | 13 | 3 | 1 | 5 | 32{sup:f}) | 46 | Rabe I.{sup:10}) | 0 | 2 | 58 | 34
+@t 90 | 3 | 14 | 28 | 1 | 4 | 1 | 17 | 23 | 2 | Rabe II.{sup:11}) | 0 | 3 | 56 | 45
+@t 120 | 3 | 9 | 57 | 49 | 5 | 1 | 29 | 15 | 17 | Jumedi I.{sup:12}) | 0 | 4 | 56 | 56
+@t 150 | 3 | 5 | 27 | 37{sup:a}) | 6 | 2 | 11 | 5 | 33 | Jumedi II.{sup:13}) | 0 | 5 | 55 | 7{sup:k})
+@t 180 | 3 | 0 | 57 | 25 | 7 | 2 | 22 | 57 | 49 | Regeb | 0 | 6 | 55 | 18
+@t 210 | 2 | 26 | 27 | 14 | 8 | 3 | 4 | 48 | 4 | Scabin{sup:15}) | 0 | 7 | 53 | 30
+@t 240 | 2 | 21 | 57 | 2 | 9 | 3 | 16 | 38 | 20 | Ramadh.{sup:15}) | 0 | 8 | 53 | 41
+@t 270 | 2 | 17 | 26 | 50 | 10 | 3 | 28 | 30 | 36 | Scawal{sup:16}) | 0 | 9 | 51 | 52
+@t 300 | 2 | 12 | 56 | 39 | 11 | 4 | 10 | 20 | 51 | Dulkada{sup:17}) | 0 | 10 | 52 | 3
+@t 330 | 2 | 8 | 26 | 27{sup:b}) | 12 | 4 | 22 | 11 | 7 | Dulheia{sup:9}) | 0 | 11 | 50 | 15
+@t 360 | 2 | 3 | 56 | 16 | 13 | 5 | 4 | 3 | 23 | | | | |
+@t 390 | 1 | 29 | 26 | 5 | 14 | 5 | 15 | 53 | 38 | Dies eorum | Heza{sup:19}) Saturni supra- | | |
+@t 420 | 1 | 24 | 55 | 53 | 15 | 5 | 27 | 43{sup:g}) | 54{sup:h}) | et partes{sup:18}) | dictum{sup:20}) | | |
+@t 450 | 1 | 20 | 25 | 42 | 16 | 6 | 9 | 36 | 9 | | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 480 | 1 | 15 | 55 | 31 | 17 | 6 | 21 | 26 | 24 | Dies | 0 | 0 | 57{sup:m}) | 8
+@t 510 | 1 | 11 | 25 | 19 | 18 | 7 | 3 | 18 | 40 | 5 | 0 | 4 | 45 | 39
+@t 540 | 1 | 6 | 55 | 7 | 19 | 7 | 15 | 8 | 55 | 10 | 0 | 9 | 31 | 18
+@t 570 | 1 | 3 | 24 | 56 | 20 | 7 | 26{sup:d}) | 59 | 11 | 15 | 0 | 14 | 16 | 56
+@t | | | | | 21 | 8 | 8 | 51 | 27 | 20 | 0 | 19 | 2 | 35
+@t | | | | | 22 | 8 | 20 | 41 | 42 | 25 | 0 | 23{sup:l}) | 48 | 14
+@t | | | | | 23 | 9 | 2 | 31 | 58 | 30 | 0 | 28 | 33 | 54
+@t | | | | | 24 | 9 | 14 | 24 | 14 | 60 | 0 | 27 | 7 | 48
+@t | | | | | 25 | 9 | 26 | 14 | 30 | Hora | 0 | 0 | 2 | 23
+@t | | | | | 26 | 10 | 8 | 6 | 46 | 3 | 0 | 0 | 7 | 9
+@t | | | | | 27 | 10 | 19 | 57 | 1 | 6 | 0 | 0 | 14 | 17
+@t | | | | | 28 | 11 | 1 | 47 | 17{sup:i}) | 12 | 0 | 0 | 28 | 34{sup:n})
+@t | | | | | 29 | 11 | 13{sup:e}) | 39 | 33 | | | | |
+@t | | | | | 30 | 11 | 25 | 29 | 48 | | | | |
+@n {sup:1}) Wacat elzohal] C, elwacat zohal M — {sup:2}) Medialitas] O, Mediocritas CM — {sup:3}) in collectis] O, in
+@n annis collectis CM — {sup:4}) in planis] O, in annis planis CM — {sup:5}) Menses] ut infra in primo folio M {i:addid.}
+@n — {sup:6}) Medialitas . . . . mensibus] O, Walcat zoal filshohor C, wacat zohal filsohor M — {sup:7}) et {sup:8}) {i:V. notas in}
+@n {i:tab. praeced.} — {sup:9})—{sup:9}) Elmuharram . . . . Dulheia] {i:om.} M — {sup:10}) I.] O, awel C — {sup:11}) II.] O, akir C —
+@n {sup:12}) Jumedi I.] Jumedi C, Gum̆. I. O — {sup:13}) Jumedi II.] Jumedi C, Gum̆. II. O — {sup:14}) Scabin] O, Sabhin C —
+@n {sup:15}) Ramadh.] Rathă O, bothan C — {sup:16}) Scawal] O, shawel C — {sup:17}) Dulkada] Dulk’ O, dulkeda — {sup:18}) et
+@n partes] OM, partes C — {sup:19}) Heza] O, heza argumentum M, heca argumentum C; lunae de carne (?) {i:aut}
+@n limae de carne CM {i:addid.} — {sup:20}) {i:Suprascr.} O : Nota quod hoc argumentum felek eltedewir seruit. bifelek
+@n eltedewir lieztekim (?) asmir (?) id est argumentum. {i:Adscrips.} C : Nota quod hoc argumentum {i:p}{sup:te} ({i:par-}
+@n {i:tem?}) felek eltedec ({i:sic}).
+@n {sup:a}) 37] 57 CMO — {sup:b}) 27] OM, 26 C, 29 N — {sup:c}) 23] CO, 21 M — {sup:d}) 26 ON, 25 CM — {sup:e}) 13] OMN,
+@n 17 C — {sup:f}) 32] CO, 31 M — {sup:g}) 43] CM, 44 O — {sup:h}) 54] M, 53 CO — {sup:i}) 17] CO, 27 M, — {sup:k}) 7] CO, 57 M —
+@n {sup:l}) 23] CO, 24 M — {sup:m}) 57] CO, 56 M — {sup:n}) 34] CM, 33 O.
+@obs The page number «120» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 9», in bold sans serif, underlined. The titles (L01, L02), in bold, the sigla in roman: L01 that of N and that of O, L02 that of C and M; the folios of the manuscripts, «C 48v, M 85v,» over «O 104v, N 24v.», stand at the left of the titles, the letters v raised; here as left margin notes. The page has no signature.
+@obs The table: a thick and a thin rule above the head, a double rule below it; vertical rules divide the fifteen columns, double ones before and after the columns of the years and of the months; thin rules under the heads that span the four columns of signs, degrees, minutes and seconds, whose heads «Sig.», «Gr.», «Min.», «Sec.» are set in small bold type. «Anni collecti» and «Anni plani» are printed turned through a quarter, reading upwards, in two lines; here their two words stand in L03 and L04. Each printed row is one line here, the cells separated by our «|»; a head followed by empty cells spans their columns. The collected years end with 570 (L25).
+@obs L06-L35, the right-hand block: the months fill the first twelve rows (L06-L17); below them a thick and a thin rule and a second head, «Dies eorum et partes18)» in two lines and «Heza19) Saturni supra-dictum20)» over four columns of signs, degrees, minutes and seconds (L19-L21, the heads «Min.» and «Sec.» without note numbers), a double rule, and the anomaly of Saturn in days and hours (L22-L33); the last two rows are empty.
+@obs L06-L35, the years and months. Brahmagupta's parameter, 146 567 298 revolutions of Saturn in 1 577 916 450 000 days, gives a daily mean motion of 2′ 0″ 22‴ 52⁗ and in 30 Arab years (10 631 days) 11s 25° 29′ 30.8″. Checked: the table rests on a slightly larger motion, about 2′ 0″ 22‴ 58⁗ a day, 11s 25° 29′ 48″ in 30 years (the single year 30, L35): with it the 30 single years agree to within 1.6″ (the leap years 2, 5, 7, 10, 13, 16, 18, 21, 24, 26 and 29), and the collected years, which fall by 4° 30′ 12″ or 4° 30′ 11″ in each row from the radix 3s 27° 58′ 37″ (117° 58′ 37″), agree to within 2″ from the radix to 540 (with the editor's 37 of note a, where C, M and O have 57, and the readings of notes b-i); against Brahmagupta's parameter the collected years run ahead by 17″ in each row, 5′ 16″ at 540. The row 570, 1s 3° 24′ 56″, is 1° larger than the step requires, 1s 2° 24′ 55″; no note bears on it. The months, 30, 59, … 354 days, agree with either motion to within 1″ (with the reading of note k); the year of the months, 11° 50′ 15″, is the single year 1.
+@obs L22-L33, the anomaly («Heza») of Saturn, the excess of the sun's mean motion over Saturn's (p. 56, JP2 0088): 57′ 7.8″ a day with Brahmagupta's parameters. Checked: the days 1, 5, … 30 and the hours 1, 3, 6 and 12 agree with it to within 1″ (with the readings of notes l-n). The 60 days, printed 0s 27° 7′ 48″, are 1s 27° 7′ 48″ (60 × 57′ 7.8″ = 57° 7′ 48″): the sign is one too small; no note of the apparatus bears on it, and the list of misprints, p. [237] (JP2 0271, L17-L18), corrects it: see the critical note.
+@obs L13 and N05: «Scabin15)», see the critical note. N01-N10: the notes on the words, numbered; N11-N13, after a wider space, the notes on the numbers, lettered. N04: «9)—9)», the two places of note 9, Elmuharram (L06) and Dulheia (L17). N05: «Gum̆.», with a breve over the m; N06: «Rathă», with a breve over the a. N08-N09: «O :» and «C :», the colons after the thin space of the edition. N09: «pte», the p italic, the te raised, an abbreviation of the manuscript, with the editor's «(partem?)». N10: «(sic)» the editor's. The ellipses «. . . .» of the lemmata as printed. Italics: «addid.», «V. notas in tab. praeced.», «om.», «aut», «Suprascr.», «Adscrips.», «partem?», «sic».
+@copy A stroke of ink through the printed 0, the sign of the 60 days of the anomaly (L29), and a 1 written in ink before it, a reader's correction of the value in this copy; a small ink stroke in the right margin beside L23. Not part of the edition.
+@critical AK07-CN088 | wrong note number | L13 | Scabin{sup:15}) | Scabin{sup:14}) | the apparatus has «14) Scabin] O, Sabhin C» and «15) Ramadh.] Rathă O, bothan C» (N05-N06); «Ramadh.15)» stands in the next row (L14), so that the number 15 is printed twice and 14 not at all | high | none
+@critical AK07-CN089 | missing siglum | N06 | Dulk’ O, dulkeda — | Dulk’ O, dulkeda C — | every reading of the apparatus is followed by the siglum of its manuscript; the months are omitted in M (note 9), so that «dulkeda» can only be the reading of C, as «Sabhin C» and «bothan C» in the same line | medium | none
+@critical AK07-CN090 | missing bracket | N11 | {sup:d}) 26 ON, 25 CM | {sup:d}) 26] ON, 25 CM | the lemma of every note of the apparatus is closed by a square bracket, as «c) 23] CO, 21 M» and «e) 13] OMN, 17 C» beside it; the bracket after 26 is not printed | high | none
+@critical AK07-CN091 | wrong punctuation | N12 | 27 M, — | 27 M — | the readings of a note end with their siglum and no comma before the dash that divides the notes, as «31 M —» and «57 M —» in the same line | high | none
+@critical AK07-CN286 | wrong figure | L29 | 0 | 1 | the sign of the anomaly of Saturn for 60 days, the cell after «60»: 60 × 57′ 7.8″ = 57° 7′ 48″ = 1s 27° 7′ 48″, where 0s is printed; the list of misprints, p. [237] (JP2 0271, L17-L18), reads 1 for 0 in the column of the signs at 60 days in «Heza Saturni supradictum» | high | none

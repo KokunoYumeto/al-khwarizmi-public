@@ -1,0 +1,56 @@
+@page 230 198
+@lang la
+% JP2 0230: Tab. 83, p. 198: the division of the houses for the ascendant in Leo: the beginnings of the second to the
+% sixth house for every degree of the ascendant, with the apparatus (notes a-s).
+@ml C 88{sup:r}, O 144{sup:v},
+@c {b:Aequatio casarum duodecim signo leonis}
+@tw size=footnotesize 1.3 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65
+@ml N 52{sup:r}.
+@t Gradus | Secundum |  | Tertium |  | Quartum |  | Quintum |  | Sextum |
+@t aequales | Leo |  | Virgo |  | Libra |  | Scorpius |  | Sagittar. |
+@t ortus | [et Virgo] |  | [et Libra] |  | [et Scorpius] |  | [et Sagittar.] |  | [et Capricor.] |
+@t leonis |  |  |  |  |  |  |  |  |  |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 1 | 25 | 21 | 21 | 19 | 17 | 50 | 24 | 25 | 27 | 51
+@t 2 | 26 | 29 | 22 | 34 | 19 | 8{sup:i}) | 25 | 32 | 28 | 51
+@t 3 | 27 | 37{sup:c}) | 23 | 49 | 20 | 26 | 26 | 39 | 29 | 51
+@t  |  |  |  |  |  |  |  |  | Capric. |
+@t 4 | 28 | 45 | 25 | 5 | 21 | 44 | 27 | 46 | 0 | 51
+@t 5 | 29 | 54 | 26 | 21 | 23 | 2 | 28 | 54 | 1 | 52{sup:q})
+@t  | Virgo |  |  |  |  |  | Sagitt. |  |  |
+@t 6 | 1 | 3 | 27 | 38 | 24 | 21 | 0 | 1 | 2 | 54
+@t 7 | 2 | 12 | 28 | 55 | 25{sup:h}) | 41 | 1 | 9 | 3 | 57
+@t  |  |  | Libra |  |  |  |  |  |  |
+@t 8 | 3 | 22 | 0 | 12 | 27 | 1 | 2 | 16 | 5 | 0
+@t 9 | 4 | 32 | 1 | 29 | 28 | 21 | 3 | 24 | 6 | 3
+@t 10 | 5 | 42 | 2 | 47 | 29 | 41 | 4 | 32 | 7 | 6
+@t  |  |  |  |  | Scorp. |  |  |  |  |
+@t 11 | 6 | 51 | 4 | 3 | 0 | 59 | 5 | 38 | 8 | 3{sup:r})
+@t 12 | 8 | 1 | 5 | 19 | 2 | 16 | 6 | 44 | 9 | 2
+@t 13 | 9 | 10 | 6 | 35{sup:e}) | 3 | 34 | 7 | 50 | 9 | 59
+@t 14 | 10 | 19 | 7 | 51 | 4 | 51 | 8 | 56 | 10{sup:o}) | 56
+@t 15 | 11 | 29 | 9 | 6 | 6 | 8 | 10 | 1 | 11 | 53
+@t 16 | 12 | 38 | 10 | 23 | 7 | 26{sup:k}) | 11 | 7 | 12 | 53
+@t 17 | 13 | 48 | 11 | 39 | 8 | 44 | 12 | 13 | 13 | 53
+@t 18 | 14 | 57 | 12 | 56 | 10 | 1 | 13 | 19 | 14 | 53
+@t 19 | 16 | 7 | 14 | 12 | 11 | 19 | 14 | 25 | 15 | 53
+@t 20 | 17 | 17 | 15 | 28 | 12 | 37{sup:l}) | 15 | 30 | 16 | 53
+@t 21 | 18 | 27 | 16 | 43 | 13 | 53 | 16 | 35 | 17 | 54{sup:s})
+@t 22 | 19 | 36 | 17 | 57 | 15 | 9 | 17 | 40 | 18{sup:p}) | 54
+@t 23 | 20 | 46 | 19 | 11 | 16 | 24 | 18 | 44 | 19 | 54
+@t 24 | 21 | 56 | 20 | 25 | 17 | 39{sup:m}) | 19 | 48 | 20 | 54
+@t 25 | 23 | 6 | 21 | 39 | 18 | 54 | 20 | 52 | 21 | 54
+@t 26 | 24 | 15 | 22 | 54 | 20 | 9 | 21 | 55 | 22 | 54{sup:s})
+@t 27 | 25 | 25 | 24 | 8 | 21 | 24 | 22 | 58 | 23 | 55
+@t 28 | 26 | 34{sup:d}) | 25 | 23 | 22 | 38{sup:n}) | 24 | 1 | 24 | 55
+@t 29 | 27 | 44 | 26 | 37{sup:f}) | 23 | 52 | 25 | 3 | 25 | 55
+@t 30{sup:a}) | 28{sup:b}) | 53 | 27 | 52{sup:g}) | 25 | 6 | 26 | 5 | 26 | 55
+@n {sup:a}) 30] C, 29 O — {sup:b}) 28] C, 38 O — {sup:c}) 37] ON, 38 C — {sup:d}) 34] C, 24 O — {sup:e}) 35] C, 55 O —
+@n {sup:f}) 37] ON, 27 C — {sup:g}) 52] 12 CO — {sup:h}) 25] C, 15 O — {sup:i}) 8] C, 7 O — {sup:k}) 26] ON, 23 C — {sup:l}) 37] ON,
+@n 27 C — {sup:m}) 39] C, 9 O — {sup:n}) 38] ON, 28 C — {sup:o}) 10] ON, 11 C — {sup:p}) 18] N, 17 CO — {sup:q}) 52] O, 51 C —
+@n {sup:r}) 3] C, 4 O — {sup:s-s}) 54] ON, 53 C.
+@obs The page number «198» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 83», in bold sans serif, underlined. The page has no signature. The title (L01), «Aequatio casarum duodecim signo leonis», the equation of the twelve houses for the sign of Leo, in bold, without sigla. The folios of the manuscripts stand at the left of the title in two lines, «C 88r, O 144v,» and «N 52r.», the letters raised; here as left margin notes beside L01 and L02.
+@obs The table: as on pp. 194-197 (JP2 0226-0229), the degrees of the ascendant, «Gradus aequales ortus leonis», in four lines, and five pairs «Gr.», «Min.» under «Secundum Leo [et Virgo]», «Tertium Virgo [et Libra]», «Quartum Libra [et Scorpius]», «Quintum Scorpius [et Sagittar.]» and «Sextum Sagittar. [et Capricor.]». Here each head is set from the top, one printed line to a line (L02-L05); the units in L06; the cells separated by our «|»; a head followed by empty cells spans their columns. The names of the signs into which the beginnings pass stand in lines of their own over their columns: «Capric.» (L10) over the sixth house, «Virgo» and «Sagitt.» (L13) over the second and the fifth, «Libra» (L16) over the third and «Scorp.» (L20) over the fourth. A small oblique stroke before the 23 of the third house in L09 and specks beside the first column; not transcribed.
+@obs L07-L40. The beginnings of the houses for the ascendant at 1° to 30° of Leo, by the rule of p. 194 (JP2 0226). Checked with the obliquity 23° 35′ and the latitude 38° 40′: the degrees and minutes agree within 2′ in 102 of the 150 places and within 3′ in 122. The first rows run ahead of the computation, continuing the end of p. 197 (JP2 0229): at 1° by 3.8′, 6.9′, 10.6′, 5.6′ and 3.7′ in the second to the sixth house, decreasing to 4°. In the sixth house the steps of the column run in groups, 60′ three times from 1° to 4°, 61′ to 63′ to 10°, 57′ to 59′ to 15°, then 60′ or 61′, where the computed steps are 61′ and then 60′; the column thus runs ahead of the computation from 6° to 14°, by up to 13.2′ at 10° (L19), 7° 6′ for 6° 52.8′. The third and the fourth house lag by 2′ to 4.5′ at 14°-18° and 22°-28°, the fifth by 2.5′ to 6.6′ at 27°-30°.
+@obs Notes on the readings. Checked by the computation: the edition's readings are the nearer at 28° and 30° in the second house (notes d and b: C's 34 against O's 24, C's 28 against O's 38 in the degrees; 26° 35.0′, 28° 53.3′ computed), at 13°, 29° and 30° in the third (notes e, f and g: C's 35 against O's 55, the 37 of O and N against C's 27, the edition's 52 against the 12 of C and O; 6° 35.7′, 26° 38.5′, 27° 51.6′), at 7°, 16°, 20°, 24° and 28° in the fourth (notes h, k, l, m and n: C's 25 against O's 15 in the degrees, the 26 of O and N against C's 23, the 37 and 38 of O and N against C's 27 and 28, C's 39 against O's 9; 25° 40.3′, 7° 29.2′, 12° 37.3′, 17° 40.4′, 22° 38.4′), and at 14°, 21°, 22° and 26° in the sixth (notes o, s-s and p: the 10 of O and N against C's 11 in the degrees, the 54 of O and N against C's 53, N's 18 against the 17 of C and O in the degrees; 10° 53.6′, 17° 54.0′, 18° 54.0′, 22° 54.2′). At 3° in the second house (note c) the 37 of O and N and C's 38 both lie ahead of the computation, 27° 35.0′, as do C's 8 and O's 7 at 2° in the fourth (note i; 18° 59.8′), where C's 8 keeps the steps of the column, 78′ and 78′; at 5° and 11° in the sixth (notes q and r) C's 51 and 3 are the nearer to the computation (1° 50.5′, 7° 53.0′) than the edition's 52 and O's 4. Note a: C's 30 in the column of the ascendant at the last row, against O's 29.
+@obs N04: «{sup:s-s})», the two letters of the note joined by a hyphen, raised, before one parenthesis; the note is marked at 21° and 26° of the sixth house.

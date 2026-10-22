@@ -1,0 +1,58 @@
+@page 235 203
+@lang la
+% JP2 0235: Tab. 88, p. 203: the division of the houses for the ascendant in Capricornus: the beginnings of the
+% second to the sixth house for every degree of the ascendant, with the apparatus (notes 1-2 and a-i).
+@m C 89{sup:r}, O 145{sup:v}
+@c {b:Aequatio casarum duodecim signo}{sup:1}) {b:capricorni}
+@tw size=footnotesize 1.3 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65
+@m N 54{sup:v}.
+@t Gradus | Secundum |  | Tertium |  | Quartum |  | Quintum |  | Sextum |
+@t aequales | Aquarius |  | Pisces |  | Aries |  | Taurus |  | Gemini |
+@t ortus | [et Pisces] |  | [et Aries] |  | [et Taurus] |  | [et Gemini] |  | [et Cancer] |
+@t capricor. |  |  |  |  |  |  |  |  |  |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 1 | 5 | 32 | 13 | 26 | 23 | 21 | 17 | 15 | 9 | 36
+@t 2 | 6 | 36 | 14 | 36 | 24 | 29 | 18 | 19 | 10 | 37
+@t 3 | 7 | 39 | 15{sup:b}) | 46 | 25 | 37 | 19 | 23 | 11 | 38
+@t 4 | 8 | 43 | 16 | 56 | 26 | 45 | 20 | 27 | 12 | 39
+@t 5 | 9 | 47 | 18 | 5 | 27 | 53 | 21 | 31 | 13 | 40
+@t 6 | 10 | 50 | 19 | 14 | 28 | 58 | 22 | 33 | 14 | 39
+@t  |  |  |  |  | Taurus |  |  |  |  |
+@t 7 | 11 | 54 | 20 | 22 | 0 | 2 | 23 | 34 | 15 | 38
+@t 8 | 12 | 58 | 21 | 30 | 1 | 6 | 24 | 35 | 16 | 37{sup:h})
+@t 9 | 14 | 1 | 22 | 38 | 2 | 10 | 25 | 36 | 17 | 36
+@t 10 | 15 | 5 | 23 | 46{sup:c}) | 3 | 14 | 26 | 37 | 18 | 35
+@t 11 | 16 | 9 | 24 | 53 | 4 | 15 | 27 | 36 | 19 | 33
+@t 12 | 17 | 13{sup:a}) | 26 | 0 | 5 | 16 | 28 | 35 | 20 | 32
+@t 13 | 18 | 16 | 27 | 7 | 6 | 16 | 29 | 34 | 21 | 30
+@t  |  |  |  |  |  |  | Gemini |  |  |
+@t 14 | 19 | 20 | 28 | 13{sup:d}) | 7 | 17 | 0 | 32 | 22 | 28
+@t 15 | 20 | 24 | 29 | 19 | 8 | 18 | 1 | 30 | 23 | 26
+@t  |  |  | Aries |  |  |  |  |  |  |
+@t 16 | 21 | 28 | 0 | 24 | 9 | 17 | 2 | 27 | 24 | 23
+@t 17 | 22 | 31 | 1 | 29 | 10 | 14 | 3 | 24 | 25 | 20
+@t 18 | 23 | 35 | 2 | 34 | 11 | 12 | 4 | 21 | 26{sup:g}) | 17
+@t 19 | 24 | 38 | 3 | 39 | 12 | 10 | 5 | 17{sup:e}) | 27 | 13
+@t 20 | 25 | 42 | 4 | 43 | 13 | 8 | 6 | 13{sup:f}) | 28 | 9
+@t 21 | 26 | 45 | 5 | 46 | 14 | 3 | 7 | 7 | 29 | 5
+@t 22 | 27 | 49 | 6 | 49 | 14 | 58 | 8 | 1 | 29 | 56
+@t  |  |  |  |  |  |  |  |  | Cancer |
+@t 23 | 28 | 52 | 7 | 51 | 15 | 52 | 8 | 55 | 0 | 51
+@t 24 | 29 | 55 | 8 | 53 | 16 | 46 | 9 | 49 | 1 | 46{sup:i})
+@t  | Pisces{sup:2}) |  |  |  |  |  |  |  |  |
+@t 25 | 0 | 58 | 9 | 55 | 17 | 40 | 10 | 42 | 2 | 42
+@t 26 | 2 | 2 | 10 | 57 | 18 | 34 | 11 | 36 | 3 | 37
+@t 27 | 3 | 5 | 11 | 59 | 19 | 28 | 12 | 30 | 4 | 33
+@t 28 | 4 | 9 | 13 | 1 | 20 | 22 | 13 | 24 | 5 | 28
+@t 29 | 5 | 12 | 14 | 3 | 21 | 16 | 14 | 17 | 6 | 23
+@t 30 | 6 | 16 | 15 | 5 | 22 | 10 | 15 | 10 | 7 | 18
+@n {sup:1}) signo] C, signi O — {sup:2}) Pisces] C, {i:om.} O.
+@n {sup:a}) 13] C, 14 O — {sup:b}) 15] O, 14 C — {sup:c}) 46] O, 40 C — {sup:d}) 13] O, 53 C — {sup:e}) 17] C, 27 O — {sup:f}) 13]
+@n C, 23 O — {sup:g}) 26] ON, 25 C — {sup:h}) 37] C, 27 O — {sup:i}) 46] ON, 45 C.
+@obs The page number «203» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 88», in bold sans serif, underlined. At the foot, the signature «26*» on the right; recorded here, not transcribed as a line. The title (L01), «Aequatio casarum duodecim signo1) capricorni», the equation of the twelve houses for the sign of Capricornus, in bold, without sigla, with note 1 at «signo» (O's «signi»); a short stroke stands over the u of «Aequatio», a speck or a damaged sort; not transcribed. The folios of the manuscripts stand at the right of the title in two lines, «C 89r, O 145v» and «N 54v.», the letters raised, without the comma after «145v»: see the critical note; here as right margin notes beside L01 and L02.
+@obs The table: as on pp. 194-202 (JP2 0226-0234), the degrees of the ascendant, «Gradus aequales ortus capricor.», in four lines, and five pairs «Gr.», «Min.» under «Secundum Aquarius [et Pisces]», «Tertium Pisces [et Aries]», «Quartum Aries [et Taurus]», «Quintum Taurus [et Gemini]» and «Sextum Gemini [et Cancer]». Here each head is set from the top, one printed line to a line (L02-L05); the units in L06; the cells separated by our «|»; a head followed by empty cells spans their columns. The names of the signs into which the beginnings pass stand in lines of their own over their columns: «Taurus» (L13) over the fourth house, «Gemini» (L21) over the fifth, «Aries» (L24) over the third, «Cancer» (L32) over the sixth and «Pisces2)» (L35) over the second, each at the row where the computation passes into that sign. A speck between the 15 and the 52 of the fourth house in L33; not transcribed.
+@obs L07-L41. The beginnings of the houses for the ascendant at 1° to 30° of Capricornus, by the rule of p. 194 (JP2 0226). Checked with the obliquity 23° 35′ and the latitude 38° 40′: the degrees and minutes agree within 2′ in 101 of the 150 places and within 3′ in 122; the fourth house runs ahead by 2.4′ to 4.2′ at 1°-6°, and the sixth lags by 3.5′ to 4.8′ at 22°-26°. From 26° (L37) the second to the fifth house run ahead of the computation, increasingly, at 30° (L41) by 7.2′, 13.2′, 19.0′ and 11.8′ in the second to the fifth house (the sixth 0.9′), as at the end of p. 201 (JP2 0233).
+@obs L38-L39. Suter's example, the ascendant 27° 3′ of Capricornus (p. 98, JP2 0130, L22-L25), gives by interpolation between 27° and 28° the beginnings 3° 8.2′, 12° 2.1′, 19° 30.7′, 12° 32.7′ and 4° 35.8′, his 3° 8′, 12° 2′, 19° 31′, 12° 33′ and 4° 36′.
+@obs Notes on the readings. Checked by the computation: the edition's readings are the nearer at 12° in the second house (note a: C's 13 against O's 14; 17° 12.6′ computed), at 3°, 10° and 14° in the third (notes b, c and d: O's 15 against C's 14 in the degrees, O's 46 against C's 40, O's 13 against C's 53; 15° 43.9′, 23° 44.8′, 28° 12.1′), at 19° and 20° in the fifth (notes e and f: C's 17 and 13 against O's 27 and 23; 5° 16.1′, 6° 11.4′), and at 8° and 18° in the sixth (notes h and g: C's 37 against O's 27, the 26 of O and N against C's 25 in the degrees; 16° 37.3′, 26° 16.1′). At 24° in the sixth house (note i) the 46 of O and N keeps the steps of the column, 55′ and 56′, where C's 45 gives 54′ and 57′; both lie in the stretch that lags behind the computation, 1° 50.8′. Note 2: O omits «Pisces» over the second house (L35).
+@obs Italics: «om.».
+@critical AK07-CN224 | missing comma | L01 | C 89{sup:r}, O 145{sup:v} | C 89{sup:r}, O 145{sup:v}, | the folios of C and O end with a comma before the folio of N in the next line, as «C 89r, O 145v,» on p. 202 (JP2 0234) | medium | none

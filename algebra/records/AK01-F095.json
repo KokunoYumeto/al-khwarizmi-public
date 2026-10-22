@@ -1,0 +1,183 @@
+{
+ "anchor": "AK01-F095",
+ "frame": 95,
+ "frame_file": "page_095.jpg",
+ "frame_sha256": "6b450fb30b2b9236096d342c777846c722a767ffa20b554b68211d92e894b1cf",
+ "printed_page": "٧٩",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 095, printed p. 79: the problem of frame 094 concluded: five sevenths of the estate, one thousand one hundred and forty-five, added: one thousand three hundred and sixteen, a hundred and eighty-eight to each of seven shares, one to the daughter and two to each son. Then, under «فان كانت الفريضة على حالها» in bold, the same heirs: from two fifths of the estate the share of the daughter, and to another a quarter and a fifth of what remains of the two fifths after the share: four fifths and a tenth of a fifth of the estate less eleven twentieths of a share equal seven shares; the estate nine shares and seventeen eighty-seconds: the share eighty-two, the estate seven hundred and fifty-five, continued on the next page. The values check exactly. Below the rule one footnote of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F095-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "سهماً فزد عليه خمسة أسباع المال وهو ألف ومائة وخمسة وأربعون فيكون ألفاً",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F095-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "وثلثمائة وستة عشر سهماً بين سبعة أسهم لكل سهم مائة وثمانية وثمانون سهماً",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F095-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وهو نصيب البنت وللابن ضعف ذلك {n:١} . {b:فان كانت الفريضة على حالها} وأوصى",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان كانت الفريضة على حالها"
+   ]
+  },
+  {
+   "id": "AK01-F095-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "من خمسى ماله بمثل نصيب البنت ولآخر بربع وخمس ما يبقى من الخمسين بعد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F095-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "النصيب . فقياس ذلك أن الوصية من الخمسين فتأخذ خمسى مال فتلقى منه النصيب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F095-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "فيبقى خمسا مال إلا نصيباً ثم تلقى منه ربع وخمس مايبقى وهو تسعة أجزاء من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F095-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "عشرين جزءاً من الخمسين إلا مثل ذلك من النصيب فيبقى خمس وعشر الخمس",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F095-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "إلاأحدعشر جزءاً من عشرين جزءاً من نصيب فزد عليه ثلاثة أخماس المال فيكون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F095-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "ذلك اربعة أخماس وعشر خمس مال إلا أحدعشر جزءاً من عشرين جزءاً من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F095-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "نصيب تعدل سبعة أنصباء فاجبر ذلك بأحدعشر جزءاً من عشرين جزءاً من نصيب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F095-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "وزدها على السبعة فيكون ذلك يعدل سبعةأنصباء وأحدعشر جزءاً من عشرين جزءاً",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F095-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "من نصيب فتمم مالك وهو أن تزيد على كل مامعك تسعة أجزاء من أحد واربعين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F095-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "جزءاً فيكون معك مال يعدل تسعة أنصباء وسبعة عشر جزءاً من اثنين وثمانين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F095-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "جزءاً من نصيب فاجعل النصيب اثنين وثمانين جزءاً فتكون السهام سبعمائة وخمسة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١"
+   ],
+   "lines": 7,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L03: the words فان كانت الفريضة على حالها (L03), the run-in heading of the next problem, as on frame 091, L16, are printed in a bold face, after a full stop; وأوصى, which follows, is in the face of the text. The bold ن is printed without its dot; transcribed ن.",
+  "L02: the hundreds are printed وثلثمائة (L02), without the alif of ثلاث, as on frames 089 and 092; transcribed as printed. L06: «خمسا مال», as printed, the dual, two fifths of an estate, as سبعا مال on frame 094, L04.",
+  "Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): مايبقى (L06; 19 between the alif and the ي, as on frame 091, L17, where ما يبقى with a space has 37 in L04); إلاأحدعشر (L08; 11 between the ligature لا and the alif, and 2 between the د and the ع); أحدعشر (L09, L10 and L11; 7 to 8 between the د and the ع, as on frames 056 and 062), in إلا أحدعشر (L09), بأحدعشر (L10) and وأحدعشر (L11); سبعةأنصباء (L11; 8 between the ة and the alif, where the same words have 19 in L10 and 25 in L13); مامعك (L12; 11 between the alif and the م, where ما معك with a space has 23 on frame 094, L11).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: وثلثمائة وستة (L02; 16 between the ة and the conjunction و) and مائة وثمانية (L02; 16), وخمسة وأربعون (L01; 17) and ومائة وخمسة (L01; 18), at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one; حالها وأوصى (L03; 16 between the bold alif and the conjunction و, where the alif stands 9 to 13 px from a conjunction و set without a space; in doubt, the space is written).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: البنت وللابن (L03; 6 between the ت and the conjunction و), ضعف ذلك (L03; 6), أن الوصية (L05; 9), من الخمسين (L05; 11), خمسى مال (L05; 10), فتلقى منه (L05; 4), منه النصيب (L05; 12), تلقى منه (L06; 12), من عشرين (L08, L10, L11; 9 to 11), أخماس المال (L08; 9), فيكون ذلك, ذلك يعدل (L11; 9), من نصيب (L12, L14; touching), أن تزيد (L12), من أحد (L12), السهام سبعمائة (L14; 10).",
+  "The note mark and the full stops (gaps as the nearest approach of the ink at 400 ppi): (١) stands 31 px after ذلك, followed by a full stop 35 px after the mark and 22 px before the bold فان (L03); the full stop after النصيب, before فقياس, stands between spaces (L05; 26 and 22).",
+  "Plain alif where a hamza might be expected, as printed: اربعة (L09), فاجبر (L10), واربعين (L12), اثنين (L13, L14), فاجعل (L14); with hamza: أسباع, ألف, وأربعون, ألفاً (L01), أسهم (L02), وأوصى (L03), أن, فتأخذ (L05), أجزاء (L06), إلاأحدعشر, the second alif, أخماس (L08), أخماس, أحدعشر (L09), أنصباء, بأحدعشر (L10), سبعةأنصباء, وأحدعشر (L11), أن, أجزاء, أحد (L12), أنصباء (L13); below the alif: إلا (L06, L07, L09), إلاأحدعشر (L08); with madda: ولآخر (L04); on ي: ومائة (L01), وثلثمائة, مائة (L02), سبعمائة (L14); the hamza on the line: أجزاء (L06, L12), أنصباء (L10, L13), سبعةأنصباء (L11), جزءاً (L07; L08, L09, L10, L11, L13, L14, twice each).",
+  "With tanwīn on the final alif: سهماً (L01; L02, twice), ألفاً (L01), نصيباً (L06), جزءاً (L07; L08, L09, L10, L11, L13, L14, twice each); without tanwīn as printed: خمسا (L06).",
+  "The final yā' is printed without dots: the bold على, وأوصى (L03), خمسى, يبقى (L04), خمسى, فتلقى (L05), فيبقى, تلقى, مايبقى (L06), فيبقى (L07), على (L11, L12).",
+  "Note (١) of the editors restates the problem of frame 094 in modern notation, with the daughter's share x: the first bequest x, the second (1/5 + 1/6)(2/7 − x) = 11/30 × 2/7 − 11/30 x; the two together 19/30 x + 22/210; what remains to the sons and the daughter, seven shares, 1 − 19/30 x − 22/210 = 7x; hence 188/210 = 229/30 x and x = 188/1603: the daughter 188 parts of 1603, a son twice as much, the first bequest 188 parts and the second 11/30 (2/7 − x) = 99. The values check exactly. The note is not reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

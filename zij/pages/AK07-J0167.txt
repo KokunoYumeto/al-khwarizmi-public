@@ -1,0 +1,59 @@
+@page 167 135
+@lang la
+% JP2 0167: Tab. 24, p. 135: the equations of the sun and of the moon, the declination of the sun and the latitude of
+% the moon for the arguments 3s 1° to 4s 0° (and 8s 29° to 8s 0°), with the apparatus (notes 1-4 and a-s).
+@m C 54{sup:v}, O 112{sup:r},
+@c {b:Tadil elscems wa elkamar} (O) — {b:Examinatio solis et lunae} (C)
+@m N 22{sup:r}.
+@c {b:Coaequatio solis et lunae} (N)
+@tw size=footnotesize span=1.14 0.9 0.8 0.85 0.8 0.7 0.8 0.8 0.7 0.8 0.8 0.75 0.8 0.8 0.7 0.8 0.8
+@t Semitae numeri (O) | | | | Examinatio | | | Examinatio | | | Obliquatio | | | Latitudo | |
+@t Sulcj numerorum (C) | | | | Solis | | | Lunae | | | Solis | | | Lunae | |
+@t Computatio | | Computatio | | Motus | | | Motus | | | recedentis{sup:4}) | | | recedentis | |
+@t minuenda{sup:1}) | | augenda{sup:2}) | | velox{sup:3}) | | | velox | | | | | | | |
+@t et augmentum | | et diminutio | | | | | | | | | | | | |
+@t examinis et | | examinis et | | | | | | | | | | | | |
+@t numeri | | numeri | | | | | | | | | | | | |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 3 | 1 | 8 | 29 | 2 | 13 | 59 | 4 | 55 | 58 | 23 | 50 | 47 | 4 | 29 | 56
+@t 3 | 2 | 8 | 28 | 2 | 13 | 55 | 4 | 55 | 49 | 23 | 50 | 5 | 4 | 29 | 49
+@t 3 | 3 | 8 | 27 | 2 | 13 | 49 | 4 | 55 | 34 | 23 | 48 | 55 | 4 | 29 | 38
+@t 3 | 4 | 8 | 26 | 2 | 13 | 41{sup:d}) | 4 | 55 | 14 | 23 | 47 | 18 | 4 | 29 | 20
+@t 3 | 5 | 8 | 25 | 2 | 13 | 34 | 4 | 54{sup:g}) | 52{sup:m}) | 23 | 45 | 16 | 4 | 28 | 58
+@t 3 | 6 | 8 | 24 | 2 | 13 | 14 | 4 | 54 | 17{sup:n}) | 23 | 42 | 42 | 4 | 28 | 31
+@t 3 | 7 | 8 | 23 | 2 | 12 | 58{sup:e}) | 4 | 53 | 40 | 23 | 39 | 42 | 4 | 27 | 56
+@t 3 | 8 | 8 | 22 | 2 | 12 | 37{sup:f}) | 4 | 52 | 36 | 23 | 36 | 15 | 4 | 27 | 21
+@t 3 | 9 | 8 | 21 | 2 | 12 | 15 | 4 | 51{sup:g}) | 43 | 23 | 32 | 20 | 4 | 26 | 40
+@t 3 | 10 | 8 | 20 | 2 | 11 | 44 | 4 | 50{sup:h}) | 59 | 23 | 27 | 58 | 4 | 25 | 55
+@t 3 | 11 | 8 | 19 | 2 | 11 | 24 | 4 | 50 | 3 | 23 | 23 | 9 | 4 | 25 | 3
+@t 3 | 12 | 8 | 18 | 2 | 10 | 54 | 4 | 49{sup:i}) | 9 | 23 | 17 | 52 | 4 | 24 | 5
+@t 3 | 13 | 8 | 17 | 2 | 10 | 22 | 4 | 47 | 58 | 23 | 12 | 8 | 4 | 23 | 4
+@t 3 | 14 | 8 | 16 | 2 | 9 | 46 | 4 | 46 | 40{sup:o}) | 23 | 5 | 52 | 4 | 21 | 58
+@t 3 | 15 | 8 | 15 | 2 | 9 | 10 | 4 | 45 | 20 | 22 | 59 | 24 | 4 | 20 | 45
+@t 3 | 16 | 8 | 14 | 2 | 8 | 30 | 4 | 43 | 52 | 22 | 52 | 20 | 4 | 19 | 29
+@t 3 | 17 | 8 | 13 | 2 | 7 | 48 | 4 | 42 | 19 | 22 | 44 | 52 | 4 | 18 | 10
+@t 3 | 18 | 8 | 12 | 2 | 7 | 4 | 4 | 40 | 42 | 22 | 37 | 0 | 4 | 16 | 44
+@t 3 | 19 | 8 | 11 | 2 | 6 | 18 | 4 | 38 | 58 | 22 | 28 | 19 | 4 | 15 | 16
+@t 3 | 20 | 8 | 10 | 2 | 5 | 28 | 4 | 37 | 9 | 22 | 19 | 18 | 4 | 13 | 43
+@t 3 | 21 | 8 | 9 | 2 | 4 | 37 | 4 | 35 | 15 | 22 | 10 | 42 | 4 | 12 | 4
+@t 3 | 22 | 8 | 8 | 2 | 3 | 42 | 4 | 33{sup:k}) | 16 | 22 | 1 | 4 | 4 | 10 | 20
+@t 3 | 23 | 8 | 7 | 2 | 2 | 46 | 4 | 31 | 18{sup:p}) | 21 | 51 | 5 | 4 | 8 | 30
+@t 3 | 24 | 8 | 6 | 2 | 1 | 48 | 4 | 29 | 3 | 21 | 40 | 41 | 4 | 6 | 39
+@t 3 | 25 | 8 | 5 | 2 | 0 | 47 | 4 | 26 | 48 | 21 | 29 | 52 | 4 | 4 | 42
+@t 3 | 26 | 8 | 4{sup:b}) | 1{sup:c}) | 59 | 44 | 4 | 24 | 29 | 21 | 18 | 39{sup:q}) | 4 | 2 | 40
+@t 3 | 27 | 8 | 3 | 1 | 58 | 39 | 4 | 22 | 5 | 21 | 7 | 2 | 4 | 0 | 34
+@t 3 | 28 | 8 | 2 | 1 | 57 | 30 | 4 | 19 | 36 | 20 | 55 | 0 | 3{sup:r}) | 58 | 25
+@t 3 | 29 | 8 | 1 | 1 | 56 | 21 | 4 | 17{sup:l}) | 2 | 20 | 42 | 39 | 3 | 56{sup:s}) | 10
+@t 4{sup:a}) | 0 | 8 | 0 | 1 | 55 | 10 | 4 | 14 | 23 | 20 | 29 | 50 | 3{sup:r}) | 53 | 51
+@n {sup:1}) minuenda] O, diminuta C — {sup:2}) augenda] O, aucta C — {sup:3}) velox] CO ; zare O {i:suprascr.;} C {i:in}
+@n {i:marg.:} { {sk:piger motus|batiae asceir} {sk:celer motus|care asceir} } — {sup:4}) recedentis] CO ; habita (?) O {i:suprascr.}
+@n {sup:a}) 4] ON, 3 C — {sup:b}) 4] C, 3 O — {sup:c}) 1] ON, 2 C — {sup:d}) 41] O, 39 C — {sup:e}) 58] O, 57 C — {sup:f}) 37] O,
+@n 57 C — {sup:g}) . . . . {sup:g}) 54 . . . . 51] 55 CO — {sup:h}) 50] C, 1 O — {sup:i}) 49] C, 48 O — {sup:k}) 33] C, 13 O — {sup:l}) 17] {i:correxi,}
+@n 16 COBj. — {sup:m}) 52] ON, 3 C — {sup:n}) 17] C, 18 O — {sup:o}) 40] O, 8 C — {sup:p}) 18] C, 12 O — {sup:q}) 39] C, 41 O
+@n — {sup:r-r}) 3 . . . . 3] C, 4 O — {sup:s}) 56] O, 57 C.
+@obs The page number «135» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 24», in bold sans serif, underlined. The titles (L01, L02), in bold, the sigla in roman, as on p. 133 (JP2 0165); the folios of the manuscripts, «C 54v, O 112r,» over «N 22r.», stand at the right of the titles, the letters raised; here as margin notes. The page has no signature.
+@obs The table: rules and heads as on pp. 132-134 (JP2 0164-0166), with «Motus velox» for «Motus piger» and «recedentis» for «accedentis»: the equations decrease and the declination and latitude recede from their greatest values after 90°. «Semitae numeri (O) Sulcj numerorum (C)» over the four columns of the arguments, divided below a rule into «Computatio minuenda1) et augmentum examinis et numeri» and «Computatio augenda2) et diminutio examinis et numeri» in five lines of smaller type. Here each head is set from the top, one printed line to a line (L03-L09), the cells separated by our «|»; a head followed by empty cells spans their columns.
+@obs L11-L40. Checked: the values for 90° + x are those for 90° − x of Tab. 23 (p. 134, JP2 0166) in reverse order, the four functions being symmetric about 90°, and the last row, 4s 0°, repeats 2s 0° of Tab. 22 (p. 133, JP2 0165). The two tables agree except in fourteen places. Where they differ, the computation (as on p. 132, JP2 0164) is nearer to Tab. 23 at 94°, 95° and 97° for the sun (here 2° 13′ 41″, 2° 13′ 34″ and 2° 12′ 58″, 2″, 6″ and 2″ more than computed), at 113° for the moon, at 97° and 113° for the latitude, and at 109° and 110° for the declination (here 22° 28′ 19″ and 22° 19′ 18″, 19″ and 34″ less than computed); it is nearer to Tab. 24 at 96° for the sun, at 95° and 106° for the moon and at 111° for the latitude. At 98° (moon) and 111° (sun) the two values differ by 1″ and are equally near. At 95° the moon has 4° 54′ 52″ (4° 54′ 48″ computed, 4° 55′ 12″ in Tab. 23), with the editor's minutes against the 55 of C and O (note g); at 113° the edition prints C's 4° 31′ 18″, where O's 12 (note p) agrees with the computation and with Tab. 23.
+@obs L26 and L31, the moon at 106° and the latitude at 111°: 4° 43′ 52″ and 4° 12′ 4″, the computed values. They show the errors of the corresponding cells of Tab. 23: at 74° the seconds of the moon (C and O 4° 43′ 12″, the edition 4° 44′ 12″) and at 69° the latitude (4° 12′ 20″). The other deviations from the computation are those of Tab. 23 at the same arguments (sun 100°, moon 99°-101°, declination 104°).
+@obs N01-N02: Ms. C's marginal note, two pairs of words in two lines between a tall left and a tall right brace, «piger motus» over «batiae asceir» and «celer motus» over «care asceir»; here the braces as { and }, each pair written {sk:TOP|BOTTOM}. «zare O suprascr.» and «habita (?) O suprascr.»: words written above the heads in O. The semicolons after «CO» stand after the thin space of the edition. N03-N04: «g) . . . . g) 54 . . . . 51] 55 CO», the note on the minutes of the moon from 95° to 99°; N04: «l) 17] correxi, 16 COBj.», the editor's correction against C, O and Björnbo's copy. N06: «r-r)», the degrees of the latitude at 118° and 120°. The ellipses «. . . .» as printed. Italics: «suprascr.», «in marg.:», «correxi,».
+@critical AK07-CN110 | wrong sort | L04 | Sulcj numerorum (C) | Sulci numerorum (C) | the head of C, «Sulci numerorum (C)» on p. 134 (JP2 0166) and «Sulci C» in the apparatus of p. 133 (JP2 0165); a j with its descender is printed for the final i | high | none

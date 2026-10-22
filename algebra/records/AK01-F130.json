@@ -1,0 +1,21 @@
+{
+ "anchor": "AK01-F130",
+ "frame": 130,
+ "frame_file": "page_130.jpg",
+ "frame_sha256": "c5571e381a3e087a422f1afdf705f8ebe5bcc5d20281d28360c68ec50ab0b82b",
+ "printed_page": "-",
+ "kind": "provenance",
+ "role": "COPY_PROVENANCE",
+ "comment": "Frame 130: the outside of the back board of the binding.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [],
+ "copy_matter": [
+  "The label «COLUMBIA LIBRARIES OFFSITE» with the barcode «CU58976965», the call number «893.7195 K51» and the title «Kitab al-jabr wa-al-»; the call number written on the spine; the cloth spine and the grey board of the library's binding; not part of the edition."
+ ],
+ "critical_notes": []
+}

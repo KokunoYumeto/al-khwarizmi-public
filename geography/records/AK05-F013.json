@@ -1,0 +1,385 @@
+{
+ "anchor": "AK05-F013",
+ "frame": 13,
+ "frame_file": "page_013.jpg",
+ "frame_sha256": "533e9ee120b925c05990f91d2996e818a902cde42e6867a31b1fa537e761c8af",
+ "printed_page": "٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 013, printed p. 7: the cities of the first clime continued, entries 53-68: places of Sarandīb and of India, the island of al-Mīdh's neighbours, Sūsa of China, and ʿAlṣī on the island of al-Jawhar. Four lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F013-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٥٣) | [٣١] | ڡل⟨م⟩ادى{n:a} من سرنديب | ڡك | م | ٮا | مه",
+   "margin": null,
+   "cells": [
+    "(٥٣)",
+    "[٣١]",
+    "ڡل⟨م⟩ادى{n:a} من سرنديب",
+    "ڡك",
+    "م",
+    "ٮا",
+    "مه"
+   ],
+   "plain": "(٥٣) | [٣١] | ڡل⟨م⟩ادى من سرنديب | ڡك | م | ٮا | مه",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F013-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٥٤) | [٣٢ ٥٧] | ٮسر{n:b} على البحر | ڡكا | ٮه | ٮو | {z}",
+   "margin": null,
+   "cells": [
+    "(٥٤)",
+    "[٣٢ ٥٧]",
+    "ٮسر{n:b} على البحر",
+    "ڡكا",
+    "ٮه",
+    "ٮو",
+    "{z}"
+   ],
+   "plain": "(٥٤) | [٣٢ ٥٧] | ٮسر على البحر | ڡكا | ٮه | ٮو | ō",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F013-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٥٥) | [٣٣] | ماحوٮوں{n:c} من سرنديب | ڡكا | ٮه | ٮو | {z}",
+   "margin": null,
+   "cells": [
+    "(٥٥)",
+    "[٣٣]",
+    "ماحوٮوں{n:c} من سرنديب",
+    "ڡكا",
+    "ٮه",
+    "ٮو",
+    "{z}"
+   ],
+   "plain": "(٥٥) | [٣٣] | ماحوٮوں من سرنديب | ڡكا | ٮه | ٮو | ō",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F013-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٥٦) | | ماحوٮوں من سرنديب | ڡكا | نه | ز | {z}",
+   "margin": null,
+   "cells": [
+    "(٥٦)",
+    "",
+    "ماحوٮوں من سرنديب",
+    "ڡكا",
+    "نه",
+    "ز",
+    "{z}"
+   ],
+   "plain": "(٥٦) | | ماحوٮوں من سرنديب | ڡكا | نه | ز | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F013-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٥٧) | [٣٤] | حاٮرى{n:d} من الهند | ڡكه | {z} | يو | ٮه",
+   "margin": null,
+   "cells": [
+    "(٥٧)",
+    "[٣٤]",
+    "حاٮرى{n:d} من الهند",
+    "ڡكه",
+    "{z}",
+    "يو",
+    "ٮه"
+   ],
+   "plain": "(٥٧) | [٣٤] | حاٮرى من الهند | ڡكه | ō | يو | ٮه",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F013-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٥٨) | | ماعرا من سرنديب | قكا | ٮه | ير | مه",
+   "margin": null,
+   "cells": [
+    "(٥٨)",
+    "",
+    "ماعرا من سرنديب",
+    "قكا",
+    "ٮه",
+    "ير",
+    "مه"
+   ],
+   "plain": "(٥٨) | | ماعرا من سرنديب | قكا | ٮه | ير | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F013-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٥٩) | [٣٥] | ڡرسقورى{n:e} من سرنديب على البحر | ڡكه | ٮه | ه | يه",
+   "margin": null,
+   "cells": [
+    "(٥٩)",
+    "[٣٥]",
+    "ڡرسقورى{n:e} من سرنديب على البحر",
+    "ڡكه",
+    "ٮه",
+    "ه",
+    "يه"
+   ],
+   "plain": "(٥٩) | [٣٥] | ڡرسقورى من سرنديب على البحر | ڡكه | ٮه | ه | يه",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F013-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٦٠) | [٣٦] | قنيدورا من الهند | ڡكح | مه | ٮح | {z}",
+   "margin": null,
+   "cells": [
+    "(٦٠)",
+    "[٣٦]",
+    "قنيدورا من الهند",
+    "ڡكح",
+    "مه",
+    "ٮح",
+    "{z}"
+   ],
+   "plain": "(٦٠) | [٣٦] | قنيدورا من الهند | ڡكح | مه | ٮح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F013-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٦١) | [٣٧] | ٮاٮٮوقا من الهند | قل | {z} | ٮٮ | {z}",
+   "margin": null,
+   "cells": [
+    "(٦١)",
+    "[٣٧]",
+    "ٮاٮٮوقا من الهند",
+    "قل",
+    "{z}",
+    "ٮٮ",
+    "{z}"
+   ],
+   "plain": "(٦١) | [٣٧] | ٮاٮٮوقا من الهند | قل | ō | ٮٮ | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F013-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٦٢) | [٣٨] | طرٮعلوفن | ڡمد | ٮه | ٮو | يه",
+   "margin": null,
+   "cells": [
+    "(٦٢)",
+    "[٣٨]",
+    "طرٮعلوفن",
+    "ڡمد",
+    "ٮه",
+    "ٮو",
+    "يه"
+   ],
+   "plain": "(٦٢) | [٣٨] | طرٮعلوفن | ڡمد | ٮه | ٮو | يه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F013-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٦٣) | [٣٩] | مدينة مرواسا | ڡمو | ل | يب | ٮه",
+   "margin": null,
+   "cells": [
+    "(٦٣)",
+    "[٣٩]",
+    "مدينة مرواسا",
+    "ڡمو",
+    "ل",
+    "يب",
+    "ٮه"
+   ],
+   "plain": "(٦٣) | [٣٩] | مدينة مرواسا | ڡمو | ل | يب | ٮه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F013-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٦٤) | [٤٠] | ساسا فى جزيرة على البحر | ڡمو | {z} | ج | ٮه",
+   "margin": null,
+   "cells": [
+    "(٦٤)",
+    "[٤٠]",
+    "ساسا فى جزيرة على البحر",
+    "ڡمو",
+    "{z}",
+    "ج",
+    "ٮه"
+   ],
+   "plain": "(٦٤) | [٤٠] | ساسا فى جزيرة على البحر | ڡمو | ō | ج | ٮه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F013-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٦٥) | [٤١] | سمردى{n:f} على البحر | ڡمح | ٮه | ا | ل",
+   "margin": null,
+   "cells": [
+    "(٦٥)",
+    "[٤١]",
+    "سمردى{n:f} على البحر",
+    "ڡمح",
+    "ٮه",
+    "ا",
+    "ل"
+   ],
+   "plain": "(٦٥) | [٤١] | سمردى على البحر | ڡمح | ٮه | ا | ل",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F013-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٦٦) | [٤٢] | قرداثر{n:g} على البحر | قنٮ | م | يٮ | م",
+   "margin": null,
+   "cells": [
+    "(٦٦)",
+    "[٤٢]",
+    "قرداثر{n:g} على البحر",
+    "قنٮ",
+    "م",
+    "يٮ",
+    "م"
+   ],
+   "plain": "(٦٦) | [٤٢] | قرداثر على البحر | قنٮ | م | يٮ | م",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F013-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٦٧) | [٤٣] | سوسه من بلاد الصين | ڡسح | مه | ب | مه",
+   "margin": null,
+   "cells": [
+    "(٦٧)",
+    "[٤٣]",
+    "سوسه من بلاد الصين",
+    "ڡسح",
+    "مه",
+    "ب",
+    "مه"
+   ],
+   "plain": "(٦٧) | [٤٣] | سوسه من بلاد الصين | ڡسح | مه | ب | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F013-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٦٨) | [٤٤] | علصى من جزيرة الجوهر | ڡعه | {z} | {z} | ك",
+   "margin": null,
+   "cells": [
+    "(٦٨)",
+    "[٤٤]",
+    "علصى من جزيرة الجوهر",
+    "ڡعه",
+    "{z}",
+    "{z}",
+    "ك"
+   ],
+   "plain": "(٦٨) | [٤٤] | علصى من جزيرة الجوهر | ڡعه | ō | ō | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: the letter م fills a gap of the manuscript; at entry (1707) the name is written قلمادى, with the variant reading قلادى; the editor's corrigenda (p. 163, frame 169) add that at entry (1503) it is written ڡلمادى, with the variant reading ڡاڡادى.",
+  "L02: at entry (1183) the name ٮسر is written نبيرا.",
+  "L03: entry 55 is the same as entry 56; at entry (1705) the name is written ماحرولون.",
+  "L05: at entry (1769) the name حاٮرى is written حاٮرن.",
+  "L07: at entry (1500) the name ڡرسقورى is written ڡرسعورى.",
+  "L13: at entry (1164) the name سمردى is written سمردن.",
+  "L14: at entries (1161) and (1847) the name قرداثر is written فرداثرا; the third digit of 1161 is printed broken."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 012 without a heading: the cities of the first clime, entries 53-68. Entries 56 and 58 have no numbers of Suhrāb; at entry 54 the square brackets hold two numbers, «٣٢» above «٥٧», transcribed «[٣٢ ٥٧]».",
+  "L01: «ڡل⟨م⟩ادى», as printed: the letter between the angle brackets is a medial م with its joining stroke, which the editor supplies where the manuscript has a gap (note a); the first letter, the loop of ف or ق, is printed without dots.",
+  "Letters printed without their dots, transcribed so: in the names ڡرسقورى (L07; a loop raised above the line and joined by a stroke on the line to the ر, the loop of ف or ق; an isolated و stands on the line and goes straight into its tail), ڡل⟨م⟩ادى (L01), ٮسر (L02; an initial tooth before the س), ماحوٮوں (L03, L04; the tooth before the second و, and the final ں, a bowl without its dot), حاٮرى (L05, the tooth before the ر), ٮاٮٮوقا (L09; three teeth: one before the first alif and two before the و) and طرٮعلوفن (L10, the tooth before the ع); in the numerals the loop of ف or ق without dots, ڡك (L01), ڡكا (L02-L04), ڡكه (L05, L07), ڡكح (L08), ڡمد (L10), ڡمو (L11, L12), ڡمح (L13), ڡسح (L15) and ڡعه (L16), and the tooth or the final ب without its dot, ٮا (L01), ٮو (L02, L03, L10), ٮح (L08), ٮه (L02, L03, L06, L07, L10, L13, the minutes of the longitude; L05, L11, L12, the minutes of the latitude; a tooth joined to a final ه, the form that L04 prints with the dot of the ن, نه), ٮٮ (L09; a tooth joined to a final ب, with two risers at the right end of the bowl, as يٮ in L14) and the final letters of يٮ and قنٮ (L14). With their dots: قكا (L06) and قل (L09), the ق with its two dots; قنٮ (L14), the ق with two dots and the ن with one; ز (L04), يو (L05), ير (L06), يه (L07, L10), يب (L11), ج (L12) and ب (L15). The isolated ه, 5 (L07, the degrees of the latitude), is a small round ring.",
+  "L01: a small dark speck, 5 px wide and 4 px high, stands below and 8 px to the left of the tooth of the latitude ٮا, where the dots of the font are 8 to 10 px across and stand under the tooth; it is not transcribed as a dot.",
+  "L15: the dot of the latitude ب is printed faintly, in grey, below the middle of the letter; transcribed ب.",
+  "L14: the three dots of the ث of قرداثر are printed as one mark; the final letter of the longitude قنٮ is a flat bowl without a dot below.",
+  "L16: the latitude of entry 68 is printed with the zero sign in the degrees and ك in the minutes, 0° 20'.",
+  "The page number «— ٧ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

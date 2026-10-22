@@ -1,0 +1,294 @@
+{
+ "anchor": "AK05-F097",
+ "frame": 97,
+ "frame_file": "page_097.jpg",
+ "frame_sha256": "e1ab2e51521b44cbb74fa4572492d7a599b9fd6253d14043baddee6a008a1a2b",
+ "printed_page": "٩١",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 097, printed p. 91: the islands in the sea of Tangier continued: the coast of the island ڡلڡوسس, back to its first point; eight single islands, one of them partly lost in the damaged manuscript; the islands قرينوس, شامس and قوقارا; and an island with a town, whose coast begins to be followed. The editor's running numbers (١٣٩٣)-(١٤٠٨) and the numbers of Suhrāb [٩٣٦]-[٩٤٣]; the folio of the manuscript, «(fol. 25ᵃ)», within the line. Four lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F097-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "اوّلها عند طول {ov:لح مه}{n:a} والعرض {ov:له ل} (١٣٩٣) [٩٣٦] تمرّ الى{n:b} طول {ov:لر {z}} والعرض {ov:له ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "اوّلها عند طول لح مه والعرض له ل (١٣٩٣) [٩٣٦] تمرّ الى طول لر ō والعرض له ل",
+   "note_marks": [
+    "a",
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F097-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "(١٣٩٤) [٩٣٧] تمرّ الى طول {ov:لو {z}} والعرض {ov:لز م} (١٣٩٥) [٩٣٨] تمرّ الى طول {ov:لح مه}",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٣٩٤) [٩٣٧] تمرّ الى طول لو ō والعرض لز م (١٣٩٥) [٩٣٨] تمرّ الى طول لح مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F097-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "والعرض {ov:لر م}{n:c} (١٣٩٦) [٩٣٩] ثمّ تمرّ الى الموضع الّذى منه ابتدأنا عند طول {ov:لح مه}{n:d}",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض لر م (١٣٩٦) [٩٣٩] ثمّ تمرّ الى الموضع الّذى منه ابتدأنا عند طول لح مه",
+   "note_marks": [
+    "c",
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F097-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "والعرض {ov:له ل}{n:e} * جزيرة مقدار ثلثى جزء وسطها عند طول {ov:لو مه}{n:f} والعرض {ov:لح {z}}{n:g}",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض له ل * جزيرة مقدار ثلثى جزء وسطها عند طول لو مه والعرض لح ō",
+   "note_marks": [
+    "e",
+    "f",
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F097-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "(١٣٩٧) * جزيرة مقدار جزء وربع وسطها عند طول {ov:لط {z}}{n:h} والعرض {ov:م {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٣٩٧) * جزيرة مقدار جزء وربع وسطها عند طول لط ō والعرض م ō",
+   "note_marks": [
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F097-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "(١٣٩٨) * جزيرة مقدار جزء وربع وسطها عند طول {ov:م م}{n:i} والعرض {ov:لط ن} (١٣٩٩) *",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٣٩٨) * جزيرة مقدار جزء وربع وسطها عند طول م م والعرض لط ن (١٣٩٩) *",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F097-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "جزيرة مقدار نصف جزء وسطها عند طول {ov:لط {z}} والعرض {ov:لو {z}}{n:k} (١٤٠٠) * جزيرة",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة مقدار نصف جزء وسطها عند طول لط ō والعرض لو ō (١٤٠٠) * جزيرة",
+   "note_marks": [
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F097-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "مقدار ربع جزء وسطها عند طول {ov:لح {z}} والعرض {ov:لد ك} (١٤٠١) * جزيرة مقدار",
+   "margin": null,
+   "cells": null,
+   "plain": "مقدار ربع جزء وسطها عند طول لح ō والعرض لد ك (١٤٠١) * جزيرة مقدار",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F097-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "ربع جزء وسطها عند طول {ov:لح ن} والعرض {ov:لد ك} (١٤٠٢) * جزيرة مقدار",
+   "margin": "(fol. 25ᵃ)",
+   "cells": null,
+   "plain": "ربع جزء وسطها عند طول لح ن والعرض لد ك (١٤٠٢) * جزيرة مقدار",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F097-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "ثلثى جزء وسطها عند طول {ov:م ى} والعرض {ov:لد ك}{n:l} (١٤٠٣) * جزيرة مق⟨دار ربع",
+   "margin": null,
+   "cells": null,
+   "plain": "ثلثى جزء وسطها عند طول م ى والعرض لد ك (١٤٠٣) * جزيرة مق⟨دار ربع",
+   "note_marks": [
+    "l"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F097-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "جزء و⟩{n:m}سطها عند طول {ov:ما ل} والغرض {ov:له ل} (١٤٠٤) * جزيرة قرينوس مقدار جزءين",
+   "margin": null,
+   "cells": null,
+   "plain": "جزء و⟩سطها عند طول ما ل والغرض له ل (١٤٠٤) * جزيرة قرينوس مقدار جزءين",
+   "note_marks": [
+    "m"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F097-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "فى جزء وسطها عند طول {ov:مب ك}{n:n} والعرض {ov:لو ك}{n:o} (١٤٠٥) [٩٤٠] * جزيرة شامس",
+   "margin": null,
+   "cells": null,
+   "plain": "فى جزء وسطها عند طول مب ك والعرض لو ك (١٤٠٥) [٩٤٠] * جزيرة شامس",
+   "note_marks": [
+    "n",
+    "o"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F097-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "مقدار جزءين فى جزء وسطها عند طول {ov:مب {z}} والعرض {ov:لح ى} (١٤٠٦) [٩٤١] *",
+   "margin": null,
+   "cells": null,
+   "plain": "مقدار جزءين فى جزء وسطها عند طول مب ō والعرض لح ى (١٤٠٦) [٩٤١] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F097-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "جزيرة قوقارا{n:p} مقدار جزءين فى جزء وسطها عند طول {ov:مد ك} والعرض {ov:لد ك} (١٤٠٧)",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة قوقارا مقدار جزءين فى جزء وسطها عند طول مد ك والعرض لد ك (١٤٠٧)",
+   "note_marks": [
+    "p"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F097-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "[٩٤٢] * جزيرة فيها مدينة اوّلها عند طول {ov:مه ں}{n:q} والعرض {ov:لد {z}}{n:r} (١٤٠٨) [٩٤٣]",
+   "margin": null,
+   "cells": null,
+   "plain": "[٩٤٢] * جزيرة فيها مدينة اوّلها عند طول مه ں والعرض لد ō (١٤٠٨) [٩٤٣]",
+   "note_marks": [
+    "q",
+    "r"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: a variant reading of the first longitude is لح ه, with a line over the numerals (note a).",
+  "L01: the manuscript has على for الى (note b).",
+  "L03: a variant reading of the latitude is لو ل, with a line over the numerals (note c).",
+  "L03: a variant reading of the longitude is لح ه, with a line over the numerals (note d).",
+  "L04: the point is the same as point 1393 (note e).",
+  "L04: a variant reading of the longitude is لط ه, with a line over the numerals (note f).",
+  "L04: a variant reading of the latitude is م {z}, with a line over the numerals (note g).",
+  "L05: a variant reading of the longitude is لط ه, with a line over the numerals (note h).",
+  "L06: a variant reading of the longitude is م {z}, with a line over the numerals (note i).",
+  "L07: a variant reading of the latitude is لو د, with a line over the numerals (note k).",
+  "L10: a variant reading of the latitude is لز ك, with the dot of the ز and a line over the numerals (note l).",
+  "L10-L11: the manuscript is badly damaged at the words between the brackets (note m).",
+  "L12: the editor suggests that the longitude may be read مب ل, with a line over the numerals (note n).",
+  "L12: a variant reading of the latitude is لو ط, with a line over the numerals (note o).",
+  "L14: a variant reading of the name is نوقارا, a tooth with a dot above joined to a و; the two letters may also be read as one ز with a tall head, زقارا (note p).",
+  "L15: a variant reading of the longitude is مد ں, with a line over the numerals and the ن without its dot (note q).",
+  "L15: the manuscript has لد ه for the latitude, with a line over the numerals (note r)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The description of the island ڡلڡوسس goes on from p. 90 (frame 096), whose last words, «جزيرة ڡلڡوسس فيها مدينة», L01 continues with «اوّلها عند طول لح مه والعرض له ل (١٣٩٣)», the first point of its coast, at the longitude لح مه and the latitude 35° 30′; then «تمرّ الى طول … والعرض …», points 1394-1396, with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}; L03-L04: «ثمّ تمرّ الى الموضع الّذى منه ابتدأنا عند طول لح مه والعرض له ل», then it passes to the place from which we began, at the longitude لح مه and the latitude 35° 30′, without «وهو» before «عند» and without a running number; the editor's note e identifies it with point 1393.",
+  "L04-L14: single islands, each with its size and the longitude and latitude of its middle, «وسطها عند طول … والعرض …», running numbers (١٣٩٧)-(١٤٠٧): of two thirds of a degree, «ثلثى جزء» (L04, L10); of one and a quarter degrees, «جزء وربع» (L05, L06); of half a degree, «نصف جزء» (L07); of a quarter of a degree, «ربع جزء» (L08, L09, and L10-L11, where the words stand between the brackets); and of two degrees by one degree, «جزءين فى جزء» (L11-L14), the islands «قرينوس» (L11), «شامس» (L12) and «قوقارا» (L14). L15: «جزيرة فيها مدينة اوّلها عند طول مه ں والعرض لد {z}», an island without a name, on which is a town; the first point of its coast is at the longitude مه ں and the latitude 34° 0′, and the coast goes on to p. 92. Each island ends with a small open star with six points, transcribed as an asterisk.",
+  "The running numbers run (١٣٩٣)-(١٤٠٨) without a gap; the numbers of Suhrāb, [٩٣٦]-[٩٤٣], stand after (١٣٩٣)-(١٣٩٦) and (١٤٠٥)-(١٤٠٨), without a gap; islands 1397-1404 have none. L09: the folio of the Strasbourg manuscript, «(fol. 25ᵃ)», is printed in Latin type within the line, between «والعرض» and the numerals «لد ك»; transcribed as a margin note before the line.",
+  "L10-L11: «مق⟨دار ربع جزء و⟩سطها»: the angle brackets open after «مق» at the end of L10 and close after the و of «وسطها» in L11, followed by the note mark m: the manuscript is badly damaged there, and the editor supplies the words between the brackets (note m). Transcribed with the brackets.",
+  "L11: the word before the latitude of island 1404 is printed «والغرض»: a mark of 10 by 7 px, the size of a dot of the font (the dot of the ض of the same word is 9 by 10 px), stands over the ع; see the critical note.",
+  "Signs in the text, transcribed as printed: «اوّلها» (L01, L15) with a shadda over the و; «تمرّ» (L01-L03) and «ثمّ» (L03) with a shadda; «الّذى» (L03) with a shadda over the ل; «ابتدأنا» (L03) with a hamza over the alif; «جزء» with a hamza on the line after the ز; «جزءين» (L11, L13, L14) with a hamza between the ز and the ي; «ثلثى», «فى» and «الّذى» end in a ى without dots. The names «قرينوس» (L11), «شامس» (L12) and «قوقارا» (L14) are printed with all their dots.",
+  "Numerals: «لز» (L02, the degrees of the latitude), with the dot of the ز, 37; «مب» (L12, L13, the degrees of the longitude), with the dot of the ب below, 42; «ن» (L06, the minutes of the latitude; L09, the minutes of the longitude), with the dot of the ن, 50. L15, the minutes of the longitude: «ں», the bowl of a final ن without its dot, 50. In «لو» (L02, L04, L07, L12) the و has its closed loop.",
+  "The ح of the numerals, «لح» (L01, L02, L03, L04, L08, L09, L13), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. The isolated ى, 10, has no dots (L10, L13). The isolated ك, 20, is printed with the small inner stroke of the letter (L08, L09, L10, L12, L14).",
+  "Note marks: L01, a after the first longitude and b after «الى»; L03, c after the latitude and d after the longitude; L04, e after the first latitude, f after the longitude and g after the second latitude; L05, h after the longitude; L06, i after the longitude; L07, k after the latitude; L10, l after the latitude; L11, m after the closing angle bracket; L12, n after the longitude and o after the latitude; L14, p after «قوقارا»; L15, q after the longitude and r after the latitude.",
+  "Marks not transcribed: L07, the right-hand parenthesis of (١٤٠٠) is printed broken in two, its middle not printed. The page is speckled throughout with small grey points of the paper.",
+  "L01, the degrees of the second longitude, and L03, the degrees of the latitude: «لر»: the letter joined to the foot of the ل has the small pointed head of the joined ر, which stands out 7 to 8 px from the stem, as the ز of «لز م» (L02) with its dot, where the و of «لو» (L02, L04, L07, L12) is a round loop that stands out 12 to 13 px and begins higher on the stem; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed, which read with ز gives 37.",
+  "The editor's footnotes stand in four lines below a short rule at the left: notes a-r. The page number «— ٩١ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK05-CN007",
+   "class": "stray dot",
+   "line": "L11",
+   "printed": "والغرض",
+   "proposed": "والعرض",
+   "evidence": "the word before the latitude of island 1404 has a dot over the ع, which makes it غ; «والغرض», and the purpose, gives no sense before the numerals, where every other island of the page and of the section has «والعرض», and the latitude; the dot is of the size of the dots of the font, 10 by 7 px, and stands where the dot of a غ would stand",
+   "confidence": "high",
+   "impact": "none: the numerals give the latitude of island 1404 either way"
+  }
+ ]
+}

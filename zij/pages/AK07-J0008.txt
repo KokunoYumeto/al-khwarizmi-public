@@ -1,0 +1,26 @@
+@page 8 [IV]
+@kind contents
+@lang de
+% JP2 0008: the contents, second page (p. [IV]): the chapters of the commentary 23-37 and two sections after them.
+@r Pag, Tab.
+@toc 23. Über die Auffindung des Sinus aus dem Bogen und umgekehrt | 68 | 58—58{sup:a}
+@toc 24. Über die Auffindung der Breite eines beliebigen Ortes | 71 |
+@toc 25. Die Aufgänge der Tierkreiszeichen in der geraden Sphäre | 72 | 59—59{sup:b}
+26. u. 26{sup:a}. Mit wie viel Graden (des Aequators) an einem beliebigen Orte jedes Tierkreis-
+@toc zeichen aufsteigt | 73 | 59—59{sup:b}
+@toc 27. Bestimmung der Grösse der Zeitstunde eines beliebigen Tages für einen beliebigen Ort | 76 |
+@toc 28.—28{sup:b}. Wie man aus der Höhe der Sonne die beiden Schatten bestimmt u. umgekehrt | 76 | 60
+@toc 29. Über elbuht und seine Auffindung | 78 | 61—66
+@toc 30. u. 30{sup:a}. Über die scheinbaren Sonnen- und Monddurchmesser | 78 | 61—66
+@toc Die Tafeln der Tagesgleichung (Zeitgleichung) | 80 | 67—68
+@toc 31. Über Konjunktion und Opposition von Sonne und Mond | 81 | 69—72
+@toc 33. Wie die Verfinsterung des Mondes bestimmt wird | 86 | 73—76
+@toc 34. Über die Parallaxen des Mondes in Länge und Breite | 91 | 77—77{sup:a}
+@toc 35. Über die Verfinsterung der Sonne | 94 | 78
+@toc 32. u. 36. Über die Verteilung der zwölf astrologischen Häuser | 96 | 79—90
+@toc 37. Über die Örter der Strahlenwerfung | 98 | 91—114
+@toc Über die Umwandlung der Geburtsjahre | 102 | 115
+@toc Über die Domicilia, Exaltationes, Decani, etc. der Planeten | 103 | 116
+@obs The second page of the contents, unnumbered (p. [IV]). L05 and L06 are one entry run over two lines; L07 and L08 (chapters 27 and 28) fill the line and have no dotted leader. Chapter 32 is listed with chapter 36 (L16), after chapter 35; there is no separate entry for it. A short rule closes the contents, centred below the last entry.
+@obs L01: the head of the first column is printed «Pag,» with a comma; see the critical note.
+@critical AK07-CN001 | wrong punctuation | L01 | Pag, | Pag. | the head of the column of pages, the abbreviation of Pagina, has a full stop on the first page of the contents («Pag.», JP2 0007, L02 and L13) and a comma here | high | none

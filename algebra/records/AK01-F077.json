@@ -1,0 +1,253 @@
+{
+ "anchor": "AK01-F077",
+ "frame": 77,
+ "frame_file": "page_077.jpg",
+ "frame_sha256": "8b2e6d5b6c22894ac0b8d47add49d802bce97b2a63a8ed50c38254d3ef73d723",
+ "printed_page": "٦١",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 077, printed p. 61: the kinds of triangles concluded (the obtuse: the squares of the two shorter sides together less than the square of the longest); the right triangle has two perpendiculars and a hypotenuse and is half a rectangle: one side about the right angle times half the other; a right triangle of sides six and eight and hypotenuse ten, six times four, twenty-four, with its figure. The acute triangle, an equilateral one of side ten: its area through its altitude and the foot of the altitude, which falls on the middle of the base when the two sides are equal; the altitude the root of a hundred less twenty-five, the root of seventy-five, times half the base, five, continued on the next page. No footnotes.",
+ "lines": [
+  {
+   "id": "AK01-F077-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "كل مثلثة اذا ضربت ضلعيها الأقصرين كل واحد منهما فى نفسه وجمعتهما كانا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "أقل من الضلع الأطول مضروبا فى نفسه . فأما القائمة الزوايا فهى التى لها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "عمودان وقطر وهى نصف مربعة فمعرفة تكسيرها أن تضرب أحد الضلعين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "المحيطين بالزاوية القائمة فى نصف الآخر فما بلغ ذلك فهو تكسيرها ومثال ذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "مثلثة قائمة الزاوية ضلع منها ستة أذرع وضلع منها ثمانية أذرع والقطر عشرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "فحساب ذلك أن تضرب ستة فى أربعة فيكون أربعةوعشرين ذراعا وهو تكسيرها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "وان أحببت أن تحسبها بالعمود فان عمودها لا يقع إلا على الضلع الأطول لأن",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "الضلعين القصيرين عمودان فان أردت ذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "فاضرب عمودها فى نصف القاعدة فما كان",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "فهو تكسيرها وهذه صورتها . وأما الجنس",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "الثانى فالمثلثة المتساوية الأضلاع حادة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "الزوايا من كل جانب عشرة أذرع فان",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "تكسيرها يعرف من قبل عمودها ومسقط حجرها واعلم أن كل ضلعين مستويين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "من مثلثةيخرج بينهما عمود على قاعدة فان مسقط حجر العمود يقع على زاوية قائمة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "ويقع على نصف القاعدةسواءاذا استوى الضلعان.فان اختلفا خالف مسقط الحجر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "عن نصف القاعدة ولكن قد علمنا أن مسقط حجر هذه المثلثة على أى أضلاعها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "جعلته لا يقع إلا على نصفه فذلك خمسة أذرع فمعرفة العمود أن تضرب الخمسة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "فى مثلها وتضرب أحد الضلعين فى مثله وهو عشرة فيكون مائة فتنقص",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "منها مبلغ الخمسة فى مثلها وهو خمسة وعشرون فيبقى خمسة وسبعون فخذ",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "جذر ذلك فهو العمود وقد صار ضلعا على مثلثتين قائمتين فان أردت",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F077-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "التكسير فاضرب جذر الخمسة والسبعين فى نصف القاعدة وهو خمسة وذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [
+  {
+   "id": "AK01-F077-FIG1",
+   "rect": [
+    1630,
+    1565,
+    2420,
+    2165
+   ],
+   "after": 12
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Layout: L01-L07 run across the page; L08-L12 stand in a narrower column at the left of the figure, which is reproduced after L12; L13-L21 run across the page.",
+  "The figure, drawn, not set in type: a right triangle with its right angle at the upper left; ٨ above the upper side, ٦ beside the left side, inside the triangle, and ١٠ on the hypotenuse, which runs from the lower left to the upper right corner.",
+  "Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): أربعةوعشرين (L06; 7 between the ة and the conjunction و); مثلثةيخرج (L14; 5 between the ة and the ي); القاعدةسواءاذا (L15; 8 between the ة and the س, 7 between the hamza on the line and the alif, where اذا stands 34 px from استوى).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: ذراعا وهو (L06; 24 between the alif and the conjunction و), تكسيرها ومثال (L04; 24) and عمودها ومسقط (L13; 28), where the alif stands 9 px from the conjunction و in درهماونصفاً on frame 061, L06.",
+  "L20: مثلثتين (L20), the dual of مثلثة, as مثلثتان on frame 076, L06: after the ل the ث with three dots and the ت with two, each on a tooth of its own, then the ي and the ن.",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: عمودان وقطر (L03), ذلك أن and فى أربعة (L06), على قاعدة and فان مسقط (L14), على نصف (L15).",
+  "The full stops: after نفسه, before فأما (L02; 26 and 26 px, nearest approach of the ink at 400 ppi), and after صورتها, before وأما (L10; 25 and 35), between spaces; in L15 the stop is set close on both sides, 8 px after الضلعان and 8 px before فان, and transcribed so, «الضلعان.فان». The machine reading sets spaces in أربعةوعشرين, مثلثةيخرج, القاعدةسواءاذا and الضلعان.فان.",
+  "Plain alif where a hamza might be expected, as printed: اذا (L01, L15), وان, فان (L07), فان (L08, L12, L14, L15, L20), واعلم (L13), استوى, اختلفا (L15); with hamza: الأقصرين (L01), أقل, الأطول, فأما (L02), أن, أحد (L03), أذرع (L05, twice), أن, أربعة, أربعةوعشرين (L06), أحببت, أن, الأطول, لأن (L07), أردت (L08), وأما (L10), الأضلاع (L11), أذرع (L12), أن (L13), أن, أى, أضلاعها (L16), أذرع, أن (L17), أحد (L18), أردت (L20); below the alif: إلا (L07, L17); with madda: الآخر (L04); on ي: القائمة (L02, L04), قائمة (L05, L14), مائة (L18), قائمتين (L20); the hamza on the line: القاعدةسواءاذا (L15).",
+  "No tanwīn is printed on this page: مضروبا (L02), ذراعا (L06), ضلعا (L20).",
+  "The final yā' is printed without dots: فى (L01, L02, L04, L06, L09, L18, L19, L21), فهى, التى (L02), وهى (L03), على (L07, L14, L15, L16, L17, L20), الثانى (L11), استوى (L15), أى (L16), فيبقى (L19).",
+  "The print stretches لها (L02), مربعة (L03, after the م), القصيرين (L08), صورتها (L10), الثانى and الأضلاع (L11), تكسيرها (L13), ولكن (L16), أحد (L18), منها and مثلها (L19) with the elongation stroke; the stroke is not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

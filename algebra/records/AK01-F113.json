@@ -1,0 +1,269 @@
+{
+ "anchor": "AK01-F113",
+ "frame": 113,
+ "frame_file": "page_113.jpg",
+ "frame_sha256": "9927379859034546a6e89c4f4c833820fbefe33b0222cbe766e45ba6204102a7",
+ "printed_page": "٩٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 113, printed p. 97: the problem of frame 112 worked (two slaves worth three hundred each, one dying with five hundred and a daughter): the master's heirs have four hundred less half a thing and the other slave's work-off, three hundred less a thing, twice the two bequests, four things: the thing a hundred and twenty-seven and three elevenths. Then, under «فان أعتق» in bold, a slave worth three hundred from whom the master had taken two hundred and spent it, dying before the master with three hundred and a daughter: his estate five hundred; the master's heirs have two hundred less half a thing, twice the bequest: the bequest eighty, the work-off two hundred and twenty; checked: the daughter a hundred and forty, the heirs a hundred and sixty. Then, under «فان أعتق» in bold, a slave worth three hundred from whom the master had taken, begun, continued on the next page. No footnote on this page.",
+ "lines": [
+  {
+   "id": "AK01-F113-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "ثلثمائة غير شىء وتجعل تركة الميت منهما خمسمائة درهم وسعايته ثلثمائة غير شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "فيبقى مما ترك مائتان وشىء فيرجع الى مولاه بالميراث مائة درهم ونصف شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "فيصير فى أيدى ورثة مولاه اربعمائة درهم غير نصف شىء ويأخذون من العبد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "الآخر سعايته ثلثمائةدرهم غيرشىء فيصير فى أيديهم سبعمائة درهم ونصف شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "فذلك مثلا وصيتهما التى هى الشيئان وذلك اربعة أشياء فأجبر ذلك بشىء ونصف",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "شىءفيصير سبعمائة درهم تعدل خمسة أشياء ونصف شىء فقابل به فالشىء الواحد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "مائة وسبعة وعشرين درهما وثلاثة أجزاء من أحد عشر من درهم . {b:فان أعتق}",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان أعتق"
+   ]
+  },
+  {
+   "id": "AK01-F113-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "عبداً له فى مرضه قيمته ثلثمائةدرهم وقدتعجل المولى منه مائتى درهم فاستهلكها ثم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "مات العبد قبل موت السيد وترك بنتاً وترك ثلثمائة درهم . فقياسه أن تجعل تركة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "العبد الثلثمائة والمائتين اللتين استهلكهما المولى فذلك خمسمائة درهم فتعزل منها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "السعاية وهى ثلثمائة غير شىء لأن وصيته شىء فيبقى مائتا درهم وشىءللابنة من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "ذلك النصف مائة درهم ونصف شىء ويرجع الى ورثة السيد النصف بالميراث",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "وهو مائة درهم ونصف شىء فى أيديهم من الثلثمائة الدرهم غير شىء مائة درهم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "غير شىء لأن المائتين مستهلكتان فيبقى فى أيديهم بعد المائتين المستهلكتين مائتا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "درهم غير نصف شىءوذلك يعدل وصية العبد مرتين فنصفها مائة غير ربع شىء تعدل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "وصية العبد وهى شىء فتجبر ذلك بربع شىء فيكون مائة درهم تعدل شيئاً وربع",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "شىء فالشىءمن ذلك أربعة أخماسه وهو ثمانون درهما وهى الوصية والسعايةمائتان",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "وعشرون درهما فتجمع تركة العبد وهى ثلثمائة ومائتان استهلكها المولى وذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "خمسمائة درهم فتعطى المولى السعاية وهى مائتان وعشرون درهما ويبقى مائتان",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "وثمانون للابنة النصف من ذلك مائة وأربعون درهما فتلقيه من تركة العبد وهى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "ثلثمائة فيبقى فى أيدى الورثة مائة وستون درهما وذلك مثلا وصية العبد التى هى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F113-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "شىء . {b:فان أعتق} عبدا له فى مرضه قيمته ثلثمائة درهم وقد تعجل المولى منه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان أعتق"
+   ]
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L01: «ثلثمائة غير شىء» (L01) goes on from the last words of frame 112, «أن تجعل وصية كل واحد منهما شيئاً وسعايته» (frame 112, L22): the work-off of each slave is three hundred less a thing.",
+  "L04: «فيصير فى أيديهم سبعمائة درهم ونصف شىء», as printed, seven hundred dirhams and half a thing, where the four hundred less half a thing of L03 and the three hundred less a thing of L04 make seven hundred less a thing and a half, which the next lines restore by a thing and a half (L05-L06). See the critical note AK01-CN035.",
+  "L07, L22: the words فان أعتق (L07, L22), the run-in headings of the next problems, are printed in a bold face, each after a full stop; عبداً (L08) and عبدا (L22), which follow, are in the face of the text. The bold ن is printed without its dot; transcribed ن.",
+  "L05: فأجبر (L05), as printed, with the hamza over the alif, where the text elsewhere prints فاجبر (frames 104, 106, 108, 109).",
+  "Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): ثلثمائةدرهم (L04; 8 between the ة and the د, and L08; 7, where ثلثمائة درهم in L09 has 21); غيرشىء (L04; the ر stands 32 px from the ش above the baseline and its tail 15 px from it, within the 8 to 19 px of the tail inside a word, where غير شىء in L01 has 40 and 21); شىءفيصير (L06; 8 between the hamza on the line and the ف); وقدتعجل (L08; 2 between the د and the ت, where وقد تعجل in L22 has 31); وشىءللابنة (L11; 11 between the hamza on the line and the ل); شىءوذلك (L15; 5 between the hamza on the line and the conjunction و); فالشىءمن (L17; 5 between the hamza on the line and the م); والسعايةمائتان (L17; 7 between the ة and the م); the hamza stands 2 to 11 px from the next letter without a space and 15 or more with one, the ة 1 to 14 and 16 or more.",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: غير شىء (L14; the ر stands 39 px from the ش above the baseline and its tail 19 px from it, at the upper end of the distances of the tail inside a word; in doubt, the space is written); العبد وهى (L18; 21 between the د and the conjunction و, where the د stands 6 to 7 px from a و inside a word).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: له فى, منه مائتى (L08), وذلك يعدل (L15).",
+  "The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after درهم, before the bold فان (L07; 29 and 25), after درهم, before فقياسه (L09; 29 and 22), and after شىء, before the bold فان (L22; 24 and 41).",
+  "Plain alif where a hamza might be expected, as printed: الى (L02, L12), اربعمائة (L03), اربعة (L05), فاستهلكها (L08), استهلكهما (L10), استهلكها (L18); with hamza: أيدى (L03, L21), ويأخذون (L03), أيديهم (L04, L13, L14), أشياء, فأجبر (L05), أشياء (L06), أجزاء, أحد, the bold أعتق (L07), أن (L09), لأن (L11, L14), أربعة, أخماسه (L17), وأربعون (L20), the bold أعتق (L22); with madda: الآخر (L04); on ي: ثلثمائة (L01, twice; L09, L11, L18, L21, L22), خمسمائة (L01, L10, L19), مائتان (L02, L18; L19, twice), مائة (L02, L07, L12, L16, L20, L21; L13, twice; L15), اربعمائة (L03), ثلثمائةدرهم (L04, L08), سبعمائة (L04, L06), الشيئان (L05), مائتى (L08), الثلثمائة, والمائتين (L10), مائتا (L11, L14), الثلثمائة (L13), المائتين (L14, twice), شيئاً (L16), والسعايةمائتان (L17); the hamza on the line: شىء (L01, twice; L02, L03, L05, L06, L11, L12, L13, L14, L15, L16, L17, L22; L16, twice), وشىء (L02), غيرشىء (L04), أشياء (L05, L06), بشىء (L05), شىءفيصير (L06), فالشىء (L06), أجزاء (L07), وشىءللابنة (L11), شىءوذلك (L15), فالشىءمن (L17).",
+  "With tanwīn on the final alif: عبداً (L08), بنتاً (L09), شيئاً (L16); without tanwīn as printed: درهما (L07, L17, L19, L20, L21; L18), عبدا (L22).",
+  "L05, L11, L14, L21: «مثلا وصيتهما» (L05), «مائتا درهم» (L11, L14) and «مثلا وصية» (L21), as printed: the dual without its ن before the noun that follows it, as on frames 094-112.",
+  "The final yā' is printed without dots: فيبقى, الى (L02), فى, أيدى (L03), فى (L04), التى, هى (L05), فى, مائتى (L08), وهى, فيبقى (L11), الى (L12), فى (L13), فيبقى, فى (L14), وهى (L16, L17, L18, L19, L20), المولى (L08, L10, L18, L19, L22), فتعطى, ويبقى (L19), فيبقى, فى, أيدى, التى, هى (L21), فى (L22).",
+  "The print stretches فاستهلكها (L08), استهلكهما (L10), مستهلكتان and المستهلكتين (L14) and استهلكها (L18), between the ل and the ك, and خمسمائة (L19, between the س and the م) with the elongation stroke; the stroke is not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK01-CN035",
+   "class": "omission in the statement",
+   "line": "L04",
+   "printed": "سبعمائة درهم ونصف شىء",
+   "proposed": "سبعمائة درهم غير شىء ونصف شىء",
+   "evidence": "The master's heirs have four hundred less half a thing (L03), three hundred less a thing of the dead slave's work-off and a hundred and half a thing returned by inheritance (L01-L03), and take the other slave's work-off, three hundred less a thing (L04): together seven hundred less a thing and a half. The print states seven hundred dirhams «and half a thing», without «غير شىء». The next lines restore the amount by a thing and a half, «فأجبر ذلك بشىء ونصف شىء», and find seven hundred equal to five things and a half (L05-L06), which is the equation of seven hundred less a thing and a half equal to four things; its result, a hundred and twenty-seven and three elevenths (L06-L07), is 700 ÷ 5½ (checked exactly).",
+   "confidence": "high that the sense requires غير شىء; whether the words were lost in the print or in the manuscript is not known",
+   "impact": "none on the result: the equation and the bequest of a hundred and twenty-seven and three elevenths are those of seven hundred less a thing and a half"
+  }
+ ]
+}

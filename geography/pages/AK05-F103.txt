@@ -1,0 +1,49 @@
+@page 103 ٩٧
+% Frame 103, printed p. 97: the islands in the Green Sea continued: the coast of the island of the scorpions, beyond the
+% equator, back to its first point; then the island سرنديب, whose coast is followed from the equator past the mouth of a
+% river and below the town of al-Qamar. The editor's running numbers (١٤٨٣)-(١٤٩٦) and the numbers of Suhrāb
+% [٩٨٤]-[٩٩٧]; the folio of the manuscript, «(fol. 27ᵃ)», at the beginning of a line; words supplied by the editor
+% between angle brackets. Five lines of the editor's footnotes and the signature of the printed sheet.
+على صورة الطيلسان تمرّ على ⟨طول⟩{n:a} {ov:قس ں} (١٤٨٣) [٩٨٤] وتصير الى طول {ov:قٮح {z}}
+والعرض {ov:ى {z}} خلف الاستواء (١٤٨٤) [٩٨٥] تمرّ الى طول {ov:قٮد م} والعرض {ov:ى ى}
+خلف الاستواء (١٤٨٥) [٩٨٦] وتمرّ الى طول {ov:قٮه ⟨{z}⟩}{n:a} والعرض {ov:يا {z}} خلف الاستواء
+(١٤٨٦) [٩٨٧] تمرّ الى طول {ov:قكا ك} والعرض {ov:ٮا {z}} ⟨خلف الاستواء⟩{n:a} (١٤٨٧) [٩٨٨]
+تمرّ الى طول {ov:قٮط ل}{n:b} والعرض {ov:ى ك} خلف الاستواء (١٤٨٨) [٩٨٩] تمرّ الى طول {ov:قٮط م}
+والعرض {ov:ح م} خلف الاستواء (١٤٨٩) [٩٩٠] تمرّ الى طول {ov:قكا {z}} والعرض {ov:ح ل}{n:c}
+خلف الاستواء (١٤٩٠) [٩٩١] تمرّ الى طول {ov:قٮط {z}} والعرض {ov:ز ں} خلف الاستواء
+(١٤٩١) [٩٩٢] تمرّ الى طول {ov:قٮه {z}} والعرض {ov:ط {z}}{n:d} خلف الاستواء (١٤٩٢) [٩٩٣]
+@m (fol. 27ᵃ)
+وتصير الى موضعه الّذى ابتدأ⟨نا⟩{n:e} منه وهو عند طول {ov:ڡٮح {z}}{n:f} والعرض
+{ov:ط {z}}{n:g} ⟨خلف الاستواء⟩{n:h}{n:i} *
+جزيرة سرنديب اوّلها عند طول {ov:قٮو ك} والعرض على خطّ الاستواء (١٤٩٣) [٩٩٤]
+وتصير الى مصبّ{n:k} ⟨نهر⟩{n:l} ارٮوس{n:m} وتصير الى طول {ov:ڡيح {z}} والعرض خلف خطّ الاستواء
+{ov:ح ك} (١٤٩٤) [٩٩٥] وتمرّ على صورة الطيلسان تمرّ بعرض {ov:ح ك} ⟨خلف خطّ الاستواء⟩{n:n}
+(١٤٩٥) [٩٩٦] وتصير الى اسفل مدينة اعنا مدينة القمر{n:o} عند طول {ov:قكا ل}{n:p} والعرض
+{ov:ح {z}} خلف الاستواء (١٤٩٦) [٩٩٧] تمرّ على صورة الطيلسان تمرّ بعرض {ov:ح ك} ⟨خلف
+@ednotes a b c d e f g h i k l m n o p 5
+@obs The coast of the island of the scorpions goes on from p. 96 (frame 102), whose last words, «(١٤٨٢) [٩٨٣] تمرّ», L01 continues with «على صورة الطيلسان تمرّ على ⟨طول⟩ قس ں (١٤٨٣)», along the shape of the ṭaylasān; it passes at the longitude قس ں (point 1483, given by its longitude only). Then «وتصير الى …» and «تمرّ الى طول … والعرض …», points 1484-1492, each with its latitude beyond the equator, «خلف الاستواء», with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}. L09-L10: «وتصير الى موضعه الّذى ابتدأ⟨نا⟩ منه وهو عند طول ڡمح {z} والعرض ط {z} ⟨خلف الاستواء⟩ *», and it comes to its place from which we began, which is at the longitude ڡٮح {z}, 118° 0′ read with ق and ي, and the latitude 9° 0′ beyond the equator, without a running number; the editor's note i identifies it with point 1482, whose longitude is printed «قٮح {z}», with the dots of the ق (frame 102, L17). Here «ابتدأ⟨نا⟩ منه» stands in this order, as on frame 101 (L02).
+@obs L11-L15: «جزيرة سرنديب اوّلها عند طول قٮو ك والعرض على خطّ الاستواء (١٤٩٣)», the island سرنديب, the first point of whose coast is at the longitude قٮو ك, 116° 20′ read with ي, and on the equator, the latitude given in words; then «وتصير الى مصبّ ⟨نهر⟩ ارٮوس» (L12), and it comes to the mouth of the river ارٮوس; «وتصير الى طول ڡيح {z} والعرض خلف خطّ الاستواء ح ك (١٤٩٤)» (L12-L13), with the words «خلف خطّ الاستواء» before the numerals; «وتمرّ على صورة الطيلسان تمرّ بعرض ح ك ⟨خلف خطّ الاستواء⟩ (١٤٩٥)» (L13-L14), along the shape of the ṭaylasān, at the latitude 8° 20′ beyond the equator (point 1495, given by its latitude only); «وتصير الى اسفل مدينة اعنا مدينة القمر عند طول قكا ل والعرض ح {z} خلف الاستواء (١٤٩٦)» (L14-L15), and it comes to below the town اعنا, the town of al-Qamar, at the longitude 121° 30′ and the latitude 8° 0′ beyond the equator; then «تمرّ على صورة الطيلسان تمرّ بعرض ح ك ⟨خلف», continued on p. 98. «سرنديب», «اعنا» and «القمر» are printed with all their dots.
+@obs Angle brackets, each followed by a note mark, around what the manuscript lacks and the editor supplies (notes a, e, h, l, n): «⟨طول⟩» (L01); the zero of the minutes of the longitude, «قٮه ⟨{z}⟩» (L03), the opening bracket under the line over the numerals and the closing one at its end; «⟨خلف الاستواء⟩» (L04, L10); «ابتدأ⟨نا⟩» (L09); «⟨نهر⟩» (L12); «⟨خلف خطّ الاستواء⟩» (L13); and in L15 «⟨خلف», whose bracket closes on p. 98. The note mark a stands three times, in L01, L03 and L04. Transcribed with the brackets.
+@obs The running numbers run (١٤٨٣)-(١٤٩٦) and the numbers of Suhrāb [٩٨٤]-[٩٩٧], each after its running number, without a gap. L09: the folio of the Strasbourg manuscript, «(fol. 27ᵃ)», is printed in Latin type at the beginning of the line, before «وتصير»; transcribed as a margin note before the line. L10 is a short line, closed by a small open star with six points, transcribed as an asterisk.
+@obs Signs in the text, transcribed as printed: «تمرّ» and «وتمرّ» with a shadda; «الّذى» (L09) with a shadda over the ل; «اوّلها» (L11) with a shadda over the و; «خطّ» (L11, L12, L13) with a shadda; «مصبّ» (L12) with a shadda, followed by the note mark k; «ابتدأ» (L09) with a hamza over the alif; «الاستواء» with a hamza on the line; «الّذى» ends in a ى without dots.
+@obs Numerals with the loop of ف or ق without dots, transcribed so: «ڡٮح» (L09), the loop, a tooth without its dot and a ح, 118 read with ق and ي; «ڡيح» (L12), the loop, a ي with its two dots below and a ح, 98 or 118. The other longitudes are printed with the two dots of the ق: «قس» (L01), 160; «قكا» (L04, L06, L14), 121; and «قٮح» (L01), «قٮد» (L02), «قٮه» (L03, L08), «قٮط» (L05, twice; L07) and «قٮو» (L11), in which the letter after the ق is a short tooth without a dot that rises above the joining stroke, with no part below it, where the م of the word «القمر» (L14) is a diamond that stands out above and below the stroke; read with ي they give 118, 114, 115, 119 and 116, the longitudes of the island of the scorpions and of the first point of سرنديب, beside 121 and «ڡيح», 118.
+@obs Other letters in the numerals: «ں» (L01, the minutes of the longitude; L07, the minutes of the latitude), the bowl of a final ن without its dot, 50; «ٮا» (L04, the degrees of the latitude), a tooth without its dot joined to an alif, which read with a ي gives 11, where L03 prints «يا» with the two dots of the ي; «ز» (L07, the degrees of the latitude), with the dot of the ز, 7.
+@obs The ح of the numerals, «قٮح» (L01), «ح» (L06, twice; L13, twice; L15, twice), «ڡٮح» (L09) and «ڡيح» (L12), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. The isolated ى, 10, has no dots (L02, three times; L05). The isolated ك, 20, is printed with the small inner stroke of the letter (L04, L05, L11, L13, L15).
+@obs L12: «ارٮوس»: the alif, a ر, then a tooth without a dot joined to a و, 34 px wide, where the و of «وتصير» at the beginning of the line is 23 px, and a final س; the editor's note l on p. 112 (frame 118) gives the name at this entry in the same form.
+@obs Note marks: L01, a after «⟨طول⟩»; L03, a after the longitude; L04, a after «⟨خلف الاستواء⟩»; L05, b after the longitude; L06, c after the latitude; L08, d after the latitude; L09, e after «⟨نا⟩» and f after the longitude; L10, g after the latitude, and h and i after «⟨خلف الاستواء⟩»; L12, k after «مصبّ», l after «⟨نهر⟩» and m after «ارٮوس»; L13, n after «⟨خلف خطّ الاستواء⟩»; L14, o after «القمر» and p after the longitude.
+@obs The editor's footnotes stand in five lines below a short rule at the left: notes a-p. Below the notes, at the left, the signature «7» of the printed sheet; the page number «— ٩٧ —» stands at the foot, centred.
+@variant L01, L03, L04: the manuscript lacks the words between the brackets; the editor supplies them (note a).
+@variant L05: a variant reading of the longitude is قٮط ن, with the tooth without its dot after the ق, as in the text, the dot of the ن and a line over the numerals (note b).
+@variant L06: a variant reading of the latitude is ح {z}, with a line over the numerals (note c).
+@variant L08: a variant reading of the latitude is ط ه, with a line over the numerals (note d).
+@variant L09: the manuscript lacks the نا of ابتدأنا; the editor supplies it (note e).
+@variant L09: the manuscript has ڡٮح ه for the longitude, with a loop and a tooth without dots and a line over the numerals (note f).
+@variant L10: the manuscript has ط ه for the latitude, with a line over the numerals (note g).
+@variant L10: the manuscript lacks the words خلف الاستواء; the editor supplies them (note h).
+@variant L10: the point is the same as point 1482 (note i).
+@variant L12: the word مصبّ is written by a later hand in the manuscript (note k).
+@variant L12: the manuscript lacks the word نهر; the editor supplies it (note l).
+@variant L12: the name, ارٮوس, is unclear in the manuscript; the editor suggests that it may be read اٮوس, اروس or اٮرس: the first with a tooth without a dot joined to the و, the third with the notched form, a tooth without a dot joined to the ر (note m).
+@variant L13: the manuscript lacks the words خلف خطّ الاستواء; the editor supplies them (note n).
+@variant L14: the manuscript has الفقر for القمر (note o).
+@variant L14: a variant reading of the longitude is قكا ك, with a line over the numerals (note p).

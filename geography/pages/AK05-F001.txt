@@ -1,0 +1,5 @@
+@page 1 -
+@kind binding
+% Frame 001: the front board of the Columbia binding: blue cloth, the spine at the right (the book opens from the
+% right), with dark patches on the spine.
+@copy The front board of the library's binding, in blue cloth, with the spine at the right; worn and patched; not part of the edition.

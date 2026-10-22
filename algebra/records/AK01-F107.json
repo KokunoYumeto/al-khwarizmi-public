@@ -1,0 +1,282 @@
+{
+ "anchor": "AK01-F107",
+ "frame": 107,
+ "frame_file": "page_107.jpg",
+ "frame_sha256": "9a6ad0e118ebca13ecc847dfeaf889c29a898a86076db5e090b547c6a13053d4",
+ "printed_page": "٩١",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 107, printed p. 91: the third problem of frame 106 concluded: sixty-five parts remain for the heirs. Then, under «فان كانت الفريضة على حالها» in bold, the complement of a third by the mother's share less the complement of a quarter of what remains by a daughter's share: five sixths of the estate and a part and a half equal thirteen parts; the part five, the estate sixty-nine, the bequest four. Then, under «رجل مات» in bold, a son and five daughters; the complement of a fifth and a sixth by the son's share less a quarter of what remains of the third: seventy-five parts of a hundred and twenty of the estate and two parts and a half equal seven parts; the part five, the estate thirty-six, the bequest one. Then, under «فان ترك» in bold, a mother, a wife and four sisters; the complement of a half by the shares of the wife and a sister less a seventh of what remains of the third: begun, continued on the next page. No footnote on this page.",
+ "lines": [
+  {
+   "id": "AK01-F107-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "سهماً للورثة . {b:فان كانت الفريضة على حالها} وأوصت لرجل بتكملة ثلث المال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان كانت الفريضة على حالها"
+   ]
+  },
+  {
+   "id": "AK01-F107-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "بنصيب الأم إلا تكملة ربع ما يبقى من المال بعد التكملة بنصيب بنت فالسهام",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "ثلاثة عشر سهما فخذ مالا فاطرح منه ثلثه إلاسهمين وزد على ما بقى معك ربعه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "إلا سهما فيكون معك خمسة أسداس مال وسهم ونصف سهم تعدل ثلاثة عشر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "سهما فالق من الثلاثة عشر السهم سهما ونصف سهم فيبقى أحد عشر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "سهما ونصف تعدل خمسة أسداس مال فكمل مالك وهو أن تزيد على السهام",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "خمسها فيكون مالا يعدل ثلاثة عشر سهما وأربعة أخماس سهم فاجعل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "السهم خمسة فيكون المال تسعة وستين والوصية أربعة أسهم . {b:رجل مات}",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "رجل مات"
+   ]
+  },
+  {
+   "id": "AK01-F107-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "وترك إبنا وخمس بنات وأوصى لرجل بتكملة الخمس والسدس بنصيب الابن",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "الاربع ما يبقى من الثلث بعد التكملة . فخذ ثاث مال فالق خمس المال وسدسه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "منه الا سهمين فيبقى معك سهمان الا أربعة أجزاء من مائة وعشرين جزءاً",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "من مال ثم زد عليه الاستثناء وهو نصف سهم الا جزءاً فيبقى معك سهمان",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "ونصف الا خمسة أجزاء من مائة وعشرين جزءاً من مال فزد ذلك على ثلثى المال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "فيكون خمسة وسبعين جزءاً من مائة وعشرين جزءا من مال وسهمين ونصفا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "تعدل سبعة أسهم فالق سهمين ونصفا من سبعة فيبقى معك خمسة وسبعون من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "مائة وعشرين تعدل أربعة أسهم ونصفا فتمم مالك وهو أن تزيد على السهام",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "ثلاثة أخماسها فيكون مالا يعدل سبعة أسهم وخمس سهم فالسهم الواحد خمسة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "فيكون المال ستة وثلاثين والنصيب خمسة والوصية واحدة . {b:فان ترك} أمه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان ترك"
+   ]
+  },
+  {
+   "id": "AK01-F107-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "وامرأته وأربع أخوات وأوصى لرجل بتكملة النصف بنصيب امرأته وأخته",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "الاسبع ما يبقى من الثلث بعد التكملة . فقياس ذلك أنك اذا طرحت النصف من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "الثلث بقى عليك سدس وذلك ما استثنى وهو نصيب المرأة والأخت وهو خمسة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F107-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "أسهم فالذى يبقى من الثلث خمسة أسهم الا سدس المال والسبعان اللذان استثناهما",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L01: «سهماً للورثة» (L01) goes on from the last words of frame 106, «وبقى خمسة وستون» (frame 106, L22): sixty-five parts remain for the heirs.",
+  "L01, L08, L18: the words فان كانت الفريضة على حالها (L01), رجل مات (L08) and فان ترك (L18), the run-in headings of the next problems, are printed in a bold face, each after a full stop; the words that follow, وأوصت (L01), وترك (L09) and أمه (L18), are in the face of the text. The bold ن of فان is printed without its dot; transcribed ن.",
+  "L10: «فخذ ثاث مال», as printed: after the first ث the print sets an upright stroke that ends at the baseline without the foot of a medial ل, and the second ث begins with the upturned tip of its isolated form, where ثلث (L01) and الثلث (L10, L20) join the ل to the final ث. See the critical note AK01-CN032.",
+  "L20: «الاسبع ما يبقى», as printed, less a seventh of what remains, where the working takes two sevenths, «والسبعان اللذان استثناهما» (L22). See the critical note AK01-CN033.",
+  "L03, L10: فخذ (L03, L10), printed with the ف set on the head of the خ and the dot of the خ to its right, as on frames 089, 093, 101 and 106.",
+  "The ending ـقى is printed on this page in its round form, with the shape of the final ق, in يبقى (L02, L10, L20, L22), بقى (L03, L21) and فيبقى (L05, L11, L12, L15); transcribed ـقى.",
+  "Set without a word space after the ligature لا of الا, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): إلاسهمين (L03; 22 between the لا and the س, where إلا سهما in L04 has 38); الاربع (L10; 20 between the لا and the ر); الاسبع (L20; 25 between the لا and the س), where الا سدس (L22) has 32; the ligature لا stands 20 to 26 px from the next letter inside a word and 27 or more before a space.",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: اذا طرحت (L20; 21 between the alif and the ط, where the alif stands 9 px from the ط inside فاطرح, L03).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: النصف من (L20), وذلك ما (L21), أسهم فالذى, يبقى من, الثلث خمسة, والسبعان اللذان (L22).",
+  "The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after للورثة, before the bold فان (L01; 32 and 27), after أسهم, before the bold رجل (L08; 28 and 33), after التكملة, before فخذ (L10; 29 and 27), after واحدة, before the bold فان (L18; 27 and 25), and after التكملة, before فقياس (L20; 29 and 27).",
+  "Plain alif where a hamza might be expected, as printed: فاطرح (L03), فالق (L05), فاجعل (L07), الابن (L09), الاربع, فالق (L10), الا (L11, twice), الاستثناء, الا (L12), الا (L13), فالق (L15), وامرأته and امرأته, the first alif (L19), الاسبع, اذا (L20), استثنى (L21), الا, استثناهما (L22); with hamza: وأوصت (L01), الأم (L02), أسداس (L04), أحد (L05), أسداس, أن (L06), وأربعة, أخماس (L07), أربعة, أسهم (L08), وأوصى (L09), أربعة, أجزاء (L11), أجزاء (L13), أسهم (L15), أربعة, أسهم, أن (L16), أخماسها, أسهم (L17), أمه (L18), وامرأته and امرأته, the second alif, وأربع, أخوات, وأوصى, وأخته (L19), أنك (L20), المرأة, والأخت (L21), أسهم (L22, twice); below the alif: إلا (L02, L04), إلاسهمين (L03), إبنا (L09), where الابن in the same line has the plain alif; on ي: مائة (L11, L13, L14, L16); the hamza on the line: أجزاء, جزءاً (L11), الاستثناء, جزءاً (L12), أجزاء, جزءاً (L13), جزءاً, جزءا (L14).",
+  "With tanwīn on the final alif: سهماً (L01), جزءاً (L11, L12, L13; L14, the first); without tanwīn as printed: سهما, مالا (L03), سهما (L04; L05, twice; L06, L07), مالا (L07, L17), إبنا (L09), جزءا, ونصفا (L14), ونصفا (L15, L16).",
+  "The final yā' is printed without dots: the bold على (L01), يبقى (L02, L10, L20, L22), على, بقى (L03), فيبقى (L05, L11, L12, L15), على (L06, L13, L16), وأوصى (L09, L19), ثلثى (L13), بقى, استثنى (L21), فالذى (L22).",
+  "The print stretches المال (L01, between the م and the alif), تكملة and التكملة (L02, between the ت and the ك), الثلاثة (L05, between the ث and the ل), تعدل (L06, between the ع and the د), فكمل (L06, between the ف and the ك), خمسها (L07, between the س and the ه), وأربعة (L07, between the ع and the ة), فيكون (L08, L14, L17, between the ي and the ك), بتكملة (L09, L19, between the ت and the ك), التكملة (L10, L20, between the ت and the ك), أربعة (L11, L16, between the ع and the ة), الاستثناء (L12, between the س and the ت), and فيكون, المال and خمسة (L18) with the elongation stroke; the stroke is not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK01-CN032",
+   "class": "wrong or defective letter",
+   "line": "L10",
+   "printed": "ثاث",
+   "proposed": "ثلث",
+   "evidence": "The step takes a third of the estate, «فخذ ثلث مال», as the parallel steps do (frame 102, L17: «فخذ ثلث مال فالق منه نصيبا»), and the amounts that follow are those of a third: a third less the fifth and the sixth of the estate, and two parts, leaves two parts less four hundred-and-twentieths of the estate (L10-L11), 1/3 − 11/30 = −4/120. The print sets after the first ث an upright stroke that ends at the baseline without the foot by which a medial ل joins the next letter, and the second ث begins with the upturned tip of its isolated form, where in ثلث (L01) and الثلث (L10, L20) the ل joins the final ث: an alif for the ل. The machine reading also gives ثاث.",
+   "confidence": "high that the sense requires ثلث; whether the error is the print's or its copy's is not known",
+   "impact": "none on the mathematics: the amounts that follow are those of a third"
+  },
+  {
+   "id": "AK01-CN033",
+   "class": "statement and working disagree",
+   "line": "L20",
+   "printed": "الاسبع ما يبقى",
+   "proposed": "الا سبعى ما يبقى",
+   "evidence": "The bequest is stated as the complement of a half by the shares of the wife and a sister less a seventh of what remains of the third after the complement (L19-L20). The working casts away two sevenths: «والسبعان اللذان استثناهما» (L22), «سبعا خمسة أسهم الا سبعى سدس المال» (frame 108, L01), and the equation it reaches, nineteen forty-seconds of the estate and six parts and three sevenths equal to thirteen parts (frame 108, L02-L03), is that of two sevenths: 2/3 − 1/6 − (2/7)(1/6) = 19/42, and 5 + (2/7)·5 = 6 3/7 (checked exactly). With a seventh it would be twenty forty-seconds of the estate and five parts and five sevenths.",
+   "confidence": "high that the statement and the working disagree; which of the two the author wrote is not known",
+   "impact": "the result follows the working, with two sevenths"
+  }
+ ]
+}

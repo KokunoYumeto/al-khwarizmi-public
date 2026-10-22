@@ -1,0 +1,51 @@
+@page 84 52
+@lang de
+% JP2 0084: Suter's commentary, p. 52: chapter 10 continued: Burgess's computation of Saturn for 1 January 1860 and
+% the two halvings; the true place of Saturn for noon of 15 Ṣafar 540 after al-Battānī: the mean longitudes, the
+% anomaly, the centre and their equations (notes 1-4).
+den 1. Jan. 1860 für den Meridian von Washington bestimmt und denselben um c. 11°
+grösser als die mittlere Länge gefunden, wir haben ihn nach den Regeln {sp:Kh.}’s und
+mit denselben Angaben, wie sie {sp:Burgess} machte, nur um c. 3° grösser gefunden ;
+dies ist ein so starker Unterschied, dass man fast annehmen muss, {sp:Burgess} habe
+die Regeln des {i:Sūrya-Siddhānta} nicht richtig aufgefasst oder angewandt. In jedem
+Falle aber müssen, wie schon angedeutet worden ist, die Regeln der persischen Tafeln
+des {i:Shāh}, wenn ihnen {sp:Kh.} wirklich gefolgt ist, ziemlich von denjenigen des {i:Sūrya-}
+{i:Siddhānta} abgewichen sein ; von den {i:zwei} Halbierungen von Gleichungen, die
+{sp:Burgess} in den indischen Tafeln gefunden hat, ist bei {sp:Kh.} unserer Ansicht nach
+nur {i:eine} geblieben.
+@p Im folgenden geben wir als Beispiel für die Bestimmung des {i:wahren Ortes} eines
+obern Planeten diejenige für {i:Saturn} und zwar sowohl nach den Tafeln {sp:Batt.}’s als
+auch nach denen {sp:Kh.}’s.
+@p {i:Berechnung des wahren Ortes des Saturns} für den Anfang (Mittag) des 15. Ṣafar
+des Jahres 540 d. H.
+@c 1. Nach {sp:Al-Battānī}.
+@t Mittlere Länge der Sonne | (nach den Tafeln II, 19—23) | = | 140° 46′
+@t „ „ des Saturns | ( „ „ „ II, 24—28) | = | 36° 13′ (396° 13′)
+@t | Anomalie des Saturns : | | 104° 33′
+@t Mittlere Länge des Saturns | = | 396° 13′
+@t Apogeum (im J. 540){sup:1}) | = | 248° 30′
+@t Centrum | = | 147° 43′
+@t Gleichung des Centrums | = | 3° 37′ 40″{sup:2}) (nach Tafel II, 112)
+@t Centrum aequatum | = | 144° 5′ 20″
+@t Anomalie | = | 104° 33′
+@t Gleichung des Centrums | = | 3° 37′ 40″{sup:2})
+@t Anomalia aequata | = | 108° 10′ 40″
+@p Der Anomal. aeq. von 108° 10′ 40″ entsprechen (in Tafel II, 111) in den Kolonnen
+VI und VII die Zahlen 6° 6′ und 0° 25′, in der Kolonne IV die Zahl 20′, es muss nun
+0° 25′ im Verhältnis 20′ ∶ 60′ verkleinert werden, dies gibt 8′ 20″{sup:3}) ; dies addiert man
+zu der Zahl der VI. Kolonne, also zu 6° 6′, dies gibt 6° 14′ 20″, dies zum Centrum
+aequat. addiert{sup:4}), gibt :
+@n {sup:1}) Hier ist die Praezession von 266 bis 540 d. H. in Berücksichtigung gezogen, das Apogeum
+@n ist also um ({fr:274|68})° = 4° 2′ grösser als es {sp:Batt.} angibt (244° 28′).
+@n {sup:2}) Ist das Centrum grösser als 180°, so muss die Gleichung des Centrums zum letztern addiert,
+@n dagegen von der Anomalie subtrahiert werden.
+@n {sup:3}) Sind die Differenzen, die dem Centrum aequat. (hier 144° 5′) in der IV. Kolonne entsprechen,
+@n abnehmend, so muss man die Zahlen nehmen, die der Anomal. aequata in den Kol. VI u. V ent-
+@n sprechen.
+@n {sup:4}) Zu subtrahieren, wenn die Anomal. aeq. grösser als 180° ist.
+@obs The page number «52» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «den 1. Jan. 1860» continues «Burgess hat nach diesen Regeln den wahren Ort des Saturns für» at the end of p. 51 (JP2 0083, L39). L16: «1. Nach Al-Battānī.», centred, the name spaced.
+@obs L17-L27: the computation, set as a table: the names joined to the figures by dotted leaders (L21-L27), which are not transcribed; in L18 the ditto marks „ stand under «Mittlere Länge» and under «nach den Tafeln»; the rows L19, L22, L24 and L27 stand below short rules under the figures; «Centrum», «Centrum aequatum», «Anomalie» and «Anomalia aequata» are indented further than the other names. Each printed row is one line here, the cells separated by our «|»; the empty cells give the columns room and are not printed.
+@obs L17-L32. Checked: 140° 46′ − 36° 13′ = 104° 33′; 396° 13′ − 248° 30′ = 147° 43′; 147° 43′ − 3° 37′ 40″ = 144° 5′ 20″; 104° 33′ + 3° 37′ 40″ = 108° 10′ 40″; 25′ × 20 : 60 = 8′ 20″; 6° 6′ + 8′ 20″ = 6° 14′ 20″. N01-N02: 540 − 266 = 274 Arab years, and 68 Arab years are about 66 Julian years (66 × 365.24 : 354.37 = 68.03), al-Battānī's period for one degree of precession; 274 : 68 = 4.03, 4° 2′; 244° 28′ + 4° 2′ = 248° 30′, the apogee of L21. The values of al-Battānī's tables (Nallino, II, 19-28, 111-112) are not compared here.
+@obs L01-L03: Burgess's true place of Saturn for 1 January 1860, about 11° greater than the mean longitude, against about 3° by al-Khwārizmī's rules; Suter's computation is not given. L30: «20′ ∶ 60′», the colon of the ratio with a space on either side (18 and 16 px), written ∶ (U+2236). N02: «(274/68)°», the fraction built up in small figures within round brackets, the degree sign after the bracket; written {fr:274|68}.
+@obs Spaced type, marked {sp:}: «Kh.», «Burgess», «Batt.», «Al-Battānī»; italics: «Sūrya-Siddhānta», «Shāh», «zwei», «eine», «wahren Ortes», «Saturn», «Berechnung des wahren Ortes des Saturns». N01: «Hier ist» printed more heavily than the rest of the note (the strokes measure the same, 5 px).
+@obs The colons and semicolons stand after the thin space of the edition (10-13 px measured).

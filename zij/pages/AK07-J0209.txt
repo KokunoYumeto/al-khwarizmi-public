@@ -1,0 +1,56 @@
+@page 209 177
+@lang la
+% JP2 0209: Tab. 63, p. 177: the true hourly motions of the sun and the moon, the radii of the sun and the moon and
+% the two columns of the dragon, for the anomalies 61° to 90° and 299° to 270°, with the apparatus (notes 1-6 and a-h).
+@m C 77{sup:v}, O 134{sup:v},
+@c {b:Gedval elbuht} (CO)
+@m N 39{sup:v}.
+@c {b:Tabula motus Solis et Lunae diurni et horarii atque momentanei} (N)
+@tw size=footnotesize span=1.1 0.5 0.5 0.5 0.5 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62
+@t Semitae numerorum (CO) |  |  |  | Motus |  | Motus |  | Dimidium |  | Dimidium |  | Primum |  | Secundum |
+@t Lineae numeri (N) |  |  |  | Solis |  | Lunae |  | rotae |  | rotae |  | dimidium |  | dimidium |
+@t  |  |  |  | in hora{sup:1}) |  | in hora{sup:2}) |  | Solis{sup:3}) |  | Lunae{sup:4}) |  | rotae |  | rotae |
+@t  |  |  |  |  |  |  |  |  |  |  |  | Draconis{sup:5}) |  | Draconis{sup:6}) |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.}
+@t 2 | 1 | 9 | 29 | 2 | 25 | 31 | 32 | 15 | 58{sup:e}) | 15 | 17 | 12 | 6 | 50 | 28
+@t 2 | 2 | 9 | 28 | 2 | 25 | 31 | 35 | 15 | 59 | 15 | 18{sup:h}) | 12 | 6 | 50 | 32
+@t 2 | 3 | 9 | 27 | 2 | 25 | 31 | 37 | 15 | 59 | 15 | 19 | 12 | 7 | 50 | 36
+@t 2 | 4 | 9 | 26 | 2 | 25 | 31 | 40 | 16 | 0 | 15 | 21 | 12 | 7 | 50 | 40
+@t 2 | 5 | 9 | 25 | 2 | 25 | 31 | 42 | 16 | 0 | 15 | 22 | 12 | 7 | 50 | 44
+@t 2 | 6 | 9 | 24 | 2 | 26 | 31 | 45 | 16 | 1{sup:f}) | 15 | 23 | 12 | 8 | 50 | 49
+@t 2 | 7 | 9 | 23 | 2 | 26 | 31 | 47 | 16 | 1 | 15 | 25 | 12 | 8 | 50 | 54
+@t 2 | 8 | 9 | 22 | 2 | 26 | 31 | 49 | 16 | 2 | 15 | 26 | 12 | 9 | 50 | 59
+@t 2 | 9 | 9 | 21 | 2 | 26 | 31 | 52 | 16 | 2 | 15 | 27 | 12 | 9 | 51 | 4
+@t 2 | 10 | 9 | 20 | 2 | 26 | 31{sup:c}) | 54 | 16 | 3 | 15 | 29 | 12 | 9 | 51 | 9
+@t 2 | 11 | 9 | 19 | 2 | 26 | 31 | 57 | 16 | 3 | 15 | 30 | 12 | 10 | 51 | 14
+@t 2 | 12 | 9 | 18 | 2 | 26 | 32 | 1 | 16 | 4 | 15 | 32 | 12 | 10 | 51 | 19
+@t 2 | 13 | 9 | 17 | 2 | 26 | 32 | 5 | 16 | 4 | 15 | 33 | 12 | 11 | 51 | 24
+@t 2 | 14 | 9 | 16 | 2 | 26 | 32 | 8{sup:d}) | 16 | 5 | 15 | 35 | 12 | 11 | 51 | 29
+@t 2 | 15 | 9 | 15 | 2 | 26{sup:b}) | 32 | 12 | 16 | 6 | 15 | 37 | 12 | 11 | 51 | 34
+@t 2 | 16 | 9 | 14 | 2 | 26{sup:b}) | 32 | 16 | 16 | 6 | 15 | 38 | 12 | 12 | 51 | 39
+@t 2 | 17 | 9 | 13 | 2 | 26 | 32 | 20 | 16 | 7 | 15 | 39 | 12 | 12 | 51 | 44
+@t 2 | 18 | 9 | 12 | 2 | 27 | 32 | 24 | 16 | 7 | 15 | 41 | 12 | 13 | 51 | 49
+@t 2 | 19 | 9 | 11 | 2 | 27 | 32 | 27 | 16 | 8 | 15 | 42 | 12 | 13 | 51 | 54
+@t 2 | 20 | 9 | 10 | 2 | 27 | 32 | 31 | 16 | 8 | 15 | 44 | 12 | 14 | 51 | 59
+@t 2 | 21 | 9 | 9 | 2 | 27 | 32 | 34 | 16 | 9 | 15 | 45 | 12 | 14 | 52 | 4
+@t 2 | 22 | 9 | 8 | 2 | 27 | 32 | 37 | 16 | 10 | 15 | 47 | 12 | 15 | 52 | 9
+@t 2 | 23 | 9 | 7 | 2 | 27 | 32 | 39 | 16 | 11 | 15 | 49 | 12 | 16 | 52 | 14
+@t 2 | 24 | 9 | 6 | 2 | 27 | 32 | 42 | 16 | 12{sup:g}) | 15 | 51 | 12 | 16 | 52 | 19
+@t 2 | 25 | 9 | 5 | 2 | 28 | 32 | 45 | 16 | 13 | 15 | 52 | 12 | 17 | 52 | 24
+@t 2 | 26 | 9 | 4 | 2 | 28 | 32 | 47 | 16 | 13 | 15 | 54 | 12 | 17 | 52 | 29
+@t 2 | 27 | 9 | 3 | 2 | 28 | 32 | 49 | 16 | 14 | 15 | 55 | 12 | 18 | 52 | 34
+@t 2 | 28 | 9 | 2 | 2 | 28 | 32 | 52 | 16 | 15 | 15 | 56 | 12 | 19 | 52 | 38
+@t 2 | 29 | 9 | 1 | 2 | 28 | 32 | 54 | 16 | 16 | 15 | 57 | 12 | 19 | 52 | 43
+@t 3{sup:a}) | 0 | 9 | 0 | 2 | 28 | 32 | 56 | 16 | 17 | 15 | 58 | 12 | 20 | 52 | 47
+@n {sup:1}) Motus . . . . hora] O, Cursus solis horarius C — {sup:2}) Motus . . . . hora] O, Cursus lunae horarius C —
+@n {sup:3}) Dimidium . . . . Solis] O, {i:om.} C, Dimidium orbis Solis N, {i:itemque in cet. tab.} — {sup:4}) Dimidium . . . . lunae]
+@n ON, {i:om.} C — {sup:5}) Primum . . . . Draconis] ON, {i:om.} C — {sup:6}) Secundum . . . . Draconis] ON, {i:om.} C.
+@n {sup:a}) 3] N, 2 CO — {sup:b}) 26] O, 25 C — {sup:c}) 31] ON, 30 C — {sup:d}) 8] C, 9 O — {sup:e}) 58] C, 57 O — {sup:f}) 1
+@n C, 2 O — {sup:g}) 12] ON, 14 C — {sup:h}) 18] C, 17 O.
+@obs The page number «177» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 63», in bold sans serif, underlined. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «23» on the right; recorded here, not transcribed as a line. The titles (L01-L02), as on p. 176 (JP2 0208), in bold, the sigla in roman. The folios of the manuscripts stand at the right of the second title in two lines, «C 77v, O 134v,» and «N 39v.», the letters raised; here as right margin notes.
+@obs The table: as on p. 176, with the heads «Semitae numerorum (CO) Lineae numeri (N)», «Motus Solis in hora1)», «Motus Lunae in hora2)», «Dimidium rotae Solis3)», «Dimidium rotae Lunae4)», «Primum dimidium rotae Draconis5)» and «Secundum dimidium rotae Draconis6)»; the o of «rotae» in the fifth head is printed broken. Here each head is set from the top, one printed line to a line (L03-L07); the cells separated by our «|»; a head followed by empty cells spans their columns.
+@obs L08-L37. The arguments, the anomalies 2s 1° to 3s 0° and their complements 9s 29° to 9s 0°, with N's reading of note a at 3s 0°. Checked, as on pp. 175-176: the hourly motion of the sun agrees with 2′ 27″ 50‴ − 5.6″ cos α within 0.7″ in every row, the sixth column with five times it within 1.0″ and the fourth with 6.6 times it within 1.4″. At 90° (L37) the hourly motions are 2′ 28″ and 32′ 56″, the mean motions 2′ 27″ 50‴ and 32′ 56″ 27‴ rounded, the radii 16′ 17″ and 15′ 58″ and the last two columns 12′ 20″ and 52′ 47″, the values of Suter's examples (p. 79, JP2 0111, L09-L14; p. 90, JP2 0122, L22-L29).
+@obs L08-L37, continued. The seventh column rises by 4″ or 5″ a degree. It is 1 3/5 times the third column within 1″ from 61° to 66°, as on pp. 175-176, but from 67° to 75° and from 87° to 90° it is 2.8″ to 6.8″ more, and at 78°-82° 1.2″ to 2.6″ less: the third column rises by 2″ or 3″ a degree from 61° to 71°, by 3″ or 4″ from 71° to 80° and by 2″ or 3″ from 80° to 90°, lagging behind the seventh at 70° by 4.1″ (31′ 54″ against 51′ 9″ : 1 3/5 = 31′ 58.1″). At 90° the difference is the 5″ of Suter's example, 52′ 47″ against 1 3/5 · 32′ 56″ = 52′ 42″ (p. 90, note 1). The fifth column, the radius of the moon, follows the seventh: it is 0.4843 times the seventh divided by 1 3/5 within 0.8″, and 0.4846 times the third column only within 1.9″.
+@obs Notes on the readings. Checked: O's 26 at 75° and 76° (note b, against C's 25) is the cosine law, 2′ 26.4″ and 2′ 26.5″; C's radii of the sun 15′ 58″, 16′ 1″ and, with O and N, 16′ 12″ at 61°, 66° and 84° (notes e, f and g, against O's 57 and 2 and C's 14) are 6.6 times it, 15′ 57.8″, 16′ 0.7″ and 16′ 11.9″; C's 15′ 18″ at 62° (note h, against O's 17) is 0.4843 times the seventh column divided by 1 3/5, 15′ 17.7″. At 74° (note d) the edition has C's 32′ 8″; O's 9 is the nearer to the seventh column divided by 1 3/5, 32′ 10.6″, and to the cosine law, 32′ 11.3″. Note c: the minutes 31 of O and N at 70°, against C's 30. Note a: N's 3, against the 2 of C and O, makes the argument of L37 3s 0°, 90°, the complement of 9s 0°.
+@obs Notes 1-6: C's «Cursus solis horarius» and «Cursus lunae horarius» for the heads of the second and third pairs; C omits the heads of the other four pairs, and N has «Dimidium orbis Solis» for «Dimidium rotae Solis», «itemque in cet. tab.». Italics: «om.», «itemque in cet. tab.». N01-N03: the ellipsis «. . . .» of the lemmas as printed. N04-N05, «{sup:f}) 1 C, 2 O»: see the critical note.
+@critical AK07-CN176 | missing bracket | N04 | {sup:f}) 1 | {sup:f}) 1] | the lemma of each note is closed by a bracket before the sigla, as «{sup:e}) 58] C, 57 O» before it; the bracket after the 1, the last figure of the line, is not printed | high | none

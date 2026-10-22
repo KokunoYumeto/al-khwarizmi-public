@@ -1,0 +1,27 @@
+@page 34 ٢٠
+% Frame 034, printed p. 20: the end of "half a square and five roots equal twenty-eight"; the second compound kind,
+% squares and numbers equal to roots: "a square and twenty-one equal ten roots", solved by subtracting and by adding
+% the root to half the roots; this kind works by addition and by subtraction. Two footnotes of the editors.
+خمسة فاضربها فى مثلها تكون خمسة وعشرين فزدها على الستة والخمسين تكون
+احدا وثمانين فخذ جذرها وهو تسعة فانقص منها نصف الاجذار وهو {n:١}خمسة
+فيبقى أربعة وهو جذر المال الذى أردت والمال ستة عشر ونصفه ثمانية وكذلك
+فافعل بجميع ما جاءك من الأموال والجذور وما عادلهامن العدد تصب ان شاء الله.
+@p وأما الأموال والعددالتى تعدل الجذور فنحو قولك مال وأحد وعشرون من
+العدد يعدل عشرة اجذاره ومعناه أى مال إذا زدت عليه واحدا وعشرين درهما
+كان ما اجتمع مثل عشرة أجذار ذلك المال. فبابه {n:٢}أن تنصف الاجذار فتكون
+خمسة فاضربها فى مثلها تكون خمسة وعشرين فأنقص منها الواحد والعشرين التى
+ذكر انها مع المال فيبقى اربعة فخذ جذرهاوهو اثنان فانقصه من نصف الاجذار
+وهو خمسة فيبقى ثلاثة وهو جذر المال الذى تريده والمال تسعة . وان شئت
+فزد الجذر على نصف الاجذار فتكون سبعة وهو جذر المال الذى تريده والمال
+تسعة واربعون . فاذا وردت عليك مسئلة تخرجك الى هذا الباب فامتحن
+صوابها بالزيادة فان لم تكن فهى بالنقصان لا محالة وهذا الباب يعمل بالزيادة
+والنقصان جميعا وليس ذلك فى غيره من الابواب الثلاثة التى يحتاج فيها إلى
+تنصيف الاجذار . واعلم انك اذا نصفت الاجذار فى هذا الباب وضربتها فى
+@ednotes ١ ٢ 6
+@variant L02: the edition prints وهو; the editors' note (١) reports that the manuscript has وهى, with وهو written above it, by the copyist or a reader.
+@obs L05: وأحد, with a hamza on the alif, as printed, in مال وأحد وعشرون (one square and twenty-one); L06 has واحدا وعشرين.
+@obs L08: فأنقص with a hamza on the alif, as printed; L02 and L09 have فانقص, فانقصه.
+@obs Set without a word space after a non-connecting letter, and transcribed so: عادلهامن (L04), والعددالتى (L05), جذرهاوهو (L09). After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: ان شاء (L04), قولك مال, وعشرون من (L05), أى مال (L06), والعشرين التى (L08).
+@obs L02: the note mark (١) stands after وهو, close before خمسة; L07: the note mark (٢) stands close before أن. The full stops after الله (L04) and المال (L07) are set close.
+@obs Plain alif where a hamza might be expected, as printed: احدا (L02), الاجذار (L02, L07, L09, L11, L15), ان (L04), اجذاره (L06), انها, اربعة (L09), وان (L10), واربعون, فاذا, الى (L12), فان (L13), الابواب (L14), انك, اذا (L15).
+@obs Without tanwīn as printed: احدا (L02), واحدا, درهما (L06), جميعا (L14).

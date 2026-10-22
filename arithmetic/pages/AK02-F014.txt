@@ -1,0 +1,43 @@
+@page 14 8
+% Frame 014, printed p. 8: addition: the two numbers written in two rows, place under place, and added place by place,
+% ten in a place carried to the next; the circle in an empty place; subtraction: place from place, borrowing one from
+% the next higher place when the upper place is too small.
+nuere numerum de numero, pone utrosque numeros in duobus
+ordinibus, unum scilicet ex eis sub altero, et sit differentia
+unitatum sub differentia unitatum, et differentia decenorum
+sub differentia decenorum. Quod si uolueris colligere utrosque
+numeros, addes scilicet unum super alterum : addes unam-
+quamque differentiam super differentiam que est super eam
+de genere suo, idest unitates super unitates, et decenos super
+decenos.Cum collecti fuerint in aliqua differentiarum,idest in
+differentia unitatum uel decenorum,siue in alia aliqua decem,
+pones pro eis unum,et eriges eum ad superiorem differentiam,
+idest si habueris in prima differentia, que est differentia unita-
+tum, decem, facies de eis unum, et sub leuabis eum ad diffe-
+rentiam decenorum, et ibi significabit decem. Si autem reman-
+serit aliquid de numero quod sit infra {sc:x}; uel fuerit ipse nume-
+rus infra .{sc:x}., dimictens eum in eadem differentia; et si nichil
+remanserit, pones circulum, ut non sit differentia uacua: set
+@m car. 104 {i:verso}.
+sit in ea circulus qui occupet ea, ne forte cum | uacua fuerit,
+minuantur differentie, et putetur secunda esse prima; et sic de-
+cipieris in numero tuo. Sic quoque facies in omnibus diffe-
+rentiis. Similiter cum collecti fuerint in secunda differentia
+.{sc:x}., facies de eis unum; et subleuabis eum ad differentiam
+terciam; ibique significabit centum ; et quicquid remanserit
+infra .{sc:x}., remanebit ibi. Si uero nichil in ceteris remanserit,
+pones ibi circulum ut supra. Sic facies in ceteris differentiis,
+si plus fuerit. Si uero uolueris minuere unum de alio, nu-
+merum scilicet de numero, minues unam quamque differen-
+tiam de alia differentia que est super se ex genere suo, sicut
+supra dictum est. Quod si non fuerit in superiori differentia
+tantus numerus, de quo possis minuere numerum inferioris
+differentie, idest si fuerit minus, uel nichil ibi fuerit, acci-
+pies de secunda differentia que est alcior illo superiori unum,
+et de eo facies decem; minuesque de eo quod debueris, et
+quod remanserit dimittes in eadem superiori differentia. Si
+@obs The page number «( 8 )» stands at the head of the page, centred. The page has no footnotes and no signature.
+@obs L17: the vertical bar between «cum» and «uacua» marks the beginning of fol. 104 verso of the manuscript, which the note in the left margin, «car. 104 verso.», names (on this left-hand page the folio notes stand in the left margin); transcribed as a margin note.
+@obs L12: «sub leuabis» is printed as two words, with a word space of 20 px, where L21 prints «subleuabis» as one; transcribed as printed. L14: «infra x;»: the numeral is printed without its points, where L15 and L23 print «infra .x.,».
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): L05 «alterum : addes», with spaces before and after the colon (19 and 30 px); without a space after the mark, L08 «decenos.Cum» (9 px, the median word space of the line 17 px) and «differentiarum,idest» (11 px), L09 «decenorum,siue» (9 px) and L10 «unum,et» (5 px); L22 «centum ;» (17 px before the semicolon), with a space. L12 «decem, facies» and L25 «fuerit. Si» have a space: the cross-bar of the f and a pencil stroke shorten the measured gaps.
+@copy A reader's notes in pencil: «addere» in the left margin beside L05, with «addes» underlined; L06, a stroke over «ff» of «differentiam»; L12, a curve linking «sub» and «leuabis»; «tt» in the left margin beside L15, with «ct» of «dimictens» underlined, and «Quod» in the right margin, with «et» marked; «· eam» in the left margin beside L17, with «ea,» underlined; L18, a stroke at the «p» of «prima»; L20, a hook at the «s» of «rentiis»; L25, a slash before «Si», and «L §» in the left margin; «fuit / illa» in the left margin beside L30-L31, with strokes above «fuerit» (L30) and under «illo» (L31). Not part of the edition.

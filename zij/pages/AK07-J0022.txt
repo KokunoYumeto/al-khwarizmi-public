@@ -1,0 +1,52 @@
+@page 22 XVIII
+@lang de
+% JP2 0022: the introduction, p. XVIII: the end of the note on the era (no. 5) and Suter's explanation (Isidore, the
+% bissextile day); no. 6, a marginal note on the months; no. 7, Robert of Chester's adiectiones for London.
+{i:accescitur}{sup:1}) {i:a sexto. Nonas marcii usque ad diem pridie kalendarum ianuarii apponitur}
+{i:in cursu lunae} (?)
+@p Die Worte {i:dicta autem era ex quo . . . reipublicae} sind in der Tat ein Zitat aus
+{sp:Isidor v. Sevilla}, das auch von L. {sp:Ideler} in seinen Versuchen, das Wort {i:aera}
+zu erklären, angeführt wird{sup:2}). Die Erklärung von {i:bissextus} ist kaum zu verstehen,
+und wohl auch unrichtig aufgefasst vom Schreiber. Bekanntlich kommt es davon
+her, dass man in Schaltjahren {i:zwei mal} gesagt hat : {i:Sextus ante Kalendas Martii}, also
+den 24. Februar {i:zwei mal} gezählt hat. Der Schreiber nimmt statt der {i:Kalendae Martii}
+die {i:Nonae Martii}, und meint dann wohl mit dem folgenden, dass der Schalttag an
+verschiedenen Stellen eingeschaltet worden sei, sogar auch am Ende des Monats
+Dezember, was, wie wir unten sehen werden, in der sog. spanischen Aera der Fall
+war. — Was mit den Worten {i:in cursu lunae} gesagt werden will, verstehen wir nicht.
+@p 6) Auf fol. 11{sup:v} ist zu den Worten {i:ideo quotiens duodecim menses in annum redu-}
+{i:cimus, totiens ab ipsa reductionis summa} (in unserm Text p. 6) folgende Randnote
+von 2. Hand beigefügt : {i:id est a mensibus et diebus residuis ex quibus fit annus qui}
+{i:aliis annis adiicitur ; non enim complebitur annus ex XII mensibus XXX dierum nisi}
+{i:addatur V dies et quarta ; menses enim tantum XXX dierum hic dantur} (?), {i:unde erit eis}
+{i:quandoque addendum quandoque subtrahendum ut vere romani menses habeantur.}
+@p 7) Am untern Rand von fol. 18{sup:v} (Tafel 15) findet sich folgende Note : {i:Adiectiones}
+{i:Veneris et Mercurii sunt adiectio solis ; hae autem adiectiones omnes iuxta civitatem Lon-}
+{i:doniae in hoc libro computantur et mediis cursibus planetarum adiciuntur} (sic). — Hiermit
+will der Verfasser dieser Note, und dies ist ohne Zweifel {sp:Robert von Chester}{sup:3}),
+sagen, dass die mittlern Längen von Venus und Merkur die gleichen seien wie die
+der Sonne, und dass er für diese und die drei obern Planeten die {i:adiectiones} für
+den Meridian von London berechnet habe. Unter diesen {i:adiectiones} ist folgendes zu
+verstehen : Die nach den Tafeln 9—20 für Sonne, Mond und die Planeten berechneten
+mittlern Längen gelten für den Meridian von {i:Arin} ({i:Udjain}), für London muss der
+mittlern Länge jedes dieser Himmelskörper eine bestimmte Grösse beigefügt werden,
+und zwar die mittlere Bewegung ({i:motus medius}) desselben für c. 5{sup:h} (denn Udjain ist
+c. 75° östlich von London), diese zu addierende Grösse nennt {sp:Robert von Chester}
+{i:adiectio}. — Er hat nun diese {i:adiectiones} an verschiedenen Stellen angegeben (jeweilen
+am untern Rand des Blattes) und zwar : für Saturn auf fol. 24{sup:v} (Tafel 9) zu 18″,
+für Jupiter auf fol. 28{sup:v} (Tafel 11) zu 45″, für Mars auf fol. 14{sup:v} (Tafel 13) zu 4′ 49″,
+für den Drachenkopf auf fol. 23{sup:v} (Tafel 19) zu 30″ ; die Tafeln für die mittlere
+Bewegung der Sonne und des Mondes fehlen in N. Diese Zahlen stimmen aber
+nicht mit unsern Tafeln für einen Zeitunterschied von 5{sup:h}, {sp:Robert von Chester}
+scheint diesen nicht ganz 4{sup:h} angenommen zu haben, die angenähert richtigen Zahlen
+@n {sup:1}) Wohl für {i:accersitur} = {i:arcessitur} (= herholen, hernehmen).
+@n {sup:2}) {i:Handbuch der mathem. u. technischen Chronologie}, Berlin 1825—26, II, 426—430.
+@n {sup:3}) Denn dieser hat nach dem Zeugnis des {sp:Hermannus Dalmata} das Werk {sp:Al-Battānīs}
+@n ins Lateinische übersetzt, und soll auch die Tafeln desselben für den Meridian von London um-
+@n gerechnet haben. Vergl. oben p. XIII, und {sp:Al-Battānī}, ed. {sp:Nallino} I, {i:Praefatio}, XXXIV–XXXV,
+@n wo aber noch {sp:Rudolphus Brugensis} statt {sp:Hermannus Dalmata} steht.
+@obs The page number «XVIII» stands at the head of the page, centred, with a rule below it. L01-L02 end the marginal note of fol. 9r begun on p. XVII (JP2 0021, L38-L40).
+@obs L02 and L17: «(?)», upright, after a gap of 10 px from the italic word before it (a thin space, as before the colons); L21 «(sic)» upright. L03: the omission in the quotation is printed as three points about 18 px apart, as on p. XI (JP2 0015, L09); transcribed «. . .». L26: the dash of «9—20» is printed in two pieces, as on p. XI; transcribed as one long dash. N05: «XXXIV–XXXV» has a short dash (30 px), where N02 «1825—26» and «426—430» have the long dash (41 px).
+@obs L32-L34: the seconds and minutes of arc are printed with the double and single prime, «18″», «4′ 49″»; L29, L36, L37: the h of the hours raised, «5h», «4h».
+@obs Marks not transcribed: a small comma-shaped speck above the B of «Bekanntlich» (L06) and a light speck above «dicta» (L03).
+@copy A vertical stroke of pencil, about 25 px wide and 330 px long, in the right margin beside L21-L26. Not part of the edition.

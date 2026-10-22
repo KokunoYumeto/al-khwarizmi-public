@@ -1,0 +1,56 @@
+@page 166 134
+@lang la
+% JP2 0166: Tab. 23, p. 134: the equations of the sun and of the moon, the declination of the sun and the latitude of
+% the moon for the arguments 2s 1° to 3s 0° (and 9s 29° to 9s 0°), with the apparatus (notes 1-2 and a-n).
+@ml C 54{sup:r}, O 111{sup:v},
+@c {b:Tadil elscems wa elkamar} (O) — {b:Examinatio solis et lunae} (C)
+@ml N 21{sup:v}.
+@c {b:Coaequatio solis et lunae} (N)
+@tw size=footnotesize span=1.14 0.9 0.8 0.85 0.8 0.7 0.8 0.8 0.7 0.8 0.8 0.75 0.8 0.8 0.7 0.8 0.8
+@t Semitae numeri (O) | | | | Examinatio | | | Examinatio | | | Obliquatio | | | Latitudo | |
+@t Sulci numerorum (C) | | | | Solis | | | Lunae | | | Solis | | | Lunae | |
+@t Computatio | | Computatio | | Motus | | | Motus | | | accedentis | | | accedentis | |
+@t minuenda{sup:1}) | | augenda{sup:2}) | | piger | | | piger | | | | | | | |
+@t et augmentum | | et diminutio | | | | | | | | | | | | |
+@t examinis et | | examinis et | | | | | | | | | | | | |
+@t numeri | | numeri | | | | | | | | | | | | |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 2 | 1 | 9 | 29 | 1{sup:b}) | 56 | 21 | 4 | 17 | 2 | 20 | 42 | 39 | 3 | 56 | 10
+@t 2 | 2 | 9 | 28 | 1 | 57{sup:d}) | 30{sup:f}) | 4 | 19 | 36 | 20 | 55 | 0 | 3 | 58{sup:n}) | 25
+@t 2 | 3 | 9 | 27 | 1 | 58 | 39 | 4 | 22 | 5 | 21 | 7 | 2 | 4 | 0 | 34
+@t 2 | 4 | 9 | 26 | 1{sup:c}) | 59 | 44 | 4 | 24 | 29 | 21 | 18 | 39 | 4 | 2 | 40
+@t 2 | 5 | 9 | 25 | 2 | 0 | 47 | 4 | 26 | 48 | 21 | 29 | 52 | 4 | 4 | 42
+@t 2 | 6 | 9 | 24 | 2 | 1 | 48 | 4 | 29 | 3 | 21 | 40 | 41 | 4 | 6 | 39
+@t 2 | 7 | 9 | 23 | 2 | 2 | 46 | 4 | 31 | 12 | 21 | 51 | 5 | 4 | 8 | 32
+@t 2 | 8 | 9 | 22 | 2 | 3 | 42 | 4 | 33 | 16 | 22 | 1 | 4 | 4 | 10 | 20
+@t 2 | 9 | 9 | 21 | 2 | 4 | 36 | 4 | 35 | 15 | 22 | 10 | 42 | 4 | 12 | 20
+@t 2 | 10 | 9 | 20 | 2 | 5 | 28{sup:g}) | 4 | 37 | 9{sup:k}) | 22 | 19 | 53 | 4 | 13 | 43
+@t 2 | 11 | 9 | 19 | 2 | 6 | 18 | 4 | 38 | 58 | 22 | 28 | 39{sup:l}) | 4 | 15 | 16
+@t 2 | 12 | 9 | 18 | 2 | 7 | 4 | 4 | 40 | 42 | 22 | 37 | 0 | 4 | 16 | 44
+@t 2 | 13 | 9 | 17 | 2 | 7 | 48 | 4 | 42 | 19 | 22 | 44 | 52 | 4 | 18 | 10
+@t 2 | 14 | 9 | 16 | 2 | 8 | 30 | 4 | 44{sup:h}) | 12 | 22 | 52 | 20 | 4 | 19 | 29
+@t 2 | 15 | 9 | 15 | 2 | 9 | 10 | 4 | 45 | 20 | 22 | 59 | 24 | 4 | 20 | 45
+@t 2 | 16 | 9 | 14 | 2 | 9{sup:e}) | 46 | 4 | 46 | 40 | 23 | 5 | 52 | 4 | 21 | 58
+@t 2 | 17 | 9 | 13 | 2 | 10 | 22 | 4 | 47 | 58 | 23 | 12 | 8 | 4 | 23 | 4
+@t 2 | 18 | 9 | 12 | 2 | 10 | 54 | 4 | 49 | 9 | 23 | 17 | 52{sup:m}) | 4 | 24 | 5
+@t 2 | 19 | 9 | 11 | 2 | 11 | 24 | 4 | 50 | 3 | 23 | 23 | 9 | 4 | 25 | 3
+@t 2 | 20 | 9 | 10 | 2 | 11 | 44 | 4 | 50 | 59 | 23 | 27 | 58 | 4 | 25 | 55
+@t 2 | 21 | 9 | 9 | 2 | 12 | 15 | 4 | 51 | 43 | 23 | 32 | 20 | 4 | 26 | 40
+@t 2 | 22 | 9 | 8 | 2 | 12 | 37 | 4 | 52 | 37 | 23 | 36 | 15 | 4 | 27 | 21
+@t 2 | 23 | 9 | 7 | 2 | 12 | 57 | 4 | 53 | 40 | 23 | 39 | 42 | 4 | 27 | 57
+@t 2 | 24 | 9 | 6 | 2 | 13 | 15 | 4 | 54 | 17 | 23 | 42 | 42 | 4 | 28 | 31
+@t 2 | 25 | 9 | 5 | 2 | 13 | 28 | 4 | 55 | 12 | 23 | 45 | 16 | 4 | 28 | 58
+@t 2 | 26 | 9 | 4 | 2 | 13 | 39 | 4 | 55 | 14 | 23 | 47 | 18 | 4 | 29 | 20
+@t 2 | 27 | 9 | 3 | 2 | 13 | 49 | 4 | 55 | 34 | 23 | 48 | 55 | 4 | 29 | 38
+@t 2 | 28 | 9 | 2 | 2 | 13 | 55 | 4 | 55 | 49 | 23 | 50 | 5 | 4 | 29 | 49
+@t 2 | 29 | 9 | 1 | 2 | 13 | 59 | 4 | 55 | 58 | 23 | 50 | 47 | 4 | 29 | 56
+@t 3{sup:a}) | 0 | 9 | 0 | 2 | 14 | 0 | 4 | 56{sup:i}) | 0 | 23 | 51 | 0 | 4 | 30 | 0
+@n {sup:1}) minuenda] O, diminuta vel minuenda C — {sup:2}) augenda] O, aucta vel augenda C.
+@n {sup:a}) 3] ON, 2 C — {sup:b-c}) 1—1] ON, 2—2 C — {sup:d}) 57] 58 ON, {i:om.} C — {sup:e}) 9] ON, 10 C — {sup:f}) 30] 0
+@n OC — {sup:g}) 28] ON, 34 C — {sup:h}) 44] 43 CO — {sup:i}) 56] CO, 55 N — {sup:k}) 9] C, 19 O — {sup:l}) 39] C, 29 O — {sup:m}) 52]
+@n ON, 3 C — {sup:n}) 58] C, 57 O.
+@obs The page number «134» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 23», in bold sans serif, underlined. The titles (L01, L02), in bold, the sigla in roman, as on p. 133 (JP2 0165); the folios of the manuscripts, «C 54r, O 111v,» over «N 21v.», stand at the left of the titles, the letters raised; here as left margin notes. The page has no signature.
+@obs The table: rules and heads as on pp. 132-133 (JP2 0164-0165): «Semitae numeri (O) Sulci numerorum (C)» over the four columns of the arguments, divided below a rule into «Computatio minuenda1) et augmentum examinis et numeri» and «Computatio augenda2) et diminutio examinis et numeri» in five lines of smaller type. Here each head is set from the top, one printed line to a line (L03-L09), the cells separated by our «|»; a head followed by empty cells spans their columns.
+@obs L11-L40. Checked as on p. 132 (JP2 0164), with the arguments 2s 1° to 3s 0° (61° to 90°), at 90° the greatest values 2° 14′, 4° 56′, 23° 51′ and 4° 30′: the equation of the sun, 2° 14′ · δ/ε, to within 1.3″ (with the readings of notes b-g; the edition's 57 and 30 of notes d and f give 1° 57′ 30″ against 1° 57′ 31″ computed), except at 80°, 2° 11′ 44″ against 2° 11′ 50″, and 84° (2″); the declination, sin δ = sin 23° 51′ · sin m, to within 1.5″ (with the readings of notes l and m), except at 72°, 82° and 85° (2″ to 3″) and 76°, 23° 5′ 52″ against 23° 5′ 59″; the latitude of the moon, 4° 30′ · sin m, to within 1.4″ in 23 rows and 3.4″ in six more (with the reading of note n), except at 69°, 4° 12′ 20″ against 4° 12′ 4″, 16″ more, the value that Tab. 24 (p. 135, JP2 0167) has at 111°.
+@obs L11-L40, the equation of the moon, 4° 56′ · δ/ε. Checked: within 1.3″ in 24 rows (with the readings of notes i and k), except at 74°, 79°-82° and 85°. At 74° the edition prints 4° 44′ 12″ with the editor's 44 against the 43 of C and O (note h): the computation gives 4° 43′ 52″, so that 43′ 12″ is 40″ less and the printed value 20″ more; Tab. 24 (p. 135, JP2 0167) has at 106°, the same distance from 90°, 4° 43′ 52″, so that the error of C and O lies in the seconds, 12 for 52, not in the minutes. At 79°-82° the table has 4° 50′ 3″, 4° 50′ 59″, 4° 51′ 43″ and 4° 52′ 37″, 11″ to 25″ less than computed (4° 50′ 14″, 4° 51′ 14″, 4° 52′ 8″, 4° 52′ 57″), at 85° 4° 55′ 12″ against 4° 54′ 48″, 24″ more, and 86° adds only 2″ to it.
+@obs N02: «b-c) 1—1] ON, 2—2 C», the degrees of the sun at 61° and 64°, the long dashes set close. A dark speck above the 4 of «43», the seconds of the moon at 81° (L31); not transcribed.

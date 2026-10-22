@@ -1,0 +1,22 @@
+{
+ "anchor": "AK07-J0292",
+ "jp2_index": 292,
+ "jp2_member": "b24872489_0292.jp2",
+ "jp2_sha256": "8252d5a061558ea3cbe0a8f5bfe0399a465778146affb1d534be666221f21cef",
+ "reading_copy": "page_0292.jpg",
+ "reading_copy_sha256": "cc725074186163687f4910f89f94a3d7968226db732039e1fcb203f5ba5bd5f9",
+ "printed_page": "-",
+ "kind": "blank",
+ "language": null,
+ "role": "blank",
+ "file": "suter",
+ "comment": "JP2 0292: the verso of the free endpaper; nothing printed.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Blank: the verso of the free endpaper (JP2 0291); small specks and creases."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

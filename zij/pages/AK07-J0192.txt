@@ -1,0 +1,65 @@
+@page 192 160
+@lang la
+% JP2 0192: Tab. 49, p. 160: the equations of Venus, with its corrected apogee, first station and latitude, for the
+% arguments 4s 1° to 5s 0° (and 7s 29° to 7s 0°), with the apparatus (notes 1-4 and a-v).
+@c {b:Coaequatio Veneris} (N)
+@c {b:Elzohara} (O)
+@ml C 67{sup:r}, O 124{sup:v},
+@c {b:Examinatio Veneris} (C)
+@ml N 31{sup:v}.
+@c {b:Locus autem{sup:1}) draconis eius 1. 29. 27} (CN)
+@tw size=footnotesize span=1.14 0.85 0.85 0.85 0.85 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.75
+@t Pagina numerorum (O) |  |  |  | Sublimatio |  |  | Exami- |  | Exami- |  | Statio prima |  |  | Latitudo Veneris |  |  |  |
+@t Semita numerorum (C) |  |  |  | ascensus{sup:2}) |  |  | natio |  | natio |  | Veneris |  |  | recedentis |  |  |  |
+@t Augmentum |  | Diminutio |  | Veneris |  |  | ipsius |  | centri |  |  |  |  | {b:prima} |  | {b:secunda} |  |
+@t proprietatum |  | proprietatum |  | examinata{sup:3}) |  |  | elheza{sup:4}) |  |  |  |  |  |  |  |  |  |  |
+@t omnium |  | omnium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr} | {b:Min.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 4 | 1 | 7 | 29 | 1 | 28 | 35 | 45 | 21 | 1 | 53 | 5 | 17 | 47 | 1 | 12 | 4 | 17 | 9
+@t 4 | 2 | 7 | 28 | 1 | 28 | 29 | 45 | 33{sup:d}) | 1 | 52 | 5 | 17 | 48 | 1 | 11 | 4 | 14 | 25
+@t 4 | 3 | 7 | 27 | 1 | 28 | 23 | 45 | 45 | 1 | 51 | 5 | 17 | 49 | 1 | 10 | 4 | 11 | 36
+@t 4 | 4 | 7 | 26 | 1 | 28 | 17 | 45 | 56{sup:e}) | 1 | 50 | 5 | 17 | 50 | 1 | 9 | 4 | 8 | 43
+@t 4 | 5 | 7 | 25 | 1 | 28 | 12 | 46 | 6 | 1 | 49 | 5 | 17 | 50 | 1 | 8 | 4 | 5 | 45
+@t 4 | 6 | 7 | 24 | 1 | 28 | 7 | 46 | 16 | 1 | 47 | 5 | 17 | 51 | 1 | 7 | 4 | 2 | 42
+@t 4 | 7 | 7 | 23 | 1 | 28 | 3 | 46 | 25 | 1 | 46 | 5 | 17 | 52 | 1 | 6 | 3 | 59 | 35
+@t 4 | 8 | 7 | 22 | 1 | 27 | 58 | 46 | 35 | 1 | 44 | 5 | 17 | 53 | 1 | 5 | 3 | 56 | 24
+@t 4 | 9 | 7 | 21 | 1 | 27 | 53 | 46 | 44 | 1 | 43 | 5 | 17 | 53 | 1 | 4 | 3 | 53 | 9
+@t 4 | 10 | 7 | 20 | 1 | 27 | 49 | 46 | 52 | 1 | 42 | 5 | 17 | 54 | 1 | 3 | 3 | 49 | 49
+@t 4 | 11 | 7 | 19 | 1 | 27 | 46 | 46 | 58 | 1 | 41 | 5 | 17 | 55 | 1 | 2 | 3 | 46 | 25
+@t 4 | 12 | 7 | 18 | 1 | 27 | 44 | 47{sup:c}) | 3 | 1 | 40 | 5 | 17 | 56 | 1 | 1 | 3 | 42 | 57
+@t 4 | 13 | 7 | 17 | 1 | 27 | 42 | 47 | 6 | 1 | 38 | 5 | 17 | 57 | 1 | 0 | 3 | 39 | 24
+@t 4 | 14 | 7 | 16 | 1 | 27 | 41 | 47 | 9 | 1 | 36 | 5 | 17 | 58 | 0 | 59 | 3 | 35 | 48
+@t 4 | 15 | 7 | 15 | 1 | 27 | 40 | 47 | 11 | 1 | 35 | 5 | 17 | 59 | 0 | 58 | 3 | 32 | 8{sup:g})
+@t 4 | 16 | 7 | 14 | 1 | 27 | 40 | 47 | 10 | 1 | 33{sup:f}) | 5 | 18 | 0 | 0 | 57 | 3 | 28 | 24{sup:h})
+@t 4 | 17 | 7 | 13 | 1 | 27 | 41 | 47 | 9 | 1 | 31 | 5 | 18 | 1 | 0 | 56 | 3 | 24 | 36{sup:i})
+@t 4 | 18 | 7 | 12 | 1 | 27 | 42 | 47 | 7 | 1 | 29 | 5 | 18 | 2 | 0 | 55 | 3 | 20 | 44{sup:k})
+@t 4 | 19 | 7 | 11 | 1 | 27 | 43 | 47 | 5 | 1 | 27 | 5 | 18 | 3 | 0 | 54 | 3 | 16 | 48
+@t 4 | 20 | 7 | 10 | 1 | 27 | 44 | 47 | 2 | 1 | 25 | 5 | 18 | 3 | 0 | 53 | 3 | 12 | 50{sup:l})
+@t 4 | 21 | 7 | 9 | 1 | 27 | 46 | 46 | 59 | 1 | 23 | 5 | 18 | 4 | 0 | 52 | 3 | 8 | 48{sup:m})
+@t 4 | 22 | 7 | 8 | 1 | 27 | 48{sup:b}) | 46 | 55 | 1 | 21 | 5 | 18 | 5 | 0 | 51 | 3 | 4 | 42{sup:n})
+@t 4 | 23 | 7 | 7 | 1 | 27 | 52 | 46 | 48 | 1 | 20 | 5 | 18 | 5 | 0 | 50 | 3 | 0 | 32{sup:o})
+@t 4 | 24 | 7 | 6 | 1 | 27 | 55 | 46 | 37 | 1 | 18 | 5 | 18 | 6 | 0 | 49 | 2 | 56 | 20{sup:p})
+@t 4 | 25 | 7 | 5 | 1 | 28 | 3 | 46 | 26 | 1 | 16 | 5 | 18 | 7 | 0 | 47 | 2 | 52 | 3{sup:q})
+@t 4 | 26 | 7 | 4 | 1 | 28 | 9 | 46 | 12 | 1 | 14 | 5 | 18 | 7 | 0 | 46 | 2 | 47{sup:u}) | 45{sup:r})
+@t 4 | 27 | 7 | 3 | 1 | 28 | 16 | 45 | 58 | 1 | 12 | 5 | 18 | 8 | 0 | 45 | 2 | 43 | 23{sup:s})
+@t 4 | 28 | 7 | 2 | 1 | 28 | 24 | 45 | 43 | 1 | 10 | 5 | 18 | 9 | 0 | 44 | 2 | 39{sup:v}) | 0
+@t 4 | 29 | 7 | 1 | 1 | 28 | 32 | 45 | 27 | 1 | 8 | 5 | 18 | 9 | 0 | 43 | 2 | 34 | 31{sup:t})
+@t 5{sup:a}) | 0 | 7 | 0 | 1 | 28 | 40 | 45 | 10 | 1 | 6 | 5 | 18 | 10 | 0 | 42 | 2 | 30 | 1
+@n {sup:1}) Locus autem] N, Locusque C — {sup:2}) ascensus O, {i:om.} C — {sup:3}) examinata] O, definita C — {sup:4}) ip-
+@n sius elheza] O, argumenti C.
+@n {sup:a}) 5] N, 4 CO — {sup:b}) 48] C, 47 O — {sup:c}) 47] ON, 46 C — {sup:d}) 33] C, 34 O — {sup:e}) 56] ON, 46 C —
+@n {sup:f}) 33] ON, 34 C — {sup:g}) 8] 36 CO — {sup:h}) 24] 44 CO — {sup:i}) 36] 49 CO — {sup:k}) 44] 50 CO — {sup:l}) 50] 42 CO —
+@n {sup:m}) 48) 33 CO — {sup:n}) 42] 20 CO — {sup:o}) 32] 4 CO — {sup:p}) 20] 45 CO — {sup:q}) 3] 23 CO — {sup:r}) 45] 59 CO — {sup:s}) 23]
+@n 31 CO — {sup:t}) 31] 1 CO — {sup:u}) 47] CO, 57 N — {sup:v}) 39] 38 CO.
+@obs The page number «160» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 49», in bold sans serif, underlined. The page has no signature. The titles (L01-L04), in bold, the sigla in roman, as on p. 158 (JP2 0190); L04, «Locus autem1) draconis eius 1. 29. 27», in smaller bold type, followed by «(CN)». The folios of the manuscripts stand at the left of L03 and L04, «C 67r, O 124v,» and «N 31v.», the letters raised; here as left margin notes.
+@obs The table: rules and heads as on p. 159 (JP2 0191), with «Pagina numerorum (O) Semita numerorum (C)», where pp. 157-159 have «Semita numeri (C)»; «Sublimatio ascensus2) Veneris examinata3)»; «Examinatio ipsius elheza4)» and «Examinatio centri»; «Statio prima Veneris»; «Latitudo Veneris recedentis», without a note, over «prima» and «secunda». Here each head is set from the top, one printed line to a line (L05-L09), the cells separated by our «|»; a head followed by empty cells spans their columns. L10, the units, in bold.
+@obs L11-L40. Checked as on p. 156 (JP2 0188): the Sublimatio is 2s 21° 15′ less half the Examinatio argumenti in every row, a half minute counted as a whole, except at 143°-145° (L33-L35): 1s 27° 52′, 1s 27° 55′ and 1s 28° 3′, where the Examinatio argumenti of the rows, 46° 48′, 46° 37′ and 46° 26′, requires 1s 27° 51′, 1s 27° 57′ and 1s 28° 2′; the steps of the Sublimatio from 142° to 146° are 4′, 3′, 8′ and 6′ against 3′, 6′, 5′ and 7′ by the rule. No note of the apparatus bears on these figures. The Sublimatio reaches its least value, 1s 27° 40′, at 135° and 136°, where the Examinatio argumenti has its greatest, 47° 11′ at 135°.
+@obs L11-L40, the Examinatio argumenti. The radius that reproduces each value as the equation of an epicycle is between 43.95 and 44.10 in every row, against 43.99 to 44.08 on p. 159 (JP2 0191). The column has its greatest value at 135°, 47° 11′, and falls by 1′ to 3′ a degree to 141°, then by 4′ to 17′ a degree to 45° 10′ at 150°; an epicycle of radius 44.0 has its greatest equation, 47° 10′, at 137.2°. Against that epicycle the table is 3.6′ to 7.5′ larger from 121° to 135° and up to 5.3′ smaller from 137° to 149° (146°: 46° 12′ for 46° 17.3′); in this range a change of the radius by 0.1 changes the equation by 6′ to 11′.
+@obs L11-L40, the Latitudo secunda. It is 5° · sin x to within 0.5″ in every row except at 139°, 143°, 145°, 148° and 150°: 3° 16′ 48″ at 139°, 1.1″ less than 3° 16′ 49.1″; 3° 0′ 32″ at 143°, 0.7″ less than 3° 0′ 32.7″, the value of 37° on p. 157 (JP2 0189); 2° 52′ 3″ at 145°, 1.4″ less than 2° 52′ 4.4″ (note q); 2° 39′ 0″ at 148°, 1.5″ more than 2° 38′ 58.5″ (note v); and 2° 30′ 1″ at 150°, 1″ more than 2° 30′ 0″, without a note.
+@obs Notes g-v. In C and O the seconds of the Latitudo secunda from 135° to 148° are those of the argument two degrees further on: their 36, 44, 50, 42, 33, 20, 4, 45, 23, 59 and 31 at 135°-138°, 140°-145° and 147° (notes g-s) are the seconds of 5° · sin (x + 2°), 3° 24′ 36.0″ at 137° and so on, and the 48 of 139° and the 0 of 148°, which the apparatus does not report, are the seconds of 141° and 150°. The edition restores the seconds of the row in the thirteen noted places, all within 1″ of the computation except at 145° (3 for 4.4); at 139° it keeps the shifted 48, and at 148° (note v) it changes C and O's minutes, 38, to 39, for 2° 38′ 58.5″. At 149° (note t) C and O have 1, the seconds of 150°.
+@obs L11-L40, the other columns: the Examinatio centri decreases from 1° 53′ at 121° by 1′ or 2′ a degree to 1° 6′ at 150°; it lies between 1.9′ below and 0.4′ above 2° 14′ · sin x, and its value for 180° − y is that of y on pp. 156-157 (JP2 0188-0189) except at 121°, 122° and 150°, where it is 1′ smaller (1° 53′, 1° 52′ and 1° 6′ against 1° 54′, 1° 53′ and 1° 7′ at 59°, 58° and 30°), and at 131°-133°, where it is 1′ larger (1° 41′, 1° 40′ and 1° 38′ against 1° 40′, 1° 39′ and 1° 37′). The Statio prima increases from 5s 17° 47′ to 5s 18° 10′ by 0′ or 1′ a degree. The Latitudo prima decreases from 1° 12′ at 121° by 1′ a degree to 0° 42′ at 150°, by 2′ from 144° to 145°.
+@obs Notes on the readings. Note a: the last argument, 5s 0°, is N's; C and O have 4. Checked: the Sublimatio 1s 27° 48′ at 142° (note b, C, against O's 47) agrees with the rule; the Examinatio argumenti 47° 3′ at 132° (note c, O and N, against C's 46) and 45° 56′ at 124° (note e, O and N, against C's 46) with the steps of the column and the Sublimatio of their rows; at 122° (note d) the edition prints C's 45° 33′, where the Sublimatio of the row, 1s 28° 29′, requires 45° 32′ or 45° 33′ and O has 34; the Examinatio centri 1° 33′ at 136° (note f, O and N, against C's 34) with the steps of 2′; the minutes 47 of the Latitudo secunda at 146° (note u, C and O, against N's 57).
+@obs Italics: «om.». N01-N02: «ip-sius», divided at the end of the line with a hyphen. L10, «Gr» without its point in the units of the Examinatio centri; N01, «ascensus O» without its bracket; N05, «m) 48) 33 CO»: see the critical notes.
+@critical AK07-CN145 | missing point | L10 | {b:Gr} | {b:Gr.} | the units «Gr.» of the other columns and of the Examinatio centri on pp. 156-159 (JP2 0188-0191) | high | none
+@critical AK07-CN146 | missing bracket | N01 | {sup:2}) ascensus O, | {sup:2}) ascensus] O, | the lemma of a note is closed by a square bracket before the sigla, as «examinata] O» in the same line and «ascensus] O» on p. 158 (JP2 0190, note 1) | high | none
+@critical AK07-CN147 | wrong bracket | N05 | {sup:m}) 48) 33 CO | {sup:m}) 48] 33 CO | the lemma of a note is closed by a square bracket, as «n) 42] 20 CO» beside it; a parenthesis is printed after 48 | high | none

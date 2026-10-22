@@ -1,0 +1,44 @@
+@page 87 ٧١
+% Frame 087, printed p. 71: the example of frame 086 continued: the son, who allows both bequests, gives up two fifths
+% and a quarter of his share and keeps seven parts of twenty; the mother keeps as much as she gives; an estate of two
+% hundred and forty: the mother forty, of which twenty to the bequests, the husband sixty, of which twenty, the son a
+% hundred and forty, of which ninety-one; the bequests a hundred and thirty-one, shared between the two legatees eight
+% to five; times thirteen, three thousand one hundred and twenty. Then, under «فان أجاز» in bold, a second case: the
+% son allows the two fifths to their holder only, the mother the quarter to its holder only, the husband nothing
+% beyond the third: the third holds against all the heirs and is shared eight to five; the shares from twelve; what
+% the mother allows from her own share, continued on the next page. Below the rule one footnote of the editors.
+سهم وله سهمان . وأما الابن الذى أجاز الوصيتين جميعاً فينبغى أن يؤخذ منه
+خمسا جميع ماله وربعه فيبقى فى يده سبعة أسهم من عشرين سهما والذى له كله
+عشرون سهما . وأما الأم فينبغى أن يبقى فى يدها مثل ما يخرج من يدها وهو
+واحد وجميع ما كان لها اثنان . فخذ مالا يكون لربعه ثلث ولسدسه نصف
+ويكون مايبقى ينقسم بين عشرين فذلك مائتان واربعون . للأم من ذلك السدس
+وهو اربعون الوصية من ذلك عشرون ولها عشرون . وللزوج من ذلك الربع
+ستون الوصية من ذلك عشرون وله اربعون . ويبقى مائة واربعون للابن. الوصية
+من ذلك خمساه وربعه وهو واحد وتسعون وتبقى تسعة واربعون فجميع الوصية
+مائة وأحد وثلاثون بين الرجلين الموصى لهما لصاحب الخمسين من ذلك ثمانية
+أجزاء من ثلاثة عشر جزءاً ولصاحب الربع خمسة أجزاء من ثلاثةعشر جزءاً فان
+أردت أن تصحح سهام الرجلين الموصى لهما فاضرب سهام الفريضة فى ثلاثة عشر
+يصبح من ثلاثة آلاف ومائة وعشرين . {b:فان أجاز} الابن الخمسين لصاحب
+الخمسين ولم يجز للآخر شيئا وأجازت الأم الربع لصاحب الربع ولم تجز للآخر
+شيئا ولم يجز الزوج لهما الا الثلث فاعلم أن الثلث للرجلين جائز على جميع الورثة
+يضرب فيه صاحب الخمسين بثمانية أجزاء من ثلاثة عشر جزءاً وصاحب الربع
+بخمسة أجزاء من ثلاثة عشر فأقم الفريضة على ما ذكرت لك فيكون اثنى عشر
+للزوج الربع وللأم السدس وللابن ما بقى . وقياسه انك تعلم أن الزوج يخرج
+من يده ثلث حصته على كل حال فينبغى أن يكون فى يده ثلاثة اسهم وأن الأم
+يخرج من يدها الثلث لكل واحد بقدر حصته فهى اذا أجازت لصاحب الربع
+من خاصة حصتها فضل ما بين الربع وحصته من نصيبها {n:١} وهى تسعة عشر
+@ednotes ١ 3
+@obs L12: the words فان أجاز (L12) are printed in a bold face, the run-in heading of the second case of the example, after a full stop; the words that follow are in the face of the text. The bold ن is printed without its dot, as on frames 055-086; transcribed ن.
+@obs L12: «يصبح», as printed: between the ص and the ح the print has a tooth with one dot below, a ب, which تصحح (L11), in the line above, does not have between its ص and ح; the sense requires يصح, the shares come out whole. See the critical note AK01-CN025.
+@obs L14: «جائز», with the hamza on its seat, where the same word is printed جايز (frame 086, L05), with a dotted ي; both are transcribed as printed.
+@obs Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): مايبقى (L05; 18 between the alif and the ي, where an alif stands 17 to 20 px from a tooth inside a word on this page, in مائة (L07, L09), مائتان (L05) and اثنان (L04), and 22 to 32 px where a space is set, in ما يخرج (L03), ما بقى (L17) and ما بين (L20)); ثلاثةعشر (L10, the second; 5 between the ة and the ع, where the same words with a space stand 22 apart earlier in the line).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: الوصية من (L07; 15 between the ة and the م, at the boundary between the gaps after ة without a space, 1 to 14, and with one, 16 or more; in doubt, the space is written; the same words have 23 in L06); الفريضة فى (L11; 18 between the ة and the ف); أجزاء من (L10, the first; 16 between the hamza on the line and the م, where the hamza stands 4 to 11 px from the next letter without a space; the same words have 20 later in the line, 19 in L15 and 20 in L16).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: بين عشرين, فذلك مائتان (L05; 2 between the ك and the م), من ذلك (L07; 8 between the ن and the ذ), ذلك عشرون (L07; 8 between the ك and the ع), واربعون للابن (L07; 9 between the ن and the ل), ذلك خمساه (L08; 8), أن تصحح (L11; 13).
+@obs ذكرت (L16) is transcribed as one word: the print sets its ك 34 px (nearest approach of the letter bodies at 400 ppi) from the ذ, as it sets an initial ك far from a letter that does not join it (the conjunction و stands 39 to 41 px from the ك of وكذلك on frame 048); the ذ stands 28 px from the alif of ما before it.
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after سهمان, before وأما (L01; 26 and 25), after سهما, before وأما (L03; 35 and 26), after اثنان, before فخذ (L04; 28 and 29), after واربعون, before للأم (L05; 20 and 29), after عشرون, before وللزوج (L06; 26 and 25), after اربعون, before ويبقى (L07; 27 and 26), after وعشرين, before the bold فان (L12; 27 and 42), after بقى, before وقياسه (L17; 32 and 24). The second full stop of L07 stands close after للابن, 11 px from the ن, and 23 px before الوصية, and is transcribed so. The note mark (١) stands in a space of 134 px between نصيبها and وهى (L20; 30 px after the word and 49 before the next), without a full stop.
+@obs Plain alif where a hamza might be expected, as printed: الابن (L01), اثنان (L04), واربعون (L05), اربعون (L06), اربعون, واربعون, للابن (L07), واربعون (L08), الابن (L12), الا (L14), اثنى (L16), وللابن, انك (L17), اسهم (L18), اذا (L19); with hamza: وأما, أجاز, أن (L01), أسهم (L02), وأما, الأم, أن (L03), للأم (L05), وأحد (L09), أجزاء (L10, twice), أردت, أن (L11), the bold أجاز (L12), وأجازت, الأم (L13), أن (L14), أجزاء (L15), أجزاء, فأقم (L16), وللأم, أن (L17), أن, وأن, الأم (L18), أجازت (L19); on و: يؤخذ (L01); on ي: مائتان (L05), مائة (L07, L09), ومائة (L12), جائز (L14); with madda: آلاف (L12), للآخر (L13, twice); the hamza on the line: أجزاء (L10, twice; L15; L16), جزءاً (L10, twice; L15).
+@obs With tanwīn on the final alif: جميعاً (L01), جزءاً (L10, twice; L15); without tanwīn as printed: سهما (L02, L03), مالا (L04), شيئا (L13, L14).
+@obs The final yā' is printed without dots: الذى, فينبغى (L01), فيبقى, فى, والذى (L02), فينبغى, يبقى, فى (L03), مايبقى (L05), ويبقى (L07), وتبقى (L08), الموصى (L09, L11), فى (L11), على (L14, L16), اثنى (L16), بقى (L17), على, فينبغى, فى (L18), فهى (L19), وهى (L20).
+@obs The print stretches وجميع (L04, between the ي and the ع) and لكل (L19, between the ل and the ك) with the elongation stroke; the stroke is not transcribed.
+@obs Note (١) of the editors works out the holder of the quarter in the second case: of the third, which the two legatees share eight to five, he receives 5/13, so that 5/39 of what the mother receives comes to him through the third; the difference from the quarter, 1/4 − 5/39 = 19/156, is what she allows him from her own share. The values check exactly. The note is not reproduced.
+@critical AK01-CN025 | superfluous letter | L12 | يصبح | يصح | The sentence gives the number from which the shares of the two legatees come out whole: «فاضرب سهام الفريضة فى ثلاثة عشر يصح من ثلاثة آلاف ومائة وعشرين», with the verb of «أن تصحح سهام الرجلين» in L11, the term for making shares whole; the print has an extra tooth with one dot below, a ب, between the ص and the ح, which gives يصبح, it becomes, a verb found nowhere else in the text transcribed so far, which says فيصير for a result (frame 085, L11). | high that the sense requires يصح; whether the extra letter is the print's or the manuscript's is not known | none on the mathematics: 240 × 13 = 3120 either way

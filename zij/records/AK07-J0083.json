@@ -1,0 +1,769 @@
+{
+ "anchor": "AK07-J0083",
+ "jp2_index": 83,
+ "jp2_member": "b24872489_0083.jp2",
+ "jp2_sha256": "b1c1bfcbf9511ae2a40da7becd4984a77ddbc057564a1ec544f52304e20d39a1",
+ "reading_copy": "page_0083.jpg",
+ "reading_copy_sha256": "351c333fad28a9ca4a61294e47aaa6cca60758f9ae00cc59f360b40beb867a54",
+ "printed_page": "51",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0083: Suter's commentary, p. 51: chapter 10 continued: al-Bīrūnī's \"Reasons of the tables of al-Khwārizmī\", unpublished, in Ibn ʿEzrā's Hebrew translation; the rules of the Sūrya-Siddhānta (II, 43-44) for the true places of the planets in Burgess's translation, with his commentary; the two halvings of the equation (notes 1-3).",
+ "lines": [
+  {
+   "id": "AK07-J0083-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "und besonders bei diesem Kapitel über die wahren Örter der Planeten, dass die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "und besonders bei diesem Kapitel über die wahren Örter der Planeten, dass die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "„Gründe der Tafeln des {sp:Kh.}“ von {sp:Al-Bīrūnī}{sup:1}), in der hebräischen Übersetzung des",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "„Gründe der Tafeln des Kh.“ von Al-Bīrūnī1), in der hebräischen Übersetzung des",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh.",
+    "Al-Bīrūnī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "{sp:Ibn ʿEzrā} noch existierend, noch nicht zur Veröffentlichung gelangt sind.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Ibn ʿEzrā noch existierend, noch nicht zur Veröffentlichung gelangt sind.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ibn ʿEzrā"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L04",
+   "n": 4,
+   "kind": "indent",
+   "text": "Sehen wir noch zu, was der {i:Sūrya-Siddhānta} über die Bestimmung des wahren",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Sehen wir noch zu, was der Sūrya-Siddhānta über die Bestimmung des wahren",
+   "italic": [
+    "Sūrya-Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "Ortes der Planeten enthält. Seine Regeln{sup:2}) sind wesentlich komplizierter als diejenigen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Ortes der Planeten enthält. Seine Regeln2) sind wesentlich komplizierter als diejenigen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "{sp:Kh.}’s, woraus wir wohl den Schluss ziehen dürfen, dass schon die persischen Tafeln des",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kh.’s, woraus wir wohl den Schluss ziehen dürfen, dass schon die persischen Tafeln des",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "{i:Shāh} eine Vereinfachung der indischen Methode vorgenommen hatten. Ich führe hier",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Shāh eine Vereinfachung der indischen Methode vorgenommen hatten. Ich führe hier",
+   "italic": [
+    "Shāh"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "nur die Verse 43 u. 44 (des II. Buches) in der engl. Übersetzung von E. {sp:Burgess}{sup:3}) an :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nur die Verse 43 u. 44 (des II. Buches) in der engl. Übersetzung von E. Burgess3) an :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Burgess"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L09",
+   "n": 9,
+   "kind": "indent",
+   "text": "43. {i:The process of correction for the apsis is the only one required for the sun and}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "43. The process of correction for the apsis is the only one required for the sun and",
+   "italic": [
+    "The process of correction for the apsis is the only one required for the sun and"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "{i:moon ; for Mars and the other planets are prescribed that for the conjunction, that for}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "moon ; for Mars and the other planets are prescribed that for the conjunction, that for",
+   "italic": [
+    "moon ; for Mars and the other planets are prescribed that for the conjunction, that for"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "{i:the apsis, again that for the apsis and that for the conjunction — four in succession.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "the apsis, again that for the apsis and that for the conjunction — four in succession.",
+   "italic": [
+    "the apsis, again that for the apsis and that for the conjunction — four in succession."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L12",
+   "n": 12,
+   "kind": "indent",
+   "text": "44. {i:To the mean place of the planet apply half the equation of the conjunction,}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "44. To the mean place of the planet apply half the equation of the conjunction,",
+   "italic": [
+    "To the mean place of the planet apply half the equation of the conjunction,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "{i:likewise half the equation of the apsis ; to the mean place of the planet apply the whole}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "likewise half the equation of the apsis ; to the mean place of the planet apply the whole",
+   "italic": [
+    "likewise half the equation of the apsis ; to the mean place of the planet apply the whole"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "{i:equation of the apsis and also that of the conjunction.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "equation of the apsis and also that of the conjunction.",
+   "italic": [
+    "equation of the apsis and also that of the conjunction."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L15",
+   "n": 15,
+   "kind": "indent",
+   "text": "Mit diesen Regeln würde man ohne Kommentar wohl nicht viel anfangen können,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Mit diesen Regeln würde man ohne Kommentar wohl nicht viel anfangen können,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "wir sehen nur soviel daraus, dass es sich dabei auch um {i:Halbierung} der {i:Gleichung}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wir sehen nur soviel daraus, dass es sich dabei auch um Halbierung der Gleichung",
+   "italic": [
+    "Halbierung",
+    "Gleichung"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "handelt. {sp:Burgess} kommentiert diese Verse in folgender Weise :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "handelt. Burgess kommentiert diese Verse in folgender Weise :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Burgess"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L18",
+   "n": 18,
+   "kind": "indent",
+   "text": "{i:The phraseology of the text is not entirely explicit, and would bear, if taken alone,}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "The phraseology of the text is not entirely explicit, and would bear, if taken alone,",
+   "italic": [
+    "The phraseology of the text is not entirely explicit, and would bear, if taken alone,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "{i:a different interpretation from that which the commentary puts upon it, and which the}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "a different interpretation from that which the commentary puts upon it, and which the",
+   "italic": [
+    "a different interpretation from that which the commentary puts upon it, and which the"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "{i:rules to be given later show to be its true meaning ; this is as follows : first calculate}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "rules to be given later show to be its true meaning ; this is as follows : first calculate",
+   "italic": [
+    "rules to be given later show to be its true meaning ; this is as follows : first calculate"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "{i:from the mean place of the planet the equation of the conjunction, and apply the half}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "from the mean place of the planet the equation of the conjunction, and apply the half",
+   "italic": [
+    "from the mean place of the planet the equation of the conjunction, and apply the half"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "{i:of it to the mean place ; from the position thus obtained calculate the equation of the}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "of it to the mean place ; from the position thus obtained calculate the equation of the",
+   "italic": [
+    "of it to the mean place ; from the position thus obtained calculate the equation of the"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "{i:apsis, and apply half of it to the longitude as already once equated ; from this result}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "apsis, and apply half of it to the longitude as already once equated ; from this result",
+   "italic": [
+    "apsis, and apply half of it to the longitude as already once equated ; from this result"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "{i:find once more the equation of the apsis and apply it to the original mean place of the}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "find once more the equation of the apsis and apply it to the original mean place of the",
+   "italic": [
+    "find once more the equation of the apsis and apply it to the original mean place of the"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "{i:planet ; and finally calculate from and apply to this last place the whole equation of}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "planet ; and finally calculate from and apply to this last place the whole equation of",
+   "italic": [
+    "planet ; and finally calculate from and apply to this last place the whole equation of"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "{i:the conjunction.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "the conjunction.",
+   "italic": [
+    "the conjunction."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L27",
+   "n": 27,
+   "kind": "indent",
+   "text": "{sp:Burgess} gibt dann Beispiele für die Berechnung der wahren Örter der fünf",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Burgess gibt dann Beispiele für die Berechnung der wahren Örter der fünf",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Burgess"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "Planeten nach diesen Regeln. Wir haben uns lange mit der Vergleichung dieser",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Planeten nach diesen Regeln. Wir haben uns lange mit der Vergleichung dieser",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "Berechnungen mit den nach den Regeln {sp:Kh.}’s ausgeführten beschäftigt, aber den",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Berechnungen mit den nach den Regeln Kh.’s ausgeführten beschäftigt, aber den",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "wahren Zusammenhang nicht herausfinden können. Im {i:Sūrya-Siddhānta} wird zwei",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wahren Zusammenhang nicht herausfinden können. Im Sūrya-Siddhānta wird zwei",
+   "italic": [
+    "Sūrya-Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "mal eine Gleichung halbiert : zuerst die {i:Gleichung der Konjunktion} (bei uns {i:Gleichung}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mal eine Gleichung halbiert : zuerst die Gleichung der Konjunktion (bei uns Gleichung",
+   "italic": [
+    "Gleichung der Konjunktion",
+    "Gleichung"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "{i:des Centrums}), und die Hälfte dieser Gleichung der mittlern Länge des Planeten hin-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des Centrums), und die Hälfte dieser Gleichung der mittlern Länge des Planeten hin-",
+   "italic": [
+    "des Centrums"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "zugefügt ; hierauf wird die {i:Gleichung der Apsis} (des Epizykels, bei uns {i:Gleichung der}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zugefügt ; hierauf wird die Gleichung der Apsis (des Epizykels, bei uns Gleichung der",
+   "italic": [
+    "Gleichung der Apsis",
+    "Gleichung der"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "{i:Anomalie}) halbiert, und die Hälfte wieder der neuen, korrigierten Länge des Planeten",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Anomalie) halbiert, und die Hälfte wieder der neuen, korrigierten Länge des Planeten",
+   "italic": [
+    "Anomalie"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "hinzugefügt ; dann wird von dieser zum zweiten mal korrigierten Länge wieder die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "hinzugefügt ; dann wird von dieser zum zweiten mal korrigierten Länge wieder die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L36",
+   "n": 36,
+   "kind": "text",
+   "text": "{i:Gleichung der Anomalie} bestimmt und diese zur ursprünglichen mittlern Länge",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Gleichung der Anomalie bestimmt und diese zur ursprünglichen mittlern Länge",
+   "italic": [
+    "Gleichung der Anomalie"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "addiert, endlich wird von diesem Resultate die {i:Gleichung des Centrums} bestimmt und",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "addiert, endlich wird von diesem Resultate die Gleichung des Centrums bestimmt und",
+   "italic": [
+    "Gleichung des Centrums"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L38",
+   "n": 38,
+   "kind": "text",
+   "text": "dieselbe zu dem vorhin erhaltenen Resultate addiert, so hat man die {i:wahre Länge}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dieselbe zu dem vorhin erhaltenen Resultate addiert, so hat man die wahre Länge",
+   "italic": [
+    "wahre Länge"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-L39",
+   "n": 39,
+   "kind": "text",
+   "text": "des Planeten. {sp:Burgess} hat nach diesen Regeln den wahren Ort des Saturns für",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des Planeten. Burgess hat nach diesen Regeln den wahren Ort des Saturns für",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Burgess"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Oder {sp:Aḥmed b. al-Muthannā}, vergl. {i:Biblioth. mathem.} 3. Folge, XII, p. 282.",
+   "margin": null,
+   "plain": "1) Oder Aḥmed b. al-Muthannā, vergl. Biblioth. mathem. 3. Folge, XII, p. 282.",
+   "italic": [
+    "Biblioth. mathem."
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Aḥmed b. al-Muthannā"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "{sup:2}) {i:Transl.} {sp:Burgess}, p. 211—216.",
+   "margin": null,
+   "plain": "2) Transl. Burgess, p. 211—216.",
+   "italic": [
+    "Transl."
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Burgess"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0083-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "{sup:3}) Ibid. p. 214—215.",
+   "margin": null,
+   "plain": "3) Ibid. p. 214—215.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «51» stands at the head of the page, centred, with a rule below it. At the foot, the signature «7*» on the right. L01: «und besonders» continues «Sehr bedauert aber haben wir bei unsrer Kommentierungs-Arbeit,» at the end of p. 50 (JP2 0082, L40).",
+  "L09-L14 and L18-L26: the two quotations from Burgess's translation of the Sūrya-Siddhānta (Journal of the American Oriental Society 6, 1860), set in italics in the full measure, each paragraph indented; the numbers of the verses, «43.» and «44.», upright. L11: «— four in succession.», the long dash with a space on either side.",
+  "L09-L39: the procedure of the Sūrya-Siddhānta as Burgess's commentary explains it: half the equation of the conjunction (the equation of the centre, in Suter's terms) is applied to the mean place; from that place half the equation of the apsis (the anomaly) is found and applied; from that result the whole equation of the apsis is found and applied to the original mean place, and from this last place the whole equation of the conjunction. Suter's summary, L30-L39, follows the same order.",
+  "L02: «Al-Bīrūnī» spaced; N01 gives another possible author of the «Gründe der Tafeln», «Aḥmed b. al-Muthannā», spaced, with the dot under ḥ and the macron. L03: «Ibn ʿEzrā», spaced, the ʿayn raised.",
+  "L09 and L23: a grey stain over the e of «the» and over the r of «already»; read as «the» and «already». Specks not transcribed: above the line after «planet» (L13), in the u of «Berechnung» (L27), above the t of «bestimmt» (L36).",
+  "Spaced type, marked {sp:}: «Kh.», «Al-Bīrūnī», «Ibn ʿEzrā», «Burgess», «Aḥmed b. al-Muthannā»; italics: «Sūrya-Siddhānta», «Shāh», the quotations, «Halbierung» and «Gleichung» (L16), «Gleichung der Konjunktion», «Gleichung des Centrums», «Gleichung der Apsis», «Gleichung der Anomalie», «wahre Länge», «Biblioth. mathem.», «Transl.».",
+  "The colons and semicolons, in the German and in the English, stand after the thin space of the edition (7-14 px measured)."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

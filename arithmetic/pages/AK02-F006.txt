@@ -1,0 +1,5 @@
+@page 6 -
+@kind provenance
+% Frame 006: a blank page before the text, with a library stamp.
+@obs Nothing is printed on the page.
+@copy The rectangular stamp «Bayerische Staatsbibliothek München» in violet in the middle of the page. Not part of the edition.

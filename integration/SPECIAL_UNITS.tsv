@@ -1,0 +1,331 @@
+lane	unit	class	kind	disposition	evidence
+algebra	AK01-F009	facsimile	facsimile	figure reproduced	AK01-F009-FIG1: raw 9b4e0a3a77cac126, derivative cc997eb91d0c8390 (files checked)
+algebra	AK01-F028	facsimile	facsimile	figure reproduced	AK01-F028-FIG1: raw bcb86f1f74d937e3, derivative 8cc2c2a428d13a62 (files checked)
+algebra	AK01-F036	figure	text	transcribed	AK01-F036-FIG1: raw 7b06be94c7041632, derivative 06e6deb735ae612a (files checked)
+algebra	AK01-F037	figure	text	transcribed	AK01-F037-FIG1: raw e8f9b532a79482e4, derivative 6a7e113387b89cbd (files checked)
+algebra	AK01-F039	facsimile	facsimile	figure reproduced	AK01-F039-FIG1: raw f34db9baeadd6f5e, derivative 2799c304dc89a46c (files checked)
+algebra	AK01-F041	figure	text	transcribed	AK01-F041-FIG1: raw 6f20d80e3e9634e2, derivative 67d37bccd2ba0251 (files checked)
+algebra	AK01-F042	figure	text	transcribed	AK01-F042-FIG1: raw db5e027a05920812, derivative 0ea0c30c20f9672e (files checked)
+algebra	AK01-F049	figure	text	transcribed	AK01-F049-FIG1: raw cf2558371416f4f8, derivative 5741879ba3f29afb (files checked)
+algebra	AK01-F050	figure	text	transcribed	AK01-F050-FIG1: raw cdc77027ca19d874, derivative 44cb5cf974756443 (files checked)
+algebra	AK01-F074	figure	text	transcribed	AK01-F074-FIG1: raw 8f41398365dd0419, derivative a09427e9d11f305a (files checked)
+algebra	AK01-F075	figure	text	transcribed	AK01-F075-FIG1: raw 9d2053d265f585b4, derivative 2b333ca385893f96 (files checked)
+algebra	AK01-F075	figure	text	transcribed	AK01-F075-FIG2: raw 85e86e3bdc0a3e19, derivative b4a863a79912489b (files checked)
+algebra	AK01-F076	figure	text	transcribed	AK01-F076-FIG1: raw 14ac54d3b9c559d9, derivative 954dfcfe64314b34 (files checked)
+algebra	AK01-F076	figure	text	transcribed	AK01-F076-FIG2: raw 36cabfbb532de0ca, derivative 21d00846af06d6d9 (files checked)
+algebra	AK01-F077	figure	text	transcribed	AK01-F077-FIG1: raw a5af8fa75d20901d, derivative 4483bc4fac417b5b (files checked)
+algebra	AK01-F078	figure	text	transcribed	AK01-F078-FIG1: raw 10c4a41ee96c8bde, derivative 3d39f67883603441 (files checked)
+algebra	AK01-F079	figure	text	transcribed	AK01-F079-FIG1: raw f59c84fceb97120d, derivative 9de3744cefa63752 (files checked)
+algebra	AK01-F080	figure	text	transcribed	AK01-F080-FIG1: raw 7e46fb0c6705a35e, derivative f09a8ac6849b591c (files checked)
+algebra	AK01-F080	figure	text	transcribed	AK01-F080-FIG2: raw 014966236f81d56c, derivative 693d44283fb364d8 (files checked)
+algebra	AK01-F081	figure	text	transcribed	AK01-F081-FIG1: raw 1ac50319e2b74abf, derivative f9e92a9b579d9a6a (files checked)
+algebra	AK01-F082	figure	text	transcribed	AK01-F082-FIG1: raw 3a69c96d4bcd1374, derivative 8d486c3cda42e1dd (files checked)
+algebra	AK01-F003	blank	blank	recorded	-
+algebra	AK01-F004	blank	blank	recorded	-
+algebra	AK01-F005	blank	blank	recorded	-
+algebra	AK01-F006	blank	blank	recorded	-
+algebra	AK01-F010	blank	blank	recorded	-
+algebra	AK01-F027	blank	blank	recorded	-
+algebra	AK01-F040	blank	blank	recorded	-
+algebra	AK01-F123	blank	blank	recorded	-
+algebra	AK01-F124	blank	blank	recorded	-
+algebra	AK01-F125	blank	blank	recorded	-
+algebra	AK01-F127	blank	blank	recorded	-
+algebra	AK01-F123	trailing leaf	blank	recorded	after the last unit with text or figures
+algebra	AK01-F124	trailing leaf	blank	recorded	after the last unit with text or figures
+algebra	AK01-F125	trailing leaf	blank	recorded	after the last unit with text or figures
+algebra	AK01-F126	trailing leaf	wrapper	recorded, not reproduced	after the last unit with text or figures
+algebra	AK01-F127	trailing leaf	blank	recorded	after the last unit with text or figures
+algebra	AK01-F128	trailing leaf	provenance	recorded, not reproduced	after the last unit with text or figures
+algebra	AK01-F129	trailing leaf	provenance	recorded, not reproduced	after the last unit with text or figures
+algebra	AK01-F130	trailing leaf	provenance	recorded, not reproduced	after the last unit with text or figures
+geography	AK05-F171	plate	plate	figure reproduced	AK05-F171-FIG1: raw 0596eb3039567b9c, derivative 45c36d2a26a99304 (files checked)
+geography	AK05-F173	plate	plate	figure reproduced	AK05-F173-FIG1: raw 63c73f69d1b53282, derivative 41c2fca33959754b (files checked)
+geography	AK05-F175	plate	plate	figure reproduced	AK05-F175-FIG1: raw 4867a70185cd6bb2, derivative 861bf67afac077ab (files checked)
+geography	AK05-F177	plate	plate	figure reproduced	AK05-F177-FIG1: raw 0e13c7068df5b6f3, derivative 9825abb610d94d45 (files checked)
+geography	AK05-F179	plate	plate	figure reproduced	AK05-F179-FIG1: raw c1df15d117cc0882, derivative 388defba64646a28 (files checked)
+geography	AK05-F009	table	text	transcribed	8 table lines
+geography	AK05-F010	table	text	transcribed	10 table lines
+geography	AK05-F011	table	text	transcribed	16 table lines
+geography	AK05-F012	table	text	transcribed	18 table lines
+geography	AK05-F013	table	text	transcribed	16 table lines
+geography	AK05-F014	table	text	transcribed	13 table lines
+geography	AK05-F015	table	text	transcribed	16 table lines
+geography	AK05-F016	table	text	transcribed	17 table lines
+geography	AK05-F017	table	text	transcribed	14 table lines
+geography	AK05-F018	table	text	transcribed	19 table lines
+geography	AK05-F019	table	text	transcribed	17 table lines
+geography	AK05-F020	table	text	transcribed	16 table lines
+geography	AK05-F021	table	text	transcribed	15 table lines
+geography	AK05-F022	table	text	transcribed	18 table lines
+geography	AK05-F023	table	text	transcribed	18 table lines
+geography	AK05-F024	table	text	transcribed	19 table lines
+geography	AK05-F025	table	text	transcribed	18 table lines
+geography	AK05-F026	table	text	transcribed	19 table lines
+geography	AK05-F027	table	text	transcribed	17 table lines
+geography	AK05-F028	table	text	transcribed	19 table lines
+geography	AK05-F029	table	text	transcribed	13 table lines
+geography	AK05-F030	table	text	transcribed	15 table lines
+geography	AK05-F031	table	text	transcribed	17 table lines
+geography	AK05-F032	table	text	transcribed	17 table lines
+geography	AK05-F033	table	text	transcribed	16 table lines
+geography	AK05-F034	table	text	transcribed	12 table lines
+geography	AK05-F035	table	text	transcribed	16 table lines
+geography	AK05-F036	table	text	transcribed	16 table lines
+geography	AK05-F037	table	text	transcribed	14 table lines
+geography	AK05-F038	table	text	transcribed	16 table lines
+geography	AK05-F039	table	text	transcribed	13 table lines
+geography	AK05-F040	table	text	transcribed	12 table lines
+geography	AK05-F041	table	text	transcribed	11 table lines
+geography	AK05-F042	table	text	transcribed	16 table lines
+geography	AK05-F043	table	text	transcribed	13 table lines
+geography	AK05-F044	table	text	transcribed	11 table lines
+geography	AK05-F045	table	text	transcribed	11 table lines
+geography	AK05-F046	table	text	transcribed	17 table lines
+geography	AK05-F047	table	text	transcribed	17 table lines
+geography	AK05-F048	table	text	transcribed	8 table lines
+geography	AK05-F049	table	text	transcribed	8 table lines
+geography	AK05-F050	table	text	transcribed	18 table lines
+geography	AK05-F051	table	text	transcribed	18 table lines
+geography	AK05-F052	table	text	transcribed	14 table lines
+geography	AK05-F053	table	text	transcribed	14 table lines
+geography	AK05-F054	table	text	transcribed	17 table lines
+geography	AK05-F055	table	text	transcribed	17 table lines
+geography	AK05-F056	table	text	transcribed	14 table lines
+geography	AK05-F057	table	text	transcribed	14 table lines
+geography	AK05-F058	table	text	transcribed	15 table lines
+geography	AK05-F059	table	text	transcribed	13 table lines
+geography	AK05-F060	table	text	transcribed	18 table lines
+geography	AK05-F061	table	text	transcribed	17 table lines
+geography	AK05-F062	table	text	transcribed	15 table lines
+geography	AK05-F063	table	text	transcribed	14 table lines
+geography	AK05-F064	table	text	transcribed	17 table lines
+geography	AK05-F065	table	text	transcribed	17 table lines
+geography	AK05-F066	table	text	transcribed	11 table lines
+geography	AK05-F067	table	text	transcribed	11 table lines
+geography	AK05-F068	table	text	transcribed	18 table lines
+geography	AK05-F069	table	text	transcribed	18 table lines
+geography	AK05-F070	table	text	transcribed	19 table lines
+geography	AK05-F071	table	text	transcribed	19 table lines
+geography	AK05-F165	table	text	transcribed	14 table lines
+geography	AK05-F166	table	text	transcribed	16 table lines
+geography	AK05-F167	table	text	transcribed	11 table lines
+geography	AK05-F006	blank	blank	recorded	-
+geography	AK05-F170	blank	blank	recorded	-
+geography	AK05-F172	blank	blank	recorded	-
+geography	AK05-F174	blank	blank	recorded	-
+geography	AK05-F176	blank	blank	recorded	-
+geography	AK05-F178	blank	blank	recorded	-
+geography	AK05-F180	blank	blank	recorded	-
+geography	AK05-F181	blank	blank	recorded	-
+geography	AK05-F211	blank	blank	recorded	-
+geography	AK05-F213	blank	blank	recorded	-
+geography	AK05-F215	blank	blank	recorded	-
+geography	AK05-F216	blank	blank	recorded	-
+geography	AK05-F215	trailing leaf	blank	recorded	after the last unit with text or figures
+geography	AK05-F216	trailing leaf	blank	recorded	after the last unit with text or figures
+geography	AK05-F217	trailing leaf	provenance	recorded, not reproduced	after the last unit with text or figures
+geography	AK05-F218	trailing leaf	binding	recorded, not reproduced	after the last unit with text or figures
+arithmetic	AK02-F002	blank	blank	recorded	-
+arithmetic	AK02-F005	blank	blank	recorded	-
+arithmetic	AK02-F030	blank	blank	recorded	-
+arithmetic	AK02-F030	trailing leaf	blank	recorded	after the last unit with text or figures
+zij	AK07-J0019	table	text	transcribed	12 table lines
+zij	AK07-J0020	table	text	transcribed	37 table lines
+zij	AK07-J0021	table	text	transcribed	26 table lines
+zij	AK07-J0023	table	text	transcribed	9 table lines
+zij	AK07-J0066	table	text	transcribed	6 table lines
+zij	AK07-J0067	table	text	transcribed	6 table lines
+zij	AK07-J0069	table	text	transcribed	8 table lines
+zij	AK07-J0070	table	text	transcribed	3 table lines
+zij	AK07-J0071	table	text	transcribed	10 table lines
+zij	AK07-J0072	table	text	transcribed	3 table lines
+zij	AK07-J0073	table	text	transcribed	4 table lines
+zij	AK07-J0074	table	text	transcribed	15 table lines
+zij	AK07-J0077	table	text	transcribed	7 table lines
+zij	AK07-J0078	table	text	transcribed	2 table lines
+zij	AK07-J0082	table	text	transcribed	8 table lines
+zij	AK07-J0084	table	text	transcribed	11 table lines
+zij	AK07-J0085	table	text	transcribed	18 table lines
+zij	AK07-J0086	table	text	transcribed	13 table lines
+zij	AK07-J0087	table	text	transcribed	2 table lines
+zij	AK07-J0091	table	text	transcribed	3 table lines
+zij	AK07-J0093	table	text	transcribed	2 table lines
+zij	AK07-J0095	table	text	transcribed	4 table lines
+zij	AK07-J0096	table	text	transcribed	2 table lines
+zij	AK07-J0101	table	text	transcribed	3 table lines
+zij	AK07-J0105	table	text	transcribed	4 table lines
+zij	AK07-J0114	table	text	transcribed	11 table lines
+zij	AK07-J0115	table	text	transcribed	3 table lines
+zij	AK07-J0116	table	text	transcribed	7 table lines
+zij	AK07-J0117	table	text	transcribed	8 table lines
+zij	AK07-J0118	table	text	transcribed	3 table lines
+zij	AK07-J0119	table	text	transcribed	5 table lines
+zij	AK07-J0120	table	text	transcribed	4 table lines
+zij	AK07-J0121	table	text	transcribed	4 table lines
+zij	AK07-J0126	table	text	transcribed	2 table lines
+zij	AK07-J0127	table	text	transcribed	3 table lines
+zij	AK07-J0130	table	text	transcribed	7 table lines
+zij	AK07-J0132	table	text	transcribed	4 table lines
+zij	AK07-J0133	table	text	transcribed	3 table lines
+zij	AK07-J0141	table	text	transcribed	19 table lines
+zij	AK07-J0142	table	text	transcribed	33 table lines
+zij	AK07-J0143	table	text	transcribed	15 table lines
+zij	AK07-J0144	table	text	transcribed	32 table lines
+zij	AK07-J0145	table	text	transcribed	33 table lines
+zij	AK07-J0146	table	text	transcribed	33 table lines
+zij	AK07-J0147	table	text	transcribed	47 table lines
+zij	AK07-J0148	table	text	transcribed	34 table lines
+zij	AK07-J0149	table	text	transcribed	34 table lines
+zij	AK07-J0150	table	text	transcribed	34 table lines
+zij	AK07-J0151	table	text	transcribed	34 table lines
+zij	AK07-J0152	table	text	transcribed	33 table lines
+zij	AK07-J0153	table	text	transcribed	33 table lines
+zij	AK07-J0154	table	text	transcribed	33 table lines
+zij	AK07-J0155	table	text	transcribed	33 table lines
+zij	AK07-J0156	table	text	transcribed	33 table lines
+zij	AK07-J0157	table	text	transcribed	33 table lines
+zij	AK07-J0158	table	text	transcribed	33 table lines
+zij	AK07-J0159	table	text	transcribed	33 table lines
+zij	AK07-J0160	table	text	transcribed	33 table lines
+zij	AK07-J0161	table	text	transcribed	33 table lines
+zij	AK07-J0162	table	text	transcribed	33 table lines
+zij	AK07-J0163	table	text	transcribed	33 table lines
+zij	AK07-J0164	table	text	transcribed	38 table lines
+zij	AK07-J0165	table	text	transcribed	39 table lines
+zij	AK07-J0166	table	text	transcribed	38 table lines
+zij	AK07-J0167	table	text	transcribed	38 table lines
+zij	AK07-J0168	table	text	transcribed	38 table lines
+zij	AK07-J0169	table	text	transcribed	38 table lines
+zij	AK07-J0170	table	text	transcribed	37 table lines
+zij	AK07-J0171	table	text	transcribed	37 table lines
+zij	AK07-J0172	table	text	transcribed	36 table lines
+zij	AK07-J0173	table	text	transcribed	36 table lines
+zij	AK07-J0174	table	text	transcribed	35 table lines
+zij	AK07-J0175	table	text	transcribed	36 table lines
+zij	AK07-J0176	table	text	transcribed	36 table lines
+zij	AK07-J0177	table	text	transcribed	36 table lines
+zij	AK07-J0178	table	text	transcribed	36 table lines
+zij	AK07-J0179	table	text	transcribed	36 table lines
+zij	AK07-J0180	table	text	transcribed	36 table lines
+zij	AK07-J0181	table	text	transcribed	36 table lines
+zij	AK07-J0182	table	text	transcribed	37 table lines
+zij	AK07-J0183	table	text	transcribed	37 table lines
+zij	AK07-J0184	table	text	transcribed	36 table lines
+zij	AK07-J0185	table	text	transcribed	35 table lines
+zij	AK07-J0186	table	text	transcribed	36 table lines
+zij	AK07-J0187	table	text	transcribed	36 table lines
+zij	AK07-J0188	table	text	transcribed	36 table lines
+zij	AK07-J0189	table	text	transcribed	36 table lines
+zij	AK07-J0190	table	text	transcribed	36 table lines
+zij	AK07-J0191	table	text	transcribed	36 table lines
+zij	AK07-J0192	table	text	transcribed	36 table lines
+zij	AK07-J0193	table	text	transcribed	36 table lines
+zij	AK07-J0194	table	text	transcribed	36 table lines
+zij	AK07-J0195	table	text	transcribed	36 table lines
+zij	AK07-J0196	table	text	transcribed	36 table lines
+zij	AK07-J0197	table	text	transcribed	36 table lines
+zij	AK07-J0198	table	text	transcribed	36 table lines
+zij	AK07-J0199	table	text	transcribed	36 table lines
+zij	AK07-J0200	table	text	transcribed	13 table lines
+zij	AK07-J0201	table	text	transcribed	33 table lines
+zij	AK07-J0202	table	text	transcribed	33 table lines
+zij	AK07-J0203	table	text	transcribed	36 table lines
+zij	AK07-J0204	table	text	transcribed	36 table lines
+zij	AK07-J0205	table	text	transcribed	36 table lines
+zij	AK07-J0206	table	text	transcribed	34 table lines
+zij	AK07-J0207	table	text	transcribed	36 table lines
+zij	AK07-J0208	table	text	transcribed	35 table lines
+zij	AK07-J0209	table	text	transcribed	35 table lines
+zij	AK07-J0210	table	text	transcribed	35 table lines
+zij	AK07-J0211	table	text	transcribed	35 table lines
+zij	AK07-J0212	table	text	transcribed	35 table lines
+zij	AK07-J0213	table	text	transcribed	34 table lines
+zij	AK07-J0214	table	text	transcribed	34 table lines
+zij	AK07-J0215	table	text	transcribed	21 table lines
+zij	AK07-J0216	table	text	transcribed	21 table lines
+zij	AK07-J0217	table	text	transcribed	33 table lines
+zij	AK07-J0218	table	text	transcribed	15 table lines
+zij	AK07-J0219	table	text	transcribed	34 table lines
+zij	AK07-J0220	table	text	transcribed	34 table lines
+zij	AK07-J0221	table	text	transcribed	34 table lines
+zij	AK07-J0222	table	text	transcribed	32 table lines
+zij	AK07-J0223	table	text	transcribed	36 table lines
+zij	AK07-J0224	table	text	transcribed	34 table lines
+zij	AK07-J0225	table	text	transcribed	34 table lines
+zij	AK07-J0226	table	text	transcribed	38 table lines
+zij	AK07-J0227	table	text	transcribed	40 table lines
+zij	AK07-J0228	table	text	transcribed	40 table lines
+zij	AK07-J0229	table	text	transcribed	40 table lines
+zij	AK07-J0230	table	text	transcribed	39 table lines
+zij	AK07-J0231	table	text	transcribed	40 table lines
+zij	AK07-J0232	table	text	transcribed	41 table lines
+zij	AK07-J0233	table	text	transcribed	39 table lines
+zij	AK07-J0234	table	text	transcribed	40 table lines
+zij	AK07-J0235	table	text	transcribed	40 table lines
+zij	AK07-J0236	table	text	transcribed	40 table lines
+zij	AK07-J0237	table	text	transcribed	38 table lines
+zij	AK07-J0238	table	text	transcribed	23 table lines
+zij	AK07-J0239	table	text	transcribed	22 table lines
+zij	AK07-J0240	table	text	transcribed	22 table lines
+zij	AK07-J0241	table	text	transcribed	22 table lines
+zij	AK07-J0242	table	text	transcribed	22 table lines
+zij	AK07-J0243	table	text	transcribed	22 table lines
+zij	AK07-J0244	table	text	transcribed	22 table lines
+zij	AK07-J0245	table	text	transcribed	22 table lines
+zij	AK07-J0246	table	text	transcribed	22 table lines
+zij	AK07-J0247	table	text	transcribed	22 table lines
+zij	AK07-J0248	table	text	transcribed	22 table lines
+zij	AK07-J0249	table	text	transcribed	22 table lines
+zij	AK07-J0250	table	text	transcribed	22 table lines
+zij	AK07-J0251	table	text	transcribed	22 table lines
+zij	AK07-J0252	table	text	transcribed	22 table lines
+zij	AK07-J0253	table	text	transcribed	22 table lines
+zij	AK07-J0254	table	text	transcribed	22 table lines
+zij	AK07-J0255	table	text	transcribed	22 table lines
+zij	AK07-J0256	table	text	transcribed	22 table lines
+zij	AK07-J0257	table	text	transcribed	22 table lines
+zij	AK07-J0258	table	text	transcribed	22 table lines
+zij	AK07-J0259	table	text	transcribed	22 table lines
+zij	AK07-J0260	table	text	transcribed	22 table lines
+zij	AK07-J0261	table	text	transcribed	22 table lines
+zij	AK07-J0262	table	text	transcribed	15 table lines
+zij	AK07-J0263	table	text	transcribed	29 table lines
+zij	AK07-J0267	table	text	transcribed	5 table lines
+zij	AK07-J0271	table	text	transcribed	18 table lines
+zij	AK07-J0281	table	text	transcribed	24 table lines
+zij	AK07-J0282	table	text	transcribed	12 table lines
+zij	AK07-J0000	scan card	scan	recorded, not reproduced	-
+zij	AK07-J0003	scan card	scan	recorded, not reproduced	-
+zij	AK07-J0004	blank	blank	recorded	-
+zij	AK07-J0030	blank	blank	recorded	-
+zij	AK07-J0032	blank	blank	recorded	-
+zij	AK07-J0140	blank	blank	recorded	-
+zij	AK07-J0264	blank	blank	recorded	-
+zij	AK07-J0270	blank	blank	recorded	-
+zij	AK07-J0272	blank	blank	recorded	-
+zij	AK07-J0274	blank	blank	recorded	-
+zij	AK07-J0290	blank	blank	recorded	-
+zij	AK07-J0291	blank	blank	recorded	-
+zij	AK07-J0292	blank	blank	recorded	-
+zij	AK07-J0295	scan card	scan	recorded, not reproduced	-
+zij	AK07-J0290	trailing leaf	blank	recorded	after the last unit with text or figures
+zij	AK07-J0291	trailing leaf	blank	recorded	after the last unit with text or figures
+zij	AK07-J0292	trailing leaf	blank	recorded	after the last unit with text or figures
+zij	AK07-J0293	trailing leaf	provenance	recorded, not reproduced	after the last unit with text or figures
+zij	AK07-J0294	trailing leaf	binding	recorded, not reproduced	after the last unit with text or figures
+zij	AK07-J0295	trailing leaf	scan	recorded, not reproduced	after the last unit with text or figures
+calendar	AK15-P001	table	title	transcribed	5 table lines
+calendar	AK15-P011-P320	excluded range	excluded	out of scope: range disposition only	OTHER_WORKS (the ten other treatises of the collection, from al-Nayrizi's on the drawing of the hour lines, PDF 11, to the end)
+algebra	AK01-F122	colophon	text	transcribed	the last page of the text, with the copyist's colophon
+geography	AK05-F164	end of text	text	transcribed	the last page of the text, printed p. 158
+geography	AK05-F169	corrigendum	editorial	recorded, not reproduced	the editor's additions and corrections, «Nachträge und Verbesserungen», in German: recorded, not reproduced; each correction recorded on the page it concerns (critical notes, variants)
+arithmetic	AK02-F029	end of text	text	transcribed	printed p. 23, where the text breaks off
+zij	AK07-J0263	explicit	text	transcribed	Tab. 116, p. 231, with the explicit of manuscript O in the apparatus
+zij	AK07-J0265	corrigendum	text	transcribed	Additions and corrections, p. [233]
+zij	AK07-J0266	corrigendum	text	transcribed	Additions and corrections, p. 234
+zij	AK07-J0267	corrigendum	text	transcribed	Additions and corrections, p. 235
+zij	AK07-J0268	corrigendum	text	transcribed	Additions and corrections, p. 236
+zij	AK07-J0269	corrigendum	text	transcribed	the errata slip «Nachtrag zu den Berichtigungen»
+zij	AK07-J0271	corrigendum	text	transcribed	the list of misprints, p. [237]
+calendar	AK15-P010	explicit	text	transcribed	the explicit «تم تاريخ اليهود عن محمد بن موسى الخوارزمى», L13-L14

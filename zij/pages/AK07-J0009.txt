@@ -1,0 +1,31 @@
+@page 9 [V]
+@lang de
+% JP2 0009: Suter's foreword, first page (p. [V]): Bjørnbo's unfinished work, the manuscripts of Oxford, Chartres,
+% Paris and Madrid, Besthorn's share, the three tasks of the editor; the acceptance by the Danish society.
+@h VORWORT
+@p Die Herausgabe dieser astronomischen Tafeln wurde von dem leider zu früh
+verstorbenen, hervorragenden dänischen Gelehrten A. {sp:Björnbo} vor etwa fünf Jahren
+begonnen. Nach seinem im Oktober 1911 erfolgten Tode wurde mir sein Manuskript
+von der hohen kgl. dänischen Gesellschaft der Wissenschaften übermittelt, nachdem
+ich mich bereit erklärt hatte, die von A. {sp:Björnbo} begonnene Arbeit zu Ende zu
+führen. Dieses Manuskript enthielt den Text dieses Werkes mit den Lesarten, wie
+sie sich aus der Kollation von drei Handschriften ({i:Oxford}, {i:Chartres} und {i:Paris}) ergeben
+hatten, ebenso die Tafeln mit den Lesarten dieser Handschriften, sowie die Übertragung
+der Mehrzahl der darin auftretenden arabischen Ausdrücke ins Lateinische durch den
+verdienten dänischen Arabisten, Herrn Dr. R. {sp:Besthorn} in Kopenhagen. A. {sp:Björnbo}
+hatte noch kurz vor seinem Tode vernommen, dass noch eine vierte Handschrift
+dieser {sp:Athelhard}’schen Übersetzung in der Nationalbibliothek zu {i:Madrid} vorhanden
+sei ; mir blieb also {sp:erstens} die Aufgabe, auch diese Handschrift noch zur Verglei-
+chung herbeizuziehen ; {sp:zweitens} musste ich auch das Ms. von {i:Chartres} noch einmal
+zur Revision kommen lassen, indem A. {sp:Björnbo} auf verschiedenen Blättern seines
+Manuskriptes auf eine nochmalige Vergleichung mit dieser Handschrift hingewiesen
+hatte ; {sp:drittens} war es notwendig, zu dem kurzen, oft schwer verständlichen Text
+einen Kommentar auszuarbeiten, und der Arbeit eine Einleitung, ein Glossar, sowie
+ein Namen- u. Sachregister beizufügen. Ende Juli 1913 reichte ich der kgl. dänischen
+Gesellschaft der Wissenschaften meine Arbeit zur Prüfung ein, im December desselben
+Jahres beschloss sie, dieselbe in ihren {i:Skrifter} zu veröffentlichen, wofür ich ihr hier
+meinen verbindlichen Dank ausspreche.
+@obs The first page of the foreword; the page number, V by the contents, is not printed. L01 «VORWORT» in capitals, with a short rule below it. L02 opens with a large initial D, standing on the base line of the line and rising above it.
+@obs At the foot of the page, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «II» on the right; recorded here, not transcribed as a line.
+@obs Spaced type (gesperrt), marked {sp:}: the names «Björnbo» (L03, L06, L11, L16), «Besthorn» (L11) and «Athelhard» (L13), and «erstens», «zweitens», «drittens» (L14, L15, L18); italics: «Oxford», «Chartres», «Paris» (L08), «Madrid» (L13), «Chartres» (L15) and «Skrifter» (L22).
+@obs The title page (JP2 0005) spells the name «BJØRNBO», with ø; the foreword prints «Björnbo», with ö.

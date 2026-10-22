@@ -1,0 +1,58 @@
+@page 203 171
+@lang la
+% JP2 0203: Tab. 59, p. 171: the right ascensions (Horoscopus signorum secundum terram Arin) of every degree of
+% Capricornus, Aquarius, Pisces and Aries, counted from the beginning of Capricornus, with the apparatus (notes 1-8 and a-q).
+@m C 73{sup:r}—73{sup:v},
+@c {b:Horoscopus signorum secundum terram Arin} (O)
+@tw size=scriptsize span=1.0 1.1 0.6 0.75 0.7 1.1 0.6 0.75 0.7 1.1 0.6 0.75 0.7 1.1 0.6 0.75 0.7
+@m O 130{sup:v}—131{sup:r}.
+@t Gradus | Horoscopus{sup:1}) |  |  | Gradus | Horoscopus |  |  | Gradus | Horoscopus |  |  | Gradus | Horoscopus |  |
+@t regulares | Capricorni |  |  | regulares | Aquarii |  |  | regulares | Piscium |  |  | regulares{sup:5}) | Arietis |  |
+@t  | Matale elgedi |  |  |  | Matale eldehi{sup:3}) |  |  |  | Matale elhout{sup:4}) |  |  |  | Matale elhamel |  |
+@t  | bilfelek |  |  |  | bilfelek |  |  |  | bilfelek |  |  |  | bilfelek |  |
+@t  | elmustakim{sup:2}) |  |  |  | elmustakim |  |  |  | elmustakim |  |  |  | elmustakim |  |
+@t  | {b:Gr.}{sup:6}) | {b:Min.}{sup:7}) | {b:Sec.}{sup:8}) |  | {b:Gr.} | {b:Min.} | {b:Sec.} |  | {b:Gr.} | {b:Min.} | {b:Sec.} |  | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 1 | 1 | 5 | 33 | 1 | 33{sup:g}) | 18 | 13 | 1 | 63 | 6 | 57 | 1 | 90 | 54 | 52
+@t 2 | 2 | 11 | 7 | 2 | 34 | 20 | 29 | 2 | 64 | 3 | 54 | 2 | 91 | 49 | 45
+@t 3 | 3 | 16 | 40 | 3 | 35 | 22 | 36 | 3 | 65 | 0 | 49 | 3 | 92 | 44 | 38
+@t 4 | 4 | 22 | 13 | 4 | 36 | 24 | 32 | 4 | 65 | 57 | 34 | 4 | 93 | 39 | 33
+@t 5 | 5 | 27 | 43 | 5 | 37 | 26 | 16 | 5 | 66 | 54 | 11 | 5 | 94 | 34 | 29
+@t 6 | 6 | 33 | 8 | 6 | 38 | 27{sup:h}) | 49 | 6 | 67 | 50 | 31 | 6 | 95 | 29 | 27
+@t 7 | 7 | 38 | 32 | 7 | 39 | 29 | 11 | 7 | 68 | 47 | 1 | 7 | 96 | 24 | 27
+@t 8 | 8 | 43 | 55 | 8 | 40 | 30 | 21 | 8 | 69 | 43 | 11 | 8 | 97 | 19 | 29
+@t 9 | 9 | 49 | 15{sup:d}) | 9 | 41 | 31 | 19 | 9 | 70 | 39 | 16 | 9 | 98 | 14 | 33
+@t 10 | 10 | 54 | 34 | 10 | 42 | 32 | 6 | 10 | 71 | 35 | 15 | 10 | 99 | 9 | 40
+@t 11 | 11 | 59 | 51 | 11 | 43 | 32 | 41 | 11 | 72 | 31 | 10 | 11 | 100 | 4 | 50
+@t 12{sup:a}) | 13 | 5 | 3 | 12 | 44 | 33 | 4 | 12 | 73 | 26 | 57{sup:m}) | 12 | 101 | 0 | 3
+@t 13 | 14 | 10 | 7 | 13 | 45 | 33 | 16{sup:i}) | 13 | 74 | 22 | 40 | 13 | 101 | 55 | 22
+@t 14 | 15 | 15 | 2 | 14 | 46 | 33 | 19{sup:k}) | 14 | 75 | 18 | 18 | 14 | 102 | 50 | 45
+@t 15 | 16 | 19 | 46 | 15 | 47 | 33 | 11 | 15 | 76 | 13 | 49 | 15 | 103 | 46 | 11
+@t 16 | 17 | 24{sup:b}) | 27 | 16 | 48 | 32 | 54 | 16 | 77{sup:l}) | 9 | 15 | 16 | 104 | 41 | 42
+@t 17 | 18 | 28 | 59{sup:e}) | 17 | 49 | 32 | 26 | 17 | 78 | 4 | 38 | 17 | 105 | 37 | 20
+@t 18 | 19 | 33 | 24 | 18 | 50 | 31 | 46 | 18 | 78 | 59 | 57 | 18 | 106 | 33 | 3
+@t 19 | 20 | 37 | 43{sup:f}) | 19 | 51 | 30 | 53 | 19 | 79 | 55 | 13 | 19 | 107 | 28{sup:o}) | 50
+@t 20 | 21 | 41 | 56 | 20 | 52 | 29 | 48 | 20 | 80 | 50 | 20 | 20 | 108 | 24{sup:p}) | 45
+@t 21 | 22 | 46 | 2 | 21 | 53 | 28 | 32 | 21 | 81 | 45 | 27 | 21 | 109 | 20 | 44
+@t 22 | 23 | 49 | 59 | 22 | 54 | 27 | 6 | 22 | 82 | 40 | 31 | 22 | 110 | 16 | 49
+@t 23 | 24 | 53 | 46 | 23 | 55 | 25 | 29 | 23 | 83 | 35 | 33 | 23 | 111 | 12 | 59
+@t 24 | 25 | 57{sup:c}) | 22 | 24 | 56 | 23 | 42 | 24 | 84 | 30 | 33{sup:n}) | 24 | 112 | 9 | 19{sup:q})
+@t 25{sup:a}) | 27 | 0 | 48 | 25 | 57 | 21 | 47 | 25 | 85 | 25 | 31 | 25 | 113 | 5 | 49
+@t 26 | 28 | 4 | 6 | 26 | 58 | 19 | 42 | 26 | 86 | 20 | 27 | 26 | 114 | 2 | 25
+@t 27 | 29 | 7 | 17 | 27 | 59 | 17 | 28 | 27 | 87 | 15 | 22 | 27 | 114 | 59 | 11
+@t 28 | 30 | 10 | 19 | 28 | 60 | 15 | 6 | 28 | 88 | 10 | 15 | 28 | 115 | 56 | 6
+@t 29 | 31 | 13 | 10 | 29 | 61 | 12 | 34 | 29 | 89 | 5 | 8 | 29 | 116 | 53 | 3
+@t 30 | 32 | 15 | 48 | 30 | 62 | 9 | 51 | 30 | 90 | 0 | 0 | 30 | 117 | 50 | 9
+@n {sup:1}) Horoscopus] O, Ortus C, {i:sed in ceteris colum. deest} — {sup:2}) bilfelek elmustakim] circulum rectum O
+@n {i:suprascrips.} — {sup:3}) eldehi] O, elgedii C — {sup:4}) elhout] O, ellout C — {sup:5}) regulares] C, aequales O, {i:itemque in}
+@n {i:ceteris colum.} — {sup:6}) Gr.] Dar. O. Daregae C, {i:itemque in ceteris locis} — {sup:7}) Min.] Dak. CO, {i:itemque in ceteris}
+@n {i:locis} — {sup:8}) Sec.] Elth. O, theniae C, {i:itemque in ceteris locis.}
+@n {sup:a})—{sup:a}) 12—25] C, 13—26 O — {sup:b}) 24] O, 14 C — {sup:c}) 57] O, 58 C — {sup:d}) 15] C, 16 O — {sup:e}) 59] O,
+@n 49 C — {sup:f}) 43] C, 53 O — {sup:g}) 33] C, 34 O — {sup:h}) 27] C, 29 O — {sup:i}) 16] C, 5 O — {sup:k}) 19] C, 9 O — {sup:l}) 77]
+@n O, 78 C — {sup:m}) 57] C, 46 O — {sup:n}) 33] C, 34 O — {sup:o}) 28] 48 CO — {sup:p}) 24] O, 14 C — {sup:q}) 19] 29 CO.
+@obs The page number «171» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 59», in bold sans serif, underlined. At the foot, the signature «22*» on the right; recorded here, not transcribed as a line. The title (L01), «Horoscopus signorum secundum terram Arin (O)», in bold, the siglum in roman. The folios of the manuscripts stand at the right of the title in two lines, «C 73r—73v,» and «O 130v—131r.», the letters raised; here as right margin notes.
+@obs The table: four groups divided by double vertical rules, each of a narrow column «Gradus regulares», printed upwards across the height of the head, and three columns of the ascension, «Gr.», «Min.», «Sec.»; the heads «Horoscopus1) Capricorni Matale elgedi bilfelek elmustakim2)», «Horoscopus Aquarii Matale eldehi3) bilfelek elmustakim», «Horoscopus Piscium Matale elhout4) bilfelek elmustakim» and «Horoscopus Arietis Matale elhamel bilfelek elmustakim», five lines each, «Gradus regulares5)» with note 5 in the fourth group, the units of the first group with notes 6-8, in smaller bold type. Here each head is set from the top, one printed line to a line (L02-L07), «Gradus regulares» divided over the first two of them; the cells separated by our «|»; a head followed by empty cells spans their columns.
+@obs L08-L37. The table gives the right ascensions, the ascensions in the right sphere at Arin, of every degree of the four signs, counted from the beginning of Capricornus (Suter, p. 72, JP2 0104, L01-L05 and L27-L28): 90° at the end of Pisces and 117° 50′ 9″ at the end of Aries. Checked against the right ascension computed with the obliquity 23° 51′ (Suter, p. 72, L24): the values agree to within 8″ in every row except at Capricornus 6°-10°, where the table is 9.8″ to 14.2″ smaller (8°: 8° 43′ 55″ for 8° 44′ 9.2″); within 1.5″ in 59 of the 120 rows; the deviations of 6″ to 8″ are at Capricornus 3°-5°, 13° and 14°. Suter's example, 113° 5′ 49″ at Aries 25° (p. 72, L26), is the value of L32.
+@obs L08-L37. Checked: the Pisces and the Aries columns are symmetric about the equinox, the ascensions of Aries y and of Pisces 30° − y adding up to 180° in every row except three: at Aries 11° and Pisces 19° the sum exceeds 180° by 3″, the 79° 55′ 13″ of Pisces 19° being 3.9″ larger than the computation; at Aries 26° and Pisces 4° it falls short by 1″; at Aries 24° and Pisces 6° by 10″, with the edition's 112° 9′ 19″ (note q): the 29 of C and O, 112° 9′ 29″, gives exactly 180° with the 67° 50′ 31″ of Pisces 6°. The computation gives 112° 9′ 23.8″ and 67° 50′ 36.2″: both values of the pair are 5″ from it, in opposite directions, as the symmetry requires.
+@obs Notes on the readings. Checked: the readings of the edition agree with the computation to within the deviations above where the variants depart: the minutes 24 and 57 of Capricornus 16° and 24° (notes b and c), the degrees 33 of Aquarius 1° (note g), the minutes 27 of Aquarius 6° (note h, against O's 29), the degrees 77 of Pisces 16° (note l), C's seconds 57 and 33 of Pisces 12° and 24° (notes m and n, against O's 46 and 34), the minutes 28 of Aries 19° (note o, the edition's against the 48 of C and O) and 24 of Aries 20° (note p, O against C's 14). C's seconds 16 and 19 of Aquarius 13° and 14° (notes i and k) are 3.7″ and 3.2″ smaller than the computation, O's 5 and 9 about 14″. At Capricornus 9° (note d) both C's 15 and O's 16 are 13″ smaller than the computation, 9° 49′ 28.5″; O's 16 is the value from which Cancer 9° and Gemini 21° on p. 172 (JP2 0204) are formed; at Capricornus 19° (note f) C's 43, 5.5″ smaller, keeps the steps of the column even (3865″, 3859″, 3853″, 3846″ from 17° to 21°), where O's 53, 4.5″ larger, would give 3869″ and 3843″. Note a: in the first column O numbers the rows from 12 to 25 one higher, 13 to 26.
+@obs Notes 1-8: the heads of the manuscripts: C's «Ortus» for «Horoscopus», only in the first column; O's «circulum rectum» written above «bilfelek elmustakim», the Arabic bi-l-falak al-mustaqīm, in the right sphere; C's «elgedii» and «ellout» for «eldehi» (al-dalw) and «elhout» (al-ḥūt); «aequales» in O for «regulares»; the units «Dar.» (daraja) in O and «Daregae» in C for «Gr.», «Dak.» for «Min.» and «Elth.» or «theniae» for «Sec.». Italics: «sed in ceteris colum. deest», «suprascrips.», «itemque in ceteris colum.», «itemque in ceteris locis». N03, «Dar. O. Daregae C»: see the critical note.
+@critical AK07-CN170 | wrong punctuation | N03 | Dar. O. Daregae C | Dar. O, Daregae C | the readings of a note are divided by a comma, as «Elth. O, theniae C» of note 8 in the next line; a point is printed after O | high | none

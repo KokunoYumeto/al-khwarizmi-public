@@ -1,0 +1,42 @@
+@page 18 ١٢
+% Frame 018, printed p. 12: the cities of the third clime continued, entries 129-147: places of the Maghrib from
+% Isṭamī to Barbāriyā, then cities and monasteries of the Nile valley, Ṭāwūsan, Anṭīsū, Isnā, Armant, Abshāyā,
+% Akhmīm and the monastery of Akhmīm, the monastery of Fāw, Asyūṭ, Ashmūn and Anṣinā; the folio of the manuscript,
+% «(fol. 4ᵇ)», in the margin beside the last entry. One line of the editor's footnotes.
+@r (١٢٩) | [١٠٨] | اسطمى | كه | ل | ل | {z}
+@r (١٣٠) | [١٠٩] | راما على شرقه الجبل | كز | ل | كح | له
+@r (١٣١) | [١١٠] | اوسطانا | لا | ل | كط | ل
+@r (١٣٢) | [١١١] | مدينة حامّة{n:a} | لد | ل{n:b} | كح | ل
+@r (١٣٣) | [١١٢] | مدينة اراما | له | ك | كح | {z}
+@r (١٣٤) | [١١٣] | مدينة ڡاسا | لو | {z} | ل | {z}
+@r (١٣٥) | [١١٤] | مدينة ٮرباريا | مط | م | كد | م
+@r (١٣٦) | [١١٥] | مدينة طاووسن | ن | {z} | كح | {z}
+@r (١٣٧) | [١١٦] | مدينة ثاريطا | ٮٮ | {z} | كز | ل
+@r (١٣٨) | [١١٨] | مدينة انطيسوا | ند | {z} | كر | م
+@r (١٣٩) | [١١٩] | مدينة اسنا | ٮد | يه | كد | م
+@r (١٤٠) | [١١٧] | مدينة ارمنت | نج | ك | كد | كه
+@r (١٤١) | [١٢١] | مدينة ابشايا{n:c} | ٮه | {z} | كه | ں
+@r (١٤٢) | [١٢٢] | مدينة اخميم | ٮه | ل | كو | ں
+@r (١٤٣) | | دير اخميم | ٮه | م | كر | {z}
+@r (١٤٤) | | دير فاو{n:d} | ٮو | ن | كر | ل
+@r (١٤٥) | | اسيوط | نو | مط | كو | مح
+@r (١٤٦) | | اشمون{n:e} | نز | {z} | كز | {z}
+@m (fol. 4ᵇ)
+@r (١٤٧) | | انصنى | ٮر | {z} | كو | لط
+@ednotes a b c d e 1
+@obs The table goes on from frame 017 without a heading: the cities of the third clime, entries 129-147. Entries 129-131 and 143-147 are printed without the word «مدينة»; entries 143-147 have no numbers of Suhrāb. The numbers of Suhrāb run [١٠٨]-[١١٦] in entries 129-137, then [١١٨], [١١٩], [١١٧] in entries 138-140 and [١٢١], [١٢٢] in entries 141-142; transcribed as printed. The folio of the Strasbourg manuscript, «(fol. 4ᵇ)», is printed in Latin type in the right margin beside entry 147 (L19).
+@obs L01: the letter before the final ى of «اسطمى» is a small loop with a counter, raised a little above the line and joined below to the bowl of the ى, the build of the م in «صلمى» (frame 014, L01); the medial ق of «شرقه» (L02) stands higher above the line. Transcribed م.
+@obs L02: «على شرقه الجبل», as printed: the ق with its two dots and a final ه. L04: «حامّة», with a shadda over the م. L06: the first letter of «ڡاسا», the initial loop of ف or ق joined to the alif, is printed without dots. L08: «طاووسن», with two و. L07: «ٮرباريا»: the first letter is a tooth without a dot joined to a ر, the two strokes forming a notch at the top, where the isolated ر of the font is a plain curved stroke (frame 021, L08, «عارٮرا»); transcribed ٮر. The ب after it has its dot.
+@obs Letters printed without their dots in the numerals, transcribed so: ٮٮ (L09, the degrees of the longitude), a tooth joined to a final ب, both without dots, with two risers at the right end of the bowl where the isolated ب has one; ٮد (L11), ٮه (L13-L15) and ٮو (L16), the tooth without its dot, in the degrees of the longitude; ں (L13, L14), the bowl of a final ن without its dot, in the minutes of the latitude. With their dots: كز (L02, the longitude; L09 and L18, the latitude), ند (L10), نج (L12), ن (L08; L16, the minutes of the longitude), نو (L17) and نز (L18), and يه (L11, the minutes of the longitude).
+@obs L10, L15, L16: the degrees of the latitude are printed كر, with ر, and L19: the degrees of the longitude, ٮر, a tooth without a dot joined to a ر, the two strokes forming a notch at the top, where the isolated ر of the font is a plain curved stroke (frame 021, L09); in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII). Transcribed ر as printed.
+@obs L13-L15: the degrees of the longitude, «ٮه», are a tooth without its dot joined to a final ه; read with a ن they give 55, between the neighbouring entries of the valley of the Nile, ٮٮ, ند, ٮد and نج before them and ٮو, نو, نز and ٮر after them. So also on frame 014 (L13, L15).
+@obs L04: note b stands after the minutes of the longitude; it gives the variant reading «لد ك», 34° 20', printed with a line above the numerals.
+@obs The page number «— ١٢ —» stands at the foot, centred.
+@copy A faint grey curl, perhaps a fibre, beside the minutes of the latitude of entry 145 (L17), and a smaller one beside the minutes of the latitude of entry 144 (L16).
+@variant L04: the manuscript reads حامه, with a final ه for the ة.
+@variant L04: for the longitude, لد ل, the manuscript gives the variant reading لد ك.
+@variant L07: at entry (1822) the name is written ٮرٮاريا, the second tooth without its dot (a note added in the editor's corrigenda (p. 163, frame 169)).
+@variant L08: at entry (1815) the name is written طاووس (a note added in the editor's corrigenda (p. 163, frame 169)).
+@variant L13: the manuscript reads انسانى for ابشايا.
+@variant L16: the manuscript reads ٮاو for فاو, without the dot of the ف.
+@variant L18: the manuscript reads اسمون for اشمون, without the dots of the ش.

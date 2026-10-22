@@ -1,0 +1,13 @@
+id	work	place	printed	correct	evidence	confidence
+S01	Charette-Schmidl	p. 162, Figure 3	caption «(B:81v-82r)»	B:91v-92r	the plate shows f. 92r (with «92» in its corner) and f. 91v, identical with the images of MPIWG canvases 0191 and 0190; the caption repeats that of Figure 2	high
+S02	Charette-Schmidl	pp. 189-190, Appendix 2	the tables of 94v and 95r-95v «for latitudes 25 to 90»	for meridian altitudes 25 to 90	p. 106 (8) describes the argument as the meridian altitude; the heading of 94v reads «ارتفاع نصف النهار من كه الى ص»	high
+S03	Charette-Schmidl	p. 172, n. 87	al-Majriti's recension «mentions» a year of 365;15,32,30	Suter derives it (p. 42) and corrects it to 365d 6h 12m (p. 235)	see cross_lane_checks.tsv X06	high
+S04	Charette-Schmidl	p. 192, bibliography	Ahmedov, ad-Dabbagh and Rosenfeld (1987) «3/7: 164-186»	3/7: 163-186	the article begins on p. 163 (the PDF and DergiPark)	high
+S05	Charette-Schmidl	p. 107	A «copied in Damascus in Ramadan 626 H»	626-627 H (1229-30); Ramadan 626 for the Ptolemaic part	the PAL record	high
+S06	Charette-Schmidl	pp. 110-112 and 135-137	the edition and the translation move the table of 78v before the paragraph «الكواكب» of 78r without saying so	-	AK-P01 E03	high
+S07	Charette-Schmidl	p. 123 (edition)	the marker (90r:1-10)	(90r:1-11), as in the translation (p. 149)	the red «وقت الظهر» stands within line 11 of 90r, which is shared by sections 29 and 28d	medium
+E01	Ahmedov et al.	p. 165	chapter 19 «(f. 196a)»	186a	chapter 18 ends and chapter 20 begins on 186a; the Turkish version (p. 190) has 186a	high
+E02	Ahmedov et al.	p. 167	the list of 59 chapters has no chapter 57	-	the same in the Turkish version (p. 192)	high
+E03	Ahmedov et al.	pp. 165 and 175	chapters 1-2 and the beginning of 3 «on f. 228a», chapters 2-3 «228b», and the quotations of chapters 2-3 «F. 182b» and «182b-183a»	unresolved	PAL records f. 228r as blank and the group as beginning on 182v; the images of A are needed	high (the inconsistency); open (the true folios)
+E04	Ahmedov et al.	p. 164	King «established» the attribution of the whole group	-	King (1983a: 2) leaves it open (Charette and Schmidl p. 107)	high
+E05	packet file 51	pp. 181-184	missing from the PDF	-	the publisher's PDF (DergiPark, article file 693897) is the same file, byte for byte; the Turkish version (pp. 187-210, DergiPark article file 693901) is complete	high

@@ -1,0 +1,41 @@
+@page 77 ٦١
+% Frame 077, printed p. 61: the kinds of triangles concluded (the obtuse: the squares of the two shorter sides
+% together less than the square of the longest); the right triangle has two perpendiculars and a hypotenuse and is
+% half a rectangle: one side about the right angle times half the other; a right triangle of sides six and eight and
+% hypotenuse ten, six times four, twenty-four, with its figure. The acute triangle, an equilateral one of side ten:
+% its area through its altitude and the foot of the altitude, which falls on the middle of the base when the two
+% sides are equal; the altitude the root of a hundred less twenty-five, the root of seventy-five, times half the
+% base, five, continued on the next page. No footnotes.
+كل مثلثة اذا ضربت ضلعيها الأقصرين كل واحد منهما فى نفسه وجمعتهما كانا
+أقل من الضلع الأطول مضروبا فى نفسه . فأما القائمة الزوايا فهى التى لها
+عمودان وقطر وهى نصف مربعة فمعرفة تكسيرها أن تضرب أحد الضلعين
+المحيطين بالزاوية القائمة فى نصف الآخر فما بلغ ذلك فهو تكسيرها ومثال ذلك
+مثلثة قائمة الزاوية ضلع منها ستة أذرع وضلع منها ثمانية أذرع والقطر عشرة
+فحساب ذلك أن تضرب ستة فى أربعة فيكون أربعةوعشرين ذراعا وهو تكسيرها
+وان أحببت أن تحسبها بالعمود فان عمودها لا يقع إلا على الضلع الأطول لأن
+الضلعين القصيرين عمودان فان أردت ذلك
+فاضرب عمودها فى نصف القاعدة فما كان
+فهو تكسيرها وهذه صورتها . وأما الجنس
+الثانى فالمثلثة المتساوية الأضلاع حادة
+الزوايا من كل جانب عشرة أذرع فان
+تكسيرها يعرف من قبل عمودها ومسقط حجرها واعلم أن كل ضلعين مستويين
+من مثلثةيخرج بينهما عمود على قاعدة فان مسقط حجر العمود يقع على زاوية قائمة
+ويقع على نصف القاعدةسواءاذا استوى الضلعان.فان اختلفا خالف مسقط الحجر
+عن نصف القاعدة ولكن قد علمنا أن مسقط حجر هذه المثلثة على أى أضلاعها
+جعلته لا يقع إلا على نصفه فذلك خمسة أذرع فمعرفة العمود أن تضرب الخمسة
+فى مثلها وتضرب أحد الضلعين فى مثله وهو عشرة فيكون مائة فتنقص
+منها مبلغ الخمسة فى مثلها وهو خمسة وعشرون فيبقى خمسة وسبعون فخذ
+جذر ذلك فهو العمود وقد صار ضلعا على مثلثتين قائمتين فان أردت
+التكسير فاضرب جذر الخمسة والسبعين فى نصف القاعدة وهو خمسة وذلك
+@fig AK01-F077-FIG1 1630 1565 2420 2165 after=12
+@obs Layout: L01-L07 run across the page; L08-L12 stand in a narrower column at the left of the figure, which is reproduced after L12; L13-L21 run across the page.
+@obs The figure, drawn, not set in type: a right triangle with its right angle at the upper left; ٨ above the upper side, ٦ beside the left side, inside the triangle, and ١٠ on the hypotenuse, which runs from the lower left to the upper right corner.
+@obs Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): أربعةوعشرين (L06; 7 between the ة and the conjunction و); مثلثةيخرج (L14; 5 between the ة and the ي); القاعدةسواءاذا (L15; 8 between the ة and the س, 7 between the hamza on the line and the alif, where اذا stands 34 px from استوى).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: ذراعا وهو (L06; 24 between the alif and the conjunction و), تكسيرها ومثال (L04; 24) and عمودها ومسقط (L13; 28), where the alif stands 9 px from the conjunction و in درهماونصفاً on frame 061, L06.
+@obs L20: مثلثتين (L20), the dual of مثلثة, as مثلثتان on frame 076, L06: after the ل the ث with three dots and the ت with two, each on a tooth of its own, then the ي and the ن.
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: عمودان وقطر (L03), ذلك أن and فى أربعة (L06), على قاعدة and فان مسقط (L14), على نصف (L15).
+@obs The full stops: after نفسه, before فأما (L02; 26 and 26 px, nearest approach of the ink at 400 ppi), and after صورتها, before وأما (L10; 25 and 35), between spaces; in L15 the stop is set close on both sides, 8 px after الضلعان and 8 px before فان, and transcribed so, «الضلعان.فان». The machine reading sets spaces in أربعةوعشرين, مثلثةيخرج, القاعدةسواءاذا and الضلعان.فان.
+@obs Plain alif where a hamza might be expected, as printed: اذا (L01, L15), وان, فان (L07), فان (L08, L12, L14, L15, L20), واعلم (L13), استوى, اختلفا (L15); with hamza: الأقصرين (L01), أقل, الأطول, فأما (L02), أن, أحد (L03), أذرع (L05, twice), أن, أربعة, أربعةوعشرين (L06), أحببت, أن, الأطول, لأن (L07), أردت (L08), وأما (L10), الأضلاع (L11), أذرع (L12), أن (L13), أن, أى, أضلاعها (L16), أذرع, أن (L17), أحد (L18), أردت (L20); below the alif: إلا (L07, L17); with madda: الآخر (L04); on ي: القائمة (L02, L04), قائمة (L05, L14), مائة (L18), قائمتين (L20); the hamza on the line: القاعدةسواءاذا (L15).
+@obs No tanwīn is printed on this page: مضروبا (L02), ذراعا (L06), ضلعا (L20).
+@obs The final yā' is printed without dots: فى (L01, L02, L04, L06, L09, L18, L19, L21), فهى, التى (L02), وهى (L03), على (L07, L14, L15, L16, L17, L20), الثانى (L11), استوى (L15), أى (L16), فيبقى (L19).
+@obs The print stretches لها (L02), مربعة (L03, after the م), القصيرين (L08), صورتها (L10), الثانى and الأضلاع (L11), تكسيرها (L13), ولكن (L16), أحد (L18), منها and مثلها (L19) with the elongation stroke; the stroke is not transcribed.

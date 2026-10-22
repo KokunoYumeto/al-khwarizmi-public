@@ -1,0 +1,215 @@
+{
+ "anchor": "AK01-F099",
+ "frame": 99,
+ "frame_file": "page_099.jpg",
+ "frame_sha256": "04fdfa515c2a35577b3e6291033c2571b45c43af2b109de624de60347dde207e",
+ "printed_page": "٨٣",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 099, printed p. 83: the problem of frame 098 concluded: from a quarter less a share a third is taken; two thirds of a quarter less two thirds of a share, added to what remains of the third, are twenty-six sixtieths of the estate less a share and twenty-eight sixtieths; with a quarter and a sixth, the rest of the estate, seventeen twentieths of the estate equal seven shares and seven fifteenths; the estate eight shares and a hundred and twenty hundred-and-fifty-thirds: the share a hundred and fifty-three, the estate one thousand three hundred and forty-four, the part of the first bequest from the third fifty-seven, of the second from the quarter sixty-one. Then, under «فان ترك ستة بنين» in bold: six sons; to one man a son's share and a fifth of what remains of the quarter, to another a son's share less a quarter of what remains of the third after the first two bequests and the other share, begun, continued on the next page. Below the rule one footnote of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F099-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "غير نصيب ثم تلقى ثلث ما يبقى منه فيبقى ثلثا ربع إلا ثلثى نصيب فتزيد ذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F099-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "على ما يبقى من الثلث فيكون ذلك ستة وعشرين جزءاً من ستين جزءاً من مال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F099-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "غير نصيب وثمانية وعشرين جزءاً من ستين جزءاً من نصيب ثم زد على ذلك ما",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F099-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "بقى من المال بعد أخذك منه الثلث والربع وهو ربع وسدس فيكون ذلك سبعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F099-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "عشر جزءاً من عشرين جزءاً من مال تعدل سبعة انصباء وسبعة اجزاء من خمسة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F099-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "عشر جزءاً من نصيب فتمم مالك وهو ان تزيد على ما معك من الأنصباء ثلاثة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F099-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "اجزاء من سبعةعشر جزءاً فيكون معك مال يعدل ثمانية انصباء ومائة وعشرين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F099-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "جزءاً من مائة وثلاثة وخمسين جزءاً من نصيب فاجعل النصيب مائة وثلاثة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F099-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "وخمسين فيكون المال الفاً وثلثمائة واربعةواربعين والوصية من الثلث بعدالنصيب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F099-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "سبعة وخمسون. والوصية من الربع بعد النصيب احد وستون. {b:فان ترك ستة بنين}",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان ترك ستة بنين"
+   ]
+  },
+  {
+   "id": "AK01-F099-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "واوصى لرجل بمثل نصيب ابن وبخمس ما يبقى من الربع ولرجل آخر بمثل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F099-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "نصيب ابن آخر إلا ربع ما يبقى من الثلث بعد الوصيتين الأوليتين والنصيب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F099-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "الآخر {n:١} . فان قياسه ان تلقى من ربع مال نصيبا فيبقى ربع غير نصيب ثم",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F099-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "تلقى خمس مايبقى من الربع وهو نصف عشر المال إلا خمس نصيب ثم ترجع",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F099-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "الى الثلث فتلقى منه نصف عشر المال واربعة اخماس نصيب ونصيبا آخر فيبقى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F099-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "ثلث إلا نصف عشر مال وإلا نصيباً واربعة اخماس نصيب فزد على ذلك ربع",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١"
+   ],
+   "lines": 6,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L10: the words فان ترك ستة بنين (L10), the run-in heading of the next problem, are printed in a bold face at the end of the line, after a full stop, the س of ستة drawn out with the elongation stroke; L11, which goes on with واوصى, is in the face of the text. The bold ن of فان is printed without its dot; transcribed ن.",
+  "L10: «سبعة وخمسون», as printed, fifty-seven, with a ب under the second tooth of سبعة, for the part of the first bequest that comes from what remains of the third after the share, which is fifty-nine. See the critical note AK01-CN028.",
+  "L01: «ثلثا ربع», as printed, the dual, two thirds of a quarter, without the ن of the dual before the noun that follows it, as سبعا مال and خمسا مال on frames 094 and 095. L09: the hundreds are printed وثلثمائة (L09), without the alif of ثلاث, as on frames 089, 092, 095 and 096; transcribed as printed.",
+  "Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): سبعةعشر (L07; 6 between the ة and the ع); واربعةواربعين (L09; 4 between the ة and the conjunction و, where وثلثمائة واربعة in the same line has 19 and وثمانية وعشرين in L03 17); بعدالنصيب (L09; 7 between the د and the alif, where بعد النصيب in L10 has 23); مايبقى (L14; 19 between the alif and the ي, where ما يبقى with a space has 36 to 38 px on this page, in L01, L02, L11 and L12).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: سبعة انصباء (L05; 16 between the ة and the alif) and وثمانية وعشرين (L03; 17 between the ة and the conjunction و), at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one.",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: يبقى من (L02), الثلث والربع (L04; 7 between the ث and the conjunction و), فيكون المال (L09), من الربع, الربع بعد, النصيب احد (L10), من الربع (L14).",
+  "The note mark and the full stops (gaps as the nearest approach of the ink at 400 ppi): in L10 the full stops stand close after وخمسون and after وستون, 9 px from the ن, and 26 and 28 px before والوصية and the bold فان; they are transcribed close after the word, with a space before the next. (١) stands 51 px after الآخر, followed by a full stop 40 px after the mark and 26 px before فان (L13).",
+  "Plain alif where a hamza might be expected, as printed: انصباء, اجزاء (L05), ان (L06), اجزاء, انصباء (L07), فاجعل (L08), الفاً, واربعةواربعين (L09), احد, the bold فان (L10), واوصى, ابن (L11), ابن (L12), ان (L13), الى, واربعة, اخماس (L15), واربعة, اخماس (L16); with hamza: أخذك (L04), الأنصباء (L06), الأوليتين (L12); below the alif: إلا (L01, L12, L14; L16, twice); with madda: آخر (L11, L12, L15), الآخر (L13); on ي: ومائة (L07), مائة (L08, twice), وثلثمائة (L09); the hamza on the line: جزءاً (L02, L03, L05, L08, twice each; L06, L07), انصباء, اجزاء (L05), الأنصباء (L06), اجزاء, انصباء (L07).",
+  "With tanwīn on the final alif: جزءاً (L02, L03, L05, L08, twice each; L06, L07), الفاً (L09), نصيباً (L16); without tanwīn as printed: ثلثا (L01), نصيبا (L13), ونصيبا (L15).",
+  "The final yā' is printed without dots: تلقى, يبقى, فيبقى, ثلثى (L01), على, يبقى (L02), على (L03), بقى (L04), على (L06), واوصى, يبقى (L11), يبقى (L12), تلقى, فيبقى (L13), تلقى, مايبقى (L14), الى, فتلقى, فيبقى (L15), على (L16).",
+  "Note (١) of the editors restates the problem of L10-L13 in modern notation, with a son's share x: the first bequest x + 1/5 (1/4 − x), the second x − 1/4 [1/3 − 2x − 1/5 (1/4 − x)]; what remains to the six sons, 1 − x − 1/20 + 1/5 x − x + 1/4 (1/3 − 9/5 x − 1/20) = 245/240 − 45/20 x, equals 6x; hence x = 49/396, a son's share. The values check exactly. The note is not reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK01-CN028",
+   "class": "wrong number",
+   "line": "L10",
+   "printed": "سبعة وخمسون",
+   "proposed": "تسعة وخمسون",
+   "evidence": "The first legatee receives a daughter's share and a fifth of what remains of the third after the share (frame 098, L12-L13). With the estate of 1344 (L09) the third is 448, less the share, 153, 295, a fifth of which is 59; the second legatee's part from the quarter, a third of 336 less 153, is 61, as the text has it (L10). The estate is then accounted for exactly: six shares of 153, 918, the first bequest 153 and 59, 212, the second 153 and 61, 214; 918 + 212 + 214 = 1344, where 57 leaves two parts over. The editors' note on frame 098 gives the share, 153 parts of 1344, and does not comment on the number.",
+   "confidence": "high: exact arithmetic; whether the slip is the print's or the manuscript's is not known",
+   "impact": "none on the result: the share, 153, and the estate, 1344, are correct"
+  }
+ ]
+}

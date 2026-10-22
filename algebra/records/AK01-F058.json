@@ -1,0 +1,227 @@
+{
+ "anchor": "AK01-F058",
+ "frame": 58,
+ "frame_file": "page_058.jpg",
+ "frame_sha256": "1fdc33e6a4e2eaa701426e166a80ab08cf843d64bf069cda4025e345a4b410dd",
+ "printed_page": "٤٢",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 058, printed p. 42: the fifth of the various problems solved (five times one part divided by the other, half the quotient added to five times the part gives fifty: the part is eight); then the sixth, «فان قال» in bold: ten divided into two parts, one part multiplied by itself is eighty-one times the other; reduced to a square and roots equal to a number, continued on the next page. Below the rule a footnote of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F058-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "فيكون خمسة أشياء مقسومة على الباقى من العشرة وهو عشرة الا شيئا مأخوذ",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "نصفها ومعلوم أنك اذا قسمت الخمسة الأشياء على عشرةالاشيئا وأخذت نصف",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "ماخرج كان ذلك كقسمك نصف الخمسة الأشياء على العشرةإلاشيئا فاذا أخذت",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "نصف الخمسة الأشياء صار شيئين ونصفا وهو الذى تريد أن تقسمه على عشرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "الا شيئا يخرج يعدل خمسين الا خمسة أشياء لأنه قال تضم اليه أحد القسمين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "مضروبا فى خمسة فيكون ذلك كله خمسين وقد علمت انك متى ضربت ما خرج",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "لك من القسم فى المقسوم عليه عاد المال ومالك شيئان ونصف فاضرب عشرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "الا شيئا فى خمسين الا خمسة أشياء فيكون ذلك خمسمائة درهم وخمسة أموال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "الا مائة شىء تعدل شيئين ونصفا فاردد ذلك الى مال واحد فيكون ذلك مائة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "درهم ومالاالا عشرين شيئا تعدل نصف شىء فاجبرذلك المائةوزدالعشرين الشىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "على نصف الشىء فيصير معك مائة درهم ومال تعدل عشرين شيئا ونصف شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "فنصف الأشياء واضربها فى مثلها وانقص منها المائة وخذ جذرمابقى وانقصه من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "نصف الأجذار وهو عشرة وربع فيبقى ثمانية وهو أحد القسمين . {b:فان قال}",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان قال"
+   ]
+  },
+  {
+   "id": "AK01-F058-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "عشرة قسمتها قسمين فضربت أحد القسمين فى نفسه فكان مثل الآخر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "احدى وثمانين مرة {n:١} . فقياس ذلك أن تقول عشرة الا شيئافى مثلهابمائة ومال",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "الا عشرين شيئا تعدل احدا وثمانين شيئا فاجبر المائة والمال بالعشرين الشىء وزدها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "على الواحد والثمانين ( الشىء ) فيكون مائة ومالا تعدل مائة جذرا وجذرا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F058-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "فنصف الأجذار فتكون خمسين ونصفا واضربها فى مثلها فيكون الفين وخمسمائة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L13: the words فان قال are printed in a bold face at the end of the line, the run-in heading of the sixth of the various problems, after the full stop that ends the fifth; L14, which goes on with عشرة, is in the face of the text. The bold ن is printed without its dot, as on frames 055-057; transcribed ن. The alifs of the bold words are 11 and 14 px wide (at 400 ppi), those of the text 7 to 10.",
+  "L03: إلا is printed with a hamza below the alif, in «العشرةإلاشيئا»; the same words in L02 are printed «عشرةالاشيئا», and الا has a plain alif everywhere else on this page, as on frames 046-057 (on frame 045, L01, once إلا).",
+  "L17: the word الشىء stands between parentheses, as مال and المال on frame 054; the edition does not say what the parentheses mark. Here the parentheses stand 19 and 34 px from the word inside them (nearest approach of the ink at 400 ppi), about as far as from the words outside (34 and 40), and are transcribed with a space on either side; on frame 054 they are set close to the words (7 to 13 px).",
+  "L17 is printed in a damaged type, like the last line of frame 055: the alif of ما in ومالا is broken in two (33 px and, separate above it, 26), the alif of the first جذرا is 36 px high with its top standing apart, where the alifs of the line are 57 to 60 px; the dots of the ذ of both جذرا and the two dots of the ت of تعدل are broken into irregular marks, and the upper ends of both parentheses stand apart from them. None of these marks is a vowel sign; the letters are transcribed plain.",
+  "Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): عشرةالاشيئا (L02; 10 between the ة and the alif, 21 between the لا and the ش) and العشرةإلاشيئا (L03; 12 and 22), where with a space the ة stands 17 px or more from the next word on this page and the لا 28 to 36 (الا شيئا, L05, 36, L08, 35; الا خمسة, L05, 29, L08, 28; الا مائة, L09, 34; الا عشرين, L10, 36); ماخرج (L03; 9 between the alif and the خ, where ما خرج, L06, stands 26 apart, as on frame 057); ومالاالا (L10; 9 between the لا of مالا and the alif); فاجبرذلك (L10; 28 between the ر and the ذ above the baseline, the tail of the ر 11 px from the ذ, as inside a word on this page: 28 to 36 px above the baseline and the tail 11 to 25 px from the next letter in العشرة (L01), خرج (L06), فضربت (L14), جذرا and وجذرا (L17); فاجبر المائة, L16, stands 45 apart above the baseline, its tail 25 px from the alif); المائةوزدالعشرين (L10; 5 between the ة and the conjunction و, 8 between the د and the alif); جذرمابقى (L12; 26 between the ر and the م above the baseline, the tail 14 px from it; 17 between the alif and the ب, as in مابقى on frame 049, 8 to 18); شيئافى (L15; 11 between the alif and the ف) and مثلهابمائة (L15; 2 between the alif and the ب).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: خمسة أشياء (L01; 18 between the ة and the alif), الخمسة الأشياء (L04; 17), بمائة ومال (L15; 18 between the ة and the conjunction و), المائة والمال (L16; 21), where the ة stands 5 to 12 px from the next letter in the solid groups of this page; شيئا وأخذت (L02; 21 between the alif and the conjunction و) and شيئا ونصف (L11; 25), as شيئا وثلثى on frame 057; الا عشرين (L16; 26 between the لا and the ع, between the solid groups of this page, 21 and 22, and the spaced الا, 28 to 36); الشىء وزدها (L16; 15 between the hamza and the و), as شىء ودرهم on frame 053; تريد أن (L04; 17 between the د and the alif) and عاد المال (L07; 25).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: كان ذلك (L03; 19 between the ن and the ذ), شيئين ونصفا (L04; 22), بقى وانقصه (L12; 11 between the bowl of the ى and the و), ونصف شىء (L11; 7 between the ف and the ش), تعدل احدا (L16).",
+  "L13: the full stop stands between spaces (27 and 36 px), before the bold heading. L15: the note mark (١) stands after a space; the full stop after it stands between spaces (25 px before فقياس).",
+  "Plain alif where a hamza might be expected, as printed: الا (L01, L05, L08, L09, L15, L16, twice in L05 and L08), عشرةالاشيئا, اذا (L02), فاذا (L03), اليه (L05), انك (L06), فاضرب (L07), فاردد, الى (L09), ومالاالا, فاجبرذلك (L10), واضربها, وانقص, وانقصه (L12), فان (L13), احدى (L15), احدا, فاجبر (L16), واضربها, الفين (L18); with hamza: أشياء, مأخوذ (L01), أنك, الأشياء, وأخذت (L02), الأشياء, أخذت (L03), الأشياء, أن (L04), أشياء, لأنه, أحد (L05), أشياء, أموال (L08), الأشياء (L12), الأجذار, أحد (L13), أحد (L14), أن (L15), الأجذار (L18); below the alif: العشرةإلاشيئا (L03); with madda: الآخر (L14); on ي: خمسمائة (L08), مائة (L09, twice; L11; L17, twice), المائةوزدالعشرين (L10), المائة (L12, L16), مثلهابمائة (L15), وخمسمائة (L18), شيئين (L04, L09), شيئان (L07); the hamza on the line: أشياء (L01, L05, L08), الأشياء (L02, L03, L04, L12), شىء (L09, L10, L11), الشىء (L10, L11, L16, L17).",
+  "Without tanwīn as printed: شيئا throughout, مضروبا (L06), ونصفا (L04, L09, L18), ومالاالا (L10), احدا (L16), ومالا, جذرا, وجذرا (L17); no tanwīn is printed on this page.",
+  "The final yā' is printed without dots: على (L01, L02, L03, L04, L11, L17), الباقى (L01), الذى (L04), فى (L06, L07, L08, L12, L14, L18), متى (L06), الى (L09), جذرمابقى (L12), فيبقى (L13), احدى (L15), شيئافى (L15); and before the hamza in شىء and الشىء.",
+  "Note (١) of the editors states the sixth problem in modern notation, (10 − x)² = 81x, reduces it and solves it: one (or a hundred). Not reproduced."
+ ],
+ "copy_matter": [
+  "L14: a grey stain on this copy, about 110 by 100 px at 400 ppi, over the ث and the ل of مثل; the letters are legible through it. Fainter grey marks above شيئافى (L15) and between L15 and L16 above شيئا فاجبر."
+ ],
+ "critical_notes": []
+}

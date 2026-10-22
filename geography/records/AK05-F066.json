@@ -1,0 +1,271 @@
+{
+ "anchor": "AK05-F066",
+ "frame": 66,
+ "frame_file": "page_066.jpg",
+ "frame_sha256": "ebac7c06fca41249a35fe9c003b875aa826ff5dd58d0dc30612106eb52dd81ca",
+ "printed_page": "٦٠",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 066, printed p. 60: the right-hand page of the opening pp. 60-61 of the table of the mountains: the last three entries of the sixth clime, 871/872-875/876, Qāsiyā, اسعودر and the dam between the two mountains of Gog and Magog; the headings of the seventh clime and of its mountains, with the folio of the manuscript, «(fol. 15ᵇ)», in the margin; seven entries of the seventh clime, 877/878-889/890, among them Sāmūlā in the land of Gog; the headings of what lies beyond the seventh clime; and its first mountain, 891/892, Mālī on an island. Two lines of the editor's footnotes, the end of note d, continued from the foot of p. 61.",
+ "lines": [
+  {
+   "id": "AK05-F066-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٨٧١ ٨٧٢) | [١٣٥٧ ١٣٥٨] | جبل قاسيا{n:a}",
+   "margin": null,
+   "cells": [
+    "(٨٧١ ٨٧٢)",
+    "[١٣٥٧ ١٣٥٨]",
+    "جبل قاسيا{n:a}"
+   ],
+   "plain": "(٨٧١ ٨٧٢) | [١٣٥٧ ١٣٥٨] | جبل قاسيا",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F066-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٨٧٣ ٨٧٤) | [١٣٥٩ ١٣٦٠] | جبل اسعودر",
+   "margin": null,
+   "cells": [
+    "(٨٧٣ ٨٧٤)",
+    "[١٣٥٩ ١٣٦٠]",
+    "جبل اسعودر"
+   ],
+   "plain": "(٨٧٣ ٨٧٤) | [١٣٥٩ ١٣٦٠] | جبل اسعودر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F066-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٨٧٥ ٨٧٦) | [١٣٦١ ١٣٦٢] | السدّ بين جبلين ياجوج وماجوج",
+   "margin": null,
+   "cells": [
+    "(٨٧٥ ٨٧٦)",
+    "[١٣٦١ ١٣٦٢]",
+    "السدّ بين جبلين ياجوج وماجوج"
+   ],
+   "plain": "(٨٧٥ ٨٧٦) | [١٣٦١ ١٣٦٢] | السدّ بين جبلين ياجوج وماجوج",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F066-L04",
+   "n": 4,
+   "kind": "heading",
+   "text": "* الإقليم السابع",
+   "margin": null,
+   "cells": null,
+   "plain": "* الإقليم السابع",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F066-L05",
+   "n": 5,
+   "kind": "heading",
+   "text": "* الجبال الّتى فى",
+   "margin": null,
+   "cells": null,
+   "plain": "* الجبال الّتى فى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F066-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٨٧٧ ٨٧٨) | [١٣٦٣ ١٣٦٤] | جبل ٮورسس",
+   "margin": "(fol. 15ᵇ)",
+   "cells": [
+    "(٨٧٧ ٨٧٨)",
+    "[١٣٦٣ ١٣٦٤]",
+    "جبل ٮورسس"
+   ],
+   "plain": "(٨٧٧ ٨٧٨) | [١٣٦٣ ١٣٦٤] | جبل ٮورسس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F066-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٨٧٩ ٨٨٠) | [١٣٦٥ ١٣٦٦] | جبل الڡس فى اصله ماڡلوٮ",
+   "margin": null,
+   "cells": [
+    "(٨٧٩ ٨٨٠)",
+    "[١٣٦٥ ١٣٦٦]",
+    "جبل الڡس فى اصله ماڡلوٮ"
+   ],
+   "plain": "(٨٧٩ ٨٨٠) | [١٣٦٥ ١٣٦٦] | جبل الڡس فى اصله ماڡلوٮ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F066-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٨٨١ ٨٨٢) | [١٣٦٧ ١٣٦٨] | جبل سسٮٮڡا",
+   "margin": null,
+   "cells": [
+    "(٨٨١ ٨٨٢)",
+    "[١٣٦٧ ١٣٦٨]",
+    "جبل سسٮٮڡا"
+   ],
+   "plain": "(٨٨١ ٨٨٢) | [١٣٦٧ ١٣٦٨] | جبل سسٮٮڡا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F066-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٨٨٣ ٨٨٤) | [١٣٦٩ ١٣٧٠] | جبل لٮٮعوس",
+   "margin": null,
+   "cells": [
+    "(٨٨٣ ٨٨٤)",
+    "[١٣٦٩ ١٣٧٠]",
+    "جبل لٮٮعوس"
+   ],
+   "plain": "(٨٨٣ ٨٨٤) | [١٣٦٩ ١٣٧٠] | جبل لٮٮعوس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F066-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٨٨٥ ٨٨٦) | [١٣٧١ ١٣٧٢] | جبل",
+   "margin": null,
+   "cells": [
+    "(٨٨٥ ٨٨٦)",
+    "[١٣٧١ ١٣٧٢]",
+    "جبل"
+   ],
+   "plain": "(٨٨٥ ٨٨٦) | [١٣٧١ ١٣٧٢] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F066-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٨٨٧ ٨٨٨) | [١٣٧٣ ١٣٧٤] | جبل",
+   "margin": null,
+   "cells": [
+    "(٨٨٧ ٨٨٨)",
+    "[١٣٧٣ ١٣٧٤]",
+    "جبل"
+   ],
+   "plain": "(٨٨٧ ٨٨٨) | [١٣٧٣ ١٣٧٤] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F066-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٨٨٩ ٨٩٠) | [١٣٧٥ ١٣٧٦] | جبل سامولا فى بلاد ياجوج",
+   "margin": null,
+   "cells": [
+    "(٨٨٩ ٨٩٠)",
+    "[١٣٧٥ ١٣٧٦]",
+    "جبل سامولا فى بلاد ياجوج"
+   ],
+   "plain": "(٨٨٩ ٨٩٠) | [١٣٧٥ ١٣٧٦] | جبل سامولا فى بلاد ياجوج",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F066-L13",
+   "n": 13,
+   "kind": "heading",
+   "text": "* خلف الإقليم السابع",
+   "margin": null,
+   "cells": null,
+   "plain": "* خلف الإقليم السابع",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F066-L14",
+   "n": 14,
+   "kind": "heading",
+   "text": "* الجبال الّتى وراء",
+   "margin": null,
+   "cells": null,
+   "plain": "* الجبال الّتى وراء",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F066-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٨٩١ ٨٩٢) | [١٣٨١ ١٣٨٢] | جبل مالى فى جزيرة",
+   "margin": null,
+   "cells": [
+    "(٨٩١ ٨٩٢)",
+    "[١٣٨١ ١٣٨٢]",
+    "جبل مالى فى جزيرة"
+   ],
+   "plain": "(٨٩١ ٨٩٢) | [١٣٨١ ١٣٨٢] | جبل مالى فى جزيرة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "d"
+   ],
+   "lines": 2,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: a variant reading of the name is قاسنا (note a, printed at the foot of p. 61)."
+ ],
+ "unresolved": [
+  "L02: the loop may also be read as the loop of ف or ق: اسڡودر. Transcribed اسعودر.",
+  "L09: the loop may also be read as the loop of ف or ق: لٮٮڡوس. Transcribed لٮٮعوس.",
+  "L08: the eight strokes before the loop are of nearly the same height, so the grouping into letters does not show: the name may also be read ٮسسٮڡا or ٮٮسسڡا. Transcribed سسٮٮڡا."
+ ],
+ "observations": [
+  "The table of the mountains goes on across the opening pp. 60-61: each line of p. 60 is continued by the same line of p. 61 (frame 067), which gives the boundaries, the colour and the direction. L01-L03 are the last three entries of the sixth clime. The headings run across the opening: L04, «* الإقليم السابع», is continued on p. 61 by «عرضه مح *», the seventh clime and its latitude, 48; L05, «* الجبال الّتى فى», by «الإقليم السابع *», the mountains in the seventh clime; L13, «* خلف الإقليم السابع», by «الى عرض ثلثة وستّين *», beyond the seventh clime to the latitude of sixty-three; and L14, «* الجبال الّتى وراء», by «الإقليم السابع *», the mountains beyond the seventh clime. They are set in the large type, each beginning with a small open star, transcribed as an asterisk, and stand at the inner edge of the page, next to their ends on p. 61; transcribed as headings. L04, L13: «الإقليم», with a hamza below the alif; L05, L14: «الّتى», with a shadda over the ل; L05: «فى», with the dot of the ف and no dots on the ى; L13: «خلف», with the dots of the خ and the ف; L14: «الجبال», printed with a long kashida, the stretched joining stroke, between the ب and the alif, which is not transcribed, and «وراء», with a hamza after the alif.",
+  "The running numbers go on from entry 869/870 (frame 064) and run (٨٧١ ٨٧٢)-(٨٩١ ٨٩٢). The numbers of Suhrāb are [١٣٥٧ ١٣٥٨]-[١٣٧٥ ١٣٧٦] (L01-L12) and [١٣٨١ ١٣٨٢] (L15); [١٣٧٧]-[١٣٨٠] do not appear on the page. The folio of the Strasbourg manuscript, «(fol. 15ᵇ)», is printed in Latin type in the right margin beside entry 877/878 (L06).",
+  "L03: «السدّ بين جبلين ياجوج وماجوج», the dam between two mountains, Gog and Magog, with a shadda over the د of «السدّ»: the only entry of the page that does not begin with «جبل». L10, L11: the word «جبل» alone. L12: «سامولا فى بلاد ياجوج», Sāmūlā in the land of Gog, with the dots of «بلاد» and «ياجوج». L15: «مالى فى جزيرة», Mālī on an island; «مالى» ends in a ى without dots, with a speck, 3 by 5 px, below it. «فى» (L07, L12, L15) has the dot of the ف and no dots on the ى.",
+  "L01: «قاسيا», the ق with its two dots and the ي with its two dots below; the note mark a follows.",
+  "Loops without dots in the names. The medial ع of this type is wider than high (frame 054, L11, «المعدن»: 18 by 11 px), where the medial loop of ف or ق is narrower and taller (frame 064, L17, «اسفطافا», with the dot of the ف). L02: «اسعودر»: after the alif, the three teeth of a س (12, 9 and 8 px), a loop 17 px wide and 14 px high, then و, د and ر; transcribed ع. L07: «الڡس» and «ماڡلوٮ»: upright loops, 12 by 17 and 11 by 14 px, with a counter; transcribed ڡ; the final ب of «ماڡلوٮ» has no dot. L08: an upright loop, 12 by 14 px; transcribed ڡ. L09: a loop 18 px wide and 12 px high; transcribed ع.",
+  "L06: «ٮورسس»: a tooth without a dot, 18 px high, joined to a و; a ر, rising 20 px above the line like the isolated ر of L02, its head split for 7 px into two strokes; and six teeth before the bowl of the final س. The notched ٮر, a tooth joined to a ر (frame 041, L06), rises only 12 px. Transcribed ٮورسس.",
+  "L08: «سسٮٮڡا»: after «جبل», eight upright strokes before the loop, the first 10 px high and the others 5 to 8 px, then the alif; six of them are taken as the teeth of two س, as in the six teeth of «ٮورسس» (L06), whose first two strokes stand as close together (7 and 8 px) as the first two here. A speck of 9 px, much smaller than the dots of the font, stands above the joint of the loop.",
+  "L09: «لٮٮعوس»: after the ل, two teeth without dots, 6 and 7 px high and 16 px apart, the second 4 px from the loop with a dip to 3 px between them; then the loop, a و and a final س with three teeth. Transcribed as counted.",
+  "The two lines of the editor's footnotes at the foot of the page continue note d, whose mark and first words, «Am Rande:», stand at the foot of p. 61 (frame 067): they hold a gloss in Arabic from the margin of the manuscript, quoted in the variants of frame 067. The text of note a, whose mark stands on this page (L01), is printed at the foot of p. 61.",
+  "The page number «— ٦٠ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

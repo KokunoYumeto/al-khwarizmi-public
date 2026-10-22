@@ -1,0 +1,21 @@
+{
+ "anchor": "AK05-F002",
+ "frame": 2,
+ "frame_file": "page_002.jpg",
+ "frame_sha256": "6c26a766c613e5ef95d63f0ffe26815bfcb543f7e89dfc1caac72b5d77b49b13",
+ "printed_page": "-",
+ "kind": "provenance",
+ "role": "COPY_PROVENANCE",
+ "comment": "Frame 002: a leaf with the ownership stamp of Columbia University Libraries.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [],
+ "copy_matter": [
+  "The ownership stamp «COLUMBIA UNIVERSITY THE LIBRARIES IN THE CITY OF NEW YORK», round, with a crown, in the middle of the leaf; not part of the edition."
+ ],
+ "critical_notes": []
+}

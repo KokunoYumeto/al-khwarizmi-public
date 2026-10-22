@@ -1,0 +1,56 @@
+@page 42 10
+@lang la
+% JP2 0042: the Latin text, p. 10: the end of chapter 8 (the interpolation of the equation, the place of the sun);
+% chapter 9, the place of the moon; chapter 10, the places of Saturn, Jupiter and Mars, begins; with the apparatus
+% (notes 1-43).
+dakaicae{sup:1}) restiterint, intrandum item erit gradum unum gradibus prioribus addendo,
+quodque inde vel super accreverit vel diminutum fuerit, ex ipsa examinatione parti-
+bus illis dandum erit{sup:2}). Quod si secundae{sup:3}) infra XXX fuerint, negligentur, si
+vero supra XXX, in suum totum{sup:4}) redigentur.
+@p Quod igitur ex praedicta partitione in fine accidet{sup:5}), locus est quem quaeris.
+Calle etiam quod{sup:6}) si argumentum sex signa{sup:7}) fuerit{sup:8}), sequaturque{sup:9}) cifre in gradi-
+bus, id est nullus{sup:10}), ipsum {i:elwacat}{sup:11}) locum quem desideras ostendit{sup:12}).
+@c {b:Cap. 9. De inveniendo loco lunae{sup:13}).}
+@p Lunae vero locus sic invenietur{sup:14}). Hora ergo{sup:15}) qualibet in lunae {i:elwacat}{sup:16})
+similiterque{sup:17}) in eiusdem{sup:18}) argumentum intrandum est. Per argumentum deinde{sup:19})
+in examinationem{sup:20}), quodque ei adiunctum fuerit sumendum. Postea partes in sua
+tota, quemadmodum supradictum est, reducendae. Quod itaque ex {i:tadil} ad {i:elhecam}{sup:21})
+attinuerit, considerandum{sup:22}). Si autem{sup:23}) {i:elheca}{sup:24}) sex signis maius fuerit, {i:tadil}
+supra{sup:25}) {i:elwacat} addendum est, si vero minus, ab eodem idem auferendum.
+@ml O 101{sup:v}
+@c {b:Cap. 10. De inventione loci{sup:26}) Saturni, Iovis et Martis{sup:27}).}
+@p Saturni vero{sup:28}), Iovis et Martis loca sic quaerenda sunt. Primo itaque cuius-
+libet eorum necnon et{sup:29}) solis {i:elwacat}{sup:30}) invenienda sunt{sup:31}). Deinde vero ipsius
+planetae {i:elwacat} ab {i:elwacat}{sup:32}) solis auferendum{sup:33}). Quodque residuum fuerit {i:elheca}{sup:34})
+dicendum{sup:35}). Cum{sup:36}) hoc itaque argumento{sup:37}) in examinationem{sup:38}) sublimationis
+definitae{sup:39}) intrandum est, si ipsum {i:elheca}{sup:40}) minus sex signis fuerit. Si vero
+maius, et{sup:41}) in sublimationem definitam{sup:42}) et in {i:tadil}{sup:43}) argumenti, coniungen-
+@n {sup:1}) dakaicae] O, partes aliquae CM. — {sup:2}) quodque . . . . erit] CM, et secundum examen sumendum.
+@n Quod quidem si priori examínatione maius vel minus fuerit, quantum dakaicis praedictis attinet, priori
+@n examinationi vel addetur vel subtrahetur O. — {sup:3}) secundae] O, dakaicae CM. — {sup:4}) suum totum] O,
+@n gradum CM. — {sup:5}) accidet] incidet O. — {sup:6}) quod] quia CMO. — {sup:7}) argumentum sex signa] CM, signa
+@n argumento sex O. — {sup:8}) fuerit] C, fuerint MO. — {sup:9}) sequaturque] MO, sequiturque C. — {sup:10}) nullus] CM,
+@n nihilum O. — {sup:11}) ipsum elwacat] CM, ipsa medialitas O. — {sup:12}) locum quem desideras ostendit] C, locus
+@n est quem desideras M, locum quem desideras ponit O — {i:Addid. O in marg.} : Nota quod ({i:in textu} quia)
+@n summitas elaug planetarum initium est, argumenti locus vero eiusdem finis. Ab elaug enim, id est a
+@n summo ascensu, usque ad locum suum argumentum dicitur. Item nota, quod ({i:in textu} quia) introitus
+@n isti secundum duos primos numeros introducentium fiunt. — {sup:13}) De . . . . lunae] CO, De loco lunae in-
+@n veniendo M. — {sup:14}) invenietur] CM, investigandus est O. — {sup:15}) ergo] enim O. — {sup:16}) lunae elwacat] CM,
+@n suam medialitatem O. — {sup:17}) similiterque] C, et similis M, simul etiam O. — {sup:18}) eiusdem] {i:om.} O. —
+@n {sup:19}) deinde] vero O. — {sup:20}) examinationem] CO, examinatione M. — {sup:21}) ad elhecam] M, a elheca C. —
+@n {sup:22}) Postea . . . . considerandum] {i:om.} O. — {sup:23}) Si autem] CM, Quod si O. — {sup:24}) elheca] CM. argumentum
+@n O. — {sup:25}) supra] CM, super O. — {sup:26}) loci] CM, locorum O. — {sup:27}) Martis] CO, aliarum planetarum M. —
+@n {sup:28}) vero] CM, vero et O. — {sup:29}) necnon et] CM, simul etiam O. — {sup:30}) elwacat] CM, medialitas O. —
+@n {sup:31}) sunt] {i:om.} O. — {sup:32}) ipsius planetae elwacat ab elwacat] CM, medialitas planetae a medialitate O. —
+@n {sup:33}) auferendum] CM, auferenda O. — {sup:34}) elheca) CM, argumentum O. — {sup:35}) dicendum] CM, dicendum
+@n est O. — {sup:36}) Cum] CM, Per O. — {sup:37}) argumento] CM, argumentum O. — {sup:38}) examinationem] C, exami-
+@n natione M, {i:om.} O. — {sup:39}) sublimationis definitae] CM, sullimationem examinatam et in examinationem
+@n ipsius argumenti O. — {sup:40}) si ipsum elheca] CM, ita dico si argumentum O. — {sup:41}) et] {i:om.} O. — {sup:42}) de-
+@n finitam] examinatam O. — {sup:43}) tadil] examinationem ipsius O.
+@obs The page number «10» stands at the head of the page, centred, with a rule below it. L08 and L15: the chapter headings in bold, centred; in the left margin beside the heading of chapter 10 «O 101v», the folio of O at which the chapter begins.
+@obs L03: the commas after «fuerint» and «negligentur» stand 8 and 10 px from the words, where the commas of the page stand 1-4 px from the word; the line is set wide (word spaces 35-43 px); transcribed without a space. L06: «cifre», for cifrae, as printed.
+@obs N02: the i of «examínatione» carries an acute accent in the place of its dot, a sort of another fount; see the critical note. N19: the second figure of the note number 38 is printed broken, its lower loop open on the left, so that it looks like a 5 or a 9; read 38 by the order of the notes. N07: «ponit O —», without a point after the siglum before the dash. N07: «Addid. O in marg.» in italics, the O italic too; the colon after it stands after the thin space of the edition (10 px measured).
+@obs Marks not transcribed: a speck before the note number 43 (N22) and one after the bracket of note 38 (N19).
+@critical AK07-CN023 | wrong sort | N02 | examínatione | examinatione | the i of the word is printed with an acute accent, í, a sort of another fount; the word is «examinatione», as «examinationi» in the next line | high | none
+@critical AK07-CN024 | wrong punctuation | N14 | elheca] CM. argumentum O. | elheca] CM, argumentum O. | the readings of the manuscripts within a note are divided by commas; after the sigla CM a full stop is printed before the lower-case «argumentum», as on p. 9 (N14) | medium | none
+@critical AK07-CN025 | wrong bracket | N18 | elheca) CM | elheca] CM | the lemma of the apparatus closes with a square bracket; after «elheca» of note 34 a round bracket is printed | high | none

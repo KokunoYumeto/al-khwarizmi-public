@@ -1,0 +1,105 @@
+@page 279 245
+@lang de
+% JP2 0279: the glossary, p. 245: I. Arabic words, Mizādj to Shawel, in two columns.
+@cl {i:Mizādj}, Temperament, astrol. Natur eines Ge-
+@cl stirns, s. Nachtrag 5.
+@cl {i:Mobzota} = {i:mabsūṭa} (fem. v. {i:mabsūṭ}), ausge-
+@cl breitet, eben ({i:planus}), T. 15 (N. 2).
+@cl {i:Muadala} u. {i:Muaddala} = {i:muʿaddala} (fem. v.
+@cl {i:muʿaddal}), ausgeglichen, korrigiert, 13 (N. 2),
+@cl T. 36, 54.
+@cl {i:Muʿāmalāt} (pl. v. {i:muʿāmala}), kaufmännische
+@cl oder Geschäftsrechnungen, IX.
+@cl {i:Muchre} = {i:mu’akhkhara}, Abschluss, Ende, hier
+@cl östliches und westliches Ende der bewohn-
+@cl ten Erdhälfte, 9.
+@cl {i:Muharram} = {i:Muḥarram}, der erste Monat des
+@cl muhammed. Jahres, XIV, XV, 1, 2, 34, 37,
+@cl etc. T. 2, 3, etc.
+@cl {i:Muhit} = {i:muḥīṭ}, Umfang, Peripherie, 18.
+@cl {i:Muht} s. {i:Mukdh}.
+@cl {i:Mukaam} = {i:muḳām}, Aufenthalt, Station (der
+@cl Planeten), 12, 13 (N. 8, 12, 14), T. 54.
+@cl {i:Muḳābala}, Gegenüberstellung, Ausgleichung,
+@cl VIII ; s. auch {i:Djebr}.
+@cl {i:Mukatil} = {i:muḳātil}, Kämpfer, Mörder, Beiname
+@cl des Planeten Saturn, wahrscheinlich nur
+@cl in Spanien und Nordafrika gebräuchlich,
+@cl T. 27—29.
+@cl {i:Mukdh} = {i:mukth} (od. {i:makth}), Verweilen, Auf-
+@cl enthalt ({i:mora}), die Zeit, während welcher
+@cl eine Finsternis total ist, 26, 27, 87.
+@cl {i:Mult} s. {i:Muhit}.
+@cl {i:Munegim} = {i:munadjdjim}, Astronom, Astrolog,
+@cl XXII, 20 (N. 3).
+@cl {i:Mustakim} = {i:mustaḳīm}, gerade ; {i:elfelek elmu-}
+@cl {i:stakim} = {i:al-falak al-mustaḳīm}, die gerade
+@cl Sphäre, d. h. die Himmelssphäre, wie sie
+@cl am Aequator erscheint, 18, 20, 25, etc. T.
+@cl 59—59{sup:b}.
+@cl {i:Musteri} = {i:Mushtarī}, der Planet Jupiter, T. 11,
+@cl 12, 33—38.
+@cl {i:Mustewi} = {i:mustawī}, eben, gerade, 69, 77 ; fem.
+@cl {i:mustewia} = {i:mustawiya}, 21.
+@cl {i:Muth} s. {i:Mukdh}.
+@cl {b:N.}
+@cl {i:Nadair} s. das folg.
+@cl {i:Nadir} = {i:naẓīr}, der dem Zenit ({i:samt al-ra’s})
+@cl gegenüberliegende Punkt des Himmels,
+@cl dann überhaupt der Gegenpunkt irgend
+@cl eines Punktes am Himmel XX, 97, 98, 101.
+@cl {i:Nāhīd} s. {i:Anāhīd}.
+@cl {i:Nuzf} = {i:nuṣf} u. {i:niṣf}, Hälfte ({i:dimidium}),
+@cl T. 73.
+@cr {b:O.}
+@cr {i:Otari[d]} = {i:ʿUṭārid}, der Planet Merkur, XXI,
+@cr T. 17, 18, 51—56.
+@cr {i:Ozari} s. das vorhergeh.
+@cr {b:R.}
+@cr {i:Rabb}, Herr, Meister, 103.
+@cr {i:Raba} s. {i:Rabia}.
+@cr {i:Rabe} = pl. v. {i:Raba} oder {i:Rabia} s. dieses.
+@cr {i:Rabe elachir} = {i:Rabīʿ al-ākhir}, der vierte mu-
+@cr hammed. Monat, XIV, XV, 34, 84, 86, 89, T.
+@cr 2, 3, etc
+@cr {i:Rabe elawel} = {i:Rabīʿ al-awwal}, der dritte mu-
+@cr hammed. Monat, XIV, XV, 34, T. 2, 3, etc.
+@cr {i:Rabia} = {i:rābiʿ}, fem. {i:rābiʿa}, (der, die) vierte ;
+@cr in der Rechnung mit Sexagesimalbrüchen
+@cr die {i:partes quartae}, d. h. die Vielfachen von
+@cr {fr:1|60{sup:4}}, 15 (N. 26).
+@cr {i:Race} = {i:ra’s}, Kopf ; wahrscheinl. soll {i:race} Ab-
+@cr lativ von {i:rac} sein ; {i:Race elhamel} = {i:ra’s al-}
+@cr {i:ḥamal}, Kopf, Anfang (des Zeichens) des
+@cr Widders, 20.
+@cr {i:Rageb} s. {i:Regeb}.
+@cr {i:Ramadham} = {i:Ramaḍān}, der neunte muham-
+@cr med. Monat, der Fastenmonat XIV, XV, 34,
+@cr 37, 67, 68, T. 2, 3, etc.
+@cr {i:Raz} s. {i:Race}.
+@cr {i:Regeb} = {i:Radjab}, der siebente muhammed.
+@cr Monat XIV, XV, 34, 38, 39, T. 2, 3, etc.
+@cr {b:S.}
+@cr {i:Saaben} s. {i:Shabin}.
+@cr {i:Safar} s. {i:Zafar}.
+@cr {i:Ṣāḥib}, Herr, Hausherr, Besitzer, in der Astrol.
+@cr {i:Dominus} eines Zeichens, oder eines Teils
+@cr eines Zeichens, 103.
+@cr {i:Sana kabīsa}, Schaltjahr, 34.
+@cr {i:Scabin} s. {i:Shabin}.
+@cr {i:Scawal} s. {i:Shawel}.
+@cr {i:Sceir} = {i:sair}, Gang, Lauf, Bahn, XXI.
+@cr {i:Sewil} s. {i:Shawel}.
+@cr {i:Shabin} = {i:Shaʿbān}, der achte muhammed.
+@cr Monat XIV, XV, 34, 67, 68, T. 2, 3, etc.
+@cr {i:Sharaf} (pl {i:ashrāf}), Höhe, Erhöhung, Auszeich-
+@cr nung ; in der mittelalterl. Astrologie {i:exal-}
+@cr {i:tatio} XXI, 104.
+@cr {i:Shawel} (auch {i:Shavvel}) = {i:Shawwāl}, der zehnte
+@cr muhammed. Monat XIV, XV, 34, 39, T. 2, 3,
+@cr etc.
+@obs The page number «245» stands at the head of the page, centred, with a rule below it. The page has no signature. Two columns divided by a vertical rule, as on pp. [241]-244 (JP2 0275-0278), transcribed column by column: the left column L01-L50, the right L51-L97; the letter heads «N.» (L42), «O.» (L51), «R.» (L55) and «S.» (L79) in bold, centred in their columns, «N.», «R.» and «S.» each after a blank line; each entry begins at the edge of its column, its further lines indented.
+@obs L67: the fraction is built up, «1» over «60⁴», the 4 raised, written {fr:NUMERATOR|DENOMINATOR}. The semicolons of L21, L32, L39, L64, L68, L69 and L93 stand after a thin space (6-11 px); written with a space. L61: «etc» without its point, at the end of the entry «Rabe elachir»; the other entries of the months end with «etc.»; L92: the f of «ashrāf» is printed without its upper hook, a damaged sort; transcribed f. «Otari[d]» (L52) with the brackets as printed. The dashes are long.
+@obs Checked against the text: the forms of the headwords occur where the references point, for example «Mobzota» in Tab. 15 (p. 126, JP2 0158), «Muaddala» on p. 13 (JP2 0045), «Muchre» on p. 9 (JP2 0041), «Mukaam» in Tab. 54 (p. 165, JP2 0197), «Munegim» on p. XXII (JP2 0026), «elfelek elmustakim» on p. 18 (JP2 0050), «Nadair» on p. XX (JP2 0024), «Nuzf» in Tab. 73 (p. 187, JP2 0219), «Ozari» in Tab. 17-18 (pp. 128-129), «Race elhamel» on p. 20 (JP2 0052), «Raz» on p. 18, «Ramadham» on p. XIV (JP2 0018), «Scawal» in Tab. 3 and 9 (pp. 113, 120), «Sana» on pp. 30 and 34; the months as named in the tables of the mean motions and of the conversion of years (Tab. 2-20, 72). The numbering of the Arab months is correct: Muḥarram the first, Rabīʿ al-awwal the third, Rabīʿ al-ākhir the fourth, Radjab the seventh, Shaʿbān the eighth, Ramaḍān the ninth, Shawwāl the tenth.
+@critical AK07-CN291 | missing point | L61 | 2, 3, etc | 2, 3, etc. | the entries of the months end with «etc.», as «T. 2, 3, etc.» in the next entry (L63); the point after «etc» is not printed | medium | none
+@critical AK07-CN292 | missing point | L92 | (pl {i:ashrāf}) | (pl. {i:ashrāf}) | the abbreviation «pl.» has its point everywhere else in the glossary, as «(pl. v. muʿāmala)» on this page (L08) and «(pl. ḥudūd)» on p. 243 (JP2 0277, L26) | high | none

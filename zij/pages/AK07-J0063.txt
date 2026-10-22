@@ -1,0 +1,52 @@
+@page 63 31
+@lang la
+% JP2 0063: the Latin text, p. 31, its last page: the end of chapter 37 (the interpolation between two columns; the
+% right rays); a second account of the projection of rays in square brackets, with a closing sentence on rumours;
+% with the apparatus (notes 1-15).
+ducendum ; ipsum itaque productum, si quidem prima radiatio maior fuerit, ei sub-
+trahendum, si vero minor, e contrario addendum est. Sicque habebitur radiatio
+praesenti inquisitioni propria. Haec autem omnia pro radiatione sinistra dicta sunt ;
+sunt autem et aliae, quas dextras dicunt. Oppositum enim exagoni sinistri trigonum
+dextrum praetendit{sup:1}) ; oppositum autem tetragoni sinistri tetragonum dextrum, atque
+oppositum trigoni sinistri exagonum{sup:2}) dextrum ostendit.
+@p [Cum volueris scire proiectionem lucis stellarum ex exagono et tetragono et
+trigono, scias ergo horoscopum et quantum illius ortum fuerit. Quod si fuerint
+quinque gradus aut X aut XV aut XX aut XXV aut XXX{sup:3}), scias quoque gradum
+stellae cuius radiationem quaeris atque signum in quo ipsa est. Postea intra cum
+gradu ipsius stellae in semitam graduum aequalium de tabula gradus horoscopici,
+et accipe quod fuerit in eius contrapositione ex horoscopo signi in quo est ipsa stella,
+ipsumque memoriter teneto. Si ergo quaesieris exagonum, adde supra illud quod
+est supra caput tabulae ex exagono, et si quaeris tetragonum, adde quod est supra
+caput trigoni, et si quaesieris trigonum, adde super illud quod est supra caput trigoni.
+Coacervatum autem quaere eius simile in ipsa tabula, aut quod est affinius illi mi-
+nusque eo, et ubi inveneris ipsum minus, revertere ad gradus aequales, sicut rever-
+titur a gradu horoscopi ad gradum aequalem. Scias autem ad quem gradus exieris
+ex gradibus aequalibus, iste igitur est, in quem cadit radiatio sinistra a stella de
+signo quod est in supremo tabulae secundum ordinem signorum. Scito autem, quando
+acciderit stella in postremitate signorum, quod{sup:4}) est in semita prima, erit coacervatum
+tibi ex horoscopo, a quo sursum reverti quaeris, maius eo quod est in{sup:5}) postremitate
+areae, minue ergo inde numerum qui est in postremitate areae, et quaere residuum
+in ipsa area, et accipe signum quod est in capite tabulae numeri in semita secunda.
+@p Quod si horoscopus inter V et X, aut inter X et XV, aut inter XV et XX etc.,
+fac ergo radiationem{sup:6}) secundum quinque{sup:7}) quae{sup:8}) sunt ante id quod est minus,
+deinde secundum quinque{sup:9}) quae sunt post id quod est maius ; sciasque differentiam
+ipsam. Deinde scito{sup:10}) quantum addit gradus horoscopi supra quinque{sup:11}) quae sunt
+ante, sciasque quae{sup:12}) est proportio ipsius differentiae ad quinarium, et accipe ipsam
+proportionem ex differentia quae est inter duos numeros et memoriter teneto. Deinde
+respice ad radiationem primam, quod{sup:13}) si addit supra secundam, minue inde quod
+memoriter teneri iussi ; sin autem fuerit minus, adde id supra illud. Quod igitur
+fuerit post augmentum vel{sup:14}) diminutionem erit radiatio ipsius stellae.
+@p Pro rumoribus horoscopus eiusque dominus, lunae signum eiusque dominus
+consideranda sunt. Haec namque secundum hoc quod in signis firmis vel non firmis
+fuerint, rumores affirmant vel infirmant.]{sup:15})
+@n {sup:1}) Oppositum . . . . praetendit] ON, {i:om.} C. — {sup:2}) exagonum] trigonum CON. — {sup:3}) XXX] CO, triginta N.
+@n — {sup:4}) quod] C, quae N. — {sup:5}) in] {i:om.} CN. — {sup:6}) radiationem] N, matrak elshoa C. — {sup:7}) quinque] C, V N. —
+@n {sup:8}) quae] N, {i:om.} C. — {sup:9}) quinque] C, V N. — {sup:10}) scito] N, scio C. — {sup:11}) quinque] C, V N. — {sup:12}) quae] N,
+@n quod C. — {sup:13}) quod] C, quam N. — {sup:14}) vel] et CN. — {sup:15}) {i:Quae uncis inclusa om.} O. ; Pro . . . . infirmant
+@n {i:om. etiam} N.
+@obs The page number «31» stands at the head of the page, centred, with a rule below it. The page has no signature and no margin notes. It is the last page of the Latin text. L01-L06 end chapter 37 (pp. 29-30, JP2 0061-0062): the product of the difference of the two columns and the proportion is subtracted from the first ray when the first is greater and added when it is less.
+@obs L03-L06: the right rays: the opposite of the left sextile is the right trine, of the left quartile the right quartile, of the left trine the right sextile; note 2: the edition prints «exagonum» where C, O and N have «trigonum». Checked: 60 + 180 = 240 = 360 - 120, 90 + 180 = 270 = 360 - 90, 120 + 180 = 300 = 360 - 60; the reading of the manuscripts would put the right trine opposite the left trine as well as opposite the left sextile.
+@obs L07-L36: a second account of the projection of the rays («proiectio lucis stellarum»; C's «matrak elshoa» in note 6, maṭraḥ al-shuʿāʿ), in square brackets: the bracket opens before «Cum» (L07) and closes after «infirmant.» (L36); note 15: O omits the passage, and N also omits its last sentence, L34-L36. Both brackets are of the ordinary weight. Note 3 gives the reading «XXX» for C and O, although L09 lies within the passage that note 15 says O omits; the other notes of the passage, 4-14, cite C and N only.
+@obs L13-L15: for the sextile the number at the head of the table for the sextile is added, for the trine the number at the head of the trine; for the quartile the text also has «quod est supra caput trigoni», where the procedure needs the number at the head of the quartile; the edition has no note on it. L25-L33: for an ascendant between two multiples of five degrees, the rays for both columns, and their difference in the proportion of the ascendant's excess over the lower multiple to five, as in L01-L03. L34-L36: for rumours the ascendant and its lord, the sign of the moon and its lord are considered; in fixed signs or not fixed ones they confirm or weaken the rumours.
+@obs The semicolons of the text and of the apparatus stand after the thin space of the edition (9-13 px measured; «O. ;» in N04, 11 px). N01 and N04: «Oppositum . . . . praetendit», «Pro . . . . infirmant», four points.
+@critical AK07-CN281 | wrong word | L15 | caput trigoni, et si quaesieris | caput tetragoni, et si quaesieris | the list of misprints, p. [237] (JP2 0271, L10), reads «tetragoni» for «trigoni» at the beginning of the line: for the quadrature one adds the number at the head of the field over «Tetragonum» («et si quaeris tetragonum, adde quod est supra», L14), as for the trine the number over «Trigonum» at the end of the line | high | none

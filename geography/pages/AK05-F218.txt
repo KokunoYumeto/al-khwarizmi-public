@@ -1,0 +1,4 @@
+@page 218 -
+@kind binding
+% Frame 218: the back board of the Columbia binding: blue cloth, worn along the spine at the left.
+@copy The back board of the library's binding, in blue cloth, worn along the spine; at the top a label «COLUMBIA LIBRARIES OFFSITE» with a barcode, the number «CU70324743», the call number «G93 .K48» and the short title «Kitab surat al-ard m…»; not part of the edition.

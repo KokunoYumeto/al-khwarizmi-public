@@ -1,0 +1,25 @@
+{
+ "anchor": "AK05-F206",
+ "frame": 206,
+ "frame_file": "page_206.jpg",
+ "frame_sha256": "8bc34e8167f9ed441b404e0c52194b89ec8e96dd1a5573c9fe00d351ca5a1ead",
+ "printed_page": "VII",
+ "kind": "editorial",
+ "role": "MODERN_EDITORIAL (not reproduced)",
+ "comment": "Frame 206, printed p. VII: the editor's introduction continued, in German.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [
+  "the editor's introduction, p. VII, in German: 30 printed lines"
+ ],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Topics of the page, with the entries and notes that it cites (the introduction is read for understanding and not reproduced or paraphrased): the state of the manuscript; Suhrāb's «ʿAjāʾib al-aqālīm» (S) as the witness used to fill its gaps.",
+  "The introduction, pp. V-XXXI, is bound in the reverse order of its pages, from p. XXXI (frame 182) to p. V (frame 208); the frames keep the physical order, and the introduction is read from frame 208 back to frame 182. This page follows p. VI (frame 207); p. VIII follows on frame 205.",
+  "The page number «— VII —» stands at the foot, centred. The page has no footnotes."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,7 @@
+@page 194 XIX
+@kind editorial
+% Frame 194, printed p. XIX: the editor's introduction continued, in German.
+@withheld the editor's introduction, p. XIX, in German: 30 printed lines, with numerals and words in Arabic type and a Greek name
+@obs Topics of the page, with the entries and notes that it cites (the introduction is read for understanding and not reproduced or paraphrased): Malaṭya, continued; A. R. Guest's reading of the numerals of S on the Nile delta (JRAS 1913); the copyists' confusions of the numeral letters.
+@obs The introduction, pp. V-XXXI, is bound in the reverse order of its pages, from p. XXXI (frame 182) to p. V (frame 208); the frames keep the physical order, and the introduction is read from frame 208 back to frame 182. This page follows p. XVIII (frame 195); p. XX follows on frame 193.
+@obs The page number «— XIX —» stands at the foot, centred; below it, at the right, the signature «b*» of the printed sheet. The page has no footnotes.

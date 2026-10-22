@@ -1,0 +1,46 @@
+@page 27 21
+% Frame 027, printed p. 21: ten seconds by five minutes concluded; the proof of division; ten minutes by five thirds
+% and its proof; how to set out a whole number with its fractions, the example 12 degrees, 30 minutes, 46 seconds and
+% 50 fourths.
+una differentia, que sunt secunda: et scito quare omnis nume-
+rus qui diuiditur super aliquem numerum,quod extrahitur de
+diuiso, si multiplicatur in eo super quem diuiditur, redibit
+numerus primus, idest numerus qui diuiditur. Cuius rei exem-
+plar est : quare cum diuiseris .{sc:l}. super .{sc:x}. exibunt que de-
+bentur uni, idest quinque. Cumque multiplicaueris id quod
+exiuit tibi de diuiso, idest quinque, in eo super quem diuidis
+que sunt .{sc:x}., redibit numerus primus, idest .{sc:l}. Cum ergo di-
+uideremus .{sc:x}. secunda super .{sc:v}. minuta, exiuit quod debetur
+uni, idest duo secunda: et cum multiplicaremus duo secun-
+da, hoc est quod exiuit nobis ex diuisione, in eo super quod
+diuisimus que sunt .{sc:v}. minuta, facta sunt .{sc:x}. secunda, et hec
+est probatio diuisionis. Item cum uolueris diuidere .{sc:x}. mi-
+nuta super .{sc:v}.tercia, uerte minuta in tercia, eruntque .{sc:xxxvi}.
+milia tercia; diuidesque super .{sc:v}. tercia, et erunt .{sc:vii}. milia
+ducenti gradus, et hoc est quod debetur uni.
+@p Cumque hoc uolueris probare, multiplica .{sc:vii}. milia ducen-
+tos gradus in .{sc:v}. tercia, et exibunt .{sc:xxxvi}. milia, que cum di-
+uiseris per .{sc:lx}. , exibunt .{sc:vi}. centa secunda; et cum iterum
+diuiseris .{sc:vi}. centa secunda, exibunt decem minuta.
+@p Cum uolueris constituere numerum integrum et fractiones ,
+pone numerum integrum in altiori differentia : deinde pone
+quicquid fuerit ex differentia prima que sunt minuta sub nu-
+mero integro, et secunda sub minutis; et similiter tercia sub
+secundis , et cetera que uolueris ex differentiis. Cuius rei
+exemplar est. Quod cum uellemus constituere .{sc:xii}. gradus et
+.{sc:xxx}. minuta, .{sc:xl}. quoque .{sc:vi}. secunda, et .{sc:l}. quarta, con-
+stituimus .{sc:xii}. Post hec posuimus sub eis .{sc:xxx}. in differen-
+tia minutorum ; et sub .{sc:xxx}. {sc:xlv}. in differentia secundo-
+rum. In differentia uero terciorum posuimus circulos, quare
+carebat terciis, et ut sciremus quare adhuc restabant quarta.
+Deinde posuimus sub circulis quinquaginta in differentia
+quartorum; et hec est figura eorum.
+@obs The page number «( 21 )» stands at the head of the page, centred. The page has no footnotes and no signature.
+@obs L01-L13: ten seconds by five minutes concluded (p. 20, frame 026, L24-L33): the multiplication by sixty and the division lower the result by one place, named «secunda» (see the critical note). The proof of division: what the division gives, multiplied by the divisor, returns the number divided: fifty by ten, five, and five by ten, fifty; the two of the example by five minutes gives ten seconds, «et hec est probatio diuisionis». L13-L20: ten minutes by five thirds: ten minutes are 36000 thirds, which divided by five thirds give 7200 whole degrees; the proof: 7200 degrees by five thirds, 36000 thirds, divided by sixty, 600 seconds, and by sixty again, ten minutes.
+@obs L21-L33: how to set out a whole number with its fractions: the whole number in the highest place, the minutes under it, the seconds under the minutes, the thirds under the seconds, and so on. The example: twelve degrees, thirty minutes, forty-six seconds («.xl. quoque .vi.») and fifty fourths: twelve; under it thirty in the place of the minutes; under the thirty «xlv.», forty-five, in the place of the seconds (see the critical note); circles in the place of the thirds, which are lacking; fifty in the place of the fourths. L33 «et hec est figura eorum.»: the figure is not printed.
+@obs Numerals: L05, L08 and L27 «.l.», fifty; L29 «xlv.» without the opening point. L15 «et» before «erunt», L23 «sunt» and L33 «et» are set with spaced letters (6 to 7 px between the letters); transcribed as words.
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): with a space before the mark, L05 «est :» (21 px), L19 «.lx. ,» (10 px), L21 «fractiones ,» (13 px), L22 «differentia :» (22 px), L25 «secundis ,» (18 px) and L29 «minutorum ;» (18 px); without a space after the mark, L02 «numerum,quod» (7 px, the median word space of the line 15 px) and L14 «.v.tercia» (7 px, median 18 px). L10 «secunda:», the colon 9 px from the word, and L25 «differentiis.», the point 9 px from the word, are set close. L05 «.x. exibunt» (13 px, median 19.5 px), L07 «diuiso, idest» (12 px) and L14 «tercia, uerte» (12 px) have a space. Specks after the commas of L10 «uni,» and L11 «da,» and the pencil above the colon of L05 «est :» shorten the measured gaps; the gaps to the next word are 17, 18 and 28 px.
+@obs L01: «secunda:» is a colon; below the lower dot a light trace (darkest pixel 101) runs down to the left, not a printed tail. The semicolons of L15, L19, L24, L29 and L33 have printed tails (darkest pixel 42 to 68). L26: a light mark above the point of «est.» (darkest pixel 113) is not transcribed.
+@critical AK02-CN018 | wrong order | L01 | secunda (L01); duo secunda (L10); duo secun-da (L10-L11) | minuta; duo minuta; duo minuta | the quotient of ten seconds by five minutes is two minutes (p. 20, L24-L33, and the critical note there): one multiplication by sixty and a division lower the result by one place from the units, to the minutes; the proof (L09-L12) multiplies the quotient by five minutes and gets ten seconds, which holds for two minutes, two seconds by five minutes being ten thirds | high | the quotient is named seconds for minutes in the conclusion and in the proof; the figures are right
+@critical AK02-CN019 | inconsistent numerals | L27 | .xl. quoque .vi. secunda (L27); sub .xxx. xlv. (L29) | the same number of seconds in both places, 46 or 45 | the number to be set out has forty-six seconds, «.xl. quoque .vi. secunda» (L27), and the seconds set out under the thirty minutes are «xlv.», forty-five (L29); the figure, which would decide, is not printed | medium | the example states 46 seconds and sets out 45
+@copy A reader's notes in pencil: «quod» beside the page number at the head of the page; L01, «et» underlined, «quare» underlined with a hooked stroke, and «quia» with the same stroke in the right margin; «quia» written between L04 and L05 above «quare» (L05), which is underlined; L10, «et» underlined and «quod» in the right margin; L16, a curved line under «gradus, et hoc est quod debetur uni.» ending in a bracket after «uni.», and a bracket before «Cumque» (L17); L31, «quare» underlined and «quia» in the right margin; L33, «hec» underlined and «hoc» in the right margin. Not part of the edition.

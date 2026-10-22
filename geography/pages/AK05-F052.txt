@@ -1,0 +1,44 @@
+@page 52 ٤٦
+@cols 22,50,82
+@align r,c,r
+% Frame 052, printed p. 46: the right-hand page of the opening pp. 46-47 of the table of the mountains: the numbers and
+% name of the last mountain of the second clime, entry 659/660, اوكسٯ; the headings of the third clime and of its
+% mountains; and the numbers and names of thirteen mountains, entries 661/662-685/686: the Great Atlas, Durdūn, ⟨the
+% mountain⟩ Marsūl, اعلاقا, ڡسا, ڡورٮغون, Aʿlūris, Rabn, Aghris, Nāghtrūs, اود⟨س⟩, اٮوٮوٮونا and one without a name; the
+% folio of the manuscript, «(fol. 13ᵃ)», in the margin. One line of the editor's footnotes, continued from the foot of
+% p. 47.
+@r (٦٥٩ ٦٦٠) | [١١٢١ ١١٢٢] | جبل اوكسٯ{n:a}
+@h * الإقليم الثالث
+@h * الجبال الّتى فى
+@r (٦٦١ ٦٦٢) | [١١٥١ ١١٥٢] | جبل اطلس الكبير
+@r (٦٦٣ ٦٦٤) | [١١٥٣ ١١٥٤] | جبل دردون
+@r (٦٦٥ ٦٦٦) | [١١٥٥ ١١٥٦] | ⟨جبل⟩{n:b} مرسول
+@r (٦٦٧ ٦٦٨) | [١١٥٧ ١١٥٨] | جبل اعلاقا
+@r (٦٦٩ ٦٧٠) | [١١٥٩ ١١٦٠] | جبل ڡسا
+@r (٦٧١ ٦٧٢) | [١١٦١ ١١٦٢] | جبل ڡورٮغون
+@r (٦٧٣ ٦٧٤) | [١١٦٣ ١١٦٤] | جبل اعلورس
+@r (٦٧٥ ٦٧٦) | [١١٦٥ ١١٦٦] | جبل ربن
+@r (٦٧٧ ٦٧٨) | [١١٦٧ ١١٦٨] | جبل اغرس
+@r (٦٧٩ ٦٨٠) | [١١٦٩ ١١٧٠] | جبل ناغتروس
+@m (fol. 13ᵃ)
+@r (٦٨١ ٦٨٢) | [١١٧١ ١١٧٢] | جبل اود⟨س⟩{n:e}
+@r (٦٨٣ ٦٨٤) | [١١٧٣ ١١٧٤] | جبل اٮوٮوٮونا{n:f}
+@r (٦٨٥ ٦٨٦) | [١١٧٥ ١١٧٦] | جبل
+@ednotes d e f 1
+@obs The table of the mountains goes on across the opening pp. 46-47: each line of p. 46 is continued by the same line of p. 47 (frame 053), which gives the boundaries, the colour and the direction. L01 gives the last mountain of the second clime, entry 659/660. The headings run across the opening: L02, «* الإقليم الثالث», is continued on p. 47 by «عرضه ل *», the third clime and its latitude, 30; and L03, «* الجبال الّتى فى», by «الإقليم الثالث *», the mountains in the third clime. They are set in the large type, each beginning with a small open star, transcribed as an asterisk, and stand at the inner edge of the page, next to their ends on p. 47; transcribed as headings. L02: «الإقليم», with a hamza below the alif; L03: «الّتى», with a shadda over the ل, and «فى», with the dot of the ف and no dots on the ى.
+@obs The running numbers go on from entry 657/658 (frame 050) and run (٦٥٩ ٦٦٠)-(٦٨٥ ٦٨٦). The numbers of Suhrāb are [١١٢١ ١١٢٢] (L01), the pair that does not appear on frame 050, and [١١٥١ ١١٥٢]-[١١٧٥ ١١٧٦] (L04-L16), after [١١٤٩ ١١٥٠] of frame 050 (L15). The folio of the Strasbourg manuscript, «(fol. 13ᵃ)», is printed in Latin type in the right margin beside entry 681/682 (L14). L16: the name is the word «جبل» alone.
+@obs L01: «اوكسٯ»: after «او», the ك with its long upper stroke and the three low teeth of a س (6 to 9 px); then two uprights, 20 to 23 px high, joined at the top in an arch 15 px wide, and a round bowl: the final ق without its dots, the form of the ق with its two dots in «امق» (frame 016, L11), as at the end of frame 042, L01 and L02. The editor's note a gives the form of entry (1776), «اوكستر», with ت and ر in the place of the ق. Transcribed اوكسٯ.
+@obs L04: «اطلس الكبير», the Great Atlas, the ب of «الكبير» with its dot and the ي with its two. L05: «دردون», the ن with its dot. L06: «⟨جبل⟩ مرسول»: the word «جبل» stands between angle brackets, followed by the note mark b: the editor supplies it (note b); «مرسول», an initial م joined to a ر, the teeth of a س joined to a و, and a final ل. L07: «اعلاقا»: an alif; an initial ع without a dot joined to the lām-alif; a ق with its two dots joined to the final alif.
+@obs L08: «ڡسا»: after the loop of ف or ق without dots, three strokes before the final alif: a low tooth, 8 px high, an upright of 22 px, and a low tooth of 10 px; the upright stands as high as a tooth of ب or ن (frame 052, L09, 15 px; frame 043, L11, 14 px), where the teeth of a س are low (L01, 6 to 9 px). Transcribed as the three teeth of a س, ڡسا.
+@unres L08: the tall middle stroke of «ڡسا» may be a tooth of its own, so that the three strokes may also be read as three teeth without dots, ڡٮٮٮا. Transcribed ڡسا.
+@obs L09: «ڡورٮغون»: the loop of ف or ق without dots joined to a و; a ر; a tooth without a dot, 15 px high, joined to a medial غ, a loop wider than high (27 by 15 px) with its dot above, and a و; and a final ن with its dot. The medial غ has the form of the medial ع of «العرض» (frame 049, L02), where the loop of ف or ق is upright and rounded (frame 046, L05). L10: «اعلورس», the ع without a dot. L11: «ربن», the ب with its dot below and the ن with its dot above. L12: «اغرس», the initial غ with its dot.
+@obs L13: «ناغتروس»: after «جبل», a ن joined to an alif, its dot standing at the right of the alif and touching it, 10 by 9 px, as the dot of the ن of «نا» at the end of L15, where it stands free; then an initial غ and a ت, with three dots in a row above them, the two of the ت side by side and the dot of the غ at their right, 6 px lower; then ر, و and a final س.
+@obs L14: «اود⟨س⟩»: the final س stands between angle brackets, followed by the note mark e: the editor supplies it where the manuscript is badly damaged (note e).
+@obs L15: «اٮوٮوٮونا»: after the alif, three groups of a short tooth without a dot, 13 to 20 px high, joined to a و, where the و of «اوكسٯ» (L01) has no tooth before it; then a ن with its dot joined to the final alif. The editor's note f gives the form of entry (1873), «ٮوٮوٮورا», with the three groups and a ر.
+@obs The editor's footnotes of the opening are set as one line across both pages: it begins at the foot of p. 47 (frame 053) with notes a, b and c, and continues here with notes d, e and f. The texts of notes a and b, whose marks stand on this page (L01, L06), are printed on p. 47; the mark of note d stands on p. 47 (L11).
+@obs Specks, not transcribed: L10, a speck, 5 by 5 px, at the right of the closing parenthesis of the running numbers.
+@obs The page number «— ٤٦ —» stands at the foot, centred.
+@variant L01: at entry (1776) the name is written اوكستر (note a, printed at the foot of p. 47).
+@variant L06: the word جبل is missing in the manuscript; the editor supplies it (note b, printed at the foot of p. 47).
+@variant L14: the manuscript is badly damaged at the end of the name (note e).
+@variant L15: at entry (1873) the name is written ٮوٮوٮورا (note f).

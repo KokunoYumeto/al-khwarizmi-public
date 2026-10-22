@@ -1,0 +1,58 @@
+@page 60 28
+@lang la
+% JP2 0060: the Latin text, p. 28: the end of the bracketed account of lunar eclipses (the far and the near distance);
+% chapter 34, the parallax of the moon in longitude and in latitude; with the apparatus (notes 1-25).
+nem respirationis. — Hoc in loco dicendum est, solem vel lunam in spatio longinquo
+esse, quotiens in ultimo gradu geminorum aut primo gradu cancri extiterint, at vero
+in spatio propinquo, quando ultimum sagittarii aut capricorni primum gradum
+obtinuerit{sup:1}).]{sup:2})
+@ml C 85{sup:v}, O 142{sup:r}
+@c {b:Cap. 34. De diversitatibus aspiciendi lunam secundum horas longitudinis}
+@ml N 47{sup:v}
+@c {b:et latitudinis{sup:3}).}
+@p Antequam ad eclipsim solis accingamur, diversitas aspectuum lunae tractanda est.
+Cum itaque {sp:diversitatem aspectuum} eius {sp:in longitudine} et horas distantiae{sup:4})
+quaeris, horoscopus quidem in hora coniunctionis firme diligenterque{sup:5}) notandus{sup:6}).
+Ab eo itaque tribus subtractis signis medium caelum invenietur. His autem perspectis
+per{sup:7}) ipsius horoscopi medium caelum in{sup:8}) tabulam{sup:9}) circuli aequinoctialis{sup:10}), postea
+per gradum lunae in circulo aequinoctiali{sup:11}) iterum{sup:12}) intrandum erit, eorumque ad-
+iuncta sumenda. Deinde si fuerit luna inter horoscopum et medium caelum, erit medium
+caelum a loco lunae subtrahendum ; quod si fuerit luna inter occasum et medium
+caelum{sup:13}), erit locus lunae a medio caelo subtrahendus. Quod itaque restiterit, inter-
+stitium lunae et medii caeli ipsius horoscopi{sup:14}) ostendit. Per hoc ergo in tabulam{sup:15})
+diversitatis aspectuum suppositam intrandum erit, eiusque adiunctum in horis et earum
+partibus notandum. Idem enim adiunctum in motum lunae inaequalem horarium{sup:16})
+ducendum erit{sup:17}), quodque{sup:18}) inde producetur diversitatem aspectus lunae ostendet
+in longitudine{sup:19}). Si enim fuerit luna inter horoscopum et medium caelum, erit hoc
+productum horis coniunctionis addendum ; si vero{sup:20}) inter occasum et medium caelum
+fuerit, erit idem{sup:21}) ab eodem minuendum. Quodque inde surget, horam eclipsis
+supra locum pro quo inquiris ex diversitate aspectus mutatam ponit.
+@p {sp:Ad sciendam aspectuum diversitatem in latitudine}{sup:22}). Quod si diver-
+sitatem aspectuum in latitudine scire desideras, horoscopus item in ea hora firmiter
+notandus. Per eum enim medium{sup:23}) caelum ut superius captandum est. Deinde
+ipsius medii caeli obliquatio quanta sit diligenter observandum. Quae si fuerit
+septemtrionalis{sup:24}) et minor, erit ipsa a latitudine regionis praesentis minuenda{sup:25}) ;
+quod si maior, latitudo quidem regionis ab ea erit minuenda. Sin autem meridio-
+@n {sup:1}) Hoc . . . obtinuerit] C {i:in marg. addid. Haec verba correx.} N {i:hoc modo} : Hoc in loco dicendum est
+@n solem in spatio longinquo esse quotiens in XVIII. gradu geminorum, at vero in spatio propinquo quando
+@n XVIII. sagittarii optinuerit. {i:Deinde addid.} : Spatium vero longinquum lunae, cum heza eius 0 0 fuerit,
+@n propinquum vero, cum VI signorum extiterit. — {sup:2}) {i:Quae uncis inclusa om.} O. — {sup:3}) De . . . . latitudinis]
+@n CON ; Gedval elihtilief lilmanshar O {i:suprascr.} — {sup:4}) horas distantiae] C, horarum distantia O. — {sup:5}) dili-
+@n genterque] O, diligenter C. — {sup:6}) notandus] {i:Addid.} O {i:in marg.} : De adiunctis eorum in aequinoctiali hoc
+@n intellige. — {sup:7}) per] C, tam per O. — {sup:8}) in] C, quam per locum lunae in O. — {sup:9}) tabulam] C, paginam O.
+@n — {sup:10}) aequinoctialis] N, elmustakim, id est aequinoctialis CO. — {sup:11}) circulo aequinoctiali] N, felek elmu-
+@n stakim C. — {sup:12}) postea . . . . iterum] CN, {i:om.} O. — {sup:13}) erit . . . . caelum] O, {i:om.} CN. — {sup:14}) ipsius horo-
+@n scopi] C, {i:om.} O. — {sup:15}) tabulam] C, paginam O. — {sup:16}) inaequalem horarium] inaequalium horarum CON.
+@n — {sup:17}) ducendum erit] C, ducetur O. — {sup:18}) quodque] ON, idemque C. — {sup:19}) {i:Addid.} N {i:in marg.} : haec
+@n quantum ad numerum graduum et minut. et aliarum quantitatum, non temporum. — {sup:20}) vero] O, autem
+@n C. — {sup:21}) idem] ON, ibidem C. — {sup:22}) Ad . . . . latitudine] O, {i:om.} CN. — {sup:23}) medium] C {i:bis}. — {sup:24}) septem-
+@n trionalis] N, shemeli C, scemelia O. — {sup:25}) minuenda] C, subtrahenda O.
+@obs The page number «28» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «nem» completes «completio-» at the end of p. 27 (JP2 0059, L28). L01-L04 end the passage in square brackets that opens on p. 27 (L05); note 2: O omits it. The closing bracket in L04 is printed heavy, like the one that closes chapter 32 (p. 25, JP2 0057, L32); transcribed «]».
+@obs L01-L04: the sun or the moon is at the far distance in the last degree of Gemini or the first of Cancer, at the near distance in the last of Sagittarius or the first of Capricorn; N (note 1) has the eighteenth degree of Gemini and of Sagittarius. Checked: the apogee of the sun in chapter 8 is two signs 17° 55′ (p. 9, JP2 0041, L17), in the eighteenth degree of Gemini, where N puts the far distance, with the near distance opposite it in the eighteenth degree of Sagittarius; the last degree of Gemini of the text is the summer solstice. N's addition puts the moon's far distance at anomaly («heza») 0 and its near distance at six signs, half a revolution of the anomaly later.
+@obs L05-L06: the heading of chapter 34, in bold, centred, in two lines; in the left margin «C 85v, O 142r» beside the first and «N 47v» beside the second. L08: «diversitatem aspectuum» and «in longitudine» are letter-spaced, «eius» between them is not; L24: the run-in heading «Ad sciendam aspectuum diversitatem in latitudine», letter-spaced, is O's (note 22).
+@obs L07-L23: the parallax in longitude: the ascendant («horoscopus») at the hour of the conjunction less three signs gives the «medium caelum»; the right ascensions of that point and of the moon from the table of the right sphere («circulus aequinoctialis», «felek elmustakim»), and their difference, the moon's distance from it; with that distance the table of the parallax gives hours and parts, which multiplied by the moon's hourly motion give the parallax in longitude. Checked: the point of the ecliptic three signs before the ascendant is its highest point above the horizon, where the parallax in longitude vanishes; it is the culminating degree only when that degree is a solstitial point.
+@obs L20-L22: «hoc productum» is added to the hours of the conjunction for the moon between the ascendant and the midheaven, east of the meridian, and subtracted for the moon in the west. Checked: in the east the parallax moves the moon towards the following signs, the direction of its motion, so that the moon is seen to reach the sun before the true conjunction and the hours of the visible conjunction are fewer than those of the true one; in the west they are more. The text has the opposite. N's marginal addition at note 19 says that the product is a quantity of degrees and minutes, not of time. To be compared with Suter's commentary on chapter 34.
+@obs L24-L29: the parallax in latitude: the declination («obliquatio») of the midheaven, northern and less than the latitude of the place, is subtracted from the latitude; if greater, the latitude is subtracted from it (continued on p. 29). Checked: for a northern declination less than the northern latitude of the place, the distance of the point on the meridian from the zenith is the latitude less the declination, and for a greater declination the declination less the latitude.
+@obs The Arabic terms, upright as printed: N05 «Gedval elihtilief lilmanshar», which O writes above the heading (jadwal al-ikhtilāf li-l-manẓar, the table of the parallax); N08-N09 «elmustakim», «felek elmustakim», the right sphere (al-falak al-mustaqīm); N03 «heza» (al-ḥiṣṣa), the anomaly; N14 «shemeli», «scemelia», northern (shamālī).
+@obs L12: a speck at mid-height between «in» and «circulo»; L15: a speck below the line after «a»; not transcribed. N07: the dash before note 7 is printed in two pieces, 24 and 4 px long with a gap of 3 px; N10: the dash before note 16 in two pieces, 4 and 20 px long with a gap of 4 px; each transcribed as one dash. N03: «0 0», two zeros 8 px apart, where a word space is about 20 px. N01: «Hoc . . . obtinuerit», three points; the other omissions of the apparatus have four.
+@obs The semicolons of the text and the colons of the apparatus stand after the thin space of the edition (7-13 px measured; «CON ;» in N05, 8 px); the colon after «Deinde addid.» in N03 after a word space.

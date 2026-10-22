@@ -1,0 +1,112 @@
+{
+ "anchor": "AK01-F122",
+ "frame": 122,
+ "frame_file": "page_122.jpg",
+ "frame_sha256": "04b5d8cdbc433b8a4304c24fc6d81fc1264330b25a9b0eef588bea954043a370",
+ "printed_page": "١٠٦",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 122, printed p. 106, the last page of the text: the problem of frame 121 concluded (twenty dirhams advanced for a kurr worth fifty, the contract cancelled in illness): the thing eight and eight ninths, four ninths of the twenty; four ninths of the kurr, twenty-two and two ninths, and five ninths of the twenty, eleven and a ninth, are returned; the heirs hold thirty-three and a third, two thirds of the fifty; «والله أعلم». Then the copyist's colophon, set as a new paragraph: the copying was finished on Sunday, the nineteenth of Muḥarram of the year 743 of the Hijra. Below it a double rule. The values check exactly. No footnote on this page.",
+ "lines": [
+  {
+   "id": "AK01-F122-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "أتساع درهم تعدل شيئاً انظر كم الثمانية الدراهم والثمانية الأتساع من رأس المال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F122-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "وهو عشرون درهما فتجد ذلك أربعة أتساعها فرد من الكر أربعة أتساعه وترد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F122-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "خمسة أتساع العشرين فتكون قيمة أربعة أتساع الكر اثنين وعشرين درهما",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F122-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "وتسعى درهم وخمسة أتساع العشرين أحد عشر درهما وتسع درهم فيصير فى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F122-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "أيدى الورثة ثلاثة وثلاثون درهماوثلث درهم وهو ثلثا الخمسين الدرهم والله أعلم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F122-L06",
+   "n": 6,
+   "kind": "indent",
+   "text": "تم الكتاب بحمد الله ومنه وتوفيقه وتسديده فرغ من نساخته فى يوم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F122-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "الأحد تاسع عشر من المحرم أحد شهور سنة ٧٤٣ هجرية على صاحبها وآله",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F122-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "أفضل الصلوة والسلم . وصلى الله على سيدنا محمد وآله وسلم .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L01: «أتساع درهم تعدل شيئاً» (L01) goes on from the last words of frame 121, «فيكون ثمانية دراهم وثمانية» (frame 121, L22): six and two thirds and their third make eight and eight ninths, equal to the thing.",
+  "L05-L08: the text ends with «والله أعلم» at the end of L05. L06-L08 are the copyist's colophon, set as a new paragraph with the indent of its first line: the copying («نساخته») was finished on Sunday, the nineteenth of Muḥarram of the year 743 of the Hijra (L06-L07), the date that the editors' study gives for the manuscript (frame 026). The year is printed in Arabic-Indic digits, «٧٤٣», and transcribed so. «الصلوة» and «والسلم» (L08), as printed. Below the colophon a double rule, 355 px long, closes the text; it is not transcribed.",
+  "L01: the alif of the first الثمانية is printed broken: its top, 15 px high, stands apart above the rest of the stem, 41 px high, where the alifs of the line are about 57 px; the separate top is not a hamza. Transcribed الثمانية, as the second الثمانية of the line is printed whole.",
+  "Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): درهماوثلث (L05; 10 between the alif and the conjunction و, within the 9 to 13 px of an alif from a conjunction و set without a space, where درهما وتسع in L04 has 45).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: سنة ٧٤٣ (L07; 15 between the ة and the first digit), at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one; in doubt, the space is written. انظر كم (L01): the ر stands 39 px from the ك above the baseline and its tail 26 px from it, beyond the 8 to 19 px of the tail inside a word.",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: من الكر (9), أتساعه وترد (L02; 5), أيدى الورثة (11), وثلث درهم (9), درهم وهو (6), الدرهم والله (7), والله أعلم (L05; 10).",
+  "The full stops (gaps as the nearest approach of the ink at 400 ppi): after والسلم, before وصلى (L08; 32 and 24), between spaces; after وسلم, ending L08 (32 px after the word).",
+  "Plain alif where a hamza might be expected, as printed: انظر (L01), اثنين (L03); with hamza: أتساع (L01, L04; L03, twice), الأتساع, رأس (L01), أربعة (L02, twice; L03), أتساعها, أتساعه (L02), أحد (L04, L07), أيدى, أعلم (L05), الأحد (L07), أفضل (L08); with madda: وآله (L07, L08); on ي: شيئاً (L01).",
+  "With tanwīn on the final alif: شيئاً (L01); without tanwīn as printed: درهما (L02, L03, L04), درهماوثلث (L05).",
+  "L04, L05: «وتسعى درهم» (L04) and «ثلثا الخمسين» (L05), as printed: the dual without its ن before the noun that follows it, as on frames 094-121.",
+  "The final yā' is printed without dots: وتسعى, فى (L04), أيدى (L05), فى (L06), على (L07, L08), وصلى (L08)."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

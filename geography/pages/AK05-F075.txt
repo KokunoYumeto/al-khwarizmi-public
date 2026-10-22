@@ -1,0 +1,37 @@
+@page 75 ٦٩
+% Frame 075, printed p. 69: the end of the outer western and northern sea, which returns along the meridian of one
+% degree to the point where it began; the heading of the sea of Tangier, the seas of مرطاسه, of Ifrīqiya, of Barqa, of
+% Egypt and Syria, of ٮرقه and of لزقه, all joined to one another; and the beginning of their course from the copper
+% idols at Tangier, with the editor's running numbers (١٠٢٨)-(١٠٣٨), to the towns ثوقا and Diarrhytus. Four lines of
+% the editor's footnotes.
+الى طول {ov:س {z}} والعرض {ov:عب {z}} (١٠٢٨) [٦١١] يمرّ الى طول {ov:نح {z}} والعرض {ov:عح {z}}
+(١٠٢٩) [٦١٢] ويرجع من هناك الى طول جزء واحد والعرض {ov:عح {z}} (١٠٣٠)
+[٦١٣] ويرجع على طول {ov:ا {z}} من عرض {ov:عح {z}} الى عرض {ov:{z} ى} على سمت طول جزء
+واحد{n:a} فيرجع الى الموضع الّذى فيه ابتدأنا بذكره{n:b} *
+@h * بحر طنجة وبحر مرطاسه{n:c} وبحر أفريقيّة{n:d}
+@h وبحر برقة وبحر مصر والشام وبحر ٮرقه{n:e}
+@h ولزقه{n:f} كلّها متّصلة بعضها ببعض *
+الابتداء من بحر طنجة من عند الأصنام النحاس من طول {ov:ز ل} والعرض {ov:له م}{n:g} ⟨يمرّ⟩{n:h}
+الى طول {ov:ح ل} والعرض {ov:له ل} (١٠٣١) [٦١٥] يمرّ الى طول {ov:ى {z}} والعرض {ov:لح م}
+(١٠٣٢) [٦١٦] يمرّ الى طول {ov:يح {z}} والعرض {ov:لح ك} (١٠٣٣) [٦١٧] يمرّ الى طول
+{ov:يد {z}} والعرض {ov:لٮ ل} (١٠٣٤) [٦١٨] يمرّ الى طول {ov:يح {z}} والعرض {ov:لٮ {z}} (١٠٣٥)
+[٦١٩] وهناك مصبّ نهر خليفان يمرّ الى طول {ov:كح {z}} والعرض {ov:لٮ {z}} (١٠٣٦) [٦٢٠]
+ويمرّ على صورة الطيلسان{n:i} يمرّ بعرض {ov:لح {z}} (١٠٣٧) [٦٢١] ويمرّ الى طول {ov:لب {z}}
+والعرض {ov:لب {z}} (١٠٣٨) [٦٢٢] يمرّ الى مدينة ثوقا ⟨ومدينة⟩{n:k} ذياررطس ويمرّ الى
+@ednotes a b c d e f g h i k 4
+@obs L01-L04 end the outer western and northern sea: after the point of latitude 72 (L01) the coast passes to the latitude «عح», returns from there to the longitude of one degree, «ويرجع من هناك الى طول جزء واحد» (L02), and returns along the longitude «ا {z}», 1° 0′, from the latitude «عح» to the latitude «{z} ى», 0° 10′, on the meridian of one degree, «على سمت طول جزء واحد», and so back to the place with whose mention it began, «فيرجع الى الموضع الّذى فيه ابتدأنا بذكره» (L03-L04): the first point of p. 66 (frame 072, L03), longitude 1° 0′ and latitude 0° 10′ (note a). L04 ends with a small open star, transcribed as an asterisk. «جزء» has a hamza on the line; «الّذى» a shadda over the ل; «ابتدأنا» a hamza over the alif.
+@obs L05-L07: the heading of the next section, in the large type, between two small open stars, transcribed as asterisks: «* بحر طنجة وبحر مرطاسه وبحر أفريقيّة وبحر برقة وبحر مصر والشام وبحر ٮرقه ولزقه كلّها متّصلة بعضها ببعض *», the sea of Tangier, the sea of مرطاسه, the sea of Ifrīqiya, the sea of Barqa, the sea of Egypt and Syria, and the sea of ٮرقه and لزقه, all of them joined to one another. «أفريقيّة», with a hamza over the alif and a shadda over the ي; «كلّها», with a shadda over the ل; «متّصلة», with a shadda over the ت; «ببعض» is printed with a long kashida, the stretched joining stroke, before the ض, which is not transcribed. «مرطاسه» and «لزقه» end in ه, «برقة» in ة; «ٮرقه» begins with a tooth without a dot, joined to the ر.
+@obs L08: the course of the new section begins «الابتداء من بحر طنجة من عند الأصنام النحاس», the beginning is from the sea of Tangier, from the copper idols (frame 073, L05-L06), at the longitude «ز ل», with the dot of the ز, and the latitude «له م»; this first point has neither a running number nor a number of Suhrāb (the editor's note g gives it as point 987). The word «⟨يمرّ⟩», between angle brackets and followed by the note mark h, is supplied by the editor, which the manuscript lacks (note h). L12: «وهناك مصبّ نهر خليفان», there is the mouth of the river Khalīfān; L13: «على صورة الطيلسان», along the shape of the ṭaylasān, and «يمرّ بعرض», it passes at the latitude; L14: «يمرّ الى مدينة ثوقا ⟨ومدينة⟩ ذياررطس», it passes to the town of ثوقا and the town of Diarrhytus, with «⟨ومدينة⟩» supplied by the editor (note k). The running numbers run (١٠٢٨)-(١٠٣٨), and the numbers of Suhrāb [٦١١]-[٦١٣] and [٦١٥]-[٦٢٢].
+@obs Letters printed without their dots in the numerals, transcribed so: لٮ, a ل joined to a final ب without its dot, 32 (L11, both latitudes; L12, the latitude), where L13 and L14 print لب with the dot. With their dots: نح (L01), 58; عب (L01), 72; يح (L10, L11) and يد (L11), with the two dots of the ي, 18 and 14; ز (L08), 7.
+@obs The ح of the numerals, نح and عح (L01-L03), ح (L09), لح (L09, L10, L13), يح (L10, L11) and كح (L12), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.
+@obs Note marks: L04, a after «واحد» and b after «بذكره»; L05, c after «مرطاسه» and d after «أفريقيّة»; L06, e after «ٮرقه»; L07, f after «ولزقه»; L08, g after the latitude and h after «⟨يمرّ⟩»; L13, i after «الطيلسان»; L14, k after «⟨ومدينة⟩».
+@obs The editor's footnotes stand in four lines below a short rule at the left: notes a-k. The page number «— ٦٩ —» stands at the foot, centred.
+@variant L04: the place is the same as point 967 (frame 072, L03) (note a).
+@variant L04: the letters «نا بذكره», the end of «ابتدأنا» and «بذكره», are written by a later hand in the manuscript (note b).
+@variant L05: for the sea of مرطاسه the editor refers to entry (1558), and for the sea of Ifrīqiya to entry (1559) (notes c and d).
+@variant L06: for the sea of ٮرقه the editor refers to entry (1580) (note e).
+@variant L07: for the sea of لزقه the editor refers to entry (1570) (note f).
+@variant L08: the manuscript has the latitude ل م, with a line over the numerals; the correct reading, له م, stands in its margin; the point is the same as point 987 (note g).
+@variant L08: the manuscript lacks the word يمرّ, which the editor supplies (note h).
+@variant L13: the manuscript has قوارة before الطيلسان (note i).
+@variant L14: the manuscript lacks the word ومدينة, which the editor supplies (note k).

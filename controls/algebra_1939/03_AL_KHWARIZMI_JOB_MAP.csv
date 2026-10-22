@@ -1,0 +1,5 @@
+job,physical_frames,authority_file,scope
+JOB01,001-035,05,cover front matter editorial opening and early text
+JOB02,036-070,06,continuous body
+JOB03,071-105,07,continuous body
+JOB04,106-130,08,body close and back matter

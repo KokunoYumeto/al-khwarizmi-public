@@ -1,0 +1,338 @@
+{
+ "anchor": "AK01-F038",
+ "frame": 38,
+ "frame_file": "page_038.jpg",
+ "frame_sha256": "b730bdb5e73682d6e390ae7ee3c6a343395a13c1264930d38c77f53ff07a8cc8",
+ "printed_page": "٢٤",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 038, printed p. 24: the demonstration of the fifth case, a square and twenty-one dirhams equal ten roots: the square اد and the rectangle هب beside it, together of length ten; the line حه halved at the point printed ع; the square مط on the half, twenty-five; the rectangles هط and مز, together twenty-one, taken from it leave the small square زك, four, whose side is two; the text runs on to the next page. The figure of this demonstration is on frame 041. No footnotes on this page.",
+ "lines": [
+  {
+   "id": "AK01-F038-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "مربعاً مجهول الأضلاع وهو سطح {ov:اد} ، ثم نضم اليه سطحاً متوازى الأضلاع",
+   "note_marks": [],
+   "figure_labels": [
+    "اد"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "عرضه مثل أحد أضلاع سطح {ov:اد} وهو ضلع {ov:ه{inv:ن}} والسطح {ov:هٮ} ، فصار طول",
+   "note_marks": [],
+   "figure_labels": [
+    "اد",
+    "هن",
+    "هٮ"
+   ],
+   "turned_letters": [
+    "ن"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "السطحين جميعاً ضلع {ov:حه} ، وقد علمنا أن طوله عشرة من العدد لأن كل سطح",
+   "note_marks": [],
+   "figure_labels": [
+    "حه"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "مربع متساوى الأضلاع والزوايا فان أحد أضلاعه مضروباً فى واحد جذر ذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "السطح ، وفى اثنين جذراه ، فلما قال مال واحد وعشرون تعدل عشرة أجذاره ،",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "علمنا أن طول ضلع {ov:هح} عشرة أعداد لأن ضلع {ov:حد} جذر المال فقسمنا ضلع",
+   "note_marks": [],
+   "figure_labels": [
+    "هح",
+    "حد"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "{ov:حه} نصفين على نقطة {ov:ع} فيتبين لنا أن خط {ov:هع} مثل خط {ov:عح} وقد تبين",
+   "note_marks": [],
+   "figure_labels": [
+    "حه",
+    "ع",
+    "هع",
+    "عح"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "لنا أن خط {ov:عط} مثل خط {ov:حد} فزدنا على خط {ov:عط} على استقامته مثل فضل",
+   "note_marks": [],
+   "figure_labels": [
+    "عط",
+    "حد",
+    "عط"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "{ov:حع} على {ov:عط} ليتربع السطح فصار خط {ov:طك} مثل خط {ov:كم} وحدث سطح",
+   "note_marks": [],
+   "figure_labels": [
+    "حع",
+    "عط",
+    "طك",
+    "كم"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "مربع متساوى الاضلاع والزواياوهو سطح {ov:مط} وقد كان تبين لنا أن خط {ov:طك}",
+   "note_marks": [],
+   "figure_labels": [
+    "مط",
+    "طك"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "خمسة وأضلاعه مثله فسطحه إذاً خمسة وعشرون وهو ما اجتمع من ضرب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "نصف الأجذار فى مثلها وهو خمسة فى خمسة يكون خمسة وعشرين . وقد كان",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "تبين لنا أن سطح {ov:هٮ} هو الواحد والعشرون التى زيدت على المال فقطعنا من",
+   "note_marks": [],
+   "figure_labels": [
+    "هٮ"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "سطح {ov:هٮ} بخط {ov:طك} الذى هو أحد أضلاع سطح {ov:مط} بقى سطح {ov:طا} وأخذنا",
+   "note_marks": [],
+   "figure_labels": [
+    "هٮ",
+    "طك",
+    "مط",
+    "طا"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "من خط {ov:كم} خط {ov:كل} وهو مثل خط {ov:عك} فتبين لنا أن خط {ov:طع} مثل",
+   "note_marks": [],
+   "figure_labels": [
+    "كم",
+    "كل",
+    "عك",
+    "طع"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "خط {ov:مل} وفضل من خط {ov:مك} خط {ov:لك} وهو مثل خط {ov:كع} فصار سطح",
+   "note_marks": [],
+   "figure_labels": [
+    "مل",
+    "مك",
+    "لك",
+    "كع"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "{ov:مز} مثل سطح {ov:طا} فيتبين لنا أن سطح {ov:هط} مزيدا عليه سطح {ov:مز}مثل",
+   "note_marks": [],
+   "figure_labels": [
+    "مز",
+    "طا",
+    "هط",
+    "مز"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "سطح {ov:هٮ} وهو واحد وعشرون وقد كان سطح {ov:مط} خمسة وعشرين فلما",
+   "note_marks": [],
+   "figure_labels": [
+    "هٮ",
+    "مط"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "نقصنا من سطح {ov:مط} سطح {ov:هط} وسطح {ov:مز} اللذين هما واحد وعشرون",
+   "note_marks": [],
+   "figure_labels": [
+    "مط",
+    "هط",
+    "مز"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "بقى لنا سطح صغير وهو سطح {ov:زك} وهو فضل ما بين خمسة وعشرين وواحد",
+   "note_marks": [],
+   "figure_labels": [
+    "زك"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "وعشرين وهو أربعة وجذرها خط {ov:زع} وهو مثل خط {ov:عا} وهو اثنان .",
+   "note_marks": [],
+   "figure_labels": [
+    "زع",
+    "عا"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F038-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "فان نقصتهما من خط {ov:عح} الذى هو نصف الأجذار بقى خط {ov:اح} وهو",
+   "note_marks": [],
+   "figure_labels": [
+    "عح",
+    "اح"
+   ],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Letters printed as the labels of the figure carry a short wavy line above them, as on frames 36 and 37 (here a line above).",
+  "The letter that names the point at which حه is halved, and the lines and surfaces that end there, is printed ع, thirteen times: نقطة ع, هع, عح (L07); عط (L08, twice; L09); حع (L09); عك, طع (L15); كع (L16); زع, عا (L21); عح (L22). It is the same sort as the first of the four labels of frame 36, L13: a closed head and a tail, without a dot. The figure of the demonstration (frame 041) has no ع, and the manuscript, in the facsimile of frame 039, writes ج. See the critical note AK01-CN003.",
+  "L02: the second letter of the label هن is a ن printed upside down: an arch open below, with the dot under its top. Transcribed {inv:ن} and set upside down in the PDF. See the critical note AK01-CN004.",
+  "Set without a word space after a non-connecting letter, and transcribed so: والزواياوهو (L10; the ا and the و stand 9 px apart, nearest approach of the letters at 400 ppi); مزمثل (L17, at the end of the line: the ز and the م 10 px apart; at the beginning of the same line the same words stand 65 px apart and are transcribed with a space). After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: وحدث سطح (L09), تبين لنا (L10), لك وهو (L16), سطح صغير (L20). In واحد وعشرون (L05) and الواحد والعشرون (L13) the د and the و stand 16 and 21 px apart, in L18 and L19 56 and 47 px; without a word space these letters stand 6 to 7 px apart (دونه, frame 031; الجذور, frame 043), and a space is transcribed in all four.",
+  "L09: فصار خط is set with a word space: the ر and the خ stand 27 px apart, although the tail of the ر reaches under the خ.",
+  "Plain alif where a hamza might be expected, as printed: اليه (L01), فان (L04, L22), الاضلاع (L10; L01 and L04 have الأضلاع).",
+  "With tanwīn on the final alif: مربعاً, سطحاً (L01), جميعاً (L03), مضروباً (L04), إذاً (L11); without tanwīn as printed: مزيدا (L17).",
+  "The commas of L01, L02, L03 and L05 stand between spaces; L12 has a full stop between spaces, and L21 ends with one set apart. L22 ends without punctuation; the sentence runs on to the next page.",
+  "The ب of the label هب is printed without its dot every time (L02, L13, L14, L18); transcribed ٮ, the dotless form."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK01-CN003",
+   "class": "labels of the text and of the figure disagree",
+   "line": "L07",
+   "printed": "ع, thirteen times (L07, L08, L09, L15, L16, L21, L22)",
+   "proposed": "ج",
+   "evidence": "The text names with ع the point at which the line حه is halved, and the lines and surfaces that end there. The figure of the demonstration (frame 041) has no ع: at the middle of the line حه it has a letter shaped like ح without a dot, distinct from the ح at the end of the line. Without ع, the labels of the text are ا ب د ه ز ح ط ك ل م ن: the first fourteen letters of the abjad order without و and ي, and without ج, the one letter of that run the text does not use; ع comes later in that order. On frame 036 the same sort names the rectangle that the figure there labels ج (AK01-CN001). The facsimile of this page of the manuscript in the edition (frame 039) writes ج, a jīm with its dot: «على نقطة ج», «خط هج».",
+   "confidence": "high: the manuscript writes ج, and the figure has no ع; whether the printer set ع for ج on purpose or in error is not known",
+   "impact": "none on the mathematics: the labels only name the points and lines of the figure"
+  },
+  {
+   "id": "AK01-CN004",
+   "class": "turned letter",
+   "line": "L02",
+   "printed": "ه and ن printed upside down",
+   "proposed": "ه ن",
+   "evidence": "The second letter of the label هن is a ن printed upside down: rotated through 180 degrees it has the shape of the ن of the text type, a bowl open above with the dot over it. The figure of the demonstration (frame 041) has a ن, and the manuscript (frame 039) writes هن with the ن upright.",
+   "confidence": "high",
+   "impact": "none on the mathematics: only the position of the letter is in error"
+  }
+ ]
+}

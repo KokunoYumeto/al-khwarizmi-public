@@ -1,0 +1,4 @@
+@page 27 -
+@kind blank
+% Frame 027: a blank leaf side.
+@obs The verso of the last page of the editors' study (frame 026), blank; the facsimile of frame 028 faces the first page of the text.

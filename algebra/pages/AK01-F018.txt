@@ -1,0 +1,4 @@
+@page 18 ٦
+@kind editorial
+% Frame 018: the editors' study «الجبر قبل الخوارزمى» (algebra before al-Khwārizmī), with footnotes.
+@withheld the editors' study «الجبر قبل الخوارزمى» (algebra before al-Khwārizmī), with footnotes

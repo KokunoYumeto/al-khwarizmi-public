@@ -1,0 +1,43 @@
+@page 20 14
+% Frame 020, printed p. 14: division continued: the divisor moved one place to the right after each round, a place
+% with a circle not passed over; what stands above the divisor at the end is the quotient, what remains is a part of
+% one; division the converse of multiplication; the example of division, 46468 by 324, set out.
+fac in diminutione quem admodum fecimus in inicio libri.
+Cum uolueris minuere aliquem numerum de aliquo numero,et
+similiter fac,donec multiplices eum in uniuersis differentiis in-
+ferioris numeri super quem diuidis. Post hec muta uniuersas
+differentias inferioris numeri, super quem diuidis, una diffe-
+rentia uersus dexteram, et pone in directo prime differentie
+illius ad similitudinem illius quod prius posuisti. Quod cum
+multiplicaueris in ultima differentia inferioris numeri super
+quem diuidis, consument id quod supra eum est, uel quod
+fuerit prope eum: et multiplica illud quod posuisti in directo
+eius in ultima differentia numeri inferioris ; et minue quod
+exierit tibi de multiplicatione de eo quod supra eum est; et
+sic facies in uniuersis differentiis : et si remanserit de diffe-
+rentiis numeri superioris quem diuidis aliquid quod debeat di-
+uidi,semper muta differentias inferioris numeri una differentia,
+donec sit prima differentia eius in directo alicuius differentie
+superioris numeri : quod si fuerit in aliqua differentia, ex dif-
+ferentiis numeri quem diuidis, circulus, et peruenerit mutatio
+ad eum, non transeas eum, quem ad modum fecisti in multi-
+plicatione. Set pones in directo eius aliquid quod multipli-
+cabis quem ad modum narrauimus. Cumque perfeceris hec
+omnia, quicquid exierit tibi ex differentiis in directo numeri
+quem diuidis, illud debetur uni: et si aliquid remanserit, erit
+pars unius ex eo numero quem diuidis,et numquam remanebit
+nisi quod erit minus illo quod diuidis. Si autem plus reman-
+serit, scito quod errasti.
+@p Et scito quod diuisio sit similis multiplicationi; set hoc fit
+econuerso: quare in diuisione minuimus, et ibi addimus, idest
+in multiplicatione eius exemplar est. Quod cum uellemus di-
+uidere quadraginta sex milia et quadrigentos sexaginta octo
+super tercentos .{sc:xxiiii}., posuimus primum in dextera parte
+octo; postea posuimus sex uersus sinistram qui sunt sexaginta:
+de inde .{sc:iiii}.{sup:or} qui sunt quadringenti; postea sex que sunt .{sc:vi}.
+@obs The page number «( 14 )» stands at the head of the page, centred. The page has no footnotes and no signature.
+@obs L29-L33: the example of division, forty-six thousand four hundred and sixty-eight, «quadraginta sex milia et quadrigentos sexaginta octo», by three hundred and twenty-four, «tercentos .xxiiii.», written place by place from the right. L30: «quadrigentos», without the n, as on p. 9 (frame 015, L11); L33 has «quadringenti».
+@obs L21: a dark speck, 8 by 8 px, stands above the second stem of the n of «narrauimus», so that the letter looks like «ri»; the letter is an n, its two stems joined by the arch. Transcribed «narrauimus».
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): without a space after the comma, L02 «numero,et» (10 px, the median word space of the line 16.5 px), L03 «fac,donec» (5 px), L15 «uidi,semper» (7 px) and L24 «diuidis,et» (6 px); with a space before the mark, L11 «inferioris ;» (10 px), L13 «differentiis :» (20 px) and L17 «numeri :» (19 px). L23 «uni:» (8 px before the colon) is set close.
+@obs Marks not transcribed: light specks at mid-height between «si» and «fuerit» (L17) and between «diuidis,» and «illud» (L23), and after «errasti.» (L26).
+@copy A reader's notes in pencil: «quod» in the left margin beside L06, with «et» underlined; «quod» in the right margin beside L12 and L13, with «et» underlined in both lines; a mark above «narrauimus» (L21); «quia» in the left margin beside L28, with «quare» underlined. Not part of the edition.

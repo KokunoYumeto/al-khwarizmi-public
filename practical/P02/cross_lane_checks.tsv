@@ -1,0 +1,8 @@
+id	claim	our_record	result
+X01	Text 2 section 27: Kufa 32 (study p. 172: rounded from al-Khwarizmi's 31;50)	geography AK05-F027-L13: entry 299, الكوفة, longitude سط ل (69;30), latitude لا ن (31;50)	agrees with the study
+X02	Text 2 section 27: Rayy 37 (study p. 172: al-Khwarizmi's tables give 35;45)	geography AK05-F028-L06: entry 309, الرىّ, longitude عه (75;0), latitude له مه (35;45)	agrees with the study: Text 2 departs from the geography
+X03	Text 2 section 31: Baghdad 70 (study n. 92: Surat al-ard has 73)	geography AK05-F027-L14: entry 300, بغداد, longitude printed عح, latitude لح ط; the observation of that page notes that ح there is the form of a ج without its dot (3): 73, and 33;9	agrees with the study when ح is read as ج
+X04	Text 2 section 31: Damascus 60 (study n. 92: also 60 in Surat al-ard)	geography AK05-F026-L02: entry 269, دمشق, longitude س (60), latitude لح (33 when read as لج)	agrees with the study
+X05	Text 2 section 25: excess 93;2, al-Khwarizmi's value	zij AK07-J0262-L07: Tab. 115, one year, 93 2 15	agrees
+X06	study n. 87: al-Majriti's recension mentions a year of 365;15,32,30 (Suter 1914: 42)	zij AK07-J0074-L08 to L13: Suter derives 365d 6h 13m (= 365;15,32,30) himself from Tables 4 and 5; zij AK07-J0267-L22 to L33: in his fourth addition he corrects the computation to 365d 6h 12m; Tab. 115 gives 93;2,15 a year (365;15,30,22,30)	the recension does not state 365;15,32,30: it is Suter's derivation, which he revised
+X07	Erdem (Turkish version p. 205): the coordinates of the 163 cities of A 194b-196b agree in general with Surat al-ard	A not seen; the comparison with geography/ awaits the images of A (or Kennedy and Kennedy 1987, KHZ)	open: for AK-I01

@@ -1,0 +1,7 @@
+@page 28 -
+@kind facsimile
+% Frame 028: a plate: the facsimile, in a line block, of the first page of the text in the manuscript, from the
+% basmala to the description of the uses of algebra, with notes in its margins; it faces the first page of the
+% edition's text (frame 029).
+@fig AK01-F028-FIG1 180 500 2060 3340
+@obs The facsimile is reproduced as an image; its handwritten text is not transcribed. Its lines correspond to the edition's text of frames 029-030.

@@ -1,0 +1,235 @@
+{
+ "anchor": "AK01-F080",
+ "frame": 80,
+ "frame_file": "page_080.jpg",
+ "frame_sha256": "5a2834104ba6d8712d1bd88234c16f33485058722b0b1d38067c27beb3c4021a",
+ "printed_page": "٦٤",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 080, printed p. 64: the obtuse triangle's figure (sides six, five and nine, with the altitude), beside the end of the sentence begun on frame 079: the circles treated at the beginning of the book; a circle of diameter seven and circumference twenty-two: half the diameter times half the circumference, three and a half times eleven, thirty-eight and a half; or the square of the diameter, forty-nine, less its seventh and half its seventh, ten and a half: thirty-eight and a half, with its figure. Then a truncated cone, base four by four, height ten, top two by two: a cone with a point has a third of its base times its height as its volume; to find how far it rises to its point, the ten of the height stand to the whole as two to four, continued on the next page. Below the rule one footnote of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F080-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "صدر الكتاب فمنها مدورة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "قطرها سبعة أذرع ويحيط",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "بها اثنان وعشرون ذراعا {n:١}",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "فان تكسيرها أن تضرب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "نصف القطر وهو ثلاثة ونصف",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "فى نصف الدور الذى يحيط بها وهو أحد عشر فيكون ثمانية وثلاثين ونصفا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "وهو تكسيرها فان أحببت فاضرب القطر وهو سبعة فى مثله فيكون تسعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "وأربعين فانقص منها سبعها ونصف سبعها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "وهو عشرة ونصف فيبقى ثمانية وثلاثون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "ونصف وهو التكسير وهذه صورتها .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "فان قال عمود مخروط أسفله أربعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "أذرع فى أربعة أذرع وارتفاعه عشرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "أذرع ورأسه ذراعان فى ذراعين .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "وقد كنا بينا أن كل مخروط محدد الرأس فان ثلث تكسير أسفله مضروبا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "فى عموده هو تكسيره فلما صار هذا غير محدد أردنا أن نعلم كم يرتفع حتى يفنى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "رأسه فيكون لا رأس له فعلمنا أن هذه العشرة من الطول كله كقدر الاثنين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F080-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "من الأربعة فالاثنان نصف الأربعةفاذا كان ذلك كذلك فالعشرة نصف الطول",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [
+  {
+   "id": "AK01-F080-FIG1",
+   "rect": [
+    1025,
+    675,
+    2015,
+    1285
+   ],
+   "after": 5
+  },
+  {
+   "id": "AK01-F080-FIG2",
+   "rect": [
+    215,
+    1570,
+    1012,
+    2340
+   ],
+   "after": 13
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Layout: L01-L05 stand in a narrower column at the left of the first figure, which is reproduced after L05; L06-L07 run across the page; L08-L13 stand in a narrower column at the right of the second figure, which is reproduced after L13; L14-L17 run across the page.",
+  "The first figure, drawn, not set in type, is the obtuse triangle of frame 079, L16-L20: ٦ beside the left side, ٥ beside the right side, ٩ under the base, and the altitude from the apex to the base. The second is a circle with a vertical diameter; inside it, written along the diameter, turned through a right angle, «الدور ٢٢ ذراعا», the circumference twenty-two cubits, and on the other side of the diameter, in the same direction, a single mark shaped like ب with a dot below it.",
+  "L16: الاثنين (L16) is transcribed as one word: the ث stands 27 px (nearest approach of the letter bodies at 400 ppi) from the ligature لا, at the lower edge of the gaps that the ligature leaves before a word space (27 to 29 px or more) and 3 px more than in فالاثنان in L17 (24 px), where it stands 20 to 26 px from the next letter inside a word.",
+  "Set without a word space, and transcribed so: الأربعةفاذا (L17; 7 between the ة and the ف); the machine reading sets a space.",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: أحد عشر (L06; 22 between the د and the ع, as أحد عشر on frame 064, 21 to 23, where أحدعشر set solid has 3 to 8).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: كان ذلك (L17; 9 between the ن and the ذ), فيبقى ثمانية (L09).",
+  "The full stops stand after a space: after صورتها at the end of L10 (32 px, nearest approach of the ink at 400 ppi) and after ذراعين at the end of L13 (40 px). The note mark (١) ends L03, after ذراعا.",
+  "Plain alif where a hamza might be expected, as printed: اثنان (L03), فان (L04, L07, L11, L14), فاضرب (L07), فانقص (L08), الاثنين (L16), فالاثنان, الأربعةفاذا (L17); with hamza: أذرع (L02, L12, twice; L13), أن (L04, L14), أحد (L06), أحببت (L07), وأربعين (L08), أسفله, أربعة (L11), أربعة (L12), ورأسه (L13), الرأس, أسفله (L14), أردنا, أن (L15), رأسه, رأس, أن (L16), الأربعة, الأربعةفاذا (L17).",
+  "No tanwīn is printed on this page: ذراعا (L03), ونصفا (L06), مضروبا (L14).",
+  "The final yā' is printed without dots: فى (L06, L07, L12, L13, L15), الذى (L06), فيبقى (L09), حتى, يفنى (L15).",
+  "The machine reading of L15 is defective at the end of the line («ر تفع حت ف» for يرتفع حتى يفنى), where the type is clear on the scan.",
+  "The print stretches الكتاب and فمنها (L01), بها (L03), تكسيرها (L04, L07), التكسير (L10), أربعة (L12), ورأسه (L13, at length), تكسير (L14) and تكسيره (L15) with the elongation stroke; the stroke is not transcribed.",
+  "Note (١) of the editors remarks that al-Khwārizmī takes the circumference to be 22/7 of the diameter, an approximation, so that the circumference of a circle of diameter seven is not exactly twenty-two cubits but a little less; it is not reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

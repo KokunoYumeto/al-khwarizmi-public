@@ -1,0 +1,49 @@
+@page 216 184
+@lang la
+% JP2 0216: Tab. 70, p. 184: the mean oppositions of the sun and the moon in the collected Arab years, for the meridian
+% of Cordoba: the time from the beginning of the year to the opposition, the mean longitude, the anomaly of the moon and
+% the argument of latitude, with the apparatus (notes 1-7 and a-l) and a marginal addition in N.
+@c {b:Tabula oppositionis solis et lunae in annis arabum collectis secundum meridiem Cordubae} (N)
+@m C 81{sup:v}, O 138{sup:v},
+@c {b:Gedval elisticbelet}{sup:1}) {b:in annis arabum collectis} (CO)
+@m N 43{sup:r}.
+@c {b:secundum meridiem Cordubae} (C)
+@tw size=footnotesize span=1.15 0.75 0.8 0.5 0.62 0.66 0.66 0.5 0.5 0.62 0.62 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5
+@t Notulae{sup:2}) | Anni | Dies et horae |  |  |  | Medium{sup:3}) solis |  |  |  | Argumentum |  |  |  | Argumentum |  |  |
+@t  | collecti |  |  |  |  | et lunae |  |  |  | lunae |  |  |  | latitudinis |  |  |
+@t  |  | {b:Dies} | {b:Horae} | {b:Min.}{sup:4}) | {b:Sec.}{sup:5}) | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:6}) | {b:Sec.}{sup:7}) | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 0 | Radix | 14 | 5 | 39 | 12 | 4 | 7 | 38 | 0 | 9 | 22 | 52 | 26 | 6 | 2 | 11 | 29
+@t 5 | 31 | 14{sup:b}) | 5 | 52 | 57 | 5 | 15 | 35 | 37 | 7 | 16 | 57 | 21 | 2 | 4 | 36 | 51
+@t 3 | 61 | 14 | 6 | 6 | 41 | 6 | 23{sup:d}) | 33 | 14 | 5 | 11 | 2 | 16 | 10 | 5 | 2 | 13
+@t 1 | 91 | 14 | 6 | 20 | 25 | 8 | 1 | 30 | 51 | 3 | 5 | 7 | 11 | 6 | 6 | 27 | 35
+@t 6 | 121 | 14 | 6 | 34 | 9 | 9 | 9 | 28 | 28 | 0 | 29 | 12 | 6 | 2 | 7 | 52{sup:h}) | 57
+@t 3 | 151 | 14 | 6 | 47 | 53 | 10 | 17 | 26 | 5 | 10 | 23 | 17{sup:f}) | 2 | 10 | 9 | 18 | 19
+@t 2 | 181 | 14 | 7 | 1 | 37 | 11 | 25 | 23 | 42 | 8 | 17 | 21 | 57 | 6 | 10 | 43{sup:i}) | 41
+@t 7 | 211 | 14 | 7 | 15 | 21 | 1 | 3 | 21 | 19 | 6 | 11 | 26 | 53 | 2 | 12 | 9 | 2
+@t 5 | 241 | 14 | 7 | 29 | 5 | 2 | 11 | 18 | 56 | 4 | 5 | 31 | 49 | 10 | 13 | 33 | 24
+@t 3 | 271{sup:a}) | 14 | 7 | 42 | 49 | 3 | 19 | 16 | 33 | 1 | 29 | 36 | 45 | 6 | 14 | 58 | 45
+@t 1 | 301 | 14 | 7 | 56 | 33 | 4 | 27 | 14 | 10 | 11 | 23 | 41 | 41 | 2 | 16 | 23{sup:k}) | 6
+@t 6 | 331 | 14 | 8 | 10 | 17 | 6 | 5 | 11 | 47 | 9 | 17 | 46 | 37 | 10 | 17 | 49 | 27
+@t 4 | 361 | 14 | 8 | 24 | 1 | 7 | 13 | 9 | 24 | 7 | 11 | 51 | 33 | 6 | 19 | 14{sup:l}) | 48
+@t 2 | 391 | 14 | 8 | 37{sup:c}) | 45 | 8 | 21 | 7 | 2 | 5 | 5 | 56 | 29{sup:g}) | 2 | 20 | 41 | 9
+@t 7 | 421 | 14 | 8 | 51 | 30 | 9 | 29 | 4 | 39 | 3 | 0 | 1 | 24 | 10 | 22 | 6 | 31
+@t 5 | 451 | 14 | 9 | 5 | 15 | 11 | 7 | 2 | 16 | 0 | 24{sup:e}) | 6 | 19 | 6 | 23 | 31 | 53
+@t 3 | 481 | 14{sup:b}) | 9 | 19 | 0 | 0 | 15 | 59 | 53 | 10 | 18 | 11 | 14 | 2 | 24 | 57 | 15
+@t 1 | 511 | 14 | 9 | 32 | 45 | 1 | 24 | 57 | 30 | 8 | 12 | 16 | 9 | 10 | 26 | 22 | 37
+@n {sup:1}) elisticbelet] O, elisticbelet oppositionis C — {sup:2}) Notulae] CN, Notae O — {sup:3}) Medium] ON, elwacat
+@n C — {sup:4}) Min.] N, Dak. CO — {sup:5}) Sec.] N, Then. CO — {sup:6}) Min.] N, Dak. O, Puncta C, {i:itemque in cet. col.} —
+@n {sup:7}) Sec.] N, Theniae O, Minuta C, {i:itemque in cet. col.}
+@n {sup:a}) 271] ON, 261 C — {sup:b})—{sup:b}) 14] ON, {i:om.} C — {sup:c}) 37] C, 27 O — {sup:d}) 23] ON, 24 C — {sup:e}) 24] C, 27 O
+@n — {sup:f}) 17] C, 16 {i:corr. ex 17} O — {sup:g}) 29] ON, {i:corr. ex} 39 C — {sup:h}) 52] 12 CO — {sup:i}) 43] C, 42 O — {sup:k}) 23] C.
+@n 24 ON — {sup:l}) 14] C, 19 O.
+@n {i:Addid.} N {i:in marg. sec. man.}: oppositiones istae praecedunt superiores coniunctiones.
+@obs The page number «184» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 70», in bold sans serif, underlined. The page has no signature. The titles (L01-L03), in bold, the sigla in roman: N's «Tabula oppositionis solis et lunae in annis arabum collectis secundum meridiem Cordubae (N)»; that of C and O, «Gedval elisticbelet1) in annis arabum collectis (CO)», jadwal al-istiqbālāt, the table of the oppositions; and C's «secundum meridiem Cordubae (C)». The folios of the manuscripts stand at the right of the third title in two lines, «C 81v, O 138v,» and «N 43r.», the letters raised; here as right margin notes beside L02 and L03.
+@obs The table: as on p. 183 (JP2 0215), eighteen columns: «Notulae2)», printed upwards, «Anni collecti», «Dies et horae» over «Dies», «Horae», «Min.4)», «Sec.5)», and «Medium3) solis et lunae» over «Sig.», «Gr.», «Min.6)», «Sec.7)», «Argumentum lunae» and «Argumentum latitudinis» each over «Sig.», «Gr.», «Min.», «Sec.». Here each head is set from the top, one printed line to a line (L04-L06); the cells separated by our «|»; a head followed by empty cells spans their columns. The range of note b is marked at its first and last rows, 31 and 481 (L08, L23).
+@obs L07-L24. The rows are the Radix and the years 31, 61, … 511, as on p. 183; the columns give the mean opposition, the mean longitude of the sun at it, the anomaly of the moon and the argument of latitude. Checked: the time grows by 13m 44s or 13m 45s each 30 years in every step, from 14d 5h 39m 12s at the Radix to 14d 9h 32m 45s at 511, with C's 37 at 391 (note c). Each opposition precedes the conjunction of the same row of Tab. 69 (p. 183) by 14d 18h 21m 59s at the Radix and 14d 18h 22m 0s to 2s in the other rows, half a synodic month (14d 18h 22m 1s), as the marginal addition in N says, «oppositiones istae praecedunt superiores coniunctiones», these oppositions precede the conjunctions above (N07); except at 31, where the conjunction table has 29d 0h 14m 46s for 14m 56s, and at 481, where it has O's 40 (p. 183, note d) for C's 41.
+@obs L07-L24, continued. Checked: the mean longitude grows by 37° 57′ 37″ each 30 years, as on p. 183, from 4s 7° 38′ 0″ at the Radix, 14° 33′ 9″ less than the 4s 22° 11′ 9″ of the conjunction, the motion of the sun in half a synodic month; every step agrees, the step to 391 37° 57′ 38″, except the last two, 38° 57′ 37″: 0s 15° 59′ 53″ at 481 and 1s 24° 57′ 30″ at 511 have 1° and 2° more than 0s 14° 59′ 53″ and 1s 22° 57′ 30″, as the conjunction table has at the same rows. The values of the conjunction table less 14° 33′ 9″ agree with this column except at 31 and 121, where the conjunction table has a 5 for a 6 in the sign and 14 for 24 in the degrees (p. 183, critical notes), at 211, where it has O's 38 (p. 183, note f) for C's 28, and from 421 on, where it is 23″ more.
+@obs L07-L24, the moon. Checked: the anomaly grows by 9s 24° 4′ 55″ or 56″ each 30 years in every step, from 9s 22° 52′ 26″ at the Radix, 6s 12° 54′ 31″ less than the 4s 5° 46′ 57″ of the conjunction, the motion in anomaly in half a synodic month; the conjunction table less 6s 12° 54′ 31″ to 34″ agrees with this column except at 61 and 241, where the conjunction table has 33 for 23 (p. 183, note k) and 27 for 26 in the minutes (p. 183, critical notes). The argument of latitude grows by 8s 1° 25′ 21″ or 22″ each 30 years from 6s 2° 11′ 29″ at the Radix, 6s 15° 20′ 6″ less than the conjunction's 0s 17° 31′ 35″, except at 31, where 2s 4° 36′ 51″ has 1° more than 2s 3° 36′ 51″: see the critical note; and from 241 to 361 the minutes are 1 less than the steps and the conjunction table require, 33, 58, 24 (note k, O and N), 49 and 14 (note l) for 34, 59, 25, 50 and 15, the steps from 211 to 241 and from 361 to 391 being 8s 1° 24′ 22″ and 8s 1° 26′ 21″.
+@obs Notes on the readings. Checked by the same steps and by the conjunction table: the edition's readings are those of the regular steps at 271 (note a, against C's 261), at 391 in the time (note c, C's 37 against O's 27), at 61 in the mean longitude (note d, 23 against C's 24), in the anomaly at 451, 151 and 391 (notes e, f and g: C's 24 against O's 27, C's 17 against O's 16 corrected from 17, 29 against C's 39 corrected), and in the argument of latitude at 121 and 181 (notes h and i: 52 against the 12 of C and O, C's 43 against O's 42) and at 361 (note l, C's 14 against O's 19, within the run of minutes 1 less). At 301 (note k) the edition has C's 23, 2s 16° 23′ 6″; O and N's 24 continues the run, 194° 58′ 45″ + 241° 25′ 21″ = 2s 16° 24′ 6″, and the conjunction table less 6s 15° 20′ 6″ gives 2s 16° 25′ 6″. Note b, marked at 31 and 481 («b)—b)»): C omits the days from 31 to 481.
+@obs Notes 1-7: «elisticbelet», al-istiqbālāt, the oppositions, with C's «oppositionis» added; «Notulae» (C and N), O's «Notae»; C's «elwacat», al-wasaṭ, the mean, for «Medium»; the units, «Dak.», «Then.», «Theniae», and in C «Puncta» and «Minuta» for the minutes and the seconds of the longitude. N07: the marginal addition in N by a second hand, «Addid. N in marg. sec. man.:», the words of the editor in italics. Italics: «om.», «corr. ex», «corr. ex 17», «itemque in cet. col.», «Addid.», «in marg. sec. man.». N05-N06, «23] C. 24 ON»: see the critical note.
+@critical AK07-CN186 | wrong figure | L12 | 3 | 4 | the weekday number of 151: the numbers fall by 2 (mod 7) each 30 years, 6 at 121 and 2 at 181, and Tab. 2 (p. 110, JP2 0142) has 4 at 150; a 3 is printed, as at the same row on p. 183 (JP2 0215) | high | none
+@critical AK07-CN187 | wrong figure | L08 | 4 | 3 | the degrees of the argument of latitude at 31: the Radix 6s 2° 11′ 29″ + 8s 1° 25′ 22″ is 2s 3° 36′ 51″, 10s 5° 2′ 13″ at 61 is 2s 3° 36′ 51″ + 8s 1° 25′ 22″, and the conjunction at 31 (p. 183), 8s 18° 56′ 57″, less 6s 15° 20′ 6″ is 2s 3° 36′ 51″; a 4 is printed | high | none
+@critical AK07-CN188 | wrong punctuation | N05 | 23] C. | 23] C, | the readings of a note are divided by a comma, as «24] C, 27 O» of note e in the line above; a point is printed after C at the end of the line, perhaps a comma whose tail did not print | medium | none

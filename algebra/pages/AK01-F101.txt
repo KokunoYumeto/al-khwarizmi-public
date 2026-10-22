@@ -1,0 +1,38 @@
+@page 101 ٨٥
+% Frame 101, printed p. 85: the problem of frame 100 concluded: eleven twelfths of the estate equal four shares and
+% three quarters and a dirham; completed, an estate equals five shares and two elevenths and a dirham and an eleventh;
+% to keep the dirham whole, one of the eleven twelfths is taken as the dirham and the ten others are divided by the
+% four shares and three quarters: two and two nineteenths, the estate twelve; to keep the share whole, the dirham is
+% eleven. Then, under «فان ترك» in bold, five sons; to a man the share of one of them, a third of what remains of the
+% third and a dirham, and a quarter of what remains of the third after that and a dirham: five sixths of the estate
+% less half a share and a dirham and three quarters equal five shares, continued on the next page. Below the rule one
+% footnote of the editors.
+ودرهما فكمل مالك وهو أن تزيد على الانصباء والدرهم جزءاً من أحد عشر
+جزءاً منها فيكون معك مال يعدل خمسة أنصباء وجزءين من أحد عشر جزءاً
+من نصيب ودرهما وجزءاً من احد عشر من درهم . فان أردت أن تخرج الدرهم
+صحيحاً فلا تكمل مالك ولكن اطرح من الأحد عشر واحداً بالدرهم واقسم
+العشرة الباقية على الأنصباء وهى أربعة وثلاثة أرباع نصيب فيكون القسم اثنين
+وجزءاً من تسعة عشر جزءاً من درهم فاجعل المال اثنى عشر والنصيب سهمين
+وجزءين من تسعة عشر جزءاً وإن أردت أن تخرج النصيب صحيحاً فتمم مالك
+واجبره فيكون الدرهم أحد عشر من المال . {b:فان ترك} خمسة بنين وأوصى لرجل
+بمثل نصيب أحدهم وبثلث ما يبقى من الثلث وبدرهم وبربع ما يبقى بعد ذلك من
+الثلث وبدرهم {n:١} فخذ ثلثاً فالق منه نصيبا فيبقى ثلث الا نصيبا ثم الق ما يبقى
+معك وهو ثلث الثلث الا ثلث نصيب ثم الق مما بقى درهما فيبقى معك ثلثا
+الثلث الا ثلثى نصيب والا درهما ثم الق مما معك ربعه وهو سهم من ستة أسهم
+من الثلث الا سدس نصيب والا ربع درهم ثم الق درهما آخر يبقى معك
+نصف الثلث الا نصف نصيب والا درهما وثلاثة أرباع درهم فزد على ذلك
+ثلثى المال فيكون خمسة أسداس مال الا نصف نصيب والا درهما
+وثلاثة أرباع درهم تعدل خمسة أنصباء فاجبر ذلك بنصف نصيب وبدرهم
+@ednotes ١ 5
+@obs L08: the words فان ترك (L08), the run-in heading of the next problem, are printed in a bold face, after a full stop; خمسة بنين, which follows, is in the face of the text. The bold ن is printed without its dot; transcribed ن.
+@obs L10-L11: «ثم الق ما يبقى معك», as printed, where the amount cast away is a third of what remains, as the next words say («وهو ثلث الثلث الا ثلث نصيب») and as the bequest is stated in L09 («وبثلث ما يبقى من الثلث»). See the critical note AK01-CN029.
+@obs L10: فخذ (L10), printed with the ف set on the head of the خ and the dot of the خ to its right, as on frames 089 and 093.
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: بعد ذلك (L09; 18 between the د and the ذ, as فزد ذلك on frame 094, 19, where the د stands 3 to 8 px from the next letter without a space).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: ذلك من (L09; 5 between the ك and the م), بنين وأوصى, وأوصى لرجل (L08), المال اثنى (L06).
+@obs The full stops and the note mark (gaps as the nearest approach of the ink at 400 ppi): the full stops stand between spaces, after درهم, before فان (L03; 28 and 26), and after المال, before the bold فان (L08; 28 and 25). (١) stands 39 px after وبدرهم and 21 px before فخذ (L10), in a space of 109 px between the words, without a full stop.
+@obs Plain alif where a hamza might be expected, as printed: الانصباء (L01), احد, فان (L03), اطرح, واحداً, واقسم (L04), اثنين (L05), فاجعل, اثنى (L06), واجبره, the bold فان (L08), الا (L10), الا (L11), الا, والا (L12), الا, والا (L13), الا, والا (L14), الا, والا (L15), فاجبر (L16); with hamza: أن, أحد (L01), أنصباء, أحد (L02), أردت, أن (L03), الأحد (L04), الأنصباء, أربعة, أرباع (L05), أردت, أن (L07), أحد, وأوصى (L08), أحدهم (L09), أسهم (L12), أرباع (L14), أسداس (L15), أرباع, أنصباء (L16); below the alif: وإن (L07); with madda: آخر (L13); the hamza on the line: الانصباء, جزءاً (L01), جزءاً, twice, أنصباء, وجزءين (L02), وجزءاً (L03), الأنصباء (L05), وجزءاً, جزءاً (L06), وجزءين, جزءاً (L07), أنصباء (L16).
+@obs With tanwīn on the final alif: جزءاً (L01; L02, twice; L06, L07), وجزءاً (L03, L06), صحيحاً (L04, L07), واحداً (L04), ثلثاً (L10); without tanwīn as printed: ودرهما (L03), نصيبا (L10, twice), درهما (L11, L12, L13, L14, L15), ثلثا (L11).
+@obs The final yā' is printed without dots: على (L01, L05, L14), وهى (L05), اثنى (L06), وأوصى (L08), يبقى (L09, twice), فيبقى, يبقى (L10), بقى, فيبقى (L11), ثلثى (L12, L15), يبقى (L13).
+@obs The print stretches فكمل (L01, between the ف and the ك), تكمل and ولكن (L04, between the ت or the ل and the ك), سدس (L13, between the س and the د), معك (L13, between the ع and the ك), فيكون and أسداس (L15, between the ي and the ك and between the س and the د) with the elongation stroke; the stroke is not transcribed.
+@obs Note (١) of the editors restates the problem of L08-L10 in modern notation, with a son's share x and the dirham d: the first bequest x + 1/3 (1/3 − x) + d = 2/3 x + 1/9 + d, the second 1/4 (1/3 − 2/3 x − 1/9 − d) + d, the two together 1/2 x + 7/4 d + 1/6; five shares, 5x = 1 − 1/2 x − 7/4 d − 1/6; hence x = 10/66 − 21/66 d. The values check exactly. The note is not reproduced.
+@critical AK01-CN029 | omission in the statement | L10 | ثم الق ما يبقى معك | ثم الق ثلث ما يبقى معك | The bequest is the share of a son, a third of what remains of the third and a dirham (L09); after the share is taken from the third, a third of what remains is cast away, which the text itself states in the next words: «وهو ثلث الثلث الا ثلث نصيب», a third of the third less a third of a share (L11). The print casts away «ما يبقى», what remains, without ثلث; the parallel steps have the fraction: «ثم الق مما معك ربعه» (L12) and «ثم تلقى ربع ما يبقى معك» (frame 100, L13). | high that the sense requires ثلث ما يبقى; whether the word was lost in the print or in the manuscript is not known | none on the result: the amounts that follow are those of a third

@@ -1,0 +1,22 @@
+{
+ "anchor": "AK07-J0004",
+ "jp2_index": 4,
+ "jp2_member": "b24872489_0004.jp2",
+ "jp2_sha256": "305bd631eeb6412b8c0fc45872e667771d6df9c1867387a4be964f9edf4e9cea",
+ "reading_copy": "page_0004.jpg",
+ "reading_copy_sha256": "dedc21620eb77268d1e3857cd53c89a1173bae76b04348492945d3242e30fa95",
+ "printed_page": "-",
+ "kind": "blank",
+ "language": null,
+ "role": "blank",
+ "file": "suter",
+ "comment": "JP2 0004: the back of the flyleaf; nothing printed.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Blank."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,4 @@
+@page 295 -
+@kind scan
+% JP2 0295: the colour card of the digitisation, photographed after the book; not part of it.
+@obs The colour card of the digitisation: a chart of 24 colour patches («24ColorCard») in a holder labelled «APRIL2013», a white patch below it, a ruler in inches at the left and another along the foot, and a card marked «RIGHT» holding a printed form in Chinese and English (the fields «Name», «Post», «Unit», «No:» and «Date:» and an empty box for a photograph), on a black ground. Not part of the book; the navigation PDF of the Internet Archive has no page for this image, as for the colour card before the book (JP2 0000).

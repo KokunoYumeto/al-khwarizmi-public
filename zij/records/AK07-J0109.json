@@ -1,0 +1,702 @@
+{
+ "anchor": "AK07-J0109",
+ "jp2_index": 109,
+ "jp2_member": "b24872489_0109.jp2",
+ "jp2_sha256": "aab2b0922e1f58e5e26dc05d9640a89dd0d0cc9e78023ac68f73966b1dd9b1d3",
+ "reading_copy": "page_0109.jpg",
+ "reading_copy_sha256": "1dac668a8cb7f7b6f3a51024164684c3301cdc21d18ed86b6101d35b7bc199a3",
+ "printed_page": "77",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0109: Suter's commentary, p. 77: chapters 28-28b continued: the names of the cotangent and the tangent in al-Khwārizmī and al-Battānī; tangent and cotangent from sine and cosine; the altitude from the shadow; the first cotangent table, perhaps Maslama's; Björnbo on Abū’l-Wafāʾ (notes 1-2).",
+ "lines": [
+  {
+   "id": "AK07-J0109-L01",
+   "n": 1,
+   "kind": "indent",
+   "text": "{sp:Kh.} nennt die Cotangente {i:el-ẓill el-mustawī} = der ebene oder gerade Schatten,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kh. nennt die Cotangente el-ẓill el-mustawī = der ebene oder gerade Schatten,",
+   "italic": [
+    "el-ẓill el-mustawī"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "die Tangente {i:el-ẓill el-mankūs} (oder {i:maʿkūs}) = der verkehrte Schatten. Besser sind",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die Tangente el-ẓill el-mankūs (oder maʿkūs) = der verkehrte Schatten. Besser sind",
+   "italic": [
+    "el-ẓill el-mankūs",
+    "maʿkūs"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "die Ausdrücke, die {sp:Batt.} braucht, nämlich : {i:el-ẓill el-mabsūṭ} = der ausgebreitete,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die Ausdrücke, die Batt. braucht, nämlich : el-ẓill el-mabsūṭ = der ausgebreitete,",
+   "italic": [
+    "el-ẓill el-mabsūṭ"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "ebene Schatten, und {i:el-ẓill el-muntaṣib} oder {i:el-ḳā’im} = der aufgerichtete, senkrechte",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ebene Schatten, und el-ẓill el-muntaṣib oder el-ḳā’im = der aufgerichtete, senkrechte",
+   "italic": [
+    "el-ẓill el-muntaṣib",
+    "el-ḳā’im"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "Schatten ; sie werden auch {i:zweiter,} bezw. {i:erster} Schatten genannt.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Schatten ; sie werden auch zweiter, bezw. erster Schatten genannt.",
+   "italic": [
+    "zweiter,",
+    "erster"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L06",
+   "n": 6,
+   "kind": "indent",
+   "text": "Wie {sp:Batt.}{sup:1}), so lehrt auch {sp:Kh.} die Tangente und Cotangente aus dem Sinus",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wie Batt.1), so lehrt auch Kh. die Tangente und Cotangente aus dem Sinus",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt.",
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "und Cosinus berechnen, gebraucht also die Formeln :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "und Cosinus berechnen, gebraucht also die Formeln :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L08",
+   "n": 8,
+   "kind": "centre",
+   "text": "cot {i:α} = {fr:cos {i:α}|sin {i:α}} · 12 und tg {i:α} = {fr:sin {i:α}|cos {i:α}} · 12.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "cot α = (cos α)/(sin α) · 12 und tg α = (sin α)/(cos α) · 12.",
+   "italic": [
+    "α",
+    "α",
+    "α",
+    "α",
+    "α",
+    "α"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L09",
+   "n": 9,
+   "kind": "indent",
+   "text": "Für die Bestimmung der Sonnenhöhe {i:α} aus der Cotangente wird die Formel",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Für die Bestimmung der Sonnenhöhe α aus der Cotangente wird die Formel",
+   "italic": [
+    "α"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "angegeben :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "angegeben :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L11",
+   "n": 11,
+   "kind": "centre",
+   "text": "sin (90 — {i:α}) = {fr:cot {i:α} · 60|{rt:12{sup:2} + cot{sup:2}{i:α}}},",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sin (90 — α) = (cot α · 60)/(√(122 + cot2α)),",
+   "italic": [
+    "α",
+    "α",
+    "α"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "d. i. unsere heutige Formel : cos {i:α} = {fr:cot {i:α}|{rt:1 + cot{sup:2}{i:α}}},",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "d. i. unsere heutige Formel : cos α = (cot α)/(√(1 + cot2α)),",
+   "italic": [
+    "α",
+    "α",
+    "α"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L13",
+   "n": 13,
+   "kind": "indent",
+   "text": "{sp:Batt.} gibt auch noch die Formeln : sin {i:α} = {fr:1|{rt:1 + cot{sup:2}{i:α}}}, sin {i:α} = {fr:tg {i:α}|{rt:1 + tg{sup:2}{i:α}}},",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Batt. gibt auch noch die Formeln : sin α = (1)/(√(1 + cot2α)), sin α = (tg α)/(√(1 + tg2α)),",
+   "italic": [
+    "α",
+    "α",
+    "α",
+    "α",
+    "α"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "cos {i:α} = {fr:1|{rt:1 + tg{sup:2}{i:α}}}, welche bei {sp:Kh.} fehlen.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "cos α = (1)/(√(1 + tg2α)), welche bei Kh. fehlen.",
+   "italic": [
+    "α",
+    "α"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L15",
+   "n": 15,
+   "kind": "indent",
+   "text": "Am Schlusse verweist {sp:Kh.}, wie auch {sp:Batt.} tut, auf die Cotangententafel, aus",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Am Schlusse verweist Kh., wie auch Batt. tut, auf die Cotangententafel, aus",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh.",
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "der man direkt aus der Höhe den Schatten und umgekehrt bestimmen könne.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der man direkt aus der Höhe den Schatten und umgekehrt bestimmen könne.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L17",
+   "n": 17,
+   "kind": "indent",
+   "text": "Wir finden also die erste Cotangententafel bei {sp:Kh.}, und nicht erst bei {sp:Batt.},",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wir finden also die erste Cotangententafel bei Kh., und nicht erst bei Batt.,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh.",
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "bezw. {sp:Ḥabash}. Doch stehen wir entgegen {sp:Björnbo}{sup:2}) davon ab, hieraus weitere",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bezw. Ḥabash. Doch stehen wir entgegen Björnbo2) davon ab, hieraus weitere",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ḥabash",
+    "Björnbo"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "Schlüsse zu ziehen ; denn es ist keineswegs unmöglich, ja sogar nicht unwahr-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Schlüsse zu ziehen ; denn es ist keineswegs unmöglich, ja sogar nicht unwahr-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "scheinlich, dass diese Cotangententafel sich nicht im ursprünglichen Werke {sp:Kh.}’s",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "scheinlich, dass diese Cotangententafel sich nicht im ursprünglichen Werke Kh.’s",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "befunden habe, sondern erst von {sp:Maslama} in seine Bearbeitung aufgenommen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "befunden habe, sondern erst von Maslama in seine Bearbeitung aufgenommen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Maslama"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "worden sei, der ja auch einen Auszug aus den Tafeln {sp:Batt.}’s verfasst hat ; denn die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "worden sei, der ja auch einen Auszug aus den Tafeln Batt.’s verfasst hat ; denn die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "Regeln des Textes sind sehr ähnlich denjenigen {sp:Batt.}’s, nur etwas kürzer gefasst. —",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Regeln des Textes sind sehr ähnlich denjenigen Batt.’s, nur etwas kürzer gefasst. —",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "Was die Zahlenwerte anbetrifft, die wir in die Tafel aufgenommen haben, so gilt hier",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Was die Zahlenwerte anbetrifft, die wir in die Tafel aufgenommen haben, so gilt hier",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "dasselbe, was wir oben (p. 69) bei Besprechung der Sinustafel gesagt haben.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dasselbe, was wir oben (p. 69) bei Besprechung der Sinustafel gesagt haben.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L26",
+   "n": 26,
+   "kind": "indent",
+   "text": "Wir kommen hier noch auf einen Ausspruch {sp:Björnbos} in der zitierten Schrift",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wir kommen hier noch auf einen Ausspruch Björnbos in der zitierten Schrift",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Björnbos"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "zu sprechen, er sagt p. 17 : „{sp:Abū’l-Wefā} endlich tat den letzten und grössten",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zu sprechen, er sagt p. 17 : „Abū’l-Wefā endlich tat den letzten und grössten",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Abū’l-Wefā"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "Schritt. Er warf beides, die griechische Sechzig-Teilung und die indische Zwölf-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Schritt. Er warf beides, die griechische Sechzig-Teilung und die indische Zwölf-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "Teilung über Bord, setzte den Radius = 1, machte, ohne die Namen zu ändern, den",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Teilung über Bord, setzte den Radius = 1, machte, ohne die Namen zu ändern, den",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "ebenen Schatten zu dem, was wir verstehen unter Cotangens, den aufrechten Schatten",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ebenen Schatten zu dem, was wir verstehen unter Cotangens, den aufrechten Schatten",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "zu dem, was wir unter Tangens verstehen, und schloss damit die Entwicklungs-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zu dem, was wir unter Tangens verstehen, und schloss damit die Entwicklungs-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "geschichte der beiden Funktionen ab.“ Dies ist unserer Ansicht nach etwas zu weit",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "geschichte der beiden Funktionen ab.“ Dies ist unserer Ansicht nach etwas zu weit",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "gegangen ; wenn auch {sp:Abū’l-Wefā} an einer Stelle seines Almagestes sagt : „hieraus",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "gegangen ; wenn auch Abū’l-Wefā an einer Stelle seines Almagestes sagt : „hieraus",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Abū’l-Wefā"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "ist klar, dass, wenn man den Radius = 1 annimmt, das Verhältnis des Sinus zum",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ist klar, dass, wenn man den Radius = 1 annimmt, das Verhältnis des Sinus zum",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "Cosinus gleich der Tangente, das Verhältnis des Cosinus zum Sinus gleich der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Cosinus gleich der Tangente, das Verhältnis des Cosinus zum Sinus gleich der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Ed. {sp:Nallino}, I, 22—23. u. 180—182.",
+   "margin": null,
+   "plain": "1) Ed. Nallino, I, 22—23. u. 180—182.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0109-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "{sup:2}) {i:Al-Chwarizmi’s Trigonometriske Tavler}, p. 16–17.",
+   "margin": null,
+   "plain": "2) Al-Chwarizmi’s Trigonometriske Tavler, p. 16–17.",
+   "italic": [
+    "Al-Chwarizmi’s Trigonometriske Tavler"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «77» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 continues chapters 28-28b from p. 76 (JP2 0108, L29-L33).",
+  "L01-L05: the transliteration as printed: «el-ẓill el-mustawī», «el-ẓill el-mankūs», «maʿkūs», «el-ẓill el-mabsūṭ», «el-ẓill el-muntaṣib», «el-ḳā’im», in italics, with the dots under ẓ, ṭ, ṣ and ḳ, the macrons, the ʿayn raised and the apostrophe of the hamza; al-ẓill al-mustawī, al-ẓill al-mankūs, al-ẓill al-mabsūṭ, al-ẓill al-muntaṣib, al-qāʾim.",
+  "L08, L11-L14: the formulas, those of L08 and L11 displayed and centred, those of L12-L14 within the lines; their fractions built up, written {fr:NUMERATOR|DENOMINATOR}, and the square roots printed with a V-shaped radical and a bar over «12² + cot²α», «1 + cot²α» and «1 + tg²α», written {rt:…}; α italic, sin, cos, tg, cot upright, «·» the raised dot of multiplication; L11 «sin (90 — α)», the minus a long dash with a space on either side. L12: a wide gap (96 px) after the colon of «Formel :».",
+  "L08-L14. Checked: with a gnomon of 12, the shadow of the altitude α is 12 cos α : sin α and the upright shadow 12 sin α : cos α (L08); the shadow s = 12 cot α gives cos α = s : √(12² + s²), on a radius of 60 sin (90° − α) = 60 s : √(144 + s²) (L11), and with the cotangent of radius 1 cos α = cot α : √(1 + cot²α) (L12); likewise sin α = 1 : √(1 + cot²α) = tg α : √(1 + tg²α) and cos α = 1 : √(1 + tg²α) (L13-L14), for 0° < α < 90°.",
+  "L25: «(p. 69)», the remark on the readings of the sine table (p. 69, JP2 0101, L35-L39). L27-L35: Björnbo's sentence in German quotation marks, «Abū’l-Wefā» spaced, with the macrons and the apostrophe; the quotation of Abū’l-Wafāʾ that begins in L33 continues on p. 78. L33: «Almagestes» upright.",
+  "The dashes: L23 «gefasst. —», the long dash (44 px) after a word space; N01 «22—23» and «180—182», the long dash of the small type of the notes (33 and 30 px), printed faint; N02 «16–17», a dash of 27 px with a gap of 9 px on either side, transcribed as the short dash.",
+  "Spaced type, marked {sp:}: «Kh.», «Batt.», «Ḥabash», «Björnbo», «Björnbos», «Maslama», «Abū’l-Wefā», «Nallino»; italics: the Arabic words of L01-L04, «zweiter,», «erster», the letters of the formulas, the title of N02.",
+  "The colons and semicolons stand after the thin space of the edition (11-14 px measured; «hat ;» L22, 12 px)."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK07-CN060",
+   "class": "stray point",
+   "line": "N01",
+   "printed": "22—23. u. 180—182.",
+   "proposed": "22—23 u. 180—182.",
+   "evidence": "the two page ranges are joined by «u.», as in «27 u. 187—189» (p. 74, JP2 0106, N02) and «67 u. 243» (p. 38, JP2 0070, N01); a full stop is printed after 23",
+   "confidence": "high",
+   "impact": "none"
+  }
+ ]
+}

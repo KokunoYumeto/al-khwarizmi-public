@@ -1,0 +1,777 @@
+{
+ "anchor": "AK07-J0067",
+ "jp2_index": 67,
+ "jp2_member": "b24872489_0067.jp2",
+ "jp2_sha256": "04a481802acb7faebafccbd67b6e985b77166853530f2c6c78f066b6d2019e6b",
+ "reading_copy": "page_0067.jpg",
+ "reading_copy_sha256": "cd4cae4d5ec72cb94197a327bcf0fab1539e20342269df89c6dad69a51742dbd",
+ "printed_page": "35",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0067: Suter's commentary, p. 35: chapter 2 continued: the intercalation in December; Table 1 of the eras and the bracketed addition of the text (pp. 3-4); the intervals between the eras; the Spanish era (note 1).",
+ "lines": [
+  {
+   "id": "AK07-J0067-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "keit hatte, im Osten aber unbekannt war ; es sagen ja auch die Verfasser der {i:Alphon-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "keit hatte, im Osten aber unbekannt war ; es sagen ja auch die Verfasser der Alphon-",
+   "italic": [
+    "Alphon-"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "{i:sinischen} Tafeln (nach {sp:Nallino}) : {i:Dissentiunt de mense cui dies bissextus addere debeant ;}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sinischen Tafeln (nach Nallino) : Dissentiunt de mense cui dies bissextus addere debeant ;",
+   "italic": [
+    "sinischen",
+    "Dissentiunt de mense cui dies bissextus addere debeant ;"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "{i:alii enim mensi Decembri eum addunt, alii Februario.} Dasselbe sagen auch spätere",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "alii enim mensi Decembri eum addunt, alii Februario. Dasselbe sagen auch spätere",
+   "italic": [
+    "alii enim mensi Decembri eum addunt, alii Februario."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "westarabische Autoren.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "westarabische Autoren.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L05",
+   "n": 5,
+   "kind": "indent",
+   "text": "Im letzten Alinea dieses Kapitels ist auf eine Tafel verwiesen, die die Zeiten",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Im letzten Alinea dieses Kapitels ist auf eine Tafel verwiesen, die die Zeiten",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "angibt, die seit dem Eintreten wichtiger Ereignisse, wie z. B. der Sündflut, oder der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "angibt, die seit dem Eintreten wichtiger Ereignisse, wie z. B. der Sündflut, oder der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "Thronbesteigung (bezw. des Todes) hervorragender Herrscher bis zu einem gewissen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Thronbesteigung (bezw. des Todes) hervorragender Herrscher bis zu einem gewissen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "Zeitpunkt verflossen sind ; diese Tafel steht in den Manuskripten nicht an erster Stelle,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Zeitpunkt verflossen sind ; diese Tafel steht in den Manuskripten nicht an erster Stelle,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "weil sie aber im Texte zuerst erwähnt wird, haben wir sie auch als Tafel 1 gesetzt.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "weil sie aber im Texte zuerst erwähnt wird, haben wir sie auch als Tafel 1 gesetzt.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "Diese Tafel wird auch in dem in eckige Klammern eingeschlossenen Zusatz (p. 3—4)",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Diese Tafel wird auch in dem in eckige Klammern eingeschlossenen Zusatz (p. 3—4)",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "erwähnt, der nur in den Mss. CMN vorkommt. Das dieser Zusatz im arabischen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "erwähnt, der nur in den Mss. CMN vorkommt. Das dieser Zusatz im arabischen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "Ms. {sp:Kh.}’s nicht gestanden, auch von {sp:Maslama} nicht hinzugefügt worden sein kann,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Ms. Kh.’s nicht gestanden, auch von Maslama nicht hinzugefügt worden sein kann,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh.",
+    "Maslama"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "beweisen gewisse Sätze desselben, wie z. B. : {i:nos vero latinorum studemus utilitati, ideo}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "beweisen gewisse Sätze desselben, wie z. B. : nos vero latinorum studemus utilitati, ideo",
+   "italic": [
+    "nos vero latinorum studemus utilitati, ideo"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "{i:et in primis tabulam suppositam praenotavimus, per quam ab eo quidem anno quo hic}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "et in primis tabulam suppositam praenotavimus, per quam ab eo quidem anno quo hic",
+   "italic": [
+    "et in primis tabulam suppositam praenotavimus, per quam ab eo quidem anno quo hic"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "{i:liber in nostrum sermonem translatus est} . . . . Dieser Zusatz ist also als Kommentar",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "liber in nostrum sermonem translatus est . . . . Dieser Zusatz ist also als Kommentar",
+   "italic": [
+    "liber in nostrum sermonem translatus est"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "oder Scholium des Übersetzers oder eines Abschreibers zu betrachten, und weist uns",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "oder Scholium des Übersetzers oder eines Abschreibers zu betrachten, und weist uns",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "vielleicht auch darauf hin, dass die Mss. CMN von einer andern Übersetzung her-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "vielleicht auch darauf hin, dass die Mss. CMN von einer andern Übersetzung her-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "stammen könnten als O (vergl. meine Einleitung).",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "stammen könnten als O (vergl. meine Einleitung).",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L19",
+   "n": 19,
+   "kind": "indent",
+   "text": "In diesem Zusatz ist die Zeit, die von der Sündflut bis auf {i:Dhū’l-Ḳarnain},",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "In diesem Zusatz ist die Zeit, die von der Sündflut bis auf Dhū’l-Ḳarnain,",
+   "italic": [
+    "Dhū’l-Ḳarnain"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "d. h. bis zum Beginn der {i:Seleucidischen Aera} verflossen war, zu IIDCCXCIII Jahren,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "d. h. bis zum Beginn der Seleucidischen Aera verflossen war, zu IIDCCXCIII Jahren,",
+   "italic": [
+    "Seleucidischen Aera"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "II Monaten, V Tagen angegeben ; das II vor D sollte geschrieben sein {ov:II} und bedeutet",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "II Monaten, V Tagen angegeben ; das II vor D sollte geschrieben sein II und bedeutet",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "dann MM, die Zeit beträgt also 2793 J. 2 M. 5 T. — Die Tafel 1 ist sehr ungeordnet",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dann MM, die Zeit beträgt also 2793 J. 2 M. 5 T. — Die Tafel 1 ist sehr ungeordnet",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "in Bezug auf die verschiedenen Aeren, ich gebe im folgenden die wichtigsten in",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "in Bezug auf die verschiedenen Aeren, ich gebe im folgenden die wichtigsten in",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "direkter Reihenfolge an :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "direkter Reihenfolge an :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L25",
+   "n": 25,
+   "kind": "table",
+   "text": "Von {sp:Adam} bis zum {i:Diluvium} | | | 2280 Jahre | | |",
+   "cells": [
+    "Von {sp:Adam} bis zum {i:Diluvium}",
+    "",
+    "",
+    "2280 Jahre",
+    "",
+    "",
+    ""
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Von Adam bis zum Diluvium | | | 2280 Jahre | | |",
+   "italic": [
+    "Diluvium"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Adam"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L26",
+   "n": 26,
+   "kind": "table",
+   "text": "Vom {i:Diluvium} bis auf {sp:Nabukodonossor}{sup:1}) | | | 2356 „ | 7 Mon. | 23 Tg. |",
+   "cells": [
+    "Vom {i:Diluvium} bis auf {sp:Nabukodonossor}{sup:1})",
+    "",
+    "",
+    "2356 „",
+    "7 Mon.",
+    "23 Tg.",
+    ""
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Vom Diluvium bis auf Nabukodonossor1) | | | 2356 „ | 7 Mon. | 23 Tg. |",
+   "italic": [
+    "Diluvium"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Nabukodonossor"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L27",
+   "n": 27,
+   "kind": "table",
+   "text": "Von {sp:Nabukodonossor} bis auf {sp:Alexander} | | | 436 „ | 6 „ | 12{sup:1}/{sub:2} „ | (?)",
+   "cells": [
+    "Von {sp:Nabukodonossor} bis auf {sp:Alexander}",
+    "",
+    "",
+    "436 „",
+    "6 „",
+    "12{sup:1}/{sub:2} „",
+    "(?)"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Von Nabukodonossor bis auf Alexander | | | 436 „ | 6 „ | 121/2 „ | (?)",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Nabukodonossor",
+    "Alexander"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L28",
+   "n": 28,
+   "kind": "table",
+   "text": "Von {sp:Alexander} bis auf {sp:Christus} | | | 311 „ | 3 „ | |",
+   "cells": [
+    "Von {sp:Alexander} bis auf {sp:Christus}",
+    "",
+    "",
+    "311 „",
+    "3 „",
+    "",
+    ""
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Von Alexander bis auf Christus | | | 311 „ | 3 „ | |",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Alexander",
+    "Christus"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L29",
+   "n": 29,
+   "kind": "table",
+   "text": "Von {sp:Christus} bis auf die {i:Hidjra} | | | 621 „ | 6 „ | 15 „ |",
+   "cells": [
+    "Von {sp:Christus} bis auf die {i:Hidjra}",
+    "",
+    "",
+    "621 „",
+    "6 „",
+    "15 „",
+    ""
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Von Christus bis auf die Hidjra | | | 621 „ | 6 „ | 15 „ |",
+   "italic": [
+    "Hidjra"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Christus"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L30",
+   "n": 30,
+   "kind": "table",
+   "text": "Von der {i:Hidjra} bis auf {sp:Yezdegird} | | | 9 „ | 11 „ | 4 „ |",
+   "cells": [
+    "Von der {i:Hidjra} bis auf {sp:Yezdegird}",
+    "",
+    "",
+    "9 „",
+    "11 „",
+    "4 „",
+    ""
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Von der Hidjra bis auf Yezdegird | | | 9 „ | 11 „ | 4 „ |",
+   "italic": [
+    "Hidjra"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Yezdegird"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L31",
+   "n": 31,
+   "kind": "indent",
+   "text": "In dieser Tafel 1 ist auch zweimal eine {i:Aera azofar} genannt ; es ist dies eine",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "In dieser Tafel 1 ist auch zweimal eine Aera azofar genannt ; es ist dies eine",
+   "italic": [
+    "Aera azofar"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "in Spanien vor und nach der Zeit {i:Maslamas} unter der christlichen Bevölkerung",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "in Spanien vor und nach der Zeit Maslamas unter der christlichen Bevölkerung",
+   "italic": [
+    "Maslamas"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "gebräuchliche Aera, die genau 38 Jahre vor unserer christlichen Zeitrechnung ihren",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "gebräuchliche Aera, die genau 38 Jahre vor unserer christlichen Zeitrechnung ihren",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "Anfang hatte, wie es auch unsere Tafel 1 in der fünft- und viertletzten Zeile richtig",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Anfang hatte, wie es auch unsere Tafel 1 in der fünft- und viertletzten Zeile richtig",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "angibt ; nach der sechst- und siebtletzten Zeile aber wäre der Unterschied beider",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "angibt ; nach der sechst- und siebtletzten Zeile aber wäre der Unterschied beider",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L36",
+   "n": 36,
+   "kind": "text",
+   "text": "Aeren 38 Jahre und 2 Tage, hier wird wohl ein Fehler vorliegen. — Diese spanische",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Aeren 38 Jahre und 2 Tage, hier wird wohl ein Fehler vorliegen. — Diese spanische",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "Aera hiess bei den Arabern {i:ta’rīkh al-ṣufr} (gesprochen {i:aṣ-ṣufr}) ; ob dies mit {i:ṣifr}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Aera hiess bei den Arabern ta’rīkh al-ṣufr (gesprochen aṣ-ṣufr) ; ob dies mit ṣifr",
+   "italic": [
+    "ta’rīkh al-ṣufr",
+    "aṣ-ṣufr",
+    "ṣifr"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Dies ist die von {sp:Ptol.} gebrauchte {i:Aera Nabonassars} ({sp:Batt.} u. a. nennen ihn {i:Bukhtanassar}",
+   "margin": null,
+   "plain": "1) Dies ist die von Ptol. gebrauchte Aera Nabonassars (Batt. u. a. nennen ihn Bukhtanassar",
+   "italic": [
+    "Aera Nabonassars",
+    "Bukhtanassar"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Ptol.",
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "{i:primus}), am 26. Februar 747 v. Chr. beginnend ; dies stimmt allerdings nicht ganz mit den obigen",
+   "margin": null,
+   "plain": "primus), am 26. Februar 747 v. Chr. beginnend ; dies stimmt allerdings nicht ganz mit den obigen",
+   "italic": [
+    "primus"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0067-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "Angaben.",
+   "margin": null,
+   "plain": "Angaben.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «35» stands at the head of the page, centred, with a rule below it. At the foot, the signature «5*» on the right. L01: «keit» completes «Giltig-» at the end of p. 34 (JP2 0066, L40).",
+  "L25-L30: the intervals between the eras, set as a table of six rows: the names are joined to the figures by dotted leaders, which are not transcribed, and the units «Jahre», «Mon.» and «Tg.» are repeated by ditto marks, „; L27 ends with Suter's «(?)». Each printed row is one line here, the cells separated by our «|»; the empty cells after the first give its words room and are not printed.",
+  "L19-L22: «IIDCCXCIII» is printed without a bar; in L21 the «II» that Suter says should be written is printed with a bar over it, as {ov:II}. Checked: MMDCCXCIII is 2793. The table agrees with this figure: 2356 years 7 months 23 days and 436 years 6 months 12½ days, with months of thirty days, make 2793 years 2 months 5½ days, the time from the Deluge to the era of Alexander that the addition gives.",
+  "L28-L30. Checked: from the era of the Seleucids, 1 October 312 B.C., to 1 January of the first year A.D. are 311 Julian years and 3 months (113685 days); from 1 January A.D. 1, 621 years 6 months 15 days reach 16 July 622, the civil epoch of the Hijra; from the astronomical epoch, 15 July 622, to 16 June 632 are 3624 days, which are 9 years of 365 days, 11 months of 30 days and 9 days, al-Battānī's 9 years 11 months 9 days, where the table has 4 days (see p. XV, JP2 0019).",
+  "Note 1: the era of Nabonassar. Checked: from 26 February 747 B.C. to 1 October 312 B.C. are 159101 days, 435 Egyptian years of 365 days, 10 months of 30 days and 26 days, or 435 Julian years 7 months 5 days; neither agrees with the 436 years 6 months 12½ days of L27, as the note says.",
+  "L31-L37: the Spanish era («Aera azofar», «ta’rīkh al-ṣufr»), 38 years before the Christian era; the four lines of Table 1 that Suter cites are to be compared with the table. L32: «Maslamas» in italics, where the name is spaced elsewhere (L12). L36: a speck on the base line after «2»; L30: a speck above the line before «der»; L03: a speck above the line after «Februario.»; not transcribed. L29: a thin oblique stroke, lighter than the print, between the ditto mark after «6» and «15»; not transcribed.",
+  "Spaced type, marked {sp:}: «Nallino», «Kh.», «Maslama», the names of the table, «Ptol.», «Batt.»; italics: the Latin quotations, the Arabic words, «Alphonsinischen», «Seleucidischen Aera», «Diluvium», «Hidjra», «Aera azofar», «Aera Nabonassars», «Bukhtanassar primus». L22: «2793 J. 2 M. 5 T.», years, months, days.",
+  "The colons and semicolons stand after the thin space of the edition (11-15 px measured; «debeant ;», in italics, 12 px)."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK07-CN049",
+   "class": "misprint",
+   "line": "L11",
+   "printed": "Das dieser Zusatz",
+   "proposed": "Dass dieser Zusatz",
+   "evidence": "the clause «dieser Zusatz … nicht gestanden, auch von Maslama nicht hinzugefügt worden sein kann» is the subject of «beweisen gewisse Sätze desselben» (L13) and needs the conjunction «dass», as in «dass die Mss. CMN» (L17); one s is printed",
+   "confidence": "high",
+   "impact": "none"
+  }
+ ]
+}

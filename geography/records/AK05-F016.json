@@ -1,0 +1,401 @@
+{
+ "anchor": "AK05-F016",
+ "frame": 16,
+ "frame_file": "page_016.jpg",
+ "frame_sha256": "5623c897f2272153d175a26805c511bac3aa7abf0cfea7a67f4e68c361794243",
+ "printed_page": "١٠",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 016, printed p. 10: the cities of the second clime continued, entries 98-114: Jurash of Yemen, Jidda on the sea, Māla, Mecca, al-Ṭāʾif, the city of Marwā, al-Yamāma, Ghanābārā, Qanb on the sea, a city on the sea, a city printed امق, Hajar, ʿUmān on the sea, Awmūra between the two seas, al-Nayrūn on the sea, al-Manṣūra of Sind and a city on the sea; the folio of the manuscript, «(fol. 4ᵃ)», in the margin. Three lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F016-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٩٨) | [٧١] | جرش{n:a} من اليمن | سه | {z} | يز | {z}",
+   "margin": null,
+   "cells": [
+    "(٩٨)",
+    "[٧١]",
+    "جرش{n:a} من اليمن",
+    "سه",
+    "{z}",
+    "يز",
+    "{z}"
+   ],
+   "plain": "(٩٨) | [٧١] | جرش من اليمن | سه | ō | يز | ō",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٩٩) | [٧٢] | جدّة على البحر | سه | ل | كا | مه",
+   "margin": null,
+   "cells": [
+    "(٩٩)",
+    "[٧٢]",
+    "جدّة على البحر",
+    "سه",
+    "ل",
+    "كا",
+    "مه"
+   ],
+   "plain": "(٩٩) | [٧٢] | جدّة على البحر | سه | ل | كا | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(١٠٠) | [٧٣] | ماله{n:b} | سو | {z} | ٮط | {z}",
+   "margin": null,
+   "cells": [
+    "(١٠٠)",
+    "[٧٣]",
+    "ماله{n:b}",
+    "سو",
+    "{z}",
+    "ٮط",
+    "{z}"
+   ],
+   "plain": "(١٠٠) | [٧٣] | ماله | سو | ō | ٮط | ō",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(١٠١) | [٧٤] | مكّة | سر | {z} | كا | {z}",
+   "margin": null,
+   "cells": [
+    "(١٠١)",
+    "[٧٤]",
+    "مكّة",
+    "سر",
+    "{z}",
+    "كا",
+    "{z}"
+   ],
+   "plain": "(١٠١) | [٧٤] | مكّة | سر | ō | كا | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(١٠٢) | [٧٥] | الطائف | سح | ك | كا | ك",
+   "margin": null,
+   "cells": [
+    "(١٠٢)",
+    "[٧٥]",
+    "الطائف",
+    "سح",
+    "ك",
+    "كا",
+    "ك"
+   ],
+   "plain": "(١٠٢) | [٧٥] | الطائف | سح | ك | كا | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(١٠٣) | [٧٦] | مدينة مروا | سط | ى | ٮو | مه",
+   "margin": null,
+   "cells": [
+    "(١٠٣)",
+    "[٧٦]",
+    "مدينة مروا",
+    "سط",
+    "ى",
+    "ٮو",
+    "مه"
+   ],
+   "plain": "(١٠٣) | [٧٦] | مدينة مروا | سط | ى | ٮو | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(١٠٤) | [٧٧] | اليمامة | عا | مه | كا | ل",
+   "margin": null,
+   "cells": [
+    "(١٠٤)",
+    "[٧٧]",
+    "اليمامة",
+    "عا",
+    "مه",
+    "كا",
+    "ل"
+   ],
+   "plain": "(١٠٤) | [٧٧] | اليمامة | عا | مه | كا | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(١٠٥) | [٧٨] | غنابارا | عد | م | ٮط | {z}",
+   "margin": null,
+   "cells": [
+    "(١٠٥)",
+    "[٧٨]",
+    "غنابارا",
+    "عد",
+    "م",
+    "ٮط",
+    "{z}"
+   ],
+   "plain": "(١٠٥) | [٧٨] | غنابارا | عد | م | ٮط | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(١٠٦) | [٨٦] | مدينة قنب على البحر | عو | ل | كٮ | ك",
+   "margin": null,
+   "cells": [
+    "(١٠٦)",
+    "[٨٦]",
+    "مدينة قنب على البحر",
+    "عو",
+    "ل",
+    "كٮ",
+    "ك"
+   ],
+   "plain": "(١٠٦) | [٨٦] | مدينة قنب على البحر | عو | ل | كٮ | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(١٠٧) | [٨٧] | مدينة على البحر | عح | م | كٮ | ل",
+   "margin": null,
+   "cells": [
+    "(١٠٧)",
+    "[٨٧]",
+    "مدينة على البحر",
+    "عح",
+    "م",
+    "كٮ",
+    "ل"
+   ],
+   "plain": "(١٠٧) | [٨٧] | مدينة على البحر | عح | م | كٮ | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(١٠٨) | [٨٨] | مدينة امق | عط | {z} | ٮح | {z}",
+   "margin": null,
+   "cells": [
+    "(١٠٨)",
+    "[٨٨]",
+    "مدينة امق",
+    "عط",
+    "{z}",
+    "ٮح",
+    "{z}"
+   ],
+   "plain": "(١٠٨) | [٨٨] | مدينة امق | عط | ō | ٮح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(١٠٩) | | هجر{n:c} | عح | م | كٮ | ل",
+   "margin": null,
+   "cells": [
+    "(١٠٩)",
+    "",
+    "هجر{n:c}",
+    "عح",
+    "م",
+    "كٮ",
+    "ل"
+   ],
+   "plain": "(١٠٩) | | هجر | عح | م | كٮ | ل",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(١١٠) | [٨٩] | عمان على البحر | ڡد | ل | ٮط | مه",
+   "margin": "(fol. 4ᵃ)",
+   "cells": [
+    "(١١٠)",
+    "[٨٩]",
+    "عمان على البحر",
+    "ڡد",
+    "ل",
+    "ٮط",
+    "مه"
+   ],
+   "plain": "(١١٠) | [٨٩] | عمان على البحر | ڡد | ل | ٮط | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(١١١) | [٩٠] | اوموره{n:d} واغلة* بين البحرين | ص | ل | كٮ | {z}",
+   "margin": null,
+   "cells": [
+    "(١١١)",
+    "[٩٠]",
+    "اوموره{n:d} واغلة* بين البحرين",
+    "ص",
+    "ل",
+    "كٮ",
+    "{z}"
+   ],
+   "plain": "(١١١) | [٩٠] | اوموره واغلة* بين البحرين | ص | ل | كٮ | ō",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(١١٢) | [٩١] | النيرون{n:e} على البحر | صٮ | ك | كح | ل",
+   "margin": null,
+   "cells": [
+    "(١١٢)",
+    "[٩١]",
+    "النيرون{n:e} على البحر",
+    "صٮ",
+    "ك",
+    "كح",
+    "ل"
+   ],
+   "plain": "(١١٢) | [٩١] | النيرون على البحر | صٮ | ك | كح | ل",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(١١٣) | [٩٢] | المنصورة من السند | صح | {z} | كٮ | {z}",
+   "margin": null,
+   "cells": [
+    "(١١٣)",
+    "[٩٢]",
+    "المنصورة من السند",
+    "صح",
+    "{z}",
+    "كٮ",
+    "{z}"
+   ],
+   "plain": "(١١٣) | [٩٢] | المنصورة من السند | صح | ō | كٮ | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F016-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(١١٤) | [٩٣] | مدينة على البحر | صر | {z} | كا | {z}",
+   "margin": null,
+   "cells": [
+    "(١١٤)",
+    "[٩٣]",
+    "مدينة على البحر",
+    "صر",
+    "{z}",
+    "كا",
+    "{z}"
+   ],
+   "plain": "(١١٤) | [٩٣] | مدينة على البحر | صر | ō | كا | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: the manuscript reads حرش, without the dot of the ج, and so does entry (1691).",
+  "L03: at entry (1751) the name ماله is written ٮاله, with a tooth without dots for the م.",
+  "L12: the editor compares entry (165).",
+  "L14: at entries (645) and (646) the name اوموره is written ارموره.",
+  "L15: the manuscript reads الٮٮروں for النيرون, without any dots, and so does entry (1757); at entry (1210) the name is written الٮٮرون, with the variant reading الٮٮرزن."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 015 without a heading: the cities of the second clime, entries 98-114. Entry 109 has no number of Suhrāb. The folio of the Strasbourg manuscript, «(fol. 4ᵃ)», is printed in Latin type in the right margin beside entry 110 (L13), as on frame 014.",
+  "L11: the second word of the name is printed «امق»: an alif, then an initial م joined to a final ق with its two dots, without a tooth between them; transcribed as printed. A short horizontal stroke crosses the left parenthesis of the running number «(١٠٨)», a flaw of the print.",
+  "L14: an asterisk stands after واغلة, «اوموره واغلة* بين البحرين», raised like the editor's note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (introduction, frame 184, p. XXIX); transcribed as printed. The two dots of the ة of واغلة are printed as one mark touching the top of the letter.",
+  "Letters printed without their dots in the numerals, transcribed so: the tooth without its dots, ٮط (L03, L08, L13), ٮو (L06) and ٮح (L11) in the degrees of the latitude; the loop of ف or ق without dots, ڡد (L13, the degrees of the longitude); the final ب without its dot, صٮ (L15, the degrees of the longitude). With their dots: يز (L01), the ي with its two dots and the ز with its dot, 17.",
+  "L04, L17: the degrees of the longitude, سر and صر: in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed. In L01 the latitude is printed with a dotted ز, يز.",
+  "L06: below the tooth of the degrees of the latitude, ٮو, stands a small dark speck, 5 px across, where the dots of the font are 10-11 px; it is not transcribed as a dot.",
+  "The degrees of the latitude of L09, L10, L12, L14 and L16 are printed «كٮ», a long oblique stroke over a flat bowl, 78 to 89 px wide, without the small inner stroke of the isolated ك: the ك joined to the final ب without its dot, 22 (frame 014, L11). The isolated ك, 20, of the minutes (L05, the minutes of the longitude and of the latitude; L09, the minutes of the latitude; L15, the minutes of the longitude) has the inner stroke. Read so, the latitudes are 22° 20′ (L09), 22° 30′ (L10, L12) and 22° 0′ (L14, L16).",
+  "L02: «جدّة», with a shadda over the د. L04: «مكّة», with a shadda over the ك. L05: «الطائف», with a hamza over the tooth before the ف.",
+  "L08: a small dot stands below the ٨ of the number of Suhrāb, «[٧٨]», a speck of the print; it is not transcribed. L17: in «البحر» the ل is printed apart from the following ب, and a small speck stands below the alif.",
+  "The page number «— ١٠ —» stands at the foot, centred."
+ ],
+ "copy_matter": [
+  "A faint grey curl beside the zero sign of the minutes of the latitude of entry 114 (L17)."
+ ],
+ "critical_notes": []
+}

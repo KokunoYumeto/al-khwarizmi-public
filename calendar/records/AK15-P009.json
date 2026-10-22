@@ -1,0 +1,187 @@
+{
+ "anchor": "AK15-P009",
+ "pdf_page": 9,
+ "printed_page": "٨",
+ "kind": "text",
+ "role": "AK_TEXT (the printed witness of al-Khwarizmi's treatise)",
+ "image_raw_stream_sha256": "c2bbc2f1d1b7d91ea2ae43037678521bfc0b6128cbd40d23614a9f30efb2ab88",
+ "image_decoded_pixels_sha256": "07e8bc8e8f825ba06502cc0bde5b5f5c08a1b7a3353c611a49c375fac26d8a9f",
+ "comment": "PDF 9, printed p. 8: the end of the positions at the building of the Temple and the positions at the beginning of the years of Dhū l-Qarnayn, in abjad letters (de Blois's section 7); the procedure for the mean position of the sun and the moon from the completed Seleucid years, the small base and the base of days, by signs, degrees, minutes and further sexagesimal places (section 8); the beginning of the statement of the base of days.",
+ "lines": [
+  {
+   "id": "AK15-P009-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "ج ـ رمت لد ـ المريخ ـ يخ انه كور ـ الزهرة ـ رنب يامر",
+   "plain": "ج ـ رمت لد ـ المريخ ـ يخ انه كور ـ الزهرة ـ رنب يامر",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "عطارد ـ الج يط اط ـ الرأس ـ د كو لد نا ـ وسط الشمس لاول",
+   "plain": "عطارد ـ الج يط اط ـ الرأس ـ د كو لد نا ـ وسط الشمس لاول",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "سنى ذى القرنين و ـ يح لا لح ـ القمر ـ د و مه مط ـ اوج القمر",
+   "plain": "سنى ذى القرنين و ـ يح لا لح ـ القمر ـ د و مه مط ـ اوج القمر",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "ر كو ير يط ـ زحل ـ ح ح ـ كد و ـ المشترى ـ ج يب نب",
+   "plain": "ر كو ير يط ـ زحل ـ ح ح ـ كد و ـ المشترى ـ ج يب نب",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "لح لج ـ المريخ ـ ح يب يد مو ـ الزهرة ـ ب ا ـ كب ج",
+   "plain": "لح لج ـ المريخ ـ ح يب يد مو ـ الزهرة ـ ب ا ـ كب ج",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "عطارد ـ ر ى الح ـ الرأس ـ د كج ما كز •",
+   "plain": "عطارد ـ ر ى الح ـ الرأس ـ د كج ما كز •",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L07",
+   "n": 7,
+   "kind": "indent",
+   "text": "فمن اراد ان يعرف موضع الشمس للوسط ووسط القمر",
+   "plain": "فمن اراد ان يعرف موضع الشمس للوسط ووسط القمر",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "فليأخد سنى ذى القرنين التامة ويزيد عليها تسعة ابدا ثم يلقى ما",
+   "plain": "فليأخد سنى ذى القرنين التامة ويزيد عليها تسعة ابدا ثم يلقى ما",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "اجتمع من تسعة عشر سنة فما بقى دون تسع عشرة سنة فهى سنون",
+   "plain": "اجتمع من تسعة عشر سنة فما بقى دون تسع عشرة سنة فهى سنون",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "قمرية من عمل المحزور فيجعله اياما قمرية فما بلغ فهو الاصل الصغير",
+   "plain": "قمرية من عمل المحزور فيجعله اياما قمرية فما بلغ فهو الاصل الصغير",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "فاضربه فى دور ايهما اردت معرفة وسطه فما بلغ فاقسمه على",
+   "plain": "فاضربه فى دور ايهما اردت معرفة وسطه فما بلغ فاقسمه على",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "اصل الايام فما خرج فسنون شمسية فالقها ثم اضرب ما بقى فى",
+   "plain": "اصل الايام فما خرج فسنون شمسية فالقها ثم اضرب ما بقى فى",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "اثنى عشر وتقسمه على اصل الايام فما خرج فبروج وما بقى",
+   "plain": "اثنى عشر وتقسمه على اصل الايام فما خرج فبروج وما بقى",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "فاضربه فى ثلاثين وتقسمه على الاصل فما خرج فدرج وما بقى",
+   "plain": "فاضربه فى ثلاثين وتقسمه على الاصل فما خرج فدرج وما بقى",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "فاضربه فى ستين وتقسمه على الاصل فما خرج فدقايق ثم",
+   "plain": "فاضربه فى ستين وتقسمه على الاصل فما خرج فدقايق ثم",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "نستخرج كذلك ما احببت من الثوانى والثوالث والروابع",
+   "plain": "نستخرج كذلك ما احببت من الثوانى والثوالث والروابع",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "ما خرج من البروج والدرج والدقايق فزدها على موضع ايهما",
+   "plain": "ما خرج من البروج والدرج والدقايق فزدها على موضع ايهما",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "نسبت له التاريخ فما بلغ فهو وسطه لطلوع الشمس ان شاء الله •",
+   "plain": "نسبت له التاريخ فما بلغ فهو وسطه لطلوع الشمس ان شاء الله •",
+   "cells": null
+  },
+  {
+   "id": "AK15-P009-L19",
+   "n": 19,
+   "kind": "indent",
+   "text": "اصل الايام لخمسة وثلثين الف الف وتسعمائة الف وخمسة",
+   "plain": "اصل الايام لخمسة وثلثين الف الف وتسعمائة الف وخمسة",
+   "cells": null
+  }
+ ],
+ "unresolved": [
+  "L01-L02: the positions of Jupiter, Mars, Venus and Mercury at the building of the Temple, «ج ـ رمت لد», «يخ انه كور», «رنب يامر» and «الج يط اط», are not regular abjad groups (ر, 200, cannot stand for a sign, degrees or minutes, and «مت», «انه», «كور», «يامر» are not abjad numbers); they cannot be restored from the print; the print is kept.",
+  "L03-L04 and L06: the apogee of the moon «ر كو ير يط» and Mercury «ر ى الح» begin with ر (200), which cannot stand for a sign, and «ير» is not an abjad number; with ز for ر (a missing dot) the apogee would read 7 signs 26 degrees 17 minutes 19 seconds and Mercury would begin with 7 signs 10 degrees; not checked against the author's tables; the print is kept."
+ ],
+ "observations": [
+  "The running head «استخراج تاريخ اليهود للخوارزمى» stands at the head of the page, the page number «٨» at its right; at the lower left the catchword «وسبعون», the first word of p. 9 (PDF 10); recorded here, not transcribed as lines. L06 is a short line ending with the edition's full stop (•), as L18 ends with one; L07 and L19 begin with a paragraph indent (about 130 and 115 px).",
+  "L01-L06 continue the positions of p. 7 (PDF 8) in abjad letters, divided into groups by spaces and dashes as printed: L01-L02 the end of the list for the building of the Temple (Jupiter, Mars, Venus, Mercury, the head), L02-L06 the list for the beginning of the years of Dhū l-Qarnayn: the mean sun «و ـ يح لا لح» (6 signs 18 degrees 31 minutes 38 seconds), the moon «د و مه مط», the apogee of the moon «ر كو ير يط», Saturn «ح ح ـ كد و», Jupiter «ج يب نب لح لج», Mars «ح يب يد مو», Venus «ب ا ـ كب ج», Mercury «ر ى الح», the head «د كج ما كز» (4 signs 23 degrees 41 minutes 27 seconds). These positions have up to five groups, sign, degrees, minutes, seconds and further places, as the procedure of L07-L18 provides. L03 «و مه» and L04 «كد و» are written as two groups as on p. 7 (PDF 8). L02 «اط»: an alif and a ط, set touching; L04 «ير»: under the head of the ر a blob of 12 x 9 px with a notch below, a pair of dots, so that the head is the tooth of a ي (the first ر of the line has no dots); L06 «ر»: no dot above.",
+  "Read as printed: L08 «فليأخد», the last letter without a dot; L08 «يلقى ما», L09 «اجتمع من»: the م is a filled oval standing apart from the next letter, as on p. 7 (PDF 8); read م. L09 «تسعة عشر سنة» beside «تسع عشرة سنة»; L10 «المحزور»; L15 «فدقايق» and L17 «والدقايق» with ي for the hamza; L16 «نستخرج», the first letter with one dot above (8 x 9 px); L18 «نسبت», the first letter with one dot above (9 x 9 px) and one dot under the third (ب); L19 «لخمسة», with the ligature of ل and خ as in «الخميس» (p. 6, PDF 7), «وثلثين», «وتسعمائة».",
+  "Checked: L08-L09 add 9 to the completed years of Dhū l-Qarnayn and cast out nineteens to find the years of the current cycle; this agrees with an interval of 3448 years between the creation of Adam and the beginning of the era, since 3448 = 19 x 181 + 9 (see AK15-CN022 on p. 7, PDF 8)."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK15-CN024",
+   "class": "wrong letter",
+   "line": "L08",
+   "printed": "فليأخد",
+   "proposed": "فليأخذ",
+   "evidence": "«let him take» the completed years; the ذ has lost its dot",
+   "confidence": "high",
+   "impact": "none"
+  }
+ ]
+}

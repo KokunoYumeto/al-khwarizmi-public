@@ -1,0 +1,22 @@
+{
+ "anchor": "AK07-J0270",
+ "jp2_index": 270,
+ "jp2_member": "b24872489_0270.jp2",
+ "jp2_sha256": "752ad1aa4fd2e1ad2cef50b51473c916d531b405cef4246605b4fb5c8307c8dc",
+ "reading_copy": "page_0270.jpg",
+ "reading_copy_sha256": "acab16f6fcfbf9674d696e76d56cd9e67f427ed3ce4d88f145a446e6cec2fb4f",
+ "printed_page": "-",
+ "kind": "blank",
+ "language": null,
+ "role": "blank",
+ "file": "suter",
+ "comment": "JP2 0270: the back of the errata slip of JP2 0269; nothing printed.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The back of the errata slip «Nachtrag zu den Berichtigungen» (JP2 0269): blank; the print of the front shows through, mirrored. The slip lies on a blank page, the gutter of the book at the right; specks and small marks in the margins of that page."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

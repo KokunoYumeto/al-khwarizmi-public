@@ -1,0 +1,50 @@
+@page 12 VIII
+@lang de
+% JP2 0012: the introduction, p. VIII: the caution needed in drawing conclusions about Indian influence; the
+% biographies begin: 1. al-Khwarizmi, his works (the extract of the Sindhind, the tables, the arithmetic, the algebra).
+die man über die Abhängigkeit der ältern arabischen Astronomie von der indischen
+aus diesem Werke gezogen hat und etwa noch ziehen möchte, sehr vorsichtig sein
+müssen, denn es ist sehr schwierig, ja in den meisten Fällen unmöglich zu ent-
+scheiden, was in dem vorliegenden Werke noch von {sp:Al-Khwārizmī} herrührt, und
+was {sp:Maslama} zuzuschreiben ist. Das Werk verliert aber dadurch keineswegs an
+Interesse, denn erstens wird der Hauptteil des ursprünglichen Werkes in der Bear-
+beitung wohl noch vorhanden sein, und zweitens werden allfällige Einflüsse, die
+dieses Werk auf die abendländische Astronomie des Mittelalters ausgeübt hat,
+jedenfalls dieser Bearbeitung des spanisch-arabischen Astronomen zu verdanken sein,
+denn das ursprüngliche Werk ist sehr wahrscheinlich dem christlichen Abendlande
+nie bekannt geworden.
+@p Bevor wir auf die Besprechung der Manuskripte eintreten, die dieser Ausgabe
+zu Grunde liegen, wird es wohl am Platze sein, einige kurze biographische Notizen
+über die arabischen Gelehrten beizufügen, die hier in erster Linie in Frage kommen ;
+für weiteres Material verweise ich auf meine oben (p. VII) zitierte Arbeit.
+@p 1. {sp:Muḥammed b. Mūsā al-Khwārizmī} (auch {sp:al-Khuwārizmī} ge-
+schrieben) {sp:Abū ʿAbdallāh}{sup:1}), gehörte zu den Astronomen, die in {sp:Al-Ma’mūns}
+(reg. als Khalife von 813—833) Diensten standen ; er war nach Abstammung ein
+Perser, sein Geburts- und Todesjahr sind nicht bekannt. Er verfasste im Auftrage
+{sp:Al-Ma’mūns} einen Auszug aus einem indischen {i:Siddhānta} (= astronomisches Werk,
+System), den {sp:Ibrāhīm} (nach Andern {sp:Muh. b. Ibrāhīm}) {sp:al-Fazārī} aus dem
+Indischen ins Arabische übersetzt hatte, und der bei den Arabern „der {i:grosse Sind-}
+{i:hind}“ genannt wurde, der Auszug hiess dann im Gegensatz dazu „der {i:kleine Sindhind}“.
+Ebenso verfasste er astronomische Tafeln ({i:zīdj}), die sich auf diesen indischen {i:Sidd-}
+{i:hānta} stützten, und die in zwei Ausgaben erschienen sein sollen.{sup:2}) Er bestimmte
+darin die mittlern Örter der Planeten nach der persischen {i:Aera} {sp:Yezdegirds} und
+nach dem Meridian von {i:Arin} (vergl. Kommentar). Diese Tafeln sind also nicht mehr
+vorhanden, dagegen ihre Umarbeitung durch {sp:Maslama al-Madjrīṭī} in der latei-
+nischen Übersetzung des {sp:Athelhard von Bath}. — Ferner verfasste er ein Buch
+über die {i:indische Rechnungsweise}, arabisch ebenfalls nicht mehr vorhanden, in
+lateinischer Übersetzung (Übersetzer nicht festgestellt) herausgegeben von B. {sp:Bon-}
+{sp:compagni}{sup:3}) ; ein solches über die {i:Algebra} ({i:fī’l-djebr wa’l-muḳābala}), ins Lateinische
+übersetzt von {sp:Gerhard von Cremona} und {sp:Robert von Chester} ({i:Cestrensis}),
+arabisch mit englischer Übersetzung herausgegeben von F. {sp:Rosen}{sup:4}) ; eine {i:Geographie}
+@n {sup:1}) Als sein Beiname ({i:Kunya}) wird auch {i:Abū Djaʿfar} genannt, doch halte ich {i:Abū ʿAbdallāh}
+@n für den richtigen, der erstere ist wahrscheinlich aus einer Verwechslung unseres Astronomen mit dem
+@n etwas später lebenden {sp:Muh. b. Mūsā b. Shākir} (gest. 873), der diesen Beinamen hatte, ent-
+@n standen.
+@n {sup:2}) Die Quellen stimmen hier nicht ganz überein, nach andern wäre es auch möglich, dass diese
+@n Tafeln selbst der Auszug aus dem grossen {i:Sindhind} gewesen wären, diese Frage ist nicht mehr zu
+@n entscheiden.
+@n {sup:3}) {i:Trattati d’aritmetica}, I, Roma, 1857.
+@n {sup:4}) {i:Algebra of Mohammed ben Musa, edited and translated} by {sp:Frederic Rosen}, London, 1831.
+@obs The page number «VIII» stands at the head of the page, centred, with a rule below it.
+@obs L17 and L20 «Al-Ma’mūns» and L32 «fī’l-djebr wa’l-muḳābala»: the hamza and the elided article are printed as an apostrophe, ’. L21 and N03 «Muh.» are printed without a dot under the h, where L16 has «Muḥammed». N01: the mark over the u of the first «Abū» is printed thin and broken, so that it looks curved; read as the macron of «Abū ʿAbdallāh» in the same line. L22-L23 and L23: the German quotation marks, „ and “.
+@obs L31: dark specks after the point of «B.», above and below the line; not transcribed. Spaced type and italics as marked; L16 «1.» numbers the first biography, in the type of the text.

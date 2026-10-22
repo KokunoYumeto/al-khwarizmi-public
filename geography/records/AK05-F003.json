@@ -1,0 +1,21 @@
+{
+ "anchor": "AK05-F003",
+ "frame": 3,
+ "frame_file": "page_003.jpg",
+ "frame_sha256": "ef72acb6f5a32258a451b4ba2525690fa62654ab34a7a32e19f044a6efb06b7b",
+ "printed_page": "-",
+ "kind": "extrinsic",
+ "role": "SCAN_EXTRINSIC",
+ "comment": "Frame 003: a leaf with the stamp of the acquisition programme at its head.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [],
+ "copy_matter": [
+  "The stamp «Provided by the Library of Congress Public Law 480 Program» at the head of the leaf: the programme through which the copy was acquired; not part of the edition."
+ ],
+ "critical_notes": []
+}

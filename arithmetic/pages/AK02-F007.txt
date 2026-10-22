@@ -1,0 +1,46 @@
+@page 7 1
+% Frame 007, printed p. 1: the heading of the treatise, «I. Algoritmi de numero Indorum.», with the editor's line on
+% the manuscript, Cambridge Ii.6.5, ff. 102r-109v; the beginning of the text: the invocation, the purpose of the
+% book, the nine letters of the Indians and the differences in the forms of their figures. One footnote.
+@c I.
+@c {b:ALGORITMI DE NUMERO INDORUM.}
+@c (Biblioteca dell’Università di Cambridge, Codice manoscritto contrassegnato « {i:Ii}. 6. 5 »
+@c carte 102, {i:recto} — 109, {i:verso}).
+@m car. 102 {i:recto}.
+DIXIT algoritmi: laudes deo rectori nostro atque defensori
+dicamus dignas, que et debitum ei reddant, et augendo mul-
+tiplicent laudem, deprecemurque eum ut nos dirigat in semita
+rectitudinis et ducat in uiam ueritatis, et ut auxilietur nobis
+super bona uoluntate in his que decreuimus exponere ac pa-
+tefacere de numero indorum per .{sc:ix}. literas, quibus exposue-
+runt uniuersum numerum suum causa leuitatis atque abre-
+uiationis, ut hoc opus scilicet redderetur leuius querenti arith-
+meticam, idest numerum tam maximum quam exiguum, et quic-
+quid in eo est ex multiplicatione et diuisione, collectione quo-
+que ac dispersione et cetera.
+@p Dixit algoritmi: Cum uidissem yndos constituisse .{sc:ix}. literas
+in uniuerso numero suo, propter dispositionem suam quam po-
+suerunt, uolui patefacere de opere quod fit per eas aliquid
+quod esset leuius discentibus, si deus uoluerit. Si autem indi
+hoc uoluerunt, et intentio eorum in his .{sc:ix}. literis fuit causa que
+mihi patuit, deus direxit me ad hoc. Si uero alia de causa,
+preter eam quam ego exposui,hoc fecerunt per hoc quod ego
+exposui, eadem causa certissime et absque ulla dubitatione po-
+tuerit inueniri.Leuiterque patebit aspicientibus et discentibus.
+@p Fecerunt igitur .{sc:ix}. literas, quarum figure sunt he .... (1).
+est quoque diuersitas inter homines in figuris earum: fit autem
+hec diuersitas in figura quinte litere et sexte, septime quoque
+@n (1) La lacuna indicata con quattro punti nelle linea 25 della presente
+@n pagina trovasi anche nel sopraccitato Codice {i:Ii}. 6. 5 della Biblioteca dell’
+@n Università di Cambridge (carta 102 {i:recto}, lin. 18).
+@obs The page number «( 1 )» stands at the head of the page, centred, and the signature «1» of the printed sheet at the foot, centred.
+@obs L01-L04: the heading of the treatise, centred: its number in the editor's series, «I.», and its title, «ALGORITMI DE NUMERO INDORUM.», in bold capitals; then, in the smaller type of the notes, the manuscript from which the text is printed: Cambridge University Library, the manuscript marked «Ii. 6. 5», leaves 102 recto to 109 verso. «Ii» is printed in italics, and so are «recto» and «verso».
+@obs L05: «DIXIT» opens the text with a large initial D, two lines high, followed by «IXIT» in capitals. The printed note in the right margin beside the line, «car. 102 recto.», gives the leaf of the manuscript at which the text begins; transcribed as a margin note.
+@obs The numeral «.ix.» (L10, L16, L20, L25) is printed in small capitals between two points, as the Latin text writes numerals.
+@obs L25: the four points after «he» mark the place of the figures of the nine letters, which the edition does not print; the editor's footnote (1) says that the gap is in the manuscript too, at fol. 102 recto, line 18. The footnote counts the lines of the page from the heading «I.»: line 25 is L25 of this transcription.
+@obs The lines of the text are printed in the spelling of the manuscript: u for v («uidissem», «uoluerit»), e for ae and oe («que», «preter», «quinte»), «yndos» and «indi», and words divided at the ends of the lines with a hyphen. Transcribed as printed.
+@obs The subtitle (L03-L04), the folio in the margin and the footnote are set in a smaller type, darker than the type of the text.
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): without a space after the mark, L22 «exposui,hoc» (9 px, the median word space of the line 16 px) and L24 «inueniri.Leuiterque» (8 px, median 13 px). L22: a speck at mid-height between «ego» and «exposui»; not transcribed.
+@critical AK02-CN001 | grammar of the note | N01 | nelle linea 25 | nella linea 25 | the editor's footnote, in Italian, has the plural article «nelle» before the singular «linea», where the sense, «in line 25 of the present page», requires «nella» | high | none: the reference reads the same
+@copy The stamp «Bayerische Staatsbibliothek München», rectangular, in black, at the head of the page above the page number.
+@copy A reader's notes in pencil: L02, a double stroke under «ALGORITMI»; L04, the leaf numbers «102» and «109» struck through, and «104» and «111» written below them; L06, a stroke over «gn» of «dignas»; L11, a stroke like a comma between «suum» and «causa», and a stroke through the «b» of «abre-»; L15, a stroke through the first «s» of «dispersione»; L16, a stroke under «rit» of «algoritmi»; L17, a stroke over «numero». In the right margin, in ink or dark pencil: «algorizmi» beside L05, «| db» beside L11, «| ss» beside L15 and «algorizmi» beside L16. Not part of the edition.

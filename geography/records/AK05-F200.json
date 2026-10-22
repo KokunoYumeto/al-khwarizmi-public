@@ -1,0 +1,25 @@
+{
+ "anchor": "AK05-F200",
+ "frame": 200,
+ "frame_file": "page_200.jpg",
+ "frame_sha256": "dd5f5595363905273fe5b443ca7244d14a8a9ba3d58ed283b02d379f9ea70ebf",
+ "printed_page": "XIII",
+ "kind": "editorial",
+ "role": "MODERN_EDITORIAL (not reproduced)",
+ "comment": "Frame 200, printed p. XIII: the editor's introduction continued, in German.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [
+  "the editor's introduction, p. XIII, in German: 30 printed lines, with three running numbers and a Greek name"
+ ],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Topics of the page, with the entries and notes that it cites (the introduction is read for understanding and not reproduced or paraphrased): coordinates that fit the unrectified Greek map, with the cities of Egypt (١٤٩)-(١٥٨) (frame 019) and al-Qandahār (١٨١) (frame 021).",
+  "The introduction, pp. V-XXXI, is bound in the reverse order of its pages, from p. XXXI (frame 182) to p. V (frame 208); the frames keep the physical order, and the introduction is read from frame 208 back to frame 182. This page follows p. XII (frame 201); p. XIV follows on frame 199.",
+  "The page number «— XIII —» stands at the foot, centred. The page has no footnotes."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

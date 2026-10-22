@@ -1,0 +1,261 @@
+{
+ "anchor": "AK05-F155",
+ "frame": 155,
+ "frame_file": "page_155.jpg",
+ "frame_sha256": "d25d1b182c907791360709b237063b7c06b7d765bda9f99eaecfd29da985fb7f",
+ "printed_page": "١٤٩",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 155, printed p. 149: the river بوخردس concluded, between the dam and the mountain of Gog, past the town of Magog and on to the longitude 180°, with a spring and a river from the mountain اسمريا that fall into it; then the heading of the rivers and springs beyond the seventh clime and the springs on the island بوبارنيا. The editor's running numbers (٢٢٥٠)-(٢٢٦٥) and the numbers of Suhrāb; the folio of the manuscript, «(fol. 45ᵃ)», within a line; words supplied by the editor between angle brackets. Four lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F155-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "موضع طوله {ov:ڡٮٮ ل}{n:a} والعرض {ov:ٮا ل}{n:b} (٢٢٥٠) [١٦٠٣] ويمرّ فيدخل فيما بين السدّ",
+   "margin": null,
+   "cells": null,
+   "plain": "موضع طوله ڡٮٮ ل والعرض ٮا ل (٢٢٥٠) [١٦٠٣] ويمرّ فيدخل فيما بين السدّ",
+   "note_marks": [
+    "a",
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F155-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "وجبل ياجوج عند طول {ov:قسح ل} والعرض {ov:ن م} (٢٢٥١) [١٦٠٤] ويعدل الى مدينة",
+   "margin": null,
+   "cells": null,
+   "plain": "وجبل ياجوج عند طول قسح ل والعرض ن م (٢٢٥١) [١٦٠٤] ويعدل الى مدينة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F155-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "ماجوج مماسّ* لها الى موضع طوله {ov:قعب {z}} والعرض {ov:سب {z}} (٢٢٥٢) ويرجع الى",
+   "margin": null,
+   "cells": null,
+   "plain": "ماجوج مماسّ* لها الى موضع طوله قعب ō والعرض سب ō (٢٢٥٢) ويرجع الى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F155-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "موضع طوله {ov:ڡعٮ {z}} والعرض {ov:ٮط {z}} (٢٢٥٣) [١٦٠٥] ⟨ثمّ ير⟩{n:c}جع الى موضع طوله",
+   "margin": null,
+   "cells": null,
+   "plain": "موضع طوله ڡعٮ ō والعرض ٮط ō (٢٢٥٣) [١٦٠٥] ⟨ثمّ ير⟩جع الى موضع طوله",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F155-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "{ov:ڡعه {z}} والعرض {ov:ٮح ل} (٢٢٥٤) [١٦٠٦] ويجئ الى موضع طوله {ov:ڡعه {z}} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "ڡعه ō والعرض ٮح ل (٢٢٥٤) [١٦٠٦] ويجئ الى موضع طوله ڡعه ō والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F155-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "{ov:ٮو {z}}{n:d} (٢٢٥٥) [١٦٠٧] ويجئ الى طول {ov:ڡڡ {z}} والعرض {ov:مط ل} (٢٢٥٦) [١٦٠٨] *",
+   "margin": null,
+   "cells": null,
+   "plain": "ٮو ō (٢٢٥٥) [١٦٠٧] ويجئ الى طول ڡڡ ō والعرض مط ل (٢٢٥٦) [١٦٠٨] *",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F155-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "يقع الى هٰذا النهر عين اوّلها عند طول {ov:ڡمر ل} والعرض {ov:ٮٮ ل} (٢٢٥٧) [١٦٠٩]",
+   "margin": null,
+   "cells": null,
+   "plain": "يقع الى هٰذا النهر عين اوّلها عند طول ڡمر ل والعرض ٮٮ ل (٢٢٥٧) [١٦٠٩]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F155-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "ومصبّها فى النهر عند طول {ov:ڡنٮ م}{n:e} والعرض {ov:ٮا ل} (٢٢٥٨) [١٦١٠] *",
+   "margin": "ᶠ (fol. 45ᵃ)",
+   "cells": null,
+   "plain": "ومصبّها فى النهر عند طول ڡنٮ م والعرض ٮا ل (٢٢٥٨) [١٦١٠] *",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F155-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "ويقع الى هٰذا النهر الأوّل نهر من جبل اسمريا اوّله عند طول {ov:ڡٮح {z}} والعرض {ov:ٮح ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "ويقع الى هٰذا النهر الأوّل نهر من جبل اسمريا اوّله عند طول ڡٮح ō والعرض ٮح ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F155-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "(٢٢٥٩) [١٦١١] ومصبّه فى النهر عند طول {ov:ڡٮح ل} والعرض {ov:ٮا {z}} (٢٢٦٠) [١٦١٢] *",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٢٥٩) [١٦١١] ومصبّه فى النهر عند طول ڡٮح ل والعرض ٮا ō (٢٢٦٠) [١٦١٢] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F155-L11",
+   "n": 11,
+   "kind": "heading",
+   "text": "* ما خلف الإقليم السابع من الأنهار والعيون *",
+   "margin": null,
+   "cells": null,
+   "plain": "* ما خلف الإقليم السابع من الأنهار والعيون *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F155-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "منها ⟨فى⟩{n:g} جزيرة بوبارنيا{n:h} * عين اوّلها عند طول {ov:ى مه} والعرض {ov:ٮح ك}{n:i} (٢٢٦١)",
+   "margin": null,
+   "cells": null,
+   "plain": "منها ⟨فى⟩ جزيرة بوبارنيا * عين اوّلها عند طول ى مه والعرض ٮح ك (٢٢٦١)",
+   "note_marks": [
+    "g",
+    "h",
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F155-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "[٢١٠٣] ومصبّها فى البحر عند طول {ov:ط {z}} والعرض {ov:نط {z}} (٢٢٦٢) [٢١٠٤] * عين",
+   "margin": null,
+   "cells": null,
+   "plain": "[٢١٠٣] ومصبّها فى البحر عند طول ط ō والعرض نط ō (٢٢٦٢) [٢١٠٤] * عين",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F155-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "اوّلها عند طول {ov:يا م} والعرض {ov:ٮح م} (٢٢٦٣) [٢١٠٥] ومصبّها فى البحر عند طول {ov:ى ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "اوّلها عند طول يا م والعرض ٮح م (٢٢٦٣) [٢١٠٥] ومصبّها فى البحر عند طول ى ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F155-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "والعرض {ov:نط م} (٢٢٦٤) [٢١٠٦] * عين اوّلها عند طول {ov:ٮٮ ى} والعرض {ov:نح ى} (٢٢٦٥)",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض نط م (٢٢٦٤) [٢١٠٦] * عين اوّلها عند طول ٮٮ ى والعرض نح ى (٢٢٦٥)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: a variant reading of the longitude is ڡعٮ ل, the loop, an ع and the flat final bowl of a ب, without dots, with a line over the numerals (note a).",
+  "L01: a variant reading of the latitude is ٮا ك, with a line over the numerals (note b).",
+  "L04: the manuscript has a gap at the letters between the brackets; the editor supplies them (note c).",
+  "L06: a variant reading of the latitude is مو ō, with a line over the numerals (note d).",
+  "L08: the manuscript is badly damaged at this place and pasted over (note e).",
+  "L08 (the folio): the text of fol. 45ᵇ of the manuscript goes on on fol. 45ᵃ; the editor refers to his note f on p. 147 (note f).",
+  "L12: the word between the brackets is missing in the manuscript (note g).",
+  "L12: a variant reading of the name is ڡوبارنيا, with a loop without dots (note h).",
+  "L12: a variant reading of the latitude is ٮح م, with a line over the numerals, followed by a short dash (note i)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The river بوخردس goes on from p. 148 (frame 154), whose last words, «نهر بوخردس اوّله عين عند طول ڡمه ل والعرض مر {z} (٢٢٤٩) [١٦٠٢] يمرّ الى», L01 continues: «موضع طوله ڡٮٮ ل والعرض ٮا ل (٢٢٥٠) ويمرّ فيدخل فيما بين السدّ وجبل ياجوج عند طول قسح ل والعرض ن م (٢٢٥١) ويعدل الى مدينة ماجوج مماسّ* لها الى موضع طوله قعب {z} والعرض سب {z} (٢٢٥٢) ويرجع الى موضع طوله ڡعٮ {z} والعرض ٮط {z} (٢٢٥٣) ⟨ثمّ ير⟩جع الى موضع طوله ڡعه {z} والعرض ٮح ل (٢٢٥٤) ويجئ الى موضع طوله ڡعه {z} والعرض ٮو {z} (٢٢٥٥) ويجئ الى طول ڡڡ {z} والعرض مط ل (٢٢٥٦) *», it passes to a place whose longitude is ڡٮٮ ل and latitude ٮا ل; it passes and enters between the dam and the mountain of Gog at the longitude 168° 30′ and the latitude 50° 40′, turns towards the town of Magog, touching it, to a place whose longitude is 172° 0′ and latitude 62° 0′, and returns to a place whose longitude is ڡعٮ ō and latitude ٮط ō; ⟨then it re⟩turns to a place whose longitude is ڡعه ō and latitude ٮح ل, comes to a place whose longitude is ڡعه ō and latitude ٮو ō, and comes to the longitude ڡڡ ō and the latitude 49° 30′.",
+  "The places of L01-L03: «السدّ», the dam, is entries 875-876 of the table of the mountains, «السدّ بين جبلين ياجوج وماجوج» (frame 066, L03), whose boundaries are at the longitude ڡسح ل, 168° 30′, and the latitudes 48° 0′ and لز (frame 067, L03), the longitude of the point of L02; «جبل ياجوج» is the mountain of entries 959-960, «جبل ياجوج المحيط اوّله من الصغد» (frame 070, L16); «مدينة ماجوج» is entry 474 of the table of the cities (frame 038, L16) and again entry 499 (frame 040, L12).",
+  "L07-L08: «يقع الى هٰذا النهر عين اوّلها عند طول ڡمر ل والعرض ٮٮ ل (٢٢٥٧) ومصبّها فى النهر عند طول ڡنٮ م والعرض ٮا ل (٢٢٥٨) *», into this river falls a spring whose beginning is at the longitude ڡمر ل and the latitude ٮٮ ل, and its mouth in the river at the longitude ڡنٮ م and the latitude ٮا ل. «يقع» stands at the beginning of L07 without و.",
+  "L09-L10: «ويقع الى هٰذا النهر الأوّل نهر من جبل اسمريا اوّله عند طول ڡٮح {z} والعرض ٮح ل (٢٢٥٩) ومصبّه فى النهر عند طول ڡٮح ل والعرض ٮا {z} (٢٢٦٠) *», into this first river falls a river from the mountain اسمريا; its beginning is at the longitude ڡٮح ō and the latitude ٮح ل, and its mouth in the river at the longitude ڡٮح ل and the latitude ٮا ō. The mountain is entries 955-956 of the table of the mountains (frame 070, L14), whose boundaries are at the longitude ڡٮح ل and the latitude 57° 40′ and at the longitude ڡٮط ō and the latitude 50° 50′ (frame 071, L14).",
+  "L11: the heading of the next section, in the large type, between two small open stars, transcribed as asterisks: «* ما خلف الإقليم السابع من الأنهار والعيون *», what lies beyond the seventh clime, of the rivers and the springs. «الإقليم» has a hamza below the alif and «الأنهار» a hamza over it.",
+  "L12-L15: «منها ⟨فى⟩ جزيرة بوبارنيا * عين اوّلها عند طول ى مه والعرض ٮح ك (٢٢٦١) ومصبّها فى البحر عند طول ط {z} والعرض نط {z} (٢٢٦٢) * عين اوّلها عند طول يا م والعرض ٮح م (٢٢٦٣) ومصبّها فى البحر عند طول ى ل والعرض نط م (٢٢٦٤) * عين اوّلها عند طول ٮٮ ى والعرض نح ى (٢٢٦٥)», among them, ⟨on⟩ the island بوبارنيا: a spring whose beginning is at the longitude 10° 45′ and the latitude ٮح ك, and its mouth in the sea at the longitude 9° 0′ and the latitude 59° 0′; a spring whose beginning is at the longitude 11° 40′ and the latitude ٮح م, and its mouth in the sea at the longitude 10° 30′ and the latitude 59° 40′; a spring whose beginning is at the longitude ٮٮ ى and the latitude 58° 10′, continued on p. 150. The island is the island «ٮوٮارنيا» of the outer western sea (frame 091, L07), whose coast begins at the longitude 7° 30′ and the latitude ٮح ō, where the editor's note f gives the form of this entry (2261), بوبارنيا. Here both ب, the ن and the ي have their dots.",
+  "Numerals: «قسح ل» (L02), with the two dots of the ق, 168° 30′; «ن م» (L02), with the dot of the ن, 50° 40′; «قعب {z}» (L03), with the dots of the ق and of the ب, 172° 0′; «سب {z}» (L03), with the dot of the ب, 62° 0′; «مط ل» (L06), 49° 30′; «ى مه» (L12), 10° 45′; «ط {z}» (L13), 9° 0′; «نط {z}» (L13), with the dot of the ن, 59° 0′; «يا م» (L14), with the two dots of the ي, 11° 40′; «ى ل» (L14), 10° 30′; «نط م» (L15), 59° 40′; «نح ى» (L15), 58° 10′. The ك of «ٮح ك» (L12) is the isolated ك with its small inner stroke, 20.",
+  "The loop of ف or ق without dots in the degrees of the longitude, transcribed so: «ڡٮٮ ل» (L01), the loop, a tooth without its dot and the flat final bowl of a ب without its dot, its right end rising in a small bump, the group of «ڡنٮ م» (L08) without the dot of the ن; «ڡعٮ {z}» (L04) and «ڡعه {z}» (L05, twice), the loop before ع; «ڡڡ {z}» (L06), the loop joined to a final ف without its dot, 75 px wide, where the isolated ف is a single loop with its long tail; «ڡمر ل» (L07), the loop before م; «ڡنٮ م» (L08), the loop before a tooth with the dot of the ن; «ڡٮح {z}» (L09) and «ڡٮح ل» (L10), the loop and a tooth without its dot before the ح. Before ع, ف, م and ن, tens letters, the loop can only be ق: «ڡعٮ» 172, «ڡعه» 175, «ڡڡ» 180, the eastern end of the longitudes, «ڡمر» 147 (the ر read ز) and «ڡنٮ» 152. «ڡٮٮ» and «ڡٮح» have a tooth without its dot after the loop, likewise ق: read with ن, 152 and 158; read with ي, 112 and 118.",
+  "Read with ن, the course of the river runs from its spring at 145° 30′ and 47° 0′ (frame 154, L16) by 152° 30′ and 51° 30′ (L01) to the dam at 168° 30′ and 50° 40′ (L02); the spring of L07-L08 falls into it at 152° 40′ and 51° 30′, beside the point of L01, and the river of the mountain اسمريا at 158° 30′ and 51° 0′ (L10), between the points of L01 and L02. Read with ي, those points would lie west of the spring of the river.",
+  "A tooth without its dot in the degrees of the latitude, transcribed so: «ٮا ل» (L01, L08) and «ٮا {z}» (L10), joined to an alif; «ٮط {z}» (L04); «ٮح ل» (L05, L09), «ٮح ك» (L12) and «ٮح م» (L14); «ٮو {z}» (L06). Read with ن they give 51° 30′, 51° 0′, 59° 0′, 58° 30′, 58° 20′, 58° 40′ and 56° 0′, beside «سب {z}», 62° 0′ (L03), «ن م» (L02) and «نط {z}» (L13) printed with the dot of the ن; read with ي, 11, 19, 18 and 16.",
+  "«ٮٮ ل» (L07) and «ٮٮ ى» (L15): a tooth joined to a final ب, both without dots, 64 and 65 px wide, with a tall riser and a small bump at the right end of the bowl, where the isolated ب is a bowl of about 50 px with a riser at each end. Read with ن, «ٮٮ ل» is 52° 30′, the latitude of the beginning of the spring of L07, north of its mouth at ٮا ل; read with ي, «ٮٮ ى» is 12° 10′, the longitude of the beginning of the third spring of the island, beside the other springs of the island at 9° to 11° 40′.",
+  "«قسح ل» (L02), «ٮح» (L05, L09, L12, L14), «ڡٮح» (L09, L10) and «نح ى» (L15): the ح shows no dot in the bowl; the same form is a ج without its dot, 3.",
+  "L03: «مماسّ*»: an asterisk with six solid arms stands after the word, raised like the note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (frame 046, L10).",
+  "Angle brackets, each followed by a note mark, around what the editor supplies: «⟨ثمّ ير⟩» (L04), with «جع» after the mark c, of the word «يرجع»; «⟨فى⟩» (L12), note g. Transcribed with the brackets.",
+  "L08: the folio of the Strasbourg manuscript, «(fol. 45ᵃ)», is printed in Latin type within the line, between the note mark e after the longitude and «والعرض», with the note mark f at its left; transcribed as a margin note before the line.",
+  "Signs in the text, transcribed as printed: «ويمرّ» (L01) with a shadda over the ر; «السدّ» (L01) with a shadda over the د; «مماسّ*» (L03) with a shadda over the س; «ثمّ» (L04) with a shadda over the م; «ويجئ» (L05, L06) with a hamza over the raised end of the final ى; «هٰذا» (L07, L09) with a small alif over the ه; «اوّلها» (L07, L12, L14, L15) and «اوّله» (L09) with a shadda over the و; «ومصبّها» (L08, L13, L14) and «ومصبّه» (L10) with a shadda over the ب; «الأوّل» (L09) with a hamza over the alif and a shadda over the و; «فى» and «الى» end in a ى without dots.",
+  "The running numbers run (٢٢٥٠)-(٢٢٦٥) without a gap. The numbers of Suhrāb: [١٦٠٣] and [١٦٠٤] after (٢٢٥٠) and (٢٢٥١); (٢٢٥٢) has none; [١٦٠٥]-[١٦١٢] after (٢٢٥٣)-(٢٢٦٠); after the heading, [٢١٠٣]-[٢١٠٦] after (٢٢٦١)-(٢٢٦٤). [٢١٠٣] stands at the beginning of L13, after the running number (٢٢٦١) at the end of L12; (٢٢٦٥) at the end of L15 has its number on p. 150.",
+  "Asterisks: the small open stars with six points, after [١٦٠٨] (L06), [١٦١٠] (L08), [١٦١٢] (L10), at both ends of the heading (L11), after «بوبارنيا» (L12), after [٢١٠٤] (L13) and after [٢١٠٦] (L15), are transcribed as asterisks; the solid asterisk after «مماسّ» (L03) is the editor's sign described above.",
+  "Note marks: L01, a after the longitude and b after the latitude; L04, c after «⟨ثمّ ير⟩»; L06, d after the latitude; L08, e after the longitude and f at the left of «(fol. 45ᵃ)»; L12, g after «⟨فى⟩», h after «بوبارنيا» and i after the latitude.",
+  "Marks not transcribed: L15, a small speck between «نط م» and the parenthesis of (٢٢٦٤); small specks of the impression.",
+  "The editor's footnotes stand in four lines below a short rule at the left: notes a-i. The page number «— ١٤٩ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,53 @@
+@page 53 21
+@lang la
+% JP2 0053: the Latin text, p. 21: the end of chapter 27 (the hours of the day and of the night); chapter 26a, a
+% bracketed passage on the differences of the ascensions; chapter 28, the shadow from the altitude of the sun; chapter
+% 28a, the altitude from the shadow, begins; with the apparatus (notes 1-20).
+XII{sup:a} quaesiti indicium{sup:1}). Noctis vero sic : Arcu quoque diei a CCCLX gradibus
+subtracto residuoque secundum XII diviso, ipsius{sup:2}) XII{sup:a} horae nocturnae quan-
+titatem{sup:3}) metietur{sup:4}).
+@c {b:Cap. 26{sup:a}. [De ortu signorum in qualibet regione secundum}
+@c {b:aequinoctialem circulum.}
+@p Ut autem in qualibet regione latitudine non carente differentiam ortus signorum
+quantum ad circulum aequinoctialem scias, tabula id ipsum determinans supposita
+est, cuius usus talis est : Primo quidem umbra arietis in praesenti regione notanda
+est ; deinde per quemlibet gradum in paginam differentiarum intrandum, eiusque
+adiunctum in umbram praedictam ducendum, atque inde producti arcus inveniendus.
+Erit igitur ille arcus significans minorationem arietis quantum ad circulum aequi-
+noctialem pro gradu quidem introducente ; similiter etiam et piscium ; librae vero
+atque virginis additionem. Sequuntur autem arietem cum piscibus in diminutione,
+licet dissimili, taurus et aquarius, libram vero cum virgine scorpius et leo additione
+sed dissimili. Sequuntur item taurum cum aquario diminutione sed dissimili gemini
+et capricornus, scorpium vero cum leone additione sed dissimili cancer et sagittarius.
+Sicut enim donat aries sua tempora librae, sic cetera quinque suis oppositis, quod
+retinere nequeunt dimittunt.]{sup:5})
+@c {b:Cap. 28. Quomodo per artifa solis cuiuslibet corporis umbra}
+@c {b:elmustewia perpendatur.}
+@p Per {i:artifa} itaque, id est{sup:6}) diurnam altitudinem solis, in {i:elgeib} intrandum est{sup:7}),
+deinde ipsum {i:artifa} a XC minuendum, quodque residuum fuerit, per ipsum in
+{i:elgeib} secundo intretur{sup:8}). Atque hoc idem{sup:9}) {i:elgeib secundum} in duodenarium{sup:10})
+ducatur, totaque summa{sup:11}) secundum {i:elgeib primum} dividatur. Quod si dakaica
+interfuerit, ipsa ducatur in sexagenarium{sup:12}), quae summa item ut superior dividatur{sup:13}),
+diceturque huius dividentis{sup:14}) numerus aequalis numero digitorum corporis in umbra
+contentorum{sup:15}), quolibet corpore in XII digitos diviso{sup:16}).
+@m C 75{sup:v}
+@c {b:Cap. 28{sup:a}. Quomodo per umbram artifa solis perpendatur.}
+@p Cum autem per umbram {i:artifa} investigaveris{sup:17}), umbra quidem in se ipsam
+ducenda erit, atque inde producto{sup:18}) CXLIIII addenda sunt{sup:19}), totiusque{sup:20}) summae
+@n {sup:1}) qua . . . . indicium] C, inveniri doceatur. Notandum vero praesentis arcus quotus gradus occu-
+@n petur, quod quidem per tabulam ortuum praesentis regionis perpenditur ; deinde ipsa occupatio secundum
+@n XII dividenda, eritque duodecima illius quod quaeris significativa O. — {sup:2}) ipsius] ipsa C. — {sup:3}) quantitatem]
+@n quantitatum C. — {sup:4}) Arcu . . . . metietur] C, Quod enim diei arcus occupat a CCCLX subtrahendum,
+@n residuumque secundum XII dividendum ; eius igitur duodecima gradus horae designat O. — {sup:5}) {i:Quae in}
+@n {i:uncis inclusa om.} C. — {sup:6}) id est] O, idem C. — {sup:7}) est] C, {i:om.} O. — {sup:8}) intretur] C, introducamur O. —
+@n {sup:9}) Atque hoc idem] O, Postea vero ipsum C. — {sup:10}) duodenarium] O, XII C. — {sup:11}) totaque summa] O,
+@n denique ipsum productum C. — {sup:12}) sexagenarium] O, LX C. — {sup:13}) dividatur] C, ducatur O. — {sup:14}) dice-
+@n turque huius dividentis] diceturque huius ⟨{i:lacuna}⟩ O ; Huius itaque partitionis unius dividentis C. —
+@n {sup:15}) in umbra contentorum] O, umbram numerantium divisio C. — {sup:16}) digitos diviso] O, aequales partes
+@n quae digiti nuncupantur C. — {sup:17}) investigaveris] O, investigaveritis C. — {sup:18}) producto] O, productum C. —
+@n {sup:19}) sunt] O, erit itaque C. — {sup:20}) totiusque] O, totius C.
+@obs The page number «21» stands at the head of the page, centred, with a rule below it. L01-L03 end chapter 27 (p. 20, JP2 0052): the twelfth of the arc of the day is the hour of the day; the twelfth of 360 degrees less the arc of the day the hour of the night. L01-L02: «XIIa», duodecima, with the a raised.
+@obs L04-L18: chapter 26a, the heading in bold, centred, in two lines, the square bracket of the editor opening in the heading and closing after «dimittunt.» (L18); note 5 says that C omits the passage. It describes a table of the differences of the ascensions, entered with any degree, whose value is multiplied by the shadow of Aries; Aries and Pisces lose what Libra and Virgo gain, and so on for the other pairs.
+@obs L19-L20 and L28: the headings of chapters 28 and 28a, in bold, centred; «artifa» and «elmustewia» (al-mustawiya, the straight shadow) in the bold of the headings. In the right margin beside the heading of chapter 28a «C 75v». The numbers 26a and 28a, with the a raised, are the editor's (see the contents, p. [III]).
+@obs L21-L27: the shadow of a body of twelve digits from the altitude h of the sun: the sine of the complement times twelve, divided by the sine of the altitude. Checked: this is 12 cos h / sin h, the shadow of a gnomon of twelve digits. L29-L30 begin the converse, the altitude from the shadow s through s² + 144, the square of the hypotenuse (continued on p. 22).
+@obs L08: the colon after «est» stands after a full word space (29 px), not after the thin space that the colons and semicolons of the page have (10-12 px measured); transcribed like the others. N09: «⟨lacuna⟩», the editor's mark of a gap in the text of O, «lacuna» in italics between upright angle brackets.

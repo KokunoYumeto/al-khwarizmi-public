@@ -1,0 +1,413 @@
+{
+ "anchor": "AK02-F009",
+ "frame": 9,
+ "frame_file": "page_009.jpg",
+ "frame_sha256": "57c2c5cf8d2ca8a8dce14c18244674c4c7592a88f074ff9facb800be973e6f06",
+ "printed_page": "3",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 009, printed p. 3: the hundreds and thousands put in the place of the unit; the differences (places) of the units, tens, hundreds, thousands and ten thousands; the beginning of the places at the writer's right; the small circle in the empty place of the units, and the figures of the tens.",
+ "lines": [
+  {
+   "id": "AK02-F009-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "duplicantur ibi atque triplicantur, quemadmodum factum est",
+   "margin": null,
+   "plain": "duplicantur ibi atque triplicantur, quemadmodum factum est",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "de uno et .{sc:x}. ; efficiunturque ex eis .{sc:cc}. et .{sc:ccc}. et cetera",
+   "margin": null,
+   "plain": "de uno et .x. ; efficiunturque ex eis .cc. et .ccc. et cetera",
+   "italic": [],
+   "small_caps": [
+    "x",
+    "cc",
+    "ccc"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "usque in .{sc:dcccc}. Rursum ponuntur mille in loco unius ; et",
+   "margin": null,
+   "plain": "usque in .dcccc. Rursum ponuntur mille in loco unius ; et",
+   "italic": [],
+   "small_caps": [
+    "dcccc"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "duplicando et triplicando, ut diximus, fiunt ex eis .{sc:ii}. milia,",
+   "margin": null,
+   "plain": "duplicando et triplicando, ut diximus, fiunt ex eis .ii. milia,",
+   "italic": [],
+   "small_caps": [
+    "ii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "et .{sc:iii}. et cetera usque in infinitum numerum, secundum hunc",
+   "margin": null,
+   "plain": "et .iii. et cetera usque in infinitum numerum, secundum hunc",
+   "italic": [],
+   "small_caps": [
+    "iii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "modum. Et inueni quod operati sunt yndi ex his differentiis.",
+   "margin": null,
+   "plain": "modum. Et inueni quod operati sunt yndi ex his differentiis.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "Quarum prima est differentia unitatum, in qua duplicatur et",
+   "margin": null,
+   "plain": "Quarum prima est differentia unitatum, in qua duplicatur et",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "triplicatur quicquid est inter unum et .{sc:ix}. Secunda differentia",
+   "margin": null,
+   "plain": "triplicatur quicquid est inter unum et .ix. Secunda differentia",
+   "italic": [],
+   "small_caps": [
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "decenorum, in qua duplicatur uel triplicatur quicquid est a",
+   "margin": null,
+   "plain": "decenorum, in qua duplicatur uel triplicatur quicquid est a",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L10",
+   "n": 10,
+   "kind": "text",
+   "text": ".{sc:x}. in nonaginta. Tercia differentia centenorum, in qua du-",
+   "margin": null,
+   "plain": ".x. in nonaginta. Tercia differentia centenorum, in qua du-",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "plicatur uel triplicatur quicquid est a .{sc:c}. in .{sc:dcccc}. Quarta",
+   "margin": null,
+   "plain": "plicatur uel triplicatur quicquid est a .c. in .dcccc. Quarta",
+   "italic": [],
+   "small_caps": [
+    "c",
+    "dcccc"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "uero est differentia milium, in qua duplicatur ac triplicatur",
+   "margin": null,
+   "plain": "uero est differentia milium, in qua duplicatur ac triplicatur",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "quicquid est a mille in .{sc:ix}. {sc:m}. Quinta differentia est .{sc:x̄}. hoc",
+   "margin": null,
+   "plain": "quicquid est a mille in .ix. m. Quinta differentia est .x̄. hoc",
+   "italic": [],
+   "small_caps": [
+    "ix",
+    "m",
+    "x̄"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "modo: quocienscumque ascenderit numerus, adduntur differen-",
+   "margin": null,
+   "plain": "modo: quocienscumque ascenderit numerus, adduntur differen-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "tie: erit dispositio numeri ita: Omne unum quod fuerit in su-",
+   "margin": null,
+   "plain": "tie: erit dispositio numeri ita: Omne unum quod fuerit in su-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "periora ({i:sic}) differentia, erit in inferiori que est ante ipsam .{sc:x}.;",
+   "margin": null,
+   "plain": "periora (sic) differentia, erit in inferiori que est ante ipsam .x.;",
+   "italic": [
+    "sic"
+   ],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "et quod fuerit .{sc:x}. inferiori, erit unum in superiori que pre-",
+   "margin": null,
+   "plain": "et quod fuerit .x. inferiori, erit unum in superiori que pre-",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "cedit eam; et erit inicium differentiarum in dextera scriptoris:",
+   "margin": null,
+   "plain": "cedit eam; et erit inicium differentiarum in dextera scriptoris:",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "et hec erit prima earum, et ipsa posita est unitatibus. Cum",
+   "margin": null,
+   "plain": "et hec erit prima earum, et ipsa posita est unitatibus. Cum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "autem ponerentur .{sc:x}. in loco unius , et fierent in secunda",
+   "margin": null,
+   "plain": "autem ponerentur .x. in loco unius , et fierent in secunda",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "differentia, essetque figura eorum figura unius, necesse fuit",
+   "margin": null,
+   "plain": "differentia, essetque figura eorum figura unius, necesse fuit",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "eis figura decenorum, eo quod similis esset figure unius, ut",
+   "margin": null,
+   "plain": "eis figura decenorum, eo quod similis esset figure unius, ut",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "scirent per eam quod essent .{sc:x}. Proposuerunt igitur ei unam",
+   "margin": null,
+   "plain": "scirent per eam quod essent .x. Proposuerunt igitur ei unam",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "differentiam, et posuerunt in ea circulum paruulum in simi-",
+   "margin": null,
+   "plain": "differentiam, et posuerunt in ea circulum paruulum in simi-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "litudine .o. litere, ut per hoc scirent quod differentia uni-",
+   "margin": null,
+   "plain": "litudine .o. litere, ut per hoc scirent quod differentia uni-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "tatum esset uacua, et nichil numeri esset in ea preter circulum",
+   "margin": null,
+   "plain": "tatum esset uacua, et nichil numeri esset in ea preter circulum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "paruulum, quem diximus occupare eam : et ostenditur quod",
+   "margin": null,
+   "plain": "paruulum, quem diximus occupare eam : et ostenditur quod",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "numerus, qui est in sequenti differentia,esset decenis, et quod",
+   "margin": null,
+   "plain": "numerus, qui est in sequenti differentia,esset decenis, et quod",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "hec esset differentia secunda que est differentia decenorum.",
+   "margin": null,
+   "plain": "hec esset differentia secunda que est differentia decenorum.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "Et posuerunt post circulum in predicta differentia secunda",
+   "margin": null,
+   "plain": "Et posuerunt post circulum in predicta differentia secunda",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "quicquid uoluerunt ex numero decenorum de hoc quod est",
+   "margin": null,
+   "plain": "quicquid uoluerunt ex numero decenorum de hoc quod est",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F009-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "inter .{sc:x}. et .{sc:xc}., et he sunt figure decenorum : figura .{sc:x}. est",
+   "margin": null,
+   "plain": "inter .x. et .xc., et he sunt figure decenorum : figura .x. est",
+   "italic": [],
+   "small_caps": [
+    "x",
+    "xc",
+    "x"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 3 )» stands at the head of the page, centred. The page has no footnotes and no signature.",
+  "Numerals are printed in small capitals between points: «.cc.», «.ccc.», «.dcccc.» (L02-L03, L11), «.ii.» and «.iii.» milia (L04-L05); L13: «.ix. m.», nine thousand, with «m.» in small capitals after the point of «.ix.», and «.x̄.», ten thousand, an x in small capitals with a bar over it.",
+  "L16: «superiora (sic)»: the edition marks the form of the manuscript with «(sic)» in italics.",
+  "L17: the t of the first word, «et», shows its stem and foot but not its cross stroke and its pointed top, so that it looks like an l; transcribed «et».",
+  "L25: «.o. litere», the letter o between points, in roman type.",
+  "Spaces at punctuation: L28, «differentia,esset»: the gap after the comma is 7 px, where the word spaces of the line are 15 to 21 px, and no space is transcribed. Before the colons of L27 («eam :») and L32 («decenorum :») the gap is 10 px, a thin space, and before the semicolons of L02 and L03 and the comma of L20 a full space; transcribed with a space."
+ ],
+ "copy_matter": [
+  "A reader's marks in pencil: L07, a vertical stroke through the «ff» of «differentia»; L28, a curve under «ni» of «decenis», and «decenus» written in the right margin beside the line. Not part of the edition."
+ ],
+ "critical_notes": []
+}

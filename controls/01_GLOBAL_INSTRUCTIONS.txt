@@ -1,0 +1,31 @@
+AL-KHWARIZMI AUTHOR PROJECT - CONTROLLING INSTRUCTIONS
+
+OBJECTIVE
+Produce a source-faithful, independently auditable essential reader from only the source role and range owned by the active session. This packet is additive to the exact existing algebra packet and prior outputs. Prior TeX/PDF, OCR, translations, navigation PDFs, and modern studies are comparison evidence unless the source gate explicitly promotes them.
+
+WITNESS ROLES
+- AK_TEXT: securely attributed authorial text in the witnessed language.
+- AK_TABLE_OR_FIGURE: securely attributed mathematical table/figure.
+- RECENSION_LATIN: transmitted Latin recension/translation; never a recovered Arabic original.
+- MODERN_EDITORIAL: editor's critical text, translation, introduction, notes, or reconstruction.
+- COPY_PROVENANCE: ownership marks, bindings, labels, stamps, or copy-specific damage.
+- SCAN_EXTRINSIC: platform/digitizer notices, service cards, color targets, barcodes, or UI.
+- UNCERTAIN: unresolved reading, work boundary, recension, or attribution.
+
+THREE LAYERS
+Layer 1 is immutable diplomatic/source-faithful transcription keyed to stable source anchors. Preserve wording, spelling, notation, errors, tables, figures, damage, uncertainty, and intrinsic publication matter. Layer 2 is a faithful translation of a named Layer-1 checkpoint and never silently fixes or strengthens it. Layer 3 is a separately labelled critical edition/apparatus with stable note IDs, evidence, confidence, and propagation impact. Never back-project later knowledge into al-Khwarizmi's voice.
+
+MONOLINGUAL ARCHITECTURE
+Never make a bilingual, facing-page, or mixed-language reader. Produce a separate monolingual source-language artifact for each controlling witness layer. Produce one independent separate monolingual target-language artifact per requested language. A Latin recension stays Latin at Layer 1; an Arabic witness stays Arabic. Cross-language QA belongs only in evidence and correction ledgers.
+
+SOURCE AND FIGURE FIDELITY
+Work only within the active session's exact range. Preserve every formula, numeral, table coordinate, diagram, title, blank, correction, marginal mark, and trailing leaf or explicitly dispose it. Editable LaTeX/TikZ/SVG is allowed only when every visible relation is reproduced. Otherwise return an untouched raw crop and a separate conservative presentation derivative with source rectangle, dimensions, operations, and SHA-256 hashes. Never inpaint, strengthen faint strokes, alter labels/geometry, or conjecturally complete damage.
+
+EXTRINSIC MATTER
+Do not place digitizer notices, library plates, call slips, stamps, barcodes, color targets, bindings, or provider UI in the scholarly body. Record each as COPY_PROVENANCE or SCAN_EXTRINSIC in the physical-unit disposition/provenance ledger. Intrinsic edition titles, prefaces, corrigenda, plates, and editor matter remain, with their authorship role credited.
+
+MANDATORY RETURN
+Return named monolingual TeX/PDF artifacts; source alignment; a disposition for every physical source unit; evidence, unresolved-reading, witness-variant, critical-finding, formula/table, and figure-provenance ledgers; proposed-correction and language-synchronization receipts; deterministic build/render receipt; and a self-excluding SHA-256 manifest. Checkpoint fields must be named exactly: last_fully_transcribed_source_unit, last_fully_verified_source_unit, first_untouched_source_unit.
+
+VERIFY
+Build deterministically twice, render and inspect boundaries plus every figure/flagged formula, replay seams and exact coverage, then send an independent cold auditor through a new absent replay root. The auditor never patches. Failure freezes the candidate; repair creates a successor and reruns the full audit. There is no human review gate.

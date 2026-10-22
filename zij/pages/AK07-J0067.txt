@@ -1,0 +1,53 @@
+@page 67 35
+@lang de
+% JP2 0067: Suter's commentary, p. 35: chapter 2 continued: the intercalation in December; Table 1 of the eras and the
+% bracketed addition of the text (pp. 3-4); the intervals between the eras; the Spanish era (note 1).
+keit hatte, im Osten aber unbekannt war ; es sagen ja auch die Verfasser der {i:Alphon-}
+{i:sinischen} Tafeln (nach {sp:Nallino}) : {i:Dissentiunt de mense cui dies bissextus addere debeant ;}
+{i:alii enim mensi Decembri eum addunt, alii Februario.} Dasselbe sagen auch spätere
+westarabische Autoren.
+@p Im letzten Alinea dieses Kapitels ist auf eine Tafel verwiesen, die die Zeiten
+angibt, die seit dem Eintreten wichtiger Ereignisse, wie z. B. der Sündflut, oder der
+Thronbesteigung (bezw. des Todes) hervorragender Herrscher bis zu einem gewissen
+Zeitpunkt verflossen sind ; diese Tafel steht in den Manuskripten nicht an erster Stelle,
+weil sie aber im Texte zuerst erwähnt wird, haben wir sie auch als Tafel 1 gesetzt.
+Diese Tafel wird auch in dem in eckige Klammern eingeschlossenen Zusatz (p. 3—4)
+erwähnt, der nur in den Mss. CMN vorkommt. Das dieser Zusatz im arabischen
+Ms. {sp:Kh.}’s nicht gestanden, auch von {sp:Maslama} nicht hinzugefügt worden sein kann,
+beweisen gewisse Sätze desselben, wie z. B. : {i:nos vero latinorum studemus utilitati, ideo}
+{i:et in primis tabulam suppositam praenotavimus, per quam ab eo quidem anno quo hic}
+{i:liber in nostrum sermonem translatus est} . . . . Dieser Zusatz ist also als Kommentar
+oder Scholium des Übersetzers oder eines Abschreibers zu betrachten, und weist uns
+vielleicht auch darauf hin, dass die Mss. CMN von einer andern Übersetzung her-
+stammen könnten als O (vergl. meine Einleitung).
+@p In diesem Zusatz ist die Zeit, die von der Sündflut bis auf {i:Dhū’l-Ḳarnain},
+d. h. bis zum Beginn der {i:Seleucidischen Aera} verflossen war, zu IIDCCXCIII Jahren,
+II Monaten, V Tagen angegeben ; das II vor D sollte geschrieben sein {ov:II} und bedeutet
+dann MM, die Zeit beträgt also 2793 J. 2 M. 5 T. — Die Tafel 1 ist sehr ungeordnet
+in Bezug auf die verschiedenen Aeren, ich gebe im folgenden die wichtigsten in
+direkter Reihenfolge an :
+@t Von {sp:Adam} bis zum {i:Diluvium} | | | 2280 Jahre | | |
+@t Vom {i:Diluvium} bis auf {sp:Nabukodonossor}{sup:1}) | | | 2356 „ | 7 Mon. | 23 Tg. |
+@t Von {sp:Nabukodonossor} bis auf {sp:Alexander} | | | 436 „ | 6 „ | 12{sup:1}/{sub:2} „ | (?)
+@t Von {sp:Alexander} bis auf {sp:Christus} | | | 311 „ | 3 „ | |
+@t Von {sp:Christus} bis auf die {i:Hidjra} | | | 621 „ | 6 „ | 15 „ |
+@t Von der {i:Hidjra} bis auf {sp:Yezdegird} | | | 9 „ | 11 „ | 4 „ |
+@p In dieser Tafel 1 ist auch zweimal eine {i:Aera azofar} genannt ; es ist dies eine
+in Spanien vor und nach der Zeit {i:Maslamas} unter der christlichen Bevölkerung
+gebräuchliche Aera, die genau 38 Jahre vor unserer christlichen Zeitrechnung ihren
+Anfang hatte, wie es auch unsere Tafel 1 in der fünft- und viertletzten Zeile richtig
+angibt ; nach der sechst- und siebtletzten Zeile aber wäre der Unterschied beider
+Aeren 38 Jahre und 2 Tage, hier wird wohl ein Fehler vorliegen. — Diese spanische
+Aera hiess bei den Arabern {i:ta’rīkh al-ṣufr} (gesprochen {i:aṣ-ṣufr}) ; ob dies mit {i:ṣifr}
+@n {sup:1}) Dies ist die von {sp:Ptol.} gebrauchte {i:Aera Nabonassars} ({sp:Batt.} u. a. nennen ihn {i:Bukhtanassar}
+@n {i:primus}), am 26. Februar 747 v. Chr. beginnend ; dies stimmt allerdings nicht ganz mit den obigen
+@n Angaben.
+@obs The page number «35» stands at the head of the page, centred, with a rule below it. At the foot, the signature «5*» on the right. L01: «keit» completes «Giltig-» at the end of p. 34 (JP2 0066, L40).
+@obs L25-L30: the intervals between the eras, set as a table of six rows: the names are joined to the figures by dotted leaders, which are not transcribed, and the units «Jahre», «Mon.» and «Tg.» are repeated by ditto marks, „; L27 ends with Suter's «(?)». Each printed row is one line here, the cells separated by our «|»; the empty cells after the first give its words room and are not printed.
+@obs L19-L22: «IIDCCXCIII» is printed without a bar; in L21 the «II» that Suter says should be written is printed with a bar over it, as {ov:II}. Checked: MMDCCXCIII is 2793. The table agrees with this figure: 2356 years 7 months 23 days and 436 years 6 months 12½ days, with months of thirty days, make 2793 years 2 months 5½ days, the time from the Deluge to the era of Alexander that the addition gives.
+@obs L28-L30. Checked: from the era of the Seleucids, 1 October 312 B.C., to 1 January of the first year A.D. are 311 Julian years and 3 months (113685 days); from 1 January A.D. 1, 621 years 6 months 15 days reach 16 July 622, the civil epoch of the Hijra; from the astronomical epoch, 15 July 622, to 16 June 632 are 3624 days, which are 9 years of 365 days, 11 months of 30 days and 9 days, al-Battānī's 9 years 11 months 9 days, where the table has 4 days (see p. XV, JP2 0019).
+@obs Note 1: the era of Nabonassar. Checked: from 26 February 747 B.C. to 1 October 312 B.C. are 159101 days, 435 Egyptian years of 365 days, 10 months of 30 days and 26 days, or 435 Julian years 7 months 5 days; neither agrees with the 436 years 6 months 12½ days of L27, as the note says.
+@obs L31-L37: the Spanish era («Aera azofar», «ta’rīkh al-ṣufr»), 38 years before the Christian era; the four lines of Table 1 that Suter cites are to be compared with the table. L32: «Maslamas» in italics, where the name is spaced elsewhere (L12). L36: a speck on the base line after «2»; L30: a speck above the line before «der»; L03: a speck above the line after «Februario.»; not transcribed. L29: a thin oblique stroke, lighter than the print, between the ditto mark after «6» and «15»; not transcribed.
+@obs Spaced type, marked {sp:}: «Nallino», «Kh.», «Maslama», the names of the table, «Ptol.», «Batt.»; italics: the Latin quotations, the Arabic words, «Alphonsinischen», «Seleucidischen Aera», «Diluvium», «Hidjra», «Aera azofar», «Aera Nabonassars», «Bukhtanassar primus». L22: «2793 J. 2 M. 5 T.», years, months, days.
+@obs The colons and semicolons stand after the thin space of the edition (11-15 px measured; «debeant ;», in italics, 12 px).
+@critical AK07-CN049 | misprint | L11 | Das dieser Zusatz | Dass dieser Zusatz | the clause «dieser Zusatz … nicht gestanden, auch von Maslama nicht hinzugefügt worden sein kann» is the subject of «beweisen gewisse Sätze desselben» (L13) and needs the conjunction «dass», as in «dass die Mss. CMN» (L17); one s is printed | high | none

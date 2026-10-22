@@ -1,0 +1,45 @@
+@page 42 ٢٦
+% Frame 042, printed p. 26: the demonstration of the sixth case, three roots and four equal a square: the square اد;
+% the rectangle هد of three roots cut from it leaves هب, the four; the side هح halved at the point printed ع; the
+% square هط, two and a quarter; the square عم, six and a quarter, made of هط and the four (the surfaces ان and كل);
+% its side اع, two and a half, and the half of the roots, one and a half, make the side of the square (continued on
+% the next page). The figure stands at the left of lines 14-21, which are set in a narrower measure beside it. No
+% footnotes on this page.
+كله يجمع الثلاثة الأجذار والأربعة التى ذكرناها وكل سطح مربع فان أحد
+أضلاعه فى واحد جذره فقطعنا من سطح {ov:اد} سطح {ov:هد} فجعلنا أحد أضلاعه
+الذى هو {ov:هح} ثلاثة التى هى عدد الأجذار وهى مثل {ov:زد} فتبين لنا أن سطح
+{ov:هٮ} هو الأربعة المزيدة على الأجذار فقطعنا ضلع {ov:هح} الذى هو ثلاثة
+أجذار نصفين على نقطة {ov:ع} ثم جعلنا منه سطحا مربعا وهو سطح {ov:هط} وهو
+ما كان من ضرب نصف الأجذار الذى هو واحد ونصف فى مثله وهو اثنان
+وربع ثم زدنا فى خط {ov:عط} مثل خط {ov:اه} وهو خط طل فصار خط {ov:عل}
+مثل خط {ov:اع} وخط {ov:ك{inv:ن}} مثل خط {ov:طل} وحدث سطح مربع متساوى
+الأضلاع والزوايا وهو سطح {ov:عم} وقد تبين لنا أن خط {ov:ع} مثل خط {ov:مل}
+وخط {ov:اع} مثل خط {ov:عل} فبقى خط {ov:عح} مثل خط {ov:{inv:ن}ز} وخط {ov:م{inv:ن}} مثل
+خط {ov:طل} فيفضل من سطح {ov:هٮ} مثل سطح {ov:كل} وقد علمنا أن سطح {ov:از}
+هو الأربعة الزائدة على الثلاثة الاجذار فصار سطح {ov:ا{inv:ن}} وسطح {ov:كل} مثل
+سطح {ov:از} الذى هو الاربعة العدد فتبين لنا أن سطح {ov:عم} هو نصف الاجذار
+الذى هو واحد ونصف فى مثله
+وهو اثنان وربع وزيادة الأربعة
+التى هى سطح {ov:ا{inv:ن}} وسطح {ov:كل} وقد
+بقى لنا من ضلع المربعة الأوله التى
+هى سطح {ov:اد} وهو المال كله نصف
+الاجذار وهو واحد ونصف وهو
+خط {ov:عح} فاذا زدناه على خط {ov:اع}
+الذى هو جذر سطح {ov:عم} اثنان
+@fig AK01-F042-FIG1 160 2285 1172 3305 after=13
+@obs The figure, drawn, not set in type: the square of the māl, divided by two horizontal and two vertical lines; the square on the right between the two horizontal lines is marked ٢ ١/٤ (the square هط). Its labels: ب, م and ا along the top; ز on the left side and ه on the right side, at the level of the upper horizontal line; ك and ن inside, at that line; on the right side below ه, at the level of the lower horizontal line, a letter shaped like ح without a dot (the point that halves هح); ل and ط at the foot of the two inner vertical lines; د at the lower left corner and, at the lower right corner, ح in a flat form like the initial form of the letter. It has no ع. Its ب has no dot.
+@obs Letters printed as the labels of the figure carry a short wavy line above them (here a line above), over the second letter of a label of two letters. The label طل of L07 is printed without it and is transcribed without it; the same label has it in L08 and L11.
+@obs The point that halves هح, and the lines and surfaces that end there, are named with ع thirteen times: نقطة ع (L05); عط, عل (L07); اع (L08); عم, ع (L09); اع, عل, عح (L10); عم (L13); عح, اع (L20); عم (L21). It is the sort of frames 036, 038 and 041: a closed head and a tail, without a dot. See the critical note AK01-CN006. The lower right corner of the square is named with ح, in the flat form of the corner label of the figure: هح (L03, L04), عح (L10, L20).
+@obs L09: the label after خط is the single letter ع, after an empty space of 63 px (nearest approach of the letters at 400 ppi); before the label اع of L08 the space is 33 px. See the critical note AK01-CN007.
+@obs The ن of the labels is printed upside down every time on this page, as on frame 038: كن (L08), نز and من (L10), ان (L12, L16); an arch open below with the dot under its top. Transcribed {inv:ن} and set upside down in the PDF. See the critical note AK01-CN008.
+@obs The ب of the label هب (L04, L11) is printed without its dot, as in all the labels with ب on frames 036-038; transcribed ٮ, the dotless form.
+@obs In واحد ونصف (L06, L14, L19) and in the label اد before وهو (L18) the د and the و stand 21 to 25 px apart (nearest approach of the letters at 400 ppi). Without a word space these letters stand 6 to 7 px apart (دونه, frame 031; الجذور, frame 043), so the gap is a narrow word space, and a space is transcribed. Every word that ends in a non-connecting letter is followed by a space of 21 to 78 px.
+@obs L01: the word ذكرناها is set loosely to fill the line: its ذ and كر, and its كر and ناها, stand 46 and 35 px apart, as far as the word spaces of the line, while the word stands at the usual distance from its neighbours. Like the elongation strokes, these gaps stretch the line; they are not transcribed.
+@obs Plain alif where a hamza might be expected, as printed: فان (L01), الاجذار (L12, L13, L19; L01, L03, L04 and L06 have الأجذار), الاربعة (L13; L01, L04, L12 and L15 have الأربعة), فاذا (L20).
+@obs Without tanwīn as printed: سطحا, مربعا (L05).
+@obs L17: الأوله, with a final ه without dots, where المربعة on the same line has the dotted ة.
+@obs The print stretches some words with the elongation stroke (kashīda) to fill the line, as والأربعة (L01), فقطعنا (L04), فيفضل (L11), واحد (L14); the stroke is not transcribed.
+@obs L21 ends without punctuation; the sentence runs on to the next page.
+@critical AK01-CN006 | labels of the text and of the figure disagree | L05 | ع, thirteen times (L05, L07, L08, L09, L10, L13, L20, L21) | ج | The text names with ع the point at which the side هح is halved, and the lines and surfaces that end there. The figure on this page has no ع: at that point it has a letter shaped like ح without a dot, distinct from the ح at the corner, which the text also names ح. Without ع, the labels of the text are ا ب د ه ز ح ط ك ل م ن, the abjad letters to ن without و and ي, and without ج. On frame 036 the same sort stands where the figure has ج (AK01-CN001), and on frames 038 and 041 where the manuscript, in the facsimile of frame 039, writes ج (AK01-CN003); the page of the manuscript with the sixth case is not reproduced. | high that ع stands for the ج of the figure | none on the mathematics: the labels only name the points and lines of the figure
+@critical AK01-CN007 | missing letter | L09 | ع | اع | The clause names a line equal to مل with the single letter ع, after an empty space wide enough for one more letter; the wavy line stands over the ع, as it stands over the second letter of the labels of two letters. In the figure, the line from ا to the point that halves هح is as long as مل (both are sides of the square عم, two and a half), and the text names that line اع (L08, L10, L20). The ا seems to have dropped out of the print. | medium: the reading اع rests on the figure and on the empty space | none on the mathematics: the next clause names the same line in full
+@critical AK01-CN008 | turned letter | L08 | ن printed upside down in كن (L08), نز, من (L10), ان (L12, L16) | ن | Turned through 180 degrees, the letter has the shape of the ن of the text type, a bowl open above with the dot over it; the figure has an upright ن. The same on frame 038 (AK01-CN004). | high | none on the mathematics: only the position of the letter is in error

@@ -1,0 +1,25 @@
+{
+ "anchor": "AK05-F191",
+ "frame": 191,
+ "frame_file": "page_191.jpg",
+ "frame_sha256": "461ec655f8caa11eca0f2ac1f6c60f1799ab56b4dfca2742bed1674d081cfd1f",
+ "printed_page": "XXII",
+ "kind": "editorial",
+ "role": "MODERN_EDITORIAL (not reproduced)",
+ "comment": "Frame 191, printed p. XXII: the editor's introduction continued, in German.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [
+  "the editor's introduction, p. XXII, in German: 28 printed lines, with numerals and page numbers in Arabic type"
+ ],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Topics of the page, with the entries and notes that it cites (the introduction is read for understanding and not reproduced or paraphrased): the minute digit ه and other minute digits read for the zero sign, with the latitude of Alexandria (٢٣٤) (frame 024) and the variants of p. 77 (frame 083).",
+  "The introduction, pp. V-XXXI, is bound in the reverse order of its pages, from p. XXXI (frame 182) to p. V (frame 208); the frames keep the physical order, and the introduction is read from frame 208 back to frame 182. This page follows p. XXI (frame 192); p. XXIII follows on frame 190.",
+  "The page number «— XXII —» stands at the foot, centred. The page has no footnotes."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

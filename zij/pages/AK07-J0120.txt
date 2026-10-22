@@ -1,0 +1,45 @@
+@page 120 88
+@lang de
+% JP2 0120: Suter's commentary, p. 88: chapter 33 continued: respiratio and emersio; al-Battānī's rules for the casus
+% and the half mora, with two figures; the correction of the differences between the far and the near distance by
+% the tabula proportionis; the corrected digits, casus and half mora of the example (note 1).
+{i:ἀναπλήρωσις} = das „Wiedervollmachen“ (des Mondes) entspricht ; besser wäre {i:emersio}
+statt {i:respiratio.}
+@p Für die Berechnung der Minuten des {i:Casus} und der {i:Mora} geben wir ebenfalls
+die Regeln {sp:Batt.}’s (I, 98, Z. 5—14) und zeigen ihre Richtigkeit an der Hand folgender
+zwei Figuren. {sp:Batt.} sagt zuerst : Vom Quadrat der Summe der beiden Radien ({i:MS}{sup:2}
+in Fig. 3) subtrahiere das Quadrat der Breite des Mondes ({i:SN}{sup:2}), so gibt die Wurzel
+aus der Differenz (also {i:MN}), durch die stündliche Bewegung des Mondes geteilt, die
+Zeit vom Beginn der Finsternis bis zur Mitte der totalen Verfinsterung (also {i:Casus}
+und {i:halbe Mora} zusammen). — Zweitens sagt er : Wenn totale Verfinsterung stattfindet
+(und man will die Zeit dieser allein kennen), so subtrahiere man den Monddurch-
+messer ({i:MT} in Fig. 4) von der Summe der beiden Radien ({i:ST}){sup:1}), vom Quadrate dieser
+Differenz ({i:SM}{sup:2}) subtrahiere man das Quadrat der Breite des Mondes ({i:SN}{sup:2}), so gibt die
+Wurzel aus der Differenz (also {i:MN}), durch die stündliche Bewegung des Mondes geteilt,
+die halbe Zeit der totalen Verfinsterung (also die {i:halbe Mora}). Subtrahiert man diese
+von der nach der ersten Regel erhaltenen Zeit, so erhält man die Zeit des {i:Casus.}
+@t Fig. 3. | Fig. 4.
+@p Kehren wir nun zu den oben erhaltenen Differenzen zwischen den Daten der
+Erdnähe und Erdferne zurück. Diese erfahren nun eine Korrektur, die von der
+Änderung des Monddurchmessers in seiner Bewegung vom Apogeum zum Perigeum
+herrührt, und die mit Hilfe der zweitletzten Kolonne von Tafel 74 (bezw. 73) bestimmt
+wird, überschrieben {i:Tabula proportionis.} Man tritt mit der {i:Anomalia aequata} (korrig.
+Anomalie), die in unserm Falle rund 285° 45′ ist (s. oben p. 85), in diese Kolonne
+ein, der zugehörige Wert, {i:dakaicae superationum} genannt, ist 20′ 43″, mit dieser Zahl,
+die also = 20{cf:43|60} ∶ 60, d. h. in einem Dezimalbruch = 0,345 ist, multipliziert man
+die obigen drei Differenzen, und erhält die Werte :
+@t 0{sup:dig.} 20′ | 1′ 46″ | 2′ 6″
+diese addiert man zu den entsprechenden Werten der zweiten Reihe (für die Erd-
+ferne) und erhält so die korrigierten Werte :
+@t Digiti der Verfinsterung : | Min. u. Sec. des Casus : | Min. u. Sec. der halben Mora :
+@t 19{sup:dig.} 36′ | 31′ 25″ | 23′ 8″
+@n {sup:1}) Dafür hätte er auch einfacher sagen können : den Mondradius ({i:MP}) vom Schattenradius
+@n ({i:SP}).
+@obs The page number «88» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «ἀναπλήρωσις» completes the sentence that ends p. 87 (JP2 0119, L29), «das wiederum dem ptolemäischen»; the Greek in italics, with the smooth breathing on the first α and the acute on the η; ἔμπτωσις, μονή and ἀναπλήρωσις are Ptolemy's words for the immersion, the totality and the emersion of a lunar eclipse.
+@obs Between L15 and L16 two figures side by side; they are not reproduced; L16 has their captions, «Fig. 3.» and «Fig. 4.», each centred under its figure. Fig. 3: a large semicircle, the earth's shadow, on a base line E S K, S its centre; a vertical line from S to the top of the semicircle, with N on it; the small circle of the moon about M at the upper right, outside the semicircle, which crosses the lower left part of the small circle; the horizontal line N M and the line S M. Fig. 4: the same semicircle with E, S and K, the vertical line from S with N on it; the small circle about M inside the semicircle, touching it at P at the upper right; the horizontal line N M and the line from S through M and P to T outside the semicircle. The letters are italic.
+@obs L03-L15 and N01-N02. Checked: with R the radius of the shadow, r that of the moon and SN the latitude of the moon, the moon's centre at the first contact lies at MS = R + r from S (Fig. 3, where the drawing shows the circles overlapping rather than touching), and MN = √((R + r)² − SN²) is the arc of the moon's path to the middle of the eclipse; at the beginning of totality (Fig. 4) SM = R − r = ST − MT, with ST = R + r and MT = 2r, or SP − MP (note 1), and MN = √((R − r)² − SN²) is the arc to the middle; divided by the moon's hourly motion relative to the shadow they give casus with half mora, and half mora; their difference is the casus.
+@obs L17-L30. Checked: 20′ 43″ = 20 43/60 : 60 = 0.3453; 58′ × 0.345 = 20.0′, «0 dig. 20′»; 5′ 6″ × 0.345 = 1′ 45.6″, «1′ 46″»; 6′ 6″ × 0.345 = 2′ 6.3″, «2′ 6″»; 19 dig. 16′ + 20′ = 19 dig. 36′; 29′ 39″ + 1′ 46″ = 31′ 25″; 21′ 2″ + 2′ 6″ = 23′ 8″. The proportion 0.345 at the corrected anomaly 285° 45′ (74° 15′ from the apogee) is the fraction of the way from the greatest to the least distance of the moon on an epicycle of radius 5p 10′ (p. 46, JP2 0078): the distance √(60² + 5;10² + 2 · 60 · 5;10 · cos 74° 15′) = 61p 36′ lies 0.3448 of the way from 65p 10′ to 54p 50′, 20′ 41″ in sixtieths, where (1 − cos 74° 15′) : 2 would give 21′ 51″. The values of Tables 73, 74 and 76 are to be compared with the tables. With the corrected argument of latitude 359° 11′ 53″ (p. 85) the latitude of the moon is about 3′ 47″ south, so that the eclipse is nearly central.
+@obs L24: «20 43/60 ∶ 60», the case fraction written {cf:43|60}, the colon of the division with a word space on either side (21 px), written ∶ (U+2236). L26 and L30: «0dig. 20′», «19dig. 36′», the abbreviation raised in the smaller type; the values set in three columns under the heads of L29 and of p. 87 (JP2 0119, L01); L29 in the smaller type, with a colon after «Mora», where p. 87 has a full stop. Each printed row is one line here, the cells separated by our «|».
+@obs L05, L06, L12: «MS2», «SN2», «SM2», the 2 raised and upright. The dashes: L04 «5—14», the long dash set close; L09 «zusammen). — Zweitens», the long dash with a space on either side.
+@obs Spaced type, marked {sp:}: «Batt.»; italics: the Greek word, «emersio», «respiratio.», «Casus», «Mora», «halbe Mora», the letters of the figures, «Tabula proportionis.», «Anomalia aequata», «dakaicae superationum».
+@obs The other colons and the semicolon stand after the thin space of the edition (8-14 px measured).

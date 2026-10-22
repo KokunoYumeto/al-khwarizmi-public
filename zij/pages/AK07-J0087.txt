@@ -1,0 +1,50 @@
+@page 87 55
+@lang de
+% JP2 0087: Suter's commentary, p. 55: the end of chapter 11 (the true place of Venus, 23° 37½′ of Virgo, and
+% al-Battānī's value); chapter 12, the longitude of the lunar nodes; chapter 13, the stations and the direct and
+% retrograde motion of the planets: the rule, al-Battānī's slip («et» for «aut»), the example of Saturn begins (note 1).
+173° 37{sup:1}/{sub:2}′ ; dies war die {i:wahre Länge} der Venus zu der gegebenen Zeit, d. h. dieselbe
+befand sich in 23° 37{sup:1}/{sub:2}′ der Jungfrau.
+@p Nach den Tafeln {sp:Batt.}’s findet man die wahre Länge = 181° 17′. Dass hier der
+Unterschied nicht 10° wie bei Saturn, sondern nur etwa 7° 40′ beträgt, rührt davon
+her, dass die mittlere Anomalie der Venus bei {sp:Kh.} c. 5° grösser ist als bei {sp:Batt.}
+@c {b:Kap. 12. Bestimmung der Länge der Mondknoten.}
+@c (Text p. 12, Tafeln 19 u. 20.)
+@p Es wird wie bei {sp:Batt.} nur der aufsteigende Knoten (Drachenkopf) berücksichtigt,
+weil die Länge des absteigenden (Drachenschwanzes) um 180° von jenem abweicht.
+Die mittlere Länge wird berechnet wie die der Sonne und des Mondes nach den
+Tafeln 19 u. 20 für jeden gegebenen Zeitpunkt, das Ergebnis wird dann von 360°
+abgezogen, weil die Bewegung der Knoten retrograd ist, der Rest ist die wahre Länge
+des Knotens. Ich unterlasse es hiefür ein Beispiel zu geben.
+@c {b:Kap. 13. Über die Stationen und das Vor- und Rückwärtsschreiten der Planeten.}
+@c (Text p. 12, Tafeln 27—56.)
+@p {sp:Kh.} stellt für diese Bestimmungen keine eigenen Tafeln auf, wie {sp:Batt.} II, 138
+u. 139, sondern hat in den Tafeln für die Gleichungen der Planeten eine besondere
+Kolonne hiefür, betitelt {i:Statio prima} ; die Kolonne {i:Statio secunda} bei {sp:Batt.}, die nur
+die Ergänzungen der Zahlen der {i:Statio prima} zu 360° enthält, lässt {sp:Kh.} weg.
+@p Die Regel ist folgende : Für irgend einen gegebenen Zeitpunkt bestimme man wie
+bei der Berechnung des wahren Ortes des Planeten sein {i:Centrum aequat.} ({i:examinat.}),
+suche zu diesem Argument die {i:Statio prima}, subtrahiere sie von 360°, so hat man
+die {i:Statio secunda} ; dann bestimme man auch die {i:Anomalia} ({i:elheza}) {i:examinata} des
+Planeten in diesem Zeitpunkte, ist diese einer der beiden Stationen gleich, so ist der
+Planet stationnär, ist sie aber zwischen den beiden, also grösser als die erste und
+kleiner als die zweite, so ist er rückwärtsgehend, im andern Falle (also kleiner als
+die erste, oder grösser als die zweite) vorwärtsschreitend.{sup:1})
+@p Ganz gleich lautet die Regel bei {sp:Batt.} (I, 114), nur lässt dieser (wohl weil er
+es für selbstverständlich hielt) den Fall weg, wo die Anomal. exam. einer der beiden
+Stationen gleich ist.
+@p {i:Beispiel} : Wie verhielt es sich in dieser Beziehung mit Saturn am Mittag des
+15. Ṣafar des Jahres 540 d. H. ?
+@p Wir haben oben (p. 53) für Saturn gefunden :
+@t | Centrum aequatum | | Anomalia aequata |
+@t | 139° 31{sup:1}/{sub:2}′ | | 109° 24{sup:1}/{sub:2}′ |
+@n {sup:1}) Der zweite Satz bei {sp:Batt.} : {i:si contra maior secunda statione et minor prima, directus}, hat
+@n einen kleinen Fehler, denn so ist der Fall unmöglich, es muss einfach statt {i:et} heissen {i:aut} ; der
+@n Fehler befindet sich schon im arab. Text, wo statt {i:wa} stehen sollte {i:aw} (au). (Ed. {sp:Nallino}, I, 114
+@n u. III, 173).
+@obs The page number «55» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L02 end the example of Venus begun on p. 54 (JP2 0086, L18-L35). L06-L07 and L14-L15: the headings of chapters 12 and 13, in bold, centred, each with the reference to the text below it.
+@obs L01-L05. Checked: 114° 28½′ + 59° 9′ = 173° 37½′ (p. 54, L34-L35), which is 23° 37½′ of Virgo (from 150°); 181° 17′ − 173° 37½′ = 7° 39½′, Suter's «etwa 7° 40′». The «10°» of Saturn is the difference of the mean longitudes, 9° 40′ (p. 54, JP2 0086, L01-L03).
+@obs L16-L30: the stations: the column «Statio prima» of the tables of the equations, entered with the centrum aequatum, gives the anomaly of the first station, and 360° less it that of the second; the planet is stationary when its anomaly equals one of them, retrograde between them, direct otherwise. N01-N04. Checked: the second station being 360° less the first, and greater than it, no anomaly can be greater than the second and at the same time less than the first, so that al-Battānī's condition with «et» is never fulfilled; with «aut» it is the complement of the arc of retrogradation, as Suter says. «wa» and «aw» (N03), the Arabic «and» and «or», in italics.
+@obs L34-L35: the two values of p. 53 (JP2 0085): the centrum aequatum, 139° 31′ 30″ (L17-L18), and the argument (anomaly) examinatum, 109° 24′ 30″ (L21-L22), here called «Anomalia aequata»; set in two columns, each head centred over its value. Each printed row is one line here, the cells separated by our «|»; the empty cells give the columns room and are not printed.
+@obs L25: «stationnär», as printed. L21: «(examinat.)», the word in italics within upright brackets; L23 «(elheza)» likewise. Spaced type, marked {sp:}: «Batt.», «Kh.», «Nallino»; italics: «wahre Länge» (L01), «Statio prima», «Statio secunda», «Centrum aequat.», «Anomalia … examinata», «Beispiel», and the Latin and Arabic words of N01-N03.
+@obs The colons, semicolons and the question mark stand after the thin space of the edition (11-15 px measured; «d. H. ?» 13 px, «Batt. :» in N01 14 px, «aut ;» in N02 11 px).

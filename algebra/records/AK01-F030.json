@@ -1,0 +1,178 @@
+{
+ "anchor": "AK01-F030",
+ "frame": 30,
+ "frame_file": "page_030.jpg",
+ "frame_sha256": "093230e883896a8bd28a9ce3ff256ab97c828b6c65a7f68360c8cda3307bb586",
+ "printed_page": "١٦",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 030, printed p. 16 (the number is printed between dashes at the head of the page): the end of the preface, the purpose of the book (inheritance, legacies, partition, lawsuits, trade, the measuring of land and the digging of canals, geometry), and the beginning of the work: number is composed of units; the three kinds of number used in algebra. One footnote of the editors (١).",
+ "lines": [
+  {
+   "id": "AK01-F030-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "ألفت من كتاب الجبر والمقابلة كتاباً مختصراً حاصراً للطيف الحساب وجليله",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F030-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "لما يلزم الناس من الحاجة إليه فى مواريثهم ووصاياهم وفى مقاسمتهم وأحكامهم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F030-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وتجاراتهم ، وفى جميع ما يتعاملون به بينهم من مساحة الأرضين وكرى الأنهار",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F030-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "والهندسة وغير ذلك من وجوهه وفنونه ، مقدما لحسن النية فيه وراجيا لأن",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F030-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "ينزله أهل الأدب بفضل مااستودعوا من نعم الله تعالى وجليل آلائه وجميل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F030-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "بلائه عندهم منزلته وبالله توفيق فى هذا وفى غيره عليه توكلت وهو رب العرش",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F030-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "العظيم . وصلى الله على جميع الانبياء والمرسلين . وإنى لما نظرت فيما يحتاج اليه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F030-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "الناس من الحساب وجدت جميع ذلك عدداً ووجدت جميع الأعداد إنماتركبت",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F030-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "من الواحد والواحد داخل فى جميع الأعداد . ووجدت جميع ما يلفظ به من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F030-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "الأعداد ما جاوز الواحد إلى العشرة يخرج مخرج الواحد ثم تثنى العشرةوتثلث",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F030-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "كما فعل بالواحد فتكون منها العشرون والثلاثون الى تمام المائة . ثم تثنى المائة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F030-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "وتثلث كما فعل بالواحد وبالعشرة إلى الألف ثم كذلك تردد الألف عند كل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F030-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "عقد إلى غاية المدرك من العدد . ووجدت الأعداد التى يحتاج إليها فى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F030-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "حساب الجبر والمقابلة على ثلاثة ضروب {n:١} وهى جذور وأموال وعدد مفرد",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١"
+   ],
+   "lines": 8,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Set without a word space after a non-connecting letter, and transcribed so: مااستودعوا (L05), إنماتركبت (L08); after the tā' marbūṭa: العشرةوتثلث (L10).",
+  "Plain alif where a hamza might be expected, as printed: الانبياء and اليه (L07, where L02 has إليه), الى (L11, where L10, L12 and L13 have إلى).",
+  "Without tanwīn as printed: مقدما, وراجيا (L04); with tanwīn on the final alif: كتاباً, مختصراً, حاصراً (L01), عدداً (L08).",
+  "The final yā' is printed without dots (فى, وكرى, تعالى, وإنى, التى, تثنى, وهى).",
+  "L06: وبالله توفيق فى هذا, as printed: توفيق without the yā' of the first person."
+ ],
+ "copy_matter": [
+  "Pencil marks of a reader of the Columbia copy: underlines under L01-L04 and L08; a vertical stroke in the right margin beside L01-L06 with the English words «applications + uses»."
+ ],
+ "critical_notes": []
+}

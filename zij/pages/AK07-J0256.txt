@@ -1,0 +1,53 @@
+@page 256 224
+@lang la
+% JP2 0256: Tab. 109, p. 224: the projection of the rays continued: three fields, for the ascendant at 5°, 10° and
+% 15° of Capricornus, the columns from Capricornus to Gemini, the first two fields with the numbers for the sextile,
+% the quadrature and the trine, the third with the names only, with the apparatus (notes 1-6 and a-n).
+C 99{sup:v}, O 155{sup:r}, N 66{sup:r}.
+@c {b:Quinque}{sup:1}) {b:gradus Capricorni}
+@c {b:Exagonum 53° 9′} — {b:Tetragonum 79° 43′} — {b:Trigonum 107° 18′}
+@tw size=footnotesize 0.95 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62
+@t Gradus | Capricorn. |  | Aquarius |  | Pisces |  | Aries |  | Taurus |  | Gemini |
+@t aequales{sup:4}) | Cancer |  | Leo |  | Virgo |  | Libra |  | Scorpius |  | Sagittar. |
+@t  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 5{sup:a}) | 5 | 28 | 33 | 7 | 55 | 15 | 76 | 13 | 99 | 50 | 131 | 5
+@t 10 | 10 | 40 | 37 | 12 | 58 | 52{sup:b}) | 80 | 18 | 104 | 49 | 136 | 37
+@t 15 | 15 | 30 | 41 | 2 | 62 | 25 | 84 | 14 | 109 | 50 | 142 | 28
+@t 20 | 20 | 20 | 44 | 42 | 65 | 55 | 88 | 3 | 114 | 50 | 148 | 17
+@t 25 | 24 | 48 | 48 | 7 | 69 | 10 | 92 | 3 | 119{sup:c}) | 40 | 153 | 57{sup:d})
+@t 30{sup:a}) | 29 | 2 | 51 | 40 | 72 | 28 | 96 | 0 | 125 | 7 | 159 | 27
+@c {b:Dccem}{sup:2}) {b:gradus Capricorni}
+@c {b:Exagonum 52° 48′}{sup:e}) — {b:Tetragonum 79° 12′} — {b:Trigonum 105° 37′}{sup:f})
+@t 5{sup:g}) | 5 | 30 | 33 | 19 | 55 | 7 | 75 | 46 | 99 | 27 | 130 | 12
+@t 10 | 10 | 35 | 37 | 19 | 58 | 37 | 79 | 23 | 104 | 25 | 135 | 48
+@t 15 | 15 | 25 | 41 | 9 | 62 | 2 | 83 | 7 | 109 | 6 | 141 | 23
+@t 20 | 20 | 8 | 44 | 44 | 65 | 22 | 86 | 45 | 113{sup:i}) | 47 | 147 | 12
+@t 25 | 24 | 45 | 48 | 48 | 68 | 37 | 90 | 45 | 119 | 5 | 152 | 55
+@t 30{sup:g}) | 29 | 9 | 51 | 51 | 71 | 57 | 94 | 47{sup:h}) | 124{sup:k}) | 12 | 158 | 25
+@c {b:Quindecim}{sup:3}) {b:gradus Capricorni}
+@c {b:Exagonum}{sup:5}) — {b:Tetragonum}{sup:6}) — {b:Trigonum}{sup:6})
+@t 5{sup:l}) | 5 | 30 | 33 | 20 | 55 | 1 | 74 | 18 | 96 | 16 | 126 | 33
+@t 10 | 10 | 20 | 37 | 10 | 58 | 8 | 77 | 18 | 101 | 14 | 131 | 48
+@t 15 | 15 | 20 | 40 | 58 | 61 | 28 | 80 | 36 | 105 | 56 | 137 | 36
+@t 20 | 20 | 10 | 44{sup:n}) | 30 | 64 | 48 | 84 | 13 | 110 | 48 | 143 | 23
+@t 25 | 24{sup:m}) | 45 | 48 | 8 | 68 | 8 | 88 | 3 | 115 | 36 | 149 | 3
+@t 30{sup:l}) | 29 | 10 | 51 | 28 | 71 | 28 | 91 | 56 | 120 | 38 | 154 | 38
+@n {sup:1}) Quinque] C, Quintus O, V. N — {sup:2}) Decem] Decimus O, {i:om.} C, X. N — {sup:3}) Quindecim] Quintus
+@n decimus O. {i:om.} C, XV. N — {sup:4}) Gradus aequales] ON, {i:om.} C — {sup:5}) Exagonum] ON, {i:om.} C — {sup:6}) Tetra-
+@n gonum....Trigonum] N, {i:om.} CO; {i:numeros om.} CON.
+@n {sup:a})—{sup:a}) 5—30] ON, {i:om.} C {sup:b}) 52] O, 12 C — {sup:c}) 119] O, 116 C — {sup:d}) 57] O, 17 C — {sup:e}) 48] C, 70 O
+@n {sup:f}) 105. 37] C, {i:om.} O — {sup:g})—{sup:g}) 5—30] ON, {i:om.} C — {sup:h}) 47] C, 107 {i:corr. ex?} O — {sup:i}) 113] C, 103 O —
+@n {sup:k}) 124] O, 123 C — {sup:l})—{sup:l}) 5—30] ON, {i:om.} C — {sup:m}) 24] O, 23 C — {sup:n}) 44] ON, 48 C.
+@obs The page number «224» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 109», in bold sans serif, underlined. The page has no signature and no title: the folios of the manuscripts stand at the left above the double rule of the first field, in one line of their own, «C 99v, O 155r, N 66r.», the letters raised (L01).
+@obs The page holds three fields, as pp. 206-223 (JP2 0238-0255): «Quinque1) gradus Capricorni» (L02), «Dccem2) gradus Capricorni» (L14), with a c for the first e (critical note), and «Quindecim3) gradus Capricorni» (L22), the ascendant at 5°, 10° and 15° of Capricornus. The first two fields have the numbers for the sextile, the quadrature and the trine (L03, L15); the third has only the names, «Exagonum5) — Tetragonum6) — Trigonum6)» (L23): the manuscripts have no numbers there (note 6, «numeros om. CON»), and C omits the names as well. Headings, names and numbers in bold. The columns begin with the sign of the ascendant: «Capricorn. Cancer Horoscopus», «Aquarius Leo Horoscopus», «Pisces Virgo Horoscopus», «Aries Libra Horoscopus», «Taurus Scorpius Horoscopus» and «Gemini Sagittar. Horoscopus», with note 4 at «Gradus aequales4)», which C omits; here each head is set from the top, one printed line to a line (L04-L06), with «Gradus aequales», printed upwards, in L04-L05, and the units in L07. The numbers are counted from the beginning of Capricornus. In each field the first and the last number of the first column carry the paired notes a, g and l: C omits the first column. The second and the third field have no heads. Double rules divide the fields.
+@obs The numbers at the head of a field, as on pp. 206-223 (JP2 0238-0255), are a third, a half and two thirds of the last number of the field: 159° 27′ (L13) gives 53° 9′, 79° 43.5′ and 106° 18′, where the first field has 53° 9′, 79° 43′ and 107° 18′ (L03; critical note); 158° 25′ (L21) gives 52° 48.3′, 79° 12.5′ and 105° 36.7′, printed 52° 48′, 79° 12′ and 105° 37′ (L15). For the third field, without numbers, its last number, 154° 38′ (L29), would give 51° 32.7′, 77° 19′ and 103° 5.3′.
+@obs The columns: in Capricornus the three fields lie within 10′, 10′ and 11′ of the oblique ascensions from the beginning of Capricornus for the latitude 38° 30′ (computed with the obliquity 23° 35′; 5° 21′, 10° 31′, 15° 27′, 20° 10′, 24° 41′, 28° 59′), and in Aquarius above them, by up to 31′, 1° 0′ and 20′; from Pisces on they rise further above them and end 20° 5′, 19° 3′ and 15° 16′ above them (159° 27′, 158° 25′ and 154° 38′ for 139° 22′ at the end of Gemini). From 5° of Aries on the third field lies 1° 28′ to 4° 0′ below the second, where the first lies 23′ to 1° 18′ above the second.
+@obs Notes on the readings. Checked by the rule of the heads, by the other fields, which differ by 5° of the ascendant, and by the steps of the columns: the edition's readings are the nearer at 10° of Pisces in the first field (note b, L09: O's 52 against C's 12, the steps 3° 37′ and 3° 33′ against 2° 57′ and 4° 13′), at 25° of Taurus in the first (note c, L12: O's 119 against C's 116), at 25° of Gemini in the first (note d, L12: O's 57 against C's 17, the steps 5° 40′ and 5° 30′ against 5° 0′ and 6° 10′, the steps before them being 5° 32′ to 5° 58′), in the sextile and the trine of the second (notes e and f, L15: C's 48, against O's 70, which is no number of minutes, and C's 105° 37′, which O omits; a third and two thirds of 158° 25′ are 52° 48.3′ and 105° 36.7′), at 30° of Aries in the second (note h, L21: C's 47 against O's 107, with the editor's question whether O corrected it from another figure), at 20° of Taurus in the second (note i, L19: C's 113 against O's 103), at 30° of Taurus in the second (note k, L21: O's 124 against C's 123, the steps 5° 7′ and 6° 0′ into Gemini against 4° 7′ and 7° 0′), at 25° of Capricornus in the third (note m, L28: O's 24 against C's 23; 24° 45′ lies 4′ above the oblique ascension, 24° 41′, and the steps are 4° 35′ and 4° 25′ against 3° 35′ and 5° 25′) and at 20° of Aquarius in the third (note n, L27: the 44 of O and N against C's 48). Notes a, g and l: C omits the first column.
+@obs Without variants: in the second field 48° 48′ at 25° of Aquarius (L20) lies 41′ and 40′ above the other fields (48° 7′, 48° 8′) and 1° 0′ above the oblique ascension, 47° 48′, between the steps 4° 4′ and 3° 3′; its minutes repeat its degrees. With 48° 18′ the steps would be 3° 34′ and 3° 33′, after 3° 35′, and the field would lie 11′ and 10′ above the others, as it lies 2′ to 12′ above the first and from 1′ below to 23′ above the third in the rest of Aquarius. In the third field the column of Aries rises from the end of Pisces by 2° 50′, 3° 0′, 3° 18′, 3° 37′, 3° 50′ and 3° 53′ (L24-L29), those of the first two fields by 3° 37′ to 4° 5′.
+@obs The lemma of note 6, «Tetragonum....Trigonum», is divided at the end of N02, «Tetra-|gonum»; it has four points. No dash divides the notes e and f at the end of N04 (critical note). The dash between the notes k and l (N06) and that in «g)—g)» (N05) are each broken (12 and 28 px with a gap of 1 px; 28 and 9 px, 2 px); written as one dash. Italics: «om.», «numeros om.», «corr. ex?».
+@critical AK07-CN250 | wrong figure | L03 | 107° 18′ | 106° 18′ | the trine is two thirds of the number of which the sextile 53° 9′ and the quadrature 79° 43′ are a third and a half, the last number of the field, 159° 27′ (L13), whose two thirds are 106° 18′; a 7 is printed for the 6 | high | none
+@critical AK07-CN251 | wrong letter | L14 | {b:Dccem}{sup:2}) | {b:Decem}{sup:2}) | the lemma of note 2 reads «Decem» (N01), as the headings of the fields of 10° on pp. 206-222 (JP2 0238-0254); a c is printed for the first e, or an e that has lost its bar | high | none
+@critical AK07-CN252 | wrong punctuation | N02 | decimus O. {i:om.} C | decimus O, {i:om.} C | the readings of a note are divided by a comma, as «Decimus O, {i:om.} C, X. N» in note 2 (N01); a point is printed after O | high | none
+@critical AK07-CN253 | missing dash | N04 | {i:om.} C {sup:b}) | {i:om.} C — {sup:b}) | the notes of the apparatus are divided by a long dash, as between the notes b and c after it; between the notes a and b only a wide space is printed, as between z and α on p. 124 (JP2 0156; critical note AK07-CN101) | high | none
+@critical AK07-CN254 | missing dash | N04 | 70 O | 70 O — | the notes of the apparatus are divided by a long dash; after the readings of note e, at the end of the line, none is printed before note f at the start of the next, as after note 2 on p. 223 (JP2 0255, N01; critical note AK07-CN249) | high | none

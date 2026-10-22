@@ -1,0 +1,36 @@
+@page 45 ٢٩
+% Frame 045, printed p. 29: the chapter on multiplication continued: (1 - 1/6)(1 - 1/6) = 25/36, worked twice;
+% (10 - x)(10 + x) = 100 - x²; (10 - x)x = 10x - x²; (10 + x)(x - 10) = x² - 100; (10 + ½x)(½ - 5x), continued on the
+% next page. Below the rule three footnotes of the editors.
+لو أنه قال لك درهم إلا سدساً فى درهم الا سدساً يكون خمسة أسداس فى مثلها
+وهى خمسة وعشرين جزءاً من ستة وثلاثين من أجزاء الدرهم وهو ثلثان وسدس
+السدس وقياسه أن تضرب درهما فى درهم فيكون درهما ( والا سدساً فى درهم
+بسدس ناقص والا سدساً فى درهم بسدس ناقص فيبقى ثلثان والا سدساً فى
+سدس {n:١} بسدس السدس زائداً وذلك ثلثان وسدس السدس ) ثم درهم فى الا
+سدساً بسدس ناقص ثم درهم فى الا سدسا بسدس ناقص فيكون ثلثى درهم والا
+سدسا فى الا سدس بسدس السدس زائد فذلك ثلثان وسدس السدس وان قال
+عشرة الا شيئا فى عشرة وشىء {n:٢} قلت عشرة فى عشرة مائةوالا شيئاً فى عشرة
+عشرةأشياءناقصةوشىءفى عشرةعشرةأشياءزائدةوالا شيئاًفى شىءمال ناقص فيكون
+لك مائة درهم الا مالا . وإن قال عشرةالا شيئاً فى شىء قلت عشرةفى شىء عشرة
+أشياء والا شيئاً فى شىء مال ناقص فيكون عشرة أشياء الا مالا وان قال عشرة
+وشىء فى شىء الا عشرة قلت شىء فى عشرة عشرةأشياء زائدة وشىء فى شىء مال
+زائد والا عشرة فى عشرة مائة درهم ناقصةوالا عشرةفى شىء بعشرةأشياءناقصة
+فتقول مال الا مائة درهم بعد ما قابلت به وذلك أن تطرح عشرة أشياء زائدة
+بعشرة أشياء ناقصة فيبقى مال الا مائة درهم . وان قال عشرةدراهم ونصف شىء
+فى نصف درهم الا خمسة أشياء {n:٣} قلت نصف درهم فى عشرةبخمسةدراهم زائدة
+ونصف درهم فى نصف شىء بربع شىء زائد والا خمسة أشياء فى عشرة دراهم
+خمسون جذراً ناقصة فيكون جميع ذلك خمسة دراهم الا تسعة وأربعين جذراً
+@ednotes ١ ٢ ٣ 4
+@obs L09 is set very tight, most of its words without a word space after a non-connecting letter, and transcribed so: عشرةأشياء, ناقصةوشىءفى, عشرةعشرةأشياءزائدةوالا, شيئاًفى, شىءمال, and أشياءناقصة. The gaps (nearest approach of the letters, px at 400 ppi): ة before أ 9 and 10, before و 9, before ع 10; ء before ف 7, before ز 5, before م 5, before the ن of ناقصة 11; ا before ف 15. The word spaces of the line, after والا and مال, measure 33 and 34 px.
+@obs Set without a word space after a non-connecting letter elsewhere on the page, and transcribed so: مائةوالا (L08; 4 px), عشرةالا and عشرةفى (L10; 10 and 7 px), عشرةأشياء (L12; 10 px), ناقصةوالا, عشرةفى, بعشرةأشياءناقصة (L13; 6, 8, 7 and 11 px), عشرةدراهم (L15; 7 px), عشرةبخمسةدراهم (L16; 10 and 7 px). The ن and the other toothed letters (ب, ت, ث, ي) stand some px further from the preceding letter than other letters do: أشياءناقصة 11 px, عشرةبخمسة 10 px.
+@obs Where the print sets the words close but leaves a narrow gap, a word space is transcribed: شىء قلت (L10; 12 px between the ء and the ق), وشىء فى and شىء مال (L12; 17 and 16 px), أشياء زائدة (L12; 21 px, where the same words in L09 stand 5 px apart).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: قال عشرة (L10; 9 px), درهم فى and دراهم زائدة (L16; 10 and 8 px), وان قال (L15; 7 px).
+@obs L03 and L05: the computation of the first example is set within parentheses, «( والا سدساً … وسدس السدس )», with a space inside each parenthesis.
+@obs L10 and L15: the full stops stand between spaces.
+@obs Plain alif where a hamza might be expected, as printed: الا (L01, the second; the first is printed إلا), والا (L03, L04, L06, L08, L09, L11, L13, L17), الا (L05, L06, L07, L08, L10, L11, L12, L14, L15, L16, L18), وان (L07, L11, L15; L10 has وإن); with hamza: أنه, أسداس (L01), أجزاء (L02), أن (L03, L14), أشياء (L09, L11, L12, L13, L14, L15, L16, L17), وأربعين (L18).
+@obs With tanwīn on the final alif: سدساً (L01, twice; L03; L04, twice; L06, the first), جزءاً (L02), زائداً (L05), شيئاً (L08, the second; L09; L10; L11), جذراً (L18, twice); without tanwīn as printed: درهما (L03, twice), سدسا (L06, the second; L07), شيئا (L08, the first), مالا (L10, L11).
+@obs The final yā' is printed without dots: فى throughout, وهى (L02), فيبقى (L04, L15), ثلثى (L06); and before the hamza in شىء and وشىء throughout.
+@obs The print stretches بسدس (L04, the second) with the elongation stroke; the stroke is not transcribed.
+@obs L05: the note mark (١) stands after سدس, with a space on either side; (٢) after وشىء (L08) and (٣) after أشياء (L16), likewise.
+@obs Note (١) of the editors comments on L04-L05; notes (٢) and (٣) restate the examples of L08 and L15-L18 in modern notation. Not reproduced.
+@critical AK01-CN010 | omission in the statement | L04 | والا سدساً فى سدس | والا سدساً فى الا سدس | The parenthesis of L03-L05 multiplies (1 − 1/6) by (1 − 1/6) term by term. Its last product is minus a sixth times minus a sixth, and its result is stated correctly as a sixth of a sixth, added; but L04-L05 say «minus a sixth times a sixth», without the الا of the second factor. L06-L07 work the same product again and state it in full: «سدسا فى الا سدس بسدس السدس زائد». The editors make the same point in their note (١). | high that the sense requires الا; whether the omission is the author's or a copyist's is not known | none on the result: the product is stated correctly

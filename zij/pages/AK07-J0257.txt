@@ -1,0 +1,53 @@
+@page 257 225
+@lang la
+% JP2 0257: Tab. 110, p. 225: the projection of the rays continued: three fields, for the ascendant at 20°, 25° and
+% 30° of Capricornus, the columns from Capricornus to Gemini, each field with the numbers for the sextile, the
+% quadrature and the trine, with the apparatus (notes 1-4 and a-t).
+@r C 100{sup:r}, O 155{sup:v}, N 66{sup:v}.
+@c {b:Viginti}{sup:1}) {b:gradus Capricorni}
+@c {b:Exagonum 51°}{sup:a}) {b:29′} — {b:Tetragonum 77° 14′} — {b:Trigonum 102° 58′}
+@tw size=footnotesize 0.95 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62
+@t Gradus | Capricorn. |  | Aquarius |  | Pisces |  | Aries |  | Taurus |  | Gemini |
+@t aequales{sup:4}) | Cancer |  | Leo |  | Virgo |  | Libra |  | Scorpius |  | Sagittar. |
+@t  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 5{sup:b}) | 5 | 15 | 33{sup:c}) | 10 | 55 | 15 | 75 | 8 | 97 | 25 | 126 | 25
+@t 10 | 10 | 10 | 36 | 50 | 58 | 40 | 78 | 50 | 102 | 3 | 131{sup:d}) | 55
+@t 15 | 15 | 10 | 40 | 40 | 61 | 55 | 82 | 30 | 106 | 35 | 137 | 35
+@t 20 | 20 | 10 | 44 | 20 | 65 | 5 | 86 | 10 | 111 | 20 | 143 | 15
+@t 25 | 24 | 40 | 48 | 5 | 68 | 15 | 89 | 48 | 116 | 5 | 148 | 47
+@t 30{sup:b}) | 29 | 10 | 52 | 0 | 71 | 30 | 93 | 5 | 120 | 55 | 154 | 48
+@c {b:Viginti quinque}{sup:2}) {b:gradus Capricorni}
+@c {b:Exagonum 50° 59′}{sup:e}) — {b:Tetragonum 76° 29′}{sup:f}) — {b:Trigonum 101° 57′}{sup:g})
+@t 5{sup:h}) | 5 | 25 | 33 | 30 | 54 | 40 | 74 | 13 | 95{sup:i}) | 12 | 125 | 13
+@t 10 | 10 | 20 | 37 | 18 | 58 | 10 | 77 | 45 | 100 | 37{sup:n}) | 130 | 43
+@t 15 | 15 | 28 | 41 | 8 | 61 | 20 | 81 | 15 | 105 | 17 | 136 | 13
+@t 20 | 20 | 15 | 44 | 40 | 64 | 35 | 84 | 50 | 109{sup:k}) | 52 | 141 | 53
+@t 25 | 25 | 0 | 48 | 8 | 67 | 45 | 88 | 20 | 114{sup:l}) | 33 | 147 | 33
+@t 30{sup:h}) | 29 | 28 | 51 | 20 | 70 | 55 | 91 | 56 | 119{sup:m}) | 33 | 152 | 58
+@c {b:Triginta}{sup:3}) {b:gradus Capricorni}
+@c {b:Exagonum 50° 34′}{sup:o}) — {b:Tetragonum 75° 51′}{sup:p}) — {b:Trigonum 101° 9′}{sup:q})
+@t 5{sup:r}) | 5 | 30 | 33 | 48 | 55 | 8 | 74 | 18 | 96 | 3 | 124 | 10
+@t 10 | 10 | 25 | 37 | 48 | 58 | 16 | 77 | 48 | 100 | 33 | 129 | 30
+@t 15 | 15 | 30 | 41 | 28 | 61 | 28 | 81 | 8 | 104 | 58 | 135 | 8
+@t 20 | 20 | 35 | 45{sup:s}) | 13 | 64 | 28{sup:t}) | 84 | 43 | 109 | 23 | 140 | 40
+@t 25 | 25 | 10 | 48 | 32 | 67 | 48 | 88 | 23 | 113 | 56 | 146 | 10
+@t 30{sup:r}) | 29 | 48 | 51 | 48 | 70 | 58 | 91 | 58 | 118 | 40 | 151 | 43
+@n {sup:1}) Viginti] Vicesimus O, {i:om.} C, XX. N — {sup:2}) Viginti quinque] Vicesimus quintus O, {i:om.} C, XXV. N —
+@n {sup:3}) Triginta] Tricesimus O, {i:om.} C, XXX. N — {sup:4}) Gradus aequales] ON, {i:om.} C.
+@n {sup:a}) 51] C, 11 O — {sup:b})–{sup:b}) 5....30] ON, {i:om.} C — {sup:c}) 33] C, 34 O — {sup:d}) 131] C, 31 O — {sup:e}) 50. 59] C,
+@n 49. 35 O ({i:vide tab. seq.}) — {sup:f}) 76. 29] C, 74. 22 O ({i:v. tab. seq.}) — {sup:g}) 101. 57] C, 99. 10 O ({i:v. tab. seq.}) —
+@n {sup:h})–{sup:h}) 5....30] ON, {i:om.} C — {sup:i}) 95] C. 55 O — {sup:k}) 109] C, 110 O — {sup:l}) 114] C, 113 O — {sup:m}) 119] O, 116
+@n C — {sup:n}) 37] C, 27 O — {sup:o}) 50. 34] C, 49. 28 O ({i:v. tab. seq.}) — {sup:p}) 75. 51] C, 25. 51 N, 74. 12 O ({i:v. tab. seq.})
+@n {sup:q}) 101. 9] C, 28. 57 O ({i:v. tab. seq.}) — {sup:r})–{sup:r}) 5 ...30] ON, {i:om.} C — {sup:s}) 45] C, 15 O — {sup:t}) 28] C, 38 ON.
+@obs The page number «225» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 110», in bold sans serif, underlined. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «29» on the right; recorded here, not transcribed as a line. The page has no title: the folios of the manuscripts stand at the right above the double rule of the first field, in one line of their own, «C 100r, O 155v, N 66v.», the letters raised (L01).
+@obs The page holds three fields, as pp. 206-224 (JP2 0238-0256): «Viginti1) gradus Capricorni» (L02), «Viginti quinque2) gradus Capricorni» (L14) and «Triginta3) gradus Capricorni» (L22), the ascendant at 20°, 25° and 30° of Capricornus, with the numbers for the sextile, the quadrature and the trine (L03, L15, L23); headings and numbers in bold. The heads of the columns of the first field as on p. 224 (JP2 0256, L04-L07), from Capricornus to Gemini, with «Horoscopus» in each and note 4 at «Gradus aequales4)», which C omits (L04-L07). In each field the first and the last number of the first column carry the paired notes b, h and r: C omits the first column. The second and the third field have no heads. Double rules divide the fields.
+@obs The numbers at the head of a field, as on pp. 206-224 (JP2 0238-0256), are a third, a half and two thirds of the last number of the field: 152° 58′ (L21) gives 50° 59.3′, 76° 29′ and 101° 58.7′, printed 50° 59′, 76° 29′ and 101° 57′ (L15), the trine 2′ less; 151° 43′ (L29) gives 50° 34.3′, 75° 51.5′ and 101° 8.7′, printed 50° 34′, 75° 51′ and 101° 9′ (L23). In the first field 51° 29′, 77° 14′ and 102° 58′ (L03) are a third, a half and two thirds of 154° 27′ to 154° 28′, where the field ends with 154° 48′ (L13): see the critical note. In the heads of the second and the third field O has those of the fields of 10° and 15° of Aquarius on p. 226 (JP2 0258, L15, L23), as the editor's «vide tab. seq.» says: 49° 35′, 74° 22′ and 99° 10′ (notes e, f and g), and 49° 28′, 74° 12′ and «28. 57» for 98° 57′ (notes o, p and q); N has 25° 51′ for 75° 51′ (note p).
+@obs The columns: in Capricornus and Aquarius the first field lies within 21′ of the oblique ascensions from the beginning of Capricornus for the latitude 38° 30′ (computed with the obliquity 23° 35′; 5° 21′, 10° 31′, 15° 27′, 20° 10′, 24° 41′, 28° 59′ in Capricornus) to 25° of Aquarius, and 51′ above them at 30° of Aquarius; the second within 29′ of them, the third from 6′ below to 53′ above them. In Pisces the three fields lie 17′ to 1° 49′ above them, and from Aries on increasingly, ending 15° 26′, 13° 36′ and 12° 21′ above them (154° 48′, 152° 58′ and 151° 43′ for 139° 22′ at the end of Gemini). From 5° of Capricornus to 25° of Aquarius the first field lies 3′ to 28′ below the second; from 30° of Aquarius on it lies above it, by 30′ to 40′ in Aquarius and Pisces and 55′ to 2° 13′ from Aries to Gemini, the step of the first field from 25° to 30° of Aquarius (L12-L13) being 3° 55′, where those of the second and the third are 3° 12′ and 3° 16′.
+@obs Notes on the readings. Checked by the rule of the heads, by the other fields, which differ by 5° of the ascendant, and by the steps of the columns: the edition's readings are the nearer in the sextile of the first field (note a, L03: C's 51 against O's 11), at 5° of Aquarius in the first (note c, L08: C's 33 against O's 34, the steps 4° 0′ and 3° 40′ against 5° 0′ and 2° 40′), at 10° of Gemini in the first (note d, L09: C's 131 against O's 31), in the heads of the second and the third field (notes e, f, g and o, p, q: C's numbers, above), at 20° of Taurus in the second (note k, L19: C's 109 against O's 110, the steps 4° 35′ and 4° 41′ against 5° 35′ and 3° 41′), at 25° of Taurus in the second (note l, L20: C's 114 against O's 113, the steps 4° 41′ and 5° 0′ against 3° 41′ and 6° 0′), at 30° of Taurus in the second (note m, L21: O's 119 against C's 116) and at 20° of Aquarius in the third (note s, L27: C's 45 against O's 15). The 38 of O and N is the nearer at 20° of Pisces in the third field (note t, L27): 64° 38′ gives the steps 3° 10′ and 3° 10′ in a column that rises otherwise by 3° 8′ to 3° 20′, C's 28, which the edition adopts, 3° 0′ and 3° 20′. At 10° of Taurus in the second field (note n, L17) C's 37 gives the steps 5° 25′ and 4° 40′, O's 27 5° 15′ and 4° 50′; neither is decided. Notes b, h and r: C omits the first column.
+@obs At 5° of Taurus in the second field (note i, L16) C's 95, which the edition adopts against O's 55, gives the steps 3° 16′ and 5° 25′, and 95° 12′ lies 2° 13′ below the first field and 51′ below the third (97° 25′, 96° 3′); with 96° 12′ the steps would be 4° 16′ and 4° 25′, and the field would lie 1° 13′ below the first and 9′ above the third, as at 30° of Aries (1° 9′ below and 2′ below) and at 10° of Taurus (1° 26′ below and 4′ above). No manuscript has 96.
+@obs Paired notes b, h and r are set with a short dash, «b)–b)» (24 to 28 px against 40 px for the dashes that divide the notes). The lemma of note r has three points after a space, «5 ...30», where the lemmata of b and h have four, «5....30»: see the critical note. No dash divides the notes p and q at the end of N06 (critical note). The figure of note 2 in N01 is blotted, an inked spot with a light centre; transcribed 2. Italics: «om.», «vide tab. seq.», «v. tab. seq.».
+@critical AK07-CN255 | wrong figure | L13 | 48 | 28 | the minutes of the last number of the first field, at 30° of Gemini: the numbers at its head, 51° 29′, 77° 14′ and 102° 58′ (L03), are a third, a half and two thirds of 154° 27′ to 154° 28′; with 28 the last step of the column is 5° 41′, as the steps before it, 5° 30′ to 5° 40′, where with 48 it is 6° 1′, and the last numbers of the six fields of Capricornus decrease, 159° 27′, 158° 25′ and 154° 38′ (p. 224, JP2 0256, L13, L21, L29), 154° 28′, 152° 58′ and 151° 43′ (L21, L29), where 154° 48′ lies above the 154° 38′ of the field of 15°; a 4 is printed for the 2 | medium | none
+@critical AK07-CN256 | wrong punctuation | N05 | {sup:i}) 95] C. 55 O | {sup:i}) 95] C, 55 O | the readings of a note are divided by a comma, as «{sup:k}) 109] C, 110 O» after it; a point is printed after C | high | none
+@critical AK07-CN257 | missing dash | N06 | ({i:v. tab. seq.}) | ({i:v. tab. seq.}) — | the notes of the apparatus are divided by a long dash; after the readings of note p, at the end of the line, none is printed before note q at the start of the next, as on p. 224 (JP2 0256, N04; critical note AK07-CN254) | high | none
+@critical AK07-CN258 | missing point | N07 | 5 ...30] | 5....30] | the lemmata of the paired notes b and h read «5....30», with four points (N03, N05); in that of r a space stands for the first point | medium | none

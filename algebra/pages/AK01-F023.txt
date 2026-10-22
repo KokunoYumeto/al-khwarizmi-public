@@ -1,0 +1,4 @@
+@page 23 ١١
+@kind editorial
+% Frame 023: the editors' study, second part (al-Khwārizmī: his life and his book), with footnotes.
+@withheld the editors' study, second part (al-Khwārizmī: his life and his book), with footnotes

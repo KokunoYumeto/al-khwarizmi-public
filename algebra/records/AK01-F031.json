@@ -1,0 +1,155 @@
+{
+ "anchor": "AK01-F031",
+ "frame": 31,
+ "frame_file": "page_031.jpg",
+ "frame_sha256": "feb145343a4d162b75430ee7ff207a836dc66e8a3e5d9c73538ecf45365137d1",
+ "printed_page": "١٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 031, printed p. 17: the definitions of the root, the square (mal) and the simple number; the six kinds of equation begin with the three simple ones; squares equal to roots, with examples. Below the rule the editors' footnote (١) of p. 16 continues: eight lines of equations in modern notation.",
+ "lines": [
+  {
+   "id": "AK01-F031-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "لا ينسب إلى جذر ولا إلى مال . فالجذر منها كل شىء مضروب فى نفسه من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F031-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "الواحد وما فوقه من الأعداد وما دونه من الكسور . والمال كل ما اجتمع",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F031-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "من الجذر المضروب فى نفسه . والعدد المفرد كل ملفوظ به من العدد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F031-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "بلا نسبة إلى جذر ولا إلى مال . فمن هذه الضروب الثلاثة ما يعدل بعضها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F031-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "بعضا وهو كقولك أموال تعدل جذوراً . وأموال تعدل عدداً . وجذور",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F031-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "تعدل عدداً .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F031-L07",
+   "n": 7,
+   "kind": "indent",
+   "text": "فأما الأموال التى تعدل الجذور فمثل قولك مال يعدل خمسة اجذاره فجذر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F031-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "المال خمسة والمال خمسة وعشرون وهو مثل خمسة أجذاره . وكقولك ثلث مال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F031-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "يعدل أربعة أجذار فالمال كله يعدل اثنى عشر جذراً وهو مائة وأربعة وأربعون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F031-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "وجذره اثنى عشر . ومثل قولك خمسة أموال تعدل عشرة أجذار فالمال الواحد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F031-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "يعدل جذرين وجذر المال اثنان والمال أربعة وكذلك ما كثر من الأموال أو قل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F031-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "يرد إلى مال واحد . وكذلك يفعل بماعادلهامن الأجذار يرد إلى مثل مايرد اليه المال.",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١"
+   ],
+   "lines": 8,
+   "continued": true
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L07: اجذاره is printed with a plain alif, where L08 has أجذاره.",
+  "L12 is set tight to fill the measure. Without a word space after a non-connecting letter, and transcribed so: بماعادلهامن, مايرد; after a connecting letter, whose final form marks the end of the word, a word space is transcribed although the print sets the words close: إلى مال, اليه المال. The full stop at the end of L12 is set close.",
+  "L01: شىء with a dotless yā' before the hamza.",
+  "Without tanwīn as printed: بعضا (L05); with tanwīn on the final alif: جذوراً, عدداً (L05), عدداً (L06), جذراً (L09)."
+ ],
+ "copy_matter": [
+  "Pencil marks of a reader of the Columbia copy: in the top margin, the English words «multiplicand» and «multiplier» beside the Arabic مضروب and مضروب فيه."
+ ],
+ "critical_notes": []
+}

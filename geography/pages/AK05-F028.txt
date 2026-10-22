@@ -1,0 +1,36 @@
+@page 28 ٢٢
+% Frame 028, printed p. 22: the cities of the fourth clime continued, entries 304-322: al-Baṣra, Nahāwand, Ḥulwān,
+% Hamadhān, Qum, al-Rayy, Iṣbahān, al-Ahwāz, ʿAbbādān on the sea, Tawwaz, al-Sūs and Shīrāz of Fārs, Bilād Sābūr,
+% Fasā, Jūr, Iṣṭakhr, Qaṣr al-Milḥ, al-Sīrajān and al-Jān; the folio of the manuscript, «(fol. 6ᵇ)», in the margin.
+% One line of the editor's footnotes.
+@r (٣٠٤) | [٢٦٨] | البصرة | عد | {z} | لا | {z}
+@r (٣٠٥) | [٢٣٢] | نهاوند | ⟨عد | {z} | لو | {z}⟩{n:a}
+@m (fol. 6ᵇ)
+@r (٣٠٦) | [٢٣١] | حلوان | عا | مه | لد | {z}
+@r (٣٠٧) | [٢٣٣] | همذان | عح | {z} | لو | {z}
+@r (٣٠٨) | [٢٣٤] | قم | عد | ٮه | له | م
+@r (٣٠٩) | [٢٣٥] | الرىّ | عه | {z} | له | مه
+@r (٣١٠) | [٢٣٦] | اصبهان | عد | م | لد | ل
+@r (٣١١) | [٢٦٩] | الأهواز | عه | {z} | لٮ | {z}
+@r (٣١٢) | [٢٧٠] | عبّادان على البحر | عه | يه | لا | {z}
+@r (٣١٣) | [٢٣٧] | توّز من فارس | عز | م | ل | مه
+@r (٣١٤) | | السوس من فارس | ڡد | {z} | لد | {z}
+@r (٣١٥) | [٢٣٨] | شيراز من فارس | عح | {z} | لٮ | {z}
+@r (٣١٦) | [٢٣٩] | بلاد سابور | عح | ٮه | لا | {z}
+@r (٣١٧) | [٢٤٠] | فسا | عح | ٮه | لح | م
+@r (٣١٨) | [٢٤١] | جور | عح | يه | لا | ل
+@r (٣١٩) | [٢٤٢] | اصطخر | عط | ل | لٮ | {z}
+@r (٣٢٠) | [٢٤٣] | قصر الملح | فا | {z} | لٮ | ل
+@r (٣٢١) | [٢٤٤] | السيرجان{n:b} | ڡح | {z} | لٮ | {z}
+@r (٣٢٢) | [٢٤٥] | الجان | ڡه | {z} | لٮ | ٮه
+@ednotes a b 1
+@obs The table goes on from frame 027 without a heading: the cities of the fourth clime, entries 304-322. No entry has the word «مدينة». Entry 314 has no number of Suhrāb; the others have [٢٦٨] (entry 304), [٢٣٢], [٢٣١], [٢٣٣]-[٢٣٦] (entries 305-310), [٢٦٩], [٢٧٠], [٢٣٧] (entries 311-313) and [٢٣٨]-[٢٤٥] (entries 315-322). The folio of the Strasbourg manuscript, «(fol. 6ᵇ)», is printed in Latin type in the right margin beside entry 306 (L03), as on frames 014 and 016.
+@obs L02: the coordinates of entry 305, Nahāwand, stand within one pair of angle brackets, «⟨عد ō لو ō⟩», the opening bracket before the degrees of the longitude and the closing one after the minutes of the latitude, followed by the note mark a: the editor supplies the whole of them. His note a says that the manuscript has a gap here and that he supplies it from S (Suhrāb). Transcribed with the opening bracket in the first numeral cell and the closing one in the last.
+@obs Signs in the names, transcribed as printed: L06: «الرىّ», with a shadda over the final ى, which has no dots; L08: «الأهواز», with a hamza above the alif; L09: «عبّادان», with a shadda over the ب; L10: «توّز», with a shadda over the و.
+@obs Letters printed without their dots in the numerals, transcribed so: لٮ, the final ب without its dot, in the degrees of the latitude (L08, L12, L16-L19); the loop of ف or ق without dots in the degrees of the longitude, ڡد (L11), ڡح (L18) and ڡه (L19); ٮه (L05, L13, L14, the minutes of the longitude; L19, the minutes of the latitude), a tooth joined to a ه, without dots. With their dots: عز (L10), the ز with its dot; فا (L17), the ف with its dot; يه (L09, L15, the minutes of the longitude).
+@obs The degrees printed with a final ح, عح (L04, L12-L15), ڡح (L18) and لح (L14), show no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. L13: a speck, 3 by 4 px, stands inside the bowl of «عح» against its left stroke, where the dot of ج in this font is about 9 px across (frame 027, L17); it is not transcribed as a dot.
+@obs Marks in the numerals, not transcribed: L07, a dark dot, 7 by 6 px, below the joint of the ع and the د of the degrees of the longitude, «عد», where no letter of the numeral takes a dot; L18, a speck, 6 by 5 px, above «ڡح» and some 25 px to the left of its loop.
+@obs L03: a short oblique stroke crosses the upper corner of the bracket of the number of Suhrāb, «[٢٣١]», a flaw of the print.
+@obs The page number «— ٢٢ —» stands at the foot, centred.
+@variant L02: the coordinates are missing in the manuscript, which has a gap; the editor supplies them from S.
+@variant L18: the manuscript reads السرحان for السيرجان, without the ي and without the dot of the ج.

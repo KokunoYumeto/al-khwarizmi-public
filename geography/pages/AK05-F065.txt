@@ -1,0 +1,40 @@
+@page 65 ٥٩
+@cols 12,12,12,12,12,12,12,12,22,22
+@align c,c,c,c,c,c,c,c,c,c
+% Frame 065, printed p. 59: the left-hand page of the opening pp. 58-59. For the seventeen entries of the sixth clime
+% of p. 58 (frame 064), 837/838-869/870, the longitude and the latitude of the first and of the last boundary, the
+% colour and the direction of the head. Three lines of the editor's footnotes, continued at the foot of p. 58.
+@r كر | {z} | مٮ | ك | كح | مه | مو | كه | اصفر تبنىّ | شمال
+@r لح | م | مد | مه | لح | ن | مر | {z} | اصفر | مغربىّ
+@r ما | ى | مٮ | {z} | مح | {z} | مٮ | {z} | اصفر مشبع | جنوب
+@r مح | له | مٮ | م | مد | كه | مج | ن | اصفر | شمال
+@r مط | مه | ما | {z} | نا | مه | ما | {z} | اصفر | شمال
+@r ٮٮ | ك | مٮ | م | ٮح | مه | مب | م | اصفر | شمال
+@r نح | مه | مج | ⟨ل⟩{n:e} | ٮو | ٮه | مج | ك | لازورد | شمال
+@r نح | ن | مٮ | م | ٮه | ن | ما | {z} | لازورد | جنوب
+@r س | ك | مٮ | ك | سٮ | ن | مد | م | لازورد | شمال
+@r س | ن | ما | {z} | سٮ | ل | ما | {z} | لازورد | شمال
+@r س | ك | مح | ك | سط | م | ما | ل | احمر | جنوب
+@r ع | مه | ما | ٮه | عٮ | ى | ما | ٮه | لازورد | جنوب
+@r عا | {z} | مز | {z} | عو | {z} | مٮ | ل | اصفر | شمال
+@r عد | {z} | مد | {z} | عٮ | ل | مه | ك | ملوّن | شمال
+@r قا | ٮه | ما | ه | قا | نه | مٮ | ٮه | ⟨.....⟩{n:k} | مشرقىّ
+@r ڡٮر | ن | مه | ل | ڡكب | ك | ما | ں | احمر مشبع | جنوب
+@r ڡكد | ٮه | مط | ن | ڡله | م | مح | {z} | اصفر | شمال
+@ednotes a b c d e f g 3
+@obs The page is the left-hand page of the opening pp. 58-59: each of its lines continues the same line of p. 58 (frame 064), L01-L17, entries 837/838-869/870. Each row gives, from the right, the degrees and the minutes of the longitude and of the latitude of the first boundary, the same for the last boundary, the colour and the direction, in the columns of p. 39 (frame 045); the page has no heads.
+@obs The colours are «اصفر تبنىّ», straw-yellow (L01); «اصفر», yellow (L02, L04-L06, L13, L17); «اصفر مشبع», deep yellow (L03); «لازورد», lapis blue (L07-L10, L12); «احمر», red (L11); «ملوّن», many-coloured (L14); and «احمر مشبع», deep red (L16). The directions are «شمال», north (L01, L04-L07, L09, L10, L13, L14, L17), «مغربىّ», western (L02), «جنوب», south (L03, L08, L11, L12, L16), and «مشرقىّ», eastern (L15). «تبنىّ», «مغربىّ» and «مشرقىّ» end in a ى without dots with a shadda over it; «ملوّن» has a shadda over the و.
+@obs L15: in the place of the colour stand five dots between angle brackets, «⟨.....⟩», followed by the note mark k: the editor marks a gap of the manuscript (note k, printed at the foot of p. 58). Transcribed as printed.
+@obs L07: the minutes of the first latitude are printed «⟨ل⟩», between angle brackets, followed by the note mark e: the editor supplies them from S where the manuscript has a gap (note e). Transcribed with both brackets in the minutes cell.
+@obs Letters printed without their dots in the numerals, transcribed so: مٮ, an initial م joined to a final ب without its dot, 42 (L01, L03, L04, L06, L08, L09, the degrees of the first latitude; L03, L13, L15, the degrees of the last latitude), which L06 prints «مب» with the dot in the last latitude; ٮٮ (L06, the degrees of the first longitude), a tooth joined to a final ب, both without dots, with two risers at the right end of the bowl, a tall one of 25 px and a short one of 15 px, as on frames 010, 041 and 043; ٮح (L06) and ٮو (L07), the degrees of the last longitude, the tooth without its dot; سٮ (L09, L10, the degrees of the last longitude), 62; عٮ (L12, L14, the degrees of the last longitude), 72; ں (L16, the minutes of the last latitude), the bowl of a final ن without its dot; and the loop of ف or ق without dots in the degrees of the longitude: ڡٮر (L16, the first), the loop and the notched form of frame 041 (L06), a tooth without its dot joined to a ر, ڡكب (L16, the last), with the dot of the ب, 122, ڡكد (L17, the first), 124, and ڡله (L17, the last), 135, where L15 prints «قا», 101, with the two dots of the ق in both longitudes.
+@obs With their dots: نح (L07, L08, the degrees of the first longitude), 58; نا (L05, the degrees of the last longitude), 51; مج (L04, L07, the degrees of the last latitude; L07, the degrees of the first latitude), 43; مز (L13, the degrees of the first latitude), 47; نه (L15, the minutes of the last longitude), 55; ن, 50 (L02, L09, L10, L16, the minutes of the longitudes; L04, L08, L17, the minutes of the latitudes).
+@obs L06-L08: the degrees of the last longitude are printed «ٮح» (L06), «ٮو» (L07) and «ٮه» (L08), each with a tooth without its dot, which read as a ن give 58, 56 and 55, where the first longitudes of the same rows are 52 (read ٮٮ as نب) and 58, and the last longitudes of L05 and L09 are 51 and 62. The editor's notes do not comment on them. Transcribed as printed.
+@obs In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: كر (L01, the degrees of the first longitude), 27; مر (L02, the degrees of the last latitude), 47; ڡٮر (L16, the degrees of the first longitude), 117 read with ق and ي. L13 prints مز with the dot.
+@obs The degrees printed with a final ح, كح (L01), لح (L02), مح (L03, L04, L11, L17), نح (L07, L08) and ٮح (L06), show no dot in the bowl; the same form is a ج without its dot, 3, which L04 and L07 print with its dot in «مج». Transcribed as printed.
+@obs «ٮه», a tooth without its dot joined to a final ه, gives the minutes of the last longitude in L07, the degrees of the last longitude in L08, the minutes of both latitudes in L12, the minutes of the first longitude and of the last latitude in L15 and the minutes of the first longitude in L17; L15 prints the minutes of the last longitude with the dot of the ن, نه. The isolated ه, 5, of L15, the minutes of the first latitude, is a small round blot, 19 by 23 px, the round form of the letter. The isolated ك, 20, is printed with the small inner stroke of the letter throughout.
+@obs Marks not transcribed: L15, a small mark, 18 by 17 px, at the upper left of the ٮه of the minutes of the first longitude, raised like the note marks; it has neither the form of the editor's six-armed asterisk (frame 046, L10) nor of a note letter, and the notes do not mention it. L11, a speck, 3 by 5 px, above the س of the degrees of the first longitude.
+@obs A short rule stands above each pair of degrees and minutes in every row. The rules are not transcribed.
+@obs The editor's footnotes of the opening begin here, in three lines below a short rule at the left: notes a, b, c, d and f, whose marks stand on p. 58 (frame 064, L01, L05-L07, L09) and whose readings are recorded there, note e, and the beginning of note g, which continues at the foot of p. 58 with notes h, i and k. The page number «— ٥٩ —» stands at the foot, centred.
+@unres L16: the notched form may also be read as a single ر whose head is split, ر, 7, after the loop, ڡر. Transcribed ڡٮر.
+@variant L07: the manuscript has a gap at the minutes of the latitude of the first boundary; the editor supplies them from S (note e).
+@variant L15: the manuscript has a gap in the place of the colour (note k, printed at the foot of p. 58).

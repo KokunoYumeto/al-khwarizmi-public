@@ -1,0 +1,47 @@
+@page 82 ٧٦
+% Frame 082, printed p. 76: the Great Sea continued, in running text: the coast from point to point, with the editor's
+% running numbers (١١٥١)-(١١٦٧) and the numbers of Suhrāb, back to the equator, with a remark of the author that the
+% latitudes are again given as from the beginning of the book; past the towns اسفتر, which is the town of al-Rafaʾ,
+% فرداثرا and سمردن and the mouths of the rivers دوايس, سالس and حوساں; the folio of the manuscript, «(fol. 19ᵇ)», within
+% the line. Five lines of the editor's footnotes.
+القوارة الى طول {ov:قنز ل} (١١٥١) [٧٣٧] ثمّ يصير الى طول {ov:قسا {z}} والعرض {ov:{z} {z}}
+الى خطّ الاستوى* (١١٥٢) [٧٣٨] * ثمّ يصير العرض الّذى نذكر⟨ه⟩{n:a} الآن على
+مالم نزل نذكره من اوّل الكتاب * فيمرّ من هناك على صورة الطيلسان الى طول
+{ov:قسٮ ى} (١١٥٣) [٧٣٩] ويصير الى طول {ov:قس {z}} والعرض {ov:و {z}} (١١٥٤) [٧٤٠]
+يمرّ على صورة القوارة الى طول {ov:قٮط {z}} (١١٥٥) [٧٤١] ويصير الى طول {ov:قس {z}}{n:b}
+والعرض {ov:ط ل} (١١٥٦) [٧٤٢] يمرّ على صورة الطيلسان يمرّ بطول {ov:قسا ل} (١١٥٧)
+[٧٤٣] ويصير الى طول {ov:قس ں} والعرض {ov:ٮو ك}{n:c} (١١٥٨) [٧٤٤] يمرّ على صورة
+الطيلسان ايضاً يمرّ بمدينة اسفتر وهى مدينة الرفأ يمرّ الى طول {ov:ڡٮر {z}} ⟨والعرض {ov:ٮو ك}⟩{n:d}
+(١١٥٩) [٧٤٥] ويصير الى طول {ov:ڡٮح {z}} والعرض {ov:ٮو ل} (١١٦٠) [٧٤٦] ويمرّ على
+صورة الطيلسان ايضاً بمدينة فرداثرا ومصبّ نهر دوايس ويصير الى طول {ov:ڡلد م} والعرض
+{ov:ح ك} (١١٦١) [٧٤٧] ويمرّ بمصبّ نهر سالس ويصير الى طول {ov:قنا {z}} والعرض {ov:ح {z}}{n:e}
+@m (fol. 19ᵇ)
+(١١٦٢) [٧٤٨] ويمرّ الى طول {ov:ڡنا ل} والعرض {ov:ا ى} (١١٦٣) [٧٤٩] ويمرّ
+بأسفل مدينة سمردن ويصير الى طول {ov:قمو ى} والعرض {ov:ا يه} (١١٦٤) [٧٥٠] ويمرّ الى
+طول {ov:قمو ى}{n:f} والعرض {ov:ح ك} (١١٦٥){n:g} ويمرّ على{n:h} صورة القوارة بمصبّ نهر حوساں
+ويصير الى طول {ov:قمه مه} والعرض {ov:و ك} (١١٦٦) [٧٥٣] ويمرّ على صورة الطيلسان الى
+طول {ov:ڡمر {z}}{n:i} والعرض {ov:ز ه} (١١٦٧) [٧٥٤] ويمرّ على صورة القوارة الى طول {ov:قمط {z}}
+@ednotes a b c d e f g h i 5
+@obs The running text goes on from p. 75 (frame 081), whose last words, «ويمرّ على صورة», L01 continues with «القوارة»: the coast from point to point, with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}, the editor's running numbers in parentheses, (١١٥١)-(١١٦٧), and the numbers of Suhrāb in square brackets, [٧٣٧]-[٧٥٠], [٧٥٣] and [٧٥٤]: point 1165 (L14) has none, and [٧٥١] and [٧٥٢] do not appear on the page (note g). L12: the folio of the Strasbourg manuscript, «(fol. 19ᵇ)», is printed in Latin type within the line, between «والعرض» and the latitude «ا ى»; transcribed as a margin note before the line.
+@obs L01-L02: point 1152 has the latitude «{z} {z}», 0° 0′, and lies «الى خطّ الاستوى*», on the equator. L02-L03: a remark between two small open stars with six points, transcribed as asterisks: «* ثمّ يصير العرض الّذى نذكر⟨ه⟩ الآن على مالم نزل نذكره من اوّل الكتاب *», then the latitude that we give now becomes as we have given it from the beginning of the book, that is, north of the equator again (compare the remark of p. 75, frame 081, L10-L11). «مالم» is printed as one word. L02: «الاستوى*»: an asterisk with six solid arms, the editor's sign for a form against the grammar of the classical language (frame 046, L10).
+@obs The places of the coast: L03: «فيمرّ من هناك على صورة الطيلسان», from there it passes along the shape of the ṭaylasān; L08: «يمرّ بمدينة اسفتر وهى مدينة الرفأ», past the town of اسفتر, which is the town of al-Rafaʾ; L10: «بمدينة فرداثرا ومصبّ نهر دوايس», by the town of فرداثرا and the mouth of the river دوايس; L11: «ويمرّ بمصبّ نهر سالس», past the mouth of the river سالس; L13: «ويمرّ بأسفل مدينة سمردن», below the town of سمردن; L14: «بمصبّ نهر حوساں», at the mouth of the river حوساں. The shapes of the coast are «القوارة» (L01, L05, L14, L16) and «الطيلسان» (L03, L06, L08, L10, L15), the last two «ايضاً», again. Points 1153 and 1155 (L04, L05) have a longitude and no latitude.
+@obs Signs in the text, transcribed as printed: «ثمّ», «خطّ», «اوّل», «يمرّ», «ويمرّ», «فيمرّ», «ومصبّ» and «بمصبّ» with a shadda; «الّذى» with a shadda over the ل; «الآن» with a madda over the alif; «ايضاً» with the tanwin of the accusative over its alif (L08, L10); «الرفأ» with a hamza over the final alif; «بأسفل» with a hamza over the alif; «وهى», «الاستوى» and «الّذى» end in a ى without dots. L02: «نذكر⟨ه⟩», the ه between angle brackets and followed by the note mark a: the editor supplies the pronoun, which the manuscript lacks (note a). L08: «⟨والعرض ٮو ك⟩», with the line over «ٮو ك» inside the brackets, followed by the note mark d: the editor supplies the latitude from S, which the manuscript lacks (note d).
+@obs L14: «حوساں»: the final ن of the name has no dot.
+@obs Letters printed without their dots in the numerals, transcribed so: «قسٮ» (L04, the degrees of the longitude), the final ب without its dot, 162; «ں» (L07, the minutes of the longitude), the bowl of a final ن without its dot, 50; a tooth without its dot in the degrees of the latitude, «ٮو» (L07, L08, L09), which read with a ي gives 16; and the loop of ف or ق without dots in the degrees of the longitude: «ڡٮر» (L08), 157 read with ن, «ڡٮح» (L09), 158 read with ن, «ڡلد» (L10), 134, «ڡنا» (L12), 151, and «ڡمر» (L16), 147, where the other longitudes of the page are printed with the two dots of the ق. L11: in «قنا» the dot of the ن is printed as a thin sliver, 3 by 4 px, above the tooth.
+@obs L08: «ڡٮر»: the loop is joined to a ر whose head rises 22 px above the line and is split by a notch into two strokes, the right one 2 px higher: the notched form of p. 66 (frame 072, L04), a tooth without its dot joined to a ر; transcribed ڡٮر. L16: «ڡمر»: after the loop, a solid medial م on the line below it, then a ر whose head rises only 6 px; the editor's note i suggests the reading قمو. L09: «ڡٮح»: between the loop and the head of the ح a short tooth without a dot that rises above the joining stroke, with no part below it, where the medial م of these numerals is a diamond that stands out above and below the stroke (frame 013, L13, «ڡمح») or is set under the ق (frame 082, L16, «قمط»), 12 px wide at its foot and rising 8 px; transcribed ڡٮح. L10: «ڡلد»: after the loop, a straight stem rising 23 px, the medial ل, and a flat final د with a short upturn.
+@obs L05: the longitude «قٮط {z}»: between the ق with its two dots and the ط, a short tooth without a dot that rises above the joining stroke, with no part below it, where the medial م of these numerals is a diamond that stands out above and below the stroke (frame 013, L13, «ڡمح») or is set under the ق (frame 082, L16, «قمط»); it measures 71 px from the stem of the ط to the end of the loop, where the compact قط of frame 102 (L06, L11) measures 48 px. Transcribed قٮط, which read with ن gives 159° 0′, between «قس {z}», 160° 0′, before and after it (L04, L05).
+@obs In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: «ڡٮر» (L08) and «ڡمر» (L16). L01 prints «قنز» and L16 «ز» with the dot.
+@obs The ح of the numerals, «ڡٮح» (L09) and «ح» (L11, L14), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. The isolated ى, 10, has no dots (L04, L12, L13, L14). The isolated ك, 20, is printed with the small inner stroke of the letter.
+@obs Note marks: L02, a after «نذكر⟨ه⟩»; L05, b after the second longitude; L07, c after the latitude; L08, d after the closing angle bracket; L11, e after the second latitude; L14, f after the longitude, g after the running number (١١٦٥) and h after «على»; L16, i after the first longitude.
+@obs Marks not transcribed: L12, a speck of 4 by 4 px between the first two digits of (١١٦٣), smaller than the dot of the zero in [٧٤٠], so that the number reads «(١.١٦٣)»; L08, a speck of 4 by 4 px above the stem of the ط of «الطيلسان»; L10, a cluster of small specks well above «الطيلسان».
+@obs The editor's footnotes stand in five lines below a short rule at the left: notes a-i. The page number «— ٧٦ —» stands at the foot, centred.
+@unres L08: the notched form may also be read as a single ر whose head is split, ر, 7, after the loop, ڡر. Transcribed ڡٮر.
+@variant L02: the manuscript lacks the ه of نذكره, which the editor supplies (note a).
+@variant L05: a variant reading of the second longitude is قسر ه, with a line over the numerals (note b).
+@variant L07: a variant reading of the latitude is ٮو ل, with a line over the numerals and the tooth without a dot (note c).
+@variant L08: the manuscript lacks the latitude; the editor supplies it from S (note d).
+@variant L11: the peninsula that begins at this point is called, at entry (1720), جزيرة* الذهبانيّة, with the editor's asterisk after جزيرة (note e).
+@variant L14: a variant reading of the longitude is قمو م, with a line over the numerals (note f).
+@variant L14: for point 1165 the editor refers to Suhrāb's numbers [٧٥١] and [٧٥٢], which the text does not give (note g).
+@variant L14: the word على is written by a later hand in the manuscript (note h).
+@variant L16: the manuscript is unclear at the first longitude; it may be read قمو {z}, with a line over the numerals (note i).

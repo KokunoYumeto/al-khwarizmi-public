@@ -1,0 +1,57 @@
+@page 131 99
+@lang de
+% JP2 0131: Suter's commentary, p. 99: chapter 37 continued: the aspects; the place of the chapter in the work; the
+% methods of projecting the rays, on the ecliptic and on the equator; al-Battānī's formula with the latitude of the
+% planet, and its form cos x = cos 60° : cos b, with a figure (notes 1-6).
+dann noch die {i:Konjunktion} und {i:Opposition} ({i:Gegenschein}) hinzu. Es ist charakteristisch,
+dass {sp:Kh.} gerade diesem Kapitel den grössten Raum seines Tafelwerkes gewidmet hat :
+Text und Tafeln umfassen zusammen 26 Seiten ; dies illustriert besser als irgend
+welche andere Betrachtungen oder Untersuchungen die ja schon bekannte Tatsache,
+dass die ganze wissenschaftliche Arbeit des Altertums{sup:1}) und Mittelalters auf dem
+Gebiete der Astronomie nicht Selbstzweck war, sondern nur die Hilfsmittel liefern
+musste für die Bedürfnisse der Astrologie. Übrigens ist ja bekannt, dass noch {i:Regio-}
+{i:montanus} ein eigenes Werk über einen verwandten astrologischen Gegenstand ver-
+fasst hat{sup:2}), in welchem er ebenfalls (Problema 31) über die Frage der Bestimmung
+des {i:Ortes} der {i:Strahlenwerfung} ({i:radiatio}) handelt.
+@p Auch für die Bestimmung dieser Örter gab es verschiedene Wege, für deren
+Details ich wieder auf {sp:Batt.}{sup:3}) verweisen muss. Die einfachsten waren diejenigen,
+die die Breite der Planeten vernachlässigten, sie also in der Ekliptik liegend annahmen ;
+dann war es natürlich das nächstliegende, vom Planeten aus 60° (bezw. 90° od. 120°)
+in der Ekliptik vor oder rückwärts zu gehen, so hatte man die beiden Punkte (den
+linken und rechten) des Sextilscheins (bezw. Quadrat- oder Trigonalscheins) : dieser
+primitive Weg wurde z. B. von {sp:Al-Ḳabīṣī} ({sp:Alcabitius}) und {sp:Abraham} b. {sp:ʿEzrā}
+eingeschlagen{sup:4}). Andere, wie z. B. der griechische Astrolog {sp:Dorotheus}, sollen nach
+{sp:Ibn Hibintā} den Ort der Strahlenwerfung nicht auf der Ekliptik, sondern auf dem
+Aequator gemessen haben, d. h. sie betrachteten als Radius des Sextilscheins den
+Bogen des Aequators, der gleich der Differenz : Rectascension des Planeten minus
+Rectascention von [Länge des Planeten ± 60°] oder umgekehrt war ; sie kamen auf
+diese Weise zum gleichen Punkt der Ekliptik wie die vorhin genannten. — {sp:Ptol.}
+schlug im {i:Quadripartitum} einen etwas komplizierteren Weg ein{sup:5}), vernachlässigte
+aber ebenfalls die Breite der Planeten. — Der erste, der diese berücksichtigt hat,
+scheint {sp:Batt.} gewesen zu sein, der die Formel aufgestellt hat :
+@c crd. {i:x} = {rt:{i:R} · {fr:crd.{sup:2} 60° — crd.{sup:2} {i:b}|cos {i:b}}} ,
+wo {i:b} die Breite des Planeten und {i:x} der Bogen der Ekliptik ist, der der Hypotenuse
+60° (Radius des Sextilscheins) entspricht ; diese Formel tritt schon implicite in der
+Aufgabe auf, die Entfernung zweier Sterne aus ihren Breiten und Längen zu bestimmen,
+und kann, wie {sp:Nallino} gezeigt hat{sup:6}), leicht in die Formel
+@c cos {i:x} = {fr:cos 60°|cos {i:b}}
+übergeführt werden, die aus dem rechtwinkligen sphärischen
+Dreiecke {i:ABC} nach der Formel cos {i:c} = cos {i:a} · cos {i:b}, die
+{sp:Batt.} noch nicht gekannt hat, sich sofort ergibt.
+@n {sup:1}) Wenigstens von {sp:Ptol.} an.
+@n {sup:2}) {i:Tabulae directionum profectionumque}, Augsburg 1490, Tübingen 1550.
+@n {sup:3}) Ed. {sp:Nallino}, I, 307—313.
+@n {sup:4}) Ibid. I, 309.
+@n {sup:5}) Ibid. I, 311.
+@n {sup:6}) Ibid. I, 307—308.
+@obs The page number «99» stands at the head of the page, centred, with a rule below it. At the foot, the signature «13*» on the right. L01 completes the sentence that ends p. 98 (JP2 0130, L41), «Zu diesen drei Aspekten kommen».
+@obs L27 and L32: the formulas, displayed and centred, the fractions built up, written {fr:NUMERATOR|DENOMINATOR}, the root sign over «R ·» and the fraction written {rt:…}; «crd.2», the 2 raised; x, R, b, a, c and the letters of the figure in italics, «crd.» and «cos» upright, «·» the raised dot of multiplication; the comma after the first formula set apart.
+@obs A figure stands at the right of L32-L35, which are set in a narrower measure at its left; it is not reproduced. A right spherical triangle: B at the left, A at the upper right and C below A; the arc from B to A, marked 60°, the short side from A down to C, marked b, and the arc from B to C, marked x, below it; the right angle at C. The letters are italic.
+@obs L26-L35 and N06. Checked: in the triangle ABC with the right angle at C, the hypotenuse AB = 60° and the sides AC = b and BC = x, the relation cos c = cos a · cos b reads cos 60° = cos x · cos b, whence cos x = cos 60° : cos b. With the chord crd θ = 2R sin (θ/2), crd² θ = 2R² (1 − cos θ), so that crd² 60° − crd² b = 2R² (cos b − cos 60°) and crd² x = 2R² (cos b − cos 60°) : cos b; with «cos b» taken as the cosine in the circle of radius R, R cos b, this is the formula of L27. Nallino (I, 307-308) carries out the same reduction; on I, 307 he reports al-Battānī's rule: the square of the chord of the latitude taken from 3600, the remainder divided and its square root taken.
+@obs N03-N05. Checked against Nallino: I, 307-313 is his note on the computation of the projection of the rays, «Supputatio proiectionis radiorum», with the section «De proiectione radiorum ante al-Battānī» (I, 309), which names al-Qabīṣī, Ibn Hibintā and Dorotheus; I, 311 cites the «Liber Quadripartiti».
+@obs L03: «26 Seiten», the two pages of the text (pp. 30-31) and the Tables 91-114; to be compared with the tables. L09: Nallino (I, 312) names the same place, «in XXXI Problemate Tabularum directionum profectionumque».
+@obs L22: «Rectascention»; see the critical note. L08: the o of «astrologischen» faintly printed; L34: the l of «Formel» damaged, so that it looks like «]»; read as printed words. L17: «ʿEzrā», the ʿ a raised turned comma before the E, the z with a small stroke at its upper left, the ā with its macron; «b.» not spaced. L06: a dot above the comma after «war»; not transcribed.
+@obs The dashes: L23 «genannten. — Ptol.» and L25 «Planeten. — Der» (44 and 47 px), long dashes with a space on either side; L27 the minus of the formula, a long dash (44 px); N03 «307—313» and N06 «307—308» (35 and 34 px, the small type), set close. L22: «±», the plus sign over a stroke.
+@obs Spaced type, marked {sp:}: «Kh.», «Batt.», «Al-Ḳabīṣī», «Alcabitius», «Abraham», «ʿEzrā», «Dorotheus», «Ibn Hibintā», «Ptol.», «Nallino»; italics: «Konjunktion», «Opposition», «Gegenschein», «Regiomontanus», «Ortes», «Strahlenwerfung», «radiatio», «Quadripartitum», the letters of the formulas, «ABC», «Tabulae directionum profectionumque».
+@obs The colons and semicolons stand after the thin space of the edition (8-13 px measured).
+@critical AK07-CN077 | misprint | L22 | Rectascention | Rectascension | the word is spelled «Rectascension» throughout, as in L21 at the end of the line above; the s before the i is printed as t | high | none

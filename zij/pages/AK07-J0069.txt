@@ -1,0 +1,52 @@
+@page 69 37
+@lang de
+% JP2 0069: Suter's commentary, p. 37: chapter 4 continued: two worked examples of the weekday of the beginning of
+% an Arab month from Table 2 (1 Ramaḍān 529, 1 Muḥarram 520 = 26 January 1126); the leap years of Table 2; Tables 2a
+% (the months of the era of Yazdegird) and 2b (notes 1-3).
+um die Regeln des Textes, die oft etwas schwer verständlich sind, klar zu machen,
+folgende zwei Beispiele :
+@p 1. An welchem Wochentage begann der {i:Ramaḍān} des Jahres 529 d. H. ?
+@t für 510 Jahre ist die Nota (d. h. Wochentag-Nummer){sup:1}) | | = 1
+@t „ 19 „ „ „ „ | | = 6
+@t „ den Monat Ramaḍān ist die Nota | | = 6
+@t | | Summa = 13
+@p Von dieser Summe wird 7 subtrahiert (bezw. sie wird durch 7 geteilt), der Rest
+ist 6, d. h. der 1. {i:Ramaḍān} war ein {i:Freitag}.
+@p 2. Dieses Kapitel enthält am Schlusse die Angabe, dass der 26. Januar des J. 1126
+(julian. Zeitrechnung) auf den 1. {i:Muḥarram} des J. 520 d. H. fiel, und ein {i:Dienstag} ({i:feria}
+{i:tertia}) war ; wir wollen auch die Richtigkeit dieser Angabe aus Tafel 2 nachweisen :
+@t für 510 Jahre ist die Nota | | = 1
+@t „ 10 „ „ „ „ | | = 1
+@t „ den Monat Muḥarram ist die Nota | | = 1
+@t | | Summa = 3
+d. h. der 1. {i:Muḥarram} d. J. 520 war ein {i:Dienstag}. — Diese Angabe findet sich bloss
+in Ms. O und will wahrscheinlich sagen, dass die Übersetzung dieses Werkes ins
+Lateinische an diesem Tage entweder begonnen, oder vollendet worden sei, demnach
+läge der Schluss nahe, dass das Ms. O, wenn nicht den Autographen {sp:Athelhards},
+so doch eine bald nachher gemachte Abschrift desselben darstellen könnte.
+@p In Tafel 2 steht die Bezeichnung {i:keb.} (= {i:kebice} = Schaltjahr) mehrmals an
+unrichtiger Stelle, auch fehlt ein Schaltjahr, indem die Zahl derselben innerhalb 30
+Jahren 11 beträgt.{sup:2})
+@p Ich schliesse hier noch die Erwähnung zweier Tafeln an, die im Texte gar nicht
+genannt sind, und die ich mit 2{sup:a} und 2{sup:b} bezeichnet habe. Die erste Tafel lehrt,
+mit welchem Wochentage die Monate der {i:Aera} {sp:Yezdegirds} beginnen ; man wird
+leicht den Wochentag bestimmen können, wenn wir bemerken, dass diese Tafel in
+der ersten Kolonne der Abteilung, die mit {i:Signa vel Notae} überschrieben ist, jeweilen
+den Wochentag des Beginns der Monate des 1. Jahres der Aera angibt ; so begann
+der 1. {i:Affrordinme} des Jahres 1 mit einem Dienstag (3), der 1. {i:Azdihestme} mit einem
+Donnerstag (5), u. s. w. Für jedes folgende Jahr verschiebt sich der Wochentag um
+eins, da das persische Jahr 365 Tage zählte. Da jeder persische Monat 30 Tage hatte,
+ausser dem {i:Abenme}, in welchem die 5 Tage über 360 hinaus eingeschaltet wurden,
+wodurch er auf 35 Tage, also 5 volle Wochen kam, hat der folgende Monat {i:Adarme}
+dieselben {i:Notae} wie {i:Abenme}.{sup:3}) — Die Tafel 2{sup:b} enthält die {i:ägyptischen} ({i:koptischen})
+@n {sup:1}) 1 = Sonntag, 2 = Montag, u. s. f. . . . 7 = Samstag.
+@n {sup:2}) Siehe oben p. 34.
+@n {sup:3}) Eine Anleitung, wie man für jedes beliebige Jahr dieser Aera den Wochentag des Anfangs
+@n jedes Monats bestimme, giebt {sp:Al-Bīrūnī} in seiner {i:Chronologie} (engl. Übersetzung von {sp:Sachau},
+@n p. 184, arab. Text p. 203).
+@obs The page number «37» stands at the head of the page, centred, with a rule below it. The page has no signature.
+@obs L04-L07 and L13-L16: the two computations, each set as a small table: the words on the left, indented, the equations «= 1», «= 6» in a column on the right; the ditto marks „ of L05, L06, L14 and L15 stand under «für» and, in L05 and L14, under «Jahre», «ist», «die» and «Nota»; L07 and L16, «Summa» and the sum, stand below a short rule under the column. Each printed row is one line here, the cells separated by our «|»; the empty cells give the words room and are not printed. «Ramaḍān» (L06) and «Muḥarram» (L15) are upright in the computations, italic in the text (L03, L09, L11, L17).
+@obs L03-L17. Checked: counted from the epoch of the tables, Thursday 15 July 622 (p. 33, JP2 0065), 1 Ramaḍān 529 falls on Friday 14 June 1135 and 1 Muḥarram 520 on Tuesday 26 January 1126, as the examples and the text say; counted from the civil epoch, Friday 16 July 622, both would fall a day later. The notae of the two examples agree with the calendar: Ramaḍān has the nota 6 and Muḥarram 1, and the first eight months have 236 days, five weekdays more than whole weeks; the year 19 has 6 and the year 10 has 1, and the nine years from the beginning of the tenth to that of the nineteenth have 3190 days, also five weekdays more.
+@obs L31-L36: the months of the era of Yazdegird in Table 2a. Checked: 16 June 632, the epoch, was a Tuesday (p. 33, JP2 0065), the nota 3 with 1 for Sunday (note 1), and thirty days later a Thursday, 5; 365 days are 52 weeks and a day; the five added days after Ābān make it thirty-five days, five weeks. «Affrordinme», «Azdihestme», «Abenme», «Adarme»: Farvardīn-māh, Ardībihisht-māh, Ābān-māh, Ādhar-māh.
+@obs L03: «d. H. ?», the question mark after a thin space (12 px). L26 and L36: «2a», «2b», the letters raised. L20: «Athelhards» spaced; N04: «Al-Bīrūnī», «Sachau» spaced. N05: the closing bracket after «203» is a smaller sort than the other round brackets of the notes, 28 px high where they are 36 px.
+@obs The colons and semicolons stand after the thin space of the edition (8-12 px measured).

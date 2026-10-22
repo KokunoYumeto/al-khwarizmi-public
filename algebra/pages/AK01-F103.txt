@@ -1,0 +1,41 @@
+@page 103 ٨٧
+% Frame 103, printed p. 87: the problem of frame 102 concluded: four sons; to the third, less a share, its quarter is
+% added back, since the bequest is a share less a quarter of the rest; a dirham cast away; a third of what remains cast
+% away for the second bequest, and another dirham: five eighteenths of the estate less a dirham and two thirds and less
+% five sixths of a share; with two thirds of the estate, seventeen eighteenths of the estate equal four shares and five
+% sixths and a dirham and two thirds; completed, the estate is five shares and two seventeenths and a dirham and
+% thirteen seventeenths: the share seventeen and the dirham seventeen, the estate a hundred and seventeen. Then, under
+% «فان ترك» in bold, three sons and two daughters; to one man a daughter's share and a dirham, to another a fifth of what
+% remains of the quarter and a dirham, to a third a quarter of what remains of the third after all that and a dirham,
+% to a fourth an eighth of the whole estate; the heirs consent; begun, continued on the next page. Below the rule one
+% footnote of the editors.
+ما معك ربعه فيكون ثلثاً وربع ثلث إلا نصيبا وربع نصيب والق درهما فيبقى
+ثلث وربع ثلث الا درهما والانصيباً وربع نصيب ثم الق ثلث ما بقى معك من
+الوصية الثانية فيبقى معك من الثلث خمسة أسهم من ستة أسهم من ثلث مال الا
+ثلثى درهم والا خمسة أسداس نصيب ثم الق درهما آخر فيبقى معك خمسة أسهم
+من ثمانية عشر سهما من مال الا درهما وثلثى درهم والا خمسة أسداس نصيب
+فزد على ذلك ثلثى المال فيكون معك سبعة عشر سهما من ثمانية عشر سهما من
+مال الا درهماوثلثى درهم والا خمسةأسداس نصيب تعدل أربعةانصباءفاجبر ذلك
+بما نقص وزد مثله على الأنصباء فيكون سبعة عشر سهما من ثمانية عشر من مال
+تعدل أربعة أنصباء وخمسة أسداس نصيب ودرهما وثلثى درهم فكمل مالك وهو
+أن تزيد على الأربعة الأنصباءوالخمسة الأسداس والدرهم وثلثى الدرهم جزءاً من
+سبعةعشر جزءا من نصيب ودرهما وثلاثةعشر جزءا من سبعةعشر جزءا من درهم
+فاجعل النصيب سبعة عشر سهما والدرهم سبعة عشر فيكون المال مائة وسبعة
+عشر . وان أردت أن تخرج الدرهم صحيحا فاعمل به كما وصفت لك ان شاء الله
+تعالى . {b:فان ترك} ثلاثةبنين وابنتين وأوصى لرجل بمثل نصيب بنت وبدرهم
+ولآخر بخمس ما بقى من الربع وبدرهم ولآخر بربع مابقى من الثلث بعد ذلك
+كله وبدرهم ولآخر بثمن جميع المال فأجاز ذلك الورثة {n:١} . فقياسه على أن
+@ednotes ١ 6
+@obs L14: the words فان ترك (L14), the run-in heading of the next problem, are printed in a bold face, after a full stop; ثلاثةبنين, which follows, is in the face of the text. The bold ن is printed without its dot; transcribed ن.
+@obs L11: «سبعةعشر جزءا من نصيب ودرهما», as printed after «جزءاً من» at the end of L10: the words that state the completed estate in shares, five shares and two seventeenths, are missing between the two «سبعة عشر جزءا»; the line keeps the end of that statement, the dirham and thirteen seventeenths. See the critical note AK01-CN031.
+@obs Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): والانصيباً (L02; 22 between the لا and the ن, where إلا نصيبا in L01 has 34); درهماوثلثى (L07; 10 between the alif and the conjunction و, where درهما وثلثى in L05 has 28 and ودرهما وثلثى in L09 25); خمسةأسداس (L07; 7 between the ة and the alif, where خمسة أسداس in L04 has 26 and in L09 19); أربعةانصباءفاجبر (L07; 9 between the ة and the alif, where أربعة أنصباء in L09 has 25, and 4 between the hamza on the line and the ف, where الأنصباء فيكون in L08 has 24); الأنصباءوالخمسة (L10; 6 between the hamza on the line and the conjunction و, where أنصباء وخمسة in L09 has 20); سبعةعشر (L11, twice; 7 between the ة and the ع, where سبعة عشر in L08 has 18 and in L12 22 and 23); وثلاثةعشر (L11; 6 between the ة and the ع); ثلاثةبنين (L14; 12 between the ة and the ب, as أربعةبنين on frame 102, 13); مابقى (L15; 19 between the alif and the ب, where ما بقى earlier in the line has 30 and in L02 31).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: تزيد على (L10; 17 between the د and the ع, where فزد على in L06 has 27 and the د stands 3 to 8 px from the ع in أحدعشر on frames 056 and 062; in doubt, the space is written).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: نصيب ثم (L04), درهماوثلثى درهم, نصيب تعدل, تعدل أربعةانصباءفاجبر (L07), تعدل أربعة, أسداس نصيب (L09), أن تزيد (L10), من نصيب, نصيب ودرهما, من درهم (L11).
+@obs The full stops and the note mark (gaps as the nearest approach of the ink at 400 ppi): the full stops stand between spaces, after عشر, before وان (L13; 31 and 25), and after تعالى, before the bold فان (L14; 28 and 43). (١) stands 34 px after الورثة, followed by a full stop 39 px after the mark and 37 px before فقياسه (L16).
+@obs L15: after ذلك, at the end of the line, the impression shows a faint grey speck (3 by 3 px, 6 px of ink), far smaller and lighter than the full stops; it is not transcribed.
+@obs Plain alif where a hamza might be expected, as printed: والق (L01), الا, والانصيباً, الق (L02), الا (L03), والا, الق (L04), الا, والا (L05), الا, والا, and انصباء and فاجبر in أربعةانصباءفاجبر (L07), فاجعل (L12), وان, فاعمل, ان (L13), the bold فان, وابنتين (L14); with hamza: أسهم (L03, twice), أسداس, أسهم (L04), أسداس (L05), خمسةأسداس and the أ of أربعةانصباءفاجبر (L07), الأنصباء (L08), أربعة, أنصباء, أسداس (L09), أن, الأربعة, الأنصباءوالخمسة, الأسداس (L10), أردت, أن (L13), وأوصى (L14), فأجاز, أن (L16); below the alif: إلا (L01); with madda: آخر (L04), ولآخر (L15, twice; L16); on ي: مائة (L12); the hamza on the line: أربعةانصباءفاجبر (L07), الأنصباء (L08), أنصباء (L09), الأنصباءوالخمسة, جزءاً (L10), جزءا (L11, three times), شاء (L13).
+@obs With tanwīn on the final alif: ثلثاً (L01), والانصيباً (L02), جزءاً (L10); without tanwīn as printed: نصيبا, درهما (L01), درهما (L02, L04, L05), درهماوثلثى (L07), ودرهما (L09, L11), جزءا (L11, three times), سهما (L05; L06, twice; L08, L12), صحيحا (L13).
+@obs The final yā' is printed without dots: فيبقى (L01, L03, L04), بقى (L02, L15), ثلثى (L04, L06), وثلثى (L05, L09, L10), على (L06, L08, L10, L16), درهماوثلثى (L07), تعالى, وأوصى (L14), مابقى (L15).
+@obs The print stretches المال (L16, between the م and the alif) with the elongation stroke; the stroke is not transcribed.
+@obs Note (١) of the editors restates the problem of L14-L16 in modern notation, with a daughter's share x and the dirham d: the first bequest x + d, the second 1/5 (1/4 − x − d) + d, the third 1/4 (1/3 − x − d − 1/20 + 1/5 x + 1/5 d − d) + d, the fourth 1/8; the bequests together 59/240 + 12/20 x + 47/20 d; what remains is eight daughters' shares, the three sons having two each: 1 − (59/240 + 12/20 x + 47/20 d) = 8x; hence x = 181/2064 − 564/2064 d. The values check exactly. The note is not reproduced.
+@critical AK01-CN031 | omission in the statement | L10 | جزءاً من سبعةعشر جزءا من نصيب ودرهما (L10-L11) | جزءاً من سبعة عشر جزءا منها فيكون معك مال يعدل خمسة أنصباء وجزءين من سبعة عشر جزءا من نصيب ودرهما | The step completes seventeen eighteenths of the estate, which equal four shares and five sixths and a dirham and two thirds (L08-L09): a seventeenth of these is added, and the estate is then 87/17 of a share and 30/17 of a dirham, five shares and two seventeenths of a share and a dirham and thirteen seventeenths of a dirham. The print passes from «جزءاً من سبعةعشر جزءا» to «من نصيب ودرهما وثلاثةعشر جزءا من سبعةعشر جزءا من درهم», the end of that result without its beginning: as printed, the line adds a seventeenth of a share and a dirham and thirteen seventeenths, which is neither the amount added nor the estate. The words between the two «سبعة عشر جزءا» are missing. The next lines take the share and the dirham as seventeen each and find the estate a hundred and seventeen (L12-L13), 87 + 30, the complete result (checked exactly). The words proposed follow the same step on frame 101, L02 («جزءاً منها فيكون معك مال يعدل خمسة أنصباء وجزءين من أحد عشر جزءاً»). | high that words are missing and what they state; their exact wording is not known, nor whether they were lost in the print or in the manuscript | none on the result: the estate of a hundred and seventeen, with the share and the dirham seventeen each, is correct

@@ -1,0 +1,21 @@
+@page 10 VI
+@lang de
+% JP2 0010: Suter's foreword, second page (p. VI): thanks to Andersen, Billeter and the late Pechüle; the hope of the
+% editor; place, date and signature.
+@p Zu Dank verpflichtet bin ich ebenfalls den Herren Professoren Dr. D. {sp:Andersen}
+in Kopenhagen, und Dr. G. {sp:Billeter} in Zürich für die gütige Hilfe, die sie mir bei
+der Korrektur geleistet haben. Leider trifft mein Dank an einen dritten Gelehrten
+diesen nicht mehr unter den Lebenden : Herr C. F. {sp:Pechüle}, Observator an der
+kgl. Sternwarte in Kopenhagen, der im Mai dieses Jahres gestorben ist, hat mich auf
+einige Punkte im Kommentar aufmerksam gemacht, die eine etwas andere Auffassung
+und Darstellung verlangten ; ich habe seine Bemerkungen im Nachtrag 1) in Berück-
+sichtigung gezogen.
+@p Der Unterzeichnete hegt die Hoffnung, dass die Veröffentlichung dieses Werkes
+dazu beitragen möge, die Kenntnis der ältern arabischen Astronomie zu fördern, und
+besonders das Verständnis der astronomischen Tafeln des abendländischen Mittel-
+alters, die sehr wahrscheinlich zum grossen Teile diese Athelhard’sche Übersetzung
+zur Grundlage haben, zu erleichtern.
+@p Küsnacht, bei Zürich, im Juli 1914.
+@r {i:H. Suter.}
+@obs The page number «VI» stands at the head of the page, centred, with a rule below it.
+@obs Spaced type: the names «Andersen» (L01), «Billeter» (L02) and «Pechüle» (L04); «Athelhard’sche» (L12) is not spaced. L07: «Nachtrag 1)» refers to the first of the editor's additions (pp. 233–237), the figure and the bracket in the type of the text, not raised. L15: the signature «H. Suter.» in italics at the right, a little below the line of the place and date (L14).

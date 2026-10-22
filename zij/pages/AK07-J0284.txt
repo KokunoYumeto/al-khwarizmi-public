@@ -1,0 +1,115 @@
+@page 284 250
+@lang de
+% JP2 0284: the index of names and subjects, p. 250: Ascensiones rectae to Digiti (A-D), in two columns.
+@cl Ascensiones rectae (= Rectascension) 17—20,
+@cl 72—76, 93, 99, 100, 102.
+@cl Asín, Miguel, XI, XVII.
+@cl Astrolabium IX, X, XX, 18, 71.
+@cl Aszendent s. Ascendens.
+@cl Athelhard v. Bath VI—X, XII, XIII, XXIIl
+@cl (N. 2), 1, 37, 69, 71, 80, 96, 236, T. 116.
+@cl Aug s. Sublimatio.
+@cl Augustus (Kaiser) XVI, XVII.
+@cl Azin s. Arin.
+@cl {b:B.}
+@cl Baghdād 74.
+@cl al-Battānī, Muḥ. b. Djābir b. Sinān (und seine
+@cl astron. Tafeln, ed. Nallino) IX, XIII, XV,
+@cl XVI, XVIII, XXI, XXIII, XXIV, 32, 34, 35,
+@cl 38‐‐50, 52, 54—60, 62—66, 69, 71—97, 99, 100,
+@cl 102—106, 233, 234, 236.
+@cl Bernelinus X.
+@cl Bernhelmus s. das vorhergeh.
+@cl Besthorn, R. O., V, XXV.
+@cl Bewegung, mittlere (der Sonne) XIV, XVIII,
+@cl 7—9, 23, 33, 36. 41—44, 65, 67, 82, 84, 85, 105,
+@cl 106, 235, T. 4, 5.
+@cl — mittlere (des Mondes) XIV, XVIII, 7, 8, 10,
+@cl 23, 33, 36, 41—43, 45, 46, 65, 67, 82, 84, 85,
+@cl 105, 106, T. 6, 7, 8.
+@cl — mittlere (der obern Planeten) XIV, XVIII,
+@cl 7, 8, 10—12, 36, 41—44, 51—54, 63, 64, 105,
+@cl 106, T. 9—14.
+@cl — mittlere (des Drachenkopfes) XIV, XIX, 7,
+@cl 8, 12, T. 19, 20.
+@cl — mittlere (der Anomalie der untern Pla-
+@cl neten) 54, T. 15—18.
+@cl — wahre (d. h. ungleiche, des Mondes) 22, 23,
+@cl 28, 78, 79, 81, 83, 105, T. 61—66.
+@cl — wahre (der Sonne) 22, 23, 78, 79, 81, 83, 105,
+@cl T. 61—66.
+@cl Bhāskara, 70.
+@cl Billeter, G. Vl.
+@cl al-Bīrūnī, Muḥ. b. Aḥmed, 37, 38, 44, 49, 51,
+@cl 66, 79, 89, 90, 105, 235.
+@cl Björnbo, A. V, VII, X, XI, XIII, XXIV, 68,
+@cl 69—71, 76, 77, 102.
+@cl Boll, F. 105.
+@cl Boncompagni, B. VIII.
+@cl Bouché-Leclercq, A. 105.
+@cl Brahmagupta 32, 42, 45, 79, 90.
+@cl v. Braunmühl, A. 71.
+@cl Breite, des Mondes 14, 27, 29, 58, 59, 66—68,
+@cl 86, 88, 94, T. 21—26.
+@cl — der Planeten, 14, 60—64, S. 27—56.
+@cr Breite, scheinbare, des Mondes (durch die Pa-
+@cr rallaxe hervorgebracht) 94.
+@cr — geograph. eines Ortes (Bestimmung der-
+@cr selben) 18, 28, 71.
+@cr Brevis circulus s. Epicyklus.
+@cr Broger, M. 95 (N. 1).
+@cr Bukhtanaṣsar s. Nabonassar.
+@cr Burgess, E. 42, 45, 46, 51, 52, 58—61, 68, 75,
+@cr 78—80, 86, 90, 92.
+@cr {b:C.}
+@cr Caldei 9, 11, 43.
+@cr Caput draconis s. Knotenpunkte (des Mondes).
+@cr Carra de Vaux 78.
+@cr Casae s. Häuser.
+@cr Casus 26, 27, 87—89, 95, s. auch Tiefstand.
+@cr Cauda draconis s. Knotenpunkte (des Mondes).
+@cr Celada (Kardinal) XI.
+@cr Centrum (astron.) 11, 48—54, 57, 58. s. auch
+@cr Examinatio centri.
+@cr — examinatum vel aequatum 11, 12, 52—55, 57.
+@cr — ultimum 11, 53, 54.
+@cr Chaldei s. Caldei.
+@cr Chasles, M. VII, X, 43, 49, 50.
+@cr Cheikho, L. IX (N. 3).
+@cr Cifra s. Null.
+@cr Circulus aequinoctialis 18—21, 25.
+@cr — excentricus 26, 44, 47.
+@cr Circumpolarsterne 71.
+@cr Coaequatio s. Examinatio.
+@cr Computatio XIV, 59, T. 21—26.
+@cr Computus (Gerlandi) X.
+@cr Conversio annorum s. Umwandlung.
+@cr Corduba (Cordova) VII, XII, 25, 33, 81, 83—85,
+@cr 92—97, 100, 106.
+@cr Cotangens s. Umbra.
+@cr Curtze, M. XXIII.
+@cr {b:D.}
+@cr Darius Medus 105.
+@cr Decani s. Facies.
+@cr Defectus s. Verfinsterung.
+@cr Deferens 16, 17, 57, 60, 61, 233, 234.
+@cr Deiectio s. Tiefstand.
+@cr Deklination (Obliquatio) der Sonne 13, 18, 19,
+@cr 58, 91, T. 21—26.
+@cr — irgend eines Punktes der Ekliptik 74, 75,
+@cr s. auch Ekliptik.
+@cr Delambre 60.
+@cr Detrimentum s. Alienatio.
+@cr Dieterici, F. 105.
+@cr Digiti = Teile des Gnomon 20—22, T. 60.
+@obs The page number «250» stands at the head of the page, centred, with a rule below it. The page has no signature. Two columns divided by a vertical rule, as on p. [249] (JP2 0283), transcribed column by column: the left column L01-L51, the right L52-L101; the letter heads «B.» (L11), «C.» (L61) and «D.» (L88) in bold, centred in their columns, each after a blank line; each entry begins at the edge of its column, its further lines indented, the subentries with a dash indented less.
+@obs L16: «38‐‐50» with two short dashes (17 and 10 px with a gap of 9 px), here written as two hyphens (U+2010); the other dashes of the page are long (27-47 px). L71: «11,12,» set close in a full line. L06: «XXIIl», the last sign of the numeral a lowercase l, as «Vl» in L39; transcribed as printed. L27: a speck below the e of «der»; not transcribed. The page has no semicolons. L38: «Bhāskara, 70.» with a comma after the name, where the other names without an initial have none («Brahmagupta 32», L47).
+@obs Checked against the text, for example: «Asín» on pp. XI and XVII, «Bernelini» and «Bernhelmo» on p. X (JP2 0014, L36-L37), «Boncompagni», divided «Bon-compagni», on p. VIII (JP2 0012), «Billeter» in the foreword, p. VI (JP2 0010, L02), «Broger» on p. 95, «Burgess» on all the pages cited, «Caldeos» on p. 9 and «Caldeis» on p. 11 (JP2 0041, 0043), «Celada» on p. XI, «Circumpolarsternes» on p. 71 (JP2 0103), «Computus Gerlandi» on p. X, «Delambre» on p. 60, «digiti» on p. 21 and in Tab. 60 (p. 174), «Deferens» on pp. 47, 48, 57, 60, 61, 63, 233 and 234 (JP2 0079-0080, 0089, 0092-0093, 0095, 0265-0266). The latitudes of the planets stand in a column of each of their tables, Tab. 27-56 (pp. 138-167).
+@copy L92: in this copy «16» and «17» of the entry «Deferens» are struck through in ink, each with an oblique stroke; the commas after them and after 60 and the figures 233 and 234 look darker, perhaps gone over in the same ink. Not part of the edition.
+@critical AK07-CN309 | wrong sort | L06 | XXIIl | XXIII | Athelhard is named in note 2 of p. XXIII (JP2 0027); the last sign of the numeral is a lowercase l, with a flag on the left only at its top, where the two I before it have serifs on both sides | high | none
+@critical AK07-CN301 | wrong punctuation | L22 | 36. 41—44 | 36, 41—44 | the references of the entry are divided by commas; a point is printed after 36 | high | none
+@critical AK07-CN302 | wrong sort | L39 | Vl. | VI. | Billeter is thanked in the foreword, p. VI (JP2 0010, L02); the second sign of the numeral is a lowercase l, with the sloping serif of the l, where the I of the roman numerals has level serifs | high | none
+@critical AK07-CN303 | wrong letter | L51 | S. 27—56 | T. 27—56 | the latitudes of the planets stand in a column of each of their tables, Tab. 27-56 (pp. 138-167); the index cites the tables with «T.» and has no other «S.» before a number | high | none
+@critical AK07-CN304 | missing accent | L58 | Bukhtanaṣsar | Bukhtanaṣṣar | the Arabic name has the emphatic s doubled; the index marks both letters of a doubled emphatic consonant, as «Naḳḳāsh» (p. [249], JP2 0283, L07), and the glossary «wakhāṣṣathu» and «ḥāṣṣa»; here only the first s has its dot (the commentary, p. 35, JP2 0067, N01, writes «Bukhtanassar» without dots) | high | none
+@critical AK07-CN305 | wrong punctuation | L69 | 58. s. auch | 58, s. auch | the entry continues with «s. auch Examinatio centri»; a comma stands before «s. auch» in «95, s. auch Tiefstand.» (L66) | medium | none
+@critical AK07-CN306 | wrong reference | L92 | Deferens 16, 17, | Deferens 47, 48, | the deferent is introduced on pp. 47 and 48 (JP2 0079, L14-L35; JP2 0080, L11, L24), which the entry omits; pp. 16 and 17 (JP2 0048-0049, the Latin text) do not name it; 47 and 48 are the 16th and 17th pages of the commentary, which begins on p. 32 | medium | none

@@ -1,0 +1,59 @@
+@page 158 126
+@lang la
+% JP2 0158: Tab. 15, p. 126: the anomaly of Venus («Heza Veneris») in the collected and the single Arab years and in
+% the Arab months, in signs, degrees, minutes and seconds, with the apparatus (notes 1-13 and a-m).
+@ml C 51{sup:r},
+@c {b:Elheza elzohari} (O)
+@ml O 107{sup:v}, N 18{sup:v}.
+@c {b:Argumentum Veneris} (CN)
+@tw size=footnotesize span=1.1 1.1 0.75 0.75 0.85 0.85 0.9 0.75 0.75 0.85 0.85 1.8 0.75 0.75 0.85 0.85
+@t Anni | Heza Veneris | | | | Anni | Heza Veneris | | | | Menses | Heza Veneris | | |
+@t collecti | in annis collectis{sup:1}) | | | | plani | in planis{sup:2}) | | | | arabum | in mensibus{sup:3}) | | |
+@t | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:4}) | {b:Sec.}{sup:5}) | | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.} | | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t Radix | 1 | 16 | 0 | 3 | 1 | 7 | 8 | 15 | 28 | Elmuharr. | 0 | 18 | 29 | 47
+@t 30 | 4 | 0 | 30 | 56 | 2 | 2 | 17 | 7 | 56 | Zafar | 1 | 6 | 22 | 32
+@t 60 | 6 | 15 | 1 | 30 | 3 | 9 | 25 | 23{sup:h}) | 24 | Rabe I.{sup:6}) | 1 | 24 | 52 | 22
+@t 90 | 8 | 29 | 32 | 43 | 4 | 5 | 3 | 38 | 52 | Rabe II.{sup:7}) | 2 | 12 | 45 | 10
+@t 120 | 11 | 14 | 3 | 36 | 5 | 0 | 12 | 31 | 20 | Jumedi I.{sup:8}) | 3 | 1 | 14 | 17
+@t 150 | 1 | 28{sup:a}) | 34 | 30 | 6 | 7 | 20 | 46 | 47 | Jumedi II.{sup:9}) | 3 | 19 | 7 | 45
+@t 180 | 4 | 13{sup:b}) | 5 | 24 | 7 | 2 | 29 | 39 | 15 | Regeb | 4 | 7 | 37 | 32
+@t 210 | 6 | 27{sup:c}) | 36 | 17 | 8 | 10 | 7 | 54 | 43 | Scabin{sup:10}) | 4 | 25 | 30 | 20
+@t 240 | 9 | 12 | 7 | 10 | 9 | 5 | 16 | 10 | 11 | Ramadh.{sup:11}) | 5 | 14{sup:m}) | 0 | 7
+@t 270 | 11 | 26 | 38 | 4 | 10 | 0 | 25 | 2 | 38 | Scawel{sup:12}) | 6 | 1 | 52 | 55
+@t 300 | 2 | 11 | 8 | 58 | 11 | 8 | 3 | 18 | 6 | Dulkada{sup:13}) | 6 | 20 | 22 | 42
+@t 330 | 4 | 25 | 39 | 51 | 12 | 3 | 11 | 33 | 34 | Dulheia | 7 | 8 | 15 | 29
+@t 360 | 7 | 10 | 10 | 44 | 13 | 10 | 20 | 26 | 2 | | | | |
+@t 390 | 9 | 24 | 41 | 37{sup:f}) | 14 | 5 | 28 | 41 | 30 | | | | |
+@t 420 | 0 | 9 | 12 | 30 | 15 | 1 | 6 | 56 | 58 | | | | |
+@t 450 | 2 | 23 | 43 | 24 | 16 | 8 | 15 | 49 | 25 | | | | |
+@t 480 | 5 | 8 | 14 | 17 | 17 | 3 | 24 | 4 | 53 | | | | |
+@t 510 | 7 | 22 | 45 | 10 | 18 | 11 | 2 | 57{sup:i}) | 20 | | | | |
+@t 540 | 10 | 7 | 16{sup:d}) | 4 | 19 | 6 | 11 | 12 | 48 | | | | |
+@t 570 | 0 | 21 | 46{sup:e}) | 57{sup:g}) | 20 | 1 | 19 | 28 | 16 | | | | |
+@t | | | | | 21 | 8 | 28 | 20 | 44 | | | | |
+@t | | | | | 22 | 4 | 6 | 36{sup:k}) | 12 | | | | |
+@t | | | | | 23 | 11 | 14 | 51 | 40 | | | | |
+@t | | | | | 24 | 6 | 23 | 44 | 7 | | | | |
+@t | | | | | 25 | 2 | 1 | 59 | 35 | | | | |
+@t | | | | | 26 | 9 | 10 | 52 | 2 | | | | |
+@t | | | | | 27 | 4 | 19 | 7{sup:l}) | 30 | | | | |
+@t | | | | | 28 | 11 | 27 | 22 | 58 | | | | |
+@t | | | | | 29 | 7 | 6 | 15 | 25 | | | | |
+@t | | | | | 30 | 2 | 14 | 30 | 53 | | | | |
+@n {sup:1}) Heza . . . . collectis] O, heca alzohara fi maimoa — argumentum veneris in annis collectis C —
+@n {sup:2}) Heza . . . . planis] O, heca elzohara fi mobzota — argumentum veneris in annis planis C — {sup:3}) Heza] O,
+@n argumentum C — {sup:4}) et {sup:5}) {i:V. notas in tab. 8} — {sup:6}) Rabe I.] Rab.’ O, Rabe elawel C — {sup:7}) Rabe II.]
+@n Rab.’ O — Babe elarhik C — {sup:8}) Jumedi I] Jumedi elule C, Gum.’ O — {sup:9}) Jumedi II] Jumedi elarik C
+@n Gum.’ O — {sup:10}) Scabin] O, Shabin C — {sup:11}) Ramadh.] Rantham C, Rā O — {sup:12}) Scawel] Shawel C, Scaw’
+@n O — {sup:13}) Dulkada] Dulredan C, Dulk’ O.
+@n {sup:a}) 28] ON, 33 C — {sup:b}) 13] {i:corr.} Bj. 27 C, 18 ON — {sup:c}) 27] C, 28 O — {sup:d}) 16] C, 46 O — {sup:e}) 46] O,
+@n 47 C — {sup:f}) 37] ON, 38 C — {sup:g}) 57] CO, 58 N — {sup:h}) 23] C, 22 O — {sup:i}) 57] C, 58 O — {sup:k}) 36] ON, {i:corr. ex.}
+@n 37 C — {sup:l}) 7] C, 50 O — {sup:m}) 14] ON, 24 C.
+@obs The page number «126» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 15», in bold sans serif, underlined. The titles (L01, L02), in bold, the sigla in roman: L01 that of O, L02 that of C and N; the folios of the manuscripts, «C 51r, O 107v,» over «N 18v.», stand at the left of the titles, the letters raised; here as left margin notes, divided after «C 51r,» so that they keep within the page. The page has no signature.
+@obs The table: a thick and a thin rule above the head, a double rule below it; vertical rules divide the fifteen columns, double ones before and after the columns of the years and of the months; thin rules under the heads that span the four columns of signs, degrees, minutes and seconds, whose heads «Sig.», «Gr.», «Min.», «Sec.» are set in small bold type, only the first «Min.» and «Sec.» with note numbers. «Anni collecti» and «Anni plani» are printed turned through a quarter, reading upwards, in two lines, «Menses arabum» in two lines; here their words stand in L03 and L04. Each printed row is one line here, the cells separated by our «|»; a head followed by empty cells spans their columns. The collected years end with 570 (L25), the months with Dulheia (L17).
+@obs L06-L35. The anomaly of Venus moves by the excess of the conjunctions of Venus over the sun's revolutions, with Brahmagupta's parameters (7 022 389 492 and 4 320 000 000 in 1 577 916 450 000 days) 36′ 59″ 34‴ 14⁗ a day (p. 56, JP2 0088), 2s 14° 30′ 53.8″ in 30 Arab years (10 631 days). Checked: the 30 single years, 354 days and 355 in the leap years 2, 5, 7, 10, 13, 16, 18, 21, 24, 26 and 29, agree to within 1.1″ (with the readings of notes h-l), the year 30 being 2s 14° 30′ 53″. The collected years step from the radix 1s 16° 0′ 3″ (46° 0′ 3″) by 2s 14° 30′ 53″ or 54″, about half a second less than the computed step, so that they fall behind the computation by up to 8.9″ at 570 (with the readings of notes a-g, and Björnbo's correction 13 of note b, where C has 27 and O and N 18).
+@obs L08, the row 60, 6s 15° 1′ 30″: the seconds are 20 too small; the radix and two steps give 6s 15° 1′ 50″ (computed 6s 15° 1′ 50.7″), and the row 90, 8s 29° 32′ 43″, follows from 50″, not from 30″. No note bears on them.
+@obs L06-L17, the months: 30, 59, … 354 days, the months of 30 and 29 days in turn. Checked: they agree with the computation to within 1.7″ (with the reading of note m), except Zafar, 1s 6° 22′ 32″ against 34.7″ computed, and Jumedi I., printed 3s 1° 14′ 17″, computed 3s 1° 14′ 56.4″: its seconds are 40 too small, and Jumedi II., 3s 19° 7′ 45″, follows 29 days later from 57″, not from 17″. No note bears on them. The year of the months, 7s 8° 15′ 29″, is the single year 1, 7s 8° 15′ 28″, to the second.
+@obs N03-N04, «Rab.’ O — Babe elarhik C», and N04, «Jumedi I]», «Jumedi II]»: see the critical notes. N03: «3) Heza] O, argumentum C»: the number 3 stands after «in mensibus» (L04), the lemma is «Heza». N07: «corr. Bj.», the correction of Björnbo; «corr.» in italics. N05: «Rā», with the macron; «Rab.’», «Gum.’», «Scaw’», «Dulk’», with the apostrophe. The ellipses «. . . .» of the lemmata as printed. Italics: «V. notas in tab. 8», «corr.», «corr. ex.».
+@critical AK07-CN103 | wrong punctuation | N04 | Rab.’ O — Babe elarhik C | Rab.’ O, Babe elarhik C | within a note the readings of the manuscripts are divided by a comma, as «Rab.’ O, Rabe elawel C» in note 6; the long dash, which divides the notes, is printed between the two readings of note 7 | medium | none
+@critical AK07-CN104 | missing point | N04 | Jumedi I] … Jumedi II] | Jumedi I.] … Jumedi II.] | the lemmata repeat the words of the table, «Jumedi I.8)» and «Jumedi II.9)» (L10-L11), as «Rabe I.]» and «Rabe II.]» in the notes before them; the points after I and II are not printed | medium | none

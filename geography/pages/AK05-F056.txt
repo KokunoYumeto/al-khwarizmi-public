@@ -1,0 +1,43 @@
+@page 56 ٥٠
+@cols 22,50,82
+@align r,c,r
+% Frame 056, printed p. 50: the right-hand page of the opening pp. 50-51 of the table of the mountains: the numbers and
+% names of the last three mountains of the third clime, entries 721/722-725/726, Zāmāsā, سي⟨م⟩تين and the mountain
+% نهر سمس; the headings of the fourth clime and of its mountains, with the folio of the manuscript, «(fol. 13ᵇ)», in the
+% margin; and eleven mountains of the fourth clime, entries 727/728-747/748, among them the second mountain of the sun,
+% the Lesser Atlas, three mountains on islands, the mountain of snow at Damascus, Lebanon, al-Lukkām and Sanīr. Two lines
+% of the editor's footnotes, continued from the foot of p. 51.
+@r (٧٢١ ٧٢٢) | [١٢١٥ ١٢١٦] | جبل زاماسا{n:a}
+@r (٧٢٣ ٧٢٤) | [١٢١٧ ١٢١٨] | جبل سي⟨م⟩تين{n:c}
+@r (٧٢٥ ٧٢٦) | [١١٩١ ١١٩٢] | جبل نهر سمس
+@m (fol. 13ᵇ)
+@h * الإقليم الرابع
+@h * الجبال الّتى فى
+@r (٧٢٧ ٧٢٨) | [١١٩٣ ١١٩٤] | جبل دٮلور{n:g}
+@r (٧٢٩ ٧٣٠) | [١٢١٩ ١٢٢٠] | جبل الشمس الثانى
+@r (٧٣١ ٧٣٢) | [١٢٢١ ١٢٢٢] | جبل اطلس الصغير
+@r (٧٣٣ ٧٣٤) | [١٢٢٣ ١٢٢٤] | جبل اڡلاثر
+@r (٧٣٥ ٧٣٦) | [١٢٢٥ ١٢٢٦] | جبل بالوا فى جزيرة
+@r (٧٣٧ ٧٣٨) | [١٢٢٧ ١٢٢٨] | جبل حسا فى جزيرة
+@r (٧٣٩ ٧٤٠) | [١٢٢٩ ١٢٣٠] | جبل ٮروں فى جزيرة
+@r (٧٤١ ٧٤٢) | [١٢٣١ ١٢٣٢] | جبل الثلج{n:h} بدمشق
+@r (٧٤٣ ٧٤٤) | [١٢٣٣ ١٢٣٤] | جبل لبنان
+@r (٧٤٥ ٧٤٦) | [١٢٣٥ ١٢٣٦] | جبل اللكّام
+@r (٧٤٧ ٧٤٨) | [١٢٣٧ ١٢٣٨] | جبل سنير
+@ednotes e f g h i 2
+@obs The table of the mountains goes on across the opening pp. 50-51: each line of p. 50 is continued by the same line of p. 51 (frame 057), which gives the boundaries, the colour and the direction. L01-L03 give the last three mountains of the third clime, entries 721/722-725/726. The headings run across the opening: L04, «* الإقليم الرابع», is continued on p. 51 by «عرضه لو *», the fourth clime and its latitude, 36; and L05, «* الجبال الّتى فى», by «الإقليم الرابع *», the mountains in the fourth clime. They are set in the large type, each beginning with a small open star, transcribed as an asterisk, and stand at the inner edge of the page, next to their ends on p. 51; transcribed as headings. L04: «الإقليم», with a hamza below the alif; L05: «الّتى», with a shadda over the ل, and «فى», with the dot of the ف and no dots on the ى.
+@obs The running numbers go on from entry 719/720 (frame 054) and run (٧٢١ ٧٢٢)-(٧٤٧ ٧٤٨). The numbers of Suhrāb are [١٢١٥ ١٢١٦] and [١٢١٧ ١٢١٨] (L01, L02); [١١٩١ ١١٩٢] and [١١٩٣ ١١٩٤] (L03, L06), the two pairs that do not appear on frame 054; and [١٢١٩ ١٢٢٠]-[١٢٣٧ ١٢٣٨] (L07-L16). The folio of the Strasbourg manuscript, «(fol. 13ᵇ)», is printed in Latin type in the right margin beside the heading of the fourth clime (L04).
+@obs L02: «سي⟨م⟩تين»: an initial س and a ي with its two dots below; then a medial م between angle brackets: the editor supplies it where the manuscript is damaged (note c); then a ت with its two dots, a ي with its two dots and a final ن with its dot, followed by the note mark c.
+@obs L03: «نهر سمس»: «نهر», the ن with its dot; then «سمس», the teeth of a س, a small filled loop on the line, the م, and a final س. The space after the ر of «نهر» is 17 px wide, where within a word a ر stands at most 3 px from the next letter (frame 052, L06, «مرسول»; frame 054, L14, «ارٮٮطا»); transcribed as two words.
+@obs L06: «دٮلور»: after the د, a short tooth without a dot, 16 px high, joined to a ل, a و and a ر; the editor's note g gives the form of entry (1853), «دٮلوں», with the same tooth and a final ن without its dot.
+@obs L09: «اڡلاثر»: after the alif, a closed loop without dots joined to the lām-alif: the loop of ف or ق, where an ع after a letter that does not join is an open hook (frame 054, L04, «فرعى»); then the ث, its three dots set as a triangle, and a ر.
+@obs L12: «ٮروں»: a tooth without a dot joined to a ر, the two strokes forming a notch at the top, as on frames 015, 021 and 041; then a و and a final ن without its dot.
+@obs L07: «الشمس الثانى», the second mountain of the sun, «الثانى» with the three dots of the ث and a final ى without dots; L08: «اطلس الصغير», the Lesser Atlas; L10, L11, L12: «فى جزيرة», on an island; L10: «بالوا», the ب with its dot; L11: «حسا», the ح without a dot; L13: «الثلج بدمشق», the mountain of snow at Damascus, with the dots of the ث, the ج, the ب, the ش and the ق; L14: «لبنان»; L15: «اللكّام», with a shadda over the ك; L16: «سنير», the ن with its dot above and the ي with its two below.
+@obs L16: a thin slanting stroke, 7 by 4 px, stands above the ن and the ي of «سنير», too thin for a vowel sign of the font; it is not transcribed.
+@obs The editor's footnotes of the opening begin at the foot of p. 51 (frame 057) with notes a-d and the beginning of note e, and continue here in two lines with the end of note e and notes f, g, h and i. The texts of notes a and c, whose marks stand on this page (L01, L02), are printed on p. 51; the marks of notes e, f and i stand on p. 51.
+@obs The page number «— ٥٠ —» stands at the foot, centred.
+@variant L01: at entry (1845) the name is written رماسا (note a, printed at the foot of p. 51).
+@variant L02: the manuscript is damaged in the name, and the editor supplies the م; at entry (1905) the name is written سيمس (note c, printed at the foot of p. 51); the editor's corrigenda (p. 163, frame 169) add that at entry (1850) it is written سمس.
+@variant L03: at entry (2049) the name is written جبل نهر سقس (a note added in the editor's corrigenda (p. 163, frame 169)).
+@variant L06: at entry (1853) the name is written دٮلوں (note g).
+@variant L13: the manuscript writes the word اللح, for الثلج (note h).

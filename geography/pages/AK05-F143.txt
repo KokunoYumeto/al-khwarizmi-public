@@ -1,0 +1,56 @@
+@page 143 ١٣٧
+% Frame 143, printed p. 137: the river درٮوس concluded, with a river out of it to the sea; three rivers from the mountain
+% اروس that fall into the river دريوس, between the towns دقسالا and ڡلون and between طلسا and دقسالا; two rivers out of the
+% last to the sea; a river from the mountain اروس between ڡلون and the river درٮوس into the town ٮاٮونا; and the beginning
+% of a river from a spring. The editor's running numbers (٢٠٧٥)-(٢٠٩٠), one printed with a blank for a digit, and the
+% numbers of Suhrāb; the folio of the manuscript, «(fol. 41ᵇ)», within a line; a word and numerals supplied by the
+% editor between angle brackets. Two lines of the editor's footnotes.
+(٢٠٧٥) [٢٠٠٧] * ويخرج من هٰذا النهر نهر يصبّ فى البحر اوّله عند طول {ov:كٮ ك}
+والعرض {ov:مج {z}} (٢٠٧٦) [٢٠٠٨] ومصبّه فى البحر عند طول {ov:كٮ م} والعرض {ov:⟨مب ل⟩}{n:a}
+@m (fol. 41ᵇ)
+(٢٠٧٧) [٢٠٠٩] * ويقع ⟨فى⟩{n:b} نهر دريوس نهر من جبل اروس اوّله عند
+طول {ov:كر ٮه} والعرض {ov:مد ل} (٢ ٧٨) [٢٠١٠] ومصبّه فى النهر عند طول {ov:كو ل} والعرض
+{ov:مد ل} (٢٠٧٩) [٢٠١١] ويمرّ فيما بين مدينة دقسالا ومدينة ڡلون * ويقع فى
+نهر درٮوس ايضاً نهر من جبل اروس عند طول {ov:كز {z}} والعرض {ov:مج ى} (٢٠٨٠) [٢٠١٢]
+ومصبّه فى النهر عند طول {ov:كٮ ل} والعرض {ov:مج ل} (٢٠٨١) [٢٠١٣] * ويقع فى نهر
+دريوس ايضاً نهر من جبل اروس اوّله عند ⟨طول⟩{n:b} {ov:كز {z}} والعرض {ov:مب م} (٢٠٨٢)
+[٢٠١٤] يمرّ فيما بين مدينة طلسا ومدينة دقسالا ويصبّ فى النهر عند طول {ov:كٮ ك}
+والعرض {ov:مج ى} (٢٠٨٣) [٢٠١٥] * يخرج من هٰذا النهر نهران{n:c} يصبّان فى البحر
+الأوّل منهما{n:d} اوّله عند طول {ov:كد م} والعرض {ov:مح ى}{n:e} (٢٠٨٤) [٢٠١٦] ومصبّه فى
+البحر عند طول {ov:كد م} والعرض {ov:مب ل} (٢٠٨٥) [٢٠١٧] والنهر الثانى اوّله عند طول
+{ov:كو ى} والعرض {ov:مح {z}} (٢٠٨٦) [٢٠١٨] ومصبّه فى البحر عند طول {ov:كو ى} والعرض
+{ov:مب ل} (٢٠٨٧) [٢٠١٩] *
+نهر يخرج من جبل اروس يمرّ فيما بين مدينة ڡلون ونهر درٮوس يصبّ فى مدينة
+ٮاٮونا اوّله عند طول {ov:كز ل} والعرض {ov:مج م} (٢٠٨٨) [٢٠٢٠] ومصبّه فى المدينة عند
+طول {ov:كح م} والعرض {ov:مد ل} (٢٠٨٩) [٢٠٢١] *
+نهر يخرج من عين اوّله عند طول {ov:كح م} والعرض {ov:مد ك} (٢٠٩٠) [٢٠٢٢] يمرّ بقرب
+@ednotes a b c d e 2
+@obs The river درٮوس goes on from p. 136 (frame 142), whose last words, «ثمّ يعدل فيصبّ فى البحر عند طول كٮ ك والعرض مٮ ل», then it turns and flows into the sea at the longitude 22° 20′ and the latitude 42° 30′, L01 continues with the running number of that point, (٢٠٧٥), and its number of Suhrāb; then «ويخرج من هٰذا النهر نهر يصبّ فى البحر اوّله عند طول كٮ ك والعرض مج {z} (٢٠٧٦) ومصبّه فى البحر عند طول كٮ م والعرض ⟨مب ل⟩ (٢٠٧٧) *», and out of this river comes a river that flows into the sea; its beginning is at the longitude 22° 20′ and the latitude 43° 0′, and its mouth in the sea at the longitude 22° 40′ and the latitude ⟨42° 30′⟩.
+@obs L03-L05: «ويقع ⟨فى⟩ نهر دريوس نهر من جبل اروس اوّله عند طول كر ٮه والعرض مد ل (٢ ٧٨) ومصبّه فى النهر عند طول كو ل والعرض مد ل (٢٠٧٩)», and ⟨into⟩ the river دريوس falls a river from the mountain اروس, whose beginning is at the longitude كر ٮه and the latitude 44° 30′, and its mouth in the river at the longitude 26° 30′ and the latitude 44° 30′; «ويمرّ فيما بين مدينة دقسالا ومدينة ڡلون *», and it passes between the town دقسالا and the town ڡلون.
+@obs L05-L07: «ويقع فى نهر درٮوس ايضاً نهر من جبل اروس عند طول كز {z} والعرض مج ى (٢٠٨٠) ومصبّه فى النهر عند طول كٮ ل والعرض مج ل (٢٠٨١) *», and into the river درٮوس falls also a river from the mountain اروس, at the longitude 27° 0′ and the latitude 43° 10′, and its mouth in the river at the longitude 22° 30′ and the latitude 43° 30′.
+@obs L07-L10: «ويقع فى نهر دريوس ايضاً نهر من جبل اروس اوّله عند ⟨طول⟩ كز {z} والعرض مب م (٢٠٨٢) يمرّ فيما بين مدينة طلسا ومدينة دقسالا ويصبّ فى النهر عند طول كٮ ك والعرض مج ى (٢٠٨٣) *», and into the river دريوس falls also a river from the mountain اروس, whose beginning is at ⟨the longitude⟩ 27° 0′ and the latitude 42° 40′; it passes between the town طلسا and the town دقسالا and flows into the river at the longitude 22° 20′ and the latitude 43° 10′.
+@obs L10-L14: «يخرج من هٰذا النهر نهران يصبّان فى البحر الأوّل منهما اوّله عند طول كد م والعرض مح ى (٢٠٨٤) ومصبّه فى البحر عند طول كد م والعرض مب ل (٢٠٨٥)», out of this river come two rivers that flow into the sea; the first of them, its beginning is at the longitude 24° 40′ and the latitude مح ى, and its mouth in the sea at the longitude 24° 40′ and the latitude 42° 30′; «والنهر الثانى اوّله عند طول كو ى والعرض مح {z} (٢٠٨٦) ومصبّه فى البحر عند طول كو ى والعرض مب ل (٢٠٨٧) *», and the second river, its beginning is at the longitude 26° 10′ and the latitude مح ō, and its mouth in the sea at the longitude 26° 10′ and the latitude 42° 30′.
+@obs L15-L17: «نهر يخرج من جبل اروس يمرّ فيما بين مدينة ڡلون ونهر درٮوس يصبّ فى مدينة ٮاٮونا اوّله عند طول كز ل والعرض مج م (٢٠٨٨) ومصبّه فى المدينة عند طول كح م والعرض مد ل (٢٠٨٩) *», a river that comes out of the mountain اروس, passes between the town ڡلون and the river درٮوس and flows into the town ٮاٮونا; its beginning is at the longitude 27° 30′ and the latitude 43° 40′, and its mouth in the town at the longitude 28° 40′ and the latitude 44° 30′.
+@obs L18: «نهر يخرج من عين اوّله عند طول كح م والعرض مد ك (٢٠٩٠) يمرّ بقرب», a river that comes out of a spring, whose beginning is at the longitude 28° 40′ and the latitude 44° 20′; it passes near, continued on p. 138.
+@obs The mountain is entries 837-838 of the table of the mountains, «جبل اورس متّصل بالبحر» (frame 064, L01), where the editor records the form اروس of entries (2073), (2078), (2080) and (2088). The towns are entries of the table of the cities (frame 035, L09, L11-L13): 421, «يانويا», at the longitude 23° 45′ and the latitude 44° 30′; 423, «اڡلون», at the longitude 25° 45′ and the latitude 44° 15′; 424, «دڡسالا», at the longitude 25° 50′; and 425, «طلسا على البحر», at the longitude 25° 50′ and the latitude 42° 45′. The editor's notes there give the forms of this page: ٮاٮونا at entry (2088), ڡلون at entries (2080) and (2088), without the alif, and دقسالا at entries (2080) and (2083).
+@obs The name of the river is printed «دريوس», with the two dots of the ي under the tooth, run together into one mark of 17 by 9 px, in L03 and L08, as the editor's note h on frame 142 records for entries (2078) and (2082); and «درٮوس», the tooth without dots, in L06 and L15, as on frame 142 (L14). «ڡلون» (L05, L15): the loop of ف or ق without dots, joined by the stroke on the line to the ل, with the small rises of the joining stroke before and after the ل that the font gives this group in «اڡلون» of the table (frame 035, L11). «ٮاٮونا» (L16): two teeth without dots, each before an alif and a و; the ن with its dot. «دقسالا» (L05, L09): the ق with its two dots.
+@obs L04: the running number of point 2078 is printed «(٢ ٧٨)», with a blank of 46 px between the ٢ and the ٧ where the zero, a dot of 9 to 13 px, stands in the other running numbers of the page; transcribed as printed.
+@critical AK05-CN013 | missing letter | L04 | (٢ ٧٨) | (٢٠٧٨) | the running number of the point after (٢٠٧٧) is printed with a blank where its zero stands, between (٢٠٧٧) in L03 and (٢٠٧٩) in L05 | high | none: the running numbers only count the points
+@obs Numerals: «مج {z}» (L02), with the dot of the ج, 43° 0′; «⟨مب ل⟩» (L02), with the dot of the ب, 42° 30′; «مد ل» (L04, L05, L17), 44° 30′; «كو ل» (L04), the round loop of the و, 26° 30′; «كز {z}» (L06, L08), with the dot of the ز, 27° 0′; «مج ى» (L06, L10), 43° 10′; «مج ل» (L07), 43° 30′; «مب م» (L08), 42° 40′; «كد م» (L11, L12), 24° 40′; «مب ل» (L12, L14), 42° 30′; «كو ى» (L13, twice), 26° 10′; «كز ل» (L16), 27° 30′; «مج م» (L16), 43° 40′; «كح م» (L17, L18), 28° 40′; «مد ك» (L18), 44° 20′.
+@obs «كٮ ك» (L01, L09), «كٮ م» (L02) and «كٮ ل» (L07): the degrees are a long oblique stroke over a flat bowl, the ك joined to the final ب without its dot, 22 (frame 014, L11); read so, 22° 20′, 22° 40′ and 22° 30′, beside the mouth of the river درٮوس at 22° 20′ (frame 142, L16).
+@obs L04: «كر ٮه», the beginning of the river of point 2078: the letter joined to the ك has a small pointed head, 8 rows high, where the round loop of the و in «كو ل» of the same line is 15 rows high; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII): 27. The minutes are a tooth without its dot joined to a final ه, 27 by 26 px, where the isolated ه is a small round ring of about 18 by 20 px (frame 014, L01): ٮه, 55 read with a ن, 15 with a ي (frame 113, L08; frame 031, L07).
+@obs «مح ى» (L11) and «مح {z}» (L13), the latitudes of the beginnings of the two rivers of points 2084 and 2086: the ح shows no dot in the bowl, where «مج» of L02, L06, L07, L10 and L16 has the dot of the ج; the same form is a ج without its dot, 3. Read with ح, 48° 10′ and 48° 0′; read as مج, 43° 10′ and 43° 0′, beside the other latitudes of the page, 42° 30′ to 44° 30′. The editor's note e gives the variant مح ō.
+@obs L03: the folio of the Strasbourg manuscript, «(fol. 41ᵇ)», is printed in Latin type within the line, between the asterisk after [٢٠٠٩] and «ويقع»; transcribed as a margin note before the line.
+@obs Angle brackets, each followed by a note mark, around what the editor supplies: «⟨مب ل⟩» (L02), the latitude under the line over the numerals, note a; «⟨فى⟩» (L03) and «⟨طول⟩» (L08), note b. Transcribed with the brackets.
+@obs Signs in the text, transcribed as printed: «هٰذا» (L01, L10) with a small alif over the ه; «يصبّ» (L01, L15), «ومصبّه» (L02, L04, L07, L11, L13, L16), «ويصبّ» (L09) and «يصبّان» (L10) with a shadda over the ب; «اوّله» (L01, L03, L08, L11, L12, L16, L18) with a shadda over the و and «الأوّل» (L11) with a hamza over the alif and a shadda over the و; «ويمرّ» (L05) and «يمرّ» (L09, L15, L18) with a shadda over the ر; «ايضاً» (L06, L08) with the tanwin of the accusative over its alif; «فى», «⟨فى⟩» and «الثانى» (L12) end in a ى without dots.
+@obs The running numbers run (٢٠٧٥)-(٢٠٩٠) without a gap, (٢ ٧٨) for (٢٠٧٨); the numbers of Suhrāb [٢٠٠٧]-[٢٠٢٢], one after each. [٢٠١٤] stands at the beginning of L09, after the running number (٢٠٨٢) at the end of L08.
+@obs Asterisks: the small open stars with six points, after [٢٠٠٧] (L01), [٢٠٠٩] (L03), «ڡلون» (L05), [٢٠١٣] (L07), [٢٠١٥] (L10), [٢٠١٩] (L14) and [٢٠٢١] (L17), are transcribed as asterisks.
+@obs Note marks: L02, a after the bracketed latitude; L03, b after «⟨فى⟩»; L08, b after «⟨طول⟩»; L10, c after «نهران»; L11, d after «منهما» and e after the latitude.
+@obs Marks not transcribed: L13, a round speck of 5 px between the minutes «ى» of the second longitude and «والعرض», on the line; L04, a small speck above the ك of «كر»; small specks of the impression below «نهر» and «من» (L03).
+@obs The editor's footnotes stand in two lines below a short rule at the left: notes a-e; note b serves both brackets. The page number «— ١٣٧ —» stands at the foot, centred.
+@variant L02: the manuscript has a gap at the numerals between the brackets; the editor supplies them from S (note a).
+@variant L03: the word between the brackets is missing in the manuscript (note b).
+@variant L08: the word between the brackets is missing in the manuscript (note b).
+@variant L10: the manuscript reads نهرن (note c).
+@variant L11: the manuscript reads منها (note d).
+@variant L11: a variant reading of the latitude is مح ō, with a line over the numerals (note e).

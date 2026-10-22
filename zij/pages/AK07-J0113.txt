@@ -1,0 +1,53 @@
+@page 113 81
+@lang de
+% JP2 0113: Suter's commentary, p. 81: the end of the tables of the equation of time; chapter 31, the conjunction and
+% the opposition of the sun and the moon: the tables for Cordova, al-Battānī's spurious and genuine syzygy tables, the
+% principle of the correction, the third column of Table 69 begins (notes 1-5).
+Kapitels erwähnt, wo es sich um die Umrechnung von Äquatorialstunden in ungleiche
+Stunden und umgekehrt handelt.
+@c {b:Kap. 31. Über Konjunktion und Opposition von Sonne und Mond.}
+@c (Text p. 23—25, Tafeln 69—72.)
+@p Mit Hilfe dieser Tafeln sollen nach den Regeln des Textes die Zeiten der Kon-
+junktionen und Oppositionen von Sonne und Mond bestimmt werden. Pag. 25 des
+Textes finden wir die Bemerkung : {i:Haec autem omnia pro situ Cordubae dicta sunt.}
+Dies beweist, dass {sp:Maslama al-Madjrīṭī} diese Tafeln entweder von sich aus hin-
+zugefügt, oder aus denen {sp:Kh.}’s für den Meridian von Cordova umgerechnet hat.
+Ganz ähnlich eingerichtete, aber in den Zahlenwerten etwas abweichende Tafeln
+finden sich bei {sp:Batt.}{sup:1}) ; sie enthalten aber nur die {i:anni collecti,} es fehlen die {i:anni}
+{i:plani} ({i:singuli}) und die {i:menses} ; {sp:Nallino} hat sie mit Recht zu den unechten Tafeln
+gerechnet. {sp:Batt.} hat für den Meridian von {i:Al-Raḳḳa} Tafeln der Syzygien in römi-
+schen Jahren aufgestellt{sup:2}), die nach dem gleichen Prinzip eingerichtet sind wie die
+unsrigen, nur schreiten die {i:anni collecti} um je 24 Jahre vorwärts statt 30, und sie
+beginnen mit dem 1. {i:Ādhār} 879 der Seleucid. Aera = 1. März 568 n. Chr.
+@p Die Bestimmung einer {i:Konjunktion} oder {i:Opposition} von Sonne und Mond beruht
+natürlich in erster Linie auf der Berechnung der wahren Längen dieser Gestirne für
+den betreffenden Zeitpunkt. Findet man diese Längen gleich, so sind diese beiden
+Gestirne dannzumal in Konjunktion, sind sie um 180° verschieden, so sind sie in
+Opposition. Stimmen sie nicht ganz überein, so kann man aus dem Unterschied
+der Längen, und aus den wahren stündlichen Bewegungen der beiden Gestirne auf die
+Zeit schliessen, die es noch braucht, bis sie in die wahre Konjunktion bezw. Oppo-
+sition kommen. Die Begründung dieser Korrektur ist bei {sp:Batt.}{sup:3}) ziemlich kompliziert
+dargestellt, er gibt aber auch eine einfachere Darstellung{sup:4}), die mit derjenigen des
+{sp:Ptol.}{sup:5}) übereinstimmt, und der auch {sp:Kh.} folgt. — Die Herstellung der Tafeln sowohl
+als auch die Berechnung der Konjunktionen und Oppositionen mit Hilfe derselben
+ist nach der muhammedanischen Zeitrechnung weit einfacher als nach der seleuci-
+dischen oder julianischen, weil die Konjunktionen auf den letzten oder vorletzten
+Tag des Monats, die Oppositionen stets in dessen Mitte fallen.
+@p Das Prinzip, auf dem die Einrichtung der Tafeln und besonders der 3. Kolonne,
+{i:Dies et horae} oder nur {i:Horae} überschrieben, beruht, ist das, die Zeit zu bestimmen,
+welche von einem bestimmten Zeitpunkt, bezw. von einer bestimmten Stellung der
+Gestirne ({i:Radix}) an nötig ist bis zu der gesuchten Konjunktion, d. h. bis die beiden
+Gestirne die gleiche Länge haben ; so wird in Tafel 69 z. B., in der Kolonne {i:Dies et}
+{i:horae} überschrieben, die Zahl 29{sup:d} 0{sup:h} 14{sup:m} 46{sup:s}, die der Zahl 31 in der Kolonne {i:Anni}
+@n {sup:1}) Ed. {sp:Nallino}, II, 306—307.
+@n {sup:2}) Ibid. II, 84—86.
+@n {sup:3}) Ibid. I, 93—94 ; vergl. dazu die Erklärungen von {sp:Schiaparelli}, I, 273—274.
+@n {sup:4}) Ibid. I, 94, Z. 26—34.
+@n {sup:5}) Ed. {sp:Heiberg}, I, 472—475, Übers. v. K. {sp:Manitius}, I, 342—349.
+@obs The page number «81» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «11» on the right; recorded here, not transcribed as a line. L01-L02 complete the sentence that ends p. 80 (JP2 0112, L36), «Diese Tafeln der Zeitgleichung werden am Schlusse des folgenden»; L01 «Äquatorialstunden», where p. 76 (JP2 0108, N01) has «Aequatorial-stunden». L03-L04: the heading of chapter 31, in bold, centred, with the reference to the text below it.
+@obs L07: the sentence of the Latin text, p. 25 (JP2 0057, L03), «Haec autem omnia pro situ Cordubae dicta sunt.», in italics, after a colon set with the thin space of the edition (13 px). L16. Checked: the Seleucid year 879 began on 1 October 567, so that its Ādhār is March 568 (879 − 311 = 568, the rule of p. 39, JP2 0071, N01).
+@obs L17-L30: the conjunction from the true longitudes and the hourly motions, the correction as in Ptolemy and in al-Battānī's simpler account; in the Muslim calendar the conjunction falls on the last or the last day but one of the month and the opposition in its middle, so that the tables are simpler than in the Seleucid or Julian years. L31-L36: the third column of the tables, «Dies et horae» or «Horae», the time from a radix to the conjunction; the example of Table 69 continues on p. 82.
+@obs L26: the h of «sowohl» is printed with a faint left stem; read as h. L08: «Maslama al-Madjrīṭī» spaced, with the dot under the ṭ and the macron. L13: «Al-Raḳḳa» in italics, with dots under both k. L36: «29d 0h 14m 46s», the d, h, m and s raised.
+@obs The dashes: L04 «23—25» and «69—72», the long dash of the small type of the references (34 and 35 px); L26 «folgt. — Die», the long dash of the text (48 px) with a space on either side; the notes have the long dash of the small type, 34-43 px, set close («273—274» in N03 printed in two pieces).
+@obs Spaced type, marked {sp:}: «Maslama al-Madjrīṭī», «Kh.», «Batt.», «Nallino», «Ptol.», «Schiaparelli», «Heiberg», «Manitius»; italics: the Latin of L07, «anni collecti,», «anni plani», «singuli», «menses», «Al-Raḳḳa», «Ādhār», «Konjunktion», «Opposition» (L17), «Dies et horae», «Horae», «Radix», «Anni».
+@obs The colon and the semicolons stand after the thin space of the edition (10-13 px measured).

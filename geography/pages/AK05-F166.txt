@@ -1,0 +1,36 @@
+@page 166 ١٦٠
+% Frame 166, printed p. 160: the editor's index continued: the mountains from the fifth clime to beyond the seventh,
+% the seas, and the islands in the seas, each with the printed pages of the edition on which it stands.
+@cols 125,25
+@align r,c
+@rh | صحيفة
+@r الجبال الّتى فى الإقليم الخامس | ٥٢—٥٧
+@r الجبال الّتى فى الإقليم السادس | ٥٦—٦١
+@r الجبال الّتى فى الإقليم السابع | ٦٠—٦١
+@r الجبال الّتى وراء الإقليم السابع | ٦٠—٦٥
+@c * البحار الّتى على كرة الأرض ا المعمورة *
+@r البحر المغربىّ الخارج والشمالىّ الخارج | ٦٦—٦٩
+@r بحر طنجة وبحر مرطاسه وبحر افريقيّة وبحر برقة وبحر مصر والشام وبحر |
+@r ٮرقه ولزقه كلّها متّصلة بعضها ببعض | ٦٩—٧٤
+@r بحر القلزم والبحر الأخضر وبحر السند وبحر الهند وبحر الصين وبحر |
+@r البصرة بعضها متّصل ببعض وهو البحر الكبير | ٧٤—٨٠
+@r بحر خوارزم وبحر جرجان وطبرستان والديلم واحد | ٨٠—٨١
+@r البحر المظلم | ٨٢—٨٣
+@c * صفة الجزائر الّتى فى البحار *
+@r الجزائر الّتى فى البحر المغربىّ الخارج | ٨٤—٨٩
+@r الجزائر الّتى فى بحر طنجة ومرطاسه وإفريقيّة وبرقة والشام | ٨٩—٩٣
+@r جزائر بحر القلزم | ٩٣—٩٤
+@r الجزائر الّتى فى البحر الأخضر والسند والهند والصين | ٩٤—١٠٠
+@c جزيرة سرنديب ٩٧—٩٨
+@r الجزائر الّتى فى بحر البصرة | ١٠٠
+@obs The editor's index continues from p. 159 (frame 165) with the same layout: each section of the text with the printed pages of the edition on which it stands, in a column at the left under the head «صحيفة», page, repeated at the top of the page. Transcribed as a table of two columns, the section and its pages; the first page of a range stands at the right of the long dash.
+@obs The pages agree with the frames (the printed page N is frame N + 6): the mountains of the fifth clime begin on p. 52 (frame 058), those of the sixth on p. 56 (frame 062), those of the seventh clime and beyond it on p. 60 (frame 066), and the table of the mountains ends on p. 65 (frame 071); the seas begin on p. 66 (frame 072), the sea of Tangier on p. 69 (frame 075), the sea of al-Qulzum on p. 74 (frame 080), the sea of Khwārazm on p. 80 (frame 086), the dark sea on p. 82 (frame 088); the islands begin on p. 84 (frame 090), those of the sea of Tangier on p. 89 (frame 095), those of al-Qulzum on p. 93 (frame 099), those of the Green Sea on p. 94 (frame 100), and those of the sea of Basra on p. 100 (frame 106). The island سرنديب, the sub-entry of L19, stands on pp. 97-98 (frames 103-104).
+@obs L06, L14: the heads of the two groups of the page, centred, between two small open stars: «* البحار الّتى على كرة الأرض ا المعمورة *», the seas on the globe of the inhabited earth, and «* صفة الجزائر الّتى فى البحار *», the description of the islands in the seas. L06 has an isolated alif, 11 by 52 px, of the size of the alifs of «الأرض» and «المعمورة» beside it, between these two words (critical note AK05-CN016).
+@obs L08-L09 and L10-L11: two entries run over two lines each; the second line is indented from the right and carries the pages of the entry at its end. Transcribed as two rows, the pages on the second. L19: «جزيرة سرنديب ٩٧—٩٨» is set as a sub-entry under the islands of the Green Sea, indented from the right, with its pages after it in the middle of the line, as the sub-entry of p. 159 (frame 165, L16); transcribed as a centred line.
+@obs The entries give the heads of the text with small differences of form: L06 lacks «وجزائرها», and their islands, of the head on p. 66 (frame 072, L01); L08 has «افريقيّة» without a hamza, where the head on p. 69 (frame 075) has «أفريقيّة»; L10 has «والبحر الأخضر», where the head on p. 74 (frame 080) has «وبحر* الأخضر» with the editor's asterisk; L15 has «البحر المغربىّ الخارج», where the head on p. 84 (frame 090, L02) has «بحر المغرب لخارج»; L16 has «ومرطاسه», where the head on p. 89 (frame 095) has «ومرطاس»; L18 has «الجزائر الّتى فى» without the angle brackets in which the head on p. 94 (frame 100) supplies these words.
+@obs L09: «ٮرقه» begins with a tooth without a dot joined to the ر, of the form of the «بر» of «برقة» in L08, which has the dot below; the head on p. 69 (frame 075, L06) prints the name so. Transcribed as printed.
+@obs L04: the type of «الإقليم السابع» is worn. The alif of the article of «الإقليم» is broken in its upper part; the alif of the ligature «لإ» is broken, and its top, 9 by 12 px, stands apart beside the place of the dots of the ق, of which only a speck of 4 by 3 px has printed, so that the ق looks like a ف; the alif of «السابع» is broken in its upper part. Transcribed «الإقليم السابع», as in L02, L03 and L05.
+@obs Signs, transcribed as printed: «الّتى» with a shadda over the ل; «الإقليم» with a hamza below the alif; «وراء» (L05) with a hamza on the line; «المغربىّ» (L07, L15) and «والشمالىّ» (L07) with a shadda over the final ى, which has no dots; «افريقيّة» (L08) and «وإفريقيّة» (L16) with a shadda over the second ي; in L16 the hamza below the alif is printed against its foot; «كلّها» (L09) with a shadda over the ل; «متّصلة» (L09) and «متّصل» (L11) with a shadda over the ت; «الأخضر» (L10, L18) with a hamza over the alif; «الجزائر» and «جزائر» with a hamza on the tooth before the ر; «فى» ends in a ى without dots.
+@obs Mark not transcribed: L08, a speck of 6 by 6 px at the height of the joins between «بحر» and «طنجة».
+@obs The page number «— ١٦٠ —» stands at the foot, centred. The page has no footnotes.
+@critical AK05-CN016 | stray sort | L06 | الأرض ا المعمورة | الأرض المعمورة | the head of the seas has an isolated alif between «الأرض» and «المعمورة», set off by a word space on each side, of the size of the alifs of these two words, 11 by 52 px; the heads of the cities and of the mountains on p. 159 (frame 165, L02 and L13) read «على كرة الأرض المعمورة» without it, and so does the head of the seas in the text on p. 66 (frame 072, L01), «البحار الّتى على كرة الأرض المعمورة وجزائرها» | high | none: the head reads the same without it

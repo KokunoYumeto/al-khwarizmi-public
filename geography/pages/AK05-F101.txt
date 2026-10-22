@@ -1,0 +1,44 @@
+@page 101 ٩٥
+% Frame 101, printed p. 95: the islands in the Green Sea continued: the end of the coast of the island of p. 94, back to
+% its first point; seven small islands within one area; the island الميذ, which is الكرل, with three towns; and nine
+% single islands, one of them round, on the equator. The editor's running numbers (١٤٥٤)-(١٤٦٦) and the numbers of
+% Suhrāb [٩٧٤]-[٩٧٨]; a passage that stands in the margin of the manuscript between two note marks. Five lines of the
+% editor's footnotes.
+(١٤٥٤) [٩٧٤] تمرّ الى طول {ov:عح {z}} والعرض {ov:ط {z}} (١٤٥٥) [٩٧٥] وتصير الى
+الموضع الّذى ابتدأنا منه وهو عند طول {ov:عد ل} والعرض {ov:ح ك}{n:a} * سبع جزائر مقدار
+ربع جزء الى نصف جزء كلّها مقدار ثلٰثة اجزاء فى ثلٰثة اجزاء وسطها عند طول
+{ov:ڡب {z}} والعرض {ov:ٮو ل} (١٤٥٦) * جزيرة الميذ وهى الكرل فيها ثلٰث مدن وسطها
+عند طول {ov:فر {z}}{n:b} والعرض {ov:ٮٮ {z}} (١٤٥٧) [٩٧٦] وهى تحيط بالمدن الّتى فيها وبمصبّ
+انهارها وبجميع ما فيها * جزيرة مقدار جزء ونصف فى مثله وسطها عند طول {ov:ص ل}
+والعرض {ov:ٮر ل} (١٤٥٨) * جزيرة{n:c} مقدار ثلٰثة اجزاء فى جزء وربع وسطها عند طول
+{ov:صه ل}{n:d} والعرض {ov:ٮح ك}{n:c} (١٤٥٩) [٩٧٧] * جزيرة مقدار نصف جزء وسطها عند
+طول {ov:قا ى}{n:e} والعرض {ov:ٮح {z}} (١٤٦٠) * جزيرة مقدار نصف جزء وسطها عند طول
+{ov:صا ى} والعرض {ov:ٮح {z}} (١٤٦١) * جزيرة مقدار نصف جزء وسطها عند طول {ov:صط ل}
+والعرض {ov:ٮح ن} (١٤٦٢) * جزيرة مقدار ثلث جزء وسطها عند طول {ov:قا ى} والعرض
+{ov:ح {z}}{n:f} (١٤٦٣) * جزيرة مقدار نصف جزء وسطها عند طول {ov:ڡج ى} والعرض {ov:ٮر م}
+(١٤٦٤) * جزيرة مدوّرة مقدار اربعة اجزاء وربع فى مثله وسطها عند طول
+{ov:قا {z}} والعرض خطّ الاستواء (١٤٦٥) [٩٧٨] * جزيرة مقدار جزء ونصف فى جزء
+وربع وسطها عند طول {ov:ڡد {z}} والعرض {ov:ٮه ك}{n:g} (١٤٦٦) * جزيرة مقدار جزء ونصف
+@ednotes a b c d e f g 5
+@obs The description of the island of p. 94 (frame 100, L15-L16) goes on: L01 begins with the running number of its last point there, (١٤٥٤), and the number of Suhrāb, [٩٧٤]; then «تمرّ الى طول عح {z} والعرض ط {z} (١٤٥٥)», to the longitude 78° 0′ and the latitude 9° 0′; and «وتصير الى الموضع الّذى ابتدأنا منه وهو عند طول عد ل والعرض ح ك» (L01-L02), and it comes to the place from which we began, which is at the longitude 74° 30′ and the latitude ح ك, without a running number; the editor's note a identifies it with point 1453. Here «ابتدأنا منه» stands in this order, where the other islands have «منه ابتدأنا».
+@obs L02-L04: «سبع جزائر مقدار ربع جزء الى نصف جزء كلّها مقدار ثلٰثة اجزاء فى ثلٰثة اجزاء وسطها عند طول ڡب {z} والعرض ٮو ل (١٤٥٦)», seven islands of a quarter of a degree to half a degree, all of them within three degrees by three degrees, their middle at the longitude ڡب {z} and the latitude ٮو ل.
+@obs L04-L06: «جزيرة الميذ وهى الكرل فيها ثلٰث مدن وسطها عند طول فر {z} والعرض ٮٮ {z} (١٤٥٧) [٩٧٦] وهى تحيط بالمدن الّتى فيها وبمصبّ انهارها وبجميع ما فيها», the island الميذ, which is الكرل, on which are three towns, its middle at the longitude 87° 0′ and the latitude ٮٮ ō; and it encloses the towns on it, the mouths of its rivers and all that is on it. «الميذ» has the two dots of the ي and the dot of the ذ; «الكرل» has no dots.
+@obs L06-L15: single islands, each with its size and the longitude and latitude of its middle, «وسطها عند طول … والعرض …», running numbers (١٤٥٨)-(١٤٦٦): of one and a half degrees by as much again, «جزء ونصف فى مثله» (L06); of three degrees by one and a quarter, «ثلٰثة اجزاء فى جزء وربع» (L07); of half a degree, «نصف جزء» (L08, L09, L10, L12); of a third of a degree, «ثلث جزء» (L11); «جزيرة مدوّرة مقدار اربعة اجزاء وربع فى مثله» (L13), a round island of four and a quarter degrees by as much again, whose middle is at the longitude 101° 0′ and on the equator, «والعرض خطّ الاستواء» (L14), given in words in the place of the numerals; and of one and a half degrees by one and a quarter, «جزء ونصف فى جزء وربع» (L14-L15). L15 ends with «جزيرة مقدار جزء ونصف», continued on p. 96. Each island ends with a small open star with six points, transcribed as an asterisk.
+@obs L07-L08: the note mark c stands after «جزيرة» of L07 and again after the latitude of L08: the text between the two marks, island 1459, stands in the margin of the manuscript (note c-c).
+@obs The running numbers run (١٤٥٤)-(١٤٦٦) without a gap; the numbers of Suhrāb, [٩٧٤]-[٩٧٨], stand after (١٤٥٤), (١٤٥٥), (١٤٥٧), (١٤٥٩) and (١٤٦٥), without a gap.
+@obs Signs in the text, transcribed as printed: «تمرّ», «كلّها», «وبمصبّ» and «خطّ» with a shadda; «الّذى» and «الّتى» with a shadda over the ل; «مدوّرة» (L13) with a shadda over the و; «ثلٰثة» (L03, twice; L07) and «ثلٰث» (L04) with a dagger alif above the ل; «ابتدأنا» with a hamza over the alif; «جزء» and «الاستواء» with a hamza on the line; «جزائر» with a hamza on the tooth; «الّذى», «فى» and «وهى» end in a ى without dots.
+@obs Numerals with the loop of ف or ق without dots, transcribed so: «ڡب» (L04), with the dot of the ب below, 82 or 102; «ڡج» (L12), with the dot in the bowl of the ج, 83 or 103; «ڡد» (L15), 84 or 104; where «فر» (L05) has the dot of the ف, 87, and «قا» (L09, L11, L14) the two dots of the ق, 101. The longitudes of the islands of the page lie between 74° 30′ (L02) and 101° 10′ (L09, L11).
+@obs Other letters printed without their dots in the numerals, transcribed so: a tooth without its dot joined to the following letter, «ٮو» (L04) and «ٮه» (L15), which read with a ي give 16 and 15; «ٮح» (L08-L11), 18 with a ي; «ٮٮ» (L05, the degrees of the latitude), a tooth joined to a final ب, both without dots, 64 px wide, which read with a ي give 12. With their dots: «ن» (L11, the minutes of the latitude), 50.
+@obs L07 and L12, the degrees of the latitude, are printed with the notched form ٮر of frame 041 (L06): a short tooth without a dot joined to a ر, the two forming a notch, 3 px deep, at the top, the tooth at the right rising 3 px above the head of the ر, where the isolated ر of the numerals is a single rounded stroke (frame 072, L06); in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ٮر, which read with a ي gives 17° 30′ (L07) and 17° 40′ (L12), beside the latitudes 18° 0′-18° 50′ of the islands of L08-L11.
+@unres L07, L12: the notched form may also be read as a single ر whose head is split, ر, 7. Transcribed ٮر.
+@obs The ح of the numerals, «عح» (L01), «ح» (L02, L12, the degrees of the latitude) and «ٮح» (L08-L11), shows no dot in the bowl; the same form is a ج without its dot, 3, which L12 prints with its dot in «ڡج». Transcribed as printed. The isolated ى, 10, has no dots (L09, L10, L11, L12). The isolated ك, 20, is printed with the small inner stroke of the letter (L02, L08, L15).
+@obs Note marks: L02, a after the latitude; L05, b after the longitude; L07, c after «جزيرة»; L08, d after the longitude and c after the latitude; L09, e after the longitude; L12, f after the latitude; L15, g after the latitude.
+@obs Marks not transcribed: L09, a thin horizontal line, 5 to 9 px thick and broken into pieces, runs about 575 px through the upper part of the words «نصف جزء وسطها عند طول», at the height of the tops of the short letters; it is thinner than the lines over the numerals, 9 px, and stands over no numerals; the editor's notes do not comment on it.
+@obs The editor's footnotes stand in five lines below a short rule at the left: notes a-g, one of them, c-c, on the text between two marks. In note b the sign for zero stands above the long tail of the ر of «قر», which is broken under it. In note d the second form, «صحّ», has a shadda over the ح and no line over it. The page number «— ٩٥ —» stands at the foot, centred.
+@variant L02: the point is the same as point 1453 (note a).
+@variant L05: the manuscript has قر {z} for the longitude, with a line over the numerals (note b).
+@variant L07-L08: the text between the marks c, island 1459, stands in the margin of the manuscript; the editor suggests that it may belong only after island 1461 (note c-c).
+@variant L08: a variant reading of the longitude is صح ل, with a line over the numerals; the editor suggests that instead of this variant reading one should perhaps read صحّ, the word «correct» (note d).
+@variant L09: the editor suggests that the longitude may be a slip of the copyist for صا ى, with a line over the numerals; island 1460 would then be the same as island 1461; he compares the position of island 1463 according to note f (note e).
+@variant L12: a variant reading of the latitude is يح {z}, with the two dots of the ي and a line over the numerals (note f).
+@variant L15: a variant reading of the latitude is ٮٮ ك, a tooth joined to a final ب, both without dots, with a line over the numerals (note g).

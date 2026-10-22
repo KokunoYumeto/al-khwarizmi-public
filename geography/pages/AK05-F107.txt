@@ -1,0 +1,36 @@
+@page 107 ١٠١
+% Frame 107, printed p. 101: the heading of the islands of the sea of Jurjān and Ṭabaristān and its four islands; then
+% the heading of the places in which the boundaries of the countries are written, and its first countries, each with
+% the longitude and latitude of the middle of its writing. The editor's running numbers (١٥٤٤)-(١٥٥١) and the numbers
+% of Suhrāb [١٠٢٢]-[١٠٢٤], then [٤٩٧]-[٥٠٠]. Four lines of the editor's footnotes.
+@h * جزائر بحر جرجان وطبرستان *
+جزيرة مقدار جزءين فى{n:a} جزء ونصف{n:a} وسطها عند طول {ov:عط ل} والعرض {ov:مو {z}} (١٥٤٤)
+[١٠٢٢] * جزيرة مقدار جزءين فى جزء وسطها عند طول {ov:ڡد {z}} والعرض {ov:مد م} (١٥٤٥)
+[١٠٢٣] * جزيرة مقدار جزءين فى جزء وسطها عند طول {ov:ڡه ن}{n:b} والعرض {ov:مح ل}
+(١٥٤٦) * جزيرة مقدار جزءين فى ثلثى جزء وسطها عند طول {ov:ڡح {z}}{n:c} والعرض {ov:مز ل}
+(١٥٤٧) [١٠٢٤] *
+@h * المواضع الّتى تكتب فيها حدود البلدان *
+بلاد نيفل{n:d} الداخلة وسط الكتاب عند طول {ov:كو {z}} والعرض {ov:ه ل} خلف الاستواء (١٥٤٨)
+[٤٩٧] * غانه{n:e} قوم يسمّون اغرمطين{n:f} وسط الكتاب عند{n:g} طول {ov:ما {z}} والعرض {ov:ك ل}{n:h}
+(١٥٤٩) [٤٩٨] * بلاد الدملى الّتى لا يكون فيها المطر وسط الكتاب عند طول {ov:مد ل}
+والعرض {ov:ه {z}} (١٥٥٠) [٤٩٩] * بلاد ليبوانى{n:i} الداخلة وسط كتابها عند طول {ov:ك {z}}
+والعرض {ov:كا ل} (١٥٥١) [٥٠٠] * بلاد بمملكة البربر وسط الكتاب عند طول {ov:كو {z}}
+@ednotes a b c d e f g h i 4
+@obs The islands of the sea of al-Baṣra end on p. 100 (frame 106). L01: the heading of the next section, in larger type, centred: «* جزائر بحر جرجان وطبرستان *», the islands of the sea of Jurjān and Ṭabaristān, with a small open star with six points at each end; «جزائر» has a hamza on the tooth.
+@obs L02-L06: four islands, each with its size and the longitude and latitude of its middle, «وسطها عند طول … والعرض …», with the degrees and the minutes written with letters under one line, transcribed with {ov:…}: «جزيرة مقدار جزءين فى جزء ونصف» (L02), of two degrees by one and a half, the words «جزء ونصف» standing between two note marks a; «جزيرة مقدار جزءين فى جزء» (L03, L04), of two degrees by one; and «جزيرة مقدار جزءين فى ثلثى جزء» (L05), of two degrees by two thirds of a degree. Running numbers (١٥٤٤)-(١٥٤٧); the numbers of Suhrāb [١٠٢٢]-[١٠٢٤] stand after (١٥٤٤), (١٥٤٥) and (١٥٤٧); point 1546 has none. L06 is a short line, closed by a small open star with six points, transcribed as an asterisk, like the stars between the islands.
+@obs L07: the heading of the next section, in larger type, centred: «* المواضع الّتى تكتب فيها حدود البلدان *», the places in which the boundaries of the countries are written, with a small open star with six points at each end; «الّتى» has a shadda over the ل.
+@obs L08-L12: the countries, each with the longitude and latitude of the middle of its writing, «وسط الكتاب عند طول … والعرض …»: «بلاد نيفل الداخلة» (L08), the inner land of نيفل, at the latitude 5° 30′ beyond the equator; «غانه قوم يسمّون اغرمطين» (L09), غانه, a people called اغرمطين; «بلاد الدملى الّتى لا يكون فيها المطر» (L10), the land of الدملى, in which there is no rain; «بلاد ليبوانى الداخلة وسط كتابها» (L11), the inner land of ليبوانى, the middle of its writing; and «بلاد بمملكة البربر» (L12), the land in the kingdom of the Berbers, whose latitude follows on p. 102. Each entry ends with a small open star with six points. The running numbers run (١٥٤٨)-(١٥٥١), and the numbers of Suhrāb, after [١٠٢٤] of point 1547, are [٤٩٧]-[٥٠٠], after (١٥٤٨)-(١٥٥١), without a gap.
+@obs Signs in the text, transcribed as printed: «يسمّون» (L09) with a shadda over the م; «الّتى» (L10) with a shadda over the ل; «جزءين» with a hamza between the ز and the ي; «جزء» and «الاستواء» with a hamza; «فى», «ثلثى», «الدملى», «ليبوانى» and «الّتى» end in a ى without dots. The names «نيفل» (L08), «غانه» and «اغرمطين» (L09) and «ليبوانى» (L11) are printed with all their dots.
+@obs Numerals: «عط ل» (L02), 79° 30′; «مو {z}» (L02), 46° 0′; «مد م» (L03), 44° 40′; «ڡه ن» (L04), with the dot of the ن in the minutes, 50; «مح ل» (L04), 48° 30′; «مز ل» (L05), with the dot of the ز, 47° 30′. The loop of ف or ق without dots in the degrees of the longitude, «ڡد» (L03), «ڡه» (L04) and «ڡح» (L05), which read with ف give 84, 85 and 88, beside the longitude 79° 30′ of L02. The countries: «كو {z}» (L08, L12), 26° 0′; «ه ل» (L08), 5° 30′; «ما {z}» (L09), 41° 0′; «ك ل» (L09), 20° 30′; «مد ل» (L10), 44° 30′; «ه {z}» (L11), 5° 0′; «ك {z}» (L11), 20° 0′; «كا ل» (L12), 21° 30′.
+@obs The ح of «مح» (L04) and «ڡح» (L05) shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. The isolated ك, 20, is printed with the small inner stroke of the letter (L09, L11).
+@obs Note marks: L02, a after «فى» and a after «ونصف»; L04, b after the longitude; L05, c after the longitude; L08, d after «نيفل»; L09, e after «غانه», f after «اغرمطين», g after «عند» and h after the latitude; L11, i after «ليبوانى».
+@obs The editor's footnotes stand in four lines below a short rule at the left: notes a-i, one of them, a-a, on the text between two marks. The page number «— ١٠١ —» stands at the foot, centred.
+@variant L02: the words between the marks a, جزء ونصف, stand in the margin of the manuscript, written by a later hand (note a-a).
+@variant L04: a variant reading of the longitude is ڡد ن, with a line over the numerals (note b).
+@variant L05: a variant reading of the longitude is ڡح ى, with a line over the numerals (note c).
+@variant L08: a variant reading of the name is نڡه: the ن with its dot, the loop of ف or ق without dots and a final ه, joined by long strokes with small rises; the rise before the ه may also be a م: نڡمه (note d).
+@variant L09: the manuscript has اعاٮه, with a tooth without a dot before the ه; at entry (45) the name is written عانه, and at entry (1677) الغابه (note e).
+@variant L09: the editor compares the mountain معرس الأسفل (566-567) (note f).
+@variant L09: the manuscript has على for عند (note g).
+@variant L09: a variant reading of the latitude is ك ط, with a line over the numerals (note h).
+@variant L11: the editor compares the mountain لوثا (617-618), and at entry (1641) جبل اليوڡا, with the loop of ف or ق without dots (note i).

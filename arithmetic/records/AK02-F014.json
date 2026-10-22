@@ -1,0 +1,395 @@
+{
+ "anchor": "AK02-F014",
+ "frame": 14,
+ "frame_file": "page_014.jpg",
+ "frame_sha256": "445ea2493bd79ec7c9a2dc3bd7c7a3e5793aa7bffa5cc57b35d9ea47e217cbdb",
+ "printed_page": "8",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 014, printed p. 8: addition: the two numbers written in two rows, place under place, and added place by place, ten in a place carried to the next; the circle in an empty place; subtraction: place from place, borrowing one from the next higher place when the upper place is too small.",
+ "lines": [
+  {
+   "id": "AK02-F014-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "nuere numerum de numero, pone utrosque numeros in duobus",
+   "margin": null,
+   "plain": "nuere numerum de numero, pone utrosque numeros in duobus",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "ordinibus, unum scilicet ex eis sub altero, et sit differentia",
+   "margin": null,
+   "plain": "ordinibus, unum scilicet ex eis sub altero, et sit differentia",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "unitatum sub differentia unitatum, et differentia decenorum",
+   "margin": null,
+   "plain": "unitatum sub differentia unitatum, et differentia decenorum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "sub differentia decenorum. Quod si uolueris colligere utrosque",
+   "margin": null,
+   "plain": "sub differentia decenorum. Quod si uolueris colligere utrosque",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "numeros, addes scilicet unum super alterum : addes unam-",
+   "margin": null,
+   "plain": "numeros, addes scilicet unum super alterum : addes unam-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "quamque differentiam super differentiam que est super eam",
+   "margin": null,
+   "plain": "quamque differentiam super differentiam que est super eam",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "de genere suo, idest unitates super unitates, et decenos super",
+   "margin": null,
+   "plain": "de genere suo, idest unitates super unitates, et decenos super",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "decenos.Cum collecti fuerint in aliqua differentiarum,idest in",
+   "margin": null,
+   "plain": "decenos.Cum collecti fuerint in aliqua differentiarum,idest in",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "differentia unitatum uel decenorum,siue in alia aliqua decem,",
+   "margin": null,
+   "plain": "differentia unitatum uel decenorum,siue in alia aliqua decem,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "pones pro eis unum,et eriges eum ad superiorem differentiam,",
+   "margin": null,
+   "plain": "pones pro eis unum,et eriges eum ad superiorem differentiam,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "idest si habueris in prima differentia, que est differentia unita-",
+   "margin": null,
+   "plain": "idest si habueris in prima differentia, que est differentia unita-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "tum, decem, facies de eis unum, et sub leuabis eum ad diffe-",
+   "margin": null,
+   "plain": "tum, decem, facies de eis unum, et sub leuabis eum ad diffe-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "rentiam decenorum, et ibi significabit decem. Si autem reman-",
+   "margin": null,
+   "plain": "rentiam decenorum, et ibi significabit decem. Si autem reman-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "serit aliquid de numero quod sit infra {sc:x}; uel fuerit ipse nume-",
+   "margin": null,
+   "plain": "serit aliquid de numero quod sit infra x; uel fuerit ipse nume-",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "rus infra .{sc:x}., dimictens eum in eadem differentia; et si nichil",
+   "margin": null,
+   "plain": "rus infra .x., dimictens eum in eadem differentia; et si nichil",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "remanserit, pones circulum, ut non sit differentia uacua: set",
+   "margin": null,
+   "plain": "remanserit, pones circulum, ut non sit differentia uacua: set",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "sit in ea circulus qui occupet ea, ne forte cum | uacua fuerit,",
+   "margin": "car. 104 {i:verso}.",
+   "plain": "sit in ea circulus qui occupet ea, ne forte cum | uacua fuerit,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "minuantur differentie, et putetur secunda esse prima; et sic de-",
+   "margin": null,
+   "plain": "minuantur differentie, et putetur secunda esse prima; et sic de-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "cipieris in numero tuo. Sic quoque facies in omnibus diffe-",
+   "margin": null,
+   "plain": "cipieris in numero tuo. Sic quoque facies in omnibus diffe-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "rentiis. Similiter cum collecti fuerint in secunda differentia",
+   "margin": null,
+   "plain": "rentiis. Similiter cum collecti fuerint in secunda differentia",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L21",
+   "n": 21,
+   "kind": "text",
+   "text": ".{sc:x}., facies de eis unum; et subleuabis eum ad differentiam",
+   "margin": null,
+   "plain": ".x., facies de eis unum; et subleuabis eum ad differentiam",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "terciam; ibique significabit centum ; et quicquid remanserit",
+   "margin": null,
+   "plain": "terciam; ibique significabit centum ; et quicquid remanserit",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "infra .{sc:x}., remanebit ibi. Si uero nichil in ceteris remanserit,",
+   "margin": null,
+   "plain": "infra .x., remanebit ibi. Si uero nichil in ceteris remanserit,",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "pones ibi circulum ut supra. Sic facies in ceteris differentiis,",
+   "margin": null,
+   "plain": "pones ibi circulum ut supra. Sic facies in ceteris differentiis,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "si plus fuerit. Si uero uolueris minuere unum de alio, nu-",
+   "margin": null,
+   "plain": "si plus fuerit. Si uero uolueris minuere unum de alio, nu-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "merum scilicet de numero, minues unam quamque differen-",
+   "margin": null,
+   "plain": "merum scilicet de numero, minues unam quamque differen-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "tiam de alia differentia que est super se ex genere suo, sicut",
+   "margin": null,
+   "plain": "tiam de alia differentia que est super se ex genere suo, sicut",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "supra dictum est. Quod si non fuerit in superiori differentia",
+   "margin": null,
+   "plain": "supra dictum est. Quod si non fuerit in superiori differentia",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "tantus numerus, de quo possis minuere numerum inferioris",
+   "margin": null,
+   "plain": "tantus numerus, de quo possis minuere numerum inferioris",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "differentie, idest si fuerit minus, uel nichil ibi fuerit, acci-",
+   "margin": null,
+   "plain": "differentie, idest si fuerit minus, uel nichil ibi fuerit, acci-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "pies de secunda differentia que est alcior illo superiori unum,",
+   "margin": null,
+   "plain": "pies de secunda differentia que est alcior illo superiori unum,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "et de eo facies decem; minuesque de eo quod debueris, et",
+   "margin": null,
+   "plain": "et de eo facies decem; minuesque de eo quod debueris, et",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F014-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "quod remanserit dimittes in eadem superiori differentia. Si",
+   "margin": null,
+   "plain": "quod remanserit dimittes in eadem superiori differentia. Si",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 8 )» stands at the head of the page, centred. The page has no footnotes and no signature.",
+  "L17: the vertical bar between «cum» and «uacua» marks the beginning of fol. 104 verso of the manuscript, which the note in the left margin, «car. 104 verso.», names (on this left-hand page the folio notes stand in the left margin); transcribed as a margin note.",
+  "L12: «sub leuabis» is printed as two words, with a word space of 20 px, where L21 prints «subleuabis» as one; transcribed as printed. L14: «infra x;»: the numeral is printed without its points, where L15 and L23 print «infra .x.,».",
+  "Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): L05 «alterum : addes», with spaces before and after the colon (19 and 30 px); without a space after the mark, L08 «decenos.Cum» (9 px, the median word space of the line 17 px) and «differentiarum,idest» (11 px), L09 «decenorum,siue» (9 px) and L10 «unum,et» (5 px); L22 «centum ;» (17 px before the semicolon), with a space. L12 «decem, facies» and L25 «fuerit. Si» have a space: the cross-bar of the f and a pencil stroke shorten the measured gaps."
+ ],
+ "copy_matter": [
+  "A reader's notes in pencil: «addere» in the left margin beside L05, with «addes» underlined; L06, a stroke over «ff» of «differentiam»; L12, a curve linking «sub» and «leuabis»; «tt» in the left margin beside L15, with «ct» of «dimictens» underlined, and «Quod» in the right margin, with «et» marked; «· eam» in the left margin beside L17, with «ea,» underlined; L18, a stroke at the «p» of «prima»; L20, a hook at the «s» of «rentiis»; L25, a slash before «Si», and «L §» in the left margin; «fuit / illa» in the left margin beside L30-L31, with strokes above «fuerit» (L30) and under «illo» (L31). Not part of the edition."
+ ],
+ "critical_notes": []
+}

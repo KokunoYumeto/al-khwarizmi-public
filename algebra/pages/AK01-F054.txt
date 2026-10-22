@@ -1,0 +1,34 @@
+@page 54 ٣٨
+% Frame 054, printed p. 38: the fifth of the six problems solved (the parts are three and seven; squares and a
+% number equal to roots); the sixth problem, «والمسألة السادسة», in bold: a quantity of which a third times a quarter
+% gives the quantity and twenty-four (the quantity is twenty-four; roots and a number equal to squares); then the
+% chapter of the various problems, «باب المسائل المختلفة», in bold, and its first problem (ten divided into two parts
+% whose product is twenty-one), continued on the next page. Below the rule three footnotes of the editors.
+فتكون خمسة وعشرين فالق منها الواحد والعشرين التى مع المال فيبقى أربعة فخذ
+جذرها وهو اثنان فانقصه من نصف الاجذار التى هى خمسة {n:١} يبقى ثلاثة وهى
+أحد القسمين والآخر سبعة فقد أخرجتك هذه المسألة الى أحد الأبواب الستة
+وهى أموال وعدد تعدل جذوراً . {b:والمسألة السادسة} (مال)ضربت ثلثه فى ربعه
+فعاد (المال) وزيادة اربعة وعشرين درهما {n:٢} . فقياسه أن تجعل مالك شيئا ثم
+تضرب ثلث شىء فى ربع شىء فيكون نصف سدس مال تعدل شيئا وأربعة
+وعشرين درهما ثم تضرب نصف سدس المال فى اثنى عشر حتى تكمل مالك
+واضرب الشىء فى اثنى عشر يكن اثنى عشر شيئا واضرب الاربعة والعشرين فى
+اثنى عشر فيصير معك مائتان وثمانية وثمانون درهما واثنى عشر جذرا تعدل مالا
+فنصف الاجذار تكون ستة واضربها فى مثلها وزدها على مائتين وثمانية وثمانين
+فيكون ثلثمائة واربعة وعشرين فخذ جذرها وهو ثمانية عشر فزده على نصف
+الاجذار وهى ستة فيكون ذلك أربعة وعشرين وهو (المال) فقد أخرجتك هذه
+المسئلة الى أحد الأبواب الستة وهى جذور وعدد تعدل أموالا .
+{b:باب المسائل المختلفة} . فان سأل سائل فقال عشرة قسمتها قسمين ثم ضربت
+أحدهما فى الآخر فكان واحداً وعشرين درهما{n:٣}. فقد علمت أن أحد القسمين
+@ednotes ١ ٢ ٣ 6
+@obs L04: the words والمسألة السادسة, and L14: the chapter heading باب المسائل المختلفة, at the beginning of the line, are printed in a bold face; the heading of L04 is run in after the full stop that ends the fifth problem, and the text runs on after both.
+@obs The word مال (L04) and المال (L05, L12) stand between parentheses, the only words of the text so far set so. The editors' note (٢) on frame 052 remarks that in these problems مال does not mean the square. The parentheses are transcribed as printed, close to the word inside them: they stand 10 to 13 px (nearest approach of the ink at 400 ppi) from an alif inside them, and the closing parenthesis of L04 stands 7 px from ضربت, which follows it without a space; the larger gaps beside م and the final ل (23 and 24 px) come from the shapes of those letters. The other parentheses have a word space on their outer side (25 to 51 px).
+@obs L13: المسئلة is printed with the hamza on a yā' seat, as on frame 053, L07; L03 and the heading of L04 have المسألة.
+@obs Where the gap after ة is near the narrowest the page sets as a space, a word space is transcribed: وثمانية وثمانون (L09; 17 between the ة and the و), الاربعة والعشرين (L08; 18), أربعة وعشرين (L12; 19); the ة stands 1 to 14 px from the next letter where no space is set (frames 050-053).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: هى خمسة (L02; 19), اثنى عشر (L08, the first; 15), واثنى عشر (L09; 13), فى مثلها (L10; 7), ذلك أربعة (L12; 16), أن أحد (L15; 14).
+@obs The note marks (١) (L02) and (٢) (L05) stand between spaces, and the full stop after (٢) between spaces too; (٣) stands close after درهما (L15), and the full stop close after it, with a space before فقد. The full stops of L04, L13 and L14 stand between spaces.
+@obs Plain alif where a hamza might be expected, as printed: اثنان, فانقصه, الاجذار (L02), الى (L03), اربعة (L05), اثنى (L07; L08, twice; L09), واضرب (L08, twice), الاربعة (L08), واثنى (L09), الاجذار, واضربها (L10), واربعة (L11), الاجذار (L12), الى (L13), فان (L14); with hamza: أربعة (L01), أحد, أخرجتك, المسألة, الأبواب (L03), أموال, والمسألة (L04), أن (L05), وأربعة (L06), أربعة, أخرجتك (L12), أحد, الأبواب, أموالا (L13), سأل (L14), أحدهما, أن, أحد (L15); with madda: والآخر (L03), الآخر (L15); on ي: مائتان (L09), مائتين (L10), ثلثمائة (L11), المسئلة (L13), المسائل, سائل (L14); the hamza on the line: شىء (L06, twice), الشىء (L08).
+@obs With tanwīn on the final alif: جذوراً (L04), واحداً (L15); without tanwīn as printed: شيئا (L05, L06, L08), جذرا, مالا (L09), أموالا (L13).
+@obs The final yā' is printed without dots: التى (L01, L02), فيبقى (L01), هى, يبقى, وهى (L02), الى (L03, L13), وهى (L04, L12, L13), فى (L04, L06, L07, L08, L10, L15), اثنى (L07, L08, L09), حتى (L07), واثنى (L09), على (L10, L11); and before the hamza in شىء throughout.
+@obs The print stretches وأربعة (L06, at the end of the line, between the ع and the ة), تكون (L10, between the ت and the ك), أحد, جذور and تعدل (L13) and سأل (L14) with the elongation stroke; the stroke is not transcribed.
+@variant Note (١) of the editors reproduces a marginal gloss (حاشية) of the manuscript at L02: «وان شئت فزده على نصف الاجذار وهى خمسة يكون سبعة وهو أحد القسمين والآخر ثلاثة وهذه المسألة تصح بالزيادة والنقصان», that is: if you like, add it to half the roots, which is five: it gives seven, which is one of the two parts, and the other is three; this problem comes out by addition and by subtraction. The gloss is the manuscript's text, quoted as the edition prints it.
+@obs Notes (٢) and (٣) of the editors restate the sixth problem and the first of the various problems as equations in modern notation and solve them: twenty-four (the other root, negative, also given), and seven or three. Neither is reproduced.

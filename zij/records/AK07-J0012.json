@@ -1,0 +1,747 @@
+{
+ "anchor": "AK07-J0012",
+ "jp2_index": 12,
+ "jp2_member": "b24872489_0012.jp2",
+ "jp2_sha256": "cfd2f7108ecaa8c2829fa66dd003e4c6dceca1a9dc2ff38566510067c907a462",
+ "reading_copy": "page_0012.jpg",
+ "reading_copy_sha256": "31d332b0de88198654635f5f24536bfcd112bc9d2cfde4e623f855f239bb4f24",
+ "printed_page": "VIII",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0012: the introduction, p. VIII: the caution needed in drawing conclusions about Indian influence; the biographies begin: 1. al-Khwarizmi, his works (the extract of the Sindhind, the tables, the arithmetic, the algebra).",
+ "lines": [
+  {
+   "id": "AK07-J0012-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "die man über die Abhängigkeit der ältern arabischen Astronomie von der indischen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die man über die Abhängigkeit der ältern arabischen Astronomie von der indischen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "aus diesem Werke gezogen hat und etwa noch ziehen möchte, sehr vorsichtig sein",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "aus diesem Werke gezogen hat und etwa noch ziehen möchte, sehr vorsichtig sein",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "müssen, denn es ist sehr schwierig, ja in den meisten Fällen unmöglich zu ent-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "müssen, denn es ist sehr schwierig, ja in den meisten Fällen unmöglich zu ent-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "scheiden, was in dem vorliegenden Werke noch von {sp:Al-Khwārizmī} herrührt, und",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "scheiden, was in dem vorliegenden Werke noch von Al-Khwārizmī herrührt, und",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Khwārizmī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "was {sp:Maslama} zuzuschreiben ist. Das Werk verliert aber dadurch keineswegs an",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "was Maslama zuzuschreiben ist. Das Werk verliert aber dadurch keineswegs an",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Maslama"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "Interesse, denn erstens wird der Hauptteil des ursprünglichen Werkes in der Bear-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Interesse, denn erstens wird der Hauptteil des ursprünglichen Werkes in der Bear-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "beitung wohl noch vorhanden sein, und zweitens werden allfällige Einflüsse, die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "beitung wohl noch vorhanden sein, und zweitens werden allfällige Einflüsse, die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "dieses Werk auf die abendländische Astronomie des Mittelalters ausgeübt hat,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dieses Werk auf die abendländische Astronomie des Mittelalters ausgeübt hat,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "jedenfalls dieser Bearbeitung des spanisch-arabischen Astronomen zu verdanken sein,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "jedenfalls dieser Bearbeitung des spanisch-arabischen Astronomen zu verdanken sein,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "denn das ursprüngliche Werk ist sehr wahrscheinlich dem christlichen Abendlande",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "denn das ursprüngliche Werk ist sehr wahrscheinlich dem christlichen Abendlande",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "nie bekannt geworden.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nie bekannt geworden.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L12",
+   "n": 12,
+   "kind": "indent",
+   "text": "Bevor wir auf die Besprechung der Manuskripte eintreten, die dieser Ausgabe",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Bevor wir auf die Besprechung der Manuskripte eintreten, die dieser Ausgabe",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "zu Grunde liegen, wird es wohl am Platze sein, einige kurze biographische Notizen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zu Grunde liegen, wird es wohl am Platze sein, einige kurze biographische Notizen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "über die arabischen Gelehrten beizufügen, die hier in erster Linie in Frage kommen ;",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "über die arabischen Gelehrten beizufügen, die hier in erster Linie in Frage kommen ;",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "für weiteres Material verweise ich auf meine oben (p. VII) zitierte Arbeit.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "für weiteres Material verweise ich auf meine oben (p. VII) zitierte Arbeit.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L16",
+   "n": 16,
+   "kind": "indent",
+   "text": "1. {sp:Muḥammed b. Mūsā al-Khwārizmī} (auch {sp:al-Khuwārizmī} ge-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "1. Muḥammed b. Mūsā al-Khwārizmī (auch al-Khuwārizmī ge-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Muḥammed b. Mūsā al-Khwārizmī",
+    "al-Khuwārizmī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "schrieben) {sp:Abū ʿAbdallāh}{sup:1}), gehörte zu den Astronomen, die in {sp:Al-Ma’mūns}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "schrieben) Abū ʿAbdallāh1), gehörte zu den Astronomen, die in Al-Ma’mūns",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Abū ʿAbdallāh",
+    "Al-Ma’mūns"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "(reg. als Khalife von 813—833) Diensten standen ; er war nach Abstammung ein",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(reg. als Khalife von 813—833) Diensten standen ; er war nach Abstammung ein",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "Perser, sein Geburts- und Todesjahr sind nicht bekannt. Er verfasste im Auftrage",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Perser, sein Geburts- und Todesjahr sind nicht bekannt. Er verfasste im Auftrage",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "{sp:Al-Ma’mūns} einen Auszug aus einem indischen {i:Siddhānta} (= astronomisches Werk,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Al-Ma’mūns einen Auszug aus einem indischen Siddhānta (= astronomisches Werk,",
+   "italic": [
+    "Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Al-Ma’mūns"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "System), den {sp:Ibrāhīm} (nach Andern {sp:Muh. b. Ibrāhīm}) {sp:al-Fazārī} aus dem",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "System), den Ibrāhīm (nach Andern Muh. b. Ibrāhīm) al-Fazārī aus dem",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ibrāhīm",
+    "Muh. b. Ibrāhīm",
+    "al-Fazārī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "Indischen ins Arabische übersetzt hatte, und der bei den Arabern „der {i:grosse Sind-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Indischen ins Arabische übersetzt hatte, und der bei den Arabern „der grosse Sind-",
+   "italic": [
+    "grosse Sind-"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "{i:hind}“ genannt wurde, der Auszug hiess dann im Gegensatz dazu „der {i:kleine Sindhind}“.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "hind“ genannt wurde, der Auszug hiess dann im Gegensatz dazu „der kleine Sindhind“.",
+   "italic": [
+    "hind",
+    "kleine Sindhind"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "Ebenso verfasste er astronomische Tafeln ({i:zīdj}), die sich auf diesen indischen {i:Sidd-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Ebenso verfasste er astronomische Tafeln (zīdj), die sich auf diesen indischen Sidd-",
+   "italic": [
+    "zīdj",
+    "Sidd-"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "{i:hānta} stützten, und die in zwei Ausgaben erschienen sein sollen.{sup:2}) Er bestimmte",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "hānta stützten, und die in zwei Ausgaben erschienen sein sollen.2) Er bestimmte",
+   "italic": [
+    "hānta"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "darin die mittlern Örter der Planeten nach der persischen {i:Aera} {sp:Yezdegirds} und",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "darin die mittlern Örter der Planeten nach der persischen Aera Yezdegirds und",
+   "italic": [
+    "Aera"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Yezdegirds"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "nach dem Meridian von {i:Arin} (vergl. Kommentar). Diese Tafeln sind also nicht mehr",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nach dem Meridian von Arin (vergl. Kommentar). Diese Tafeln sind also nicht mehr",
+   "italic": [
+    "Arin"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "vorhanden, dagegen ihre Umarbeitung durch {sp:Maslama al-Madjrīṭī} in der latei-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "vorhanden, dagegen ihre Umarbeitung durch Maslama al-Madjrīṭī in der latei-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Maslama al-Madjrīṭī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "nischen Übersetzung des {sp:Athelhard von Bath}. — Ferner verfasste er ein Buch",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nischen Übersetzung des Athelhard von Bath. — Ferner verfasste er ein Buch",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Athelhard von Bath"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "über die {i:indische Rechnungsweise}, arabisch ebenfalls nicht mehr vorhanden, in",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "über die indische Rechnungsweise, arabisch ebenfalls nicht mehr vorhanden, in",
+   "italic": [
+    "indische Rechnungsweise"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "lateinischer Übersetzung (Übersetzer nicht festgestellt) herausgegeben von B. {sp:Bon-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "lateinischer Übersetzung (Übersetzer nicht festgestellt) herausgegeben von B. Bon-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Bon-"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "{sp:compagni}{sup:3}) ; ein solches über die {i:Algebra} ({i:fī’l-djebr wa’l-muḳābala}), ins Lateinische",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "compagni3) ; ein solches über die Algebra (fī’l-djebr wa’l-muḳābala), ins Lateinische",
+   "italic": [
+    "Algebra",
+    "fī’l-djebr wa’l-muḳābala"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "compagni"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "übersetzt von {sp:Gerhard von Cremona} und {sp:Robert von Chester} ({i:Cestrensis}),",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "übersetzt von Gerhard von Cremona und Robert von Chester (Cestrensis),",
+   "italic": [
+    "Cestrensis"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Gerhard von Cremona",
+    "Robert von Chester"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "arabisch mit englischer Übersetzung herausgegeben von F. {sp:Rosen}{sup:4}) ; eine {i:Geographie}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "arabisch mit englischer Übersetzung herausgegeben von F. Rosen4) ; eine Geographie",
+   "italic": [
+    "Geographie"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Rosen"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Als sein Beiname ({i:Kunya}) wird auch {i:Abū Djaʿfar} genannt, doch halte ich {i:Abū ʿAbdallāh}",
+   "margin": null,
+   "plain": "1) Als sein Beiname (Kunya) wird auch Abū Djaʿfar genannt, doch halte ich Abū ʿAbdallāh",
+   "italic": [
+    "Kunya",
+    "Abū Djaʿfar",
+    "Abū ʿAbdallāh"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "für den richtigen, der erstere ist wahrscheinlich aus einer Verwechslung unseres Astronomen mit dem",
+   "margin": null,
+   "plain": "für den richtigen, der erstere ist wahrscheinlich aus einer Verwechslung unseres Astronomen mit dem",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "etwas später lebenden {sp:Muh. b. Mūsā b. Shākir} (gest. 873), der diesen Beinamen hatte, ent-",
+   "margin": null,
+   "plain": "etwas später lebenden Muh. b. Mūsā b. Shākir (gest. 873), der diesen Beinamen hatte, ent-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Muh. b. Mūsā b. Shākir"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-N04",
+   "n": 4,
+   "kind": "note",
+   "text": "standen.",
+   "margin": null,
+   "plain": "standen.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-N05",
+   "n": 5,
+   "kind": "note",
+   "text": "{sup:2}) Die Quellen stimmen hier nicht ganz überein, nach andern wäre es auch möglich, dass diese",
+   "margin": null,
+   "plain": "2) Die Quellen stimmen hier nicht ganz überein, nach andern wäre es auch möglich, dass diese",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-N06",
+   "n": 6,
+   "kind": "note",
+   "text": "Tafeln selbst der Auszug aus dem grossen {i:Sindhind} gewesen wären, diese Frage ist nicht mehr zu",
+   "margin": null,
+   "plain": "Tafeln selbst der Auszug aus dem grossen Sindhind gewesen wären, diese Frage ist nicht mehr zu",
+   "italic": [
+    "Sindhind"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-N07",
+   "n": 7,
+   "kind": "note",
+   "text": "entscheiden.",
+   "margin": null,
+   "plain": "entscheiden.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-N08",
+   "n": 8,
+   "kind": "note",
+   "text": "{sup:3}) {i:Trattati d’aritmetica}, I, Roma, 1857.",
+   "margin": null,
+   "plain": "3) Trattati d’aritmetica, I, Roma, 1857.",
+   "italic": [
+    "Trattati d’aritmetica"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0012-N09",
+   "n": 9,
+   "kind": "note",
+   "text": "{sup:4}) {i:Algebra of Mohammed ben Musa, edited and translated} by {sp:Frederic Rosen}, London, 1831.",
+   "margin": null,
+   "plain": "4) Algebra of Mohammed ben Musa, edited and translated by Frederic Rosen, London, 1831.",
+   "italic": [
+    "Algebra of Mohammed ben Musa, edited and translated"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Frederic Rosen"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «VIII» stands at the head of the page, centred, with a rule below it.",
+  "L17 and L20 «Al-Ma’mūns» and L32 «fī’l-djebr wa’l-muḳābala»: the hamza and the elided article are printed as an apostrophe, ’. L21 and N03 «Muh.» are printed without a dot under the h, where L16 has «Muḥammed». N01: the mark over the u of the first «Abū» is printed thin and broken, so that it looks curved; read as the macron of «Abū ʿAbdallāh» in the same line. L22-L23 and L23: the German quotation marks, „ and “.",
+  "L31: dark specks after the point of «B.», above and below the line; not transcribed. Spaced type and italics as marked; L16 «1.» numbers the first biography, in the type of the text."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

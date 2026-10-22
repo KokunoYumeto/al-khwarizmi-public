@@ -1,0 +1,237 @@
+{
+ "anchor": "AK01-F065",
+ "frame": 65,
+ "frame_file": "page_065.jpg",
+ "frame_sha256": "17ffa6c68ccacb480705e945d6bd5dd8de8ea55bbada960b1692ece00c06951a",
+ "printed_page": "٤٩",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 065, printed p. 49: the twenty-fourth of the various problems concluded (the man and the part are one and a thing; two squares and two things equal a dirham and a half, halved to a square and a thing equal to three quarters of a dirham); the twenty-fifth, «فان قال» in the face of the text: a quantity from which its third, its quarter and four dirhams are taken, the rest multiplied by itself giving the quantity and twelve dirhams more, worked to twenty-five parts of a hundred and forty-four of a square and four dirhams equal to four roots, continued on the next page. Below the rule two footnotes of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F065-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "تقول الرجل والبعض هو واحد وشىء فكأنه قال درهم ونصف بين واحد وشىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "فأصاب الواحد شيئين فاضرب الشيئين فى الواحد والشىء فيكون مالين وشيئين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "تعدل درهما ونصفاً فردهما الى مال واحد وهو أن تأخذ من كل ما معك نصفه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "فتقول مال وشىء تعدل ثلاثة أرباع درهم فقابل به على نحو ما وصفت لك فى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "صدر الكتاب . فان قال مال عزلت ثلثه وربعه وأربعة دراهم وضربت ما بقى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "فى مثله فعاد المال وزيادة اثنى عشر درهما{n:١} . فقياسه أنك تأخذ شيئا فتعزل ثلثه",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "وربعه فيبقى خمسة أجزاء من اثنى عشر جزءاً من شىء فتعزل منها أربعة دراهم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "أيضا فيبقى خمسة أجزاء من اثنى عشر من شىء الا أربعة دراهم فتضربها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "فى مثلها فتكون الأجزاء الخمسة خمسة وعشرين جزءاً وتضرب الاثنى عشر فى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "مثلها فتكون مائة وأربعة وأربعين فذلك خمسة وعشرون من مائة وأربعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "وأربعين من مال ثم تضرب الأربعة الدراهم فى الخمسة الأجزاء من اثنى عشر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "من شىء مرتين فيكون أربعين جزءاً كل اثنى عشر منها شىء والأربعة الدراهم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "فى الأربعة الدراهم ستة عشر درهما زائدة فتصير الأربعون الجزء ثلاثة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "أجذار وثلث جذر ناقص فتحصل معك خمسة وعشرون جزءاً من مائة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "وأربعة وأربعين جزءاً من مال وستة عشر درهما الا ثلاثة أجذار وثلث",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "جذر تعدل المال الأول وهو شىء واثنى عشر درهما فاجبره وزد الثلاثة الأجذار",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "والثلث على الشىء والاثنى عشر درهما فتصير أربعة أجذار وثلث جذر واثنى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "عشر درهما فقابل به والق اثنى عشر من ستة عشر يبقى أربعة دراهم وخمسة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F065-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "وعشرون جزءاً من مائة (وأربعة) {n:٢} وأربعين من مال تعدل أربعة أجذار",
+   "note_marks": [
+    "٢"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١",
+    "٢"
+   ],
+   "lines": 2,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The problem of L05 is introduced with فان قال (L05) in the face of the text, as on frames 062 to 064.",
+  "L19: «(وأربعة)», as printed: the parentheses stand 21 px (nearest approach of the ink at 400 ppi) from the word inside them, set close to it as on frames 054 and 063, and the opening one 24 px after مائة; the note mark (٢) stands 33 px after the closing parenthesis and 45 px before وأربعين. The editors' note (٢) says that the word in parentheses is added to the text. Without it the line would speak of parts of a hundred and forty, where the same computation divides by a hundred and forty-four in L10-L11 and L14-L15.",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: وهو شىء (L16; 35 between the و and the ش above the baseline, where the conjunction و stands 23 px from the ش in وشىء, L01); وزد الثلاثة (L16; 19 between the د and the alif, as تريد أن on frame 058, L04, 17).",
+  "After د a word space is transcribed before the conjunction و, which stands 6 to 7 px from the د inside a word (frames 038 and 042): واحد وشىء (L01; 21 and 23), الواحد والشىء (L02; 22), واحد وهو (L03; 24).",
+  "After ة a word space is transcribed where the gap is 16 px or more: الخمسة خمسة (L09; 20), خمسة وعشرين (L09; 21), مائة وأربعة (L10; 22), خمسة وعشرون (L10; 23), أربعة أجذار (L19; 19).",
+  "After the hamza on the line a word space is transcribed where the gap is 15 px or more: وشىء فكأنه (L01; 25), والشىء فيكون (L02; 23), شىء والأربعة (L12; 21), شىء واثنى (L16; 20).",
+  "The full stops stand between spaces: after الكتاب, before فان (L05; 25 and 21 px, nearest approach of the ink at 400 ppi), and in L06 after the note mark (١), before فقياسه (26 and 27). The mark (١) stands close after درهما (L06; 13 px).",
+  "Plain alif where a hamza might be expected, as printed: فاضرب (L02), الى (L03), فان (L05), اثنى (L06, L07, L08, L11, L12, L18), الا (L08, L15), الاثنى (L09), واثنى, فاجبره (L16), والاثنى, واثنى (L17), والق (L18); with hamza: فكأنه (L01), فأصاب (L02), أن, تأخذ (L03), أرباع (L04), وأربعة (L05), أنك, تأخذ (L06), أجزاء, أربعة (L07), أيضا, أجزاء, أربعة (L08), الأجزاء (L09), وأربعة, وأربعين (L10), وأربعين, الأربعة, الأجزاء (L11), أربعين, والأربعة (L12), الأربعة, الأربعون (L13), أجذار (L14), وأربعة, وأربعين, أجذار (L15), الأول, الأجذار (L16), أربعة, أجذار (L17), أربعة (L18), وأربعة, وأربعين, أربعة, أجذار (L19); on ي: شيئين, الشيئين, وشيئين (L02), شيئا (L06), مائة (L10, L14, L19), زائدة (L13); the hamza on the line: وشىء (L01, L04), والشىء (L02), أجزاء (L07, L08), جزءاً (L07, L09, L12, L14, L15, L19), شىء (L07, L08, L12, L16), الأجزاء (L09, L11), الجزء (L13), الشىء (L17).",
+  "With tanwīn on the final alif: ونصفاً (L03), جزءاً (L07, L09, L12, L14, L15, L19); without tanwīn as printed: درهما (L03, L06, L13, L15, L16, L17, L18), شيئا (L06), أيضا (L08).",
+  "The final yā' is printed without dots: فى (L02, L04, L06, L09, L11, L13), الى (L03), على (L04, L17), بقى (L05), فيبقى (L07, L08), اثنى (L06, L07, L08, L11, L12, L18), الاثنى (L09), واثنى (L16, L17), والاثنى (L17), يبقى (L18).",
+  "The font sets the خ of الخمسة (L09, L11) and the ث of ثم (L11) above the م that follows, as ligatures; they are transcribed in plain letters. The machine reading has الخسه and الحنسه for الخمسة and تم for ثم.",
+  "The print stretches فكأنه (L01), الكتاب (L05), أيضا and فتضربها (L08), الأربعة and فتصير (L13), معك (L14), at length, and وأربعة (L15) with the elongation stroke; the stroke is not transcribed.",
+  "Notes (١) and (٢) of the editors. (١) restates the twenty-fifth problem in modern notation, (5/12·x − 4)² = x + 12, and gives its roots as 24 and 25/24. The second root is 24/25, not 25/24: for x = 24/25 both sides are 12 24/25, while for x = 25/24 they differ by 26999/82944 (checked exactly); the equation, 25/144·x² − 13/3·x + 4 = 0, has the roots 24 and 24/25. (٢) says that the word in parentheses in L19 is added to the text. Neither note is reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

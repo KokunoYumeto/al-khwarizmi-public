@@ -1,0 +1,14 @@
+@page 269 -
+@lang de
+% JP2 0269: the errata slip «Nachtrag zu den Berichtigungen», tipped in after p. 236, without a page number: a new
+% wording for p. 47 (the periods of the upper planets in the epicycle and in the deferent).
+@c {b:Nachtrag zu den Berichtigungen.}
+@p S. 47, Z. 14 v. u. soll es statt „Die obern Planeten vol-
+lenden . . . . Zeiten“ heissen : Die beiden obersten Planeten
+(Jupiter und Saturn) vollenden ihren Umlauf im Epizykel
+ungefähr in einem Jahre, Mars dagegen in ca. 2 Jahren
+(780 Tagen) ; die Centren ihrer Epizykeln vollenden ihren Um-
+lauf im Deferens in verschiedenen Zeiten, die mit den heu-
+tigen siderischen Umlaufszeiten ziemlich übereinstimmen.
+@obs An errata slip, printed on one side only and without a page number, tipped in after p. 236 (JP2 0268); photographed lying on a blank page, its left edge at the gutter of the book; its paper is darker than the page. The heading (L01) in bold. The type is smaller than that of the text; the colon of L03 and the semicolon of L06 stand after a thin space (11 and 9 px), as in the text of the edition. The back of the slip is JP2 0270.
+@obs Checked: on p. 47 (JP2 0079) the 14th line from the foot of the text, L26, begins the sentence «Die obern Planeten vollenden ihren Umkreis im Epizykel in einem siderischen Jahr, die Centren ihrer Epizykeln ihren Umkreis im Deferens in verschiedenen Zeiten.» (L26-L29), quoted here as «Die obern Planeten vollenden . . . . Zeiten». The new wording gives the revolution in the epicycle as about a year for Jupiter and Saturn and about two years, 780 days, for Mars: the synodic periods of the three planets, about 399, 378 and 780 days.

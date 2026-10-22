@@ -1,0 +1,267 @@
+{
+ "anchor": "AK05-F090",
+ "frame": 90,
+ "frame_file": "page_090.jpg",
+ "frame_sha256": "2105f1ea8d0a974434680e49788113f8365e9a0050f3dfcf52911fd3c37a71be",
+ "printed_page": "٨٤",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 090, printed p. 84: the beginning of the description of the islands in the seas, with the heading of the islands in the outer western sea: twelve islands, each with its size in degrees and the longitude and latitude of its middle, with the editor's running numbers (١٢٨٣)-(١٢٩٤) and, for six of them, the numbers of Suhrāb; two passages from the margin of the manuscript; the folio of the manuscript, «(fol. 22ᵇ)», within the line. Four lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F090-L01",
+   "n": 1,
+   "kind": "heading",
+   "text": "* صفة الجزائر الّتى فى البحار *",
+   "margin": null,
+   "cells": null,
+   "plain": "* صفة الجزائر الّتى فى البحار *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F090-L02",
+   "n": 2,
+   "kind": "heading",
+   "text": "* الجزائر الّتى فى بحر المغرب لخارج *",
+   "margin": null,
+   "cells": null,
+   "plain": "* الجزائر الّتى فى بحر المغرب لخارج *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F090-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "جزيرة ڡطوا{n:a} مقدارها جزآن فى جزء ونصف وسطها عند طول {ov:ح {z}} والعرض {ov:ز ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة ڡطوا مقدارها جزآن فى جزء ونصف وسطها عند طول ح ō والعرض ز ل",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F090-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "(١٢٨٣) [٨٦٩] * جزيرة ڡلرازيا مقدارها جزء ونصف فى جزء وربع وسطها عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٢٨٣) [٨٦٩] * جزيرة ڡلرازيا مقدارها جزء ونصف فى جزء وربع وسطها عند طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F090-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "{ov:د م}{n:b} والعرض {ov:يا {z}} (١٢٨٤) [٨٧٠] * جزيرة هارا مقدار جزء ونصف فى جزء وسطها",
+   "margin": null,
+   "cells": null,
+   "plain": "د م والعرض يا ō (١٢٨٤) [٨٧٠] * جزيرة هارا مقدار جزء ونصف فى جزء وسطها",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F090-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "عند طول {ov:ج {z}}{n:c} والعرض {ov:ٮح ه} (١٢٨٥) [٨٧١] * جزيرة كساڡارسيا مقدار",
+   "margin": "(fol. 22ᵇ)",
+   "cells": null,
+   "plain": "عند طول ج ō والعرض ٮح ه (١٢٨٥) [٨٧١] * جزيرة كساڡارسيا مقدار",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F090-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "جزء ونصف فى جزء وسطها عند طول {ov:و {z}}{n:d} والعرض {ov:يب ل} (١٢٨٦) [٨٧٢] * جزيرة",
+   "margin": null,
+   "cells": null,
+   "plain": "جزء ونصف فى جزء وسطها عند طول و ō والعرض يب ل (١٢٨٦) [٨٧٢] * جزيرة",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F090-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "داعوطلا مقدار جزء ونصف فى جزء وسطها عند طول {ov:ح ى} والعرض {ov:ٮح م} (١٢٨٧)",
+   "margin": null,
+   "cells": null,
+   "plain": "داعوطلا مقدار جزء ونصف فى جزء وسطها عند طول ح ى والعرض ٮح م (١٢٨٧)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F090-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "[٨٧٣] * جزيرة مقدار جزء وسطها عند ⟨طول⟩{n:e} {ov:ج ك} والعرض {ov:ٮه {z}}{n:f} (١٢٨٨) *",
+   "margin": null,
+   "cells": null,
+   "plain": "[٨٧٣] * جزيرة مقدار جزء وسطها عند ⟨طول⟩ ج ك والعرض ٮه ō (١٢٨٨) *",
+   "note_marks": [
+    "e",
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F090-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "جزيرة رفاٮوطس مدوّرة مقدار جزء ونصف وسطها عند طول {ov:ح ك} والعرض {ov:يو ك}",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة رفاٮوطس مدوّرة مقدار جزء ونصف وسطها عند طول ح ك والعرض يو ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F090-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "(١٢٨٩) [٨٧٤] * جزيرة مقدار جزء وسطها عند طول {ov:د {z}}{n:g} والعرض {ov:يز {z}}{n:h} (١٢٩٠) *",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٢٨٩) [٨٧٤] * جزيرة مقدار جزء وسطها عند طول د ō والعرض يز ō (١٢٩٠) *",
+   "note_marks": [
+    "g",
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F090-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "جزيرة مقدار جزء ونصف فى مثله وسطها عند ⟨طول {ov:د ك}{n:i} والعرض {ov:يح م}⟩{n:k} (١٢٩١) *",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة مقدار جزء ونصف فى مثله وسطها عند ⟨طول د ك والعرض يح م⟩ (١٢٩١) *",
+   "note_marks": [
+    "i",
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F090-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "⟨جزيرة مقدار جزء ونصف فى مثله وسطها عند طول⟩{n:k} {ov:ز ل} والعرض {ov:كا {z}} (١٢٩٢) *",
+   "margin": null,
+   "cells": null,
+   "plain": "⟨جزيرة مقدار جزء ونصف فى مثله وسطها عند طول⟩ ز ل والعرض كا ō (١٢٩٢) *",
+   "note_marks": [
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F090-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "جزيرة مقدار جزء ونصف فى مثله وسطها عند طول {ov:ه ل}{n:l} والعرض {ov:كو {z}} (١٢٩٣) *",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة مقدار جزء ونصف فى مثله وسطها عند طول ه ل والعرض كو ō (١٢٩٣) *",
+   "note_marks": [
+    "l"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F090-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "جزيرة مقدار جزء ونصف فى مثله وسطها عند طول {ov:ه ل} والعرض {ov:كج {z}}{n:m} (١٢٩٤) *",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة مقدار جزء ونصف فى مثله وسطها عند طول ه ل والعرض كج ō (١٢٩٤) *",
+   "note_marks": [
+    "m"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L03: a variant reading of the name, written by a later hand, is قنطوارا (note a).",
+  "L05: the manuscript has, by mistake, ر م for the longitude (note b).",
+  "L06: a variant reading of the longitude is ج م, with a line over the numerals (note c).",
+  "L07: a variant reading of the longitude is و ه, with a line over the numerals (note d).",
+  "L09: the manuscript lacks the word طول, which the editor supplies (note e).",
+  "L09: a variant reading of the latitude is ٮه ه, with a line over the numerals and the tooth without a dot (note f).",
+  "L11: the manuscript has, by mistake, ر {z} for the longitude (note g).",
+  "L11: the manuscript has بز {z} for the latitude, with a line over the numerals (note h).",
+  "L12: a variant reading of the longitude is ز ك, with a line over the numerals (note i).",
+  "L12-L13: the words between the angle brackets stand in the margin of the manuscript, written by a later hand (note k).",
+  "L14: a variant reading of the longitude is ر ل, with a line over the numerals (note l).",
+  "L15: a variant reading of the latitude is كح ه, with a line over the numerals (note m)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "L01-L02: the headings of the new part of the work, in the large type, each between two small open stars with six points, transcribed as asterisks: «* صفة الجزائر الّتى فى البحار *», the description of the islands in the seas, and «* الجزائر الّتى فى بحر المغرب لخارج *», the islands in the outer western sea. «الجزائر» has a hamza on the tooth before the ر, «الّتى» a shadda over the ل; «البحار» is printed with a long kashida, the stretched joining stroke, between the ح and the alif, which is not transcribed. L02: «لخارج» is printed without the alif of the article: after the ب of «المغرب» and a word space, the ل joins the خ directly, as in «لطيلسان» on p. 74 (frame 080, L12). Transcribed as printed.",
+  "L03-L15: twelve islands, each with its size in degrees, «مقدارها جزآن فى جزء ونصف», its size is two degrees by one and a half, and the longitude and latitude of its middle, «وسطها عند طول … والعرض …», with the degrees and the minutes written with letters under one line, transcribed with {ov:…}. Each island ends with a small open star with six points, transcribed as an asterisk. The editor's running numbers run (١٢٨٣)-(١٢٩٤); the numbers of Suhrāb [٨٦٩]-[٨٧٣] stand after (١٢٨٣)-(١٢٨٧) and [٨٧٤] after (١٢٨٩); islands 1288 and 1290-1294 have none.",
+  "The islands: L03: «جزيرة ڡطوا», two degrees by one and a half; L04: «جزيرة ڡلرازيا», «جزء ونصف فى جزء وربع», one and a half by one and a quarter; L05: «جزيرة هارا»; L06: «جزيرة كساڡارسيا»; L08: «جزيرة داعوطلا», each one and a half by one, «مقدار» without the pronoun; L09 and L11: «جزيرة مقدار جزء», an island of one degree, without a name; L10: «جزيرة رفاٮوطس مدوّرة مقدار جزء ونصف», a round island of one and a half degrees; L12-L15: four islands without a name, each «مقدار جزء ونصف فى مثله», one and a half degrees by as much again.",
+  "Signs in the text, transcribed as printed: «جزآن» with a madda over the alif; «جزء» with a hamza on the line; «مدوّرة» with a shadda over the و; «فى» ends in a ى without dots.",
+  "Letters without dots in the names, transcribed as printed: L03: «ڡطوا», an upright loop without dots joined to the ط; L04: «ڡلرازيا», the loop at the beginning joined to the ل, without a dot; L06: «كساڡارسيا», the loop before the second alif without a dot; L10: «رفاٮوطس», the ف with its dot, the tooth before the و without one.",
+  "L06: the folio of the Strasbourg manuscript, «(fol. 22ᵇ)», is printed in Latin type within the line, between the asterisk after [٨٧١] and «جزيرة»; transcribed as a margin note before the line.",
+  "Angle brackets, transcribed as printed: L09: «⟨طول⟩», followed by the note mark e: the editor supplies the word, which the manuscript lacks (note e). L12: «⟨طول د ك والعرض يح م⟩» and L13: «⟨جزيرة مقدار جزء ونصف فى مثله وسطها عند طول⟩», each followed by the note mark k: these words stand in the margin of the manuscript, written by a later hand (note k); without them the text passes from «وسطها عند» in L12 to the longitude «ز ل» in L13.",
+  "Letters printed without their dots in the numerals, transcribed so: «ٮح» (L06, L08, the degrees of the latitude), a tooth without its dot, which read with a ي gives 18, where L12 prints «يح» with the two dots of the ي; «ٮه» (L09, the degrees of the latitude), a tooth without its dot joined to a final ه, which read with a ي gives 15. With their dots: «يا» (L05), the two dots of the ي merged into one bar; «يب» (L07), with the dots of the ي and of the ب, 12; «يو» (L10), 16; «يز» (L11), 17; «ج» (L06, L09), 3; «ز» (L03, L13), 7; «كج» (L15), 23.",
+  "The ح of the numerals, ح (L03, L08, L10), ٮح (L06, L08) and يح (L12), shows no dot in the bowl; the same form is a ج without its dot, 3, which L06, L09 and L15 print with its dot. Transcribed as printed. The isolated ى, 10, has no dots (L08). The isolated ك, 20, is printed with the small inner stroke of the letter.",
+  "Note marks: L03, a after «ڡطوا»; L05, b after the longitude; L06, c after the longitude; L07, d after the longitude; L09, e after «⟨طول⟩» and f after the latitude; L11, g after the longitude and h after the latitude; L12, i after the longitude and k after the closing angle bracket; L13, k after the closing angle bracket; L14, l after the longitude; L15, m after the latitude.",
+  "The editor's footnotes stand in four lines below a short rule at the left: notes a-m. The page number «— ٨٤ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

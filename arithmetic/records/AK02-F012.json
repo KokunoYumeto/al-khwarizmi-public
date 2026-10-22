@@ -1,0 +1,421 @@
+{
+ "anchor": "AK02-F012",
+ "frame": 12,
+ "frame_file": "page_012.jpg",
+ "frame_sha256": "c895d10c737007b4741cbdcb614664557dfe1ed7f9aa557b995ac7a3c0130a60",
+ "printed_page": "6",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 012, printed p. 6: the carrying continued, with examples in the second and third places that reach the fourth; the characters by which the carried and the remaining numbers are written; the value of a figure by its place; how to tell how many places a number has.",
+ "lines": [
+  {
+   "id": "AK02-F012-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "si fuerint .{sc:x}. uel plus, fac de .{sc:x}. unum, et iterum pone eum",
+   "margin": null,
+   "plain": "si fuerint .x. uel plus, fac de .x. unum, et iterum pone eum",
+   "italic": [],
+   "small_caps": [
+    "x",
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "in differentia tercia ; et quod remanserit infra .{sc:x}. maneat in",
+   "margin": null,
+   "plain": "in differentia tercia ; et quod remanserit infra .x. maneat in",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "suo loco. Quod autem dicimus plus .{sc:x}., hoc pertinet ad mul-",
+   "margin": null,
+   "plain": "suo loco. Quod autem dicimus plus .x., hoc pertinet ad mul-",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "tum numerum. Verbi gratia. Si fuerit in secunda uel tercia",
+   "margin": null,
+   "plain": "tum numerum. Verbi gratia. Si fuerit in secunda uel tercia",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "differentia magnus numerus, utpote si inueneris in differentia",
+   "margin": null,
+   "plain": "differentia magnus numerus, utpote si inueneris in differentia",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "tercia,que est differentia centenorum, .{sc:ix}.;et si fuerint in dif-",
+   "margin": null,
+   "plain": "tercia,que est differentia centenorum, .ix.;et si fuerint in dif-",
+   "italic": [],
+   "small_caps": [
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "ferentia secunda .{sc:x}., facies de .{sc:x}. unum, et mutabis eum ad",
+   "margin": null,
+   "plain": "ferentia secunda .x., facies de .x. unum, et mutabis eum ad",
+   "italic": [],
+   "small_caps": [
+    "x",
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "terciam differentiam, ubi iunges eum cum .{sc:ix}. , et fiunt .{sc:x}. :",
+   "margin": null,
+   "plain": "terciam differentiam, ubi iunges eum cum .ix. , et fiunt .x. :",
+   "italic": [],
+   "small_caps": [
+    "ix",
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "facies unum de ipsis .{sc:x}.,et mutabis eum in quarta differentia,",
+   "margin": null,
+   "plain": "facies unum de ipsis .x.,et mutabis eum in quarta differentia,",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "et ibi erit mille. Si uero inuenisses in secunda differentia .{sc:xx}.,",
+   "margin": null,
+   "plain": "et ibi erit mille. Si uero inuenisses in secunda differentia .xx.,",
+   "italic": [],
+   "small_caps": [
+    "xx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "et facies de eis duo, addensque duo super .{sc:ix}. in tercia diffe-",
+   "margin": null,
+   "plain": "et facies de eis duo, addensque duo super .ix. in tercia diffe-",
+   "italic": [],
+   "small_caps": [
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "rentia, et fierent .{sc:xi}.: faceres iterum de .{sc:x}. unum, et mutares",
+   "margin": null,
+   "plain": "rentia, et fierent .xi.: faceres iterum de .x. unum, et mutares",
+   "italic": [],
+   "small_caps": [
+    "xi",
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "eum ad quartam differentiam,ubi esset mille, et remanet unum",
+   "margin": null,
+   "plain": "eum ad quartam differentiam,ubi esset mille, et remanet unum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "in tercia differentia : et ideo dicit .{sc:x}. uel plus. Et hoc scien-",
+   "margin": null,
+   "plain": "in tercia differentia : et ideo dicit .x. uel plus. Et hoc scien-",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "dum, quare cum mutaueris numerum,et posueris eum in se-",
+   "margin": null,
+   "plain": "dum, quare cum mutaueris numerum,et posueris eum in se-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "quenti differentia, debes ponere per caracteres suos, idest si",
+   "margin": null,
+   "plain": "quenti differentia, debes ponere per caracteres suos, idest si",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "fuerint .{sc:x}. , pones pro eis caracterem qui significat in prima",
+   "margin": null,
+   "plain": "fuerint .x. , pones pro eis caracterem qui significat in prima",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "differentia unum; et si fuerint .{sc:xx}., pones pro eis caracterem",
+   "margin": null,
+   "plain": "differentia unum; et si fuerint .xx., pones pro eis caracterem",
+   "italic": [],
+   "small_caps": [
+    "xx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "qui significat in prima differentia duo, et sic de ceteris intel-",
+   "margin": null,
+   "plain": "qui significat in prima differentia duo, et sic de ceteris intel-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "lige.Si uero remanserit in eadem differentia,de qua mutasti nu-",
+   "margin": null,
+   "plain": "lige.Si uero remanserit in eadem differentia,de qua mutasti nu-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "merum, aliquid ex numero, dimitte eum similiter per caracte-",
+   "margin": null,
+   "plain": "merum, aliquid ex numero, dimitte eum similiter per caracte-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "res suos, idest si remanserit unum uel duo, dimittes eum ibi",
+   "margin": null,
+   "plain": "res suos, idest si remanserit unum uel duo, dimittes eum ibi",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "per caracterem qui significat eundem numerum, idest si reman-",
+   "margin": null,
+   "plain": "per caracterem qui significat eundem numerum, idest si reman-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "serit unum, describes ibi caracterem unius; et si remanserint",
+   "margin": null,
+   "plain": "serit unum, describes ibi caracterem unius; et si remanserint",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "duo, describes ibi caracterem duorum et cetera. Set significa-",
+   "margin": null,
+   "plain": "duo, describes ibi caracterem duorum et cetera. Set significa-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "bit unaqueque figura secundum quod fuerit differentia, idest",
+   "margin": null,
+   "plain": "bit unaqueque figura secundum quod fuerit differentia, idest",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "in prima differentia significabit unitates ; in secunda dece-",
+   "margin": null,
+   "plain": "in prima differentia significabit unitates ; in secunda dece-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "no ({i:sic}); in tercia centenos et cetera, sicut supra dictum est.",
+   "margin": null,
+   "plain": "no (sic); in tercia centenos et cetera, sicut supra dictum est.",
+   "italic": [
+    "sic"
+   ],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L29",
+   "n": 29,
+   "kind": "indent",
+   "text": "Si autem fuerit numerus multus, et uolueris scire quotus sit,",
+   "margin": null,
+   "plain": "Si autem fuerit numerus multus, et uolueris scire quotus sit,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "uel quot differentie sint in ipso, ut scribas eum in libro, uel",
+   "margin": null,
+   "plain": "uel quot differentie sint in ipso, ut scribas eum in libro, uel",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "loquaris de eo, scito quod non sit in aliqua differentia plus",
+   "margin": null,
+   "plain": "loquaris de eo, scito quod non sit in aliqua differentia plus",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L32",
+   "n": 32,
+   "kind": "text",
+   "text": ".{sc:ix}., nec minus uno, nisi circulus sit qui nichil est. Cum ergo",
+   "margin": null,
+   "plain": ".ix., nec minus uno, nisi circulus sit qui nichil est. Cum ergo",
+   "italic": [],
+   "small_caps": [
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F012-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "uolueris hoc scire, numera differentias, incipiens a prima que",
+   "margin": null,
+   "plain": "uolueris hoc scire, numera differentias, incipiens a prima que",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 6 )» stands at the head of the page, centred. The page has no footnotes and no signature.",
+  "L27-L28: «dece-|no (sic)»: the edition prints «deceno», divided at the end of L27, and marks the form with «(sic)» in italics; a reader has written an «s» in pencil between «no» and the bracket (see the copy matter), which makes it «decenos». The «s» is lighter than the print (its darkest pixels 90-140, where the letters of the line are darker than 90).",
+  "L12: «.xi.:» is a printed colon, to which a reader has added a tail in pencil below the lower dot (darkest pixel 87); the semicolons of L02, L06, L18, L24, L27 and L28 are printed (darkest pixel of the tail 46 to 70).",
+  "Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): without a space after the mark, L06 «tercia,que» (4 px) and «.ix.;et» (11 px, the median word space of the line 17 px), L15 «numerum,et» (9 px, median 17 px), L09 «.x.,et» (5 px), L13 «differentiam,ubi» (6 px), L20 «lige.Si» (9 px, median 14) and «differentia,de» (7 px); with a space before the mark, L02 «tercia ;» (18 px), L08 «.ix. ,» (21 px) and «.x. :» (11 px), L14 «differentia :» (10 px), L17 «.x. ,» (20 px) and L27 «unitates ;» (12 px). L12 «.xi.:» and L18 «.xx.,» have 8 px before the mark, without a space."
+ ],
+ "copy_matter": [
+  "A reader's notes in pencil: in the left margin, «ibique» beside L08 and «quartam differentiam» beside L09; L09, a stroke over «.x.»; beside L15, «quia» and a second word, with «quare» underlined in the line; L16, a small stroke between «idest» and «si»; L12, a tail added below the colon of «.xi.:»; L28, an «s» written between «no» and «(sic)»; L32, a stroke before «.ix.,». Not part of the edition."
+ ],
+ "critical_notes": []
+}

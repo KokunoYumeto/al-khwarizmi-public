@@ -1,0 +1,51 @@
+@page 159 127
+@lang la
+% JP2 0159: Tab. 16, p. 127: the anomaly of Venus in 1-30 days, in 1-24 hours and in 2-60 minutes of an hour, in
+% signs, degrees, minutes and seconds, with the apparatus (notes 1-5 and a-g).
+@c {b:Elheza elzohari} (O)
+@m C 51{sup:r}—51{sup:v}, O 108{sup:r},
+@c {b:Heca elzohara} (C)
+@m N 19{sup:r}.
+@c {b:Argumentum Veneris} (N)
+@tw size=footnotesize span=1.1 1.2 0.8 0.8 0.9 0.9 1.2 0.8 0.8 0.9 0.9 1.25 0.8 0.8 0.9 0.9
+@t Numerus | Heza{sup:1}) Veneris | | | | Numerus | Heza{sup:1}) Veneris | | | | Partes{sup:2}) | Heza Veneris | | |
+@t dierum | in diebus | | | | horarum | in horis | | | | horarum | in partibus horarum{sup:3}) | | |
+@t | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:4}) | {b:Sec.}{sup:5}) | | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.} | | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 1 | 0 | 0 | 37 | 0 | 1 | 0 | 0 | 1 | 32 | 2 | 0 | 0 | 0 | 3
+@t 2 | 0 | 1 | 13 | 59 | 2 | 0 | 0 | 3 | 5 | 4 | 0 | 0 | 0 | 6
+@t 3 | 0 | 1 | 50 | 59 | 3 | 0 | 0 | 4 | 37 | 6 | 0 | 0 | 0 | 9
+@t 4 | 0 | 2 | 27 | 58 | 4 | 0 | 0 | 6 | 10 | 8 | 0 | 0 | 0 | 12
+@t 5 | 0 | 3 | 4 | 58 | 5 | 0 | 0 | 7 | 42 | 10 | 0 | 0 | 0 | 15
+@t 6 | 0 | 3 | 41 | 57 | 6 | 0 | 0 | 9 | 15 | 12 | 0 | 0 | 0 | 18
+@t 7 | 0 | 4 | 18{sup:a}) | 57 | 7 | 0 | 0 | 10 | 47 | 14 | 0 | 0 | 0 | 21
+@t 8 | 0 | 4 | 55 | 57 | 8 | 0 | 0 | 12 | 20 | 16 | 0 | 0 | 0 | 25
+@t 9 | 0 | 5 | 32 | 56 | 9 | 0 | 0 | 13 | 52 | 18 | 0 | 0 | 0 | 28
+@t 10 | 0 | 6 | 9 | 56 | 10 | 0 | 0 | 15 | 25 | 20 | 0 | 0 | 0 | 31
+@t 11 | 0 | 6 | 46 | 55 | 11 | 0 | 0 | 16 | 57{sup:e}) | 22 | 0 | 0 | 0 | 34
+@t 12 | 0 | 7 | 23 | 55 | 12 | 0 | 0 | 18 | 30 | 24 | 0 | 0 | 0 | 37
+@t 13 | 0 | 8 | 0 | 54 | 13 | 0 | 0 | 20 | 2 | 26 | 0 | 0 | 0 | 40
+@t 14 | 0 | 8 | 37{sup:b}) | 54 | 14 | 0 | 0 | 21 | 35 | 28 | 0 | 0 | 0 | 43
+@t 15 | 0 | 9 | 14 | 53 | 15 | 0 | 0 | 23 | 7 | 30 | 0 | 0 | 0 | 46
+@t 16 | 0 | 9 | 51 | 53 | 16 | 0 | 0 | 24 | 40 | 32 | 0 | 0 | 0 | 49
+@t 17 | 0 | 10 | 28 | 53 | 17 | 0 | 0 | 26 | 12 | 34 | 0 | 0 | 0 | 52
+@t 18 | 0 | 11 | 5 | 52 | 18 | 0 | 0 | 27{sup:c}) | 45 | 36 | 0 | 0 | 0 | 55
+@t 19 | 0 | 11 | 42 | 52 | 19 | 0 | 0 | 29 | 17 | 38 | 0 | 0 | 0 | 58
+@t 20 | 0 | 12 | 19 | 51 | 20 | 0 | 0 | 30 | 50 | 40 | 0 | 0 | 1{sup:f}) | 1
+@t 21 | 0 | 12 | 56 | 51 | 21 | 0 | 0 | 32 | 22 | 42 | 0 | 0 | 1 | 4
+@t 22 | 0 | 13 | 33 | 50 | 22 | 0 | 0 | 33 | 55 | 44 | 0 | 0 | 1 | 7
+@t 23 | 0 | 14 | 10 | 50 | 23 | 0 | 0 | 35{sup:d}) | 27 | 46 | 0 | 0 | 1 | 10
+@t 24 | 0 | 14 | 47 | 50 | 24 | 0 | 0 | 37 | 0 | 48 | 0 | 0 | 1 | 14
+@t 25 | 0 | 15 | 24 | 49 | | | | | | 50 | 0 | 0 | 1 | 17
+@t 26 | 0 | 16 | 1 | 49 | | | | | | 52 | 0 | 0 | 1 | 20
+@t 27 | 0 | 16 | 38 | 48 | | | | | | 54 | 0 | 0 | 1 | 23
+@t 28 | 0 | 17 | 15 | 48 | | | | | | 56 | 0 | 0 | 1 | 26
+@t 29 | 0 | 17 | 52 | 47 | | | | | | 58 | 0 | 0 | 1 | 29
+@t 30 | 0 | 18 | 29 | 47 | | | | | | 60 | 0 | 0 | 1{sup:g}) | 32
+@n {sup:1}) Heza] O, Argumentum C — {sup:2}) Partes] O, Dakaicae C — {sup:3}) Heza . . . . horarum] O, heca veneris
+@n in dakaicas ({i:sic.}) horarum C — {sup:4}) et {sup:5}) {i:V. notas in tab. 8.}
+@n {sup:a}) 18] C, 17 O — {sup:b}) 37] C, 36 O — {sup:c}) 27] C, 28 O — {sup:d}) 35] ON, 32 C — {sup:e}) 57] N, 17 C, 58 O —
+@n {sup:f-g}) 1 . . . . 1] ON, {i:om.} C.
+@obs The page number «127» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 16», in bold sans serif, underlined. The three titles (L01-L03), in bold, the sigla in roman: L01 that of O, L02 that of C, L03 that of N; the folios of the manuscripts, «C 51r—51v, O 108r,» over «N 19r.», stand at the right of L02 and L03, the letters raised; here as margin notes. The page has no signature.
+@obs The table: a thick and a thin rule above the head, a double rule below it; vertical rules divide the fifteen columns, double ones before and after each column of arguments; thin rules under the heads that span the four columns of signs, degrees, minutes and seconds, whose heads «Sig.», «Gr.», «Min.», «Sec.» are set in small bold type, only the first «Min.» and «Sec.» with note numbers. «Numerus dierum», «Numerus horarum» and «Partes2) horarum» are printed turned through a quarter, reading upwards, in two lines; here their words stand in L04 and L05. Each printed row is one line here, the cells separated by our «|»; a head followed by empty cells spans their columns. The hours end with 24 (L30).
+@obs L07-L36. Checked against the daily motion of the anomaly of Venus of Tab. 15 (p. 126, JP2 0158), 36′ 59″ 34‴ with Brahmagupta's parameters: the 30 days agree with n × 36′ 59.57″ to within 0.6″ (with the readings of notes a and b), the 24 hours with n × 1′ 32.48″ to within 0.5″ (with the readings of notes c-e), and the «partes horarum», the sixtieths of an hour, with 1.54″ to the part to within 0.9″, some values rounded and some cut off (with the reading of note f-g). The 30 days, 18° 29′ 47″, are the month Elmuharram of Tab. 15 (0s 18° 29′ 47″); the 24 hours, 37′ 0″, the first day.
+@obs N02: «(sic.)», the editor's, with a point, in italics. N03: «e) 57] N, 17 C, 58 O», three readings. N04: «f-g)», the two places of the note, the minutes of the 40 and the 60 parts; the 1 of the minutes from 40 to 60 parts is missing in C. The ellipses «. . . .» of the lemmata as printed. Italics: «sic.», «V. notas in tab. 8.», «om.».

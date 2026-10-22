@@ -1,0 +1,4 @@
+@page 127 -
+@kind blank
+% Frame 127: a blank leaf side.
+@copy The free endpaper of the binding, blank.

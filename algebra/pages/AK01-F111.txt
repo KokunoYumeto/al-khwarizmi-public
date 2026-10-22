@@ -1,0 +1,44 @@
+@page 111 ٩٥
+% Frame 111, printed p. 95: the manumission problem of frame 110 concluded: the slave, worth three hundred, dies
+% leaving three hundred and a daughter; her half and the master's half by clientage: the master's heirs have three
+% hundred less half a thing, twice the bequest: the bequest two fifths of three hundred, a hundred and twenty, the
+% work-off a hundred and eighty. Then the same slave dying with four hundred, a debt of ten, two daughters and a
+% bequest of a third, the master owing twenty: the master's heirs have three hundred less seven ninths of a thing, twice
+% the bequest: nine twenty-fifths of three hundred, a hundred and eight. Then two slaves worth three hundred each,
+% two thirds of one's value taken and spent by the master before his death: his property four hundred, a third of it
+% shared in halves; begun, continued on the next page. The values check exactly. No footnote on this page.
+ثم مات العبد وترك شيئاً وترك بنتاً لها من ذلك النصف وهو نصف شىء وللمولى
+مثل ذلك فصار فى أيدى ورثة المولى ثلثمائة غير نصف شىء وهو مثلا الوصية
+التى هى الشىء وذلك شيئان فتجبر الثلثمائة بنصف شىء وتزيد ذلك على الشيئين
+فيكون ثلثمائة تعدل شيئين ونصفا فالشىء من ذلك خمساه وهو مائة وعشرون
+وهى الوصية والسعاية مائة وثمانون . فان كان أعتقه فى مرضه وقيمته ثلثمائة
+درهم فمات وترك أربعمائة درهم وعليه دين عشرة دراهم وترك ابنتين وأوصى
+لرجل بثلث ماله وعلى السيد دين عشرون درهما . فقياس ذلك أن تجعل وصية
+العبد من ذلك شيئا وسعايته ما بقى من قيمته وهو ثلثمائة غير شىء فمات العبد
+وترك أربعمائة درهم فيودى من ذلك السعاية الى المولى سعايته وهى ثلثمائة غير
+شىء فيبقى فى أيدى ورثة العبد مائة درهم وشىء فيقضى من ذلك الدين وهوعشرة
+دراهم ويبقى تسعون درهما وشىء وأوصى من ذلك بثلثه وهو ثلاثون درهما
+وثلث شىء ويبقى بعد ذلك لورثته ستون درهما وثلثا شىء للابنتين من ذلك الثلثان
+أربعون درهما وأربعة أتساع شىء وللمولى عشرون درهما وتسعا شىء فيصيرفى
+أيدى ورثة المولى ثلثمائة وعشرون غير سبعة أتساع شىء يقضى من ذلك دين
+المولى عشرون درهما فتبقى ثلثمائة غير سبعة أتساع شىء وذلك مثلا ماكان للعبد
+من الوصية التى هى شىء وذلك شيئان فتجبر الثلثمائة بسبعة أتساع شىء ويزداد ذلك
+على الشيئين فيبقى ثلثمائة تعدل شيئين وسبعة أتساع شىء . الشىء من ذلك تسعة
+أجزاء من خمسة وعشرين فيكون ذلك مائة وثمانية وذلك ماكان للعبد . فان أعتق
+عبدين له فى مرضه ولا مال له غيرهما وقيمة كل واحد منهما ثلثمائة درهم فتعجل
+المولى من أحدهما ثلثى قيمته فاستهلكها ثم مات السيد (فماله ثلث قيمة الذى تعجل
+منه ) فمال السيد جميع قيمة الذى لم يتعجل منه وثلث قيمة الذى تعجل منه وهو
+مائة درهم وذلك أربعمائة درهم فثلث ذلك بينهما نصفان وهو مائة درهم وثلاثة
+@obs L01: «ثم مات العبد وترك شيئاً» (L01) goes on from the last words of frame 110, «وهى ثلثمائة غير شىء» (frame 110, L22): after the work-off, three hundred less a thing, is paid from the three hundred he left, the slave's estate is the thing.
+@obs L20-L21: «(فماله ثلث قيمة الذى تعجل منه )», as printed: the words stand between parentheses; the opening parenthesis stands 20 px (nearest approach of the ink at 400 ppi) after السيد and 13 px before فماله, set close to the word inside it as on frames 054, 063 and 085; the closing one stands 35 px after منه and 18 px before فمال (in doubt, the space is written). The words state the second part of the master's property, which the next words give in full (L21-L22); no note of the editors refers to them, and the edition does not say what the parentheses mark.
+@obs L09: فيودى (L09), as printed, without the hamza over the و.
+@obs Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): وهوعشرة (L10; 24 between the و and the ع, as on frames 049, 061 and 108, 23 and 24); فيصيرفى (L13; the ر stands 28 px from the ف above the baseline and its tail 10 px from it, within the 8 to 19 px of the tail of a ر inside a word, as فاجبرالتسعين on frame 109, 29 and 11); ماكان (L15; 5 between the alif and the ك, and L18; 4, between the top of the alif, broken from its stem, and the oblique stroke of the ك), as ماكان and واذاكان on frames 029, 035, 043 and 072, 5 to 7, where هذا كان and جمعتهما كان have 21 and 25.
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: لها من (L01; 20 between the alif and the م, where لهامنه on frame 108, L14, has 11 and ما معك on frame 102, L07, 27); وتسعا شىء (L13; 20 between the alif and the ش, at the upper end of the distances of an alif from a tooth inside a word, 17 to 20 px); ويزداد ذلك (L16; 19 between the د and the ذ, as بعد ذلك on frame 101, 18, and فزد ذلك on frame 094, 19); in doubt, the space is written.
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: ذلك خمساه (L04), الدين وهوعشرة (L10; 9 between the ن and the و), ستون درهما, ذلك الثلثان (L12), ماكان للعبد (L15, L18), شيئان فتجبر (L16).
+@obs L18: خمسة (L18) is printed with the join between the م and the س broken, 5 px apart; transcribed as one word.
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after وثمانون, before فان (L05; 26 and 26), after درهما, before فقياس (L07; 32 and 29), after شىء, before الشىء (L17; 25 and 29), and after للعبد, before فان (L18; 19 and 20).
+@obs Plain alif where a hamza might be expected, as printed: فان (L05, L18), ابنتين (L06), الى (L09), للابنتين (L12), فاستهلكها (L20); with hamza: أيدى (L02), أعتقه (L05), أربعمائة, وأوصى (L06), أن (L07), أربعمائة (L09), أيدى (L10), وأوصى (L11), أربعون, وأربعة, أتساع (L13), أيدى, أتساع (L14), أتساع (L15, L16, L17), أجزاء, أعتق (L18), أحدهما (L20), أربعمائة (L22); on ي: شيئاً (L01), ثلثمائة (L02), شيئان, الثلثمائة, الشيئين (L03), ثلثمائة, شيئين, مائة (L04), مائة, ثلثمائة (L05), شيئا, ثلثمائة (L08), ثلثمائة (L09), مائة (L10), ثلثمائة (L14, L15), شيئان, الثلثمائة (L16), الشيئين, ثلثمائة, شيئين (L17), مائة (L18), ثلثمائة (L19), مائة (L22, twice); the hamza on the line: شىء (L01, L02, L03, L08), الشىء (L03), فالشىء (L04), شىء, وشىء (L10), وشىء (L11), شىء (L12, twice; L13, twice; L14, L15; L16, twice; L17), الشىء (L17), أجزاء (L18).
+@obs With tanwīn on the final alif: شيئاً, بنتاً (L01); without tanwīn as printed: ونصفا (L04), درهما (L07; L11, twice; L12; L13, twice; L15), شيئا (L08).
+@obs L02, L12, L13, L15: «مثلا الوصية» (L02), «وثلثا شىء» (L12), «وتسعا شىء» (L13) and «مثلا ماكان» (L15), as printed: the dual without its ن before the noun or the word that follows it, as on frames 094, 095, 099, 106, 108, 109 and 110.
+@obs The final yā' is printed without dots: وللمولى (L01), فى, أيدى, المولى (L02), التى, هى, على (L03), وهى, فى (L05), وأوصى (L06), وعلى (L07), بقى (L08), فيودى, الى, المولى, وهى (L09), فيبقى, فى, أيدى, فيقضى (L10), ويبقى, وأوصى (L11), ويبقى (L12), وللمولى, فيصيرفى (L13), أيدى, المولى, يقضى (L14), المولى, فتبقى (L15), التى, هى (L16), على, فيبقى (L17), فى (L19), المولى, ثلثى, الذى (L20), الذى (L21, twice).
+@obs The print stretches فيكون (L04, L18, between the ي and the ك), وثمانون (L05, between the م and the alif), تسعون (L11, between the س and the ع), أتساع (L14, L15, L17, between the س and the alif) and فاستهلكها (L20, between the ل and the ك) with the elongation stroke; the stroke is not transcribed.

@@ -1,0 +1,4 @@
+gap	needed_for	witness	folios	packet_state	route_checked	result	remaining_action
+G09	the content of pp. 181-184 of the 1987 article	packet file 51	pp. 181-184	missing from the packet's file	DergiPark, issue 44566: the English article (article file 693897) and its Turkish version (article file 693901)	ACQUIRED 2026-10-22: the English PDF is the packet's file byte for byte (same SHA-256), so the publisher's copy lacks the pages too; the Turkish version, pp. 187-210, is complete and holds the same sections (pp. 205-209)	none
+G10	the Tashkent witness of the qibla tract	al-Biruni Institute 177/3	148a-151a	not in the packet	not searched	NOT ACQUIRED	a later lane, if the qibla tract becomes a production target
+G11	the Cairo table ascribed to al-Khwarizmi (ISMI row 19)	Taymur 103/2	101a-102a	not in the packet	not searched	NOT ACQUIRED	as G10

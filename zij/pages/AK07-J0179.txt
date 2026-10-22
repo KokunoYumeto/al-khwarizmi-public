@@ -1,0 +1,61 @@
+@page 179 147
+@lang la
+% JP2 0179: Tab. 36, p. 147: the equations of Jupiter, with its corrected apogee, first station and latitude, for the
+% arguments 3s 1° to 4s 0° (and 8s 29° to 8s 0°), with the apparatus (notes 1-5 and a-g).
+@c {b:Coaequatio Jovis} (N) — {b:Tadil} (O)
+@c {b:Tadil elmusteri. hormi. elbergis} (C)
+@m C 60{sup:v}, O 118{sup:r},
+@c {b:Locus draconis eius 2 S. 22 G. 1 M.}{sup:1})
+@tw size=footnotesize span=1.14 0.85 0.85 0.85 0.85 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.75
+@m N 13{sup:r}.
+@t Pagina numerorum (O) |  |  |  | Sublimatio |  |  | Exami- |  | Exami- |  | Statio prima |  |  | Latitudo Jovis |  |  |  |
+@t Viae numerorum |  |  |  | Jovis |  |  | natio |  | natio |  | Jovis |  |  | descendentis{sup:5}) |  |  |  |
+@t Augmentum{sup:2}) |  | Diminutio |  | examinata{sup:3}) |  |  | ipsius |  | centri |  |  |  |  | {b:prima} |  | {b:secunda} |  |
+@t proprietatum |  | proprietatum |  |  |  |  | elheza{sup:4}) |  |  |  |  |  |  |  |  |  |  |
+@t omnium |  | omnium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 3 | 1 | 8 | 29 | 5 | 17 | 11 | 10 | 43 | 5 | 6 | 4 | 5 | 43 | 1 | 17 | 2 | 29 | 59
+@t 3 | 2 | 8 | 28 | 5 | 17 | 10 | 10 | 45 | 5 | 5 | 4 | 5 | 44 | 1 | 17 | 2 | 29 | 55
+@t 3 | 3 | 8 | 27 | 5 | 17 | 9 | 10 | 47 | 5 | 4 | 4 | 5 | 46 | 1 | 17 | 2 | 29 | 48
+@t 3 | 4 | 8 | 26 | 5 | 17 | 8 | 10 | 49 | 5 | 4 | 4 | 5 | 47 | 1 | 17 | 2 | 29 | 38{sup:e})
+@t 3 | 5 | 8 | 25 | 5 | 17 | 7 | 10 | 50 | 5 | 3 | 4 | 5 | 48 | 1 | 16 | 2 | 29 | 26
+@t 3 | 6 | 8 | 24 | 5 | 17 | 7 | 10 | 51 | 5 | 2 | 4 | 5 | 50 | 1 | 16 | 2 | 29 | 11
+@t 3 | 7 | 8 | 23 | 5 | 17 | 7 | 10 | 51 | 5 | 1 | 4 | 5 | 51 | 1 | 16 | 2 | 28 | 53
+@t 3 | 8 | 8 | 22 | 5 | 17 | 6 | 10 | 52 | 5 | 0 | 4 | 5 | 52 | 1 | 16 | 2 | 28 | 32{sup:f})
+@t 3 | 9 | 8 | 21 | 5 | 17 | 6 | 10 | 52 | 4 | 59 | 4 | 5 | 54 | 1 | 15 | 2 | 28 | 9
+@t 3 | 10 | 8 | 20 | 5 | 17 | 6 | 10 | 52 | 4{sup:b}) | 59 | 4 | 5 | 55 | 1 | 15 | 2 | 27 | 43
+@t 3 | 11 | 8 | 19 | 5 | 17 | 6 | 10 | 52 | 4 | 58 | 4 | 5 | 56 | 1 | 15 | 2 | 27 | 15
+@t 3 | 12 | 8 | 18 | 5 | 17 | 6 | 10 | 52 | 4 | 58 | 4 | 5 | 58 | 1 | 15 | 2 | 26 | 43
+@t 3 | 13 | 8 | 17 | 5 | 17 | 6 | 10 | 52 | 4 | 57 | 4 | 5 | 59 | 1 | 14 | 2 | 26 | 9
+@t 3 | 14 | 8 | 16 | 5 | 17 | 7 | 10 | 51 | 4 | 56 | 4 | 6 | 0 | 1 | 14 | 2 | 25 | 33
+@t 3 | 15 | 8 | 15 | 5 | 17 | 7 | 10 | 51 | 4 | 55 | 4 | 6 | 2 | 1 | 14 | 2 | 24 | 53
+@t 3 | 16 | 8 | 14 | 5 | 17 | 7 | 10 | 50 | 4 | 53 | 4 | 6 | 3 | 1 | 14 | 2 | 24 | 11
+@t 3 | 17 | 8 | 13 | 5 | 17 | 8 | 10 | 49 | 4 | 51 | 4 | 6 | 4 | 1 | 13 | 2 | 23 | 26
+@t 3 | 18 | 8 | 12 | 5 | 17 | 8 | 10 | 48 | 4 | 49 | 4 | 6 | 6 | 1 | 13 | 2 | 22 | 40
+@t 3 | 19 | 8 | 11 | 5 | 17 | 9 | 10 | 46 | 4 | 47 | 4 | 6 | 7 | 1 | 13 | 2{sup:c}) | 21 | 50
+@t 3 | 20 | 8 | 10 | 5 | 17 | 10 | 10 | 44 | 4 | 45 | 4 | 6 | 8 | 1 | 13 | 2 | 20 | 57
+@t 3 | 21 | 8 | 9 | 5 | 17 | 11 | 10 | 43 | 4 | 42 | 4 | 6 | 10 | 1 | 12 | 2 | 20 | 2
+@t 3 | 22 | 8 | 8 | 5 | 17 | 12 | 10 | 40 | 4 | 40 | 4 | 6 | 11 | 1 | 12 | 2 | 19{sup:d}) | 5
+@t 3 | 23 | 8 | 7 | 5 | 17 | 14 | 10 | 37 | 4 | 38 | 4 | 6 | 12 | 1 | 12 | 2 | 18 | 5
+@t 3 | 24 | 8 | 6 | 5 | 17 | 15 | 10 | 34 | 4 | 36 | 4 | 6 | 14 | 1 | 12 | 2 | 17 | 1{sup:g})
+@t 3 | 25 | 8 | 5 | 5 | 17 | 17 | 10 | 31 | 4 | 34 | 4 | 6 | 15 | 1 | 11 | 2 | 15 | 57
+@t 3 | 26 | 8 | 4 | 5 | 17 | 18 | 10 | 28 | 4 | 32 | 4 | 6 | 17 | 1 | 11 | 2 | 14 | 49
+@t 3 | 27 | 8 | 3 | 5 | 17 | 20 | 10 | 25 | 4 | 30 | 4 | 6 | 19 | 1 | 11 | 2 | 13 | 39
+@t 3 | 28 | 8 | 2 | 5 | 17 | 22 | 10 | 21 | 4 | 28 | 4 | 6 | 20 | 1 | 11 | 2 | 12 | 27
+@t 3 | 29 | 8 | 1 | 5 | 17 | 24 | 10 | 17 | 4 | 26 | 4 | 6 | 22 | 1 | 10 | 2{sup:c}) | 11 | 12
+@t 4{sup:a}) | 0 | 8 | 0 | 5 | 17 | 26 | 10 | 13 | 4{sup:b}) | 25 | 4 | 6 | 24 | 1 | 10 | 2 | 9 | 54
+@n {sup:1}) Locus . . . . M.] N, {i:om.} O, 2. 12. 1 C — {sup:2}) Augmentum] ON, Argumentum C — {sup:3}) examinata]
+@n O, definita N, definita. Aug elmusteri muadala C — {sup:4}) ipsius elheza] O, argumenti eius C — {sup:5}) descen-
+@n dentis] O, {i:om.} C.
+@n {sup:a}) 4] N, 3 CO — {sup:b})—{sup:b}) 4] ON, {i:om.} C — {sup:c})—{sup:c}) 2) ON, {i:om.} C. — {sup:d}) 19] N, 18 C, 29 O — {sup:e}) 38] O,
+@n 28 C — {sup:f}) 32] 52 CO — {sup:g}) 1] O, 2 C.
+@obs The page number «147» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 36», in bold sans serif, underlined. At the foot, the signature «19*» on the right; recorded here, not transcribed as a line. The titles (L01-L03), in bold, the sigla in roman; L03, the place of Jupiter's node, in smaller bold type, «2 S. 22 G. 1 M.», with note 1. The folios of the manuscripts stand at the right of the last title in two lines, «C 60v, O 118r,» and «N 13r.», the letters raised; here as right margin notes.
+@obs The table: rules and heads as on pp. 144-146 (JP2 0176-0178), with «Pagina numerorum (O) Viae numerorum», the second line without a siglum, over the four columns of the arguments, divided below a rule into «Augmentum2) proprietatum omnium» and «Diminutio proprietatum omnium» in smaller type; «Sublimatio Jovis examinata3)», without «ascensus»; «Examinatio ipsius elheza4)» and «Examinatio centri», each hyphenated «Exami-natio»; «Statio prima Jovis»; «Latitudo Jovis descendentis5)» over «prima» and «secunda» in smaller bold type. Here each head is set from the top, one printed line to a line (L04-L08), the cells separated by our «|»; a head followed by empty cells spans their columns. L09, the units, in bold.
+@obs L10-L39. Checked as on p. 144 (JP2 0176): the Sublimatio is 5s 22° 32′ less half the Examinatio argumenti in every row, a half minute counted as a whole. The Latitudo secunda is 2° 30′ · sin x to within 1″ in every row, and the value for 90° + y is that for 90° − y on p. 146 (JP2 0178) in every row except at 114°: there the edition prints O's 2° 17′ 1″ (note g), where C's 2 agrees with the computation, 2° 17′ 1.9″, and with the 2° 17′ 2″ of p. 146 at 66°.
+@obs L10-L39. The Examinatio argumenti reaches its greatest value, 10° 52′, from 98° to 103°; an epicycle of radius 11.3 gives a greatest equation of arc sin (11.3 : 60) = 10° 51.3′, at 100.9°. Against the equation of that epicycle (pp. 144-146) the table is 0.5′ to 2.3′ larger in every row. The Examinatio centri for 90° + y is that for 90° − y on pp. 145-146 (JP2 0177-0178) except at 98°, 99°, 101° and from 115° to 119°, where it is 1′ smaller, and from 107° to 110°, where it is 1′ larger.
+@obs L10-L39, the other columns: the Statio prima increases from 4s 5° 43′ to 4s 6° 24′ by 1′ or 2′ a degree. The Latitudo prima is 1° 17′ to 94° and decreases by 1′ every fourth degree, to 1° 10′ at 119° and 120°; like that of Saturn (p. 141, JP2 0173), it is not symmetric about 90° and continues to decrease from the values of p. 146.
+@obs Notes on the readings. Note 1: the title of the node, 2s 22° 1′, is N's; O has none, and C has 2. 12. 1, the reading that p. 145 (JP2 0177, L02) prints from O. Note 3: C's «Aug elmusteri muadala», the Arabic awj al-mushtarī al-muʿaddal, the corrected apogee of Jupiter, Suter's «Apogeum ... aequatum» for the Sublimatio examinata (p. 49, JP2 0081, L17-L18). Note a: the last argument, 4s 0°, is N's; C and O have 3. Notes b-b and c-c: C leaves out the degrees, 4, of the Examinatio centri from 100° to 120°, and the degree, 2, of the Latitudo secunda from 109° to 119°.
+@obs Notes on the readings, continued. Checked: the Latitudo secunda 2° 19′ 5″ at 112° (note d, N, against C's 18 and O's 29), 2° 19′ 4.7″ computed; 2° 29′ 38″ at 94° (note e, O), 2° 29′ 38.1″ computed; 2° 28′ 32″ at 98° (note f), 2° 28′ 32.4″ computed, where C and O have 52 and N's reading is not reported.
+@obs N04: the range mark «b)—b)» has a dash printed in two pieces, 17 and 13 px long with a gap of 5 px, together the length of the other dashes (35 px); transcribed as one long dash, as in «c)—c)». Italics: «om.». N01: the ellipsis «. . . .» of the lemma as printed. N04: «2) ON» and «om. C. —»: see the critical notes.
+@critical AK07-CN124 | wrong bracket | N04 | {sup:c})—{sup:c}) 2) ON | {sup:c})—{sup:c}) 2] ON | the lemma of a note is closed by a square bracket, as «4] ON» of note b in the same line; a parenthesis is printed after 2 | high | none
+@critical AK07-CN125 | stray point | N04 | {i:om.} C. — {sup:d}) | {i:om.} C — {sup:d}) | the readings of a note end without a point before the dash, as «om. C —» of note b in the same line; a point is printed after the siglum | high | none

@@ -1,0 +1,57 @@
+@page 81 49
+@lang de
+% JP2 0081: Suter's commentary, p. 49: chapter 10 continued: the equation of the anomaly by the tangent, with a figure;
+% al-Battānī's columns V-VII; al-Khwārizmī's corrected apogee of Saturn (Sublimatio Saturni examinata); Ibn ʿIrāq's
+% treatise on the halving of the equation; Chasles on the fictitious apogee (notes 1-2).
+@c tg {i:RET} = {fr:{i:PS}|{i:ES}} = {fr:{i:PS}|{i:EH} + {i:HS}} = {fr:{i:r} sin {i:ψ}|Dist. centri epic. + {i:r} cos {i:ψ}}.
+@p Diese {i:Gleichung der Anomalie} ändert sich, wie man sieht, mit der variabeln
+Distanz des Centrums des Epizykels von der Erde ; {sp:Batt.} hat in Kol. VI die Gleichung
+der Anomalie für eine mittlere Distanz
+gegeben, Kol. V u. VII dienen dazu, die Kor-
+rekturen für die Abweichung der übrigen
+Distanzen von der mittlern zu bestimmen ;
+auf Einzelheiten können wir hier nicht
+eintreten (s. das Beispiel unten).
+@p Was nun die Tafeln {sp:Kh.}’s anbetrifft,
+so lässt er in erster Linie die Kol. V u. VII
+bei {sp:Batt.}, durch welche die von der geo-
+zentrischen Distanz des Epizykelcentrums
+abhängige Gleichung der Anomalie korri-
+giert wird, weg. Dagegen hat {sp:Kh.} eine
+Kolonne, überschrieben mit {i:Sublimatio}
+{i:Saturni examinata}, oder besser {i:Apogeum}
+{i:Saturni aequatum}, deren Werte zwischen
+8{sup:s} 4° 55′ (= 244° 55′ = wirkliches Apogeum
+des Saturns) und 8{sup:s} 2° 3′ (= 242° 3′) variieren.
+Dies ist nun wohl der Punkt, auf den sich die Angaben bei einigen arabischen
+Autoren über die Tafeln {sp:Kh.}’s beziehen. Ich habe oben (p. 33) schon angeführt, dass
+{sp:Ibn al-Adamī} berichtet hat, dass {sp:Kh.} seine Gleichungen (der Planeten) nach der
+Methode der Perser (also wahrscheinlich nach den Tafeln des {i:Shāh}) berechnet habe ;
+ich muss nun hier noch hinzufügen, dass {sp:Abū Naṣr Manṣūr b. ʿAlī b. ʿIrāḳ}
+(c. 950—1000){sup:1}) eine Abhandlung an {sp:Al-Bīrūnī} gerichtet hat „über die Gründe der
+{i:Halbierung} deı {i:Gleichung} bei den Astronomen die dem Sindhind folgten“.{sup:2}) Wie
+verhält es sich nun mit dieser {i:Halbierung} der {i:Gleichung} ? Schon M. {sp:Chasles} hat
+in der oben (p. I der Einleitung) zitierten Abhandlung diese Frage berührt, aber
+seine Darstellung ist in gewissen Punkten nicht ganz klar und auch nicht ganz
+richtig. Er sagt p. 849 : {i:Former un apogée fictif, c’est comme si l’on donnait une équa-}
+{i:tion fictive à l’apogée réel. Et en effet, j’ai trouvé depuis cette équation ou la manière}
+{i:de la former dans d’autres tables que j’ai reconnues être imitées du Sindhind et dans}
+{i:lesquelles ces traces manifestes d’une astronomie étrangère avaient échappé à l’attention}
+{i:des astronomes historiens. L’équation en question est précisement la moitié de l’équation}
+{i:du centre, c’est ainsi que l’auteur la désigne. C’est la prosthaphérèse de longitude de}
+{i:Ptolemée.} — Es ist nun wohl richtig, dass {sp:Kh.} auch das {i:Apogeum} korrigiert, und nicht
+nur die {i:Anomalie} und das {i:Centrum} des Planeten ; es ist auch möglich, dass diese
+Korrektur des Apogeums ein Ersatz für den von den Indern, bezw. Persern fallen-
+@n {sup:1}) Vergl. {sp:Suter}, in {i:Abhandlgn. zur Gesch. der mathem. Wissensch.} X, 81.
+@n {sup:2}) Vergl. {sp:Albērūnī}, {i:Chronologie orientalischer Völker}, ed. {sp:Sachau}, Leipzig, 1878, p. XXXXVII.
+@obs The page number «49» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III 1.», the point after «III» printed so faintly that it hardly shows, on the left, and the sheet number «7» on the right; recorded here, not transcribed as a line. L01: the formula, displayed and centred, continues «Durch die Tangens ausgedrückt, findet man einfacher:» at the end of p. 48 (JP2 0080, L31); its three fractions are built up, written {fr:NUMERATOR|DENOMINATOR}, with a full stop after the last. A speck in the left margin before it; not transcribed.
+@obs A figure stands at the right of L04-L20, which are set in a narrower measure at its left; it is not reproduced. As on p. 47 (JP2 0079): the large circle of the ecliptic, A at its top, F at its upper right, B at its bottom, and R, Q, T on its upper left; the inner circle of the deferent, G at its top, K at its bottom; the vertical line A B through G, E′, M (marked by a short stroke), E and K; the small circle of the epicycle about H, which stands on the deferent at the left, with the planet P on it. The lines E′ H Q, E H R and E P T run from the points of the vertical line through the epicycle to the ecliptic; the radius H P, and P S perpendicular to H R. The letters are italic: A, B, E, E′, F, G, H, K, M, P, Q, R, S, T.
+@obs L01. Checked: S is the foot of the perpendicular from P to the line E H R, so that tg RET = P S : E S, E S = E H + H S, and with P S = r sin ψ and H S = r cos ψ (p. 48, JP2 0080, L23-L26) tg RET = r sin ψ : (E H + r cos ψ), as printed.
+@obs L19-L20: «8s 4° 55′», «8s 2° 3′», the s raised; L20 is set close in the narrow measure. Checked: eight signs and 4° 55′ are 244° 55′, the apogee of Saturn of chapter 18 of the text (p. 14, JP2 0046) and of p. 46 (JP2 0078, L26); eight signs and 2° 3′ are 242° 3′; the corrected apogee of Saturn thus varies by 2° 52′. To be compared with the tables of Saturn. L21: «Dies ist nun wohl der Punkt» begins at the left margin, without the indent of a paragraph, continuing the paragraph of L10.
+@obs L25: «Abū Naṣr Manṣūr b. ʿAlī b. ʿIrāḳ» spaced, with the macrons, the dots under ṣ and ḳ and the ʿayn raised before «Alī» and «Irāḳ». L26: «(c. 950—1000)», the long dash set close. L27: the quotation «über die Gründe der Halbierung deı Gleichung bei den Astronomen die dem Sindhind folgten» within German quotation marks; «Halbierung» and «Gleichung» in italics, «Sindhind» upright; the r of «der» is printed without its arm, as a dotless ı; see the critical note.
+@obs L31-L37: the passage of Chasles (Comptes rendus 23, 1846, p. 849; see p. 43, JP2 0075, N03-N04), in italics, ending with «Ptolemée.»; «Ptolemée» (L37), as printed; the usual spelling is «Ptolémée», and Chasles's article has not been compared here. L35: «précisement»; see the critical note. L28: «Gleichung ?», the question mark in italics after a thin space (13 px).
+@obs N02: «p. XXXXVII», as printed, for the page 47 of the preface (XLVII). «orientalischer Völker»: the word space between the two italic words is narrow (10 px). Spaced type, marked {sp:}: «Batt.», «Kh.», «Ibn al-Adamī», «Abū Naṣr Manṣūr b. ʿAlī b. ʿIrāḳ», «Al-Bīrūnī», «Chasles», «Suter», «Albērūnī», «Sachau».
+@obs The colons, semicolons and the question mark stand after the thin space of the edition (11-15 px measured).
+@critical AK07-CN051 | damaged letter | L27 | deı | der | «die Gründe der Halbierung der Gleichung»: the article in the genitive; the r is printed without its arm, so that the word reads «deı» | high | none
+@critical AK07-CN052 | missing accent | L35 | précisement | précisément | the same sentence of Chasles, quoted again on p. 50 (JP2 0082, L02), has «précisément», the usual French spelling; here the acute accent on the second e is missing | high | none
+@critical AK07-CN282 | wrong numeral | L29 | (p. I der Einleitung) | (p. VII der Einleitung) | the list of misprints, p. [237] (JP2 0271, L11), reads «p. VII» for «p. I»; the introduction is printed on pp. VII-XXV (contents, p. [III], JP2 0007) | high | none

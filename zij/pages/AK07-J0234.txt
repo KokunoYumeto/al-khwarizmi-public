@@ -1,0 +1,56 @@
+@page 234 202
+@lang la
+% JP2 0234: Tab. 87, p. 202: the division of the houses for the ascendant in Sagittarius: the beginnings of the
+% second to the sixth house for every degree of the ascendant, with the apparatus (notes 1 and a-i).
+@ml C 89{sup:r}, O 145{sup:v},
+@c {b:Aequatio casarum duodecim signo}{sup:1}) {b:sagittarii}
+@tw size=footnotesize 1.3 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65
+@ml N 54{sup:r}.
+@t Gradus | Secundum |  | Tertium |  | Quartum |  | Quintum |  | Sextum |
+@t aequales | Capricorn. |  | Aquarius |  | Pisces |  | Aries |  | Taurus |
+@t ortus | [et Aquar.] |  | [et Pisces] |  | [et Aries] |  | [et Taurus] |  | [et Gemini] |
+@t sagittar. |  |  |  |  |  |  |  |  |  |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 1 | 4 | 18 | 8 | 9 | 15 | 17 | 11 | 30 | 7 | 5
+@t 2 | 5 | 19 | 9 | 17 | 16 | 35 | 12 | 45 | 8 | 13
+@t 3 | 6 | 19 | 10 | 24{sup:b}) | 17 | 52 | 14 | 0 | 9 | 20
+@t 4 | 7 | 20 | 11 | 33{sup:c}) | 19 | 10 | 15 | 15 | 10 | 27
+@t 5 | 8 | 21 | 12 | 40 | 20 | 27 | 16 | 30 | 11 | 34
+@t 6 | 9 | 22 | 13 | 50 | 21 | 47 | 17 | 45 | 12 | 42
+@t 7 | 10 | 24 | 15 | 1 | 23 | 7 | 19 | 0 | 13 | 49
+@t 8 | 11 | 26 | 16 | 12 | 24 | 27 | 20 | 11 | 14 | 57
+@t 9 | 12 | 28 | 17 | 23{sup:d}) | 25 | 47 | 21 | 24 | 16 | 4
+@t 10 | 13 | 30 | 18 | 34{sup:e}) | 27 | 7 | 22 | 38 | 17 | 11
+@t 11 | 14 | 32 | 19 | 45 | 28 | 25 | 23 | 49 | 18 | 17
+@t 12 | 15 | 34 | 20 | 55 | 29 | 43 | 25 | 2 | 19 | 23
+@t  |  |  |  |  | Aries |  |  |  |  |
+@t 13 | 16 | 36 | 22 | 5 | 1 | 1 | 26 | 14 | 20 | 29
+@t 14 | 17 | 38 | 23 | 15 | 2 | 19 | 27 | 26 | 21 | 35
+@t 15 | 18 | 40 | 24 | 26 | 3 | 36 | 28 | 38 | 22 | 40
+@t 16 | 19 | 42 | 25 | 38 | 4 | 54 | 29 | 50 | 23 | 46
+@t  |  |  |  |  |  |  | Taurus |  |  |
+@t 17 | 20 | 45 | 26 | 50 | 6 | 11 | 0 | 59 | 24 | 51
+@t 18{sup:a}) | 21 | 48 | 28 | 2 | 7 | 28 | 2 | 8 | 25 | 56
+@t 19 | 22 | 51 | 29 | 14 | 8 | 45 | 3 | 17 | 27 | 1
+@t  |  |  | Pisces{sup:f}) |  |  |  |  |  |  |
+@t 20 | 23 | 54 | 0 | 26 | 10 | 2 | 4 | 26 | 28 | 6
+@t 21 | 24 | 57 | 1 | 37{sup:g}) | 11 | 17 | 5 | 35 | 29 | 10
+@t  |  |  |  |  |  |  |  |  | Gemini |
+@t 22 | 26 | 0 | 2 | 48 | 12 | 32 | 6 | 44 | 0 | 14
+@t 23 | 27 | 3 | 3 | 59 | 13 | 46 | 7 | 53 | 1 | 17
+@t 24 | 28 | 6 | 5 | 10 | 15 | 0 | 9 | 3 | 2 | 20
+@t 25 | 29 | 10 | 6 | 21 | 16 | 14 | 10 | 11 | 3 | 23
+@t  | Aquar. |  |  |  |  |  |  |  |  |
+@t 26 | 0 | 13 | 7 | 32 | 17 | 26 | 11 | 20 | 4 | 26
+@t 27 | 1 | 16 | 8 | 43 | 18 | 38 | 12 | 34{sup:h}) | 5 | 29
+@t 28 | 2 | 20 | 9 | 54 | 19 | 50 | 13 | 46 | 6 | 31
+@t 29 | 3 | 24 | 11 | 5 | 21 | 1 | 14 | 58 | 7 | 33{sup:i})
+@t 30 | 4 | 28 | 12 | 16 | 22 | 12 | 16 | 10 | 8 | 35
+@n {sup:1}) signo] C, signi O.
+@n {sup:a}) 18] C, 19 O — {sup:b}) 24] CO, 23 N — {sup:c}) 33] C, 22 O — {sup:d}) 23] C, {i:corr. ex} 24 O — {sup:e}) 34] ON,
+@n 28 C — {sup:f}) Pisces] C, {i:om.} O — {sup:g}) 37] C, 27 O — {sup:h}) 34] C, 24 O — {sup:i}) 33] C, 34 O.
+@obs The page number «202» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 87», in bold sans serif, underlined. The page has no signature. The title (L01), «Aequatio casarum duodecim signo1) sagittarii», the equation of the twelve houses for the sign of Sagittarius, in bold, without sigla, with note 1 at «signo» (O's «signi»). The folios of the manuscripts stand at the left of the title in two lines, «C 89r, O 145v,» and «N 54r.», the letters raised; here as left margin notes beside L01 and L02.
+@obs The table: as on pp. 194-201 (JP2 0226-0233), the degrees of the ascendant, «Gradus aequales ortus sagittar.», in four lines, and five pairs «Gr.», «Min.» under «Secundum Capricorn. [et Aquar.]», «Tertium Aquarius [et Pisces]», «Quartum Pisces [et Aries]», «Quintum Aries [et Taurus]» and «Sextum Taurus [et Gemini]». Here each head is set from the top, one printed line to a line (L02-L05); the units in L06; the cells separated by our «|»; a head followed by empty cells spans their columns. The names of the signs into which the beginnings pass stand in lines of their own over their columns: «Aries» (L19) over the fourth house, «Taurus» (L24) over the fifth, «Piscesf)» (L28) over the third, «Gemini» (L31) over the sixth and «Aquar.» (L36) over the second. The degree 18 of the first column (L26) has note a, C's 18 against O's 19.
+@obs L07-L41. The beginnings of the houses for the ascendant at 1° to 30° of Sagittarius, by the rule of p. 194 (JP2 0226). Checked with the obliquity 23° 35′ and the latitude 38° 40′: the first rows continue the excess at the end of p. 201 (JP2 0233), at 1° (L07) by 3.3′, 10.1′, 15.6′, 8.7′ and 4.9′ in the second to the sixth house, decreasing to 5°; in right ascension these excesses stand roughly in the proportion 1 : 2 : 3 : 2 : 1 of the shares of the night arc and the day arc in the rule, as an error in the night arc of the ascendant would give. From 5° to 30° the second, third, fourth and sixth houses agree within 4.7′. The fifth house falls behind the computation from 9° (L15) to 29° (L40), most at 22°-23° (L32-L33), 23.6′ (7° 53′ of Taurus for 8° 16.6′ at 23°): its steps are 71′ to 74′ from 7° to 16° and 68′ to 70′ from 16° to 26°, where the computed ones fall evenly from 75′ to 67′; from 26° the steps, 74′ and three times 72′, bring it back to the computation, 2.3′ above it at 30°. So the fifth house enters Taurus one row later than the computation (at 17°, L24-L25, where the computation gives 0° 2′ at 16°). No note bears on the figures of this column except at 27° (note h).
+@obs Notes on the readings. Checked by the steps of the columns: the edition's readings keep the steps of the third house at 3°, 4°, 9°, 10° and 21° (notes b, c, d, e and g: the 24 of C and O against N's 23, giving 67′ and 69′ where 23 gives 66′ and 70′; C's 33 against O's 22, 69′ and 67′ against 58′ and 78′; C's 23 against O's 24 before its correction; the 34 of O and N against C's 28, 71′ and 71′ against 65′ and 77′; C's 37 against O's 27, 71′ and 71′ against 61′ and 81′), of the fifth at 27° (note h: C's 34 against O's 24, 74′ and 72′ against 64′ and 82′) and of the sixth at 29° (note i: C's 33 against O's 34, 62′ and 62′ against 63′ and 61′; both 0.5′ from the computation, 7° 32.5′). Note f: O omits «Pisces» over the third house (L28).
+@obs Italics: «corr. ex», «om.».

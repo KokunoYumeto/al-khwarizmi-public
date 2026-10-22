@@ -1,0 +1,236 @@
+{
+ "anchor": "AK01-F043",
+ "frame": 43,
+ "frame_file": "page_043.jpg",
+ "frame_sha256": "01380b2d08ba052f484e575a521a1a82ad077224229726ef79f3dcc83f96df03",
+ "printed_page": "٢٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 043, printed p. 27: the end of the demonstration of the sixth case (the root four); the closing remark on the six cases; then the chapter on multiplication begins, «باب الضرب», a run-in heading in bold: how numbers with units, added or subtracted, are multiplied, term by term, with the rule for the sign of the fourth product, and the examples (10+1)(10+2) and (10-1)(10-1), continued on the next page. Below the rule three footnotes of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F043-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "ونصف وزدنا عليه خط {ov:عح} الذى هو نصف الثلاثة الاجذار وهو واحد",
+   "note_marks": [],
+   "figure_labels": [
+    "عح"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F043-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "ونصف فبلغ ذلك كله أربعة وهو خط {ov:اح} وهو جذر المال الذى هو سطح {ov:اد}",
+   "note_marks": [],
+   "figure_labels": [
+    "اح",
+    "اد"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F043-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وهذه صورته وذلك ما أردنا أن نبين .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F043-L04",
+   "n": 4,
+   "kind": "indent",
+   "text": "ووجدنا كل ما يعمل به من حساب الجبر والمقابلة لا بد أن يخرجك الى أحد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F043-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "الأبواب الستة التى وصفت فى كتابى هذا وقد أتيت على تفسيرها فاعرف ذلك .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F043-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "{b:باب الضرب} وأنا مخبرك كيف تضرب الأشياء وهى الجذور بعضها فى بعض",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "باب الضرب"
+   ]
+  },
+  {
+   "id": "AK01-F043-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "اذا كانت منفردة ، أو كان معها عدد ، أو كان مستثنى منها عدد ، أو كانت مستثناة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F043-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "من عدد ، وكيف تجمع بعضها الى بعض ، وكيف تنقص بعضها من بعض . أعلم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F043-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "انه لا بد لكل عدد يضرب فى عدد من أن يضاعف أحد العددين بقدر ما فى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F043-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "الآخر من الآحاد . فاذا كانت عقود ومعها آحاد أو مستثنى منها آحاد فلا بد من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F043-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "ضربها أربع مرات . العقود فى العقود ، والعقود فى الآحاد ، والآحاد فى العقود ،",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F043-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "والآحاد فى الآحاد . فاذا كانت الآحاد التى مع العقود زائدة جميعاً فالضرب الرابع",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F043-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "زائد،واذا كانت ناقصة جميعا فالضرب الرابع زائد أيضاً، واذاكان أحدهما زائدا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F043-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "والآخر ناقصاً فالضرب الرابع ناقص {n:١} وهو مثل عشرةوواحد فى عشرة واثنين {n:٢}",
+   "note_marks": [
+    "١",
+    "٢"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F043-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "فالعشرة فى العشرة مائة والواحد فى العشرة عشرة زائدة والاثنان فى العشرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F043-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "عشرون زائدةوالواحد فى الاثنين اثنان زائدان فذلك كله مائة واثنان وثلاثون واذا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F043-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "كانت عشرة الا واحداً فى عشرة الا واحداً {n:٣} فالعشرة فى العشرة مائة والواحد",
+   "note_marks": [
+    "٣"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١",
+    "٢",
+    "٣"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "Note (١) of the editors reports a marginal gloss (حاشية) of the manuscript at this place: «وان شئت قلت متى استوى المضروب والمضروب فيه كان المجتمع زائداً ومتى اختلفا كان المجتمع ناقصاً», that is, if one likes: when the multiplicand and the multiplier are alike, the product is additive, and when they differ, it is subtractive. The gloss is the manuscript's text, quoted as the edition prints it."
+ ],
+ "unresolved": [],
+ "observations": [
+  "L06: the chapter heading باب الضرب is printed in a bold face at the beginning of the line, followed by a wide space (94 px at 400 ppi), and the text runs on in the same line.",
+  "L01: the label عح, the ع the same sort as on frames 036, 038, 041 and 042, a closed head and a tail without a dot, for the point that halves the side هح of frame 042 (critical note AK01-CN009). L02: the labels اح and اد.",
+  "Set without a word space after a non-connecting letter, and transcribed so: واذاكان (L13; the ا and the ك stand 7 px apart, nearest approach of the letters at 400 ppi, as in ماكان on frames 029 and 035; set with a space, اذا كانت stands 17 to 46 px apart on L07, L10, L12 and L13); عشرةوواحد (L14; the ة and the و 7 px apart) and زائدةوالواحد (L16; 6 px), where these letters set with a space stand 17 to 45 px apart (أربعة وهو, L02; مائة والواحد, L15).",
+  "After a non-connecting letter a word space is transcribed where the print sets the words close but the gap is wider than the same letters stand inside a word: ما يعمل (L04; 28 px, against 7 to 15 px between an alif and the next letter inside a word), لا بد (L04; 34 px; 64 px in L09, 48 px in فلا بد, L10), عقود ومعها (L10; 24 px, against 6 to 7 px in دونه, frame 031, and الجذور, L06), وقد أتيت (L05; 26 px), أربعة وهو (L02; 17 px, against 5 to 9 px for the ة and the و set without a space), مائة والواحد (L15; 17 px), عشرة الا (L17; 21 and 28 px, against 10 px in عشرةاجذاره, frame 032).",
+  "L13: the first comma is set without a space on either side, between زائد and واذا (7 and 4 px); the second stands close after أيضاً, with a space after it. The other commas of the page stand between spaces, and so do the full stops after نبين (L03), ذلك (L05), بعض (L08), الآحاد (L10, L12) and مرات (L11).",
+  "Plain alif where a hamza might be expected, as printed: الاجذار (L01), الى (L04, L08), اذا (L07), انه (L09), فاذا (L10, L12), واذا (L13, L16), واذاكان (L13), الا (L17, twice); with hamza: أربعة (L02), أردنا, أن (L03), أحد (L04, L09), الأبواب, أتيت (L05), وأنا, الأشياء (L06), أو (L07, L10), أعلم (L08), أربع (L11), أيضاً, أحدهما (L13).",
+  "With tanwīn on the final alif: جميعاً (L12), أيضاً (L13), ناقصاً (L14), واحداً (L17, twice); without tanwīn as printed: جميعا, زائدا (L13).",
+  "L14: the note mark (١) stands after ناقص with a space on either side; (٢) ends the line, after a space. L17: (٣) after واحداً, with a space on either side.",
+  "L09: in لكل the joining stroke of the ل is broken before the ك in this copy; one word.",
+  "Notes (٢) and (٣) of the editors restate the two examples in modern notation; not reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK01-CN009",
+   "class": "labels of the text and of the figure disagree",
+   "line": "L01",
+   "printed": "عح",
+   "proposed": "جح",
+   "evidence": "The same point as on frame 042, the midpoint of the side هح, named with the same ع-shaped sort; the figure (frame 042) has no ع (critical note AK01-CN006). For the corresponding point of the fifth case the manuscript, in the facsimile of frame 039, writes ج (AK01-CN003); the page of the manuscript with the sixth case is not reproduced.",
+   "confidence": "high that ع stands for the ج of the figure",
+   "impact": "none on the mathematics: the labels only name the points and lines of the figure"
+  }
+ ]
+}

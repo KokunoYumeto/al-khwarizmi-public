@@ -1,0 +1,32 @@
+@page 71 ٥٥
+% Frame 071, printed p. 55: the chapter on mensuration continued: a surface of one cubit by one cubit is one; of two
+% by two, four; of half by half, a quarter; and so for the other fractions. The side of a square times one is its
+% root, times two its two roots. Then the rules for areas: an equilateral triangle, its height times half the base;
+% a rhombus, one diagonal times half the other; a circle, its diameter times three and a seventh gives the
+% circumference, continued on the next page. Below the rule four footnotes of the editors, the fourth quoting a
+% marginal gloss of the manuscript.
+واحد فان السطح كله واحدفان كان من كل جانب اثنان وهو متساوى الأضلاع
+والزوايا فالسطح كله أربعة أمثال السطح الذى هو ذراع فى ذراع . وكذلك
+ثلاثة فى ثلاثة وما زاد على ذلك أو نقص وكذلك نصف فى نصف بربع وغير
+ذلك من الكسور فعلى هذا . وكل سطح مربع يكون من كل جانب نصف
+ذراع فهو مثل ربع السطح الذى هو من كل جانب ذراع وكذلك ثلث فى ثلث
+وربع فى ربع وخمس فى خمس وثلثان فى نصف أو أقل من ذلك أو أكثر فعلى
+حسابه . وكل سطح مربع متساوى الأضلاع فان أحد أضلاعه فى واحد جذره
+وفى اثنين جذراه صغر هذا السطح أو كبر . وكل مثلث متساوى الأضلاع فان
+ضربك عموده ونصف القاعدة التى يقع عليها العمود هو تكسير {n:١} ذلك المثلث .
+وكل معينة {n:٢} متساوية الأضلاع فان ضربك أحد القطرين فى نصف الآخر
+هو تكسيرها . وكل مدورة {n:٣} فان ضربك القطر فى ثلاثة وسبع هو الدور{n:٤}
+@ednotes ١ ٢ ٣ ٤ 13
+@obs Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): واحدفان (L01, the second; 6 between the د and the ف, where the first واحد فان of the line stands 22 apart).
+@obs L06: أكثر (L06) is transcribed as one word. The print sets the ك 22 px (nearest approach of the ink at 400 ppi) from the alif before it, about the width of a narrow word space; it sets the word so every time it occurs in this edition (15 to 23 px on frames 033, 035, 047, 048, 071 and 072, and 15 px from the ligature لا in الاكثر on frame 055), where an alif stands 5 to 7 px from a ك that follows it without a space (فاكمل, frame 063, L16). The machine reading also has أكثر.
+@obs L09: «ضربك عموده ونصف القاعدة», as printed, with the conjunction و between the height and half the base, where the rules of the rhombus and the circle that follow have فى (فان ضربك أحد القطرين فى نصف الآخر, L10; فان ضربك القطر فى ثلاثة وسبع, L11).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: عليها العمود (L09; 19 between the two alifs, at the boundary of the gaps after an alif without a space, 2 to 17, and with one, 19 or more; in doubt, the space is written); أحد أضلاعه (L07; 20 between the د and the alif, as تريد أن on frame 058, L04, 17).
+@obs After ة a word space is transcribed where the gap is 16 px or more; the narrowest such gap on this page: متساوية الأضلاع (L10; 17).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: فان السطح and متساوى الأضلاع (L01).
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after ذراع, before وكذلك (L02; 27 and 23), after هذا, before وكل (L04; 26 and 24), after حسابه, before وكل (L07; 26 and 23), after كبر, before وكل (L08; 25 and 25), at the end of L09 (22 after المثلث), after تكسيرها, before وكل (L11; 29 and 22). The note marks (١), (٢) and (٣) stand in wide spaces after تكسير (L09; 111 px between the words), معينة (L10; 109 px) and مدورة (L11; 115 px); (٤) stands 22 px after الدور, at the end of L11.
+@obs Plain alif where a hamza might be expected, as printed: اثنان (L01), فان (L01, L07, L08, L10, L11), اثنين (L08); with hamza: الأضلاع (L01, L07, L08, L10), أربعة, أمثال (L02), أو (L03, L06, L08), أقل (L06), أضلاعه (L07), أحد (L07, L10); with madda: الآخر (L10).
+@obs No tanwīn is printed on this page.
+@obs The final yā' is printed without dots: متساوى (L01, L07, L08), الذى (L02, L05), فى throughout, وفى (L08), على (L03), فعلى (L04, L06), التى (L09).
+@obs The print stretches الكسور and هذا (L04) with the elongation stroke; the stroke is not transcribed.
+@obs Notes (١) to (٤) of the editors. (١) to (٣) give the modern terms for تكسير (area), معينة (rhombus) and مدورة (circle). (٤) explains الدور as what is now called the circumference, π times the diameter, calls π irrational and gives its value to five figures, 3.1416; it lists the three values that the text gives on the next page, 22/7, √10 and 62832/20000, as 3.1419, 3.162 and 3.1416, says that the third is the closest, the one the astronomers used, and √10 the farthest, and introduces the marginal gloss quoted below. 22/7 is 3.142857…, 3.1429 to five figures, not 3.1419 (checked exactly). None of the notes is reproduced.
+@variant Note (٤) of the editors reproduces a marginal gloss (حاشية) of the manuscript on the value of the circumference: «وهو تقريب لا تحقيق ولا يقف أحد على حقيقة ذلك ولا يعلم دورها الا الله لان الخط ليس بمستقيم فيوقف على حقيقته وإنما قيل ذلك تقريب كما قيل فى جذر الاصم انه تقريب لا تحقيق لأن جذره لا يعلمه الا الله واحسن مافى هذه الاقوال أن تضرب القطر فى ثلاثة وسبع لأنه أخف واسرع والله أعلم», that is: it is an approximation, not an exact value; no one knows the truth of it, and no one but God knows its circumference, for the line is not straight so that its truth could be found; it is called an approximation as the root of a surd is said to be an approximation, not exact, because no one but God knows its root; and the best of these sayings is to multiply the diameter by three and a seventh, because it is lighter and quicker; and God knows best. The gloss is the manuscript's text, quoted as the edition prints it.

@@ -1,0 +1,57 @@
+@page 41 9
+@lang la
+% JP2 0041: the Latin text, p. 9: the end of chapter 7: a bracketed note of O on longitude and latitude (in the right
+% column); the measure of the degree on earth after the Chaldeans; chapter 8, on finding the place of the sun: the
+% mean motion, the apogee, the argument and the equation; with the apparatus (notes 1-42).
+@cr [Nota quod longitudo climatis ab {i:el-}
+@cr {i:muchre} orientali vel occidentali usque ad
+@cr locum, latitudo vero ab {i:Arin} usque ad
+@cr locum dicitur aequidistanter (?) {i:Elkuscus}
+@cr vero longitudinem arguit (?)]{sup:1}).
+@p Item{sup:2}) nota, quod secundum {sp:Caldeos}{sup:3}) IIII milia{sup:4}) passus cameli miliare{sup:5})
+faciunt, atque XXXIII{sup:6}) miliaria et tertia, id est {i:thuld}{sup:7}), in terra gradus{sup:8}) in coelo
+dimidius, unde totus terrae circulus{sup:9}) XXIIII{sup:10}) milia{sup:11}) miliaria{sup:12}) continet. Ratio-
+nis contra (causa?){sup:13}) : Si enim{sup:14}) a qualibet plaga directe ad{sup:15}) meridiem eatur
+LXVI miliaribus et duabus tertiis transgressis in priori plaga notata stella uno iam
+gradu eodem momento horae{sup:16}) superior esse videbitur. Quae cum ita sint, gradus
+quidem et{sup:17}) dimidius C miliaria exigunt{sup:18}), quindecim ergo{sup:19}) mille, signum{sup:20}) itaque{sup:21})
+II milia{sup:22}), duodecim igitur XXIIII milia{sup:23}).
+@c {b:Cap. 8. De loco solis inveniendo{sup:24}).}
+@p Locus itaque solis sic investigandus est{sup:25}). Primo quidem qualibet hora eius
+{i:elwacat}, id est medium{sup:26}) inveniendum{sup:27}) est. Deinde ab eo{sup:28}) invento{sup:29}) {i:elaug}, id
+est sublimatio solis, detrahenda, id est duo{sup:30}) signa{sup:31}) XVII gradus LV dakaicae{sup:32}),
+quodque{sup:33}) residuum fuerit, {i:elheza}{sup:34}) id est argumentum dicetur{sup:35}). Per numerum
+itaque huius argumenti in {i:tadil}{sup:36}), id est examinationem{sup:37}) intrabitur. Quodque huic
+praescripto adiunctum fuerit, memoriter tam mente quam scripto notabitur.
+@p Deinde si fuerit argumentum praedictum maius sex signis, addendum {i:tadil}
+est{sup:38}) supra {i:elwacat} ; sin autem minus{sup:39}), idem eidem subtrahendum{sup:40}). Hoc igitur
+facto signum tibi solis et gradus et dakaica et secunda inventa erunt.
+@p Ex hoc enim a primo gradu arietis unicuique signo signum, et gradui gradum
+et dakaicae dakaicam, et secundae secundam{sup:41}) distribue{sup:42}). Quod si ab argumento
+@n {sup:1}) {i:Quae uncis inclusa scrips.} O {i:in marg.} — {sup:2}) Item] O, {i:om.} C. — {sup:3}) Caldeos] C, chaldeos O. —
+@n {sup:4}) IIII milia] M, {ov:IIII} C. — {sup:5}) miliare] milire C. — {sup:6}) XXXIII] {i:corr. ex} XXXlIII C. — {sup:7}) id est thuld]
+@n {i:corr. ex} thuid M, idem thuid C, {i:om.} O. — {sup:8}) gradus] grosa (?) gradus C. — {sup:9}) circulus] C N, circuitus
+@n M{sub:2}. — {sup:10}) XXIIII] XXXIIII M{sub:2}. — {sup:11}) milia] {i:om.} C. — {sup:12}) miliaria] CM, miliarum O. — {sup:13}) contra (?)]
+@n CO, cura M{sub:2}. — {sup:14}) enim] {i:om.} O. — {sup:15}) ad] {i:om.} M. — {sup:16}) eodem momento horae] CM, eadem hora O.
+@n — {sup:17}) et] {i:om.} O. — {sup:18}) exigunt] MC, exigit O. — {sup:19}) ergo] CM, vero O. — {sup:20}) signum] magnum M. —
+@n {sup:21}) itaque] autem O. — {sup:22}) II milia] {ov:II} CO. — {sup:23}) XXIIII milia] {ov:XXIIII} CM, {ov:XIIII} O. — Si enim . . . . mi-
+@n lia] CO, Gradus enim constat ex C miliaribus M{sub:2} — Item . . . . milia] CM {i:in textu}, O {i:in marg.} — {sup:24}) De
+@n loco solis inveniendo] O, De loco inveniendo cuiuslibet planetarum M, De inveniendo loco solis C. —
+@n {sup:25}) investigandus] inveniendus O. — {sup:26}) medium] medialitas O — id est medium] {i:om.} C. — {sup:27}) invenien-
+@n dum] investiganda O. — {sup:28}) eo] ea O. — {sup:29}) invento] {i:om.} O. — {sup:30}) sublimatio . . . . duo] sullimatio eius
+@n minuenda, est autem sullimatio eius duo scilicet O. — {sup:31}) duo signa] secunda spera M. — {sup:32}) dakaicae]
+@n dakaicae nulla minutia O. — {sup:33}) quodque] Hoc autem cum a medialitate minuerimus, quod O (S.). —
+@n {sup:34}) elheza] MO, elheca C. — {sup:35}) dicetur] {i:om.} M. — {sup:36}) tadil] C, paginam tadil O. tabulam tadil M. —
+@n {sup:37}) examinationem] C, examinationis M, examinis O. — {sup:38}) tadil est] C, est tadil M. — {sup:39}) minus] MO,
+@n maius C. — {sup:40}) si fuerit . . . . subtrahendum] CM, considerandum est hoc argumentum per quod tadil
+@n sumptum est : si enim maius VI signis fuerit addenda erit examinatio supra medialitatem, sin vero mi-
+@n nus, idem ab eadem minuendum erit O. — {sup:41}) et secundae secundam] O, parti partem et minutiae mi-
+@n nutiam CM. — {sup:42}) distribue] CM, partieris O.
+@obs The page number «9» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «2» on the right; recorded here, not transcribed as a line.
+@obs L01-L05: the two columns of chapter 7 end with a bracketed passage in the right column only, the left column empty beside it; L01 begins with a paragraph indent. Note 1: O writes the bracketed passage in the margin. From L06 the text is again printed across the full width.
+@obs L06-L13: the measure of the degree after the Chaldeans: a mile of 4000 camel's paces, 33 1/3 miles to half a degree on earth, 24000 miles to the whole circle of the earth; checked: 66 2/3 miles to the degree, 100 miles to a degree and a half, 1000 to fifteen degrees, 2000 to a sign of thirty degrees, 24000 to the twelve signs (L12-L13), as the text says. L06: «Caldeos» is letter-spaced.
+@obs L17: «duo signa XVII gradus LV dakaicae», the apogee of the sun, 2 signs 17° 55′, that is 77° 55′. The final I of «XVII» is printed with its foot broken. L21-L22: the equation is added to the mean motion when the argument is more than six signs and subtracted when it is less.
+@obs N02: the fourth numeral of «XXXlIII» is a lower-case l, narrower than the I's (7 px against 9-10 px) and with a slanting head serif; see the critical note. N04, N05, N08: «M{sub:2}», M with a lowered 2, the second hand of M. N02, N07: the numerals with a bar over them as printed, {ov:IIII}, {ov:II}, {ov:XXIIII}, {ov:XIIII}. N03: «C N», the two sigla with a space between them. N08: «M{sub:2} —», without a point after the siglum.
+@obs L09, L22 and N17: the colon and the semicolon stand after the thin space of the edition (14, 8 and 10 px measured).
+@critical AK07-CN021 | wrong sort | N02 | XXXlIII | XXXIIII | the numeral that C corrects, thirty-four, is set with a lower-case l in the place of the first I, as on p. 2 (N04) | high | none
+@critical AK07-CN022 | wrong punctuation | N14 | paginam tadil O. tabulam tadil M. | paginam tadil O, tabulam tadil M. | the readings of the manuscripts within a note are divided by commas, «tadil] C, paginam tadil O, tabulam tadil M.»; after the siglum O a full stop is printed before the lower-case «tabulam» | medium | none

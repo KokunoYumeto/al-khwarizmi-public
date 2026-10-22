@@ -1,0 +1,5 @@
+@page 3 -
+@kind scan
+% JP2 0003: a flyleaf, with the notice of the digitisation set over it and a price in pencil.
+@obs A flyleaf without printed matter of the edition, over which the digitisation has set its notice: the drawing of a temple front, «Digitized by the Internet Archive in 2016» and «https://archive.org/details/b24872489». Not part of the book.
+@copy A price in pencil, «£170», in the lower middle of the leaf.

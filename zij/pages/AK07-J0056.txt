@@ -1,0 +1,58 @@
+@page 56 24
+@lang la
+% JP2 0056: the Latin text, p. 24: chapter 31 continued: the true places of the sun and the moon at the mean
+% conjunction or opposition, the interval between them and its correction by a twelfth, the hours from the moon's
+% hourly motion, the correction of the moon's anomaly; with the apparatus (notes 1-41).
+lunae atque argumentum lunae in tabula praefata{sup:1}) posita eorundem loca invenienda
+erunt, subtrahendo scilicet {i:elaug} a medio{sup:2}), atque addendo vel minuendo examina-
+tionem pro argumenti modo, ut circa primitias ostensum est. Hoc autem loco id
+interponendum est, ut si argumento lunae{sup:3}) exigente addendum{sup:4}) fuerit {i:tadil}, id
+est examinatio eius, supra {i:elwacat}, id est medio{sup:5}), idem ipsum etiam argumento{sup:6})
+latitudinis addatur, si vero{sup:7}) minuendum, minuatur. Deinde ad loca solis et lunae
+redeundum est{sup:8}). Quod si{sup:9}) fuerit eorum locus penitus{sup:10}) unus, habes quod quaeris, si
+vero non{sup:11}), subtrahendo minus a{sup:12}) maiori inveniatur{sup:13}) interstitium, atque dimi-
+dium{sup:14}) sextae ipsius interstitii{sup:15}) postea{sup:16}) ex utroque coacervatum diligenter reti-
+nendum ; deinde utrum{sup:17}) praecesserit{sup:18}) captandum, praecedentis enim sive solis
+sive lunae dicitur interstitium. Quod si fuerit solis, erit praedictum coacervatum{sup:19})
+loco lunae, dimidium{sup:20}) vero sextae loco solis addendum ; sin autem{sup:21}) lunae, eadem
+eisdem subtrahenda sunt{sup:22}). Non dissimili quoque{sup:23}) modo erit idem coacervatum{sup:24})
+argumento latitudinis vel addendum vel minuendum. His ergo executis aut{sup:25})
+exibit solis et lunae in{sup:26}) coniunctione locus penitus unus, aut si oppositionem
+tractaveris, exibit quidem tibi locus solis, eiusque oppositus locus (scilicet additis
+VI signis){sup:27}) erit lunae ; atque argumentum latitudinis definitum invenietur{sup:28}), quod
+ad laborem defectuum non erit inutile. Loco{sup:29}) itaque invento erit deinde per locum
+quidem solis{sup:30}) in tabulam {i:elbuht}{sup:31}) intrandum, atque ibidem quod luna in hora
+@ml N 42{sup:r}
+exigat captandum. Comparando ergo supradictum coacervatum{sup:32}) | cum lunae
+stupore horario, quantum horarum{sup:33}) ei accidat{sup:34}) caute{sup:35}) computandum ; id ipsum
+autem{sup:36}), si interstitium solis fuerit, superiori acervo horarum addendum erit ; si
+vero lunae, idem eidem subtrahendum. Sicque coniunctionis et oppositionis horam
+certam habebis secundum hoc quod nox et dies simul sumpti horas ponunt aequales.
+Quod si argumentum lunae secundum horarum additionem dirigere{sup:37}) intenderis,
+horae quidem additae et earum partes{sup:38}) in XXXII dakaicas{sup:39}) et XL{sup:40}) elthenias{sup:41})
+@n {sup:1}) tabula praefata] C O, tabulam praefatam N. — {sup:2}) scilicet elaug a medio] O, solis elaug, id est
+@n sublimatione, ab elwacat C, sublimationem ab medio cursu N. — {sup:3}) lunae] C, {i:om.} O. — {sup:4}) addendum]
+@n C O, addenda N. — {sup:5}) tadil . . . . medio] C, taddil lunae supra medium eius O, coaequatio eius supra
+@n medium cursum N. — {sup:6}) argumento] C, supra argumentum O. — {sup:7}) si vero] O, sin autem C. — {sup:8}) est]
+@n C, considerando utrum in idem ceciderint O. — {sup:9}) Quod si] C, si enim O. — {sup:10}) penitus] C, ex toto O. —
+@n {sup:11}) si vero non] C, sin autem O. — {sup:12}) a] O, {i:om.} C. — {sup:13}) inveniatur] C, invenietur O. — {sup:14}) dimidium]
+@n C, etiam tam medietas O. — {sup:15}) sextae . . . . interstitii] C O N, scilicet ex interstitio et dimidio sextae
+@n ipsius interstitii C {i:suprascr.} — {sup:16}) postea] C, quam O. — {sup:17}) coacervatum . . . . utrum] C, compositum
+@n diligendum firmandum, deinde uter O. — {sup:18}) scilicet sive sol sive luna C {i:suprascr.} — {sup:19}) coacervatum]
+@n C, compositum O. — {sup:20}) dimidium] C, medietas O. — {sup:21}) sin autem] C, si vero O. — {sup:22}) eadem . . . .
+@n sunt] C, idem eidem subtrahendum ; ut autem interponam O. — {sup:23}) quoque] C. {i:om.} O. — {sup:24}) coacer-
+@n vatum] C, compositum O. — {sup:25}) aut] C, {i:om.} O. — {sup:26}) in] C, sive in O. — {sup:27}) {i:Quae uncis inclusa habet}
+@n N {i:in marg.} — {sup:28}) locus penitus . . . . invenietur] N, locus penitus unus atque argumentum latitudinis
+@n difinitum invenietur, aut si oppositionem tractaveris exibit quidem tibi locus solis, eiusque oppositus
+@n locus erit lunae C, sive in oppositione modis omnibus locus unus, atque etiam argumentum latitudinis
+@n determinatae invenietur O. — {sup:29}) Loco] loco solis et lunae uno vel sibi invicem opposito C {i:suprascr.} —
+@n {sup:30}) per . . . . solis] C {i:in uncis, om.} O. — {sup:31}) elbuht] C, stuporis O. — {sup:32}) coacervatum] C, compositum O. —
+@n {sup:33}) horarum] O, horarium C, orarum N. — {sup:34}) accidat] C O, accidit N. — {sup:35}) caute] O, sollertum C,
+@n sollerter N. — {sup:36}) autem] C, enim O. — {sup:37}) dirigere] C, examinare O. — {sup:38}) partes] O, momenta C. —
+@n {sup:39}) dakaicas] C O, minuta N. — {sup:40}) XL] O N, a L C. — {sup:41}) elthenias] C O, secunda N.
+@obs The page number «24» stands at the head of the page, centred, with a rule below it. The page has no signature. L20: the vertical bar between «coacervatum32)» and «cum» marks the beginning of fol. 42 recto of N, which the note in the left margin, «N 42r», names; transcribed as a margin note.
+@obs L01-L26: the true places of the sun and the moon at the mean syzygy; the interval between them, increased by half a sixth of itself, a twelfth, is added to the place of the moon and the twelfth to the place of the sun when the sun is ahead, and subtracted when the moon is; the same to the argument of latitude; the interval with its twelfth, divided by the moon's hourly motion, gives the hours to be added or subtracted. Checked: the moon gains on the sun about 12;11 degrees a day, so that while it closes an interval the sun moves on about one twelfth of it, which the twelfth added to the interval allows for. L26: the hours times 0;32,40 correct the moon's anomaly. Checked: the daily motion in anomaly, about 13° 3′ 54″, divided by twenty-four gives 32′ 40″; the reading of C, 32′ 50″ (note 40), does not.
+@obs L17: «(scilicet additis VI signis)», the round brackets of the text, which note 27 calls «unci»: N has the words in the margin. L02, L04, L05 and L19: «elaug», «tadil», «elwacat», «elbuht» in italics.
+@obs N09: note 18 has no lemma; it gives what C writes above «praecesserit». N06: a speck above the o of «om.»; not transcribed. N01, N03, N07, N18, N20: «C O», «C O N», «O N», the sigla with a space between them.
+@obs The semicolons of the text and the apparatus stand after the thin space of the edition (9-13 px measured).
+@critical AK07-CN040 | wrong punctuation | N11 | quoque] C. om. O. | quoque] C, om. O. | the readings within a note are divided by commas, «aut] C, om. O.» (N12); after the siglum C a full stop is printed before «om.» | high | none

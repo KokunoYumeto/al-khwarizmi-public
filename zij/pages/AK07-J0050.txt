@@ -1,0 +1,56 @@
+@page 50 18
+@lang la
+% JP2 0050: the Latin text, p. 18: the end of chapter 23 (the reason of the sines in Ptolemy's Almagest); chapter 24,
+% the latitude of a place from the meridian altitude of the sun and from the altitude of the pole; chapter 25, the
+% ascensions of the signs in the right sphere, begins; with the apparatus (notes 1-27).
+tota mentis intentione amplectatur. Hinc etenim tam examinationis{sup:1}) additio et
+subtractio quam argumentorum introductio, sed et ipsa locorum inventio ratione
+subnixa{sup:2}) est. Si quis autem in quaestionem duxerit, quare argumentis talibus talia
+{i:elgeib}{sup:3}) ascribantur atque e converso, sciat huius rationis causam ab {i:elmagesti}
+{sp:Ptolomaei} petendam{sup:4}) esse.
+@ml C 72{sup:v}, O 130{sup:r}
+@c {b:Cap. 24. De latitudine cuiuslibet habitationis invenienda.}
+@p Hactenus de argumentis atque{sup:5}) elgeib quae eis accedunt{sup:6}) scriptum{sup:7}) sit.
+Nunc vero consequens esse videtur, ut quomodo singularum regionum latitudo, id
+est spatium quod est inter eos et {i:Arin}{sup:8}), reperiri queat edisseratur.
+@p Sole itaque in primo gradu arietis{sup:9}) vel librae existente, eius {i:artifa}{sup:10}), id est
+altitudo, quam maxima in meridie loci praesentis esse potest{sup:11}), a nonaginta gradi-
+bus{sup:12}) subtrahatur, residuumque praesentis loci latitudinem esse necesse est{sup:13}).
+Quod si sol quidem in alio signo fuerit, erit eius {i:artifa} meridianum, subtracta sibi
+solis{sup:14}) ipsius obliquatione, si fuerit illa {i:shemeli}, addita vero si fuerit {i:genubi}{sup:15}), a
+nonaginta minuendum ; huius ergo{sup:16}) diminutionis reliquum latitudinem loci prae-
+sentis ostenderet{sup:17}).
+@p Amplius per {i:elmahwar}, id est polum, idem approbatur. Notabitur enim per
+astrolabium quanta sit in loco praesenti poli altitudo, tantum enim{sup:18}) eiusdem loci
+latitudinem esse necesse est.
+@p Et poli quidem altitudo sic habebitur. Quaelibet enim stella earum dico, quae
+occasum nesciunt, notanda erit, eiusdemque{sup:19}) {i:elmuhit}, id est circumferentia, per
+ipsius altitudinem maximam et minimam rimanda{sup:20}). Sic ergo diametro habita{sup:21})
+eiusdem centrum polum esse palam erit{sup:22}).
+@c {b:Cap. 25. Horoscopi signorum iuxta elfelek elmustakim{sup:23}).}
+@p Hoc in loco ammonendus{sup:24}) est lector, ut quoniam sunt regiones plures, quae
+latitudine carent, innumerae{sup:25}) vero quae eam{sup:26}) habent, quomodo sese{sup:27}) habeat
+@n {sup:1}) examinationis] CO, coaequationis N. — {sup:2}) subnixa] ON, subiecta C. — {sup:3}) talia elgeib] CO, tales
+@n arcus N. — {sup:4}) petendam] CO, praetendam (?) N. — {sup:5}) atque] C, et O. — {sup:6}) accedunt] C, attinent O. —
+@n {sup:7}) scriptum] O, scriptam C. — {sup:8}) id . . . . Arin] C, {i:om.} O. — {sup:9}) arietis] in raz elhamel C. {i:suprascr.} —
+@n {sup:10}) artifa] O, {i:corr. ex} artifica C ; per umbram autem artifa sumetur, {i:addid. O in marg.} — {sup:11}) potest]
+@n C, potest consideretur, ipsaque eadem O. — {sup:12}) gradibus] C, {i:om.} O. — {sup:13}) praesentis . . . . est] C, latitudo
+@n loci praesentis esse cognoscitur, conversimque ex latitudine artifa habetur O. — {sup:14}) solis] sol C. — {sup:15}) erit
+@n . . . . genubi] C, et shemeli notandum item ipsius artifa in meridie quantum esse possit ; deinde introdu-
+@n cente loco solis in semitam obliquationis eius intrandum, atque ipsa obliquatio altitudini praenotatae
+@n subtrahenda ; si vero genubi, idem eidem addendum ; quod autem inde procedet O. — {sup:16}) huius ergo] C,
+@n ipsumque huius O. — {sup:17}) ostenderet] C, ostendet O. — {sup:18}) tantum enim] C, tantamque O. — {sup:19}) eius-
+@n demque] C, eiusque O. — {sup:20}) elmuhit . . . . rimanda] O, artifa maximum et minimum elmult id est cir-
+@n cumferentiam per ipsius altitudinem rimanda C, {i:sed verba} elmult . . . . rimanda {i:in rasura vel annula-}
+@n {i:tione C habet.} — {sup:21}) habita] C, habita {i:corr. ex} habito O. — {sup:22}) polum . . . . erit] C, polus esse cognos-
+@n ceretur O. {i:Addid. in marg.} O : Nota : Artifa et latitudinem climatis et umbram paria constancia, longi-
+@n tudinem vero solis eclypsi argui (?) G. (?) autem longitudo a circumferentia orientali vel occidentali us-
+@n que ad locum, latitudo vero ad locum usque ab Arin, id est centro sperae terrae. — {sup:23}) elfelek elmu-
+@n stakim] O, rotam directam, id est matale elburug bilfelek elmustakim C ; {i:supra} rotam directam {i:scrips.}
+@n C : id est circulum aequinoctialem. — {sup:24}) ammonendus] C, admonendus O. — {sup:25}) innumerae] C, innu-
+@n merabiles O. — {sup:26}) eam] C, eandem O. — {sup:27}) sese] C, se O.
+@obs The page number «18» stands at the head of the page, centred, with a rule below it. L01-L05 end chapter 23 (p. 17, JP2 0049). L06: the heading of chapter 24, in bold, centred, with «C 72v, O 130r» in the left margin. L24: the heading of chapter 25, in bold, centred; no folio stands beside it.
+@obs L07: «elgeib» is printed in roman type, where the text has it in italics elsewhere (L04, and on p. 17); transcribed as printed. L05: «Ptolomaei» is letter-spaced; L10 and L13 «artifa», the altitude (al-irtifāʿ), L17 «elmahwar», the pole (al-miḥwar), L21 «elmuhit», the circumference (al-muḥīṭ), in italics. L24: «elfelek elmustakim», the right sphere (al-falak al-mustaqīm).
+@obs L10-L16: the latitude of a place is ninety degrees less the meridian altitude of the sun at an equinox; at another time the declination of the sun is first taken from the meridian altitude when it is northern and added when it is southern. L17-L23: the latitude is equal to the altitude of the pole, which is the centre of the circle that a circumpolar star describes, found from its greatest and least altitudes.
+@obs N03: «in raz elhamel C. {i:suprascr.}», with a full stop after the siglum before «suprascr.», where p. 16 has «C suprascr.» without it; the h of «elhamel» is printed with a thin arch. N12-N13: «sed verba … in rasura vel annulatione C habet» in italics, the words of C between them in roman.
+@obs The colons and semicolons of the text and of the apparatus stand after the thin space of the edition (8-12 px measured). Marks not transcribed: a speck in the right margin beside the last line of the notes.

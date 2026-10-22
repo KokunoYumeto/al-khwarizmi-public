@@ -1,0 +1,56 @@
+@page 224 192
+@lang la
+% JP2 0224: Tab. 77a, p. 192: the parallaxes of the moon continued: the parallax in longitude, in time, for 61° to
+% 150° and the parallax in latitude for 61° to 90°, with the apparatus (notes 1-5 and a-g) and a marginal addition in N.
+@ml C 86{sup:r}, O 142{sup:v},
+@c {b:Tabula diversitatis respectuum lunae in hora} (CON)
+@ml N 48{sup:v}.
+@c {b:Tabula diversitatum elmandhar lunae in hora} (CO){sup:1})
+@tw size=footnotesize span=1.0 0.75 0.55 0.6 0.6 0.65 0.6 0.75 0.55 0.6 0.6 0.75 0.55 0.6 0.6
+@t Semita{sup:2}) | Horae diversitatis |  |  | Diversitas |  | Semita{sup:2}) | Longitudo et Latitudo{sup:5}) |  |  |  |  |  |
+@t numeri | respectuum lunae |  |  | respectuum{sup:4}) |  | numeri | Horae diversitatis |  |  | Semita{sup:2}) | Horae diversitatis |  |
+@t  | [in longitudine] |  |  | in latitudine |  |  | respectuum lunae |  |  | numeri | respectuum lunae |  |
+@t {b:Gr.}{sup:3}) | {b:Hor.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Gr.}{sup:3}) | {b:Hor.} | {b:Min.} | {b:Sec.} | {b:Gr.}{sup:3}) | {b:Hor.} | {b:Min.} | {b:Sec.}
+@t 61 | 1 | 35 | 37 | 42 | 36 | 91 | 1 | 28 | 16 | 121 | 1 | 5 | 4
+@t 62 | 1 | 35 | 45 | 42 | 59 | 92 | 1 | 27 | 41 | 122 | 1 | 4 | 7
+@t 63 | 1 | 35 | 51 | 43 | 21 | 93 | 1 | 27 | 6 | 123 | 1 | 3 | 10
+@t 64 | 1 | 35 | 55 | 43 | 44 | 94 | 1 | 26 | 31 | 124 | 1 | 2 | 13{sup:f})
+@t 65 | 1 | 35 | 58 | 44 | 7 | 95 | 1 | 25 | 55 | 125 | 1 | 1 | 17
+@t 66 | 1 | 36{sup:a}) | 0 | 44 | 27 | 96 | 1 | 25 | 18 | 126 | 1 | 0 | 18
+@t 67 | 1 | 35 | 58 | 44 | 48 | 97 | 1 | 24 | 39 | 127 | 0 | 59 | 19
+@t 68 | 1 | 35 | 55 | 45 | 8 | 98 | 1 | 23 | 59 | 128 | 0 | 58 | 19
+@t 69 | 1 | 35 | 51 | 45 | 28 | 99 | 1 | 23 | 17 | 129 | 0 | 57 | 19
+@t 70 | 1 | 35 | 45 | 45 | 49 | 100 | 1 | 22 | 34 | 130 | 0 | 56 | 19
+@t 71 | 1 | 35 | 38 | 46 | 4 | 101 | 1 | 21 | 50 | 131 | 0 | 55 | 18
+@t 72 | 1 | 35 | 29 | 46 | 19 | 102 | 1 | 21 | 6 | 132 | 0 | 54 | 16
+@t 73 | 1 | 35 | 19 | 46 | 35 | 103 | 1 | 20 | 22 | 133 | 0 | 53 | 14
+@t 74 | 1 | 35 | 7 | 46 | 50 | 104{sup:c}) | 1 | 19 | 38 | 134 | 0 | 52 | 12
+@t 75 | 1 | 34 | 53 | 47 | 5 | 105 | 1 | 18 | 53 | 135 | 0 | 51 | 10
+@t 76 | 1 | 34 | 38 | 47 | 15 | 106 | 1 | 18 | 7 | 136 | 0 | 50 | 7
+@t 77 | 1 | 34 | 22 | 47 | 27 | 107 | 1 | 17 | 20 | 137 | 0 | 49 | 3
+@t 78 | 1 | 34 | 4 | 47 | 38 | 108{sup:d}) | 1 | 16 | 32 | 138 | 0 | 47 | 59
+@t 79 | 1 | 33 | 44 | 47{sup:b}) | 50 | 109{sup:e}) | 1 | 15 | 43 | 139 | 0 | 46 | 55
+@t 80 | 1 | 33 | 23 | 48 | 1 | 110 | 1 | 14 | 54 | 140 | 0 | 45 | 51
+@t 81 | 1 | 33 | 1 | 48 | 7 | 111 | 1 | 14 | 3 | 141 | 0 | 44 | 46
+@t 82 | 1 | 32 | 38 | 48 | 14 | 112 | 1 | 13 | 11 | 142 | 0 | 43 | 41
+@t 83 | 1 | 32 | 14 | 48 | 21 | 113 | 1 | 12 | 20 | 143 | 0 | 42 | 36
+@t 84 | 1 | 31 | 49 | 48 | 27 | 114 | 1 | 11 | 28 | 144 | 0 | 41 | 30
+@t 85 | 1 | 31 | 24 | 48 | 34 | 115 | 1 | 10 | 36 | 145 | 0 | 40 | 24
+@t 86 | 1 | 30 | 56 | 48 | 36 | 116 | 1 | 9 | 43 | 146 | 0 | 39 | 18
+@t 87 | 1 | 30 | 27 | 48 | 38 | 117 | 1 | 8 | 49 | 147 | 0 | 38 | 12{sup:g})
+@t 88 | 1 | 29 | 55 | 48 | 41 | 118 | 1 | 7 | 54 | 148 | 0 | 37 | 5
+@t 89 | 1 | 29 | 25 | 48 | 43 | 119 | 1 | 6 | 58 | 149 | 0 | 35 | 58
+@t 90 | 1 | 28 | 51 | 48 | 45 | 120 | 1 | 6 | 1 | 150 | 0 | 34 | 51
+@n {sup:1}) {i:De his titul. vide notas tab. praeced.} — {sup:2}) Semita] C, Semitae O, Linea N — {sup:3}) Gr.] {i:om.} CO —
+@n {sup:4}) respectuum] N, respectus CO — {sup:5}) Longitudo et Latitudo] ON, {i:om.} C.
+@n {sup:a}) 36] O, 35 C — {sup:b}) 47] 48 CO — {sup:c}) 104] C, 100 {i:corr. ex} 105 O — {sup:d}) 108] C, {i:ras.} O — {sup:e}) 109]
+@n C, 100 {i:corr. ex?} O — {sup:f}) 13] ON, {i:corr. ex} 14 C — {sup:g}) 12] 52 CO.
+@n {i:Addid. N in marg. sec. man.:} Maxima diversitas aspectus lunae in latitudine cum fuerit sol (?) in
+@n longitudine propiori brevis circuli est gradus et XXVII min.
+@obs The page number «192» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 77a», in bold sans serif, underlined. The page has no signature. The titles (L01-L02), those of p. 191 (JP2 0223) without its notes 1-3, in bold, the sigla in roman, the second followed by note 1, which refers to the notes on the titles of the preceding table. The folios of the manuscripts stand at the left of the titles in two lines, «C 86r, O 142v,» and «N 48v.», the letters raised; here as left margin notes.
+@obs The table: fourteen columns, divided by double vertical rules into three groups: «Semita2) numeri», printed upwards, over «Gr.3)», «Horae diversitatis respectuum lunae [in longitudine]», the square brackets as printed, over «Hor.», «Min.», «Sec.», and «Diversitas respectuum4) in latitudine» over «Min.», «Sec.»; «Semita2) numeri» over «Gr.3)»; and, under «Longitudo et Latitudo5)», «Horae diversitatis respectuum lunae» over «Hor.», «Min.», «Sec.», «Semita2) numeri», printed upwards, over «Gr.3)», and «Horae diversitatis respectuum lunae» over «Hor.», «Min.», «Sec.»; the units in smaller bold type. Here each head is set from the top, one printed line to a line (L03-L06), «Semita numeri» divided over two lines; the cells separated by our «|»; a head followed by empty cells spans their columns. In L27 the 6 of «46», the seconds at 141°, is printed broken.
+@obs L07-L36. The argument continues p. 191: 61° to 90° with the parallaxes in longitude and in latitude, and 91° to 150° with the parallax in longitude only, the zenith distance not exceeding 90°. Checked: the times agree within 4s with t = 1h 36m · sin(x + 15° · t) of p. 191 in every row, with the readings of notes a, f and g; they reach their greatest value, 1h 36m 0s, at 66° (L12), where x + 15° · t = 66° + 24° = 90°, and fall to 0h 34m 51s at 150°. Suter's example, the hour angle 79° 33′ (p. 93, JP2 0125, L24-L26), gives by interpolation between 79° and 80° (L25-L26) 1h 33m 32s, his «c. 1h 33½m».
+@obs L07-L36, continued. Checked: the parallax in latitude rises to 48′ 45″ at 90°. At the fifth degrees it is 48′ 45″ · sin x within 1″ except at 65°, 44′ 7″ for 44′ 11″; between them the values are interpolated linearly, as on p. 191, the steps nearly constant within each group of five degrees, 22″ or 23″ from 60° to 65°, 20″ or 21″, 15″ or 16″, 10″ to 12″, 6″ or 7″, and 2″ or 3″ from 85° to 90°, so that they lie up to 5″ below the sine.
+@obs Notes on the readings. Checked: the edition's readings follow the laws above at 66° (note a: O's 1h 36m 0s against C's 35, 1h 36m 0.0s computed), at 79° (note b: 47′ 50″ against the 48 of C and O; 47′ 51″ by the sine, 47′ 49.8″ by the interpolation between 75° and 80°), at 124° (note f: the 13 of O and N against C's 14, corrected; 1h 2m 15.8s computed) and at 147° (note g: 0h 38m 12s against the 52 of C and O; 0h 38m 12.1s computed). The arguments 104, 108 and 109 (notes c, d and e) are C's, where O has 100 corrected from 105, an erasure, and 100 corrected from an uncertain reading.
+@obs Notes 1-5 and N05-N06: note 1, «De his titul. vide notas tab. praeced.», in italics, the e after «pra» printed broken; O's «Semitae» and N's «Linea» for «Semita»; C and O omit the unit «Gr.»; «respectus» (C and O) for «respectuum»; C omits «Longitudo et Latitudo». The marginal addition in N by a second hand, «Addid. N in marg. sec. man.:», the words of the editor in italics: «Maxima diversitas aspectus lunae in latitudine cum fuerit sol (?) in longitudine propiori brevis circuli est gradus et XXVII min.», the greatest parallax of the moon in latitude when it is at the nearer distance of the small circle, the epicycle, one degree and twenty-seven minutes; «sol (?)» with the question mark of the edition. Italics: «om.», «corr. ex», «corr. ex?», «ras.».
+@obs In the additions, p. 236 (JP2 0268, L23-L27), Suter calls the head «Longitudo et Latitudo» misleading: the columns under it give for the arguments 91 to 150 only parallaxes in longitude.

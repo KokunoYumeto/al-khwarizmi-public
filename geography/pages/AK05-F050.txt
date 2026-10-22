@@ -1,0 +1,38 @@
+@page 50 ٤٤
+@cols 22,50,82
+@align r,c,r
+% Frame 050, printed p. 44: the right-hand page of the opening pp. 44-45 of the table of the mountains: the numbers and
+% names of eighteen mountains of the second clime, entries 623/624-657/658, most of them the word «جبل» alone; the
+% mountain of the city of Armūra, the mountain of Kirmān, سودٮڡس, نبطعں and Adāshīrūn; the folio of the manuscript,
+% «(fol. 12ᵇ)», in the margin. Two lines of the editor's footnotes, continued from the foot of p. 45.
+@r (٦٢٣ ٦٢٤) | [١١١٣ ١١١٤] | جبل
+@r (٦٢٥ ٦٢٦) | [١١٢٣ ١١٢٤] | جبل
+@r (٦٢٧ ٦٢٨) | [١١٢٥ ١١٢٦] | جبل
+@r (٦٢٩ ٦٣٠) | [١١٢٧ ١١٢٨] | جبل
+@r (٦٣١ ٦٣٢) | [١١٢٩ ١١٣٠] | جبل
+@r (٦٣٣ ٦٣٤) | [١١٣١ ١١٣٢] | جبل
+@r (٦٣٥ ٦٣٦) | [١١٣٣ ١١٣٤] | جبل
+@r (٦٣٧ ٦٣٨) | [١١٣٥ ١١٣٦] | جبل
+@r (٦٣٩ ٦٤٠) | [١١٣٧ ١١٣٨] | جبل
+@r (٦٤١ ٦٤٢) | [١١٣٩ ١١٤٠] | جبل
+@r (٦٤٣ ٦٤٤) | [١١٤١ ١١٤٢] | جبل
+@m (fol. 12ᵇ)
+@r (٦٤٥ ٦٤٦) | [١١٤٣ ١١٤٤] | جبل مدينة ارموره
+@r (٦٤٧ ٦٤٨) | [١١٤٥ ١١٤٦] | جبل كرمان
+@r (٦٤٩ ٦٥٠) | [١١٤٧ ١١٤٨] | جبل
+@r (٦٥١ ٦٥٢) | [١١٤٩ ١١٥٠] | جبل
+@r (٦٥٣ ٦٥٤) | [١١١٥ ١١١٦] | جبل سودٮڡس
+@r (٦٥٥ ٦٥٦) | [١١١٧ ١١١٨] | جبل نبطعں{n:f}
+@r (٦٥٧ ٦٥٨) | [١١١٩ ١١٢٠] | جبل اداشيرون{n:g}
+@ednotes f g 2
+@obs The table of the mountains of the second clime goes on across the opening pp. 44-45, without a heading: each line of p. 44 is continued by the same line of p. 45 (frame 051), which gives the boundaries, the colour and the direction. The running numbers go on from entry 621/622 (frame 048) and run (٦٢٣ ٦٢٤)-(٦٥٧ ٦٥٨). The numbers of Suhrāb are [١١١٣ ١١١٤] (L01), [١١٢٣ ١١٢٤]-[١١٤٩ ١١٥٠] (L02-L15) and [١١١٥ ١١١٦]-[١١١٩ ١١٢٠] (L16-L18), the last three filling the gap after L01; [١١٢١ ١١٢٢] does not appear on the page.
+@obs L01-L11, L14, L15: the name is the word «جبل» alone. L12: «جبل مدينة ارموره», the mountain of the city of Armūra, with the dots of «مدينة»; the folio of the Strasbourg manuscript, «(fol. 12ᵇ)», is printed in Latin type in the right margin beside it. L13: «جبل كرمان», the mountain of Kirmān: after the ر, the initial م is a small filled loop on the line, 18 by 18 px, its foot 4 px from the foot of the alif.
+@obs L16: «سودٮڡس»: after «سود», an upright 20 px high without a dot, the first stroke after the د, which does not join; then an upright loop with a small counter in its lower part, 14 px wide and 20 px high with its neck, without dots, joined on the line; and a final س, three teeth of 8 to 9 px and the bowl. The loop has the form of the loop of ف or ق in «يقال» (frame 046, L13) and in «الڡس» (frame 046, L05), upright and rounded, where the medial ع of «العرض» (frame 049, L02) is wider than high (20 by 12 px) with its counter in the upper part. Transcribed ڡ.
+@unres L16: the loop after the tooth, without dots, is read as the loop of ف or ق by its form; it may also be read as a medial ع, which has no dots either, سودٮعس. Transcribed سودٮڡس.
+@obs L17: «نبطعں»: a tooth 19 px high with the dot of the ن above it; a short tooth, 4 px high, with the dot of the ب below it; the ط; then a loop on the line, 22 px wide and 11 px high, without dots, of the form of the medial ع of «العرض» (frame 049, L02); and a final bowl, 37 px wide and 30 px deep, without a dot, whose right side descends from the line without rising above it. The bowl has the depth of the bowl of a final ن (frame 046, L04, «غادبطن»), where the final ى of the word in the editor's note f, «ٮٮطعى», is wider and shallower (48 by 25 px) and turns back under the letter before it, as the ى of «فى» (frame 046, L13). Transcribed نبطعں; the note mark f follows. The editor's corrigenda (p. 163, frame 169) correct the note to «ٮٮطعں».
+@unres L17: the last letter, a bowl without a dot and without the rising horn of a final ن, may also be read ى, as in the form of note f; transcribed ں.
+@obs L18: «اداشيرون», the ش with its three dots, the ي with its two and the ن with its dot; the note mark g follows.
+@obs The editor's footnotes of the opening begin at the foot of p. 45 (frame 051) with notes a-e, on numerals of p. 45, and continue here in two lines with notes f and g, whose marks stand on this page (L17, L18). The note marks follow the order of the rows across the opening.
+@obs The page number «— ٤٤ —» stands at the foot, centred.
+@variant L17: at entries (1762), (1764) and (1766) the name is written ٮٮطعں, without dots (note f, which prints ٮٮطعى, corrected in the editor's corrigenda (p. 163, frame 169)).
+@variant L18: at entry (1768) the name is written اداسرون, with the variant reading اراسرون (note g).

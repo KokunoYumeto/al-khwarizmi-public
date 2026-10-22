@@ -1,0 +1,25 @@
+{
+ "anchor": "AK05-F205",
+ "frame": 205,
+ "frame_file": "page_205.jpg",
+ "frame_sha256": "7cf104bd4008f828278b10b68fa7c6760feb191a24124e36b289115bd77d4113",
+ "printed_page": "VIII",
+ "kind": "editorial",
+ "role": "MODERN_EDITORIAL (not reproduced)",
+ "comment": "Frame 205, printed p. VIII: the editor's introduction continued, in German.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [
+  "the editor's introduction, p. VIII, in German: 30 printed lines, with running numbers and two names in Arabic type"
+ ],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Topics of the page, with the entries and notes that it cites (the introduction is read for understanding and not reproduced or paraphrased): the use of S where the manuscript lacks a passage, with points (١٠٩٧/١)-(١٠٩٧/٢) (frame 078), p. 82, note d (frame 088), points (١٧٢٣)-(١٧٢٤) (frame 120) and (٢١٨٥/١)-(٢١٨٥) (frame 150).",
+  "The introduction, pp. V-XXXI, is bound in the reverse order of its pages, from p. XXXI (frame 182) to p. V (frame 208); the frames keep the physical order, and the introduction is read from frame 208 back to frame 182. This page follows p. VII (frame 206); p. IX follows on frame 204.",
+  "The page number «— VIII —» stands at the foot, centred. The page has no footnotes."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

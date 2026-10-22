@@ -1,0 +1,24 @@
+@page 10 ٩
+% PDF 10, printed p. 9: the end of the statement of the base of days and the revolutions of the sun and the moon (de
+% Blois's section 8); the section on the conjunction and the opposition: the months, days, hours and parts elapsed since
+% the conjunction (section 9); the explicit.
+وسبعون الفا وثلثمائة واحد وخمسون دور الشمس ثمانية وتسعون
+الف واربعمائة وستة وتسعون ـ دور القمر الف الف وستة
+عشر الف وسبع مائة وستة وثلثون •
+@h معرفة الاجتماع والاستقبال
+@p فان اردت معرفة اجتماع الشمس والقمر وهو رأس
+شهر بنى اسرائيل فلتضرب الاصل الصغير فى خمسة وعشرين الفا
+وتسعمائة وعشرين فما بلغ فاقسمه على سبع مائة وخمسة وستين
+يوما اربعمائة وثلثة وثلثين فما خرج فشهور مضت من اول المحزور
+الى الشهر الذى انت فيه وما بقى فاقسمه على خمسة وعشرين الفا
+وتسع مأية وعشرين فما خرج فايام وما بقى فاقسمه على الف وثمانين
+فما خرج فساعات فما خرج من الايام والساعات واجزاء الساعة
+فهو ما مضى من شهرك من الاجتماع ان شاء الله •
+@c تم تاريخ اليهود عن محمد بن موسى الخوارزمى
+@c والحمد لله رب العالمين وصلوته على نبيه محمد وآله
+@obs The running head «استخراج تاريخ اليهود للخوارزمى» stands at the head of the page, the page number «٩» at its left; recorded here, not transcribed as a line. L01 continues the catchword «وسبعون» of p. 8 (PDF 9). L03 and L12 are short lines ending with the edition's full stop (•); L04 is a heading in a larger type, centred; L05 begins with a paragraph indent; L13 and L14, the explicit, are centred. Below L14 the rest of the page is blank; at the foot, centred, «(١)», with no mark in the text that refers to it, as at the foot of p. 4 (PDF 5); recorded here, not transcribed as a line. L04: under the line between «و» and «الاستقبال» a dot of 10 x 7 px that belongs to no letter; not transcribed.
+@obs Read as printed: L01 «وثلثمائة واحد وخمسون», without و before واحد; L02 «واربعمائة»; L03 «وسبع مائة», «وثلثون»; L08 «يوما», the first letter with two dots below; L10 «وتسع مأية» with the hamza on the alif; L14 «والحمد لله», set with the ligature of لله, and «وصلوته» with و for the alif.
+@obs Checked: the base of days of p. 8 (PDF 9) L19 and L01 here, 35,975,351 days, is 5184 nineteen-year cycles of 6939d 16h 595p: 5184 x 6939 days + 5184 x 16 hours (3456 days) + 5184 x 595 parts (119 days) = 35,975,351 days, the least number of cycles that makes whole days (16h 595p = 17875 parts, and 25920 / 5 = 5184). The revolutions of the sun of L01-L02, 98,496, are the years of these cycles (5184 x 19), and 35,975,351 / 98,496 = 365.24682 days, the solar year of p. 7 (PDF 8) L11-L12. The cycles hold 5184 x 235 = 1,218,240 months, and 35,975,351 / 1,218,240 = 29.530594 days, the month of 29d 12h 793p. L06-L11: 25,920 is the number of parts in a day (24 x 1080) and 1080 the number in an hour, as de Blois describes this section (calendar/checks/constants.py).
+@copy At the lower left, outside the printed page, the stamp «To: www.al-mostafa.com» in Latin type, added to this digital copy of the print; not part of the edition.
+@critical AK15-CN025 | missing words | L02 | الف الف وستة عشر الف | الف الف وثلثمائة وستة عشر الف | the revolutions of the moon in the base of days are the months of the 5184 cycles together with the revolutions of the sun: 1,218,240 + 98,496 = 1,316,736, and 35,975,351 / 1,316,736 = 27.3216 days, the period of the moon's revolution; the print gives 1,016,736, 300,000 less (calendar/checks/constants.py) | high | the mean motion of the moon by the procedure of p. 8 (PDF 9)
+@critical AK15-CN026 | wrong word | L08 | سبع مائة وخمسة وستين يوما اربعمائة وثلثة وثلثين | سبع مائة وخمسة وستين الفا واربعمائة وثلثة وثلثين | the product of the small base (days) and 25,920 (parts in a day, L06-L07) is divided by the number of parts in a lunar month, 29 x 25,920 + 12 x 1080 + 793 = 765,433 (calendar/checks/constants.py), to give the months elapsed of the cycle, as de Blois describes this section; «يوما», «days», stands where the number needs «الفا», «thousand» | high | the number of parts in the month

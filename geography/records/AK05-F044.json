@@ -1,0 +1,274 @@
+{
+ "anchor": "AK05-F044",
+ "frame": 44,
+ "frame_file": "page_044.jpg",
+ "frame_sha256": "21118de20857c102546cf836205acba81ac3fa0da4afc7d99676a1730afab2c7",
+ "printed_page": "٣٨",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 044, printed p. 38: the right-hand page of the opening pp. 38-39 that begins the table of the mountains. The heading of the mountains beyond the equator, the heads of the number columns, and the numbers and names of eleven mountains, entries 540/541-560/561: Lūraḥas, ٮانقلوس, Ḥasfāris, Anīsaqī, the mountain الهه partly in the first clime and partly beyond the equator, Bārdīṭūn, the Mountain of the Moon from which the Nile of Egypt goes out, a mountain from beyond the equator into the first clime, al-Fīliyā, the mountain علدس, and, under the heading of the mountains of the first clime, Fāqis; the folio of the manuscript, «(fol. 11ᵃ)», in the margin. One line of the editor's footnotes, continued from the foot of p. 39.",
+ "lines": [
+  {
+   "id": "AK05-F044-L01",
+   "n": 1,
+   "kind": "heading",
+   "text": "* الجبال الّتى خلف",
+   "margin": null,
+   "cells": null,
+   "plain": "* الجبال الّتى خلف",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F044-L02",
+   "n": 2,
+   "kind": "head",
+   "text": "(عدد الحدّ الأوّل) (عدد الحدّ الآخر) | [عدد الحدّ الأوّل] [عدد الحدّ الآخر] | الاسماء",
+   "margin": null,
+   "cells": [
+    "(عدد الحدّ الأوّل) (عدد الحدّ الآخر)",
+    "[عدد الحدّ الأوّل] [عدد الحدّ الآخر]",
+    "الاسماء"
+   ],
+   "plain": "(عدد الحدّ الأوّل) (عدد الحدّ الآخر) | [عدد الحدّ الأوّل] [عدد الحدّ الآخر] | الاسماء",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F044-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٥٤٠ ٥٤١) | [١٠٣٩ ١٠٤٠] | جبل لورحس",
+   "margin": null,
+   "cells": [
+    "(٥٤٠ ٥٤١)",
+    "[١٠٣٩ ١٠٤٠]",
+    "جبل لورحس"
+   ],
+   "plain": "(٥٤٠ ٥٤١) | [١٠٣٩ ١٠٤٠] | جبل لورحس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F044-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٥٤٢ ٥٤٣) | [١٠٤١ ١٠٤٢] | جبل ٮانقلوس",
+   "margin": null,
+   "cells": [
+    "(٥٤٢ ٥٤٣)",
+    "[١٠٤١ ١٠٤٢]",
+    "جبل ٮانقلوس"
+   ],
+   "plain": "(٥٤٢ ٥٤٣) | [١٠٤١ ١٠٤٢] | جبل ٮانقلوس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F044-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٥٤٤ ٥٤٥) | [١٠٤٣ ١٠٤٤] | جبل حسفارس",
+   "margin": null,
+   "cells": [
+    "(٥٤٤ ٥٤٥)",
+    "[١٠٤٣ ١٠٤٤]",
+    "جبل حسفارس"
+   ],
+   "plain": "(٥٤٤ ٥٤٥) | [١٠٤٣ ١٠٤٤] | جبل حسفارس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F044-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٥٤٦ ٥٤٧) | [١٠٤٥ ١٠٤٦] | جبل انيسقى",
+   "margin": null,
+   "cells": [
+    "(٥٤٦ ٥٤٧)",
+    "[١٠٤٥ ١٠٤٦]",
+    "جبل انيسقى"
+   ],
+   "plain": "(٥٤٦ ٥٤٧) | [١٠٤٥ ١٠٤٦] | جبل انيسقى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F044-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٥٤٨ ٥٤٩) | [١٠٤٧ ١٠٤٨] | جبل الهه{n:b} بعضه فى الإقليم الأوّل وبعضه خلف خطّ الاستواء",
+   "margin": null,
+   "cells": [
+    "(٥٤٨ ٥٤٩)",
+    "[١٠٤٧ ١٠٤٨]",
+    "جبل الهه{n:b} بعضه فى الإقليم الأوّل وبعضه خلف خطّ الاستواء"
+   ],
+   "plain": "(٥٤٨ ٥٤٩) | [١٠٤٧ ١٠٤٨] | جبل الهه بعضه فى الإقليم الأوّل وبعضه خلف خطّ الاستواء",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F044-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٥٥٠ ٥٥١) | [١٠٤٩ ١٠٥٠] | جبل بارديطون",
+   "margin": null,
+   "cells": [
+    "(٥٥٠ ٥٥١)",
+    "[١٠٤٩ ١٠٥٠]",
+    "جبل بارديطون"
+   ],
+   "plain": "(٥٥٠ ٥٥١) | [١٠٤٩ ١٠٥٠] | جبل بارديطون",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F044-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٥٥٢ ٥٥٣) | [١٠٥١ ١٠٥٢] | جبل القمر ومنه مخرج نيل مصر",
+   "margin": null,
+   "cells": [
+    "(٥٥٢ ٥٥٣)",
+    "[١٠٥١ ١٠٥٢]",
+    "جبل القمر ومنه مخرج نيل مصر"
+   ],
+   "plain": "(٥٥٢ ٥٥٣) | [١٠٥١ ١٠٥٢] | جبل القمر ومنه مخرج نيل مصر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F044-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٥٥٤ ٥٥٥) | [١٠٥٣ ١٠٥٤] | جبل اوّله خلف الاستواء وآخره فى الإقليم الأوّل",
+   "margin": null,
+   "cells": [
+    "(٥٥٤ ٥٥٥)",
+    "[١٠٥٣ ١٠٥٤]",
+    "جبل اوّله خلف الاستواء وآخره فى الإقليم الأوّل"
+   ],
+   "plain": "(٥٥٤ ٥٥٥) | [١٠٥٣ ١٠٥٤] | جبل اوّله خلف الاستواء وآخره فى الإقليم الأوّل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F044-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٥٥٦ ٥٥٧) | [١٠٥٥ ١٠٥٦] | جبل الفيليا",
+   "margin": null,
+   "cells": [
+    "(٥٥٦ ٥٥٧)",
+    "[١٠٥٥ ١٠٥٦]",
+    "جبل الفيليا"
+   ],
+   "plain": "(٥٥٦ ٥٥٧) | [١٠٥٥ ١٠٥٦] | جبل الفيليا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F044-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٥٥٨ ٥٥٩) | [١٠٥٧ ١٠٥٨] | جبل علدس اوّله خلف الاستواء وآخره فى الإقليم الأوّل",
+   "margin": null,
+   "cells": [
+    "(٥٥٨ ٥٥٩)",
+    "[١٠٥٧ ١٠٥٨]",
+    "جبل علدس اوّله خلف الاستواء وآخره فى الإقليم الأوّل"
+   ],
+   "plain": "(٥٥٨ ٥٥٩) | [١٠٥٧ ١٠٥٨] | جبل علدس اوّله خلف الاستواء وآخره فى الإقليم الأوّل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F044-L13",
+   "n": 13,
+   "kind": "heading",
+   "text": "* الإقليم الأوّل",
+   "margin": "(fol. 11ᵃ)",
+   "cells": null,
+   "plain": "* الإقليم الأوّل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F044-L14",
+   "n": 14,
+   "kind": "heading",
+   "text": "* الجبال الّتى فى",
+   "margin": null,
+   "cells": null,
+   "plain": "* الجبال الّتى فى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F044-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٥٦٠ ٥٦١) | [١٠٥٩ ١٠٦٠] | جبل فاقس{n:d}",
+   "margin": null,
+   "cells": [
+    "(٥٦٠ ٥٦١)",
+    "[١٠٥٩ ١٠٦٠]",
+    "جبل فاقس{n:d}"
+   ],
+   "plain": "(٥٦٠ ٥٦١) | [١٠٥٩ ١٠٦٠] | جبل فاقس",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "c",
+    "d"
+   ],
+   "lines": 1,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L07: at entry (1604) the name is written ألهه, with a hamza over the alif (note b, printed at the foot of p. 39).",
+  "L15: at entry (1662) the name is written قاقس."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table of the mountains is set across the opening of pp. 38-39: each line of p. 38 is continued by the same line of p. 39 (frame 045). P. 38 holds the numbers and the names; p. 39 the longitude and latitude of the first and of the last boundary of each mountain, its colour and a direction. The headings run across the opening in the same way: L01, «* الجبال الّتى خلف», is continued on p. 39 by «خطّ الاستواء *», the mountains beyond the equator; L13, «* الإقليم الأوّل», by «وعرضه ٮو *», the first clime and its latitude; and L14, «* الجبال الّتى فى», by «الإقليم الأوّل *», the mountains in the first clime. On p. 38 the headings stand at the inner edge of the page, where they continue; transcribed as headings.",
+  "L02: the heads of the four number columns are printed vertically, reading upward, each over its column: from the right «(عدد الحدّ الأوّل)» and «(عدد الحدّ الآخر)», the number of the first and of the last boundary, between parentheses, and «[عدد الحدّ الأوّل]» and «[عدد الحدّ الآخر]» between square brackets; the head «الاسماء», the names, is printed horizontally, at the height of the middle of the vertical heads. Transcribed as one row of heads, the two heads between parentheses in the first cell and the two between square brackets in the second. «الحدّ» with a shadda over the د, «الأوّل» with a hamza over the alif and a shadda over the و, «الآخر» with a madda over the alif.",
+  "Each mountain has two running numbers in one pair of parentheses, «(٥٤٠ ٥٤١)», the numbers of its first and its last boundary, and two numbers of Suhrāb in one pair of square brackets, «[١٠٣٩ ١٠٤٠]»; the running numbers go on from the last city, entry 539 (frame 043), and the numbers of Suhrāb run [١٠٣٩]-[١٠٦٠]. Each name begins with «جبل».",
+  "The folio of the Strasbourg manuscript, «(fol. 11ᵃ)», is printed in Latin type in the right margin beside the heading of the first clime (L13).",
+  "L04: «ٮانقلوس»: the first letter after «جبل» is a short tooth without a dot joined to the alif; the ن has its dot and the ق its two dots. L03: «لورحس» and L05: «حسفارس»: the ح has no dot. L12: «علدس»: after «علد», whose د is a short upright with its foot on the line, the س has a first stroke 20 px high and two low teeth before its bowl, the form of the isolated س on frame 043 (L07, «طاس»), where its first stroke is 13 px. Transcribed so.",
+  "Signs in the names, transcribed as printed: L07: «الإقليم», with a hamza below the alif, «الأوّل», with a hamza over the alif and a shadda over the و, «خطّ», with a shadda over the ط, «الاستواء», with a hamza after the alif; L10, L12: «اوّله», with a shadda over the و, and «وآخره», with a madda over the alif; «فى» (L07, L10, L12, L14) has the dot of the ف and no dots on the ى; L01, L14: «الّتى», with a shadda over the ل.",
+  "L09: a small dark mark, 10 by 14 px, stands above the ر of «مخرج», between the dot of the خ and the ج; it has neither the round form of the dots of the font nor the slanting stroke of a fatha (frame 011, L04), and it is not transcribed.",
+  "The editor's footnotes of the opening are set as one line across both pages, beginning on p. 39 with notes a and b and the first word of note c, and continuing at the foot of p. 38 with the rest of note c and note d. The mark b (L07) and the mark d (L15) stand on p. 38; the text of note b is printed on p. 39.",
+  "The page number «— ٣٨ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

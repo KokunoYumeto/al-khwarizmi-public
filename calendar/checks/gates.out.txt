@@ -1,0 +1,40 @@
+this year common, the year before common, the next year common:
+  molad from Sunday 0h 0p             to Sunday 9h 204p           -> first of Tishri Monday    353 days (deficient)
+  molad from Sunday 9h 204p           to Monday 18h 0p            -> first of Tishri Monday    355 days (complete)
+  molad from Monday 18h 0p            to Tuesday 9h 204p          -> first of Tishri Tuesday   354 days (regular)
+  molad from Tuesday 9h 204p          to Thursday 9h 204p         -> first of Tishri Thursday  354 days (regular)
+  molad from Thursday 9h 204p         to Thursday 18h 0p          -> first of Tishri Thursday  355 days (complete)
+  molad from Thursday 18h 0p          to Friday 0h 408p           -> first of Tishri Saturday  353 days (deficient)
+  molad from Friday 0h 408p           to Saturday 18h 0p          -> first of Tishri Saturday  355 days (complete)
+  molad from Saturday 18h 0p          to Sunday 0h 0p             -> first of Tishri Monday    353 days (deficient)
+
+this year common, the year before common, the next year leap:
+  molad from Sunday 0h 0p             to Sunday 9h 204p           -> first of Tishri Monday    353 days (deficient)
+  molad from Sunday 9h 204p           to Monday 18h 0p            -> first of Tishri Monday    355 days (complete)
+  molad from Monday 18h 0p            to Tuesday 9h 204p          -> first of Tishri Tuesday   354 days (regular)
+  molad from Tuesday 9h 204p          to Thursday 9h 204p         -> first of Tishri Thursday  354 days (regular)
+  molad from Thursday 9h 204p         to Thursday 18h 0p          -> first of Tishri Thursday  355 days (complete)
+  molad from Thursday 18h 0p          to Friday 9h 204p           -> first of Tishri Saturday  353 days (deficient)
+  molad from Friday 9h 204p           to Saturday 18h 0p          -> first of Tishri Saturday  355 days (complete)
+  molad from Saturday 18h 0p          to Sunday 0h 0p             -> first of Tishri Monday    353 days (deficient)
+
+this year common, the year before leap, the next year common:
+  molad from Sunday 0h 0p             to Sunday 9h 204p           -> first of Tishri Monday    353 days (deficient)
+  molad from Sunday 9h 204p           to Monday 15h 589p          -> first of Tishri Monday    355 days (complete)
+  molad from Monday 15h 589p          to Tuesday 9h 204p          -> first of Tishri Tuesday   354 days (regular)
+  molad from Tuesday 9h 204p          to Thursday 9h 204p         -> first of Tishri Thursday  354 days (regular)
+  molad from Thursday 9h 204p         to Thursday 18h 0p          -> first of Tishri Thursday  355 days (complete)
+  molad from Thursday 18h 0p          to Friday 0h 408p           -> first of Tishri Saturday  353 days (deficient)
+  molad from Friday 0h 408p           to Saturday 18h 0p          -> first of Tishri Saturday  355 days (complete)
+  molad from Saturday 18h 0p          to Sunday 0h 0p             -> first of Tishri Monday    353 days (deficient)
+
+this year leap, the year before common, the next year common:
+  molad from Sunday 0h 0p             to Sunday 20h 491p          -> first of Tishri Monday    383 days (deficient)
+  molad from Sunday 20h 491p          to Monday 18h 0p            -> first of Tishri Monday    385 days (complete)
+  molad from Monday 18h 0p            to Tuesday 18h 0p           -> first of Tishri Tuesday   384 days (regular)
+  molad from Tuesday 18h 0p           to Wednesday 11h 695p       -> first of Tishri Thursday  383 days (deficient)
+  molad from Wednesday 11h 695p       to Thursday 18h 0p          -> first of Tishri Thursday  385 days (complete)
+  molad from Thursday 18h 0p          to Friday 20h 491p          -> first of Tishri Saturday  383 days (deficient)
+  molad from Friday 20h 491p          to Saturday 18h 0p          -> first of Tishri Saturday  385 days (complete)
+  molad from Saturday 18h 0p          to Sunday 0h 0p             -> first of Tishri Monday    383 days (deficient)
+

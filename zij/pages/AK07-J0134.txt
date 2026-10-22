@@ -1,0 +1,55 @@
+@page 134 102
+@lang de
+% JP2 0134: Suter's commentary, p. 102: the end of chapter 37 (al-Khwārizmī's method and Regiomontanus; the use of the
+% tables); the two tables at the end of Ms. O, fol. 158; the first closing chapter, on the conversion of the years of
+% birth (Table 115), with an example (note 1).
+Kategorie, von der er sagt : {i:Alii autem exequuntur id negotium per ascensiones quidem}
+{i:rectas stella meridianum tenente, per obliquas autem ascensiones regionis, si in oriente}
+{i:extiterit, aut per descensiones si in occidente} ; nur unterscheidet {sp:Kh.} den Fall, wo der
+Stern im Meridian ist, nicht besonders.
+@p Man muss zugestehen, dass diese Tafeln {sp:Kh.}’s für die Astrologen zur Bestim-
+mung der verschiedenen Aspekten sehr bequem waren, nur mögen sie in Bezug
+auf die Genauigkeit etwas zu wünschen übrig gelassen haben.
+@p Damit ist der Kommentar zum Texte und zu den Tafeln, soweit diese in den
+Handschriften C, O und N übereinstimmen, beendigt. Das Ms. O enthält aber noch
+zwei Tafeln am Schlusse (fol. 158{sup:r} u. 158{sup:v}), die {sp:Björnbo} gar nicht in seine Abschrift
+aufgenommen hatte, wahrscheinlich übersah er den Satz : {i:Explicit ezich,} etc., der am
+Schlusse von Tafel 116 steht, und hielt deshalb diese beiden Tafeln für von einem
+Abschreiber beigefügte Anhängsel, die nicht zum vorliegenden Werke gehörten. Es
+ist zuzugeben, dass dies wohl möglich wäre, ich halte es aber für wahrscheinlicher,
+dass, da diese Tafeln doch einigermassen im Zusammenhang mit den vorhergehenden
+astrologischen Tafeln stehen, sie den Schluss der Bearbeitung der Tafeln {sp:Kh.}’s durch
+{sp:Maslama} bildeten, zumal sich die zweite Tafel (als astrologische Rose) auch unter
+den {i:Tabulae spuriae} {sp:Batt.}’s befindet, die alle von {sp:Maslama} herstammen. Ich gebe
+daher in den folgenden zwei (nicht numerierten) Schlusskapiteln eine kurze Be-
+schreibung und Erklärung dieser beiden Tafeln.
+@c {b:Über die Umwandlung der Geburtsjahre.}
+@c (Tafel 115.)
+@p Die Tafel 115 lehrt den Ort am Himmel bestimmen, den die Sonne nach Ver-
+lauf einer Anzahl voller Jahre, z. B. am 35. Geburtstage eines Menschen, am Himmel
+einnimmt, oder mit andern Worten, wie viel Grade (oder wie viel Zeit) sie noch zu
+durchlaufen hat, bis sie wieder bei demselben Punkte (Fixstern) angekommen ist, bei
+dem sie bei der Geburt stand. Vom rein astronomischen Standpunkt aus aufgefasst,
+kann man diese Tafel auch betrachten als Tafel der Umwandlung der bürgerlichen
+(julianischen) Jahre in siderische Jahre. {sp:Batt.} hat (II, 188) eine ähnliche Tafel für
+Umwandlung der bürgerlichen Jahre in tropische, die {i:anni collecti} schreiten aber
+von 20 zu 20 fort, statt wie bei unserer Tafel von 10 zu 10, und die Überschüsse
+über die vollen bürgerlichen Jahre sind nur in Kreisteilen angegeben, während sie
+in unsrer Tafel auch in Zeitmass angegeben sind.
+@p {i:Beispiel :} Es ist Jemand geboren am 4. Januar 962 zu einer gewissen Stunde,
+wie viel Zeit muss er noch warten von derselben Stunde des 4. Jan. 997 an, bis die
+Sonne an demselben Ort des Himmels, d. h. bei demselben Fixstern angekommen
+ist, bei dem sie im Zeitpunkt der Geburt stand ?
+@p Die Tafel 115 ergibt für 30 Jahre (in der Kolonne {i:anni deceni}) 7{sup:d} 18{sup:h} 4{sup:m}, für 5
+Jahre (in der Kolonne {i:anni singulares}) 1{sup:d} 7{sup:h} 1{sup:m}, zusammen 9{sup:d} 1{sup:h} 5{sup:m}. Also erst nach
+@n {sup:1}) Ed. {sp:Nallino}, II, 299.
+@obs The page number «102» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 completes the sentence that ends p. 101 (JP2 0133, L37), «Es gehört wohl die Methode Kh.’s zu der von Regiomontan (l. c.) genannten». A wider space separates L07 from L08.
+@obs L01-L03: Regiomontanus's words, in italics, quoted from the place of p. 99 (JP2 0131, L09; «l. c.»).
+@obs L09-L18 and N01. Checked against Nallino: II, 297-307 are the «Tabulae spuriae», and p. 299 is the «rosa astrologica». No reference to the note is printed in the text; see the critical note. II, 188 holds the «Tabula revolutionum annorum Romanorum», whose collected years go from 20 to 200, the single years from 1 to 20, the values in «tempora ascensionum», as L29-L33 say.
+@obs L21-L22: the heading of the closing chapter, in bold, centred, with the reference to the table below it in smaller type.
+@obs L34-L39. Checked: with al-Khwārizmī's year, Brahmagupta's 1 577 916 450 000 days in 4 320 000 000 years, 365.2584375 days (p. 42, JP2 0074), a year exceeds 365 days by 6h 12m 9s; 30 years exceed 30 × 365 days by 7d 18h 4.5m, 5 years 5 × 365 days by 1d 7h 0.8m, together 9d 1h 5.3m: «7d 18h 4m», «1d 7h 1m», «9d 1h 5m». The table thus counts the excess over years of 365 days; from 4 January 962 to 4 January 997 the Julian calendar counts 35 × 365 days and 9 leap days, so that the sun returns to its place of the birth 1h 5m after the same hour of 4 January 997. The values of Table 115 are to be compared with the table.
+@obs L27: «Vom», the m damaged, so that it looks like «ın»; L06: «der verschiedenen Aspekten», the plural in -en, as printed. L10: «158r», «158v», the letters raised; L38-L39: «7d 18h 4m» and the like, the letters raised.
+@obs Spaced type, marked {sp:}: «Kh.», «Björnbo», «Maslama», «Batt.», «Nallino»; italics: the Latin of L01-L03, «Explicit ezich,», «Tabulae spuriae», «anni collecti», «Beispiel :», «anni deceni», «anni singulares».
+@obs The colons, semicolons and the question mark stand after the thin space of the edition (8-12 px measured).
+@copy A diagonal stroke of ink across «mit» in L15, drawn by hand from above the end of «Zusammenhang» down to the right, in this copy. Not part of the edition.
+@critical AK07-CN080 | missing note number | L18 | Batt.’s befindet | Batt.’s{sup:1}) befindet | the note 1, «Ed. Nallino, II, 299», the page of the «rosa astrologica» among the «Tabulae spuriae», has no reference in the text; it belongs to the second table «als astrologische Rose» among the «Tabulae spuriae Batt.’s» | medium | none on the text

@@ -1,0 +1,17 @@
+item	witness	for_al_khwarizmi	against_or_other	study_verdict	classification
+Text 1	B 77v-81v	Ibn al-Nadim lists treatises on the construction and the use; plate radius 150; style close to Text 2; copied before Text 2 (King 1983a: 23)	the table of 78v rests on the obliquity 23;35 (R = 98;11), a Mumtahan value linked to Habash, where al-Khwarizmi used 23;51; the geometric section 79r-80v takes the radius as 60	speculative (p. 163)	ANONYMOUS_ATTRIBUTION_ARGUED
+Text 2	B 81v:4-91v:7	the incipit names him; the excess of revolution 93;2 (section 25) is his value	section 26c (89v:7-11), «from another copy», gives 93;15, the value of the Zij-i Shah and Mashaallah: probably interpolated (p. 172); Rayy 37 (section 27) departs from his geography (35;45); Baghdad 70 (section 31) departs from his geography (73) but agrees with the anonymous table of A	his treatise, the earliest in Arabic on the subject (p. 166)	EXPLICIT_ASCRIPTION (with an interpolated passage)
+Text 3	B 91v:8-92r:16, 94r	-	-	no argument (IV.3)	ANONYMOUS_MILIEU
+Text 4	B 92r:17-93r	-	-	no argument (IV.4)	ANONYMOUS_MILIEU
+Text 5	B 96r	-	the same nomenclature in Severus Sebokht and a thirteenth-century Latin text	no argument (IV.5)	ANONYMOUS_MILIEU
+Text 6	B 96r-96v	-	the same method as section 24 of Text 2, more clearly (IV.6)	no argument	ANONYMOUS_MILIEU
+Text 7	B 96v	-	the scheme and its error are those of Sebokht, chapter 24: a Syriac or Greek source (IV.7)	no argument	ANONYMOUS_MILIEU
+Text 8	B 96v-97v	style; base 150; al-Marrakushi reports that some call the sine function al-jayb al-khwarizmi	a declination of 30 degrees given as 25 and minutes; an erroneous graphical procedure (IV.8)	not unreasonable (p. 179)	ANONYMOUS_ATTRIBUTION_ARGUED
+Text 9	A 198v-199r	the title names him («witty pieces from the work of Muhammad ibn Musa al-Khwarizmi»)	the title implies an extract from a larger work (p. 181)	his	EXPLICIT_ASCRIPTION (extract)
+Text 10	A 196v-197r	base 150; the term kardaja; latitude 33 (Baghdad)	-	could be a sign of his authorship (p. 182)	ANONYMOUS_ATTRIBUTION_POSSIBLE
+Text 11	A 192r	-	the obliquity 23;33 of its table: later than c. 830	probably not his (p. 183)	ANONYMOUS_PROBABLY_NOT_AUTHORIAL
+Table B 93v	B 93v	a link through King (2004, I: 147, n. 11)	obliquity 23;35, as Text 1	-	ANONYMOUS_LINK_SUGGESTED
+Table B 95r-95v	B 95r-95v	Hogendijk (1991)	-	his	ATTRIBUTED_BY_ANALYSIS
+Sundial	A 231v-235r	the treatise names him (Erdem chapter 52; PAL)	King (1999) questioned the authorship	his (Charette 2003: 181)	EXPLICIT_ASCRIPTION_DISPUTED
+Eclipse board	A 198r	-	the witness ascribes it to Umayr ibn Saman (p. 108)	-	OTHER_AUTHOR
+Qibla tract	A 186a-188a (Erdem chapters 20-25)	a textual coincidence with the Tashkent manuscript; a similar table ascribed to al-Khwarizmi in Cairo, Taymur 103/2	-	not treated by Charette and Schmidl	ANONYMOUS_ATTRIBUTION_ARGUED

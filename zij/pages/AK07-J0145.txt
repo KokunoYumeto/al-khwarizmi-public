@@ -1,0 +1,57 @@
+@page 145 113
+@lang la
+% JP2 0145: Tab. 3, p. 113: the conversion of the Arab years into the years of Alexander: the collected and the
+% single Arab years and the Arab months in years, months, days and quarter days of Alexander, and the Roman years
+% in multiples of 28, with the apparatus (notes 1-17 and a-d).
+@m C 43{sup:r}, O 100{sup:r}, N 9{sup:r} et 9{sup:v}.
+@c {b:Pagina reducendi annos Alexandri ad elhigeram.}{sup:1})
+@tw size=footnotesize span=1.1 1.1 1 1.2 0.9 1 1 1 1.2 0.9 1 2.3 1.2 0.9 1.2
+@t Anni collecti arabum | Anni Alexandri collecti | | | | Anni plani arabum{sup:3}) | Anni Alexandri plani{sup:4}) | | | | Menses | Menses | | Anni Romanorum per 28 dividendi{sup:6})
+@t | secundum bissestum{sup:2}) | | | | | | | | | arabum{sup:5}) | omnes | |
+@t | Anni | Menses | Dies | Partes | | Anni | Menses | Dies | Partes | | Menses | Dies |
+@t Radix | 932 | 9 | 17 | 0 | 1 | 0 | 11 | 24 | 0 | | | |
+@t 30 | 961 | 10 | 25 | {sup:3}/{sub:4} | 2 | 1 | 11 | 13 | {sup:3}/{sub:4} | Elmuharram | 1 | 0 | 1400
+@t 60 | 990 | 12 | 4 | {sup:1}/{sub:2} | 3 | 2 | 11 | 2 | {sup:1}/{sub:2} | | | | 1428
+@t 90 | 1020 | 1 | 8 | 0 | 4 | 3 | 10 | 21 | {sup:1}/{sub:4} | Zafar{sup:7}) | 1 | 29 | 1456
+@t 120 | 1049 | 2 | 16 | {sup:3}/{sub:4} | 5 | 4 | 10 | 11 | 0 | | | | 1484
+@t 150 | 1078 | 3 | 25 | {sup:1}/{sub:2} | 6 | 5 | 9 | 29 | {sup:3}/{sub:4} | Rabe elawel{sup:8}) | 2 | 29 | 1512
+@t 180 | 1107 | 5 | 4 | {sup:1}/{sub:4} | 7 | 6 | 9 | 19 | {sup:1}/{sub:2} | | | | 1540
+@t 210 | 1136 | 6{sup:c}) | 13 | 0 | 8 | 7 | 9 | 8 | {sup:1}/{sub:4} | Rabe elachir{sup:9}) | 3 | 28 | 1568
+@t 240 | 1165 | 7 | 21 | {sup:3}/{sub:4} | 9 | 8 | 8 | 27 | 0 | | | | 1596
+@t 270 | 1194 | 9 | 0 | {sup:1}/{sub:2} | 10 | 9 | 8 | 16 | {sup:3}/{sub:4} | Jumedi elule{sup:10}) | 4 | 28 | 1624
+@t 300 | 1223 | 10 | 9 | {sup:1}/{sub:4} | 11 | 10 | 8 | 5 | {sup:1}/{sub:2} | | | | 1652
+@t 330 | 1252 | 11 | 18 | 0 | 12 | 11 | 7 | 24 | {sup:1}/{sub:4} | Jumedi elachir{sup:11}) | 5 | 27 | 1680
+@t 360 | 1282 | 0 | 21 | {sup:1}/{sub:2} | 13 | 12 | 7 | 14 | 0 | | | | 1708
+@t 390 | 1311 | 2 | 0 | {sup:1}/{sub:4} | 14 | 13 | 7 | 2 | {sup:3}/{sub:4} | Regeb{sup:12}) | 6 | 27 | 1736
+@t 420 | 1340 | 3 | 9 | 0 | 15 | 14 | 6 | 21 | {sup:1}/{sub:2} | | | | 1764
+@t 450 | 1369{sup:b}) | 4 | 17 | {sup:3}/{sub:4} | 16 | 15 | 6 | 11 | {sup:1}/{sub:4} | Scabin{sup:13}) | 7 | 26 | 1792
+@t 480 | 1398 | 5 | 26 | {sup:1}/{sub:2} | 17 | 16 | 6 | 0 | 0 | | | | 1820
+@t 510 | 1427 | 7 | 5 | {sup:1}/{sub:4} | 18 | 17 | 5 | 19 | {sup:3}/{sub:4} | Ramadhan{sup:14}) | 8 | 26 | 1848
+@t 540 | 1456 | 8 | 14 | 0 | 19 | 18 | 5 | 8 | {sup:1}/{sub:2} | | | | 1876
+@t 570 | 1485 | 9 | 22 | {sup:3}/{sub:4} | 20 | 19 | 4 | 27 | {sup:1}/{sub:4} | Scawel{sup:15}) | 9 | 25 | 1904
+@t 600 | 1514 | 11 | 1 | {sup:1}/{sub:2} | 21 | 20 | 4 | 17 | 0 | | | | 1932
+@t 630{sup:a}) | 1544 | 0 | 9 | {sup:1}/{sub:4} | 22 | 21 | 4 | 5 | {sup:3}/{sub:4} | Dulkada{sup:16}) | 10 | 25 | 1960
+@t 660 | 1573 | 1 | 18 | 0 | 23 | 22 | 3 | 24{sup:d}) | {sup:1}/{sub:2} | | | | 1988
+@t 690 | 1602 | 2 | 26 | {sup:3}/{sub:4}{sup:a}) | 24 | 23 | 3 | 14 | {sup:1}/{sub:4} | Dulheia{sup:17}) | 11 | 24 | 2016
+@t | | | | | 25 | 24 | 3 | 3 | 0 | | | |
+@t | | | | | 26 | 25 | 2 | 22 | {sup:3}/{sub:4} | | | |
+@t | | | | | 27 | 26 | 2 | 11 | {sup:1}/{sub:2} | | | |
+@t | | | | | 28 | 27 | 2 | 0 | {sup:1}/{sub:4} | | | |
+@t | | | | | 29 | 28 | 1 | 20 | 0 | | | |
+@t | | | | | 30 | 29 | 1 | 8 | {sup:3}/{sub:4} | | | |
+@n {sup:1}) Pagina . . . . elhigeram] O, {i:om.} CN — {sup:2}) Anni . . . . bissestum] O, Anni completi Alexandri ante elhi-
+@n gera C, Anni completi Alexandri anni ere [{i:recte: ante eram}] arabum N — {sup:3}) Anni . . . . arabum] O, Anni
+@n plani C, Anni residui N — {sup:4}) Anni Alexandri plani] O, Anni completi omnes CN ; {i:suprascr.} CN : Alterutre
+@n temporum regum extractiones (?) — {sup:5}) Menses arabum] CO, {i:om.} N — {sup:6}) {i:Hanc column. om.} CN — {sup:7}) Za-
+@n far] CO, Szaphar N — {sup:8}) Rabe elawel] Rebe alhawel C, Rabe O, Rabbe N — {sup:9}) Rabe elachir] C, elachir
+@n O, Rabbe N — {sup:10}) Jumedi elule] C, Jum. elaw O, Jumedi N — {sup:11}) Jumedi elachir] Jumedi elhachir C,
+@n Jum. el’. O, Jumedi N — {sup:12}) Regeb] CO, Rageb N — {sup:13}) Scabin] CO, Saaben N — {sup:14}) Ramadhan] N,
+@n Ramthan C, Ra’ham O — {sup:15}) Scawel] O, Scawal C, Sewil N — {sup:16}) Dulkada] CO, Dulkidda N — {sup:17}) Dul-
+@n heia] O, Dulhe C, Dulheiga N.
+@n {sup:a-a}) 630 . . . . {sup:3}/{sub:4}] C, {i:om.} O — {sup:b}) 1369] C, 1379 O — {sup:c}) 6] C, 5 O — {sup:d}) 24] C, 25 O.
+@obs The page number «113» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 3», in bold sans serif, underlined. The title (L01), in bold, its note number in roman; the folios of the manuscripts, «C 43r, O 100r,» over «N 9r et 9v.», stand at the right of the title, the letters r and v raised; here as a margin note. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7 Række, hist. og filos. Afd. III. 1.», here «7 Række» without the point after the 7, and the sheet number «15» on the right; recorded here, not transcribed as a line.
+@obs The table: a thick and a thin rule above the head, a double rule below it; vertical rules, some of them double, divide the fourteen columns; short rules under the heads that span several columns; no rule closes the table at the foot. The heads of the first, the sixth and the last column, «Anni collecti arabum», «Anni plani arabum» and «Anni Roma-norum per 28 dividendi», are printed turned through a quarter, reading upwards, in two or three lines; here they stand in the first row (L02). Each printed row is one line here, the cells separated by our «|»; a head followed by empty cells spans their columns. The Arab months stand on every second row, the multiples of 28 on every row from the second.
+@obs L05-L28, the collected years. The years of Alexander are counted here in years of 365 1/4 days, «secundum bissestum», of twelve months of 30 days and 5 1/4 added days (the «Partes» are quarters of a day); Suter explains the reckoning with examples on pp. 38-39 (JP2 0070-0071). Checked: the radix, 932 years 9 months 17 days, is 287 days after the beginning of the year 933 of Alexander on 1 October 621, that is Thursday 15 July 622, the epoch of the tables (p. 39, JP2 0071). Each row adds 30 Arab years, 10 631 days, that is 29 years 1 month 8 3/4 days: the rows from the radix to 600 agree to the quarter day (with the readings of notes b and c); 30 years carry over into the next year as 12 months and 5 1/4 days, as at 90 and 360.
+@obs L26-L28, the rows 630, 660 and 690, given by C alone (note a). Checked: they are each 4 1/4 days too large; 10 631 days added to the row 600, 1514 years 11 months 1 1/2 days, give 1544 years 0 months 5 days, not 9 1/4, and the rows 660 and 690 continue from 9 1/4 by the same step (computed 1573 y 1 m 13 3/4 d and 1602 y 2 m 22 1/2 d). The edition prints the values of C; this is no misprint of the edition, and no critical note is made.
+@obs L05-L34, the single years. Checked: the row p gives the days of the first p Arab years, 354 days and 355 in the leap years 2, 5, 7, 10, 13, 16, 18, 21, 24, 26 and 29, in years of 365 1/4 days, months of 30 days and days: all 30 rows as printed (with the reading of note d), the last, 29 years 1 month 8 3/4 days, the 10 631 days of a cycle. L06-L28, «Menses omnes». Checked: the months of 30 and 29 days in turn give 30, 59, 89, … 354 days, 1 month 0 days to 11 months 24 days, all twelve as printed. The last column holds the multiples of 28 from 1400 to 2016, as in Tab. 1 (p. 109, JP2 0141).
+@obs N02: «[recte: ante eram]», the editor's correction in italics within square brackets, the colon set close. N03: «Alterutre temporum regum extractiones (?)», the superscription of C and N, with the editor's question mark; the semicolon after «CN» and the colon after the second «CN» stand after the thin space of the edition (9 px). N07: «Jum. el’.», «Ra’ham» (N08), with the apostrophe. N10: «a-a)», the two places of note a, the rows 630 to 690. Italics: «om.», «recte: ante eram», «suprascr.», «Hanc column. om.».

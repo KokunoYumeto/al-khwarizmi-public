@@ -1,0 +1,43 @@
+@page 15 9
+% Frame 015, printed p. 9: subtraction continued, borrowing from the place above; work from the highest place; the
+% example 6422 less 3211, set out place by place, and its remainder 3211. One footnote.
+uero nichil remanserit, pones ibi circulum ut supra. Si autem
+in secunda differentia a superiori nichil fuerit, accipe unum
+de tercia differentia, et erunt .{sc:x}. in secunda. Et rursum ex
+illis .{sc:x}. accipias unum, et fac de eo ut supra, et remanebunt
+in secunda .{sc:ix}.; et incipe semper in augmentacione uel di-
+minutione ab altiori differentia: postea a sequenti que eam
+succedit, quia utilius ac leuius erit opus, si Deus uoluerit.
+Quod ut facilius intelligatur, necesse est ut hoc sub exemplo
+notemus, et hoc dicamus tribus modis, ne quis in eo aliquo
+modo turbetur. Constituamus ergo aliquem numerum, et di-
+camus, uerbi gratia. Ponamus sex milia quadrigentos uiginti
+duo per differentias suas, et dicamus quod uolumus minuere
+de eis tria milia ducentos undecim : ponamus itaque in prima
+differentia que est in dextera, scilicet duo, et in secunda .{sc:xx}.
+In tercia quoque quadringentos, et in quarta sex milia : et po-
+namus etiam ipsum numerum quem uolumus minuere de eo
+sub ipso per consimiles differentias ita.Ponamus scilicet unum
+sub duobus in prima differentia, et .{sc:x}. sub .{sc:xx}. in secunda;
+ducentos quoque sub quadringentis in tercia, et tria milia
+sub {sc:vi}. milibus in quarta; et hec est eorum figura.
+@p Cumque uellemus minuere unum numerum de alio, mino-
+rem scilicet de maiori, cepimus a superiori differentia, idest a
+quarta. Minuimus itaque {sc:iii}. de {sc:vi}. , et remanserunt tria in
+quarta differentia. Minuimus quoque duo de {sc:iiii}{sup:or}, et reman-
+serunt in tercia differentia duo. Minuimus etiam unum de
+{sc:ii}.{sup:obus}, et remansit unum in secunda differentia : et similiter
+remansit in prima differentia unum, cum minuerimus de duo-
+@m car. 105 {i:recto}.
+bus, que erant super eum, unum; et hec | remanencium figura
+est . . . . (1). Rursum ponamus alium numerum alio modo ad
+placitum, de quo nichil remaneat in differentiis suis. Sitque
+@n (1) La lacuna indicata con quattro punti nella linea 29 della presente pa-
+@n gina trovasi anche nel sopraccitato Codice {i:Ii}. 6. 5. (carta 105 {i:recto} , linea
+@n prima).
+@obs The page number «( 9 )» stands at the head of the page, centred. The page has no signature.
+@obs L11-L20: the example is six thousand four hundred and twenty-two («sex milia quadrigentos uiginti duo») less three thousand two hundred and eleven («tria milia ducentos undecim»), set out place by place; L20 ends «et hec est eorum figura.», and this is their figure, without the figure, and without the four points with which the edition marks such a gap in L29 and on the earlier pages. L21-L29: the subtraction place by place, from the fourth place, with the remainder three thousand two hundred and eleven, whose figure is again missing (the four points of L29 and the footnote: the gap is in the manuscript, fol. 105 recto, line 1).
+@obs L11: «quadrigentos», without the n, where L15 has «quadringentos» and L19 «quadringentis»; transcribed as printed.
+@obs Numerals: L20 «vi.», L23 «iii.» and «vi.», in small capitals without the opening point; L24 «iiiior», with «or» raised, quatuor, and L26 «ii.obus», with «obus» raised, duobus. L28: the vertical bar between «hec» and «remanencium» marks the beginning of fol. 105 recto of the manuscript, which the note in the right margin, «car. 105 recto.», names; transcribed as a margin note. L29: the four points of the gap are spaced apart, «. . . .».
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): L13 «undecim : ponamus» (21 px before the colon), L15 «milia : et» (10 px) and L26 «differentia : et» (10 px), with a space before the colon; L23 «.vi. ,» (23 px before the comma); L17 «ita.Ponamus», without a space after the point (8 px, the median word space of the line 16 px). L05 «.ix.;»: the semicolon follows the point closely.
+@copy A reader's notes in pencil: an erased note to the left of the page number, illegible; L01, a stroke between «ibi» and «circulum»; «quod» in the right margin beside L05, and faint erased figures and words in the margin beside L03-L08; L06, a stroke over «io» of «altiori»; «quadringentos» in the right margin beside L11, with «r» of «quadrigentos» underlined; L14, «, scilicet» struck through, with «dextera» underlined and «dextris» in the right margin; L15, a light mark below the colon of «milia :»; L19, a light dot at mid-height between «ducentos» and «quoque» (darkest pixel 115, where a printed point is 17); L20, a stroke through the «l» of «milibus»; L22, a curve before «cepimus»; faint marks in the right margin beside L22. Not part of the edition.

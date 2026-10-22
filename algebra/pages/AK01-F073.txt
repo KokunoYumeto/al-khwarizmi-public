@@ -1,0 +1,37 @@
+@page 73 ٥٧
+% Frame 073, printed p. 57: the chapter on mensuration continued: the area of a segment of a circle (half the
+% diameter times half the arc, less or more the product of the remainder of the half diameter and half the chord);
+% solids: a rectangular solid, length times breadth times depth; other solids of even depth, the base times the
+% depth; the cone and the pyramids of triangular and square base, a third of the base times the height. Then the
+% right triangle: the squares of the two shorter sides together equal the square of the longest; the demonstration
+% begins with a square اٮحد halved through its sides, continued on the next page with its figure. Below the rule
+% five footnotes of the editors.
+التى تلك القوس منها فان أردت أن تعرف تكسير القوس {n:١} فاضرب نصف
+قطر المدورة فى نصف القوس واحفظ ما خرج ثم انقص سهم القوس من
+نصف قطر المدورة ان كانت القوس أقل من نصف مدورة وان كانت أكثر
+من نصف مدورة فانقص نصف قطر المدورة من سهم القوس ثم اضرب ما بقى
+فى نصف وتر القوس وانقصه مما حفظت ان كانت القوس أقل من نصف
+مدورة أو زده عليه ان كانت القوس أكثر من نصف مدورة فما بلغ بعد الزيادة
+أو النقصان فهو تكسير القوس . وكل مجسم مربع {n:٢} فان ضربك الطول
+فى العرض ثم فى العمق هو التكسير . فان كان على غير تربيع وكان مدوراً
+أو مثلثاً أو غير ذلك الا أن عمقه على الاستواء والموازاة فان مساحة
+ذلك أن تمسح سطحه فتعرف تكسيره فما كان ضربته فى العمق وهو التكسير .
+وأما المخروط والمدور من المثلث والمربع {n:٣} فان الذى يكون من ضرب ثلث
+مساحة أسفله فى عموده هو تكسيره {n:٤} . واعلم أن كل مثلث قائم الزاوية فان
+الذى يكون من ضرب الضلعين الأقصرين كل واحد منهما فى نفسه مجموعين مثل الذى
+يكون من ضرب الضلع الأطول فى نفسه{n:٥} . وبرهان ذلك أنا نجعل سطحا مربعاً
+متساوى الأضلاع والزوايا عليه {ov:اٮ} {ov:حد} ثم نقطع اح نصفين على نقطة {ov:ه}
+ثم نخرجه الى {ov:ز} ثم نقطع ضلع {ov:اٮ} نصفين على نقطة {ov:ط} ونخرجه الى نقطة ع
+@ednotes ١ ٢ ٣ ٤ ٥ 7
+@obs L15-L16: the letters that label the figure of the demonstration, printed on the next page (frame 074), carry a short wavy line above them (here a line above): اٮ, حد and ه (L15), ز, اٮ and ط (L16). The labels اح (L15) and ع (L16) are printed without it and are transcribed without it. The ب of the labels is printed without its dot (ٮ), as on frames 036-050, and transcribed so; ه in its knotted initial form.
+@obs L15-L16: the figure (frame 074) is a square with ا at the upper right corner, ٮ at the upper left, ح at the lower right and د at the lower left; ه halves the right side اح and ز the left side, ط halves the upper side اٮ, and the line drawn down from ط meets the lower side at a point marked with a letter shaped like ح without a dot, distinct from the hooked ح at the corner. The text names that point with the ع-shaped sort of frames 036-050 (L16); see the critical note AK01-CN022.
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: مساحة أسفله (L12; 16 between the ة and the alif, at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one; in doubt, the space is written); واحد منهما (L13; 17 between the د and the م, as وهوأحد القسمين on frame 056, L10, 17, where the د stands 3 to 8 px from the next letter inside a word); منها فان (L01; 21 between the alif and the ف); والزوايا عليه (L15; 20 between the alif and the ع); سطحا مربعاً (L14; 21).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: يكون من (L13; 5 between the ن and the م), مجموعين مثل (L13).
+@obs أكثر (L03, L06) is transcribed as one word; the print sets its ك 20 and 21 px from the alif, as everywhere in this edition (frames 071 and 072).
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after القوس, before وكل (L07; 39 and 36), after التكسير, before فان (L08; 23 and 26), at the end of L10 (24 after التكسير). The note marks: (١) in a space after القوس (L01; 42 px before it and 29 after), (٢) after مربع (L07; 40 and 30), (٣) after والمربع (L11; 41 px after it, in a space of 144 px between the words); (٤) 29 px after تكسيره (L12), followed by a full stop 27 px after it and 25 px before واعلم; (٥) close after نفسه (L14; 20 px), followed by a full stop 25 px after it and 24 px before وبرهان.
+@obs Plain alif where a hamza might be expected, as printed: فان (L01, L07, L08, L09, L11, L12), انقص (L02), ان, وان (L03), فانقص, اضرب (L04), وانقصه, ان (L05), ان (L06), الا (L09), واعلم (L12); with hamza: أردت, أن (L01), أقل, أكثر (L03), أقل (L05), أو, أكثر (L06), أو (L07, L09; twice in L09), أن (L09, L10, L12), وأما (L11), أسفله (L12), الأقصرين (L13), الأطول, أنا (L14), الأضلاع (L15); on ي: قائم (L12); the hamza on the line: الاستواء (L09).
+@obs With tanwīn on the final alif: مدوراً (L08), مثلثاً (L09), مربعاً (L14); without tanwīn as printed: سطحا (L14).
+@obs The final yā' is printed without dots: التى (L01), فى throughout, بقى (L04), على (L08, L09, L15, L16), الذى (L11, L13, twice), متساوى (L15), الى (L16, twice).
+@obs The print stretches تكسير (L01, L07), مما (L05), التكسير (L08, L10), أن (L09, the ن at length), تكسيره (L12) and عليه (L15) with the elongation stroke; the stroke is not transcribed.
+@obs Notes (١) to (٥) of the editors. (١) to (٤) give modern terms: the area of the segment, a cube, its volume. (٣) suggests that the words should perhaps run «وأما المخروط من المثلث والمربع والمدور», the pyramids of triangular and square base and the cone. (٥) names the theorem as that of Pythagoras and remarks that the demonstration that follows is not general: it treats only the right triangle whose two shorter sides are equal. None is reproduced.
+@critical AK01-CN022 | labels of the text and of the figure disagree | L16 | ع | ج | The line names with ع the point at which the line drawn from ط, the midpoint of اٮ, meets the opposite side of the square. The figure of the demonstration (frame 074) has no ع: at that point it has a letter shaped like ح without a dot, distinct from the hooked ح at the corner of the square, the letter that the figures of frames 041, 042 and 050 have for ج. The text of frames 036-050 names such points with the same ع-shaped sort, and the manuscript, in the facsimile of frame 039, writes ج for the first of them (AK01-CN001, AK01-CN003, AK01-CN006, AK01-CN009, AK01-CN015). | high that the sort stands for the ج of the figure | none on the mathematics: the labels only name the points of the figure

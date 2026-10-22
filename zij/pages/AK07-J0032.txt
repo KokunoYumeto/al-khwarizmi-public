@@ -1,0 +1,4 @@
+@page 32 [XXVIII]
+@kind blank
+% JP2 0032: the back of the part title, p. [XXVIII]; nothing printed.
+@obs Blank. Damp stains run down from the top.

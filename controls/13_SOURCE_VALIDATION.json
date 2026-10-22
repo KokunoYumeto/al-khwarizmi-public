@@ -1,0 +1,478 @@
+{
+  "schema_version": 1,
+  "status": "PASS",
+  "source_files": 19,
+  "source_bytes": 287591380,
+  "source_file_inventory_sha256": "B74A6EE8374306C34259A1A31E2C1A9745CC16B07DA3CCE401BD7A2C4D0B7FF9",
+  "geography_frames": {
+    "files": 218,
+    "bytes": 321074700,
+    "dimensions_match_manifest": true,
+    "modes": {
+      "RGB": 218
+    },
+    "inventory_sha256": "CC832B570DCFA2C343A0FBB4371DD88325D70A6549C29C4F277B7789FC853B7E"
+  },
+  "arithmetic_frames": {
+    "files": 30,
+    "bytes": 14880615,
+    "dimensions_match_manifest": true,
+    "modes": {
+      "RGB": 30
+    },
+    "inventory_sha256": "9D1E8F30809DA9697CC5FC86606A6D56DD9F7ED02843705071730FB2179BE0FE"
+  },
+  "pdfs": [
+    {
+      "filename": "GEOGRAPHY_ACO_HIGHRES_NAVIGATION.pdf",
+      "bytes": 101479217,
+      "sha256": "D1F7716767AF95629DF6011FF67D0C60CED212AB0EE4E5C39E29F7219E4CCDEE",
+      "pages": 218,
+      "expected_pages": 218,
+      "page_count_match": true,
+      "encrypted": false,
+      "media_box_counts": {
+        "1014.84x658.8": 1,
+        "1015.2x668.16": 1,
+        "1034.28x660.96": 1,
+        "1155.96x671.76": 1,
+        "397.08x658.8": 1,
+        "412.56x658.08": 1,
+        "412.92x663.84": 1,
+        "413.64x660.96": 1,
+        "416.16x664.2": 1,
+        "417.96x663.12": 1,
+        "419.04x659.16": 1,
+        "420.12x664.2": 1,
+        "421.2x658.8": 1,
+        "421.2x678.96": 1,
+        "421.56x660.24": 1,
+        "422.28x660.96": 2,
+        "422.28x663.12": 1,
+        "423.0x660.96": 1,
+        "423.36x658.8": 1,
+        "423.36x659.52": 1,
+        "423.36x659.88": 1,
+        "423.72x661.68": 1,
+        "424.44x660.6": 1,
+        "424.44x662.4": 1,
+        "424.44x663.84": 1,
+        "424.8x661.32": 1,
+        "425.52x658.44": 1,
+        "425.52x661.68": 1,
+        "425.88x662.04": 1,
+        "426.6x657.36": 1,
+        "426.6x658.08": 1,
+        "426.6x659.88": 2,
+        "426.6x660.6": 1,
+        "426.6x661.68": 1,
+        "427.68x658.08": 1,
+        "427.68x658.44": 2,
+        "427.68x658.8": 1,
+        "427.68x659.16": 1,
+        "427.68x659.52": 1,
+        "427.68x659.88": 2,
+        "427.68x660.6": 2,
+        "428.04x658.08": 1,
+        "428.04x660.96": 1,
+        "428.04x661.32": 1,
+        "428.04x661.68": 1,
+        "428.4x660.6": 2,
+        "428.76x656.64": 1,
+        "428.76x657.0": 1,
+        "428.76x658.44": 1,
+        "428.76x658.8": 1,
+        "428.76x659.16": 3,
+        "428.76x659.88": 1,
+        "428.76x660.6": 2,
+        "428.76x661.68": 1,
+        "428.76x662.04": 2,
+        "428.76x663.12": 1,
+        "428.76x667.44": 1,
+        "429.12x658.08": 1,
+        "429.12x658.44": 1,
+        "429.12x660.24": 2,
+        "429.12x661.32": 1,
+        "429.12x661.68": 2,
+        "429.12x662.04": 1,
+        "429.48x657.0": 1,
+        "429.48x658.8": 1,
+        "429.48x659.52": 1,
+        "429.48x659.88": 1,
+        "429.84x658.8": 1,
+        "429.84x659.16": 1,
+        "429.84x659.88": 1,
+        "429.84x660.24": 1,
+        "429.84x662.4": 1,
+        "430.2x657.36": 1,
+        "430.2x658.08": 2,
+        "430.2x660.96": 1,
+        "430.2x662.76": 1,
+        "430.56x658.08": 2,
+        "430.56x658.8": 1,
+        "430.56x665.64": 1,
+        "430.56x666.0": 1,
+        "430.92x655.56": 1,
+        "430.92x658.8": 1,
+        "430.92x659.16": 1,
+        "430.92x660.96": 1,
+        "430.92x662.04": 1,
+        "430.92x663.48": 1,
+        "431.28x658.08": 2,
+        "431.28x659.88": 1,
+        "431.64x660.24": 1,
+        "431.64x663.12": 1,
+        "431.64x664.56": 1,
+        "431.64x666.0": 1,
+        "431.64x667.08": 2,
+        "432.0x657.72": 1,
+        "432.0x658.08": 2,
+        "432.0x658.8": 1,
+        "432.0x659.88": 1,
+        "432.0x660.6": 1,
+        "432.0x660.96": 2,
+        "432.0x663.12": 1,
+        "432.36x658.8": 2,
+        "432.36x659.16": 1,
+        "432.36x659.88": 1,
+        "432.36x662.76": 1,
+        "432.72x660.24": 1,
+        "432.72x660.6": 1,
+        "432.72x664.56": 1,
+        "433.08x656.28": 1,
+        "433.08x657.72": 1,
+        "433.08x658.44": 1,
+        "433.08x659.88": 1,
+        "433.08x660.24": 2,
+        "433.08x660.6": 2,
+        "433.08x660.96": 1,
+        "433.08x661.32": 1,
+        "433.08x662.04": 1,
+        "433.08x663.84": 1,
+        "433.44x659.88": 1,
+        "433.44x662.4": 1,
+        "433.8x659.16": 1,
+        "433.8x659.88": 1,
+        "433.8x660.24": 1,
+        "433.8x660.6": 1,
+        "434.16x658.08": 1,
+        "434.16x658.44": 1,
+        "434.16x659.52": 1,
+        "434.16x660.96": 2,
+        "434.16x661.32": 3,
+        "434.16x663.84": 1,
+        "434.16x666.72": 1,
+        "434.52x658.08": 1,
+        "434.52x658.8": 1,
+        "434.52x659.16": 1,
+        "434.52x659.88": 1,
+        "434.52x660.24": 1,
+        "434.52x660.6": 1,
+        "434.52x663.12": 1,
+        "434.88x658.08": 1,
+        "434.88x659.16": 1,
+        "434.88x660.6": 1,
+        "435.24x658.08": 1,
+        "435.24x658.8": 1,
+        "435.24x659.16": 1,
+        "435.24x659.52": 1,
+        "435.24x660.96": 1,
+        "435.24x661.32": 2,
+        "435.24x661.68": 1,
+        "435.24x662.04": 1,
+        "435.24x662.4": 1,
+        "435.24x667.08": 1,
+        "435.6x658.08": 1,
+        "435.6x659.88": 1,
+        "435.6x660.6": 1,
+        "435.96x658.08": 1,
+        "435.96x661.68": 1,
+        "436.32x658.08": 1,
+        "436.32x661.32": 1,
+        "436.68x661.68": 1,
+        "436.68x667.8": 1,
+        "437.4x660.24": 1,
+        "437.4x660.6": 1,
+        "437.4x660.96": 1,
+        "437.4x662.76": 2,
+        "437.76x657.36": 1,
+        "437.76x658.8": 1,
+        "437.76x661.32": 1,
+        "437.76x672.48": 1,
+        "438.48x658.08": 1,
+        "439.2x662.76": 1,
+        "439.56x660.24": 1,
+        "439.92x659.16": 1,
+        "440.28x657.72": 1,
+        "440.28x659.16": 1,
+        "440.64x660.6": 1,
+        "441.0x660.6": 1,
+        "441.72x660.24": 1,
+        "442.08x659.16": 1,
+        "443.52x672.84": 1,
+        "443.88x651.96": 1,
+        "445.32x663.12": 1,
+        "445.68x657.36": 1,
+        "446.04x662.4": 1,
+        "446.76x662.76": 1,
+        "446.76x676.08": 1,
+        "449.64x672.84": 1,
+        "450.0x675.36": 1,
+        "452.16x679.68": 1,
+        "454.68x676.08": 1,
+        "474.84x694.8": 1,
+        "495.36x691.56": 1,
+        "707.4x656.28": 1,
+        "707.76x659.52": 1
+      },
+      "rotation_counts": {
+        "0": 218
+      }
+    },
+    {
+      "filename": "ZIJ_SUTER_1914_IA_NAVIGATION.pdf",
+      "bytes": 17093677,
+      "sha256": "7FB3D69201CA44C9D9344CEB6CBD310EECDB6ABC9E2AEC26C19A1A80DB4D82D5",
+      "pages": 294,
+      "expected_pages": 294,
+      "page_count_match": true,
+      "encrypted": false,
+      "media_box_counts": {
+        "485.0x643.0": 281,
+        "494.0x643.0": 1,
+        "511.0x643.0": 1,
+        "512.0x643.0": 1,
+        "514.0x643.0": 1,
+        "517.0x643.0": 7,
+        "532.0x681.0": 2
+      },
+      "rotation_counts": {
+        "0": 294
+      }
+    },
+    {
+      "filename": "PRACTICAL_ASTRONOMY_CHARETTE_SCHMIDL_2004.pdf",
+      "bytes": 1138787,
+      "sha256": "E3FF31E617B84379FCF961310E4914BB6CF40E8E0F5117507AB24D1367626E18",
+      "pages": 98,
+      "expected_pages": 98,
+      "page_count_match": true,
+      "encrypted": false,
+      "media_box_counts": {
+        "612.0x792.0": 25,
+        "842.0x1191.0": 73
+      },
+      "rotation_counts": {
+        "0": 98
+      }
+    },
+    {
+      "filename": "ISTANBUL_MANUSCRIPTS_ERDEM_1987.pdf",
+      "bytes": 570330,
+      "sha256": "8E04019E12DE893944D623C63597FAAE965C73A070535276DA58E06600F0160F",
+      "pages": 20,
+      "expected_pages": 20,
+      "page_count_match": true,
+      "encrypted": false,
+      "media_box_counts": {
+        "434.9x653.05": 20
+      },
+      "rotation_counts": {
+        "0": 20
+      }
+    },
+    {
+      "filename": "CALENDAR_DE_BLOIS_UCL_2014_COMPARATOR.pdf",
+      "bytes": 406906,
+      "sha256": "3DE056FF48A0B446DE2DF50EB151A375BAF2AB1860C4807C7AA4C63C0B99CD54",
+      "pages": 11,
+      "expected_pages": 11,
+      "page_count_match": true,
+      "encrypted": false,
+      "media_box_counts": {
+        "595.32x841.92": 11
+      },
+      "rotation_counts": {
+        "0": 11
+      }
+    },
+    {
+      "filename": "CALENDAR_HYDERABAD_1948_PUBLIC_DOMAIN.pdf",
+      "bytes": 6560007,
+      "sha256": "26C55E7ECCA9597508EE4552B72CCBA95DEEC91C7F75F1DC49FF1E64C4382573",
+      "pages": 320,
+      "expected_pages": 320,
+      "page_count_match": true,
+      "encrypted": false,
+      "media_box_counts": {
+        "612.0x792.0": 320
+      },
+      "rotation_counts": {
+        "0": 320
+      }
+    }
+  ],
+  "source_archives": [
+    {
+      "filename": "ZIJ_SUTER_1914_IA_JP2.zip",
+      "bytes": 151784240,
+      "sha256": "3801C905AF04D35E900EDB40E9821E1C501781D8C961929AB96F9B1029C1453B",
+      "members": 297,
+      "image_members": 296,
+      "decoded_images": 296,
+      "uncompressed_bytes": 151732576,
+      "unsafe_members": [],
+      "image_formats": {
+        "JPEG2000": 296
+      }
+    },
+    {
+      "filename": "ARITHMETIC_BONCOMPAGNI_1857_IA_JP2.zip",
+      "bytes": 7612119,
+      "sha256": "EAB5F307785204A78A22DA752875C446F46B07AD7CEC52D7200DF004C07A94C3",
+      "members": 25,
+      "image_members": 24,
+      "decoded_images": 24,
+      "uncompressed_bytes": 7665404,
+      "unsafe_members": [],
+      "image_formats": {
+        "JPEG2000": 24
+      }
+    }
+  ],
+  "source_archive_member_inventory_sha256": "76697741E2F3F0BA52E9534072AF2A35918815104C5F7E1681D6BAF6EC62B425",
+  "scandata": [
+    {
+      "filename": "ZIJ_SUTER_1914_IA_SCANDATA.xml",
+      "bytes": 389002,
+      "sha256": "75E6BB8D5D15C3745E2FB83D8FB1B1ED21D5EB7C022748312A11009F6818DAD4",
+      "pageData_nodes": 1,
+      "page_nodes": 296,
+      "xml_root": "book"
+    },
+    {
+      "filename": "ARITHMETIC_BONCOMPAGNI_1857_IA_SCANDATA.xml",
+      "bytes": 7378,
+      "sha256": "02B58171CB5BA219570ADF26F73B602D68E776C914738A17A12546B266276FEB",
+      "pageData_nodes": 1,
+      "page_nodes": 24,
+      "xml_root": "book"
+    }
+  ],
+  "ia_metadata_file_gate": [
+    {
+      "local_filename": "ZIJ_SUTER_1914_IA_JP2.zip",
+      "remote_filename": "b24872489_jp2.zip",
+      "local_bytes": 151784240,
+      "metadata_bytes": 151784240,
+      "bytes_match": true,
+      "local_sha256": "3801C905AF04D35E900EDB40E9821E1C501781D8C961929AB96F9B1029C1453B",
+      "metadata_md5": "6e23984ea96279b5f14e8eaf050a7426",
+      "local_md5": "6e23984ea96279b5f14e8eaf050a7426",
+      "md5_match": true
+    },
+    {
+      "local_filename": "ZIJ_SUTER_1914_IA_SCANDATA.xml",
+      "remote_filename": "b24872489_scandata.xml",
+      "local_bytes": 389002,
+      "metadata_bytes": 389002,
+      "bytes_match": true,
+      "local_sha256": "75E6BB8D5D15C3745E2FB83D8FB1B1ED21D5EB7C022748312A11009F6818DAD4",
+      "metadata_md5": "a15b641d30ae647cd514b636bbb4544d",
+      "local_md5": "a15b641d30ae647cd514b636bbb4544d",
+      "md5_match": true
+    },
+    {
+      "local_filename": "ARITHMETIC_BONCOMPAGNI_1857_IA_JP2.zip",
+      "remote_filename": "bub_gb_Jyat9f1pSIYC_jp2.zip",
+      "local_bytes": 7612119,
+      "metadata_bytes": 7612119,
+      "bytes_match": true,
+      "local_sha256": "EAB5F307785204A78A22DA752875C446F46B07AD7CEC52D7200DF004C07A94C3",
+      "metadata_md5": "46912b8e787301b2e5171dd62ef2e3ee",
+      "local_md5": "46912b8e787301b2e5171dd62ef2e3ee",
+      "md5_match": true
+    },
+    {
+      "local_filename": "ARITHMETIC_BONCOMPAGNI_1857_IA_SCANDATA.xml",
+      "remote_filename": "bub_gb_Jyat9f1pSIYC_scandata.xml",
+      "local_bytes": 7378,
+      "metadata_bytes": 7378,
+      "bytes_match": true,
+      "local_sha256": "02B58171CB5BA219570ADF26F73B602D68E776C914738A17A12546B266276FEB",
+      "metadata_md5": "8fa71761e565b93be0584174dc1a8675",
+      "local_md5": "8fa71761e565b93be0584174dc1a8675",
+      "md5_match": true
+    }
+  ],
+  "existing_algebra_packet": {
+    "canonical_files": 14,
+    "canonical_bytes": 179265370,
+    "desktop_files": 14,
+    "desktop_bytes": 179265370,
+    "missing_desktop": [],
+    "extra_desktop": [],
+    "copy_mismatches": [],
+    "canonical_desktop_exact": true,
+    "manifest_rows": 13,
+    "manifest_errors": [],
+    "manifest_sha256": "E77F1A3C338090BCB82FA99B948F213B9B5C749AE89FF530C9F3EE200A0AFD2F",
+    "source_images_expected": 130,
+    "source_images_replayed": 130,
+    "source_image_errors": [],
+    "source_archives": [
+      {
+        "filename": "05_PRIMARY_400PPI_COLOR_FRAMES_001-035.zip",
+        "bytes": 47140632,
+        "sha256": "9297AA946D4E676066A78A6A5CAE684B1E95B4EC4EE44FF60BF00EF31D62BC4D",
+        "members": 35,
+        "image_members": 35,
+        "decoded_images": 35,
+        "uncompressed_bytes": 47270801,
+        "unsafe_members": [],
+        "image_formats": {
+          "JPEG": 35
+        }
+      },
+      {
+        "filename": "06_PRIMARY_400PPI_COLOR_FRAMES_036-070.zip",
+        "bytes": 46738712,
+        "sha256": "CE3529CB28D79049D467D6AB454FB38FE6E21FAA32512B99A47489D535E65955",
+        "members": 35,
+        "image_members": 35,
+        "decoded_images": 35,
+        "uncompressed_bytes": 46842858,
+        "unsafe_members": [],
+        "image_formats": {
+          "JPEG": 35
+        }
+      },
+      {
+        "filename": "07_PRIMARY_400PPI_COLOR_FRAMES_071-105.zip",
+        "bytes": 47741730,
+        "sha256": "CCDC460235D6EB7B02402A83E968ADF8FBF40DE4025E36F3654296F004D85434",
+        "members": 35,
+        "image_members": 35,
+        "decoded_images": 35,
+        "uncompressed_bytes": 47845001,
+        "unsafe_members": [],
+        "image_formats": {
+          "JPEG": 35
+        }
+      },
+      {
+        "filename": "08_PRIMARY_400PPI_COLOR_FRAMES_106-130.zip",
+        "bytes": 37393790,
+        "sha256": "A55CD52647EDF4540A6D6FADD00AE47D06878F8E78F15F91395D7EAF947FB78B",
+        "members": 25,
+        "image_members": 25,
+        "decoded_images": 25,
+        "uncompressed_bytes": 37484692,
+        "unsafe_members": [],
+        "image_formats": {
+          "JPEG": 25
+        }
+      }
+    ]
+  }
+}

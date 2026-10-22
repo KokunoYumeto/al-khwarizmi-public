@@ -1,0 +1,61 @@
+@page 195 163
+@lang la
+% JP2 0195: Tab. 52, p. 163: the equations of Mercury, with its corrected apogee, first station and latitude, for the
+% arguments 1s 1° to 2s 0° (and 10s 29° to 10s 0°), with the apparatus (notes 1-5 and a-k).
+@c {b:Coaequatio Mercurii} (N)
+@c {b:Tadil} (C)
+@m C 68{sup:v}, O 126{sup:r},
+@c {b:Examinatio Mercurii} (C)
+@m N 34{sup:r}.
+@c {b:Locus{sup:1}) draconis eius 0. 21. 10} (CON)
+@tw size=footnotesize span=1.14 0.85 0.85 0.85 0.85 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.75
+@t Pagina numerorum (O) |  |  |  | Sublimatio |  |  | Exami- |  | Exami- |  | Statio prima |  |  | Latitudo Mercurii |  |  |  |
+@t Semita numerorum (C) |  |  |  | ascensus{sup:2}) |  |  | natio |  | natio |  | Mercurii |  |  | ascendentis{sup:5}) |  |  |  |
+@t Augmentum |  | Diminutio |  | Mercurii |  |  | ipsius |  | centri |  |  |  |  | {b:prima} |  | {b:secunda} |  |
+@t proprietatum |  | proprietatum |  | examinata{sup:3}) |  |  | elheza{sup:4}) |  |  |  |  |  |  |  |  |  |  |
+@t omnium |  | omnium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sig} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 1 | 1 | 10 | 29 | 7 | 10 | 49 | 8 | 10 | 2 | 2 | 4 | 26 | 34 | 1 | 41 | 3 | 13 | 8
+@t 1 | 2 | 10 | 28 | 7 | 10 | 42 | 8 | 25 | 2 | 5 | 4 | 26 | 32 | 1 | 41 | 3 | 18 | 43
+@t 1 | 3 | 10 | 27 | 7 | 10 | 34 | 8 | 40 | 2 | 9 | 4 | 26 | 29 | 1 | 41 | 3 | 24 | 14
+@t 1 | 4 | 10 | 26 | 7 | 10 | 27 | 8 | 55 | 2 | 12 | 4 | 26 | 27 | 1 | 40 | 3 | 29 | 42
+@t 1 | 5 | 10 | 25 | 7 | 10 | 19 | 9 | 10 | 2 | 15 | 4 | 26 | 24 | 1 | 40 | 3 | 35 | 5
+@t 1 | 6 | 10 | 24 | 7 | 10 | 12 | 9 | 25 | 2 | 19 | 4 | 26 | 21 | 1 | 40 | 3 | 40 | 25
+@t 1 | 7 | 10 | 23 | 7 | 10 | 4 | 9 | 40 | 2 | 22 | 4 | 26 | 19 | 1 | 40 | 3 | 45 | 41
+@t 1 | 8 | 10 | 22 | 7 | 9 | 57 | 9 | 55 | 2 | 25 | 4 | 26 | 17{sup:g}) | 1 | 40 | 3 | 50 | 52
+@t 1 | 9 | 10 | 21 | 7 | 9 | 49 | 10 | 10 | 2 | 29 | 4 | 26 | 15 | 1 | 39 | 3 | 56 | 0
+@t 1 | 10 | 10 | 20 | 7 | 9 | 42 | 10 | 25 | 2 | 32 | 4 | 26 | 12 | 1 | 39 | 4 | 1 | 3
+@t 1 | 11 | 10 | 19 | 7 | 9 | 34{sup:b}) | 10 | 39{sup:d}) | 2 | 35 | 4 | 26 | 9 | 1 | 39 | 4 | 6 | 1
+@t 1 | 12 | 10 | 18 | 7 | 9 | 27{sup:c}) | 10 | 54 | 2 | 39 | 4 | 26 | 6 | 1 | 38 | 4 | 10 | 55
+@t 1 | 13 | 10 | 17 | 7 | 9 | 20 | 11 | 9 | 2 | 42 | 4 | 26 | 4 | 1 | 38 | 4 | 15 | 45
+@t 1 | 14 | 10 | 16 | 7 | 9 | 13 | 11 | 23 | 2 | 45 | 4 | 26 | 1 | 1 | 38 | 4 | 20 | 30
+@t 1 | 15 | 10 | 15 | 7 | 9 | 5 | 11 | 38 | 2 | 49 | 4 | 25 | 58 | 1 | 38 | 4 | 25{sup:i}) | 10
+@t 1 | 16 | 10 | 14 | 7 | 8 | 58 | 11 | 52 | 2 | 51 | 4 | 25 | 56 | 1 | 37 | 4 | 29 | 45
+@t 1 | 17 | 10 | 13 | 7 | 8 | 51 | 12 | 6 | 2 | 54 | 4 | 25 | 53 | 1 | 37 | 4 | 34 | 15
+@t 1 | 18 | 10 | 12 | 7 | 8 | 44 | 12 | 20 | 2 | 57 | 4 | 25 | 50 | 1 | 37 | 4 | 38 | 41
+@t 1 | 19 | 10 | 11 | 7 | 8 | 37 | 12 | 34{sup:e}) | 2 | 59 | 4 | 25 | 48 | 1 | 37 | 4 | 43 | 1
+@t 1 | 20 | 10 | 10 | 7 | 8 | 30 | 12 | 48 | 3 | 1 | 4 | 25 | 45 | 1 | 36 | 4 | 47 | 16
+@t 1 | 21 | 10 | 9 | 7 | 8 | 23 | 13 | 2 | 3 | 4 | 4 | 25 | 42 | 1 | 36 | 4 | 51 | 26
+@t 1 | 22 | 10 | 8 | 7 | 8 | 16 | 13 | 16 | 3 | 7 | 4 | 25 | 40 | 1 | 36 | 4 | 55 | 30
+@t 1 | 23 | 10 | 7 | 7 | 8 | 10 | 13 | 29 | 3 | 9 | 4 | 25 | 37 | 1 | 35 | 4 | 59 | 29
+@t 1 | 24 | 10 | 6 | 7 | 8 | 3 | 13 | 43 | 3 | 12 | 4 | 25 | 34 | 1 | 35 | 5 | 3 | 23
+@t 1 | 25 | 10 | 5 | 7 | 7 | 56 | 13 | 56 | 3 | 14 | 4 | 25 | 30 | 1 | 35 | 5 | 7 | 11
+@t 1 | 26 | 10 | 4 | 7 | 7 | 50 | 14 | 9 | 3 | 17 | 4 | 25 | 27 | 1 | 34 | 5 | 10 | 53{sup:k})
+@t 1 | 27 | 10 | 3 | 7 | 7 | 43 | 14 | 22 | 3 | 20 | 4 | 25 | 24 | 1 | 34 | 5 | 14 | 30
+@t 1 | 28 | 10 | 2 | 7 | 7 | 37 | 14 | 35 | 3 | 23 | 4 | 25 | 22 | 1 | 34 | 5 | 18 | 1
+@t 1 | 29 | 10 | 1 | 7 | 7 | 30 | 14 | 48 | 3 | 25 | 4 | 25 | 20 | 1 | 33 | 5 | 21 | 26
+@t 2{sup:a}) | 0 | 10 | 0 | 7 | 7 | 24 | 15 | 1{sup:f}) | 3 | 27 | 4 | 25 | 18{sup:h}) | 1 | 33 | 5 | 24 | 46
+@n {sup:1}) Locus] O, Locus vero C, Locus autem N — {sup:2}) ascensus] O, {i:om.} C — {sup:3}) examinata] O, definita C
+@n — {sup:4}) ipsius elheza] O, argumenti C — {sup:5}) Mercurii ascendentis] O, ascensus Mercurii C, accessus Mercurii N.
+@n {sup:a}) 2] N, 1 CO — {sup:b}) 34] ON, 32 C — {sup:c}) 27] O, 37 C — {sup:d}) 39] C, 32 O — {sup:e}) 34] O, 35 C — {sup:f}) 1]
+@n C, 50 O — {sup:g}) 17] ON, 16 C — {sup:h}) 18] ON, 28 C — {sup:i}) 25] ON. 35 C — {sup:k}) 53] 23 CO.
+@obs The page number «163» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 52», in bold sans serif, underlined. At the foot, the signature «21*» on the right; recorded here, not transcribed as a line. The titles (L01-L04), in bold, the sigla in roman: N's title, «Tadil (C)» and «Examinatio Mercurii (C)»; L04, «Locus1) draconis eius 0. 21. 10», in smaller bold type, followed by «(CON)». The folios of the manuscripts stand at the right of L03 and L04, «C 68v, O 126r,» and «N 34r.», the letters raised; here as right margin notes.
+@obs The table: rules and heads as on p. 162 (JP2 0194), with «Pagina numerorum (O) Semita numerorum (C)»; «Sublimatio ascensus2) Mercurii examinata3)»; «Examinatio ipsius elheza4)» and «Examinatio centri», each hyphenated «Exami-natio»; «Statio prima Mercurii»; «Latitudo Mercurii ascendentis5)» over «prima» and «secunda» in smaller bold type. Here each head is set from the top, one printed line to a line (L05-L09), the cells separated by our «|»; a head followed by empty cells spans their columns. L10, the units, in bold.
+@obs L11-L40. Checked as on p. 162 (JP2 0194): the Sublimatio is 7s 14° 54′ less half the Examinatio argumenti in every row, a half minute counted as a whole, except at 41° (L21), where 7s 9° 34′ stands for 7s 9° 34½′, with the edition's 10° 39′ (note d, C, against O's 32); C's 7s 9° 32′ (note b) is 2½′ less. The Examinatio argumenti agrees with the equation of the epicycle of radius 21.97 of p. 162 to within 1.1′ in every row; the radius that reproduces each value is between 21.94 and 22.01. The Latitudo secunda is 6° 15′ · sin x to within 0.5″ in every row.
+@obs L11-L40, the other columns: the Examinatio centri increases by 2′ to 4′ a degree to 3° 27′ at 60°; it lies between 0.4′ below and 2.9′ above 3° 56′ · sin x. The Statio prima decreases from 4s 26° 34′ to 4s 25° 18′ by 2′ to 4′ a degree. The Latitudo prima is 1° 41′ to 33°, 1° 40′ to 38°, 1° 39′ to 41°, 1° 38′ to 45°, 1° 37′ to 49°, 1° 36′ to 52°, 1° 35′ to 55°, 1° 34′ to 58° and 1° 33′ at 59° and 60°.
+@obs Notes on the readings. Note a: the last argument, 2s 0°, is N's; C and O have 1. Checked: O's 7s 9° 27′ at 42° (note c, against C's 37) agrees with the rule; at 49° (note e) both O's 12° 34′ and C's 35 agree with the Sublimatio of the row, 7s 8° 37′, and the steps of 14′ and the epicycle, 12° 33.7′, favour the 34 of the edition; C's 15° 1′ at 60° (note f, against O's 50) agrees with the Sublimatio, 7s 7° 24′, and with the epicycle, 15° 0.3′. The Statio prima 4s 26° 17′ at 38° and 4s 25° 18′ at 60° (notes g and h, O and N) fit the steps of the column; the Latitudo secunda 4° 25′ 10″ at 45° (note i, O and N, against C's 35), 4° 25′ 9.9″ computed, and 5° 10′ 53″ at 56° (note k), the edition's 53 against the 23 of C and O, 5° 10′ 53.4″ computed; the note does not say «correxi».
+@obs Italics: «om.». L02, «Tadil (C)»; L10, «Gr» in the units of the Diminutio and «Sig» in the units of the Statio prima, without their points; N04, «ON. 35 C»: see the critical notes.
+@critical AK07-CN151 | wrong siglum | L02 | {b:Tadil} (C) | {b:Tadil} (O) | each title is followed by the siglum of its manuscript, and C's title is «Examinatio Mercurii (C)» in the next line; the folio line gives O 126r for this page, and O's titles are «Tadil elotari elketib (O)» on p. 162 and «Elotari (O)» on p. 164 (JP2 0194, 0196); a C is printed for the O | medium | none
+@critical AK07-CN152 | missing point | L10 | {b:Gr} | {b:Gr.} | the unit of the Diminutio, «Gr.» in the other columns and on pp. 162 and 164 (JP2 0194, 0196) | high | none
+@critical AK07-CN153 | missing point | L10 | {b:Sig} | {b:Sig.} | the unit of the Statio prima, «Sig.» in the other columns and on pp. 162 and 164 (JP2 0194, 0196) | high | none
+@critical AK07-CN154 | wrong punctuation | N04 | {sup:i}) 25] ON. 35 C | {sup:i}) 25] ON, 35 C | the readings of a note are divided by a comma, as «h) 18] ON, 28 C» beside it; a point is printed after ON | high | none

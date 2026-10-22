@@ -1,0 +1,27 @@
+@page 35 ٢١
+% Frame 035, printed p. 21: the end of the second compound kind (the impossible case and the case of equal roots);
+% the third compound kind, roots and numbers equal to squares: "three roots and four of number equal a square";
+% the summary of the six kinds; the geometric demonstrations begin: "a square and ten roots equal thirty-nine
+% dirhams". Two footnotes of the editors, (١) and (٢).
+مثلها فكان مبلغ ذلك أقل من الدراهم التى مع المال فالمسئلة مستحيلة {n:١}
+وإن كان مثل الدراهم بعينها {n:٢} فجذر المال مثل نصف الاجذار سواء
+لا زيادة ولا نقصان . وكل ما أتاك من مالين أو أكثر أو أقل فاردده الى
+مال واحد كنحو ما بينت لك فى الباب الاول .
+@p وأما الجذور والعدد التى تعدل الأموال فنحو قولك ثلثة اجذار وأربعةمن
+العدد تعدل مالا . فبابه أن تنصف الأجذار فتكون واحدا ونصفا فاضربها فى
+مثلها فتكون اثنين وربعا فزدها على الاربعة فتكون ستةوربعا فخذ جذرهاوهو
+اثنان ونصف فزده على نصف الأجذار وهو واحد ونصف فتكون اربعة وهوجذر
+المال ، والمال ستة عشر وكل ماكان اكثر من مال أو أقل فاردده إلى مال واحد
+@p فهذه الستة الضروب التى ذكرتها فى صدر كتابى هذا وقد أتيت على تفسيرها
+وأخبرت أن منها ثلثة ضروب لا تنصف فيها الأجذار وقد بينت قياسها
+واضطرارها . فأما ما تحتاج فيه إلى تنصيف الأجذار فى الثلاثة الأبواب الباقية
+فقد وصفته بأبواب صحيحة وصيرت لكل باب منها صورة يستدل منها على العلة
+فى التنصيف .
+@p فأما علة مال وعشرة أجذار تعدل تسعة وثلاثين درهما فصورة ذلك سطح
+@ednotes ١ ٢ 6
+@obs L05, L11: ثلثة, spelled without the alif, as printed (L12 has الثلاثة).
+@obs Set without a word space after a non-connecting letter, and transcribed so: وأربعةمن (L05), ستةوربعا, جذرهاوهو (L07), وهوجذر (L08), ماكان (L09). After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: فتكون اربعة (L08), أتيت على (L10). L08: in واحد ونصف the د and the و stand 38 px apart (nearest approach of the letters, at 400 ppi), as far as the other word spaces of the line, and a space is transcribed; in وهوجذر the و and the ج stand 28 px apart, as in وهوجذر on frame 33 (L03, 26 px), where the same words set with a space (frame 33, L13) stand 46 px apart. L03: in لا زيادة the ا and the ز stand 24 px apart; without a word space the same letters stand 11 to 14 px apart (مازدنا, frame 037; أردنا, frame 043), and a space is transcribed.
+@obs Plain alif where a hamza might be expected, as printed: الاجذار (L02), الى (L03; L09 and L12 have إلى), الاول (L04), اجذار (L05), الاربعة (L07), اربعة (L08), اكثر (L09; L03 has أكثر).
+@obs Without tanwīn as printed: مالا, واحدا, ونصفا (L06), وربعا (L07), درهما (L15).
+@obs L01: the note mark (١) ends the line, after مستحيلة; L09 ends without a full stop, as printed.
+@copy Pencil mark of a reader of the Columbia copy: an asterisk in the second line of the editors' note (١).

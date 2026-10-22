@@ -1,0 +1,53 @@
+@page 213 181
+@lang la
+% JP2 0213: Tab. 67, p. 181: the equation of time (Pagina examinationis dierum) for every degree of the sun from Aries
+% to Virgo, in minutes and seconds of time, with the apparatus (notes 1-4 and a-v).
+@m C 80{sup:r}, O 137{sup:r}.
+@c {b:Pagina examinationis dierum} (O)
+@tw size=footnotesize span=1.0 1.0 0.75 0.75 0.75 0.75 0.75 0.75 0.75 0.75 0.75 0.75 0.75 0.75
+@t Gradus | Aries |  | Taurus |  | Gemini |  | Cancer |  | Leo |  | Virgo |
+@t regulares{sup:1}) | Examinatio |  | Examinatio |  | Examinatio |  | Examinatio |  | Examinatio |  | Examinatio |
+@t  | dierum{sup:2}) |  | dierum |  | dierum |  | dierum |  | dierum |  | dierum{sup:2}) |
+@t  | {b:Min.}{sup:3}) | {b:Sec.}{sup:4}) | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.}
+@t 1 | 8 | 8 | 18 | 48 | 23 | 28 | 19 | 28{sup:i}) | 14 | 40 | 17 | 48
+@t 2 | 8 | 28 | 19 | 4 | 23 | 28 | 19 | 12 | 14{sup:r}) | 40 | 18 | 4
+@t 3 | 8 | 48 | 19 | 20 | 23 | 27 | 19 | 0 | 14 | 40 | 18 | 20
+@t 4 | 9 | 12 | 19 | 40 | 23 | 26 | 18 | 48 | 14 | 40 | 18 | 40
+@t 5 | 9 | 32 | 19 | 56 | 23 | 24 | 18 | 32 | 14 | 40 | 19 | 0
+@t 6 | 9 | 52 | 20 | 12 | 23 | 20 | 18 | 20 | 14 | 40 | 19 | 16
+@t 7 | 10 | 16 | 20 | 28 | 23 | 16 | 18 | 8{sup:k}) | 14 | 40 | 19 | 32
+@t 8 | 10 | 40 | 20 | 40 | 23 | 12 | 17 | 56 | 14 | 41{sup:s}) | 19 | 48
+@t 9 | 11 | 4 | 20 | 52 | 23 | 6 | 17 | 44 | 14 | 42 | 20 | 4
+@t 10 | 11 | 28 | 21 | 4 | 23 | 0 | 17 | 32{sup:l}) | 14 | 44 | 20 | 24
+@t 11 | 11 | 48 | 21 | 20 | 22 | 54 | 17 | 20 | 14 | 48 | 20 | 44
+@t 12 | 12 | 12 | 21 | 32 | 22 | 44{sup:d}) | 17 | 8 | 14 | 52 | 21 | 0
+@t 13 | 12 | 40 | 21 | 44 | 22 | 36 | 17 | 0 | 14{sup:r}) | 56 | 21 | 20
+@t 14 | 13 | 4 | 21 | 52 | 22 | 28{sup:e}) | 16 | 48 | 15 | 0 | 21 | 40
+@t 15 | 13 | 24 | 22 | 4 | 22 | 20 | 16 | 36 | 15 | 4 | 21 | 56
+@t 16 | 13 | 48 | 22 | 16 | 22 | 12{sup:f}) | 16 | 28 | 15 | 10{sup:t}) | 22 | 16{sup:u})
+@t 17 | 14 | 8 | 22 | 24 | 22 | 4 | 16 | 16 | 15 | 20 | 22 | 36
+@t 18 | 14 | 28 | 22 | 32{sup:b}) | 21 | 56 | 16 | 8 | 15 | 28 | 22 | 52
+@t 19 | 14 | 48 | 22 | 40 | 21 | 44 | 16 | 0 | 15 | 36 | 23 | 12
+@t 20 | 15 | 8 | 22 | 48 | 21 | 32 | 15 | 52{sup:m}) | 15 | 44 | 23 | 32{sup:v})
+@t 21 | 15 | 28 | 22 | 56 | 21 | 24{sup:g}) | 15 | 44 | 15 | 52 | 23 | 52
+@t 22 | 15 | 52 | 23 | 0 | 21 | 12 | 15 | 36 | 16 | 0 | 24 | 16
+@t 23 | 16 | 12 | 23 | 8 | 21 | 0 | 15 | 32 | 16 | 8 | 24 | 36
+@t 24 | 16 | 32{sup:a}) | 23 | 12 | 20 | 48 | 15 | 24{sup:n}) | 16 | 20 | 24 | 52
+@t 25 | 16 | 52 | 23 | 16 | 20 | 36{sup:h}) | 15 | 16{sup:o}) | 16 | 32 | 25 | 12
+@t 26 | 17 | 8 | 23 | 20 | 20 | 24 | 15 | 8 | 16 | 48 | 25 | 32
+@t 27 | 17 | 28 | 23 | 24 | 20 | 14 | 15 | 0 | 17 | 0 | 25 | 52
+@t 28 | 17 | 48 | 23 | 26{sup:c}) | 20 | 4 | 14 | 56{sup:p}) | 17 | 12 | 26 | 12
+@t 29 | 18 | 8 | 23 | 27 | 19 | 54 | 14 | 52{sup:q}) | 17 | 24 | 26 | 32
+@t 30 | 18 | 28 | 23 | 28 | 19 | 40 | 14 | 44 | 17 | 36 | 26 | 52
+@n {sup:1}) regulares] O, aequales C — {sup:2})—{sup:2}) Examinatio dierum] O, {i:om.} C — {sup:3}) Min.] Dakaicae horar. O,
+@n Dak. horar. C, {i:itemque in cet. colum.} — {sup:4}) Sec.] theniae C, thevvinae {i:sive} theuuinae O, {i:itemque in cet. colum.}
+@n {sup:a}) 32] O, 52 C — {sup:b}) 32] O, 22 C — {sup:c}) 26] C, 24 O — {sup:d}) 44] O, 42 C — {sup:e}) 28] C, 37 O — {sup:f}) 12]
+@n C, 2 O — {sup:g}) 24] O, 25 C — {sup:h}) 36] 26 CO — {sup:i}) 28] O, 18 C — {sup:k}) 8] C, 3 O — {sup:l}) 32] O, 31 C — {sup:m}) 52]
+@n O, 12 C — {sup:n}) 24] O, 34 C — {sup:o}) 16] O, 36 C — {sup:p}) 56] O, 16 C — {sup:q}) 52] O, 12 C — {sup:r})—{sup:r}) 14] C, 24 O
+@n — {sup:s}) 41] C, 40 O — {sup:t}) 10] O, 0 C — {sup:u}) 16] O, 15 C — {sup:v}) 32] O, 22 C.
+@obs The page number «181» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 67», in bold sans serif, underlined. The page has no signature. The title (L01), «Pagina examinationis dierum (O)», the table of the equation of days, in bold, the siglum in roman. The folios of the manuscripts, «C 80r, O 137r.», stand at the right of the title, the letters raised; here as a right margin note.
+@obs The table: a column «Gradus regulares1)», printed upwards, and six groups divided by double vertical rules, one for each sign from Aries to Virgo, each headed by the name of the sign and «Examinatio dierum», with note 2 at the first and the last, and divided into «Min.» and «Sec.», the units of the first group with notes 3 and 4, in smaller bold type. Here each head is set from the top, one printed line to a line (L02-L05), «Gradus regulares» divided over the first two of them; the cells separated by our «|»; a head followed by an empty cell spans the two columns of its group.
+@obs L06-L35. The table gives the equation of time, «examinatio dierum», the difference between true and mean time (Suter, p. 80, JP2 0112, L11-L21), for every degree of the sun from Aries 1° to Virgo 30°, in minutes and seconds of time; Tab. 68 (p. 182, JP2 0214) continues it from Libra to Pisces. The seconds are mostly multiples of 4, whole minutes of arc of the equator at 4 seconds of time each; they are not at Taurus 28° and 29° and Gemini 3° and 4°, 23m 26s, 23m 27s, 23m 27s and 23m 26s, beside the second greatest value, 23m 28s at Taurus 30° to Gemini 2°, at Leo 8° and 9°, 14m 41s and 14m 42s, after the least value of this page, 14m 40s at Leo 1° to 7°, and at Gemini 9°, 11°, 27° and 29° and Leo 16°, 23m 6s, 22m 54s, 20m 14s, 19m 54s and 15m 10s, half minutes of arc.
+@obs L06-L35. Checked, with Tab. 68: the 360 values are the sum of 4° 30′, of the reduction λ − α to the equator of the longitude 2° less than the argument, α its right ascension with the obliquity 23° 51′, and of 2° 23′ · sin(λ − 2s 24° 41′), converted to time at 4 minutes to the degree: within 1′ of arc (4 s of time) in 293 rows and within 2′ (8 s) in 357, the exceptions Aries 6° (L11), 9m 52s, 8.6 s less, and Sagittarius 26° and 27° on p. 182. With the reduction taken at the argument itself the departures reach 15′ of arc (60 s of time). The equation of time computed in the usual way from al-Khwārizmī's own values, the obliquity 23° 51′, the solar apogee 2s 17° 55′ and the greatest equation of the sun 2° 14′ (p. 9, JP2 0041; p. 45, JP2 0077, L07), with its least value set to zero, departs from the table by up to 2m 15s, at Sagittarius 26°.
+@obs Notes on the readings. Checked by this law and by the steps of the columns: the edition's readings are the nearer, and the variants depart from the law by 7.7 s to 42.0 s and break the steps of their columns, at Aries 24° (note a, O's 16m 32s against C's 52; 16m 33.7s by the law), Taurus 18° (b, O's 32 against C's 22), Gemini 14°, 16° and 25° (e, f and h: C's 28 against O's 37, C's 12 against O's 2, the edition's 36 against the 26 of C and O), Cancer 1° and 7° (i and k: O's 28 against C's 18, C's 8 against O's 3), Cancer 20°, 24°, 25°, 28° and 29° (m-q: O's 52, 24, 16, 56 and 52 against C's 12, 34, 36, 16 and 12), Leo 16° (t, O's 10 against C's 0) and Virgo 20° (v, O's 32 against C's 22). At Taurus 28°, Gemini 12° and 21°, Cancer 10°, Leo 8° and Virgo 16° (notes c, d, g, l, s and u) the readings differ by 1 or 2 seconds, within the precision of the table. Notes r-r: the minutes 14 of C from Leo 2° to 13°, against O's 24.
+@obs Notes 1-4: C's «aequales» for «regulares»; C omits the heads «Examinatio dierum» from Aries to Virgo (note 2, «2)—2)»); the units in O, «Dakaicae horar.» and «thevvinae sive theuuinae», in C «Dak. horar.» and «theniae», daqāʾiq and thawānī, minutes and seconds of the hours. Italics: «om.», «sive», «itemque in cet. colum.».

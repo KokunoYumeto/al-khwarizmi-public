@@ -1,0 +1,21 @@
+{
+ "anchor": "AK01-F020",
+ "frame": 20,
+ "frame_file": "page_020.jpg",
+ "frame_sha256": "6bbcec1394c33b036d08adabfb9cb4937c6324e1a6bf5899d2f27c1bc79ddcf4",
+ "printed_page": "٨",
+ "kind": "editorial",
+ "role": "MODERN_EDITORIAL (not reproduced)",
+ "comment": "Frame 020: the editors' study «الجبر قبل الخوارزمى» (algebra before al-Khwārizmī), with footnotes.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [
+  "the editors' study «الجبر قبل الخوارزمى» (algebra before al-Khwārizmī), with footnotes"
+ ],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [],
+ "copy_matter": [],
+ "critical_notes": []
+}

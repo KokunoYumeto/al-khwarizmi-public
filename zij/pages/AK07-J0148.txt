@@ -1,0 +1,49 @@
+@page 148 116
+@lang la
+% JP2 0148: Tab. 5, p. 116: the mean motion of the sun in 1-30 days, in 1-24 hours and in 2-60 minutes of an hour,
+% in signs, degrees, minutes and seconds, with the apparatus (notes 1-6 and a-f).
+@ml C 46{sup:r}, O 102{sup:v}.
+@c {b:Elwacat solis} (C) — {b:Medialitas solis} (O)
+@tw size=footnotesize span=1.1 1.2 0.8 0.8 0.9 0.9 1.2 0.8 0.8 0.9 0.9 1.2 0.8 0.8 0.9 0.9
+@t Nume- | Medialitas solis | | | | Nume- | Medialitas solis | | | | Partes | Medialitas solis | | |
+@t rus | in diebus{sup:1}) | | | | rus | in horis{sup:2}) | | | | hora- | in partibus horarum{sup:4}) | | |
+@t dierum | | | | | hora- | | | | | rum{sup:3}) | | | |
+@t | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:5}) | {b:Sec.}{sup:6}) | rum | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:5}) | {b:Sec.}{sup:6}) | | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:5}) | {b:Sec.}{sup:6})
+@t 1 | 0 | 0 | 59 | 8 | 1 | 0 | 0 | 2 | 28 | 2 | 0 | 0 | 0 | 5
+@t 2 | 0 | 1 | 58 | 16 | 2 | 0 | 0 | 4 | 56 | 4 | 0 | 0 | 0 | 8
+@t 3 | 0 | 2 | 57 | 24 | 3 | 0 | 0 | 7 | 24 | 6{sup:d}) | 0 | 0 | 0 | 15
+@t 4 | 0 | 3 | 56{sup:a}) | 33 | 4 | 0 | 0 | 9 | 51 | 8 | 0 | 0 | 0 | 20
+@t 5 | 0 | 4 | 55 | 41 | 5 | 0 | 0 | 12 | 19 | 10 | 0 | 0 | 0 | 25
+@t 6 | 0 | 5 | 54 | 49 | 6 | 0 | 0 | 14 | 47 | 12 | 0 | 0 | 0 | 30
+@t 7 | 0 | 6 | 53 | 57 | 7{sup:c}) | 0 | 0 | 17 | 15 | 14 | 0 | 0 | 0 | 34{sup:f})
+@t 8 | 0 | 7 | 53 | 5 | 8 | 0 | 0 | 19 | 43 | 16 | 0 | 0 | 0 | 39
+@t 9 | 0 | 8 | 52 | 13 | 9 | 0 | 0 | 22 | 10 | 18 | 0 | 0 | 0 | 44
+@t 10 | 0 | 9 | 51 | 22 | 10 | 0 | 0 | 24 | 38 | 20 | 0 | 0 | 0 | 49
+@t 11 | 0 | 10 | 50 | 30 | 11 | 0 | 0 | 27 | 6 | 22 | 0 | 0 | 0 | 54
+@t 12 | 0 | 11 | 49 | 38 | 12 | 0 | 0 | 29 | 34 | 24 | 0 | 0 | 0 | 59
+@t 13 | 0 | 12 | 48 | 46 | 13 | 0 | 0 | 32 | 2 | 26 | 0 | 0 | 1 | 4
+@t 14 | 0 | 13 | 47 | 54 | 14 | 0 | 0 | 34 | 30 | 28 | 0 | 0 | 1 | 9
+@t 15 | 0 | 14 | 47 | 2 | 15 | 0 | 0 | 36 | 58 | 30 | 0 | 0 | 1 | 14
+@t 16 | 0 | 15 | 46 | 11 | 16 | 0 | 0 | 39 | 25 | 32 | 0 | 0 | 1 | 19
+@t 17 | 0 | 16 | 45 | 19 | 17 | 0 | 0 | 41 | 53 | 34{sup:e}) | 0 | 0 | 1 | 25
+@t 18 | 0 | 17 | 44 | 27 | 18 | 0 | 0 | 44 | 21 | 36 | 0 | 0 | 1 | 29
+@t 19 | 0 | 18 | 43 | 35 | 19 | 0 | 0 | 46 | 49 | 38 | 0 | 0 | 1 | 34
+@t 20 | 0 | 19 | 42 | 43 | 20 | 0 | 0 | 49 | 17 | 40 | 0 | 0 | 1 | 39
+@t 21 | 0 | 20 | 41 | 51 | 21 | 0 | 0 | 51 | 45 | 42 | 0 | 0 | 1 | 43
+@t 22 | 0 | 21 | 40{sup:b}) | 59 | 22 | 0 | 0 | 54 | 52 | 44 | 0 | 0 | 1 | 48
+@t 23 | 0 | 22 | 40 | 8 | 23 | 0 | 0 | 56 | 40 | 46 | 0 | 0 | 1 | 53
+@t 24 | 0 | 23 | 39 | 16 | 24 | 0 | 0 | 59 | 8 | 48 | 0 | 0 | 1 | 58
+@t 25 | 0 | 24 | 38 | 24 | | | | | | 50 | 0 | 0 | 2 | 3
+@t 26 | 0 | 25 | 37 | 32 | | | | | | 52 | 0 | 0 | 2 | 8
+@t 27 | 0 | 26 | 36 | 40 | | | | | | 54 | 0 | 0 | 2 | 13
+@t 28 | 0 | 27 | 35 | 49 | | | | | | 56 | 0 | 0 | 2 | 18
+@t 29 | 0 | 28 | 34 | 57 | | | | | | 58 | 0 | 0 | 2 | 23
+@t 30 | 0 | 29 | 34 | 5 | | | | | | 60 | 0 | 0 | 2 | 28
+@n {sup:1}) Medialitas . . . . diebus] O, elwacat solis filiaum C — {sup:2}) Medialitas . . . . horis] O, wacat elishemz ({i:sic})
+@n filacaat C — {sup:3}) Partes horarum] O, Dakaicae horarum C — {sup:4}) Medialitas . . . . horarum] O, wacat solis fil
+@n dakaik elcaat C — {sup:5}) Min.] O, dakaicae C — {sup:6}) Sec.] O, theniae C.
+@n {sup:a}) 56] O, 57 C — {sup:b}) 40] O, 41 C — {sup:c}) 7] O, 6 C — {sup:d}) 6] O, 7 C — {sup:e}) 34] O, 14 C — {sup:f}) 34] O, 33 C.
+@obs The page number «116» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 5», in bold sans serif, underlined. The title (L01), in bold, the sigla in roman, as on p. 115; the folios of the manuscripts, «C 46r, O 102v.», stand at the left, a little lower, the letters r and v raised; here as a left margin note. The page has no signature.
+@obs The table: a thick and a thin rule above the head, a double rule below it; vertical rules divide the fifteen columns, double ones after each column of arguments and before each; thin rules under the heads that span the four columns of signs, degrees, minutes and seconds, whose heads «Sig.», «Gr.», «Min.», «Sec.» are set in small bold type. «Nume-rus dierum», «Nume-rus hora-rum» and «Partes hora-rum» are printed in three or four lines (L02-L05). Each printed row is one line here, the cells separated by our «|»; a head followed by empty cells spans their columns. The column of the hours ends with 24 (L29).
+@obs L06-L35. Checked against al-Khwārizmī's sidereal year, 365.2584375 days (p. 42, JP2 0074), a daily mean motion of 59′ 8″ 10‴ 21⁗ (p. 65, JP2 0097): the 30 days agree with n × 59′ 8.17″ to within 0.8″, some values rounded and some cut off (with the readings of notes a and b). The hours, with the hourly motion 2′ 27.84″, agree to within 0.6″, except the 22 hours: 54′ 52″ against 54′ 12.5″, 40″ too large, between the correct 51′ 45″ and 56′ 40″ of the 21 and 23 hours. The «partes horarum» are the sixtieths of an hour, 60 of them the 2′ 28″ of one hour: the values agree with p × 2.464″ to within 0.5″, except 4 parts, 8″ against 9.9″, and 34 parts, 1′ 25″ against 1′ 23.8″. No note of the apparatus bears on these three values; they are recorded here, without critical notes.
+@obs N01-N03: C's Arabic heads, «elwacat solis filiaum», «wacat elishemz (sic) filacaat», «Dakaicae horarum», «wacat solis fil dakaik elcaat»: the mean motion of the sun in the days, in the hours and in the minutes of the hours (Suter, p. 36, JP2 0068, on «dakaicae» and «theniae»). N04: the notes c, d and e are on the arguments 7 (hours), 6 and 34 (parts), a, b and f on the values. The ellipses «. . . .» of the lemmata as printed; «sic» in italics.

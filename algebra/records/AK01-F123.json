@@ -1,0 +1,21 @@
+{
+ "anchor": "AK01-F123",
+ "frame": 123,
+ "frame_file": "page_123.jpg",
+ "frame_sha256": "0a3f75a8f4163a51bc198872374c9bbe5d7a3df4c010fa2bb74e93d330f15307",
+ "printed_page": "-",
+ "kind": "blank",
+ "role": "blank",
+ "comment": "Frame 123: a blank leaf side, after the last page of the text (frame 122, p. ١٠٦).",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Blank, on the white paper of the text leaves; nothing printed."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,49 @@
+@page 44 12
+@lang la
+% JP2 0044: the Latin text, p. 12: chapter 11, the places of Venus and Mercury; chapter 12, the place of the dragon
+% (the node); chapter 13, the stations, the progression and the retrogradation of the planets; chapter 14, the time of
+% retrogradation, begins; with the apparatus (notes 1-33).
+@c {b:Cap. 11. De locis{sup:1}) Veneris{sup:2}) et Mercurii inveniendis{sup:3}).}
+@p Loca vero{sup:4}) veneris et mercurii quemadmodum supradictorum quaerenda
+sunt{sup:5}), excepto quod eorum in libro scriptum est argumentum atque eorundem et
+solis unum idemque est {i:elwacat}{sup:6}).
+@c {b:Cap. 12. De loco draconis inveniendo{sup:7}).}
+@p Locus itaque{sup:8}) draconis sic habendus est : Notabitur suum {i:elwacat}{sup:9}) atque
+a XII signis auferetur. Quod autem{sup:10}) residuum fuerit{sup:11}), locum draconis desig-
+nabis{sup:12}).
+@c {b:Cap. 13. De statione et progressione et retrogradatione planetarum.}
+@p Sciendum quoque{sup:13}) quibus horis planetae progredientes, quibus etiam retro-
+gradi, quibus stationarii fiant{sup:14}) hoc modo : Per numerum centri examinati cuius-
+libet V planetarum in tabulam{sup:15}) stationis primae intrabitur eiusque{sup:16}) adiunctum
+notabitur. Deinde ipsa statio prima de{sup:17}) XII signis auferetur. Quod autem{sup:18}) re-
+siduum fuerit, {i:elmukaam eltheni}, id est statio secunda dicetur{sup:19}). Postea vero argu-
+mentum examinatum{sup:20}) ipsius planetae sumetur{sup:21}). Quod si alterutri stationum{sup:22})
+aequale fuerit, in ea{sup:23}) stationarius est. Sin autem inter utramque, maius videlicet
+prima minusque secunda, retrogradus. Alioquin directe progredi procul dubio
+cognoscatur{sup:24}).
+@c {b:Cap. 14. De spatio temporis secundum praedictas stationes{sup:25}).}
+@p Si vero scire desideras, quanto tempore retrogradi fuerint{sup:26}), cum quilibet
+planeta retrogradus fuerit{sup:27}), statio prima et argumentum inventum captanda erunt,
+capteturque argumentum{sup:28}), quod{sup:29}) huic inquisitioni proprium est ; per quod qui-
+dem{sup:30}) coniectabitur, quanto tempore praesens planeta id quo superatur statio prima
+ab argumento examinato{sup:31}) transeat ; tanto enim tempore{sup:32}) retrogradum eum{sup:33})
+@n {sup:1}) locis] loco O. — {sup:2}) Veneris] veneneris C. — {sup:3}) inveniendis] {i:om.} O. — {sup:4}) Loca vero] Locus O. —
+@n {sup:5}) quemadmodum . . . . sunt] sicut et supradicta quaerendus est O. — {sup:6}) eorundem . . . . elwacat] C,
+@n medialitas eorum medialitas est solis O. — {sup:7}) inveniendo] {i:om.} O. — {sup:8}) itaque] {i:om.} O. — {sup:9}) suum elwacat]
+@n sua medialitas O. — {sup:10}) Quod autem] Quodque O. — {sup:11}) fuerit] fuerit, ab ariete incipiendo signis dabi-
+@n tur, atque ubi deficiet O. — {sup:12}) designabis] C, designabit M, intelligemus O. — {sup:13}) quoque] etiam O. —
+@n {sup:14}) fiant] fiat M. — {sup:15}) examinati . . . . tabulam] inventum pagina O. — {sup:16}) eiusque] eiusdemque M. —
+@n {sup:17}) de] a O. — {sup:18}) autem] vero O. — {sup:19}) elmukaam . . . . dicetur] statio dicetur secunda O. — {sup:20}) exami-
+@n natum] inventum O. — {sup:21}) sumetur] C, sumatur O, invenietur M. — {sup:22}) alterutri stationum] ipsi stationi
+@n primae O. — {sup:23}) ea] statione prima O. — {sup:24}) Sin . . . . cognoscatur] ut retro vertatur. Si vero maius, ad
+@n stationem secundam promovetur. Cum vero stationi secundae aequale fuerit, stabit ut ad viam diriga-
+@n tur, si vero statione secunda maius fuerit, in directione promotus ad stationem primam tendit O —
+@n cognoscatur] C, cognoscitur M. — {sup:25}) praedictas stationes] M, praedictos status C, supradictas actiones
+@n O. — {sup:26}) fuerint] vel etiam redeuntes extiterint hoc modo fiet O. — {sup:27}) fuerit] fuit M. — {sup:28}) statio . . . .
+@n argumentum] stationem primam atque argumentum eius examinatum captandum erit, quaereturque
+@n elheca CM. — {sup:29}) quod] qui C. — {sup:30}) quidem] quilibet M. — {sup:31}) quo . . . . examinato] quod inter statio-
+@n nem primam et argumentum inventum fuerit O. — {sup:32}) tempore] temporis CM. — {sup:33}) eum] {i:om.} O.
+@obs The page number «12» stands at the head of the page, centred, with a rule below it. L01, L05, L09 and L19: the headings of chapters 11-14, in bold, centred; the heading of chapter 13 has no note. No folios of the manuscripts are printed in the margins of this page.
+@obs L14: «elmukaam eltheni», the second station (al-maqām al-thānī), in italics. L06 «Notabitur» and L11 «Per» begin with a capital after the colon.
+@obs The colons of L06 and L11 and the semicolons of L22 and L24 stand after the thin space of the edition (10-11 px measured). N11: «tendit O —», without a point after the siglum before the dash.
+@obs L24: the first word, «ab», is set with its two letters 6 px apart, in a line set wide (word spaces 37-42 px); transcribed «ab».

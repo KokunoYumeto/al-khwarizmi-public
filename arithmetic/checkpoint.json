@@ -1,0 +1,14 @@
+{
+ "lane": "AK02 arithmetic (Boncompagni 1857, the Munich copy, 30 frames)",
+ "canonical_source_checkpoint_sha256": "cabd85ec2d67cbe4481030439b16c522dcd5a90c4478ec16929685d041f42942",
+ "canonical_source_checkpoint_note": "SHA-256 over the page files in order: file name, a NUL byte, the bytes",
+ "last_fully_transcribed_source_unit": "frame030",
+ "last_fully_verified_source_unit": "frame030",
+ "first_untouched_source_unit": null,
+ "owned_units_total": 30,
+ "owned_units_disposed": 30,
+ "unresolved_count": 0,
+ "critical_notes": 22,
+ "text_lines": 732,
+ "note_lines": 20
+}

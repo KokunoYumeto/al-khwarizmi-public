@@ -1,0 +1,36 @@
+@page 58 ٥٢
+@cols 22,50,82
+@align r,c,r
+% Frame 058, printed p. 52: the right-hand page of the opening pp. 52-53 of the table of the mountains: the numbers and
+% descriptions of twelve mountains of the fourth clime, entries 749/750-771/772: the Black Mountain, mountains joined to
+% Ḥulwān, to the mountain of Hamadhān and to «this mountain», a great mountain that runs to Iṣbahān and turns to
+% Nahāwand, a mountain that winds between Iṣbahān and al-Ahwāz, one between Iṣṭakhr and Jūr, and one joined to the
+% mountain of Nahāwand and Ṭabaristān; the folio of the manuscript, «(fol. 14ᵃ)», in the margin; then the headings of
+% the fifth clime and of its mountains, and its first mountain, entry 773/774, joined to the sea. No footnotes.
+@r (٧٤٩ ٧٥٠) | [١٢٣٩ ١٢٤٠] | جبل* الأسود
+@r (٧٥١ ٧٥٢) | [١٢٤١ ١٢٤٢] | جبل متّصل بحلوان
+@r (٧٥٣ ٧٥٤) | [١٢٤٣ ١٢٤٤] | جبل كبير متّصل بهٰذا الجبل يمرّ{n:a} الى اصبهان
+@r | | ويعدل الى نهاوند{n:a}
+@r (٧٥٥ ٧٥٦) | [١٢٤٥ ١٢٤٦] | جبل متّصل بحلوان وبجبل همذان
+@r (٧٥٧ ٧٥٨) | [١٢٤٧ ١٢٤٨] | جبل متّصل بهٰذا الجبل يستدير فيما بين
+@r | | اصبهان والأهواز
+@r (٧٥٩ ٧٦٠) | [١٢٤٩ ١٢٥٠] | جبل متّصل بهٰذا الجبل
+@r (٧٦١ ٧٦٢) | [١٢٥١ ١٢٥٢] | جبل
+@r (٧٦٣ ٧٦٤) | [١٢٥٣ ١٢٥٤] | جبل يمرّ فيما بين اصطخر وجور
+@m (fol. 14ᵃ)
+@r (٧٦٥ ٧٦٦) | [١٢٥٥ ١٢٥٦] | جبل يمرّ بطرف هٰذا الجبل
+@r (٧٦٧ ٧٦٨) | [١٢٥٧ ١٢٥٨] | جبل متّصل بجبل نهاوند وطبرستان{n:c}
+@r (٧٦٩ ٧٧٠) | [١٢٥٩ ١٢٦٠] | جبل
+@r (٧٧١ ٧٧٢) | [١٢٦١ ١٢٦٢] | جبل
+@h * الإقليم الخامس
+@h * الجبال الّتى فى
+@r (٧٧٣ ٧٧٤) | [١٢٦٣ ١٢٦٤] | جبل متّصل بالبحر
+@obs The table of the mountains goes on across the opening pp. 52-53: each row of p. 52 is continued by a row of p. 53 (frame 059), which gives the boundaries, the colour and the direction. The descriptions of entries 753/754 and 757/758 take two printed lines each, L03-L04 and L06-L07; the second line has no numbers and is transcribed as a row with empty number cells. Their boundaries, colours and directions stand on p. 53 at the height of the second line (L04, L07), and p. 53 has no line at the height of the first (L03, L06). The headings L15-L16 run across the opening: L15, «* الإقليم الخامس», is continued on p. 53 by «عرضه ما *», the fifth clime and its latitude, 41; and L16, «* الجبال الّتى فى», by «الإقليم الخامس *», the mountains in the fifth clime. They are set in the large type, each beginning with a small open star, transcribed as an asterisk, and stand at the inner edge of the page, next to their ends on p. 53; transcribed as headings. L15: «الإقليم», with a hamza below the alif; L16: «الّتى», with a shadda over the ل, and «فى», with the dot of the ف and no dots on the ى.
+@obs The running numbers go on from entry 747/748 (frame 056) and run (٧٤٩ ٧٥٠)-(٧٧٣ ٧٧٤); the numbers of Suhrāb run [١٢٣٩ ١٢٤٠]-[١٢٦٣ ١٢٦٤] without a gap. The folio of the Strasbourg manuscript, «(fol. 14ᵃ)», is printed in Latin type in the right margin beside entry 765/766 (L11).
+@obs Most entries describe the mountain instead of naming it: L01, the Black Mountain; L02, a mountain joined to Ḥulwān; L03-L04, a great mountain joined to this mountain, which runs to Iṣbahān and turns to Nahāwand; L05, a mountain joined to Ḥulwān and to the mountain of Hamadhān; L06-L07, a mountain joined to this mountain, which winds between Iṣbahān and al-Ahwāz; L08, a mountain joined to this mountain; L10, a mountain that runs between Iṣṭakhr and Jūr; L11, a mountain that runs along the edge of this mountain; L12, a mountain joined to the mountain of Nahāwand and Ṭabaristān; L17, a mountain joined to the sea. L09, L13, L14: the word «جبل» alone.
+@obs L01: «جبل* الأسود»: an asterisk with six round-ended arms stands after «جبل», raised like the editor's note marks: his sign for a form against the grammar of the classical language that he keeps from the manuscript (introduction, frame 184, p. XXIX), as at the same name on frame 046 (L10); «الأسود», with a hamza over the alif.
+@obs Signs transcribed as printed: «متّصل» (L02, L03, L05, L06, L08, L12, L17), with a shadda above the two dots of the ت; «يمرّ» (L03, L10, L11), with a shadda over the ر; «بهٰذا» (L03, L06, L08) and «هٰذا» (L11), with a short upright stroke above the ه, the dagger alif, transcribed ٰ, as on frame 049 (L03, L06); «والأهواز» (L07), with a hamza over the alif. «الى» (L03, L04) ends in a ى without dots. With their dots: «بحلوان» (L02, L05), the ب below, the ح without a dot; «همذان» (L05), the ذ; «يستدير» and «فيما» (L06); «اصطخر» (L10), the خ; «بطرف» (L11); «طبرستان» (L12), the ب below, the two dots of the ت and the dot of the ن.
+@obs L03-L04: the note mark a stands twice, after «يمرّ» (L03) and after «نهاوند» (L04); the editor's note a marks the words between the two marks. L12: the note mark c stands after «وطبرستان». P. 52 has no footnotes: the texts of notes a and c, and of note b, whose mark stands on p. 53, are printed at the foot of p. 53 (frame 059).
+@obs The page number «— ٥٢ —» stands at the foot, centred.
+@variant L03-L04: the words between the two marks a, الى اصبهان ويعدل الى نهاوند, are written in the margin of the manuscript (note a, printed at the foot of p. 53).
+@variant L12: the manuscript writes the name طرتساں (note c, printed at the foot of p. 53).

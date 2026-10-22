@@ -1,0 +1,52 @@
+@page 26 XXII
+@lang de
+% JP2 0026: the introduction, p. XXII: Hermes, Ophiel and Mephistopheles; the four words of O fol. 132v; the Arabic
+% words of C fol. 83r (Nallino's reading); the Persian names of the planets in the titles of the tables, and the two
+% Iranian names of Venus (Nallino's reading).
+dem {i:Hermes Trismegistos} oder {i:Thoth} der Aegypter identifiziert worden ist, und dieser
+war der Schutzgott der Alchemisten, Astrologen und Magier. In den Mirakel- und
+Zauberbüchern des christlichen Mittelalters wird als einer der sieben Fürsten der
+Unterwelt {i:Ophiel} genannt ; dieses Wort ist sehr wahrscheinlich zusammengesetzt aus
+dem griech. {i:ophis} = Schlange, und dem hebr. {i:el} = Gott, also Schlangengott =
+{i:Hermes} ; verbunden mit dem {i:megistos} des Wortes {i:Trismegistos} wurde {i:Ophiel} zu {i:Megi-}
+{i:stophiel,} und hieraus entstand das verderbte oder absichtlich entstellte {i:Mephistopheles.}
+Es ist dies wohl die beste Etymologie für dieses Wort{sup:1}). .
+@p Wieder im Ms. O stehen am obern Rand von fol. 132{sup:v} (in unserm Text p. 20)
+die vier Wörter : {i:eltabeb, helhacib, elhaazem, el-munegim} ; das erste, zweite und vierte
+sind wohl zu lesen : {i:al-ṭabīb, al-ḥāsib, al-munaddjim}, und bedeuten dann : der Arzt,
+der Rechner, der Astronom ; das dritte weiss ich nicht zu deuten. Was der Schreiber
+mit diesen Wörtern sagen will, ist mir unklar, vielleicht meint er, dass das folgende
+Kapitel : {i:Quot gradibus in qualibet regione quodlibet oriatur signum} für diese Berufs-
+arten von Wichtigkeit sei.
+@p Im Ms. C stehen auf fol. 83{sup:r} (p. 27 unseres Textes) nach den Worten {i:et accipies}
+{i:quod contra invenies} die folgenden : {i:wakhod mebibelche} ; {sp:Nallino} glaubt und wohl
+mit Recht, das letzte Wort müsse gelesen werden {i:mekibelche} und dann hiesse der
+Satz : {i:wakhudh mā ḳibālahā}{sup:2}), d. h. und nimm was ihm (d. h. dem Argument) gegen-
+über steht ; also einfach der arabische Text zu der vorhergehenden Übersetzung
+{i:et accipies quod contra invenies.}
+@p In den Titeln der Tafeln 27, 33, 39 u. 45 steht in beiden Mss. C u. O jeweilen
+nach dem {i:arabischen} Namen des Planeten noch der {i:persische}, nur auf Tafel 51 fehlt
+der persische für Merkur. Diejenigen für Saturn ({i:Keiwen} = {i:Kaiwān}), Jupiter ({i:Hormi}
+= {i:Hormuz}) und Mars ({i:Baheram} = {i:Bahrām}) habe ich wohl erkannt, die für Venus{sup:3})
+aber sind so verdorben, dass mir die Deutung nicht gelingen wollte. Auf fol. 122{sup:v}
+(Tafel 45) des Ms. O stehen nach dem arabischen Namen für Venus ({i:elzohara}) folgende
+Worte : {i:beied hakht eneid,} auf fol. 65{sup:r} des Ms. C steht nach demselben arabischen
+Worte : {i:bei ed halt eneid.} Ich vermutete wohl im letzten Worte {i:eneid} den mir bekannten
+persischen Namen für Venus {i:nāhīd}, mich störte aber das {i:e} vor {i:neid}, ich wusste
+nämlich nicht, dass der persische Name auch {i:anāhīd} geschrieben wird ; gänzlich
+unverständlich aber war mir {i:beied hakht} oder {i:bei ed halt.} Da führte mich auch
+wieder das Wissen {sp:Nallinos} in diesen Dingen auf den richtigen Weg : {i:beied hakht}
+{i:eneid} ist verdorben aus {i:bēdukht anāhīd} ; dies sind Namen zweier alter iranischer
+weiblicher Gottheiten, die später dann auf den Planeten Venus übertragen worden
+sind. — Es ist sehr wahrscheinlich, dass diese persischen Namen für die Planeten
+von {sp:Al-Khwārizmī} herstammen, denn {sp:Maslama} wird kaum persisch verstanden
+haben.
+@n {sup:1}) Vergl. J. {sp:Goebel} in {i:Beilage zur Allgem. Zeitung}, 1905, Nr. 195.
+@n {sup:2}) Für den Leser, dem das Arabische unbekannt ist, bemerken wir, dass die Westaraber das
+@n {i:ā} wie {i:ē} ausgesprochen haben, und jetzt in Marokko noch so sprechen ({i:Fēs} für {i:Fās}).
+@n {sup:3}) Für diesen Planeten hatten die Perser zwei verschiedene Namen.
+@obs The page number «XXII» stands at the head of the page, centred, with a rule below it. L01-L08 end the explanation of the note of O fol. 127v begun on p. XXI (JP2 0025, L26-L41): Merkur stands for Iblīs because Hermes was identified with Hermes Trismegistos and Thoth.
+@obs L08: after «Wort1).» a second point stands on the base line, 35 px to the right, as dark and as large as the full stop before it (7 by 6 px, darkest pixel 15); transcribed as printed, see the critical note.
+@obs L31: the m of «nämlich» is printed broken, its last arch and stem faint, so that the word looks like «nänılich»; transcribed «nämlich». N03: the italic capital F of «Fēs» and «Fās» is heavier than the rest of the words; transcribed as italics.
+@obs Marks not transcribed: a speck at the right of the page number; a small mark, like the corner of a spacing sort, at the upper left of the d of «dem» (L27).
+@critical AK07-CN006 | stray point | L08 | Wort{sup:1}). . | Wort{sup:1}). | a second point, printed after the full stop that ends the paragraph, has no function; a raised spacing sort or a point that has slipped in the forme | medium | none

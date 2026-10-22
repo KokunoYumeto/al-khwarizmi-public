@@ -1,0 +1,21 @@
+{
+ "anchor": "AK01-F002",
+ "frame": 2,
+ "frame_file": "page_002.jpg",
+ "frame_sha256": "272012631ea49d57b20b69a34c206e0647d817022e4acfcc11c59e65a7cd3cdc",
+ "printed_page": "-",
+ "kind": "provenance",
+ "role": "COPY_PROVENANCE",
+ "comment": "Frame 002: the inside of the front board with the bookplate of Columbia University in the City of New York, The Libraries.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [],
+ "copy_matter": [
+  "The bookplate of Columbia University Libraries, pasted on the inside of the front board; not part of the edition."
+ ],
+ "critical_notes": []
+}

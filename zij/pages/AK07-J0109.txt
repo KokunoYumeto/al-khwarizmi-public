@@ -1,0 +1,51 @@
+@page 109 77
+@lang de
+% JP2 0109: Suter's commentary, p. 77: chapters 28-28b continued: the names of the cotangent and the tangent in
+% al-Khwārizmī and al-Battānī; tangent and cotangent from sine and cosine; the altitude from the shadow; the first
+% cotangent table, perhaps Maslama's; Björnbo on Abū’l-Wafāʾ (notes 1-2).
+@p {sp:Kh.} nennt die Cotangente {i:el-ẓill el-mustawī} = der ebene oder gerade Schatten,
+die Tangente {i:el-ẓill el-mankūs} (oder {i:maʿkūs}) = der verkehrte Schatten. Besser sind
+die Ausdrücke, die {sp:Batt.} braucht, nämlich : {i:el-ẓill el-mabsūṭ} = der ausgebreitete,
+ebene Schatten, und {i:el-ẓill el-muntaṣib} oder {i:el-ḳā’im} = der aufgerichtete, senkrechte
+Schatten ; sie werden auch {i:zweiter,} bezw. {i:erster} Schatten genannt.
+@p Wie {sp:Batt.}{sup:1}), so lehrt auch {sp:Kh.} die Tangente und Cotangente aus dem Sinus
+und Cosinus berechnen, gebraucht also die Formeln :
+@c cot {i:α} = {fr:cos {i:α}|sin {i:α}} · 12 und tg {i:α} = {fr:sin {i:α}|cos {i:α}} · 12.
+@p Für die Bestimmung der Sonnenhöhe {i:α} aus der Cotangente wird die Formel
+angegeben :
+@c sin (90 — {i:α}) = {fr:cot {i:α} · 60|{rt:12{sup:2} + cot{sup:2}{i:α}}},
+d. i. unsere heutige Formel : cos {i:α} = {fr:cot {i:α}|{rt:1 + cot{sup:2}{i:α}}},
+@p {sp:Batt.} gibt auch noch die Formeln : sin {i:α} = {fr:1|{rt:1 + cot{sup:2}{i:α}}}, sin {i:α} = {fr:tg {i:α}|{rt:1 + tg{sup:2}{i:α}}},
+cos {i:α} = {fr:1|{rt:1 + tg{sup:2}{i:α}}}, welche bei {sp:Kh.} fehlen.
+@p Am Schlusse verweist {sp:Kh.}, wie auch {sp:Batt.} tut, auf die Cotangententafel, aus
+der man direkt aus der Höhe den Schatten und umgekehrt bestimmen könne.
+@p Wir finden also die erste Cotangententafel bei {sp:Kh.}, und nicht erst bei {sp:Batt.},
+bezw. {sp:Ḥabash}. Doch stehen wir entgegen {sp:Björnbo}{sup:2}) davon ab, hieraus weitere
+Schlüsse zu ziehen ; denn es ist keineswegs unmöglich, ja sogar nicht unwahr-
+scheinlich, dass diese Cotangententafel sich nicht im ursprünglichen Werke {sp:Kh.}’s
+befunden habe, sondern erst von {sp:Maslama} in seine Bearbeitung aufgenommen
+worden sei, der ja auch einen Auszug aus den Tafeln {sp:Batt.}’s verfasst hat ; denn die
+Regeln des Textes sind sehr ähnlich denjenigen {sp:Batt.}’s, nur etwas kürzer gefasst. —
+Was die Zahlenwerte anbetrifft, die wir in die Tafel aufgenommen haben, so gilt hier
+dasselbe, was wir oben (p. 69) bei Besprechung der Sinustafel gesagt haben.
+@p Wir kommen hier noch auf einen Ausspruch {sp:Björnbos} in der zitierten Schrift
+zu sprechen, er sagt p. 17 : „{sp:Abū’l-Wefā} endlich tat den letzten und grössten
+Schritt. Er warf beides, die griechische Sechzig-Teilung und die indische Zwölf-
+Teilung über Bord, setzte den Radius = 1, machte, ohne die Namen zu ändern, den
+ebenen Schatten zu dem, was wir verstehen unter Cotangens, den aufrechten Schatten
+zu dem, was wir unter Tangens verstehen, und schloss damit die Entwicklungs-
+geschichte der beiden Funktionen ab.“ Dies ist unserer Ansicht nach etwas zu weit
+gegangen ; wenn auch {sp:Abū’l-Wefā} an einer Stelle seines Almagestes sagt : „hieraus
+ist klar, dass, wenn man den Radius = 1 annimmt, das Verhältnis des Sinus zum
+Cosinus gleich der Tangente, das Verhältnis des Cosinus zum Sinus gleich der
+@n {sup:1}) Ed. {sp:Nallino}, I, 22—23. u. 180—182.
+@n {sup:2}) {i:Al-Chwarizmi’s Trigonometriske Tavler}, p. 16–17.
+@obs The page number «77» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 continues chapters 28-28b from p. 76 (JP2 0108, L29-L33).
+@obs L01-L05: the transliteration as printed: «el-ẓill el-mustawī», «el-ẓill el-mankūs», «maʿkūs», «el-ẓill el-mabsūṭ», «el-ẓill el-muntaṣib», «el-ḳā’im», in italics, with the dots under ẓ, ṭ, ṣ and ḳ, the macrons, the ʿayn raised and the apostrophe of the hamza; al-ẓill al-mustawī, al-ẓill al-mankūs, al-ẓill al-mabsūṭ, al-ẓill al-muntaṣib, al-qāʾim.
+@obs L08, L11-L14: the formulas, those of L08 and L11 displayed and centred, those of L12-L14 within the lines; their fractions built up, written {fr:NUMERATOR|DENOMINATOR}, and the square roots printed with a V-shaped radical and a bar over «12² + cot²α», «1 + cot²α» and «1 + tg²α», written {rt:…}; α italic, sin, cos, tg, cot upright, «·» the raised dot of multiplication; L11 «sin (90 — α)», the minus a long dash with a space on either side. L12: a wide gap (96 px) after the colon of «Formel :».
+@obs L08-L14. Checked: with a gnomon of 12, the shadow of the altitude α is 12 cos α : sin α and the upright shadow 12 sin α : cos α (L08); the shadow s = 12 cot α gives cos α = s : √(12² + s²), on a radius of 60 sin (90° − α) = 60 s : √(144 + s²) (L11), and with the cotangent of radius 1 cos α = cot α : √(1 + cot²α) (L12); likewise sin α = 1 : √(1 + cot²α) = tg α : √(1 + tg²α) and cos α = 1 : √(1 + tg²α) (L13-L14), for 0° < α < 90°.
+@obs L25: «(p. 69)», the remark on the readings of the sine table (p. 69, JP2 0101, L35-L39). L27-L35: Björnbo's sentence in German quotation marks, «Abū’l-Wefā» spaced, with the macrons and the apostrophe; the quotation of Abū’l-Wafāʾ that begins in L33 continues on p. 78. L33: «Almagestes» upright.
+@obs The dashes: L23 «gefasst. —», the long dash (44 px) after a word space; N01 «22—23» and «180—182», the long dash of the small type of the notes (33 and 30 px), printed faint; N02 «16–17», a dash of 27 px with a gap of 9 px on either side, transcribed as the short dash.
+@obs Spaced type, marked {sp:}: «Kh.», «Batt.», «Ḥabash», «Björnbo», «Björnbos», «Maslama», «Abū’l-Wefā», «Nallino»; italics: the Arabic words of L01-L04, «zweiter,», «erster», the letters of the formulas, the title of N02.
+@obs The colons and semicolons stand after the thin space of the edition (11-14 px measured; «hat ;» L22, 12 px).
+@critical AK07-CN060 | stray point | N01 | 22—23. u. 180—182. | 22—23 u. 180—182. | the two page ranges are joined by «u.», as in «27 u. 187—189» (p. 74, JP2 0106, N02) and «67 u. 243» (p. 38, JP2 0070, N01); a full stop is printed after 23 | high | none

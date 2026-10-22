@@ -1,0 +1,167 @@
+{
+ "anchor": "AK01-F085",
+ "frame": 85,
+ "frame_file": "page_085.jpg",
+ "frame_sha256": "ab971d15810412c5781430d0798a86ed85918a1ed11fe0269c701967b80e66a0",
+ "printed_page": "٦٩",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 085, printed p. 69: the problem of frame 084 concluded: the heirs, full brother and sisters with the mother and the wife, a ninth bequeathed: the shares from forty-eight; what is taken away is an eighth of what remains, so an eighth is added: fifty-four, six to the legatee. Then, under «فان قال» in bold, a woman leaves her husband, a son and three daughters, and bequeaths an eighth and a seventh of her estate: the shares from twenty; fifteen forty-firsts are added; twenty times forty-one, eight hundred and twenty, and three hundred: one thousand one hundred and twenty, of which the legatee receives three hundred. Below the rule two footnotes of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F085-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "لأبيه وأمه وأوصى لرجل بتسع ماله {n:١} فان قياس ذلك أن تقيم فريضتهم فتجدها",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F085-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "من ثمانية وأربعين سهماً فأنت تعلم أن كل مال نزعت تسعه بقيت ثمانية أتساعه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F085-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وان الذى نزعت مثل ثمن ما أبقيت فتزيد على الثمانية الأتساع ثمنها وعلى الثمانية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F085-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "والأربعين مثل ثمنها ليتم مالك وهو ستة فيكون ذلك أربعة وخمسين للموصى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F085-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "له بالتسع من ذلك ستة وهو تسع جميع المال وما بقى فهو ثمانية وأربعون بين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F085-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "الورثة على سهامهم . {b:فان قال} امرأة ملكت وتركت زوجها وابنها وثلاث",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان قال"
+   ]
+  },
+  {
+   "id": "AK01-F085-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "بنات وأوصت لرجل بثمن مالها وسبعه {n:٢} فاقم سهام الورثة (الفريضة) فتجدها",
+   "note_marks": [
+    "٢"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F085-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "من عشرين وخذ مالا فالق ثمنه وسبعه فيبقى مال الا ثمنا وسبعا فتمم مالك وهو",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F085-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "أن تزيد عليه خمسة عشر جزءاً من أحد وأربعين جزءاً فاضرب سهام الفريضة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F085-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "وهى عشرون فى أحد وأربعين فيكون ثمانى مائة وعشرين فتزيد على ذلك خمسة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F085-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "عشر جزءاً من أحد وأربعين وهو ثلاثمائة جزء فيصير ذلك كله ألفاً ومائة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F085-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "وعشرين سهما للموصى له من ذلك بالثمن والسبع سبع ذلك وثمنه وهو ثلاثمائة .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١",
+    "٢"
+   ],
+   "lines": 9,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L06: the words فان قال (L06) are printed in a bold face, the run-in heading of the next problem, as on frames 055-070; the bold ن is printed without its dot; transcribed ن.",
+  "L07: «(الفريضة)», as printed: the word, the shares of the heirs, stands between parentheses set close to it, as on frames 054 and 063: the opening parenthesis 12 px (nearest approach of the ink at 400 ppi) from the alif and the closing one 23 px from the ة, the gaps beside these letters on frame 054 (10 to 13 from an alif, 23 and 24 beside م and ل); outside them a word space, 25 px after الورثة and 20 px before فتجدها. No note of the editors refers to the word.",
+  "L08: فتمم (L08), complete, with two mīms after the ت, a round medial م and a small closed final م with its tail; the machine reading has فتم.",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: ما أبقيت (L03; 20 between the two alifs, where an alif stands 2 to 17 px from the next letter without a space); ثمنا وسبعا (L08; 24 between the alif and the conjunction و) and ألفاً ومائة (L11; 20), where the alif stands 9 px from the conjunction و in درهماونصفاً on frame 061, L06.",
+  "After ة a word space is transcribed where the gap is 16 px or more; the narrowest such gaps on this page: ثمانية أتساعه (L02; 17), ستة وهو (L05; 20), الورثة على (L06; 21), ثلاثمائة جزء (L11; 33).",
+  "The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after سهامهم, before the bold فان (L06; 26 and 37), and at the end of L12 (23 after ثلاثمائة). The note marks (١) and (٢) stand 22 px after ماله (L01) and 21 px after وسبعه (L07), each in a wide space before the next word, فان and فاقم (29 px), without a full stop.",
+  "Plain alif where a hamza might be expected, as printed: فان (L01), وان (L03), امرأة, the first alif, and وابنها (L06), فاقم (L07), فالق, الا (L08), فاضرب (L09); with hamza: لأبيه, وأمه, وأوصى, أن (L01), وأربعين, فأنت, أن, أتساعه (L02), أبقيت, الأتساع (L03), والأربعين, أربعة (L04), وأربعون (L05), امرأة, the second alif (L06), وأوصت (L07), أن, أحد, وأربعين (L09), أحد, وأربعين (L10), أحد, وأربعين, ألفاً (L11); on ي: مائة (L10), ثلاثمائة (L11, L12), ومائة (L11); the hamza on the line: جزءاً (L09, twice; L11), جزء (L11).",
+  "With tanwīn on the final alif: سهماً (L02), جزءاً (L09, twice; L11), ألفاً (L11); without tanwīn as printed: مالا, ثمنا, وسبعا (L08), سهما (L12).",
+  "The final yā' is printed without dots: وأوصى (L01), الذى, على, وعلى (L03), للموصى (L04, L12), بقى (L05), على (L06, L10), فيبقى (L08), وهى, فى, ثمانى (L10).",
+  "The print stretches فيكون (L04), المال (L05), ملكت and وابنها (L06) with the elongation stroke; the stroke is not transcribed.",
+  "Notes (١) and (٢) of the editors work out the shares. (١): the wife a quarter, the mother a sixth, the rest to the brother and the two sisters, the brother 7/24 and each sister 7/48 of the estate; the heirs' part is divided into forty-eight shares, which are eight ninths of the whole, so the estate is fifty-four shares, six to the legatee. (٢): the husband a quarter, the son 6/20 and each daughter 3/20, twenty shares, which are what remains after the eighth and the seventh, 41/56 of the estate; the legatee receives 15 shares and the heirs 41, the estate is 20 + 20 × 15/41 = 1120/41, and with each share divided into forty-one parts the estate is 1120, 300 to the legatee and 820 to the heirs. The values check exactly. Neither note is reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

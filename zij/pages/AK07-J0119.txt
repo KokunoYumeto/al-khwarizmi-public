@@ -1,0 +1,43 @@
+@page 119 87
+@lang de
+% JP2 0119: Suter's commentary, p. 87: chapter 33 continued: the digits of the eclipse, the casus and the half mora
+% from Tables 76 and 74 for the example; the digits after al-Battānī, with two figures of a partial and a total lunar
+% eclipse; casus, mora and respiratio and their Arabic and Greek equivalents (note 1).
+@t | Digiti der Verfinsterung : | Min. u. Sec. des Casus : | Min. u. Sec. der halben Mora.
+@t | 20{sup:dig.} 14′ | 34′ 45″ | 27′ 8″
+in Tafel 74 folgende :
+@t | 19{sup:dig.} 16′ | 29′ 39″ | 21′ 2″
+@t Differenzen : | 0{sup:dig.} 58′ | 5′ 6″ | 6′ 6″
+@p Dieses sind die Unterschiede der drei Daten in Erdnähe und Erdferne. Was
+bedeuten nun diese Daten ? Aus unserm Texte erfahren wir darüber nichts ; {sp:Batt.}
+belehrt uns aber hierüber im 43. Kap.{sup:1}) Er wie auch {sp:Kh.} verstehen unter {i:Digiti} der
+Verfinsterung sowohl bei {i:partialer} als auch {i:totaler} Mondfinsternis die Distanz vom
+Rande des Erdschattens bis zu dem zu ihm konvexen Rande der Mondscheibe, in
+solchen Teilen, von denen 12 auf den Monddurchmesser kommen.
+@p Ist {i:S} der Mittelpunkt des Erdschattens, der in der Ekliptik liegen muss, {i:M} der
+Mittelpunkt des Mondes (in Fig. 1 bei partialer, in Fig. 2 bei totaler Finsternis),
+so ist in Fig. 1 {i:AM} in Digiti (Zollen) ausgedrückt die Grösse der Verfinsterung, in
+@t Fig. 1. | Fig. 2.
+Fig. 2 {i:AB}. Berechnet wird dieselbe in folgender Weise (nach der einfachen Vor-
+schrift {sp:Batt.}’s) : Man addiert die beiden Radien des Schattens und des Mondes (in
+beiden Fig. sei dies {i:SC}), subtrahiert von dieser Summe die Breite des Mondes ({i:SM}),
+so hat man die Grösse der Verfinsterung in Minuten (in Fig. 1 {i:AM,} in Fig. 2 {i:CM} = {i:AB}).
+Diese multipliziert man mit 12, und teilt das Produkt durch den Monddurchmesser
+in Minuten, so hat man die Verfinsterung in {i:Digiti.}
+@p Was die Ausdrücke {i:Casus} und {i:Mora} anbetrifft, so ist der erstere die Übersetzung
+des arab. {i:suḳūṭ,} das wir hier mit „Einfallen“ übersetzen müssen ; mit diesem Worte
+geben die arab. Astronomen das ptolemäische {i:ἔμπτωσις} = das „Hineinfallen“ wieder ;
+{i:Casus} bedeutet also die Phase von Beginn der Finsternis bis zum Beginn der Totalität.
+Der zweite (Mora) ist die Übersetzung des arab. {i:mukth} (od. {i:makth}) = „Verweilen“,
+dies ist die Übersetzung des ptolemäischen {i:μονή} ; {i:Mora} bedeutet also die Phase
+der totalen Verfinsterung. — Im Text dieses Kapitels kommt noch {i:respiratio} vor als
+Übersetzung des arab. {i:indjilā’} = „Erscheinen“, das wiederum dem ptolemäischen
+@n {sup:1}) Ed. {sp:Nallino}, I, 97, Z. 25—98, Z. 5.
+@obs The page number «87» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L05 continue the sentence that ends p. 86 (JP2 0118, L30), «Wir finden nun in Tafel 76 zu diesem Argument der Breite (mit Hilfe der Interpolation) folgende Daten :», with the values of Table 76 (L02) and, after «in Tafel 74 folgende :» (L03), those of Table 74 (L04).
+@obs L01-L05: set in three columns: the heads of L01 in the smaller type, ending with a full stop after «Mora»; the values centred under them; rules under the values of L04, and the differences (L05) below them, «Differenzen :» at the left margin. «20dig. 14′»: the abbreviation «dig.» raised, in the smaller type. Each printed row is one line here, the cells separated by our «|»; the empty first cells give «Differenzen :» its column and are not printed. Checked: 20 dig. 14′ − 19 dig. 16′ = 0 dig. 58′; 34′ 45″ − 29′ 39″ = 5′ 6″; 27′ 8″ − 21′ 2″ = 6′ 6″. The values of Tables 74 and 76 are to be compared with the tables.
+@obs Between L14 and L15 two figures side by side; they are not reproduced; L15 has their captions, «Fig. 1.» and «Fig. 2.», each centred under its figure. Fig. 1: a large semicircle, the earth's shadow, on a base line with E at its left end, S at its middle and K at its right end; a vertical line from S upwards through A, M and C; a small circle, the moon, about M, which lies on the large semicircle, A the lowest and C the highest point of the small circle. Fig. 2: the same semicircle with E, S and K; the vertical line from S upwards through A, M, B and C, B where it meets the semicircle and C above it; the small circle about M lies within the semicircle, A its lowest point; M is marked with a short stroke across the line. The letters are italic.
+@obs L12-L21. Checked: with R the radius of the shadow, r that of the moon and SM the distance of their centres, the latitude of the moon, SC = R + r, and SC − SM = R + r − SM is the depth of the moon's limb within the shadow: in Fig. 2, CM = SC − SM, and AB = SB − SA = R − (SM − r) = CM; in Fig. 1, where M lies on the edge of the shadow, CM = r = AM. Twelve digits make the diameter of the moon, so that the magnitude in digits is (R + r − SM) × 12 : 2r, the depth in minutes times twelve divided by the diameter in minutes, as L19-L21 say.
+@obs L22-L29: the Latin terms of chapter 33 of the text (p. 26, JP2 0058, L15-L17): «casus» for «elzukut» (al-suqūṭ), «respiratio» for «elingile» (al-injilāʾ), «mora» for «elmukdh» (al-mukth); here «suḳūṭ», with dots under ḳ and ṭ, «mukth», «makth», «indjilā’», with the macron and the apostrophe of the hamza, in italics. The Greek «ἔμπτωσις» (with the smooth breathing and the acute on the ε) and «μονή», in italics.
+@obs L07: the A of «Aus» is an italic sort in the roman line, sloping and of the italic form; transcribed «Aus». L26: «(Mora)» upright.
+@obs The dashes: L28 «Verfinsterung. — Im», the long dash with a space on either side; N01 «25—98», the long dash of the small type of the notes (29 px, with gaps of 7 and 9 px). Spaced type, marked {sp:}: «Batt.», «Kh.», «Nallino»; italics also «Digiti» (L08, L21; upright in L14), «partialer», «totaler», the letters of the figures in L12-L19, «Casus», «Mora», «respiratio».
+@obs The colons, semicolons and the question mark stand after the thin space of the edition (9-14 px measured; «Daten ?» 13 px).

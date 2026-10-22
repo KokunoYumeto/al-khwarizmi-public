@@ -1,0 +1,61 @@
+@page 142 110
+@lang la
+% JP2 0142: Tab. 2, p. 110: the notae (weekday numbers) of the collected and the single Arab years, the leap years,
+% and the notae and lengths of the Arab months, with the apparatus (notes 1-21 and a-e).
+@c {b:Tabula ad inveniendum diem qua intrat}{sup:1}) {b:quilibet mensis lunaris arabicus}{sup:2}) (CMN)
+@ml C 42{sup:r}, M 82{sup:r},
+@c {b:Pagina inveniendi qua die intret quilibet mensis arabum} (O)
+@tw 1.1 1 1 1 1 2.3 0.9
+@ml O 159{sup:r}, N 10{sup:v}.
+@t Anni | | Anni | | | Lunae arabicae{sup:7}) |
+@t arabum{sup:3}) | Notae{sup:4}) | plani{sup:5}) | Notae{sup:6}) | | |
+@t collecti | | | | | Menses arabum | Notae{sup:8})
+@t 30 | 5 | 1 | 4 | | Elmuharram{sup:10}) | 1
+@t 60 | 3 | 2 | 1 | kebice{sup:9}) | D. 30 |
+@t 90 | 1 | 3 | 6 | | Zafar{sup:11}) | 3
+@t 120 | 6 | 4 | 3 | keb. | 29 |
+@t 150 | 4 | 5 | 7 | | Rabe alawel{sup:12}) | 4
+@t 180 | 2 | 6 | 5 | | 30 |
+@t 210 | 7 | 7 | 2 | keb. | Rabe alachir{sup:13}) | 6
+@t 240 | 5 | 8 | 7 | | 29 |
+@t 270 | 3 | 9 | 4 | | Jumedi elule{sup:14}) | 7
+@t 300 | 1 | 10 | 1 | keb. | 30 |
+@t 330 | 6 | 11 | 6 | | Jumedi elachir{sup:15}) | 2
+@t 360 | 4 | 12 | 3 | | 29 |
+@t 390 | 2 | 13 | 7 | keb. | Regeb{sup:16}) | 3
+@t 420 | 7 | 14 | 5 | | 30 |
+@t 450 | 5 | 15 | 2 | | Shabin{sup:17}) | 5
+@t 480 | 3 | 16 | 6 | keb. | 29 |
+@t 510 | 1 | 17 | 4 | | Ramadhan{sup:18}) | 6
+@t 540 | 6 | 18 | 1 | | 30 |
+@t 570 | 4 | 19 | 6 | keb. | Shawwel{sup:19}) | 1
+@t 600{sup:a}) | 2{sup:b}) | 20 | 3 | | 29 |
+@t 630 | 7 | 21 | 7 | | Dulkada{sup:20}) | 2
+@t 660 | 5 | 22{sup:d}) | 5 | keb. | 30 |
+@t 690 | 3{sup:c}) | 23 | 2 | | Dulheia{sup:21}) | 4
+@t 720{sup:a}) | 1{sup:b}) | 24{sup:e}) | 6 | | 29 |
+@t | | 25 | 4 | keb. | |
+@t | | 26 | 1 | | |
+@t | | 27 | 6 | | |
+@t | | 28 | 3 | keb. | |
+@t | | 29 | 7 | | |
+@t | | 30 | 5 | | |
+@n {sup:1}) intrat] instat M — {sup:2}) arabicus] arabacus M — C {i:addid. in nota :} In hanc tabulam lunarem
+@n et in aliam tabulam coniunctionis solis et lunae intratur per numerum praesentis anni, in alias per nume-
+@n rum praeteriti — {sup:3}) arabum] {i:om.} CMN — {sup:4}) Notae] O, Dies CMN — {sup:5}) plani] O, expansi CM, residui N —
+@n {sup:6}) Notae] ON, Dies C, Dies et noctes M — {sup:7}) Lunae arabicae] C, Lineae arabicae N, {i:om.} OM — {sup:8}) Notae]
+@n ON, dies sive notae C, dies et noctes M — {sup:9}) kebice] O, {i:om.} CMN — {sup:10}) Elmuharram] COM, Almuharram N
+@n — {sup:11}) Zafar] COM, Szaphar N — {sup:12}) Rabe alawel] CM, Rabe primus O, Rabbe N — {sup:13}) Rabe alachir] CM,
+@n Rabe sec. O, Rabbe N — {sup:14}) elule] C, elwle M, primus O, {i:om.} N — {sup:15}) elachir] CM, sec. O, {i:om.} N —
+@n {sup:16}) Regeb] COM, Rageb N — {sup:17}) Shabin] C, Scabin O, Sabin M, Saaben N — {sup:18}) Ramadhan] N, Ro-
+@n madhan C, Ramad’a M, Ra’ham O — {sup:19}) Shawwel] Shavwel C, Scawel O, Sauwel M, Sewil N — {sup:20}) Dul-
+@n kada] O, Dulcheda CM, Dulkidda N — {sup:21}) Dulheia] O, Dhulhela C, Dulchia M, Dulheiga N.
+@n {sup:a-a}) 600 . . . . 720] {i:om.} O ; 720] 710 M — {sup:b-b}) 2 . . . . 1] {i:om.} O — {sup:c}) 3] CN, 4 M — {sup:d}) 22] 12 M —
+@n {sup:e}) 24] 14 M.
+@obs The page number «110» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 2», in bold sans serif, underlined. The two titles (L01, L02), in bold, their sigla and note numbers in roman: the first that of CMN, the second that of O; the folios of the manuscripts, «C 42r, M 82r,» over «O 159r, N 10v.», stand at the left of the second title, the letters r and v raised; here as left margin notes beside L02 and L03.
+@obs The table: a thick and a thin rule above the head, a thin rule below it and another below the head of the last two columns; vertical rules divide the seven columns; no rule closes the table at the foot. The head, L03-L05: «Anni arabum collecti» in three lines, «Notae» and «Anni plani» in two lines, «Notae», an empty head over the column of the leap years, and «Lunae arabicae» over «Menses arabum» and «Notae». Each printed row is one line here, the cells separated by our «|»; a head followed by an empty cell spans its column. The months take two printed rows each, the name with its nota and below it the number of its days («D. 30», dies, under Elmuharram).
+@obs L06-L35. Checked: the notae of the collected years are the weekdays gained in 30, 60, … 720 years of 10 631 days each, 5 for every 30 years (counted 1-7), all 24 as printed. The nota of the single year p is the weekday of 1 Muḥarram of the year p less one, counted from Thursday 15 July 622 (nota 5, 1 for Sunday, as in Suter's examples on p. 37, JP2 0069): all 30 as printed, with the eleven leap years of 355 days 2, 5, 7, 10, 13, 16, 18, 21, 24, 26 and 29. The weekday of 1 Muḥarram of the year 30c + p is the sum of the two notae and that of the month, less sevens. The notae of the months, 1, 3, 4, 6, 7, 2, 3, 5, 6, 1, 2, 4, follow from the months of 30 and 29 days in turn (354 days), all 12 as printed.
+@obs L07-L33: the column without a head has «kebice» (L07) and «keb.» at the single years 4, 7, 10, 13, 16, 19, 22, 25 and 28: ten leap years, where the notae imply eleven, at 2, 5, 7, 10, 13, 16, 18, 21, 24, 26 and 29. Suter notes this (p. 37, JP2 0069): the mark stands several times in the wrong place and a leap year is missing. The edition prints the column as the manuscripts give it (note 9: O); not a misprint, no critical note.
+@obs N01-N03: Ms. C's note: «In hanc tabulam lunarem et in aliam tabulam coniunctionis solis et lunae intratur per numerum praesentis anni, in alias per numerum praeteriti». N09: «Ramad’a», «Ra’ham», with the apostrophe. N11: the notes a-a and b-b each mark two places, 600 and 720 in the first column and 2 and 1 in the second, written {sup:a-a} and {sup:b-b}; the ellipses «. . . .» of the lemmata as printed.
+@obs N01-N10: the notes on the words, numbered; N11-N12, after a wider space, the notes on the numbers, lettered. Italics: «addid. in nota :», «om.». The colon after «nota» and the semicolon after «O» (N11) stand after the thin space of the edition (11 and 12 px).
+@obs Small specks in the table, one after «30» (L06) and one below «19» (L24); not transcribed.

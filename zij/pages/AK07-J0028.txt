@@ -1,0 +1,51 @@
+@page 28 XXIV
+@lang de
+% JP2 0028: the introduction, p. XXIV: the abbreviations of the angle units; Bjornbo's text and apparatus, Suter's
+% recollation of C and O; the commentary and its examples; Nallino and Schiaparelli's al-Battani; the abbreviations
+% Kh., Batt. and Ptol.
+bisweilen mehr, bisweilen weniger abgekürzt. In diesem Punkte habe ich die Sache
+möglichst vereinfacht und stets Sig. Gr. Min. Sec. geschrieben.
+@p Die Festsetzung des Textes und der kritische Apparat sind im grossen und
+ganzen das Werk {sp:Björnbos}. Dieser Gelehrte war, wie ich aus einem Briefe des
+Hrn. Prof. {sp:Heiberg} an mich erfahren habe, der Ansicht, dass der Text von C der
+beste sei, und darum hat er auch diesen im allgemeinen zu Grunde gelegt. Eine
+nochmalige Vergleichung von C u. O{sup:1}) hat mir aber gezeigt, dass an verschiedenen
+Stellen die Lesart von O die treffendere sei (einige male auch die von N), ich habe
+mir daher erlaubt, in solchen Fällen die bessere Lesart in den Text aufzunehmen.
+Ist in den Fussnoten die Lesart eines Ms. nicht angegeben, so stimmt sie mit der-
+jenigen des Textes überein.
+@p Der Kommentar, der auf den Text folgt, ist ganz meine Arbeit. Ich fragte
+mich zuerst, ob es wohl nötig wäre, dem Text eine deutsche Übersetzung folgen zu
+lassen, da der Gegenstand oft sehr kurz und unklar dargelegt ist ; allein ich sagte
+mir, dass damit dem Leser doch nur halb gedient wäre, denn wer mit der alten
+und mittelalterlichen Astronomie nicht bekannt ist, könnte mit einer blossen Über-
+setzung nicht viel anfangen, es müsste auch einer solchen ein Kommentar beigegeben
+werden ; darum habe ich auf die Übersetzung verzichtet, und mich mit einem
+Kommentar begnügt, den ich dadurch nutzbarer zu machen suchte, dass ich zu den
+hauptsächlichsten astronomischen Problemen, die in diesem Werke behandelt werden,
+Beispiele gegeben habe, die nach den Regeln des Textes gelöst sind. — Im Kommentar
+habe ich die Titel der einzelnen Kapitel des Textes ziemlich wörtlich übersetzt ; die
+Kapitel sind behufs bequemer Verweisung nummeriert, was in den Handschriften
+nicht der Fall ist.
+@p Ich muss gestehen, dass dieser Kommentar eine schwierige und mühevolle
+Arbeit für mich war, und wer die einzelnen Kapitel des Textes durchliest, wird dies
+wohl auch erklärlich finden. Da hat mir nun die ausgezeichnete Ausgabe {sp:Al-Bat-}
+{sp:tānīs} und der Kommentar dazu von C. A. {sp:Nallino} und G. {sp:Schiaparelli}{sup:2}) die
+wertvollsten Dienste geleistet, ohne diese Ausgabe wäre mir die Kommentierung des
+vorliegenden Werkes kaum möglich gewesen ; es sind aber trotz dieser Hilfe noch
+verschiedene Punkte unklar geblieben, zu deren Aufhellung vielleicht, wie ich hoffe,
+in diesen Fragen bewanderte Gelehrte ihre Unterstützung leihen werden.
+@p Ich habe mir erlaubt, im Kommentar für die drei am meisten auftretenden
+Eigennamen Abkürzungen anzuwenden, da dadurch auch der Druck wesentlich
+erleichtert wird ; so schreibe ich für {sp:Al-Khwārizmī} stets {sp:Kh.}, für {sp:Al-Battānī}
+{sp:Batt.}, für {sp:Ptolemäus} {sp:Ptol.}
+@n {sup:1}) {sp:Björnbo} hat dies auch noch beabsichtigt gehabt, was verschiedene Notizen in seinem Ms.
+@n beweisen ; leider konnte er aber eine zweite Lesung nicht mehr ausführen, ich war daher öfters
+@n genötigt, an seiner Wiedergabe der Lesarten Änderungen vorzunehmen.
+@n {sup:2}) Ich zitiere dieses Werk, das von 1899—1907 in drei Teilen unter dem Titel : {i:Al-Battānī}
+@n {i:sive Albatenii Opus astronomicum, edit. a} C. A. {sp:Nallino}, in den {i:Pubblicazioni del R. Osservatorio}
+@n {i:di Brera in Milano}, N. XL, erschienen ist, künftig stets mit {sp:Batt.}, ed. {sp:Nallino}, oder auch
+@n nur {sp:Batt.}
+@obs The page number «XXIV» stands at the head of the page, centred, with a rule below it.
+@obs L35: «Kh.» is letter-spaced (10 px between K and h, where the letters of «stets» stand 2-4 px apart), as are «Batt.», «Ptolemäus» and «Ptol.» (L36) and the names. L02: «Sig. Gr. Min. Sec.», the four abbreviations of the edition, in roman type.
+@obs Marks not transcribed: specks in the right margin beside the page number, beside L32 and beside N01 and N03, and one in the left margin before L07; a small mark above the n of «in» (L23).

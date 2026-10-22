@@ -1,0 +1,54 @@
+@page 115 83
+@lang de
+% JP2 0115: Suter's commentary, p. 83: chapter 31 continued: the true conjunction of 23 January 901, 6h 44m in the
+% morning; the true longitude 303° 19′ 48″; the reason for the twelfth and the thirteen twelfths, with a figure; Schram's
+% and Schiaparelli's times (notes 1-3).
+@p Der Mond is also um 302° 50′ 56″ — 297° 4′ 32″ = 5° 46′ 24″ hinter der Sonne
+zurück, d. h. die Sonne {i:praecessit,} wie es im Texte heisst, die wahre Konjunktion
+findet also erst nach der oben gefundenen Zeit statt, und zwar, wenn die Sonne als
+stillstehend betrachtet würde, um so viele Stunden, als die wahre stündliche Bewe-
+gung des Mondes in der Längendifferenz 5° 46′ 24″ enthalten ist ; da aber die Länge
+der Sonne sich auch ändert, kommt eine Korrektur zur letztern Differenz hinzu, und
+zwar der 12. Teil derselben = 28′ 52″, die Längendifferenz ist nun also 6° 15′ 16″ ;
+nun ist : 6° 15′ 16″ ∶ 34′ 20″{sup:1}) = 10{sup:h} 55{sup:m} 48{sup:s}
+die {i:wahre Konjunktion} hat also stattgefunden am 29. Muḥ. 288 d. H., 18{sup:h} 44{sup:m} 29{sup:s} nach
+Kulmination der Sonne, d. i. am 23. Januar 901, 6{sup:h} 44{sup:m} Morgens{sup:2}).
+@p Um nun die Örter von Sonne und Mond bei der wahren Konjunktion zu erhalten,
+muss man nach den gegebenen Vorschriften 6° 15′ 16″ zum wahren Ort des Mondes
+addieren, zu dem der Sonne aber nur den 12. Teil der Längendifferenz (oder den
+13. Teil von 6° 15′ 16″), also 28′ 52″, so muss man natürlich dieselben Grössen erhalten :
+@t Ort der Sonne : | 302° 50′ 56″ | Ort des Mondes : | 297° 4′ 32″
+@t | + 28′ 52″ | | + 6° 15′ 16″
+@t | 303° 19′ 48″ | | 303° 19′ 48″
+@p Dies ist also die {i:wahre Länge} von Sonne und Mond zur Zeit ihrer wahren Kon-
+junktion am 29. Muḥ. 288, Morgens 6{sup:h} 44{sup:m}.
+@p Der Grund, warum zu der Länge der Sonne {cf:1|12} und zu der Länge des Mondes
+{cf:13|12} der Längendifferenz addiert werden müssen (im Falle, wo der Mond der Sonne
+voraus ist, müssen sie subtrahiert werden), ist jedenfalls der, dass sich die mittlern
+stündlichen Bewegungen von Sonne und Mond nahezu wie 1 ∶ 13 verhalten{sup:3}). Es sei
+{i:K} der Ort der wahren Konjunktion, {i:S} der Ort der Sonne, {i:M} derjenige des Mondes,
+nach der Korrektur durch ihre Gleichungen, so kommen auf {i:MK} 13 Teile, auf {i:SK}
+ein Teil, also auf {i:MS} 12 Teile, man teilt also die Längendifferenz {i:MS} durch 12, so
+hat man einen Teil, addiert diesen zur Länge der Sonne, und sein dreizehnfaches
+zur Länge des Mondes, so hat man die gleiche wahre Länge beider Gestirne zur
+Zeit der Konjunktion, und {i:MK} geteilt durch die wahre stündliche Bewegung des
+Mondes gibt die Zahl der Stunden an, die noch die beiden Gestirne von den Stel-
+@n {sup:1}) Dies ist nach Tafel 64 die wahre stündliche Bewegung des Mondes für das Argument
+@n (Anomalie) 119° 10′.
+@n {sup:2}) Die Tafeln {sp:Schrams} ({i:Kalendariograph. u. chronolog. Tafeln}, Leipzig, 1908) ergeben den
+@n 23. Jan. 6{sup:h} 43{sup:m} Morgens für {i:Greenwich}, also für {i:Cordova}, das c. 5° westlicher liegt, 6{sup:h} 23{sup:m}, der Fehler
+@n wäre also c. 21{sup:m} ; {sp:Schram} bemerkt aber, dass seine Tafeln die Syzygien mit einer Genauigkeit
+@n von etwa einer halben Stunde ergeben, also könnte sich der Fehler bis auf Null reduzieren. Für
+@n {i:Antiochia} flndet {sp:Schiaparelli} die Zeit der wahren Konjunktion = 9{sup:h} 20{sup:m} Morgens ; da {i:Antiochia}
+@n c. 41° östlich von {i:Cordova} liegt, so würde die Zeit für Antiochia nach unsern Tafeln 9{sup:h} 29{sup:m} aus-
+@n machen, also nur 9{sup:m} Unterschied gegenüber den Tafeln {sp:Batt.}’s.
+@n {sup:3}) Mittlere stündliche Bewegung d. Mondes 32′ 56″, der Sonne 2′ 28″, die Division ergibt 13,3.
+@obs The page number «83» stands at the head of the page, centred, with a rule below it. At the foot, the signature «11*» on the right. L01 continues the computation of p. 82 (JP2 0114, L30-L34). L01: «Der Mond is also», see the critical note.
+@obs L08: «nun ist :» at the left margin, the proportion «6° 15′ 16″ ∶ 34′ 20″1) = 10h 55m 48s» set in the middle of the line after a wide gap; the colon of the division with a word space on either side (25 and 20 px), written ∶ (U+2236); L23 «1 ∶ 13» likewise (21 and 20 px). L15-L17: the two additions, set as a small table, each sum below a rule; «+» before the second figures. Each printed row is one line here, the cells separated by our «|»; the empty cells give the columns room and are not printed. L20-L21: the case fractions 1/12 and 13/12, written {cf:NUMERATOR|DENOMINATOR}. L08-L10, L19: the h, m and s raised.
+@obs Between L24 and L25 a small figure in the middle of the line, not reproduced: a horizontal line with short upright strokes at its two ends and between them, nearer the right end; the italic letters M, S and K stand above the left end, the inner stroke and the right end; the line is not drawn to the scale of the text (MS about three times SK, where L25-L26 make it twelve times).
+@obs L01-L19. Checked: 302° 50′ 56″ − 297° 4′ 32″ = 5° 46′ 24″; its twelfth is 28′ 52″ and 5° 46′ 24″ + 28′ 52″ = 6° 15′ 16″, whose thirteenth is again 28′ 52″; 6° 15′ 16″ : 34′ 20″ = 10.9301 hours = 10h 55m 48s; 7h 48m 41s (p. 82, JP2 0114, L26) + 10h 55m 48s = 18h 44m 29s after noon of 29 Muḥarram, 22 January 901, that is 6h 44m in the morning of 23 January; 302° 50′ 56″ + 28′ 52″ = 297° 4′ 32″ + 6° 15′ 16″ = 303° 19′ 48″. N03: 32′ 56″ : 2′ 28″ = 13.35. N01: with the lunar equation sin q = sin 4° 56′ · sin m and the hourly motion in anomaly of 32′ 40″, the true hourly motion at the anomaly 119° 10′ is about 32′ 56″ + 1′ 22″ = 34′ 18″, near the 34′ 20″ of Table 64.
+@obs N02. Checked: Cordova lies 4° 47′ west of Greenwich, 19 minutes of time, so that 6h 43m at Greenwich is 6h 24m at Cordova («c. 5°», 20 minutes, 6h 23m); 6h 44m − 6h 23m = 21m; Antioch lies about 41° east of Cordova, 2h 44m, which on the tables' 6h 44m 29s gives 9h 28m, Suter's 9h 29m with the seconds; 9h 29m − 9h 20m = 9m. Meeus's algorithm gives the true new moon at 7.38h Terrestrial Time on 23 January 901, with a ΔT of about 0.61h: 6h 46m at Greenwich.
+@obs N02: «Schrams», «Schram» and «Schiaparelli» spaced; «Kalendariograph. u. chronolog. Tafeln», «Greenwich», «Cordova» and the first «Antiochia» in italics, the second «Antiochia» (N08) upright; «flndet», see the critical note. N02: the A of «(Anomalie)» stands 10 px from the n, where the other letters of the word stand 3-7 px apart; not letter-spaced. L02: «praecessit,», in italics, Suter's form of the Latin «utrum praecesserit» (chapter 31, p. 24, JP2 0056, L10).
+@obs The colons and semicolons stand after the thin space of the edition (9-13 px measured).
+@critical AK07-CN063 | misprint | L01 | Der Mond is also | Der Mond ist also | the verb of the sentence is «ist», as in «ist also» (L18) and «enthalten ist» (L05); the t is not printed | high | none
+@critical AK07-CN064 | wrong sort | N07 | flndet | findet | the verb is «findet»; the ligature fl, whose second stroke rises to the height of the d, is printed in the place of the ligature fi | high | none

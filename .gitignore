@@ -1,0 +1,6 @@
+# Local-only material: source frames, packets, scratch
+_intake/
+__pycache__/
+*.aux
+*.log
+*.out

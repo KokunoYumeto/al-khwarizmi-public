@@ -1,0 +1,734 @@
+{
+ "anchor": "AK07-J0077",
+ "jp2_index": 77,
+ "jp2_member": "b24872489_0077.jp2",
+ "jp2_sha256": "d9435c8485277aa70ff3dc75bec521a80b2652a7a48aea0d838a450693bf5f91",
+ "reading_copy": "page_0077.jpg",
+ "reading_copy_sha256": "3aeb51cabb7f80943b3390ce9108c859897f668a56f566395dc9e0a6f0e4cac0",
+ "printed_page": "45",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0077: Suter's commentary, p. 45: the end of chapter 8: the equation of the sun compared with al-Battānī's; the eccentricity of the sun (al-Battānī, the Sūrya-Siddhānta, Ptolemy); chapter 9, the true place of the moon: the anomaly and the equation; the example for noon of 15 Ṣafar 540 (notes 1-3).",
+ "lines": [
+  {
+   "id": "AK07-J0077-L01",
+   "n": 1,
+   "kind": "indent",
+   "text": "Die Werte der {i:Gleichung} der Sonne stimmen übrigens mit denjenigen {sp:Batt.}’s",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Die Werte der Gleichung der Sonne stimmen übrigens mit denjenigen Batt.’s",
+   "italic": [
+    "Gleichung"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "(ed. {sp:Nallino}, II, 78—83), die nach der Formel : tg aeq. = {fr:{i:e} sin {i:m}|1 + {i:e} cos {i:m}} berechnet sind,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(ed. Nallino, II, 78—83), die nach der Formel : tg aeq. = (e sin m)/(1 + e cos m) berechnet sind,",
+   "italic": [
+    "e",
+    "m",
+    "e",
+    "m"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "nicht überein, schon für 1° der mittlern Anomalie ist der Unterschied 16″. Dies kann",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nicht überein, schon für 1° der mittlern Anomalie ist der Unterschied 16″. Dies kann",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "nur von einem andern Werte der Exzentrizität {i:e} der Sonnenbahn herrühren ; {sp:Batt.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nur von einem andern Werte der Exzentrizität e der Sonnenbahn herrühren ; Batt.",
+   "italic": [
+    "e"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "nimmt diese (also in voriger Figur {i:ME}) zu 2{sup:p} 4{sup:3}/{sub:4}′ (wenn {i:MA} = 60{sup:p} gesetzt wird) an ;",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nimmt diese (also in voriger Figur ME) zu 2p 43/4′ (wenn MA = 60p gesetzt wird) an ;",
+   "italic": [
+    "ME",
+    "MA"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "bei {sp:Kh.} findet man keine Angabe für die Exzentrizität der Sonne ; aus dem Maximum",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bei Kh. findet man keine Angabe für die Exzentrizität der Sonne ; aus dem Maximum",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "der Gleichung (2° 14′) bei 90° finden wir {i:e} = 2{sup:p} 20′, bei andern Proben, die wir",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Gleichung (2° 14′) bei 90° finden wir e = 2p 20′, bei andern Proben, die wir",
+   "italic": [
+    "e"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "gemacht haben, fanden wir sie = 2{sup:p} 22′ ; der {i:Sūrya-Siddhānta} hat nach {sp:Burgess}{sup:1})",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "gemacht haben, fanden wir sie = 2p 22′ ; der Sūrya-Siddhānta hat nach Burgess1)",
+   "italic": [
+    "Sūrya-Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Burgess"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "eine maximale Gleichung von 2° 10′ 31″, dies entspricht einer Exzentrizität {i:e} = 2{sup:p} 17′ ;",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "eine maximale Gleichung von 2° 10′ 31″, dies entspricht einer Exzentrizität e = 2p 17′ ;",
+   "italic": [
+    "e"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "{sp:Ptol.} nimmt eine Exzentrizität von 2{sup:p} 29′ 30″ an, rundet sie aber bisweilen zu 2{sup:p} 30′ auf.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Ptol. nimmt eine Exzentrizität von 2p 29′ 30″ an, rundet sie aber bisweilen zu 2p 30′ auf.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ptol."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "Wir sehen also, dass {sp:Kh.} weder dem {i:Sūrya-Siddhānta} noch {sp:Ptol.} folgt, vielleicht",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wir sehen also, dass Kh. weder dem Sūrya-Siddhānta noch Ptol. folgt, vielleicht",
+   "italic": [
+    "Sūrya-Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh.",
+    "Ptol."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "entnahm er seinen Wert den Werken {sp:Brahmaguptas}, oder den persischen Tafeln",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "entnahm er seinen Wert den Werken Brahmaguptas, oder den persischen Tafeln",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Brahmaguptas"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "(s. oben p. 32).",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(s. oben p. 32).",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L14",
+   "n": 14,
+   "kind": "centre",
+   "text": "{b:Kap. 9. Über die Auffindung des (wahren) Ortes des Mondes.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kap. 9. Über die Auffindung des (wahren) Ortes des Mondes.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "Kap. 9. Über die Auffindung des (wahren) Ortes des Mondes."
+   ]
+  },
+  {
+   "id": "AK07-J0077-L15",
+   "n": 15,
+   "kind": "centre",
+   "text": "(Text p. 10, Tafeln 21—26.)",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(Text p. 10, Tafeln 21—26.)",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L16",
+   "n": 16,
+   "kind": "indent",
+   "text": "In den Tafeln 6—8 findet man neben der mittlern Länge des Mondes auch",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "In den Tafeln 6—8 findet man neben der mittlern Länge des Mondes auch",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "seine Anomalie auf analoge Weise ; die hiezu dienende Kolonne ist in unsern Tafeln",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "seine Anomalie auf analoge Weise ; die hiezu dienende Kolonne ist in unsern Tafeln",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "überschrieben : {i:Argumentum lunae}. Die Bestimmung {sp:Kh.}’s ist gegenüber derjenigen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "überschrieben : Argumentum lunae. Die Bestimmung Kh.’s ist gegenüber derjenigen",
+   "italic": [
+    "Argumentum lunae"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "{sp:Batt.}’s sehr einfach, der erstere entnimmt die Gleichung des Mondes einer einzigen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Batt.’s sehr einfach, der erstere entnimmt die Gleichung des Mondes einer einzigen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "Kolonne, während der letztere deren vier braucht, indem er die Ungleichheiten der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kolonne, während der letztere deren vier braucht, indem er die Ungleichheiten der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "Mondbewegung, die sogenannte {i:Evectio} und {i:Prosneusis} berücksichtigt.{sup:2}) Wir wollen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Mondbewegung, die sogenannte Evectio und Prosneusis berücksichtigt.2) Wir wollen",
+   "italic": [
+    "Evectio",
+    "Prosneusis"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "nach unsern Regeln und Tafeln den wahren Ort des Mondes für den Mittag des",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nach unsern Regeln und Tafeln den wahren Ort des Mondes für den Mittag des",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "15. Ṣafar des Jahres 540 d. H. bestimmen.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "15. Ṣafar des Jahres 540 d. H. bestimmen.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L24",
+   "n": 24,
+   "kind": "table",
+   "text": "{i:Beispiel} : | Die {i:Anomalie} beträgt am Ende des 510. Jahres | = | 61° 52′ 40″",
+   "cells": [
+    "{i:Beispiel} :",
+    "Die {i:Anomalie} beträgt am Ende des 510. Jahres",
+    "=",
+    "61° 52′ 40″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Beispiel : | Die Anomalie beträgt am Ende des 510. Jahres | = | 61° 52′ 40″",
+   "italic": [
+    "Beispiel",
+    "Anomalie"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L25",
+   "n": 25,
+   "kind": "table",
+   "text": "| Zunahme für 29 Jahre | = | 348° 56′ 57″",
+   "cells": [
+    "",
+    "Zunahme für 29 Jahre",
+    "=",
+    "348° 56′ 57″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| Zunahme für 29 Jahre | = | 348° 56′ 57″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L26",
+   "n": 26,
+   "kind": "table",
+   "text": "| „ „ den 1. Monat Muḥarram | = | 31° 56′ 59″",
+   "cells": [
+    "",
+    "„ „ den 1. Monat Muḥarram",
+    "=",
+    "31° 56′ 59″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| „ „ den 1. Monat Muḥarram | = | 31° 56′ 59″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L27",
+   "n": 27,
+   "kind": "table",
+   "text": "| „ „ 14 Tage | = | 182° 54′ 36″",
+   "cells": [
+    "",
+    "„ „ 14 Tage",
+    "=",
+    "182° 54′ 36″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| „ „ 14 Tage | = | 182° 54′ 36″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L28",
+   "n": 28,
+   "kind": "table",
+   "text": "| Summa : | | 625° 41′ 12″",
+   "cells": [
+    "",
+    "Summa :",
+    "",
+    "625° 41′ 12″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| Summa : | | 625° 41′ 12″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L29",
+   "n": 29,
+   "kind": "table",
+   "text": "| | | — 360°",
+   "cells": [
+    "",
+    "",
+    "",
+    "— 360°"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| | | — 360°",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L30",
+   "n": 30,
+   "kind": "table",
+   "text": "| {i:Anomalie} | = | 265° 41′ 12″",
+   "cells": [
+    "",
+    "{i:Anomalie}",
+    "=",
+    "265° 41′ 12″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| Anomalie | = | 265° 41′ 12″",
+   "italic": [
+    "Anomalie"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L31",
+   "n": 31,
+   "kind": "indent",
+   "text": "Dafür findet man in der Tafel 24 die {i:Gleichung} 4° 55′ 7″{sup:3}), diese wird zu der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Dafür findet man in der Tafel 24 die Gleichung 4° 55′ 7″3), diese wird zu der",
+   "italic": [
+    "Gleichung"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "mittlern Länge addiert, die wir oben = 314° 6′ 28″ gefunden haben, weil die Anomalie",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mittlern Länge addiert, die wir oben = 314° 6′ 28″ gefunden haben, weil die Anomalie",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "grösser als 180° ist, dies gibt für den {i:wahren Ort} des Mondes 319° 1′ 35″, d. h. der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "grösser als 180° ist, dies gibt für den wahren Ort des Mondes 319° 1′ 35″, d. h. der",
+   "italic": [
+    "wahren Ort"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "Mond befand sich zu der gegebenen Zeit in 19° 1′ 35″ des Wassermanns.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Mond befand sich zu der gegebenen Zeit in 19° 1′ 35″ des Wassermanns.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-L35",
+   "n": 35,
+   "kind": "indent",
+   "text": "Nach den Tafeln {sp:Batt.}’s findet man 330° 41′, dieselben geben nämlich für die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Nach den Tafeln Batt.’s findet man 330° 41′, dieselben geben nämlich für die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) l. c. p. 220.",
+   "margin": null,
+   "plain": "1) l. c. p. 220.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "{sup:2}) Man vergleiche für die Bestimmung {sp:Batt.}’s die Regeln des Textes bei {sp:Nallino} I, 50—54",
+   "margin": null,
+   "plain": "2) Man vergleiche für die Bestimmung Batt.’s die Regeln des Textes bei Nallino I, 50—54",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt.",
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "u. 75, und die Erklärungen dazu in II, 223—226.",
+   "margin": null,
+   "plain": "u. 75, und die Erklärungen dazu in II, 223—226.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0077-N04",
+   "n": 4,
+   "kind": "note",
+   "text": "{sup:3}) Für 265° Grad findet man 4° 54′ 52″ und für die 41′ ergeben sich noch 15″.",
+   "margin": null,
+   "plain": "3) Für 265° Grad findet man 4° 54′ 52″ und für die 41′ ergeben sich noch 15″.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «45» stands at the head of the page, centred, with a rule below it. The page has no signature. L14-L15: the heading of chapter 9, in bold, centred, with the reference to the text below it.",
+  "L02: the formula «tg aeq. = e sin m / (1 + e cos m)» is printed as a built-up fraction, «e sin m» over «1 + e cos m», e and m in italics; written {fr:NUMERATOR|DENOMINATOR}. Checked: for the eccentric of figure p. 44 (JP2 0076) with MS = 1, ME = e and the mean anomaly m = ∢ AMS from the apogee, the vector SM is (cos m, −sin m) and SE is (e + cos m, −sin m) when A lies in the direction (−1, 0) from M, so that tan α = e sin m / (1 + e cos m).",
+  "L05: «2p 4¾′», «60p», the p (partes) raised. L07-L09. Checked: 60 sin 2° 14′ = 2.338, 2p 20′; 60 sin 2° 10′ 31″ = 2.277, 2p 17′.",
+  "L24-L30: the computation of the anomaly, set as a table: the words joined to the figures by dotted leaders (L25, L27), which are not transcribed, the ditto marks „ under «Zunahme für»; L28 «Summa :» below a rule, without «=»; L29 «— 360°» under the sum. Each printed row is one line here, the cells separated by our «|»; the empty cells give the words room and are not printed. Checked: 61° 52′ 40″ + 348° 56′ 57″ + 31° 56′ 59″ + 182° 54′ 36″ = 625° 41′ 12″, less 360° 265° 41′ 12″; with Brahmagupta's parameters (57 753 300 000 revolutions of the moon and 488 105 858 of its apogee in 1 577 916 450 000 days, see p. 42, JP2 0074) the 29 years, 10277 days, give 348° 56′ 58″, thirty days 31° 56′ 59″ and fourteen days 182° 54′ 36″. L31-L34 and N04: 4° 54′ 52″ + 15″ = 4° 55′ 7″; 314° 6′ 28″ + 4° 55′ 7″ = 319° 1′ 35″, 19° 1′ 35″ of Aquarius (from 300°).",
+  "Spaced type, marked {sp:}: «Batt.», «Nallino», «Kh.», «Burgess», «Ptol.», «Brahmaguptas»; italics: «Gleichung» (L01, L31), «e», «ME», «MA», «Sūrya-Siddhānta», «Argumentum lunae», «Evectio», «Prosneusis», «Beispiel», «Anomalie» (L24, L30), «wahren Ort». L23: «15. Ṣafar» upright, where p. 42 and p. 43 set it in italics.",
+  "N02: «Nallino», between the n and the o a speck like an apostrophe and a dot below the line; L35: a speck above the line after «41′,»; N01: a dot in the margin before the note number; not transcribed. N04: «265° Grad», as printed.",
+  "The colons and semicolons stand after the thin space of the edition (9-15 px measured)."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

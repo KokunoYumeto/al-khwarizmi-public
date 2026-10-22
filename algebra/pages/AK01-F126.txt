@@ -1,0 +1,7 @@
+@page 126 -
+@kind wrapper
+% Frame 126: the back of the edition's printed wrapper, on the grey paper of its front (frame 001): the list of the
+% publications of the Faculty of Science, a notice of a book in Arabic, and the printer's imprint.
+@withheld the back of the edition's printed wrapper: the list of the publications of the Faculty of Science of the Egyptian University, in English, with a notice in Arabic and the printer's imprint
+@obs The list, in English: under «PUBLICATIONS OF THE FACULTY OF SCIENCE» one book, no. 1 (H. Sandon, The Food of Protozoa, Cairo, 1932), and under «THE BULLETIN OF THE FACULTY OF SCIENCE» twelve numbers (Cairo, 1934–1937), each with its price in piastres (P.T.). Below a rule, in Arabic, a notice of «الهندسة الوصفية» (descriptive geometry) by «الدكتور على مصطفى مشرفه بك ومحمد الهامى الكردانى», bound, in octavo, 520 pages and 192 figures, preceded by the number ٣٥; then, in French, «Ces ouvrages sont en vente à la Bibliothèque de l'Université Egyptienne»; at the foot the imprint «Imp. F. E. Noury & Fils», the printer that the title page names «مطبعة فتح الله الياس نورى وأولاده بمصر» (frame 007).
+@obs The edition is numbered «No. 2» on its front wrapper (frame 001); the list does not include it.

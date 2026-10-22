@@ -1,0 +1,4 @@
+@page 2 -
+@kind blank
+% Frame 002: a blank leaf of the library's cover; nothing printed.
+@obs Blank. A stain at the lower left.

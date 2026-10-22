@@ -1,0 +1,37 @@
+@page 72 ٥٦
+% Frame 072, printed p. 56: the chapter on mensuration continued: the circumference by three and a seventh is a
+% convention among people, not a necessity; the geometers have two other sayings: the root of ten times the square of
+% the diameter, and, for the astronomers, the diameter times 62832 divided by 20000; and the diameter is the
+% circumference divided by three and a seventh. The area of a circle is half the diameter times half the
+% circumference, as for every figure with equal sides and angles; or the square of the diameter less its seventh and
+% half its seventh. A segment of a circle is a half, less than a half or more than a half, by its sagitta; the
+% diameter from the chord and the sagitta. Below the rule three footnotes of the editors.
+الذى يحيط بها وهو اصطلاح بين الناس من غير اضطرار ولأهل الهندسة فيه
+قولان آخران : أحدهما أن تضرب القطر فى مثله ثم فى عشرة ثم تأخذ جذر ما
+اجتمع فماكان هو الدور . والقول الثانى لأهل النجوم منهم وهو أن تضرب القطر
+فى اثنين وستون الفاوثمانمئة واثنين وثلاثين ثم تقسم ذلك على عشرين الفا فما خرج
+فهو الدور وكل ذلك قريب بعضه من بعض . والدور اذا قسمته على ثلاثةوسبع
+يخرج القطر . وكل مدورة فان نصف القطر فى نصف الدور هو التكسير لأن
+كل ذات أضلاع وزوايا متساوية من المثلثات والمربعات والمخمسات وما فوق ذلك
+فان ضربك نصف ما يحيط به فى نصف قطر أوسع دائرة يقع فيها تكسيرها .
+وكل مدورة فان قطرها مضروباً فى نفسه منقوصاً منه سبعه ونصف سبعه هو
+تكسيرها وهو موافق للباب الأول {n:١} وكل قطعة من مدورة مشبهة بقوس فلابد
+أن تكون مثل نصف مدورة أو أقل من نصف مدورة أو أكثر من نصف
+مدورة والدليل على ذلك أن سهم القوس {n:٢} اذا كان مثل نصف
+الوتر فهى نصف مدورة سوياً . واذا كان أقل من نصف الوتر فهى أقل
+من نصف مدورة واذا كان السهم اكثر من نصف الوتر فهى أكثر من
+نصف مدورة . واذا أردت أن تعرف من أى دائرة هى فاضرب نصف الوتر
+فى مثله واقسمه على السهم وزد ما خرج على السهم فما بلغ فهو قطر المدورة {n:٣}
+@ednotes ١ ٢ ٣ 5
+@obs L04: «فى اثنين وستون الفا», as printed: the numeral ستون is in the nominative, after فى and the genitive اثنين, where the genitive is ستين; the number, sixty-two thousand eight hundred and thirty-two, is the same either way.
+@obs L02: a colon stands between آخران and أحدهما, with a space on either side.
+@obs Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): فماكان (L03; 5 between the alif and the ك, as in ماكان on frame 035, L08); الفاوثمانمئة (L04; 10 between the alif and the conjunction و, as درهماونصفاً on frame 061, L06, 9); ثلاثةوسبع (L05; 9 between the ة and the conjunction و); فلابد (L10; 24 between the ligature لا and the ب, within its distances from the next letter inside a word, 20 to 26 px).
+@obs L11 and L14: أكثر (L11, L14) and اكثر (L14) are transcribed as one word. The print sets the ك 21, 21 and 17 px (nearest approach of the ink at 400 ppi) from the alif before it, about the width of a narrow word space; it sets the word so every time it occurs in this edition (15 to 23 px on frames 033, 035, 047, 048, 071 and 072, and 15 px from the ligature لا in الاكثر on frame 055), where an alif stands 5 to 7 px from a ك that follows it without a space (فماكان, L03; فاكمل, frame 063, L16).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: الفا فما (L04; 20 between the alif and the ف; in doubt, the space is written).
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after الدور, before والقول (L03; 18 and 19), after بعض, before والدور (L05; 19 and 27), after القطر, before وكل (L06; 25 and 24), at the end of L08 (38 after تكسيرها), after سوياً, before واذا (L13; 24 and 38), after مدورة, before واذا (L15; 26 and 22). The note marks: (١) stands between الأول and وكل with a narrow space on either side (22 and 20 px; L10); (٢) in a wide space between القوس and اذا (L12); (٣) 33 px after المدورة at the end of L16.
+@obs Plain alif where a hamza might be expected, as printed: اصطلاح, اضطرار (L01), اجتمع (L03), اثنين (L04, twice), الفاوثمانمئة, الفا (L04), اذا (L05, L12), فان (L06, L08, L09), واذا (L13, L14, L15), اكثر (L14), فاضرب (L15), واقسمه (L16); with hamza: ولأهل (L01), أحدهما, أن, تأخذ (L02), لأهل, أن (L03), لأن (L06), أضلاع (L07), أوسع (L08), الأول (L10), أن, أقل, أكثر (L11), أو (L11, twice), أن (L12), أقل (L13, twice), أكثر (L14), أردت, أن, أى (L15); with madda: آخران (L02); on ي: الفاوثمانمئة (L04), دائرة (L08, L15).
+@obs With tanwīn on the final alif: مضروباً, منقوصاً (L09), سوياً (L13); without tanwīn as printed: الفا (L04).
+@obs The final yā' is printed without dots: الذى (L01), فى (L02, twice; L04, L06, L08, L09, L16), الثانى (L03), على (L04, L05, L12; L16, twice), فهى (L13, twice; L14), أى, هى (L15).
+@obs The print stretches بها (L01) and مدورة, والدليل and مثل (L12) with the elongation stroke; the stroke is not transcribed.
+@copy L07: a short light-grey vertical stroke, a reader's pencil mark, stands in the space between كل and ذات, apart from the printed letters.
+@obs Notes (١) to (٣) of the editors check the rules of the page in modern notation: (١) that the square of the diameter less three fourteenths of it is 22/7 times the square of the radius, the area of the circle with the circumference 22/7 of the diameter; (٢) that the sagitta (سهم) is the perpendicular from the midpoint of the arc to the chord; (٣) that half the chord squared equals the sagitta times the diameter less the sagitta, the relation behind the rule of L15-L16. None is reproduced.

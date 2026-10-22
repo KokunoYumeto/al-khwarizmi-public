@@ -1,0 +1,7 @@
+@page 208 V
+@kind editorial
+% Frame 208, printed p. V: the first page of the editor's introduction, «EINLEITUNG», in German.
+@withheld the editor's introduction, «EINLEITUNG», p. V, in German: the heading and 24 printed lines
+@obs Topics of the page, with the entries and notes that it cites (the introduction is read for understanding and not reproduced or paraphrased): the heading «EINLEITUNG»; the manuscript on which the edition rests, cod. 4247 of the Bibliothèque de l'université et régionale in Strasbourg; the running numbers in parentheses and the numbers of Suhrāb's «ʿAjāʾib al-aqālīm» in square brackets; the five plates (frames 171-179); the headings of the index (frames 165-167).
+@obs The introduction, pp. V-XXXI, is bound in the reverse order of its pages, from p. XXXI (frame 182) to p. V (frame 208); the frames keep the physical order, and the introduction is read from frame 208 back to frame 182. This page is read first; p. VI follows on frame 207.
+@obs The page number «— V —» stands at the foot, centred. The page has no footnotes.

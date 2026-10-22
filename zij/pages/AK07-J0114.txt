@@ -1,0 +1,57 @@
+@page 114 82
+@lang de
+% JP2 0114: Suter's commentary, p. 82: chapter 31 continued: the columns of the syzygy tables; the example of the
+% conjunction at the end of Muḥarram 288 (22/23 January 901): the mean conjunction from Tables 69-72 and the true
+% places of the sun and the moon begin (notes 1-7).
+{i:collecti} überschrieben entspricht, bedeuten, dass es nach Verfluss von 30 ganzen
+arabischen Jahren{sup:1}) noch 29{sup:d} 0{sup:h} 14{sup:m} 46{sup:s} bedarf bis zur nächsten Konjunktion von
+Sonne und Mond ; ebenso entsprechend in den andern Tafeln für die einzelnen Jahre
+und Monate, z. B. nach Ablauf des 1. Jahres nach dem 30. braucht es bis zur nächsten
+Konjunktion nach Tafel 71 noch 8{sup:h} 48{sup:m} 7{sup:s}. — Die 4. Kolonne gibt die mittlere Länge
+von Sonne und Mond jeweilen für den betreffenden Zeitpunkt an, die 5. Kolonne
+enthält die Anomalie des Mondes, und die 6. das Argument der Breite des Mondes
+für jenen Zeitpunkt. Die vorderste Kolonne enthält die {i:Signa} (oder {i:Notae}) der be-
+treffenden Jahre, bezw. Monate ; diese wie die letzte (6.) Kolonne brauchen wir zur
+Bestimmung der Konjunktionen und Oppositionen nicht.
+@p Wir geben im folgenden ein {i:Beispiel} einer Konjunktionsberechnung nach den
+Regeln des Textes, obgleich es hier vielleicht mehr als an irgend einer andern Stelle
+notwendig gewesen wäre, von diesem schlecht übersetzten, oder uns wenigstens in
+sehr schlechtem Latein überlieferten Kapitel eine verständliche deutsche Übersetzung
+zu geben. Wir wählen dafür den Zeitpunkt der Sonnenfinsternis, die {sp:Batt.} im 30.
+Kapitel{sup:2}) anführt, und deren Elemente {sp:Schiaparelli} nach den Tafeln {sp:Batt.}’s nach-
+gerechnet hat{sup:3}).
+@p Zu welcher Zeit hat am Schlusse des Monats {i:Muḥarram} d. J. 288 d. H. (= 22./23.
+Jan. 901) die {i:Konjunktion} von Sonne und Mond (der {i:Neumond}) stattgefunden ?
+@p Nach den Tafeln 69—72 findet man :
+@t | | | Longit. media | Anomalia | Argumentum
+@t | | Dies et horae | solis et lunae | lunae | latitud. lunae
+@t Am Ende des 270. J. | | 29{sup:d} 2{sup:h} 4{sup:m} 51{sup:s} | 123° 49′ 42″ | 252° 31′ 18″ | 30° 19′ 50″
+@t für 17 Jahre | | 0 5 43 50 | 177 30 35 | 226 38 40 | 136 48 10
+@t für Muḥarram | | 0 0 0 0 | 0 0 0 | 0 0 0 | 0 0 0
+@t für den 0. Muḥ. 288 : | | 29{sup:d} 7{sup:h} 48{sup:m} 41{sup:s} | 301° 20′ 17″ | 119° 9′ 58″{sup:4}) | 167° 8′ 0″
+@p Sonne und Mond haben also die gleiche mittlere Länge und zwar 301° 20′ 17″
+am 29. Muḥ. des J. 288 d. H. 7{sup:h} 49{sup:m} Abends{sup:5}). Man muss nun die wahren Örter von
+Sonne und Mond bestimmen für diese Zeit nach Kap. 8 u. 9 (Tafeln 21—26) :
+@t | Mittlere Länge d. Sonne : | | Mittlere Länge d. Mondes :
+@t | 301° 20′ 17″ | | 301° 20′ 17″
+@t Gleichung d. Sonne | | Gleichung d. Mondes |
+@t n. Tafel 25{sup:6}) | 1° 30′ 39″ | n. Tafel 24{sup:7}) | 4° 15′ 45″
+@t | 302° 50′ 56″ | | 297° 4′ 32″
+@n {sup:1}) Das 31 bedeutet den 0. {i:Muḥarram} des Jahres 31 d. H.
+@n {sup:2}) Ed. {sp:Nallino}, I, 56—57.
+@n {sup:3}) Ibid. I, 228—229.
+@n {sup:4}) Eigentlich 479° 9′ 58″, davon werden aber 360° = eine ganze Umdrehung abgezogen.
+@n {sup:5}) Die Tage der Tafeln beginnen am Mittag bei Kulmination der Sonne. Die Sekunden habe
+@n ich zu 1 Min. aufgerundet.
+@n {sup:6}) Diese Gleichung entspricht dem Argument 223° 25′ 17″, das man erhält, wenn man von der
+@n mittlern Länge der Sonne die Länge des Apogeums (77° 55′) abzieht.
+@n {sup:7}) Diese Gleichung entspricht dem Argument 119° 9′ 58″ (119° 10′), nämlich der Anomalie des
+@n Mondes.
+@obs The page number «82» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 continues the sentence that ends p. 81 (JP2 0113, L36), «die der Zahl 31 in der Kolonne Anni». L02, L05, L28: «29d 0h 14m 46s», «8h 48m 7s», «7h 49m», the letters raised.
+@obs L21-L26: the computation, set as a table of five columns divided by vertical rules, which are not transcribed: the heads «Dies et horae» (in one line, set between the two lines of the other heads), «Longit. media solis et lunae», «Anomalia lunae», «Argumentum latitud. lunae» (in two lines); the names joined to the figures by dotted leaders (L24-L25), which are not transcribed; in L23 and L26 the figures with their units, in L24-L25 without; L26 below a rule across the table, broken at the vertical rules. L30-L34: the true places of the sun and the moon, set in two halves of a table, each half with its names at the left and its figures in a column, the names of L33 joined to the figures by dotted leaders, not transcribed, and a rule under the figures of L33. Each printed row is one line here, the cells separated by our «|»; the empty cells give the columns room and are not printed.
+@obs L21-L28. Checked: 29d 2h 4m 51s + 5h 43m 50s = 29d 7h 48m 41s; 123° 49′ 42″ + 177° 30′ 35″ = 301° 20′ 17″; 252° 31′ 18″ + 226° 38′ 40″ = 479° 9′ 58″, less 360° 119° 9′ 58″ (note 4); 30° 19′ 50″ + 136° 48′ 10″ = 167° 8′ 0″. 270 + 17 years end with the year 287, so that 0 Muḥarram 288 is the radix of the year; counted from Thursday 15 July 622 (p. 39, JP2 0071), noon of 29 Muḥarram 288 is 22 January 901, a Thursday, and the mean conjunction 7h 49m later the evening of 22 January, as L18-L19 say.
+@obs L01-L05 and L21-L24. Checked against Brahmagupta's synodic month, 1 577 916 450 000 days in 53 433 300 000 months (29.5305821 days, see p. 42, JP2 0074): 360 months exceed 30 Arab years (10631 days) by 13m 44s, so that from the row of 31 to the row of 271 the time to the next conjunction grows by 8 × 13m 44s = 1h 49m 53s, against 29d 2h 4m 51s − 29d 0h 14m 46s = 1h 50m 5s of the tables; 204 months exceed the 17 years 1-17 (6024 days) by 5h 43m 47s (L24: 5h 43m 50s); 12 months exceed one common year of 354 days by 8h 48m 27s, against the 8h 48m 7s of L05, to be compared with Table 71. The true new moon of January 901 fell in the morning of 23 January (about 7.4h Terrestrial Time; Meeus's algorithm), the day of al-Battānī's solar eclipse (L15-L16).
+@obs L30-L34 and N06-N07. Checked: 301° 20′ 17″ − 77° 55′ = 223° 25′ 17″, and 301° 20′ 17″ + 1° 30′ 39″ = 302° 50′ 56″ (the solar anomaly greater than 180°, the equation added); 301° 20′ 17″ − 4° 15′ 45″ = 297° 4′ 32″ (the lunar anomaly less than 180°, the equation subtracted). The rule sin q = sin 2° 14′ · sin m gives for the sun 1° 32′ 7″ and sin q = sin 4° 56′ · sin m for the moon 4° 18′ 26″ (see p. 46, JP2 0078), more than the 1° 30′ 39″ and 4° 15′ 45″ read in Tables 25 and 24; to be compared with the tables.
+@obs L18: «Muḥarram» in italics with the dot under the ḥ; L23-L28: «Muḥarram», «Muḥ.» upright in the table and in L28. L15: «im 30. Kapitel», the chapter of al-Battānī (note 2). Spaced type, marked {sp:}: «Batt.», «Schiaparelli», «Nallino»; italics: «collecti», «Signa», «Notae», «Beispiel», «Muḥarram» (L18, N01), «Konjunktion», «Neumond».
+@obs The dashes: L05 «7s. — Die», the long dash with a space on either side; L20 «69—72» and L29 «21—26», the long dash set close (48 px); N02 «56—57» and N03 «228—229», the long dash of the small type (27 and 42 px).
+@obs The colons, semicolons and the question mark stand after the thin space of the edition (9-14 px measured; «288 :» in L26, 11 px; «stattgefunden ?», 9 px).

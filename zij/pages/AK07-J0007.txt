@@ -1,0 +1,41 @@
+@page 7 [III]
+@kind contents
+@lang de
+% JP2 0007: the contents, first page (p. [III]): the parts of the book; the chapters of the commentary 1-22.
+@h INHALT
+@r Pag.
+@toc Vorwort | V
+@toc Einleitung | VII—XXV
+@toc Text der lateinischen Übersetzung | 1—31
+@toc Kommentar | 32—106
+@toc Tafeln | 109—231
+@toc Nachträge und Berichtigungen | 233—237
+@toc Glossar | 241—248
+@toc Namen- und Sachregister | 249—255
+@h Kapitel des Kommentars
+@c (denen des lateinischen Textes entsprechend)
+@r Pag. Tab.
+@toc Einleitung des Textes | 32 |
+@toc 1. Beschreibung des arabischen Jahres | 34 |
+@toc 2. Beschreibung des römischen Jahres | 34 | 1
+@toc 3. Über die Überschriften der Tafel-Kolonnen | 36 |
+@toc 4. Über den Beginn der arabischen Monate | 36 | 2—2{sup:b}
+@toc 5. Über die Auffindung des römischen Jahres | 38 | 3—3{sup:a}
+@toc 6. Über die Einteilung der Sphäre | 41 |
+@toc 7. Über die mittlere Bewegung der Planeten | 41 | 4—20
+@toc 8. Über die Auffindung des (wahren) Ortes der Sonne | 43 | 21—26
+@toc 9. Über die Auffindung des (wahren) Ortes des Mondes | 45 | 21—26
+@toc 10. Bestimmung des (wahren) Ortes der drei obern Planeten | 46 | 27—44
+@toc 11. Bestimmung des (wahren) Ortes der zwei untern Planeten | 54 | 45—56
+@toc 12. Bestimmung der Länge der Mondknoten | 55 | 19—20
+@toc 13. Über die Stationen und das Vor- und Rückwärtsschreiten der Planeten | 55 | 27—56
+@toc 14. Über die Zeit der Rechtläufigkeit und Rückläufigkeit | 56 | 27—56
+@toc 15. Über die Deklination der Sonne | 58 | 21—26
+@toc 16. Über die Breite des Mondes | 58 | 19—26
+@toc 17. Über die Breite der Planeten | 60 | 27—56
+@toc 18. Über Apogeum und Perigeum der Planeten | 64 |
+@toc 19. Über die Knotenpunkte der Planeten | 64 |
+@toc 20. u. 21. Über die tägliche Bewegung des Mondes und der Sonne | 65 |
+@toc 22. Über das Erscheinen des Mondes am Abend des 29. Tages (des Monats) | 66 | 57{sup:a}
+@obs The first page of the contents, unnumbered (p. [III]). L01 «INHALT» is letter-spaced, with a short rule below it; L11 «Kapitel des Kommentars» is set in a larger type. The entries are joined to their page numbers by dotted leaders, the chapters of the commentary also to the numbers of their tables, in a second column headed «Tab.» (L13); chapter 1 has no table number.
+@obs The chapters of the commentary are numbered as the chapters of the Latin text, «denen des lateinischen Textes entsprechend»; «Einleitung des Textes» (L14) has no number.

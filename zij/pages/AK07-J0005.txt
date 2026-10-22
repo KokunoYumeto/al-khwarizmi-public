@@ -1,0 +1,26 @@
+@page 5 [I]
+@kind title
+@lang de
+% JP2 0005: the title page of the edition (p. [I]).
+@c DIE ASTRONOMISCHEN TAFELN
+@c {sc:des}
+@c MUḤAMMED IBN MŪSĀ AL-KHWĀRIZMĪ
+@c {sc:in der bearbeitung des}
+@c MASLAMA IBN AḤMED AL-MADJRĪṬĪ
+@c {sc:und der latein. uebersetzung des}
+@c ATHELHARD {sc:von} BATH
+@c {sc:auf grund der vorarbeiten von}
+@c A. BJØRNBO† {sc:und} R. BESTHORN
+@c {sc:in kopenhagen}
+@c {sc:herausgegeben und kommentiert von}
+@c H. SUTER
+@c {sc:in zürich}
+@c D. K{sc:gl}. D{sc:anske} V{sc:idensk}. S{sc:elsk}. S{sc:krifter}. 7. R{sc:ække}. {sc:historisk og filosofisk} A{sc:fd}. III. 1
+@c KØBENHAVN
+@c HOVEDKOMMISSIONÆR: ANDR. FRED. HØST & SØN, KGL. HOF-BOGHANDEL
+@c BIANCO LUNOS BOGTRYKKERI
+@c 1914
+@obs The title page, unnumbered (p. [I]): the title, «The astronomical tables of Muḥammad ibn Mūsā al-Khwārizmī in the recension of Maslama ibn Aḥmad al-Majrīṭī and the Latin translation of Adelard of Bath, on the preliminary work of A. Bjørnbo (dead, †) and R. Besthorn in Copenhagen, edited with a commentary by H. Suter in Zurich»; the series, Det Kongelige Danske Videnskabernes Selskabs Skrifter, 7th series, historical and philosophical section, III. 1; Copenhagen, sold by Andr. Fred. Høst & Søn, the royal court bookseller, printed by Bianco Luno, 1914.
+@obs Types: L01, L03, L05, L07 (but «von»), L09 (but «und») and L12 in capitals; L02, L04, L06, L08, L10, L11 and L13 in small capitals; L14 in capitals and small capitals; L12 «H. SUTER» and L15 «KØBENHAVN» are letter-spaced; L16 is set in a sans-serif type. A short rule stands between L13 and L14, and a small ornament, a rule with a knot in the middle, between L14 and L15. The diacritics of the names are printed: the dots under H (L03, L05) and T (L05), and the macrons (L03, L05).
+@obs Large stains of damp run down from the top of the page and through the middle of its lower half; the print is legible throughout.
+@copy L12: «H. SUTER» is underlined in ink by a reader.

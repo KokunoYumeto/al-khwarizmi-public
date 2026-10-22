@@ -1,0 +1,46 @@
+@page 43 ٣٧
+% Frame 043, printed p. 37: the last places beyond the seventh clime, entries 527-539: راسٮٮاس, اوڡطرٮا, سنياڡا and
+% Tāwarsānā on the sea, Arsāsā, ارٮسه on the sea, Ṭās and Sūras on a marsh, ڡسٮس, ٮاٮاسو at the mountain, ٮاٮٮامو in a
+% mountain, the inner city of Gog and Ṭarmā on a marsh; the folio of the manuscript, «(fol. 10ᵇ)», in the margin. Five
+% lines of the editor's footnotes. The table of the cities ends here.
+@r (٥٢٧) | [٤٨٣] | راسٮٮاس{n:a} على البحر | نب | ى | نا | مه
+@r (٥٢٨) | [٤٨٤] | اوڡطرٮا{n:b} على البحر | ٮه | ك | ٮٮ | ى
+@r (٥٢٩) | [٤٨٥] | سنياڡا{n:c} على البحر | ٮو | ى | مط | {z}
+@r (٥٣٠) | [٤٨٦] | تاورسانا{n:d} على البحر{n:e} | سٮ | ك | نب | م
+@r (٥٣١) | [٤٨٧] | ارساسا | سح | {z} | ⟨نب | ك⟩{n:f}
+@m ᵍ (fol. 10ᵇ)
+@r (٥٣٢) | [٤٨٨] | ارٮسه{n:h} على البحر | سح | ں | ن | كه
+@r (٥٣٣) | [٤٩٦] | طاس على بطيحة | سط | {z} | نر | ى
+@r (٥٣٤) | [٤٩٠] | سورس على بطيحة | ع | ك | نر | مد
+@r (٥٣٥) | [٤٩١] | ڡسٮس | عا | له | نو | مه
+@r (٥٣٦) | [٤٩٢] | ٮاٮاسو مع الجبل | ڡلا | {z} | نح | ى
+@r (٥٣٧) | [٤٩٣] | ٮاٮٮامو فى جبل | ڡما | ل | نا | ك
+@r (٥٣٨) | [٤٩٤] | مدينة ياجوج الداخلة | ڡعٮ | ل | سح | {z}
+@r (٥٣٩) | [٤٨٩] | طرمى على بطيحة | سط | ى | نٮ | ن
+@ednotes a b c d e f g h 5
+@obs The table goes on from frame 042 without a heading: the last places beyond the seventh clime, entries 527-539, and ends with entry 539, followed by a short rule; frame 044 begins the mountains. All entries have numbers of Suhrāb: [٤٨٣]-[٤٨٨] (entries 527-532), [٤٩٦] (entry 533), [٤٩٠]-[٤٩٤] (entries 534-538) and [٤٨٩] (entry 539); [٤٩٥] does not appear. Only entry 538 has the word «مدينة».
+@obs The folio of the Strasbourg manuscript, «(fol. 10ᵇ)», is printed in Latin type in the left margin beside entry 532 (L06), preceded by the note mark g; the editor's note g says that fol. 9ᵇ of the manuscript repeats entries (532)-(535) and is otherwise blank, and that fol. 10ᵃ is blank.
+@obs L09: the running number of entry 535 is printed defectively: the first digit, ٥, is whole; of the second digit only the stem and the first tooth have printed, 13 px wide, at the place where the ٣ of the neighbouring numbers begins, a ٣ being 31 px wide (L08, L10), so that what shows looks like a ٢, which is 17 to 19 px wide and stands 8 px further to the left (L01-L03); of the third digit only the lower half of a ٥ has printed; and the closing parenthesis lacks its middle. No ink shows in this area, about 70 by 22 px. Transcribed (٥٣٥), the number between (٥٣٤) and (٥٣٦).
+@obs L01: «راسٮٮاس»: after «را», an initial س (teeth of 9, 8 and 6 px), then two low teeth without dots (6 and 5 px) joined to an alif, and a final س; the editor's note a gives the form of entry (1081), «راسنياس», with the dots of the ن and the ي. L02: «اوڡطرٮا»: the loop of ف or ق without dots joined to ط and ر, then a tooth without a dot joined to the final alif; the editor's note b gives «اوقرطيا» from entry (1076). L03: «سنياڡا»: the ن with its dot, the ي with its two dots, the loop without dots joined to the final alif.
+@obs L06: «ارٮسه»: after «ار», a group 82 px wide: a tooth 15 px high without a dot, three low teeth of 5, 7 and 8 px and a final ه, 17 px wide. It has no م: a medial م stands out above and below the joining stroke, as in «سسماى» (frame 151, L02), a rounded body 15 px wide, 5 px above the stroke and 4 to 5 px below it, and «ـمه» takes some 45 px, as in the numeral «قمه» (frame 120, L06). An initial س of this page has three teeth, the first of 8 to 10 px (L04, L05, L08); the tall stroke is therefore read as a tooth before the س. The text of entry (2193), «اوٮسه» (frame 151, L07), and the editor's note h, which gives that form, print the same group after «او». Transcribed ارٮسه.
+@unres L06: where a س begins a group after a letter that does not join, its first stroke can be as tall as 13-14 px (L07, «طاس», and the «اس» of «راسٮٮاس», L01), so that the four strokes after «ار» may also be read as a س followed by a tooth, ارسٮه. Transcribed ارٮسه.
+@obs L09: «ڡسٮس»: after the loop of ف or ق without dots, seven low teeth (4 to 7 px) before the bowl of the final س, in two groups of three and four with a wider gap between them (18 px, where the teeth stand 10 to 14 px apart): one tooth more than the six of «سس». Transcribed ڡسٮس.
+@unres L09: the teeth of «ڡسٮس» are of nearly the same height, so it does not show which of the four teeth of the second group is the added one: the name may also be read ڡسسٮ or ڡٮسس. Transcribed ڡسٮس.
+@obs L10: «ٮاٮاسو» and L11: «ٮاٮٮامو»: the teeth before the alifs have no dots; in L11 the second alif has two teeth before it, 14 and 9 px high, where in L10 it has one. L11: «فى», the ف with its dot and the ى without dots.
+@obs Letters printed without their dots in the numerals, transcribed so: ٮٮ (L02, the degrees of the latitude), a tooth joined to a final ب, both without dots, with two risers at the right end of the bowl, a tall and a short one, as on frames 010 and 041; ٮو (L03, the degrees of the longitude), the tooth without its dot; سٮ (L04, the degrees of the longitude), the س joined to a final ب without its dot, 62; ں (L06, the minutes of the longitude), the bowl of a final ن without its dot; نٮ (L13, the degrees of the latitude), the ن with its dot and a final ب without its dot, 52; the loop of ف or ق without dots in the degrees of the longitude, ڡلا (L10), ڡما (L11) and ڡعٮ (L12), the last with a final ب without its dot, the form that frame 010 prints with the dots of the ق, «قعٮ», 172. With their dots: نب (L01, the degrees of the longitude; L04, L05, the degrees of the latitude), the ن with its dot above and the ب with its dot below, 52; نا (L01, L11), نو (L09) and نح (L10); ن (L06, the degrees of the latitude; L13, the minutes of the latitude).
+@obs L07, L08: the degrees of the latitude, نر: the ن with its dot above the tooth, joined to a ر without the dot of a ز; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed.
+@obs L02: the degrees of the longitude are printed «ٮه», a tooth without its dot joined to a final ه, and the degrees of the latitude ٮٮ; read with a ن they give 55 and 52, where the longitudes of the neighbouring entries are 52 and 56 and their latitudes 51 and 49. The editor's notes do not comment on them. Transcribed as printed.
+@obs The degrees printed with a final ح, سح (L05, L06, the degrees of the longitude; L12, the degrees of the latitude) and نح (L10), show no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.
+@obs L05: the latitude of entry 531 is printed «⟨نب ك⟩», the degrees and the minutes within one pair of angle brackets, followed by the note mark f: the editor supplies them from S, where the manuscript has a gap (note f). Transcribed with the opening bracket in the degrees cell and the closing one in the minutes cell.
+@obs The isolated ك, 20, is printed with the small inner stroke of the letter (L02, L04, L08, the minutes of the longitude; L05, L11, the minutes of the latitude).
+@obs Specks, not transcribed: L05, a short dash below the ٧ of the number of Suhrāb; L10, a cluster of small specks between the degrees and the minutes of the latitude; L13, two specks, 5 px, below the bowl of the degrees of the latitude «نٮ», where a ب has its dot; the dots of the font are some 8 px across.
+@obs A thin rule, 226 px long, stands at the top of the page above the running number of entry 527, higher than the rules of the table; it is not transcribed.
+@obs The page number «— ٣٧ —» stands at the foot, centred.
+@variant L01: at entry (1081) the name is written راسنياس.
+@variant L02: at entry (1076) the name is written اوقرطيا.
+@variant L03: at entry (1057) the name is written سيناقى.
+@variant L04: at entry (1073) the name is written ثاورسانا.
+@variant L04: the manuscript reads الجبل, the mountain, for البحر, the sea.
+@variant L05: the manuscript has a gap in the latitude; the editor supplies it from S.
+@variant L06 (the folio): fol. 9ᵇ of the manuscript contains entries (532)-(535) once more and is otherwise blank; fol. 10ᵃ is blank.
+@variant L06: at entry (1068) the name is written اروثينيه, and at entry (2193) اوٮسه.

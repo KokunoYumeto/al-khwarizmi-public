@@ -1,0 +1,54 @@
+@page 18 XIV
+@lang de
+% JP2 0018: the introduction, p. XIV: how the late-arriving Madrid manuscript N is reported; N's column titles in the
+% tables of the mean motions and of the equations; its month names; its additions and glosses begin (no. 1, fol. 8r).
+geschrieben waren, habe ich, um nicht zu viel Korrekturen in den Fussnoten
+anbringen zu müssen, folgenden Weg eingeschlagen : In den Fällen, wo N mit C
+übereinstimmt, und diese bilden die Mehrzahl, habe ich das Ms. N meistens gar
+nicht erwähnt ; wo also N in den Fussnoten fehlt, ist seine Lesart gleich derjenigen
+von C. — Da N ziemlich viel Abweichungen von C und O in den Kolonnen-Titeln
+aufweist, so habe ich solche für die beiden Hauptgruppen von Tafeln im folgenden
+zusammengestellt, um sie nicht immer wieder bei jeder Tafel in den Noten angeben
+zu müssen :
+@p In Tafel 9 bis 20, die die mittlere Bewegung der Planeten und des Drachen-
+kopfes der Mondbahn enthalten, hat N
+für {i:Medialitas} stets {i:Medius cursus}
+„ {i:plani} „ {i:residui}
+„ {i:Heza} „ {i:Argumentum}
+„ {i:partes horarum} bisweilen {i:minuta horarum}
+@p Die Monatsnamen sind in N fast durchweg (Abweichungen in Klammer) so
+geschrieben :
+@cl {i:Almuharram}
+@cl {i:Szafar} ({i:Szaffar, Szaphar})
+@cl {i:Rabbe}{sup:1}) ({i:Rabe})
+@cl {i:Rabbe}{sup:1}) ({i:Rabe})
+@cl {i:Jumedi}{sup:1})
+@cl {i:Jumedi}{sup:1})
+@cr {i:Rageb}
+@cr {i:Saaben} ({i:Szaaben})
+@cr {i:Ramadhan} ({i:Ramadham})
+@cr {i:Sewil}
+@cr {i:Dulkidda} ({i:Dulkadda})
+@cr {i:Dulheigga} ({i:Dulheiga, Dulhegga})
+@p In Tafel 22 bis 56 (21 fehlt in N), die die Gleichungen der Sonne, des Mondes
+und der fünf Planeten enthalten, hat N
+für {i:Examinatio} stets {i:Coaequatio}
+„ {i:Catar} ({i:Semita, Pagina, Via}) „ {i:Linea}
+„ {i:Computatio minuenda} meistens {i:Computatio diminuta}
+„ {i:Computatio augenda} „ {i:Computatio aucta}
+„ {i:Sublimatio examinata} stets {i:Sublimatio definita}
+„ {i:Heza} „ {i:Argumentum}
+@p Das Ms. N enthält nun noch einige grössere Zuzätze und Randglossen, die ich
+nicht gut in die Fussnoten aufnehmen konnte, da sie fast alle eines Kommentars
+bedürfen ; ich gebe sie hier in der Einleitung in der Reihenfolge, wie sie sich im
+Texte und in den Tafeln vorfinden :
+@p 1) Auf fol. 8{sup:r} kommen nach den Worten {i:omnia quae hic} (in unserm Text p. 2),
+die den Schluss der ersten Spalte bilden sollten, noch folgende vier Zeilen in gleicher
+Schrift, die offenbar nicht zu unserm Text, sondern wahrscheinlich zu dem Text
+von 7{sup:v} gehören : {i:Ab aequinoctio usque ad solstitium augmentatio sive diminutio dierum}
+{i:et noctium duorum minutorum et XL secundorum computatur}.
+@n {sup:1}) Ohne die unterscheidenden Nummern I und II.
+@obs The page number «XIV» stands at the head of the page, centred, with a rule below it.
+@obs L11-L14 and L31-L36: two small tables, set in columns: «für», the word of C and O in italics, «stets» (or «bisweilen», «meistens»), the word of N in italics; the low double commas „ are ditto marks, standing for «für» and for «stets» of the line above. Each printed row is one line here.
+@obs L17-L28: the twelve month names of N, printed in two columns of six rows, the first six months in the left column and the last six in the right; transcribed column by column (@cl, @cr), the left column first. The footnote mark of «Rabbe» and «Jumedi», «1)», refers to N01: the two months of each name are written without the numbers I and II that distinguish them.
+@critical AK07-CN003 | misprint | L37 | Zuzätze | Zusätze | the word is «Zusätze», additions, the additions and marginal glosses of N that the page goes on to list; the second z is a misprint for s | high | none

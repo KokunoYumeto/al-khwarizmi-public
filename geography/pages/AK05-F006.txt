@@ -1,0 +1,4 @@
+@page 6 -
+@kind blank
+% Frame 006: the verso of the reprint title page, on the same grey mottled paper; nothing printed.
+@obs Blank, on the grey mottled paper of the reprint title page (frame 005).

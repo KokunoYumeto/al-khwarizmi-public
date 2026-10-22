@@ -1,0 +1,33 @@
+{
+ "anchor": "AK05-F179",
+ "frame": 179,
+ "frame_file": "page_179.jpg",
+ "frame_sha256": "64b1c69a25d0fc4520315112014b59cbf796521bac65d928e79e476363736e66",
+ "printed_page": "-",
+ "kind": "plate",
+ "role": "AK_TABLE_OR_FIGURE plus MODERN_EDITORIAL (plate)",
+ "comment": "Frame 179: plate V, «TAFEL 5»: the last written page of the Strasbourg manuscript, fol. 47ᵇ, as a specimen of its script, printed sideways on a folding sheet.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [
+  {
+   "id": "AK05-F179-FIG1",
+   "rect": [
+    100,
+    180,
+    5560,
+    3640
+   ]
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The plate reproduces in halftone fol. 47ᵇ of the manuscript, its last written page, which the editor's list of plates (p. 162, frame 168) gives as a specimen of the script. It is printed sideways on a folding sheet wider than the page; the caption «TAFEL 5» stands in the margin and reads with the page.",
+  "The page shows lines of the text, the scribe's note with the date of the copy, and the owner's note written aslant in the margin, whose words the editor prints in his list of plates (recorded as readings on frame 168); several holes and stains in the leaf; and a round stamp with «ST. THOMAS STIFT» in its centre and an inscription round its rim that the halftone does not make legible.",
+  "The plate is reproduced as an image (the crop of the frame and its derivative); its handwritten text is not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

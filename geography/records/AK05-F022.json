@@ -1,0 +1,415 @@
+{
+ "anchor": "AK05-F022",
+ "frame": 22,
+ "frame_file": "page_022.jpg",
+ "frame_sha256": "9b14a502deb3c632b913ac7e96bf12f8ef89c9705c5b3aaca4c28096f77c43b9",
+ "printed_page": "١٦",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 022, printed p. 16: the cities of the fourth clime continued, entries 196-213: places on and near the sea, a place at the edge of a mountain, cities on islands, al-Qayrawān, and Maksūlā near the sea. One line of the editor's footnotes and one word of a second.",
+ "lines": [
+  {
+   "id": "AK05-F022-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(١٩٦) | [١٦٢] | ڡرطاجنه قرب البحر | ٮو | {z} | لٮ | {z}",
+   "margin": null,
+   "cells": [
+    "(١٩٦)",
+    "[١٦٢]",
+    "ڡرطاجنه قرب البحر",
+    "ٮو",
+    "{z}",
+    "لٮ",
+    "{z}"
+   ],
+   "plain": "(١٩٦) | [١٦٢] | ڡرطاجنه قرب البحر | ٮو | ō | لٮ | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(١٩٧) | [١٦٣] | اڡدا مع حدّ جبل | يز | {z} | لا | ل",
+   "margin": null,
+   "cells": [
+    "(١٩٧)",
+    "[١٦٣]",
+    "اڡدا مع حدّ جبل",
+    "يز",
+    "{z}",
+    "لا",
+    "ل"
+   ],
+   "plain": "(١٩٧) | [١٦٣] | اڡدا مع حدّ جبل | يز | ō | لا | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(١٩٨) | [١٦٤] | جرسياٮريا | ٮح | ل | ل | ك",
+   "margin": null,
+   "cells": [
+    "(١٩٨)",
+    "[١٦٤]",
+    "جرسياٮريا",
+    "ٮح",
+    "ل",
+    "ل",
+    "ك"
+   ],
+   "plain": "(١٩٨) | [١٦٤] | جرسياٮريا | ٮح | ل | ل | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(١٩٩) | [١٦٥] | وانا قرب البحر | ٮط | م | لا | مه",
+   "margin": null,
+   "cells": [
+    "(١٩٩)",
+    "[١٦٥]",
+    "وانا قرب البحر",
+    "ٮط",
+    "م",
+    "لا",
+    "مه"
+   ],
+   "plain": "(١٩٩) | [١٦٥] | وانا قرب البحر | ٮط | م | لا | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٢٠٠) | [١٦٦] | مدينة جليه | ك | {z} | ل | ل",
+   "margin": null,
+   "cells": [
+    "(٢٠٠)",
+    "[١٦٦]",
+    "مدينة جليه",
+    "ك",
+    "{z}",
+    "ل",
+    "ل"
+   ],
+   "plain": "(٢٠٠) | [١٦٦] | مدينة جليه | ك | ō | ل | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٢٠١) | [١٦٧] | سليدا قرب البحر | كٮ | ٮه | لا | م",
+   "margin": null,
+   "cells": [
+    "(٢٠١)",
+    "[١٦٧]",
+    "سليدا قرب البحر",
+    "كٮ",
+    "ٮه",
+    "لا",
+    "م"
+   ],
+   "plain": "(٢٠١) | [١٦٧] | سليدا قرب البحر | كٮ | ٮه | لا | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٢٠٢) | [١٦٨] | سلثا على البحر | كح | ل | لٮ | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٠٢)",
+    "[١٦٨]",
+    "سلثا على البحر",
+    "كح",
+    "ل",
+    "لٮ",
+    "{z}"
+   ],
+   "plain": "(٢٠٢) | [١٦٨] | سلثا على البحر | كح | ل | لٮ | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٢٠٣) | [١٦٩] | طحسطوا قرب البحر | كد | يه | لا | م",
+   "margin": null,
+   "cells": [
+    "(٢٠٣)",
+    "[١٦٩]",
+    "طحسطوا قرب البحر",
+    "كد",
+    "يه",
+    "لا",
+    "م"
+   ],
+   "plain": "(٢٠٣) | [١٦٩] | طحسطوا قرب البحر | كد | يه | لا | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٢٠٤) | [١٧٠] | ٮارٮا على البحر | كر | يه | لٮ | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٠٤)",
+    "[١٧٠]",
+    "ٮارٮا على البحر",
+    "كر",
+    "يه",
+    "لٮ",
+    "{z}"
+   ],
+   "plain": "(٢٠٤) | [١٧٠] | ٮارٮا على البحر | كر | يه | لٮ | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٢٠٥) | [١٧١] | ڡرڡول | كح | ك | لا | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٠٥)",
+    "[١٧١]",
+    "ڡرڡول",
+    "كح",
+    "ك",
+    "لا",
+    "{z}"
+   ],
+   "plain": "(٢٠٥) | [١٧١] | ڡرڡول | كح | ك | لا | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٢٠٦) | [١٧٢] | مدينة اٮلا{n:a} فى جزيرة | كح | ل | له | ل",
+   "margin": null,
+   "cells": [
+    "(٢٠٦)",
+    "[١٧٢]",
+    "مدينة اٮلا{n:a} فى جزيرة",
+    "كح",
+    "ل",
+    "له",
+    "ل"
+   ],
+   "plain": "(٢٠٦) | [١٧٢] | مدينة اٮلا فى جزيرة | كح | ل | له | ل",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٢٠٧) | [١٨٩] | القيروان | لا | {z} | لا | م",
+   "margin": null,
+   "cells": [
+    "(٢٠٧)",
+    "[١٨٩]",
+    "القيروان",
+    "لا",
+    "{z}",
+    "لا",
+    "م"
+   ],
+   "plain": "(٢٠٧) | [١٨٩] | القيروان | لا | ō | لا | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٢٠٨) | [١٩٠] | رٮحيا{n:b} قرب البحر | لا | م | لا | ل",
+   "margin": null,
+   "cells": [
+    "(٢٠٨)",
+    "[١٩٠]",
+    "رٮحيا{n:b} قرب البحر",
+    "لا",
+    "م",
+    "لا",
+    "ل"
+   ],
+   "plain": "(٢٠٨) | [١٩٠] | رٮحيا قرب البحر | لا | م | لا | ل",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٢٠٩) | [١٩١] | مدينة سيقا | لا | م | ل | ك",
+   "margin": null,
+   "cells": [
+    "(٢٠٩)",
+    "[١٩١]",
+    "مدينة سيقا",
+    "لا",
+    "م",
+    "ل",
+    "ك"
+   ],
+   "plain": "(٢٠٩) | [١٩١] | مدينة سيقا | لا | م | ل | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٢١٠) | [١٩٢] | مدينة قا فى جزيرة | لٮ | {z} | لد | ن",
+   "margin": null,
+   "cells": [
+    "(٢١٠)",
+    "[١٩٢]",
+    "مدينة قا فى جزيرة",
+    "لٮ",
+    "{z}",
+    "لد",
+    "ن"
+   ],
+   "plain": "(٢١٠) | [١٩٢] | مدينة قا فى جزيرة | لٮ | ō | لد | ن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٢١١) | [١٩٣] | ٮرقا{n:c} على البحر | لب | مه | لب | {z}",
+   "margin": null,
+   "cells": [
+    "(٢١١)",
+    "[١٩٣]",
+    "ٮرقا{n:c} على البحر",
+    "لب",
+    "مه",
+    "لب",
+    "{z}"
+   ],
+   "plain": "(٢١١) | [١٩٣] | ٮرقا على البحر | لب | مه | لب | ō",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(٢١٢) | [١٩٥] | داروطس{n:d} على البحر | لد | ل | لا | م",
+   "margin": null,
+   "cells": [
+    "(٢١٢)",
+    "[١٩٥]",
+    "داروطس{n:d} على البحر",
+    "لد",
+    "ل",
+    "لا",
+    "م"
+   ],
+   "plain": "(٢١٢) | [١٩٥] | داروطس على البحر | لد | ل | لا | م",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F022-L18",
+   "n": 18,
+   "kind": "row",
+   "text": "(٢١٣) | [١٩٦] | مكسولا قرب البحر | له | مه | لٮ | {z}",
+   "margin": null,
+   "cells": [
+    "(٢١٣)",
+    "[١٩٦]",
+    "مكسولا قرب البحر",
+    "له",
+    "مه",
+    "لٮ",
+    "{z}"
+   ],
+   "plain": "(٢١٣) | [١٩٦] | مكسولا قرب البحر | له | مه | لٮ | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "lines": 2,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L11: at entry (1870) the name اٮلا is written اثلا.",
+  "L13: the manuscript gives the variant reading زيحيا.",
+  "L16: at entry (1039) the name ٮرقا is written ثرقا.",
+  "L17: at entry (1039) the name داروطس is written ذيارطس."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 021 without a heading: the cities of the fourth clime, entries 196-213. All have numbers of Suhrāb: [١٦٢]-[١٧٢] in entries 196-206, then [١٨٩]-[١٩٣] in entries 207-211 and [١٩٥], [١٩٦] in entries 212-213; [١٩٤] does not appear on the page. Only entries 200, 206, 209 and 210 have the word «مدينة».",
+  "L01: «ڡرطاجنه»: the first letter is a loop raised above the line and joined by a stroke on the line to the ر: the loop of ف or ق without dots, as in «ڡرقا» and «ڡرنبوس» (frame 023, L01, L18); an isolated و stands on the line and goes straight into its tail. Transcribed ڡر.",
+  "L03: «جرسياٮريا»: after the alif, a tooth without a dot joined to a ر, the two strokes forming a notch at the top, where the isolated ر of the font is a plain curved stroke (frame 021, L08); transcribed ٮر. It stands 15 px from the alif, where the alif and the ر of «ٮارٮا» (L09) stand 13 px apart and the words of the names on this page 21-32 px; transcribed as one word.",
+  "L10: «ڡرڡول»: two groups, each a raised loop without dots joined to a following letter, then the isolated ل. The letter after the first loop has the narrow head of ر, as in «جرسياٮريا» (L03); the letter after the second loop has the larger round head of و, as in «مكسولا» (L18); transcribed ڡر and ڡو.",
+  "L16: «ٮرقا»: a short tooth without its dot joined to the head of the ر, whose tail descends below the line; the ق of «قا» has its two dots. The editor's note c compares ثرقا.",
+  "Letters printed without their dots in the names, transcribed so: «اڡدا» (L02), the loop of ف or ق; «ٮارٮا» (L09), the tooth before each alif; «اٮلا» (L11), the tooth before the لا; «رٮحيا» (L13), the tooth after the ر. L02: «حدّ», with a shadda over the د. L07: «سلثا»: the three dots of the ث are printed.",
+  "Letters printed without their dots in the numerals, transcribed so: the tooth without its dot, ٮو (L01), ٮح (L03) and ٮط (L04), in the degrees of the longitude; ٮه (L06, the minutes of the longitude), a tooth joined to a final ه; the final ب without its dot, لٮ, in the degrees of the latitude (L01, L07, L09, L18) and of the longitude (L15). With their dots: يز (L02), the ي with its two dots and the ز with its dot; لب (L16, the longitude and the latitude); يه (L08, L09, the minutes of the longitude); ن (L15, the minutes of the latitude).",
+  "L09: the degrees of the longitude, كر: in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed.",
+  "The degrees of the longitude are printed in L05 «ك», the isolated ك, 20, with the small inner stroke of the letter, and in L06 «كٮ», a long oblique stroke over a flat bowl, 101 px wide, the ك joined to the final ب without its dot, 22 (frame 014, L11). The ك of the minutes (L03, L10, L14) has the inner stroke.",
+  "The page number «— ١٦ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,53 @@
+@page 289 255
+@lang de
+% JP2 0289: the index of names and subjects, p. 255: Ujjayinī to Zodiacus (U-Z), in two columns; the end of the
+% index and of the book.
+@cl Ujjayinī s. Arin.
+@cl Ulūgh Beg 78.
+@cl Umbra meridiana et aequinoctialis 20, 21, 74, 76.
+@cl — mankūs (versa) = Tangens 22, 76—78.
+@cl — mustewia (plana) = Cotangens 21, 22, 68,
+@cl 76—78, 106, T. 60.
+@cl — terrae 26, 86—91 ; s. auch Durchmesser des
+@cl Erdschattens.
+@cl Umwandlung (conversio, revolutio) der Ge-
+@cl burtsjahre (annorum nativitatum) 102, 103,
+@cl 106, T. 115.
+@cl — der Weltjahre (annorum mundi) 103.
+@cl {b:V.}
+@cl Varāha-Mihira 46, 235.
+@cl Verfinsterung des Mondes 26—28, 86‐‐90, T.
+@cl 73—76.
+@cl — der Sonne 28, 29, 94—96, T. 78.
+@cl Verteilung der 12 astrol. Häuser, s. Häuser.
+@cl Vollmond 84.
+@cl Vorwärtsschreiten der Planeten 12, 55, 56 ;
+@cl Zeit desselben 12, 13, 56—58.
+@cr {b:W.}
+@cr Washington, Meridian von, 52.
+@cr Winkel der Breite und Länge 91, 92.
+@cr Wüstenfeld, F. XIII.
+@cr {b:Y.}
+@cr Yaḥyā b. Abī Manṣūr 32.
+@cr Yaʿḳūb b. Ṭāriḳ 32, 70.
+@cr Yezdegird III., letzter König der Sassaniden,
+@cr VII, VIII, XV, 33, 35, 37, 106, T. 1, s. auch
+@cr Aera.
+@cr Ysidorus s. Isidor.
+@cr Yojana 91.
+@cr {b:Z.}
+@cr al-Zarḳālī 236.
+@cr Zeit, mittlere 80.
+@cr — wahre 80.
+@cr Zeitgleichung 25, 80, 84, 106, T. 67—68.
+@cr Zeitstunden (ungleiche) 20, 21, 25, 76, 81, 84,
+@cr 97, 98 ; s. auch Nachtstunden und Tages-
+@cr stunden.
+@cr Zenitdistanz (des Mondes) 92.
+@cr Zentrum s. Centrum.
+@cr Zeuthen, H. G. VII, 68, 71.
+@cr Zodiacus 29 ; s. auch Ekliptik.
+@obs The page number «255» stands at the head of the page, centred, with a rule below it. The page has no signature. The last page of the index and of the book. Two columns divided by a vertical rule, which ends with the last lines; transcribed column by column: the left column L01-L21, the right L22-L45; the letter heads «V.» (L13), «W.» (L22), «Y.» (L26) and «Z.» (L34) in bold, centred in their columns, «V.» after a wide space, «W.» at the head of the right column, «Y.» and «Z.» after a narrower space than on the other pages; each entry begins at the edge of its column, its further lines indented, the subentries with a dash indented less. Below the columns a short centred double rule ends the index; the rest of the page is blank.
+@obs The semicolons of L07, L20, L40 and L45 stand after a thin space (10-11 px); written with a space. L15: «86‐‐90» is printed with two short dashes (14 and 16 px with a gap of 2 px), here written as two hyphens (U+2010), as on p. 242 (JP2 0276); the other dashes are long (28-47 px). L27: a speck above the space between «Yaḥyā» and «b.»; not transcribed. L32: «Ysidorus» stands between «Yezdegird» and «Yojana», out of the alphabetical order of the index.
+@obs Checked against the text, for example: «Ujjayinī» on p. 33 (JP2 0065), «Ulūgh Beg» on p. 78, the shadows on pp. 20-22 and in Tab. 60 (p. 174), «mankūs» on pp. 69 and 77, «mustewia» on p. 21, the years of nativity on p. 103 and in Tab. 115 (p. 230, JP2 0262), the years of the world on p. 103, «Varāha» on pp. 46 and 235, «Vollmond» on p. 84, «Washington» on p. 52, «Wüstenfeld» on p. XIII, «Yaḥyā b. Abī Manṣūr» on p. 32, «Yaʿḳūb b. Ṭāriḳ» on pp. 32 and 70, Yezdegird on pp. VII, VIII, XV, 33, 35, 37 and 106, «Ysidorus» on p. XVII, «Yojana» on p. 91, «al-Zarḳālī» on p. 236, the mean and true time and the equation of time on p. 80, with Tab. 67-68 (pp. 181-182), «Zenitdistanz» on p. 92, «Zeuthen» on pp. VII, 68 and 71, «Zodiacus» on p. 29.
+@copy The round stamp of the Wellcome Institute library («WELLCOME» above, «LIBRARY» across the middle, «INSTITUTE» below), below the right column at the right, beside the end rule.

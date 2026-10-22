@@ -1,0 +1,6 @@
+@page 139 [107]
+@kind divider
+@lang de
+% JP2 0139: the part title of the tables, p. [107].
+@c TAFELN
+@obs The part title, unnumbered, before the tables: the word «TAFELN», in capitals (69 px high), alone a little above the middle of the page, centred on the text block. Damp stains run down from the top.

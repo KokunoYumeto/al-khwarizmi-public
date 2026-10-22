@@ -1,0 +1,45 @@
+@page 18 12
+% Frame 018, printed p. 12: multiplication continued: a circle multiplied gives nothing; the products added in the place
+% above, ten carried to the next place; the product of the example, 2326 by 214, 497764; the proof of doubling and of
+% multiplication by casting out nines.
+lus qui multiplicatur in aliquo numero, nichil est, idest nul-
+lus numerus surgit ex eo; et quicquid multiplicatur in cir-
+culo, similiter nichil.Cumque mutauerimus differentias uersus
+dexteram ; postea multiplicauerimus ipsum numerum supe-
+riorem in una quaque differentia ex numero inferiori, adde-
+mus quod exierit nobis de multiplicatione super differen-
+tiam que est super illam differentiam , in qua multiplica-
+uimus : dumque crescente numero collecti fuerint nobis in
+aliqua differentia .{sc:x}., faciemus ex eis unum : ponemusque
+eum in sequenti differentia uersus sinistram; et si aliquid
+remanserit , notabimus eum in loco suo: si uero nichil re-
+manserit, ponemus in loco eius circulum, ne minuatur ali-
+quid ex differentiis: et cum perduxerit multiplicatio ad pri-
+mam differentiam numeri inferioris, debebimus quicquid fue-
+rit in differentia, que est super eam; et notabimus id quod
+exierit nobis ex multiplicatione in loco eius. Sicque facie-
+mus , donec multiplicemus uniuersas differentias superioris
+numeri in uniuersis differentiis inferioris; et sic multiplica-
+@m car. 106 {i:recto}.
+bimus | numerum ex eis secundum numerum unitatum alte-
+rius, et perficietur multiplicatio: et hec est figura numeri,
+qui exiuit nobis de multiplicatione duorum milium et ter-
+centorum uiginti sex in ducentis .{sc:xiiii}., que sunt quadrin-
+genta milia et nonaginta septem milia et septingenta .{sc:lxiiii}.
+@p Cum uolueris scire utrum inuenisti uel errasti in dupla-
+tione tua uel multiplicatione, accipe numerum quem uolueris
+duplare, et diuide eum per .{sc:ix}. et .{sc:ix}., et quicquid remanse-
+rit minus .{sc:ix}., duplica eum: in quo si fuerint .{sc:ix}., proice eos,
+et quod remanserit serua. Post hoc duplica numerum tuum,
+idest ipsum numerum quem uolueris duplare, et diuide eum
+per .{sc:ix}., et .{sc:ix}.; et quod remanserit, si fuerit simile illi qui
+prius remanserat dum duplicaueras eum, iam inuenisti: sin
+autem, errasti.Et cum multiplicare uolueris aliquem numerum
+in aliquo;et uolueris probare ut supra, diuide numerum quem
+@obs The page number «( 12 )» stands at the head of the page, centred. The page has no footnotes and no signature.
+@obs L19: the vertical bar between «bimus» and «numerum» marks the beginning of fol. 106 recto of the manuscript, which the note in the left margin, «car. 106 recto.», names; transcribed as a margin note.
+@obs L20-L23: «et hec est figura numeri, qui exiuit nobis de multiplicatione duorum milium et tercentorum uiginti sex in ducentis .xiiii., que sunt quadringenta milia et nonaginta septem milia et septingenta .lxiiii.»: the product of 2326 by 214 is given in words, 497,764, which is correct; the figure is not printed, and no four points mark its place.
+@obs L14: «fue-»: the hyphen stands 7 px from the e, further than the hyphens at the ends of the other lines; transcribed «fue-».
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): with a space before the mark, L04 «dexteram ;» (22 px), L07 «differentiam ,» (18 px), L08 «uimus :» (20 px), L09 «unum :» (17 px), L11 «remanserit ,» (14 px) and L17 «mus ,» (18 px); without a space after the mark, L03 «nichil.Cumque» (8 px, the median word space of the line 17 px), L32 «errasti.Et» (9 px) and L33 «aliquo;et». L10 «sinistram;» (7 px before the semicolon) and L20 «multiplicatio:» (9 px) are set close.
+@critical AK02-CN007 | wrong word | L14 | debebimus | delebimus | «debebimus quicquid fuerit in differentia, que est super eam; et notabimus id quod exierit nobis ex multiplicatione in loco eius»: «debebimus», we shall owe, has no infinitive and gives no sense; the work requires that the figure in the place above be erased and the product written in its place, «delebimus», we shall delete; a reader of this copy wrote «delebimus» in the margin | medium | the rule of the work reads: delete the figure above and write the product in its place; whether the error is of the edition or of the manuscript is not shown by the print
+@copy A reader's notes in pencil: «quod» in the left margin beside L10, with «et» underlined; L10, a dark mark below the «d» of «aliquid»; «produxerit» in the left margin beside L13, a reading of «perduxerit»; «delebimus» beside L14, a reading of «debebimus»; «hec» beside L28, with «hoc» underlined; faint erased writing in the left margin beside L29; «?» beside L31; L33, a stroke under «quem». Not part of the edition.

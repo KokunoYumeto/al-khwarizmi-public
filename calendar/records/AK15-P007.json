@@ -1,0 +1,236 @@
+{
+ "anchor": "AK15-P007",
+ "pdf_page": 7,
+ "printed_page": "٦",
+ "kind": "text",
+ "role": "AK_TEXT (the printed witness of al-Khwarizmi's treatise)",
+ "image_raw_stream_sha256": "94fa6b175a40d631188611f9bfe74183d9474b13f6add74f15625696d86efc33",
+ "image_decoded_pixels_sha256": "b8152b488038d60bd6277d6bb9fb0d7d27f57b771de328c4d855800c1d77217d",
+ "comment": "PDF 7, printed p. 6: the rules for the first day of Tishri and the length of the year continue (de Blois's section 5): a leap year with the molad on Wednesday, a common year with the molad on Thursday, a leap year and a common year with the molad on Tuesday, and the beginning of a leap year with the molad on Sunday.",
+ "lines": [
+  {
+   "id": "AK15-P007-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "قبل ـ ٩٦٠ ـ جزءا يمضى من السنة الحادى عشرة من ليلة الاربعاء",
+   "plain": "قبل ـ ٩٦٠ ـ جزءا يمضى من السنة الحادى عشرة من ليلة الاربعاء",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "فان رأس تشرى ١١٢٠٠٠٠٠٠٠٠ يوم الخميس ومرحشوان",
+   "plain": "فان رأس تشرى ١١٢٠٠٠٠٠٠٠٠ يوم الخميس ومرحشوان",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وكسليو ناقصين فان ولد القمر بعد يمضى من الساعة الحادى عشرة",
+   "plain": "وكسليو ناقصين فان ولد القمر بعد يمضى من الساعة الحادى عشرة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "من ليلة الاربعاء الى حد يوم الخميس فان رأس تشرى يوم الخميس و",
+   "plain": "من ليلة الاربعاء الى حد يوم الخميس فان رأس تشرى يوم الخميس و",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "مرحشوان وكسليو تامين فان لم يكن فى تلك السنة عبور وولد القمر",
+   "plain": "مرحشوان وكسليو تامين فان لم يكن فى تلك السنة عبور وولد القمر",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "قبل ـ ٢٠٤ ـ اجزاء يمضى من الساعة العاشرة من ليلة الخميس فان رأس",
+   "plain": "قبل ـ ٢٠٤ ـ اجزاء يمضى من الساعة العاشرة من ليلة الخميس فان رأس",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "تشرى يوم الخميس ويكون مرحشوان وكسليو كالتقدير فان ولد القمر",
+   "plain": "تشرى يوم الخميس ويكون مرحشوان وكسليو كالتقدير فان ولد القمر",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "يعد ٢٠٤ اجزاء من الساعة العاشرة من ليلة الخميس الى حد يوم",
+   "plain": "يعد ٢٠٤ اجزاء من الساعة العاشرة من ليلة الخميس الى حد يوم",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "الخميس يكون رأس تشرى ويكون مرحشوان وكسليو تامين •",
+   "plain": "الخميس يكون رأس تشرى ويكون مرحشوان وكسليو تامين •",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "وكل تشرى سنة فيها عبور لولد قمره قبل الساعة السابعة من يوم",
+   "plain": "وكل تشرى سنة فيها عبور لولد قمره قبل الساعة السابعة من يوم",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "الثلاثاء يكون رأس تشرى يوم الثلاثاء ويكون مرحشوان وكسليو",
+   "plain": "الثلاثاء يكون رأس تشرى يوم الثلاثاء ويكون مرحشوان وكسليو",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "كالتقدير وان لم يكن فى تلك السنة عبور وولد قمره قبل ٢٠٤ ـ يمضى",
+   "plain": "كالتقدير وان لم يكن فى تلك السنة عبور وولد قمره قبل ٢٠٤ ـ يمضى",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "من الساعة العاشرة من ليلة الثلاثاء فان رأس تشرى يوم الثلاثاء",
+   "plain": "من الساعة العاشرة من ليلة الثلاثاء فان رأس تشرى يوم الثلاثاء",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "ومرحشوان وكسليو بالتقدير وان ولد القمر بعد ٢٠٤ اجزاء يمضى",
+   "plain": "ومرحشوان وكسليو بالتقدير وان ولد القمر بعد ٢٠٤ اجزاء يمضى",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "من الساعة من ليلة الثلثاء فان رأس تشرى يوم الخميس ويكون",
+   "plain": "من الساعة من ليلة الثلثاء فان رأس تشرى يوم الخميس ويكون",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "مرحشوان وكسليو كالتقدير وكل تشرى سنة فيها عبور لولد قمره",
+   "plain": "مرحشوان وكسليو كالتقدير وكل تشرى سنة فيها عبور لولد قمره",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "قبل ٤٩١ ـ جزءا يمضى من الساعة التاسعة من يوم الاحد يكون رأس",
+   "plain": "قبل ٤٩١ ـ جزءا يمضى من الساعة التاسعة من يوم الاحد يكون رأس",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "تشرى يوم الاثنين ويكون مرحشوان وكسليو ناقصين فان ولد",
+   "plain": "تشرى يوم الاثنين ويكون مرحشوان وكسليو ناقصين فان ولد",
+   "cells": null
+  },
+  {
+   "id": "AK15-P007-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "القمر بعد ٤٩١ ـ جزءا يمضى من الساعة التاسعة من يوم الاحد الى حد",
+   "plain": "القمر بعد ٤٩١ ـ جزءا يمضى من الساعة التاسعة من يوم الاحد الى حد",
+   "cells": null
+  }
+ ],
+ "unresolved": [
+  "L02: «١١٢٠٠٠٠٠٠٠٠» between «تشرى» and «يوم الخميس»: the sentence «فان رأس تشرى يوم الخميس» is complete without it, as in L04, L06-L07 and L13; whether the figure stands for a mark of the manuscript, a misplaced number or a row of dots set with the zero type is not known; the print is kept."
+ ],
+ "observations": [
+  "The running head «استخراج تاريخ اليهود للخوارزمى» stands at the head of the page, the page number «٦» at its right, with a small mark (7 x 11 px) above the digit; at the lower left the catchword «يوم», the first word of p. 7 (PDF 8); recorded here, not transcribed as lines. Below L19, under «بعد», a short mark (13 x 9 px) stands 58 px below the baseline; not transcribed. L09 ends with the edition's full stop (•, 24 x 26 px); no line of the page begins with a paragraph indent.",
+  "The numbers are printed in Arabic-Indic digits. Dashes (written ـ, as on p. 4, PDF 5): on both sides of the number in L01 and L06, after it only in L12, L17 and L19, none in L02, L08 and L14. L02: after «تشرى» the digits «١١٢» are followed by eight dots of the size, shape and spacing of the zeros of the page (13-14 x 15-16 px, a diamond, every 29 px; the zero of «٢٠٤» in L06 measures 13 x 16 px, the full stop of L09 24 x 26 px), so that the print shows the figure ١١٢٠٠٠٠٠٠٠٠; it is transcribed as printed.",
+  "Read as printed: L01 and L03 «الحادى عشرة», the masculine ordinal with the feminine عشرة (for الساعة الحادية عشرة); L11 and L13 «الثلاثاء», L15 «الثلثاء»; L07, L12 and L16 «كالتقدير», L14 «بالتقدير», the first letter with one dot below. L08: under the first letter of «يعد» a blob of 13 x 9 px with a notch below and a thin tail (18 px in all), the size of a pair of dots (the single dot under the ب of «بعد» in L03 measures 8 x 9 px); read ي. L05 and L07: in «وولد القمر» and «فان ولد القمر» the alif of القمر stands 11 px and 2 px from the د and 11 px from the ل, so that the print reads at first sight «ولدا لقمر»; the words are divided by the sense. L18: the upper end of the ل of «ولد» is broken off (a piece of 8 x 7 px); read ولد.",
+  "Checked against the four gates of the standard calendar (calendar/checks/gates.py, gates.out.txt), with the hours counted as on p. 5 (PDF 6): «the tenth hour of the night of Thursday» is Thursday 9h-10h of the later reckoning and «the seventh hour of the day of Tuesday» Tuesday 18h-19h. L05-L09, a common year: a molad before Thursday 9h 204p gives Thursday with Marheshvan and Kislev regular, after it Thursday with both full (the gates: 354 and 355 days). L10-L12, a leap year: before Tuesday 18h, Tuesday, regular (384 days). L12-L16, a common year: before Tuesday 9h 204p, Tuesday, regular; after it, Thursday, regular (354 days). L16-L19, a leap year: before Sunday 20h 491p, Monday, deficient (383 days); after it the sentence continues on p. 7 (PDF 8). These limits agree with the gates. For L01-L05, a leap year with the first of Tishri on Thursday, see AK15-CN015 and AK15-CN016."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK15-CN014",
+   "class": "wrong word",
+   "line": "L01",
+   "printed": "من السنة الحادى عشرة",
+   "proposed": "من الساعة الحادى عشرة",
+   "evidence": "«of the eleventh year» gives no sense in a limit counted in parts of an hour; the parallel phrases of the page have «من الساعة» (L03, L06, L08, L13, L17, L19)",
+   "confidence": "high",
+   "impact": "none"
+  },
+  {
+   "id": "AK15-CN015",
+   "class": "wrong figure",
+   "line": "L01",
+   "printed": "٩٦٠ ـ جزءا يمضى من السنة الحادى عشرة",
+   "proposed": "٦٩٥ ـ جزءا يمضى من الساعة الثانية عشرة",
+   "evidence": "in a leap year that begins on Thursday the next year is common (no two adjacent years of the cycle are intercalated) and its molad falls 5 days 21 hours 589 parts later (383d 21h 589p less 54 weeks; p. 5, PDF 6, L07, with AK15-CN010); the year is deficient (383 days) when the next first of Tishri is Tuesday and complete (385 days) when it is Thursday, and the next first of Tishri moves to Thursday when its molad reaches 204 parts of the tenth hour of the night of Tuesday (L12-L15: Tuesday 9h 204p); this molad is then Wednesday 11h 695p, 695 parts of the twelfth hour of the night of Wednesday, the limit of the four gates of the standard calendar (calendar/checks/gates.py, constants.py); the print's 960 parts of the eleventh hour (Wednesday 10h 960p) is 815 parts earlier; the eleventh hour stands also in L03, so that the error may be older than the edition",
+   "confidence": "medium",
+   "impact": "the limit between the deficient and the complete leap year that begins on Thursday"
+  },
+  {
+   "id": "AK15-CN016",
+   "class": "missing figure",
+   "line": "L03",
+   "printed": "بعد يمضى من الساعة الحادى عشرة",
+   "proposed": "بعد ـ ٦٩٥ ـ جزءا يمضى من الساعة الثانية عشرة",
+   "evidence": "after «بعد» the figure and «جزءا» are missing (cf. «بعد ٢٠٤ اجزاء يمضى», L14; «بعد ٤٩١ ـ جزءا يمضى», L19); the limit is the one of L01 (AK15-CN015): from Wednesday 11h 695p to Thursday 18h the gates give Thursday with the leap year complete (385 days), as L03-L05 state",
+   "confidence": "medium",
+   "impact": "the limit between the deficient and the complete leap year that begins on Thursday"
+  },
+  {
+   "id": "AK15-CN017",
+   "class": "wrong letter",
+   "line": "L08",
+   "printed": "يعد",
+   "proposed": "بعد",
+   "evidence": "«فان ولد القمر بعد ٢٠٤ اجزاء ...», «if the moon is born after 204 parts ...»; the parallel phrases have «بعد» (L03, L14, L19); the first letter carries two dots below (see the observation) where ب has one",
+   "confidence": "high",
+   "impact": "none"
+  },
+  {
+   "id": "AK15-CN018",
+   "class": "missing words",
+   "line": "L09",
+   "printed": "يكون رأس تشرى ويكون",
+   "proposed": "يكون رأس تشرى يوم الخميس ويكون",
+   "evidence": "the sentence does not name the day of the first of Tishri; for a molad from Thursday 9h 204p to Thursday 18h in a common year the gates give Thursday (355 days), and the parallel sentences name the day («فان رأس تشرى يوم الخميس», L04, L06-L07)",
+   "confidence": "medium",
+   "impact": "none"
+  },
+  {
+   "id": "AK15-CN019",
+   "class": "missing word",
+   "line": "L15",
+   "printed": "من الساعة من ليلة الثلثاء",
+   "proposed": "من الساعة العاشرة من ليلة الثلثاء",
+   "evidence": "the limit is the one of L12-L13, 204 parts of the tenth hour of the night of Tuesday (Tuesday 9h 204p of the gates), which divides the common year beginning on Tuesday from the one beginning on Thursday; the ordinal of the hour is missing",
+   "confidence": "high",
+   "impact": "none"
+  }
+ ]
+}

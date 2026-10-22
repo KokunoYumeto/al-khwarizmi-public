@@ -1,0 +1,300 @@
+{
+ "anchor": "AK05-F165",
+ "frame": 165,
+ "frame_file": "page_165.jpg",
+ "frame_sha256": "9359b0ee848e2ced8776bb0f6a23c487bf25b414d0c133a5db7ae4abf66f1cef",
+ "printed_page": "١٥٩",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 165, printed p. 159: the beginning of the editor's index, «فهرس», in Arabic: the sections of the text with the printed pages on which they stand, the cities from beyond the equator to beyond the seventh clime and the mountains from beyond the equator to the fourth clime.",
+ "lines": [
+  {
+   "id": "AK05-F165-L01",
+   "n": 1,
+   "kind": "heading",
+   "text": "* فهرس *",
+   "margin": null,
+   "cells": null,
+   "plain": "* فهرس *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L02",
+   "n": 2,
+   "kind": "centre",
+   "text": "* المدن الّتى على كرة الأرض المعمورة *",
+   "margin": null,
+   "cells": null,
+   "plain": "* المدن الّتى على كرة الأرض المعمورة *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L03",
+   "n": 3,
+   "kind": "head",
+   "text": "| صحيفة",
+   "margin": null,
+   "cells": [
+    "",
+    "صحيفة"
+   ],
+   "plain": "| صحيفة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "المدن الّتى خلف خطّ الاستواء | ٣",
+   "margin": null,
+   "cells": [
+    "المدن الّتى خلف خطّ الاستواء",
+    "٣"
+   ],
+   "plain": "المدن الّتى خلف خطّ الاستواء | ٣",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "المدن الّتى فى الإقليم الأوّل | ٤—٨",
+   "margin": null,
+   "cells": [
+    "المدن الّتى فى الإقليم الأوّل",
+    "٤—٨"
+   ],
+   "plain": "المدن الّتى فى الإقليم الأوّل | ٤—٨",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "المدن الّتى فى الإقليم الثانى | ٨—١١",
+   "margin": null,
+   "cells": [
+    "المدن الّتى فى الإقليم الثانى",
+    "٨—١١"
+   ],
+   "plain": "المدن الّتى فى الإقليم الثانى | ٨—١١",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "المدن الّتى فى الإقليم الثالث | ١١—١٥",
+   "margin": null,
+   "cells": [
+    "المدن الّتى فى الإقليم الثالث",
+    "١١—١٥"
+   ],
+   "plain": "المدن الّتى فى الإقليم الثالث | ١١—١٥",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "المدن الّتى فى الإقليم الرابع | ١٥—٢٣",
+   "margin": null,
+   "cells": [
+    "المدن الّتى فى الإقليم الرابع",
+    "١٥—٢٣"
+   ],
+   "plain": "المدن الّتى فى الإقليم الرابع | ١٥—٢٣",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "المدن الّتى فى الإقليم الخامس | ٢٣—٢٨",
+   "margin": null,
+   "cells": [
+    "المدن الّتى فى الإقليم الخامس",
+    "٢٣—٢٨"
+   ],
+   "plain": "المدن الّتى فى الإقليم الخامس | ٢٣—٢٨",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "المدن الّتى فى الإقليم السادس | ٢٨—٣٢",
+   "margin": null,
+   "cells": [
+    "المدن الّتى فى الإقليم السادس",
+    "٢٨—٣٢"
+   ],
+   "plain": "المدن الّتى فى الإقليم السادس | ٢٨—٣٢",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "المدن الّتى فى الإقليم السابع | ٣٣—٣٤",
+   "margin": null,
+   "cells": [
+    "المدن الّتى فى الإقليم السابع",
+    "٣٣—٣٤"
+   ],
+   "plain": "المدن الّتى فى الإقليم السابع | ٣٣—٣٤",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "المدن الّتى خلف الإقليم السابع الى عرض ثلٰثة وستّين | ٣٥—٣٧",
+   "margin": null,
+   "cells": [
+    "المدن الّتى خلف الإقليم السابع الى عرض ثلٰثة وستّين",
+    "٣٥—٣٧"
+   ],
+   "plain": "المدن الّتى خلف الإقليم السابع الى عرض ثلٰثة وستّين | ٣٥—٣٧",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L13",
+   "n": 13,
+   "kind": "centre",
+   "text": "* الجبال الّتى على كرة الأرض المعمورة *",
+   "margin": null,
+   "cells": null,
+   "plain": "* الجبال الّتى على كرة الأرض المعمورة *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "الجبال الّتى خلف خطّ الاستواء | ٣٨—٣٩",
+   "margin": null,
+   "cells": [
+    "الجبال الّتى خلف خطّ الاستواء",
+    "٣٨—٣٩"
+   ],
+   "plain": "الجبال الّتى خلف خطّ الاستواء | ٣٨—٣٩",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "الجبال الّتى فى الإقليم الأوّل | ٣٨—٤٣",
+   "margin": null,
+   "cells": [
+    "الجبال الّتى فى الإقليم الأوّل",
+    "٣٨—٤٣"
+   ],
+   "plain": "الجبال الّتى فى الإقليم الأوّل | ٣٨—٤٣",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L16",
+   "n": 16,
+   "kind": "centre",
+   "text": "صفة الجبل المحيط بجزيرة الياقوت ٤٢—٤٣",
+   "margin": null,
+   "cells": null,
+   "plain": "صفة الجبل المحيط بجزيرة الياقوت ٤٢—٤٣",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "الجبال الّتى فى الإقليم الثانى | ٤٢—٤٧",
+   "margin": null,
+   "cells": [
+    "الجبال الّتى فى الإقليم الثانى",
+    "٤٢—٤٧"
+   ],
+   "plain": "الجبال الّتى فى الإقليم الثانى | ٤٢—٤٧",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L18",
+   "n": 18,
+   "kind": "row",
+   "text": "الجبال الّتى فى الإقليم الثالث | ٤٦—٥١",
+   "margin": null,
+   "cells": [
+    "الجبال الّتى فى الإقليم الثالث",
+    "٤٦—٥١"
+   ],
+   "plain": "الجبال الّتى فى الإقليم الثالث | ٤٦—٥١",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F165-L19",
+   "n": 19,
+   "kind": "row",
+   "text": "الجبال الّتى فى الإقليم الرابع | ٥٠—٥٣",
+   "margin": null,
+   "cells": [
+    "الجبال الّتى فى الإقليم الرابع",
+    "٥٠—٥٣"
+   ],
+   "plain": "الجبال الّتى فى الإقليم الرابع | ٥٠—٥٣",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The editor's index of the edition begins here, after the end of the text on p. 158 (frame 164): «* فهرس *», index, in the large type, centred, between two small open stars; then the sections of the text, each with the printed pages of the edition on which it stands, in a column at the left under the head «صحيفة», page. The printed page N of the text is frame N + 6 (p. 3 is frame 009, p. 158 frame 164). Transcribed as a table of two columns, the section and its pages.",
+  "L02, L13: the heads of the two groups of the page, centred, between two small open stars: «* المدن الّتى على كرة الأرض المعمورة *», the cities on the globe of the inhabited earth, and «* الجبال الّتى على كرة الأرض المعمورة *», the mountains on the globe of the inhabited earth. L03: «صحيفة», the head of the column of the pages, at the left, below the first of them.",
+  "The pages are given with Arabic-Indic digits, a range with a long dash between its first and its last page, the first at the right: «٤—٨», pp. 4-8. They agree with the frames: the cities beyond the equator stand on p. 3 (frame 009), the table of the mountains begins on p. 38 (frame 044), and the description of the mountain around the island of the Yāqūt, «صفة الجبل المحيط بجزيرة الياقوت», on pp. 42-43 (frames 048-049).",
+  "L16: «صفة الجبل المحيط بجزيرة الياقوت ٤٢—٤٣» is set as a sub-entry under the first clime, indented from the right, with its pages after it in the middle of the line, not in the column at the left; transcribed as a centred line.",
+  "Signs, transcribed as printed: «الّتى» with a shadda over the ل; «خطّ» (L04, L14) with a shadda over the ط; «الاستواء» with a hamza on the line; «الإقليم» with a hamza below the alif; «الأوّل» (L05, L15) with a hamza over the alif and a shadda over the و; «الأرض» (L02, L13) with a hamza over the alif; «ثلٰثة» (L12) with a small alif over the ل and «وستّين» with a shadda over the ت; «فى» and «الى» end in a ى without dots.",
+  "The page number «— ١٥٩ —» stands at the foot, centred. The page has no footnotes."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

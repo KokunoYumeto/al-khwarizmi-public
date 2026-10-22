@@ -1,0 +1,255 @@
+{
+ "anchor": "AK01-F081",
+ "frame": 81,
+ "frame_file": "page_081.jpg",
+ "frame_sha256": "73e1e0be4a849b1b3a786b4b9255dc3ae30dff49390343eb87ed1eb5f4d3351a",
+ "printed_page": "٦٥",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 081, printed p. 65: the truncated pyramid concluded: the whole height is twenty, a third of the base, five and a third, times twenty, a hundred and six and two thirds; the part added to complete it, a third of two by two by ten, thirteen and a third; the rest, ninety-three and a third, is the volume, with its figure. The truncated cone: the square of the diameter less its seventh and half its seventh. Then a triangular field of sides ten and ten and base twelve with a square field inside it: the altitude of the triangle, the root of a hundred less thirty-six, eight; its area forty-eight; the side of the square is taken as a thing, the two triangles beside it, continued on the next page. Below the rule one footnote of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F081-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "والطول كله عشرون ذراعا فلما عرفنا الطول أخذنا ثلث تكسير الأسفل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "وهو خمسة وثلث فضربناه فى الطول وهو عشرون ذراعا فبلغ ذلك مائة وستة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "أذرع وثلثى ذراع فأردنا أن نلقى منه ما زدنا عليه حتى انخرط وهو واحد وثلث",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "الذى هو ثلث تكسير اثنين فى اثنين فى عشرة وهو ثلاثة عشر وثلث وذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "تكسير ما زدنا عليه حتى انخرط فاذا رفعنا ذلك من مائة وستة أذرع وثلثى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "ذراع بقى ثلاثة وتسعون ذراعا وثلث",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "وذلك تكسير العمود المخروط وهذه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "صورته . وان كان المخروط مدورا فالق",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "من ضرب قطره فى نفسه سبعه ونصف",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "سبعه فما بقى فهو تكسيره {n:١} . فان قيل",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "أرض مثلثة من جانبيها عشرة أذرع عشرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "أذرع والقاعدة اثنا عشر ذراعا فى جوفها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "أرض مربعة كم كل جانب من المربعة فقياس",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "ذلك أن تعرف عمود المثلثة وهو أن تضرب نصف القاعدة وهو ستة فى مثله فيكون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "ستة وثلاثين فانقصها من أحد الجانبين الأقصرين مضروباً فى مثله وهو مائة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "يبقى أربعة وستون فخذ جذرها ثمانية وهو العمود وتكسيرها ثمانية وأربعون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "ذراعاً وهو ضربك العمود فى نصف القاعدة وهو ستة فجعلنا أحد جوانب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "المربعة شيئا وضربناه فى مثله فصار مالا فحفظناه ثم علمنا أنه قد بقى لنا مثلثتان",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "عن جنبتى المربعة ومثلثة فوقها فأما المثلثتان اللتان على جنبتى المربعة فهما متساويتان",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F081-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "وعموداهما واحد وهما على زاوية قائمة فتكسيرها أن تضرب شيئاً فى ستة الا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١"
+   ],
+   "lines": 1,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [
+  {
+   "id": "AK01-F081-FIG1",
+   "rect": [
+    540,
+    1295,
+    1300,
+    2200
+   ],
+   "after": 13
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Layout: L01-L05 run across the page; L06-L13 stand in a narrower column at the right of the figure, which is reproduced after L13; L14-L20 run across the page.",
+  "The figure, drawn, not set in type: the section of the truncated pyramid of frame 080, L11-L13, a trapezoid with a vertical line from the middle of its upper side to the middle of its base; ٢ above the upper side, ٤ under the base and ١٠ beside the vertical line.",
+  "L07: «تكسير العمود المخروط», as printed, the volume of the truncated pyramid, called a column-cone. L09-L10: سبعه, its seventh, with the pronoun ه, twice. L20: فتكسيرها, as printed, with the singular pronoun, of the two triangles that the line before names (فهما متساويتان, L19).",
+  "L11: جانبيها (L11), its two sides, as printed: after the ن and the ب, each with its dot, a short tooth for the ي, whose two dots stand below the ه that follows; the machine reading has جانبها.",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: واحد وثلث (L03; 18 between the د and the conjunction و, where the د stands 6 to 7 px from a و inside a word); أربعة وستون (L16; 21 between the ة and the conjunction و).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: تعرف عمود and تضرب نصف (L14), جانب من (L13).",
+  "The ف before خ, ج and ح is printed with its head set on the next letter, as on frames 052, 061 and 068: فخذ (L16), فجعلنا (L17), فحفظناه (L18).",
+  "The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after صورته, before وان (L08; 26 and 25), and in L10 after the note mark (١), before فان (28 and 25); the mark stands 33 px after تكسيره.",
+  "Plain alif where a hamza might be expected, as printed: اثنين (L04, twice), فاذا (L05), وان, فالق (L08), فان (L10), اثنا (L12), فانقصها (L15), الا (L20); with hamza: أخذنا, الأسفل (L01), أذرع, فأردنا, أن (L03), أذرع (L05), أرض, أذرع (L11), أذرع (L12), أرض (L13), أن (L14, twice), أحد, الأقصرين (L15), أربعة, وأربعون (L16), أحد (L17), أنه (L18), فأما (L19), أن (L20); on ي: مائة (L02, L05, L15), شيئا (L18), قائمة, شيئاً (L20).",
+  "With tanwīn on the final alif: مضروباً (L15), ذراعاً (L17), شيئاً (L20); without tanwīn as printed: ذراعا (L01, L02, L06, L12), مدورا (L08), شيئا, مالا (L18).",
+  "The final yā' is printed without dots: فى (L02; L04, twice; L09, L12, L14, L15, L17, L18, L20), وثلثى, نلقى, حتى (L03), الذى (L04), حتى, وثلثى (L05), بقى (L06, L10, L18), يبقى (L16), جنبتى (L19, twice), على (L19, L20).",
+  "The print stretches تكسير (L01, L04, L05, L07), وهذه (L07, at length), وتكسيرها (L16) and ستة (L17) with the elongation stroke; the stroke is not transcribed.",
+  "Note (١) of the editors explains that تكسيره (L10) means the area of the base; it is not reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

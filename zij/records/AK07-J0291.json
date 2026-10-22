@@ -1,0 +1,22 @@
+{
+ "anchor": "AK07-J0291",
+ "jp2_index": 291,
+ "jp2_member": "b24872489_0291.jp2",
+ "jp2_sha256": "2ec6e722b6b11c370babaf6f9bc0ca5367ae349e96c5002a336405a85b7a3ac0",
+ "reading_copy": "page_0291.jpg",
+ "reading_copy_sha256": "90f6010394388b90db4344430058b155180ff6411a02658083390b8b230f7ab7",
+ "printed_page": "-",
+ "kind": "blank",
+ "language": null,
+ "role": "blank",
+ "file": "suter",
+ "comment": "JP2 0291: the free endpaper at the end of the book, its recto; nothing printed.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "A leaf of the binding without printed matter of the edition, the recto of the free endpaper after the last leaf of the book; small specks and creases."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

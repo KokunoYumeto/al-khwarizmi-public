@@ -1,0 +1,53 @@
+@page 92 60
+@lang de
+% JP2 0092: Suter's commentary, p. 60: chapter 17, the latitude of the planets: the Latin title; Ptolemy's theory in
+% Almagest XIII and Nallino's account of it; the factors of the latitude of the upper and the lower planets; the rule
+% of the Sūrya-Siddhānta begins (notes 1-3).
+@c {b:Kap. 17. Über die Breite der Planeten.}
+@c (Text p. 14, Tafeln 27–56.)
+@p Der lateinische Titel dieses Kapitels ist unrichtig, dasselbe handelt im 1. Alinea
+über die drei obern, im 2. Alinea über die zwei untern Planeten. Die Theorie der
+Änderung der Breite der Planeten ist die schwierigste und dunkelste Partie (13. Buch)
+bei {sp:Ptol.}, so schwierig und dunkel, dass {sp:Batt.} darauf verzichtet hat, auf diese Theorie
+näher einzutreten, er gibt nur die Regeln, nach denen man die Breite der Planeten
+aus den Tafeln finden kann{sup:1}).
+@p Aber dieses Dunkel hat {sp:Nallino}, nachdem {sp:Delambre} u. a. daran geschei-
+tert sind, in vorzüglicher Weise gelichtet, und dadurch die Theorie des {sp:Ptol.}
+unserm Verständnis näher gebracht ; er hat aber auch versucht, dieselbe auf
+mathematischem Wege zu begründen, was ihm ebenfalls in schöner Weise gelungen
+ist. Wir können hier nicht näher auf diese Begründungen eintreten, sondern müssen
+den Leser auf die Arbeit {sp:Nallinos} verweisen{sup:2}) ; wir wollen hier nur kurz die Haupt-
+faktoren erwähnen, von denen die Breite der Planeten in ihren verschiedenen
+Stellungen abhängig ist· Die Breite der {i:drei obern} Planeten hängt ab : erstens von
+der konstanten Neigung der Ebene des Deferens zur Ekliptik, und zweitens von
+der variabeln Neigung des Epizykels zur Ebene des Deferens. Die Breite der
+{i:zwei untern} Planeten hängt ab : erstens von der Neigung der Ebene des Deferens
+zur Ekliptik, die {sp:Ptol.} für die untern Planeten als variabel annimmt, zweitens
+von der variabeln Neigung des Durchmessers Apogeum-Perigeum des Epizykels
+zur Ebene des Deferens, und drittens von der variabeln Neigung des auf dem
+genannten Durchmesser senkrecht stehenden zur Ebene der Ekliptik (dieser Durch-
+messer ist bei den drei obern Planeten stets zur Ebene der Ekliptik parallel). —
+Was wir einzig an den Darstellungen {sp:Nallinos} auszusetzen haben, ist, dass er die
+unklaren Figuren des {sp:Ptol.} nicht durch Beifügung perspektivischer Figuren anschau-
+licher zu machen versucht hat.
+@p Vergleichen wir nun die Regeln, die {sp:Kh.} zur Bestimmung der Breite der
+Planeten gegeben hat, mit denen {sp:Batt.}’s, so sehen wir sofort, dass jene auf andere
+Theorien sich stützen müssen als diese ; es ist auch wohl begreiflich, dass die
+Schwierigkeit der ptolemäischen Darstellung seine Nachfolger abgeschreckt hat, dem
+Wege des grossen Meisters zu folgen, und sie gezwungen hat, andere einfachere
+Methoden anzuwenden.
+@p Sehen wir uns nun die Regel des {i:Sūrya-Siddhānta} an{sup:3}), so finden wir auch
+hier keine direkte Übereinstimmung mit derjenigen {sp:Kh.}’s ; aber dass beide von
+ähnlichen Gesichtspunkten aus vorgegangen sind, ist doch ersichtlich. Die Regel
+des {i:Sūrya-Siddhānta} heisst : Der Sinus des Bogens (Differenz der wahren Länge des
+Planeten und der Länge des Knotens) multipliziert mit der maximalen Breite und
+geteilt durch den Radius (für diese Stellung des Planeten) gibt die Breite für die
+@n {sup:1}) {sp:Batt.}, ed. {sp:Nallino}, I, 115—116, II, 140—141.
+@n {sup:2}) Ibid. II, 247—255.
+@n {sup:3}) {i:Transl.} Burgess, {i:Journal of the American Orient. Soc.}, Vol. VI, p. 228.
+@obs The page number «60» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L02: the heading of chapter 17, in bold, centred, with the reference to the text below it; L02: «27–56», a short dash (25 px) with a gap of 14 px before it and 9 px after it, as «45–46» on p. 42 (JP2 0074, N06); transcribed as an en dash.
+@obs L03-L04: the Latin heading of chapter 17, «De latitudine trium superiorum planetarum» (p. 14, JP2 0046), names only the three upper planets; the chapter treats the two lower ones in its second paragraph, which is why Suter calls the title incorrect. L05: «(13. Buch)», Almagest XIII.
+@obs L16: the full stop after «ist» is printed at mid-height (7 × 8 px, 9-17 px above the base line), where the points of the page stand on it; see the critical note. L37: a light mark at mid-height after «des», smaller and fainter than a point (5 × 5 px); not transcribed.
+@obs N01: both dashes long, «115—116» faint; N02: the dash of «247—255» printed in two faint pieces (15 and 10 px); each transcribed as one long dash. N03: «Burgess» is not spaced here, where it is spaced in other notes (p. 59, JP2 0091, N01). Spaced type, marked {sp:}: «Ptol.», «Batt.», «Nallino», «Delambre», «Nallinos», «Kh.»; italics: «drei obern», «zwei untern», «Sūrya-Siddhānta», «Transl.», «Journal of the American Orient. Soc.».
+@obs The colons and semicolons stand after the thin space of the edition (10-14 px measured).
+@critical AK07-CN055 | raised point | L16 | ist· Die | ist. Die | the sentence ends after «abhängig ist», and «Die Breite» begins the next one; the full stop is printed at mid-height instead of on the base line | high | none

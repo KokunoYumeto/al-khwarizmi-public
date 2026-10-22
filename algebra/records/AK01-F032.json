@@ -1,0 +1,178 @@
+{
+ "anchor": "AK01-F032",
+ "frame": 32,
+ "frame_file": "page_032.jpg",
+ "frame_sha256": "a1f952595dda2947888385fa4b44a8c96741fa448dae0c796e0a9ab74e76dd98",
+ "printed_page": "١٨",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 032, printed p. 18: squares equal to numbers; roots equal to numbers; the three compound kinds; the first of them, squares and roots equal to numbers: \"a square and ten roots equal thirty-nine dirhams\". Two footnotes of the editors, (١) and (٢).",
+ "lines": [
+  {
+   "id": "AK01-F032-L01",
+   "n": 1,
+   "kind": "indent",
+   "text": "وأما الاموال التى تعدل العدد فمثل قولك مال يعدل تسعة فهو المال وجذره",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F032-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "ثلاثةوكقولك خمسةأموال تعدل ثمانين فالمال الواحد خمس الثمانين وهو ستة عشر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F032-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وكقولك نصف مال يعدل ثمانية عشر فالمال يعدل ستة وثلاثين وجذره ستةوكذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F032-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "جميع الأموال زائدها وناقصها ترد إلى مال واحد وإن كانت أقل من مال زيد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F032-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "عليها حتى تكمل مالا تاماً وكذلك يفعل بما عادلها من الأعداد .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F032-L06",
+   "n": 6,
+   "kind": "indent",
+   "text": "وأما الجذور التى تعدل عددا فكقولك جذر يعدل ثلاثة من العدد فالجذر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F032-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "ثلاثة والمال الذى يكون منه تسعة . وكقولك اربعة اجذار تعدل عشرين فالجذر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F032-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "الواحد يعدل خمسة والمال الذى يكون منه خمسة وعشرون وكقولك نصف جذر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F032-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "يعدل عشرة فالجذر يعدل عشرين والمال الذى يكون منه اربعمائة {n:١}. ووجدت هذه",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F032-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "الضروب الثلاثة ، التى هى الجذور والاموال والعدد ، تقترن فيكون منها ثلاثة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F032-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "اجناس مقترنة وهى أموال وجذور تعدل عددا . وأموال وعدد تعدل جذوراً .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F032-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "وجذور وعدد تعدل أموالا . فأما الأموال والجذور التى تعدل العدد فمثل قولك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F032-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "مال وعشرة اجذاره يعدل تسعة وثلاثين درهما ومعناه أى مال اذا زدت عليه مثل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F032-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "عشرةاجذاره بلغ ذلك كله تسعة وثلاثين . فبابه {n:٢} أن تنصف الأجذار وهى فى",
+   "note_marks": [
+    "٢"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١",
+    "٢"
+   ],
+   "lines": 8,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Plain alif where a hamza might be expected, as printed: الاموال (L01, L10; but الأموال on L04, L12 and أموال on L02, L11), اربعة اجذار (L07), اربعمائة (L09), اجناس (L11), اجذاره (L13, L14), اذا (L13).",
+  "Set without a word space after a tā' marbūṭa, and transcribed so: ثلاثةوكقولك, خمسةأموال (L02), ستةوكذلك (L03), عشرةاجذاره (L14). After a connecting letter, whose final form marks the end of the word, a word space is transcribed even where the print sets the words close: نصف مال (L03), يكون منه (L07, L08, L09), ومعناه أى (L13).",
+  "L09: the full stop follows the note mark (١) without a space.",
+  "Without tanwīn as printed: مالا (L05), عددا (L06, L11), أموالا (L12), درهما (L13); with tanwīn on the final alif: تاماً (L05), جذوراً (L11)."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

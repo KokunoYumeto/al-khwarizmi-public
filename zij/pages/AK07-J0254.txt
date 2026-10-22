@@ -1,0 +1,48 @@
+@page 254 222
+@lang la
+% JP2 0254: Tab. 107, p. 222: the projection of the rays continued: three fields, for the ascendant at 5°, 10° and
+% 15° of Sagittarius, the columns from Sagittarius to Taurus, each field with the numbers for the sextile, the
+% quadrature and the trine, with the apparatus (notes 1-4 and a-p).
+C 98{sup:v}, O 154{sup:r}, N 65{sup:r}.
+@c {b:Quinque}{sup:1}) {b:gradus Sagittarii}{sup:4})
+@c {b:Exagonum 59° 20′} — {b:Tetragonum 89° 0′} — {b:Trigonum 118° 40′}
+@tw size=footnotesize 0.95 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62
+@t Gradus | Sagittar. |  | Capricorn. |  | Aquarius |  | Pisces |  | Aries |  | Taurus |
+@t aequales | Gemini |  | Cancer |  | Leo |  | Virgo |  | Libra |  | Scorpius |
+@t  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 5{sup:a}) | 6 | 10 | 40 | 50 | 68 | 57 | 93 | 55 | 119{sup:c}) | 48 | 149 | 47
+@t 10 | 12 | 8{sup:b}) | 45 | 40 | 73 | 10 | 98 | 55 | 124{sup:d}) | 34 | 155 | 36
+@t 15 | 18 | 6 | 50 | 50 | 77 | 20 | 102 | 27 | 129 | 24 | 161 | 25
+@t 20 | 24 | 0 | 55 | 40 | 81 | 30 | 106 | 35 | 134 | 14 | 167 | 15
+@t 25 | 29 | 45 | 60 | 15 | 85 | 38 | 110 | 42 | 139 | 7 | 173 | 5
+@t 30{sup:a}) | 35 | 20{sup:b}) | 64 | 45 | 89 | 45 | 114 | 55 | 143 | 55 | 178 | 0
+@c {b:Decem}{sup:2}) {b:gradus Sagittarii}
+@c {b:Exagonum 58° 27′}{sup:e}) — {b:Tetragonum 87° 40′} — {b:Trigonum 116° 54′}
+@t 5{sup:f}) | 6 | 10 | 40 | 42 | 68 | 49 | 93 | 17 | 118 | 5 | 147 | 9
+@t 10 | 12 | 3 | 45 | 47 | 72 | 35 | 97 | 24 | 122 | 50 | 153 | 0
+@t 15 | 18 | 8 | 50 | 50 | 77 | 5 | 101 | 29 | 127 | 40 | 159 | 0
+@t 20 | 24 | 11 | 55 | 42 | 81 | 12 | 105 | 35 | 132 | 20 | 164 | 51
+@t 25 | 29 | 50 | 60 | 40 | 85 | 18 | 109{sup:g}) | 37 | 137 | 8 | 170 | 30
+@t 30{sup:f}) | 35 | 12 | 64 | 40 | 89 | 10 | 113 | 40 | 141 | 51 | 175 | 21
+@c {b:Quindecim}{sup:3}) {b:gradus Sagittarii}
+@c {b:Exagonum 57° 46′}{sup:h}) — {b:Tetragonum 86° 39′} — {b:Trigonum 115° 32′}
+@t 5{sup:i}) | 6 | 20 | 41 | 3 | 68 | 58 | 92 | 48 | 116 | 53 | 145 | 7
+@t 10 | 12 | 10 | 45 | 57 | 73 | 17{sup:p}) | 96 | 58 | 121 | 23 | 150 | 47
+@t 15 | 18 | 15 | 50 | 56 | 77 | 18 | 100 | 48 | 125 | 56 | 156 | 17
+@t 20 | 24 | 15 | 55 | 48{sup:l}) | 81{sup:m}) | 18 | 104 | 48 | 130 | 28 | 162 | 47
+@t 25 | 29 | 52{sup:k}) | 60 | 23 | 85{sup:n}) | 8 | 108 | 38 | 135 | 3 | 167 | 37
+@t 30{sup:i}) | 35 | 28 | 64 | 38 | 88{sup:o}) | 48 | 112 | 28 | 139 | 37 | 173 | 18
+@n {sup:1}) Quinque] C, Quintus O, V. N — {sup:2}) Decem] Decimus O, {i:om.} C, X. N — {sup:3}) Quindecim] Quintus
+@n decimus O, {i:om.} C, XV. N — {sup:4}) Sagittarii] ON, ex Sag. C.
+@n {sup:a})—{sup:a}) 5—30] ON, {i:om.} C — {sup:b})—{sup:b}) 8—20] O; 3, 8, 11, 50, 12 CN ({i:cfr. infra}) — {sup:c}) 119] O, 116 C —
+@n {sup:d}) 124] CO, 144 N — {sup:e}) 58. 27] C, 38. 27 O — {sup:f})—{sup:f}) 5—30] ON, {i:om.} C — {sup:g}) 109] C, 110 O — {sup:h}) 46] C,
+@n 43 O — {sup:i})—{sup:i}) 5—30] ON, {i:om.} C — {sup:k}) 52] O, 12 C — {sup:l}) 48] C, 43 O — {sup:m}) 81] C, 101 O — {sup:n}) 85] C,
+@n 105 O — {sup:o}) 88] C, 108 O — {sup:p}) 17] C, 16 O.
+@obs The page number «222» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 107», in bold sans serif, underlined. The page has no signature and no title: the folios of the manuscripts stand at the left above the double rule of the first field, in one line of their own, «C 98v, O 154r, N 65r.», the letters raised (L01). A dark blot in the upper right margin, level with the page number; not transcribed.
+@obs The page holds three fields, as pp. 206-221 (JP2 0238-0253): «Quinque1) gradus Sagittarii4)» (L02), «Decem2) gradus Sagittarii» (L14) and «Quindecim3) gradus Sagittarii» (L22), the ascendant at 5°, 10° and 15° of Sagittarius, with the numbers for the sextile, the quadrature and the trine (L03, L15, L23); headings and numbers in bold. The columns begin with the sign of the ascendant: «Sagittar. Gemini Horoscopus», «Capricorn. Cancer Horoscopus», «Aquarius Leo Horoscopus», «Pisces Virgo Horoscopus», «Aries Libra Horoscopus» and «Taurus Scorpius Horoscopus», without notes; here each head is set from the top, one printed line to a line (L04-L06), with «Gradus aequales», printed upwards, in L04-L05, and the units in L07. The numbers are counted from the beginning of Sagittarius. In each field the first and the last number of the first column carry the paired notes a, f and i: C omits the first column, as on pp. 218 and 221 (JP2 0250, 0253). The second and the third field have no heads. Double rules divide the fields.
+@obs The numbers at the head of a field, as on pp. 206-221 (JP2 0238-0253), are a third, a half and two thirds of the last number of the field: 178° 0′ (L13) gives 59° 20′, 89° 0′ and 118° 40′, as printed (L03); 175° 21′ (L21) gives 58° 27′, 87° 40.5′ and 116° 54′, printed 58° 27′, 87° 40′ and 116° 54′ (L15); 173° 18′ (L29) gives 57° 46′, 86° 39′ and 115° 32′, as printed (L23).
+@obs The columns: from Sagittarius to 20° of Capricornus the three fields lie within 17′, 15′ and 15′ of the oblique ascensions from the beginning of Sagittarius for the latitude 38° 30′ (computed with the obliquity 23° 35′; 6° 11′, 12° 18′, 18° 18′, 24° 10′, 29° 54′, 35° 27′ in Sagittarius); from the end of Capricornus on they rise above them and end 32° 10′, 29° 31′ and 27° 28′ above them (178° 0′, 175° 21′ and 173° 18′ for 145° 50′ at the end of Taurus). From 25° of Aquarius on the numbers decrease from field to field as the ascendant advances.
+@obs Notes on the readings. Checked by the rule of the heads, by the other fields, which differ by 5° of the ascendant, by the oblique ascensions and by the steps of the columns: the edition's readings are the nearer in the minutes of Sagittarius at 10° to 30° in the first field (note b, L09-L13: O's 8, 6, 0, 45 and 20 give the steps 5° 58′, 5° 58′, 5° 54′, 5° 45′ and 5° 35′, falling as those of the oblique ascensions, 6° 6′, 6° 0′, 5° 52′, 5° 43′ and 5° 33′; C and N have 3, 8, 11, 50 and 12, the minutes of the second field, L17-L21, with the steps 5° 53′, 6° 5′, 6° 3′, 5° 39′ and 5° 22′), at 5° and 10° of Aries in the first (notes c and d, L08-L09: O's 119 against C's 116, the steps 4° 53′ and 4° 46′ against 1° 53′ and 7° 46′; the 124 of C and O against N's 144), in the sextiles of the second and the third (notes e and h, L15, L23: C's 58° 27′ and 57° 46′, a third of 175° 21′ and of 173° 18′, against O's 38° 27′ and 57° 43′), at 25° of Pisces in the second (note g, L20: C's 109 against O's 110, the steps 4° 2′ and 4° 3′ against 5° 2′ and 3° 3′), at 25° of Sagittarius in the third (note k, L28: O's 52 against C's 12, the steps 5° 37′ and 5° 36′ against 4° 57′ and 6° 16′; the oblique ascension 29° 54′) and at 20° to 30° of Aquarius in the third (notes m, n and o, L27-L29: C's 81, 85 and 88 against O's 101, 105 and 108). At 20° of Capricornus in the third field (note l, L27) C's 48 gives the steps 4° 52′ and 4° 35′, O's 43 4° 47′ and 4° 40′; at 10° of Aquarius in the third (note p, L25) the readings differ by 1′; neither is decided. In note b a semicolon divides the readings, the second of which is a list.
+@obs Without variants: in the first field 98° 55′ at 10° of Pisces (L09) lies between the steps 5° 0′ and 3° 32′, and 1° 31′ and 1° 57′ above the other fields (97° 24′, 96° 58′), where it lies 38′ and 1° 7′ above them at 5° of Pisces; with 97° 55′ the steps would be 4° 0′ and 4° 32′. In the second field 60° 40′ at 25° of Capricornus (L20) lies 25′ and 17′ above the other fields (60° 15′, 60° 23′) and 33′ above the oblique ascension, 60° 7′, between the steps 4° 58′ and 4° 0′; with 60° 10′ they would be 4° 28′ and 4° 30′. In the third field 162° 47′ at 20° of Taurus (L27) lies between the steps 6° 30′ and 4° 50′; with 161° 47′ they would be 5° 30′ and 5° 50′.
+@obs In «Tetragonum» of L15 the second n has a straight stroke across the middle in place of its arch, like an н, a damaged sort; transcribed n. In N01 a faint point stands above the comma after «Quintus O»; transcribed as a comma. Italics: «om.», «cfr. infra».

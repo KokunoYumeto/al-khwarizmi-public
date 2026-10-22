@@ -1,0 +1,60 @@
+@page 164 132
+@lang la
+% JP2 0164: Tab. 21, p. 132: the equations of the sun and of the moon, the declination of the sun and the latitude of
+% the moon for the arguments 0s 1° to 1s 0° (and 11s 29° to 11s 0°), with the apparatus (notes 1-5 and a-n).
+@c {b:Tadil elscems wa elkamar} (O)
+@ml C 53{sup:r}, O 110{sup:v}.
+@c {b:Examinatio solis et lunae} (C)
+@tw size=footnotesize span=1.12 0.75 0.75 0.75 0.75 0.7 0.8 0.8 0.7 0.8 0.8 0.75 0.8 0.8 0.7 0.8 0.8
+@t Semitae numeri (CO) | | | | Examinatio{sup:3}) | | | Examinatio{sup:3}) | | | Obliquatio | | | Latitudo | |
+@t catar el aded (C) | | | | Solis | | | Lunae | | | Solis | | | Lunae | |
+@t Computatio | | Computatio | | Motus | | | Motus | | | accedentis{sup:4}) | | | accedentis{sup:5}) | |
+@t minuenda et | | augenda | | piger | | | piger | | | | | | | |
+@t augmentum | | et diminutio | | | | | | | | | | | | |
+@t examinis et | | examinis et | | | | | | | | | | | | |
+@t numeri{sup:1}) | | numeri{sup:2}) | | | | | | | | | | | | |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 0 | 1 | 11 | 29 | 0 | 2 | 17 | 0 | 5 | 1 | 0 | 24 | 16 | 0 | 4 | 42
+@t 0 | 2 | 11 | 28 | 0 | 4 | 33 | 0 | 10 | 2 | 0 | 48 | 31 | 0 | 9 | 25
+@t 0 | 3 | 11 | 27 | 0 | 6 | 49 | 0 | 15 | 3 | 1 | 12 | 45 | 0 | 14 | 8
+@t 0 | 4 | 11 | 26 | 0 | 9 | 5 | 0 | 20 | 4 | 1 | 36 | 59 | 0 | 18 | 50
+@t 0 | 5 | 11 | 25 | 0 | 11 | 21 | 0 | 25 | 4 | 2 | 1 | 11 | 0 | 23 | 31
+@t 0 | 6 | 11 | 24 | 0 | 13 | 37{sup:e}) | 0 | 30 | 4 | 2 | 25 | 20 | 0 | 28 | 12
+@t 0 | 7 | 11 | 23 | 0 | 15 | 52 | 0 | 35 | 3 | 2{sup:g}) | 49 | 22 | 0 | 32 | 54
+@t 0 | 8 | 11 | 22 | 0 | 18 | 7 | 0 | 40 | 2 | 3 | 13 | 34 | 0 | 37 | 35
+@t 0 | 9 | 11 | 21 | 0 | 20 | 22 | 0 | 45 | 0 | 3 | 37 | 35 | 0 | 42 | 14
+@t 0 | 10 | 11 | 20 | 0 | 22 | 37 | 0 | 49 | 58 | 4 | 1 | 34 | 0 | 46 | 53
+@t 0 | 11 | 11 | 19 | 0 | 24 | 52 | 0 | 54 | 55 | 4 | 25 | 29{sup:l}) | 0 | 51 | 32
+@t 0 | 12 | 11 | 18 | 0 | 27 | 6 | 0 | 59 | 51 | 4 | 49 | 20 | 0 | 56 | 9
+@t 0 | 13 | 11 | 17 | 0 | 29 | 19 | 1 | 4 | 47 | 5 | 13 | 50 | 1 | 0 | 45
+@t 0 | 14 | 11 | 16 | 0 | 31 | 32 | 1 | 9 | 40 | 5 | 36 | 48 | 1 | 5 | 18
+@t 0 | 15 | 11 | 15 | 0 | 33 | 45 | 1 | 14 | 33 | 6 | 0 | 25 | 1 | 9 | 52
+@t 0 | 16 | 11 | 14 | 0 | 35 | 57 | 1 | 19 | 25 | 6 | 23 | 57 | 1 | 14 | 24
+@t 0 | 17 | 11 | 13 | 0 | 38 | 9 | 1 | 24 | 16 | 6 | 47 | 21 | 1 | 18 | 56
+@t 0 | 18 | 11 | 12 | 0 | 40 | 20 | 1 | 29 | 5 | 7 | 10 | 40 | 1 | 23 | 26
+@t 0 | 19 | 11 | 11 | 0 | 42 | 30 | 1 | 33 | 53 | 7 | 33 | 52 | 1 | 27 | 54
+@t 0 | 20 | 11 | 10 | 0 | 44 | 40 | 1 | 38 | 39{sup:f}) | 7 | 56 | 56 | 1 | 32{sup:m}) | 20
+@t 0 | 21 | 11 | 9 | 0 | 46 | 49 | 1 | 43 | 22 | 8 | 19{sup:h}) | 54 | 1 | 36 | 47
+@t 0 | 22 | 11 | 8 | 0 | 48 | 58 | 1 | 48 | 2 | 8 | 42 | 44 | 1 | 41 | 8
+@t 0 | 23 | 11 | 7 | 0 | 51 | 5 | 1 | 52 | 49 | 9 | 5 | 25 | 1 | 45 | 29
+@t 0 | 24 | 11 | 6 | 0 | 53 | 11 | 1 | 57 | 30 | 9 | 27 | 57 | 1 | 49 | 48
+@t 0 | 25 | 11 | 5 | 0 | 55 | 17 | 2 | 2 | 7 | 9 | 50{sup:i}) | 21 | 1 | 54 | 5
+@t 0 | 26 | 11 | 4 | 0 | 57 | 22 | 2 | 6 | 43 | 10 | 12 | 36 | 1 | 58 | 21
+@t 0 | 27 | 11 | 3 | 0 | 59 | 26 | 2 | 11 | 17 | 10 | 34 | 40 | 2 | 2 | 33
+@t 0 | 28 | 11 | 2 | 1{sup:c}) | 1 | 29 | 2 | 15 | 49 | 10 | 56 | 35 | 2 | 6{sup:n}) | 45
+@t 0 | 29 | 11 | 1 | 1 | 3 | 31 | 2 | 20 | 18 | 11 | 18 | 17 | 2 | 10 | 53
+@t 1{sup:a}) | 0{sup:b}) | 11 | 0 | 1{sup:d}) | 5 | 32 | 2 | 24 | 46 | 11 | 39{sup:k}) | 50 | 2 | 15 | 0
+@n {sup:1}) Computatio . . . . numeri] O, Computatio diminuta augmentum examinationis et numeri C —
+@n {sup:2}) Computatio . . . . numeri] O, Augmentum computationis diminutio examinis et numeri C — {sup:3}) Examinatio]
+@n C, Examen O — {sup:4}) Obliquatio Solis accedentis] CO, meil elshems C — {sup:5}) Latitudo Lunae accedentis]
+@n CO, ard elkamar C.
+@n {sup:a}) 1] O, 0 C — {sup:b}) 0] O, 30 C — {sup:c-d}) 1-1] 0 C — {sup:e}) 37] C, 38 O — {sup:f}) 39] 29 C, 31 O — {sup:g}) 2] O,
+@n 3 C — {sup:h-i}) 19-50] C, 54, 44, 25, 57, 21 O ({i:cfr. colum. seq.}) — {sup:k}) 39] O, 29 C — {sup:l}) 29] C, 39 O — {sup:m}) 32]
+@n C, 33 O — {sup:n}) 6] O, 5 C.
+@obs The page number «132» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 21», in bold sans serif, underlined. The two titles (L01, L02), in bold, the sigla in roman: L01 that of O, «Tadil elscems wa elkamar», the equation of the sun and the moon, L02 that of C; the folios of the manuscripts, «C 53r, O 110v.», stand at the left of L02, the letters raised; here as a left margin note. The table is not in N (Suter, p. XIV, JP2 0018). The page has no signature.
+@obs The table: a thick and a thin rule above the head, a double rule below it; vertical rules, some of them double, divide the sixteen columns; thin rules under the heads that span several columns, whose heads «Sig.», «Gr.», «Min.», «Sec.» are set in small bold type. The heads are printed in lines of different heights, centred in their columns: «Semitae numeri (CO) catar el aded (C)» over the four columns of the arguments, divided below a rule into «Computatio minuenda et augmentum examinis et numeri1)» and «Computatio augenda et diminutio examinis et numeri2)» in five lines of smaller type; «Examinatio3) Solis Motus piger» and «Examinatio3) Lunae Motus piger» in four lines, «Obliquatio Solis accedentis4)» and «Latitudo Lunae accedentis5)» in three. Here each head is set from the top, one printed line to a line (L03-L09), the cells separated by our «|»; a head followed by empty cells spans their columns.
+@obs L11-L40, the arguments: the first two columns count 0s 1° to 1s 0° (with the readings of notes a and b), the second two the complements 11s 29° to 11s 0°, for which the same values serve (Suter, p. 59, JP2 0091, on the heads «Computatio minuenda» and «Computatio augenda»).
+@obs L11-L40, the declination of the sun («Obliquatio Solis»). Checked with the obliquity 23° 51′ (Suter, p. 58, JP2 0090): sin δ = sin 23° 51′ · sin m agrees to within 1.1″ in 28 rows (with the readings of notes g-l), the argument 1s 0°, 11° 39′ 50″, exactly; at 7° the table has 2° 49′ 22″ against 2° 49′ 28″ computed, at 13° 5° 13′ 50″ against 5° 13′ 7″, 43″ more, where the steps from 12° and to 14°, 24′ 30″ and 22′ 58″, show the excess. No note bears on these two values; Tab. 26 (p. 137, JP2 0169), which repeats these values in reverse order for 150°-180°, has the same two at 173° and 167°.
+@obs L11-L40, the equations of the sun and the moon («Examinatio»). Checked: they are not proportional to the sine of the argument but to the declination δ of the same argument: the equation of the sun is 2° 14′ · δ/ε and that of the moon 4° 56′ · δ/ε, ε = 23° 51′, so that both reach their maxima, 2° 14′ and 4° 56′ (Suter, p. 45, JP2 0077, and p. 46, JP2 0078), at 90°. The thirty values of the sun agree with 2° 14′ · δ/ε to within 1.1″ (with the readings of notes c-e), those of the moon with 4° 56′ · δ/ε to within 1.1″ (with the reading of note f), except at 21° and 22°, 1° 43′ 22″ and 1° 48′ 2″, 2″ and 5″ less than computed. The law 2° 14′ · sin m would give 1° 7′ 0″ at 30°, where the table has 1° 5′ 32″ (computed 1° 5′ 32″).
+@obs L11-L40, the latitude of the moon («Latitudo Lunae»). Checked: the values are 4° 30′ · sin m, the greatest latitude 4° 30′ at 90° (Suter, p. 59, JP2 0091) times the sine of the argument, to within 1.6″ in all thirty rows (with the readings of notes m and n), 2° 15′ 0″ at 30°; the rule sin β = sin 4° 30′ · sin m gives up to 6.6″ less.
+@obs N05: «c-d)», the note on the degrees of the sun at 28° and 1s 0°, both 0 in C; N06: «h-i)», the note on the minutes of the declination from 21° to 25°, where O has the seconds of the next column, «(cfr. colum. seq.)», in italics. N03: «meil elshems», N04: «ard elkamar», C's Arabic heads, the declination of the sun and the latitude of the moon. The ellipses «. . . .» of the lemmata as printed.

@@ -1,0 +1,4 @@
+@page 3 -
+@kind blank
+% Frame 003: a blank leaf side.
+@copy The free endpaper of the binding, blank.

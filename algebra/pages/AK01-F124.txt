@@ -1,0 +1,4 @@
+@page 124 -
+@kind blank
+% Frame 124: a blank leaf side.
+@obs Blank, on the white paper of the text leaves; nothing printed.

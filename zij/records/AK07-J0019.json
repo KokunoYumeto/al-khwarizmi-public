@@ -1,0 +1,782 @@
+{
+ "anchor": "AK07-J0019",
+ "jp2_index": 19,
+ "jp2_member": "b24872489_0019.jp2",
+ "jp2_sha256": "bf8bf73de11aaf8eacf991f16dc6815902390b3fae07c2d692e284e9abbca409",
+ "reading_copy": "page_0019.jpg",
+ "reading_copy_sha256": "6d964eb9c009782b30af2bd1577a258a9c23105c987dfe9159b94637a12af843",
+ "printed_page": "XV",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0019: the introduction, p. XV: the additions of N, nos. 2-3: a table of the Arabic months without days (fol. 8r); the extra columns of table 3 in N (fol. 9r, 9v), which agree with the spurious tables of al-Battani in Nallino's edition and so go back to Maslama's recension; A) the years of Yazdegerd, B) the anni plani, C) the Diocletian era.",
+ "lines": [
+  {
+   "id": "AK07-J0019-L01",
+   "n": 1,
+   "kind": "indent",
+   "text": "2) Am Schlusse der zweiten Spalte desselben fol. (in unserm Text p. 2) steht",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "2) Am Schlusse der zweiten Spalte desselben fol. (in unserm Text p. 2) steht",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "nach den Worten {i:quandoque in hieme interdum in aestate accidat} folgende Tabelle",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nach den Worten quandoque in hieme interdum in aestate accidat folgende Tabelle",
+   "italic": [
+    "quandoque in hieme interdum in aestate accidat"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "der arabischen Monate ohne Angabe der Zahl der Tage :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der arabischen Monate ohne Angabe der Zahl der Tage :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L04",
+   "n": 4,
+   "kind": "table",
+   "text": "{i:Almuharram} | . . . . . . . . .",
+   "cells": [
+    "{i:Almuharram}",
+    ". . . . . . . . ."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Almuharram | . . . . . . . . .",
+   "italic": [
+    "Almuharram"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L05",
+   "n": 5,
+   "kind": "table",
+   "text": "{i:Szaphar} | . . . . . . . . .",
+   "cells": [
+    "{i:Szaphar}",
+    ". . . . . . . . ."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Szaphar | . . . . . . . . .",
+   "italic": [
+    "Szaphar"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L06",
+   "n": 6,
+   "kind": "table",
+   "text": "{i:Rabbe} | . . . . . . . . .",
+   "cells": [
+    "{i:Rabbe}",
+    ". . . . . . . . ."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Rabbe | . . . . . . . . .",
+   "italic": [
+    "Rabbe"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L07",
+   "n": 7,
+   "kind": "table",
+   "text": "{i:Rabbe} | . . . . . . . . .",
+   "cells": [
+    "{i:Rabbe}",
+    ". . . . . . . . ."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Rabbe | . . . . . . . . .",
+   "italic": [
+    "Rabbe"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L08",
+   "n": 8,
+   "kind": "table",
+   "text": "{i:Jumedi} | . . . . . . . . .",
+   "cells": [
+    "{i:Jumedi}",
+    ". . . . . . . . ."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Jumedi | . . . . . . . . .",
+   "italic": [
+    "Jumedi"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L09",
+   "n": 9,
+   "kind": "table",
+   "text": "{i:Jumedi} | . . . . . . . . .",
+   "cells": [
+    "{i:Jumedi}",
+    ". . . . . . . . ."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Jumedi | . . . . . . . . .",
+   "italic": [
+    "Jumedi"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L10",
+   "n": 10,
+   "kind": "table",
+   "text": "{i:Rageb} | . . . . . . . . .",
+   "cells": [
+    "{i:Rageb}",
+    ". . . . . . . . ."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Rageb | . . . . . . . . .",
+   "italic": [
+    "Rageb"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L11",
+   "n": 11,
+   "kind": "table",
+   "text": "{i:Saaben} | . . . . . . . . .",
+   "cells": [
+    "{i:Saaben}",
+    ". . . . . . . . ."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Saaben | . . . . . . . . .",
+   "italic": [
+    "Saaben"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L12",
+   "n": 12,
+   "kind": "table",
+   "text": "{i:Ramadhan} | . . . . . . . . .",
+   "cells": [
+    "{i:Ramadhan}",
+    ". . . . . . . . ."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Ramadhan | . . . . . . . . .",
+   "italic": [
+    "Ramadhan"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L13",
+   "n": 13,
+   "kind": "table",
+   "text": "{i:Sewil} | . . . . . . . . .",
+   "cells": [
+    "{i:Sewil}",
+    ". . . . . . . . ."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Sewil | . . . . . . . . .",
+   "italic": [
+    "Sewil"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L14",
+   "n": 14,
+   "kind": "table",
+   "text": "{i:Dulkidda} | . . . . . . . . .",
+   "cells": [
+    "{i:Dulkidda}",
+    ". . . . . . . . ."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Dulkidda | . . . . . . . . .",
+   "italic": [
+    "Dulkidda"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L15",
+   "n": 15,
+   "kind": "table",
+   "text": "{i:Dulheiga} | . . . . . . . . .",
+   "cells": [
+    "{i:Dulheiga}",
+    ". . . . . . . . ."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Dulheiga | . . . . . . . . .",
+   "italic": [
+    "Dulheiga"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L16",
+   "n": 16,
+   "kind": "indent",
+   "text": "3) Die Tafel 3, die in den Mss. C und O je eine Seite in Anspruch nimmt, ist in",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "3) Die Tafel 3, die in den Mss. C und O je eine Seite in Anspruch nimmt, ist in",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "N auf zwei Seiten (9{sup:r} und 9{sup:v}) verteilt ; es kommen nämlich hier einige Kolonnen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "N auf zwei Seiten (9r und 9v) verteilt ; es kommen nämlich hier einige Kolonnen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "hinzu, die in C und O fehlen, die aber in den {i:Tabulae spuriae}, die {sp:Nallino} der Aus-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "hinzu, die in C und O fehlen, die aber in den Tabulae spuriae, die Nallino der Aus-",
+   "italic": [
+    "Tabulae spuriae"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "gabe {sp:Al-Battānīs} hinzugefügt hat (II, p. 300—307) vorkommen. Es lassen sich also",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "gabe Al-Battānīs hinzugefügt hat (II, p. 300—307) vorkommen. Es lassen sich also",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Battānīs"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "alle die unechten Tafeln {sp:Al-Battānīs} auf die {sp:Maslama}’sche Bearbeitung der Tafeln",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "alle die unechten Tafeln Al-Battānīs auf die Maslama’sche Bearbeitung der Tafeln",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Battānīs",
+    "Maslama"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "{sp:Al-Khwārizmīs} zurückführen, und damit hat sich die Vermutung, die {sp:Nallino}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Al-Khwārizmīs zurückführen, und damit hat sich die Vermutung, die Nallino",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Khwārizmīs",
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "über diese Tafeln ausgesprochen hat (II, p. 308—309 : {i:Haud improbabile est tabulas}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "über diese Tafeln ausgesprochen hat (II, p. 308—309 : Haud improbabile est tabulas",
+   "italic": [
+    "Haud improbabile est tabulas"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "{i:p. 302—307 ex opere Maslamah quoque, ut de p. 300—301 affirmatur, exscriptas esse, etc.})",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "p. 302—307 ex opere Maslamah quoque, ut de p. 300—301 affirmatur, exscriptas esse, etc.)",
+   "italic": [
+    "p. 302—307 ex opere Maslamah quoque, ut de p. 300—301 affirmatur, exscriptas esse, etc."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "bewahrheitet. Die in Ms. N hinzukommenden Kolonnen sind folgende :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bewahrheitet. Die in Ms. N hinzukommenden Kolonnen sind folgende :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L25",
+   "n": 25,
+   "kind": "indent",
+   "text": "A) Auf fol. 9{sub:r} kommt nach der Kolonne {i:Anni Alexandri collecti}, die in unserer",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "A) Auf fol. 9r kommt nach der Kolonne Anni Alexandri collecti, die in unserer",
+   "italic": [
+    "Anni Alexandri collecti"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "Tafel 3 die 2. Kol. ist, eine Kolonne mit der Überschrift {i:Anni iazdeiardi} ({i:Yezdegirdi})",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Tafel 3 die 2. Kol. ist, eine Kolonne mit der Überschrift Anni iazdeiardi (Yezdegirdi)",
+   "italic": [
+    "Anni iazdeiardi",
+    "Yezdegirdi"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "{i:post aeram arabum} ; diese stimmt mit der Kolonne 4 bei {sp:Al-Battānī} (II, 304), über-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "post aeram arabum ; diese stimmt mit der Kolonne 4 bei Al-Battānī (II, 304), über-",
+   "italic": [
+    "post aeram arabum"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Al-Battānī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "schrieben : {i:Anni Persarum sine intercalatione, etc.}, und zwar bis auf die Radix, die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "schrieben : Anni Persarum sine intercalatione, etc., und zwar bis auf die Radix, die",
+   "italic": [
+    "Anni Persarum sine intercalatione, etc."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "dort zu 9{sup:a}11{sup:m}9{sup:d} angegeben wird (s. auch Tafel 1, wo sich auch die unrichtige Radix",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dort zu 9a11m9d angegeben wird (s. auch Tafel 1, wo sich auch die unrichtige Radix",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "9{sup:a}11{sup:m}4{sup:d} findet).",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "9a11m4d findet).",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L31",
+   "n": 31,
+   "kind": "indent",
+   "text": "B) Auf fol. 9{sup:v} befindet sich die der vorigen entsprechende Kolonne für die {i:anni}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "B) Auf fol. 9v befindet sich die der vorigen entsprechende Kolonne für die anni",
+   "italic": [
+    "anni"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "{i:plani} oder {i:residui}, sie steht nach der Kolonne {i:Anni Alexandri plani}, die in unserer",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "plani oder residui, sie steht nach der Kolonne Anni Alexandri plani, die in unserer",
+   "italic": [
+    "plani",
+    "residui",
+    "Anni Alexandri plani"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "Tafel 3 die 4. Kol. ist ; sie stimmt mit der Kolonne 4 bei {sp:Al-Battānī} (II, 305),",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Tafel 3 die 4. Kol. ist ; sie stimmt mit der Kolonne 4 bei Al-Battānī (II, 305),",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Battānī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "überschrieben : {i:Anni singuli Persarum sine intercalatione}, und zwar bis auf die Tage",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "überschrieben : Anni singuli Persarum sine intercalatione, und zwar bis auf die Tage",
+   "italic": [
+    "Anni singuli Persarum sine intercalatione"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "für {i:annus} 27, wo unsere Tafel 19, {sp:Al-Battānī} aber 18 hat.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "für annus 27, wo unsere Tafel 19, Al-Battānī aber 18 hat.",
+   "italic": [
+    "annus"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Al-Battānī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L36",
+   "n": 36,
+   "kind": "indent",
+   "text": "C) Auf fol. 9{sup:r} befindet sich unmittelbar nach der Kolonne A für die {i:Anni iazdeiardi}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "C) Auf fol. 9r befindet sich unmittelbar nach der Kolonne A für die Anni iazdeiardi",
+   "italic": [
+    "Anni iazdeiardi"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "eine solche für die {i:Anni Diocletiani completi}, sie stimmt im ganzen mit der Kol. 3",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "eine solche für die Anni Diocletiani completi, sie stimmt im ganzen mit der Kol. 3",
+   "italic": [
+    "Anni Diocletiani completi"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L38",
+   "n": 38,
+   "kind": "text",
+   "text": "bei {sp:Al-Battānī} (II, 304), überschrieben {i:Anni Coptorum intercalationem habentes etc.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bei Al-Battānī (II, 304), überschrieben Anni Coptorum intercalationem habentes etc.",
+   "italic": [
+    "Anni Coptorum intercalationem habentes etc."
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Al-Battānī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L39",
+   "n": 39,
+   "kind": "text",
+   "text": "Bei verschiedenen arabischen Astronomen wurde die {i:Aera Diocletiani} (Beginn am",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Bei verschiedenen arabischen Astronomen wurde die Aera Diocletiani (Beginn am",
+   "italic": [
+    "Aera Diocletiani"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0019-L40",
+   "n": 40,
+   "kind": "text",
+   "text": "29. Aug. 284 n. Chr.) auch {i:Aera Coptorum} genannt, mit welchem Namen sonst ver-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "29. Aug. 284 n. Chr.) auch Aera Coptorum genannt, mit welchem Namen sonst ver-",
+   "italic": [
+    "Aera Coptorum"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «XV» stands at the head of the page, centred, with a rule below it. At the foot, the signature «III*» on the right.",
+  "L04-L15: the table of N, set within a ruled frame of two columns, a double rule on the left and the right and a single rule between the columns; the month names in italics in the first column, and in the second, for the number of the days, which the table does not give, a row of nine dots in each row, about 20 px apart, transcribed as dots separated by spaces. Each row is one line here, the cells separated by our «|».",
+  "L25: «fol. 9{sub:r}»: the r is printed below the line, where L17 and L36 print the r and v of the folios raised; transcribed as printed. L23: the dash of «302—307» is printed in two pieces, as on p. XI (JP2 0015, L31); transcribed as one long dash. L29-L30: the radix in years, months and days, «9a11m9d» and «9a11m4d», the a, m and d raised; the figures are set without spaces (the gaps between them, 10-13 px, are those between the two figures of «11»).",
+  "Marks not transcribed: a dark mark on the k of «hinzukommenden» (L24) and one on the k of «kommt» (L25), in the ink of the print; a light speck at the right of the head of «Radix» (L29).",
+  "L25-L28: «Anni iazdeiardi (Yezdegirdi) post aeram arabum», the years of Yazdegerd after the Arab era; the radix that al-Battānī's column gives, 9 years 11 months 9 days, differs from that of N's column, and table 1 has the wrong radix 9 years 11 months 4 days."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

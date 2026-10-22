@@ -1,0 +1,4 @@
+@page 123 -
+@kind blank
+% Frame 123: a blank leaf side, after the last page of the text (frame 122, p. ١٠٦).
+@obs Blank, on the white paper of the text leaves; nothing printed.

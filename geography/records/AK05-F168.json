@@ -1,0 +1,29 @@
+{
+ "anchor": "AK05-F168",
+ "frame": 168,
+ "frame_file": "page_168.jpg",
+ "frame_sha256": "57ef82c55fbde0be6eb9e484d4158dad6a1406983d98e57962de31f0e9738a48",
+ "printed_page": "١٦٢",
+ "kind": "editorial",
+ "role": "MODERN_EDITORIAL (not reproduced)",
+ "comment": "Frame 168, printed p. 162: the editor's list of the five plates, «Tafeln.», in German, with the Arabic words of the maps and the two notes on the last written page of the manuscript that it quotes.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [
+  "the editor's list of the five plates, «Tafeln.», in German: a heading and 31 printed lines, which quote in Arabic words of the maps and two notes of the manuscript (the facts in the observations below, the manuscript's words as readings)"
+ ],
+ "figures": [],
+ "variants": [
+  "The scribe's note on fol. 47ᵇ, as the editor prints it: «كتب فى شهر رمضان سنة ثمان، وعشرين وأربع مأية بمدينة ⟨السلام⟩», written in the month of Ramaḍān of the year 428 in the city of ⟨Peace⟩, with a comma-shaped mark after «ثمان». The editor considers the reading of the last word very uncertain; with it, the manuscript was written in Ramaḍān 428 H., which he gives as 18 June to 17 July 1037, in Baghdad, with a question mark.",
+  "The owner's note on fol. 47ᵇ, as the editor prints it: «انتقل هذا الكتاب المبارك بطريق الابتياع الشرعىّ الى ملك العبد الفقير الى رحمة ربّه وغفرانه علىّ ابن الشيخ احمد ابن الشيخ ابراهيم الرقّىّ محدثًا الطرابلسىّ منشئًا ومولدًا الأشعرىّ اعتقادًا الشافعىّ مذهبًا بتأريخ ثالث عشر شهر صفر المبارك من سنة ست و⟨. . . . . . . .⟩ غفر الله ⟨له⟩ ولوالديه ولمن دعا له بالمغفرة ولعن الله من يسرقه والحمد لله وحده»: the book passed by lawful purchase into the possession of ʿAlī ibn Aḥmad ibn Ibrāhīm al-Raqqī al-Ṭarābulusī, an Ashʿarī in creed and a Shāfiʿī in law, on 13 Ṣafar of a year ending in six. The year is erased except for its units, «ست», six; the editor marks the erased words with eight dots between angle brackets, and supplies «له» after «غفر الله», lost by haplography."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The page lists the five plates of the edition, which follow on frames 171-179: I, the map of the island of the Yāqūt, «جزيرة الياقوت», and the mountain around it, from fol. 11ᵇ of the manuscript; II, the map of the forms of the coast and the terms used for them, fol. 21ᵃ; III, the map of the Nile, fol. 30ᵇ and 31ᵃ; IV, the map of the «بطيحة», the Maeotis, fol. 47ᵃ; V, a specimen of the script, fol. 47ᵇ, the last written page of the manuscript. Each plate gives the manuscript in its original size; plates I and III have south at the top, plate IV north.",
+  "For plate II the editor names one term of the map that the text does not use, «تسنيم», and refers for the terms of the map to p. XI, note 1, of his «Afrika», and for «شابورة» also to A. Mez, «Abulḳâsim, ein Bagdâder Sittenbild», p. LXIV f. For plate III he lists three places of the map that the text does not name: «الفسطاط», «الجيزة» and «الريف».",
+  "The editor attributes to the writer of the owner's note on fol. 47ᵇ, ʿAlī ibn Aḥmad ibn Ibrāhīm al-Ashʿarī, by the hand and the ink, the many corrections in the manuscript that the edition reports as by a later hand.",
+  "Below the text, a short rule of 281 px; the page number «— ١٦٢ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

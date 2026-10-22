@@ -1,0 +1,236 @@
+{
+ "anchor": "AK01-F078",
+ "frame": 78,
+ "frame_file": "page_078.jpg",
+ "frame_sha256": "55a8e1f3af7187328a26ed5d390681cfa7198a6525b7f4cda78cf80b157c4180",
+ "printed_page": "٦٢",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 078, printed p. 62: the equilateral triangle of side ten concluded: the root of seventy-five times the root of twenty-five, the root of one thousand eight hundred and seventy-five, forty-three and a little, with its figure. Then an acute triangle with unequal sides, fifteen, fourteen and thirteen cubits: the base fourteen, the foot of the altitude at a thing from the side of thirteen; the square of the altitude found twice, 169 less a square and 29 and 28 things less a square, and the two set equal, continued on the next page. Below the rule one footnote of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F078-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "أن تضرب الخمسة فى مثلها حتى يكون جذر خمسة وسبعون فى جذر خمسة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "وعشرين فاضرب خمسة وسبعين فى خمسة وعشرين فيكون ألفا وثمانى مائة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وخمسة وسبعين فخذ جذر ذلك فهو",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "تكسيرها وهو ثلاثة وأربعون وشىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "قليل وهذه صورتها . وقد تكون من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "هذه الزوايا الحادة مختلفة الأضلاع فاعلم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "أن تكسيرها يعلم من قبل مسقط حجرها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "وعمودها وهى أن تكون مثلثة من جانب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "خمسة عشر ذراعا ومن جانب أربعة عشر ذراعا ومن جانب ثلاثة عشر ذراعا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "فاذا أردت علم مسقط حجرها فاجعل القاعدة أى الجوانب شئت فجعلناها أربعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "عشر وهو مسقط الحجر فمسقط حجرها يقع منها على شىء مما يلى أى الضلعين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "شئت فجعلنا الشىء مما يلى الثلاثة عشر فضربناه فى مثله فصار مالا ونقصناه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "من ثلاثة عشر فى مثلها وهو مائة وتسعة وستون فصار ذلك مائة وتسعة وستين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "الا مالا فعلمنا أن جذرها هو العمود وقد بقى لنا من القاعدة أربعة عشر الا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "شيئا فضربناه فى مثله فصار مائة وستة وتسعين ومالا الا ثمانية وعشرين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "شيئا فنقصناه من الخمسة عشر فى مثلها فبقى تسعة وعشرون (درهما {n:١}) وثمانية",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "وعشرون شيئا الا مالا وجذرها هو العمود فلما صارجذرها هذا هو العمود وجذر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F078-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "مائة وتسعة وستين الا مالا هو العمود أيضا علمنا أنهما متساويان فقابل بينهما",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١"
+   ],
+   "lines": 1,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [
+  {
+   "id": "AK01-F078-FIG1",
+   "rect": [
+    1272,
+    945,
+    2050,
+    1690
+   ],
+   "after": 8
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Layout: L01-L02 run across the page; L03-L08 stand in a narrower column at the left of the figure, which is reproduced after L08; L09-L18 run across the page.",
+  "The figure, drawn, not set in type: the equilateral triangle of frame 077 with its altitude from the apex; ١٠ beside each of the two slanting sides and under the base; along the altitude, written downwards, جذر ٧٥, the root of seventy-five.",
+  "L01: «جذر خمسة وسبعون», as printed: the numeral is in the nominative after جذر, where the genitive is وسبعين, as in «جذر خمسة وعشرين» at the end of the same clause (L01-L02); the number is the same either way.",
+  "L16: «(درهما {n:١})», as printed: the parentheses stand close to the word, the opening one 23 px (nearest approach of the ink at 400 ppi) from the د, as the parentheses of frame 054 stand 23 px from a م, and 25 px after وعشرون; the note mark (١) stands inside them, 28 px after درهما, and the closing parenthesis 8 px after the mark and 23 px before وثمانية. The editors' note (١) says that the word in parentheses is superfluous in the original, that is, in the manuscript. In the computation the word names the twenty-nine as dirhams: fifteen times fifteen, two hundred and twenty-five, less a hundred and ninety-six and a square less twenty-eight things, leaves twenty-nine and twenty-eight things less a square.",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: ذراعا ومن (L09, the first; 22 between the alif and the conjunction و; the second has 28), where the alif stands 9 px from the conjunction و in درهماونصفاً on frame 061, L06; فاذا أردت (L10; 22 between the two alifs); هذا هو (L17; 23 between the alif and the ه); العمود فلما (L17; 10 between the د and the ف, where the د stands 6 px from the ف in واحدفان on frame 071, L01, and 22 in واحد فان in the same line; in doubt, the space is written).",
+  "Set without a word space, and transcribed so: صارجذرها (L17; 25 px between the ر and the ج above the baseline and 21 with the tail of the ر, the distances of the ر from the ج inside a word, 25 to 27 and 20 to 25 px on frame 064, where the words with a space stand 49 apart, the tail 37).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: وعشرون شيئا (L17; 7 between the ن and the ش), على شىء (L11), مالا ونقصناه (L12, the conjunction set apart from its word).",
+  "مما (L11, L12) is printed with the font's ligature of two mīms set one above the other; the machine reading has عا. It also sets no space in وعشرون شيئا الا مالا (L17), where the لا of الا stands 32 px from مالا and the alif of شيئا 26 px from الا.",
+  "The full stop of L05 stands between spaces, 45 px after صورتها and 42 px before وقد (nearest approach of the ink at 400 ppi); it is the only one on this page.",
+  "Plain alif where a hamza might be expected, as printed: فاضرب (L02), فاعلم (L06), فاذا, فاجعل (L10), الا (L14, twice; L15, L17, L18); with hamza: أن (L01, L07, L08, L14), ألفا (L02), وأربعون (L04), الأضلاع (L06), أربعة (L09, L10, L14), أردت, أى (L10), أى (L11), أيضا, أنهما (L18); on ي: مائة (L02; L13, twice; L15, L18), شئت (L10, L12), شيئا (L15, L16, L17); the hamza on the line: وشىء (L04), شىء (L11), الشىء (L12).",
+  "No tanwīn is printed on this page: ألفا (L02), ذراعا (L09, three times), مالا (L12, L14, L17, L18), ومالا (L15), شيئا (L15, L16, L17), أيضا (L18).",
+  "The final yā' is printed without dots: فى (L01, L02, L12, L13, L15, L16), حتى (L01), وثمانى (L02), وهى (L08), أى (L10, L11), على, يلى (L11), يلى (L12), بقى (L14), فبقى (L16).",
+  "The print stretches تكسيرها (L04, L07), قليل, صورتها and تكون (L05), تكون (L08), فجعلنا and فصار (L12), شيئا and فصار (L15) with the elongation stroke; the stroke is not transcribed.",
+  "Note (١) of the editors says that the word in parentheses in L16 is superfluous in the original; it is not reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

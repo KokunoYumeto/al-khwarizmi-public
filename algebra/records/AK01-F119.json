@@ -1,0 +1,257 @@
+{
+ "anchor": "AK01-F119",
+ "frame": 119,
+ "frame_file": "page_119.jpg",
+ "frame_sha256": "df0ace67db5129291de314b6d17a90949404a792100624459de949001b48633d",
+ "printed_page": "١٠٣",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 119, printed p. 103: the problem of frame 118 concluded (the giver has intercourse with the slave-girl he gave): three hundred equal three things and a third: the gift ninety. Then the giver and the recipient both have intercourse with her: four hundred equal three things and two thirds: the gift a hundred and nine and an eleventh, the reduction a hundred and ninety and ten elevenths; in the view of Abū Ḥanīfa what the recipient receives by the bride-price is also a bequest. Then the giver has intercourse with her and bequeaths a third of his property, which Abū Ḥanīfa's view shares in halves: half of three hundred less two things and two thirds equals the two bequests: the thing thirty-seven and a half. Then, under «فان قال» in bold, both have intercourse with her and the giver bequeaths a third; begun, continued on the next page. The values check exactly. No footnote on this page.",
+ "lines": [
+  {
+   "id": "AK01-F119-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "فاجبر ذلك بشىء وثلث شىء وزده على الشيئين فيكون ثلثمائة تعدل ثلاثة أشياء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "وثلث شىء فالشىء من ذلك ثلاثة أعشاره وهو تسعون درهما وذلك الوصية .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "فان كانت المسألة على حالها ووطئها الواهب والموهوب له فقياسه أن تجعل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "الوصية شيئاً والمنتقص ثلثمائة غير شىء ويلزم الواهب للموهوب له العقر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "بالوطىء ثلث شىء ويلزم الموهوب له ثلث الانتقاص وهو مائة غير ثلث شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "فصارفى أيدى ورثة الواهب أربعمائة غير شىء وثلثى شىء وذلك مثلا الوصيةفاجبر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "الأربعمائة بشىء وثلثى شىء وزدها على الشيئين فيكون اربعمائة تعدل ثلاثةأشياء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "وثلثى شىء فالشىء من ذلك ثلاثة أجزاء من أحد عشر جزءاً من أربعمائة وهومائة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "وتسعة وجزء من أحد عشر من درهم وذلك الوصية والانتقاص مائة وتسعون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "وعشرة أجزاء من أحد عشر جزءاً من درهم . وفى قول ابى حنيفة يجعل الشىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "وصية وما صار اليه بالعقر أيضاً وصية . فان كانت المسألة على حالها فوطئها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "الواهب وأوصى بثلث ماله فان قول ابى حنيفة الثلث بينهما نصفان . وقياسه أن",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "تجعل الوصية للموهوب له الجارية شيئا فيبقى ثلثمائة غير شىء ثم رد العقر وهو",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "ثلث شىء فيبقى معه ثلثمائة غير شىء وثلث شىء فوصيته فى قول أبى حنيفه شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "وثلث شىء وفى قول الآخر شىء . ثم يعطى الموصى له بالثلث مثل وصية الأول",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "وهو شىء وثلث شىء فيبقى فى يده ثلثمائة غير شيئين وثلثى شىء تعدل مثلى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "الوصيتين وهما شيئان وثلثا شىء فنصف ذلك يعدل الوصيتين وهو مائة وخمسون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "غير شىء وثلث شىء فاجبر ذلك بشىء وثلث شىء وزده على الوصيتين فصارمائة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "وخمسين تعدل أربعة أشياء فالشىء من ذلك ربعه وهو سبعة وثلاثون ونصف .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "{b:فان قال} وطئها الموهوب له ووطئها الواهب وأوصى بثلث ماله . فان القياس فى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان قال"
+   ]
+  },
+  {
+   "id": "AK01-F119-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "قول أبى حنيفة أن تجعل الوصية شيئاً فيبقى ثلثمائة غير شىء واحد العقر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F119-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "مائة غير ثلث شىء فصار فى يده أربعمائة درهم غير شىء وثلث شىء ورد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L01: «فاجبر ذلك بشىء وثلث شىء» (L01) goes on from the last words of frame 118, «ثلثمائة غير شىء وثلث شىء وذلك مثلا الوصية التى هى شىء وهو شيئان» (frame 118, L22): three hundred less a thing and a third of a thing equal two things.",
+  "L20: the words فان قال (L20), the heading of the next problem, are printed in a bold face at the beginning of the line, which is not indented; L19 ends with a full stop. وطئها, which follows, is in the face of the text. The problems that begin «فان كانت المسألة على حالها» (L03, L11) are in the face of the text. The bold ن is printed without its dot; transcribed ن.",
+  "L08: the د of أحد is printed incomplete: only its foot shows, 24 px long and reaching 5 px above the baseline, 7 px from the ح, where the د of أحد in L09 and L10 rises 27 px above the baseline and touches the ح; transcribed د. In the same line the tail of the first و of وثلثى is printed apart from its head, below the baseline; transcribed و.",
+  "L14: حنيفه, as printed, with a final ه, where L10, L12 and L21 print حنيفة with the dots of the ة.",
+  "L05: بالوطىء, as printed: the hamza on the line after a dotless ى, as in شىء.",
+  "Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): فصارفى (L06; the ر stands 28 px from the ف above the baseline and its tail 14 px from it, within the 8 to 19 px of the tail inside a word, as فيصيرفى on frame 111, L13, 28 and 10, where فصار فى in L22 has 44 and 27); الوصيةفاجبر (L06; 9 between the ة and the ف); ثلاثةأشياء (L07; 8 between the ة and the alif); وهومائة (L08; the second و stands 20 px from the م, 23 above the baseline, where the first و of the word stands 22 and 23 from the ه, as وهومائة on frames 115 and 116, where وهو مائة in L05 has 32 and 41, and in L17 25 and 37); فصارمائة (L18; the ر stands 26 px from the م above the baseline and its tail 17 px from it, within the 8 to 19 px of the tail inside a word).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: ثلاثة أجزاء (L08; 19 between the ة and the alif, among the gaps with a space, where ثلاثةأشياء in L07 has 8); أربعمائة وهومائة (L08; 15 between the ة and the conjunction و) and مائة وتسعون (L09; 17), at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one; شىء وذلك (L06; 16 between the hamza on the line and the conjunction و), where the hamza stands 2 to 11 px from the next letter without a space and 15 or more with one; in doubt, the space is written.",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: ثلث شىء (L05; 11), الواهب أربعمائة (9), وذلك مثلا (L06; 5), من ذلك (8), وثلثى شىء (L08; 12), أبى حنيفه (8), حنيفه شىء (L14; 17), بالثلث مثل (L15; 17), شيئان وثلثا (L17; 6), الوصيتين فصارمائة (L18; 7), ذلك ربعه (15), وثلاثون ونصف (L19; 16), القياس فى (L20; 10).",
+  "The full stops (gaps as the nearest approach of the ink at 400 ppi): after درهم, before وفى (L10; 34 and 25), after وصية, before فان (L11; 27 and 29), after نصفان, before وقياسه (L12; 21 and 21), after شىء, before ثم (L15; 24 and 32), and after ماله, before فان (L20; 20 and 23), between spaces; after الوصية, ending L02 (27 px after the word), and after ونصف, ending L19 (29 px after the word).",
+  "Plain alif where a hamza might be expected, as printed: فاجبر (L01, L18), الوصيةفاجبر (L06), اربعمائة (L07), ابى (L10, L12), اليه (L11); with hamza: أشياء (L01, L19), أعشاره (L02), المسألة (L03, L11), أن (L03, L12, L21), أيدى (L06), أربعمائة (L06, L08, L22), الأربعمائة, ثلاثةأشياء (L07), أجزاء (L08, L10), أحد (L08, L09, L10), أيضاً (L11), وأوصى (L12, L20), أبى (L14, L21), الأول (L15), أربعة (L19); with madda: الآخر (L15); on ي: الشيئين (L01, L07), ثلثمائة (L01, L04, L13, L14, L16, L21), ووطئها (L03, L20), شيئاً (L04, L21), مائة (L05, L09, L17, L22), أربعمائة (L06, L08, L22), الأربعمائة, اربعمائة (L07), وهومائة (L08), فوطئها (L11), شيئا (L13), شيئين (L16), شيئان (L17), فصارمائة (L18), وطئها (L20); the hamza on the line: شىء (L01, L02, L04, L07, L08, L13, L17, L21; L05, L06, L15, twice; L16, L18, L22, three times; L14, four times), بشىء (L01, L07, L18), أشياء (L01, L19), فالشىء (L02, L08, L19), بالوطىء (L05), ثلاثةأشياء (L07), أجزاء (L08, L10), جزءاً (L08, L10), وجزء (L09), الشىء (L10).",
+  "With tanwīn on the final alif: شيئاً (L04, L21), جزءاً (L08, L10), أيضاً (L11); without tanwīn as printed: درهما (L02), شيئا (L13).",
+  "L06-L08, L16-L17: «وثلثى شىء» (L06, L07, L08, L16), «مثلا الوصيةفاجبر» (L06), «مثلى الوصيتين» (L16-L17) and «وثلثا شىء» (L17), as printed: the dual without its ن before the noun that follows it, as on frames 094-118.",
+  "The final yā' is printed without dots: على (L01, L03, L07, L11, L18), فصارفى, أيدى (L06), فى (L14, L16, L20, L22), وثلثى (L06, L07, L08, L16), وفى (L10, L15), ابى (L10, L12), وأوصى (L12, L20), فيبقى (L13, L14, L16, L21), أبى (L14, L21), يعطى, الموصى (L15), مثلى (L16).",
+  "The print stretches تجعل (L03, between the ع and the ل), ووطئها (L03, between the ه and the alif), غير (L04, L16, L22, between the غ and the ي), المسألة (L11, between the س and the alif), تعدل (L16, between the ع and the د), واحد (L21, between the ح and the د) and فصار (L22, between the ص and the alif) with the elongation stroke; the stroke is not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,55 @@
+@page 117 85
+@lang de
+% JP2 0117: Suter's commentary, p. 85: chapter 31 continued: the true places of the sun and the moon for the
+% opposition of Rabīʿ II 146; the true opposition on 30 June 763, 2 in the morning; the true longitudes; the corrected
+% argument of latitude and anomaly (notes 1-4).
+@t | Mittlere Länge der Sonne : | | Mittlere Länge des Mondes :{sup:1}) |
+@t | 98° 25′ 21″ | | 98° 25′ 21″
+@t Gleichung der Sonne | | Gleichung des Mondes |
+@t n. Tafel 21 : | 0° 45′ 44″ | n. Tafel 23 : | 4° 36′ 36″
+@t | 97° 39′ 37″ | | 103° 1′ 57″
+@p Der Mond ist also um 5° 22′ 20″ der Sonne voraus, die Opposition hat also
+schon stattgefunden. Man dividiert die Differenz der Längen durch 12, dies gibt
+26′ 52″, addiert dieses zu 5° 22′ 20″, gibt 5° 49′ 12″ ; diese Grösse durch die stündliche
+wahre Bewegung des Mondes, die nach Tafel 63 = 31′ 50″ ist, geteilt, gibt 10,97{sup:h} =
+10{sup:h} 58{sup:m}, diese Zeitdifferenz von der Zeit, zu der die mittlere Opposition stattgefunden
+hat, abgezogen, gibt als Zeit der wahren Opposition rund 13{sup:d}14{sup:h}, d. h. diese {i:Opposi-}
+{i:tion} hat stattgefunden am 13. Rabīʿ II, 146, 14{sup:h} nach 12 Uhr Mittags, d. h. nach unserer
+(bürgerlichen) Zeitrechnung (Beginn des Tages um Mitternacht) am 30. Juni 763,
+2 Uhr Morgens{sup:2}).
+@p Um die wahren Längen von Sonne und Mond bei der Opposition zu erhalten,
+muss man von dem oben gefundenen Wert der Länge der Sonne den 12. Teil der
+Differenz der Längen, also 26′ 52″ subtrahieren, von der Länge des Mondes aber
+das 13 fache, d. h. 5° 49′ 12″, so erhält man :
+@t Länge der Sonne : | 97° 39′ 37″ | Länge des Mondes : | 103° 1′ 57″
+@t | — 26′ 52″ | | — 5° 49′ 12″
+@t | 97° 12′ 45″ | | 97° 12′ 45″
+@p Diese Zahl gibt die wahre Länge der Sonne zur Zeit der Opposition an, die
+des Mondes ist also um 180° grösser, d. h. = 277° 12′ 45″.
+@p Nach den Vorschriften des Textes müssen nun noch das Argument der Breite
+des Mondes und seine Anomalie korrigiert werden.
+@cl Argument der Breite = 360° 24′ 29″
+@cl — 5° 49′ 12″
+@cl 354° 35′ 17″
+@cl Dazu addiert die Gleichung
+@cl des Mondes : 4° 36′ 36″
+@cl korrig. Argument der Breite : 359° 11′ 53 ″
+@cr Anomalie des Mondes = 291° 43′ 4″
+@cr Korrektur entsprechend der
+@cr Zeitkorrektur von 10{sup:h} 58{sup:m}{sup:3}) 5° 58′ 21″
+@cr korrigierte Anomalie{sup:4}) : 285° 44′ 43″
+@n {sup:1}) Für die weitern Rechnungen behält man diese mit der mittlern Länge der Sonne überein-
+@n stimmende Länge des Mondes bei, obgleich sie bei der Opposition in Wirklichkeit um 180° grösser
+@n (bezw. kleiner) ist.
+@n {sup:2}) Die Tafeln {sp:Schrams} ergeben : am 30. Juni 763, 1{sup:h} 41{sup:m} Morgens für Greenwich, also für
+@n Cordova 1{sup:h} 21{sup:m}, der Unterschied würde also hier c. 40{sup:m} ausmachen, nach der oben angeführten
+@n Bemerkung {sp:Schrams} könnte sich derselbe auf 10{sup:m} reduzieren.
+@n {sup:3}) Wie oben muss man nach der Regel (p. 24) die Zeitkorrektur mit 32′ 40″ multiplizieren.
+@n {sup:4}) Von {sp:Batt.} {i:Anomalia aequata} genannt.
+@obs The page number «85» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L05 continue the example of p. 84 (JP2 0116, L23-L35): the mean places of the sun and the moon at the mean opposition, «98° 25′ 21″», the sums of p. 84 less 360°.
+@obs L01-L05 and L19-L21: the computations, set as the tables of p. 82 (JP2 0114, L30-L34): each half with its names at the left and its figures in a column, the heads of L01 in the smaller type; dotted leaders after «n. Tafel 21 :» and «n. Tafel 23 :» (L04), not transcribed; rules under the figures of L04 and L20, the sums below them; «— 26′ 52″», «— 5° 49′ 12″», the minus a long dash after a word space. Each printed row is one line here, the cells separated by our «|»; the empty cells give the columns room and are not printed. L26-L35: the two computations of the corrections, set in two columns, transcribed one after the other, the left column first: the names at the left, the figures in a column at the right, dotted leaders after «Argument der Breite», «des Mondes :», «Anomalie des Mondes» and «korrigierte Anomalie4) :», not transcribed; rules under the figures of L27, L30 and L33.
+@obs L01-L35. Checked: 98° 25′ 21″ − 0° 45′ 44″ = 97° 39′ 37″ (the solar anomaly, 98° 25′ 21″ − 77° 55′ = 20° 30′ 21″, less than 180°, the equation subtracted); 98° 25′ 21″ + 4° 36′ 36″ = 103° 1′ 57″ (the lunar anomaly 291° 43′ 4″, the equation added); 103° 1′ 57″ − 97° 39′ 37″ = 5° 22′ 20″; its twelfth is 26′ 51.7″, «26′ 52″»; 5° 22′ 20″ + 26′ 52″ = 5° 49′ 12″; 349.2′ : 31′ 50″ = 10.97 hours = 10h 58m; 14d 0h 57m 39s − 10h 58m = 13d 13h 59m 39s, «rund 13d14h»; 97° 39′ 37″ − 26′ 52″ = 103° 1′ 57″ − 5° 49′ 12″ = 97° 12′ 45″, and 97° 12′ 45″ + 180° = 277° 12′ 45″; 360° 24′ 29″ − 5° 49′ 12″ = 354° 35′ 17″, + 4° 36′ 36″ = 359° 11′ 53″; 10.97 × 32′ 40″ = 358.35′ = 5° 58′ 21″ (note 3; the decimal of L09, as on p. 84, JP2 0116, L15-L16), and 291° 43′ 4″ − 5° 58′ 21″ = 285° 44′ 43″ (subtracted, the moon being ahead, p. 84, N01).
+@obs L10-L14. Checked: 0 Rabīʿ II 146 is 16 June 763 (1 Rabīʿ II is 17 June, p. 84, N03), so that 13d 14h after its noon is 2 in the morning of 30 June 763, 14 hours after noon of 13 Rabīʿ II (29 June), as L12-L14 say. N02: Meeus's algorithm gives the true full moon at 2.63h Terrestrial Time on 30 June 763; with a ΔT of about 0.9h (Espenak and Meeus) this is about 1h 43m at Greenwich, near Schram's 1h 41m; Cordova lies 19 minutes west of Greenwich. With the sine rule of p. 46 (JP2 0078) the lunar equation for 68° 17′ from the apogee is about 4° 35′, the hourly true motion of the moon about 31′ 54″ (Table 63: 31′ 50″); the values of Tables 21, 23 and 63 are to be compared with the tables.
+@obs L11: «13d14h», the figures and the raised letters set close (5-6 px), where L09-L10 set «10,97h» and «10h 58m» with a word space; L34: «10h 58m3)», the note number after the m. L31: «359° 11′ 53 ″», the sign of the seconds after a gap of 17 px, about a narrow word space; transcribed as printed. L12: «Rabīʿ II» upright here, with the macron and the ʿayn raised.
+@obs N02: «Schrams» spaced twice; N04: «Batt.» spaced, «Anomalia aequata» in italics. L11-L12: «Opposi-|tion» in italics.
+@obs The colons and the semicolon stand after the thin space of the edition (9-18 px measured).

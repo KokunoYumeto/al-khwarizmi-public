@@ -1,0 +1,24 @@
+{
+ "anchor": "AK07-J0003",
+ "jp2_index": 3,
+ "jp2_member": "b24872489_0003.jp2",
+ "jp2_sha256": "76d264c9b8c794268ae73b1a11f6edb794a28ef8f910cac5dce194ff1cc1fa28",
+ "reading_copy": "page_0003.jpg",
+ "reading_copy_sha256": "4bf20a8be32b35f4a2b04b35a835d7cb1c2f2f3accc0ee4417d00c0f5a465d05",
+ "printed_page": "-",
+ "kind": "scan",
+ "language": null,
+ "role": "SCAN_EXTRINSIC",
+ "file": "suter",
+ "comment": "JP2 0003: a flyleaf, with the notice of the digitisation set over it and a price in pencil.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "A flyleaf without printed matter of the edition, over which the digitisation has set its notice: the drawing of a temple front, «Digitized by the Internet Archive in 2016» and «https://archive.org/details/b24872489». Not part of the book."
+ ],
+ "copy_matter": [
+  "A price in pencil, «£170», in the lower middle of the leaf."
+ ],
+ "critical_notes": []
+}

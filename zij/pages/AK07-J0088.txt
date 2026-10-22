@@ -1,0 +1,53 @@
+@page 88 56
+@lang de
+% JP2 0088: Suter's commentary, p. 56: the end of chapter 13 (Saturn direct on 15 Ṣafar 540); chapter 14, the times
+% of direct and retrograde motion: the rule for a retrograde planet, al-Battānī's and al-Khwārizmī's rules for a direct
+% one; the daily motions in anomaly of the five planets (notes 1-3).
+@r Zu 139°{sup:1}) gehört in Tafel 31 die {i:Statio prima} 115° 10′
+@r also ist die {i:Statio secunda} = 244° 50′
+@p Nun ist die {i:Anomal. aeq.} kleiner als die erste Station, also war Saturn an jenem
+Tage {i:vorwärtsschreitend} ({i:rechtläufig}). Die Regel ist wohl ohne weitern Kommentar
+zu verstehen.
+@c {b:Kap. 14. Über die Zeit der Rechtläufigkeit und Rückläufigkeit.}
+@c (Text p. 12—13, Tafeln 27—56.)
+@p Will man die Zeit wissen, während welcher ein Planet rechtläufig oder rück-
+läufig ist, so hat man nach {sp:Kh.} so zu verfahren :
+@p a) Der Planet sei {i:rückläufig.} Will man nun wissen, wie lange er schon rück-
+läufig war, so nimmt man den Unterschied zwischen der {i:Statio prima} und der
+{i:Anomal. aeq.} und bestimmt, wie viel Zeit für den Planeten nötig war, um diesen
+Unterschied zu durchlaufen ; will man aber wissen, wie lange er noch rückläufig
+bleibe, so nimmt man den Unterschied zwischen der {i:Statio secunda} und der {i:Anomal.}
+{i:aeq.} und bestimmt, wie viel Zeit der Planet gebrauche, um diesen Unterschied zu
+durchlaufen. Um nun diese Zeiten zu finden, muss man die tägliche Bewegung der
+Anomalie des Planeten kennen, diese führt {sp:Batt.} in seiner Darstellung dieser Be-
+stimmung an. {sp:Kh.} spricht von diesen täglichen Bewegungen nicht, er sagt einfach :
+{i:Deinde per argumentum} (d. i. hier = log. Schluss, Verfahren) {i:ad hoc negotium pro-}
+{i:prium, quanto tempore illud transeat, coniectabitur.} Ein mit der Sache nicht Vertrauter
+würde schwerlich herausfinden, was hiermit gemeint sei ; da führen uns die klaren
+Regeln {sp:Batt.}’s auf den richtigen Weg : man muss die genannten Unterschiede zwischen
+den Stationen und der Anomal. aeq. durch die tägliche Bewegung der Anomalie des
+Planeten teilen{sup:2}), und erhält dann die Zahl der Tage, die der Planet schon rückläufig
+ist, bezw. noch rückläufig bleibt.
+@p b) Der Planet sei {i:rechtläufig.} Für diesen Fall sind die Regeln bei {sp:Batt.} sowohl
+als bei {sp:Kh.} unvollständig, bei letzterem noch dazu unverständlich. Man muss hier
+zwei Fälle unterscheiden, nämlich ob die Anomal. aeq. kleiner sei als die 1. Station,
+oder grösser als die 2. ; in beiden Fällen kann man wieder fragen, wie lange bleibt
+der Planet noch rechtläufig, und wie lange war er schon rechtläufig. {sp:Batt.} betrachtet
+nur den ersten Fall und stellt nur die erste Frage, {sp:Kh.} betrachtet beide Fälle, stellt
+aber bei jedem nur eine Frage. Die vollständige Regel wäre folgende :
+@p {i:1. Fall} : Die {i:Anomal. aeq.} ist {i:kleiner} als die 1. Station. Will man wissen, wie
+lange der Planet noch rechtläufig bleibt, so nimmt man den Unterschied zwischen
+beiden, und dividiert ihn durch die tägliche Bewegung der Anomalie des Planeten{sup:3}).
+@n {sup:1}) Ich nehme nur die ganzen Grade.
+@n {sup:2}) Diese Zahlen für die tägliche Bewegung der Planeten findet man auf folgenden Tafeln
+@n (unter der Kolonnenüberschrift : {i:Heza} (Anomalia oder Argumentum)) : Tafel 9, Saturn = 57′ 8″ ;
+@n Tafel 11, Jupiter = 54′ 9″ ; Tafel 13, Mars = 27′ 42″ ; Tafel 16, Venus = 37′ 0″ ; Tafel 18, Merkur
+@n = 3° 6′ 24″.
+@n {sup:3}) Diesen Fall berücksichtigt {sp:Batt.} am Schlusse des 46. Kap. (ed. {sp:Nallino}, I, 114) und
+@n {sp:Kh.} am Schlusse seiner Regel (p. 13) : {i:Quod si non procul a statione prima fuerit} . . . .
+@obs The page number «56» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L02 end the example of p. 55 (JP2 0087, L31-L35); they are set flush right in a narrower measure, ending about 340 px before the right margin, the two figures one under the other; transcribed as lines set to the right. L06-L07: the heading of chapter 14, in bold, centred, with the reference to the text below it.
+@obs L01-L05. Checked: 360° − 115° 10′ = 244° 50′; the anomaly of Saturn, 109° 24½′ (p. 55), is less than the first station, 115° 10′, so that Saturn was direct, as L03-L04 say. Note 1: the table is entered with 139°, the whole degrees of the centrum aequatum 139° 31½′. The value 115° 10′ is to be compared with Table 31.
+@obs N02-N05. Checked: with Brahmagupta's parameters (revolutions in 4 320 000 000 years of 1 577 916 450 000 days: the sun 4 320 000 000, Saturn 146 567 298, Jupiter 364 226 455, Mars 2 296 828 522, the conjunction of Venus 7 022 389 492 and of Mercury 17 936 998 984), the daily motion in anomaly, the difference from the sun's, is 57′ 7.8″ for Saturn, 54′ 9.0″ for Jupiter, 27′ 41.7″ for Mars, 36′ 59.6″ for Venus and 3° 6′ 24.1″ for Mercury: the five values of note 2 to the second. L08-L35: the time is the difference between the anomaly and a station divided by the daily motion in anomaly.
+@obs L19-L20: the sentence of chapter 14, p. 13 (JP2 0045, L03-L04), «deinde per argumentum ad hoc negotium proprium, quanto tempore illud transeat, coniectabitur», quoted with a capital D and without the note numbers of the edition, Suter's gloss «(d. i. hier = log. Schluss, Verfahren)» upright within it. N07: the sentence of p. 13 (JP2 0045, L08), «Quod si non procul a statione prima fuerit», with four points after it.
+@obs Spaced type, marked {sp:}: «Kh.», «Batt.», «Nallino»; italics: «Statio prima», «Statio secunda», «Anomal. aeq.» (L03, L11-L12, L14-L15, L33; upright in L23 and L28-L29), «vorwärtsschreitend», «rechtläufig» (L04, L26), «rückläufig» (L10), «1. Fall», «kleiner» (L33), the Latin of L19-L20 and N07, «Heza» (N03).
+@obs The colons and semicolons stand after the thin space of the edition (7-13 px measured; «Weg :» 9 px, «1. Fall :» 9 px, «(p. 13) :» in N07 13 px).

@@ -1,0 +1,46 @@
+@page 108 ٩٢
+% Frame 108, printed p. 92: the problem of frame 107 concluded (a mother, a wife and four sisters; thirteen parts):
+% what remains of the third is six parts and three sevenths less a sixth of the estate and two sevenths of a sixth;
+% with two thirds of the estate, nineteen forty-seconds of the estate and six parts and three sevenths equal thirteen
+% parts; the estate fourteen parts and seventy hundred-and-thirty-thirds: the part a hundred and thirty-three, the
+% estate one thousand nine hundred and thirty-two, the complement three hundred and one, the exception ninety-eight,
+% the bequest two hundred and three, the heirs one thousand seven hundred and twenty-nine. Then, in bold, «حساب الدور»
+% and «باب منه فى التزويج فى المرض», a new section: a man in his last illness marries a woman for a hundred dirhams,
+% his only property, where her proper dower is ten; she dies, bequeathing a third of her property, and then he dies:
+% her bequest a thing; the husband's heirs have ninety-three and a third less two thirds of a thing, twice the thing:
+% the thing is three eighths of ninety-three and a third, continued on the next page. No footnote on this page.
+سبعا خمسة أسهم الا سبعى سدس المال فيكون معك ستة أسهم وثلاثة أسباع
+سهم الا سدس مال وسبعى سدس مال فتزيد على ذلك ثلثى المال فيكون معك
+تسعة عشر جزءاً من اثنين وأربعين جزءاً من مال وستة أسهم وثلاثة أسباع سهم
+تعدل ثلاثة عشر سهماً فالق منها هذه السهام فيبقى تسعة عشر جزءاً تعدل ستة
+أسهم وأربعة أسباع سهم فتمم مالك وهو أن تزيد عليه ضعفه وأربعة أجزاء من
+تسعة عشر جزءاً فيكون معك مال يعدل أربعة عشر سهماً وسبعين جزءاً من
+مائة وثلاثة وثلاثين جزءاً من سهم فاجعل السهم مائة وثلاثة وثلاثين فتكون
+سهام الفريضة ألفاً وتسعمائة واثنين وثلاثين سهماً والسهم الواحد يعدل مائةوثلاثة
+وثلاثين والتكملة ثلاثمائة وواحد والاستثناء من الثلث يكون ثمانية وتسعين
+فتبقى الوصية مائتان وثلاثة ويبقى للورثة ألف وسبعمائة وتسعة وعشرون .
+@p {b:حساب الدور} . {b:باب منه فى التزويج فى المرض} رجل تزوج امرأة فى مرض
+موته على مائة درهم ولا مال له غيرها ومهر مثلها عشرة دراهم ثم ماتت المرأة
+وأوصت بثلث مالها ثم مات الزوج . فقياسه أن ترفع من المائة ما يصح لها من
+المهر وهوعشرة دراهم وتبقى تسعون درهما لهامنه وصية فتجعل وصيتهاشيئامن
+ذلك فيبقى تسعون درهما غير شىء فصار فى يدها عشرة دراهم وشىء وأوصت
+بثلث مالها وهو ثلاثة دراهم وثلث درهم وثلث شىء فيبقى ستة دراهم وثلثان
+وثلثا شىء فيرجع الى الزوج من ذلك ميراثه النصف وهو ثلاثةدراهم وثلث درهم
+وثلث شىء فيصير فى أيدى ورثة الزوج ثلاثة وتسعون درهماوثلث درهم الا
+ثلثى شىء وهومثلا وصية المرأة وهى شىء لأن المرأة يجوزلها بالوصية ثلث جميع
+ما ترك الزوج فمثلا وصيتها شيئان فاجبر الثلاثة والتسعين والثلث بثلثى شىء
+وزده على الشيئين فيكون ثلاثة وتسعين درهما وثلثا تعدل شيئين وثلثى شىء
+فالشىء الواحد من ذلك هو ثلاثة أثمانه وهو يعدل ثلاثة أثمان الثلاثة والتسعين
+@obs L01: «سبعا خمسة أسهم الا سبعى سدس المال» (L01) goes on from the last words of frame 107, «والسبعان اللذان استثناهما» (frame 107, L22): the two sevenths excepted are two sevenths of five parts less two sevenths of a sixth of the estate. The working takes two sevenths where the statement of the bequest has a seventh; see the critical note AK01-CN033 (frame 107).
+@obs L11: the words حساب الدور and باب منه فى التزويج فى المرض (L11), the heading of a new section, on the computation of the cycle (al-dawr), and of its chapter on marriage in illness, are printed in a bold face, on a line printed with a paragraph indent, the two separated by a full stop; رجل, which follows, is in the face of the text. The bold ن of منه is printed without its dot; transcribed ن.
+@obs L05: «أن تزيد عليه ضعفه وأربعة أجزاء من تسعة عشر جزءاً», as printed: the completion turns nineteen forty-seconds of the estate into a whole estate, which multiplies by forty-two nineteenths, two and four nineteenths: the amount is added to itself once, and four nineteenths of it besides. Here ضعفه is therefore the like of the amount, added once (مثله), a sense that the classical lexica record for ضعف, where elsewhere in the book it is the double («وللابن ضعف ذلك», frame 095, L03). The result that follows, fourteen parts and seventy hundred-and-thirty-thirds (L06-L07), is that of forty-two nineteenths (checked exactly).
+@obs L09: the hundreds are printed ثلاثمائة (L09), with the alif of ثلاث, where frames 089-105 print ثلثمائة; transcribed as printed.
+@obs Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): مائةوثلاثة (L08; 6 between the ة and the conjunction و, where مائة وثلاثة in L07 has 18); وهوعشرة (L14; 24 between the و and the ع, as on frames 049 and 061, 24 and 23, where وهو عشرة on frame 061, L05, has 36); لهامنه (L14; 11 between the alif and the م, as مامعك on frame 102, 9, where ما معك has 27); وصيتهاشيئامن (L14; 11 between the alif and the ش, and 10 between the alif and the م); ثلاثةدراهم (L17; 7 between the ة and the د, where ثلاثة دراهم in L16 has 17); درهماوثلث (L18; 12 between the alif and the conjunction و, within the distances of the alif from a conjunction و set without a space, 9 to 13 px on frame 098, where مالها وهو in L16 has 21); وهومثلا (L19; 21 between the و and the م, within the distances of the و from the next letter inside a word, 20 to 30 px); يجوزلها (L19; 28 between the ز and the ل above the baseline, the tail of the ز 17 px from the ل, as the ر stands from the alif inside المرأة in the same line, 30 and 16, and from the ه inside درهم on frame 102, 28 and 17).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: الواحد يعدل (L08; 13 between the د and the ي, where الواحديعدل on frame 051, L06, has 7, and the د stands 5 and 8 px from the next letter inside يدها (L15) and أيدى (L18); in doubt, the space is written); يدها عشرة (L15; 20 between the alif and the ع, as والزوايا عليه on frame 073, 20, where the alif stands 10 to 11 px from the ع inside فاعلم on frame 046; in doubt, the space is written); ثلاثة دراهم (L16; 17 between the ة and the د) and الثلاثة والتسعين (L22; 16 between the ة and the conjunction و), at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one.
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: من مال (L03), وثلاثين سهماً, يعدل مائةوثلاثة (L08; 8 between the ل and the م), فى التزويج, تزوج امرأة (L11), منه وصية (L14), الزوج من, ميراثه النصف, وثلث درهم (L17), لها, بالوصية ثلث (L19).
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after the bold الدور, before the bold باب (L11; 34 and 30), and after الزوج, before فقياسه (L13; 28 and 27); the full stop after وعشرون ends L10 (27 px after the word).
+@obs Plain alif where a hamza might be expected, as printed: الا (L01, L02), اثنين (L03), فالق (L04), فاجعل (L07), واثنين (L08), والاستثناء (L09), امرأة, the first alif (L11), الى (L17), الا (L18), فاجبر (L20); with hamza: أسهم (L01, twice), أسباع (L01), وأربعين, أسهم, أسباع (L03), أسهم, وأربعة, أسباع, أن, وأربعة, أجزاء (L05), أربعة (L06), ألفاً (L08), ألف (L10), امرأة, the second alif (L11), المرأة (L12), وأوصت, أن (L13), وأوصت (L15), أيدى (L18), المرأة, twice, لأن (L19), أثمانه, أثمان (L22); on ي: مائة (L07, twice; L12), وتسعمائة (L08), ثلاثمائة (L09), مائتان, وسبعمائة (L10), المائة (L13), وصيتهاشيئامن (L14), شيئان (L20), الشيئين, شيئين (L21); the hamza on the line: جزءاً (L03, twice; L04; L06, twice; L07), أجزاء (L05), والاستثناء (L09), شىء (L15, L16, L17, L18; L19, twice; L20, L21), وشىء (L15), فالشىء (L22).
+@obs With tanwīn on the final alif: جزءاً (L03, twice; L04; L06, twice; L07), سهماً (L04, L06, L08), ألفاً (L08); without tanwīn as printed: درهما (L14, L15, L21), and شيئا in وصيتهاشيئامن (L14).
+@obs L01, L02, L19, L20, L21: «سبعا خمسة أسهم», «سبعى سدس», «مثلا وصية», «فمثلا وصيتها» and «وثلثا تعدل», as printed: the dual without its ن before the noun that follows it, or before the next word, as on frames 094, 095, 099 and 106.
+@obs The final yā' is printed without dots: سبعى (L01), وسبعى, على, ثلثى (L02), فيبقى (L04), فتبقى, ويبقى (L10), the bold فى, twice, فى (L11), على (L12), وتبقى (L14), فيبقى, فى (L15), فيبقى (L16), الى (L17), فى, أيدى (L18), ثلثى, وهى (L19), بثلثى (L20), على, وثلثى (L21).
+@obs The print stretches سبعا (L01, between the س and the ب), فيكون (L06, L21, between the ي and the ك), فتكون (L07, between the ت and the ك), فاجعل (L07, between the ج and the ع), والتكملة (L09, between the ت and the ك), يكون (L09, between the ي and the ك), فاجبر (L20, between the ج and the ب) and أربعة (L06, between the ع and the ة) with the elongation stroke; the stroke is not transcribed.

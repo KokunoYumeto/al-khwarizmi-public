@@ -1,0 +1,47 @@
+@page 10 4
+% Frame 010, printed p. 4: the figures of the tens, with two gaps; what a character means in each place; the place of
+% the hundreds, with their figures 100, 200 and 300; the place of the thousands, with 1000 and 2000, and the three
+% circles before the character; numbers below ten with a ten, as 11 and 12. One footnote.
+@m car. 103 {i:recto}.
+hec .... Figura .{sc:xx} .... (1).Et similiter figura .{sc:xxx}. est ita, | et
+ita usque ad .{sc:ix}. : erit scilicet circulus in prima differentia,
+et caracter pertinens ad ipsum numerum in secunda diffe-
+rentia. Hoc autem sciendum est , quod caracter qui sic in
+prima differentia, unum; in secunda sic .{sc:x}.; in tercia .{sc:c}.,
+atque in quarta .{sc:ī}. Et similiter qui sic in prima differentia
+duo; in secunda sic .{sc:xx}. , et in tercia .{sc:cc}. , et in quarta .{sc:īī}.
+et sic de ceteris intellige. Nos autem redeamus ad librum.
+@p Post differentiam decenorum sequitur sequitur ({i:sic}) differen-
+tia centenorum, in qua duplicatur ac triplicatur quicquid est a
+.{sc:c}. in .{sc:dcccc}.; et eius figura est sicut figura unius in tercia dif-
+ferentia posita ita .100.; et figura ducentorum est sicut figura
+duorum posita similiter in tercia differentia ita .300.:figura quo-
+que tercentorum est figura trium posita in tercia differentia
+ita .300, et sic usque ad nongenta. Hac quoque sequitur diffe-
+rentia milium, in qua similiter duplicatur et triplicatur quic-
+quid est a mille in .{sc:īx̄}. Cuius figura est sicut figura unius in
+quarta differentia posita ita .1000: figura duorum milium est si-
+cut figura duorum in quarta differentia posita ita. 2000. et ita
+usque ad {sc:ix}. milia: ponuntur autem in differentia quarta ante
+caracterem tres circuli, ut ostendatur, quod sit in quarta dif-
+ferentia, sicut positus est in secunda differentia unius, et in
+tercia duo, ut ostenderetur quod essent differentie decenorum
+uel centenorum: et hoc fit cum non fuerit ante ipsum nume-
+rum alius numerus in eadem differentia. Si autem fuerit cum
+numero, qui ponitur in his differentiis, aliquis numerus infra
+eum, debet poni in ea differentia que sibi debetur. Verbi
+gratia : si fuerit cum .{sc:x}. aliquis numerus de his qui sunt
+infra eum , utpote .{sc:xi}, uel {sc:xii}., ponuntur ita .{sc:ii}. : in prima
+scilicet differentia, ubi positus erat circulus, ponatur unus, et
+@n (1) Le due lacune, ciascuna delle quali è indicata con quattro punti nella
+@n prima linea della presente pagina, trovansi anche nel sopraccitato Codice {i:Ii}. 6.
+@n 5. (carta 102 {i:verso}, lin. 33).
+@obs The page number «( 4 )» stands at the head of the page, centred. The page has no signature.
+@obs L01: the two groups of four points, after «hec» and after «.xx», mark the places of the figures of ten and twenty, which the edition does not print; the footnote says that both gaps are in the manuscript too, at fol. 102 verso, line 33. «.xx» has no closing point before the second gap; «(1).Et» is printed without a space after the point (a gap of 6 px, where the word spaces of the line are 14 to 26 px). The vertical bar between «ita,» and «et» marks the beginning of fol. 103 recto of the manuscript, which the note in the left margin, «car. 103 recto.», names; transcribed as a margin note.
+@obs L06, L07: the numerals of the fourth place, the thousands, are printed with a bar over the small capitals: «.ī.», 1000, and «.īī.», 2000, the bar running over both letters. L17: «.īx̄.», 9000, with a bar over «.ix» that begins above the first point. L20: «ix.» is printed without the opening point.
+@obs L12-L19: the figures of the hundreds and thousands are printed with old-style arabic numerals: «.100.» (L12), «.300.» (L13, L15), «.1000» (L18) and «2000» (L19). L13: the figure of two hundred, «figura ducentorum … sicut figura duorum posita … in tercia differentia», is printed «.300.», the figure that L14-L15 give for three hundred; see the critical note. L15: «.300,» has no closing point. L18: «.1000:» has no closing point. L19: «ita. 2000.»: the point stands after «ita», and a word space before «2000».
+@obs L29: «.ii.», in small capitals like the roman numerals of the line, for the number eleven written with figures; the old-style figure 1 of «.1000» (L18) has a flag at its top left, and the two letters of «.ii.» the serifs of the small capital I of «.xi».
+@obs L09: «sequitur sequitur (sic)»: the edition prints the word twice and marks the repetition with «(sic)» in italics.
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): before the mark, L02 «.ix. :» (23 px), L04 «est ,» (11 px), L07 «.xx. ,» and «.cc. ,» (19 px), L28 «gratia :» (14 px), L29 «eum ,» (20 px) and «.ii. :» (23 px). L13 «.300.:figura»: the point, the colon and the word follow each other with gaps of 7 px, without spaces (the median word space of the line 13 px). L12 «.100.;»: 8 px between the point and the semicolon, without a space.
+@critical AK02-CN002 | wrong numeral | L13 | .300. | .200. | the sentence gives the figure of two hundred as the figure of two placed in the third place («figura ducentorum est sicut figura duorum posita similiter in tercia differentia ita»), which is 200; the edition prints .300., the figure that the next sentence gives for three hundred («figura … tercentorum est figura trium … ita .300», L14-L15), after .100. for one hundred (L12); a reader of this copy wrote «200» in the margin beside the line | high | the example of two hundred reads 200; whether the error is of the edition or of the manuscript is not shown by the print
+@copy A reader's notes in pencil: L04 and L06, «sic» underlined, and «significat» written in the left margin beside L04, a gloss of «sic»; L05, a hook under the first «e» of «tercia»; L06 and L07, strokes around «.ī.» and «.īī.»; L13, a stroke under «.300.» and «200» written in the left margin beside the line; beside L15-L16 in the left margin, «. nongentos . Hanc», a reading of «nongenta. Hac» (L15); L16, a stroke over «li» of «similiter»; L22, a faint mark above «unius». Not part of the edition.

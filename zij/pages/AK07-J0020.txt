@@ -1,0 +1,57 @@
+@page 20 XVI
+@lang de
+% JP2 0020: the introduction, p. XVI: the Diocletian era; the errors of N's column C and the corrected last rows; the
+% shifted column of days; the three extra columns of N's table 3 (A, B, C), printed as a table.
+schiedene andere Aeren, so die {i:Aera Nabonassaris}, diejenige {i:Philippi Aridaei}, und von
+{sp:Al-Battānī} auch die {i:Aera Augusti} oder {i:Alexandrina}, über deren Beginn keine volle
+Übereinstimmung herrscht, bezeichnet wurden{sup:1}). Die Kolonne in N zeigt verschiedene
+Abweichungen von der bei {sp:Al-Battānī} : Unter a) sollte es heissen 483 statt 488,
+unter b) 977 statt 997 ; dann sollten natürlich die vier letzten Zeilen so lauten :
+@t 920. | 0. | 25. | {sup:1}/{sub:4}
+@t 949. | 1. | 4. | 0
+@t 978. | 2. | 13. | {sup:3}/{sub:4}
+@t 1007. | 4. | 21. | {sup:1}/{sub:2}
+@p Auch {sp:Al-Battānī} hat 919. 12 statt 920. 0, und die letzte Zeile fehlt bei ihm.
+Die Zahlen der Kol. {i:Dies} stimmen mit denen bei {sp:Al-Battānī}, wenn wir die 25 der
+zweiten Zeile von oben weglassen, und die übrigen Zahlen der Kolonne alle um eine
+Zeile nach oben rücken, bis auf die beiden untersten Zahlen (13 u. 21).
+@t A. | | | | B. | | | | C. | | | |
+@t Anni collecti | Anni iazdeiardi post aeram arabum | | | Anni residui | Anni iezdeiardi | | | Anni collecti | Anni diocletiani completi | | |
+@t | Anni | Menses | Dies | | Anni | Menses | Dies | | Anni | Menses | Dies | Partes
+@t Radix | 9 | 11 | 4 | 1 | 0 | 11 | 24 | Radix | 337 | 10 | 19 | {sup:3}/{sub:4}
+@t 30 | 19 | 2 | 12 | 2 | 1 | 11 | 14 | 30 | 366 | 11 | 25 | {sup:1}/{sub:2}
+@t 60 | 48 | 3 | 28 | 3 | 2 | 11 | 3 | 60 | 396 | 1 | 28 | 0
+@t 90 | 77 | 5 | 14 | 4 | 3 | 10 | 22 | 90 | 425 | 2 | 2 | {sup:3}/{sub:4}
+@t 120 | 106 | 7 | 0 | 5 | 4 | 10 | 12 | 120 | 454 | 3 | 10 | {sup:1}/{sub:2}
+@t 150 | 135 | 8 | 16 | 6 | 5 | 10 | 1 | 150 | 488{sup:a}) | 4 | 19 | {sup:1}/{sub:4}
+@t 180 | 164 | 10 | 2 | 7 | 6 | 9 | 21 | 180 | 512 | 6 | 28 | 0
+@t 210 | 193 | 11 | 18 | 8 | 7 | 9 | 10 | 210 | 541 | 7 | 7 | {sup:3}/{sub:4}
+@t 240 | 223 | 0 | 29 | 9 | 8 | 8 | 29 | 240 | 570 | 8 | 15 | {sup:1}/{sub:2}
+@t 270 | 252 | 2 | 15 | 10 | 9 | 8 | 19 | 270 | 599 | 10 | 24 | {sup:1}/{sub:4}
+@t 300 | 281 | 4 | 1 | 11 | 10 | 8 | 8 | 300 | 628 | 11 | 3 | 0
+@t 330 | 310 | 5 | 17 | 12 | 11 | 7 | 27 | 330 | 658 | 0 | 12 | {sup:1}/{sub:2}
+@t 360 | 339 | 7 | 3 | 13 | 12 | 7 | 17 | 360 | 687 | 1 | 15 | {sup:1}/{sub:4}
+@t 390 | 368 | 8 | 19 | 14 | 13 | 7 | 6 | 390 | 716 | 3 | 24 | 0
+@t 420 | 397 | 10 | 5 | 15 | 14 | 6 | 25 | 420 | 745 | 4 | 3 | {sup:3}/{sub:4}
+@t 450 | 426 | 11 | 21 | 16 | 15 | 6 | 15 | 450 | 774 | 5 | 11 | {sup:1}/{sub:2}
+@t 480 | 456 | 1 | 2 | 17 | 16 | 6 | 4 | 480 | 803 | 6 | 20 | {sup:1}/{sub:4}
+@t 510 | 485 | 2 | 18 | 18 | 17 | 5 | 24 | 510 | 832 | 8 | 28 | 0
+@t 540 | 514 | 4 | 4 | 19 | 18 | 5 | 13 | 540 | 861 | 9 | 8 | {sup:3}/{sub:4}
+@t 570 | 543 | 5 | 20 | 20 | 19 | 5 | 2 | 570 | 890 | 10 | 16 | {sup:1}/{sub:2}
+@t 600 | 572 | 7 | 6 | 21 | 20 | 4 | 22 | 600 | 919 | 12 | 25 | {sup:1}/{sub:4}
+@t 630 | 601 | 8 | 22 | 22 | 21 | 4 | 11 | 630 | 948 | 13 | 4 | 0
+@t 660 | 630 | 10 | 8 | 23 | 22 | 4 | 0 | 660 | 997{sup:b}) | 14 | 13 | {sup:3}/{sub:4}
+@t 690 | 659 | 11 | 24 | 24 | 23 | 3 | 20 | 690 | 1006 | 16 | 21 | {sup:1}/{sub:2}
+@t  |  |  |  | 25 | 24 | 3 | 9 |  |  |  |  | 
+@t  |  |  |  | 26 | 25 | 2 | 29 |  |  |  |  | 
+@t  |  |  |  | 27 | 26 | 2 | 19 |  |  |  |  | 
+@t  |  |  |  | 28 | 27 | 2 | 7 |  |  |  |  | 
+@t  |  |  |  | 29 | 28 | 1 | 27 |  |  |  |  | 
+@t  |  |  |  | 30 | 29 | 1 | 16 |  |  |  |  | 
+@n {sup:1}) Vergl. {i:Al-Battānī}, ed. {sp:Nallino}, I, 244—245.
+@obs The page number «XVI» stands at the head of the page, centred, with a rule below it.
+@obs L06-L09: the four rows of column C as they should read, set centred in four columns, the years, months and days each followed by a point, the parts of the day as fractions with a raised numerator and a lowered denominator, ¹/₄, ³/₄, ¹/₂ (transcribed {sup:1}/{sub:4} etc.).
+@obs L14-L46: the three columns that N adds to table 3, set as a table between a double rule above and a double rule below the heads, with double vertical rules between the groups A, B and C and single rules between their columns. Each row of the table is one line here, its thirteen cells separated by our «|»; the heads are given in three rows (L14 the groups, L15 the heads of the columns, L16 the heads of the subcolumns), a head that spans several columns standing in the first of them and the others left empty. «Anni collecti» (A and C) and «Anni residui» (B) are printed turned through a right angle, reading upwards, in two lines, and span L15-L16; «Anni iazdeiardi post aeram arabum» (A) and «Anni diocletiani completi» (C) are printed in two lines. Rows L41-L46 have only the cells of B; the columns A and C end with the year 690.
+@obs Column A has «iazdeiardi», column B «iezdeiardi». The rows marked a) (L22) and b) (L39) are those of L04-L05: 488 for 483 and 997 for 977. The parts of the day in column C are fractions with a raised numerator and a lowered denominator.
+@obs Checked: the years, months and days of A follow from the radix 9 years 11 months 9 days (3624 days) and 10631 days to every thirty Arab years, with Persian years of 365 days and months of 30 days, in every row; the radix printed in A is 9 11 4 (see p. XV, JP2 0019, L29-L30). The rows of B follow from Arab years of 354 days, 355 in the years 2, 5, 7, 10, 13, 16, 18, 21, 24, 26 and 29 of the cycle, in every row but year 27, where the table has 19 days for 18, as the text says (p. XV, L34-L35). In C the months 12, 13, 14 and 16 of the last four rows are not reduced to years (see L06-L09), and the days are displaced by one row, as the text says (L11-L13).
+@obs Marks not transcribed: raised spacing material printed as small dark blocks between «sollte» and «es» (L04), «Zahlen» and «der» (L11) and «Zeile» and «von» (L12); a mark after «post» in the head of A (L15) and a dot on the rule below the heads under «Menses» of A.

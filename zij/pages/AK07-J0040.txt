@@ -1,0 +1,80 @@
+@page 40 8
+@lang la
+% JP2 0040: the Latin text, p. 8: chapter 7 continued in two columns (C and M left, O right): the reduction of the sums,
+% twelve signs cast off, the sign for zero; the elwacat for the meridian of Arin; the longitude from Arin turned into
+% hours and moments and the correction for the meridian of one's own place; with the apparatus (notes 1-9).
+@cl tota reduces, ab ultimis videlicet secundis
+@cl incipiens.
+@cl Quod si ex hac reductione XII accre-
+@cl verint signa, illis abiectis{sup:1}) si quid sig-
+@cl norum reliquum fuerit subnotabis. Alio-
+@cl quin{sup:2}) loco ipsorum XII scribes figuram{sup:3})
+@cl cifrae τ{sup:4}). Similiter quoque et de ceteris.
+@cl Totum itaque residuum illud subnotatum,
+@cl ipsius planetae erit elwacat secundum
+@cl meridiem terrae {i:Arin}, iuxta quam haec
+@cl institutio facta est.
+@cl Deinde autem loci tui longitudinem
+@cl longitudini terrae {i:Arin}, quae est XC gra-
+@cl duum, detrahe, eiusque reliqui{sup:5}) pro qui-
+@cl busque XV gradibus horam numerato.
+@cl Quod autem ad XV non attinget in
+@cl quaternarium ducito eritque qui produce-
+@cl tur momentorum{sup:6}) numerus.
+@cl Cum illis ergo horis item intrabis,
+@cl itidemque cum his momentis in tabulam
+@cl {i:elwacat}. Quod autem illic quodque istic{sup:7})
+@cl inveneris, supra {i:elwacat} qui erat secun-
+@cl dum {i:Arin}{sup:8}) adde, si fuerit locus tuus ex
+@cl parte occidentali, sin autem ex orientali{sup:9}),
+@cl idem eidem subtrahe. Sic igitur cuius-
+@cl libet planetae status medialis secundum
+@cl meridiem loci tui perpensus erit.
+@cr similiter et mensium et dierum et hora-
+@cr rum et partium, eorumque adiuncta su-
+@cr mendo, primo signis signa, gradus gra-
+@cr dibus, dakaicas dakaicis et secundas
+@cr secundis dando, deinde secundas ad da-
+@cr kaicas, dakaicas ad gradus, gradus ad
+@cr signa reducendo.
+@cr Quod ex his reductionibus residuum
+@cr fuerit reponetur. Ut si LXX fuerint se-
+@cr cundae, X remanebunt, si LXX dakaicae,
+@cr item X, si vero XL gradus, X recte re-
+@cr stabunt, Si vero ex hac reductione XII
+@cr accreverint signa, ea negligemus. Quod
+@cr enim restabit ipsum cuiuscunque plane-
+@cr tae, eius dico quem investigamus, erit
+@cr medialitas secundum meridiem diei prae-
+@cr sentis et terrae {i:Arin}, iuxta quam haec
+@cr institutio facta est.
+@cr Quod si ab ea secundum longitudinem
+@cr quidem (?) removemur, spatium quod
+@cr inter nostrum locum fuerit et terram {i:Arin}
+@cr notandum est. Perpenso ergo quot gradi-
+@cr bus vel etiam dakaicis locus noster ab
+@cr {i:Arin} distet, singulis quidem XV gradibus
+@cr hora danda est.
+@cr Quod autem ad XV non attingit,
+@cr ducetur in quaternarium, fiuntque hora-
+@cr rum momenta.
+@cr Quod itaque horarum ex his omnibus
+@cr collectum fuerit, hoc inter nostrum meri-
+@cr diem et meridiem terrae {i:Arin} habendum
+@cr est. Callendumque quia si locus praesens
+@cr ex parte orientali fuerit, inter ipsorum
+@cr planetarum quantum ad praedictas horas
+@cr meridiei terrae Arin subtrahendum est,
+@cr quod si ex parte occidentali, addendum.
+@cr Sicque status planetarum secundum meri-
+@cr diem loci nostri perpensus est.
+@n {sup:1}) abiectis] C, neglectis M. — {sup:2}) Alioquin] id est, si nil reliquum erit signorum C {i:suprascr.} —
+@n {sup:3}) figuram] C, figura M. — {sup:4}) {i:De figura τ v. Introduction.} — {sup:5}) eiusque reliqui] C, eiusdemque reliquis
+@n M. — {sup:6}) momentorum] os . . . . orum (?) M {i:suprascr.} — {sup:7} istic] C, illic M. — {sup:8}) Arin] C, arim M. —
+@n {sup:9}) sin . . . . orientali] M, {i:om.} C.
+@obs The page number «8» stands at the head of the page, centred, with a rule below it. The whole page is printed in two columns, continuing those of p. 7 (JP2 0039): on the left the text of C and M (L01-L27), on the right that of O (L28-L65); the left column ends with L27, eleven lines above the end of the right one. Transcribed column by column. The notes 1-9 belong to the left column; the right column has none.
+@obs L07: «cifrae τ», the zero written as a Greek tau, one of the three signs for zero of the manuscripts (Suter, p. XXIII, JP2 0027); note 4 refers to the introduction. L10: the final a of «iuxta» is a sort of the italic fount in the roman line; transcribed «iuxta». L09: «elwacat» in roman type, L21 and L22 in italics; «Arin» in italics except in L62.
+@obs L47: «quidem (?)», the question mark the editor's. L59: «Callendumque», with ll, as printed. L36-L39: the arithmetic of the reduction: seventy seconds leave ten, seventy minutes ten, forty degrees ten, the excess over sixty seconds, sixty minutes and thirty degrees carried over.
+@obs N03: «os . . . . orum (?)», the reading of what M writes above the word, with the editor's question mark. N03: the note number 7 is printed without its bracket.
+@critical AK07-CN019 | wrong punctuation | L39 | stabunt, Si | stabunt. Si | the sentence ends with «restabunt», and the next begins with a capital, «Si vero ex hac reductione XII accreverint signa»; the comma stands where the full stop is needed | medium | none
+@critical AK07-CN020 | missing bracket | N03 | {sup:7} istic] | {sup:7}) istic] | the note numbers of the apparatus are followed by a round bracket; after the 7 the bracket is not printed | high | none

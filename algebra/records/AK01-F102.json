@@ -1,0 +1,226 @@
+{
+ "anchor": "AK01-F102",
+ "frame": 102,
+ "frame_file": "page_102.jpg",
+ "frame_sha256": "7b8c3bb63e0397fd858bc88b0c4bf86dc339000d8d86769794ac961360d3725b",
+ "printed_page": "٨٦",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 102, printed p. 86: the problem of frame 101 concluded: five sixths of the estate equal five shares and a half and a dirham and three quarters; completed, an estate equals six shares and three fifths and two dirhams and a tenth: the share ten and the dirham ten, the estate eighty-seven; to keep the dirham whole, the third is taken as seven and a half, and the same steps give seventeen equal to five shares and a half: the share three and an eleventh of a dirham. Then, under «فان ترك» in bold, four sons; to one man a son's share less a quarter of what remains of the third after the share, and a dirham; to another a third of what remains of the third, and a dirham; begun, continued on the next page. Below the rule one footnote of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F102-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "وثلاثة أرباع درهم وزدها على الأنصباء فيكون معك خمسة أسداس مال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F102-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "تعدل خمسة أنصباء ونصف نصيب ودرهما وثلاثة أرباع درهم فكمل مالك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F102-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وهو أن تزيد على الأنصباء والدرهم والثلاثة الأرباع مثل خمسها فيكون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F102-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "معك مال يعدل ستة أنصباء وثلاثة أخماس نصيب ودرهمين وعشر درهم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F102-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "فاجعل النصيب عشرة والدرهم عشرة فيكون المال سبعة وثمانين سهما . وان",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F102-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "أردت أن تخرج الدرهم درهما صحيحا فخذ الثلث فاطرح منه نصيبا فيكون ثلثا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F102-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "إلا نصيبا واجعل الثلث سبعة ونصفا ثم الق ثلث ما معك وهو ثلث الثلث",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F102-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "فيبقى معك ثلثا الثلث الا ثلثى نصيب وهو خمسة دراهم الا ثلثى نصيب فالق",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F102-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "واحداً بالدرهم فيبقى معك أربعةدراهم الا ثلثى نصيب ثم الق ربع مامعك وهو",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F102-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "سهم الا سدس نصيب والق سهما بالدرهم فيبقى معك سهمان الا نصف نصيب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F102-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "فزد ذلك على ثلثى المال وهوخمسة عشر فيكون سبعةعشر الا نصف نصيب تعدل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F102-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "خمسة أنصباء فاجبر ذلك بنصف نصيب وزده على الخمسة فيكون سبعة عشر سهما",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F102-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "تعدل خمسة أنصباء ونصفاً فاقسم سبعة على خمسة أنصباء ونصف نصيب فما بلغ",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F102-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "فهو القسم وهو النصيب وهو ثلاثة وجزء من أحد عشر من درهم والثلث سبعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F102-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "ونصف . {b:فان ترك} أربعةبنين وأوصى لرجل بمثل نصيب أحد بنيه الا ربع مايبقى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان ترك"
+   ]
+  },
+  {
+   "id": "AK01-F102-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "من الثلث بعد النصيب وبدرهم ولآخر بثلث ما يبقى من الثلث وبدرهم {n:١} فان",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F102-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "الوصية من الثلث فخذ ثلث مال فالق منه نصيبا فيبقى ثلث الا نصيبا ثم زد على",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١"
+   ],
+   "lines": 5,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L15: the words فان ترك (L15), the run-in heading of the next problem, are printed in a bold face, after a full stop; أربعةبنين, which follows, is in the face of the text. The bold ن is printed without its dot; transcribed ن.",
+  "L13: «فاقسم سبعة», as printed, seven, where the seventeen of L11-L13 («سبعة عشر سهما تعدل خمسة أنصباء ونصفاً») is to be divided by five shares and a half to give the share that the next line states, three and an eleventh (L14). See the critical note AK01-CN030.",
+  "L07: «ثم الق ثلث ما معك وهو ثلث الثلث», as printed: a third of what remains of the third after the share is a third of the third less a third of a share, as the parallel statement on frame 101 has it («وهو ثلث الثلث الا ثلث نصيب», L11); the next words give the remainder in full, two thirds of the third less two thirds of a share (L08).",
+  "Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): أربعةدراهم (L09; 10 between the ة and the د, where خمسة دراهم in L08 has 25); مامعك (L09; 9 between the alif and the م, where ما معك in L07 has 27); وهوخمسة (L11; 25 between the و and the خ, within the distances of the و from the next letter inside a word, 20 to 30 px, as وهوتسع on frame 090, 23, where وهو خمسة in L08 has 42); سبعةعشر (L11; 8 between the ة and the ع, where خمسة عشر earlier in the line has 17 and سبعة عشر in L12 23); أربعةبنين (L15; 13 between the ة and the ب, as اربعةبنين on frame 093, 13); مايبقى (L15; 18 between the alif and the ي, as on frames 087, 091, 092 and 099, 17 to 19).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: ما يبقى (L16; 20 between the alif and the ي, where مايبقى in L15 has 18: at the upper end of the distances of an alif from a tooth inside a word, 17 to 20 px, as ما يبقى on frame 097, L12; in doubt, the space is written); عشر سهما (L12; the tail of the ر ends 22 px from the س and the ر stands 31 px from it above the baseline, where the ر of درهم in L14 has 17 and 28 inside the word and عشر فيكون in L11 34 and 49 with a space; in doubt, the space is written); أحد عشر (L14; 19 between the د and the ع, where the د stands 3 to 8 px from the ع in أحدعشر on frames 056 and 062).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: الق ربع, ربع مامعك (L09), بنيه الا, ربع مايبقى, لرجل بمثل, نصيب أحد (L15), فالق منه (L17).",
+  "The full stops and the note mark (gaps as the nearest approach of the ink at 400 ppi): the full stops stand between spaces, after سهما, before وان (L05; 30 and 26), and after ونصف, before the bold فان (L15; 30 and 26). (١) stands 38 px after وبدرهم and 91 px before فان (L16), in a space of 159 px between the words, without a full stop.",
+  "Plain alif where a hamza might be expected, as printed: فاجعل, وان (L05), فاطرح (L06), واجعل (L07), الا (L08, twice), الا (L09), الا (L10, twice), الا (L11), فاجبر (L12), فاقسم (L13), the bold فان, الا (L15), فان (L16), الا (L17); with hamza: أرباع, الأنصباء, أسداس (L01), أنصباء, أرباع (L02), أن, الأنصباء, الأرباع (L03), أنصباء, أخماس (L04), أردت, أن (L06), أربعةدراهم (L09), أنصباء (L12), أنصباء (L13, twice), أحد (L14), أربعةبنين, وأوصى, أحد (L15); below the alif: إلا (L07); with madda: ولآخر (L16); the hamza on the line: الأنصباء (L01, L03), أنصباء (L02, L04, L12; L13, twice), وجزء (L14).",
+  "With tanwīn on the final alif: واحداً (L09), ونصفاً (L13); without tanwīn as printed: ودرهما (L02), سهما (L05, L10, L12), درهما, صحيحا, نصيبا, ثلثا (L06), نصيبا, ونصفا (L07), ثلثا (L08), نصيبا (L17, twice).",
+  "The final yā' is printed without dots: على (L01, L03), فيبقى, ثلثى (L08; ثلثى twice), فيبقى, ثلثى (L09), فيبقى (L10), على, ثلثى (L11), على (L12, L13), وأوصى, مايبقى (L15), يبقى (L16), فيبقى, على (L17).",
+  "The print stretches فيكون (L01, L03, L05, L06, between the ي and the ك), أسداس (L01, between the س and the د), أنصباء (L02, L03, between the ب and the alif), فكمل (L02, between the ف and the ك), ستة (L04, between the س and the ت), المال (L05, between the م and the alif), سبعة (L07, between the س and the ب) and خمسة (L08, between the س and the ة) with the elongation stroke; the stroke is not transcribed.",
+  "Note (١) of the editors restates the problem of L15-L17 in modern notation, with a son's share x and the dirham d: the first bequest x − 1/4 (1/3 − x) + d = 5/4 x − 1/12 + d, the second 1/3 (1/3 − 5/4 x − d + 1/12) + d, the two together 10/12 x + 5/3 d + 1/18; four shares, 1 − (10/12 x + 5/3 d + 1/18) = 4x; hence x = 17/87 − 30/87 d. The values check exactly. The note is not reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK01-CN030",
+   "class": "wrong number",
+   "line": "L13",
+   "printed": "فاقسم سبعة",
+   "proposed": "فاقسم سبعة عشر",
+   "evidence": "The equation reached is «سبعة عشر سهما تعدل خمسة أنصباء ونصفاً» (L12-L13): seventeen, the two thirds of the estate, fifteen, and the two that remain of the third (L10-L11), equal five shares and a half. The share is seventeen divided by five and a half, 34/11, «ثلاثة وجزء من أحد عشر» (L14), as the text states; seven divided by five and a half is 14/11, one and three elevenths. With the share 3 1/11 and the dirham 1 the estate is 6 3/5 shares and 2 1/10 dirhams (L04), 22 1/2, three times the third of 7 1/2 (L07, L14) (checked exactly).",
+   "confidence": "high: exact arithmetic; whether the word was lost in the print or in the manuscript is not known",
+   "impact": "none on the result: the share that follows, three and an eleventh, is that of seventeen"
+  }
+ ]
+}

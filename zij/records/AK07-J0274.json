@@ -1,0 +1,22 @@
+{
+ "anchor": "AK07-J0274",
+ "jp2_index": 274,
+ "jp2_member": "b24872489_0274.jp2",
+ "jp2_sha256": "68ed82e9dbfc5cf9046eb751917201e06969bc66090bbf28d70508aa2afd947f",
+ "reading_copy": "page_0274.jpg",
+ "reading_copy_sha256": "54ef1446e959c1dd37b986575666627dd9fe1fe8656846a6d0b4db2814ed68c8",
+ "printed_page": "[240]",
+ "kind": "blank",
+ "language": null,
+ "role": "blank",
+ "file": "suter",
+ "comment": "JP2 0274: the back of the part title, p. [240]; nothing printed.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Blank. The part title of p. [239] (JP2 0273) shows through the leaf, mirrored; damp stains run down from the top and up from the foot; small specks; the gutter at the right."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

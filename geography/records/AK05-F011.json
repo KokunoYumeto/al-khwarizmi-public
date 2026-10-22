@@ -1,0 +1,391 @@
+{
+ "anchor": "AK05-F011",
+ "frame": 11,
+ "frame_file": "page_011.jpg",
+ "frame_sha256": "b310003aed8fcc7a5bb843f79a2572c948be5cf55d387d7996a299e8a37df3b6",
+ "printed_page": "٥",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 011, printed p. 5: the cities of the first clime continued, entries 19-34: from Simāt on the cape of the sea, the coast of Yemen, Aden, Ṣanʿāʾ and Ḥaḍramawt, to Maʿlā; the folio of the manuscript, «(fol. 3ᵃ)», in the margin beside the last entry. Five lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F011-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(١٩) | [٥] | سماٮ{n:a} على انف البحر | ٮح | ل | يح | ل{n:b}",
+   "margin": null,
+   "cells": [
+    "(١٩)",
+    "[٥]",
+    "سماٮ{n:a} على انف البحر",
+    "ٮح",
+    "ل",
+    "يح",
+    "ل{n:b}"
+   ],
+   "plain": "(١٩) | [٥] | سماٮ على انف البحر | ٮح | ل | يح | ل",
+   "note_marks": [
+    "a",
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F011-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٢٠) | [٦] | مدينة على البحر | سٮ | {z} | ح | يه",
+   "margin": null,
+   "cells": [
+    "(٢٠)",
+    "[٦]",
+    "مدينة على البحر",
+    "سٮ",
+    "{z}",
+    "ح",
+    "يه"
+   ],
+   "plain": "(٢٠) | [٦] | مدينة على البحر | سٮ | ō | ح | يه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F011-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٢١) | [٧] | مارا من اليمن على البحر | سح | {z} | يه | ي⟨ه⟩{n:c}",
+   "margin": null,
+   "cells": [
+    "(٢١)",
+    "[٧]",
+    "مارا من اليمن على البحر",
+    "سح",
+    "{z}",
+    "يه",
+    "ي⟨ه⟩{n:c}"
+   ],
+   "plain": "(٢١) | [٧] | مارا من اليمن على البحر | سح | ō | يه | ي⟨ه⟩",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F011-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٢٢) | [٨] | الفسَ{n:d} على البحر | سح | {z} | ٮٮ | يه",
+   "margin": null,
+   "cells": [
+    "(٢٢)",
+    "[٨]",
+    "الفسَ{n:d} على البحر",
+    "سح",
+    "{z}",
+    "ٮٮ",
+    "يه"
+   ],
+   "plain": "(٢٢) | [٨] | الفسَ على البحر | سح | ō | ٮٮ | يه",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F011-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٢٣) | [١٠] | عدن اليمن{n:e} على البحر | سه | {z} | ٮح | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٣)",
+    "[١٠]",
+    "عدن اليمن{n:e} على البحر",
+    "سه",
+    "{z}",
+    "ٮح",
+    "{z}"
+   ],
+   "plain": "(٢٣) | [١٠] | عدن اليمن على البحر | سه | ō | ٮح | ō",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F011-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٢٤) | [٩] | صنعاء | سح | ل | ⟨ٮد | ل⟩{n:f}",
+   "margin": null,
+   "cells": [
+    "(٢٤)",
+    "[٩]",
+    "صنعاء",
+    "سح",
+    "ل",
+    "⟨ٮد",
+    "ل⟩{n:f}"
+   ],
+   "plain": "(٢٤) | [٩] | صنعاء | سح | ل | ⟨ٮد | ل⟩",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F011-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٢٥) | [١١] | ساوالى على البحر | سو | ل | ى | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٥)",
+    "[١١]",
+    "ساوالى على البحر",
+    "سو",
+    "ل",
+    "ى",
+    "{z}"
+   ],
+   "plain": "(٢٥) | [١١] | ساوالى على البحر | سو | ل | ى | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F011-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٢٦) | [١٢] | مدينة سيقر | سح | ٮه | ٮٮ | ك",
+   "margin": null,
+   "cells": [
+    "(٢٦)",
+    "[١٢]",
+    "مدينة سيقر",
+    "سح",
+    "ٮه",
+    "ٮٮ",
+    "ك"
+   ],
+   "plain": "(٢٦) | [١٢] | مدينة سيقر | سح | ٮه | ٮٮ | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F011-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٢٧) | [١٣] | مدينة منبيس{n:g} | سح | ل | ٮه | ل",
+   "margin": null,
+   "cells": [
+    "(٢٧)",
+    "[١٣]",
+    "مدينة منبيس{n:g}",
+    "سح",
+    "ل",
+    "ٮه",
+    "ل"
+   ],
+   "plain": "(٢٧) | [١٣] | مدينة منبيس | سح | ل | ٮه | ل",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F011-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٢٨) | [١٤] | مدينة مرهوذا | سط | {z} | ٮح | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٨)",
+    "[١٤]",
+    "مدينة مرهوذا",
+    "سط",
+    "{z}",
+    "ٮح",
+    "{z}"
+   ],
+   "plain": "(٢٨) | [١٤] | مدينة مرهوذا | سط | ō | ٮح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F011-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٢٩) | [١٥] | مدينة على البحر | سط | ل | و | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٩)",
+    "[١٥]",
+    "مدينة على البحر",
+    "سط",
+    "ل",
+    "و",
+    "{z}"
+   ],
+   "plain": "(٢٩) | [١٥] | مدينة على البحر | سط | ل | و | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F011-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٣٠) | [٥٦] | مدينة قنانا على البحر{n:h} | عب | ل | ٮ | مه",
+   "margin": null,
+   "cells": [
+    "(٣٠)",
+    "[٥٦]",
+    "مدينة قنانا على البحر{n:h}",
+    "عب",
+    "ل",
+    "ٮ",
+    "مه"
+   ],
+   "plain": "(٣٠) | [٥٦] | مدينة قنانا على البحر | عب | ل | ٮ | مه",
+   "note_marks": [
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F011-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٣١) | [١٦] | حضرموت | عا | {z} | ٮٮ | ل",
+   "margin": null,
+   "cells": [
+    "(٣١)",
+    "[١٦]",
+    "حضرموت",
+    "عا",
+    "{z}",
+    "ٮٮ",
+    "ل"
+   ],
+   "plain": "(٣١) | [١٦] | حضرموت | عا | ō | ٮٮ | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F011-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٣٢) | | مدينة الطيب | عٮ | {z} | ⟨د⟩{n:i} | ل",
+   "margin": null,
+   "cells": [
+    "(٣٢)",
+    "",
+    "مدينة الطيب",
+    "عٮ",
+    "{z}",
+    "⟨د⟩{n:i}",
+    "ل"
+   ],
+   "plain": "(٣٢) | | مدينة الطيب | عٮ | ō | ⟨د⟩ | ل",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F011-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٣٣) | [٥٦] | مدينة ڡٮاٮا على البحر | عٮ | ل | ٮ | مه",
+   "margin": null,
+   "cells": [
+    "(٣٣)",
+    "[٥٦]",
+    "مدينة ڡٮاٮا على البحر",
+    "عٮ",
+    "ل",
+    "ٮ",
+    "مه"
+   ],
+   "plain": "(٣٣) | [٥٦] | مدينة ڡٮاٮا على البحر | عٮ | ل | ٮ | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F011-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٣٤) | [١٧] | مدينة معلا | عح | يه | ٮٮ | مه",
+   "margin": "(fol. 3ᵃ)",
+   "cells": [
+    "(٣٤)",
+    "[١٧]",
+    "مدينة معلا",
+    "عح",
+    "يه",
+    "ٮٮ",
+    "مه"
+   ],
+   "plain": "(٣٤) | [١٧] | مدينة معلا | عح | يه | ٮٮ | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+   ],
+   "lines": 5,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: at entry (1129) the name سماٮ is written شابث; the editor refers to the same entry for the minutes of the latitude (note b).",
+  "L03: the ه of the minutes of the latitude fills a gap of the manuscript.",
+  "L04: for الفس the manuscript reads العس; at entry (1227) the name is written القس.",
+  "L05: for اليمن the manuscript reads اس.",
+  "L06: the latitude of Ṣanʿāʾ is damaged in the manuscript and is supplied from the Zīj of Ibn Yūnus (the Leiden manuscript, 134, col. 1, line 23).",
+  "L09: at entry (1692) the name منبيس is written differently, without its dots.",
+  "L12: entry 30 is the same as entry 33; at entry (1139) the name is written قتانا.",
+  "L14: the degrees of the latitude are damaged in the manuscript, but the reading is certain."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 010 without a heading: the cities of the first clime, entries 19-34. The folio of the Strasbourg manuscript, «(fol. 3ᵃ)», is printed in Latin type in the left margin beside entry 34 (L16).",
+  "L06: the latitude of Ṣanʿāʾ is printed «⟨ٮد ل⟩», the degrees and the minutes within one pair of angle brackets, the whole latitude supplied by the editor (note f); it is transcribed with the opening bracket in the degrees cell and the closing one in the minutes cell.",
+  "L03: the minutes of the latitude are printed «ي⟨ه⟩»: the ي stands outside the angle brackets, and only the ه is supplied (note c).",
+  "L04: above the final س of الفس stands a short stroke, 16 px long, slanting down to the left, in the shape and place of a fatḥa; transcribed as a fatḥa, «الفسَ». The editor's note mark d stands after it.",
+  "Letters printed without their dots, transcribed so: سماٮ (L01, the final letter); ڡٮاٮا (L15), the name of entry 30, قنانا (L12), printed without its dots, which the editor's note h identifies with entry 33; in the numerals ٮح (L01, the degrees of the longitude; L05, L10, the degrees of the latitude, where L01 prints يح with the two dots of the ي below the tooth), سٮ (L02), ٮد (L06) and عٮ (L14, L15), the tooth or the final ب without a dot; ٮ (L12, L15), the isolated ب without its dot, with one riser at the right end of the bowl; ٮٮ (L04, L08, L13, L16), a tooth joined to a final ب, both without dots, with two risers at the right end of the bowl, a tall and a short one, as يٮ and يب on frame 013 (L14, L11); ٮه (L08, the minutes of the longitude; L09, the degrees of the latitude), a tooth joined to a final ه, without its dot, the form printed with its dots in يه (L02-L04, L16). The longitude of entry 30 (L12), عب, has its dot.",
+  "The degrees of the latitude of entries 20 (ح), 29 (و), 30 and 33 (ٮ) and 32 (⟨د⟩) are printed with a single letter, a number below 10, where the latitude of the first clime is 16° 27' (frame 010, L01), entries 19 and 21 have يح and يه, entries 23 and 28 ٮح, entries 22, 26, 31 and 34 ٮٮ, and entry 27 ٮه, which read with a ي gives 15; the editor's notes do not comment on them. Transcribed as printed.",
+  "L08: the minutes of the latitude, ك, are printed with the small inner stroke of the letter, not with a line below.",
+  "The page number «— ٥ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

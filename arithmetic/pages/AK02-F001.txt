@@ -1,0 +1,4 @@
+@page 1 -
+@kind binding
+% Frame 001: the front of the library's cover of grey-blue card, with its label.
+@copy A cover of grey-blue card, the library's, with a white label at the lower left: «<36626359630013», with a red «S» stamped beside it, «<36626359630013» and «Bayer. Staatsbibliothek»; the print of the title of the wrapper (frame 003) shows faintly on the card in mirror image. Not part of the edition.

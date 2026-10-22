@@ -1,0 +1,4 @@
+@page 6 -
+@kind blank
+% Frame 006: a blank leaf side.
+@copy The free endpaper of the binding, blank.

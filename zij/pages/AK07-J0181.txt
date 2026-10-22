@@ -1,0 +1,61 @@
+@page 181 149
+@lang la
+% JP2 0181: Tab. 38, p. 149: the equations of Jupiter, with its corrected apogee, first station and latitude, for the
+% arguments 5s 1° to 6s 0° (and 6s 29° to 6s 0°), with the apparatus (notes 1-5 and a-g).
+@c {b:Coaequatio Jovis} (N)
+@c {b:Tadil elmusteri} (CO)
+@m C 61{sup:v}, O 119{sup:r},
+@c {b:Locus draconis eius 2 S. 22 G. 1 M.}{sup:1})
+@tw size=footnotesize span=1.14 0.85 0.85 0.85 0.85 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.75
+@m N 14{sup:r}.
+@t Pagina numerorum (O) |  |  |  | Sublimatio |  |  | Exami- |  | Exami- |  | Statio prima |  |  | Latitudo Jovis |  |  |  |
+@t Semita numeri (C) |  |  |  | ascensus |  |  | natio |  | natio |  | Jovis |  |  | descendentis{sup:5}) |  |  |  |
+@t Augmentum |  | Diminutio |  | Jovis |  |  | ipsius |  | centri |  |  |  |  | {b:prima} |  | {b:secunda} |  |
+@t proprietatum |  | proprietatum |  | examinata{sup:3}) |  |  | elheza{sup:4}) |  |  |  |  |  |  |  |  |  |  |
+@t omnium{sup:2}) |  | omnium{sup:2}) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 5 | 1 | 6 | 29 | 5 | 19 | 22 | 6 | 21 | 2 | 28 | 4 | 7 | 1 | 1 | 4 | 1 | 12 | 43
+@t 5 | 2 | 6 | 28 | 5 | 19 | 27 | 6 | 10 | 2 | 23 | 4 | 7 | 1 | 1 | 4 | 1 | 10 | 25
+@t 5 | 3 | 6 | 27 | 5 | 19 | 32 | 6 | 0 | 2 | 18 | 4 | 7 | 2 | 1 | 3 | 1 | 8 | 6
+@t 5 | 4 | 6 | 26 | 5 | 19 | 38 | 5 | 49 | 2 | 13 | 4 | 7 | 2 | 1 | 3 | 1 | 5 | 45
+@t 5 | 5 | 6 | 25 | 5 | 19 | 44 | 5 | 37{sup:b}) | 2 | 8 | 4 | 7 | 3 | 1 | 3 | 1 | 3 | 24
+@t 5 | 6 | 6 | 24 | 5 | 19 | 49 | 5 | 26 | 2 | 3 | 4 | 7 | 4 | 1 | 3 | 1 | 1 | 1
+@t 5 | 7 | 6 | 23 | 5 | 19 | 55 | 5 | 14 | 1 | 58 | 4 | 7 | 5 | 1 | 2 | 0 | 58 | 37
+@t 5 | 8 | 6 | 22 | 5 | 20 | 1 | 5 | 3 | 1 | 53 | 4 | 7 | 5 | 1 | 2 | 0 | 56 | 11
+@t 5 | 9 | 6 | 21 | 5 | 20 | 7 | 4 | 50 | 1 | 48 | 4 | 7 | 6 | 1 | 2 | 0 | 53 | 45
+@t 5 | 10 | 6 | 20 | 5 | 20 | 13 | 4 | 38 | 1 | 43 | 4 | 7 | 6 | 1 | 2 | 0 | 51 | 18
+@t 5 | 11 | 6 | 19 | 5 | 20 | 19 | 4 | 26 | 1 | 38 | 4 | 7 | 7 | 1 | 1 | 0 | 48 | 7
+@t 5 | 12 | 6 | 18 | 5 | 20 | 26 | 4 | 14 | 1 | 33 | 4 | 7 | 7 | 1 | 1 | 0 | 46 | 21
+@t 5 | 13 | 6 | 17 | 5 | 20 | 32 | 4 | 0 | 1 | 28 | 4 | 7 | 8 | 1 | 1 | 0 | 43 | 49
+@t 5 | 14 | 6 | 16 | 5 | 20 | 38 | 3 | 48 | 1 | 23 | 4 | 7 | 8 | 1 | 1 | 0 | 41 | 17
+@t 5 | 15 | 6 | 15 | 5 | 20 | 45 | 3 | 35 | 1 | 18 | 4 | 7 | 9 | 1 | 0 | 0 | 38 | 45
+@t 5 | 16 | 6 | 14 | 5 | 20 | 52 | 3 | 22{sup:c}) | 1 | 13 | 4 | 7 | 9 | 1 | 0 | 0 | 36 | 11
+@t 5 | 17 | 6 | 13 | 5 | 20 | 58 | 3 | 8 | 1 | 8 | 4 | 7 | 9 | 1 | 0 | 0 | 33 | 37
+@t 5 | 18 | 6 | 12 | 5 | 21 | 5 | 2 | 54 | 1 | 3 | 4 | 7 | 9 | 1 | 0 | 0 | 31 | 3
+@t 5 | 19 | 6 | 11 | 5 | 21 | 12 | 2 | 40 | 0 | 57 | 4 | 7 | 10 | 0 | 59 | 0 | 28 | 28
+@t 5 | 20 | 6 | 10 | 5 | 21 | 19 | 2 | 26 | 0 | 52 | 4 | 7 | 10 | 0 | 59 | 0 | 26 | 33
+@t 5 | 21 | 6 | 9 | 5 | 21 | 26 | 2 | 12 | 0 | 47 | 4 | 7 | 10 | 0 | 59 | 0 | 23 | 17
+@t 5 | 22 | 6 | 8 | 5 | 21 | 33 | 1 | 58 | 0 | 41 | 4 | 7 | 10 | 0 | 59 | 0 | 20 | 41
+@t 5 | 23 | 6 | 7 | 5 | 21 | 41 | 1 | 43 | 0 | 36 | 4 | 7 | 10 | 0 | 58 | 0 | 18 | 4
+@t 5 | 24 | 6 | 6 | 5 | 21 | 48 | 1 | 29 | 0 | 31 | 4 | 7 | 11 | 0 | 58 | 0 | 15 | 28{sup:g})
+@t 5 | 25 | 6 | 5 | 5 | 21 | 55 | 1 | 14 | 0 | 25 | 4 | 7 | 11 | 0 | 58 | 0 | 12{sup:e}) | 51
+@t 5 | 26 | 6 | 4 | 5 | 22 | 2 | 0 | 0 | 0 | 20 | 4 | 7 | 11 | 0 | 58 | 0 | 10{sup:f}) | 14
+@t 5 | 27 | 6 | 3 | 5 | 22 | 10 | 0 | 45 | 0 | 15{sup:d}) | 4 | 7 | 11 | 0 | 57 | 0 | 7 | 39
+@t 5 | 28 | 6 | 2 | 5 | 22 | 17 | 0 | 30 | 0 | 10 | 4 | 7 | 11 | 0 | 57 | 0 | 5 | 5
+@t 5 | 29 | 6 | 1 | 5 | 22 | 25 | 0 | 15 | 0 | 5 | 4 | 7 | 11 | 0 | 57 | 0 | 2 | 31
+@t 6{sup:a}) | 0 | 6 | 0 | 5 | 22 | 32 | 0 | 0 | 0 | 0 | 4 | 7 | 11 | 0 | 57 | 0 | 0 | 0
+@n {sup:1}) 2 S . . . . M] N, 2. 12. 1 C, {i:om.} O — {sup:2}) Augmentum (Diminutio) . . . . omnium] ON, {i:om.} C — {sup:3}) Subli-
+@n matio . . . . examinata] O, Sublimatio definita C — {sup:4}) ipsius elheza] O, argumenti C — {sup:5}) descendentis] O,
+@n {i:om.} C.
+@n {sup:a}) 6] N, 5 CO — {sup:b}) 37] C, 27 O — {sup:c}) 22] C, 21 O — {sup:d}) 15] ON, 12 C — {sup:e}) 12] 13 CO — {sup:f}) 10] O,
+@n 15 C — {sup:g}) 28] O, 48 C.
+@obs The page number «149» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 38», in bold sans serif, underlined. The page has no signature. The titles (L01-L03), in bold, the sigla in roman; L03 in smaller bold type, «2 S. 22 G. 1 M.», with note 1, as on pp. 147-148 (JP2 0179-0180). The folios of the manuscripts stand at the right of the last title in two lines, «C 61v, O 119r,» and «N 14r.», the letters raised; here as right margin notes.
+@obs The table: rules and heads as on p. 148 (JP2 0180), with «Pagina numerorum (O) Semita numeri (C)», the subheads «Augmentum proprietatum omnium2)» and «Diminutio proprietatum omnium2)», «Sublimatio ascensus Jovis examinata3)», «Examinatio ipsius elheza4)», «Examinatio centri», «Statio prima Jovis» and «Latitudo Jovis descendentis5)» over «prima» and «secunda». The r of «prima» in L04 is covered by a pale blemish of the paper. Here each head is set from the top, one printed line to a line (L04-L08), the cells separated by our «|»; a head followed by empty cells spans their columns. L09, the units, in bold; the points after «Min» of the Sublimatio and of the Statio prima are printed small, as on p. 148.
+@obs L10-L39. Checked as on p. 144 (JP2 0176): the Sublimatio is 5s 22° 32′ less half the Examinatio argumenti in every row, a half minute counted as a whole, except at 162°, 166° and 176°. At 162° (L21), 5s 20° 26′ answers to an Examinatio argumenti of 4° 12′ or 4° 13′, where the table has 4° 14′. At 166° (L25), 5s 20° 52′ answers to 3° 20′ or 3° 21′: O's 21 agrees with it (note c), the edition prints C's 22. At 176° (L35) the Examinatio argumenti is printed 0° 0′, where 5s 22° 2′ requires 1° 0′ and the column falls by 14′ or 15′ a degree, 1° 14′ at 175° and 0° 45′ at 177°: see the critical note.
+@obs L10-L39, the Examinatio argumenti. The radius that reproduces each value of Tab. 33-38 as the equation of an epicycle, r = 60 tan e : (sin x − tan e cos x) for the equation e at the argument x, is between 11.25 and 11.41 from 10° to 140°, and rises steadily from 11.4 at 145° to 11.9 at 175° and 12.0 at 177°-179°; the steps of 15′ a degree from 177° to 180° answer to r : (60 − r) = 1 : 4, r = 12. Against the epicycle of radius 11.3 (pp. 144-148) the table is therefore larger here, by 6.7′ to 10.7′ from 151° to 172° (9.5′ at 160°, 4° 38′ for 4° 28.5′), 1.1′ at 179°. For Saturn the corresponding radius is 5.93 to 6.05 at every argument (pp. 138-143, JP2 0170-0175).
+@obs L10-L39, the Latitudo secunda. It is 2° 30′ · sin x to within 0.5″ from 151° to 160° and at 162°. At 161° (L20), 0° 48′ 7″ is 43″ less than 0° 48′ 50.1″, the 0° 48′ 50″ of p. 144 (JP2 0176) at 19°. From 163° to 179° the values are smaller than the computation by 2.3″ at 163°, growing to 13.8″ at 176° (0° 10′ 14″ for 0° 10′ 27.8″) and 6.1″ at 179° (0° 2′ 31″ for 0° 2′ 37.1″), where p. 144 has the computed values at 1°-17°; the column itself is smooth, with steps of 2′ 32″ to 2′ 37″, except at 170° (L29): its 0° 26′ 33″ is 40″ more than the 0° 25′ 53″ that its neighbours give and 30″ more than 0° 26′ 2.8″ computed. No note of the apparatus bears on L20 or L29.
+@obs L10-L39, the other columns: the Examinatio centri for 180° − y is that of y on p. 144 (JP2 0176) except at 162°, 164°, 165°, 172°, 175° and 176°, where it is 1′ smaller; it decreases by 5′ a degree (6′ three times) from 2° 28′ to 0 at 180°. The Statio prima increases from 4s 7° 1′ to 4s 7° 11′, by 0′ or 1′ a degree, and is 4s 7° 11′ from 174° to 180°. The Latitudo prima is 1° 4′ at 151° and 152° and decreases by 1′ every fourth degree to 0° 57′ from 177° to 180°.
+@obs Notes on the readings. Note a: the last argument, 6s 0°, is N's; C and O have 5. Checked: the Examinatio argumenti 5° 37′ at 155° (note b, C, against O's 27) agrees with the Sublimatio, 5s 19° 44′; the Examinatio centri 0° 15′ at 177° (note d), the value of p. 144 at 3°; the Latitudo secunda 0° 12′ 51″ at 175° (note e), the edition's 12 against the 13 of C and O, fits the steps of the column, 13″ less than the computation, where 0° 13′ 51″ would be 47″ more; 0° 10′ 14″ and 0° 15′ 28″ (notes f and g, O) fit them too.
+@obs N02: the l of «elheza» has a speck at its right side, at mid-height; N04: a speck at mid-height before «22]»; neither is transcribed. Italics: «om.». N01-N02: the ellipses «. . . .» of the lemmata as printed. N01, «2 S . . . . M]»: see the critical note.
+@critical AK07-CN129 | missing point | N01 | 2 S . . . . M] | 2 S . . . . M.] | the title reads «2 S. 22 G. 1 M.», and the lemma of p. 147 (JP2 0179) «Locus . . . . M.]»; p. 148 (JP2 0180) has «M]» too | medium | none
+@critical AK07-CN130 | probable misprint | L35 | 0 | 1 | the degrees of the Examinatio argumenti at 176°: the Sublimatio of the row, 5s 22° 2′, is 5s 22° 32′ less half of 1° 0′, and the column falls by 14′ or 15′ a degree, from 1° 14′ at 175° to 0° 45′ at 177°; an equation of 0° 0′ belongs only to 180°; no note of the apparatus reports it | medium | none

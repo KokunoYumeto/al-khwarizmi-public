@@ -1,0 +1,289 @@
+{
+ "anchor": "AK05-F140",
+ "frame": 140,
+ "frame_file": "page_140.jpg",
+ "frame_sha256": "027a5c0e00768c88b21fd934471a74f2e20f7ba44ab7f38a0bc2d712147aaded",
+ "printed_page": "١٣٤",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 140, printed p. 134: the rivers that go out of the Ganges, جنجس, to the sea, and the springs and rivers that fall into it: two rivers from the place of p. 133, a river out of the first, the second river out of the Ganges and the two rivers out of it, two springs and a spring from a mountain, and the rivers from the mountain سورون. The editor's running numbers (٢٠٢٦)-(٢٠٤٣) and the numbers of Suhrāb; the folio of the manuscript, «(fol. 40ᵇ)», within a line; numerals supplied by the editor between angle brackets. Two lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F140-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "الموضع نهران الأوّل منهما ينتهى الى موضع طوله {ov:قلز {z}} والعرض {ov:كا ل} (٢٠٢٦) [١٩٦٨]",
+   "margin": null,
+   "cells": null,
+   "plain": "الموضع نهران الأوّل منهما ينتهى الى موضع طوله قلز ō والعرض كا ل (٢٠٢٦) [١٩٦٨]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "ويصبّ فى البحر عند طول {ov:قله ك} والعرض {ov:يز مه} (٢٠٢٧) [١٩٦٩] * يخرج من هٰذا",
+   "margin": null,
+   "cells": null,
+   "plain": "ويصبّ فى البحر عند طول قله ك والعرض يز مه (٢٠٢٧) [١٩٦٩] * يخرج من هٰذا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "النهر نهر اوّله عند طول {ov:قلز {z}} والعرض {ov:ك⟨ا ك⟩}{n:a} (٢٠٢٨) [١٩٧٠] ومصبّه فى البحر",
+   "margin": null,
+   "cells": null,
+   "plain": "النهر نهر اوّله عند طول قلز ō والعرض ك⟨ا ك⟩ (٢٠٢٨) [١٩٧٠] ومصبّه فى البحر",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "عند طول {ov:قلز ل} والعرض {ov:ٮح ك} (٢٠٢٩) [١٩٧١] * والنهر الثانى يخرج من نهر",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول قلز ل والعرض ٮح ك (٢٠٢٩) [١٩٧١] * والنهر الثانى يخرج من نهر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "جنجس اوّله عند طول {ov:⟨قلط {z}⟩}{n:a} والعرض {ov:كٮ {z}} (٢٠٣٠) [١٩٧٢] ومصبّه",
+   "margin": "(fol. 40ᵇ)",
+   "cells": null,
+   "plain": "جنجس اوّله عند طول ⟨قلط ō⟩ والعرض كٮ ō (٢٠٣٠) [١٩٧٢] ومصبّه",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "فى البحر عند طول {ov:قما {z}} والعرض {ov:ٮر {z}}{n:b} (٢٠٣١) [١٩٧٣] * ويخرج من هٰذا",
+   "margin": null,
+   "cells": null,
+   "plain": "فى البحر عند طول قما ō والعرض ٮر ō (٢٠٣١) [١٩٧٣] * ويخرج من هٰذا",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "النهر نهران اوّل احدهما عند طول {ov:قلط ك} والعرض {ov:كا {z}} (٢٠٣٢) [١٩٧٤] ومصبّه",
+   "margin": null,
+   "cells": null,
+   "plain": "النهر نهران اوّل احدهما عند طول قلط ك والعرض كا ō (٢٠٣٢) [١٩٧٤] ومصبّه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "فى البحر عند طول {ov:قلح {z}} والعرض {ov:ٮح ى} (٢٠٣٣) [١٩٧٥] وأوّل الثانى عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "فى البحر عند طول قلح ō والعرض ٮح ى (٢٠٣٣) [١٩٧٥] وأوّل الثانى عند طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "{ov:قلط ل}{n:c} والعرض {ov:ك {z}} (٢٠٣٤) [١٩٧٦] ومصبّه فى البحر عند طول {ov:قلط {z}} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "قلط ل والعرض ك ō (٢٠٣٤) [١٩٧٦] ومصبّه فى البحر عند طول قلط ō والعرض",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "{ov:ٮح م} (٢٠٣٥) [١٩٧٧] * ويقع الى نهر جنجس عين اوّلها عند طول {ov:قلد {z}} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "ٮح م (٢٠٣٥) [١٩٧٧] * ويقع الى نهر جنجس عين اوّلها عند طول قلد ō والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "{ov:لز ى} (٢٠٣٦) [١٩٧٨] ومصبّها فى النهر{n:d} عند طولَ {ov:قله ل} والعرض {ov:لج ل}{n:e} (٢٠٣٧)",
+   "margin": null,
+   "cells": null,
+   "plain": "لز ى (٢٠٣٦) [١٩٧٨] ومصبّها فى النهر عند طولَ قله ل والعرض لج ل (٢٠٣٧)",
+   "note_marks": [
+    "d",
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "[١٩٧٩] * ويقع الى نهر جنجس ايضاً عين من جبل اوّلها عند طول {ov:قلز ى} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٩٧٩] * ويقع الى نهر جنجس ايضاً عين من جبل اوّلها عند طول قلز ى والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "{ov:لح ل} (٢٠٣٨) [١٩٨٠] ومصبّها فى النهر عند طول {ov:قله ل} والعرض {ov:لج ل} (٢٠٣٩)",
+   "margin": null,
+   "cells": null,
+   "plain": "لح ل (٢٠٣٨) [١٩٨٠] ومصبّها فى النهر عند طول قله ل والعرض لج ل (٢٠٣٩)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "[١٩٨١] * ويقع الى نهر جنجس ايضاً عين من جبل اوّلها عند طول {ov:ڡلح م} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٩٨١] * ويقع الى نهر جنجس ايضاً عين من جبل اوّلها عند طول ڡلح م والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "{ov:كه {z}} (٢٠٤٠) [١٩٨٢] ومصبّها فى النهر عند طول {ov:ڡلط ل} والعرض {ov:كح {z}} (٢٠٤١)",
+   "margin": null,
+   "cells": null,
+   "plain": "كه ō (٢٠٤٠) [١٩٨٢] ومصبّها فى النهر عند طول ڡلط ل والعرض كح ō (٢٠٤١)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "[١٩٨٣] * ويقع فى نهر جنجس ايضاً نهر من جبل سورون اوّله عند طول {ov:ڡمٮ ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٩٨٣] * ويقع فى نهر جنجس ايضاً نهر من جبل سورون اوّله عند طول ڡمٮ ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "والعرض {ov:لٮ ل} (٢٠٤٢) [١٩٨٤] ومصبّه فى النهر عند طول {ov:ڡلط ل} والعرض {ov:كح {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض لٮ ل (٢٠٤٢) [١٩٨٤] ومصبّه فى النهر عند طول ڡلط ل والعرض كح ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F140-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "(٢٠٤٣) [١٩٨٥] * ويقع فى نهر جنجس ايضاً نهر من جبل سورون اوّله عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٠٤٣) [١٩٨٥] * ويقع فى نهر جنجس ايضاً نهر من جبل سورون اوّله عند طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e"
+   ],
+   "lines": 2,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L03: the manuscript has a gap at the numerals between the brackets; the editor supplies them from S (note a).",
+  "L05: the manuscript has a gap at the numerals between the brackets; the editor supplies them from S (note a).",
+  "L06: a variant reading of the latitude is ٮد ō, a tooth without a dot joined to a د, with a line over the numerals (note b).",
+  "L09: a variant reading of the longitude is قلط ō, with a line over the numerals (note c).",
+  "L11: the manuscript reads البحر (note d).",
+  "L11: a variant reading of the latitude is لز ل, with the dot of the ز and a line over the numerals (note e)."
+ ],
+ "unresolved": [
+  "L06: the notched form may also be read as a single ر whose head is split, ر, 7. Transcribed ٮر.",
+  "L11: the stroke above the ل may be a speck or damage of the type: طول. Transcribed طولَ."
+ ],
+ "observations": [
+  "The Ganges goes on from p. 133 (frame 139), whose last words, «ويمرّ الى موضع طوله قلط {z} والعرض كٮ {z} (٢٠٢٥) [١٩٦٧] * يخرج من هٰذا», L01 continues: «الموضع نهران الأوّل منهما ينتهى الى موضع طوله قلز {z} والعرض كا ل (٢٠٢٦) ويصبّ فى البحر عند طول قله ك والعرض يز مه (٢٠٢٧) *», out of this place come two rivers; the first of them reaches a place whose longitude is 137° 0′ and the latitude 21° 30′, and flows into the sea at the longitude 135° 20′ and the latitude 17° 45′.",
+  "L02-L04: «يخرج من هٰذا النهر نهر اوّله عند طول قلز {z} والعرض ك⟨ا ك⟩ (٢٠٢٨) ومصبّه فى البحر عند طول قلز ل والعرض ٮح ك (٢٠٢٩) *», out of this river comes a river whose beginning is at the longitude 137° 0′ and the latitude 2⟨1° 20′⟩, and its mouth in the sea at the longitude 137° 30′ and the latitude ٮح ك.",
+  "L04-L06: «والنهر الثانى يخرج من نهر جنجس اوّله عند طول ⟨قلط {z}⟩ والعرض كٮ {z} (٢٠٣٠) ومصبّه فى البحر عند طول قما {z} والعرض ٮر {z} (٢٠٣١) *», and the second river comes out of the river جنجس; its beginning is at the longitude ⟨139° 0′⟩ and the latitude كٮ ō, and its mouth in the sea at the longitude 141° 0′ and the latitude ٮر ō.",
+  "L06-L10: «ويخرج من هٰذا النهر نهران اوّل احدهما عند طول قلط ك والعرض كا {z} (٢٠٣٢) ومصبّه فى البحر عند طول قلح {z} والعرض ٮح ى (٢٠٣٣)», and out of this river come two rivers; the beginning of one of them is at the longitude 139° 20′ and the latitude 21° 0′, and its mouth in the sea at the longitude 138° 0′ and the latitude ٮح ى; «وأوّل الثانى عند طول قلط ل والعرض ك {z} (٢٠٣٤) ومصبّه فى البحر عند طول قلط {z} والعرض ٮح م (٢٠٣٥) *», and the beginning of the second is at the longitude 139° 30′ and the latitude 20° 0′, and its mouth in the sea at the longitude 139° 0′ and the latitude ٮح م.",
+  "L10-L11: «ويقع الى نهر جنجس عين اوّلها عند طول قلد {z} والعرض لز ى (٢٠٣٦) ومصبّها فى النهر عند طولَ قله ل والعرض لج ل (٢٠٣٧) *», and into the river جنجس falls a spring whose beginning is at the longitude 134° 0′ and the latitude 37° 10′, and its mouth in the river at the longitude 135° 30′ and the latitude 33° 30′.",
+  "L12-L14: «ويقع الى نهر جنجس ايضاً عين من جبل اوّلها عند طول قلز ى والعرض لح ل (٢٠٣٨) ومصبّها فى النهر عند طول قله ل والعرض لج ل (٢٠٣٩) *», and into the river جنجس falls also a spring from a mountain, whose beginning is at the longitude 137° 10′ and the latitude 38° 30′, and its mouth in the river at the longitude 135° 30′ and the latitude 33° 30′; «ويقع الى نهر جنجس ايضاً عين من جبل اوّلها عند طول ڡلح م والعرض كه {z} (٢٠٤٠) ومصبّها فى النهر عند طول ڡلط ل والعرض كح {z} (٢٠٤١) *», and into the river جنجس falls also a spring from a mountain, whose beginning is at the longitude ڡلح م and the latitude 25° 0′, and its mouth in the river at the longitude ڡلط ل and the latitude 28° 0′.",
+  "L16-L18: «ويقع فى نهر جنجس ايضاً نهر من جبل سورون اوّله عند طول ڡمٮ ل والعرض لٮ ل (٢٠٤٢) ومصبّه فى النهر عند طول ڡلط ل والعرض كح {z} (٢٠٤٣) *», and into the river جنجس falls also a river from the mountain سورون, whose beginning is at the longitude ڡمٮ ل and the latitude لٮ ل, and its mouth in the river at the longitude ڡلط ل and the latitude 28° 0′; «ويقع فى نهر جنجس ايضاً نهر من جبل سورون اوّله عند طول», and into the river جنجس falls also a river from the mountain سورون, whose beginning is at the longitude, continued on p. 135. The name of the mountain is printed both times with the three teeth of the س joined to a و, then a ر, whose head is a thin point, a و with a round head, and the ن with its dot.",
+  "Numerals: «قلز {z}» (L01, L03), with the two dots of the ق and the dot of the ز, 137° 0′; «كا ل» (L01), 21° 30′; «قله ك» (L02), 135° 20′; «يز مه» (L02), with the two dots of the ي run together below the tooth and the dot of the ز, 17° 45′, the minutes printed close to the degrees under one line; «قلز ل» (L04), 137° 30′; «قما {z}» (L06), 141° 0′; «قلط ك» (L07), 139° 20′; «كا {z}» (L07), 21° 0′; «قلح {z}» (L08), 138° 0′; «قلط ل» (L09), 139° 30′; «ك {z}» (L09), 20° 0′; «قلط {z}» (L09), 139° 0′; «قلد {z}» (L10), 134° 0′; «لز ى» (L11), with the dot of the ز, 37° 10′; «قله ل» (L11, L13), 135° 30′; «لج ل» (L11, L13), with the dot of the ج in the bowl, 33° 30′; «قلز ى» (L12), 137° 10′; «لح ل» (L13), 38° 30′; «كه {z}» (L15), 25° 0′; «كح {z}» (L15, L17), 28° 0′.",
+  "Without their dots, transcribed so: the loop of ف or ق without dots in «ڡلح» (L14), «ڡلط» (L15, L17) and «ڡمٮ» (L16); before the ل or the م of the tens it can only be the ق, 100: 138° 40′, 139° 30′ and 142° 30′. In «ڡمٮ» the letter after the loop is a small knot on the joining stroke, 10 by 13 px, that stands out 5 px above and 3 px below it: the medial م; the numeral ends in the flat final bowl of a ب without its dot, قمب, 142. «ٮح» (L04, L08, L10), a tooth without a dot joined to a ح, read as يح 18, as نح 58: 18° 20′, 18° 10′, 18° 40′ beside the latitude 17° 45′ of the mouth of point 2027. «كٮ {z}» (L05), the ك joined to a final ب without its dot, 22° 0′; «لٮ ل» (L17), 32° 30′.",
+  "L06: «ٮر {z}»: the notched form of frame 135 (L07), a short tooth without a dot joined to a ر, the two forming a notch at the top, 35 by 34 px; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII): read as يز, 17° 0′, as نز 57.",
+  "L03: «ك⟨ا ك⟩»: the ك of the degrees stands before the opening angle bracket; the editor supplies the units of the degrees and the minutes, «ا ك», between the brackets, all under one line over the numerals; the note mark a follows the closing bracket. L05: «⟨قلط {z}⟩»: the whole longitude between angle brackets under the line, followed by the note mark a.",
+  "L11: «طولَ»: a short stroke of 10 by 4 px stands above the top of the ل of «طول», at its left, in the place of a fatha; the ل of «طول» on L13 and L15 has none. Transcribed as a fatha.",
+  "L05: the folio of the Strasbourg manuscript, «(fol. 40ᵇ)», is printed in Latin type within the line, between the note mark a and «والعرض»; transcribed as a margin note before the line.",
+  "Signs in the text, transcribed as printed: «الأوّل» (L01) with a hamza over the alif and a shadda over the و; «اوّله» (L03, L05, L16, L18), «اوّل» (L07) and «اوّلها» (L10, L12, L14) with a shadda over the و, and «وأوّل» (L08) with a hamza over the alif and a shadda over the و; «ويصبّ» (L02), «ومصبّه» (L03, L05, L07, L09, L17) and «ومصبّها» (L11, L13, L15) with a shadda over the ب; «هٰذا» (L02, L06) with a small alif over the ه; «ايضاً» (L12, L14, L16, L18) with the tanwin of the accusative over its alif; «ينتهى» (L01), «الثانى» (L04, L08), «فى» and «الى» end in a ى without dots.",
+  "The running numbers run (٢٠٢٦)-(٢٠٤٣) without a gap, and the numbers of Suhrāb [١٩٦٨]-[١٩٨٥], one after each. [١٩٧٩], [١٩٨١] and [١٩٨٣] stand at the beginning of L12, L14 and L16, after the running numbers at the end of the lines before; (٢٠٤٣) and [١٩٨٥] stand at the beginning of L18.",
+  "Asterisks: the small open stars with six points, after [١٩٦٩] (L02), [١٩٧١] (L04), [١٩٧٣] (L06), [١٩٧٧] (L10), [١٩٧٩] (L12), [١٩٨١] (L14), [١٩٨٣] (L16) and [١٩٨٥] (L18), are transcribed as asterisks.",
+  "Note marks: L03, a after the bracket within the latitude; L05, a after the bracketed longitude; L06, b after the latitude; L09, c after the longitude; L11, d after «النهر» and e after the latitude.",
+  "Marks not transcribed: a round speck of 17 by 15 px below the ٩ of [١٩٧١] (L04), and small specks of the impression around the numerals.",
+  "The editor's footnotes stand in two lines below a short rule at the left: notes a-e; note a serves both brackets. The page number «— ١٣٤ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

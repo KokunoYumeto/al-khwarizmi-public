@@ -1,0 +1,36 @@
+@page 13 ٧
+% Frame 013, printed p. 7: the cities of the first clime continued, entries 53-68: places of Sarandīb and of India,
+% the island of al-Mīdh's neighbours, Sūsa of China, and ʿAlṣī on the island of al-Jawhar. Four lines of the editor's
+% footnotes.
+@r (٥٣) | [٣١] | ڡل⟨م⟩ادى{n:a} من سرنديب | ڡك | م | ٮا | مه
+@r (٥٤) | [٣٢ ٥٧] | ٮسر{n:b} على البحر | ڡكا | ٮه | ٮو | {z}
+@r (٥٥) | [٣٣] | ماحوٮوں{n:c} من سرنديب | ڡكا | ٮه | ٮو | {z}
+@r (٥٦) | | ماحوٮوں من سرنديب | ڡكا | نه | ز | {z}
+@r (٥٧) | [٣٤] | حاٮرى{n:d} من الهند | ڡكه | {z} | يو | ٮه
+@r (٥٨) | | ماعرا من سرنديب | قكا | ٮه | ير | مه
+@r (٥٩) | [٣٥] | ڡرسقورى{n:e} من سرنديب على البحر | ڡكه | ٮه | ه | يه
+@r (٦٠) | [٣٦] | قنيدورا من الهند | ڡكح | مه | ٮح | {z}
+@r (٦١) | [٣٧] | ٮاٮٮوقا من الهند | قل | {z} | ٮٮ | {z}
+@r (٦٢) | [٣٨] | طرٮعلوفن | ڡمد | ٮه | ٮو | يه
+@r (٦٣) | [٣٩] | مدينة مرواسا | ڡمو | ل | يب | ٮه
+@r (٦٤) | [٤٠] | ساسا فى جزيرة على البحر | ڡمو | {z} | ج | ٮه
+@r (٦٥) | [٤١] | سمردى{n:f} على البحر | ڡمح | ٮه | ا | ل
+@r (٦٦) | [٤٢] | قرداثر{n:g} على البحر | قنٮ | م | يٮ | م
+@r (٦٧) | [٤٣] | سوسه من بلاد الصين | ڡسح | مه | ب | مه
+@r (٦٨) | [٤٤] | علصى من جزيرة الجوهر | ڡعه | {z} | {z} | ك
+@ednotes a b c d e f g 4
+@obs The table goes on from frame 012 without a heading: the cities of the first clime, entries 53-68. Entries 56 and 58 have no numbers of Suhrāb; at entry 54 the square brackets hold two numbers, «٣٢» above «٥٧», transcribed «[٣٢ ٥٧]».
+@obs L01: «ڡل⟨م⟩ادى», as printed: the letter between the angle brackets is a medial م with its joining stroke, which the editor supplies where the manuscript has a gap (note a); the first letter, the loop of ف or ق, is printed without dots.
+@obs Letters printed without their dots, transcribed so: in the names ڡرسقورى (L07; a loop raised above the line and joined by a stroke on the line to the ر, the loop of ف or ق; an isolated و stands on the line and goes straight into its tail), ڡل⟨م⟩ادى (L01), ٮسر (L02; an initial tooth before the س), ماحوٮوں (L03, L04; the tooth before the second و, and the final ں, a bowl without its dot), حاٮرى (L05, the tooth before the ر), ٮاٮٮوقا (L09; three teeth: one before the first alif and two before the و) and طرٮعلوفن (L10, the tooth before the ع); in the numerals the loop of ف or ق without dots, ڡك (L01), ڡكا (L02-L04), ڡكه (L05, L07), ڡكح (L08), ڡمد (L10), ڡمو (L11, L12), ڡمح (L13), ڡسح (L15) and ڡعه (L16), and the tooth or the final ب without its dot, ٮا (L01), ٮو (L02, L03, L10), ٮح (L08), ٮه (L02, L03, L06, L07, L10, L13, the minutes of the longitude; L05, L11, L12, the minutes of the latitude; a tooth joined to a final ه, the form that L04 prints with the dot of the ن, نه), ٮٮ (L09; a tooth joined to a final ب, with two risers at the right end of the bowl, as يٮ in L14) and the final letters of يٮ and قنٮ (L14). With their dots: قكا (L06) and قل (L09), the ق with its two dots; قنٮ (L14), the ق with two dots and the ن with one; ز (L04), يو (L05), ير (L06), يه (L07, L10), يب (L11), ج (L12) and ب (L15). The isolated ه, 5 (L07, the degrees of the latitude), is a small round ring.
+@obs L01: a small dark speck, 5 px wide and 4 px high, stands below and 8 px to the left of the tooth of the latitude ٮا, where the dots of the font are 8 to 10 px across and stand under the tooth; it is not transcribed as a dot.
+@obs L15: the dot of the latitude ب is printed faintly, in grey, below the middle of the letter; transcribed ب.
+@obs L14: the three dots of the ث of قرداثر are printed as one mark; the final letter of the longitude قنٮ is a flat bowl without a dot below.
+@obs L16: the latitude of entry 68 is printed with the zero sign in the degrees and ك in the minutes, 0° 20'.
+@obs The page number «— ٧ —» stands at the foot, centred.
+@variant L01: the letter م fills a gap of the manuscript; at entry (1707) the name is written قلمادى, with the variant reading قلادى; the editor's corrigenda (p. 163, frame 169) add that at entry (1503) it is written ڡلمادى, with the variant reading ڡاڡادى.
+@variant L02: at entry (1183) the name ٮسر is written نبيرا.
+@variant L03: entry 55 is the same as entry 56; at entry (1705) the name is written ماحرولون.
+@variant L05: at entry (1769) the name حاٮرى is written حاٮرن.
+@variant L07: at entry (1500) the name ڡرسقورى is written ڡرسعورى.
+@variant L13: at entry (1164) the name سمردى is written سمردن.
+@variant L14: at entries (1161) and (1847) the name قرداثر is written فرداثرا; the third digit of 1161 is printed broken.

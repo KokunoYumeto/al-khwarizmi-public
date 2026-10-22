@@ -1,0 +1,21 @@
+{
+ "anchor": "AK05-F217",
+ "frame": 217,
+ "frame_file": "page_217.jpg",
+ "frame_sha256": "dabe923a26d5ee4d1372bac997436213653b55e33719a8a62a644c982fa3878f",
+ "printed_page": "-",
+ "kind": "provenance",
+ "role": "COPY_PROVENANCE",
+ "comment": "Frame 217: the last endpaper, with the library's barcode label.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [],
+ "copy_matter": [
+  "The barcode label «COLUMBIA UNIVERSITY LIBRARIES», number «0050628623», at the top of the endpaper, with pencil strokes scribbled across it; not part of the edition."
+ ],
+ "critical_notes": []
+}

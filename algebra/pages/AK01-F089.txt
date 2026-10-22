@@ -1,0 +1,40 @@
+@page 89 ٧٣
+% Frame 089, printed p. 73: the number from which the shares of frame 088 are made whole, two hundred and nineteen
+% thousand three hundred and twenty. Then «وفى وجه آخر من الوصايا» in bold, another kind of bequest: a man leaves four
+% sons and a wife and bequeaths the share of a son less the share of the wife: thirty-two, the wife four, each son
+% seven; the bequest three, thirty-five in all. Under «فان ترك» in bold: two sons and a daughter, the bequest the share
+% of a third son if there were one: thirty-five and ten, forty-five. Under «فان ترك» again: a mother, three sons and a
+% daughter, the bequest the share of a son less the share of another daughter if there were one: three hundred and
+% thirty-six, a daughter thirty-five, a son eighty, the bequest forty-five, three hundred and eighty-one in all. A
+% fourth problem begun, continued on the next page. Below the rule one footnote of the editors.
+وتسعة عشر الفاً وثلاثمائة وعشرين . {b:وفى وجه آخر من الوصايا} رجل مات وترك
+أربعة بنين وامرأة وأوصى لرجل بمثل نصيب أحد البنين الا مثل نصيب المرأة
+فأقم سهام الفريضة وهى اثنان وثلاثون سهما للمرأة الثمن أربعة ولكل ابن
+سبعةفأنت تعلم أن الذى أوصى به ثلاثة أسباع نصيب ابن وهو ثلاثة وهى الوصية
+فيكون ذلك خمسةوثلاثين للموصى له ثلاثة أسهم من خمسةوثلاثين سهماًويبقى
+اثنان وثلاثون بين الورثة على سهامهم . فان ترك ابنين وبنتاً وأوصى لرجل بمثل
+نصيب ابن ثالث لو كان . فالوجه فى ذلك أن تنظر الى ابن لو كان البنون ثلاثة
+كم كانت تكون سهامهم فتجد ذلك سبعة فخذ فريضة يكون لخمسها سبع ولسبعها
+خمس وذلك خمسة وثلاثون فزد عليها سبعيها وهو عشرة فيكون ذلك خمسة
+وأربعين للموصى له من ذلك عشرة ولكل ابن أربعة عشر وللبنت سبعة. {b:فان ترك}
+أما وثلاثة بنين وبنتا وأوصى لرجل بمثل نصيب أحد بنيه الا مثل نصيب بنت
+أخرى لو كانت {n:١} فأقم سهام الفريضة واجعلها شيئاً ينقسم بين هؤلاء الورثة
+وبينهم لوكانت معهم ابنة أخرى فتجدها ثلثمائةوستةوثلاثين . فنصيب ابنة لوكانت
+خمسة وثلاثون ونصيب ابن ثمانون سهما وبينهماخمسة وأربعون وهى الوصية
+فزدها على ثلاثمائة وستة وثلاثين فيكون ذلك ثلاثمائة واحدا وثمانين فذلك
+سهام المال . {b:فان ترك} ثلاثة بنين وأوصى لرجل بمثل نصيب أحد بنيه الا مثل
+@ednotes ١ 5
+@obs L01, L10 and L16: the words وفى وجه آخر من الوصايا (L01), the heading of another kind of bequest, and فان ترك (L10, L16), the run-in headings of the next two problems, are printed in a bold face; the words that follow are in the face of the text. The bold ن is printed without its dot, as on frames 055-088; transcribed ن.
+@obs Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): سبعةفأنت (L04; 8 between the ة and the ف); خمسةوثلاثين (L05, twice; 6 and 7 between the ة and the conjunction و); سهماًويبقى (L05; 13 between the alif and the و, as the alif stands from the و inside وأوصى in L02 and L06, 13, where a word space after an alif before the conjunction و is 29 to 34 px on this page); ثلثمائةوستةوثلاثين (L13; 8 and 9 between the ة and the و); وبينهماخمسة (L14; 12 between the alif and the خ, where the alif stands 16 px from the خ inside أخرى in L12).
+@obs لوكانت (L13, twice) is set without a word space: the و stands 25 px from the ك, and its tail reaches under the ك and ends 16 and 19 px from it. Set with a space, the same words in L07 (twice) and L12 have 40, 42 and 44 px between the و and the ك, and the tail of the و ends 28 to 33 px from the ك: لو كان (L07) and لو كانت (L12).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: الوصايا رجل (L01; 16 between the bold alif and the ر, where the alif of the text face stands 14 px from the ر inside أربعة in L02 and وأربعين in L10; in doubt, the space is written).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: مات وترك (L01), الذى أوصى, ابن وهو, وهى الوصية (L04), ذلك خمسةوثلاثين, أسهم من (L05), ابنين وبنتاً (L06), ذلك عشرة, ابن أربعة, وللبنت سبعة (L10), معهم ابنة, أخرى فتجدها, فنصيب ابنة (L13), ونصيب ابن, ثمانون سهما (L14).
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after وعشرين, before the bold وفى (L01; 26 and 31), after سهامهم, before فان (L06; 31 and 27), after كان, before فالوجه (L07; 27 and 27), after وثلاثين, before فنصيب (L13; 22 and 21), after المال, before the bold فان (L16; 28 and 27). In L10 the full stop stands close after سبعة, 10 px from the ة, and 18 px before the bold فان; it is transcribed close after the word, with a space before the heading. The note mark (١) stands in a space of 115 px between كانت and فأقم (L12; 36 px after the word and 30 before the next), without a full stop.
+@obs ثلثمائةوستةوثلاثين (L13): the hundreds are printed ثلثمائة, without the alif of ثلاث, where the same number is printed وثلاثمائة (L01) and ثلاثمائة (L15); transcribed as printed.
+@obs L06: beside the first alif of اثنان (L06) the impression shows a faint vertical streak of ink; there is no hamza above the alif, where the print sets it as in أربعة (L02), and the word is transcribed اثنان, as in L03.
+@obs Plain alif where a hamza might be expected, as printed: الفاً (L01), الا (L02), اثنان, ابن (L03), ابن (L04), اثنان, ابنين (L06), ابن, الى (L07, the first ابن and the second), ابن (L10), الا (L11), ابنة (L13, twice), ابن (L14), الا (L16); with hamza: أربعة, وامرأة, the second alif, وأوصى, أحد, المرأة (L02), فأقم, للمرأة, أربعة (L03), فأنت, أن, أوصى, أسباع (L04), أسهم (L05), وأوصى (L06), أن (L07), وأربعين, أربعة (L10), أما, وأوصى, أحد (L11), أخرى, فأقم (L12), أخرى (L13), وأربعون (L14), وأوصى, أحد (L16); with madda: the bold آخر (L01); on و: هؤلاء (L12); on ي: وثلاثمائة (L01), شيئاً (L12), ثلاثمائة (L15, twice); the hamza on the line: هؤلاء (L12).
+@obs With tanwīn on the final alif: الفاً (L01), سهماًويبقى (L05), وبنتاً (L06), شيئاً (L12); without tanwīn as printed: سهما (L03), وبنتا, أما (L11), سهما (L14), واحدا (L15).
+@obs The final yā' is printed without dots: the bold وفى (L01), وأوصى (L02), وهى (L03), الذى, أوصى, وهى (L04), للموصى, سهماًويبقى (L05), على, وأوصى (L06), فى, الى (L07), للموصى (L10), وأوصى (L11), أخرى (L12), أخرى (L13), وهى (L14), على (L15), وأوصى (L16).
+@obs The print stretches ولكل (L03, L10, between the ل and the ك) and فيكون (L15, between the ي and the ك) with the elongation stroke; the stroke is not transcribed.
+@obs Note (١) of the editors works out the third problem: the mother a sixth; in the first case each son 5/6 × 2/7 = 10/42 and the daughter 5/42, in the second, with another daughter, each son 10/48 and each daughter 5/48; the least number divisible by 42 and 48 is 336; the share of a daughter, if there were one, 35, the share of a son 80, the difference 45; the estate 336 + 45 = 381, 45 of them to the bequest. The values check exactly. The note is not reproduced.
+@critical AK01-CN026 | wrong number | L01 | مائتى ألف وتسعة عشر الفاً وثلاثمائة وعشرين | a multiple of 4680, the least number from which every share comes out whole | The number with which the problem of frames 086-088 ends, begun on frame 088, L09, is 219,320. It is not divisible by 3, nor by 13: the husband's quarter, 54,830, has no whole third, and the third, which the two legatees share eight to five, cannot be divided by thirteen. From 4680 every amount is whole: the husband 1170, of which he pays 390 (240 and 150); the mother 780, of which she pays 260 (160 and 100) and 95 of her own to the holder of the quarter; the son 2730, of which he pays 910 (560 and 350) and 532 of his own to the holder of the two fifths; the holder of the quarter 695, the holder of the two fifths 1492 (checked exactly). The editors' note on frame 088 works in parts of 9360, twice 4680, and does not comment on the number. | high: exact arithmetic that the shares do not come out whole from 219,320; the number intended is not known | the final number of the problem; the proportions stated on frames 087 and 088 are correct

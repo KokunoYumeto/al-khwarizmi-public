@@ -1,0 +1,35 @@
+@page 56 ٤٠
+% Frame 056, printed p. 40: the third of the various problems solved (the two squares and the difference of the parts
+% give fifty-four: the part is four); then the fourth, «فان قال» in bold: ten divided into two parts, each divided by
+% the other, the two quotients together two and a sixth; continued on the next page. Below the rule two footnotes of
+% the editors.
+فيكون مالا ثم تجمع ذلك فيكون مائة ومالين الا عشرين شيئا وقال زدت عليهما
+فضل مابينهما قبل أن تضربهما فقلت فضل مابينهما عشرة الا شيئين فجميع ذلك
+مائةوعشرةومالان الااثنتين وعشرين شيئا يعدل أربعةوخمسين درهمافاذا جبرت
+وقابلت قلت مائةوعشرةدراهم ومالان تعدل أربعةوخمسين درهماواثنين وعشرين
+شيئا فاردد المالين الى مال واحد وهو أن تأخذ نصف ما معك فيكون خمسة
+وخمسين درهما ومالا تعدل سبعة وعشرين درهما وأحد عشر شيئا فالق سبعة
+وعشرين من خمسةوخمسين يبقى ثمانيةوعشرون درهما ومالا تعدل أحدعشرشيئا
+فنصف الأشياء فيكون خمسةونصف فاضربهافى مثلها فيكون ثلاثين وربعا فانقص
+منها الثمانيةوالعشرين التى مع المال فبقى اثنان وربع فخذ جذرها وهو واحد ونصف
+فانقصه من نصف الأجذار يبقى اربعة وهوأحد القسمين.{b:فان قال} عشرة قسمتها
+قسمين فقسمت هذا على هذا وهذا على هذا فبلغ {n:١} ذلك درهمين وسدساً .
+فقياس ذلك {n:٢} أنك اذا ضربت كل قسم فى نفسه ثم جمعتهما كان مثل أحد
+القسمين اذا ضربت احداهما فى الآخر ثم ضربت الذى اجتمع معك من الضرب
+فى الذى بلغ القسم وهو اثنان وسدس فاضرب عشرة الا شيئا فى مثلها يكن مائة
+ومالا الا عشرين شيئا واضرب شيئا فى شىء فيكون مالا فاجمع ذلك فيصير مائة
+@ednotes ١ ٢ 7
+@obs L10: the words فان قال are printed in a bold face, the run-in heading of the fourth of the various problems; عشرة, which follows, is in the face of the text. The bold ن is printed without its dot, as in وان قال (frame 055, L08 and L14); transcribed ن.
+@obs L10: the full stop stands close after القسمين (8 px, nearest approach of the ink at 400 ppi) and close before the bold فان (9 px), and is transcribed without a space on either side, as the print sets it. L11: the full stop at the end of the line stands 34 px after وسدساً.
+@obs The note marks (١) (L11) and (٢) (L12) stand between spaces: (١) 41 px after فبلغ and 33 before ذلك, (٢) 33 px after ذلك and 25 before أنك.
+@obs Set without a word space after ة, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): مائةوعشرةومالان (L03; 7 between the ة of مائة and the و, 8 between the ة of عشرة and the و), أربعةوخمسين (L03; 5, L04; 7), مائةوعشرةدراهم (L04; 5 between the ة and the و, 9 between the ة and the د), خمسةوخمسين (L07; 8), ثمانيةوعشرون (L07; 5), خمسةونصف (L08; 6), الثمانيةوالعشرين (L09; 5). With a word space the ة stands 21 px or more from the next word on this page (اربعة وهوأحد, L10, 21; سبعة وعشرين, L06, 23; عشرة الا, L14, 26, and L02, 29; عشرة قسمتها, L10, 40).
+@obs Set without a word space after alif and لا, and transcribed so: مابينهما (L02, twice; 16 and 13 between the alif and the ب, as the alif stands from the ب inside وقابلت, L04, 15), درهمافاذا (L03; 13 between the alif and the ف), درهماواثنين (L04; 10 between the alif and the conjunction و), فاضربهافى (L08; 13 between the alif and the ف), الااثنتين (L03; 9 between the لا and the alif, as inside الا). With a word space the alif stands 27 px or more from the next word on this page (شيئا وقال, L01, 27; درهما وأحد, L06, 28; ما معك, L05, 29; فاذا جبرت, L03, 29; شيئا فاردد, L05, 30).
+@obs Set without a word space in L07, which is set tight, and transcribed so: أحدعشرشيئا (L07; 8 between the د and the ع, where وأحد عشر, L06, stands 24 apart; and 19 between the tail of the ر and the ش, 29 on the ink above the baseline, where عشر شيئا, L06, stands 31 and 46 apart; inside a word on this page the tail of the ر stands 13 to 19 px from the next letter, جبرت, L03, and عشرة, L03, and the ر 27 to 28 px above the baseline, جبرت and درهما, L03). Also وهوأحد (L10; 27 between the و and the alif above the baseline, as the و stands from the alif inside واحد, L09, 28; with a space وهو واحد, L09, 40, and وهو أن, L05, 45), as on frame 055, L14.
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: درهما ومالا (L07; 24 between the alif and the conjunction و), منها الثمانيةوالعشرين (L09; 26 between the two alifs), مثلها فيكون (L08; 26 between the alif and the ف), جمعتهما كان (L12; 25 between the alif and the top stroke of the ك, 30 or more to its body), مثلها يكن (L14; 22 between the alif and the top stroke of the ك, 30 or more to the ي), هذا وهذا (L11; 27), شيئا واضرب (L15; 27), ومالا الا (L15; 27 between the لا and the alif); وهوأحد القسمين (L10; 17 between the د and the alif, where the د stands 8 from the ع in أحدعشرشيئا, L07).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: مالان الااثنتين (L03; 12 between the ن and the alif), خمسين درهمافاذا (L03; 7), خمسين درهماواثنين (L04; 8), وربع فخذ (L09; 14 between the ع and the ف), فاضربهافى مثلها (L08; 6), فان قال (L10; 11 between the bold ن and the ق), فى شىء (L15; 8).
+@obs Plain alif where a hamza might be expected, as printed: الا (L01, L02, L14; L15, twice), الااثنتين, درهمافاذا (L03), درهماواثنين (L04), فاردد, الى (L05), فاضربهافى, فانقص (L08), اثنان (L09, L14), فانقصه, اربعة, فان (L10), اذا (L12, L13), احداهما, اجتمع (L13), فاضرب (L14), واضرب, فاجمع (L15); with hamza: أن (L02, L05), أربعةوخمسين (L03, L04), تأخذ (L05), وأحد (L06), أحدعشرشيئا (L07), الأشياء (L08), الأجذار, وهوأحد (L10), أنك, أحد (L12); with madda: الآخر (L13); on ي: مائة (L01, L14, L15), شيئين (L02), مائةوعشرةومالان (L03), مائةوعشرةدراهم (L04); the hamza on the line: الأشياء (L08), شىء (L15).
+@obs With tanwīn on the final alif: وسدساً (L11); without tanwīn as printed: شيئا throughout, مالا (L01, L15), ومالا (L06, L07, L15), درهما (L06, twice; L07), درهمافاذا (L03), درهماواثنين (L04), وربعا (L08).
+@obs The final yā' is printed without dots: الى (L05), يبقى (L07, L10), فاضربهافى (L08), التى, فبقى (L09), على (L11, twice), فى (L12, L13; L14, twice; L15), الذى (L13, L14); and before the hamza in شىء (L15).
+@obs L03: اثنتين, the feminine form, as printed, in «الااثنتين وعشرين شيئا»; the same twenty-two things are «اثنين وعشرين شيئا» at the end of L04 and the beginning of L05 (درهماواثنين وعشرين, L04), and شىء is masculine. The letters are clear: after the ث a tooth with one dot and a tooth with two dots above, then the ي with its two dots below.
+@obs L13: احداهما, the feminine form, as printed, where the two parts, القسمين (L12, L13), are masculine; the masculine أحدهما stands in the same construction, of the two parts of ten, on frame 054, L15.
+@obs Note (١) of the editors glosses فبلغ ذلك: the sum of the two quotients amounts to it. Note (٢) restates the fourth problem as an equation in modern notation and solves it, four or six. Neither is reproduced.

@@ -1,0 +1,258 @@
+{
+ "anchor": "AK05-F099",
+ "frame": 99,
+ "frame_file": "page_099.jpg",
+ "frame_sha256": "113f03c5c0a2267cf6880a510c8be1bbf782227dc1de39ad2f2509c5d001fae9",
+ "printed_page": "٩٣",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 099, printed p. 93: the islands in the sea of Tangier concluded: the island قبرس with three towns and a second island, each followed round its coast, and an island of a third of a degree; then the heading of the islands of the sea of al-Qulzum and its first six islands. The editor's running numbers (١٤٢٥)-(١٤٣٩) and the numbers of Suhrāb [٩٥٤]-[٩٦٣] and [٩٧٠]; the folio of the manuscript, «(fol. 25ᵇ)», at the beginning of a line; two words supplied by the editor between angle brackets. Two lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F099-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "جزيرة قبرس{n:a} فيها ثلٰث مدن اوّلها عند طول {ov:ند ن} والعرض {ov:له ى} (١٤٢٥) [٩٥٤]",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة قبرس فيها ثلٰث مدن اوّلها عند طول ند ن والعرض له ى (١٤٢٥) [٩٥٤]",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F099-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "تمرّ الى طول {ov:نه {z}} والعرض {ov:لد ى} (١٤٢٦) [٩٥٥] تمرّ الى طول {ov:نح مه}",
+   "margin": "(fol. 25ᵇ)",
+   "cells": null,
+   "plain": "تمرّ الى طول نه ō والعرض لد ى (١٤٢٦) [٩٥٥] تمرّ الى طول نح مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F099-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "(١٤٢٧) [٩٥٦] وتمرّ على صورة الطيلسان تمرّ بطول {ov:نط {z}} (١٤٢٨) [٩٥٧] وتصير",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٤٢٧) [٩٥٦] وتمرّ على صورة الطيلسان تمرّ بطول نط ō (١٤٢٨) [٩٥٧] وتصير",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F099-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "الى موضع ⟨طوله⟩{n:b} {ov:نح م} والعرض {ov:له ٮه} (١٤٢٩) [٩٥٨] تمرّ الى الموضع الّذى منه",
+   "margin": null,
+   "cells": null,
+   "plain": "الى موضع ⟨طوله⟩ نح م والعرض له ٮه (١٤٢٩) [٩٥٨] تمرّ الى الموضع الّذى منه",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F099-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "ابتدأنا وهو عند طول {ov:ند ن} والعرض {ov:له ى}{n:c} * جزيرة اوّلها عند طول {ov:مو ن} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "ابتدأنا وهو عند طول ند ن والعرض له ى * جزيرة اوّلها عند طول مو ن والعرض",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F099-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "{ov:لط ى} (١٤٣٠) [٩٥٩] تمرّ الى طول {ov:مر ل} والعرض {ov:لو ن} (١٤٣١) [٩٦٠] وتمرّ على",
+   "margin": null,
+   "cells": null,
+   "plain": "لط ى (١٤٣٠) [٩٥٩] تمرّ الى طول مر ل والعرض لو ن (١٤٣١) [٩٦٠] وتمرّ على",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F099-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "صورة الطيلسان تمرّ بطول {ov:مح ن} (١٤٣٢) [٩٦١] وتصير الى موضعه الّذى منه ابتدأنا",
+   "margin": null,
+   "cells": null,
+   "plain": "صورة الطيلسان تمرّ بطول مح ن (١٤٣٢) [٩٦١] وتصير الى موضعه الّذى منه ابتدأنا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F099-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "وهو عند طول {ov:مو ن} والعرض {ov:لط ى}{n:d} * جزيرة مقدار ثلث جزء وسطها عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "وهو عند طول مو ن والعرض لط ى * جزيرة مقدار ثلث جزء وسطها عند طول",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F099-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "{ov:مح {z}} والعرض {ov:م ل} (١٤٣٣) *",
+   "margin": null,
+   "cells": null,
+   "plain": "مح ō والعرض م ل (١٤٣٣) *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F099-L10",
+   "n": 10,
+   "kind": "heading",
+   "text": "* جزائر بحر{n:e} القلزم *",
+   "margin": null,
+   "cells": null,
+   "plain": "* جزائر بحر القلزم *",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F099-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "جزيرة مقدار ثلٰثة ارباع جزء وسطها عند ⟨طول⟩{n:f} {ov:ٮح م} والعرض {ov:كو ى} (١٤٣٤)",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة مقدار ثلٰثة ارباع جزء وسطها عند ⟨طول⟩ ٮح م والعرض كو ى (١٤٣٤)",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F099-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "[٩٦٢] * جزيرة مقدار ثلثى جزء وسطها عند طول {ov:س {z}} والعرض {ov:كد م} (١٤٣٥)",
+   "margin": null,
+   "cells": null,
+   "plain": "[٩٦٢] * جزيرة مقدار ثلثى جزء وسطها عند طول س ō والعرض كد م (١٤٣٥)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F099-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "[٩٦٣] * جزيرة مقدار ثلثى جزء وسطها عند طول {ov:س ن} والعرض {ov:كو ل} (١٤٣٦) *",
+   "margin": null,
+   "cells": null,
+   "plain": "[٩٦٣] * جزيرة مقدار ثلثى جزء وسطها عند طول س ن والعرض كو ل (١٤٣٦) *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F099-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "جزيرة مقدار ثلثى جزء وسطها عند طول {ov:سب ك} والعرض {ov:كد ل} (١٤٣٧) * جزيرة",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة مقدار ثلثى جزء وسطها عند طول سب ك والعرض كد ل (١٤٣٧) * جزيرة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F099-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "مقدار ربع جزء وسطها عند طول {ov:س {z}} والعرض {ov:كا ك} (١٤٣٨) * جزيرة مقدار",
+   "margin": null,
+   "cells": null,
+   "plain": "مقدار ربع جزء وسطها عند طول س ō والعرض كا ك (١٤٣٨) * جزيرة مقدار",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F099-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "ثلثى جزء وسطها عند طول {ov:نط م} والعرض {ov:يط ك} (١٤٣٩) [٩٧٠] * جزيرة مقدار",
+   "margin": null,
+   "cells": null,
+   "plain": "ثلثى جزء وسطها عند طول نط م والعرض يط ك (١٤٣٩) [٩٧٠] * جزيرة مقدار",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+   ],
+   "lines": 2,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: the manuscript has قرس for قبرس (note a).",
+  "L04: the manuscript lacks the word طوله; the editor supplies it (note b).",
+  "L05: the point is the same as point 1425 (note c).",
+  "L08: the point is the same as point 1430 (note d).",
+  "L10: the word بحر is written by another hand in the manuscript (note e).",
+  "L11: the manuscript lacks the word طول; the editor supplies it (note f)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The islands in the sea of Tangier go on from p. 92 (frame 098). L01-L05: «جزيرة قبرس فيها ثلٰث مدن اوّلها عند طول ند ن والعرض له ى», the island قبرس, on which are three towns; the first point of its coast is at the longitude 54° 50′ and the latitude 35° 10′ (point 1425); then «تمرّ الى طول … والعرض …», point 1426, and point 1427, given by its longitude only, «تمرّ الى طول نح مه» (L02); «وتمرّ على صورة الطيلسان تمرّ بطول نط ō» (L03), along the shape of the ṭaylasān, at the longitude 59° 0′ (point 1428, given by its longitude only); «وتصير الى موضع ⟨طوله⟩ نح م والعرض له ٮه» (L03-L04), and it comes to a place whose longitude is نح م and latitude له ٮه (point 1429); and «تمرّ الى الموضع الّذى منه ابتدأنا وهو عند طول ند ن والعرض له ى» (L04-L05), back to the place from which we began, without a running number; the editor's note c identifies it with point 1425. «قبرس» has the two dots of the ق and the dot of the ب; the editor's note a gives the reading of the manuscript.",
+  "L05-L08: «جزيرة اوّلها عند طول مو ن والعرض لط ى», an island without a name and without a size; the first point of its coast is at the longitude 46° 50′ and the latitude 39° 10′ (point 1430); then point 1431; «وتمرّ على صورة الطيلسان تمرّ بطول مح ن» (L06-L07), along the shape of the ṭaylasān, at the longitude مح ن (point 1432, given by its longitude only); and «وتصير الى موضعه الّذى منه ابتدأنا وهو عند طول مو ن والعرض لط ى» (L07-L08), and it comes to its place from which we began, without a running number; the editor's note d identifies it with point 1430. L08-L09: «جزيرة مقدار ثلث جزء وسطها عند طول مح ō والعرض م ل (١٤٣٣)», an island of a third of a degree, the last of the islands of the sea of Tangier.",
+  "L10: the heading of the next section, in larger type, centred: «* جزائر بحر القلزم *», the islands of the sea of al-Qulzum, with the note mark e after «بحر» and a small open star with six points at each end.",
+  "L11-L16: the islands of the sea of al-Qulzum, each with its size and the longitude and latitude of its middle, «وسطها عند طول … والعرض …»: of three quarters of a degree, «ثلٰثة ارباع جزء» (L11); of two thirds of a degree, «ثلثى جزء» (L12, L13, L14, L16); and of a quarter of a degree, «ربع جزء» (L15); running numbers (١٤٣٤)-(١٤٣٩). L16 ends with «جزيرة مقدار», continued on p. 94.",
+  "L04: «⟨طوله⟩», between angle brackets, followed by the note mark b; L11: «⟨طول⟩», between angle brackets, followed by the note mark f: the manuscript lacks the words, and the editor supplies them (notes b and f). Transcribed with the brackets.",
+  "The running numbers run (١٤٢٥)-(١٤٣٩) without a gap. The numbers of Suhrāb stand after (١٤٢٥)-(١٤٣٢), [٩٥٤]-[٩٦١], after (١٤٣٤) and (١٤٣٥), [٩٦٢] and [٩٦٣], and after (١٤٣٩), [٩٧٠]: they pass from 963 to 970; points 1433 and 1436-1438 have none. L02: the folio of the Strasbourg manuscript, «(fol. 25ᵇ)», is printed in Latin type at the beginning of the line; transcribed as a margin note before the line. Each island ends with a small open star with six points, transcribed as an asterisk.",
+  "Signs in the text, transcribed as printed: «ثلٰث» (L01) and «ثلٰثة» (L11) with a dagger alif above the ل; «اوّلها» (L01, L05) with a shadda over the و; «تمرّ» and «وتمرّ» with a shadda; «الّذى» (L04, L07) with a shadda over the ل; «ابتدأنا» (L05, L07) with a hamza over the alif; «جزائر» (L10) with a hamza on the tooth; «جزء» with a hamza on the line after the ز; «الّذى» and «ثلثى» end in a ى without dots.",
+  "Numerals: «ند» (L01, L05), «نه» (L02), «نح» (L02, L04) and «نط» (L03, L16), with the dot of the ن; «ن» (L01, L05, twice; L06, L07, L08, L13, the minutes), with the dot of the ن; «سب» (L14), with the dot of the ب below, 62; «يط» (L16), with the two dots of the ي, 19. L11, the degrees of the longitude: «ٮح», a tooth without its dot, which read as a ن gives 58° 40′, beside the longitudes 59° 40′-62° 20′ of the other islands of the sea of al-Qulzum (L12-L16).",
+  "In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: «مر» (L06, the degrees of the longitude), 47, a ر with a single rounded head joined to the م.",
+  "The ح of the numerals, «نح» (L02, L04), «مح» (L07, L09) and «ٮح» (L11), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. The isolated ى, 10, has no dots (L01, L02, L05, L06, L08, L11). The isolated ك, 20, is printed with the small inner stroke of the letter (L14, L15, L16). The minutes of the latitude in L04, «ٮه», are a tooth without its dot joined to a final ه, the final form of the ه of «له» beside it.",
+  "Note marks: L01, a after «قبرس»; L04, b after «⟨طوله⟩»; L05, c after the latitude; L08, d after the latitude; L10, e after «بحر»; L11, f after «⟨طول⟩».",
+  "Marks not transcribed: L06, a small knob, about 5 px high, rises from the upper edge of the line over «مر ل», where the line is otherwise 9 px thick.",
+  "The editor's footnotes stand in two lines below a short rule at the left: notes a-f. The page number «— ٩٣ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

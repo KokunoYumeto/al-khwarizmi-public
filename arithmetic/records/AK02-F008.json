@@ -1,0 +1,398 @@
+{
+ "anchor": "AK02-F008",
+ "frame": 8,
+ "frame_file": "page_008.jpg",
+ "frame_sha256": "44d0fb3a8f9d9fe7bfda84748b3478767eee8801fd51658d60e7326226c07f4b",
+ "printed_page": "2",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 008, printed p. 2: the figures of the letters, with a second gap; the book of algebra and almucabalah; one as the root and the beginning of all number; the nine letters, and the tens and hundreds put in the place of the unit. One footnote.",
+ "lines": [
+  {
+   "id": "AK02-F008-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "et octaue. Set in hoc nullum impedimentum est. Sunt enim note",
+   "margin": null,
+   "plain": "et octaue. Set in hoc nullum impedimentum est. Sunt enim note",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "signantes numerum, et he sunt figure in quibus est illa diuer-",
+   "margin": null,
+   "plain": "signantes numerum, et he sunt figure in quibus est illa diuer-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "sitas .... (1). Et iam patefeci in libro algebre et almucabalah,",
+   "margin": null,
+   "plain": "sitas .... (1). Et iam patefeci in libro algebre et almucabalah,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "idest restaurationis et oppositionis, quod uniuersus numerus",
+   "margin": null,
+   "plain": "idest restaurationis et oppositionis, quod uniuersus numerus",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "sit compositus, et quod uniuersus numerus componatur super",
+   "margin": null,
+   "plain": "sit compositus, et quod uniuersus numerus componatur super",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "unum. Vnum ergo inuenitur in uniuerso numero ; et hoc",
+   "margin": null,
+   "plain": "unum. Vnum ergo inuenitur in uniuerso numero ; et hoc",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "est quod in alio libro arithmetice dicitur. Quia unum est",
+   "margin": null,
+   "plain": "est quod in alio libro arithmetice dicitur. Quia unum est",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "radix uniuersi numeri, et est extra numerum. Radix numeri",
+   "margin": null,
+   "plain": "radix uniuersi numeri, et est extra numerum. Radix numeri",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "est, quare per eum inuenitur omnis numerus. Extra nume-",
+   "margin": null,
+   "plain": "est, quare per eum inuenitur omnis numerus. Extra nume-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "rum uero est, quare inuenitur per se, idest absque alio ali-",
+   "margin": null,
+   "plain": "rum uero est, quare inuenitur per se, idest absque alio ali-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "quo numero. Reliquus autem numerus sine uno inueniri non",
+   "margin": null,
+   "plain": "quo numero. Reliquus autem numerus sine uno inueniri non",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "potest. Cum enim unum dicis, inuentione sui non indiget alio",
+   "margin": null,
+   "plain": "potest. Cum enim unum dicis, inuentione sui non indiget alio",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "numero. Reliquus autem numerus indiget indiget ({i:sic}) uno :",
+   "margin": null,
+   "plain": "numero. Reliquus autem numerus indiget indiget (sic) uno :",
+   "italic": [
+    "sic"
+   ],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "quare non potes dicere duo uel tria, nisi precedat unum. Ni-",
+   "margin": null,
+   "plain": "quare non potes dicere duo uel tria, nisi precedat unum. Ni-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "chil aliud est ergo numerus, nisi unitatum collectio; et hoc",
+   "margin": null,
+   "plain": "chil aliud est ergo numerus, nisi unitatum collectio; et hoc",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "quod diximus non potes dicere duo uel tria,nisi precedat unum:",
+   "margin": null,
+   "plain": "quod diximus non potes dicere duo uel tria,nisi precedat unum:",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "non de uoce diximus,ut ita dicam,set de re.Non enim | possunt",
+   "margin": "car. 102 {i:verso}.",
+   "plain": "non de uoce diximus,ut ita dicam,set de re.Non enim | possunt",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "esse duo uel tria, si unum auferatur. Vnum uero potest esse",
+   "margin": null,
+   "plain": "esse duo uel tria, si unum auferatur. Vnum uero potest esse",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "absque secundo uel tercio. Igitur nichil aliud sunt duo, nisi",
+   "margin": null,
+   "plain": "absque secundo uel tercio. Igitur nichil aliud sunt duo, nisi",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "unius duplicitas uel geminatio: et similiter tria nichil aliud",
+   "margin": null,
+   "plain": "unius duplicitas uel geminatio: et similiter tria nichil aliud",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "sunt, nisi eiusdem unitatis triplicatio: sic de reliquo numero",
+   "margin": null,
+   "plain": "sunt, nisi eiusdem unitatis triplicatio: sic de reliquo numero",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "intellige. Set nunc redeamus ad librum.",
+   "margin": null,
+   "plain": "intellige. Set nunc redeamus ad librum.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L23",
+   "n": 23,
+   "kind": "indent",
+   "text": "Inueni,inquid algorizmi, omne quod potest dici ex numero,",
+   "margin": null,
+   "plain": "Inueni,inquid algorizmi, omne quod potest dici ex numero,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "et esse quicquid excedit unum usque in .{sc:ix}., idest quod est",
+   "margin": null,
+   "plain": "et esse quicquid excedit unum usque in .ix., idest quod est",
+   "italic": [],
+   "small_caps": [
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "inter .{sc:ix}. et unum, idest duplicatur unum et fiunt duo; et",
+   "margin": null,
+   "plain": "inter .ix. et unum, idest duplicatur unum et fiunt duo; et",
+   "italic": [],
+   "small_caps": [
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "triplicatur idem unum, fiuntque tria, et sic in ceteris usque",
+   "margin": null,
+   "plain": "triplicatur idem unum, fiuntque tria, et sic in ceteris usque",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "in .{sc:ix}. De inde ponuntur .{sc:x}. in loco unius, et duplicantur",
+   "margin": null,
+   "plain": "in .ix. De inde ponuntur .x. in loco unius, et duplicantur",
+   "italic": [],
+   "small_caps": [
+    "ix",
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L28",
+   "n": 28,
+   "kind": "text",
+   "text": ".{sc:x}. ac triplicantur, quemadmodum factum est de uno, fiunt-",
+   "margin": null,
+   "plain": ".x. ac triplicantur, quemadmodum factum est de uno, fiunt-",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "que ex eorum duplicatione .{sc:xx}., ex triplicatione .{sc:xxx}., et",
+   "margin": null,
+   "plain": "que ex eorum duplicatione .xx., ex triplicatione .xxx., et",
+   "italic": [],
+   "small_caps": [
+    "xx",
+    "xxx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "ita usque ad .{sc:xc}. Post hec redeunt .{sc:c}. in loco unius , et",
+   "margin": null,
+   "plain": "ita usque ad .xc. Post hec redeunt .c. in loco unius , et",
+   "italic": [],
+   "small_caps": [
+    "xc",
+    "c"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "(1) La lacuna indicata con quattro punti nella linea terza della presente pa-",
+   "margin": null,
+   "plain": "(1) La lacuna indicata con quattro punti nella linea terza della presente pa-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F008-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "gina trovasi anche nel sopraccitato Codice {i:Ii}. 6. 5. (carta 102 {i:recto}, lin. 22).",
+   "margin": null,
+   "plain": "gina trovasi anche nel sopraccitato Codice Ii. 6. 5. (carta 102 recto, lin. 22).",
+   "italic": [
+    "Ii",
+    "recto"
+   ],
+   "small_caps": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 2 )» stands at the head of the page, centred. The page has no signature.",
+  "L03: the four points after «diuersitas» mark the place of the figures that show the differences between the forms of the letters, which the edition does not print; the editor's footnote (1) says that the gap is in the manuscript too, at fol. 102 recto, line 22.",
+  "L13: «indiget indiget (sic)»: the edition prints the word twice and marks the repetition with «(sic)» in italics, as the manuscript has it.",
+  "L17: the vertical bar between «enim» and «possunt» marks the beginning of fol. 102 verso of the manuscript, which the note in the left margin, «car. 102 verso.», names (on the left-hand pages the folio notes stand in the left margin); transcribed as a margin note.",
+  "L23: the text spells the name «algorizmi» here, where p. 1 has «algoritmi» (frame 007, L05, L16).",
+  "Spaces at punctuation: L16, L17 and L23 are set tightly, with word spaces of 13 to 19 px. After «tria,» (L16), «diximus,», «dicam,» and «re.» (L17) and «Inueni,» (L23) the gap before the next word is 4 to 8 px, the spacing of the punctuation itself, and no space is transcribed; before the colon of L16 the gap is 6 px. Elsewhere the page sets a space before «;» (L06), «:» (L13) and «,» (L30), as transcribed."
+ ],
+ "copy_matter": [
+  "A reader's marks in pencil: L03, a vertical stroke through the final «e» of «algebre»; L09, a stroke under «quare»; L10, a small curve between «per» and «se»; L27, an oblique stroke after «.ix.»; L30, an oblique stroke after «.xc.». In the left margin, in ink or dark pencil: «quia» beside L09, and the sign «§» beside L27 and L30. Not part of the edition."
+ ],
+ "critical_notes": []
+}

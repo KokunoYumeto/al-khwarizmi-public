@@ -1,0 +1,234 @@
+{
+ "anchor": "AK01-F090",
+ "frame": 90,
+ "frame_file": "page_090.jpg",
+ "frame_sha256": "246666d194566902cb96df33dd050ca40d533db0ed65df232d07868e0de03d77",
+ "printed_page": "٧٤",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 090, printed p. 74: the problem begun on frame 089: three sons, the bequest the share of a son less the share of a daughter if there were one, and a third of what remains of the third: twenty-one shares, a daughter three and a son seven, so that the first bequest is four sevenths of a son's share; from a third of the estate four sevenths of a share are taken and a third of the rest; eight ninths of the estate less eight twenty-firsts of a share equal three shares; the estate three shares and forty-five fifty-sixths: the share fifty-six, the estate two hundred and thirteen, the bequests thirty-two and thirteen. Then «وفى وجه آخر من الوصايا» in bold: a woman leaves her two daughters, her mother and her husband, and bequeaths the share of the mother and a ninth of the estate: thirteen shares, continued on the next page. Below the rule one footnote of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F090-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "نصيب ابنة لو كانت وبثلث ما بقى من الثلث {n:١} . فقياس ذلك أن تقيم سهام",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "الفريضة على شىء يستقيم بين هؤلاء الورثة وبينهم لو كانت معهم ابنة أخرى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "فيكون ذلك واحداً وعشرين فلو كانت معهم بنت أخرى لكان لها ثلاثة ونصيب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "ابن سبعة فقد أوصى له بأربعة أسباع نصيب ابن وثلث ما بقى من الثلث فخذ",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "ثلثاً فاطرح منه أربعة أسباع نصيب ابن فيبقى ثلث مال الا أربعة أسباع نصيب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "ابن ثم الق ثلث مابقى من الثلث وهوتسع مال الاسبع نصيب وثلث سبع نصيب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "فيبقى تسع مال الا سبعى نصيب وثلثى سبع نصيب فزد ذلك على ثلثى المال فيكون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "ثمانية اتساع مال الاسبعى نصيب وثلثى سبع نصيب وذلك ثمانية اجزاء من واحد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "وعشرين جزءاً من نصيب يعدل ثلاثة انصباء فاجبر ذلك فيكون ثمانية أتساع",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "مال تعدل ثلاثة انصباء وثمانية اجزاء من احد وعشرين جزءاً من نصيب فتمم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "مالك وهو أن تزيد على الثمانية الاتساع مثل ثمنها وعلى الانصباء مثل ثمنهافيكون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "معك مال يعدل ثلاثة انصباء وخمسةوأربعين جزءا من ستة وخمسين جزءاًمن",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "نصيب والنصيب ستةوخمسون والمال مائتان وثلاثةعشر سهماً والوصيةالأولى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "اثنان وثلاثون سهماً والثانية ثلاثة عشر وبقى مائة وثمانية وستون لكل ابن ستة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "وخمسون سهماً . {b:وفى وجه آخر من الوصايا} امرأة ماتت وتركت ابنتيها وأمها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "وفى وجه آخر من الوصايا"
+   ]
+  },
+  {
+   "id": "AK01-F090-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "وزوجها وأوصت لرجل بمثل نصيب الأم ولآخر بتسع جميع المال . قياس",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "ذلك أن تقيم سهام الفريضة فتكون ثلاثةعشر سهماً للأم من ذلك سهمان وأنت",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F090-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "تعلم أن الوصية سهمان وتسع جميع المال فيبقى منه ثمانية أتساع الا سهمين بين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L15: the words وفى وجه آخر من الوصايا (L15), the heading of another kind of bequest, as on frame 089, L01, are printed in a bold face, after a full stop; the words that follow are in the face of the text. The bold ن is printed without its dot; transcribed ن.",
+  "L07: «فيبقى تسع مال», as printed, one ninth, where what remains of the third is two ninths of the estate less eight twenty-firsts of a share, as the doubled sevenths of the same line (سبعى نصيب وثلثى سبع نصيب) and the eight ninths that follow require. See the critical note AK01-CN027.",
+  "Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): مابقى (L06; 17 between the alif and the ب, where ما بقى with a space has 35 in L01 and 34 in L04); وهوتسع (L06; 23 between the و and the ت, 30 above the baseline, as the conjunction و stands from the ت in وتسع, L18, 22 and 33); الاسبع (L06; 25 between the ligature لا and the س) and الاسبعى (L08; 23), within the distances of the ligature from the next letter inside a word, 20 to 26, where الا سبعى in L07 has 38; ثمنهافيكون (L11; 12 between the alif and the ف, as درهمافاذا (frame 056, L03), 13); وخمسةوأربعين (L12; 8 between the ة and the conjunction و); جزءاًمن (L12; 14 between the alif and the م, where جزءا من earlier in the line has 27); ستةوخمسون (L13; 8 between the ة and the conjunction و); وثلاثةعشر (L13; 6 between the ة and the ع) and ثلاثةعشر (L17; 7), where ثلاثة عشر in L14 has 21; والوصيةالأولى (L13; 8 between the ة and the alif).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: فيكون ذلك, كانت معهم, لكان لها (L03), نصيب فزد, المال فيكون (L07), من واحد (L08), الاتساع مثل (L11), من ستة (L12), والمال مائتان (L13; 5 between the ل and the م), سهمان وأنت (L17).",
+  "The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after the note mark (١), before فقياس (L01; 39 and 28), after سهماً, before the bold وفى (L15; 32 and 27), after المال, before قياس (L16; 27 and 33). The note mark (١) stands 61 px after الثلث (L01).",
+  "Plain alif where a hamza might be expected, as printed: ابنة (L01, L02), ابن (L04, twice; L05), الا (L05), ابن, الق, الاسبع (L06), الا (L07), اتساع, الاسبعى, اجزاء (L08), انصباء (L09, L10), اجزاء, احد (L10), الاتساع, الانصباء (L11), انصباء (L12), اثنان, ابن (L14), امرأة, the first alif, ابنتيها (L15), الا (L18); with hamza: أن (L01), أخرى (L02, L03), أوصى, بأربعة, أسباع (L04), أربعة, أسباع (L05, twice each), أتساع (L09), أن (L11), وخمسةوأربعين (L12), والوصيةالأولى (L13), امرأة, the second alif, وأمها (L15), وأوصت, الأم (L16), أن, للأم, وأنت (L17), أن, أتساع (L18); with madda: the bold آخر (L15), ولآخر (L16); on و: هؤلاء (L02); on ي: مائتان (L13), مائة (L14); the hamza on the line: شىء, هؤلاء (L02), اجزاء (L08, L10), انصباء (L09, L10, L12), الانصباء (L11), جزءاً (L09, L10), جزءا, جزءاًمن (L12).",
+  "With tanwīn on the final alif: واحداً (L03), ثلثاً (L05), جزءاً (L09, L10), جزءاًمن (L12), سهماً (L13, L14, L15, L17); without tanwīn as printed: جزءا (L12, the first).",
+  "The final yā' is printed without dots: بقى (L01), على, أخرى (L02), أخرى (L03), أوصى, بقى (L04), فيبقى (L05), مابقى (L06), فيبقى, سبعى, وثلثى, على, ثلثى (L07), الاسبعى, وثلثى (L08), على, وعلى (L11), والوصيةالأولى (L13), وبقى (L14), the bold وفى (L15), فيبقى (L18).",
+  "The print stretches لكان (L03) and لكل (L14), between the ل and the ك, and المال (L16), between the م and the alif, with the elongation stroke; the stroke is not transcribed.",
+  "Note (١) of the editors restates the problem in modern notation, with a son's share y and the bequests together x: the share of a daughter if there were one is 3/7 y, x = y − 3/7 y + 1/3 (1/3 − 4/7 y), and 1 − x = 3y; hence y = 56/213 and x = 45/213. The values check exactly (32 + 13 = 45 of 213). The note is not reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK01-CN027",
+   "class": "wrong number",
+   "line": "L07",
+   "printed": "فيبقى تسع مال",
+   "proposed": "فيبقى تسعا مال",
+   "evidence": "From a third of the estate four sevenths of a share are taken (L05), and a third of the rest, one ninth of the estate less a seventh and a third of a seventh of a share (L06); what remains is two ninths of the estate less two sevenths and two thirds of a seventh of a share, the doubled sevenths that the same line states («سبعى نصيب وثلثى سبع نصيب»); added to two thirds of the estate it gives the eight ninths of L08, where one ninth would give seven. The print has the singular تسع. The editors do not comment.",
+   "confidence": "high that the sense requires two ninths; whether the dual ending was lost in the print or in the manuscript is not known",
+   "impact": "none on the result: the eight ninths and the values that follow are those of two ninths"
+  }
+ ]
+}

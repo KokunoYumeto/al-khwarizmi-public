@@ -1,0 +1,47 @@
+@page 23 17
+% Frame 023, printed p. 17: the division of 1800 by 9 concluded, the quotient 200; a shortening for circles left in the
+% number divided; the end of the operations on whole numbers; fractions: their names, and the sexagesimal parts of the
+% Indians, minutes, seconds, thirds and fourths.
+ducenti; et hoc est quod debetur uni, et non remanebit ex
+eo quod diuiditur quicquam: et quocienscumque diuiseris ali-
+quem numerum super aliquem, et remanserint de eo quod di-
+uiditur circuli, ante quos nullus sit numerus , accipe quod
+residuum fuit ex circulis ab inicio differentiarum diuisi numeri
+uersus dexteram , et addes eos super id quod exierit de diui-
+sione; et quod fuerit, ipsum est quod debetur uni. Et hec est
+quedam abreuiacio propinqua. Ordo autem primus est ordo
+operis: cuius rei exemplar est, quod cum scriberemus mille
+.{sc:dccc}, fuerunt duo circuli et {sc:viii}., et in tercia differentia ,
+atque unum in quarta: posuimus .{sc:ix}. sub .{sc:viii}, eo quod sint
+plus illo, quod est in ultima differentia; fuitque figura eorum
+ita. Cumque scriberemus in directo .{sc:ix}. supra .{sc:viii}. duo, mul-
+tiplicaremusque ea in .{sc:ix}., fuerintque .{sc:xviii}., quos cum minue-
+remus de eo quod est supra .{sc:ix}., et remanserunt duo circuli,
+nullum habentes ante se numerum. Scripsimus ergo duos cir-
+culos in ordine duorum , qui sunt supra .{sc:ix}., et fuerunt .{sc:cc}.,
+quorum hec est figura.
+@p Hec sunt uniuersa que necessaria sunt hominibus ex diui-
+sione et multiplicatione in eo numero qui fuerit integer. Et
+nunc incipiemus tractare de multiplicatione fractionum, et
+earum diuisione, et de extractione radicum, si Deus uoluerit.
+@p Scito quod fraciones appellentur multis nominibus in nu-
+@m car. 108 {i:recto}.
+merabilibus | atque infinitis, ut medietas, tercia, quarta, nona
+et decima, et una pars ex {sc:xiii}., et pars ex .{sc:x}.{sc:viii}., et cetera.
+Set indi posuerunt exitum partium suarum ex sexaginta: diui-
+serunt enim unum in .{sc:lx}. partes, quas nominauerunt minuta.
+Iterum unum quodque minutum in .{sc:lx}. partes, quas uocaue-
+runt secunda; eritque unum ex {sc:lx}. minutum, et unum ex tri-
+bus milibus et sexcentis erit secundum; et unum quodque se-
+cundum iterum diuiditur in .{sc:lx}., eritque unum ex ducentis
+milibus et {sc:xvi}. milibus tercium; et unum quodque tercium
+diuiditur in {sc:lx}. quarta, et ita usque ad infinitum erunt diffe-
+@obs The page number «( 17 )» stands at the head of the page, centred, and the signature «2» of the printed sheet at the foot, centred. The page has no footnotes.
+@obs L01-L18: the division of 1800 by 9 (p. 16, frame 022, L16-L33) concluded: the quotient «ducenti», 200, and nothing remains. L02-L08: a shortening, «quedam abreuiacio propinqua»: when the number divided is left with circles before which there is no figure, those circles, from the beginning of its places towards the right, are added to what the division gives. L08-L18: «Ordo autem primus est ordo operis»: 1800 by 9 worked with the shortening: two circles, eight in the third place and one in the fourth; nine set under eight, being more than the one in the last place; two written above, two by nine, eighteen, taken from eighteen, leaves two circles with no figure before them; the two circles written after the two give «.cc.», 200. L18 «quorum hec est figura.»: the figure is not printed.
+@obs L19-L22: the end of multiplication and division of whole numbers, «in eo numero qui fuerit integer»; the multiplication and division of fractions and the extraction of roots are announced. L23-L33: fractions, «fraciones»: their many names, half, third, quarter, ninth, tenth, a part of thirteen, a part of eighteen; the sexagesimal parts of the Indians: one divided into sixty minutes, a minute into sixty seconds, one second being one part of 3600, a second into sixty thirds, one third being one part of 216000 («ducentis milibus et xvi. milibus»), a third into sixty fourths, and so on without end. The page ends in the course of the sentence.
+@obs L24: the vertical bar between «merabilibus» and «atque», with a word space on each side, marks the beginning of fol. 108 recto of the manuscript, which the note in the right margin, «car. 108 recto.», names; transcribed as a margin note.
+@obs Numerals: L10 «.dccc,» and L11 «.viii,» without the closing point; L10 «viii.,», L25 «xiii.,», L29 «lx.», L32 «xvi.» and L33 «lx.» without the opening point; L25 «.x.viii.,», eighteen, with a point between «x» and «viii».
+@obs L23-L24: «in nu-|merabilibus», innumerabilibus, is printed as two words, 25 px apart; transcribed as printed. L23 «fraciones», with c for ct, and L26 «Set indi» are transcribed as printed. L05: «differentiarum diuisi», the two words 8 px apart, where the other word spaces of the line are 13 to 18 px; transcribed with a space.
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): with a space before the mark, L04 «numerus ,» (16 px), L06 «dexteram ,» (12 px), L10 «differentia ,» (20 px) and L17 «duorum ,» (20 px); without a space before the mark, L15 «.ix.,» (9 px, where the comma of L14 «.ix.,» stands 5 px from the point). With a space after the mark, L03 «aliquem, et» (11 px, the median word space of the line 16 px), L25 «xiii., et» (12 px) and L28 «.lx. partes» (13 px). A speck below the comma of L12 «illo,», the pencil slash after the comma of L15 «.ix.,» and the stroke after the colon of L26 «sexaginta:» shorten the measured gaps; the spaces there are read on the scan. The semicolons of L01, L07, L12, L29, L30 and L32 have printed tails (darkest pixel 29 to 76); the colons of L02, L09, L11 and L26 have none.
+@obs Marks not transcribed: L12, a dark speck, 9 by 8 px, 4 px below the comma of «illo,», not joined to it; L26, a short oblique stroke, 6 by 9 px, above and to the right of the colon of «sexaginta:», lighter than the print (darkest pixel 77, mean 128), and a light speck at mid-height after «suarum». Below L33 the text of p. 18 shows through the leaf, mirrored.
+@copy A reader's notes in pencil: faint, apparently erased writing in the right margin beside L08, not read; L10, a stroke above «circuli»; L13, a slash through the comma after «duo», and «/ hier ist Platz freigelassen» (German, here a space has been left free) in the right margin beside L13-L14; L15, «et» marked for deletion between two slashes, with the two strokes joined and the deletion sign (deleatur) in the right margin; L23, arcs above and below joining «in» and «nu-»; L25, «viii» of «.x.viii.» underlined, and «ta» and «VIII» below the printed folio note. Not part of the edition.

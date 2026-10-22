@@ -1,0 +1,4 @@
+@page 2 -
+@kind provenance
+% Frame 002: a leaf with the ownership stamp of Columbia University Libraries.
+@copy The ownership stamp «COLUMBIA UNIVERSITY THE LIBRARIES IN THE CITY OF NEW YORK», round, with a crown, in the middle of the leaf; not part of the edition.

@@ -1,0 +1,24 @@
+{
+ "anchor": "AK07-J0006",
+ "jp2_index": 6,
+ "jp2_member": "b24872489_0006.jp2",
+ "jp2_sha256": "1d7dc45ef3e98a1f37de80b492701ccdf691b8b1c728e4c82408e91a2fcaef4d",
+ "reading_copy": "page_0006.jpg",
+ "reading_copy_sha256": "92f491216fcd8e46d7d098f666cb0f6b6f750696021367058d4b320975bdd344",
+ "printed_page": "[II]",
+ "kind": "provenance",
+ "language": null,
+ "role": "COPY_PROVENANCE",
+ "file": "suter",
+ "comment": "JP2 0006: the back of the title page; nothing printed; a shelfmark and a library stamp.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Nothing is printed on the back of the title page; large stains of damp run down from the top, as on the title page (JP2 0005)."
+ ],
+ "copy_matter": [
+  "In pencil, the shelfmark «(2) AJB.CA.AA2», at mid-height on the left; at the lower left, the round stamp of the Wellcome Institute library, «WELLCOME» above, «LIBRARY» across the middle, «INSTITUTE» below."
+ ],
+ "critical_notes": []
+}

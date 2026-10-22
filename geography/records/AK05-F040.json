@@ -1,0 +1,319 @@
+{
+ "anchor": "AK05-F040",
+ "frame": 40,
+ "frame_file": "page_040.jpg",
+ "frame_sha256": "f3cb79eeb2aa308c524a050cc06f8c86e5cff0ee87e6500f27f70722df126951",
+ "printed_page": "٣٤",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 040, printed p. 34: the cities of the seventh clime continued, entries 488-499: اٮورٮوں on the sea, the city of ثورٮا at the edge of a mountain, Qīmnā, انقزه, Zabalā, a city on the sea, ڡلميش, Qūmī on the sea, دسقاٮا on the sea at the mountain, Sīnistān, الوى «which is the great city», and the city of Mājūj; the folio of the manuscript, «(fol. 9ᵃ)», in the margin. Five lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F040-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٤٨٨) | [٤٥٠] | اٮورٮوں{n:a} على البحر | ند | كه | مز | مه",
+   "margin": null,
+   "cells": [
+    "(٤٨٨)",
+    "[٤٥٠]",
+    "اٮورٮوں{n:a} على البحر",
+    "ند",
+    "كه",
+    "مز",
+    "مه"
+   ],
+   "plain": "(٤٨٨) | [٤٥٠] | اٮورٮوں على البحر | ند | كه | مز | مه",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F040-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٤٨٩) | [٤٥١] | مدينة ثورٮا مع حدّ جبل | نه | ى | مو | ى",
+   "margin": null,
+   "cells": [
+    "(٤٨٩)",
+    "[٤٥١]",
+    "مدينة ثورٮا مع حدّ جبل",
+    "نه",
+    "ى",
+    "مو",
+    "ى"
+   ],
+   "plain": "(٤٨٩) | [٤٥١] | مدينة ثورٮا مع حدّ جبل | نه | ى | مو | ى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F040-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٤٩٠) | [٤٥٢] | قيمنا{n:b} | ٮز | ن | مه | ى",
+   "margin": null,
+   "cells": [
+    "(٤٩٠)",
+    "[٤٥٢]",
+    "قيمنا{n:b}",
+    "ٮز",
+    "ن",
+    "مه",
+    "ى"
+   ],
+   "plain": "(٤٩٠) | [٤٥٢] | قيمنا | ٮز | ن | مه | ى",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F040-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٤٩١) | [٤٥٣] | انقزه{n:c} | نح | {z} | مح | {z}",
+   "margin": null,
+   "cells": [
+    "(٤٩١)",
+    "[٤٥٣]",
+    "انقزه{n:c}",
+    "نح",
+    "{z}",
+    "مح",
+    "{z}"
+   ],
+   "plain": "(٤٩١) | [٤٥٣] | انقزه | نح | ō | مح | ō",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F040-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٤٩٢) | [٤٥٤] | زبلا{n:d} | نط | يه | مه | يه",
+   "margin": null,
+   "cells": [
+    "(٤٩٢)",
+    "[٤٥٤]",
+    "زبلا{n:d}",
+    "نط",
+    "يه",
+    "مه",
+    "يه"
+   ],
+   "plain": "(٤٩٢) | [٤٥٤] | زبلا | نط | يه | مه | يه",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F040-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٤٩٣) | | مدينة على البحر | نط | ل | مح | ٮه",
+   "margin": null,
+   "cells": [
+    "(٤٩٣)",
+    "",
+    "مدينة على البحر",
+    "نط",
+    "ل",
+    "مح",
+    "ٮه"
+   ],
+   "plain": "(٤٩٣) | | مدينة على البحر | نط | ل | مح | ٮه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F040-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٤٩٤) | [٤٥٥] | ڡلميش{n:e} | س | ى | مز | ٮه",
+   "margin": null,
+   "cells": [
+    "(٤٩٤)",
+    "[٤٥٥]",
+    "ڡلميش{n:e}",
+    "س",
+    "ى",
+    "مز",
+    "ٮه"
+   ],
+   "plain": "(٤٩٤) | [٤٥٥] | ڡلميش | س | ى | مز | ٮه",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F040-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٤٩٥) | [٤٥٦] | قومى على البحر | سح | {z} | مر | ٮه",
+   "margin": null,
+   "cells": [
+    "(٤٩٥)",
+    "[٤٥٦]",
+    "قومى على البحر",
+    "سح",
+    "{z}",
+    "مر",
+    "ٮه"
+   ],
+   "plain": "(٤٩٥) | [٤٥٦] | قومى على البحر | سح | ō | مر | ٮه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F040-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٤٩٦) | [٤٥٧] | دسقاٮا{n:f} على البحر مع الجبل | عا | م | مه | مه",
+   "margin": null,
+   "cells": [
+    "(٤٩٦)",
+    "[٤٥٧]",
+    "دسقاٮا{n:f} على البحر مع الجبل",
+    "عا",
+    "م",
+    "مه",
+    "مه"
+   ],
+   "plain": "(٤٩٦) | [٤٥٧] | دسقاٮا على البحر مع الجبل | عا | م | مه | مه",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F040-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٤٩٧) | [٤٥٨] | سينستان{n:g} | ڡمح | ى | مو | مد",
+   "margin": "(fol. 9ᵃ)",
+   "cells": [
+    "(٤٩٧)",
+    "[٤٥٨]",
+    "سينستان{n:g}",
+    "ڡمح",
+    "ى",
+    "مو",
+    "مد"
+   ],
+   "plain": "(٤٩٧) | [٤٥٨] | سينستان | ڡمح | ى | مو | مد",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F040-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٤٩٨) | [٤٦٣] | الوى وهى المدينة الكبيرة{n:h} | ٮط | م{n:i} | ٮط | ٮه",
+   "margin": null,
+   "cells": [
+    "(٤٩٨)",
+    "[٤٦٣]",
+    "الوى وهى المدينة الكبيرة{n:h}",
+    "ٮط",
+    "م{n:i}",
+    "ٮط",
+    "ٮه"
+   ],
+   "plain": "(٤٩٨) | [٤٦٣] | الوى وهى المدينة الكبيرة | ٮط | م | ٮط | ٮه",
+   "note_marks": [
+    "h",
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F040-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٤٩٩) | | مدينة ماجوج | ڡص | ل | سح | {z}",
+   "margin": null,
+   "cells": [
+    "(٤٩٩)",
+    "",
+    "مدينة ماجوج",
+    "ڡص",
+    "ل",
+    "سح",
+    "{z}"
+   ],
+   "plain": "(٤٩٩) | | مدينة ماجوج | ڡص | ل | سح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+   ],
+   "lines": 5,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: at entry (1057) the name is written اڡورٮون, with the variant reading اثورٮون.",
+  "L03: at entry (1958) the name is written تيمنا; the editor suggests that the same city is named at entry (2185), where a variant reading is ٮما.",
+  "L04: at entry (1954) the name is written اٮقره.",
+  "L05: at entry (2186) the name is written زيلا.",
+  "L07: a variant reading is ڡلميشر; at entry (1057) the name is written فلمس, with the variant reading ڡلحس.",
+  "L09: at entry (1063) the name is written دسيقارٮا.",
+  "L10: the manuscript reads يسيسبان.",
+  "L11: the editor equates the entry with entry (505), which has the same number of Suhrāb, [٤٦٣] (frame 041, L09).",
+  "L11: the manuscript gives the longitude by mistake as ڡط م, a line over the numeral."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 039 without a heading: the cities of the seventh clime, entries 488-499. Entries 493 and 499 have no number of Suhrāb; the others have [٤٥٠]-[٤٥٤] (entries 488-492), [٤٥٥]-[٤٥٨] (entries 494-497) and [٤٦٣] (entry 498). Entries 489, 493 and 499 begin with the word «مدينة»; entry 498 has it in «وهى المدينة الكبيرة». The folio of the Strasbourg manuscript, «(fol. 9ᵃ)», is printed in Latin type in the right margin beside entry 497 (L10), as on frames 028, 030 and 032.",
+  "L01: «اٮورٮوں» is printed without dots: after the alif, a short tooth, 15 px high, joined to a و; a ر; a second short tooth joined to a و; and a final ن without its dot. Each tooth stands at the right of the loop of its و, which the word-initial و of «وهى» (L11) has not. Transcribed اٮورٮوں; the forms of the editor's note a have ڡ, ث and ب in the places of the teeth.",
+  "L02: «ثورٮا»: the ث with its three dots; after the ر, a low tooth without a dot joined to the final alif. «حدّ», with a shadda over the د.",
+  "L04: «انقزه»: the ن with its dot, the ق with its two dots, and a third dot, 10 by 11 px, above the stroke that joins the ق to the descending letter: the dot of a ز. Transcribed انقزه; the form of the editor's note c has ر.",
+  "L07: «ڡلميش»: the initial loop without dots; the ي with its two dots and the ش with its three. L09: «دسقاٮا»: the ق with its two dots; the tooth before the final alif without a dot.",
+  "L08: «قومى»: after the ق a small loop on the line, 9 px wide, with a counter of 2 to 3 px, from which the tail descends below the line: a و joined to the ق, where a ر joined to a ق has no loop (frame 030, L06, «قرٮه»). Transcribed قومى.",
+  "L10: «سينستان», the name of entry 408 (frame 034, L08), with all its dots: the two dots of the ي below, the dot of the ن and the two dots of the ت.",
+  "Signs in the names, transcribed as printed: L11: «الوى» and «وهى» end in a ى without dots.",
+  "Letters printed without their dots in the numerals, transcribed so: ٮز (L03, the degrees of the longitude), a tooth without its dot joined to a ز with its dot, where the dot stands above the ز, 7 px to the left of the tooth; ٮط (L11, the degrees of the longitude and of the latitude), the tooth without its dot, where L05 and L06 print نط with the dot of the ن; the loop of ف or ق without dots in the degrees of the longitude, ڡمح (L10) and ڡص (L12), the loop joined to a ص. With their dots: ند (L01), نه (L02), نح (L04), نط (L05, L06); ن (L03, the minutes of the longitude); مز (L01, L07, the degrees of the latitude); يه (L05, the minutes of the longitude and of the latitude).",
+  "L08: the degrees of the latitude, «مر»: a ر without the dot of a ز; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed. L01 and L07 print the same degrees with the dot, مز.",
+  "The degrees printed with a final ح, نح (L04), سح (L08) and ڡمح (L10), the degrees of the longitude, and مح (L04, L06) and سح (L12), the degrees of the latitude, show no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.",
+  "The minutes of the latitude in L06-L08 and L11, «ٮه», are a tooth without its dot joined to a final ه, the form that L05 prints with the two dots of the ي, يه.",
+  "The page number «— ٣٤ —» stands at the foot, centred."
+ ],
+ "copy_matter": [
+  "Faint grey hairlines, fibres on the paper: L07, below the degrees of the latitude; L12, between the degrees of the latitude and the minutes of the longitude."
+ ],
+ "critical_notes": []
+}

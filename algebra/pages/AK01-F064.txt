@@ -1,0 +1,37 @@
+@page 64 ٤٨
+% Frame 064, printed p. 48: the twenty-first of the various problems concluded (a square and twenty dirhams and a
+% quarter equal to eleven roots and a quarter, to be solved as in the halving of the roots); the twenty-second, «فان
+% قال» in the face of the text: a quantity whose third times its quarter gives the quantity back (twelve things, the
+% root of a hundred and forty-four); the twenty-third: its third and a dirham times its quarter and two dirhams give
+% the quantity and thirteen dirhams more (reduced to a square equal to a hundred and thirty-two dirhams and a root);
+% the twenty-fourth: a dirham and a half divided among a man and part of a man, the man receiving twice the part,
+% continued on the next page. Below the rule two footnotes of the editors, the second with a displayed formula.
+فى اثنين وربع فيكون أحد عشر شيئا وربعاً فيصير معك مال وعشرون درهما
+وربع تعدل أحد عشر جذراً وربعاً فقابل بذلك كنحو ما وصفت لك فى
+تنصيف الأجذار ان شاء الله . فان قال مال تضرب ثلثه فى ربعه فيعود المال .
+قياسه أن تضرب ثلث شىء فى ربع شىء فيكون نصف سدس مال تعدل شيئا
+فالمال يعدل اثنى عشر شيئاً وهوجذر مائة وأربعةوأربعين . فان قال مال تضرب
+ثلثه ودرهما فى ربعه ودرهمين فيعود المال وزيادة ثلاثة عشر درهما . {n:١} فقياسه
+أن تضرب ثلث شىء فى ربع شىءفيكون نصف سدس مال وتضرب درهمين فى
+ثلث شىء فيكون ثلثى جذر ودرهمافى ربع شىء فيكون ربع جذر ودرهمين فى درهم
+بدرهمين فذلك نصف سدس مال ودرهمان وأحد عشرجزءاً من اثنى عشرجزءاً
+من جذر تعدل جذراً وثلاثة عشر درهمافالق درهمين من ثلاثة عشر بدرهمين
+فيبقى أحد عشر درهما والق أحد عشر جزءاً من جذر فيبقى نصف سدس جذر
+وأحد عشر درهما تعدل نصف سدس مال فاكمله وذلك أن تضربه فى اثنى عشر
+وتضرب كل ما معك فى اثنى عشر فيكون مالا يعدل مائة واثنين وثلاثين درهما
+وجذراً فقابل به تصب ان شاء الله تعالى كما وصفت لك . فان قال درهم ونصف
+مقسوم على رجل وبعض رجل فأصاب الرجل مثلى البعض {n:٢} . فقياسه أن
+@ednotes ١ ٢ 8
+@obs The problems of L03, L05 and L14 are introduced with فان قال (L03, L05, L14) in the face of the text, as on frames 062 and 063.
+@obs Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): وهوجذر (L05; 25 between the و and the ج, as in وهوجذرخمسة on frame 062, L03, where a word that ends in و stands 59 px from the next word in كنحو ما, L02); وأربعةوأربعين (L05; 6 between the ة and the conjunction و); شىءفيكون (L07; 7 between the hamza and the ف, where شىء فيكون stands 18 and 24 apart in L08 and 41 in L04); ودرهمافى (L08; 12 between the alif and the ف); عشرجزءاً (L09, twice; 30 between the ر and the ج above the baseline, the tail of the ر 27 and 28 px from the ج, as the ر stands 25 to 27 px from the ج inside رجل and الرجل, L15, its tail 20 to 25, and 30 to 34 px from the ب inside ربعه, L03, and وأربعين, L05, where the same words with a space, عشر جزءاً in L11, stand 49 apart, the tail 37; the top of the ر ends 4 and 5 px to the right of the head of the ج, as 4 to 7 px inside رجل and الرجل and 25 px in L11; the machine reading sets a space in both); درهمافالق (L10; 11 between the alif and the ف).
+@obs L12: فاكمله (L12) is one word, as printed: the top stroke of the ك reaches within 7 px of the alif, as in فاكمل on frame 063, L16; the body of the ك stands farther off and makes the word look divided.
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: شيئا وربعاً (L01; 22 between the alif and the conjunction و) and شيئاً وهوجذر (L05; 23), where the alif stands 9 px from the conjunction و in درهماونصفاً on frame 061, L06; جذر مائة (L05; 37 between the ر and the م above the baseline, the tail of the ر 23 px from the م, where the ر stands 25 to 34 px from the next letter inside a word on this page); شىء فيكون (L08; 18 between the hamza and the ف, where شىءفيكون in L07 has 7); عشر بدرهمين (L10; 34 between the ر and the ب above the baseline, as in وأربعين, L05, but the tail of the ر 22 px from the ب, where it stands 17 to 19 px from the ب inside ربعه, ربع and وأربعة, L03, L04, L07 and L05); أحد عشر (L11, the first; 16 between the د and the ع) and وأحد عشر (L12; 16), where the د stands 3 to 8 px from the ع in أحدعشر on frames 056 and 062 and 21 to 23 px in أحد عشر, L01, L09 and L11 (the machine reading joins the words in L12); مالا يعدل (L13; 28 between the لا and the ي, where the ligature stands 20 to 26 px from the next letter inside a word).
+@obs After ة a word space is transcribed where the gap is 16 px or more: مائة وأربعةوأربعين (L05; 23), وزيادة ثلاثة (L06; 26), ثلاثة عشر (L06; 22, L10; 23), وثلاثة عشر (L10; 25), مائة واثنين (L13; 21).
+@obs After the hamza on the line a word space is transcribed where the gap is 15 px or more: شاء الله (L03; 25, L14; 23), شىء فى (L04, L07; 23), شىء فيكون (L04; 41, L08; 18 and 24).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: مال تضرب (L05; 15 between the final ل and the ت), ودرهمين فيعود (L06; 9 between the ن and the ف), ثلث شىء (L08; 7 between the ث and the ش), سدس مال (L09; 9 between the س and the م).
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after الله, before فان (L03; 26 and 27), after المال at the end of that line (27), after وأربعين, before فان (L05; 29 and 25), after درهما (L06; 25), after لك, before فان (L14; 26 and 26), and between the note mark (٢) and فقياسه (L15; 32 and 32).
+@obs The note marks: (١) stands 41 px after the full stop of L06 and 16 px before فقياسه (L06), a narrow space, which is transcribed; (٢) stands 42 px after البعض (L15) and is followed by the full stop.
+@obs Plain alif where a hamza might be expected, as printed: اثنين (L01), ان, فان (L03), اثنى, فان (L05), اثنى (L09), درهمافالق (L10), والق (L11), فاكمله, اثنى (L12), اثنى, واثنين (L13), ان, فان (L14); with hamza: أحد (L01, L02, L11), الأجذار (L03), أن (L04, L07, L12, L15), وأربعةوأربعين (L05), وأحد (L09, L12), فأصاب (L15); on ي: شيئا (L01, L04), شيئاً (L05), مائة (L05, L13); the hamza on the line: شاء (L03, L14), شىء (L04, twice; L07; L08, twice), شىءفيكون (L07), جزءاً (L09, twice; L11).
+@obs With tanwīn on the final alif: وربعاً (L01, L02), جذراً (L02, L10), شيئاً (L05), جزءاً (L09, twice; L11), وجذراً (L14); without tanwīn as printed: شيئا (L01, L04), درهما (L01, L06, L11, L12, L13), ودرهما (L06), ودرهمافى (L08), درهمافالق (L10), مالا (L13).
+@obs The final yā' is printed without dots: فى (L01, L02, L03, L04, L06, L07, L08, L12, L13), ثلثى, ودرهمافى (L08), اثنى (L05, L09, L12, L13), فيبقى (L11, twice), تعالى (L14), على, مثلى (L15).
+@obs Notes (١) and (٢) of the editors: (١) restates the twenty-third problem as an equation in modern notation and solves it, the quantity twelve; (٢) says how the editors read the twenty-fourth: what the man receives, in dirhams, is in number twice the fraction of a man that the part is, not twice what the part receives; with that fraction x, one and a half divided by one and x equals twice x, a quadratic equation whose root is a half. Neither is reproduced.

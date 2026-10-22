@@ -1,0 +1,284 @@
+{
+ "anchor": "AK05-F081",
+ "frame": 81,
+ "frame_file": "page_081.jpg",
+ "frame_sha256": "988ed4f7ebd000bd06633c9fe408688b53d4025b3b0258e694c2b02a708f0477",
+ "printed_page": "٧٥",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 081, printed p. 75: the Great Sea continued, in running text: the coast from point to point, with the editor's running numbers (١١٣٣)-(١١٥٠) and the numbers of Suhrāb: the beginning of the Green Sea; past a town without a name, near the town of al-Ṭīb and below the towns فتانا and راڡاطا, to latitudes beyond the equator, with a remark of the author on those latitudes; the place touching the Dark Sea; the folio of the manuscript, «(fol. 19ᵃ)», within the line. Four lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F081-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "الطيلسان الى طول {ov:سح يه} والعرض {ov:ى ل} (١١٣٣) [٧١٩] يمرّ الى طول {ov:سد م} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "الطيلسان الى طول سح يه والعرض ى ل (١١٣٣) [٧١٩] يمرّ الى طول سد م والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F081-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "{ov:ى ك} (١١٣٤) [٧٢٠] وهٰذا الموضع هو اوّل حدّ بحر* الأخضر{n:a} ويمرّ الى طول {ov:سد ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "ى ك (١١٣٤) [٧٢٠] وهٰذا الموضع هو اوّل حدّ بحر* الأخضر ويمرّ الى طول سد ل",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F081-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "والعرض {ov:ه ك} (١١٣٥) [٧٢١] يمرّ الى طول {ov:سه ك}{n:b} والعرض {ov:ه {z}} (١١٣٦) [٧٢٢]",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض ه ك (١١٣٥) [٧٢١] يمرّ الى طول سه ك والعرض ه ō (١١٣٦) [٧٢٢]",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F081-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "يمرّ الى طول {ov:سح {z}} والعرض {ov:⟨ه يه⟩}{n:c} (١١٣٧) [٧٢٣] يمرّ بأسفل مدينة عند طول {ov:سط ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "يمرّ الى طول سح ō والعرض ⟨ه يه⟩ (١١٣٧) [٧٢٣] يمرّ بأسفل مدينة عند طول سط ل",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F081-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "والعرض {ov:و ى}{n:d} (١١٣٨) [٧٢٤] ويمرّ على صورة القوارة ⟨بقر⟩ب{n:e} اسفل مدينة الطيب",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض و ى (١١٣٨) [٧٢٤] ويمرّ على صورة القوارة ⟨بقر⟩ب اسفل مدينة الطيب",
+   "note_marks": [
+    "d",
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F081-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "ومماسّ* لأسفل مدينة فتانا عند طول {ov:عب ل} والعرض {ov:ٮ ك}{n:f} (١١٣٩) [٧٢٥]",
+   "margin": "(fol. 19ᵃ)",
+   "cells": null,
+   "plain": "ومماسّ* لأسفل مدينة فتانا عند طول عب ل والعرض ٮ ك (١١٣٩) [٧٢٥]",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F081-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "يمرّ الى طول {ov:سو ك} والعرض خلف خطّ الاستوى* {ov:{z} ك} (١١٤٠) [٧٢٦] يمرّ الى طول",
+   "margin": null,
+   "cells": null,
+   "plain": "يمرّ الى طول سو ك والعرض خلف خطّ الاستوى* ō ك (١١٤٠) [٧٢٦] يمرّ الى طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F081-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "{ov:سح م} والعرض {ov:ح ل} خلف الاستوى* (١١٤١) [٧٢٧] ويمرّ الى اسفل مدينة راڡاطا",
+   "margin": null,
+   "cells": null,
+   "plain": "سح م والعرض ح ل خلف الاستوى* (١١٤١) [٧٢٧] ويمرّ الى اسفل مدينة راڡاطا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F081-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "عند طول {ov:سه {z}} والعرض {ov:ز ل} خلف الاستوى* (١١٤٢) [٧٢٨] ويمرّ الى طول {ov:سح {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول سه ō والعرض ز ل خلف الاستوى* (١١٤٢) [٧٢٨] ويمرّ الى طول سح ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F081-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "والعرض {ov:ٮح {z}} (١١٤٣) [٧٢٩] * وهٰذه العروض الّتى نذكرها هى خلف خطّ الاستوى*",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض ٮح ō (١١٤٣) [٧٢٩] * وهٰذه العروض الّتى نذكرها هى خلف خطّ الاستوى*",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F081-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "الى ان تجوز⟨ه⟩{n:g} فنذكر ذٰلك * يمرّ الى طول {ov:عب {z}} والعرض {ov:ٮد {z}}{n:h} (١١٤٤) [٧٣٠]",
+   "margin": null,
+   "cells": null,
+   "plain": "الى ان تجوز⟨ه⟩ فنذكر ذٰلك * يمرّ الى طول عب ō والعرض ٮد ō (١١٤٤) [٧٣٠]",
+   "note_marks": [
+    "g",
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F081-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "يمرّ الى طول {ov:قيٮ {z}} والعرض {ov:ٮد {z}} (١١٤٥) [٧٣١] يمرّ الى طول {ov:قسد {z}} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "يمرّ الى طول قيٮ ō والعرض ٮد ō (١١٤٥) [٧٣١] يمرّ الى طول قسد ō والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F081-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "{ov:يح ل} (١١٤٦) [٧٣٢] وهٰذا الموضع مماسّ للبحر المظلم ويمرّ{n:i} البحر الأخضر{n:k} الى",
+   "margin": null,
+   "cells": null,
+   "plain": "يح ل (١١٤٦) [٧٣٢] وهٰذا الموضع مماسّ للبحر المظلم ويمرّ البحر الأخضر الى",
+   "note_marks": [
+    "i",
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F081-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "طول {ov:قسد {z}} والعرض {ov:ى {z}}{n:l} (١١٤٧) [٧٣٣] يمرّ الى طول {ov:قسا م} والعرض {ov:ى {z}}{n:m}",
+   "margin": null,
+   "cells": null,
+   "plain": "طول قسد ō والعرض ى ō (١١٤٧) [٧٣٣] يمرّ الى طول قسا م والعرض ى ō",
+   "note_marks": [
+    "l",
+    "m"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F081-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "(١١٤٨) [٧٣٤] ويمرّ الى طول {ov:قسج ى} والعرض {ov:و ك}{n:n} (١١٤٩) [٧٣٥] يمرّ على",
+   "margin": null,
+   "cells": null,
+   "plain": "(١١٤٨) [٧٣٤] ويمرّ الى طول قسج ى والعرض و ك (١١٤٩) [٧٣٥] يمرّ على",
+   "note_marks": [
+    "n"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F081-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "صورة الطيلسان الى طول {ov:قسا ه} والعرض {ov:ج {z}}{n:o} (١١٥٠) [٧٣٦] ويمرّ على صورة",
+   "margin": null,
+   "cells": null,
+   "plain": "صورة الطيلسان الى طول قسا ه والعرض ج ō (١١٥٠) [٧٣٦] ويمرّ على صورة",
+   "note_marks": [
+    "o"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L02: a variant reading is بحر الصين, the sea of China, for بحر* الأخضر (note a).",
+  "L03: a variant reading of the second longitude is سد ك, with a line over the numerals (note b).",
+  "L04: the manuscript is badly damaged at the latitude; the editor supplies it from S (note c).",
+  "L05: a variant reading of the latitude is و {z}, with a line over the numerals (note d).",
+  "L05: the manuscript is badly damaged at the word بقرب (note e).",
+  "L06: a variant reading of the latitude is ح ك, with a line over the numerals (note f).",
+  "L11: the manuscript lacks the ه of تجوزه (note g).",
+  "L11: a variant reading of the latitude is ٮه {z}, with a line over the numerals and the tooth without a dot (note h).",
+  "L13: in the manuscript الى follows ويمرّ (note i).",
+  "L13: a variant reading is البحر المظلم, the Dark Sea, for البحر الأخضر (note k).",
+  "L14: variant readings: of the first latitude د {z}, and of the second latitude ى ه, each with a line over the numerals (notes l and m).",
+  "L15: a variant reading of the latitude is و ل, with a line over the numerals (note n).",
+  "L16: a variant reading of the latitude is د ه, with a line over the numerals (note o)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The running text goes on from p. 74 (frame 080), whose last words, «ويمرّ على صورة», L01 continues with «الطيلسان»: the coast from point to point, with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}, the editor's running numbers in parentheses, (١١٣٣)-(١١٥٠), and the numbers of Suhrāb in square brackets, [٧١٩]-[٧٣٦], without a gap. L06: the folio of the Strasbourg manuscript, «(fol. 19ᵃ)», is printed in Latin type within the line, at its beginning; transcribed as a margin note before the line.",
+  "The places of the coast: L02: «وهٰذا الموضع هو اوّل حدّ بحر* الأخضر», this place is the first boundary of the Green Sea; L04: «يمرّ بأسفل مدينة عند طول», below a town whose name is not given; L05-L06: «ويمرّ على صورة القوارة ⟨بقر⟩ب اسفل مدينة الطيب ومماسّ* لأسفل مدينة فتانا», along the shape of the qawwāra near the lower part of the town of al-Ṭīb, and touching the lower part of the town of فتانا; L08: «ويمرّ الى اسفل مدينة راڡاطا», to below the town of راڡاطا; L13: «وهٰذا الموضع مماسّ للبحر المظلم ويمرّ البحر الأخضر الى», this place touches the Dark Sea, and the Green Sea passes to; L15-L16: «يمرّ على صورة الطيلسان», along the shape of the ṭaylasān, and «ويمرّ على صورة», continued on p. 76.",
+  "L07-L09: the latitudes of points 1140-1142 are said to be «خلف خطّ الاستوى*» (L07) and «خلف الاستوى*» (L08, L09), beyond the equator. L10-L11: a remark between two small open stars with six points, transcribed as asterisks: «* وهٰذه العروض الّتى نذكرها هى خلف خطّ الاستوى* الى ان تجوز⟨ه⟩ فنذكر ذٰلك *», and these latitudes that we give are beyond the equator, until you pass it; then we shall say so.",
+  "L02: «بحر*»; L06: «ومماسّ*»; L07, L08, L09, L10: «الاستوى*»: an asterisk with six solid arms stands after the word, raised like the note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (frame 046, L10). L13: «مماسّ» has no asterisk.",
+  "Angle brackets, transcribed as printed: L04: the latitude «⟨ه يه⟩», under its line with the brackets, followed by the note mark c: the manuscript is badly damaged there, and the editor supplies it from S (note c). L05: «⟨بقر⟩ب», followed by the note mark e: the editor supplies the first three letters of «بقرب», near, where the manuscript is badly damaged (note e). L11: «تجوز⟨ه⟩», followed by the note mark g: the editor supplies the pronoun, which the manuscript lacks (note g).",
+  "Signs in the text, transcribed as printed: «وهٰذا» (L02, L13), «وهٰذه» (L10) and «ذٰلك» (L11) with a dagger alif above the ه or the ذ; «اوّل», «حدّ», «خطّ», «مماسّ», «يمرّ» and «ويمرّ» with a shadda; «الأخضر» (L02, L13) and «لأسفل» (L06) with a hamza over the alif; «بأسفل» (L04) with a hamza over the alif; «الّتى» with a shadda over the ل; «الاستوى» and «هى» end in a ى without dots.",
+  "L08: «راڡاطا»: after «را», an upright loop, 17 by 16 px, joined to the following alif, without dots; transcribed ڡ. The editor's note on entry 1 of the table of the cities (frame 009) cites the name at (1142) as «راقاطا».",
+  "Letters printed without their dots in the numerals, transcribed so: L06, the degrees of the latitude: «ٮ», the flat bowl of a final ب without its dot, 2, before «ك»; L12: «قيٮ», the ق and the ي with their dots and the final ب without its dot, 112; a tooth without its dot in the degrees of the latitude, ٮح (L10) and ٮد (L11, L12), which read with a ي give 18 and 14, where L13 prints «يح» with the two dots of the ي. With their dots: يه (L01, L04), عب (L06, L11), the ب with its dot below, قسج (L15), with the dot of the ج, and ز (L09).",
+  "The ح of the numerals, سح (L01, L04, L08, L09), ح (L08) and ٮح and يح (L10, L13), shows no dot in the bowl; the same form is a ج without its dot, 3, which L15 and L16 print with its dot. Transcribed as printed. The isolated ى, 10, has no dots (L01, L02, L05, L14, L15). The isolated ك, 20, is printed with the small inner stroke of the letter.",
+  "The longitudes of the points pass from «عب {z}», 72 (L11), to «قيٮ {z}», 112 (L12), and «قسد {z}», 164 (L12); the editor's notes do not comment on them.",
+  "Note marks: L02, a after «الأخضر»; L03, b after the second longitude; L04, c after the latitude; L05, d after the latitude and e after «⟨بقر⟩ب»; L06, f after the latitude; L11, g after «تجوز⟨ه⟩» and h after the latitude; L13, i after «ويمرّ» and k after «الأخضر»; L14, l after the first latitude and m after the second; L15, n after the latitude; L16, o after the latitude.",
+  "The editor's footnotes stand in four lines below a short rule at the left: notes a-o. The page number «— ٧٥ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

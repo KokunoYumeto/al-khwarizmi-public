@@ -1,0 +1,51 @@
+@page 108 76
+@lang de
+% JP2 0108: Suter's commentary, p. 76: the end of chapters 26 and 26a (the factors for the other signs; the rule of O
+% with a lost tabula differentiarum); chapter 27, the seasonal hour; chapters 28-28b, the two shadows from the altitude
+% of the sun, begin (notes 1-4).
+@p Derselbe Faktor, der für den Widder gebraucht wird, gibt auch die Ascensional-
+Differenz für die Fische, Jungfrau und Wage, der Faktor für den Stier auch die-
+jenige für den Wassermann, Löwe und Skorpion, der Faktor für die Zwillinge auch
+die für den Steinbock, Krebs und Schützen. Bei Jungfrau, Wage, Löwe, Skorpion,
+Krebs und Schütze muss aber die Ascensional-Differenz zur Rectascension addiert
+werden.
+@p Im Ms. O befindet sich (in unserm Text p. 21) eine zweite Regel für die
+Bestimmung der {i:Ascensio obliqua,} die ich, da sie zu Kap. 26 gehört, aber an späterer
+Stelle eingeschoben ist, mit Kap. 26{sup:a} bezeichnet habe. Sie stimmt mit der erstern
+darin überein, dass sie sagt, man bestimme zuerst tg {i:φ} (den Aequinoctial-Schatten) ;
+dann multipliziert sie diesen aber nicht mit den oben genannten Faktoren, sondern
+verweist auf eine Tafel {i:differentiarum,} die aber sowohl in O als in C und N fehlt,
+in der man für jeden beliebigen Grad der Ekliptik die Grösse finde, mit der man
+tg {i:φ} multiplizieren müsse, um den Sinus der Ascensional-Differenz zu erhalten ; diese
+Tafel muss also die Werte für tg {i:δ} · {fr:60|144} für alle Grade der Ekliptik enthalten haben,
+und hätte also jedenfalls genauere Werte ergeben, als man sie mit Hilfe der obigen
+Faktoren erhält.
+@c {b:Kap. 27. Bestimmung der Grösse der Zeitstunde{sup:1}) eines beliebigen Tages für}
+@c {b:einen beliebigen Ort.}
+@c (Text p. 20—21.)
+@p Hiefür enthält unser Werk die kurze Regel : „Man teile den Tagebogen der
+Sonne durch 12, so hat man das Gesuchte.“ Dies ist allerdings erst die Länge einer
+Zeitstunde in Graden ; um sie in Zeit zu verwandeln, hat man bekanntlich die
+Beziehungen : 15° = 1{sup:h}, 15′ = 1{sup:m}, 15″ = 1{sup:s}. Wie man aber den Tagebogen bestimme,
+darüber enthalten unsere Tafeln keine Angaben.{sup:2})
+@c {b:Kap. 28—28{sup:b}. Wie man aus der Höhe der Sonne die beiden Schatten bestimmt}
+@c {b:und umgekehrt.{sup:3})}
+@c (Text p. 21—22, Tafel 60.)
+@p Auch über dieses Kapitel hat schon {sp:Björnbo} in der oben (p. 68) zitierten
+Schrift gesprochen. Der Radius ({i:Gnomon}) wird also = 12{sup:{i:p}} angenommen, bekanntlich
+hat erst {sp:Ḥabash}{sup:4}), ein Zeitgenosse {sp:Batt.}’s, die Cotangenten für den Radius 60
+berechnet, und dies wahrscheinlich {sp:nach} dem Erscheinen der Tafeln {sp:Batt.}’s, sonst
+hätte dieser wohl diese Tafeln benutzt.
+@n {sup:1}) Wie bekannt, unterschieden die Griechen und dann auch die Araber Zeit- und Aequatorial-
+@n stunden, die erstern waren der 12. Teil des Tagebogens, also ungleich je nach der geogr. Breite
+@n und Jahreszeit, die letztern sind unsere heutigen gleichen Stunden.
+@n {sup:2}) Vergl. {sp:Batt.} ed. {sp:Nallino}, I, 28–29.
+@n {sup:3}) Diese Kap., sowie die Tafel fehlen in N.
+@n {sup:4}) Vergl. {i:Abhandlgn. z. Gesch. d. mathem. Wissensch.} X, 1900, p. 12.
+@obs The page number «76» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L17 end chapters 26 and 26a (pp. 73-75, JP2 0105-0107). L18-L20 and L26-L28: the headings of chapters 27 and 28-28b, in bold, centred, in two lines each, with the references to the text below them; «26a», «28b», the letters raised.
+@obs L01-L06. Checked: the signs equally far from an equinox or a solstice have equal changes of the ascensional difference: Aries, Virgo, Libra and Pisces next to the equinoxes, Taurus, Leo, Scorpio and Aquarius, and Gemini, Cancer, Sagittarius and Capricorn next to the solstices. The ascensional difference grows from Capricorn to Cancer and shrinks from Cancer to Capricorn, so that for the six signs from Cancer to Sagittarius its change is added to the right ascension of the sign, as L04-L06 say.
+@obs L13-L15. Checked: with the shadow of the equinox 12 tg φ (gnomon 12) and the tangent 12 tg δ of the shadow table, (12 tg φ) · (12 tg δ) · 60 : 144 = 60 tg φ tg δ, the sine of the ascensional difference on a radius of 60 (p. 75, JP2 0107, L14-L18); the lost table would have given 12 tg δ · 60 : 144 for every degree. L15: the fraction 60/144 built up, written {fr:60|144}.
+@obs L21-L24: the rule of chapter 27 of the text in German quotation marks; «1h», «1m», «1s», the letters raised; 15° of the equator pass in an hour, 15′ in a minute, 15″ in a second. L30: «12p», the p raised and italic. L32: «nach» letter-spaced for emphasis, marked {sp:}.
+@obs The dashes: L20 «20—21» (32 px) and L28 «21—22» (35 px), the long dash of the small type of the references; L26 «28—28b», the long dash of the bold heading (47 px); N04 «28–29», the short dash (25 px).
+@obs Spaced type, marked {sp:}: «Björnbo», «Ḥabash», «Batt.», «nach», «Nallino»; italics: «Ascensio obliqua,», «φ», «differentiarum,», «δ», «Gnomon», the title in N06.
+@obs The colons and semicolons stand after the thin space of the edition (10-12 px measured).

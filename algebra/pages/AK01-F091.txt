@@ -1,0 +1,43 @@
+@page 91 ٧٥
+% Frame 091, printed p. 75: the problem of frame 090 concluded: eight ninths of the estate less two shares equal
+% thirteen; fifteen shares are eight ninths, the estate sixteen and seven eighths, the ninth one and seven eighths, the
+% mother's share two, thirteen to the heirs; a hundred and thirty-five in all. Under «فان أوصت بمثل نصيب الزوج» in
+% bold: the same heirs, the share of the husband and an eighth and a tenth of the estate bequeathed: sixteen shares are
+% thirty-one fortieths; four hundred and ninety-six and a hundred and forty-four, six hundred and forty; an eighth and
+% a tenth, a hundred and forty-four, the husband's share ninety-three, four hundred and three to the heirs. Under «فان
+% كانت الفريضة على حالها» in bold: the share of the husband less a ninth and a tenth of what remains after it,
+% continued on the next page. No footnotes.
+الورثة فتمم مالك وتمامه أن تجعل الثمانية الاتساع الا سهمين ثلاثة عشر سهماً
+فتزيد على ذلك سهمين فيكون خمسة عشر سهما تعدل ثمانية اتساع مال ثم تزيد
+على ذلك ثمنه وعلى خمسة عشر ثمنها وهو سهم وسبعة أثمان سهم لصاحب التسع
+من ذلك التسع وهو سهم وسبعة أثمان سهم وللآخر الموصى له بمثل نصيب الأم
+سهمان فيبقى ثلاثة عشر سهما بين الورثة على سهامهم ويصح من مائة وخمسة
+وثلاثين سهما.{b:فان أوصت بمثل نصيب الزوج} وبثمن المال وعشره فأقم سهام
+الفريضة فتكون ثلاثة عشر سهما ثم زد عليها مثل نصيب الزوج وهو ثلاثة
+فتكون ستة عشر وذلك مابقى من المال بعد الثمن والعشر وهو تسعة أجزاء من
+اربعين سهما والذى يبقى من المال بعد الثمن والعشر أحد وثلاثون جزءاً من
+اربعين جزءاً من مال وهو يعدل ستة عشر سهما فكمل مالك وهو أن تزيد عليه
+تسعة اجزاءمن أحد وثلاثين جزءاً فاضرب ستة عشر فى أحد وثلاثين فيكون
+ذلك اربعمائة وستة وتسعين فزد عليها تسعة اجزاء من أحد وثلاثين منها وهى مائة
+واربعة واربعون جزءاً فيكون ذلك ستمائة واربعين فالق ثمنها وعشرها مائة
+واربعة واربعين ومثل نصيب الزوج وهو ثلاثة وتسعون فيبقى اربعمائة وثلاثة
+للزوج من ذلك ثلاثة وتسعون وللأم اثنان وستون ولكل بنت مائة واربعة
+وعشرون . {b:فان كانت الفريضة على حالها} وأوصت لرجل بمثل نصيب الزوج
+الا تسع وعشر مايبقى من المال بعد النصيب . فقياس ذلك أن تقيم سهام الفريضة
+فتجدها من ثلاثة عشر سهما والوصية من جميع المال ثلاثة أسهم فيبقى مال الا
+ثلاثة أسهم ثم استثن تسع وعشر ما يبقى من المال فهو تسع مال وعشره الا تسع
+ثلاثة أسهم وعشرها وذلك تسعة عشر جزءاً من ثلاثين جزءاً من سهم فيكون
+ذلك مالا وتسعا وعشراً الا ثلاثة اسهم وتسعة عشر جزءاً من ثلاثين من سهم
+تعدل ثلاثة عشر سهما فاجبر مالك بثلاثة اسهم وتسعة عشر جزءاً من ثلاثين
+@obs L06 and L16: the words فان أوصت بمثل نصيب الزوج (L06) and فان كانت الفريضة على حالها (L16), the run-in headings of the next two problems, are printed in a bold face; the words that follow, وبثمن المال (L06) and وأوصت لرجل (L16), are in the face of the text. The bold ن is printed without its dot, as on frames 055-090; transcribed ن.
+@obs L03: لصاحب, with the ل 5 px (nearest approach of the ink at 400 ppi) from the ص: the stroke that joins them is not printed, as in the same word on frame 087, L12, where the gap is 2 px; the machine reading has اصاحب.
+@obs L12: عليها, with the two dots of the ي printed low, their top 33 px below the baseline, where the same word in L07 has them 20 px below; the machine reading has علها.
+@obs L13 and L22: the ع of وعشرها (L13) and of the first عشر (L22) is printed with its upper arc detached from its lower stroke, so that the letter looks like a د; transcribed ع.
+@obs Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): مابقى (L08; 17 between the alif and the ب) and مايبقى (L17; 19 between the alif and the ي), where ما يبقى with a space has 33 in L19 and the alif stands 17 and 18 px from a tooth inside a word on this page, in اتساع (L02) and اربعمائة (L12, L14); اجزاءمن (L11; 2 between the hamza on the line and the م).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: منها وهى (L12; 21 between the alif and the conjunction و), حالها وأوصت (L16; 21), وعشرها وذلك (L20; 22) and تسعا وعشراً (L21; 22), where the alif stands 9 to 13 px from the conjunction و without a space (frames 061 and 089); ستة عشر (L10; 17 between the ة and the ع, at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: ذلك اربعمائة (L12; 9 between the ك and the alif), من المال (L17; 9 between the ن and the alif), the bold فان أوصت (L06).
+@obs The full stops: in L06 the full stop stands close after سهما, 15 px (nearest approach of the ink at 400 ppi) from the alif, and close before the bold فان, 10 px, and is transcribed without a space on either side, as the print sets it (as on frame 055); after وعشرون, before the bold فان (L16; 21 and 19), and after النصيب, before فقياس (L17; 20 and 22), the full stops stand between spaces.
+@obs Plain alif where a hamza might be expected, as printed: الاتساع, الا (L01), اتساع (L02), the bold فان (L06), اربعين (L09, L10), اجزاءمن, فاضرب (L11), اربعمائة, اجزاء (L12), واربعة, واربعون, واربعين, فالق (L13), واربعة, واربعين, اربعمائة (L14), اثنان, واربعة (L15), the bold فان (L16), الا (L17), الا (L18), استثن, الا (L19), الا, اسهم (L21), فاجبر, اسهم (L22); with hamza: أن (L01), أثمان (L03), أثمان, الأم (L04), the bold أوصت, فأقم (L06), أجزاء (L08), أحد (L09), أن (L10), أحد (L11, twice), أحد (L12), وللأم (L15), وأوصت (L16), أن (L17), أسهم (L18, L19, L20); with madda: وللآخر (L04); on ي: مائة (L05), اربعمائة, مائة (L12), ستمائة, مائة (L13), اربعمائة (L14), مائة (L15); the hamza on the line: أجزاء (L08), جزءاً (L09, L10, L11, L13, L21, L22; L20, twice), اجزاءمن (L11), اجزاء (L12).
+@obs With tanwīn on the final alif: سهماً (L01), جزءاً (L09, L10, L11, L13, L21, L22; L20, twice), وعشراً (L21); without tanwīn as printed: سهما (L02, L05, L06, L07, L09, L10, L18, L22), مالا, وتسعا (L21).
+@obs The final yā' is printed without dots: على (L02), على, وعلى (L03), الموصى (L04), فيبقى, على (L05), مابقى (L08), والذى, يبقى (L09), فى (L11), وهى (L12), فيبقى (L14), the bold على (L16), مايبقى (L17), فيبقى (L18), يبقى (L19).
+@obs The print stretches ولكل (L15, between the ل and the ك) with the elongation stroke; the stroke is not transcribed.

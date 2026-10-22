@@ -1,0 +1,352 @@
+{
+ "anchor": "AK05-F039",
+ "frame": 39,
+ "frame_file": "page_039.jpg",
+ "frame_sha256": "c2c6c11d53fed2c82e9d35165a251378fa5b0026c5232b88757aefd81772584a",
+ "printed_page": "٣٣",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 039, printed p. 33: the heading of the seventh clime, «الإقليم السابع عرضه مح», its latitude 48°, and of its cities; entries 475-487: مارٮاٮوس, a name that the editor supplies but for its last letter, at the mountain, Arāṭī, Mānāyālūs, Frāṭā, Abīrdabīn, Warqīs, an entry that is the word «مدينة» alone, Arzamī, Aslīthā, Chalcedon on a gulf, Heraclea and Aṭūrmā. Three lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F039-L01",
+   "n": 1,
+   "kind": "heading",
+   "text": "* الإقليم السابع عرضه {ov:مح} *",
+   "margin": null,
+   "cells": null,
+   "plain": "* الإقليم السابع عرضه مح *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F039-L02",
+   "n": 2,
+   "kind": "heading",
+   "text": "* المدن الّتى فى الإقليم السابع *",
+   "margin": null,
+   "cells": null,
+   "plain": "* المدن الّتى فى الإقليم السابع *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F039-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٤٧٥) | [٤٣٧] | مارٮاٮوس{n:a} | ٮط | ن | مو | ل",
+   "margin": null,
+   "cells": [
+    "(٤٧٥)",
+    "[٤٣٧]",
+    "مارٮاٮوس{n:a}",
+    "ٮط",
+    "ن",
+    "مو",
+    "ل"
+   ],
+   "plain": "(٤٧٥) | [٤٣٧] | مارٮاٮوس | ٮط | ن | مو | ل",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F039-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٤٧٦) | [٤٤١] | ⟨ماڡلو⟩ٮ{n:b} مع الجبل | لٮ | ك | مر | ل",
+   "margin": null,
+   "cells": [
+    "(٤٧٦)",
+    "[٤٤١]",
+    "⟨ماڡلو⟩ٮ{n:b} مع الجبل",
+    "لٮ",
+    "ك",
+    "مر",
+    "ل"
+   ],
+   "plain": "(٤٧٦) | [٤٤١] | ⟨ماڡلو⟩ٮ مع الجبل | لٮ | ك | مر | ل",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F039-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٤٧٧) | [٤٣٨] | اراطى | لٮ | ل | مز | {z}",
+   "margin": null,
+   "cells": [
+    "(٤٧٧)",
+    "[٤٣٨]",
+    "اراطى",
+    "لٮ",
+    "ل",
+    "مز",
+    "{z}"
+   ],
+   "plain": "(٤٧٧) | [٤٣٨] | اراطى | لٮ | ل | مز | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F039-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٤٧٨) | [٤٤٢] | مدينة مانايالوس | لد | يه | مه | ى",
+   "margin": null,
+   "cells": [
+    "(٤٧٨)",
+    "[٤٤٢]",
+    "مدينة مانايالوس",
+    "لد",
+    "يه",
+    "مه",
+    "ى"
+   ],
+   "plain": "(٤٧٨) | [٤٤٢] | مدينة مانايالوس | لد | يه | مه | ى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F039-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٤٧٩) | [٤٣٩] | مدينة فراطا | له | {z} | مح | ٮه",
+   "margin": null,
+   "cells": [
+    "(٤٧٩)",
+    "[٤٣٩]",
+    "مدينة فراطا",
+    "له",
+    "{z}",
+    "مح",
+    "ٮه"
+   ],
+   "plain": "(٤٧٩) | [٤٣٩] | مدينة فراطا | له | ō | مح | ٮه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F039-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٤٨٠) | [٤٤٣] | ابيردبين{n:c} | م | مه | مح | ك",
+   "margin": null,
+   "cells": [
+    "(٤٨٠)",
+    "[٤٤٣]",
+    "ابيردبين{n:c}",
+    "م",
+    "مه",
+    "مح",
+    "ك"
+   ],
+   "plain": "(٤٨٠) | [٤٤٣] | ابيردبين | م | مه | مح | ك",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F039-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٤٨١) | [٤٤٠] | ورقيس{n:d} | مٮ | {z} | مز | ٮه",
+   "margin": null,
+   "cells": [
+    "(٤٨١)",
+    "[٤٤٠]",
+    "ورقيس{n:d}",
+    "مٮ",
+    "{z}",
+    "مز",
+    "ٮه"
+   ],
+   "plain": "(٤٨١) | [٤٤٠] | ورقيس | مٮ | ō | مز | ٮه",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F039-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٤٨٢) | [٤٤٤] | مدينة | مح | ك | مو | ل",
+   "margin": null,
+   "cells": [
+    "(٤٨٢)",
+    "[٤٤٤]",
+    "مدينة",
+    "مح",
+    "ك",
+    "مو",
+    "ل"
+   ],
+   "plain": "(٤٨٢) | [٤٤٤] | مدينة | مح | ك | مو | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F039-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٤٨٣) | [٤٤٥] | ارزمى | مد | ن | مو | ك",
+   "margin": null,
+   "cells": [
+    "(٤٨٣)",
+    "[٤٤٥]",
+    "ارزمى",
+    "مد",
+    "ن",
+    "مو",
+    "ك"
+   ],
+   "plain": "(٤٨٣) | [٤٤٥] | ارزمى | مد | ن | مو | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F039-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٤٨٤) | [٤٤٦] | اسليثا | مه | {z} | مح | ى",
+   "margin": null,
+   "cells": [
+    "(٤٨٤)",
+    "[٤٤٦]",
+    "اسليثا",
+    "مه",
+    "{z}",
+    "مح",
+    "ى"
+   ],
+   "plain": "(٤٨٤) | [٤٤٦] | اسليثا | مه | ō | مح | ى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F039-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٤٨٥) | [٤٤٧] | حلڡدوں{n:e} على خليج | ن | ل | مو | {z}",
+   "margin": null,
+   "cells": [
+    "(٤٨٥)",
+    "[٤٤٧]",
+    "حلڡدوں{n:e} على خليج",
+    "ن",
+    "ل",
+    "مو",
+    "{z}"
+   ],
+   "plain": "(٤٨٥) | [٤٤٧] | حلڡدوں على خليج | ن | ل | مو | ō",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F039-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٤٨٦) | [٤٤٨] | هرقله | نج | كه | مو | له",
+   "margin": null,
+   "cells": [
+    "(٤٨٦)",
+    "[٤٤٨]",
+    "هرقله",
+    "نج",
+    "كه",
+    "مو",
+    "له"
+   ],
+   "plain": "(٤٨٦) | [٤٤٨] | هرقله | نج | كه | مو | له",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F039-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٤٨٧) | [٤٤٩] | اطورما{n:f} | ند | ك | مه | ى",
+   "margin": null,
+   "cells": [
+    "(٤٨٧)",
+    "[٤٤٩]",
+    "اطورما{n:f}",
+    "ند",
+    "ك",
+    "مه",
+    "ى"
+   ],
+   "plain": "(٤٨٧) | [٤٤٩] | اطورما | ند | ك | مه | ى",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L03: at entry (2071) the name is written مارٮانوس, with the dot of the ن.",
+  "L04: the manuscript has a gap; the editor supplies the name from entries (879-880); at entry (2147) the name is written نياقيلون.",
+  "L08: at entry (2148) the name is written انردس.",
+  "L09: at entry (2148) the name is written ورقس.",
+  "L13: at entry (1055) the name is written حلقيدون.",
+  "L15: at entry (1952) the name is written اطوما, with the variant reading الوما."
+ ],
+ "unresolved": [],
+ "observations": [
+  "L01-L02: the page begins with the heading of the seventh clime and of its cities, set between small open stars, followed by its first cities, entries 475-487. The latitude of the clime, «مح», 48°, is printed with a line above the numeral, transcribed with {ov:…}; the ح has no dot in the bowl. In both headings the alif of الإقليم carries a hamza below; L02: «الّتى», with a shadda over the ل, and «فى» without dots on the ى.",
+  "All entries have numbers of Suhrāb: [٤٣٧], [٤٤١], [٤٣٨], [٤٤٢], [٤٣٩], [٤٤٣], [٤٤٠] (entries 475-481) and [٤٤٤]-[٤٤٩] (entries 482-487). Entries 478 and 479 begin with the word «مدينة»; entry 482 is the word alone.",
+  "L04: the name of entry 476 is printed «⟨ماڡلو⟩ٮ»: the editor supplies the first five letters between angle brackets (note b: from entries 879-880); after the closing bracket stands an isolated ب without its dot, followed by the note mark b. The loop of the ف or ق has no dots.",
+  "L03: «مارٮاٮوس»: neither the tooth before the first alif nor the tooth before the و has a dot; the form that the editor's note a gives from entry (2071) has the dot of the ن. Transcribed as printed.",
+  "L13: «حلڡدوں»: an initial ح without a dot; a ل; a loop without dots standing above the line, 17 px high, as the ق of «هرقله» (L14); a د, a و and a final ن without its dot. Transcribed as printed; the note mark e stands above the left end of the ن.",
+  "L09: «ورقيس»: the و and the ر touch below the line; the ق has its two dots and the ي its two dots below.",
+  "Signs in the names, transcribed as printed: L05: «اراطى» and L11: «ارزمى» end in a ى without dots.",
+  "Letters printed without their dots in the numerals, transcribed so: ٮط (L03, the degrees of the longitude), the tooth without its dot; لٮ (L04, L05) and مٮ (L09), the degrees of the longitude, with a final ب without its dot, 32 and 42. With their dots: ن (L03, L11, the minutes of the longitude; L13, the degrees of the longitude); نج (L14), the ن with its dot above and the ج with its dot in the bowl; ند (L15); يه (L06); مز (L05, L09, the degrees of the latitude).",
+  "L04: the degrees of the latitude, «مر»: a ر without the dot of a ز; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed. L05 and L09 print the same degrees with the dot, مز.",
+  "The degrees printed with a final ح, مح (L07, L08, L12, the degrees of the latitude; L10, the degrees of the longitude), show no dot in the bowl; the same form is a ج without its dot, 3, which the print gives with its dot in نج (L14). Transcribed as printed.",
+  "The isolated ك, 20, is printed with the small inner stroke of the letter (L04, L10, L15, the minutes of the longitude; L08, L11, the minutes of the latitude). The minutes of the latitude in L07 and L09, «ٮه», are a tooth without its dot joined to a final ه, the form that L06 prints with the two dots of the ي, يه.",
+  "Specks, not transcribed: L09, a dark speck, 4 by 5 px, above the left part of the degrees of the longitude, «مٮ», where a ب has its dot below; L04 and L12, dark specks to the right of the column of the longitude.",
+  "Below the notes, at the left, the signature «3» of the printed sheet; the page number «— ٣٣ —» stands at the foot, centred."
+ ],
+ "copy_matter": [
+  "Faint wavy grey hairlines, fibres on the paper: L02, to the right of the heading; L08, to the left of the name."
+ ],
+ "critical_notes": []
+}

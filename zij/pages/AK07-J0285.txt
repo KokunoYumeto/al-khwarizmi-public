@@ -1,0 +1,108 @@
+@page 285 251
+@lang de
+% JP2 0285: the index of names and subjects, p. 251: Digiti to Hermannus (D-H), in two columns.
+@cl Digiti = Teile des Mond- bezw. Sonnendurch-
+@cl messers 26, 27, 87—89, 95.
+@cl Dignitates s. Erhöhungen.
+@cl Diluvium 3, 35, T. 1.
+@cl Diocletianus (Kaiser) XV, T. 1.
+@cl Dispositio (casarum duodecim) s. Häuser,
+@cl astrol.
+@cl Distantia definita 16, 68.
+@cl Distanz, geozentr. des Epizykelzentrums 48, 49.
+@cl Diversitas aspectus vel aspectuum s. Parallaxe.
+@cl — respectus s. dasselbe.
+@cl Djābir b. Aflaḥ 69.
+@cl Domicilia 103, 106, T. 116.
+@cl Domini 31, 103, 104, T. 116.
+@cl Dorotheus 99, 100.
+@cl Dozy, R. 36.
+@cl Drachenkopf s. Knotenpunkte (des Mondes).
+@cl Drachenschwanz s. dasselbe.
+@cl Dracones s. dasselbe.
+@cl Durchmesser (rota) scheinbarer (des Mondes)
+@cl 23, 78—79, 90, T. 61—66.
+@cl — scheinbarer (der Sonne) 22—23, 78—79, T.
+@cl 61—66.
+@cl — des Erdschattens 90, 91, T. 61—66.
+@cl {b:E.}
+@cl Eclipsis s. Verfinsterung.
+@cl Ekliptik 44, 47, 58—61, 63, 72—74, 76, 96—101 ;
+@cl Schiefe derselben 19, 33, 58, 72, 105.
+@cl Ekliptik-Zenitdistanz 92, 93.
+@cl Emersio s. Respiratio.
+@cl Emirethius (?), vielleicht Eumathius (wahr-
+@cl scheinl. = Ammonius), dessen Kanon
+@cl (astron. Tafeln) von al-Zarḳālī verbessert
+@cl worden sein soll (vergl. Nachtrag 5) T. 7, 92.
+@cl ἔμπτωσις = das Hineinfallen 87.
+@cl Epicyclus XX, XXI, 44, 47—49, 51, 57, 60, 61,
+@cl 234 ; Radius desselben beim Mond 46, bei
+@cl den Planeten 48.
+@cl Era s. Aera.
+@cl Erdschatten s. Umbra terrae.
+@cl Erhöhungen 103, 104, 106, T. 116.
+@cl Eumathius s. Emirethius.
+@cl Evectio 45.
+@cl Exagonum s. Sextilschein.
+@cl Exaltatio s. Erhöhung.
+@cl Examen s. das folg.
+@cl Examinatio (Gleichung) der Sonne, des Mondes
+@cl und der Planeten XIV, 9, 10, 24, 43—46, 82,
+@cl 83, T. 21—26.
+@cl — argumenti (= anomaliae, {i:elheza}) 10, 11,
+@cl 48—54, 233—235, T. 27—56.
+@cr Examinatio centri 11, 12, 48—54, 233, 234, T.
+@cr 27—56.
+@cr Exzentrizität, der Planetenbahnen 47, 48, 234.
+@cr — der Sonnenbahn 45.
+@cr {b:F.}
+@cr Facies (= Decanus), der dritte Teil (10°) eines
+@cr Tierkreiszeichens, 16, 68, 103, 104, T. 116.
+@cr Fall s. Tiefstand.
+@cr Feria = Wochentag 1, 5—7, 36, 37.
+@cr Fines s. Grenzen.
+@cr Finsternisse s. Verfinsterung.
+@cr Fleischer, H. L. 105.
+@cr {b:G.}
+@cr Gegenschein 99.
+@cr Geib s. Sinus.
+@cr Gerbert (Pabst Sylvester II.) X.
+@cr Gerhard von Cremona VIII, 69.
+@cr Gerlandus X.
+@cr Ghoarizmi s. Khwārizmī.
+@cr Gleichung der Anomalie und des Centrums
+@cr (bei Battānī) 48, 50.
+@cr — des Apogeums 50.
+@cr — der Apsis 51.
+@cr — der Konjunktion 51.
+@cr Gleichungen (der Sonne, des Mondes, der
+@cr Anomalie, des Centrums) s. Examinatio.
+@cr — (der Planeten) 33, 49, 55, 105 ; s. auch
+@cr Examinatio (argumenti und centri).
+@cr Gnomon 72, 74—76.
+@cr Goebel, J. XXII (N. 1).
+@cr Gonzalez XVlI (N.)
+@cr Greenwich 83, 85.
+@cr Grenzen (ungleiche Teile der Tierkreiszeichen)
+@cr 104, 105, T. 116.
+@cr Gründe der Tafeln des Khwārizmī 41, 51.
+@cr {b:H.}
+@cr Ḥabash, der Rechner, 66, 76, 77.
+@cr Halbierung der Gleichung (der Planeten) 49—52.
+@cr Ḥarrān 74.
+@cr Haskins, C. H. VII, X, 236.
+@cr Häuser, die 12 astrologischen, 25 ; Verteilung
+@cr (aequatio, dispositio) derselben 29, 30, 96—98,
+@cr 106, T. 79—90.
+@cr Heiberg, J. L. XIII, XXIV, XXV, 44, 57, 74, 81,
+@cr 90, 233.
+@cr Henry, C. XXIII.
+@cr Hermes Trismegistos XXII.
+@cr Hermannus Contractus X.
+@cr — Dalmata XIII, XVIII (N.).
+@obs The page number «251» stands at the head of the page, centred, with a rule below it. At the foot, the signature «32*» on the right; recorded here, not transcribed as a line. Two columns divided by a vertical rule, as on pp. [249]-250 (JP2 0283-0284), transcribed column by column: the left column L01-L51, the right L52-L100; the letter heads «E.» (L25), «F.» (L56), «G.» (L64) and «H.» (L87) in bold, centred in their columns, each after a blank line; each entry begins at the edge of its column, its further lines indented, the subentries with a dash indented less.
+@obs The semicolons of L27, L37, L78 and L92 stand after a thin space (13, 8, 9 and 9 px); written with a space. The dashes are long (27-46 px). L35: «ἔμπτωσις» in the slanted Greek type of the edition; L50: «elheza» in italics. L44: the point after «s» stands 4 px above the base line; read as a point. L58: the 1 of «16» printed damaged, so that it looks like a J. L89: «(der Planeten)» set close in a full line. L67: «Pabst», the older spelling of «Papst». L46: «Exaltatio s. Erhöhung.» refers to the entry «Erhöhungen» (L41). L98: «Hermes Trismegistos» stands before «Hermannus Contractus» (L99), out of the alphabetical order of the index.
+@obs Checked against the text, for example: «Diluvium» on p. 35 and in Tab. 1, «Diocletiani» on p. XV, «distantia definita» on pp. 16 and 68, the geocentric distance of the centre of the epicycle on pp. 48-49 (JP2 0080-0081), «Djābir b. Aflaḥ» on p. 69, «dominus» on p. 31 (JP2 0063), «Dorotheus» on pp. 99-100, «Dozy» on p. 36, «Ekliptik-Zenitdistanz» on pp. 92-93, «Emirethium» in the apparatus of Tab. 7 (p. 118, JP2 0150) and in the fifth addition (p. 236, JP2 0268), with the «Mirech» of C in Tab. 92, «ἔμπτωσις» on p. 87 (JP2 0119), «Evectio» on p. 45, «signi faciem» on p. 16 (JP2 0048, L22), the facies on p. 68 (JP2 0100) and pp. 103-104, «feria» on pp. 5-7, 36 and 37, «Fleischer» on p. 105, «Gerberts» on p. X (JP2 0014), «Gerhard von Cremona» on pp. VIII and 69, «Goebel» on p. XXII, «Gonzalez» on p. XVII, «Ḥabash» on pp. 66, 76 and 77, «Ḥarrān» on p. 74, «Haskins» on pp. VII, X and 236, «Heiberg» on all the pages cited, «Henry» on p. XXIII, «Hermes Trismegistos» on p. XXII, «Hermannus Dalmata» on pp. XIII and XVIII.
+@critical AK07-CN307 | wrong sort | L82 | XVlI | XVII | Gonzalez is cited in a note of p. XVII (JP2 0021); the third sign of the numeral is a lowercase l, with the sloping serif of the l, where the I beside it has level serifs, as in «Vl» for VI on p. 250 (JP2 0284, L39) | high | none
+@critical AK07-CN308 | missing point | L82 | (N.) | (N.). | the entries of the index end with a point, also after a parenthesis, as «XXII (N. 1).» in the entry above (L81) and «XVIII (N.).» (L100) | high | none

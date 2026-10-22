@@ -1,0 +1,52 @@
+@page 90 58
+@lang de
+% JP2 0090: Suter's commentary, p. 58: the end of chapter 14 (the stations of al-Khwārizmī, al-Battānī and Ptolemy);
+% chapter 15, the declination of the sun and the obliquity of the ecliptic, 23° 51′; chapter 16, the latitude of the
+% moon and the argument of latitude (notes 1-3).
+@p Die Werte der {i:Statio prima} bei {sp:Kh.} stimmen mehr mit denen bei {sp:Batt.}, als
+mit denen bei {sp:Ptol.} überein, doch kommen zwischen {sp:Kh.} und {sp:Batt.} bisweilen
+Unterschiede von 1′ bis 2′ vor. Die grössern Abweichungen bei {sp:Ptol.} rühren davon
+her, dass dieser als Argument das {i:mittlere Centrum}, die beiden arabischen Astronomen
+aber das {i:Centrum aequatum} annehmen. Die Übereinstimmung zwischen {sp:Batt.} und
+{sp:Kh.} ist gewiss keine zufällige, ohne Zweifel hat {sp:Batt.} die Tafeln {sp:Kh.}’s gekannt und
+wohl auch benutzt, wenn er sie auch nie zitiert.
+@c {b:Kap. 15. Über die Deklination der Sonne.}
+@c (Text p. 13, Tafeln 21—26.)
+@p Über diese Tafeln ist wenig zu bemerken. {i:Porta} im Titel ist die Übersetzung
+des arabischen {i:bāb} = Pforte, Kapitel. Die Kolonne in den Tafeln 21—26, die die
+Deklination der Sonne enthält, ist überschrieben : {i:Obliquatio solis} = Neigung der
+Sonne (arab. {i:mail al-shams}) ; wir finden dann von 0° bis 90° (bezw. 360°—270°) hin-
+zugefügt {i:accedentis} (für {i:ascendentis}), von 90° bis 180° (270°—180°) {i:recedentis} (für
+{i:descendentis}). Die {i:grösste Deklination}, also {i:Schiefe der Ekliptik}, gibt {sp:Kh.} zu 23° 51′ an.
+Der {i:Sūrya-Siddhānta}{sup:1}) hat 24°, die Verfasser der „erprobten Tafeln“ geben sie zu
+23° 33′ an, {sp:Ptol.} hat den Wert 23° 51′ 20″, {sp:Batt.} 23° 35′ ; {sp:Kh.} schliesst sich also am
+nächsten an {sp:Ptol.} an, er lässt bloss die 20″ weg (vergl. oben p. 33). Es ist übrigens
+zu bemerken, dass eine Reihe arabischer Astronomen den ptolemäischen Wert eben-
+falls mit Weglassung der Sekunden zu 23° 51′ angeben. Die Werte {sp:Kh.}’s weichen
+von denen nach der Formel sin {i:δ} = sin {i:l} · sin {i:e} (wo {i:l} die Grade der Ekliptik vom
+Frühlingspunkt an gezählt, also die Länge der Sonne, und {i:e} die Schiefe der Ekliptik
+bezeichnen) berechneten im Maximum um 2″ ab. Diese Deklinationswerte bilden
+ein schönes Zeugnis dafür, mit welcher Genauigkeit {sp:Kh.} bei der Abfassung seines
+Tafelwerkes vorgegangen ist.
+@c {b:Kap. 16. Über die Breite des Mondes.}
+@c (Text p. 14, Tafel 21—26, u. 19—20.)
+@p Die Breite des Mondes wird nach der gleichen Formel bestimmt wie die Deklina-
+tion der Sonne, also {i:sin latit. lunae} = {i:sin des Argumentes der Breite} × {i:sin der Schiefe}
+{i:der Mondbahn.} Unter dem Argument der Breite versteht man die Entfernung des
+wahren Ortes des Mondes in der Ekliptik vom nördlichen Knoten (Drachenkopf).
+Dieses {i:Argument der Breite} wird auf folgende Weise gefunden :
+@p Man addiert zum wahren Ort des Mondes die mittlere Länge des Dıachenkopfes
+[und subtrahiert von dieser Summe, wenn sie 360° übersteigt, diese Grösse]{sup:2}).
+@p {sp:Batt.} hat dieselbe Regel, dann aber noch folgende, die {sp:Kh.} weglässt : Man
+subtrahiert den wahren Ort des Drachenkopfes vom wahren Ort des Mondes, so hat
+man das Argument der Breite{sup:3}).
+@n {sup:1}) Ed. {sp:Burgess}, p. 201.
+@n {sup:2}) Was in eckigen Klammern steht, fehlt bei {sp:Kh.}
+@n {sup:3}) Ed. {sp:Nallino}, I, 76.
+@obs The page number «58» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L07 end chapter 14 (pp. 56-57, JP2 0088-0089). L08-L09 and L26-L27: the headings of chapters 15 and 16, in bold, centred, each with the reference to the text below it.
+@obs L10-L25: the obliquity of the ecliptic: al-Khwārizmī 23° 51′, the Sūrya-Siddhānta 24°, the «tested tables» 23° 33′, Ptolemy 23° 51′ 20″, al-Battānī 23° 35′. Ptolemy's value is half of the 47° 42′ 40″ between the tropics of Almagest I, 12; L18: «vergl. oben p. 33» refers to Ibn al-Qifṭī's report that al-Khwārizmī took the declination of the sun after Ptolemy (p. 33, JP2 0065, L03-L08). The declinations of Tables 21-26 are to be compared with the tables.
+@obs L21: «sin δ = sin l · sin e», δ, l and e in italics, «sin» upright, «·» the raised dot of multiplication; L29-L30: the rule for the latitude of the moon in italics, «×» the sign of multiplication, «=» upright.
+@obs L33-L37. Checked: the tables of the node give 360° less its longitude (p. 55, JP2 0087, L10-L13), so that the tabulated value added to the true longitude of the moon, 360° cast off when the sum exceeds it, is the true longitude of the moon less that of the node, the argument of latitude of al-Battānī's second rule. L33: the r of «Drachenkopfes» is printed without its arm; see the critical note. L34: the passage in square brackets, which note 2 says al-Khwārizmī does not have.
+@obs L17: the prime of «51′» in «23° 51′ 20″» is a heavier sort than the other primes of the page. N01: a speck above the point after «201»; not transcribed. Spaced type, marked {sp:}: «Kh.», «Batt.», «Ptol.», «Burgess», «Nallino»; italics: «Statio prima», «mittlere Centrum», «Centrum aequatum», «Porta», «bāb», «Obliquatio solis», «mail al-shams», «accedentis», «ascendentis», «recedentis», «descendentis», «grösste Deklination», «Schiefe der Ekliptik», «Sūrya-Siddhānta», «Argument der Breite» (L32).
+@obs The colons and semicolons stand after the thin space of the edition (9-14 px measured).
+@critical AK07-CN054 | damaged letter | L33 | Dıachenkopfes | Drachenkopfes | «die mittlere Länge des Drachenkopfes», as «Drachenkopf» in L31 and L36; the r is printed without its arm, as the r of «der» on p. 49 (JP2 0081, L27) | high | none

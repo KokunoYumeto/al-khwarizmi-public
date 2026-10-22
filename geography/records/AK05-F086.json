@@ -1,0 +1,249 @@
+{
+ "anchor": "AK05-F086",
+ "frame": 86,
+ "frame_file": "page_086.jpg",
+ "frame_sha256": "fb179e9ac8aa2e74aa585ea5335c0feb1098c8fa68e5c5c5a893f6cb02dd866a",
+ "printed_page": "٨٠",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 086, printed p. 80: the end of the Great Sea, in running text: the coast past the towns الفس and مارا, the mouth of two rivers, Jidda and al-Jār, near Madyan and below al-Qulzum, back to the place where it began (points 1227-1230); the heading of the sea of Khwārazm and the sea of Jurjān, Ṭabaristān and al-Daylam, which are one; and its first points, from the mountain يون, with the editor's running numbers (١٢٣١)-(١٢٣٩); the folio of the manuscript, «(fol. 20ᵇ)», within the line. Four lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F086-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "الفس{n:a} ويصير الى طول {ov:سح {z}} والعرض {ov:ٮج ك} (١٢٢٧) [٨١٣] ويمرّ بمدينة مارا",
+   "margin": null,
+   "cells": null,
+   "plain": "الفس ويصير الى طول سح ō والعرض ٮج ك (١٢٢٧) [٨١٣] ويمرّ بمدينة مارا",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F086-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "ويصير الى طول {ov:سح {z}}{n:b} والعرض {ov:ٮح {z}} (١٢٢٨) [٨١٤] ويمرّ على صورة",
+   "margin": "(fol. 20ᵇ)",
+   "cells": null,
+   "plain": "ويصير الى طول سح ō والعرض ٮح ō (١٢٢٨) [٨١٤] ويمرّ على صورة",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F086-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "القوارة يمرّ بمصبّ نهرين ويصير الى طول {ov:س⟨ه {z}⟩}{n:c} والعرض {ov:كا ل} (١٢٢٩) [٨١٥] ويمرّ",
+   "margin": null,
+   "cells": null,
+   "plain": "القوارة يمرّ بمصبّ نهرين ويصير الى طول س⟨ه ō⟩ والعرض كا ل (١٢٢٩) [٨١٥] ويمرّ",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F086-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "بجدّة والجار{n:d} ويصير الى طول {ov:سج {z}} والعرض {ov:كو {z}} (١٢٣٠) [٨١٦] ويمرّ على صورة",
+   "margin": null,
+   "cells": null,
+   "plain": "بجدّة والجار ويصير الى طول سج ō والعرض كو ō (١٢٣٠) [٨١٦] ويمرّ على صورة",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F086-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "الطيلسان يمرّ ⟨ب⟩{n:e}قرب مدين وأسفل مدينة القلزم ويصير الى الموضع الّذى منه بدأنا",
+   "margin": null,
+   "cells": null,
+   "plain": "الطيلسان يمرّ ⟨ب⟩قرب مدين وأسفل مدينة القلزم ويصير الى الموضع الّذى منه بدأنا",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F086-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "عند طول {ov:نه ن}{n:f} والعرض {ov:كح {z}}{n:g} *",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول نه ن والعرض كح ō *",
+   "note_marks": [
+    "f",
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F086-L07",
+   "n": 7,
+   "kind": "heading",
+   "text": "* بحر خوارزم وبحر جرجان",
+   "margin": null,
+   "cells": null,
+   "plain": "* بحر خوارزم وبحر جرجان",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F086-L08",
+   "n": 8,
+   "kind": "heading",
+   "text": "وطبرستان والديلم واحد *",
+   "margin": null,
+   "cells": null,
+   "plain": "وطبرستان والديلم واحد *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F086-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "الابتداء من طول {ov:عد م} مماسّ* لجبل يون والعرض {ov:مح ه} (١٢٣١) [٨٣٩] يمرّ الى طول",
+   "margin": null,
+   "cells": null,
+   "plain": "الابتداء من طول عد م مماسّ* لجبل يون والعرض مح ه (١٢٣١) [٨٣٩] يمرّ الى طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F086-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "{ov:عو {z}} والعرض {ov:لز ن} (١٢٣٢) [٨٤٠] يمرّ الى طول {ov:عز ل} والعرض {ov:لح {z}}{n:h} (١٢٣٣)",
+   "margin": null,
+   "cells": null,
+   "plain": "عو ō والعرض لز ن (١٢٣٢) [٨٤٠] يمرّ الى طول عز ل والعرض لح ō (١٢٣٣)",
+   "note_marks": [
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F086-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "[٨٤١] ويمرّ الى طول {ov:عح م} والعرض {ov:لح م}{n:i} (١٢٣٤) [٨٤٢] يمرّ الى طول {ov:عط {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "[٨٤١] ويمرّ الى طول عح م والعرض لح م (١٢٣٤) [٨٤٢] يمرّ الى طول عط ō",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F086-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "والعرض {ov:لط ل} (١٢٣٥) [٨٤٣] يمرّ الى طول {ov:ڡا {z}} والعرض {ov:لط مه} (١٢٣٦) [٨٤٤]",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض لط ل (١٢٣٥) [٨٤٣] يمرّ الى طول ڡا ō والعرض لط مه (١٢٣٦) [٨٤٤]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F086-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "يمرّ الى طول {ov:فز {z}} والعرض {ov:مب ل} (١٢٣٧) [٨٤٥] يمرّ الى طول {ov:فز م}{n:k} والعرض {ov:مح ك}",
+   "margin": null,
+   "cells": null,
+   "plain": "يمرّ الى طول فز ō والعرض مب ل (١٢٣٧) [٨٤٥] يمرّ الى طول فز م والعرض مح ك",
+   "note_marks": [
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F086-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "(١٢٣٨) [٨٤٦] يمرّ الى طول {ov:ص {z}} والعرض {ov:مٮ ك} (١٢٣٩) [٨٤٧] يمرّ الى طول",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٢٣٨) [٨٤٦] يمرّ الى طول ص ō والعرض مٮ ك (١٢٣٩) [٨٤٧] يمرّ الى طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: the manuscript has القس for الفس (note a).",
+  "L02: a variant reading of the longitude is سح ه, with a line over the numerals (note b).",
+  "L03: the manuscript is damaged at the longitude and may perhaps be read سه ل, with a line over the numerals; the editor restores the text after S (note c).",
+  "L04: the manuscript has الحار, without the dot of the ج, for الجار (note d).",
+  "L05: the manuscript lacks the ب of بقرب, which the editor supplies (note e).",
+  "L06: the manuscript has, by mistake, بد ن, with a line over the numerals, for the longitude (note f).",
+  "L06: the point is the same as point 1121 (note g).",
+  "L10: a variant reading of the second latitude is لح ه, with a line over the numerals (note h).",
+  "L11: a variant reading of the first latitude is لح {z}, with a line over the numerals (note i).",
+  "L13: a variant reading of the second longitude is فو م, with a line over the numerals (note k)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "L01-L06 end the Great Sea. The running text goes on from p. 79 (frame 085), whose last words, «ويمرّ بمدينة», L01 continues with the name «الفس»: the coast from point to point, with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}, the editor's running numbers in parentheses, (١٢٢٧)-(١٢٣٠), and the numbers of Suhrāb in square brackets, [٨١٣]-[٨١٦]. L02: the folio of the Strasbourg manuscript, «(fol. 20ᵇ)», is printed in Latin type within the line, between «والعرض» and the latitude «ٮح {z}»; transcribed as a margin note before the line.",
+  "The places of the coast: L01: «ويمرّ بمدينة مارا», past the town of مارا; L03: «يمرّ بمصبّ نهرين», past the mouth of two rivers; L04: «ويمرّ بجدّة والجار», past Jidda and al-Jār; L05: «يمرّ ⟨ب⟩قرب مدين وأسفل مدينة القلزم ويصير الى الموضع الّذى منه بدأنا», it passes near Madyan and the lower part of the town of al-Qulzum and comes to the place from which we began, L06: «عند طول نه ن والعرض كح {z}», at the longitude 55° 50′ and the latitude 28° 0′, the first point of the Great Sea, point 1121 (frame 080, L07), as the editor's note g says; this last point has no running number. The shapes of the coast are «القوارة» (L02-L03) and «الطيلسان» (L04-L05). L06 ends with a small open star with six points, transcribed as an asterisk.",
+  "L07-L08: the heading of the next section, in the large type, between two small open stars with six points, transcribed as asterisks: «* بحر خوارزم وبحر جرجان وطبرستان والديلم واحد *», the sea of Khwārazm and the sea of Jurjān, Ṭabaristān and al-Daylam are one. «وطبرستان» is printed with a long kashida, the stretched joining stroke, between the ت and the alif, and «واحد» with one between the ح and the د; the kashidas are not transcribed.",
+  "L09-L14: the course of the new sea from point to point, with the editor's running numbers (١٢٣١)-(١٢٣٩) and the numbers of Suhrāb [٨٣٩]-[٨٤٧]: [٨١٧]-[٨٣٨] do not appear on the page. L09: «الابتداء من طول عد م مماسّ* لجبل يون والعرض مح ه», the beginning is from the longitude 74° 40′, touching the mountain يون, and the latitude 48° 5′. This is entry (1231), at which, the editor notes on p. 58 (frame 064, note i), the mountain of the Gate of the Khazars and the Alans is called جبل يون.",
+  "L09: «مماسّ*», with a shadda over the س: an asterisk with six solid arms stands after it, raised like the note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (frame 046, L10).",
+  "Angle brackets, transcribed as printed: L03: the longitude is printed «س⟨ه {z}⟩», an initial س before the opening bracket and «ه {z}» within the brackets, all under one line, followed by the note mark c: the manuscript is damaged here, and the editor restores the text after S (note c). L05: «⟨ب⟩قرب», the ب between angle brackets, followed by the note mark e, before «قرب»: the editor supplies the preposition of «بقرب», near, which the manuscript lacks (note e).",
+  "Signs in the text, transcribed as printed: «يمرّ», «ويمرّ» and «بمصبّ» with a shadda; «بجدّة» with a shadda over the د; «وأسفل» and «بدأنا» with a hamza over the alif; «الّذى» with a shadda over the ل; «الابتداء» with a hamza on the line after the alif. L01: «الفس», with the dot of the ف; the editor's note a gives the form of the manuscript, «القس». L04: «والجار», with the dot of the ج; L05: «قرب», «مدين» and «القلزم» with all their dots; L09: «لجبل يون», with the dots of the ج and of the ب, the two dots of the ي and the dot of the ن.",
+  "Letters printed without their dots in the numerals, transcribed so: a tooth without its dot in the degrees of the latitude, «ٮج» (L01), joined to a ج with its dot, and «ٮح» (L02), which read with a ي give 13 and 18; «ڡا» (L12, the degrees of the longitude), an upright loop without a dot joined to an alif, 81 or 101, between the longitudes «عط», 79 (L11), and «فز», 87 (L13); «مٮ» (L14, the degrees of the latitude), the bowl of the ب without its dot, 42, where L13 prints «مب» with the dot. With their dots: «سج» (L04), 63; «نه ن» (L06), 55° 50′; «لز» (L10), with the dot of the ز above the joint of the ل, 37; «عز» (L10), 77; «فز» (L13, twice), with the dots of the ف and of the ز, 87.",
+  "The ح of the numerals, سح (L01, L02), ٮح (L02), كح (L06), مح (L09, L13), لح (L10, L11) and عح (L11), shows no dot in the bowl; the same form is a ج without its dot, 3, which L01 and L04 print with its dot in «ٮج» and «سج». Transcribed as printed.",
+  "L09: the minutes of the latitude, «ه», 5, are a small solid round blot, the round form of the letter (frame 065, L15). The isolated ك, 20, is printed with the small inner stroke of the letter (L01, L13, L14).",
+  "Note marks: L01, a after «الفس»; L02, b after the longitude; L03, c after the closing angle bracket; L04, d after «والجار»; L05, e after «⟨ب⟩»; L06, f after the longitude and g after the latitude; L10, h after the second latitude; L11, i after the first latitude; L13, k after the second longitude.",
+  "The upper half of the page, L01-L06, is printed more faintly than the rest; a crease in the paper runs down the left side of L01-L05, beside the ends of the lines.",
+  "The editor's footnotes stand in four lines below a short rule at the left: notes a-k. The page number «— ٨٠ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

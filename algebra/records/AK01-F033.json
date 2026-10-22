@@ -1,0 +1,210 @@
+{
+ "anchor": "AK01-F033",
+ "frame": 33,
+ "frame_file": "page_033.jpg",
+ "frame_sha256": "228cf94d4894d6b7eea66723eeadc61393dae1840471656d2dd1a4fb3d803e5b",
+ "printed_page": "١٩",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 033, printed p. 19: the solution of \"a square and ten roots equal thirty-nine\": halve the roots, square, add, take the root, subtract half the roots; more squares than one are reduced to one square (two squares and ten roots equal forty-eight), and fewer to one whole square (half a square and five roots equal twenty-eight). Two footnotes of the editors, (١) and (٢).",
+ "lines": [
+  {
+   "id": "AK01-F033-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "هذه المسئلة خمسة فتضربها فى مثلها فتكون خمسة وعشرين فتزيدها على التسعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "والثلاثين فتكون اربعة وستين فتأخذ جذرها وهو ثمانية فتنقص منه نصف",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "الاجذار هو خمسة فيبقى ثلاثة وهوجذر المال الذى تريد والمال تسعة . وكذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "لو ذكر مالين أو ثلاثة أوأقل أو أكثر فاردده إلى مال واحد واردد ما كان معه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "من الأجذار والعدد إلى مثل ما رددت إليه المال . وهو نحو قولك {n:١} مالان",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "وعشرة اجذار تعدل ثمانية واربعين درهما ومعناه أى مالين إذا جمعا وزيد عليهما",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "مثل عشرة اجذار احدهما بلغ ذلك ثمانية واربعين درهما فينبغى أن ترد المالين إلى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "مال واحد وقد علمت أن مالا من مالين نصفهما فاردد كل شىء فى المسئلة إلى نصفه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "فكأنه قال مال وخمسة اجذار يعدل أربعةوعشرين درهما . ومعناه أى مال إذا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "زدت عليه خمسة اجذاره بلغ ذلك اربعةوعشرين . فنصف الأجذار فتكون اثنين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "ونصفا فاضربها فى مثلها فتكون ستة وربعا فزدها على الأربعة والعشرين فتكون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "ثلاثين درهما وربعا فخذ جذرها وهو خمسة ونصف فانقص منها نصف الأجذار",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "وهو اثنان ونصف يبقى ثلثة وهو جذر المال والمال تسعة . وكذلك {n:٢} لو قال",
+   "note_marks": [
+    "٢"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "نصف مال وخمسة أجذاره يعدل ثمانية وعشرين درهما فمعنى ذلك أى مال إذا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "زدت على نصفه مثل خمسة اجذاره بلغ ذلك ثمانية وعشرين درهما فتريد أن تكمل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "مالك حتى يبلغ مالا تاماً وهو أن تضعفه فأضعفه وأضعف كلما معك مما يعادله",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F033-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "فيكون مالا وعشرة اجذار يعدل ستة وخمسين درهما فنصف الاجذار تكون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١",
+    "٢"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L01, L08: المسئلة, the hamza on a seat of yā', as printed.",
+  "L13: ثلثة, spelled without the alif, as printed (L03 has ثلاثة).",
+  "Set without a word space after a non-connecting letter, and transcribed so: وهوجذر (L03; but وهو جذر on L13), أوأقل (L04), أربعةوعشرين (L09), اربعةوعشرين (L10). L04 has ما كان with a space.",
+  "Plain alif where a hamza might be expected, as printed: اربعة (L02), الاجذار (L03, L17), فاردده, واردد (L04), اجذار (L06, L07, L09, L17), واربعين (L06, L07), احدهما (L07), فاردد (L08), اجذاره (L10, L15), اربعةوعشرين (L10); with the hamza: أربعةوعشرين (L09), أجذاره (L14).",
+  "Without tanwīn as printed: درهما (L06, L07, L09, L12, L14, L15, L17), جمعا (L06), مالا (L08, L16, L17), ونصفا (L11), وربعا (L11, L12); with tanwīn on the final alif: تاماً (L16).",
+  "L16: كلما, printed as one word."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,61 @@
+@page 154 122
+@lang la
+% JP2 0154: Tab. 11, p. 122: the mean motion of Jupiter in the collected and the single Arab years and in the Arab
+% months, and the anomaly of Jupiter («Heza») in days and hours, with the apparatus (notes 1-18, a-k).
+@ml C 49{sup:r-v},
+@c {b:Elwazat elmusteri} (CO)
+@ml O 105{sup:v}, N 28{sup:v}.
+@c {b:Medius cursus Jovis} (CN)
+@tw size=footnotesize span=1.1 1.1 0.75 0.75 0.85 0.85 0.9 0.75 0.75 0.85 0.85 1.8 0.75 0.75 0.85 0.85
+@t Anni | Medialitas{sup:1}) Jovis | | | | Anni | Medialitas{sup:1}) Jovis | | | | Menses | Medialitas{sup:1}) Jovis | | |
+@t collecti | in collectis{sup:2}) | | | | plani | in planis{sup:3}) | | | | arabum{sup:4}) | in mensibus | | |
+@t | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:5}) | {b:Sec.}{sup:6}) | | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:5}) | {b:Sec.}{sup:6}) | | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:5}) | {b:Sec.}{sup:6})
+@t Radix | 11 | 0 | 16 | 49 | 1 | 0 | 29 | 25 | 0 | Elmuharram{sup:7}) | 0 | 2 | 29 | 35
+@t 30 | 4 | 13 | 41 | 39 | 2 | 1 | 28 | 54 | 59 | Zafar | 0 | 4 | 54{sup:i}) | 10
+@t 60 | 9 | 27 | 6 | 28 | 3 | 2 | 28 | 19 | 59 | Rabe I.{sup:8}) | 0 | 7 | 23 | 45
+@t 90 | 3 | 10 | 31 | 17 | 4 | 3 | 27 | 44 | 59 | Rabe II.{sup:9}) | 0 | 9 | 48 | 20
+@t 120 | 8 | 23 | 56 | 6 | 5 | 4 | 27 | 14 | 58 | Jumedi I.{sup:10}) | 0 | 12 | 17 | 55
+@t 150 | 2 | 7 | 20 | 55 | 6 | 5 | 26 | 39 | 58 | Jumedi II.{sup:11}) | 0 | 14 | 42 | 30
+@t 180 | 7 | 20 | 45 | 44 | 7 | 6 | 26 | 9 | 57 | Regeb | 0 | 17 | 12 | 5
+@t 210 | 1{sup:a}) | 4 | 10 | 34 | 8 | 7 | 25 | 34 | 57 | Scabin{sup:12}) | 0 | 19 | 36 | 40
+@t 240 | 6 | 17 | 35 | 23 | 9 | 8 | 24 | 59 | 57 | Ramadh.{sup:13}) | 0 | 22 | 6 | 15
+@t 270 | 0 | 1 | 0 | 12 | 10 | 9 | 24 | 29 | 56 | Scawel{sup:14}) | 0 | 24 | 30 | 50
+@t 300 | 5 | 14 | 25 | 1 | 11 | 10 | 23 | 54 | 56 | Dulkada{sup:15}) | 0 | 27 | 0 | 25
+@t 330 | 10 | 27 | 49 | 50{sup:e}) | 12 | 11 | 23 | 19 | 56 | Dulheia{sup:16} | 0 | 29 | 25 | 0
+@t 360 | 4 | 11{sup:c}) | 14 | 39 | 13 | 0 | 22 | 49 | 55 | | | | |
+@t 390 | 9 | 24{sup:d}) | 39 | 28 | 14 | 1 | 22 | 14 | 55 | | | | |
+@t 420 | 3 | 8 | 4 | 18 | 15 | 2 | 21 | 39 | 55 | Dies et horae | Heza Jovis praedictum{sup:18}) | | |
+@t 450 | 8 | 21 | 29 | 7 | 16 | 3 | 21 | 9 | 54 | | | | |
+@t 480 | 2 | 4 | 53 | 56 | 17 | 4 | 20 | 34 | 54 | dies | 0 | 0{sup:h}) | 54 | 9
+@t 510 | 7{sup:b}) | 18 | 18 | 46 | 18 | 5 | 20 | 4 | 53 | 5 | 0 | 4 | 30 | 45
+@t 540 | 1 | 1 | 43 | 35 | 19 | 6 | 19 | 29 | 53 | 10 | 0 | 9 | 1 | 30
+@t 570 | 6 | 15 | 8 | 24 | 20 | 7 | 18 | 54 | 53 | 15 | 0 | 13 | 32 | 15
+@t | | | | | 21 | 8 | 18 | 24 | 52 | 20 | 0 | 18 | 3 | 0
+@t | | | | | 22 | 9 | 17 | 49 | 52 | 25 | 0 | 22 | 53 | 45
+@t | | | | | 23 | 10 | 17 | 14 | 52 | 30 | 0 | 27 | 4 | 30
+@t | | | | | 24 | 11 | 16 | 44 | 51 | 60 | 1 | 24 | 9 | 0
+@t | | | | | 25 | 0 | 16 | 9 | 51 | horae{sup:17}) | 0 | 0 | 2 | 16
+@t | | | | | 26 | 1 | 15 | 39 | 50 | 3 | 0 | 0 | 6 | 47
+@t | | | | | 27 | 2 | 15 | 4 | 50 | 6 | 0 | 0 | 13 | 32
+@t | | | | | 28 | 3 | 14{sup:f}) | 29 | 50 | 12 | 0 | 0 | 27 | 4{sup:k})
+@t | | | | | 29 | 4 | 13 | 59 | 49 | | | | |
+@t | | | | | 30 | 5 | 13 | 24{sup:g}) | 49 | | | | |
+@n {sup:1}) Medialitas] O, Mediocritas C — {sup:2}) collectis] O, annis collectis C, {sup:3}) planis] O, annis planis C —
+@n {sup:4}) arabum] O, ararum C — {sup:5}) et {sup:6}) {i:V. notas in tab. 8} — {sup:7}) Elmuharram] Elmurarram C, Elm̃. O — {sup:8}) Rabe. I.]
+@n Rabe C O — {sup:9}) Rabe II.] Rabe C O — {sup:10}) Jumedi I.] Jumedi C, Gum̃. O — {sup:11}) Jumedi II.] Jumedi C,
+@n Gum̃. O — {sup:12}) Scabin] O, Sabin C — {sup:13}) Ramadh.] Rāthan C, Răg̃ O — {sup:14}) Scawel] Shawel C, Scaw̃ O —
+@n {sup:15}) Dulkada] Dulreda C, Dulk’ O — {sup:16}) Dulheia] C, Dulh’ O — {sup:17}) horae] C, hora O — {sup:18}) Heza . . . .
+@n praedictum] O, argumentum Jovis supradictum C.
+@n {sup:a}) 1] ON, 2 C — {sup:b}) 7] ON, 6 C — {sup:c}) 11] 40 O — {sup:d}) 24] C, 13 O — {sup:e}) 50] C, 1 (?) O — {sup:f}) 14]
+@n ON, 24 C — {sup:g}) 24] C, 34 O — {sup:h}) 0] C, 5 O — {sup:i}] 54] C, 53 O — {sup:k}) 4] O N, 2 C.
+@obs The page number «122» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 11», in bold sans serif, underlined. The titles (L01, L02), in bold, the sigla in roman: L01 that of C and O, L02 that of C and N; the folios of the manuscripts, «C 49r-v, O 105v,» over «N 28v.», stand at the left of the titles, the letters raised; here as left margin notes, divided after «C 49r-v,» so that they keep within the page. The page has no signature.
+@obs The table: a thick and a thin rule above the head, a double rule below it; vertical rules divide the fifteen columns, double ones before and after the columns of the years and of the months; thin rules under the heads that span the four columns of signs, degrees, minutes and seconds, whose heads «Sig.», «Gr.», «Min.», «Sec.» are set in small bold type. «Anni collecti» is printed turned through a quarter, reading upwards, in two lines, «Anni plani» and «Menses arabum4)» in two lines; here their words stand in L03 and L04. Each printed row is one line here, the cells separated by our «|»; a head followed by empty cells spans their columns. The collected years end with 570 (L25).
+@obs L06-L35, the right-hand block: the months fill the first twelve rows (L06-L17); below them a thick and a thin rule, a second head, «Dies et horae» and «Heza Jovis praedictum18)» over the four columns, without heads of the signs, degrees, minutes and seconds, set between the rows 14 and 15 (here L20), a double rule, and the anomaly of Jupiter in days and hours (L22-L33); the last two rows are empty.
+@obs L06-L35, the years and months. Checked against Brahmagupta's parameter, 364 226 455 revolutions of Jupiter in 1 577 916 450 000 days, a daily mean motion of 4′ 59″ 9‴ 9⁗, 5s 13° 24′ 49.1″ in 30 Arab years (10 631 days): from the radix 11s 0° 16′ 49″ (330° 16′ 49″) the collected years agree to within 2″ (with the readings of notes a-e); the 30 single years, 354 days and 355 in the leap years 2, 5, 7, 10, 13, 16, 18, 21, 24, 26 and 29, agree to within 0.2″ (with the readings of notes f and g); the months, 30, 59, … 354 days, agree to within 0.5″ (with the reading of note i), the year of the months, 29° 25′ 0″, being the single year 1.
+@obs L22-L33, the anomaly («Heza») of Jupiter, the excess of the sun's mean motion over Jupiter's (p. 56, JP2 0088): 54′ 9″ 1‴ a day with Brahmagupta's parameters. Checked: the days 1, 5, 10, 15, 20, 30 and 60 and the hours 1, 3, 6 and 12 agree with it to within 1.2″ (with the readings of notes h and k). The 25 days are printed 22° 53′ 45″, against 22° 33′ 45.5″ computed (between 18° 3′ 0″ and 27° 4′ 30″, each 5 days 4° 30′ 45″): the minutes are 20 too large; no note bears on them.
+@obs L17, «Dulheia16», and N08, «i] 54]»; N01, «C, 3)», and N02, «Rabe. I.]»: see the critical notes. A speck after «Elmuharram7)» (L06, 3 px) and one before «Min.» in the head of the single years (L05); not transcribed.
+@obs N02: «Elm̃.», N03-N04: «Gum̃.», N04: «Răg̃», «Scaw̃», with the tildes and the breve as printed; «Rāthan» with the macron. N02: «V. notas in tab. 8 —», without a point after the 8. N08: «O N», the two sigla set apart. The ellipses «. . . .» of the lemmata as printed. Italics: «V. notas in tab. 8».
+@critical AK07-CN092 | missing bracket | L17 | Dulheia{sup:16} | Dulheia{sup:16}) | the note numbers in the text of the tables are followed by a round bracket, as «Dulkada15)» in the row above; after 16 it is not printed | high | none
+@critical AK07-CN093 | wrong punctuation | N01 | annis collectis C, {sup:3}) planis] | annis collectis C — {sup:3}) planis] | the notes of the apparatus are divided by a long dash, as before note 2 and after note 3 in the same line; a comma is printed for the dash | high | none
+@critical AK07-CN094 | stray point | N02 | {sup:8}) Rabe. I.] | {sup:8}) Rabe I.] | the lemma repeats the word of the table, «Rabe I.8)» (L08); no point stands after «Rabe», as in the lemma «Rabe II.]» of note 9 | high | none
+@critical AK07-CN095 | wrong bracket | N08 | {sup:i}] 54] | {sup:i}) 54] | the letters of the notes on the numbers are followed by a round bracket, as «h) 0]» and «k) 4]» beside it; after i a square bracket is printed | high | none

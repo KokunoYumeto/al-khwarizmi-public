@@ -1,0 +1,65 @@
+@page 91 59
+@lang de
+% JP2 0091: Suter's commentary, p. 59: chapter 16 continued: the greatest latitude of the moon, 4° 30′; the latitude of
+% the moon for noon of 15 Ṣafar 540, computed by both rules in two columns (the argument of latitude 238° 43′, the
+% latitude 3° 50′ 43″ south); the headings of the columns of Tables 21-26 (notes 1-3).
+@p Die letztere Regel kommt auch bei den Indern vor{sup:1}), und gilt in dieser Form
+auch für die drei obern Planeten ; es ist wohl zu beachten, dass {sp:Kh.} die Regel nicht
+in der indischen Form (wenigstens des {i:Sūrya-Siddhānta}) gibt.
+@p Als grösste Breite (also Schiefe der Mondbahn zur Ekliptik) hat {sp:Kh.} beim Argu-
+ment 90° den Wert 4° 30′, während {sp:Batt.} wie {sp:Ptol.} 5° hat. Hier folgt nun {sp:Kh.} dem
+{i:Sūrya-Siddhānta} (oder den Tafeln des {i:Shāh}), wenigstens findet sich der gleiche Wert
+im erstern{sup:2}), er mag aber auch in die spätern {i:Siddhāntas} übergegangen sein.
+@p {i:Beispiel} : Es ist die Breite des Mondes für Mittag den 15. Ṣafar des Jahres 540
+d. H. zu bestimmen.
+@cl Wahrer Ort des Mondes (s. oben p. 45) :
+@cl 319° 2′{sup:3})
+@cl 279° 41′ = mittlere Länge des Drachen-
+@cl kopfes
+@cl 598° 43′
+@cl — 360°
+@cl 238° 43′ = Argument der Breite
+@cl (nach der 1. Regel)
+@cl 319° 2′ = wahrer Ort des Mondes
+@cl 80° 19′ = korrig. Länge (= wahrer Ort)
+@cl des Drachenkopfes
+@cl 238° 43′ = Argument der Breite
+@cl (nach der 2. Regel)
+@cr Mittlere Länge des Drachenkopfes :
+@cr (nach den Tafeln 19 u. 20)
+@cr am Ende des 510. Jahres 92° 39′{sup:3})
+@cr für 29 Jahre 184° 42′
+@cr „ 1 Monat 1° 35′
+@cr „ 14 Tage 45′
+@cr Summa : 279° 41′
+@cr 360° — 279° 41′ = 80° 19′ =
+@cr korrigierte Länge, da der Drachen-
+@cr kopf retrograd ist.
+@p Mit diesem Argument tritt man in die Tafel 25 ein, und findet da in der letzten
+@t Kolonne für 238° (7{sup:s} 28°) die Latitudo Lunae | | = | 3° 48′ 57″
+@t | Differenz für 43′ | = | 1′ 46″
+@t | {i:Breite} des Mondes zu der gegeb. Zeit : | | 3° 50′ 43″
+@p Nach den Bemerkungen, die {sp:Batt.} seinen Regeln noch beifügt, {sp:Kh.} aber weg-
+lässt, ist die Breite des Mondes in diesem Falle {i:südlich} und {i:wachsend,} d. h. der Mond
+geht noch weiter gegen Süden, was auch die Überschrift der letzten Kolonne, {i:Latitudo}
+{i:lunae recedentis,} andeutet.
+@p Die Überschriften der beiden ersten Kolonnen der Tafeln 21—26 : {i:Computatio}
+{i:minuenda et augmentum examinis et numeri} — {i:Computatio augenda et diminutio exa-}
+{i:minis et numeri} sind nicht ganz klar, sie wollen aber wahrscheinlich sagen : Wenn das
+Argument kleiner als 180° ist, was in der 1. Kolonne der Fall ist, so muss die
+gefundene Gleichung ({i:Computatio}) von der mittlern Länge abgezogen werden, wenn
+es grösser als 180° ist, was in der 2. Kolonne der Fall ist, so muss die Gleichung
+addiert werden ; ferner, wenn das Argument von 0° bis 180° zunimmt, so nimmt
+auch die Gleichung ({i:examen}) zu, wenn das Argument aber von 180° bis 360° wächst,
+so nimmt die Gleichung wieder ab.
+@n {sup:1}) {i:Sūrya-Siddhānta}, ed. {sp:Burgess}, p. 228.
+@n {sup:2}) Ibid. p. 188—189.
+@n {sup:3}) Die Sekunden runde ich zu Minuten ab oder auf.
+@obs The page number «59» stands at the head of the page, centred, with a rule below it. At the foot, the signature «8*» on the right. L01-L03: «Die letztere Regel», al-Battānī's second rule for the argument of latitude, the true place of the node subtracted from that of the moon (p. 58, JP2 0090, L35-L37).
+@obs L10-L32: the computation is set in two columns: on the left the two ways to the argument of latitude (L10-L22), on the right the longitude of the node (L23-L32), transcribed one after the other. In the left column the figures stand at the left and the words after them; a rule under 279° 41′ (L12), under — 360° (L15) and under 80° 19′ (L19); L13, «kopfes», the end of the word divided in L12, stands about 20 px higher than «598° 43′» (L14), at the right of the rule. In the right column the figures stand in a column at the right; the ditto marks „ of L27-L28 under «für»; a rule under 45′ (L28).
+@obs L10-L32. Checked: the true place of the moon of p. 45 (JP2 0077, L33-L34), 319° 1′ 35″, rounded (note 3) is 319° 2′; 92° 39′ + 184° 42′ + 1° 35′ + 45′ = 279° 41′; 360° − 279° 41′ = 80° 19′; 319° 2′ + 279° 41′ = 598° 43′, less 360° 238° 43′; 319° 2′ − 80° 19′ = 238° 43′. With Brahmagupta's parameters (232 311 168 revolutions of the node in 1 577 916 450 000 days, see p. 42, JP2 0074) the node moves 184° 41′ 49″ in the 29 years, 10277 days, 1° 35′ 24″ in thirty days and 44′ 31″ in fourteen days, rounded 184° 42′, 1° 35′ and 45′, the values of L26-L28.
+@obs L33-L36: the end of the sentence and the result are set as a small table: «= 3° 48′ 57″» and «= 1′ 46″» with their signs of equality one under the other, a rule under «1′ 46″», and L36 «Breite des Mondes zu der gegeb. Zeit :» indented, «Breite» in italics. Each printed row is one line here, the cells separated by our «|»; the empty cells give the columns room and are not printed. L34: «7s 28°», the s raised.
+@obs L33-L40. Checked: seven signs and 28° are 238°; 3° 48′ 57″ + 1′ 46″ = 3° 50′ 43″; 1′ 46″ is 43/60 of 2′ 28″, the change of the latitude from 238° to 239° by either of the rules below. For the argument 238° the formula of p. 58 (JP2 0090, L28-L30) with 4° 30′ gives 3° 48′ 54″ and 4° 30′ times the sine of the argument 3° 48′ 58″; the table's 3° 48′ 57″ lies between them. The argument 238° lies between 180° and 270°, where the latitude is south and growing towards the southern limit at 270°, as L37-L40 say. The values of Table 25 are to be compared with the table.
+@obs L04-L07: the greatest latitude of the moon: al-Khwārizmī and the Sūrya-Siddhānta 4° 30′, Ptolemy and al-Battānī 5°. L05: a grey mark below the degree sign of «90°», lighter than the print; not transcribed.
+@obs L41 and L42: the dashes of «21—26» and between the two headings are each printed in two pieces (17 and 22 px, 21 and 23 px, with gaps of 2-4 px); each transcribed as one long dash. Spaced type, marked {sp:}: «Kh.», «Batt.», «Ptol.», «Burgess»; italics: «Sūrya-Siddhānta», «Shāh», «Siddhāntas», «Beispiel», «Breite» (L36), «südlich», «wachsend,», «Latitudo lunae recedentis,», the headings of L41-L43, «Computatio» (L45), «examen».
+@obs The colons and semicolons stand after the thin space of the edition (9-15 px measured).

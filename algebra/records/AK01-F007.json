@@ -1,0 +1,184 @@
+{
+ "anchor": "AK01-F007",
+ "frame": 7,
+ "frame_file": "page_007.jpg",
+ "frame_sha256": "e43f6f3a15ee273eb7fd2e3f461fb3e2fe6de954a422dc2eb28d8dceb9262445",
+ "printed_page": "-",
+ "kind": "title",
+ "role": "MODERN_EDITORIAL (the edition's title page)",
+ "comment": "Frame 007: the title page of the edition.",
+ "lines": [
+  {
+   "id": "AK01-F007-L01",
+   "n": 1,
+   "kind": "centre",
+   "text": "الجامعة المصرية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F007-L02",
+   "n": 2,
+   "kind": "centre",
+   "text": "كلية العلوم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F007-L03",
+   "n": 3,
+   "kind": "centre",
+   "text": "كتاب الجبر والمقابلة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F007-L04",
+   "n": 4,
+   "kind": "centre",
+   "text": "لمحمد بن موسى الخوارزمى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F007-L05",
+   "n": 5,
+   "kind": "centre",
+   "text": "قام بتقديمه والتعليق عليه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F007-L06",
+   "n": 6,
+   "kind": "centre",
+   "text": "على مصطفى مشرفة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F007-L07",
+   "n": 7,
+   "kind": "centre",
+   "text": "دكتور فى الفلسفة ــ دكتور فى العلوم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F007-L08",
+   "n": 8,
+   "kind": "centre",
+   "text": "من جامعة لندن",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F007-L09",
+   "n": 9,
+   "kind": "centre",
+   "text": "أستاذ الرياضة التطبيقية بالجامعة المصرية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F007-L10",
+   "n": 10,
+   "kind": "centre",
+   "text": "و",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F007-L11",
+   "n": 11,
+   "kind": "centre",
+   "text": "محمد مرسى احمد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F007-L12",
+   "n": 12,
+   "kind": "centre",
+   "text": "دكتور فى الفلسفة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F007-L13",
+   "n": 13,
+   "kind": "centre",
+   "text": "من جامعة إدنبرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F007-L14",
+   "n": 14,
+   "kind": "centre",
+   "text": "أستاذ الرياضة البحتة المساعد بالجامعة المصرية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F007-L15",
+   "n": 15,
+   "kind": "centre",
+   "text": "مطبعة فتح الله الياس نورى وأولاده بمصر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F007-L16",
+   "n": 16,
+   "kind": "centre",
+   "text": "١٩٣٩",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The faculty stands at the top right in two underlined lines; under the title, a short rule; the two editors in two columns with «و» between them; a double rule above the printer and the year."
+ ],
+ "copy_matter": [
+  "The perforated stamp «COLUMBIA UNIVERSITY LIBRARY» across the lower half, and a small mark in pencil in the right margin; copy matter."
+ ],
+ "critical_notes": []
+}

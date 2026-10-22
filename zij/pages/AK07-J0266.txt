@@ -1,0 +1,47 @@
+@page 266 234
+@lang de
+% JP2 0266: Additions and corrections, p. 234: 1. continued: the sine formula for the equation of the centre, the
+% eccentricities derived from it (Saturn), Pechüle's formula for Ptolemy's equation of the anomaly and Suter's
+% variant of it.
+Ansicht : sin {i:C}{sub:{i:α}} = 2{i:e} · sin {i:α} ; man kann ja allerdings bei ganz kleinen Winkeln statt
+der Sinus die Bogen setzen, allein es handelt sich doch hier um Winkel von 8°—9°.
+Berechnet man die Gleichungen des Centrums nach der genannten Formel, so findet
+man das Maximum der Abweichungen zwischen den so berechneten Werten und
+denen der Tafeln {sp:Kh.’s} = 3{sup:1}/{sub:2}′—4′. — Ist die Ansicht {sp:Pechüle’s} richtig, und
+es scheint mir dies wirklich der Fall zu sein, so nähme also {sp:Kh.} in der Formel
+(s. Fig. p. 47)
+@c sin {i:E′HE} = sin aeq. centri = {fr:{i:EN}|{i:HE}}
+{i:HE} = 1 (bezw. = 60{sup:p}) an ; dann ist, da {i:EN} = 2{i:e}{sub:1} sin {i:m},
+@c sin aeq. centri = 2{i:e}{sub:1} sin {i:m}.
+@p Nach dieser Formel lassen sich auch die Exzentrizitäten der Planetenbahnen
+bestimmen, die sich bei {sp:Kh.} nirgends verzeichnet finden, weder im Text noch in
+den Tafeln ; für Saturn hat z. B. {sp:Kh.} die maximale Gleichung 8°36′ bei 90° Centrum,
+also ist sin 8°36′ = 2{i:e}{sub:1} sin 90° = 2{i:e}{sub:1}, dies giebt 2{i:e}{sub:1} = 0,1495 = 8{sup:p}58′, {sp:Ptol.} hat
+6{sup:p}50′. Die Exzentrizitäten der Bahnen von Jupiter, Mars und Venus bei {sp:Kh.} stimmen,
+so berechnet, mit denen bei {sp:Ptol.-Batt.} ziemlich überein, bei denen für Saturn
+und Merkur dagegen zeigen sich stärkere Abweichungen, also bei Saturn mehr als 2{sup:p}.
+@p Was die Berechnung der Gleichung der {i:Anomalie} anbetrifft, so habe ich p. 49
+die Formel gegeben :
+@c tg {i:RET} = tg anom. = {fr:{i:r} sin {i:ψ}|Dist. centri epic. + {i:r} cos {i:ψ}}
+wo {i:r} der Radius des Epizykels in Dezimalteilen des Radius des Deferens ausgedrückt,
+und {i:ψ} die Anomalie bedeutet. Herr {sp:Pechüle} teilte mir mit, dass bei {sp:Ptol.} die
+Werte der Gleichungen der Anomalie (in Kol. 6 seiner Tafeln für die wahre Länge
+der Planeten) fast genau der Formel
+@c tg {i:B}{sub:{i:α}} = {fr:tg {i:B}{sub:90} · sin {i:α}|1 + tg {i:B}{sub:90} · cos {i:α}}
+entsprechen, wo {i:Bα} die Gleichung der Anomalie für das Argument (Anomalie) {i:α}
+bedeutet. Ich teilte ihm mit, dass die Werte des {sp:Ptol.} mit der Formel noch besser
+stimmen würden, wenn man statt tg {i:B}{sub:90} {i:sin aeq. anom. max.} setzen würde, also z. B.
+für Saturn sin {i:B}{sub:96} statt tg {i:B}{sub:90}, denn bei 96° hat {sp:Ptol.} für Saturn das Maximum
+der Anomalie (ebenso Kh. bei 95°—98°), weil nicht bei 90°, sondern bei 96° Anomalie
+die Linie {i:EP} (s. Fig. p. 49) den Epizykel berührt, so dass dann das Dreieck {i:EHP}
+bei {i:P} rechtwinklig wird, und sin {i:HEP} = {fr:{i:HP}|{i:HE}} wird, also sin {i:HEP} = {i:HP} = {i:r}, wenn
+{i:HE}, d. h. der Radius des Deferens, = 1 gesetzt wird ; die Formel würde dann also
+lauten :
+@c tg {i:B}{sub:{i:α}} = {fr:{i:r} · sin {i:α}|1 + {i:r} · cos {i:α}}
+also ganz entsprechend der Formel für die Gleichung des Centrums, wenn an Stelle
+von 2{i:e}{sub:1} d. h. der Exzentrizität der Planetenbahn, der Radius {i:r} des Epizykels gesetzt
+@obs The page number «234» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 continues the sentence of p. [233] (JP2 0265, L26).
+@obs L08, L10, L20, L25 and L35: the formulas are displayed, each in a line of its own, centred; the fractions are built up, written {fr:NUMERATOR|DENOMINATOR}, and in L32 the fraction «HP» over «HE» stands built up within the line. The indices of «Cα», «C90», «e1», «B90», «B96» and «Bα» are lowered, except in L26, where the α of «Bα» stands small on the line. Letters of the figures, e, m, r, α and ψ in italics; «sin aeq. anom. max.» (L28) in italics. «3½′» (L05) is printed with a fraction ¹/₂; «60p», «8p 58′», «6p 50′», «2p» with the p raised.
+@obs L13-L17. Checked: sin 8° 36′ = 0.14954, and 0.14954 · 60 = 8p 58.3′. Al-Khwārizmī's Saturn has the equation of the centre 8° 36′ at 90° (Tab. 29, p. 140, JP2 0172); 6p 50′ is the distance of Ptolemy's equant of Saturn from the earth, twice his eccentricity 3p 25′. L01-L05: checked for Saturn (Tab. 27-29, pp. 138-140, JP2 0170-0172): the equation of the centre of the table agrees with C90 · sin α and with arcsin (sin C90 · sin α), the formula of L01, within 1.4′ at 15°, 30°, 45°, 60°, 75° and 90°, and between these arguments falls below them, by up to 4.5′ (the first, at 54°) and 4.2′ (the second, at 68° and 84°), Suter's 3½′-4′; the whole column agrees within 1.3′ (0.4′ on the average of the squares) with a linear interpolation of the second formula between its values at every 15°.
+@obs L28-L30: checked: al-Khwārizmī's Saturn has the greatest equation of the anomaly, 5° 44′, at the arguments 95° to 98° (Tab. 30, p. 141, JP2 0173), as Suter says. L31-L35: in the right triangle EHP the sine of the angle at E is HP : HE, the radius of the epicycle when HE = 1.
+@obs Spaced type, marked {sp:}: «Kh.’s» and «Pechüle’s» (L05), «Kh.» (L06, L12, L13, L15), «Ptol.» (L14, L22, L27, L29), «Ptol.-Batt.» (L16), «Pechüle» (L22); «Kh.» in L30 is not spaced. «giebt» (L14), in the older spelling, where p. [233] (JP2 0265, L08) has «gibt». Italics: «Anomalie» (L18).

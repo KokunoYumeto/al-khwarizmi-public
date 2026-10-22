@@ -1,0 +1,256 @@
+{
+ "anchor": "AK01-F117",
+ "frame": 117,
+ "frame_file": "page_117.jpg",
+ "frame_sha256": "55910bd0db39e2c521732956477f19b7c335e685cb8b85243742466ad29b129a",
+ "printed_page": "١٠١",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 117, printed p. 101: the problem of frame 116 concluded (a slave worth a hundred freed in illness and a slave-girl worth five hundred, her bride-price a hundred, given to a man who had intercourse with her): half of the heirs' six hundred less a thing and a fifth equals the hundred and the thing: the thing five eighths of two hundred, a hundred and twenty-five, the gift of the slave-girl. Then, under «فان أعتق» in bold, the same, the giver also bequeathing a third of his property to a man: in the view of Abū Ḥanīfa the holder of the slave-girl claims no more than the third, which the two share in halves; half of six hundred less two things and a fifth equals the hundred and the two things: the thing ten thirty-firsts of two hundred, sixty-four and sixteen thirty-firsts. Then, under «فان أعتق جارية» in bold, a slave-girl worth a hundred freed and the same gift, the giver bequeathing a quarter of his property: the holder of the quarter claims by the quarter; begun, continued on the next page. The values check exactly. No footnote on this page.",
+ "lines": [
+  {
+   "id": "AK01-F117-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "مثلا المائة الدرهم والشىء فنصف ذلك مثل وصيتهما وهو ثلثمائة غير ثلاثة أخماس",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "شىء فاجبر الثلثمائة بثلاثة أخماس شىء وزد مثلها على الشىء فيكون ذلك ثلثمائة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "درهم تعدل شيئا وثلاثة أخماس شىء ومائة درهم فاطرح من الثلثمائة مائة بمائة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "فيبقى مائتا درهم تعدل شيئا وثلاثة أخماس شىء فقابل بذلك فتجد الشىء من ذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "خمسة أثمانه فتأخذ خمسة أثمان مائتين وهو مائة وخمسة وعشرون وهو الشىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "وذلك وصية الذى أوصى له بالجارية . {b:فان أعتق} عبدا له قيمته مائة درهم ووهب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان أعتق"
+   ]
+  },
+  {
+   "id": "AK01-F117-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "لرجل جارية قيمتها خمسمائة درهم وعقرها مائة درهم فوطئها الموهوب له وأوصى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "الواهب لرجل بثلث ماله . فقياسه فى قول أبى حنيفة أنه لا يضرب صاحب الجارية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "بأكثر من الثلث فيكون الثلث بينهما نصفين . وقياسه أن تجعل قيمة الجارية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "خمسمائة درهم والوصية من ذلك شىء فصار فى أيدى الورثة من ذلك خمسمائة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "درهم غير شىء واحد والعقر مائة غير خمس شىء فصار فى أيديهم ستمائة غير شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "وخمس شىء وأوصى لرجل بثلث ماله وهو مثل وصية صاحب الجارية وهو شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "فيبقى فى أيدى الورثة ستمائة غير شيئين وخمس شىء وذلك مثلا وصاياهم جميعاً",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "قيمةالعبد والشيئين الموصى بهما فنصف ذلك يعدل وصاياهم وهو ثلثمائة غير شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "وعشر شىء فاجبر ذلك بشىء وعشر شىء فيكون ثلثمائة تعدل ثلاثة أشياء وعشر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "شىء ومائةدرهم فاطرح مائة بمائة فتبقى مائتان تعدل ثلاثةأشياء وعشر شىء فقابل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "به فالشىء من ذلك عشرة أجزاء من واحد وثلاثين جزءاً من درهم فالوصيةمن",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "المائتين على قدر ذلك وهو أربعةوستون درهماوستة عشر جزءاًمن واحدوثلاثين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "جزءاً من الدرهم. {b:فان أعتق جارية} قيمتها مائة درهم ووهب لرجل جارية قيمتها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان أعتق جارية"
+   ]
+  },
+  {
+   "id": "AK01-F117-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "خمسمائة درهم فوطئها الموهوب له وعقرها مائة درهم وأوصى الواهب لرجل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "بربع ماله. فقول أبى حنيفة أن صاحب الجارية لايضرب بأكثرمن الثلث وصاحب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F117-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "الربع يضرب بالربع . وقياسه أن قيمة الجارية خمسمائة درهم والوصية من ذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L01: «مثلا المائة الدرهم والشىء» (L01) goes on from the last words of frame 116, «ستمائة درهم غير شىء وخمس شىء وهو» (frame 116, L22): the heirs' six hundred less a thing and a fifth of a thing are twice the hundred of the manumission and the thing of the gift.",
+  "L06, L19: the words فان أعتق (L06) and فان أعتق جارية (L19), the run-in headings of the next problems, are printed in a bold face, each after a full stop; عبدا, which follows in L06, and قيمتها, which follows in L19, are in the face of the text. The stems of the bold alifs are 5 to 6 px thick, those of the text 3 to 4. In L06 the bold ن stands 7 px from the alif of أعتق (nearest approach of the letter bodies at 400 ppi); in L19 the bold ة of جارية is set below the baseline, its body 18 px and its dot 9 px from the ق of قيمتها, and the two dots of the ة above and of the ي below are each printed as one mark. The bold ن is printed without its dot; transcribed ن.",
+  "L09, L21: بأكثر (L09) and بأكثرمن (L21): the print sets the ك 33 px (L09) and 16 px (L21) from the alif before it, as it sets أكثر each time it occurs (15 to 23 px on frames 033 to 072); transcribed as one word.",
+  "Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): قيمةالعبد (L14; 7 between the ة and the alif); ومائةدرهم (L16; 7 between the ة and the د) and ثلاثةأشياء (L16; 10 between the ة and the alif, where ثلاثة أشياء in L15 has 25); فالوصيةمن (L17; 5 between the ة and the م); أربعةوستون (L18; 5 between the ة and the conjunction و): the ة stands 1 to 14 px from the next letter without a space and 16 or more with one; درهماوستة (L18; 11 between the alif and the conjunction و, where the alif stands 9 to 13 px from a conjunction و set without a space); جزءاًمن (L18; 14 between the alif and the م, as جزءاًمنه on frame 116, L15, where جزءاً من in L17 and L19 has 31); واحدوثلاثين (L18; 7 between the د and the conjunction و, where واحد وثلاثين in L17 has 21); لايضرب (L21; 26 between the ligature لا and the ي, at the upper end of the distances of the ligature from the next letter inside a word, 20 to 26, where لا يضرب in L08 has 39); بأكثرمن (L21; the ر stands 27 px from the م above the baseline and its tail 11 px from it, within the 8 to 19 px of the tail inside a word, as غيرشىء on frame 115, L11, 27 and 12, where بأكثر من in L09 has 45 and 25).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: ثلثمائة غير (L01; 17 between the ة and the غ), مائة بمائة (L16; 17 between the ة and the ب) and الجارية خمسمائة (L22; 17 between the ة and the خ), at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one; واحد والعقر (L11; 18 between the د and the conjunction و) and واحد وثلاثين (L17; 21), where the د stands 7 px from the conjunction و in واحدوثلاثين, L18; وعشر شىء (L15, the second; the ر stands 29 px from the ش above the baseline and its tail 19 px from it, at the upper end of the distances of the tail inside a word, where وعشر شىء, the first of L15, has 48 and 32, and in L16 31 and 21); in doubt, the space is written.",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: ذلك مثل (L01; 16), بذلك فتجد (L04; 16), مائتين وهو (17), وعشرون وهو (L05; 15), الموهوب له (8), له وأوصى (L07; 16), الواهب لرجل (8), بثلث ماله (17), أبى حنيفة (8), صاحب الجارية (L08; 10), بثلث ماله (L12; 17), يعدل وصاياهم (L14; 5), فتبقى مائتان (L16; 10), على قدر (14), ذلك وهو (7), أربعةوستون درهماوستة (L18; 6), بربع ماله (10), فقول أبى (10), أن صاحب (8), صاحب الجارية (9), من الثلث (11), الثلث وصاحب (L21; 7).",
+  "The full stops (gaps as the nearest approach of the ink at 400 ppi): after بالجارية, before the bold فان (L06; 21 and 25), after ماله, before فقياسه (L08; 21 and 24), after نصفين, before وقياسه (L09; 27 and 25), and after بالربع, before وقياسه (L22; 22 and 20), between spaces; after الدرهم, 12 px from it and 24 before the bold فان (L19), and after ماله, 8 px from it and 28 before فقول (L21), close after the word, and transcribed so, with a space before the next word.",
+  "Plain alif where a hamza might be expected, as printed: فاجبر (L02, L15), فاطرح (L03, L16); with hamza: أخماس (L01, L02, L03, L04), أثمانه, فتأخذ, أثمان (L05), أوصى, the bold أعتق (L06), وأوصى (L07, L12, L20), أبى, أنه (L08), بأكثر, أن (L09), أيدى (L10, L13), أيديهم (L11), أشياء (L15), ثلاثةأشياء (L16), أجزاء (L17), أربعةوستون (L18), the bold أعتق (L19), أبى, أن, بأكثرمن (L21), أن (L22); on ي: المائة (L01), ثلثمائة (L01, L02, L14, L15), الثلثمائة (L02, L03), شيئا (L03, L04), ومائة (L03), مائة (L03, L05, L06, L07, L11, L16, L19, L20), بمائة (L03, L16), مائتا (L04), مائتين (L05), خمسمائة (L07, L20, L22; L10, twice), فوطئها (L07, L20), ستمائة (L11, L13), شيئين (L13), والشيئين (L14), ومائةدرهم, مائتان (L16), المائتين (L18); the hamza on the line: والشىء (L01), شىء (L03, L04, L10, L13, L14; L02, L12, L15, L16, twice; L11, three times), الشىء (L02, L04, L05), بشىء, أشياء (L15), ثلاثةأشياء (L16), فالشىء, أجزاء, جزءاً (L17), جزءاًمن (L18), جزءاً (L19).",
+  "With tanwīn on the final alif: جميعاً (L13), جزءاً (L17, L19), جزءاًمن (L18); without tanwīn as printed: شيئا (L03, L04), عبدا (L06), درهماوستة (L18).",
+  "L01, L04, L13: «مثلا المائة» (L01), «مائتا درهم» (L04) and «مثلا وصاياهم» (L13), as printed: the dual without its ن before the noun that follows it, as on frames 094-116.",
+  "The final yā' is printed without dots: على (L02, L18), فيبقى (L04, L13), الذى, أوصى (L06), وأوصى (L07, L12, L20), أبى (L08, L21), فى (L08, L10, L11, L13), أيدى (L10, L13), الموصى (L14), فتبقى (L16)."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

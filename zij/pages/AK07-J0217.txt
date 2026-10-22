@@ -1,0 +1,68 @@
+@page 217 185
+@lang la
+% JP2 0217: Tab. 71, p. 185: the conjunctions and oppositions in the single Arab years 1-30: the time to be added (with
+% the days to be subtracted), the mean longitude, the anomaly of the moon and the argument of latitude, with the
+% apparatus (notes 1-3 and a-k).
+@m C 82{sup:r}, O 139{sup:r},
+@c {b:Tabula coniunctionis et oppositionis in annis arabum residuis} (N)
+@m N 43{sup:v}.
+@c {b:Gedval coniunctionis et oppositionis in annis arabum planis} (CO)
+@tw size=footnotesize span=1.15 0.75 0.75 0.95 0.62 0.62 0.62 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5 0.5
+@t Notulae{sup:1}) | Anni | Dies | Horae |  |  | Medium{sup:3}) solis |  |  |  | Argumentum |  |  |  | Argumentum |  |  |
+@t  | plani{sup:2}) | subtrahendi |  |  |  | et lunae |  |  |  | lunae |  |  |  | latitudinis |  |  |
+@t  |  |  | {b:Horae} | {b:Min.} | {b:Sec.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 2 | 1 | 0 | 8{sup:f}) | 48 | 7 | 11 | 19 | 15 | 55 | 10 | 9 | 48 | 10 | 0 | 8 | 2 | 50
+@t 7{sup:a}) | 2{sup:e}) | 1 | 17 | 36 | 54 | 11 | 8 | 31 | 50 | 8 | 19 | 36 | 20 | 0 | 16 | 5 | 40
+@t 4 | 3 | 0 | 2 | 25 | 22 | 10 | 26 | 47 | 45 | 6 | 19 | 24 | 29 | 0 | 24 | 8 | 30
+@t 1 | 4 | 0 | 11 | 53 | 49 | 10 | 17 | 3 | 40 | 5 | 9 | 12 | 29 | 1 | 2 | 11 | 20
+@t 6 | 5 | 1 | 20 | 15 | 14 | 10 | 5 | 19 | 35 | 3 | 19 | 0 | 48 | 1 | 10 | 14 | 10
+@t 3 | 6 | 0 | 4 | 50 | 45 | 9 | 25 | 15 | 30 | 1 | 28 | 49 | 0 | 1 | 18 | 17 | 0
+@t 1 | 7 | 1 | 13 | 39{sup:g}) | 16 | 9 | 14 | 51 | 35 | 0 | 8 | 27 | 7 | 1 | 26 | 19 | 50
+@t 5 | 8 | 1 | 22 | 27 | 40 | 9 | 4 | 7 | 20 | 10 | 18 | 35 | 16 | 2 | 4 | 22 | 40
+@t 2 | 9 | 0 | 7 | 16 | 8 | 8 | 23 | 23 | 15 | 8 | 28 | 13 | 26 | 2 | 12 | 25 | 30
+@t 7 | 10 | 1 | 16 | 4 | 32 | 8 | 12 | 39 | 10 | 7 | 8 | 1 | 35 | 2 | 20 | 28{sup:i}) | 20
+@t 4 | 11 | 0 | 0 | 53 | 4 | 8 | 1 | 55 | 5 | 5 | 17 | 49 | 44 | 2 | 28 | 31 | 10
+@t 1 | 12 | 0 | 9 | 41 | 28 | 7 | 21 | 11 | 0 | 3 | 27 | 37 | 53 | 3 | 6 | 34 | 0
+@t 6 | 13 | 1 | 18 | 29 | 56 | 7 | 10 | 26 | 55 | 2 | 7 | 26 | 3 | 3 | 14 | 36 | 50
+@t 3 | 14 | 0 | 3 | 18 | 26 | 6 | 29 | 42 | 50 | 0 | 17 | 14 | 12 | 3 | 22 | 39 | 40
+@t 7 | 15 | 0 | 12 | 6 | 55 | 6 | 18 | 58 | 45 | 10 | 27 | 2 | 22 | 4 | 0 | 42 | 30
+@t 5 | 16 | 1 | 20 | 55 | 18 | 6 | 8 | 14 | 40 | 9 | 5 | 50 | 31 | 4 | 8 | 45 | 20{sup:k})
+@t 2 | 17 | 0 | 5 | 43 | 50 | 5 | 27 | 30 | 35 | 7 | 16 | 38 | 40 | 4 | 16 | 48 | 10
+@t 7 | 18 | 1 | 14 | 32 | 16 | 5 | 16 | 46 | 30 | 5 | 26 | 26 | 49 | 4 | 24 | 51 | 0
+@t 4 | 19 | 1 | 23 | 20 | 40 | 5 | 6 | 2 | 25 | 4 | 6 | 14 | 48 | 5 | 2 | 53 | 50
+@t 1 | 20 | 0 | 8 | 9 | 9 | 4 | 25 | 18 | 20 | 2 | 16 | 3 | 9 | 5 | 10 | 56 | 40
+@t 6 | 21 | 1 | 16 | 57 | 56 | 4 | 14 | 34 | 15 | 0 | 25 | 51 | 18 | 5 | 18 | 59 | 30
+@t 3 | 22 | 0 | 1 | 46 | 5 | 4 | 3 | 50 | 10 | 11 | 5 | 39 | 27 | 5 | 27 | 10 | 20
+@t 7{sup:b}) | 23 | 0 | 10 | 34 | 30 | 3 | 23 | 6 | 5 | 9 | 15 | 27 | 36 | 6 | 5 | 5 | 10
+@t 5 | 24 | 1 | 19 | 23 | 0 | 3 | 12 | 24 | 0 | 7 | 25 | 15 | 45 | 6 | 13 | 8 | 0
+@t 2 | 25 | 0 | 4 | 11 | 21 | 3 | 1 | 37 | 55 | 6 | 5 | 3 | 54 | 6 | 21 | 10 | 50
+@t 7{sup:c}) | 26 | 1 | 12 | 59 | 52 | 2 | 20 | 53 | 50 | 4 | 14 | 52 | 3 | 6 | 29 | 13 | 40
+@t 4 | 27 | 1 | 21 | 48 | 21 | 2 | 10 | 9 | 45 | 2 | 24 | 40 | 13 | 7 | 7 | 16 | 30
+@t 1 | 28 | 0 | 6 | 36 | 46 | 1 | 29 | 25 | 40 | 1 | 4 | 38 | 25 | 7 | 15 | 19 | 20
+@t 6{sup:d}) | 29 | 1 | 15 | 29 | 22 | 1 | 18 | 41 | 35 | 11 | 14 | 16 | 38 | 7 | 23 | 22 | 10
+@t 3 | 30{sup:e}) | 0 | 0 | 13 | 33 | 1 | 7 | 57 | 30 | 9 | 24 | 2 | 48 | 8{sup:h}) | 1 | 25 | 0
+@n {sup:1}) Notulae] CN, Notae O — {sup:2}) plani] CO, residui N — {sup:3}) Medium] ON, elwacat C.
+@n {sup:a}) 7] C, 6 O — {sup:b}) 7] O, 4 C — {sup:c}) 7] O, 3 C — {sup:d}) 6] ON, 5 C — {sup:e})—{sup:e}) 2—30] C, {i:numeros pares}
+@n {i:om.} O — {sup:f}) 8] C, 7 O — {sup:g}) 39] ON, 29 C — {sup:h}) 8] N, 7 CO — {sup:i}) 28] CO, 18 N — {sup:k}) 20] N, 4 CO.
+@obs The page number «185» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 71», in bold sans serif, underlined. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «24» on the right; recorded here, not transcribed as a line. The titles (L01-L02), in bold, the sigla in roman: N's «Tabula coniunctionis et oppositionis in annis arabum residuis (N)» and that of C and O, «Gedval coniunctionis et oppositionis in annis arabum planis (CO)». The folios of the manuscripts stand at the right of the second title in two lines, «C 82r, O 139r,» and «N 43v.», the letters raised; here as right margin notes beside L01 and L02.
+@obs The table: eighteen columns divided by double vertical rules: «Notulae1)» and «Dies subtrahendi», printed upwards, «Anni plani2)», «Horae» over «Horae», «Min.», «Sec.», and «Medium3) solis et lunae», «Argumentum lunae» and «Argumentum latitudinis», each over «Sig.», «Gr.», «Min.», «Sec.»; the units in smaller bold type. Here each head is set from the top, one printed line to a line (L03-L05); the cells separated by our «|»; a head followed by empty cells spans their columns. The range of note e is marked at its first and last rows, 2 and 30 (L07, L35).
+@obs L06-L35. The rows are the single years 1-30, whose values are added to a row of Tab. 69 or Tab. 70 (pp. 183-184) for the conjunction or the opposition; Suter's example adds the row of 17 (L22), 5h 43m 50s, 5s 27° 30′ 35″, 7s 16° 38′ 40″ and 4s 16° 48′ 10″ (p. 82, JP2 0114, L24), and the 8h 48m 7s of the year 1 (L06) is quoted on p. 82, L05. The time is the excess of 12 synodic months a year over the days of the years, 354 in a common year and 355 in the leap years 2, 5, 7, 10, 13, 16, 18, 21, 24, 26 and 29 of Tab. 2 (p. 110, JP2 0142); where the months fall short of the days, a day is subtracted and 24 hours are added. Checked: the column «Dies subtrahendi» has 1 in exactly these rows; the times follow p · 8h 48m 27.1s less the leap days (0h 13m 33s at 30) within 10s in every row except at 1, 4, 5, 21 and 29: with 27, 13 and 36 for the printed 7, 53 and 56 the first, the second and the fourth agree (see the critical notes); at 5, 20h 15m 14s, the law gives 20h 2m 15s, and at 29, 15h 29m 22s, it gives 15h 25m 6s.
+@obs L06-L35, continued. Checked: the mean longitude is p · 11s 19° 15′ 55″, the motion of the sun in 12 synodic months, to the second in every row except at 3, 5, 6, 7 and 24 (see the critical notes); 1s 7° 57′ 30″ at 30, 7″ less than the 1s 7° 57′ 37″ by which Tab. 69 grows in 30 collected years. The anomaly is p · 10s 9° 48′ 9.6″ within 7″ in every row except at 3, 7, 8, 16, 28 and 30 (see the critical notes) and at 4 and 19, 5s 9° 12′ 29″ and 4s 6° 14′ 48″, 9″ and 14″ less; 9s 24° 4′ 48″ at 30 is 7″ less than the 9s 24° 4′ 55″ of Tab. 69. The argument of latitude is p · 8° 2′ 50″ to the second in every row except at 22 (see the critical note); 8s 1° 25′ 0″ at 30 is 22″ less than the 8s 1° 25′ 22″ of Tab. 69.
+@obs L06-L35, «Notulae». The weekday numbers grow by 4 a common year and by 5 a leap year, counted 1-7, from 2 at the year 1; all thirty as printed, with the readings of notes a-d. Each is one more than the nota of the following year in Tab. 2 (p. 110).
+@obs Notes on the readings. Checked by the same laws: the edition's readings are those of the regular values at 2, 23, 26 and 29 in the first column (notes a-d: C's 7 against O's 6, O's 7 against C's 4 and 3, the 6 of O and N against C's 5), at 1 and 7 in the time (notes f and g: C's 8 against O's 7, the 39 of O and N against C's 29, 13h 39m 9s by the law), and in the argument of latitude at 30 (note h, N's sign 8 against the 7 of C and O), 10 (note i, the minutes 28 of C and O against N's 18) and 16 (note k, N's seconds 20 against the 4 of C and O). Note e, marked at 2 and 30 («e)—e)»): O omits the even years 2-30.
+@obs Notes 1-3: «Notulae» (C and N), O's «Notae»; «plani» (C and O), N's «residui», the remaining years; C's «elwacat», al-wasaṭ, the mean, for «Medium». Italics: «numeros pares om.».
+@critical AK07-CN189 | missing figure | L06 | 7 | 27 | the seconds of the time at 1: the year 2 has 17h 36m 54s, twice 8h 48m 27s, the step from row to row is 8h 48m 21s to 8h 48m 32s elsewhere, and with 7 the step to 2 is 8h 48m 47s; a 2 is missing before the 7 | high | Suter quotes 8h 48m 7s (p. 82, JP2 0114, L05)
+@critical AK07-CN190 | wrong figure | L09 | 53 | 13 | the minutes of the time at 4: 2h 25m 22s at 3 + 8h 48m 27s is 11h 13m 49s, and 4 · 8h 48m 27.1s less one leap day is 11h 13m 48s; a 5 is printed for the 1 | high | none
+@critical AK07-CN191 | wrong figure | L26 | 56 | 36 | the seconds of the time at 21: 8h 9m 9s at 20 + 8h 48m 27s is 16h 57m 36s, and 1h 46m 5s at 22 is 16h 57m 36s + 8h 48m 29s; with 56 the steps are 8h 48m 47s and 8h 48m 9s; a 5 is printed for the 3 | high | none
+@critical AK07-CN192 | wrong figure | L08 | 26 | 27 | the degrees of the mean longitude at 3: 3 · 11s 19° 15′ 55″ is 10s 27° 47′ 45″, between 11s 8° 31′ 50″ at 2 and 10s 17° 3′ 40″ at 4, 10° 44′ 5″ from each; a 6 is printed for the 7 | high | none
+@critical AK07-CN193 | wrong figure | L10 | 5 | 6 | the degrees of the mean longitude at 5: 5 · 11s 19° 15′ 55″ is 10s 6° 19′ 35″, 10° 44′ 5″ less than 10s 17° 3′ 40″ at 4; a 5 is printed for the 6 | high | none
+@critical AK07-CN194 | wrong figure | L11 | 15 | 35 | the minutes of the mean longitude at 6: 6 · 11s 19° 15′ 55″ is 9s 25° 35′ 30″, 10° 44′ 5″ less than 10s 6° 19′ 35″ at 5; a 1 is printed for the 3 | high | none
+@critical AK07-CN195 | wrong figure | L12 | 35 | 25 | the seconds of the mean longitude at 7: 7 · 11s 19° 15′ 55″ is 9s 14° 51′ 25″, and 9s 4° 7′ 20″ at 8 is 10° 44′ 5″ less than it; a 3 is printed for the 2 | high | none
+@critical AK07-CN196 | wrong figure | L29 | 24 | 22 | the minutes of the mean longitude at 24: 24 · 11s 19° 15′ 55″ is 3s 12° 22′ 0″, between 3s 23° 6′ 5″ at 23 and 3s 1° 37′ 55″ at 25, 10° 44′ 5″ from each; a 4 is printed for the 2 | high | none
+@critical AK07-CN197 | wrong figure | L08 | 19 | 29 | the degrees of the anomaly at 3: 3 · 10s 9° 48′ 9.6″ is 6s 29° 24′ 29″, and 5s 9° 12′ 29″ at 4 is 10s 9° 48′ more; a 1 is printed for the 2 | high | none
+@critical AK07-CN198 | wrong figure | L12 | 27 | 37 | the minutes of the anomaly at 7: 7 · 10s 9° 48′ 9.6″ is 0s 8° 37′ 7″, the steps from 1s 28° 49′ 0″ at 6 and to 10s 18° 25′ 17″ at 8 being 10s 9° 48′ 7″ and 10s 9° 48′ 10″; a 2 is printed for the 3 | high | none
+@critical AK07-CN199 | wrong figure | L13 | 35 | 25 | the minutes of the anomaly at 8: 8 · 10s 9° 48′ 9.6″ is 10s 18° 25′ 17″, and 8s 28° 13′ 26″ at 9 is 10s 9° 48′ 10″ more than 10s 18° 25′ 16″; a 3 is printed for the 2 | high | none
+@critical AK07-CN200 | wrong figure | L21 | 5 | 6 | the degrees of the anomaly at 16: 16 · 10s 9° 48′ 9.6″ is 9s 6° 50′ 34″, the steps from 10s 27° 2′ 22″ at 15 and to 7s 16° 38′ 40″ at 17 being 10s 9° 48′ 9″ with 6; a 5 is printed for the 6 | high | none
+@critical AK07-CN201 | wrong figure | L33 | 38 | 28 | the minutes of the anomaly at 28: 28 · 10s 9° 48′ 9.6″ is 1s 4° 28′ 29″, the steps from 2s 24° 40′ 13″ at 27 and to 11s 14° 16′ 38″ at 29 being 10s 9° 48′ 12″ and 10s 9° 48′ 13″ with 28; a 3 is printed for the 2 | high | none
+@critical AK07-CN202 | wrong figure | L35 | 2 | 4 | the minutes of the anomaly at 30: 30 · 10s 9° 48′ 9.6″ is 9s 24° 4′ 48″, 11s 14° 16′ 38″ at 29 + 10s 9° 48′ 10″, and Tab. 69 grows by 9s 24° 4′ 55″ in 30 years; a 2 is printed for the 4 | high | none
+@critical AK07-CN203 | wrong figure | L27 | 10 | 2 | the minutes of the argument of latitude at 22: 22 · 8° 2′ 50″ is 5s 27° 2′ 20″, 8° 2′ 50″ from 5s 18° 59′ 30″ at 21 and from 6s 5° 5′ 10″ at 23; 10 is printed for 2 | high | none

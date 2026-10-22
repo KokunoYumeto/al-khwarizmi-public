@@ -1,0 +1,33 @@
+@page 97 ٨١
+% Frame 097, printed p. 81: the problem of frame 096 concluded: an estate and nine tenths of a fifth of an estate
+% equal nine shares and nine tenths; less nine fifty-ninths of it, an estate equals eight shares and twenty-three
+% fifty-ninths: the share fifty-nine, the estate four hundred and ninety-five, two fifths a hundred and ninety-eight,
+% less two shares, a hundred and eighteen, eighty; the excepted quarter and fifth of it, thirty-six, returned: eighty-
+% two to the legatee; four hundred and thirteen, fifty-nine to each of seven shares. Then, under «فان ترك ابنين
+% وابنتين» in bold: two sons and two daughters; to one man a daughter's share less a fifth of what remains of the
+% third after the share, to another a daughter's share less a third of what remains of the third after all that, and
+% to a third half a sixth of the whole estate, continued on the next page. Below the rule one footnote of the editors.
+وتسعة أعشار نصيب تعدل سبعة أنصباء فاجبر ذلك بنصيبين وتسعة أعشار
+نصيب وزدها على الانصباء فيكون معك مال وتسعة أعشار خمس مال تعدل
+تسعة أنصباء وتسعة أعشار نصيب فاردد ذلك الى مال واحد وهو أن تنقص
+مما معك تسعة اجزاء من تسعة وخمسين جزءاً فيبقى مال يعدل ثمانية أنصباء
+وثلاثة وعشرين جزءا من تسعةوخمسين جزءاً من نصيب فالنصيب تسعة وخمسون
+جزءاً وتكون سهام الفريضة اربعمائة وخمسة وتسعين سهماً والخمسان من ذلك
+مائة وثمانية وتسعون سهماً فارفع من ذلك النصيبين مائة وثمانية عشر سهماً يبقى
+ثمانون سهماً يرجع منه المستثنى وهو ربع الثمانين وخمسها ستة وثلاثون سهماً
+فيبقى للموصى له اثنان وثمانون سهماً ترفع من سهام الفريضةوهى اربعمائةوخمسة
+وتسعون سهماً فيبقى اربعمائة وثلاثةعشر سهماً بين سبعة انصباء لكل بنت تسعة
+وخمسون وللابن ضعف ذلك . {b:فان ترك ابنين وابنتين} واوصى لرجل بمثل نصيب
+بنت إلا خمس ما يبقى من الثلث بعد النصيب ولآخر بمثل نصيب بنت اخرى إلا
+ثلث ما يبقى من الثلث بعد ذلك كله واوصى لرجل آخر بنصف سدس جميع المال {n:١} .
+@ednotes ١ 11
+@obs L11: the words فان ترك ابنين وابنتين (L11), the run-in heading of the next problem, are printed in a bold face, after a full stop; واوصى, which follows, is in the face of the text. The bold ن of فان is printed without its dot; transcribed ن.
+@obs Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): تسعةوخمسين (L05; 4 between the ة and the conjunction و, where تسعة وخمسين in L04 has 24); الفريضةوهى (L09; 1); اربعمائةوخمسة (L09; 7), where اربعمائة وخمسة in L06 has 17; وثلاثةعشر (L10; 6 between the ة and the ع, as on frames 087 and 090).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: اربعمائة وخمسة (L06; 17 between the ة and the conjunction و, at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one); ما يبقى (L12; 20 between the alif and the ي, at the upper end of the distances of an alif from a tooth inside a word, 17 to 20 px on frames 087 and 091, and below those with a space, 22 to 37 px on frames 087, 091 and 092; in doubt, the space is written; the same words have 32 in L13).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: من نصيب, نصيب فالنصيب (L05), ذلك النصيبين (L07; 20 between the ك and the alif), وخمسون وللابن, ضعف ذلك (L11; 17 between the ف and the ذ), النصيب ولآخر, بنت اخرى (L12; 10 between the ت and the alif), ذلك كله, كله واوصى (L13).
+@obs The note mark and the full stops (gaps as the nearest approach of the ink at 400 ppi): the full stop after ذلك, before the bold فان, stands between spaces (L11; 25 and 25); (١) stands 53 px after المال, followed by a full stop 27 px after the mark, at the end of L13. L01-L10 run on without a full stop.
+@obs Plain alif where a hamza might be expected, as printed: فاجبر (L01), الانصباء (L02), فاردد, الى (L03), اجزاء (L04), اربعمائة (L06), فارفع (L07), اثنان, اربعمائةوخمسة (L09), اربعمائة, انصباء (L10), للابن, the bold ابنين, وابنتين, واوصى (L11), اخرى (L12), واوصى (L13); with hamza: أعشار (L01, twice), أنصباء (L01), أعشار (L02), أنصباء, أعشار, أن (L03), أنصباء (L04); below the alif: إلا (L12, twice); with madda: ولآخر (L12), آخر (L13); on ي: اربعمائة (L06), مائة (L07, twice), اربعمائةوخمسة (L09), اربعمائة (L10); the hamza on the line: أنصباء (L01, L03, L04), الانصباء (L02), اجزاء, جزءاً (L04), جزءا, جزءاً (L05), جزءاً (L06), انصباء (L10).
+@obs With tanwīn on the final alif: جزءاً (L04, L06), the second جزءاً (L05), سهماً (L06, L09; L07, L08, L10, twice each); without tanwīn as printed: the first جزءا (L05).
+@obs The final yā' is printed without dots: على (L02), الى (L03), فيبقى (L04), يبقى (L07), المستثنى (L08), فيبقى, للموصى, الفريضةوهى (L09), فيبقى (L10), واوصى (L11), يبقى, اخرى (L12), يبقى, واوصى (L13).
+@obs The print stretches أعشار (L01, the last word, between the ش and the alif), يعدل (L04, between the ع and the د) and وتكون (L06, between the ت and the ك) with the elongation stroke; the stroke is not transcribed.
+@obs Note (١) of the editors, of eleven printed lines, restates the problem of L11-L13 in modern notation, with a daughter's share x: the first bequest x − 1/5 (1/3 − x) = 6/5 x − 1/15; what remains of the third after the first bequest and a daughter's share, 6/15 − 11/5 x; the second bequest x − 1/3 (6/15 − 11/5 x) = 26/15 x − 2/15; the third 1/12; the three together 44/15 x − 7/60; what remains of the estate, six shares, 1 − (44/15 x − 7/60) = 6x; hence 67/60 = 134/15 x, a daughter's share 67 parts of 536, or 201 of 1608. The arithmetic checks exactly. The note is not reproduced.

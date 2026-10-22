@@ -1,0 +1,33 @@
+@page 167 ١٦١
+% Frame 167, printed p. 161: the end of the editor's index: the islands of the sea of Jurjān and Ṭabaristān, the places
+% where the boundaries of the countries are written, and the springs and rivers, from beyond the equator to beyond the
+% seventh clime, with six great rivers as sub-entries; a short rule closes the index.
+@cols 125,25
+@align r,c
+@rh | صحيفة
+@r جزائر بحر جرجان وطبرستان | ١٠١
+@r المواضع الّتى تَكتب فيها حدود البلدان | ١٠١—١٠٥
+@c * العيون والأنهار التى على كرة الأرض المعمورة *
+@r العيون والأنهار الّتى خلف خطّ الاستواء | ١٠٦—١٠٩
+@c نيل مصر ١٠٦—١٠٩
+@r الإقليم الأوّل وما فيه من العيون والأنهار | ١١٠—١١٥
+@r الإقليم الثانى وما فيه من العيون والأنهار | ١١٥—١١٨
+@r الإقليم الثالث وما فيه من العيون والأنهار | ١١٩—١٢٢
+@r الإقليم الرابع وما فيه من العيون والأنهار | ١٢٢—١٢٦
+@r الإقليم الخامس وما فيه من العيون والأنهار | ١٢٦—١٣٥
+@c نهر دجلة ١٢٩—١٣٠
+@c نهر مهران ١٣١—١٣٣
+@c نهر جنجس ١٣٣—١٣٥
+@r الإقليم السادس وما فيه من العيون والأنهار | ١٣٥—١٤١
+@c نهر الفرات ١٣٩—١٤٠
+@r الإقليم السابع وما فيه من العيون والأنهار | ١٤١—١٤٩
+@c نهر بلخ ١٤٥—١٤٧
+@r ما خلف الإقليم السابع من العيون والأنهار | ١٤٩—١٥٨
+@obs The last page of the editor's index, in the layout of pp. 159-160 (frames 165-166): each section of the text with the printed pages of the edition on which it stands, in a column at the left under the head «صحيفة», page, repeated at the top of the page. Transcribed as a table of two columns, the section and its pages; the first page of a range stands at the right of the long dash.
+@obs The pages agree with the frames (the printed page N is frame N + 6): the islands of the sea of Jurjān and Ṭabaristān and the places where the boundaries of the countries are written begin on p. 101 (frame 107), and the places end on p. 105 (frame 111); the springs and rivers begin on p. 106 (frame 112); the first clime on p. 110 (frame 116), the second on p. 115 (frame 121), the third on p. 119 (frame 125), the fourth on p. 122 (frame 128), the fifth on p. 126 (frame 132), the sixth on p. 135 (frame 141), the seventh on p. 141 (frame 147), and the springs and rivers beyond the seventh clime on p. 149 (frame 155), to the end of the text on p. 158 (frame 164).
+@obs L06, L12-L14, L16, L18: six great rivers are set as sub-entries under their clime, indented from the right, each with its pages after it in the middle of the line, as the sub-entries of pp. 159-160; transcribed as centred lines. Their pages agree with the frames on which the rivers are named: the Nile of Egypt, «نيل مصر», from p. 106 (frame 112); the Tigris, «نهر دجلة», from p. 129 (frame 135); the Mihrān, «نهر مهران», from p. 131 (frame 137); the Ganges, «نهر جنجس», from p. 133 (frame 139); the Euphrates, «نهر الفرات», from p. 139 (frame 145); the river of Balkh, «نهر بلخ», from p. 145 (frame 151).
+@obs L04: the head of the third group, centred, between two small open stars: «* العيون والأنهار التى على كرة الأرض المعمورة *», the springs and the rivers on the globe of the inhabited earth. «التى» has no shadda here, where L03, L05 and the heads of pp. 159-160 have «الّتى».
+@obs L03: «تَكتب» has a short slanting stroke, 10 by 5 px, above the two dots of the first ت, apart from the shaft of the ك: a fatha, which marks the reading «تَكتب», you write, and is transcribed. The medial ك of «الكبير» on p. 160 (frame 166, L11), in the same type, has no such stroke, and the head on p. 101 (frame 107) prints the word without a vowel sign.
+@obs The entries give the heads of the text with small differences of form: L05 has «العيون والأنهار الّتى خلف خطّ الاستواء» for the head on p. 106 (frame 112, L01), whose first words, damaged in the manuscript, the text prints with a gap between angle brackets (notes a and b there); L19 has «من العيون والأنهار», where the head on p. 149 (frame 155) has «من الأنهار والعيون».
+@obs Signs, transcribed as printed: «الّتى» (L03, L05) with a shadda over the ل; «الأنهار» and «والأنهار» with a hamza over the alif; «خطّ» (L05) with a shadda over the ط; «الاستواء» with a hamza on the line; «الإقليم» with a hamza below the alif; «الأوّل» (L07) with a shadda over the و; «جزائر» (L02) with a hamza on the tooth before the ر.
+@obs Below L19, a short rule of 277 px, centred, ends the index. At the foot, at the left, the signature «11» of the printed sheet; the page number «— ١٦١ —» stands at the foot, centred. The page has no footnotes.

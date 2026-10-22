@@ -1,0 +1,21 @@
+{
+ "anchor": "AK05-F004",
+ "frame": 4,
+ "frame_file": "page_004.jpg",
+ "frame_sha256": "e6cd9cdeeb515baf43a82f28ecfbf54026be2cb74ed807ea88975e81defa0eee",
+ "printed_page": "-",
+ "kind": "provenance",
+ "role": "COPY_PROVENANCE",
+ "comment": "Frame 004: a leaf with a number written in pencil at its head.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [],
+ "copy_matter": [
+  "The number «70-961379» written in pencil at the head of the leaf, a number of the library's records; not part of the edition."
+ ],
+ "critical_notes": []
+}

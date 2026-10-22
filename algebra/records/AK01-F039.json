@@ -1,0 +1,33 @@
+{
+ "anchor": "AK01-F039",
+ "frame": 39,
+ "frame_file": "page_039.jpg",
+ "frame_sha256": "c3d71e2561ebd7605bd150beae9cb99b0a78dfbb3651b56d4ee487398433fa96",
+ "printed_page": "-",
+ "kind": "facsimile",
+ "role": "MODERN_EDITORIAL (plate: facsimile of the manuscript)",
+ "comment": "Frame 039: a plate: the facsimile, in a line block, of a page of the manuscript with the demonstration of the fifth case, a square and twenty-one dirhams equal ten roots, from «مثل احد اضلاع سطح اد» to its end, with the figure of the demonstration below the text, a note in the top margin, and the catchword «واما» at the foot. It follows printed p. 24 (frame 038); its verso (frame 040) is blank.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [
+  {
+   "id": "AK01-F039-FIG1",
+   "rect": [
+    560,
+    440,
+    2300,
+    3300
+   ],
+   "after": null
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The facsimile is reproduced as an image; its handwritten text is not transcribed. Its lines correspond to the edition's text from frame 038, L02, to the end of the demonstration on frame 041.",
+  "The manuscript names the point at which the line حه is halved with ج, a jīm with its dot: «على نقطة ج» and «خط هج» in the fifth line of the page, where the print has ع (frame 038, L07; critical note AK01-CN003). In the first line it writes the label هن with the ن upright (frame 038, L02; critical note AK01-CN004)."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

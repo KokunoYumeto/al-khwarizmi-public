@@ -1,0 +1,448 @@
+{
+ "anchor": "AK02-F021",
+ "frame": 21,
+ "frame_file": "page_021.jpg",
+ "frame_sha256": "6d0f4baf5837bfb0bd02439047e4080d89db5910634207086142f176b3a84efe",
+ "printed_page": "15",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 021, printed p. 15: the example of division, 46468 by 324, worked: the divisor set under the highest places, the quotient figure 1 found and multiplied into 3, 2 and 4, the remainders written above; the divisor moved one place to the right, the figure 4 found and multiplied into 3, 2 and 4.",
+ "lines": [
+  {
+   "id": "AK02-F021-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "milia ; postea .{sc:iiii}.{sup:or} que sunt quadringinta milia. Eruntque",
+   "margin": null,
+   "plain": "milia ; postea .iiii.or que sunt quadringinta milia. Eruntque",
+   "italic": [],
+   "small_caps": [
+    "iiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "ultima harum differentiarum uersus sinistram, et prima earum",
+   "margin": null,
+   "plain": "ultima harum differentiarum uersus sinistram, et prima earum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "octo uersus | dexteram: post hec scribes sub eis numerum su-",
+   "margin": "car. 107 {i:recto}.",
+   "plain": "octo uersus | dexteram: post hec scribes sub eis numerum su-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "per quem diuidis; scribesque ultimam differentiam numeri ,",
+   "margin": null,
+   "plain": "per quem diuidis; scribesque ultimam differentiam numeri ,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "super quem diuidis, que est figura trium,et sunt tercenti sub",
+   "margin": null,
+   "plain": "super quem diuidis, que est figura trium,et sunt tercenti sub",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "ultima differentia numeri superioris, que sunt {sc:iiii}.{sup:or}, eo quod",
+   "margin": null,
+   "plain": "ultima differentia numeri superioris, que sunt iiii.or, eo quod",
+   "italic": [],
+   "small_caps": [
+    "iiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "sit minus illo quod est supra eum : et si esset plus illo,retra-",
+   "margin": null,
+   "plain": "sit minus illo quod est supra eum : et si esset plus illo,retra-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "hemus eum una mansione, ponemusque eum sub sex : post",
+   "margin": null,
+   "plain": "hemus eum una mansione, ponemusque eum sub sex : post",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "hec ponemus in ea,que succedit tres,figuram duorum que sunt",
+   "margin": null,
+   "plain": "hec ponemus in ea,que succedit tres,figuram duorum que sunt",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L10",
+   "n": 10,
+   "kind": "text",
+   "text": ".{sc:xx}. sub sex: postea ponemus in ea que succedit .{sc:iiii}.{sup:or} idem",
+   "margin": null,
+   "plain": ".xx. sub sex: postea ponemus in ea que succedit .iiii.or idem",
+   "italic": [],
+   "small_caps": [
+    "xx",
+    "iiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L11",
+   "n": 11,
+   "kind": "text",
+   "text": ".{sc:iiii}.{sup:or}: et hec figura earum.",
+   "margin": null,
+   "plain": ".iiii.or: et hec figura earum.",
+   "italic": [],
+   "small_caps": [
+    "iiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L12",
+   "n": 12,
+   "kind": "indent",
+   "text": "Post hec insipientes scribamus in directo prime differentie",
+   "margin": null,
+   "plain": "Post hec insipientes scribamus in directo prime differentie",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "numeri super quem diuidimus super numerum superiorem",
+   "margin": null,
+   "plain": "numeri super quem diuidimus super numerum superiorem",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "quem diuidimus qui sunt quater unum: et si posuissemus eum",
+   "margin": null,
+   "plain": "quem diuidimus qui sunt quater unum: et si posuissemus eum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "sub .{sc:iiii}.{sup:or}, esset conueniens. Multiplicemusque ipsum in tri-",
+   "margin": null,
+   "plain": "sub .iiii.or, esset conueniens. Multiplicemusque ipsum in tri-",
+   "italic": [],
+   "small_caps": [
+    "iiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "bus, et minuemus eum de eo quod supra ipsum est, et rema-",
+   "margin": null,
+   "plain": "bus, et minuemus eum de eo quod supra ipsum est, et rema-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "nebit unum. De inde multiplicemus eum in duobus; minue-",
+   "margin": null,
+   "plain": "nebit unum. De inde multiplicemus eum in duobus; minue-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "mus eum de eo quod supra ipsum est, qui sunt .{sc:vi}., et re-",
+   "margin": null,
+   "plain": "mus eum de eo quod supra ipsum est, qui sunt .vi., et re-",
+   "italic": [],
+   "small_caps": [
+    "vi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "manebunt .{sc:iiii}.{sup:or} Post hec multiplicemus eum iterum in",
+   "margin": null,
+   "plain": "manebunt .iiii.or Post hec multiplicemus eum iterum in",
+   "italic": [],
+   "small_caps": [
+    "iiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L20",
+   "n": 20,
+   "kind": "text",
+   "text": ".{sc:iiii}.{sup:or}, et minuemus eum de eo quod supra ipsum est, que",
+   "margin": null,
+   "plain": ".iiii.or, et minuemus eum de eo quod supra ipsum est, que",
+   "italic": [],
+   "small_caps": [
+    "iiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "sunt .{sc:iiii}., et nichil remanebit : ponemusque in loco eius cir-",
+   "margin": null,
+   "plain": "sunt .iiii., et nichil remanebit : ponemusque in loco eius cir-",
+   "italic": [],
+   "small_caps": [
+    "iiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "culum. Postea mutabis inicium numeri super quem diuidis,uel",
+   "margin": null,
+   "plain": "culum. Postea mutabis inicium numeri super quem diuidis,uel",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L23",
+   "n": 23,
+   "kind": "text",
+   "text": ".{sc:iiii}.{sup:or} sub .{sc:vi}., et erunt duo sub circulo, et {sc:iii}. sub .{sc:iiii}. De",
+   "margin": null,
+   "plain": ".iiii.or sub .vi., et erunt duo sub circulo, et iii. sub .iiii. De",
+   "italic": [],
+   "small_caps": [
+    "iiii",
+    "vi",
+    "iii",
+    "iiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "inde scribes in directo inferioris numeri aliquid in ordine",
+   "margin": null,
+   "plain": "inde scribes in directo inferioris numeri aliquid in ordine",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "unius, idest .{sc:iiii}., quos multiplicabis in tribus, et erunt {sc:xii}.;",
+   "margin": null,
+   "plain": "unius, idest .iiii., quos multiplicabis in tribus, et erunt xii.;",
+   "italic": [],
+   "small_caps": [
+    "iiii",
+    "xii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "minuesque eos de eo quod est super tres qui sunt {sc:xiiii}., et",
+   "margin": null,
+   "plain": "minuesque eos de eo quod est super tres qui sunt xiiii., et",
+   "italic": [],
+   "small_caps": [
+    "xiiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "remanebunt .{sc:ii} : post hec multiplicabis etiam ipsos .{sc:iiii}.{sup:or} in",
+   "margin": null,
+   "plain": "remanebunt .ii : post hec multiplicabis etiam ipsos .iiii.or in",
+   "italic": [],
+   "small_caps": [
+    "ii",
+    "iiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "duobus qui succedunt tres, et erunt {sc:viii}. , quos minues de eo",
+   "margin": null,
+   "plain": "duobus qui succedunt tres, et erunt viii. , quos minues de eo",
+   "italic": [],
+   "small_caps": [
+    "viii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "quod supra ipsum est qui sunt .{sc:xx}., et remanebunt {sc:xii}., duo",
+   "margin": null,
+   "plain": "quod supra ipsum est qui sunt .xx., et remanebunt xii., duo",
+   "italic": [],
+   "small_caps": [
+    "xx",
+    "xii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "scilicet supra {sc:ii}.{sup:o}, et unum supra tres. Iterum multiplicabis",
+   "margin": null,
+   "plain": "scilicet supra ii.o, et unum supra tres. Iterum multiplicabis",
+   "italic": [],
+   "small_caps": [
+    "ii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L31",
+   "n": 31,
+   "kind": "text",
+   "text": ".{sc:iiii}., in .{sc:iiii}. qui succedunt dexteram, et erunt {sc:xvi}.; minues-",
+   "margin": null,
+   "plain": ".iiii., in .iiii. qui succedunt dexteram, et erunt xvi.; minues-",
+   "italic": [],
+   "small_caps": [
+    "iiii",
+    "iiii",
+    "xvi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "que eos de eo quod supra ipsos est qui sunt .{sc:cxxvi}. , et",
+   "margin": null,
+   "plain": "que eos de eo quod supra ipsos est qui sunt .cxxvi. , et",
+   "italic": [],
+   "small_caps": [
+    "cxxvi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F021-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "remanebunt supra .{sc:iiii}. circulus , et supra duos unum , et",
+   "margin": null,
+   "plain": "remanebunt supra .iiii. circulus , et supra duos unum , et",
+   "italic": [],
+   "small_caps": [
+    "iiii"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 15 )» stands at the head of the page, centred. The page has no footnotes and no signature.",
+  "L03: the vertical bar between «uersus» and «dexteram», with a word space on each side, marks the beginning of fol. 107 recto of the manuscript, which the note in the right margin, «car. 107 recto.», names; transcribed as a margin note.",
+  "The example (from p. 14, frame 020, L29-L33): 46468 divided by 324. L01-L11: the figures of 46468 written from the right, the divisor 324 under its three highest places, three under four; the figures of the divisor are not printed (L11 «et hec figura earum.»). L12-L21: the quotient figure one, above the first place of the divisor; one by three, four less three leaves one; one by two, six less two leaves four; one by four, four less four leaves nothing, and a circle is written. L22-L33: the divisor moved one place to the right, under 4068; the quotient figure four; four by three, twelve, fourteen less twelve leaves two; four by two, eight, twenty less eight leaves twelve; four by four, sixteen, one hundred and twenty-six less sixteen leaves a circle above the four, one above the two, and (on p. 16) one above the three. The working agrees with 46468 = 324 × 143 + 136.",
+  "L01: «quadringinta milia» stands where the fifth figure of 46468 is forty thousand; see the critical note. L12: «insipientes», with s for c, incipientes; transcribed as printed.",
+  "Numerals: «iiii.or» with «or» raised, quatuor, with or without the opening point (L01, L06, L10, L11, L15, L19, L20, L23, L27); L23 «iii.» and L25 «xii.», L26 «xiiii.», L28 «viii.», L29 «xii.», L31 «xvi.» without the opening point; L27 «.ii» without the closing point; L30 «ii.o», with «o» raised, against which a reader wrote «ii.o = uno?» in the margin.",
+  "Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): with a space before the mark, L01 «milia ;», L04 «numeri ,» (17 px), L07 «eum :» (20 px), L08 «sex :» (22 px), L21 «remanebit :» (20 px), L27 «.ii :» (12 px), L28 «.viii. ,» (10 px), L32 «.cxxvi. ,» (20 px) and L33 «circulus ,» and «unum ,» (20 px); without a space after the comma, L05 «trium,et» (10 px, the median word space of the line 16.5 px), L07 «illo,retra-», L09 «ea,que» (8 px) and «tres,figuram» (6 px) and L22 «diuidis,uel» (8 px).",
+  "Marks not transcribed: L26, a thin vertical stroke, 3 to 7 px wide and 36 px high in two pieces, in the ink of the print, at the base line 17 px after «tres» and 4 px before «qui»; it has not the round head of a comma, and is not transcribed. Light specks at mid-height between «numeri» and «super» (L13), «ipsum» and «in» (L15) and after «bus,» (L16)."
+ ],
+ "copy_matter": [
+  "A reader's notes in pencil: «or / L .IIII.» in the right margin beside L01-L02; L02, a slash through the comma after «sinistram»; a «2» before the printed folio note beside L03; «ponemus(!)» in the right margin beside L10, with «po» of «ponemus» underlined; «quod» beside L14, with «et» underlined; «t et» beside L17, with an insertion mark after «duobus;»; L21, a hook added to the hyphen of «cir-»; «ii.o = uno?» beside L30, with «ii.o» underlined. Not part of the edition."
+ ],
+ "critical_notes": [
+  {
+   "id": "AK02-CN008",
+   "class": "wrong numeral word",
+   "line": "L01",
+   "printed": "quadringinta",
+   "proposed": "quadraginta",
+   "evidence": "the figures of 46468 are written from the right: eight, sixty, four hundred, six thousand (L33 of p. 14) and then four, «que sunt quadringinta milia»; the fifth figure is forty thousand, «quadraginta milia», and «quadringinta», a form between «quadraginta», forty, and «quadringenta», four hundred, is not a Latin word",
+   "confidence": "high",
+   "impact": "the fifth figure of the example reads forty thousand"
+  }
+ ]
+}

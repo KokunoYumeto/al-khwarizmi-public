@@ -1,0 +1,58 @@
+@page 281 247
+@lang de
+% JP2 0281: the glossary, p. 247: the end of I. Arabic words (Zich to Zukuz) in two columns; II. the Egyptian
+% (Coptic) month names of Tab. 2b with their Greek forms; III. the Persian month names of Tab. 2a.
+@cl 33, 52, etc. ; s. auch Namen- und Sachregister
+@cl unter „Tafeln“.
+@cl {i:Zīg} s. {i:Zich}.
+@cl {i:Ẓill}, Schatten, die trigon. Funktion der {i:Tangens}
+@cl und {i:Cotangens} 77 ; s. auch {i:Dhel}.
+@cl {i:Zohal} = {i:Zuḥal}, der Planet Saturn, T. 9, 10,
+@cl 27—32.
+@cl {i:Zohara} = {i:Zuhara}, der Planet Venus, XXII,
+@cl T. 45, 47, 49, 50.
+@cr {i:Zohari} = {i:zuharī}, zur Venus gehörig, T. 15,
+@cr 16.
+@cr {i:Zukut} = {i:suḳūṭ}, (das) Fallen, Hineinfallen ; in
+@cr der Astron. die Phase einer Finsternis vom
+@cr Beginn bis zur Totalität, in diesem Werke
+@cr durch {i:casus} wiedergegeben, sonst durch
+@cr {i:immersio}, 26, 27, 87, T. 73, 78.
+@cr {i:Zukuz} s. {i:Zukut}.
+@c II. Ägyptische (koptische) Monatsnamen (Tab. 2{sup:b}).
+(Die koptischen Monatsnamen sind in diesen Tafeln dem oberägyptischen (thebanischen)
+Dialekt entnommen, in Klammern habe ich auch die Formen des unterägyptischen (memphi-
+@c tischen) Dialektes beigefügt).
+@tw span=0.9 0.3 3.1 0.65 0.95
+@t 1. | Tut = thowt (thōwt) | griech. | θώθ
+@t 2. | Beba = paape (paopi) | — | φαωφί
+@t 3. | Hettur = hatōr (athōr) | — | ἀθύρ
+@t 4. | Keihec = kiakh (khoiak) | — | χοιάκ
+@t 5. | Tuba = tōbe (tōbi) | — | τυβί
+@t 6. | Amushir = {sup:e}mshir (mekhir) | — | μεχίρ
+@t 7. | Burimihez = parmhāt (phamenōth) | — | φαμενώθ
+@t 8. | Burmuda = parmūte (pharmūthi) | — | φαρμουθί
+@t 9. | Besenz = pashons (pakhōn) | — | παχών
+@t 10. | Buba = paōne (paōni) | — | παϋνί
+@t 11. | Abib = epep (epēp) | — | ἐπιφί
+@t 12. | Muzre = mesōrē (mesōrē) | — | μεσορή
+@c III. Persische Monatsnamen (Tab. 2{sup:a}).
+@c ({i:māh} = Monat)
+@tw span=0.62 0.3 1.15 1.75
+@t 1. | Affrordinme | = Farwardīn-māh.
+@t 2. | Azdihestme | = Ardībihist-māh.
+@t 3. | Chordezme | = Khurdādh-māh.
+@t 4. | Tiierme | = Tīr-māh.
+@t 5. | Merdezme | = Murdādh-māh.
+@t 6. | Shaharirme | = Shahrīwar-māh.
+@t 7. | Meherime | = Mihr-māh.
+@t 8. | Abenme | = Ābān-māh.
+@t 9. | Adarme | = Ādhar-māh.
+@t 10. | Dime | = Dai-māh.
+@t 11. | Bahamanme | = Bahman-māh.
+@t 12. | Izfindarme | = Isfandārmadh-māh.
+@obs The page number «247» stands at the head of the page, centred, with a rule below it. The page has no signature. The end of part I in two columns divided by a vertical rule, transcribed column by column: the left column L01-L09, the right L10-L17; each entry begins at the edge of its column, its further lines indented. L01-L02 end the entry «Zich» of p. 246 (JP2 0280, L92-L95). Below the columns a short centred rule; then parts II and III across the page, their headings (L18, L34) centred in the sans-serif type of regular weight of the heading of part I (p. [241], JP2 0275, L02); a short centred rule between parts II and III and another below the list of part III.
+@obs L19-L21: the note to part II, set without a paragraph indent, its last line centred. L22-L33: numbered lines, the name of Tab. 2b, «=», Suter's Latin transcription of the Upper Egyptian (Sahidic) form and in parentheses that of the Lower Egyptian (Bohairic) form, a dotted leader to «griech.» (L22) or the ditto dash «—» (L23-L33), and the Greek form in the slanted Greek type of the edition; written as rows of a table, the leaders not transcribed. L26: the leader has a gap after its third dot. L24: the closing parenthesis after «athōr» is printed with a nick, like «}»; transcribed ). L27: «ᵉmshir» with the e raised, written {sup:e}. The θ of the Greek forms is printed in its looped form ϑ; transcribed θ. L28: the θ of «φαμενώθ» printed faint and broken. L36-L47: the number, the name of Tab. 2a and «=» with the Persian name, the «=» signs one below the other; written as rows of a table.
+@obs The semicolons of L01, L05 and L12 stand after a thin space (10, 8 and 11 px); written with a space. L15: the comma after «wiedergegeben» stands 12 px from the word in a line set wide (word spaces 35-40 px); transcribed without a space, as on p. 10 (JP2 0042). L07: «27—32» with a long dash (37 px). L14: the second n of «Beginn» printed faint, the b of «bis» with a broken bowl; read «Beginn bis». L34: the last n of «Monatsnamen» printed without the foot of its right stem, a damaged sort.
+@obs Checked against the text: «elzohal» in the titles of Tab. 9, 10, 27-29, 31 and 32 (pp. 120-121, 138-140, 142-143), «elzohara» on p. XXII (JP2 0026) and in Tab. 45, 47, 49 and 50 (pp. 156, 158, 160-161), «elzohari» in Tab. 15 and 16 (pp. 126-127, JP2 0158-0159), «elzukut» on pp. 26, 27 and 87 (JP2 0058, 0059, 0119) and in Tab. 73 and 78 (pp. 187, 193), «elzukuz» in Tab. 78, «zīg» on p. 32 (JP2 0064), «ẓill» on p. 77 (JP2 0109); the Persian tables on p. 33 (JP2 0065) and «die Tafeln des Shāh» on p. 52 (JP2 0084). The names of parts II and III are those of Tab. 2b (p. 112, JP2 0144) and Tab. 2a (p. 111, JP2 0143), in the same order; the Greek forms are the usual Greek names of the Egyptian months (Θώθ, Φαωφί, Ἀθύρ, Χοιάκ, Τυβί, Μεχίρ, Φαμενώθ, Φαρμουθί, Παχών, Παϋνί, Ἐπιφί, Μεσορή). Suter's Latin transcriptions of the Coptic forms were compared only with the names of the tables.
+@critical AK07-CN295 | missing letter | L37 | Ardībihist-māh. | Ardībihisht-māh. | the second Persian month is Ardībihisht (Middle Persian Ardwahišt), which ends in sh and t; the glossary writes this sound sh, as in «Shahrīwar-māh» (L41) and «Shabin = Shaʿbān» (p. 245, JP2 0279, L90) | medium | none

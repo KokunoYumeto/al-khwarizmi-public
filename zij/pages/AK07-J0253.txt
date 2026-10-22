@@ -1,0 +1,54 @@
+@page 253 221
+@lang la
+% JP2 0253: Tab. 106, p. 221: the projection of the rays continued: three fields, for the ascendant at 20°, 25° and
+% 30° of Scorpius, the columns from Scorpius to Aries, each field with the numbers for the sextile, the quadrature and
+% the trine, with the apparatus (notes 1-4 and a-s); the numbers of the first field are those of the third field on
+% p. 220, and the manuscripts' heads of the third field follow the rule where the editor's do not.
+@r C 98{sup:r}, O 153{sup:v}, N 64{sup:v}.
+@c {b:Viginti}{sup:1}) {b:gradus Scorpii}{sup:4})
+@c {b:Exagonum 62°}{sup:a}) {b:18′} — {b:Tetragonum 94°}{sup:b}) {b:27′} — {b:Trigonum 124° 24′}
+@tw size=footnotesize 0.95 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62
+@t Gradus | Scorpius |  | Sagittar. |  | Capricorn. |  | Aquarius |  | Pisces |  | Aries |
+@t aequales | Taurus |  | Gemini |  | Cancer |  | Leo |  | Virgo |  | Libra |
+@t  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 5{sup:c}) | 6 | 15 | 42 | 35 | 76 | 30 | 105 | 35 | 132{sup:e}) | 25 | 161 | 2
+@t 10 | 12 | 30 | 48 | 35 | 81 | 43 | 110 | 23 | 137 | 15 | 166 | 37
+@t 15 | 18 | 40 | 54 | 20 | 86 | 53 | 114 | 55 | 142 | 0 | 171 | 36
+@t 20 | 24 | 40 | 60 | 10 | 91 | 40 | 119{sup:d}) | 30 | 146 | 37 | 177 | 15
+@t 25 | 29 | 52 | 65 | 20 | 96 | 30 | 123 | 35 | 150 | 57 | 182 | 5
+@t 30{sup:c}) | 36 | 10 | 71 | 0 | 100 | 55 | 127 | 45 | 155 | 47 | 187 | 55
+@c {b:Viginti quinque}{sup:2}) {b:gradus Scorpii}
+@c {b:Exagonum 60° 40′}{sup:f}) — {b:Tetragonum 91°}{sup:g}) {b:1′} — {b:Trigonum 121° 22′}
+@t 5{sup:h}) | 6 | 0 | 41 | 55 | 75 | 35 | 104 | 27 | 129 | 33 | 157 | 1
+@t 10 | 12 | 0 | 48 | 0 | 80 | 23 | 108 | 58 | 134 | 9 | 162 | 15
+@t 15 | 18 | 0 | 53 | 57 | 85 | 13 | 113 | 29 | 138 | 38 | 167 | 19
+@t 20 | 23{sup:i}) | 40 | 59 | 4 | 90 | 8{sup:k}) | 118 | 50 | 143 | 26 | 172 | 23{sup:l})
+@t 25 | 29 | 25 | 64 | 40 | 94 | 57 | 121 | 22 | 147 | 26 | 177 | 3
+@t 30{sup:h}) | 35 | 35 | 70 | 5 | 99 | 49 | 124 | 58 | 151 | 53 | 182 | 3
+@c {b:Triginta}{sup:3}) {b:gradus Scorpii}
+@c {b:Exagonum 60°}{sup:m}) {b:0′} — {b:Tetragonum 90°}{sup:n}) {b:30′} — {b:Trigonum 119° 22′}{sup:o})
+@t 5{sup:p}) | 6 | 10 | 42 | 32 | 77 | 16 | 105 | 26 | 131 | 0 | 157 | 47
+@t 10 | 12 | 8 | 48 | 22 | 82 | 0 | 109 | 57 | 135 | 31 | 162 | 48
+@t 15 | 18 | 3 | 54 | 20 | 87 | 12 | 114 | 12 | 140 | 5 | 167 | 49
+@t 20 | 23 | 43 | 60 | 34 | 92 | 1 | 118 | 29 | 144 | 10 | 172 | 53
+@t 25 | 29 | 43 | 66 | 12{sup:q}) | 96 | 44 | 122 | 27 | 148{sup:r}) | 20 | 178{sup:s}) | 0
+@t 30{sup:p}) | 36 | 2 | 71 | 42 | 101 | 22 | 126 | 50 | 152 | 45 | 183 | 0
+@n {sup:1}) Viginti] Vicesimus O, XX. CN — {sup:2}) Viginti quinque] Vicesimus quintus O, {i:om.} C, XXV. N —
+@n {sup:3}) Triginta] Tricesimus O, {i:om.} C, XXX. N — {sup:4}) Scorpii] O, ex Scorpione C, Scorpionis N.
+@n {sup:a}) 62] C, 61 O — {sup:b}) 94] O, 93 C — {sup:c})—{sup:c}) 5—30] ON, {i:om.} C — {sup:d}) 119] O, 116 C — {sup:e}) 132] 131
+@n CON — {sup:f}) 40] C, 41 O — {sup:g}) 91] C, 21 O — {sup:h})—{sup:h}) 5—30 ON, {i:om.} C — {sup:i}) 23] C, 24 O — {sup:k}) 8] C, 3 O
+@n — {sup:l}) 23] C, 33 ON — {sup:m}) 60] 61 CON — {sup:n}) 90] 91 C, 61 O — {sup:o}) 119° 22′] 121. 22. C, 122. 0. O —
+@n {sup:p})—{sup:p}) 5–30] ON, {i:om.} C — {sup:q}) 12] C, 20 O — {sup:r}) 148] C; 158 O — {sup:s}) 178] C, 177 O.
+@obs The page number «221» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 106», in bold sans serif, underlined. The page has no signature and no title: the folios of the manuscripts stand at the right above the double rule of the first field, in one line of their own, «C 98r, O 153v, N 64v.», the letters raised (L01).
+@obs The page holds three fields, as pp. 206-220 (JP2 0238-0252): «Viginti1) gradus Scorpii4)» (L02), «Viginti quinque2) gradus Scorpii» (L14) and «Triginta3) gradus Scorpii» (L22), the ascendant at 20°, 25° and 30° of Scorpius, with the numbers for the sextile, the quadrature and the trine (L03, L15, L23); headings and numbers in bold. The heads of the columns of the first field as on p. 220 (JP2 0252, L04-L07), from Scorpius to Aries, with «Horoscopus» in each and without notes (L04-L07). In each field the first and the last number of the first column carry the paired notes c, h and p: C omits the numbers 5 to 30 of the first column, as on p. 218 (JP2 0250). The second and the third field have no heads. Double rules divide the fields.
+@obs The numbers of the first field (L08-L13) are those of the third field of p. 220 (JP2 0252, L24-L29), the field there of 15° of Scorpius, 62 of the 72 equal; the ten differences are listed on that page. Its heads, 62° 18′, 94° 27′ (C's 93° 27′, note b) and 124° 24′ (L03), belong to the last number of that field, 186° 55′ (62° 18.3′, 93° 27.5′, 124° 36.7′), the trine 12′ less; this field ends with 187° 55′ (L13), whose thirds are 62° 38.3′, 93° 57.5′ and 125° 16.7′. The heads of p. 220 belong to the numbers of the field before each there; here the heads of the second and the third field belong to their own numbers (below).
+@obs The numbers at the head of the second field are a third, a half and two thirds of its last number, 182° 3′ (L21): 60° 41′, 91° 1.5′ and 121° 22′, printed 60° 40′ (O's 60° 41′, note f), 91° 1′ and 121° 22′ (L15). In the head of the third field the manuscripts have the third, the half and the two thirds of its last number, 183° 0′ (L29): the 61° 0′ of all three (note m), C's 91° 30′ (note n) and O's 122° 0′ (note o); C's trine, 121° 22′, is that of the second field. The editor's 60° 0′, 90° 30′ and 119° 22′ (L23) are a third, a half and two thirds of 180° 0′, 181° 0′ and 179° 3′.
+@obs The columns: at 5° of Scorpius the three fields lie within 16′ of the oblique ascension from the beginning of Scorpius for the latitude 38° 30′ (computed with the obliquity 23° 35′; 6° 15′, 6° 0′ and 6° 10′ for 6° 16′), and they fall below the oblique ascensions, by 1° 29′, 2° 4′ and 1° 37′ at the end of Scorpius (36° 10′, 35° 35′ and 36° 2′ for 37° 39′); the second field lies 1° 55′ to 3° 19′ below them in Sagittarius and Capricornus. They pass the oblique ascensions in Aquarius, the first between 5° and 10°, the third between 10° and 15°, the second between 15° and 20°, and end 26° 37′, 20° 45′ and 21° 42′ above them (187° 55′, 182° 3′ and 183° 0′ for 161° 18′ at the end of Aries). The second field lies below the third throughout, by 3′ to 1° 59′, except at 20° of Aquarius (L19), where it lies 21′ above it.
+@obs Notes on the readings. Checked by the rule of the heads, by the other fields and by the steps of the columns: the edition's readings are the nearer in the sextile of the first field (note a, L03: C's 62 against O's 61; a third of 186° 55′ is 62° 18.3′), at 5° of Pisces in the first (note e, L08: the editor's 132 for the 131 of all three manuscripts, the steps 4° 40′ and 4° 50′ against 3° 40′ and 5° 50′), at 20° of Aquarius in the first (note d, L11: O's 119 against C's 116, as on p. 220, JP2 0252, note o), in the quadrature of the second (note g, L15: C's 91 against O's 21), at 20° of Scorpius in the second (note i, L19: C's 23 against O's 24, the steps 5° 40′ and 5° 45′ against 6° 40′ and 4° 45′), at 25° of Pisces in the third (note r, L28: C's 148 against O's 158) and at 25° of Aries in the third (note s, L28: C's 178 against O's 177, the steps 5° 7′ and 5° 0′ against 4° 7′ and 6° 0′, where the steps of the column before them are 5° 1′ to 5° 4′). C's reading is the nearer in the quadrature of the first field (note b, L03: C's 93° 27′ is half of 186° 54′, of which the sextile 62° 18′ is the third, where O's 94° 27′, which the edition adopts, is half of 188° 54′); O's in the sextile of the second (note f, L15: O's 60° 41′ is a third of 182° 3′, C's 60° 40′, which the edition adopts, of 182° 0′). In the head of the third field the readings of the manuscripts in the notes m, n and o are the nearer (above).
+@obs At 20° of Capricornus in the second field (note k, L19) C's 8 gives the steps 4° 55′ and 4° 49′, O's 3 4° 50′ and 4° 54′; at 20° of Aries in the second (note l, L19) C's 23 gives 5° 4′ and 4° 40′, the 33 of O and N 5° 14′ and 4° 30′; at 25° of Sagittarius in the third (note q, L28) C's 12 gives 5° 38′ and 5° 30′, O's 20 5° 46′ and 5° 22′; none of these is decided.
+@obs Without variants: in the second field the column of Aquarius rises by 4° 38′, 4° 31′, 4° 31′, 5° 21′, 2° 32′ and 3° 36′ (L16-L21) and into Pisces by 4° 35′, the step to 20° of Aquarius (L19) the largest and the next the smallest of the column.
+@obs The lemmata of the paired notes c and h, «5—30», have a long dash (37 and 39 px), that of note p, «5–30», a short one (27 px), written – here; note h has no bracket after its lemma (critical note). The lemma of note o, «119° 22′]», has the signs of the degrees and the minutes, where the lemmata of the other heads in the notes have points, as «97. 31]» on p. 220 (JP2 0252, N04). A speck over the c of the first «Horoscopus» (L06); not transcribed. Italics: «om.».
+@critical AK07-CN245 | missing bracket | N04 | {sup:h})—{sup:h}) 5—30 ON | {sup:h})—{sup:h}) 5—30] ON | the lemma of each note is closed by a bracket before the sigla, as «5—30] ON» in note c (N03) and «5–30] ON» in note p (N06); no bracket is printed after 30 | high | none
+@critical AK07-CN246 | wrong punctuation | N06 | {sup:r}) 148] C; 158 O | {sup:r}) 148] C, 158 O | the readings of a note are divided by a comma, as «{sup:q}) 12] C, 20 O» before it and «{sup:s}) 178] C, 177 O» after it; a semicolon is printed after C | high | none
+@critical AK07-CN247 | stray point | N05 | 121. 22. C, 122. 0. O | 121. 22 C, 122. 0 O | the numbers of the heads in the notes end without a point before the sigla, as «77. 31 C, 67. 31 O, 98. 58 N» on p. 220 (JP2 0252, N04); a point is printed after the last number of each reading, as on p. 215 (JP2 0247, N03; critical note AK07-CN240) | medium | none

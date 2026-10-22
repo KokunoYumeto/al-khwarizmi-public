@@ -1,0 +1,586 @@
+{
+ "anchor": "AK07-J0011",
+ "jp2_index": 11,
+ "jp2_member": "b24872489_0011.jp2",
+ "jp2_sha256": "40986d2c0a55a332b8dd842d6c05bc22df3f36cb32050ec225aebcdcc38a0186",
+ "reading_copy": "page_0011.jpg",
+ "reading_copy_sha256": "1d5a1a0d0910d14196566012e5c84ee292a137cdea98b872d17c152202e2fc22",
+ "printed_page": "[VII]",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0011: Suter's introduction, first page (p. [VII]): Chasles 1846; Maslama al-Majriti's recension of the tables of al-Khwarizmi, its change of era and of meridian (Arin to Cordova); Haskins and Bjornbo.",
+ "lines": [
+  {
+   "id": "AK07-J0011-L01",
+   "n": 1,
+   "kind": "heading",
+   "text": "EINLEITUNG",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "EINLEITUNG",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L02",
+   "n": 2,
+   "kind": "indent",
+   "text": "Schon im Jahre 1846 hat der hervorragende französische Gelehrte M. {sp:Chasles}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Schon im Jahre 1846 hat der hervorragende französische Gelehrte M. Chasles",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Chasles"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "in einem Artikel der {i:Comptes rendus de l’Académie des Sciences}{sup:1}) auf die Wichtigkeit",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "in einem Artikel der Comptes rendus de l’Académie des Sciences1) auf die Wichtigkeit",
+   "italic": [
+    "Comptes rendus de l’Académie des Sciences"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "der {sp:Athelhard}’schen Übersetzung der Tafeln {sp:Al-Khwārizmīs} für die Geschichte",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Athelhard’schen Übersetzung der Tafeln Al-Khwārizmīs für die Geschichte",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Athelhard",
+    "Al-Khwārizmīs"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "der Astronomie aufmerksam gemacht. Er hat aber das Werk nicht eingehend stu-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Astronomie aufmerksam gemacht. Er hat aber das Werk nicht eingehend stu-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "diert, da er keine Herausgabe desselben beabsichtigt hatte, deshalb halten auch die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "diert, da er keine Herausgabe desselben beabsichtigt hatte, deshalb halten auch die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "meisten Folgerungen, die er aus seinem Studium gezogen hat, heute vor der Kritik",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "meisten Folgerungen, die er aus seinem Studium gezogen hat, heute vor der Kritik",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "nicht mehr stand. {sp:Chasles} wusste nämlich damals noch nicht, dass verschiedene",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nicht mehr stand. Chasles wusste nämlich damals noch nicht, dass verschiedene",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Chasles"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "arabische Autoren dem spanisch-arabischen Mathematiker und Astronomen {sp:Maslama}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "arabische Autoren dem spanisch-arabischen Mathematiker und Astronomen Maslama",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Maslama"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "{sp:al-Madjrīṭī}{sup:2}) eine Bearbeitung, oder besser Umarbeitung der Tafeln {sp:Al-Khwāriz-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "al-Madjrīṭī2) eine Bearbeitung, oder besser Umarbeitung der Tafeln Al-Khwāriz-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "al-Madjrīṭī",
+    "Al-Khwāriz-"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "{sp:mīs} zuschreiben. Diese Umarbeitung bestand hauptsächlich, wie die arabischen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mīs zuschreiben. Diese Umarbeitung bestand hauptsächlich, wie die arabischen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "mīs"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "Biographen {sp:Ibn al Ḳifṭī} und {sp:Ibn Abī Uṣaibiʿa} nach dem {sp:Ḳāḍī Ibn Ṣāʿid}{sup:3})",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Biographen Ibn al Ḳifṭī und Ibn Abī Uṣaibiʿa nach dem Ḳāḍī Ibn Ṣāʿid3)",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ibn al Ḳifṭī",
+    "Ibn Abī Uṣaibiʿa",
+    "Ḳāḍī Ibn Ṣāʿid"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "berichten, in der Umwandlung der nach der {i:Aera} {sp:Yezdegirds} verfassten Tafeln in",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "berichten, in der Umwandlung der nach der Aera Yezdegirds verfassten Tafeln in",
+   "italic": [
+    "Aera"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Yezdegirds"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "solche, die auf die {sp:muhammedanische} {i:Aera} sich stützten, dann auch, wie einige",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "solche, die auf die muhammedanische Aera sich stützten, dann auch, wie einige",
+   "italic": [
+    "Aera"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "muhammedanische"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "Stellen des Textes und einige Tafeln beweisen, in teilweiser Ersetzung des Meridians",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Stellen des Textes und einige Tafeln beweisen, in teilweiser Ersetzung des Meridians",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "von {i:Arin}, den {sp:Al-Khwārizmī} zu Grunde gelegt hatte, durch denjenigen von {i:Cordova},",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "von Arin, den Al-Khwārizmī zu Grunde gelegt hatte, durch denjenigen von Cordova,",
+   "italic": [
+    "Arin",
+    "Cordova"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Al-Khwārizmī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "dem Wohnorte {sp:Al-Madjrīṭīs}.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dem Wohnorte Al-Madjrīṭīs.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Madjrīṭīs"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L18",
+   "n": 18,
+   "kind": "indent",
+   "text": "Aus eben diesen Textstellen und Tafeln (vergl. auch den Kommentar) folgt nun",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Aus eben diesen Textstellen und Tafeln (vergl. auch den Kommentar) folgt nun",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "mit beinahe absoluter Sicherheit, dass wir in dieser Übersetzung {sp:Athelhards}{sup:4}) nicht",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mit beinahe absoluter Sicherheit, dass wir in dieser Übersetzung Athelhards4) nicht",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Athelhards"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "diejenige des ursprünglichen astronomischen Werkes {sp:Al-Khwārizmīs}, sondern",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "diejenige des ursprünglichen astronomischen Werkes Al-Khwārizmīs, sondern",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Khwārizmīs"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "der Umarbeitung desselben durch {sp:Maslama al-Madjrīṭī} vor uns haben. Auf",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Umarbeitung desselben durch Maslama al-Madjrīṭī vor uns haben. Auf",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Maslama al-Madjrīṭī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "diese Tatsache hat, so viel ich weiss, zuerst C. H. {sp:Haskins} hingedeutet in seiner",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "diese Tatsache hat, so viel ich weiss, zuerst C. H. Haskins hingedeutet in seiner",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Haskins"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "Abhandlung über {i:Adelard of Bath}{sup:5}) ; ob auch A. {sp:Björnbo} dieselbe erkannt habe,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Abhandlung über Adelard of Bath5) ; ob auch A. Björnbo dieselbe erkannt habe,",
+   "italic": [
+    "Adelard of Bath"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Björnbo"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "ergibt sich aus seinen hinterlassenen Papieren nicht, ist aber nicht wahrscheinlich,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ergibt sich aus seinen hinterlassenen Papieren nicht, ist aber nicht wahrscheinlich,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "sonst hätte er wohl in seiner Abhandlung {i:Al-Chwarizmi’s trigonometriske Tavler}{sup:6})",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sonst hätte er wohl in seiner Abhandlung Al-Chwarizmi’s trigonometriske Tavler6)",
+   "italic": [
+    "Al-Chwarizmi’s trigonometriske Tavler"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "darauf aufmerksam gemacht. Hieraus folgt natürlich, dass wir in Bezug auf Schlüsse,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "darauf aufmerksam gemacht. Hieraus folgt natürlich, dass wir in Bezug auf Schlüsse,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) T. XXIII, p. 848 ff.",
+   "margin": null,
+   "plain": "1) T. XXIII, p. 848 ff.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "{sup:2}) Vergl. H. {sp:Suter}, {i:Die Mathematiker u. Astronomen der Araber}, etc. in Abhandlungen zur",
+   "margin": null,
+   "plain": "2) Vergl. H. Suter, Die Mathematiker u. Astronomen der Araber, etc. in Abhandlungen zur",
+   "italic": [
+    "Die Mathematiker u. Astronomen der Araber"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Suter"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "Geschichte der mathem. Wissensch., X (1900), p. 76—77.",
+   "margin": null,
+   "plain": "Geschichte der mathem. Wissensch., X (1900), p. 76—77.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-N04",
+   "n": 4,
+   "kind": "note",
+   "text": "{sup:3}) Ibid. p. 106—107.",
+   "margin": null,
+   "plain": "3) Ibid. p. 106—107.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-N05",
+   "n": 5,
+   "kind": "note",
+   "text": "{sup:4}) Auch geschrieben {sp:Adhelhard}, {sp:Adelhard}, {sp:Adelard}, etc.",
+   "margin": null,
+   "plain": "4) Auch geschrieben Adhelhard, Adelhard, Adelard, etc.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Adhelhard",
+    "Adelhard",
+    "Adelard"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-N06",
+   "n": 6,
+   "kind": "note",
+   "text": "{sup:5}) In {i:The English Historical Review}, July 1911, p. 493.",
+   "margin": null,
+   "plain": "5) In The English Historical Review, July 1911, p. 493.",
+   "italic": [
+    "The English Historical Review"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0011-N07",
+   "n": 7,
+   "kind": "note",
+   "text": "{sup:6}) In der {i:Festskrift til H. G. Zeuthen}, København 1909.",
+   "margin": null,
+   "plain": "6) In der Festskrift til H. G. Zeuthen, København 1909.",
+   "italic": [
+    "Festskrift til H. G. Zeuthen"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The first page of the introduction; the page number, VII by the contents, is not printed. L01 «EINLEITUNG» in capitals, with a short rule below it; L02 opens with a large initial S, standing on the base line and rising above the line. At the foot, the signature «II*» on the right.",
+  "The note numbers are raised figures followed by a bracket on the line, «1)»; transcribed {sup:1}). The names and a few other words are set in spaced type, marked {sp:}: «Chasles», «Athelhard», «Al-Khwārizmīs», «Maslama al-Madjrīṭī», «Ibn al Ḳifṭī», «Ibn Abī Uṣaibiʿa», «Ḳāḍī Ibn Ṣāʿid», «Yezdegirds», «muhammedanische» (L14), «Haskins», «Björnbo»; italics: the titles, «Aera», «Arin» and «Cordova». The transliteration prints dots under Ḳ, ṭ, ṣ, ḍ, Ṣ, macrons on ā, ī, and the ʿayn as a small raised reversed comma, ʿ.",
+  "L10: a dark speck at mid-height between the h and the w of «Al-Khwāriz-»; not transcribed. Band below L17: the dot under the ṭ of «Al-Madjrīṭīs»."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

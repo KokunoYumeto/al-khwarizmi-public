@@ -1,0 +1,277 @@
+{
+ "anchor": "AK05-F153",
+ "frame": 153,
+ "frame_file": "page_153.jpg",
+ "frame_sha256": "f74fe4fbd79adad8b7948ac3da06d64717da28e78804c1c37f7986c0cfb29fd1",
+ "printed_page": "١٤٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 153, printed p. 147: a river from a mountain into the river of the spring of p. 146; a long river from a spring, past the town of the Khazars and between the sea and Khwārizm, into the marsh of the river of Balkh, with two rivers from the mountain ارسانا and three from the mountain اسقاسا that fall into it. The editor's running numbers (٢٢١٦)-(٢٢٣٢) and the numbers of Suhrāb; the folio of the manuscript, «(fol. 45ᵇ)», within a line, with the editor's note on the binding of the manuscript; words and numerals supplied by the editor between angle brackets. Three lines of the editor's footnotes, the last note continued on p. 148, and the signature of the printed sheet.",
+ "lines": [
+  {
+   "id": "AK05-F153-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "الأولى ايضاً نهر من جبل اوّله عند طول {ov:ڡد ل} والعرض {ov:مر ه} (٢٢١٦) [١٥٧٥]",
+   "margin": null,
+   "cells": null,
+   "plain": "الأولى ايضاً نهر من جبل اوّله عند طول ڡد ل والعرض مر ه (٢٢١٦) [١٥٧٥]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "ومصبّه فى نهر العين عند طول {ov:صر ك} والعرض {ov:مد ه} (٢٢١٧) [١٥٧٦] *",
+   "margin": null,
+   "cells": null,
+   "plain": "ومصبّه فى نهر العين عند طول صر ك والعرض مد ه (٢٢١٧) [١٥٧٦] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "نهر طويل اوّله عين عند طول {ov:ڡكط ل} والعرض {ov:مو {z}} (٢٢١٨) [١٥٧٧] يمرّ الى موضع",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر طويل اوّله عين عند طول ڡكط ل والعرض مو ō (٢٢١٨) [١٥٧٧] يمرّ الى موضع",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "طوله {ov:ڡح {z}} والعرض {ov:مو ه} (٢٢١٩) [١٥٧٨] يمرّ الى موضع طوله {ov:قز ه} والعرض {ov:ن ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "طوله ڡح ō والعرض مو ه (٢٢١٩) [١٥٧٨] يمرّ الى موضع طوله قز ه والعرض ن ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "(٢٢٢٠) [١٥٧٩] ويمرّ الى موضع طوله {ov:ق ل} والعرض {ov:نا {z}} (٢٢٢١) [١٥٨٠] ويمرّ",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٢٢٠) [١٥٧٩] ويمرّ الى موضع طوله ق ل والعرض نا ō (٢٢٢١) [١٥٨٠] ويمرّ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "بقرب مدينة الخزر وبقرب البحر فيما بين البحر ومدينة خوارزم ويصبّ فى بطيحة نهر",
+   "margin": null,
+   "cells": null,
+   "plain": "بقرب مدينة الخزر وبقرب البحر فيما بين البحر ومدينة خوارزم ويصبّ فى بطيحة نهر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "بلخ عند طول {ov:ص ه} والعرض {ov:ما ل} (٢٢٢٢) [١٥٨١] * ويقع فى هٰذا النهر نهر من",
+   "margin": null,
+   "cells": null,
+   "plain": "بلخ عند طول ص ه والعرض ما ل (٢٢٢٢) [١٥٨١] * ويقع فى هٰذا النهر نهر من",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "جبل ارسانا اوّله عند طول {ov:صط {z}} والعرض {ov:نز ل} (٢٢٢٣) [١٥٨٢] ومصبّه فى النهر",
+   "margin": null,
+   "cells": null,
+   "plain": "جبل ارسانا اوّله عند طول صط ō والعرض نز ل (٢٢٢٣) [١٥٨٢] ومصبّه فى النهر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "الكبير عند طول {ov:صٮ ه} والعرض {ov:مه ه} (٢٢٢٤) [١٥٨٣] * ويقع الى النهر الكبير ايضاً",
+   "margin": null,
+   "cells": null,
+   "plain": "الكبير عند طول صٮ ه والعرض مه ه (٢٢٢٤) [١٥٨٣] * ويقع الى النهر الكبير ايضاً",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "نهر من جبل ارسانا اوّله عند طول {ov:ق {z}}{n:a} والعرض {ov:ٮط ه} (٢٢٢٥) [١٥٨٤] ومصبّه",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر من جبل ارسانا اوّله عند طول ق ō والعرض ٮط ه (٢٢٢٥) [١٥٨٤] ومصبّه",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "فى النهر عند طول {ov:صد ه} والعرض {ov:مو ه}{n:b} (٢٢٢٦) [١٥٨٥] * ويقع الى النهر الكبير",
+   "margin": null,
+   "cells": null,
+   "plain": "فى النهر عند طول صد ه والعرض مو ه (٢٢٢٦) [١٥٨٥] * ويقع الى النهر الكبير",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "ايضاً نهر من جبل اسقاسا اوّله عند طول {ov:ڡد م} والعرض {ov:ٮو ه} (٢٢٢٧) [١٥٨٦]",
+   "margin": null,
+   "cells": null,
+   "plain": "ايضاً نهر من جبل اسقاسا اوّله عند طول ڡد م والعرض ٮو ه (٢٢٢٧) [١٥٨٦]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "ومصبّه فى النهر عند طول {ov:ق ل} والعرض {ov:ٮا ه} (٢٢٢٨) [١٥٨٧] * ويقع الى النهر",
+   "margin": null,
+   "cells": null,
+   "plain": "ومصبّه فى النهر عند طول ق ل والعرض ٮا ه (٢٢٢٨) [١٥٨٧] * ويقع الى النهر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "الكبير ايضاً نهر من جبل اسڡاسا اوّله عند طول {ov:قو ل} والعرض {ov:ٮد ه} (٢٢٢٩) [١٥٨٨]",
+   "margin": null,
+   "cells": null,
+   "plain": "الكبير ايضاً نهر من جبل اسڡاسا اوّله عند طول قو ل والعرض ٮد ه (٢٢٢٩) [١٥٨٨]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "ومصبّه فى النهر عند طول {ov:⟨قد⟩{n:c} ل} والعرض {ov:⟨نا {z}⟩}{n:c} (٢٢٣٠) [١٥٨٩] * ⟨ويقع⟩{n:d}",
+   "margin": null,
+   "cells": null,
+   "plain": "ومصبّه فى النهر عند طول ⟨قد⟩ ل والعرض ⟨نا ō⟩ (٢٢٣٠) [١٥٨٩] * ⟨ويقع⟩",
+   "note_marks": [
+    "c",
+    "c",
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "الى النهر الكبير ايضاً نهر من جبل اسڡاسا اوّله ⟨عند طول⟩{n:d} {ov:ڡح ه} والعرض {ov:⟨نب⟩{n:e} ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "الى النهر الكبير ايضاً نهر من جبل اسڡاسا اوّله ⟨عند طول⟩ ڡح ه والعرض ⟨نب⟩ ل",
+   "note_marks": [
+    "d",
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F153-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "(٢٢٣١) [١٥٩٠] ومصبّه فى النهر عند طول {ov:قز ك} والعرض {ov:ن ل} (٢٢٣٢)",
+   "margin": "ᶠ (fol. 45ᵇ)",
+   "cells": null,
+   "plain": "(٢٢٣١) [١٥٩٠] ومصبّه فى النهر عند طول قز ك والعرض ن ل (٢٢٣٢)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L10: a variant reading of the longitude is ق م, with a line over the numerals (note a).",
+  "L11: a variant reading of the latitude is مر ه, with a line over the numerals (note b).",
+  "L15: the manuscript has gaps at the numerals between the two pairs of brackets; the editor supplies them from S (note c).",
+  "L15: the manuscript has gaps at the words between the brackets, «ويقع» (L15) and «عند طول» (L16); the editor supplies them (note d).",
+  "L16: the manuscript has a gap at the numeral between the brackets; the editor supplies it from S (note e).",
+  "L17 (the folio): the leaves of the manuscript are bound in the wrong order at this place, and the text of fol. 44ᵇ goes on on fol. 45ᵇ; the editor refers to his introduction (note f, which ends at the foot of p. 148)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The springs and rivers of the seventh clime go on from p. 146 (frame 152), whose last words, «* ويقع الى هٰذه العين», L01-L02 continue: «الأولى ايضاً نهر من جبل اوّله عند طول ڡد ل والعرض مر ه (٢٢١٦) ومصبّه فى نهر العين عند طول صر ك والعرض مد ه (٢٢١٧) *», and into this first spring falls also a river from a mountain; its beginning is at the longitude ڡد ل and the latitude 47° 5′, and its mouth in the river of the spring at the longitude 97° 20′ and the latitude 44° 5′. The spring is the one of frame 152 (L09-L12), which passes near the town of the merchants and falls into the river of Balkh at 96° 40′ and 44° 30′.",
+  "L03-L07: «نهر طويل اوّله عين عند طول ڡكط ل والعرض مو {z} (٢٢١٨) يمرّ الى موضع طوله ڡح {z} والعرض مو ه (٢٢١٩) يمرّ الى موضع طوله قز ه والعرض ن ل (٢٢٢٠) ويمرّ الى موضع طوله ق ل والعرض نا {z} (٢٢٢١) ويمرّ بقرب مدينة الخزر وبقرب البحر فيما بين البحر ومدينة خوارزم ويصبّ فى بطيحة نهر بلخ عند طول ص ه والعرض ما ل (٢٢٢٢) *», a long river whose beginning is a spring at the longitude 129° 30′ and the latitude 46° 0′; it passes to a place whose longitude is ڡح ō and latitude 46° 5′, passes to a place whose longitude is 107° 5′ and latitude 50° 30′, and passes to a place whose longitude is 100° 30′ and latitude 51° 0′; it passes near the town of the Khazars and near the sea, between the sea and the town Khwārizm, and flows into the marsh of the river of Balkh at the longitude 90° 5′ and the latitude 41° 30′, at the end of the marsh on the side of Khwārizm (frame 152, L02-L03).",
+  "L07-L09: «ويقع فى هٰذا النهر نهر من جبل ارسانا اوّله عند طول صط {z} والعرض نز ل (٢٢٢٣) ومصبّه فى النهر الكبير عند طول صٮ ه والعرض مه ه (٢٢٢٤) *», into this river falls a river from the mountain ارسانا; its beginning is at the longitude 99° 0′ and the latitude 57° 30′, and its mouth in the great river at the longitude صٮ ه and the latitude 45° 5′. «فى هٰذا النهر» stands where the other points of the page have «الى».",
+  "L09-L11: «ويقع الى النهر الكبير ايضاً نهر من جبل ارسانا اوّله عند طول ق {z} والعرض ٮط ه (٢٢٢٥) ومصبّه فى النهر عند طول صد ه والعرض مو ه (٢٢٢٦) *», into the great river falls also a river from the mountain ارسانا; its beginning is at the longitude 100° 0′ and the latitude ٮط ه, and its mouth in the river at the longitude 94° 5′ and the latitude 46° 5′.",
+  "L11-L15: «ويقع الى النهر الكبير ايضاً نهر من جبل اسقاسا اوّله عند طول ڡد م والعرض ٮو ه (٢٢٢٧) ومصبّه فى النهر عند طول ق ل والعرض ٮا ه (٢٢٢٨) *», into the great river falls also a river from the mountain اسقاسا, beginning at the longitude ڡد م and the latitude ٮو ه, with its mouth in the river at the longitude 100° 30′ and the latitude ٮا ه; «ويقع الى النهر الكبير ايضاً نهر من جبل اسڡاسا اوّله عند طول قو ل والعرض ٮد ه (٢٢٢٩) ومصبّه فى النهر عند طول ⟨قد⟩ ل والعرض ⟨نا {z}⟩ (٢٢٣٠) *», a further river from the same mountain, beginning at the longitude 106° 30′ and the latitude ٮد ه, with its mouth in the river at the longitude ⟨104°⟩ 30′ and the latitude ⟨51° 0′⟩.",
+  "L15-L17: «⟨ويقع⟩ الى النهر الكبير ايضاً نهر من جبل اسڡاسا اوّله ⟨عند طول⟩ ڡح ه والعرض ⟨نب⟩ ل (٢٢٣١) ومصبّه فى النهر عند طول قز ك والعرض ن ل (٢٢٣٢)», ⟨there falls⟩ into the great river also a river from the mountain اسڡاسا; its beginning is ⟨at the longitude⟩ ڡح ه and the latitude ⟨52°⟩ 30′, and its mouth in the river at the longitude 107° 20′ and the latitude 50° 30′, the number of Suhrāb following on p. 148.",
+  "The places: «الخزر» (L06) is entry 468 of the table of the cities (frame 038, L10), at the longitude 98° 0′ and the latitude 45° 0′, and «خوارزم» (L06) entry 467 (frame 038, L09). «جبل ارسانا» (L08, L10) is the mountain of entries 931-932 (frame 070, L02), whose last boundary is at the longitude 100° 50′ and the latitude 59° 20′ (frame 071, L02). «جبل اسقاسا» (L12) and «جبل اسڡاسا» (L14, L16) are the mountain of entries 937-938, «جبل اسقاسيا» (frame 070, L05), whose boundaries are at 104° 25′ and 56° 40′ and at 108° 40′ and 52° 20′ (frame 071, L05); the editor's note c there gives the forms of this page, and his note d on frame 071 corrects the first longitude of the table after the entries (2227), (2229) and (2231).",
+  "L12, L14, L16: the name of the mountain is printed «اسقاسا» in L12, with the two dots of the ق over the loop, and «اسڡاسا» in L14 and L16, with the loop without dots, as the editor's note c on frame 070 records. «ارسانا» (L08, L10) has the dot of the ن.",
+  "Numerals: «مد ه» (L02), 44° 5′; «مو {z}» (L03), 46° 0′; «مو ه» (L04, L11), 46° 5′; «قز ه» (L04), with the two dots of the ق and the dot of the ز, 107° 5′; «ن ل» (L04, L17), with the dot of the ن, 50° 30′; «ق ل» (L05, L13), with the two dots of the ق, 100° 30′; «نا {z}» (L05), with the dot of the ن, 51° 0′; «ص ه» (L07), 90° 5′; «ما ل» (L07), 41° 30′; «صط {z}» (L08), 99° 0′; «نز ل» (L08), with the dots of the ن and of the ز, 57° 30′; «مه ه» (L09), 45° 5′; «ق {z}» (L10), 100° 0′; «صد ه» (L11), 94° 5′; «قو ل» (L14), 106° 30′; «⟨قد⟩ ل» (L15), 104° 30′; «⟨نا {z}⟩» (L15), with the dot of the ن, 51° 0′; «⟨نب⟩ ل» (L16), with the dots of the ن and of the ب, 52° 30′; «قز ك» (L17), with the two dots of the ق and the dot of the ز, 107° 20′.",
+  "«مر ه» (L01) and «صر ك» (L02): the letter joined to the م and to the ص is the joined ر, the dotless ز: its head is a small hook some 9 px wide, without a counter, where the و of «مو» on the same page (L03, L04, L11) is a round loop 15 px wide and 16 rows high with a counter. In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII): 47° 5′ and 97° 20′. The editor's note b gives «مر ه» as the variant of «مو ه» in L11.",
+  "The minutes «ه» (L01, L02, L04, twice, L07, L09, twice, L10, L11, twice, L12, L13, L14, L16) are the small round ring of the isolated ه, 18 to 21 px wide, 5.",
+  "The loop of ف or ق without dots, transcribed so: «ڡد ل» (L01), read قد 104° 30′, or فد 84° 30′; «ڡكط ل» (L03), the loop before ك, a tens letter, which only ق can precede, 129° 30′; «ڡح {z}» (L04), read قح 108° 0′, between the beginning of the river at 129° 30′ (L03) and its next point at 107° 5′ (L04), or فح 88; «ڡد م» (L12), read قد 104° 40′, beside the first boundary of the mountain at 104° 25′ in the table, or فد 84; «ڡح ه» (L16), read قح 108° 5′, beside the last boundary of the mountain at 108° 40′, or فح 88. The other longitudes of the page with ق have its two dots: «قز ه» (L04), «ق ل» (L05, L13), «ق {z}» (L10), «قو ل» (L14), «⟨قد⟩ ل» (L15) and «قز ك» (L17).",
+  "Other letters without their dots, transcribed so: «صٮ ه» (L09), the ص joined to the flat final bowl of a ب without its dot, 92° 5′; a tooth without its dot in the degrees of the latitude, which read with a ن gives: «ٮط ه» (L10), 59° 5′, beside the beginning of the other river of the mountain ارسانا at 57° 30′ (L08) and its last boundary at 59° 20′ in the table; «ٮو ه» (L12), 56° 5′; «ٮا ه» (L13), 51° 5′, at the place where the long river passes at 100° 30′ and 51° 0′ (L05); «ٮد ه» (L14), 54° 5′; read with a ي they give 19, 16, 11 and 14.",
+  "Angle brackets, each followed by a note mark, around what the editor supplies: «⟨قد⟩» (L15), the degrees of the longitude, with the mark c, both under the line over the numerals; «⟨نا {z}⟩» (L15), the latitude, under the line, mark c; «⟨ويقع⟩» (L15) and «⟨عند طول⟩» (L16), mark d; «⟨نب⟩» (L16), the degrees of the latitude, with the mark e, both under the line over the numerals. Transcribed with the brackets.",
+  "L17: the folio of the Strasbourg manuscript, «(fol. 45ᵇ)», is printed in Latin type within the line, between «والعرض» and the latitude «ن ل», preceded by the note mark f; transcribed as a margin note before the line.",
+  "Signs in the text, transcribed as printed: «الأولى» (L01) with a hamza over the alif of the لا and a final ى without dots; «ايضاً» (L01, L09, L12, L14, L16) with the tanwin of the accusative over its alif; «اوّله» (L01, L03, L08, L10, L12, L14, L16) with a shadda over the و; «ومصبّه» (L02, L08, L10, L13, L15, L17) and «ويصبّ» (L06) with a shadda over the ب; «يمرّ» (L03, L04) and «ويمرّ» (L05, twice) with a shadda over the ر; «هٰذا» (L07) with a small alif over the ه; «فى» and «الى» end in a ى without dots.",
+  "The running numbers run (٢٢١٦)-(٢٢٣٢) without a gap; the numbers of Suhrāb run [١٥٧٥]-[١٥٩٠], one after each of (٢٢١٦)-(٢٢٣١), and the number after (٢٢٣٢) stands at the beginning of p. 148. (٢٢٢٠) [١٥٧٩] stands at the beginning of L05 and (٢٢٣١) [١٥٩٠] at the beginning of L17, after the coordinates at the end of L04 and L16.",
+  "Asterisks: the small open stars with six points, after [١٥٧٦] (L02), [١٥٨١] (L07), [١٥٨٣] (L09), [١٥٨٥] (L11), [١٥٨٧] (L13) and [١٥٨٩] (L15), are transcribed as asterisks.",
+  "Note marks: L10, a after the longitude; L11, b after the latitude; L15, c after «⟨قد⟩», under the line over the numerals, c after «⟨نا {z}⟩» and d after «⟨ويقع⟩»; L16, d after «⟨عند طول⟩» and e after «⟨نب⟩», under the line over the numerals; L17, f before «(fol. 45ᵇ)».",
+  "Marks not transcribed: L08, a small hook, about 10 by 12 px, joined to the outer side of the parenthesis that opens (٢٢٢٣), at mid-height; between L09 and L10, at the left, a faint broken horizontal line some 130 px long and 2 to 5 px thick, above «ومصبّه» of L10, with no numeral below it; small specks of the impression, among them one inside the square bracket before [١٥٨٤] (L10).",
+  "The editor's footnotes stand in three lines below a short rule at the left: notes a-f; note c serves both brackets of L15, note d the brackets of L15 and L16; note f continues in the first line of the footnotes of p. 148 (frame 154). Below them, at the left, the signature «10*» of the printed sheet; the page number «— ١٤٧ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

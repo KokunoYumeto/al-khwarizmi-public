@@ -1,0 +1,132 @@
+{
+ "anchor": "AK01-F082",
+ "frame": 82,
+ "frame_file": "page_082.jpg",
+ "frame_sha256": "9f595cad3a5ac3bbd296d8502d18befa0ae866c164eb79c91d62b2fb93c46861",
+ "printed_page": "٦٦",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 082, printed p. 66: the square inscribed in the triangle concluded: the two side triangles together six things less half a square; the upper triangle, eight less a thing times half a thing, four things less half a square; the square and the three triangles together ten things, equal to forty-eight, the area of the whole triangle; the thing, the side of the square, four cubits and four fifths, with its figure. The text ends a third of the way down the page; the chapter on mensuration ends here. No footnotes.",
+ "lines": [
+  {
+   "id": "AK01-F082-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "نصف شىء فيكون ستة أشياء إلا نصف مال وهو تكسير المثلثتين جميعاً اللتين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F082-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "هما على جنبتى المربعة . فأما تكسير المثلثة العليا فهو أن تضرب ثمانية غير شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F082-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وهو العمود فى نصف شىء فيكون أربعة أشياء إلا نصف مال فهذا هو تكسير",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F082-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "المربعة وتكسير الثلاث مثلثات وهو",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F082-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "عشرة أشياء تعدل ثمانية وأربعين هو",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F082-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "تكسير المثلثة العظمى فالشىء الواحد من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F082-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "ذلك أربعة أذرع واربعة أخماس ذراع",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F082-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "وهو كل جانب من المربعة وهذه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F082-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "صورتها .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [
+  {
+   "id": "AK01-F082-FIG1",
+   "rect": [
+    270,
+    1085,
+    1075,
+    1755
+   ],
+   "after": 9
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Layout: L01-L03 run across the page; L04-L09 stand in a narrower column at the right of the figure, which is reproduced after L09. Below the text the page is blank: a dot (8 by 10 px) about 700 px below L09, and below it a short rule of 356 px, about a fifth of the width of the rule that divides text and footnotes on the other pages, at the middle of the page.",
+  "The figure, drawn, not set in type: the triangle of frame 081, L11-L13, with the square inscribed in it: its base on the base of the triangle and its upper corners on the two sides; the altitude from the apex to the base runs through the middle of the square. ١٠ beside each side above the square, ٦ beside each side below it.",
+  "L01: المثلثتين (L01), the dual of مثلثة, as printed: after the ل, a ث with three dots and a ت with two, each on a tooth of its own, then the ي and the ن.",
+  "L01 and L03: إلا (L01, L03) is printed with a hamza below the alif, as on frame 061 (L06, L08).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: شىء فيكون (L01; 18 between the hamza on the line and the ف, against 23 in the same words in L03, and 4 to 11 where the hamza is set solid with the next word).",
+  "The full stops stand after a space: after المربعة, before فأما (L02; 25 and 25 px, nearest approach of the ink at 400 ppi), and after صورتها at the end of L09 (27).",
+  "Plain alif where a hamza might be expected, as printed: واربعة (L07); with hamza: أشياء, إلا (L01), فأما, أن (L02), أربعة, أشياء, إلا (L03), أشياء, وأربعين (L05), أربعة, أذرع, أخماس (L07); the hamza on the line: شىء (L01; L02; L03), أشياء (L01, L03, L05), فالشىء (L06).",
+  "With tanwīn on the final alif: جميعاً (L01).",
+  "The final yā' is printed without dots: على, جنبتى (L02), فى (L03), العظمى (L06).",
+  "The print stretches فيكون (L01), تكسير (L01, L02, L03, L06) and المربعة (L08, at length) with the elongation stroke; the stroke is not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

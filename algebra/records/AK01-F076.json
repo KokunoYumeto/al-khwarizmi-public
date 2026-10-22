@@ -1,0 +1,203 @@
+{
+ "anchor": "AK01-F076",
+ "frame": 76,
+ "frame_file": "page_076.jpg",
+ "frame_sha256": "d1ae0f422225124832b4159d95d6b254157cb27982c12fcf7e79064d4912b813",
+ "printed_page": "٦٠",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 076, printed p. 60: the rhombus: a rhombus of five cubits on each side, one diagonal eight and the other six; its area is half the product of the diagonals, eight times three or four times six, twenty-four, with its figure; with one diagonal known, it divides into two triangles of sides five, five and the diagonal. The figure like the rhombus is found as the rhombus, the other quadrilaterals through their diagonal and the triangles, with its figure. Then the triangles: three kinds, the right, the acute and the obtuse, by the sum of the squares of the two shorter sides against the square of the longest, continued on the next page. No footnotes.",
+ "lines": [
+  {
+   "id": "AK01-F076-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "خمسة أذرع وأحد قطريها ثمانية والآخر ستة أذرع فاعلم أن تكسيرها أن",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F076-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "تعرف القطرين أو أحدهما فان عرفت القطرين جميعاً فان الذى يكون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F076-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "من ضرب أحدهما فى نصف الآخر هو تكسيرها وذلك أن تضرب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F076-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "ثمانية فى ثلاثة أو أربعة فى ستة فيكون أربعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F076-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "وعشرين ذراعاً وهو تكسيرها . فان عرفت",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F076-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "قطراً واحدا فقد علمت انهما مثلثتان كل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F076-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "واحدة منهما ضلعاها خمسة أذرع والضلع",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F076-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "الثالث هو قطرهما فاحسبها على حساب المثلثات",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F076-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "وهذه صورتها . وأما المشبهة بالمعينة فعلى مثال المعينة . وأما سائر المربعات فانما",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F076-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "يعرف تكسيرها من قبل القطر فيخرج الى حساب المثلثات فاعلم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F076-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "ذلك وهذه صورة المشبهة بالمعينة . وأما المثلثات فهى ثلاثة أجناس القائمة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F076-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "والحادة والمنفرجة. فأما القائمة فهى مثلثة اذا ضربت ضلعيها الأقصرين كل واحد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F076-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "منهما فى نفسه وجمعتهما كان ذلك مثل ضلعها الأطول مضروباً فى نفسه . وأما",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F076-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "الحادة فكل مثلثة اذا ضربت ضلعيها الأقصرين كل واحد منهما فى نفسه ثم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F076-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "جمعتهما كانا أكثر من الضلع الأطول مضروباً فى نفسه . وأما المنفرجة فهى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [
+  {
+   "id": "AK01-F076-FIG1",
+   "rect": [
+    1345,
+    1100,
+    2120,
+    1742
+   ],
+   "after": 8
+  },
+  {
+   "id": "AK01-F076-FIG2",
+   "rect": [
+    330,
+    2140,
+    1900,
+    2812
+   ],
+   "after": 11
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Layout: L01-L03 run across the page; L04-L08 stand in a narrower column at the left of the first figure, which is reproduced after L08; L09-L11 run across the page, and the second figure stands between L11 and L12.",
+  "The first figure, drawn, not set in type: a rhombus with its two diagonals; ٥ beside the upper right side, ٦ on the right half of the horizontal diagonal; in the lower left quarter the word المساحة, the area, written by hand, and below it ٢٤, with a short stroke between them. The second figure: the figure like the rhombus, a parallelogram whose upper side is marked ١٣ and, over the part that projects to the right, ٣, and whose lower side is marked ٣, under the part that projects to the left, and ١٣; ٥ beside each slanting side; two perpendiculars from the ends of the upper and lower sides cut off a rectangle, its sides marked ٤ and ٤, in which is written المربعة المشبهة بالمعينة, the quadrilateral like the rhombus.",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: ذراعاً وهو (L05; 24 between the alif and the conjunction و, where the alif stands 9 px from the conjunction و in درهماونصفاً on frame 061, L06).",
+  "After ة a word space is transcribed where the gap is 16 px or more; the narrowest such gap on this page: ستة فيكون (L04; 23).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: ذلك وهذه and وهذه صورة (L11), فهى مثلثة (L12), كل واحد (L12; the ل in its final form, 27 px from the conjunction و).",
+  "The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after تكسيرها, before فان (L05; 36 and 24), after صورتها, before وأما, and after المعينة, before وأما (L09; 28 and 23 each), after بالمعينة, before وأما (L11; 26 and 24), after نفسه, before وأما (L13; 25 and 23; L15; 26 and 23). L12: the full stop stands close after والمنفرجة (9 px from the ة) and 26 px before فأما; transcribed so.",
+  "Plain alif where a hamza might be expected, as printed: فاعلم (L01), فان (L02, twice; L05), انهما (L06), فاحسبها (L08), فانما (L09), الى, فاعلم (L10), اذا (L12, L14); with hamza: أذرع, وأحد, أن (L01, twice), أو, أحدهما (L02), أحدهما, أن (L03), أو, أربعة (L04, twice), أذرع (L07), وأما (L09, twice; L11, L13, L15), أجناس (L11), فأما, الأقصرين (L12), الأطول (L13, L15), الأقصرين (L14), أكثر (L15); with madda: والآخر (L01), الآخر (L03); on ي: سائر (L09), القائمة (L11, L12).",
+  "With tanwīn on the final alif: جميعاً (L02), ذراعاً (L05), قطراً (L06), مضروباً (L13, L15); without tanwīn as printed: واحدا (L06).",
+  "The final yā' is printed without dots: الذى (L02), فى (L03, L04, twice; L13, twice; L14, L15), على (L08), فعلى (L09), الى (L10), فهى (L11, L12, L15).",
+  "L06: مثلثتان (L06), the dual of مثلثة, the word for a triangle that this page uses (فهى مثلثة, L12; فكل مثلثة, L14): after the ل the letters ث, with three dots, and ت, with two, each on a tooth of its own.",
+  "The print stretches وأحد (L01), تكسيرها (L01, L03, L05), جميعاً (L02), أحدهما (L02, L03), فيكون (L04), واحدا (L06), واحدة and ضلعاها (L07), قبل (L10) and وهذه (L11) with the elongation stroke; the stroke is not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,45 @@
+@page 87 ٨١
+% Frame 087, printed p. 81: the sea of Khwārazm and the sea of Jurjān, Ṭabaristān and al-Daylam, continued, in running
+% text: the coast from point to point, with the editor's running numbers (١٢٤٠)-(١٢٦٠) and the numbers of Suhrāb, past
+% the mouth of two rivers, back to the mountain where it began, which is the mountain نون. Five lines of the editor's
+% footnotes and the signature of the printed sheet.
+{ov:ص م}{n:a} والعرض {ov:مد {z}}{n:b} (١٢٤٠) [٨٤٨] يمرّ الى طول {ov:ص ك} والعرض {ov:مه {z}}{n:c} (١٢٤١)
+[٨٤٩] ويمرّ الى طول {ov:ص ل} والعرض {ov:مو {z}}{n:d} (١٢٤٢) [٨٥٠] يمرّ على صورة الطيلسان
+الى طول {ov:فط {z}}{n:e} والعرض {ov:مح ل} (١٢٤٣) [٨٥١] ويمرّ على صورة القوارة يمرّ بطول
+{ov:فح ك}{n:f} (١٢٤٤) [٨٥٢] ويصير الى طول {ov:فط ك}{n:g} والعرض {ov:ن {z}}{n:h} (١٢٤٥) [٨٥٣]
+ويمرّ على صورة الطيلسان يمرّ بطول {ov:فط ل}{n:i} (١٢٤٦) [٨٥٤] ويصير الى طول {ov:ڡح ل}
+(١٢٤٧) [٨٥٥] ويمرّ الى طول {ov:ڡو {z}} والعرض {ov:ں ك} (١٢٤٨) [٨٥٦] ويمرّ الى طول
+{ov:فو ل}{n:k} والعرض {ov:ن م} (١٢٤٩) [٨٥٧] ويمرّ على صورة القوارة يمرّ بعرض {ov:ن ك} (١٢٥٠)
+[٨٥٨] ويصير الى طول {ov:ڡه ل} والعرض {ov:ٮا ل} (١٢٥١) [٨٥٩] ويمرّ على صورة الطيلسان
+الى طول {ov:ڡد ل} والعرض {ov:ن ك} (١٢٥٢) [٨٦٠] ويصير الى طول {ov:ڡح {z}} والعرض {ov:نا ى}
+(١٢٥٣) [٨٦١] ويمرّ على صورة الطيلسان الى طول {ov:فب {z}}{n:l} والعرض {ov:مط ك} (١٢٥٤)
+[٨٦٢] ويمرّ الى طول {ov:فا {z}} والعرض {ov:مط ل}{n:m} (١٢٥٥) [٨٦٣] ويمرّ الى طول {ov:عح {z}}{n:n}
+والعرض {ov:مح ى} (١٢٥٦) [٨٦٤] ويمرّ بمصبّ نهرين ويمرّ الى طول {ov:عز م} والعرض {ov:مو {z}}{n:o}
+(١٢٥٧) [٨٦٥] يمرّ الى طول {ov:عو ى} والعرض {ov:مه ك} (١٢٥٨) [٨٦٦] يمرّ على صورة
+القوارة يمرّ بعرض {ov:مد ل}{n:p} (١٢٥٩) [٨٦٧] ويصير الى طول {ov:عو {z}} والعرض {ov:مد {z}}
+(١٢٦٠) [٨٦٨] ويمرّ فيماسّ الجبل الّذى ابتدأنا منه وهو جبل نون يماسّه عند طول
+{ov:عد م}{n:q} والعرض {ov:مج ن}{n:r}{n:s} *
+@ednotes a b c d e f g h i k l m n o p q r s 5
+@obs The running text goes on from p. 80 (frame 086), whose last words, «يمرّ الى طول», L01 continues with the longitude «ص م»: the coast from point to point, with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}, the editor's running numbers in parentheses, (١٢٤٠)-(١٢٦٠), and the numbers of Suhrāb in square brackets, [٨٤٨]-[٨٦٨], without a gap.
+@obs The places of the coast: L12: «ويمرّ بمصبّ نهرين», past the mouth of two rivers; L15-L16: «ويمرّ فيماسّ الجبل الّذى ابتدأنا منه وهو جبل نون يماسّه عند طول عد م والعرض مج ن», it passes and touches the mountain from which we began, which is the mountain نون; it touches it at the longitude 74° 40′ and the latitude 43° 50′. The editor identifies this last point, which has no running number, with point 1231 (frame 086, L09), whose latitude is «مح ه», 48° 5′ (notes r and s); there the mountain is called «جبل يون», and the editor's note i on p. 58 (frame 064) records both names. L16 ends with a small open star with six points, transcribed as an asterisk: the end of the section.
+@obs Points 1244 and 1246 (L03-L04, L05) are given by their longitude only, «يمرّ بطول», and point 1247 (L05) by «ويصير الى طول ڡح ل» without a latitude; points 1250 and 1259 (L07, L14) by their latitude only, «يمرّ بعرض». The shapes of the coast are «الطيلسان» (L02, L05, L08, L10) and «القوارة» (L03, L07, L13-L14).
+@obs Signs in the text, transcribed as printed: «يمرّ», «ويمرّ», «بمصبّ», «فيماسّ» and «يماسّه» with a shadda; «الّذى» with a shadda over the ل; «ابتدأنا» with a hamza over the alif.
+@obs Letters printed without their dots in the numerals, transcribed so: the loop of ف or ق without dots in the degrees of the longitude: «ڡح» (L05, L09), «ڡو» (L06), «ڡه» (L08) and «ڡد» (L09), which read with ف give 88, 86, 85 and 84, where «فط» (L03, L04, L05), «فح» (L04), «فو» (L07), «فب» (L10) and «فا» (L11) have the dot of the ف; «ں» (L06, the degrees of the latitude), the round bowl of a final ن without its dot, 32 px wide, 50; «ٮا» (L08, the degrees of the latitude), a tooth without a dot joined to an alif, which read as نا gives 51, where L09 prints «نا» with the dot. With their dots: «فب» (L10), with the dots of the ف and of the ب, 82; «عز» (L12), 77; «مج» (L16), with the dot in the bowl, 43; «ن» (L04, L07, L09, the degrees of the latitude; L16, the minutes), 50.
+@obs The ح of the numerals, «مح» (L03, L12), «فح» (L04), «ڡح» (L05, L09) and «عح» (L11), shows no dot in the bowl; the same form is a ج without its dot, 3, which L16 prints with its dot in «مج». Transcribed as printed. The isolated ى, 10, has no dots (L09, L12, L13). The isolated ك, 20, is printed with the small inner stroke of the letter.
+@obs Note marks: L01, a after the first longitude, b after the first latitude and c after the second latitude; L02, d after the latitude; L03, e after the longitude; L04, f after the first longitude, g after the second longitude and h after the latitude; L05, i after the first longitude; L07, k after the longitude; L10, l after the longitude; L11, m after the latitude and n after the second longitude; L12, o after the second latitude; L14, p after the first latitude; L16, q after the longitude, and r and s after the latitude, in this order. L11: the mark n is printed with its two stems only, the arch not showing.
+@obs Marks not transcribed: L11, a thin broken horizontal line at the foot of the sign for zero of the second longitude, running on to the left, and a short oblique stroke below it, thinner than the type.
+@obs The editor's footnotes stand in five lines below a short rule at the left: notes a-s. Below the notes, at the left, the signature «6» of the printed sheet; the page number «— ٨١ —» stands at the foot, centred.
+@variant L01: the manuscript has, by mistake, صر م for the first longitude (note a).
+@variant L01: a variant reading of the first latitude is مد ك, and of the second latitude مه ه, each with a line over the numerals (notes b and c).
+@variant L02: a variant reading of the latitude is مر {z}, with a line over the numerals (note d).
+@variant L03: the manuscript has قط {z}, with the ق, for the longitude (note e).
+@variant L04: the manuscript has قح ك for the first longitude, and قط ك for the second (notes f and g).
+@variant L04: the ن of the latitude is written by a later hand in the manuscript; a variant reading is ن ه, with a line over the numerals (note h).
+@variant L05: the manuscript has قط ل for the first longitude (note i).
+@variant L07: the manuscript has قو ل for the longitude (note k).
+@variant L10: a variant reading of the longitude is فب ه, with a line over the numerals (note l).
+@variant L11: a variant reading of the first latitude is مط ك, and of the second longitude كح {z}, each with a line over the numerals (notes m and n).
+@variant L12: a variant reading of the second latitude is مر {z}, with a line over the numerals (note o).
+@variant L14: a variant reading of the first latitude is مز ل, with a line over the numerals (note p).
+@variant L16: a variant reading of the longitude is عه {z}, with a line over the numerals (note q).
+@variant L16: the editor refers, for the latitude, to that of point 1231 (note r), and identifies the point with point 1231 (note s).

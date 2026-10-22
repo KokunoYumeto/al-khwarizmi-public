@@ -1,0 +1,768 @@
+{
+ "anchor": "AK07-J0065",
+ "jp2_index": 65,
+ "jp2_member": "b24872489_0065.jp2",
+ "jp2_sha256": "21f90e1310331326d2f95c600de23fd2228ec1be946285a35e9a8256441b500b",
+ "reading_copy": "page_0065.jpg",
+ "reading_copy_sha256": "bc8c8927f9b92c146bd37f07df084e888bfc3247d57249cf176be939e0fd4244",
+ "printed_page": "33",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0065: Suter's commentary, p. 33: the Persian tables and Ibn al-Qifṭī's report; the meridian of Arin (Ujjain); the epoch of the Hijra and the radix of the sun in Table 4; Maslama's change of era; the name Ptolemy (notes 1-3).",
+ "lines": [
+  {
+   "id": "AK07-J0065-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "und sich wahrscheinlich auf den {i:Sūrya-Siddhānta} stützten. Besonders der Wert des",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "und sich wahrscheinlich auf den Sūrya-Siddhānta stützten. Besonders der Wert des",
+   "italic": [
+    "Sūrya-Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "Apogeums der Sonne und die Art der Berechnung der Gleichungen der Planeten",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Apogeums der Sonne und die Art der Berechnung der Gleichungen der Planeten",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "könnten aus diesen persischen Tafeln genommen sein, sagt doch {sp:Ibn al-Ḳifṭī}{sup:1}) in",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "könnten aus diesen persischen Tafeln genommen sein, sagt doch Ibn al-Ḳifṭī1) in",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ibn al-Ḳifṭī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "seiner Biographie {sp:Al-Fazārīs} nach {sp:Ibn al-Adamī}{sup:2}) folgendes : „Er ({sp:Kh.}) stützte",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "seiner Biographie Al-Fazārīs nach Ibn al-Adamī2) folgendes : „Er (Kh.) stützte",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Fazārīs",
+    "Ibn al-Adamī",
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "sich in seinen Tafeln auf die mittlern Örter des {i:Sindhind}, wich aber von ihm ab",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sich in seinen Tafeln auf die mittlern Örter des Sindhind, wich aber von ihm ab",
+   "italic": [
+    "Sindhind"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "in den Gleichungen (der Planeten) und in der Schiefe (der Ekliptik) ; er setzte seine",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "in den Gleichungen (der Planeten) und in der Schiefe (der Ekliptik) ; er setzte seine",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "Gleichungen fest nach der Methode der {sp:Perser}, und die Deklination der Sonne",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Gleichungen fest nach der Methode der Perser, und die Deklination der Sonne",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Perser"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "nach der Methode des {sp:Ptolemäus}.“ Da die letztere Behauptung, wie wir unten",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nach der Methode des Ptolemäus.“ Da die letztere Behauptung, wie wir unten",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ptolemäus"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "sehen werden, richtig ist, so mag wohl auch die erste wahr sein, nachweisen können",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sehen werden, richtig ist, so mag wohl auch die erste wahr sein, nachweisen können",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "wir dies nicht, da diese persischen Tafeln nicht mehr vorhanden sind.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wir dies nicht, da diese persischen Tafeln nicht mehr vorhanden sind.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L11",
+   "n": 11,
+   "kind": "indent",
+   "text": "Nach der Einleitung des Textes beziehen sich die Daten der Tafeln für die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Nach der Einleitung des Textes beziehen sich die Daten der Tafeln für die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "mittlern und wahren Örter von Sonne, Mond und Planeten (oder wie die Araber",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mittlern und wahren Örter von Sonne, Mond und Planeten (oder wie die Araber",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "sagen, der sieben Planeten) auf den Meridian von {i:Arin} (falsche Schreibweise für",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sagen, der sieben Planeten) auf den Meridian von Arin (falsche Schreibweise für",
+   "italic": [
+    "Arin"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "{i:Azīn} oder {i:Uzain}, und dieses wieder die arabische Form für das indische {i:Udjain}, in",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Azīn oder Uzain, und dieses wieder die arabische Form für das indische Udjain, in",
+   "italic": [
+    "Azīn",
+    "Uzain",
+    "Udjain"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "Sanskrit {i:Ujjayini}), im nördlichen Vorder-Indien gelegen, (g. B. 23° 11′, g. L. 75° 52′ Gr.)",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Sanskrit Ujjayini), im nördlichen Vorder-Indien gelegen, (g. B. 23° 11′, g. L. 75° 52′ Gr.)",
+   "italic": [
+    "Ujjayini"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "Was die Zeit anbetrifft, worauf sich die {i:Radix} der verschiedenen Tafeln jeweilen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Was die Zeit anbetrifft, worauf sich die Radix der verschiedenen Tafeln jeweilen",
+   "italic": [
+    "Radix"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "bezieht, so ist als Anfangszeitpunkt angegeben der Mittag des 1. {i:Muḥarram} des Jahres 1",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bezieht, so ist als Anfangszeitpunkt angegeben der Mittag des 1. Muḥarram des Jahres 1",
+   "italic": [
+    "Muḥarram"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "der Hidjra (d. i. der 15. Juli 622 n. Chr.) ; z. B. in Tafel 4 steht als Radix für die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Hidjra (d. i. der 15. Juli 622 n. Chr.) ; z. B. in Tafel 4 steht als Radix für die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "Sonne 3{sup:s} 23° 25′ 48″ (= 113° 25′ 48″), d. h. dies war die mittlere Länge der Sonne am",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Sonne 3s 23° 25′ 48″ (= 113° 25′ 48″), d. h. dies war die mittlere Länge der Sonne am",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "Mittag (astron. Beginn des Tages bei den meisten arab. Astronomen) des 1. {i:Muḥarram}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Mittag (astron. Beginn des Tages bei den meisten arab. Astronomen) des 1. Muḥarram",
+   "italic": [
+    "Muḥarram"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "des Jahres 1 der {i:Hidjra} für den Meridian von {i:Arin}. {sp:Maslama al-Madjrīṭī} hat also,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des Jahres 1 der Hidjra für den Meridian von Arin. Maslama al-Madjrīṭī hat also,",
+   "italic": [
+    "Hidjra",
+    "Arin"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Maslama al-Madjrīṭī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "wie wir schon in der Einleitung bemerkt haben, die {i:Aera} {sp:Yezdegirds} (Beginn am",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wie wir schon in der Einleitung bemerkt haben, die Aera Yezdegirds (Beginn am",
+   "italic": [
+    "Aera"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Yezdegirds"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "16. Juni 632 n. Chr.), die {sp:Kh.} zu Grunde gelegt hatte, durch die muhammedanische",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "16. Juni 632 n. Chr.), die Kh. zu Grunde gelegt hatte, durch die muhammedanische",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "ersetzt, den Meridian von {i:Arin} aber hat er beibehalten ; dies gilt aber nur für die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ersetzt, den Meridian von Arin aber hat er beibehalten ; dies gilt aber nur für die",
+   "italic": [
+    "Arin"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "Tafeln der mittlern und wahren Bewegung der Sonne, des Mondes und der fünf",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Tafeln der mittlern und wahren Bewegung der Sonne, des Mondes und der fünf",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "Planeten ; wir werden später sehen, dass {sp:Maslama} eine Reihe von Tafeln (besonders",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Planeten ; wir werden später sehen, dass Maslama eine Reihe von Tafeln (besonders",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Maslama"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "die der Konjunktionen, Oppositionen und Finsternisse) auf den Meridian von {i:Cordova}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die der Konjunktionen, Oppositionen und Finsternisse) auf den Meridian von Cordova",
+   "italic": [
+    "Cordova"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "bezogen hat. Es ist also die Möglichkeit nicht ausgeschlossen, dass diese Tafeln",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bezogen hat. Es ist also die Möglichkeit nicht ausgeschlossen, dass diese Tafeln",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "ursprünglich nicht im Werke {sp:Kh.}’s enthalten waren ; hierauf hindeutende Angaben",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ursprünglich nicht im Werke Kh.’s enthalten waren ; hierauf hindeutende Angaben",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "hat ja, wie wir in der Einleitung gesehen haben, der spanische Gelehrte {sp:Ibn Ṣāʿid}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "hat ja, wie wir in der Einleitung gesehen haben, der spanische Gelehrte Ibn Ṣāʿid",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ibn Ṣāʿid"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "gemacht, und {sp:Ibn al-Ḳifṭī}{sup:3}) hat sie wiederholt ; doch wäre in diesem Falle das",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "gemacht, und Ibn al-Ḳifṭī3) hat sie wiederholt ; doch wäre in diesem Falle das",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ibn al-Ḳifṭī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "Werk {sp:Kh.}’s auch gar zu unbedeutend gewesen, denn gerade diese Tafeln gehören",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Werk Kh.’s auch gar zu unbedeutend gewesen, denn gerade diese Tafeln gehören",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "zu den wichtigsten eines astronomischen Werkes.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zu den wichtigsten eines astronomischen Werkes.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L34",
+   "n": 34,
+   "kind": "indent",
+   "text": "In dieser Einleitung tritt auch der einzige Eigenname auf, den ausser denen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "In dieser Einleitung tritt auch der einzige Eigenname auf, den ausser denen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "des Verfassers und des Übersetzers diese Tafeln enthalten, der Name „{sp:Ptolomaeus}“,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des Verfassers und des Übersetzers diese Tafeln enthalten, der Name „Ptolomaeus“,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ptolomaeus"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L36",
+   "n": 36,
+   "kind": "text",
+   "text": "Man sieht also, was sich auch aus dem Studium der Tafeln ergibt, dass {sp:Kh.} schon,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Man sieht also, was sich auch aus dem Studium der Tafeln ergibt, dass Kh. schon,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "wie dann die spätern Astronomen, insbesondere {sp:Batt.}, sich auf den {i:Almagest} des",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wie dann die spätern Astronomen, insbesondere Batt., sich auf den Almagest des",
+   "italic": [
+    "Almagest"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L38",
+   "n": 38,
+   "kind": "text",
+   "text": "{sp:Ptolemäus} stützte, und also auch durch diesen wesentlich beeinflusst worden ist,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Ptolemäus stützte, und also auch durch diesen wesentlich beeinflusst worden ist,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ptolemäus"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-L39",
+   "n": 39,
+   "kind": "text",
+   "text": "was sich im Laufe unserer Betrachtung an verschiedenen Stellen zeigen wird.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "was sich im Laufe unserer Betrachtung an verschiedenen Stellen zeigen wird.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Vergl. die Ausgabe von {sp:Lippert}, Leipzig, 1903, p. 270—271.",
+   "margin": null,
+   "plain": "1) Vergl. die Ausgabe von Lippert, Leipzig, 1903, p. 270—271.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Lippert"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "{sup:2}) Vergl. H. {sp:Suter}, {i:Die Mathematiker und Astronomen der Araber}, etc. p. 44.",
+   "margin": null,
+   "plain": "2) Vergl. H. Suter, Die Mathematiker und Astronomen der Araber, etc. p. 44.",
+   "italic": [
+    "Die Mathematiker und Astronomen der Araber"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Suter"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0065-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "{sup:3}) Edid. {sp:Lippert}, p. 326.",
+   "margin": null,
+   "plain": "3) Edid. Lippert, p. 326.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Lippert"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «33» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «5» on the right; recorded here, not transcribed as a line.",
+  "L19: «3s 23° 25′ 48″ (= 113° 25′ 48″)», the s raised. Checked: three signs of 30 degrees and 23 degrees are 113 degrees. To be compared with Table 4. L18: the epoch of the Hijra, 15 July 622; L23: the era of Yazdegird, 16 June 632. Checked: 15 July 622 (Julian) is the day 1948439 of the Julian period, a Thursday, the astronomical epoch of the Hijra; 16 June 632 is the day 1952063, a Tuesday, the epoch of the era of Yazdegird; the two epochs are 3624 days apart.",
+  "Spaced type, marked {sp:}: the names, «Kh.», «Perser», «Ptolemäus», «Ptolomaeus», «Batt.», «Lippert», «Suter»; italics: the Indian and Arabic words and names of places, «Radix» (L16), «Muḥarram», «Hidjra» (L21), «Aera», «Almagest» and the title in N02. L18: «Radix» and «Hidjra» upright. L15: «(g. B. 23° 11′, g. L. 75° 52′ Gr.)», geographical latitude and longitude east of Greenwich, with no stop after the bracket.",
+  "The colon and the semicolons stand after the thin space of the edition (12-14 px measured)."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK07-CN048",
+   "class": "wrong punctuation",
+   "line": "L35",
+   "printed": "der Name „Ptolomaeus“,",
+   "proposed": "der Name „Ptolomaeus“.",
+   "evidence": "the sentence ends at the name: the next line begins a new sentence with a capital, «Man sieht also»; a comma is printed after the closing quotation mark",
+   "confidence": "high",
+   "impact": "none"
+  }
+ ]
+}

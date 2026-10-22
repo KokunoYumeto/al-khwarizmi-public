@@ -1,0 +1,59 @@
+@page 223 191
+@lang la
+% JP2 0223: Tab. 77, p. 191: the parallaxes of the moon (Tabula diversitatis respectuum lunae in hora): the parallax in
+% longitude, in time, by the hour angle, and the parallax in latitude by the zenith distance, for 1° to 60°, with the
+% apparatus (notes 1-8 and a-f).
+@c {b:Tabula}{sup:1}) {b:diversitatis respectuum lunae in hora} (CON)
+@m C 86{sup:r}, O 142{sup:v},
+@c {b:Tabula}{sup:1}) {b:diversitatum elmandhar}{sup:2}) {b:lunae}{sup:3}) {b:in hora} (CO)
+@tw size=footnotesize span=1.0 0.75 0.55 0.6 0.6 0.65 0.6 0.75 0.6 0.65 0.7 0.7 0.65
+@m N 48{sup:r}.
+@t Semita | Horae diversorum |  |  | Diversitas{sup:5}) |  | Semita | Horae longitudinis |  |  | Horae |
+@t numeri{sup:4}) | respectuum lunae |  |  | respectus in |  | numeri{sup:6}) | Horae diversitatis |  |  | latitudinis |
+@t  | [in longitudine] |  |  | latitudine |  |  | respectuum |  |  | Diversitas |
+@t  |  |  |  |  |  |  | lunae in longitudine{sup:7}) |  |  | respectus in |
+@t  |  |  |  |  |  |  |  |  |  | latitudine |
+@t {b:Gr.}{sup:8}) | {b:Hor.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Gr.}{sup:8}) | {b:Hor.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.}
+@t 1 | 0 | 2 | 53 | 0 | 51 | 31 | 1 | 12 | 34 | 25 | 6
+@t 2 | 0 | 5 | 46 | 1 | 42 | 32 | 1 | 14 | 1 | 25 | 49
+@t 3 | 0 | 8 | 38 | 2 | 33 | 33 | 1 | 15 | 27 | 26 | 32
+@t 4 | 0 | 11 | 29 | 3 | 24 | 34 | 1 | 16 | 51 | 27 | 15
+@t 5 | 0 | 14 | 19 | 4 | 15 | 35 | 1 | 18 | 14 | 27 | 58
+@t 6 | 0 | 17 | 7 | 5 | 6 | 36 | 1 | 19 | 32 | 28 | 38
+@t 7 | 0 | 19 | 54 | 5 | 56 | 37 | 1 | 20 | 45 | 29 | 19
+@t 8 | 0 | 22 | 39 | 6 | 47 | 38 | 1 | 21 | 53 | 29 | 59
+@t 9 | 0 | 25 | 23 | 7 | 37 | 39 | 1 | 22 | 56 | 30 | 40
+@t 10 | 0 | 28 | 6 | 8 | 28 | 40{sup:b}) | 1 | 23 | 55 | 31 | 20
+@t 11 | 0 | 30 | 46 | 9 | 18 | 41 | 1 | 24 | 53 | 31 | 58
+@t 12 | 0 | 33 | 23 | 10 | 8 | 42 | 1 | 25 | 49 | 32 | 35{sup:e})
+@t 13 | 0 | 35 | 57 | 10 | 57 | 43 | 1 | 26 | 43 | 33 | 13
+@t 14 | 0 | 38 | 27 | 11 | 47 | 44 | 1 | 27 | 35 | 33 | 51
+@t 15 | 0 | 40 | 54 | 12 | 37 | 45 | 1 | 28 | 24 | 34 | 28
+@t 16 | 0 | 43 | 19 | 13 | 26 | 46 | 1 | 29 | 10 | 35 | 3
+@t 17 | 0 | 45 | 41 | 14 | 14 | 47 | 1 | 29 | 54 | 35 | 37
+@t 18 | 0 | 48 | 0 | 15 | 3 | 48 | 1 | 30 | 33 | 36 | 12
+@t 19 | 0 | 50 | 15 | 15 | 52 | 49 | 1 | 31 | 11 | 36 | 46
+@t 20 | 0 | 52 | 26 | 16 | 40 | 50{sup:c}) | 1 | 31 | 45 | 37 | 21
+@t 21 | 0 | 54 | 33 | 17 | 28 | 51 | 1 | 32 | 16 | 37 | 52
+@t 22 | 0 | 56 | 37 | 18 | 15 | 52{sup:d}) | 1 | 32 | 47 | 38 | 23
+@t 23 | 0 | 58 | 38 | 19 | 2 | 53 | 1 | 33 | 15 | 38 | 54
+@t 24 | 1{sup:a}) | 0 | 25 | 19 | 49 | 54 | 1 | 33 | 41 | 39 | 25
+@t 25 | 1 | 2 | 29 | 20 | 36 | 55 | 1 | 34 | 7 | 39 | 56
+@t 26 | 1 | 4 | 23 | 21 | 21 | 56 | 1 | 34 | 25 | 40 | 23
+@t 27 | 1 | 6 | 12 | 22 | 7 | 57 | 1 | 34 | 44 | 40 | 51
+@t 28 | 1 | 7 | 56 | 22 | 52 | 58 | 1 | 35 | 1 | 41 | 18{sup:f})
+@t 29 | 1 | 9 | 34 | 23 | 37 | 59 | 1 | 35 | 15 | 41 | 46
+@t 30 | 1{sup:a}) | 11 | 5 | 24 | 22 | 60 | 1 | 35 | 27 | 42 | 13
+@n {sup:1}) Tabula] CN, Pagina O — {sup:2}) elmandhar] C, elmandher O — {sup:3}) lunae] C, luna O — {sup:4}) Semita
+@n numeri] C, Linea numeri N, {i:om.} O. — {sup:5}) Diversitas] CO, Diversitatis N — {sup:6}) Semita] C, Semitae O,
+@n Linea N — {sup:7}) longitudine] CO, hora N — {sup:8}) Gr.] {i:om.} CO.
+@n {sup:a})—{sup:a}) 1] C, 0 O — {sup:b}) 40] C, 10 {i:corr. ex?} O — {sup:c}) 50] C, 49 O — {sup:d}) 52] C, 50 O — {sup:e}) 35] 15 CO
+@n — {sup:f}) 18] 13 CO.
+@obs The page number «191» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 77», in bold sans serif, underlined. The page has no signature. The titles (L01-L02), in bold, the sigla in roman: «Tabula1) diversitatis respectuum lunae in hora (CON)», the table of the difference of the aspects of the moon in an hour, and that of C and O, «Tabula1) diversitatum elmandhar2) lunae3) in hora (CO)», with «elmandhar», al-manẓar, the aspect, from ikhtilāf al-manẓar, the parallax. The folios of the manuscripts stand at the right of the second title in two lines, «C 86r, O 142v,» and «N 48r.», the letters raised; here as right margin notes beside L02 and L03.
+@obs The table: twelve columns in two halves, divided by double vertical rules: «Semita numeri4)», printed upwards, over «Gr.8)»; «Horae diversorum respectuum lunae [in longitudine]», with the square brackets as printed, the closing one without its upper arm, over «Hor.», «Min.», «Sec.»; «Diversitas5) respectus in latitudine» over «Min.», «Sec.»; «Semita numeri6)», printed upwards, over «Gr.8)»; «Horae longitudinis» over «Horae diversitatis respectuum lunae in longitudine7)» and «Hor.», «Min.», «Sec.»; «Horae latitudinis» over «Diversitas respectus in latitudine» and «Min.», «Sec.»; the units in smaller bold type. Here each head is set from the top, one printed line to a line (L03-L07), «Semita numeri» divided over the first two of them; the cells separated by our «|»; a head followed by empty cells spans their columns. A speck above the 38 of L11; not transcribed.
+@obs L09-L38. The argument, 1° to 60° (61° to 150° on p. 192, JP2 0224), is for the parallax in longitude the hour angle of the moon and for the parallax in latitude its zenith distance at the culmination of its point of the ecliptic (Suter, p. 92, JP2 0124, L14-L29); the parallax in longitude is given in time, the hours by which the apparent conjunction differs from the true (p. 93, JP2 0125, L24-L28). Checked: the times agree within 6s with t = 1h 36m · sin(x + 15° · t): the time in which the moon, gaining 30′ 28″ an hour on the sun (32′ 56″ − 2′ 28″, Tab. 63, p. 177, JP2 0209), covers the parallax 48′ 45″ · sin(x + 15° · t) at the hour angle reached at the apparent conjunction, 15° an hour later for every hour of t (48′ 45″ : 30′ 28″ = 1h 36m). The exception is 24° (L32), 1h 0m 25s for 1h 0m 37s: see the critical note. The steps of the column fall from 2m 53s to 12s.
+@obs L09-L38, continued. Checked: at every fifth degree the parallax in latitude is 48′ 45″ · sin x, the value at 90° on p. 192, within 0.5″; between these the values are interpolated linearly, the steps within each group of five degrees differing by 1″ at most (51″ from 0° to 5°, 27″ or 28″ from 55° to 60°), so that they lie up to 3″ below the sine. Suter's example, the zenith distance 56° 43′ 45″ (p. 94, JP2 0126, L04-L05), gives by interpolation between 56° and 57° (L34-L35) 40′ 43.4″, his 40′ 43″.
+@obs Notes on the readings. Checked: the edition's readings follow the laws above: C's hour 1 at 24° and 30° (notes a-a, «a)—a)», against O's 0); the parallaxes in latitude 32′ 35″ and 41′ 18″ at 42° and 58° (notes e and f, against the 15 and 13 of C and O; 32′ 37″ and 41′ 20″ by 48′ 45″ · sin x), which give the steps 37″ and 38″, 27″ and 28″, where 15 and 13 would give 17″ and 58″, 22″ and 33″. The arguments 40, 50 and 52 (notes b, c and d) are C's, where O has 10, corrected from an uncertain reading («corr. ex?»), 49 and 50.
+@obs Notes 1-8: O's «Pagina» for «Tabula»; O's «elmandher» for «elmandhar»; O's «luna»; «Semita numeri» (C), N's «Linea numeri», omitted in O; N's «Diversitatis»; O's «Semitae» and N's «Linea» for «Semita»; N's «hora» for «longitudine»; C and O omit the unit «Gr.». Italics: «om.», «corr. ex?». N02, «om. O. —»: see the critical note.
+@critical AK07-CN217 | stray point | N02 | {i:om.} O. — {sup:5}) | {i:om.} O — {sup:5}) | the readings of a note end without a point before the dash, as «Diversitatis N —» after it; a point is printed after O | high | none
+@critical AK07-CN218 | probable misprint | L32 | 25 | 35 | the seconds of the parallax in longitude at 24°: with 35 the steps of the column are 1m 57s and 1m 54s, between 2m 1s and 1m 54s, with 25 1m 47s and 2m 4s; t = 1h 36m · sin(x + 15° · t) gives 1h 0m 36.9s | medium | none

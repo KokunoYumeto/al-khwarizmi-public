@@ -1,0 +1,258 @@
+{
+ "anchor": "AK05-F132",
+ "frame": 132,
+ "frame_file": "page_132.jpg",
+ "frame_sha256": "ee78521bdac86d7ba5ed1d8b8c216928f527e5c20593888e75c968f299084f74",
+ "printed_page": "١٢٦",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 132, printed p. 126: the river ڡطروس concluded, through a lake of one degree and the town of China to the sea, with a river from the mountain of the river سمس that falls into the lake; then the heading of the fifth clime and of its springs and rivers: the river اس past the towns ڡسطورن, اسقلس and اروثى; the river from the mountain ارطسڡازا past the town وٮه and between the mountain لوس and the town اطلما, which divides into two branches to the sea; and the river from the town مارٮا past مكسارا. The editor's running numbers (١٩٠٨)-(١٩١٨) and the numbers of Suhrāb [١٩٠٧]-[١٩١٥], [١٩١٧] and [١٩١٨]; words supplied by the editor between angle brackets. Four lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F132-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "يمرّ الى بطيحة مقدار جزء عند طول {ov:ڡسه ك} والعرض {ov:ك م} (١٩٠٨) [١٩٠٧] ويمرّ{n:a}",
+   "margin": null,
+   "cells": null,
+   "plain": "يمرّ الى بطيحة مقدار جزء عند طول ڡسه ك والعرض ك م (١٩٠٨) [١٩٠٧] ويمرّ",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F132-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "من هٰذه البطيحة فيقطع مدينة الصين ويمرّ حتّى يصبّ فى البحر عند طول {ov:ڡسب ى}",
+   "margin": null,
+   "cells": null,
+   "plain": "من هٰذه البطيحة فيقطع مدينة الصين ويمرّ حتّى يصبّ فى البحر عند طول ڡسب ى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F132-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "والعرض {ov:ج م} (١٩٠٩) [١٩٠٨] ويقع الى البطيحة الّتى فى هٰذا النهر نهر من جبل",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض ج م (١٩٠٩) [١٩٠٨] ويقع الى البطيحة الّتى فى هٰذا النهر نهر من جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F132-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "نهر سمس ايضاً ⟨اوّله⟩{n:b} عند طول {ov:ڡسط {z}} والعرض {ov:كح {z}} (١٩١٠) [١٩٠٩] ومصبّه",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر سمس ايضاً ⟨اوّله⟩ عند طول ڡسط ō والعرض كح ō (١٩١٠) [١٩٠٩] ومصبّه",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F132-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "فى البطيحة *",
+   "margin": null,
+   "cells": null,
+   "plain": "فى البطيحة *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F132-L06",
+   "n": 6,
+   "kind": "heading",
+   "text": "* الإقليم الخامس وما فيه من العيون والأنهار *",
+   "margin": null,
+   "cells": null,
+   "plain": "* الإقليم الخامس وما فيه من العيون والأنهار *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F132-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "نهر اس اوّله عين عند طول {ov:ٮٮ ٮه} والعرض {ov:م مه} (١٩١١) [١٩١٠] ومصبّه فى البحر",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر اس اوّله عين عند طول ٮٮ ٮه والعرض م مه (١٩١١) [١٩١٠] ومصبّه فى البحر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F132-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "عند طول {ov:د ل} والعرض {ov:لح ك}{n:c} (١٩١٢) [١٩١١] يمرّ بمدينة ڡسطورن وبمدينة اسقلس",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول د ل والعرض لح ك (١٩١٢) [١٩١١] يمرّ بمدينة ڡسطورن وبمدينة اسقلس",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F132-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "و⟨ب⟩{n:d}مدينة اروثى * نهر من جبل ارطسڡازا{n:e} اوّله عند طول {ov:ٮٮ يه} ⟨والعرض {ov:لح {z}}⟩{n:f}",
+   "margin": null,
+   "cells": null,
+   "plain": "و⟨ب⟩مدينة اروثى * نهر من جبل ارطسڡازا اوّله عند طول ٮٮ يه ⟨والعرض لح ō⟩",
+   "note_marks": [
+    "d",
+    "e",
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F132-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "(١٩١٣) [١٩١٢] يمرّ بمدينة وٮه وفيما بين جبل لوس ومدينة اطلما عند طول {ov:ر م}",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٩١٣) [١٩١٢] يمرّ بمدينة وٮه وفيما بين جبل لوس ومدينة اطلما عند طول ر م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F132-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "والعرض {ov:لح م} (١٩١٤) [١٩١٣] ثمّ يفترق منه نهران يصبّان فى البحر مصبّ الأوّل",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض لح م (١٩١٤) [١٩١٣] ثمّ يفترق منه نهران يصبّان فى البحر مصبّ الأوّل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F132-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "عند طول {ov:ز {z}} والعرض {ov:لز ك} (١٩١٥) [١٩١٤] والآخر عند طول {ov:و ل} والعرض {ov:لز ك}",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول ز ō والعرض لز ك (١٩١٥) [١٩١٤] والآخر عند طول و ل والعرض لز ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F132-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "(١٩١٦) [١٩١٥] يحيط هٰذا النهر بجبل لوس ومدينة اووى{n:g} حتّى يصبّ فى البحر{n:h} *",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٩١٦) [١٩١٥] يحيط هٰذا النهر بجبل لوس ومدينة اووى حتّى يصبّ فى البحر *",
+   "note_marks": [
+    "g",
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F132-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "نهر يخرج من مدينة مارٮا ويمرّ بمدينة مكسارا اوّله عند طول {ov:ٮد ل} والعرض {ov:م م} (١٩١٧)",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر يخرج من مدينة مارٮا ويمرّ بمدينة مكسارا اوّله عند طول ٮد ل والعرض م م (١٩١٧)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F132-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "[١٩١٧] ومصبّه فى البحر عند طول {ov:ٮح {z}} والعرض {ov:مه م} (١٩١٨) [١٩١٨] * نهر",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٩١٧] ومصبّه فى البحر عند طول ٮح ō والعرض مه م (١٩١٨) [١٩١٨] * نهر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: after «ويمرّ» the manuscript has الى (note a).",
+  "L04: the word between the brackets is missing in the manuscript (note b).",
+  "L08: a variant reading of the latitude is لح ل, with a line over the numerals (note c).",
+  "L09: the letter between the brackets is missing in the manuscript (note d).",
+  "L09: a variant reading of the name is ارطسقارا (note e).",
+  "L09: the words between the brackets are missing in the manuscript; the editor supplies them after S (note f).",
+  "L13: a variant reading of the name is اورى (note g).",
+  "L13: Suhrāb puts the passage more clearly: «ثمّ يمرّ النهر الكبير فيحيط بجبل لوس ومدينة اووى ويمرّ فيصبّ فى البحر على سمته [١٩١٦]» (note h)."
+ ],
+ "unresolved": [
+  "L10: the loop of «اطلما» may also be the loop of ف or ق without dots: اطلڡا. Transcribed اطلما, the reading of the editor's note on entry 335."
+ ],
+ "observations": [
+  "The river ڡطروس goes on from p. 125 (frame 131), whose last words, «نهر ڡطروس اوّله عين من جبل نهر سمس عند ⟨طول⟩ ڡسو ى والعرض لا ل (١٩٠٧) [١٩٠٦]», end with the beginning of its spring. L01-L03: «يمرّ الى بطيحة مقدار جزء عند طول ڡسه ك والعرض ك م (١٩٠٨)», it passes to a lake of one degree, at the longitude ڡسه ك and the latitude 20° 40′; «ويمرّ من هٰذه البطيحة فيقطع مدينة الصين ويمرّ حتّى يصبّ فى البحر عند طول ڡسب ى والعرض ج م (١٩٠٩)», and it passes from this lake and cuts through the town of China, and passes until it flows into the sea at the longitude ڡسب ى and the latitude 3° 40′.",
+  "L03-L05: «ويقع الى البطيحة الّتى فى هٰذا النهر نهر من جبل نهر سمس ايضاً ⟨اوّله⟩ عند طول ڡسط {z} والعرض كح {z} (١٩١٠) ومصبّه فى البطيحة *», and into the lake that lies on this river falls a river also from the mountain of the river سمس, ⟨whose beginning⟩ is at the longitude ڡسط ō and the latitude 28° 0′, and its mouth is in the lake; the mouth has no coordinates of its own. The mountain is entries 725-726 of the table of the mountains (frame 056, L03), «جبل نهر سمس».",
+  "L06: the heading of the new section, in the large type, between two small open stars, transcribed as asterisks: «* الإقليم الخامس وما فيه من العيون والأنهار *», the fifth clime and the springs and the rivers in it; «الإقليم» with a hamza below the alif, «والأنهار» with a hamza over the alif.",
+  "L07-L09: «نهر اس اوّله عين عند طول ٮٮ ٮه والعرض م مه (١٩١١) ومصبّه فى البحر عند طول د ل والعرض لح ك (١٩١٢)», the river اس, whose beginning is a spring at the longitude ٮٮ ٮه and the latitude 40° 45′, and its mouth in the sea at the longitude 4° 30′ and the latitude 38° 20′; «يمرّ بمدينة ڡسطورن وبمدينة اسقلس و⟨ب⟩مدينة اروثى *», it passes the town ڡسطورن, the town اسقلس and the town اروثى; the editor supplies the ب of «⟨ب⟩مدينة». The towns are entries 340, «مدينة ڡسطرون» (frame 030, L05), where the editor's note b gives the form of this entry (1913), ڡسطورن; 336, «مدينة اسقلس» (frame 030, L01); and 333, «مدينة ارون» (frame 029, L13), where the editor's note e gives the form of this entry, اروثى. Here «ڡسطورن» has the loop without dots; «اسقلس» the two dots of the ق; «اروثى» the three dots of the ث and a final ى without dots.",
+  "L09-L13: «نهر من جبل ارطسڡازا اوّله عند طول ٮٮ يه ⟨والعرض لح {z}⟩ (١٩١٣)», a river from the mountain ارطسڡازا, whose beginning is at the longitude ٮٮ يه ⟨and the latitude 38° 0′⟩; «يمرّ بمدينة وٮه وفيما بين جبل لوس ومدينة اطلما عند طول ر م والعرض لح م (١٩١٤)», it passes the town وٮه and between the mountain لوس and the town اطلما, at the longitude ر م and the latitude 38° 40′; «ثمّ يفترق منه نهران يصبّان فى البحر مصبّ الأوّل عند طول ز {z} والعرض لز ك (١٩١٥) والآخر عند طول و ل والعرض لز ك (١٩١٦)», then two rivers branch off from it and flow into the sea; the mouth of the first is at the longitude 7° 0′ and the latitude 37° 20′, the other at the longitude 6° 30′ and the latitude 37° 20′; «يحيط هٰذا النهر بجبل لوس ومدينة اووى حتّى يصبّ فى البحر *», this river surrounds the mountain لوس and the town اووى until it flows into the sea.",
+  "The mountain ارطسڡازا is entries 777-778 of the table of the mountains (frame 060, L02), «جبل ارسطفارا», where the editor's note a gives the form of this entry (1913), ارطسفازا, with the variant reading ارطسقارا (printed at the foot of p. 55, frame 061); here the loop before the alif has no dot. The mountain لوس is entries 775-776 (frame 060, L01), «جبل لوس متّصل بالبحر». The towns are entries 341, «مدينة قرٮه» (frame 030, L06), where the editor's note c gives the form of this entry (1914), وٮه; and 335, «مدينة اطلقا» (frame 029, L15), at the longitude 7° 30′ and the latitude 39° 40′, where the editor's note f gives the form of this entry (1914), اطلما. The editor's note e on entry 333 (frame 029) gives the form اووى «at entry (1917)», with the variant reading اورى; the name stands here in the passage after the running number (1916) that closes the river.",
+  "L10: «وٮه»: an isolated و, then a tooth without a dot, 12 px high, joined to the final ه. «اطلما»: after the ل, a small loop on the line, 13 px wide and 19 px high, with a hollow of 4 by 5 px, without dots, joined to the final alif; the editor's note f on entry 335 (frame 029) prints the same form for this entry and reads it اطلما, with a medial م; the table prints «اطلقا» with the two dots of the ق.",
+  "L14-L15: «نهر يخرج من مدينة مارٮا ويمرّ بمدينة مكسارا اوّله عند طول ٮد ل والعرض م م (١٩١٧) ومصبّه فى البحر عند طول ٮح {z} والعرض مه م (١٩١٨) *», a river comes out of the town مارٮا and passes the town مكسارا; its beginning is at the longitude ٮد ل and the latitude 40° 40′, and its mouth in the sea at the longitude ٮح ō and the latitude 45° 40′; then «نهر», a river, continued on p. 127. The towns are entries 343, «مدينة ماريا» (frame 030, L08), where the editor's note d gives the form of this entry (1917), مارٮا, without the dots of the ي; and 415, «مكسارا مع الجبل» (frame 035, L01), at the longitude 14° 0′ and the latitude 41° 30′. «مارٮا»: after «مار», a tooth without a dot joined to the final alif.",
+  "Angle brackets, each followed by a note mark, around what the editor supplies: «⟨اوّله⟩» (L04), note b; «⟨ب⟩» (L09), the ب of «بمدينة», with its dot, between «و» and «مدينة», note d; «⟨والعرض لح {z}⟩» (L09), with the line over the numerals within the brackets, note f. Transcribed with the brackets.",
+  "Numerals: «ك م» (L01), 20° 40′; «ج م» (L03), with the dot of the ج, 3° 40′; «كح {z}» (L04), 28° 0′; «م مه» (L07), 40° 45′; «د ل» (L08), 4° 30′; «لح ك» (L08), 38° 20′; «يه» (L09), with the two dots of the ي, 15; «لح {z}» (L09), 38° 0′; «لح م» (L11), 38° 40′; «ز {z}» (L12), with the dot of the ز, 7° 0′; «لز ك» (L12, twice), with the dot of the ز, 37° 20′; «و ل» (L12), 6° 30′; «م م» (L14), 40° 40′; «مه م» (L15), 45° 40′.",
+  "Without their dots, transcribed so: the loop of ف or ق without dots in the degrees of the longitude, read with ق: «ڡسه» (L01), 165; «ڡسب» (L02), with the dot of the ب, 162; «ڡسط» (L04), 169. «ٮٮ» (L07, L09), a tooth joined to a final ب, both without dots: a flat bowl of 53 to 54 px and a tall riser 7 px wide standing apart at its right end, 62 to 63 px together, where the isolated ب is a bowl of about 50 px with a riser at each end; read with a ي, 12, the river of L07 passes the town ڡسطورن, at the longitude 10° 20′ (frame 030, L05), on its way to its mouth at 4° 30′. «ٮه» (L07), the minutes of the longitude, a tooth without its dot joined to a final ه, 25 by 24 px, which read with a ي gives 15, as «يه» of L09 with the two dots, where the isolated ه, 5, is a small round ring of some 18 by 20 px (frame 121, L01): the beginnings of the two rivers of L07 and L09 then lie at the same longitude, 12° 15′. «ر» (L10), the isolated ر without the dot of the ز; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII), so 7° 40′, beside the longitude 7° 30′ of the town اطلقا. A tooth without its dot, which read with a ي gives: «ٮد» (L14), 14, beside the longitude 14° 0′ of the town مكسارا; «ٮح» (L15), 18.",
+  "The ح of the numerals, «كح» (L04), «لح» (L08, L09, L11) and «ٮح» (L15), shows no dot in the bowl. The isolated ك, 20, is printed with the small inner stroke of the letter (L01, L08, L12); the isolated ى, 10, has no dots (L02).",
+  "Signs in the text, transcribed as printed: «يمرّ» (L01, L08, L10) and «ويمرّ» (L01, L02, L14) with a shadda over the ر; «حتّى» (L02, L13) with a shadda over the ت; «يصبّ» (L02, L13), «ومصبّه» (L04, L07, L15), «يصبّان» and «مصبّ» (L11) with a shadda over the ب; «الّتى» (L03) with a shadda over the ل; «اوّله» (L04, within the brackets; L07, L09, L14) with a shadda over the و; «ثمّ» (L11) with a shadda; «الأوّل» (L11) with a hamza over the alif and a shadda over the و; «والآخر» (L12) with a madda over the alif; «هٰذه» (L02) and «هٰذا» (L03, L13) with a dagger alif above the ه; «ايضاً» (L04) with the tanwin of the accusative over its alif; «جزء» (L01) with a hamza on the line; «فى», «الى» and «الّتى» end in a ى without dots.",
+  "The running numbers run (١٩٠٨)-(١٩١٨) without a gap. The numbers of Suhrāb [١٩٠٧]-[١٩١٥] stand after (١٩٠٨)-(١٩١٦), then [١٩١٧] after (١٩١٧) and [١٩١٨] after (١٩١٨); [١٩١٦] does not occur in the text: the editor's note h gives it in his quotation of Suhrāb. (١٩١٣) stands at the beginning of L10, (١٩١٦) at the beginning of L13 and [١٩١٧] at the beginning of L15, after the running numbers at the end of the lines before.",
+  "Asterisks: the small open stars with six points, after «البطيحة» (L05), around the heading (L06), after «اروثى» (L09), after «البحر» and its note mark (L13) and after [١٩١٨] (L15), are transcribed as asterisks.",
+  "Note marks: L01, a after «ويمرّ»; L04, b after the closing bracket; L08, c after the latitude; L09, d after the closing bracket of «⟨ب⟩», e after «ارطسڡازا» and f after the closing bracket; L13, g after «اووى» and h after «البحر».",
+  "Marks not transcribed: L02, a thin broken line, 2 to 5 px high, at the height of the joining strokes through the words «البطيحة فيقطع مدينة الصين», a flaw of the impression; the letters are complete. L07, over the third digit of [١٩١٠], a mark of 14 by 15 px in the form of a shadda, 17 px above the digit, with a few specks beside it. L08, a speck of 5 by 5 px between the note mark c and the opening parenthesis of (١٩١٢). L10, a speck at the lower left of the ر of «ر م».",
+  "The editor's footnotes stand in four lines below a short rule at the left: notes a-h. In note h, the number of Suhrāb is printed «[١٩١٦]», with two specks of 2 by 3 and 4 by 3 px between the ٩ and the second ١, smaller than the zero of the font. The page number «— ١٢٦ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

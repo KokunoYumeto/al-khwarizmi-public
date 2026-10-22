@@ -1,0 +1,214 @@
+{
+ "anchor": "AK01-F084",
+ "frame": 84,
+ "frame_file": "page_084.jpg",
+ "frame_sha256": "9c3a795c13ab3cf5e0909fbba7163dce680cc5f6d3f784c310bfce7c1a50ee2d",
+ "printed_page": "٦٨",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 084, printed p. 68: the second problem of cash and debt concluded (a fifth of the estate and a dirham bequeathed: the thing five and five sixths); the third: three sons, a fifth of the estate less a dirham bequeathed, ten dirhams in cash and ten owed by one son: eleven fifteenths of a thing equal three dirhams, the thing four and one eleventh. Then «باب آخر من الوصايا» in bold, another chapter of wills: a man dies leaving his mother, his wife, his brother and his two sisters, continued on the next page. Below the rule one footnote of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F084-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "وأربعة أخماس شىء ثم تعزل الدرهم الذى أوصى به فيبقى سبعة دراهم وأربعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "أخماس شىء فتقسمه بين الاثنين فيكون لكل واحد ثلاثة دراهم ونصف درهم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وخمسا شىء تعدل شيئاً فتلقى خمسى شىء من شىء فيبقى ثلاثة أخماس شىء تعدل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "ثلاثة دراهم ونصفا فكمل الشىء وهو أن تزيد عليه مثل ثلثيه وتزيد على الثلاثة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "والنصف مثل ثلثيها وهو درهمان وثلث فتكون خمسة دراهم وخمسة أسداس",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "وهو الشىء الذى استخرج من الدين . فان ترك ثلاثة بنين وأوصى بخمس ماله",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "إلا درهماً وترك عشرة دراهم عينا وعشرة دراهم دينا على أحد البنين {n:١} فان",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "قياسه أن تجعل الذى يستخرج من الدين شيئاً فتزيده على العشرة فيكون عشرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "وشيئاً فتعزل خمسها للوصيةوهو درهمان وخمس شىء فيبقى ثمانية دراهم وأربعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "أخماس شىء ثم تستثنى درهما لأنه قال إلا درهماً فيكون تسعة دراهم وأربعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "أخماس شىء فتقسم ذلك بين البنين فيكون لكل ابن ثلاثة دراهم وخمس شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "وثلث خمس شىء فيكون ذلك يعدل شيئاً فتلقى خمس شىء وثلث خمس شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "من شىء فيبقى أحد عشر جزءاً من خمسة عشر جزءاً من شىء تعدل ثلاثة دراهم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "فتحتاج الى أن تكمل الشىء فتزيد عليه أربعة أجزاء من أحد عشر من شىءوتزيد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "مثل ذلك على ثلاثة دراهم وهو درهم وجزء من أحد عشر جزءاً فيكون أربعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "دراهم وجزءاً من أحد عشر جزءاً من درهم تعدل شيئاً وهو الذى استخرج من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F084-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "الدين . {b:باب آخر من الوصايا} . رجل مات وترك أمه وامرأته وأخاه وأختيه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "باب آخر من الوصايا"
+   ]
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L17: the words باب آخر من الوصايا (L17), the heading of a second chapter of the book of wills, are printed in a bold face, run in between full stops; the words that follow are in the face of the text. The bold ن is printed without its dot, as on frames 055-083; transcribed ن.",
+  "Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): للوصيةوهو (L09; 6 between the ة and the conjunction و); شىءوتزيد (L14; 5 between the hamza on the line and the conjunction و, within the distances of the hamza from the next letter where no space is set, 4 to 11).",
+  "L03: خمسى (L03), the dual, two fifths, with the final ى, as printed; the machine reading of this line is defective (خمس, شء, فبق) where the type is clear on the scan.",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: وخمسا شىء (L03; 20 between the alif and the ش, where an alif stands 2 to 17 px from the next letter without a space); تزيد عليه (L04; 17 to the foot of the ع and 24 to its head, where the د stands 3 to 8 px from the ع in أحدعشر on frames 056 and 062).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: فيبقى أحد and من خمسة (L13), من أحد and من شىءوتزيد (L14), استخرج من (L16).",
+  "The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after الدين, before فان (L06; 23 and 24), after الدين, before the bold باب (L17; 30 and 22), and after the bold الوصايا, before رجل (L17; 22 and 19). The note mark (١) stands 29 px after البنين and 27 px before فان (L07), without a full stop.",
+  "Plain alif where a hamza might be expected, as printed: الاثنين (L02), فان (L06, L07), الى (L14); with hamza: وأربعة (L01, L09, L10), أخماس (L01, L02, L03, L10, L11), أوصى (L01), أن (L04, L08, L14), أسداس (L05), وأوصى (L06), أحد (L07, L13, L14, L15, L16), أربعة, أجزاء (L14), أربعة (L15), أمه, وامرأته, وأخاه, وأختيه (L17); below the alif: إلا (L07, L10); with madda: the bold آخر (L17); the hamza on the line: شىء throughout, الشىء (L04, L06, L14), أجزاء (L14), جزءاً (L13, twice; L15; L16), وجزء (L15), وجزءاً (L16).",
+  "With tanwīn on the final alif: شيئاً (L03, L08, L12, L16), درهماً (L07, L10), وشيئاً (L09), جزءاً (L13, twice; L15; L16), وجزءاً (L16); without tanwīn as printed: ونصفا (L04), عينا, دينا (L07), درهما (L10, the first).",
+  "The final yā' is printed without dots: الذى (L01, L06, L08, L16), أوصى, فيبقى (L01), فيبقى (L03, L09, L13), خمسى, فتلقى (L03), فتلقى (L12), على (L04, L07, L08, L15), وأوصى (L06), تستثنى (L10), الى (L14).",
+  "The print stretches فيكون and لكل (L02) and لكل (L11) with the elongation stroke; the stroke is not transcribed.",
+  "Note (١) of the editors restates the third problem in modern notation, with each son's share x: the bequest a fifth of ten and x less one, the rest four fifths of ten and x and one, equal to 3x; x is 4 1/11; the two sons who owe nothing receive 8 2/11 together, and what remains of the ten dirhams in cash, 1 9/11, is the bequest. The values check exactly. The note is not reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,57 @@
+@page 122 90
+@lang de
+% JP2 0122: Suter's commentary, p. 90: chapter 33 continued: the size of the earth's shadow; the sixth and seventh
+% columns of Tables 61-66 (primum and secundum dimidium rotae draconis); the rule behind them, with an example; the
+% ratio of the shadow to the moon in Ptolemy, al-Battānī and al-Khwārizmī (notes 1-5).
+Grösse des Erdschattens bei Mondfinsternissen ebenfalls dieselbe sei im {i:Khaṇḍakhād-}
+{i:yaka} wie bei {sp:Kh.} Von dieser Methode finden wir aber in unserm Werke gar nichts,
+wir haben nur in den Tafeln 61—66 je zwei Kolonnen (6. u. 7.), die überschrieben
+sind : {i:Primum dimidium rotae draconis,} und {i:Secundum dimidium rotae draconis,} mit
+denen wir uns sogleich nachher beschäftigen werden. Dass jene Regeln für die
+Bestimmung der Grösse des Erdschattens in diesem Werke fehlen, kann seinen Grund
+entweder darin haben, dass {sp:Al-Bīrūnī} eine andere Ausgabe der Tafel {sp:Kh.}’s vor
+sich gehabt hat als {sp:Maslama al-Madjrīṭī}, oder, was wahrscheinlicher ist, dass
+das vorliegende Werk stark gekürzt worden ist, ob durch {sp:Maslama}, oder den
+Übersetzer, oder erst durch spätere Abschreiber, bleibt unentschieden.
+@p In Bezug auf die 6. und 7. Kolonne der Tafeln 61—66 habe ich nun folgendes
+gefunden : Die Zahlen der 6. Kolonne sind das 5-fache der entsprechenden Werte
+der stündlichen ungleichen Bewegung ({i:buht}) der Sonne, die in Kolonne 2 verzeichnet
+sind, die Zahlen der 7. Kolonne sind das 1{sup:3}/{sub:5}-fache der entsprechenden Werte der
+stündlichen ungleichen Bewegung des Mondes, die in Kolonne 3 gegeben sind, sub-
+trahiert man die Werte der Kolonne 6 von den entsprechenden der Kolonne 7, so
+erhält man jeweilen die den Anomalien der Kolonne 1 entsprechenden Werte für
+den Radius der Erdschattens. Wenn also {sp:Kh.} diese Berechnungen nach dem {i:Khaṇ-}
+{i:ḍakhādyaka} ausgeführt hat, wie {sp:Al-Bīrūnī} berichtet, so muss die Regel des indischen
+Werkes ungefähr so gelautet haben : Man subtrahiere das 5-fache des stündlichen
+{i:Buht} der Sonne vom 1{sup:3}/{sub:5}-fachen des stündlichen {i:Buht} des Mondes, so hat man den
+scheinbaren Radius des Erdschattens. {i:Beispiel :} Bei einer Anomalie von 3{sup:sig.} = 90°
+(Tafel 63 unterste Zeile) ist der stündliche {i:Buht} der Sonne ({i:motus solis in hora}) =
+2′ 28″, derjenige des Mondes = 32′ 56″ ; die erstere Zahl mit 5 multipliziert gibt 12′ 20″,
+und dies ist die entsprechenden Zahl der 6. Kolonne, d. h. das {i:Primum dimidium}
+{i:rotae draconis} ; die zweite Zahl mit 1{sup:3}/{sub:5} multlpliziert gibt 52′ 42″, die entsprechende
+Zahl der 7. Kolonne, d. h. das {i:Secundum dimidium rotae draconis} ist = 52′ 47″{sup:1}) ; der
+scheinbare Halbmesser des Erdschattens ist also bei dieser Anomalie = 52′ 47″ — 12′ 20″
+= 40′ 27″.
+@p {sp:Ptol.}{sup:2}) und nach ihm {sp:Batt.}{sup:3}) geben an, dass der Radius des Erdschattens das
+c. 2{sup:3}/{sub:5}-fache von dem des scheinbaren Mondradius sei ; bei {sp:Kh.} ist dieser Faktor
+nicht ganz konstant, nach verschiedenen Proben, die wir gemacht haben, schwanken
+seine Werte zwischen 2,5 und 2,6, weichen also von dem {sp:Ptol.}’schen Werte wenig
+ab. Dies führt uns auf die Vermutung, {sp:Brahmagupta} möchte in seinem {i:Khaṇḍa-}
+{i:khādyaka} in dieser Frage vielleicht mehr dem {sp:Ptol.} gefolgt sein als seinen indischen
+Vorläufern, wenigstens zeigen die Regeln des {i:Sūrya-Siddhānta}{sup:4}) und der {i:Pancha-}
+{i:siddhāntikā}{sup:5}) für die Bestimmung der Grösse des Erdschattens keine grosse Ver-
+@n {sup:1}) Die Abweichung beträgt 5″, es ist dies die grösste, die wir bei unsern Proben gefunden haben.
+@n {sup:2}) Ed. {sp:Heiberg}, I, 421—423, Übersetzung von {sp:Manitius}, I, p. 309—310.
+@n {sup:3}) Ed. {sp:Nallino}, I, 59—60.
+@n {sup:4}) Transl. {sp:Burgess}, p. 273.
+@n {sup:5}) Ed. {sp:Thibaut}, p. 63—65 der Übersetzung.
+@obs The page number «90» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 continues the sentence that ends p. 89 (JP2 0121, L38), «dass die Methode der Berechnung der».
+@obs L01-L02, L18-L19, L34-L35: «Khaṇḍakhādyaka», in italics, with the dots under ṇ and ḍ and the macron, divided «Khaṇḍakhād-|yaka», «Khaṇ-|ḍakhādyaka», «Khaṇḍa-|khādyaka». L04: the headings of the sixth and seventh columns of Tables 61-66 in italics. L08: «Maslama al-Madjrīṭī» spaced.
+@obs L14, L21, L26, L31: «1 3/5», «2 3/5», the 3 raised and the 5 small on the line after a slash, written 1{sup:3}/{sub:5}. L22: «3sig.», the abbreviation raised: three signs.
+@obs L11-L29. Checked: 2′ 28″ × 5 = 12′ 20″; 32′ 56″ × 1 3/5 = 52′ 41.6″, «52′ 42″»; 52′ 47″ − 12′ 20″ = 40′ 27″. Per day the rule reads: the diameter of the shadow is (8 m − 25 s) : 60, m and s the daily true motions of the moon and the sun in minutes (twice the radius, 3 1/5 m : 24 − 10 s : 24). At 90° of anomaly the apparent radius of the moon in Table 63 is 15′ 58″ (p. 79, JP2 0111, L13-L14), and 40′ 27″ : 15′ 58″ = 2.53, within the 2.5 to 2.6 of L33. The values of the columns are to be compared with Tables 61-66.
+@obs The dashes: L03 and L11 «61—66», L28 «52′ 47″ — 12′ 20″» (the minus a long dash with a space on either side); the notes have the long dash of the small type.
+@obs Spaced type, marked {sp:}: «Kh.», «Al-Bīrūnī», «Maslama al-Madjrīṭī», «Maslama», «Ptol.», «Batt.», «Brahmagupta», «Heiberg», «Manitius», «Nallino», «Burgess», «Thibaut»; italics: «Khaṇḍakhādyaka», the column headings, «buht», «Buht», «Beispiel :», «motus solis in hora», «Sūrya-Siddhānta», «Panchasiddhāntikā».
+@obs The colons and semicolons stand after the thin space of the edition (8-17 px measured).
+@critical AK07-CN067 | misprint | L18 | den Radius der Erdschattens | den Radius des Erdschattens | the genitive of «der Erdschatten» is «des Erdschattens», as in L01, L06, L22, L28, L30 and L37; «der» is printed for «des» | high | none
+@critical AK07-CN068 | misprint | L25 | die entsprechenden Zahl | die entsprechende Zahl | the nominative singular after «die», as «die entsprechende Zahl der 7. Kolonne» (L26-L27); an n too many | high | none
+@critical AK07-CN069 | wrong sort | L26 | multlpliziert | multipliziert | «multipliziert», as in L24; the second i is printed as l | high | none

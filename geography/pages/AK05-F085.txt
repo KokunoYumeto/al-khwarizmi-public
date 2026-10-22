@@ -1,0 +1,48 @@
+@page 85 ٧٩
+% Frame 085, printed p. 79: the Great Sea continued, in running text: the coast from point to point, with the editor's
+% running numbers (١٢٠٨)-(١٢٢٦) and the numbers of Suhrāb, past the towns of al-Nīrūn and al-Daybul, تيزونائن, Sīrāf,
+% Jannāba, Mahrūbān and ʿAbbādān, the town of al-Baḥrayn, the town of ʿUmān, a town without a name, and the town of
+% ساوانى. Four lines of the editor's footnotes.
+ويصير الى طول {ov:ص {z}} والعرض {ov:كج {z}}{n:a} (١٢٠٨) [٧٩٤] ويمرّ الى طول {ov:صب{n:b} كه}
+والعرض {ov:كب ك} (١٢٠٩) [٧٩٥] ويمرّ على صورة الطيلسان يمرّ بمدينة النيرون{n:c} ومدينة
+الديبل{n:d} ويمرّ الى طول {ov:قو {z}} والعرض {ov:كط {z}} (١٢١٠) [٧٩٦] ويمرّ بمدينة تيزونائن{n:e}
+وسيراف وجنّابا{n:f} ومهروبان{n:g} وعبّادان ويصير الى طول {ov:عح م} والعرض {ov:ل ك} (١٢١١)
+[٧٩٧] ويمرّ على صورة الطيلسان يمرّ بمدينة البحرين ويصير الى طول {ov:عه {z}} والعرض
+{ov:كد {z}} (١٢١٢) [٧٩٨] ويمرّ الى طول {ov:فه ك}{n:h} والعرض {ov:كٮ ك}{n:i} (١٢١٣) [٧٩٩] ويمرّ
+على صورة القوارة يمرّ بطول {ov:ڡه ل} (١٢١٤) [٨٠٠] ويصير الى طول {ov:ڡه {z}} والعرض
+{ov:كا {z}} (١٢١٥) [٨٠١] ويمرّ على صورة الطيلسان يمرّ بمدينة عمان ويصير الى طول {ov:فد ل}
+والعرض {ov:ٮح ك}{n:k} (١٢١٦) [٨٠٢] ويمرّ على صورة الطيلسان يمرّ بعرض {ov:يط {z}} (١٢١٧)
+[٨٠٣] ويصير الى طول {ov:عط {z}} والعرض {ov:يو ل} (١٢١٨) [٨٠٤] ويمرّ بأسفل مدينة ويمرّ
+الى طول {ov:فا ه} والعرض {ov:ٮح ك}{n:l} (١٢١٩) [٨٠٥] ويمرّ الى طول {ov:عز ل}{n:m} والعرض {ov:ٮح م}
+(١٢٢٠) [٨٠٦] ويمرّ على صورة القوارة يمرّ بعرض {ov:بٮ ن}{n:n} (١٢٢١) [٨٠٧] ويصير
+الى طول {ov:عو {z}} والعرض {ov:ٮد {z}}{n:o} (١٢٢٢) [٨٠٨] ويمرّ الى طول {ov:عه ى} والعرض {ov:ٮح ں}
+(١٢٢٣) [٨٠٩] ويمرّ على صورة القوارة الى طول {ov:عا م} والعرض {ov:ٮٮ {z}} (١٢٢٤)
+[٨١٠] ويمرّ على صورة القوارة الى طول {ov:سز ل} والعرض {ov:ى ك} (١٢٢٥) [٨١١] ويمرّ
+بمدينة ساوانى ويصير الى طول {ov:سح ى} والعرض {ov:ٮا م} (١٢٢٦) [٨١٢] ويمرّ بمدينة
+@ednotes a b c d e f g h i k l m n o 4
+@obs The running text goes on from p. 78 (frame 084), which ends with point (١٢٠٧) [٧٩٣]: the coast from point to point, with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}, the editor's running numbers in parentheses, (١٢٠٨)-(١٢٢٦), and the numbers of Suhrāb in square brackets, [٧٩٤]-[٨١٢], without a gap.
+@obs The places of the coast: L02-L03: «يمرّ بمدينة النيرون ومدينة الديبل», past the town of al-Nīrūn and the town of al-Daybul; L03-L04: «ويمرّ بمدينة تيزونائن وسيراف وجنّابا ومهروبان وعبّادان», past the town of تيزونائن, Sīrāf, Jannāba, Mahrūbān and ʿAbbādān; L05: «يمرّ بمدينة البحرين», past the town of al-Baḥrayn; L08: «يمرّ بمدينة عمان», past the town of ʿUmān; L10: «ويمرّ بأسفل مدينة», below a town whose name is not given; L15-L16: «ويمرّ بمدينة ساوانى», past the town of ساوانى; L16: «ويمرّ بمدينة», continued on p. 80. The shapes of the coast are «الطيلسان» (L02, L05, L08, L09) and «القوارة» (L07, L12, L14, L15). Point 1214 (L07) is given by its longitude only, «يمرّ بطول», and points 1217 and 1221 (L09, L12) by their latitude only, «يمرّ بعرض».
+@obs Signs in the text, transcribed as printed: «يمرّ» and «ويمرّ» with a shadda; «وجنّابا» with a shadda over the ن and «وعبّادان» with a shadda over the ب; «بأسفل» with a hamza over the alif; «تيزونائن» with a hamza on the tooth before the final ن; «ساوانى» ends in a ى without dots. «النيرون», «الديبل», «سيراف» and «مهروبان» have all their dots.
+@obs L03: «تيزونائن» is set without a word space: after the ز and after the و, which do not join the next letter, the gaps are 10 and 7 px, where the space between words is about 27 px. Transcribed as printed. The editor's note e gives the form of the manuscript for its last part only, «ناين».
+@obs L01: the note mark b stands between the degrees and the minutes of the second longitude, «صب» and «كه», under the same line.
+@obs Letters printed without their dots in the numerals, transcribed so: a tooth without its dot in the degrees of the latitude, ٮح (L09, L11, twice; L13), ٮد (L13) and ٮا (L16), which read with a ي give 18, 14 and 11, where L09 and L10 print «يط» and «يو» with the two dots of the ي; ں (L13, the minutes of the second latitude), the round bowl of a final ن without its dot, 50; ٮٮ (L14, the degrees of the latitude), a tooth joined to a final ب, both without dots, 68 px wide, which read with a ي give 12; and the loop of ف or ق without dots in the degrees of both longitudes of L07, «ڡه», 85 or 105, where L06 prints «فه» and L08 and L11 «فد» and «فا» with the dot of the ف. With their dots: «كج» (L01), with the dot in the bowl of the ج, 23; «صب» and «كب» (L01, L02), with the dot of the ب, 92 and 22; «قو» (L03), with the two dots of the ق; «عز» and «سز» (L11, L15), with the dot of the ز. «بٮ ن» (L12): a tooth with one dot below it joined to a final ب without its dot, 65 px wide, and the ن with its dot; the two dots of a ي stand below the tooth in «يب» (frame 091, L12), the dot of a final ب below the left part of the bowl (frame 078, L02): read يب ن, 12° 50′, the ي with one dot.
+@obs L03: the first longitude, «قو {z}», 106° 0′, stands between 92° 25′ (L01) and 78° 40′ (L04); the two dots of the ق are printed as one blot, 18 by 11 px. The latitudes of L12 and L14, «بٮ ن» and «ٮٮ {z}», read with a ي 12° 50′ and 12° 0′, stand between latitudes of 14° to 18° 50′ (L11, L13) and 10° 20′ (L15); the variant of note n, «ٮٮ ى», has the same group as L14. The editor's corrigenda (p. 163, frame 169) read «يٮ ن» for the latitude of L12 (critical note AK05-CN021).
+@unres L12: the dot below the tooth may be the dot of the final ب, set further to the right than in «ٮب» (frame 078, L02); read so, ٮب, the value is the same, 12 with a ي. Transcribed بٮ.
+@obs L06: the degrees of the latitude are printed «كٮ», a long oblique stroke over a flat bowl, 88 px wide, the ك joined to the final ب without its dot, 22, the group that L02 prints with the dot in «كب ك», 22° 20′ (frame 014, L11); the minutes are the isolated ك, 20, with the small inner stroke. Read so, the latitude is 22° 20′, between 24° 0′ at al-Baḥrayn (L05) and 21° 0′ (L08). The editor's note i prints the same group in its variant. Elsewhere the isolated ك, 20, has the small inner stroke.
+@obs The ح of the numerals, ٮح (L09, L11, L13), عح (L04) and سح (L16), shows no dot in the bowl; the same form is a ج without its dot, 3, which L01 prints with its dot in «كج». Transcribed as printed. The isolated ى, 10, has no dots (L13, L15, L16).
+@obs Note marks: L01, a after the first latitude and b after «صب»; L02, c after «النيرون»; L03, d after «الديبل» and e after «تيزونائن»; L04, f after «وجنّابا» and g after «ومهروبان»; L06, h after the second longitude and i after the latitude; L09, k after the latitude; L11, l after the first latitude and m after the second longitude; L12, n after the latitude; L13, o after the first latitude.
+@obs The editor's footnotes stand in four lines below a short rule at the left: notes a-o. The page number «— ٧٩ —» stands at the foot, centred.
+@variant L01: a variant reading of the first latitude is كج ه, with a line over the numerals (note a).
+@variant L01: the manuscript is unclear at the degrees of the second longitude; the editor restores the text after S (note b).
+@variant L02: the manuscript has السرون, with three teeth without dots after the article, and a variant reading is السرزن, for النيرون (note c).
+@variant L03: the manuscript has الدٮٮل, with the teeth of the ي and of the ب without dots, for الديبل (note d).
+@variant L03: the manuscript has ناين for the last part of تيزونائن (note e).
+@variant L04: the manuscript has جنانا for جنّابا (note f).
+@variant L04: the manuscript has ماهروان for مهروبان (note g).
+@variant L06: a variant reading of the longitude is فه ط, and of the latitude كٮ ط, with the same group as the text, the ك joined to the final ب without its dot, each with a line over the numerals (notes h and i).
+@variant L09: a variant reading of the latitude is ٮح {z}, with a line over the numerals (note k).
+@variant L11: variant readings of the first latitude are ٮح ب, with a small dot below the ب, and ٮح {z}, each with a line over the numerals (note l).
+@variant L11: a variant reading of the second longitude is عو {z}, with a line over the numerals (note m).
+@variant L12: a variant reading of the latitude is ٮٮ ى, with a line over the numerals, the tooth and the final ب without their dots (note n).
+@critical AK05-CN021 | corrected in the corrigenda | L12 | بٮ ن | يٮ ن | the editor's list of additions and corrections on p. 163 (frame 169) reads يٮ ن for بٮ ن in this line, p. 79, line 12, both followed by the note mark n; the latitude, 12° 50′ read with the ي, lies between the latitudes of 14° to 18° 50′ and of 10° 20′ of the points before and after it (L11, L13, L15) | high | the latitude of point 1221 reads 12° 50′
+@variant L13: a variant reading of the first latitude is ٮد ه, with a line over the numerals (note o).

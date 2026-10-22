@@ -1,0 +1,35 @@
+@page 76 ٦٠
+% Frame 076, printed p. 60: the rhombus: a rhombus of five cubits on each side, one diagonal eight and the other six;
+% its area is half the product of the diagonals, eight times three or four times six, twenty-four, with its figure;
+% with one diagonal known, it divides into two triangles of sides five, five and the diagonal. The figure like the
+% rhombus is found as the rhombus, the other quadrilaterals through their diagonal and the triangles, with its
+% figure. Then the triangles: three kinds, the right, the acute and the obtuse, by the sum of the squares of the two
+% shorter sides against the square of the longest, continued on the next page. No footnotes.
+خمسة أذرع وأحد قطريها ثمانية والآخر ستة أذرع فاعلم أن تكسيرها أن
+تعرف القطرين أو أحدهما فان عرفت القطرين جميعاً فان الذى يكون
+من ضرب أحدهما فى نصف الآخر هو تكسيرها وذلك أن تضرب
+ثمانية فى ثلاثة أو أربعة فى ستة فيكون أربعة
+وعشرين ذراعاً وهو تكسيرها . فان عرفت
+قطراً واحدا فقد علمت انهما مثلثتان كل
+واحدة منهما ضلعاها خمسة أذرع والضلع
+الثالث هو قطرهما فاحسبها على حساب المثلثات
+وهذه صورتها . وأما المشبهة بالمعينة فعلى مثال المعينة . وأما سائر المربعات فانما
+يعرف تكسيرها من قبل القطر فيخرج الى حساب المثلثات فاعلم
+ذلك وهذه صورة المشبهة بالمعينة . وأما المثلثات فهى ثلاثة أجناس القائمة
+والحادة والمنفرجة. فأما القائمة فهى مثلثة اذا ضربت ضلعيها الأقصرين كل واحد
+منهما فى نفسه وجمعتهما كان ذلك مثل ضلعها الأطول مضروباً فى نفسه . وأما
+الحادة فكل مثلثة اذا ضربت ضلعيها الأقصرين كل واحد منهما فى نفسه ثم
+جمعتهما كانا أكثر من الضلع الأطول مضروباً فى نفسه . وأما المنفرجة فهى
+@fig AK01-F076-FIG1 1345 1100 2120 1742 after=8
+@fig AK01-F076-FIG2 330 2140 1900 2812 after=11
+@obs Layout: L01-L03 run across the page; L04-L08 stand in a narrower column at the left of the first figure, which is reproduced after L08; L09-L11 run across the page, and the second figure stands between L11 and L12.
+@obs The first figure, drawn, not set in type: a rhombus with its two diagonals; ٥ beside the upper right side, ٦ on the right half of the horizontal diagonal; in the lower left quarter the word المساحة, the area, written by hand, and below it ٢٤, with a short stroke between them. The second figure: the figure like the rhombus, a parallelogram whose upper side is marked ١٣ and, over the part that projects to the right, ٣, and whose lower side is marked ٣, under the part that projects to the left, and ١٣; ٥ beside each slanting side; two perpendiculars from the ends of the upper and lower sides cut off a rectangle, its sides marked ٤ and ٤, in which is written المربعة المشبهة بالمعينة, the quadrilateral like the rhombus.
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: ذراعاً وهو (L05; 24 between the alif and the conjunction و, where the alif stands 9 px from the conjunction و in درهماونصفاً on frame 061, L06).
+@obs After ة a word space is transcribed where the gap is 16 px or more; the narrowest such gap on this page: ستة فيكون (L04; 23).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: ذلك وهذه and وهذه صورة (L11), فهى مثلثة (L12), كل واحد (L12; the ل in its final form, 27 px from the conjunction و).
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after تكسيرها, before فان (L05; 36 and 24), after صورتها, before وأما, and after المعينة, before وأما (L09; 28 and 23 each), after بالمعينة, before وأما (L11; 26 and 24), after نفسه, before وأما (L13; 25 and 23; L15; 26 and 23). L12: the full stop stands close after والمنفرجة (9 px from the ة) and 26 px before فأما; transcribed so.
+@obs Plain alif where a hamza might be expected, as printed: فاعلم (L01), فان (L02, twice; L05), انهما (L06), فاحسبها (L08), فانما (L09), الى, فاعلم (L10), اذا (L12, L14); with hamza: أذرع, وأحد, أن (L01, twice), أو, أحدهما (L02), أحدهما, أن (L03), أو, أربعة (L04, twice), أذرع (L07), وأما (L09, twice; L11, L13, L15), أجناس (L11), فأما, الأقصرين (L12), الأطول (L13, L15), الأقصرين (L14), أكثر (L15); with madda: والآخر (L01), الآخر (L03); on ي: سائر (L09), القائمة (L11, L12).
+@obs With tanwīn on the final alif: جميعاً (L02), ذراعاً (L05), قطراً (L06), مضروباً (L13, L15); without tanwīn as printed: واحدا (L06).
+@obs The final yā' is printed without dots: الذى (L02), فى (L03, L04, twice; L13, twice; L14, L15), على (L08), فعلى (L09), الى (L10), فهى (L11, L12, L15).
+@obs L06: مثلثتان (L06), the dual of مثلثة, the word for a triangle that this page uses (فهى مثلثة, L12; فكل مثلثة, L14): after the ل the letters ث, with three dots, and ت, with two, each on a tooth of its own.
+@obs The print stretches وأحد (L01), تكسيرها (L01, L03, L05), جميعاً (L02), أحدهما (L02, L03), فيكون (L04), واحدا (L06), واحدة and ضلعاها (L07), قبل (L10) and وهذه (L11) with the elongation stroke; the stroke is not transcribed.

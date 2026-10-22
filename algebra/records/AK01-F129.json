@@ -1,0 +1,21 @@
+{
+ "anchor": "AK01-F129",
+ "frame": 129,
+ "frame_file": "page_129.jpg",
+ "frame_sha256": "c2d0ff938531db7f411b843336fd9ea636423af436c7b241567e2a7cb7092666",
+ "printed_page": "-",
+ "kind": "provenance",
+ "role": "COPY_PROVENANCE",
+ "comment": "Frame 129: the inside of the back board, with the library's pocket and labels.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [],
+ "copy_matter": [
+  "The barcode label «COLUMBIA UNIVERSITY LIBRARIES 0022470530»; a card pocket with the call number «893.7195 K51» and the number «09426116» (the zero crossed) written on it; the date stamp «AUG 18 1947» at the foot of the board; not part of the edition."
+ ],
+ "critical_notes": []
+}

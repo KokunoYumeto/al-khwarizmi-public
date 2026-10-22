@@ -1,0 +1,21 @@
+{
+ "anchor": "AK01-F128",
+ "frame": 128,
+ "frame_file": "page_128.jpg",
+ "frame_sha256": "a7cd8c00a000ee3c022bb6b18e1efc9caa41552dd19c246c00302164139fafd9",
+ "printed_page": "-",
+ "kind": "provenance",
+ "role": "COPY_PROVENANCE",
+ "comment": "Frame 128: the back endpaper of the binding, with the due-date slip of Columbia University Libraries.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [],
+ "copy_matter": [
+  "The due-date slip of Columbia University Libraries (form «C28(946)M100»), pasted on the endpaper of the binding, with date stamps of March 1993; not part of the edition."
+ ],
+ "critical_notes": []
+}

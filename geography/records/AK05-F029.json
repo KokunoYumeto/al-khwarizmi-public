@@ -1,0 +1,349 @@
+{
+ "anchor": "AK05-F029",
+ "frame": 29,
+ "frame_file": "page_029.jpg",
+ "frame_sha256": "aabc029a292948aa2500d43145202463fc0e780bf5a9bd4c4b30080ffea2b41f",
+ "printed_page": "٢٣",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 029, printed p. 23: the last cities of the fourth clime, entries 323-332: Jīruft, al-Muḥammadiyya, an entry whose name and latitude the manuscript has lost, Bardasīr (without coordinates), Sijistān, two places printed ڡاقلا and ڡسطلما, the eastern Iskandariyya, Qurṭuba and the island of Sardāniya; the heading of the fifth clime, «الإقليم الخامس عرضه ما ō», its latitude 41° 0', and of its cities; entries 333-335. Three lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F029-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٣٢٣) | [٢٤٦] | جيرفت{n:a} | ڡح | {z} | لا | مه",
+   "margin": null,
+   "cells": [
+    "(٣٢٣)",
+    "[٢٤٦]",
+    "جيرفت{n:a}",
+    "ڡح",
+    "{z}",
+    "لا",
+    "مه"
+   ],
+   "plain": "(٣٢٣) | [٢٤٦] | جيرفت | ڡح | ō | لا | مه",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F029-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٣٢٤) | [٢٤٧] | المحمّديّة | ص | {z} | لا | مه",
+   "margin": null,
+   "cells": [
+    "(٣٢٤)",
+    "[٢٤٧]",
+    "المحمّديّة",
+    "ص",
+    "{z}",
+    "لا",
+    "مه"
+   ],
+   "plain": "(٣٢٤) | [٢٤٧] | المحمّديّة | ص | ō | لا | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F029-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٣٢٥) | | ⟨......⟩{n:b} | ڡ | مه | ⟨.....⟩{n:b}^2",
+   "margin": null,
+   "cells": [
+    "(٣٢٥)",
+    "",
+    "⟨......⟩{n:b}",
+    "ڡ",
+    "مه",
+    "⟨.....⟩{n:b}^2"
+   ],
+   "plain": "(٣٢٥) | | ⟨......⟩ | ڡ | مه | ⟨.....⟩^2",
+   "note_marks": [
+    "b",
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F029-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٣٢٦) | | بردسير{n:c} | | | |",
+   "margin": null,
+   "cells": [
+    "(٣٢٦)",
+    "",
+    "بردسير{n:c}",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "plain": "(٣٢٦) | | بردسير | | | |",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F029-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٣٢٧) | [٢٤٨] | سجستان | صد | ٮه | لٮ | ط",
+   "margin": null,
+   "cells": [
+    "(٣٢٧)",
+    "[٢٤٨]",
+    "سجستان",
+    "صد",
+    "ٮه",
+    "لٮ",
+    "ط"
+   ],
+   "plain": "(٣٢٧) | [٢٤٨] | سجستان | صد | ٮه | لٮ | ط",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F029-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٣٢٨) | [٢٥١] | ڡاقلا | ڡٮط | م | لد | ل",
+   "margin": null,
+   "cells": [
+    "(٣٢٨)",
+    "[٢٥١]",
+    "ڡاقلا",
+    "ڡٮط",
+    "م",
+    "لد",
+    "ل"
+   ],
+   "plain": "(٣٢٨) | [٢٥١] | ڡاقلا | ڡٮط | م | لد | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F029-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٣٢٩) | [٢٥٢] | ڡسطلما | ڡكد | م | لٮ | مه",
+   "margin": null,
+   "cells": [
+    "(٣٢٩)",
+    "[٢٥٢]",
+    "ڡسطلما",
+    "ڡكد",
+    "م",
+    "لٮ",
+    "مه"
+   ],
+   "plain": "(٣٢٩) | [٢٥٢] | ڡسطلما | ڡكد | م | لٮ | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F029-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٣٣٠) | [٢٥٠] | مدينة اسكندريّة* الشرقيّة | ڡكه | ⟨{z}⟩{n:d} | لٮ | ك",
+   "margin": null,
+   "cells": [
+    "(٣٣٠)",
+    "[٢٥٠]",
+    "مدينة اسكندريّة* الشرقيّة",
+    "ڡكه",
+    "⟨{z}⟩{n:d}",
+    "لٮ",
+    "ك"
+   ],
+   "plain": "(٣٣٠) | [٢٥٠] | مدينة اسكندريّة* الشرقيّة | ڡكه | ⟨ō⟩ | لٮ | ك",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F029-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٣٣١) | | قرطبة | ط | ك | لح | ك",
+   "margin": null,
+   "cells": [
+    "(٣٣١)",
+    "",
+    "قرطبة",
+    "ط",
+    "ك",
+    "لح",
+    "ك"
+   ],
+   "plain": "(٣٣١) | | قرطبة | ط | ك | لح | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F029-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٣٣٢) | | سردانيه فى جزيرة | مٮ | ح | لو | {z}",
+   "margin": null,
+   "cells": [
+    "(٣٣٢)",
+    "",
+    "سردانيه فى جزيرة",
+    "مٮ",
+    "ح",
+    "لو",
+    "{z}"
+   ],
+   "plain": "(٣٣٢) | | سردانيه فى جزيرة | مٮ | ح | لو | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F029-L11",
+   "n": 11,
+   "kind": "heading",
+   "text": "* الإقليم الخامس عرضه {ov:ما {z}} *",
+   "margin": null,
+   "cells": null,
+   "plain": "* الإقليم الخامس عرضه ما ō *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F029-L12",
+   "n": 12,
+   "kind": "heading",
+   "text": "* المدن الّتى فى الإقليم الخامس *",
+   "margin": null,
+   "cells": null,
+   "plain": "* المدن الّتى فى الإقليم الخامس *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F029-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٣٣٣) | [٢٧٩] | مدينة ارون{n:e} | ه | ى | لح | {z}",
+   "margin": null,
+   "cells": [
+    "(٣٣٣)",
+    "[٢٧٩]",
+    "مدينة ارون{n:e}",
+    "ه",
+    "ى",
+    "لح",
+    "{z}"
+   ],
+   "plain": "(٣٣٣) | [٢٧٩] | مدينة ارون | ه | ى | لح | ō",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F029-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٣٣٤) | [٢٨٠] | مدينة | و | يه | لح | م",
+   "margin": null,
+   "cells": [
+    "(٣٣٤)",
+    "[٢٨٠]",
+    "مدينة",
+    "و",
+    "يه",
+    "لح",
+    "م"
+   ],
+   "plain": "(٣٣٤) | [٢٨٠] | مدينة | و | يه | لح | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F029-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٣٣٥) | [٢٨١] | مدينة اطلقا{n:f} | ز | ل | لط | م",
+   "margin": null,
+   "cells": [
+    "(٣٣٥)",
+    "[٢٨١]",
+    "مدينة اطلقا{n:f}",
+    "ز",
+    "ل",
+    "لط",
+    "م"
+   ],
+   "plain": "(٣٣٥) | [٢٨١] | مدينة اطلقا | ز | ل | لط | م",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: the manuscript reads حرڡ for جيرفت.",
+  "L03: the manuscript has a gap for the name and the latitude.",
+  "L04: the manuscript reads دسر for بردسير and gives no longitude and latitude.",
+  "L08: the minutes of the longitude are missing in the manuscript and are supplied by the editor.",
+  "L13: at entry (1913) the name ارون is written اروثى, and at entry (1917) اووى, with the variant reading اورى.",
+  "L15: at entry (1914) the name اطلقا is written اطلما."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 028 without a heading: the last cities of the fourth clime, entries 323-332. Then the heading of the fifth clime and of its cities, set between small open stars, and its first cities, entries 333-335. Numbers of Suhrāb stand at entries 323, 324 ([٢٤٦], [٢٤٧]), 327-330 ([٢٤٨], [٢٥١], [٢٥٢], [٢٥٠]) and 333-335 ([٢٧٩]-[٢٨١]); entries 325, 326, 331 and 332 have none. Entries 330 and 333-335 have the word «مدينة»; entry 334 is the word «مدينة» alone.",
+  "L03: the name of entry 325 is printed as six dots between angle brackets and its latitude as five dots between angle brackets that stretch across both columns of the latitude, each with the note mark b: the editor's sign for what he could not supply (frame 010, note a); his note b says that the manuscript has a gap. Transcribed as printed, the latitude as one cell spanning the two columns. A speck stands above the dots of the name; it is not transcribed.",
+  "L04: entry 326, Bardasīr, has no coordinates: the columns of the numerals are empty, and no rule is printed between entries 325 and 326. The editor's note c says that the manuscript gives no longitude and latitude.",
+  "L06: «ڡاقلا»: the first letter is a loop without dots that runs at its foot into the foot of the alif, as the ف of «فارس» (frame 028, L10-L12), where a word-initial و stands apart from the alif and its tail descends below the line (frame 027, L16, «واسط»); transcribed ڡا. L07: «ڡسطلما», the loop without dots joined to the س.",
+  "L08: an asterisk stands after اسكندريّة, «مدينة اسكندريّة* الشرقيّة», raised like the editor's note marks: his sign for a form against the grammar of the classical language that he keeps from the manuscript (introduction, frame 184, p. XXIX), here an indefinite noun with a definite attribute, as on frame 014 (L09); transcribed as printed. The minutes of the longitude of this entry are printed as a zero sign between angle brackets, «⟨ō⟩», with the note mark d: the editor supplies them.",
+  "Signs in the names, transcribed as printed: L02: «المحمّديّة», with a shadda over the second م and over the ي; L08: «اسكندريّة» and «الشرقيّة», with a shadda over the ي. L10: «سردانيه» ends in a ه without the dots of a ة; «فى» has no dots on the ى.",
+  "L11-L12: the latitude of the fifth clime, «ما ō», 41° 0', is printed with a line above the numeral and the zero sign; transcribed with {ov:…}. In both headings the alif of الإقليم carries a hamza below; L12: «الّتى», with a shadda over the ل.",
+  "Letters printed without their dots in the numerals, transcribed so: the loop of ف or ق without dots in the degrees of the longitude, ڡح (L01), ڡٮط (L06), the loop and a tooth without its dot before the ط, ڡكد (L07), ڡكه (L08), and ڡ (L03), the isolated letter, a loop on a long flat bowl, 80; مٮ (L10), the م and a final ب without its dot, 42; لٮ (L05, L07, L08), the final ب without its dot, in the degrees of the latitude; ٮه (L05, the minutes of the longitude), a tooth joined to a ه, without dots. With their dots: ز (L15, the degrees of the longitude), يه (L14, the minutes of the longitude).",
+  "The degrees printed with a final ح, ڡح (L01) and لح (L09, L13, L14), show no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.",
+  "L06: the degrees of the longitude, «ڡٮط»: between the loop and the ط, a short tooth without a dot that rises above the joining stroke, with no part below it, where the medial م of these numerals is a diamond that stands out above and below the stroke (frame 013, L13, «ڡمح») or is set under the ق (frame 082, L16, «قمط»); it measures 61 px from the stem of the ط to the end of the loop, where the compact ڡط of frame 012 (L06) measures 48 px. Transcribed ڡٮط, which read with ق and ي gives 119.",
+  "Specks, not transcribed: L01, two specks beside the zero sign of the minutes of the longitude, one at the right of its circle and one below it; L08, a speck above the left end of the bowl of the latitude «لٮ», smaller than a dot of the font and not above the middle of the bowl.",
+  "The page number «— ٢٣ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

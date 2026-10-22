@@ -1,0 +1,43 @@
+@page 69 ٥٣
+% Frame 069, printed p. 53: the thirty-third of the various problems concluded: the root of a square and the root of
+% the square less its root equal two dirhams; the root of the square less its root is squared, the square is cast
+% away, three roots equal four dirhams, the root one and a third, the square one and seven ninths; the thirty-fourth:
+% a quantity less three of its roots, squared, gives the quantity back (sixteen). Then «باب المعاملات» in bold, the
+% chapter on transactions: every transaction of buying, selling, exchange and hire is spoken in four numbers, the
+% measure, the price, the sum and the thing priced; three are known and one is sought; the two known numbers that
+% are opposite are multiplied and the product divided by the third, giving the one sought. The first example begins
+% in bold at the end of the last line, continued on the next page. Below the rule two footnotes of the editors, the
+% second a marginal gloss of the manuscript in verse.
+ما بقى فكان درهمين فهذا {n:١}جذر مال وجذر مال الاجذراً تعدل درهمين فالق
+منه جذر مال والق من الدرهمين جذر مال فيكون درهمين الا جذراً فى مثله أربعة
+دراهم ومالا الا اربعة اجذار تعدل مالا الا جذراً . فقابل به فيكون مالا واربعة
+دراهم تعدل مالا وثلاثة اجذار فتلقى مالا بمال فيبقى ثلاثة اجذار تعدل اربعة
+دراهم فالجذر يعدل درهما وثلثا وهو جذر المال والمال درهم وسبعة اتساع
+درهم . فان قال مال تعزل ثلاثة اجذاره ثم تضرب ما بقى فى مثله فيعود المال
+فقد علمت أن الذى بقى هو جذر أيضاً وأن المال أربعة اجذار وهو ستة
+عشر . {b:باب المعاملات} اعلم أن معاملات الناس كلها فمن البيع والشرى
+والصرف والاجارة وغير ذلك على وجهين بأربعة اعداد يلفظ بها السائل
+وهى المسعر والسعر والثمن والمثمن فالعدد الذى هو المسعر مباين للعدد
+الذى هو الثمن . والعدد الذى هو السعر مباين للعدد الذى هو المثمن وهذه
+الأربعة الأعداد ثلاثة منها أبداً ظاهرة معلومة وواحد منها مجهول وهو الذى فى
+قول القائل كم وعنه يسأل السائل . والقياس فى ذلك أن تنظر الى الثلاثة الأعداد
+الظاهرة فلا بد أن يكون منها اثنان كل واحد منهما مباين لصاحبه فتضرب
+العددين الظاهرين المتباينين كل واحد منهما فى صاحبه فما بلغ فاقسمه على
+العدد الآخر الظاهر الذى متباينه مجهول فما خرج لك فهو العدد المجهول الذى
+يسأل عنه السائل وهو مباين للعدد الذى قسمت عليه {n:٢} {b:ومثال ذلك فى وجه}
+@ednotes ١ ٢ 4
+@obs L06: the problem is introduced with فان قال (L06) in the face of the text, as on frames 062 to 068.
+@obs L08: the words باب المعاملات (L08), the heading of the chapter on transactions, are printed in a bold face, run in after the full stop that ends the last of the various problems; the chapter's text follows in the face of the text. L17: the words ومثال ذلك فى وجه (L17), which begin the first example of the chapter at the end of the page, are printed in the same bold face. Its ذ is a short slanting stroke with its dot above, unlike the ذ of the face of the text, and its ى is dotless; transcribed ذ and ى. The machine reading has زاك for the bold ذلك and وم for وجه.
+@obs The font sets the ث of ثم (L06), الثمن (L11) and والثمن (L10) above the م that follows, as on frame 065; transcribed in plain letters. The machine reading has تم, التن and والثن.
+@obs L08: فمن (L08), as printed: the ف is set with its head on the م, as before ج and م on frame 068 (فجذر, فمتى), and its dot stands above the head; the ن follows with its own dot. The words read «كلها فمن البيع والشرى».
+@obs Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): الاجذراً (L01; 23 between the لا and the ج, within the distances of the ligature from the next letter inside a word, 20 to 26 px, where the same words with a space, الا جذراً, stand 31 and 30 px apart in L02 and L03; the machine reading sets a space).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: ما بقى (L01; 23 between the alif and the ب, where مابقى on frame 063, L07, has 13 and ما بقى in L06 32); منها أبداً (L12; 23 between the two alifs, as منها العشرين on frame 063, L07, 20); ثلاثة منها (L12; 15 between the ة and the م, at the boundary between the gaps after ة without a space, 1 to 14, and with one, 16 or more; in doubt, the space is written).
+@obs After ة a word space is transcribed where the gap is 16 px or more; the narrowest such gap on this page: وسبعة اتساع (L05; 19).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: تعدل مالا (L03; 7 between the final ل and the م), فى مثله (L02; 7 between the ى and the م).
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after جذراً, before فقابل (L03; 27 and 26), after درهم, before فان (L06; 26 and 20), after عشر, before the bold باب (L08; more than 45 on either side), after الثمن, before والعدد (L11; 22 and 23), after السائل, before والقياس (L13; 19 and 24). The note marks: (١) stands 30 px after فهذا and 16 px before جذر (L01), close to the word that follows it, and is transcribed so; (٢) stands 34 px after عليه (L17), in the space before the bold words.
+@obs Plain alif where a hamza might be expected, as printed: الاجذراً (L01), والق, الا (L02), الا (L03, twice), اربعة, اجذار, واربعة (L03), اجذار (L04, twice), اربعة (L04), اتساع (L05), فان, اجذاره (L06), اجذار (L07), اعلم (L08), والاجارة, اعداد (L09), الى (L13), اثنان (L14), فاقسمه (L15); with hamza: أربعة (L02), أن, أيضاً, وأن, أربعة (L07), أن (L08, L13, L14), بأربعة (L09), الأربعة, الأعداد, أبداً (L12), يسأل, الأعداد (L13), يسأل (L17); with madda: الآخر (L16); on ي: السائل (L09, L13, L17), القائل (L13).
+@obs With tanwīn on the final alif: الاجذراً (L01), جذراً (L02, L03), أيضاً (L07), أبداً (L12); without tanwīn as printed: مالا (L03, three times; L04, twice), درهما, وثلثا (L05).
+@obs The final yā' is printed without dots: بقى (L01, L06, L07), فى (L02, L06, L12, L13, L15), فتلقى, فيبقى (L04), الذى (L07, L10; L11, three times; L12; L16, twice; L17), والشرى (L08), على (L09, L15), وهى (L10), الى (L13).
+@obs The print stretches فكان (L01), فيكون (L02, L03), المال (L05, the first; L07), فقد (L07), معاملات, كلها and البيع (L08), بها (L09), فالعدد and للعدد (L10), والعدد and للعدد (L11), منها (L14), العددين and منهما (L15) and the second العدد of L16 with the elongation stroke; the stroke is not transcribed.
+@obs Note (١) of the editors restates the thirty-third problem as an equation in modern notation, with the root of the square as the unknown, and begins its solution; it is not reproduced.
+@variant Note (٢) of the editors reproduces a marginal gloss (حاشية) of the manuscript at the end of L17, two verses of a poet on the rule just stated: «إن رمت بيعا أو شراء لما يكال فى العادة أو يتزن / فاقسم على الأوسط فى كم لنا واقسم على الأول فى كم ثمن», that is: if you seek to sell or buy what is commonly measured or weighed, divide by the middle number when the question is how much we get, and by the first when it is how much the price is. The gloss is the manuscript's text, quoted as the edition prints it.

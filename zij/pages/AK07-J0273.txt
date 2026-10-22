@@ -1,0 +1,8 @@
+@page 273 [239]
+@kind divider
+@lang de
+% JP2 0273: the part title of the glossary and the index, p. [239].
+@c GLOSSAR
+@c UND
+@c NAMEN- UND SACHREGISTER
+@obs The part title, unnumbered, before the glossary and the index of names and subjects: «GLOSSAR» (L01) and «NAMEN- UND SACHREGISTER» (L03) in letter-spaced capitals of the size of «TEXT» and «TAFELN» on pp. [XXVII] and [107] (JP2 0031, 0139), with «UND» (L02) between them in small capitals, all centred a little above the middle of the page. Damp stains run down from the top and up from the foot; specks.

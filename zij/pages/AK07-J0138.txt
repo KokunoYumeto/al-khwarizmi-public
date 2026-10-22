@@ -1,0 +1,51 @@
+@page 138 106
+@lang de
+% JP2 0138: Suter's commentary, p. 106: the conclusion: al-Khwārizmī's sources; Maslama's changes and additions; the
+% additions of the translators and copyists; the value of the tables beside al-Battānī's. The end of the commentary.
+noch mehr an die indischen {i:Siddhāntas,} in der zweiten mehr an die {i:Tafeln} des {i:Shāh,}
+an {sp:Ptol.} und vielleicht auch an die {i:erprobten Tafeln} der Astronomen {sp:Al-Ma’mūns}
+angelehnt hat.
+@p Ebenso ist auch unsere Kenntnis von den Veränderungen, die {sp:Maslama al-}
+{sp:Madjrīṭī} an den Tafeln {sp:Kh.}’s vorgenommen hat, in gewissen Punkten mangelhaft.
+Sicher können wir nur behaupten, dass {sp:Maslama} in den Tafeln für die Bestim-
+mung der {i:mittlern Örter} der Planeten die {i:persische Aera} {sp:Yezdegirds} durch die
+{i:muhammedanische} ersetzt hat, und dass er die Tafeln der {i:Syzygien, Finsternisse} und
+der {i:Mond-Parallaxe} (wenn diese überhaupt im ursprünglichen Werke {sp:Kh.}’s vorhanden
+waren), ebenso die Tafeln der {i:Verteilung} der zwölf {i:astrologischen Häuser} und die-
+jenigen der {i:Proiectiones radiorum} für den Meridian und die Breite von {i:Cordova} um-
+gearbeitet hat. Was die letztern Tafeln anbetrifft, so hat er nach dem, was wir aus
+{sp:Ibn Hibintā} wissen (s. oben p. 100) noch einige weitere Änderungen daran
+vorgenommen. Von {sp:Maslama} selbst hinzugefügt sind vielleicht (sicher steht dies
+ebenfalls nicht) einige der Tafeln 1 bis 3{sup:a} (s. oben p. 40—41), die Tafel 60 der {i:Co-}
+{i:tangenten,} die Tafeln 67—68 der {i:Zeitgleichung,} und die zwei letzten Tafeln 115 u. 116
+über die {i:Umwandlung} der {i:Geburtsjahre} und über die {i:Domicilia, Exaltationes} etc.
+@p Um das Urteil darüber, was das Werk {sp:Kh.}’s ursprünglich enthalten haben
+möchte und was nicht, noch schwieriger zu machen, kommt endlich noch hinzu,
+dass der (oder die) Übersetzer, vielleicht auch spätere Bearbeiter und Ordner
+({sp:Robert v. Chester}) der Übersetzung, oder auch Abschreiber, Zusätze zu dem
+Texte und auch zu einigen Tafeln gemacht haben, und dass diese Zusätze nicht
+immer so leicht als solche zu erkennen sind, wie dies bei einigen Stellen des Textes
+der Fall ist, die oben p. 35 u. 37 besprochen worden sind.
+@p Aber trotz dieser mehrfachen Mit- und Abänderungsarbeit an diesen Tafeln
+behaupten dieselben auch in der Form, wie sie uns vorliegen, neben denen {sp:Batt.}’s
+gleichwohl einen nicht zu unterschätzenden Wert : sie bilden sehr wahrscheinlich die
+Grundlage für spätere westarabische Tafeln, und damit vielleicht auch für gewisse
+Tafeln des christlichen Mittelalters ; direkte Beweise können wir allerdings für diese
+Ansicht noch nicht beibringen, sie mögen aber wohl noch gefunden werden ; vielleicht
+stützen sich gerade die in der Einleitung erwähnten Tafeln {sp:Rogers von}
+{sp:Hereford} auf die vorliegenden. Sie zeigen uns ferner sehr deutlich den grossen Fort-
+schritt, den die arabische Astronomie von {sp:Kh.} bis auf {sp:Batt.} gemacht hat : {sp:hier} tri-
+gonometrische Formeln und mathematische Beweise für die Probleme, {sp:dort} nur nackte,
+kurze Regeln ohne jede Erläuterung, und ganz wenige Spuren trigonometrischer
+Ableitung. Wenn also durch Veröffentlichung dieser Tafeln einerseits die Grösse der
+Arbeit des bedeutendsten arabischen Astronomen um so glänzender hervortritt, so
+beweisen sie wiederum andrerseits, dass man schon zu jener Zeit auch mit ganz
+elementaren mathematischen Hilfsmitteln astronomische Tafeln herzustellen verstand,
+die, wie wir gesehen haben, nicht geringe Ansprüche auf Genauigkeit zu befriedigen
+im stande waren.
+@obs The page number «106» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 completes the sentence that ends p. 105 (JP2 0137, L37), «es ist auch möglich, dass er in der ersten Ausgabe seiner Tafeln sich». Below L41 a double rule, centred, closes the commentary; the following page (JP2 0139) begins the tables.
+@obs L12-L13: Ibn Hibintā on al-Khwārizmī's tables of the projection of the rays, p. 100 (JP2 0132). L15: Tables 1-3a, pp. 40-41 (JP2 0072-0073). L16: the tables of the equation of time, Tables 67-68, pp. 80-81 (JP2 0112-0113). L24: p. 35 (JP2 0067), the passage in square brackets found only in the Mss. CMN; p. 37 (JP2 0069), the date in Ms. O, of the beginning or the end of the translation. L31-L32: Roger of Hereford in Suter's introduction (JP2 0016). L33-L34: «hier», al-Battānī, the nearer of the two names, with the formulas and proofs; «dort», al-Khwārizmī, with the bare rules.
+@obs L15: «ebenfalls», the bar of the f broken, so that it looks like a long s; L39: «mathematischen», the t without its bar (11 px wide, its top at the height of the other t's, below the l's); read as printed words. L15: «3a», the a raised.
+@obs The dashes: L15 «40—41», a long dash (39 px) lighter than the others, with narrow spaces on either side (6-7 px); L16 «67—68», the long dash (46 px) set close.
+@obs Spaced type, marked {sp:}: «Ptol.», «Al-Ma’mūns», «Maslama al-Madjrīṭī», «Kh.», «Maslama», «Yezdegirds», «Ibn Hibintā», «Robert v. Chester», «Batt.», «Rogers von Hereford», «hier», «dort»; italics: «Siddhāntas,», «Tafeln», «Shāh,», «erprobten Tafeln», «mittlern Örter», «persische Aera», «muhammedanische», «Syzygien, Finsternisse», «Mond-Parallaxe», «Verteilung», «astrologischen Häuser», «Proiectiones radiorum», «Cordova», «Cotangenten,», «Zeitgleichung,», «Umwandlung», «Geburtsjahre», «Domicilia, Exaltationes».
+@obs The colons and semicolons stand after the thin space of the edition (9-12 px measured).

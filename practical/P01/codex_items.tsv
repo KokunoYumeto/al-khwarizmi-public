@@ -1,0 +1,31 @@
+codex	item	folios	content	role	ismi_row_in_08_map	pixels
+B	1	1r-77r	al-Farghani, al-Kamil fi sanat al-asturlab (Ahlwardt 5790); colophon on 77r «تم الكتاب وهو سبعة انواع بالتمام» (the reading as given by ISMI, witness 176953)	outside the corpus	-	seen: 77r
+B	2	77v-81v	Text 1	Khwarizmiana (Ahlwardt 5793)	8	seen
+B	3	81v:4-91v:7	Text 2	Khwarizmiana	6	seen
+B	4	91v:8-92r:16	Text 3	Khwarizmiana	16	seen
+B	5	92r:17-93r	Text 4	Khwarizmiana	18	seen
+B	6	93v	table of the right ascension	Khwarizmiana, Appendix 2	-	seen
+B	7	94r	table of the altitude at the prayer times (belongs to Text 3)	Khwarizmiana	16	seen
+B	8	94v	table of the altitude at each temporal hour	Khwarizmiana, Appendix 2	-	seen
+B	9	95r-95v	table of the 'sine of the hours'	Khwarizmiana, Appendix 2	-	seen
+B	10	96r	Text 5	Khwarizmiana	-	seen
+B	11	96r-96v	Text 6	Khwarizmiana	-	seen
+B	12	96v	Text 7	Khwarizmiana	-	seen
+B	13	96v-97v	Text 8	Khwarizmiana	-	seen
+B	14	97v	table in a later hand	later material, not edited	-	seen
+B	margins	82r-83r	extracts from a later astrolabe treatise	later material, Appendix 1	-	seen
+A	group	182v-200r	collection of anonymous practical tracts, some incomplete (PAL); the study describes the group as ff. 183r-199v (p. 107) and itemizes it from 189r	context of Texts 9-11	-	not seen
+A	a	189r-190r	on a water-clock (binkan)	anonymous, not edited	12 (probable, by its title)	not seen
+A	b	190r-190v	on a water-clock that shoots pebbles	anonymous, not edited	11 (probable, by its title)	not seen
+A	c	191r-192r	on a horary lifting wheel (dawlab)	anonymous, not edited	17	not seen
+A	d	192r (figure 192v)	Text 11, the mukhula	anonymous, edited	14	not seen
+A	e	193r	on a double sundial on the slopes of a roof (maknasa)	anonymous, not edited	13	not seen
+A	f	194v-196v	a geographical table of 163 localities	anonymous, not edited	-	not seen
+A	g	196v-197r	Text 10, the horary quadrant	anonymous, edited	9	not seen
+A	h	197r-197v	on an 'optical compass' for tracing large circles (birkar al-hilla)	anonymous, not edited	5	not seen
+A	i	198r (diagram 198v)	on an instrument for predicting lunar eclipses, ascribed to Umayr ibn Saman	ascribed to another person; not edited	10 (possible; the titles differ)	not seen
+A	j	198v-199r	Text 9, the meridian with the astrolabe	ascribed to al-Khwarizmi, edited	7	not seen
+A	k	199r-199v	on the latitudes of the seven climates, with a table (Marifat urud al-aqalim)	anonymous, not edited	28	not seen
+A	l	200r	a diagram of circles for the earth, the moon and the sun	anonymous; probably related to 198r-198v	-	not seen
+A	m	228v-231r	Marifat saat al-mashriq fi kull balad ala ma amala Batlamyus min qutr al-falak (PAL: anonymous)	anonymous; not in the study	20 (by its title)	not seen
+A	n	231v-235r	al-Khwarizmi, Amal al-saat fi basit al-rukhama	ascribed to al-Khwarizmi; authorship disputed; not in the study	15	not seen

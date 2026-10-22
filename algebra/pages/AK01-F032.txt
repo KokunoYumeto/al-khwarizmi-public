@@ -1,0 +1,23 @@
+@page 32 ١٨
+% Frame 032, printed p. 18: squares equal to numbers; roots equal to numbers; the three compound kinds; the first of
+% them, squares and roots equal to numbers: "a square and ten roots equal thirty-nine dirhams". Two footnotes of the
+% editors, (١) and (٢).
+@p وأما الاموال التى تعدل العدد فمثل قولك مال يعدل تسعة فهو المال وجذره
+ثلاثةوكقولك خمسةأموال تعدل ثمانين فالمال الواحد خمس الثمانين وهو ستة عشر
+وكقولك نصف مال يعدل ثمانية عشر فالمال يعدل ستة وثلاثين وجذره ستةوكذلك
+جميع الأموال زائدها وناقصها ترد إلى مال واحد وإن كانت أقل من مال زيد
+عليها حتى تكمل مالا تاماً وكذلك يفعل بما عادلها من الأعداد .
+@p وأما الجذور التى تعدل عددا فكقولك جذر يعدل ثلاثة من العدد فالجذر
+ثلاثة والمال الذى يكون منه تسعة . وكقولك اربعة اجذار تعدل عشرين فالجذر
+الواحد يعدل خمسة والمال الذى يكون منه خمسة وعشرون وكقولك نصف جذر
+يعدل عشرة فالجذر يعدل عشرين والمال الذى يكون منه اربعمائة {n:١}. ووجدت هذه
+الضروب الثلاثة ، التى هى الجذور والاموال والعدد ، تقترن فيكون منها ثلاثة
+اجناس مقترنة وهى أموال وجذور تعدل عددا . وأموال وعدد تعدل جذوراً .
+وجذور وعدد تعدل أموالا . فأما الأموال والجذور التى تعدل العدد فمثل قولك
+مال وعشرة اجذاره يعدل تسعة وثلاثين درهما ومعناه أى مال اذا زدت عليه مثل
+عشرةاجذاره بلغ ذلك كله تسعة وثلاثين . فبابه {n:٢} أن تنصف الأجذار وهى فى
+@ednotes ١ ٢ 8
+@obs Plain alif where a hamza might be expected, as printed: الاموال (L01, L10; but الأموال on L04, L12 and أموال on L02, L11), اربعة اجذار (L07), اربعمائة (L09), اجناس (L11), اجذاره (L13, L14), اذا (L13).
+@obs Set without a word space after a tā' marbūṭa, and transcribed so: ثلاثةوكقولك, خمسةأموال (L02), ستةوكذلك (L03), عشرةاجذاره (L14). After a connecting letter, whose final form marks the end of the word, a word space is transcribed even where the print sets the words close: نصف مال (L03), يكون منه (L07, L08, L09), ومعناه أى (L13).
+@obs L09: the full stop follows the note mark (١) without a space.
+@obs Without tanwīn as printed: مالا (L05), عددا (L06, L11), أموالا (L12), درهما (L13); with tanwīn on the final alif: تاماً (L05), جذوراً (L11).

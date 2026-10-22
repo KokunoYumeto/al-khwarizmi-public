@@ -1,0 +1,411 @@
+{
+ "anchor": "AK02-F017",
+ "frame": 17,
+ "frame_file": "page_017.jpg",
+ "frame_sha256": "55adf09230e7d8eb60974ae66db6d2c695156503ff23062f5811a1819ee411dd",
+ "printed_page": "11",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 017, printed p. 11: the example of multiplication, 2326 by 214, the two numbers set place by place; the rule of the work: from the highest place of the upper number, each product written above, the lower number moved one place to the right after each round; a place with a circle in the upper number passed over.",
+ "lines": [
+  {
+   "id": "AK02-F017-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "posuimus duo milia tercentos .{sc:xxvi}. per indas literas in",
+   "margin": null,
+   "plain": "posuimus duo milia tercentos .xxvi. per indas literas in",
+   "italic": [],
+   "small_caps": [
+    "xxvi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "{sc:iiii}.{sup:or} differentiis; fueruntque in prima differentia, que est in",
+   "margin": null,
+   "plain": "iiii.or differentiis; fueruntque in prima differentia, que est in",
+   "italic": [],
+   "small_caps": [
+    "iiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "dextera, .{sc:vi}.; et in secunda duo, qui sunt .{sc:xx}.; et in tercia",
+   "margin": null,
+   "plain": "dextera, .vi.; et in secunda duo, qui sunt .xx.; et in tercia",
+   "italic": [],
+   "small_caps": [
+    "vi",
+    "xx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "tres, qui sunt tercenti; et in quarta duo, qui sunt duo milia.",
+   "margin": null,
+   "plain": "tres, qui sunt tercenti; et in quarta duo, qui sunt duo milia.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "Post hec posuimus sub duobus milibus {sc:iiii}{sup:or}; de inde in pre-",
+   "margin": null,
+   "plain": "Post hec posuimus sub duobus milibus iiiior; de inde in pre-",
+   "italic": [],
+   "small_caps": [
+    "iiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "cedenti uersus sinistram unum, qui sunt .{sc:x}.; postea in tercia",
+   "margin": null,
+   "plain": "cedenti uersus sinistram unum, qui sunt .x.; postea in tercia",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "duo, qui sunt ducenti:et hec est figura eorum.",
+   "margin": null,
+   "plain": "duo, qui sunt ducenti:et hec est figura eorum.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L08",
+   "n": 8,
+   "kind": "indent",
+   "text": "| Post hec incipias ab ultima differentia superiori; et multi-",
+   "margin": "car. 105 {i:verso}.",
+   "plain": "| Post hec incipias ab ultima differentia superiori; et multi-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "plica eam in ultima differentia inferioris numeri, qui est sub",
+   "margin": null,
+   "plain": "plica eam in ultima differentia inferioris numeri, qui est sub",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "eo,uel quod exierit de multiplicatione,scribes de super.Postea",
+   "margin": null,
+   "plain": "eo,uel quod exierit de multiplicatione,scribes de super.Postea",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "scribes etiam in differentia que succeditur, redeundo uersus",
+   "margin": null,
+   "plain": "scribes etiam in differentia que succeditur, redeundo uersus",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "dexteram inferioris numeri. Deinde facies similiter , donec",
+   "margin": null,
+   "plain": "dexteram inferioris numeri. Deinde facies similiter , donec",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "multiplices ultimam differentiam superioris numeri in uniuer-",
+   "margin": null,
+   "plain": "multiplices ultimam differentiam superioris numeri in uniuer-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "sis differentiis inferioris numeri: et cum hec perfeceris, mu-",
+   "margin": null,
+   "plain": "sis differentiis inferioris numeri: et cum hec perfeceris, mu-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "tabis numerum inferiorem una differentia uersus dexteram.",
+   "margin": null,
+   "plain": "tabis numerum inferiorem una differentia uersus dexteram.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "Eritque prima differentia inferioris numeri sub differentia que",
+   "margin": null,
+   "plain": "Eritque prima differentia inferioris numeri sub differentia que",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "succedit numerum quem multiplicasti uersus dexteram. De-",
+   "margin": null,
+   "plain": "succedit numerum quem multiplicasti uersus dexteram. De-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "inde pones reliquas differentias pur successiones eorum: post",
+   "margin": null,
+   "plain": "inde pones reliquas differentias pur successiones eorum: post",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "hec multiplicabis etiam ipsum numerum, sub quo posuisti",
+   "margin": null,
+   "plain": "hec multiplicabis etiam ipsum numerum, sub quo posuisti",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "primam differentiam inferioris numeri ultima mansione inferio-",
+   "margin": null,
+   "plain": "primam differentiam inferioris numeri ultima mansione inferio-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "ris numeri: de inde in ea que succedit, donec perficias omnes,",
+   "margin": null,
+   "plain": "ris numeri: de inde in ea que succedit, donec perficias omnes,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "quemadmodum fecisti in prima differentia: uel quicquid col-",
+   "margin": null,
+   "plain": "quemadmodum fecisti in prima differentia: uel quicquid col-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "lectum fuerit ex multiplicatione unius cuiusque differentie,",
+   "margin": null,
+   "plain": "lectum fuerit ex multiplicatione unius cuiusque differentie,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "scribes eum in differentia que est super ipsum : uel cum",
+   "margin": null,
+   "plain": "scribes eum in differentia que est super ipsum : uel cum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "hec feceris, mutabis etiam eum numerum, scilicet tuum, una",
+   "margin": null,
+   "plain": "hec feceris, mutabis etiam eum numerum, scilicet tuum, una",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "differentia ; et facies de eo quemadmodum fecisti in diffe-",
+   "margin": null,
+   "plain": "differentia ; et facies de eo quemadmodum fecisti in diffe-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "rentiis primis ; et non cessabis ita facere, donec perficias",
+   "margin": null,
+   "plain": "rentiis primis ; et non cessabis ita facere, donec perficias",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "omnes differentias. Sic que multiplicabis uniuersum numerum",
+   "margin": null,
+   "plain": "omnes differentias. Sic que multiplicabis uniuersum numerum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "superiorem in uniuerso numero inferiori. Cumque euenerit",
+   "margin": null,
+   "plain": "superiorem in uniuerso numero inferiori. Cumque euenerit",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "ut prima differentia inferioris numeri sit sub aliqua diffe-",
+   "margin": null,
+   "plain": "ut prima differentia inferioris numeri sit sub aliqua diffe-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "rentia, in qua nullus sit numerus, idest in qua fuerit cir-",
+   "margin": null,
+   "plain": "rentia, in qua nullus sit numerus, idest in qua fuerit cir-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "culus, faciamus eam transire ad succedentem differentiam ,",
+   "margin": null,
+   "plain": "culus, faciamus eam transire ad succedentem differentiam ,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F017-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "in qua fuerit numerus uersus dexteram. Quia omnis circu-",
+   "margin": null,
+   "plain": "in qua fuerit numerus uersus dexteram. Quia omnis circu-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 11 )» stands at the head of the page, centred. The page has no footnotes and no signature.",
+  "L01-L07: the example is two thousand three hundred and twenty-six («duo milia tercentos .xxvi.») by «.ccx.iiiior» (p. 10, L33), 214, set in four places with six in the first, twenty in the second, three hundred in the third and two thousand in the fourth, and below it four under the thousands, one in the place before and two in the third; L07 ends «et hec est figura eorum.», without the figure and without the four points of a gap.",
+  "L02 «iiii.or», with a point after «iiii» and «or» raised; L05 «iiiior», without the point. L08: the paragraph begins with the vertical bar that marks the beginning of fol. 105 verso of the manuscript, which the note in the right margin, «car. 105 verso.», names; transcribed as a margin note.",
+  "L10: «de super», as two words; L28 «Sic que», as two words (a space of 18 px); transcribed as printed. L11: «succeditur», where L17 has «succedit».",
+  "Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): L07 «ducenti:et» (9 px, the median word space of the line 15.5 px), L10 «eo,uel», «multiplicatione,scribes» (5 px) and «super.Postea», without a space; with a space before the mark, L12 «similiter ,» (18 px), L24 «ipsum :» (22 px), L26 «differentia ;», L27 «primis ;» and L32 «differentiam ,» (21 px).",
+  "Marks not transcribed: light dots at mid-height between words, lighter than the print (darkest pixels 106 to 149, where a printed point is darker than 30): L02 «est» and «in», L32 «eam» and «transire», L33 after «fuerit» and between «uersus» and «dexteram»; L16, a light dot after «que» at the end of the line."
+ ],
+ "copy_matter": [
+  "A reader's notes in pencil: «dextra!» in the left margin beside L03, and «secundo (!)» in the right margin; L04, «tres,» underlined and a stroke over «et»; «succedit» in the right margin beside L11, with a stroke over «scribes» and «tur» of «succeditur» marked; L13, a hook at the final «s» of «superioris»; L18, «pur» underlined and «per» in the right margin, and a mark before «reliquas»; L21, a dot between «inde» and «in»; «quod» in the right margin beside L22, L24 and L27, with «uel» underlined (L24) and a stroke over «prima» (L22) and over «et» (L27); L23, a stroke over «unius»; L28, a curve linking «Sic» and «que»; L33, the «e» of «dexteram» marked. Not part of the edition."
+ ],
+ "critical_notes": [
+  {
+   "id": "AK02-CN006",
+   "class": "wrong letter",
+   "line": "L18",
+   "printed": "pur successiones",
+   "proposed": "per successiones",
+   "evidence": "«pur» is not a Latin word; the phrase is «per successiones», by their succession, as on p. 7 («erunt descripte per successiones suas», frame 013, L02); a reader of this copy underlined «pur» and wrote «per» in the margin",
+   "confidence": "high",
+   "impact": "none: the sense reads the same"
+  }
+ ]
+}

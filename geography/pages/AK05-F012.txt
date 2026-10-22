@@ -1,0 +1,39 @@
+@page 12 ٦
+% Frame 012, printed p. 6: the cities of the first clime continued, entries 35-52: Sūnā, Ẓafār and Dāẓa on the sea,
+% three cities on the island of al-Mīdh, five places without the word «مدينة» and without numbers of Suhrāb (ʿAlwa
+% Baḥriyya, Fazzān, Zaghāwa, Kawkaw, Ghāna), then the coast of Sind and Sarandīb to Marwā on the sea. Two lines of
+% the editor's footnotes.
+@r (٣٥) | [١٨ ٥٨] | مدينة سونا{n:a} | عه | {z} | يه | ل
+@r (٣٦) | [١٩] | مدينة ظفار | عح | {z} | ٮه | {z}
+@r (٣٧) | [٢٠] | مدينة على البحر داظه | ڡ | {z} | يد | ل
+@r (٣٨) | [٢١] | مدينة في جزيرة الميذ | ڡد | ل | ٮٮ | {z}
+@r (٣٩) | [٢٢] | مدينة في جزيرة الميذ | ڡر | {z} | ط | {z}
+@r (٤٠) | [٢٣] | مدينة فى جزيرة الميذ | ڡط | {z} | يج | ل
+@r (٤١) | | علوه بحريّة | س | {z} | ٮٮ | ك
+@r (٤٢) | | فزّان | سٮ | {z} | ٮا | مه
+@r (٤٣) | | زغاوه | س | ٮه | ٮا | {z}
+@r (٤٤) | | كوكو{n:b} | مح | {z} | ى | ٮه
+@r (٤٥) | | غانه | مد | ل | ى | مه
+@r (٤٦) | [٢٤] | مسڡلى من السند على البحر | قى | {z} | يه | ل
+@r (٤٧) | [٢٥] | مودٮرس{n:c} على البحر | ڡٮ | ٮه | يد | ل
+@r (٤٨) | [٢٦] | مدينة فيرواٮ | ڡٮه | {z} | ٮو | {z}
+@r (٤٩) | [٢٧] | ڡطرا{n:d} على البحر | ڡٮه | ٮه | يد | {z}
+@r (٥٠) | [٢٨] | سندونا من سرنديب على البحر | قير | ٮه | د | {z}
+@r (٥١) | [٢٩] | اٮودى{n:e} من سرنديب على البحر | ڡٮح | ٮه | د | ل
+@r (٥٢) | [٣٠] | مدينة مروٮا على البحر | فك | {z} | ٮو | ٮه
+@ednotes a b c d e 2
+@obs L01: the bracket of the numbers of Suhrāb holds two numbers, «١٨» above «٥٨», printed one above the other within one pair of square brackets; transcribed «[١٨ ٥٨]».
+@obs L07-L11: entries 41-45, ʿAlwa Baḥriyya, Fazzān, Zaghāwa, Kawkaw and Ghāna, are printed without the word «مدينة» and without numbers of Suhrāb. A short horizontal stroke crosses the left parenthesis of the running number «(٤٥)» (L11), a flaw of the print.
+@obs L04-L06: «في» is printed with the two dots of the final ي in L04 and L05, «فى» without them in L06; transcribed as printed. L07: «بحريّة» and L08: «فزّان» are printed with a shadda.
+@obs Letters printed without their dots, transcribed so (the editor keeps the defective writing of the manuscript): in the names مسڡلى (L12; the loop of ف or ق, a round loop with a counter standing on the line, as the medial ف of the font, where the medial ع of صنعاء, frame 011, L06, is a solid, flat-topped form), مودٮرس (L13; at entry (1188) the name is written موزيرس, with ز and ي), فيرواٮ (L14, the final ب), ڡطرا (L15; at entry (1187) قطرا), اٮودى (L17, the tooth before the و) and مروٮا (L18, the tooth before the alif); in the numerals ڡ (L03, an isolated ف), ڡد, ڡر, ڡط (L04-L06), ڡٮ (L13), ڡٮه (L14, L15), ڡٮح (L17), the loop without dots, and سٮ (L08), ٮا (L08, L09), ٮو (L14, L18), the tooth or the final ب without its dot, ٮٮ (L04, L07), a tooth joined to a final ب, both without dots, with two risers at the right end of the bowl where the isolated ب has one, and ٮه (L02, the degrees of the latitude; L09, L13, L15-L17, the minutes of the longitude; L10, L18, the minutes of the latitude), a tooth joined to a final ه, without its dot. Where the print dots them they are transcribed with their dots: قى (L12), قير (L16), فك (L18), يه, يد, يج.
+@obs L14, L15, L17: between the loop and the final ه (L14, L15) or the ح (L17), a short tooth without a dot that rises above the joining stroke, with no part below it, where the medial م of these numerals is a diamond that stands out above and below the stroke (frame 013, L13, «ڡمح») or is set under the ق (frame 082, L16, «قمط»); transcribed ڡٮه and ڡٮح, which read with ق and ي give 115 and 118, beside قى, 110 (L12), and قير, 117 (L16).
+@obs L05: the longitude ڡر: the loop of ف or ق joined to a ر, in the place of a value between those of the other cities of al-Mīdh, ڡد ل and ڡط (L04, L06). In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed. So also قير (L16).
+@obs L08-L09: the degrees of the latitude, ٮا: a tooth joined at its foot to an alif, without dots; transcribed so.
+@obs L18: the longitude فك, with the dot of the ف and the stroke of the ك printed, as printed.
+@obs The page number «— ٦ —» stands at the foot, centred.
+@copy A small curved dark mark, perhaps a fibre, in the lower left margin of the page.
+@variant L01: at entry (1694) the name سونا is written سرنا.
+@variant L10: for كوكو the manuscript reads كنكو.
+@variant L13: for مودٮرس the editor records the variant reading موزرس; at entry (1188) the name is written موزيرس.
+@variant L15: at entry (1187) the name ڡطرا is written قطرا.
+@variant L17: at entry (1699) the name اٮودى is written اموزى, indistinctly.

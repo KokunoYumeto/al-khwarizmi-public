@@ -1,0 +1,4 @@
+@page 128 -
+@kind provenance
+% Frame 128: the back endpaper of the binding, with the due-date slip of Columbia University Libraries.
+@copy The due-date slip of Columbia University Libraries (form «C28(946)M100»), pasted on the endpaper of the binding, with date stamps of March 1993; not part of the edition.

@@ -1,0 +1,253 @@
+{
+ "anchor": "AK01-F075",
+ "frame": 75,
+ "frame_file": "page_075.jpg",
+ "frame_sha256": "e0534e2070767ec97816dd2c194a5915e7715e6e5ca711cea1c1bd9433c60669",
+ "printed_page": "٥٩",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 075, printed p. 59: the quadrilaterals are of five kinds: equal sides and right angles; right angles with the length greater than the breadth; the rhombus, equal sides and unequal angles; the figure like the rhombus, whose opposite sides are equal and its angles unequal; and the figure with unequal sides and angles. The area of the first two is the length times the breadth: a field of five cubits on each side, twenty-five cubits, with its figure; a field eight by six, forty-eight cubits, with its figure; the rhombus begun, continued on the next page. Six lines run across the page; then two narrower columns beside the two figures. Below the rule one footnote of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F075-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "اعلم أن المربعات {n:١} خمسة أجناس فمنها مستوية الأضلاع قائمة الزوايا والثانية",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "قائمة الزوايا مختلفة الأضلاع طولها أكثر من عرضها . والثالثة تسمى المعينةوهى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "التى استوت أضلاعها واختلفت زواياها . والرابعة المشبهة بالمعينة وهى التى طولها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "وعرضها مختلفان وزواياها مختلفة غير أن الطولين متساويان والعرضين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "متساويان أيضاً . والخامسة المختلفة الاضلاع والزوايا . فما كان من المربعات",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "مستوية الاضلاع قائمة الزوايا أو مختلفة الاضلاع قائمة الزوايا فان تكسيرها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "أن تضرب الطول فى العرض فما",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "بلغ فهو التكسير . ومثال ذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "أرض مربعة من كل جانب خمسة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "أذرع تكسيرها خمسة وعشرون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "ذراعاً وهذه صورتها . والثانية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "أرض مربعة طولها ثمانية أذرع",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "ثمانية أذرع والعرضان ستة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "ستة . فتكسيرها أن تضرب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "ستة فى ثمانية فيكون ثمانية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "وأربعين ذراعاً وذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "تكسيرها وهذه صورتها .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "وأما المعينة المستوية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F075-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "الأضلاع التى كل جانب منها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١"
+   ],
+   "lines": 2,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [
+  {
+   "id": "AK01-F075-FIG1",
+   "rect": [
+    1598,
+    1440,
+    2420,
+    2240
+   ],
+   "after": 12
+  },
+  {
+   "id": "AK01-F075-FIG2",
+   "rect": [
+    580,
+    2236,
+    1712,
+    3100
+   ],
+   "after": 19
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Layout: L01-L06 run across the page; below them the text continues in two narrower columns, L07-L12 at the left of the first figure and L13-L19 at the right of the second. Each figure is reproduced after the column beside it.",
+  "The first figure, drawn, not set in type: a square with ٥ beside each of its four sides and a diagonal from the lower left to the upper right corner, along which is written «جذر خمسين», the root of fifty. The second: a rectangle with ٨ on its upper and lower sides and ٦ beside its left and right sides, a diagonal from the lower left to the upper right corner marked ١٠, and above the diagonal «المساحة ٤٨», the area forty-eight.",
+  "L12-L13: «طولها ثمانية أذرع ثمانية أذرع والعرضان ستة ستة», as printed, across the change of column: the repeated numbers give the two opposite sides, the lengths eight and eight cubits and the two breadths six and six.",
+  "Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): المعينةوهى (L02; 5 between the ة and the conjunction و).",
+  "After ة a word space is transcribed where the gap is 16 px or more; the narrowest such gap on this page: ثمانية أذرع (L13; 17).",
+  "The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after عرضها, before والثالثة (L02; 18 and 18), after زواياها, before والرابعة (L03; 18 and 17), after أيضاً, before والخامسة (L05; 22 and 24), after والزوايا, before فما (L05; 24 and 23), after التكسير, before ومثال (L08; 45 and 35), after صورتها, before والثانية (L11; 61 and 52), after ستة, before فتكسيرها (L14; 30 and 27), at the end of L17 (27 after صورتها). The note mark (١) stands 33 px after المربعات and 25 px before خمسة (L01).",
+  "Plain alif where a hamza might be expected, as printed: اعلم (L01), الاضلاع (L05; L06, twice), فان (L06); with hamza: أن (L01, L04, L07, L14), أجناس, الأضلاع (L01), الأضلاع, أكثر (L02), أضلاعها (L03), أيضاً (L05), أو (L06), أرض (L09, L12), أذرع (L10, L12, L13), وأربعين (L16), وأما (L18), الأضلاع (L19); on ي: قائمة (L01, L02; L06, twice).",
+  "With tanwīn on the final alif: أيضاً (L05), ذراعاً (L11, L16).",
+  "The final yā' is printed without dots: تسمى, المعينةوهى (L02), التى, وهى (L03), فى (L07, L15), التى (L19).",
+  "The print stretches غير (L04), فما (L07), ومثال and التكسير (L08), تكسيرها (L10, L17), وهذه (L11), مربعة and طولها (L12), ثمانية (L15, the first), وأربعين (L16), المعينة and المستوية (L18) with the elongation stroke; the stroke is not transcribed.",
+  "Note (١) of the editors explains المربعات (L01) as the quadrilaterals in modern terms and lists the five kinds as the square, the rectangle, the rhombus, the parallelogram and the general quadrilateral; it is not reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

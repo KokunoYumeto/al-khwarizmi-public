@@ -1,0 +1,46 @@
+@page 17 11
+% Frame 017, printed p. 11: the example of multiplication, 2326 by 214, the two numbers set place by place; the rule
+% of the work: from the highest place of the upper number, each product written above, the lower number moved one
+% place to the right after each round; a place with a circle in the upper number passed over.
+posuimus duo milia tercentos .{sc:xxvi}. per indas literas in
+{sc:iiii}.{sup:or} differentiis; fueruntque in prima differentia, que est in
+dextera, .{sc:vi}.; et in secunda duo, qui sunt .{sc:xx}.; et in tercia
+tres, qui sunt tercenti; et in quarta duo, qui sunt duo milia.
+Post hec posuimus sub duobus milibus {sc:iiii}{sup:or}; de inde in pre-
+cedenti uersus sinistram unum, qui sunt .{sc:x}.; postea in tercia
+duo, qui sunt ducenti:et hec est figura eorum.
+@m car. 105 {i:verso}.
+@p | Post hec incipias ab ultima differentia superiori; et multi-
+plica eam in ultima differentia inferioris numeri, qui est sub
+eo,uel quod exierit de multiplicatione,scribes de super.Postea
+scribes etiam in differentia que succeditur, redeundo uersus
+dexteram inferioris numeri. Deinde facies similiter , donec
+multiplices ultimam differentiam superioris numeri in uniuer-
+sis differentiis inferioris numeri: et cum hec perfeceris, mu-
+tabis numerum inferiorem una differentia uersus dexteram.
+Eritque prima differentia inferioris numeri sub differentia que
+succedit numerum quem multiplicasti uersus dexteram. De-
+inde pones reliquas differentias pur successiones eorum: post
+hec multiplicabis etiam ipsum numerum, sub quo posuisti
+primam differentiam inferioris numeri ultima mansione inferio-
+ris numeri: de inde in ea que succedit, donec perficias omnes,
+quemadmodum fecisti in prima differentia: uel quicquid col-
+lectum fuerit ex multiplicatione unius cuiusque differentie,
+scribes eum in differentia que est super ipsum : uel cum
+hec feceris, mutabis etiam eum numerum, scilicet tuum, una
+differentia ; et facies de eo quemadmodum fecisti in diffe-
+rentiis primis ; et non cessabis ita facere, donec perficias
+omnes differentias. Sic que multiplicabis uniuersum numerum
+superiorem in uniuerso numero inferiori. Cumque euenerit
+ut prima differentia inferioris numeri sit sub aliqua diffe-
+rentia, in qua nullus sit numerus, idest in qua fuerit cir-
+culus, faciamus eam transire ad succedentem differentiam ,
+in qua fuerit numerus uersus dexteram. Quia omnis circu-
+@obs The page number «( 11 )» stands at the head of the page, centred. The page has no footnotes and no signature.
+@obs L01-L07: the example is two thousand three hundred and twenty-six («duo milia tercentos .xxvi.») by «.ccx.iiiior» (p. 10, L33), 214, set in four places with six in the first, twenty in the second, three hundred in the third and two thousand in the fourth, and below it four under the thousands, one in the place before and two in the third; L07 ends «et hec est figura eorum.», without the figure and without the four points of a gap.
+@obs L02 «iiii.or», with a point after «iiii» and «or» raised; L05 «iiiior», without the point. L08: the paragraph begins with the vertical bar that marks the beginning of fol. 105 verso of the manuscript, which the note in the right margin, «car. 105 verso.», names; transcribed as a margin note.
+@obs L10: «de super», as two words; L28 «Sic que», as two words (a space of 18 px); transcribed as printed. L11: «succeditur», where L17 has «succedit».
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): L07 «ducenti:et» (9 px, the median word space of the line 15.5 px), L10 «eo,uel», «multiplicatione,scribes» (5 px) and «super.Postea», without a space; with a space before the mark, L12 «similiter ,» (18 px), L24 «ipsum :» (22 px), L26 «differentia ;», L27 «primis ;» and L32 «differentiam ,» (21 px).
+@obs Marks not transcribed: light dots at mid-height between words, lighter than the print (darkest pixels 106 to 149, where a printed point is darker than 30): L02 «est» and «in», L32 «eam» and «transire», L33 after «fuerit» and between «uersus» and «dexteram»; L16, a light dot after «que» at the end of the line.
+@critical AK02-CN006 | wrong letter | L18 | pur successiones | per successiones | «pur» is not a Latin word; the phrase is «per successiones», by their succession, as on p. 7 («erunt descripte per successiones suas», frame 013, L02); a reader of this copy underlined «pur» and wrote «per» in the margin | high | none: the sense reads the same
+@copy A reader's notes in pencil: «dextra!» in the left margin beside L03, and «secundo (!)» in the right margin; L04, «tres,» underlined and a stroke over «et»; «succedit» in the right margin beside L11, with a stroke over «scribes» and «tur» of «succeditur» marked; L13, a hook at the final «s» of «superioris»; L18, «pur» underlined and «per» in the right margin, and a mark before «reliquas»; L21, a dot between «inde» and «in»; «quod» in the right margin beside L22, L24 and L27, with «uel» underlined (L24) and a stroke over «prima» (L22) and over «et» (L27); L23, a stroke over «unius»; L28, a curve linking «Sic» and «que»; L33, the «e» of «dexteram» marked. Not part of the edition.

@@ -1,0 +1,44 @@
+@page 141 109
+@lang la
+% JP2 0141: Tab. 1, p. 109: the Roman years in multiples of 28 (the solar cycle) and the intervals between the eras,
+% in years, months and days, with the apparatus (notes 1-16 and a-h).
+@m C 44{sup:r}, M 83{sup:r-v} N 20{sup:r}
+@c {b:Anni scilicet solares romanorum collecti dividendi per XXVIII}{sup:1})
+@tw 1.15 1.15 1.15 1.15 1.15 8 1.2 1.5 1.2
+@t Anni romanorum collecti dividendi | | | | | Tempora quae transierunt inter regna | Anni | menses | dics
+@t per XXVIII{sup:2}) | | | | | diversorum regum{sup:3}) | | |
+@t 28 | 56 | 84 | 112 | 140 | A diluvio usque ad regnum iazdeiardi{sup:4}) | 3735 | 10 | 23{sup:c})
+@t 168 | 196 | 224 | 252 | 280 | A rege{sup:5}) nabuchodonosor{sup:6}) ad iazdeiardi{sup:7}) | 1379 | 3 | 0
+@t 308 | 336 | 364 | 392 | 420 | A regno{sup:8}) philippi ad iazdeiardi{sup:9}) | 955 | 3 | 0
+@t 448 | 476{sup:b}) | 504 | 532 | 560 | Ab alexandro ad iazdeiardi{sup:10}) | 942 | 8 | 17{sup:1}/{sub:2}{sup:d})
+@t 588 | 616 | 644 | 672 | 700 | A regno{sup:11}) diocletiani{sup:12}) ad iazdeiardi{sup:9}) | 347 | 9 | 21{sup:e})
+@t 728 | 756 | 784 | 812 | 840 | Ab era arabum{sup:13}) ad iazdeiardi{sup:9}) | 9 | 11{sup:f}) | 4
+@t 868 | 896 | 924 | 952 | 980 | Ab alexandro usque ad eram arabum | 932 | 9 | 17
+@t 1008 | 1036 | 1064 | 1092 | 1120 | Inter philippum et eram arabum | 945 | 3 | 26
+@t 1148 | 1176 | 1204 | 1232 | 1260 | Inter diocletianum et eram arabum | 337 | 10 | 20{sup:1}/{sub:4}
+@t 1288 | 1316 | 1344 | 1372 | 1400 | Inter aszophar{sup:14}) et eram arabum | 659{sup:g}) | 6 | 17
+@t 1428 | 1456 | 1484 | 1512 | 1540 | Inter christum et eram arabum | 621 | 6 | 15
+@t 1568 | 1596 | 1624 | 1652 | 1680 | Inter alexandrum et christum | 311 | 3 | 0
+@t 1708 | 1736 | 1764 | 1792 | 1820 | Inter alexandrum et aszophar{sup:14}) | 273{sup:h}) | 3 | 0
+@t 1848{sup:a}) | 1876 | 1904 | 1932 | 1960 | Inter alexandrum et diocletianum | 594 | 11 | 2{sup:1}/{sub:2}
+@t 1988 | 2016 | 2044 | 2072 | 2100 | A diluvio usque ad{sup:15}) eram arabum | 3725 | 11 | 19
+@t  | | | | | Ab adam usque ad{sup:15}) diluvium | 2280 | |
+@t  | | | | | {sup:16}) | | |
+@n {sup:1}) Anni . . . . XXVIII] C, Tabula romanorum scilicet anni solaris M, {i:om.} N — {sup:2}) Anni . . . . XXVIII]
+@n N, dividendi per XXVIII CM — {sup:3}) Tempora . . . . regum] CN, Tempora quae transierunt inter diversa
+@n regna M — {sup:4}) iazdeiardi] N, etdeiardi CM — {sup:5}) rege] C, regno MN — {sup:6}) nabuchodonosor] N, nabucodo-
+@n nosor C, nabugodonosor M — {sup:7}) iazdeiardi] N, etdeiardi M, edeiardi C — {sup:8}) regno] MN, rege C — {sup:9}) iaz-
+@n deiardi] N, edeiardi C, ezdeiard M — {sup:10}) iazdeiardi] N, edeiardi C, egdeiard M — {sup:11}) regno] N, rege C,
+@n regū M — {sup:12}) diocletiani] N, dioclitiani CM, {i:itemque in aliis locis} — {sup:13}) era arabum] N, elhigera CM,
+@n {i:itemque in aliis locis} — {sup:14}) aszophar] N, azofar C, azofir M — {sup:15}) ad] CN, {i:om,} M — {sup:16}) {i:Addid.} N {i:man. sec.:}
+@n A christo ad iazdaiardum 631. 5. 14.
+@n {sup:a}) 1848] MN, 1857 C — {sup:b}) 476] C, 486 M, 466 (?) N — {sup:c}) 23] CN, {i:om.} M — {sup:d}) 17{sup:1}/{sub:2}] CM, 28{sup:1}/{sub:2} N
+@n — {sup:e}) 21] CM, 31 N — {sup:f}) 11] MN, 9 C — {sup:g}) 659] 759 CN, 758 M — {sup:h}) 273] 223 CN, 233 M.
+@obs The page number «109» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 1», in bold sans serif, underlined. The folios of the manuscripts, «C 44r, M 83r-v» over «N 20r», stand at the right of the title (L01), the letters r and r-v raised; here as a margin note. The title (L01) is in bold, its note number in roman.
+@obs The table: a thick and a thin rule above the head, a double thin rule below it; vertical rules divide the five columns of the multiples of 28, the column of the eras and the columns «Anni», «menses» and «dies»; no rule closes the table at the foot. The head (L02-L03) is printed in two lines: «Anni romanorum collecti dividendi» over «per XXVIII», spanning the five columns of numbers, «Tempora quae transierunt inter regna» over «diversorum regum», and «Anni», «menses», «dics» set between the two lines. Each printed row is one line here, the cells separated by our «|»; a head followed by empty cells spans their columns.
+@obs L04-L18, the five columns of numbers. Checked: the row r and the column c hold 140 (r − 1) + 28 c, the multiples of 28 from 28 to 2100, all 75 as printed (with the readings of notes a and b). They are the left half of Maslama's table of the Syrian months in Nallino's al-Battānī (II, 302), which runs to 1624 (p. 40, JP2 0072).
+@obs L04-L20, the eras. Checked: in years of 365 days and months of 30 days, from the era of Nabonassar (26 February 747 BC), the «rex nabuchodonosor» of L05, to Yazdegird (16 June 632) are 503 425 days, 1379 years 3 months 0 days; from Philip (12 November 324 BC), 348 665 days, 955 y 3 m 0 d (L06); from the Flood (18 February 3102 BC), 1 363 597 days, 3735 y 10 m 22 d (L04: 23). In the Julian calendar, from Alexander (1 October 312 BC) to Christ (1 January AD 1) are 311 y 3 m 0 d (L15), from Christ to the Hijra (16 July 622) 621 y 6 m 15 d (L14). The rows agree with one another: L18 and L09, 3725 y 11 m 19 d + 9 y 11 m 4 d = 3735 y 10 m 23 d (L04); L11 and L09, 945 y 3 m 26 d + 9 y 11 m 4 d = 955 y 3 m 0 d (L06); L13 and L16, 659 y 6 m 17 d + 273 y 3 m 0 d = 932 y 9 m 17 d (L10), with the readings of notes g and h, against the 759 and 223 of the manuscripts; L15 and L14 give 932 y 9 m 15 d, two days less than L10. N08: from Christ to Yazdegird the Julian calendar counts 631 y 5 m 15 d.
+@obs L02: «dics»; N07: «om,»; see the critical notes. L08: the last 0 of «700» with a small tail at its foot. L13: a speck before «1316». L07 «17 1/2», L12 «20 1/4», L17 «2 1/2», N09 «17 1/2», «28 1/2»: the fractions small, the numerator raised. L04 and L07-L09: the letters of the notes c-f raised after the figures.
+@obs N01-N08: the notes on the words, numbered; N09-N10, after a wider space, the notes on the numbers, lettered a-h. N06: «regū», the u with a bar. The ellipses «. . . .» of the lemmata as printed. Italics: «om.», «itemque in aliis locis», «om,», «Addid.», «man. sec.:».
+@critical AK07-CN083 | wrong sort | L02 | dics | dies | the head of the column of the days: the third letter is a c, with the ball of the c and no bar of an e; the column holds the days, «dies» | high | none
+@critical AK07-CN084 | wrong punctuation | N07 | {i:om,} M | {i:om.} M | the abbreviation «om.» has its point everywhere in the apparatus, as «om. N» (N01) and «om. M» (N09); a comma is printed for the point | high | none

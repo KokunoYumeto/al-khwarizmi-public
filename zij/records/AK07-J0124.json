@@ -1,0 +1,775 @@
+{
+ "anchor": "AK07-J0124",
+ "jp2_index": 124,
+ "jp2_member": "b24872489_0124.jp2",
+ "jp2_sha256": "080572b84cedecd43fe552ede10a8caa2e6fd06b202ef595a4cad9f4afb7f22d",
+ "reading_copy": "page_0124.jpg",
+ "reading_copy_sha256": "1b41e28e5ef359a29410eb66d0d1f8545745e1e2a6f3abba8ed17bdd78b67a59",
+ "printed_page": "92",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0124: Suter's commentary, p. 92: chapter 34 continued: al-Battānī's parallaxes in longitude and latitude; the Sūrya-Siddhānta; the principle of al-Khwārizmī's tables (hour angle and ecliptic zenith distance); the ascendant of the conjunction of 23 January 901, 297° 3′ (notes 1-2).",
+ "lines": [
+  {
+   "id": "AK07-J0124-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "Ekliptik ist). Nachdem er dann aus den Tafeln (II, 93—94) mit Hilfe der Zenit-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Ekliptik ist). Nachdem er dann aus den Tafeln (II, 93—94) mit Hilfe der Zenit-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "distanz als Argument und verschiedener Korrekturen die Parallaxe des Mondes im",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "distanz als Argument und verschiedener Korrekturen die Parallaxe des Mondes im",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "Höhenkreis {i:ZA} bestimmt hat, multipliziert er diese Parallaxe sowohl mit dem Sinus",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Höhenkreis ZA bestimmt hat, multipliziert er diese Parallaxe sowohl mit dem Sinus",
+   "italic": [
+    "ZA"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "des Winkels der Länge als auch mit dem des Winkels der Breite, das erste Produkt",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des Winkels der Länge als auch mit dem des Winkels der Breite, das erste Produkt",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "gibt die {i:Parallaxe} des Mondes in der {i:Länge}, das zweite diejenige in der {i:Breite.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "gibt die Parallaxe des Mondes in der Länge, das zweite diejenige in der Breite.",
+   "italic": [
+    "Parallaxe",
+    "Länge",
+    "Breite."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "Nach {sp:Batt.} verhalten sich also die Parallaxen des Mondes in Länge und Breite wie",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Nach Batt. verhalten sich also die Parallaxen des Mondes in Länge und Breite wie",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "die Sinus der Winkel der Länge und Breite, oder anders ausgedrückt, er zerlegt die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die Sinus der Winkel der Länge und Breite, oder anders ausgedrückt, er zerlegt die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "Parallaxe der Höhe in ihre Komponenten nach der Länge und Breite.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Parallaxe der Höhe in ihre Komponenten nach der Länge und Breite.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L09",
+   "n": 9,
+   "kind": "indent",
+   "text": "Die Regeln des {i:Sūrya-Siddhānta} über die Parallaxenbestimmung befinden sich",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Die Regeln des Sūrya-Siddhānta über die Parallaxenbestimmung befinden sich",
+   "italic": [
+    "Sūrya-Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "im 5. Kapitel desselben{sup:1}). Sie weichen im Prinzip nicht wesentlich von denjenigen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "im 5. Kapitel desselben1). Sie weichen im Prinzip nicht wesentlich von denjenigen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "{sp:Batt.}’s ab, es werden auch trigonometrische Beziehungen benutzt, die sog. {i:Meridian-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Batt.’s ab, es werden auch trigonometrische Beziehungen benutzt, die sog. Meridian-",
+   "italic": [
+    "Meridian-"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "{i:distanz} und {i:Ekliptik-Zenitdistanz} berechnet, und aus diesen dann die Parallaxen in",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "distanz und Ekliptik-Zenitdistanz berechnet, und aus diesen dann die Parallaxen in",
+   "italic": [
+    "distanz",
+    "Ekliptik-Zenitdistanz"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "Länge und Breite bestimmt.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Länge und Breite bestimmt.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L14",
+   "n": 14,
+   "kind": "indent",
+   "text": "Die Regeln {sp:Kh.}’s sind viel einfacher ; da er aber nur den Gebrauch der Tafeln",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Die Regeln Kh.’s sind viel einfacher ; da er aber nur den Gebrauch der Tafeln",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "erklärt und gar keine trigonometrische Ableitungen gibt, so ist es schwer zu ent-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "erklärt und gar keine trigonometrische Ableitungen gibt, so ist es schwer zu ent-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "scheiden, auf welchem Wege er die Zahlen seiner Tafeln gefunden hat. Sein Prinzip",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "scheiden, auf welchem Wege er die Zahlen seiner Tafeln gefunden hat. Sein Prinzip",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "ist kurz ausgedrückt folgendes : Die {i:Parallaxe} in der {i:Länge} ist eine Funktion der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ist kurz ausgedrückt folgendes : Die Parallaxe in der Länge ist eine Funktion der",
+   "italic": [
+    "Parallaxe",
+    "Länge"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "Abweichung des Mondes vom Meridian nach Osten oder Westen, d. h. nach unsrer",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Abweichung des Mondes vom Meridian nach Osten oder Westen, d. h. nach unsrer",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "heutigen Ausdrucksweise eine {i:Funktion} des {i:Stundenwinkels,} die {i:Parallaxe} in der {i:Breite}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "heutigen Ausdrucksweise eine Funktion des Stundenwinkels, die Parallaxe in der Breite",
+   "italic": [
+    "Funktion",
+    "Stundenwinkels,",
+    "Parallaxe",
+    "Breite"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "ist eine Funktion seiner {i:Zenitdistanz.} Die Zahlen in der ersten Kolonne (Tafel 77)",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ist eine Funktion seiner Zenitdistanz. Die Zahlen in der ersten Kolonne (Tafel 77)",
+   "italic": [
+    "Zenitdistanz."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "bedeuten also zweierlei : Handelt es sich um die Bestimmung der {i:Parallaxe} in der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bedeuten also zweierlei : Handelt es sich um die Bestimmung der Parallaxe in der",
+   "italic": [
+    "Parallaxe"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "{i:Länge,} zo bezeichnen sie den Abstand des Mondes vom Meridian des Beobachtungs-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Länge, zo bezeichnen sie den Abstand des Mondes vom Meridian des Beobachtungs-",
+   "italic": [
+    "Länge,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "ortes auf dem Aequator (oder einem Parallelkreis) gemessen, also den {i:Stundenwinkel}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ortes auf dem Aequator (oder einem Parallelkreis) gemessen, also den Stundenwinkel",
+   "italic": [
+    "Stundenwinkel"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "des Mondes ; handelt es sich um die Bestimmung der {i:Parallaxe} in der {i:Breite,} so",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des Mondes ; handelt es sich um die Bestimmung der Parallaxe in der Breite, so",
+   "italic": [
+    "Parallaxe",
+    "Breite,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "bedeuten sie die Zenitdistanz des Mondes, und zwar seine sog. {i:Ekliptik-Zenitdistanz,}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bedeuten sie die Zenitdistanz des Mondes, und zwar seine sog. Ekliptik-Zenitdistanz,",
+   "italic": [
+    "Ekliptik-Zenitdistanz,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "d. h. wenn er im {i:Medium Coelum} ist. — In dieser Hinsicht scheint sich also {sp:Kh.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "d. h. wenn er im Medium Coelum ist. — In dieser Hinsicht scheint sich also Kh.",
+   "italic": [
+    "Medium Coelum"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "mehr den Indern als {sp:Batt.} zu nähern.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mehr den Indern als Batt. zu nähern.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L28",
+   "n": 28,
+   "kind": "indent",
+   "text": "Der Text von Kap. 34 verlangt zuerst die Bestimmung des {i:Aszendenten} ({i:Horo-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Der Text von Kap. 34 verlangt zuerst die Bestimmung des Aszendenten (Horo-",
+   "italic": [
+    "Aszendenten",
+    "Horo-"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "{i:scopus}) für die gegebene Zeit der Konjunktion, d. h. die Länge des Punktes der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "scopus) für die gegebene Zeit der Konjunktion, d. h. die Länge des Punktes der",
+   "italic": [
+    "scopus"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "Ekliptik, der, um unser oben (p. 82—84) gegebenes {i:Beispiel} für eine {i:Konjunktion}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Ekliptik, der, um unser oben (p. 82—84) gegebenes Beispiel für eine Konjunktion",
+   "italic": [
+    "Beispiel",
+    "Konjunktion"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "von Sonne und Mond wieder aufzunehmen, am 29. Muḥarram des J. 288 d. H. um",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "von Sonne und Mond wieder aufzunehmen, am 29. Muḥarram des J. 288 d. H. um",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "18{sup:h} 44{sup:m} 29{sup:s} aufgeht. Der Text sagt gar nichts darüber, wie dieser Aszendent bestimmt",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "18h 44m 29s aufgeht. Der Text sagt gar nichts darüber, wie dieser Aszendent bestimmt",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "werde ; er könnte auch mit den Tafeln, die dieses Werk enthält, unserer Ansicht",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "werde ; er könnte auch mit den Tafeln, die dieses Werk enthält, unserer Ansicht",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "nach nicht gefunden werden, es fehlen nämlich die Tafeln der schiefen Aufsteigungen,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nach nicht gefunden werden, es fehlen nämlich die Tafeln der schiefen Aufsteigungen,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "von denen wir wenigstens diejenigen für die Breite von Cordova kennen sollten ;",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "von denen wir wenigstens diejenigen für die Breite von Cordova kennen sollten ;",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L36",
+   "n": 36,
+   "kind": "text",
+   "text": "immerhin könnte er auf dem Wege der Rechnung mit Hilfe der Aszensional-Differenz",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "immerhin könnte er auf dem Wege der Rechnung mit Hilfe der Aszensional-Differenz",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "bestimmt werden. Wir haben daher den {i:Aszendenten} nach den Vorschriften {sp:Batt.}’s{sup:2})",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bestimmt werden. Wir haben daher den Aszendenten nach den Vorschriften Batt.’s2)",
+   "italic": [
+    "Aszendenten"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L38",
+   "n": 38,
+   "kind": "text",
+   "text": "bestimmt und ihn = 297° 3′ gefunden. Auch die Regel für die Auffindung des",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bestimmt und ihn = 297° 3′ gefunden. Auch die Regel für die Auffindung des",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L39",
+   "n": 39,
+   "kind": "text",
+   "text": "{i:Medium Coelum} scheint bei {sp:Kh.} fehlerhaft zu sein, zum mindesten ist es unklar, von",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Medium Coelum scheint bei Kh. fehlerhaft zu sein, zum mindesten ist es unklar, von",
+   "italic": [
+    "Medium Coelum"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-L40",
+   "n": 40,
+   "kind": "text",
+   "text": "was man die 90° zu subtrahieren habe, ob vom {i:Aszendenten} selbst, oder von seiner",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "was man die 90° zu subtrahieren habe, ob vom Aszendenten selbst, oder von seiner",
+   "italic": [
+    "Aszendenten"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) {i:Transl.} {sp:Burgess}, p. 285—295.",
+   "margin": null,
+   "plain": "1) Transl. Burgess, p. 285—295.",
+   "italic": [
+    "Transl."
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Burgess"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0124-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "{sup:2}) Ed. {sp:Nallino}, I, 73.",
+   "margin": null,
+   "plain": "2) Ed. Nallino, I, 73.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Nallino"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «92» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «Ekliptik ist).» completes the sentence that ends p. 91 (JP2 0123, L38), «wenn Z der Zenit und P der Pol der».",
+  "L01-L08: al-Battānī's parallax of altitude in the circle Z A of the figure of p. 91, resolved by the sines of the angles of longitude and latitude. L14-L29: al-Khwārizmī's Table 77: its first column is the hour angle of the moon for the parallax in longitude and its ecliptic zenith distance, at the culmination of the point of the ecliptic, for the parallax in latitude; to be compared with the table.",
+  "L30-L41. Checked: the true conjunction of 23 January 901, 6h 44m 29s in the morning at Cordova (p. 83, JP2 0115), with the true longitude of the sun and the moon 303° 19′ 48″ and an obliquity of 23° 51′: the right ascension of the sun is 305° 43′, the hour angle −78° 53′, the right ascension of the midheaven 226° 50′; the ascendant comes out at 297° 33′, 297° 16′ and 296° 48′ for latitudes of 37° 30′, 37° 53′ (Cordova) and 38° 30′, so that Suter's 297° 3′ answers to a latitude of about 38° 10′. The point of the ecliptic in the midheaven is then 229° 23′. The sun, about a quarter of an hour before its rising, stands about 6° after the ascendant.",
+  "L23: «zo bezeichnen»; see the critical note. L41: a dark mark above the u of «subtrahieren», not an umlaut; not transcribed. L39: «Aszensional-Differenz», with sz, where pp. 73-75 (JP2 0105-0107) have «Ascensional-Differenz»; as printed. L33: «29. Muḥarram» upright, with the dot under the ḥ; L34: «18h 44m 29s», the letters raised.",
+  "The dashes: L01 «93—94», L32 «82—84», N01 «285—295», the long dash set close; L28 «ist. — In», the long dash with a space on either side.",
+  "Spaced type, marked {sp:}: «Batt.», «Kh.», «Burgess», «Nallino»; italics: «ZA», «Parallaxe», «Länge», «Breite» (L05, L19, L24), «Sūrya-Siddhānta», «Meridiandistanz», «Ekliptik-Zenitdistanz», «Funktion», «Stundenwinkels,», «Zenitdistanz.», «Stundenwinkel», «Medium Coelum», «Aszendenten», «Horoscopus», «Beispiel», «Konjunktion», «Transl.».",
+  "The colons and semicolons stand after the thin space of the edition (8-12 px measured).",
+  "The list of misprints, p. [237] (JP2 0271, L15), reads «so» for «zo» in L22, the 19th line from the foot of the text (critical note AK07-CN072)."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK07-CN072",
+   "class": "misprint",
+   "line": "L22",
+   "printed": "Länge, zo bezeichnen",
+   "proposed": "Länge, so bezeichnen",
+   "evidence": "the correlative «so» after the conditional clause «Handelt es sich um …», as in «Breite, so bedeuten sie» (L24-L25); the s is printed as z",
+   "confidence": "high",
+   "impact": "none"
+  }
+ ]
+}

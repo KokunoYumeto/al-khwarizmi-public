@@ -1,0 +1,22 @@
+{
+ "anchor": "AK07-J0264",
+ "jp2_index": 264,
+ "jp2_member": "b24872489_0264.jp2",
+ "jp2_sha256": "e6f25882d45c857e1a3a3e04035f72dcebe8756c9eafc3bd46570dec1953de07",
+ "reading_copy": "page_0264.jpg",
+ "reading_copy_sha256": "8104f9276039e308304bc1219dca1bbe1c6c8e0d36a6adbd0ea33dfeea554d7d",
+ "printed_page": "[232]",
+ "kind": "blank",
+ "language": null,
+ "role": "blank",
+ "file": "suter",
+ "comment": "JP2 0264: the back of p. 231, p. [232]; nothing printed.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Blank. Tab. 116 of p. 231 (JP2 0263) shows through the leaf, mirrored; damp stains run down from the top and up from the foot; small specks."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

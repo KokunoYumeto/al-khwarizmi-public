@@ -1,0 +1,457 @@
+{
+ "anchor": "AK05-F026",
+ "frame": 26,
+ "frame_file": "page_026.jpg",
+ "frame_sha256": "166fb6d590008df1a9477c7cd6ab78bf5e99a27907f52c16b4f1bbc349767d45",
+ "printed_page": "٢٠",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 026, printed p. 20: the cities of the fourth clime continued, entries 268-286: al-Muthaqqab on the sea, Damascus, Ḥimṣ, Salamiyya, Ḥalab, Manbij, Anṭākiya, al-Maṣṣīṣa, Ṭarsūs, al-Ḥiyār, Bālis, Ḥamāh, Shayzar, Jisr Manbij, Maʿarrat al-Nuʿmān, Fāmiya, al-Raqqa al-Bayḍāʾ, Mayyāfāriqīn and Tadmur. One line of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F026-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٢٦٨) | | المثقّب{n:a} على البحر | س | ل | لو | ك",
+   "margin": null,
+   "cells": [
+    "(٢٦٨)",
+    "",
+    "المثقّب{n:a} على البحر",
+    "س",
+    "ل",
+    "لو",
+    "ك"
+   ],
+   "plain": "(٢٦٨) | | المثقّب على البحر | س | ل | لو | ك",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٢٦٩) | [١٧٧] | دمشق على حدّ الجبل | س | {z} | لح | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٦٩)",
+    "[١٧٧]",
+    "دمشق على حدّ الجبل",
+    "س",
+    "{z}",
+    "لح",
+    "{z}"
+   ],
+   "plain": "(٢٦٩) | [١٧٧] | دمشق على حدّ الجبل | س | ō | لح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٢٧٠) | [١٨١] | حمص | سا | {z} | لد | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٧٠)",
+    "[١٨١]",
+    "حمص",
+    "سا",
+    "{z}",
+    "لد",
+    "{z}"
+   ],
+   "plain": "(٢٧٠) | [١٨١] | حمص | سا | ō | لد | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٢٧١) | [١٨٣] | سلميّة | سٮ | مه | لح | ل",
+   "margin": null,
+   "cells": [
+    "(٢٧١)",
+    "[١٨٣]",
+    "سلميّة",
+    "سٮ",
+    "مه",
+    "لح",
+    "ل"
+   ],
+   "plain": "(٢٧١) | [١٨٣] | سلميّة | سٮ | مه | لح | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٢٧٢) | [١٨٤] | حلب | سح | {z} | لد | ل",
+   "margin": null,
+   "cells": [
+    "(٢٧٢)",
+    "[١٨٤]",
+    "حلب",
+    "سح",
+    "{z}",
+    "لد",
+    "ل"
+   ],
+   "plain": "(٢٧٢) | [١٨٤] | حلب | سح | ō | لد | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٢٧٣) | [١٨٥] | منبج | سح | مه | له | ل",
+   "margin": null,
+   "cells": [
+    "(٢٧٣)",
+    "[١٨٥]",
+    "منبج",
+    "سح",
+    "مه",
+    "له",
+    "ل"
+   ],
+   "plain": "(٢٧٣) | [١٨٥] | منبج | سح | مه | له | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٢٧٤) | [١٨٢] | انطاكيّة | سا | له | لد | ى",
+   "margin": null,
+   "cells": [
+    "(٢٧٤)",
+    "[١٨٢]",
+    "انطاكيّة",
+    "سا",
+    "له",
+    "لد",
+    "ى"
+   ],
+   "plain": "(٢٧٤) | [١٨٢] | انطاكيّة | سا | له | لد | ى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٢٧٥) | | المصيصة قرب البحر | ٮط | م | لو | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٧٥)",
+    "",
+    "المصيصة قرب البحر",
+    "ٮط",
+    "م",
+    "لو",
+    "{z}"
+   ],
+   "plain": "(٢٧٥) | | المصيصة قرب البحر | ٮط | م | لو | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٢٧٦) | [٣٢٦] | طرسوس قرب البحر | ٮح | {z} | لو | ٮه",
+   "margin": null,
+   "cells": [
+    "(٢٧٦)",
+    "[٣٢٦]",
+    "طرسوس قرب البحر",
+    "ٮح",
+    "{z}",
+    "لو",
+    "ٮه"
+   ],
+   "plain": "(٢٧٦) | [٣٢٦] | طرسوس قرب البحر | ٮح | ō | لو | ٮه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٢٧٧) | [١٨٦] | الحيار | سد | ٮه | لح | ل",
+   "margin": null,
+   "cells": [
+    "(٢٧٧)",
+    "[١٨٦]",
+    "الحيار",
+    "سد",
+    "ٮه",
+    "لح",
+    "ل"
+   ],
+   "plain": "(٢٧٧) | [١٨٦] | الحيار | سد | ٮه | لح | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٢٧٨) | [١٨٧] | بالس | سه | ٮه | لو | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٧٨)",
+    "[١٨٧]",
+    "بالس",
+    "سه",
+    "ٮه",
+    "لو",
+    "{z}"
+   ],
+   "plain": "(٢٧٨) | [١٨٧] | بالس | سه | ٮه | لو | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٢٧٩) | | حماة | سٮ | ٮه | لو | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٧٩)",
+    "",
+    "حماة",
+    "سٮ",
+    "ٮه",
+    "لو",
+    "{z}"
+   ],
+   "plain": "(٢٧٩) | | حماة | سٮ | ٮه | لو | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٧٨٠) | | شيزر | سٮ | ى | لد | ك",
+   "margin": null,
+   "cells": [
+    "(٧٨٠)",
+    "",
+    "شيزر",
+    "سٮ",
+    "ى",
+    "لد",
+    "ك"
+   ],
+   "plain": "(٧٨٠) | | شيزر | سٮ | ى | لد | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٢٨١) | [٣٣٨] | جسر منبج | سد | له | لو | ٮه",
+   "margin": null,
+   "cells": [
+    "(٢٨١)",
+    "[٣٣٨]",
+    "جسر منبج",
+    "سد",
+    "له",
+    "لو",
+    "ٮه"
+   ],
+   "plain": "(٢٨١) | [٣٣٨] | جسر منبج | سد | له | لو | ٮه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٢٨٢) | | معرّة النعمان | سٮ | ل | لد | ن",
+   "margin": null,
+   "cells": [
+    "(٢٨٢)",
+    "",
+    "معرّة النعمان",
+    "سٮ",
+    "ل",
+    "لد",
+    "ن"
+   ],
+   "plain": "(٢٨٢) | | معرّة النعمان | سٮ | ل | لد | ن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٢٨٣) | | فامية | سٮ | ى | لد | ك",
+   "margin": null,
+   "cells": [
+    "(٢٨٣)",
+    "",
+    "فامية",
+    "سٮ",
+    "ى",
+    "لد",
+    "ك"
+   ],
+   "plain": "(٢٨٣) | | فامية | سٮ | ى | لد | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(٢٨٤) | [١٨٨] | الرقّة البيضاء | سو | {z} | لو | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٨٤)",
+    "[١٨٨]",
+    "الرقّة البيضاء",
+    "سو",
+    "{z}",
+    "لو",
+    "{z}"
+   ],
+   "plain": "(٢٨٤) | [١٨٨] | الرقّة البيضاء | سو | ō | لو | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L18",
+   "n": 18,
+   "kind": "row",
+   "text": "(٢٨٥) | [٢٩٨] | ميّافارقين{n:b} | سد | م{n:c} | لر | ٮه",
+   "margin": null,
+   "cells": [
+    "(٢٨٥)",
+    "[٢٩٨]",
+    "ميّافارقين{n:b}",
+    "سد",
+    "م{n:c}",
+    "لر",
+    "ٮه"
+   ],
+   "plain": "(٢٨٥) | [٢٩٨] | ميّافارقين | سد | م | لر | ٮه",
+   "note_marks": [
+    "b",
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F026-L19",
+   "n": 19,
+   "kind": "row",
+   "text": "(٢٨٦) | | تدمر | سو | ⟨{z}⟩{n:d} | له | ⟨{z}⟩{n:d}",
+   "margin": null,
+   "cells": [
+    "(٢٨٦)",
+    "",
+    "تدمر",
+    "سو",
+    "⟨{z}⟩{n:d}",
+    "له",
+    "⟨{z}⟩{n:d}"
+   ],
+   "plain": "(٢٨٦) | | تدمر | سو | ⟨ō⟩ | له | ⟨ō⟩",
+   "note_marks": [
+    "d",
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "lines": 1,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: the editor gives the reading of the manuscript as المڡٮ: after ال a م, then a raised loop with a counter and a final ب without its dot, without the tooth of the ث and without the dots of the ق and of the ب.",
+  "L18: the manuscript reads مناڡارقيں for ميّافارقين, with the dot of the ن after the م but not those of the ف and of the final ن.",
+  "L18: for the longitude, سد م, the manuscript gives the variant reading سه م, printed with a line above the numerals.",
+  "L19: the minutes of the longitude and of the latitude are missing in the manuscript."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 025 without a heading: the cities of the fourth clime, entries 268-286. No entry has the word «مدينة». Entries 268, 275, 279, 280, 282, 283 and 286 have no numbers of Suhrāb; the others have [١٧٧], [١٨١], [١٨٣], [١٨٤], [١٨٥], [١٨٢] (entries 269-274), [٣٢٦] (entry 276), [١٨٦], [١٨٧] (entries 277-278), [٣٣٨] (entry 281), [١٨٨] (entry 284) and [٢٩٨] (entry 285).",
+  "L13: the running number is printed «(٧٨٠)», with a ٧ for the first digit, between (٢٧٩) and (٢٨١); transcribed as printed, with a critical note.",
+  "Signs in the names, transcribed as printed: a shadda over the ق of «المثقّب» (L01), over the د of «حدّ» (L02), over the ي of «سلميّة» (L04), «انطاكيّة» (L07) and «ميّافارقين» (L18), over the ر of «معرّة» (L15) and over the ق of «الرقّة» (L17); «البيضاء» (L17) ends in a hamza on the line after the alif. L01: the three dots of the ث are printed.",
+  "Letters printed without their dots in the numerals, transcribed so: سٮ (L04, L12, L13, L15, L16), the س and a final ب without its dot, a long flat bowl with a short rise at its end, where the isolated س of L01 and L02 has a deep round bowl; ٮط (L08) and ٮح (L09), the tooth without its dot, in the degrees of the longitude; ٮه (L09, L14, L18, the minutes of the latitude; L10-L12, the minutes of the longitude), a tooth joined to a ه. With their dots: ن (L15, the minutes of the latitude).",
+  "L05, L06: the degrees of the longitude are printed سح, without a dot in the bowl of the last letter; the same form is a ج without its dot, 3 (سج, 63), as the ح, 8 (سح, 68). Transcribed as printed.",
+  "L14: below the tooth of the minutes of the latitude, «ٮه», stands a small dark speck, 6 by 8 px, about half the ink of a dot of the font (the dot of the ب of «بالس», L11, is 8 by 8 px); it is not transcribed as a dot.",
+  "Specks, not transcribed: L01, a dark speck to the right of the top of the ل of the minutes of the longitude; L02, a speck above the zero sign of the minutes of the longitude; L13, a round dot to the right of the ك of the minutes of the latitude, on the line; L15, a speck beside the top of the ل of the minutes of the longitude; L16, a speck to the right of the ى of the minutes of the longitude.",
+  "L18: the minutes of the longitude, م, carry the editor's note mark c. L19: the minutes of the longitude and of the latitude are each printed as a zero sign between angle brackets, «⟨ō⟩», with the note mark d: the editor's sign for what he supplies.",
+  "L18, the degrees of the latitude: «لر»: the letter joined to the foot of the ل has the small pointed head of the joined ر, which stands out 8 px from the stem, as the ز of «لز» with its dot (frame 032, L08, L14, L16), where the و of «لو» (L01, L08, L09, L11, L12, L14, L17) is a round loop that stands out 11 to 13 px and begins higher on the stem; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed, which read with ز gives 37.",
+  "The page number «— ٢٠ —» stands at the foot, centred.",
+  "L08: the editor's corrigenda (p. 163, frame 169) read «المصّيصة», with a shadda over the ص (critical note AK05-CN019)."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK05-CN001",
+   "class": "wrong number",
+   "line": "L13",
+   "printed": "(٧٨٠)",
+   "proposed": "(٢٨٠)",
+   "evidence": "the running numbers of the page go from (٢٧٩) in L12 to (٢٨١) in L14, and the first digit is a ٧, printed like the ٧ of (٢٧٩); the editor's notes do not comment on it",
+   "confidence": "high",
+   "impact": "none on the table: the running number only counts the entries"
+  },
+  {
+   "id": "AK05-CN019",
+   "class": "corrected in the corrigenda",
+   "line": "L08",
+   "printed": "المصيصة",
+   "proposed": "المصّيصة",
+   "evidence": "the editor's list of additions and corrections on p. 163 (frame 169) reads المصّيصة, with a shadda over the ص, for المصيصة in this line, p. 20, line 8",
+   "confidence": "high",
+   "impact": "a vowel sign only: the name of entry 275 reads al-Maṣṣīṣa"
+  }
+ ]
+}

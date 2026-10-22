@@ -1,0 +1,45 @@
+@page 13 7
+% Frame 013, printed p. 7: the places counted from the right, with the names of the fifth to the thirteenth places;
+% the thousands repeated by threes in speech; the example of a number of many places and its reading. One footnote.
+erit in dextera parte, et hec erit differentia unitatum. Relique
+uero differentie erunt descripte per successiones suas uersus
+sinistram partem scriptoris. Ex quibus secunda erit differentia
+decenorum, et tercia centenorum, et quarta milium, et quinta
+.{sc:x}. milium. Sexta uero differentia erit .{sc:c}. milium, et septima
+@m car. 104 {i:recto}.
+mille milium. Rursum {sc:viii}.{sup:ua} erit .{sc:x}. milia milium,| et nona .{sc:c}.
+milia milium, et decima mille mille milium tribus uicibus, et
+undecima .{sc:x}. millia milia milium tribus uicibus, et duodecima
+.{sc:c}. millia milia milium tribus uicibus, et {sc:x̄īīī}. mille mille
+mille milium quatuor uicibus; et similiter in omni differentia
+ex differentiis numeri addes in locutione tua. Quia super tres
+differentias, idest decenorum et centenorum, et milium resi-
+duum fuerit unum, erunt .{sc:x}. milia ipsorum milium que exie-
+runt tibi in dictis. Si uero remanserint duo, erunt .{sc:c}. milia
+ex ipsis milibus: et iam constitui tibi exemplar, quo poteris
+scire ac probare per eum quicquid augmentatur super nume-
+rum, uel minuitur ex eo; et hec est figura eiusdem . . . . (1).
+@p Due litere cum collegeris eas secundum quod diximus de
+his notis, erit numerus milium earum notarum mille mille
+mille millium quinque uicibus secundum numerum caracte-
+rum qui sunt sub eis; uel centum millia milia milia milium
+quatuor uicibus, secundum numerum caracterum qui sunt sub
+eis; uel octoginta milia milia milia milium quatuor uicibus, se-
+cundum quod est ex eis caracteribus. Deinde septingenta mi-
+lia milia milium[milium] tribus uicibus, secundum caracteres
+qui sunt sub eis; et tria milia milia milium tribus uicibus; uel
+quinquaginta unum milia milium duabus uicibus; uel quadrin-
+genta milia et nonaginta duo milia et octingenta sexaginta tres.
+@p Cum uolueris addere numerum super numerum , uel mi-
+@n (1) La lacuna indicata con quattro punti nella linea 17 della presente
+@n pagina trovasi anche nel sopraccitato Codice {i:Ii}. 6. 5. (carta 104 {i:recto}, lin.
+@n 8, 9).
+@obs The page number «( 7 )» stands at the head of the page, centred. The page has no signature.
+@obs L06: «viii.ua», octaua, the eighth: «viii.» in small capitals and «ua» raised after the point. The vertical bar after «milium,» marks the beginning of fol. 104 recto of the manuscript, which the note in the right margin, «car. 104 recto.», names; transcribed as a margin note. L09: «x̄īīī.», the thirteenth, in small capitals with a bar over the four letters.
+@obs L08-L09, L20-L21: the text writes «millia» beside «milia» (L08 «.x. millia milia milium», L09 «.c. millia milia milium», L20 «mille millium», L21 «centum millia milia milia milium»); transcribed as printed.
+@obs L17: the four points of the gap after «eiusdem», where the figure of the example of L18-L28 stands in the manuscript, are spaced apart, «. . . .»; the editor's footnote (1) says that the gap is in the manuscript too, at fol. 104 recto, lines 8-9.
+@obs L18-L28: the number of the example is read out place by place: «mille mille mille millium quinque uicibus», a thousand taken five times, 10^15; «centum millia milia milia milium quatuor uicibus», 100 × 1000^4; «octoginta milia milia milia milium quatuor uicibus», 80 × 1000^4; «septingenta milia milia milium[milium] tribus uicibus», 700 × 1000^3; «tria milia milia milium tribus uicibus», 3 × 1000^3; «quinquaginta unum milia milium duabus uicibus», 51 × 1000^2; and «quadringenta milia et nonaginta duo milia et octingenta sexaginta tres», 492,863: in all 1,180,703,051,492,863. Each count, «quatuor», «tribus», «duabus uicibus», agrees with the number of the words for thousand that precede it, the bracketed «[milium]» set aside, except the first: «quinque uicibus» follows four words, «mille mille / mille millium» (L19-L20); see the critical note.
+@obs L25: «milium[milium]»: the repeated word stands between square brackets, which are printed in the ink of the text (their darkest pixels 13 to 25, the colour of the letters), in a heavy slanting form; the opening bracket touches the first «milium». Transcribed as printed.
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): L12 «differentias, idest» (14 px, the median word space of the line 24.5 px) and L22 «uicibus, secundum» (13 px) have a space after the comma; L29 «numerum , uel» has 11 px before the comma, transcribed with a space.
+@copy A reader's notes in pencil: in the left margin, «· milla» beside L09, with «li» of «millia» underlined; in the right margin, «xiii» with a raised «a» beside L09, the thirteenth, with a stroke under «x̄īīī.» in the line; «Quod» beside L11, with a stroke over «Quia»; L12, the figures 3, 2 and 1 written above «decenorum», «et» and «centenorum»; beside L19, «× hier fehlt: mille» (German: here «mille» is missing), with a cross written in L20 between «mille» and «millium»; L20, «ra-» after «caracte-»; «quod» beside L21 and L23, with «uel» underlined in L21, L23 and L26, and «quod» beside L26. Not part of the edition.
+@critical AK02-CN005 | missing word | L20 | mille mille mille millium quinque uicibus | mille mille mille mille millium quinque uicibus | the count «quinque uicibus», five times, follows four words for thousand, «mille mille» (L19) and «mille millium» (L20), where each of the other counts of the example agrees with the number of the words that precede it (four, three and two times, L21-L27); a reader of this copy marked the place with a cross and wrote «hier fehlt: mille» in the margin | medium | the first term of the example reads 1000^5, as the count says; whether the word is missing in the edition or in the manuscript is not shown by the print

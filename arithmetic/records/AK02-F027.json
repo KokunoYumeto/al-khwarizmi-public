@@ -1,0 +1,453 @@
+{
+ "anchor": "AK02-F027",
+ "frame": 27,
+ "frame_file": "page_027.jpg",
+ "frame_sha256": "85555252134ec28d5e18eb7a3cb3652b428fc5a1154b732ae844841ac5486f9e",
+ "printed_page": "21",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 027, printed p. 21: ten seconds by five minutes concluded; the proof of division; ten minutes by five thirds and its proof; how to set out a whole number with its fractions, the example 12 degrees, 30 minutes, 46 seconds and 50 fourths.",
+ "lines": [
+  {
+   "id": "AK02-F027-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "una differentia, que sunt secunda: et scito quare omnis nume-",
+   "margin": null,
+   "plain": "una differentia, que sunt secunda: et scito quare omnis nume-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "rus qui diuiditur super aliquem numerum,quod extrahitur de",
+   "margin": null,
+   "plain": "rus qui diuiditur super aliquem numerum,quod extrahitur de",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "diuiso, si multiplicatur in eo super quem diuiditur, redibit",
+   "margin": null,
+   "plain": "diuiso, si multiplicatur in eo super quem diuiditur, redibit",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "numerus primus, idest numerus qui diuiditur. Cuius rei exem-",
+   "margin": null,
+   "plain": "numerus primus, idest numerus qui diuiditur. Cuius rei exem-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "plar est : quare cum diuiseris .{sc:l}. super .{sc:x}. exibunt que de-",
+   "margin": null,
+   "plain": "plar est : quare cum diuiseris .l. super .x. exibunt que de-",
+   "italic": [],
+   "small_caps": [
+    "l",
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "bentur uni, idest quinque. Cumque multiplicaueris id quod",
+   "margin": null,
+   "plain": "bentur uni, idest quinque. Cumque multiplicaueris id quod",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "exiuit tibi de diuiso, idest quinque, in eo super quem diuidis",
+   "margin": null,
+   "plain": "exiuit tibi de diuiso, idest quinque, in eo super quem diuidis",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "que sunt .{sc:x}., redibit numerus primus, idest .{sc:l}. Cum ergo di-",
+   "margin": null,
+   "plain": "que sunt .x., redibit numerus primus, idest .l. Cum ergo di-",
+   "italic": [],
+   "small_caps": [
+    "x",
+    "l"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "uideremus .{sc:x}. secunda super .{sc:v}. minuta, exiuit quod debetur",
+   "margin": null,
+   "plain": "uideremus .x. secunda super .v. minuta, exiuit quod debetur",
+   "italic": [],
+   "small_caps": [
+    "x",
+    "v"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "uni, idest duo secunda: et cum multiplicaremus duo secun-",
+   "margin": null,
+   "plain": "uni, idest duo secunda: et cum multiplicaremus duo secun-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "da, hoc est quod exiuit nobis ex diuisione, in eo super quod",
+   "margin": null,
+   "plain": "da, hoc est quod exiuit nobis ex diuisione, in eo super quod",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "diuisimus que sunt .{sc:v}. minuta, facta sunt .{sc:x}. secunda, et hec",
+   "margin": null,
+   "plain": "diuisimus que sunt .v. minuta, facta sunt .x. secunda, et hec",
+   "italic": [],
+   "small_caps": [
+    "v",
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "est probatio diuisionis. Item cum uolueris diuidere .{sc:x}. mi-",
+   "margin": null,
+   "plain": "est probatio diuisionis. Item cum uolueris diuidere .x. mi-",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "nuta super .{sc:v}.tercia, uerte minuta in tercia, eruntque .{sc:xxxvi}.",
+   "margin": null,
+   "plain": "nuta super .v.tercia, uerte minuta in tercia, eruntque .xxxvi.",
+   "italic": [],
+   "small_caps": [
+    "v",
+    "xxxvi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "milia tercia; diuidesque super .{sc:v}. tercia, et erunt .{sc:vii}. milia",
+   "margin": null,
+   "plain": "milia tercia; diuidesque super .v. tercia, et erunt .vii. milia",
+   "italic": [],
+   "small_caps": [
+    "v",
+    "vii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "ducenti gradus, et hoc est quod debetur uni.",
+   "margin": null,
+   "plain": "ducenti gradus, et hoc est quod debetur uni.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L17",
+   "n": 17,
+   "kind": "indent",
+   "text": "Cumque hoc uolueris probare, multiplica .{sc:vii}. milia ducen-",
+   "margin": null,
+   "plain": "Cumque hoc uolueris probare, multiplica .vii. milia ducen-",
+   "italic": [],
+   "small_caps": [
+    "vii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "tos gradus in .{sc:v}. tercia, et exibunt .{sc:xxxvi}. milia, que cum di-",
+   "margin": null,
+   "plain": "tos gradus in .v. tercia, et exibunt .xxxvi. milia, que cum di-",
+   "italic": [],
+   "small_caps": [
+    "v",
+    "xxxvi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "uiseris per .{sc:lx}. , exibunt .{sc:vi}. centa secunda; et cum iterum",
+   "margin": null,
+   "plain": "uiseris per .lx. , exibunt .vi. centa secunda; et cum iterum",
+   "italic": [],
+   "small_caps": [
+    "lx",
+    "vi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "diuiseris .{sc:vi}. centa secunda, exibunt decem minuta.",
+   "margin": null,
+   "plain": "diuiseris .vi. centa secunda, exibunt decem minuta.",
+   "italic": [],
+   "small_caps": [
+    "vi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L21",
+   "n": 21,
+   "kind": "indent",
+   "text": "Cum uolueris constituere numerum integrum et fractiones ,",
+   "margin": null,
+   "plain": "Cum uolueris constituere numerum integrum et fractiones ,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "pone numerum integrum in altiori differentia : deinde pone",
+   "margin": null,
+   "plain": "pone numerum integrum in altiori differentia : deinde pone",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "quicquid fuerit ex differentia prima que sunt minuta sub nu-",
+   "margin": null,
+   "plain": "quicquid fuerit ex differentia prima que sunt minuta sub nu-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "mero integro, et secunda sub minutis; et similiter tercia sub",
+   "margin": null,
+   "plain": "mero integro, et secunda sub minutis; et similiter tercia sub",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "secundis , et cetera que uolueris ex differentiis. Cuius rei",
+   "margin": null,
+   "plain": "secundis , et cetera que uolueris ex differentiis. Cuius rei",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "exemplar est. Quod cum uellemus constituere .{sc:xii}. gradus et",
+   "margin": null,
+   "plain": "exemplar est. Quod cum uellemus constituere .xii. gradus et",
+   "italic": [],
+   "small_caps": [
+    "xii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L27",
+   "n": 27,
+   "kind": "text",
+   "text": ".{sc:xxx}. minuta, .{sc:xl}. quoque .{sc:vi}. secunda, et .{sc:l}. quarta, con-",
+   "margin": null,
+   "plain": ".xxx. minuta, .xl. quoque .vi. secunda, et .l. quarta, con-",
+   "italic": [],
+   "small_caps": [
+    "xxx",
+    "xl",
+    "vi",
+    "l"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "stituimus .{sc:xii}. Post hec posuimus sub eis .{sc:xxx}. in differen-",
+   "margin": null,
+   "plain": "stituimus .xii. Post hec posuimus sub eis .xxx. in differen-",
+   "italic": [],
+   "small_caps": [
+    "xii",
+    "xxx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "tia minutorum ; et sub .{sc:xxx}. {sc:xlv}. in differentia secundo-",
+   "margin": null,
+   "plain": "tia minutorum ; et sub .xxx. xlv. in differentia secundo-",
+   "italic": [],
+   "small_caps": [
+    "xxx",
+    "xlv"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "rum. In differentia uero terciorum posuimus circulos, quare",
+   "margin": null,
+   "plain": "rum. In differentia uero terciorum posuimus circulos, quare",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "carebat terciis, et ut sciremus quare adhuc restabant quarta.",
+   "margin": null,
+   "plain": "carebat terciis, et ut sciremus quare adhuc restabant quarta.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "Deinde posuimus sub circulis quinquaginta in differentia",
+   "margin": null,
+   "plain": "Deinde posuimus sub circulis quinquaginta in differentia",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F027-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "quartorum; et hec est figura eorum.",
+   "margin": null,
+   "plain": "quartorum; et hec est figura eorum.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 21 )» stands at the head of the page, centred. The page has no footnotes and no signature.",
+  "L01-L13: ten seconds by five minutes concluded (p. 20, frame 026, L24-L33): the multiplication by sixty and the division lower the result by one place, named «secunda» (see the critical note). The proof of division: what the division gives, multiplied by the divisor, returns the number divided: fifty by ten, five, and five by ten, fifty; the two of the example by five minutes gives ten seconds, «et hec est probatio diuisionis». L13-L20: ten minutes by five thirds: ten minutes are 36000 thirds, which divided by five thirds give 7200 whole degrees; the proof: 7200 degrees by five thirds, 36000 thirds, divided by sixty, 600 seconds, and by sixty again, ten minutes.",
+  "L21-L33: how to set out a whole number with its fractions: the whole number in the highest place, the minutes under it, the seconds under the minutes, the thirds under the seconds, and so on. The example: twelve degrees, thirty minutes, forty-six seconds («.xl. quoque .vi.») and fifty fourths: twelve; under it thirty in the place of the minutes; under the thirty «xlv.», forty-five, in the place of the seconds (see the critical note); circles in the place of the thirds, which are lacking; fifty in the place of the fourths. L33 «et hec est figura eorum.»: the figure is not printed.",
+  "Numerals: L05, L08 and L27 «.l.», fifty; L29 «xlv.» without the opening point. L15 «et» before «erunt», L23 «sunt» and L33 «et» are set with spaced letters (6 to 7 px between the letters); transcribed as words.",
+  "Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): with a space before the mark, L05 «est :» (21 px), L19 «.lx. ,» (10 px), L21 «fractiones ,» (13 px), L22 «differentia :» (22 px), L25 «secundis ,» (18 px) and L29 «minutorum ;» (18 px); without a space after the mark, L02 «numerum,quod» (7 px, the median word space of the line 15 px) and L14 «.v.tercia» (7 px, median 18 px). L10 «secunda:», the colon 9 px from the word, and L25 «differentiis.», the point 9 px from the word, are set close. L05 «.x. exibunt» (13 px, median 19.5 px), L07 «diuiso, idest» (12 px) and L14 «tercia, uerte» (12 px) have a space. Specks after the commas of L10 «uni,» and L11 «da,» and the pencil above the colon of L05 «est :» shorten the measured gaps; the gaps to the next word are 17, 18 and 28 px.",
+  "L01: «secunda:» is a colon; below the lower dot a light trace (darkest pixel 101) runs down to the left, not a printed tail. The semicolons of L15, L19, L24, L29 and L33 have printed tails (darkest pixel 42 to 68). L26: a light mark above the point of «est.» (darkest pixel 113) is not transcribed."
+ ],
+ "copy_matter": [
+  "A reader's notes in pencil: «quod» beside the page number at the head of the page; L01, «et» underlined, «quare» underlined with a hooked stroke, and «quia» with the same stroke in the right margin; «quia» written between L04 and L05 above «quare» (L05), which is underlined; L10, «et» underlined and «quod» in the right margin; L16, a curved line under «gradus, et hoc est quod debetur uni.» ending in a bracket after «uni.», and a bracket before «Cumque» (L17); L31, «quare» underlined and «quia» in the right margin; L33, «hec» underlined and «hoc» in the right margin. Not part of the edition."
+ ],
+ "critical_notes": [
+  {
+   "id": "AK02-CN018",
+   "class": "wrong order",
+   "line": "L01",
+   "printed": "secunda (L01); duo secunda (L10); duo secun-da (L10-L11)",
+   "proposed": "minuta; duo minuta; duo minuta",
+   "evidence": "the quotient of ten seconds by five minutes is two minutes (p. 20, L24-L33, and the critical note there): one multiplication by sixty and a division lower the result by one place from the units, to the minutes; the proof (L09-L12) multiplies the quotient by five minutes and gets ten seconds, which holds for two minutes, two seconds by five minutes being ten thirds",
+   "confidence": "high",
+   "impact": "the quotient is named seconds for minutes in the conclusion and in the proof; the figures are right"
+  },
+  {
+   "id": "AK02-CN019",
+   "class": "inconsistent numerals",
+   "line": "L27",
+   "printed": ".xl. quoque .vi. secunda (L27); sub .xxx. xlv. (L29)",
+   "proposed": "the same number of seconds in both places, 46 or 45",
+   "evidence": "the number to be set out has forty-six seconds, «.xl. quoque .vi. secunda» (L27), and the seconds set out under the thirty minutes are «xlv.», forty-five (L29); the figure, which would decide, is not printed",
+   "confidence": "medium",
+   "impact": "the example states 46 seconds and sets out 45"
+  }
+ ]
+}

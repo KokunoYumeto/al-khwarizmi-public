@@ -1,0 +1,216 @@
+{
+ "anchor": "AK01-F053",
+ "frame": 53,
+ "frame_file": "page_053.jpg",
+ "frame_sha256": "f8b47388b26294af6376051dc88312aa4b76d452a6d278ee3f5c3138286f42e1",
+ "printed_page": "٣٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 053, printed p. 37: the fourth of the six problems solved (completing the square: the quantity is twelve; squares and roots equal to a number); then the fifth problem, «والمسألة الخامسة», in bold: ten divided into two parts whose squares added give fifty-eight, continued on the next page. Below the rule a footnote of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F053-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "وربع شىء ودرهم تعدل عشرين درهما فالق من العشرين درهما بدرهم فتبقى تسعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F053-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "عشر درهما تعدل نصف سدس مال وثلث شىء وربع شىء فكمل مالك واكماله",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F053-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "أن تضرب كل ما معك فى اثنى عشر فيصير معك مال وسبعة أجذار",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F053-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "تعدل مائتين وثمانية وعشرين درهما فنصف الاجذار واضربها فى مثلها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F053-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "تكن اثنى عشر وربعاً فزدها على الاعداد وهى مائتان وثمانية وعشرين فيكون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F053-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "مائتين واربعين وربعا فخذ جذرها خمسة عشر ونصفاً فانقص منه نصف الأجذار",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F053-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "وهو ثلاثة ونصف يبقى اثنى عشر وهو المال فقد أخرجتك هذه المسئلة الى أحد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F053-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "الأبواب الستةوهى أموال وجذور تعدل عدداً. {b:والمسألة الخامسة} عشرة قسمتها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "والمسألة الخامسة"
+   ]
+  },
+  {
+   "id": "AK01-F053-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "قسمين ثم ضربت كل قسم فى نفسه وجمعتهما فكانا ثمانيةوخمسين درهما {n:١} . قياسه",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F053-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "أن تجعل أحد القسمين شيئا والآخر عشرة الا شيئا فاضرب عشرة الا شيئا فى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F053-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "مثلها فيكون مائة ومالا الا عشرين شيئاً ثم تضرب شيئا فى شىء فيكون مالا ثم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F053-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "تجمعهما فيكون ذلك مائةومالين الاعشرين شيئا تعدل ثمانية وخمسين درهما فاجبر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F053-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "المائة والمالين بالعشرين الشىء الناقصة وزدها على الثمانية والخمسين فيكون مائة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F053-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "ومالين تعدل ثمانية وخمسين درهما وعشرين شيئاً فاردد ذلك الى مال واحد وهو",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F053-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "أن تأخذ نصف مامعك فيكون خمسين درهماً ومالا تعدل تسعةوعشرين درهماً",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F053-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "وعشرة أشياء فقابل به وذلك أنك تلقى من الخمسين تسعة وعشرين فيبقى أحد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F053-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "وعشرون ومال تعدل عشرة أشياء فنصف الاجذار يكون خمسة واضربها فى مثلها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L08: the words والمسألة الخامسة are printed in a bold face, the run-in heading of the fifth problem; عشرة, which follows, is in the face of the text.",
+  "L07: المسئلة is printed with the hamza on a yā' seat, where the same word has the hamza on the alif in the heading of L08 and on frames 049-052.",
+  "L02: واكماله is the conjunction و and اكماله. The و stands 15 px from the alif (nearest approach of the letter bodies at 400 ppi) and the alif 15 px from the ك, about as far as an alif stands from the next letter inside a word (9 in مالك, in the same line; 8 to 17 px on frame 052); no word space is written.",
+  "Set without a word space after a non-connecting letter, and transcribed so: الستةوهى (L08; 4 between the ة and the و), ثمانيةوخمسين (L09; 8), مائةومالين (L12; 5), تسعةوعشرين (L15; 7), where the ة stands 20 px or more from the next word elsewhere on this page; مامعك (L15; 10 between the alif and the م, where ما معك stands 27 apart in L03); الاعشرين (L12; 20 between the لا and the ع, as inside الاعداد, L05, 20, where الا عشرين stands 29 apart in L11).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: شىء ودرهم (L01; 15 between the hamza and the و, where the hamza on the line stands 4 to 6 px from the next letter in شىءفى and شىءودرهمافى on frame 052 and 21 or more where a space is set).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: من العشرين (L01), أن تضرب (L03), واربعين وربعا, فانقص منه (L06), اثنى عشر (L07), وهى أموال (L08; 11), ثم ضربت, كل قسم, فى نفسه (L09), أن تجعل (L10), فيكون ذلك, عشرين شيئا, وخمسين درهما (L12), الى مال (L14), أن تأخذ, فيكون خمسين (L15), وعشرون ومال, يكون خمسة, فى مثلها (L17).",
+  "L08: the full stop stands close after عدداً (16 px from the alif), 37 px before the bold heading. L09: the note mark (١) stands after درهما with a space (24 px), and the full stop after it stands 24 px from it and 21 px from قياسه.",
+  "L05: مائتان وثمانية وعشرين, and L07: يبقى اثنى عشر, as printed.",
+  "Plain alif where a hamza might be expected, as printed: فالق (L01), واكماله (L02), اثنى (L03, L05, L07), الاجذار, واضربها (L04), الاعداد (L05), واربعين, فانقص (L06), الى (L07, L14), الا (L10, twice; L11, twice), الاعشرين, فاجبر (L12), فاردد (L14), الاجذار, واضربها (L17); with hamza: أن, أجذار (L03), الأجذار (L06), أخرجتك, أحد (L07), الأبواب, أموال, والمسألة (L08), أن, أحد (L10), أن, تأخذ (L15), أشياء, أنك, أحد (L16), أشياء (L17); with madda: والآخر (L10); on ي: مائتين (L04, L06), مائتان (L05), المسئلة (L07), مائة (L11, L13), مائةومالين (L12), المائة (L13); the hamza on the line: شىء (L01; L02, twice; L11), الشىء (L13), أشياء (L16, L17).",
+  "With tanwīn on the final alif: وربعاً (L05), ونصفاً (L06), عدداً (L08), شيئاً (L11, the first; L14), درهماً (L15, twice); without tanwīn as printed: درهما (L01, twice; L02, L04, L09, L12, L14), وربعا (L06), شيئا (L10, three times; L11, the second; L12), ومالا (L11, L15), مالا (L11).",
+  "The final yā' is printed without dots: فتبقى (L01), فى (L03, L04, L09, L10, L11, L17), اثنى (L03, L05, L07), على (L05, L13), وهى (L05), يبقى, الى (L07), الستةوهى (L08), الى (L14), تلقى, فيبقى (L16); and before the hamza in شىء throughout.",
+  "The print stretches أجذار (L03, between the ج and the ذ, at the end of the line), the second معك (L03, between the ع and the ك), تعدل (L04, at the beginning of the line, between the ع and the د), واضربها (L04, between the ه and the alif) and تكن (L05, at the beginning of the line) with the elongation stroke; the stroke is not transcribed.",
+  "Note (١) of the editors restates the fifth problem as an equation in modern notation and solves it (the parts are seven and three); not reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

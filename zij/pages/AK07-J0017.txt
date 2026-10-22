@@ -1,0 +1,49 @@
+@page 17 XIII
+@lang de
+% JP2 0017: the introduction, p. XIII: Robert's Latin renderings of the Arabic terms; the relation of C and O (Bjornbo's
+% view, through Heiberg); Hermannus Dalmata as a possible second translator; the transcription of shin as sh or sc.
+lateinische ersetzt hat ; so hat er für {i:dakaicae} stets {i:minuta}, für {i:eltheniae secunda}, für
+{i:elwacat medius cursus}, für {i:tadil coaequatio} (nicht {i:aequatio}), für {i:elgeib sinus}, für {i:elfelek}
+{i:elmustakim circulus aequatorialis} oder {i:aequinoctialis}, etc.
+@p Am schwierigsten ist das Verhältnis von C zu O und die Beziehung beider
+zum Autographen {sp:Athelhards} zu erklären. {sp:Björnbo}, der hierüber keine schrift-
+lichen Angaben hinterlassen hat, war nach einer brieflichen Mitteilung von Herrn
+Prof. {sp:Heiberg} in Kopenhagen an mich der Ansicht, „dass nur Abschriften zweier
+nicht vollendeten Arbeitsexemplare des Übersetzers vorlägen, so dass die Restitution
+eines Urtextes unmöglich wäre ; vielmehr müssten in vielen Fällen beide Texte
+neben einander gedruckt werden.“ So stark weichen nun doch die beiden Texte
+C und O nicht von einander ab, dass dies notwendig wäre, {sp:Björnbo} hat selbst nur
+in einem einzigen Kapitel (Nr. 7) dies getan, und wir sind ihm hierin gefolgt. Darin
+hat er recht, dass eine Restitution des Urtextes unmöglich ist, und dass sehr wahr-
+scheinlich Text und Tafeln auch in C und O unvollständig sind, wenn auch in
+geringem Masse. Die Abweichungen sind aber immerhin derart, dass sie nicht vom
+blossen Abschreiben der einen Handschrift von der andern herrühren können ; darum
+hat sich uns die Vermutung aufgedrängt, der Schreiber von O oder von C, welcher
+von beiden können wir nicht entscheiden, habe neben der Übersetzung {sp:Athelhards}
+noch eine andere vor sich gehabt, und habe nun bald aus der einen, bald aus der
+andern den Text genommen, der ihm als der bessere erschien. In der Tat ist es
+sehr wahrscheinlich, dass auch {sp:Hermannus Dalmata}, Zeitgenosse und Freund des
+{sp:Robert v. Chester}, die (von {sp:Maslama} umgeänderten) Tafeln {sp:Al-Khwārizmīs}
+übersetzt habe. An einer Stelle der Übersetzung des von {sp:Maslama} kommentierten
+{i:Planisphärium} des {sp:Ptolemäus}, die lange Zeit fälschlich dem {sp:Rudolf von Brügge}
+zugeschrieben wurde, sagt {sp:Hermannus} : {i:Quem locum a Ptolemaeo minus diligenter}
+{i:perspectum cum} {sp:Albatene} {i:miratur et} {sp:Alchoarismus}, {i:quorum hunc quidem opera}
+{i:nostra Latium habet, illius vero commodissima translatio} {sp:Roberti} {i:mei industria, Latinae}
+{i:orationis thesaurum accumulat}{sup:1}). Sollte damit vielleicht die verschiedene Wiedergabe
+des arabischen Buchstabens {i:schīn} in den beiden Mss. C und O durch {i:sh} (englisch),
+bezw. {i:sc} (dalmat.-italien. ?) in Zusammenhang stehen ? Diese Frage weiter zu ver-
+folgen und wenn möglich zu entscheiden, muss ich den Herren Philologen überlassen.
+Es tritt dann auch die Frage noch hinzu, ob {sp:Hermannus Dalmata} auch die
+Übersetzung {sp:Athelhards} zur Vergleichung herbeigezogen habe ; als Freund von
+{sp:Robert v. Chester}, dem „Ordner“ derselben, wird er wohl mit dieser Übersetzung
+bekannt gewesen sein.
+@p Da ich die Photographien des Ms. N aus Madrid erst erhielt (hauptsächlich
+durch meine Schuld), als der Text und die Tafeln schon fertig für den Druck
+@n {sup:1}) Vergl. {sp:Wüstenfeld}, {i:Die Übersetzungen arab. Werke in das Lateinische seit dem 11. Jahrh.},
+@n p. 52 (in Abhandlungen der k. Gesellsch. d. Wissensch. zu Göttingen, histor.-philolog. Kl. XXII, 2,
+@n 1877) ; {sp:Steinschneider}, {i:Die europäischen Übersetzungen aus dem Arabischen}, A, p. 34 (in Sitzungs-
+@n berichte der k. Akademie d. Wissensch. in Wien, philos. histor. Kl. CXLIX, 1904) ; {i:Al-Battānī}, edid.
+@n {sp:Nallino}, I, Praefatio, p. XLIX.
+@obs The page number «XIII» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «III» on the right; recorded here, not transcribed as a line.
+@obs L25-L28: the passage of Hermannus Dalmata is quoted in italics, the names in it («Albatene», «Alchoarismus», «Roberti») spaced in roman type. L01-L03: Robert's Latin renderings of the Arabic terms of C and O: dakaicae minuta, eltheniae secunda, elwacat medius cursus, tadil coaequatio, elgeib sinus, elfelek elmustakim circulus aequatorialis or aequinoctialis.
+@obs Marks not transcribed: a dark speck below the m of «quidem» (L26) and one between «mei» and «industria» (L27); a light mark after «Lateinische» (N01).

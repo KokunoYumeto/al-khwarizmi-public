@@ -1,0 +1,67 @@
+@page 45 13
+@lang la
+% JP2 0045: the Latin text, p. 13: the end of chapter 14 (the times of retrogradation and progression); chapter 15, the
+% declination of the sun, in full width and then in two columns (C and M left, O right): the quadrants of the ecliptic,
+% north and south, ascending and descending; with the apparatus (notes 1-30).
+fuisse dicemus. Quantum autem tempus{sup:1}) usque quo dirigatur sic habeto. Quanto
+ergo argumentum eius examinatum{sup:2}) a statione secunda superetur{sup:3}) considerabitur ;
+deinde{sup:4}) per argumentum ad hoc negotium proprium, quanto tempore{sup:5}) illud transeat,
+coniectabitur. Sicque{sup:6}) inventum erit quod quaeris.
+@p Si vero de progrediente scire desideras, quantum tempus a sua directione usque
+nunc transierit, quanto superet{sup:7}) stationem{sup:8}) secundam argumentum sui examinatum
+considerato et quanto tempore{sup:9}) id transeat. Ipsum enim est quod investigasti{sup:10}).
+Quod si non procul{sup:11}) a statione prima{sup:12}) fuerit, fueritque in quaestione{sup:13}), quantum
+ab eo distet, considerandum est, quanto argumentum eius examinatum a statione
+prima superetur quantoque temporis{sup:14}) id transeat. Secundum hoc enim exibit
+quod quaeris. — Descripta autem sunt in praesenti{sup:15}) {i:ezich}{sup:16}) superiorum trium
+planetarum suum cuique argumentum supradictum{sup:17}). Veneri vero et mercurio so-
+lum argumenta{sup:18}) eis in libro ascripta, etiam{sup:19}) ad hoc negotium deserviunt{sup:20}).
+@c {b:Cap. 15. Porta scientiae obliquationis solis{sup:21}).}
+@p Modus inveniendi quanto spatio a regione aequinoctialis circuli sol discesserit
+hic est{sup:22}). Intrabitur{sup:23}) per locum solis prius examinatum{sup:24}) in tabulam obliqua-
+tionis{sup:25}) eius ; quantum enim ibidem reperitur, tantum ab aequinoctiali recessit.
+@ml et M)
+@cl A capite autem{sup:26}) arietis computatione
+@cl incepta, si infra prima tria reperiatur
+@cl signa, erit {i:elmeil}, id est obliquatio ipsius
+@cl ⟨{i:lacuna}⟩{sup:27}) septentrionalis et proclivis ;
+@cl sin autem infra secunda tria signa, sep-
+@cl tentrionalis quidem{sup:28}) sed declivis ; quod
+@cl si infra tertia trîa inveniatur sive austra-
+@cl lis ⟨{i:lacuna}⟩ meridionalis{sup:29}) et declivis ;
+@cl si vero infra reliqua tria, erit quidem{sup:30})
+@cl meridionalis sed proclivis.
+@m (O)
+@cr Quod si inter primum gradum arietis
+@cr et tertium signum inventus fuerit, dicetur
+@cr {i:shemeli} esse, id est ex hac parte, et acce-
+@cr dens ; si vero inter tertium et sextum, dice-
+@cr tur {i:shemeli} esse et discedens ; si vero inter
+@cr sextum et nonum, dicetur {i:genubi} esse,
+@cr id est ex illa parte, et discedens ; quod
+@cr si inter nonum et duodecimum, dicetur
+@cr dexter et accedens.
+@n {sup:1}) tempus] temporis CM. — {sup:2}) examinatum] examinatum elheca muaddala M. — {sup:3}) Quanto . . . .
+@n superetur] Quid inter argumentum et stationem secundam sit O. — {sup:4}) Deinde] Dehinc O. — {sup:5}) tempore]
+@n temporis CM. — {sup:6}) Sicque] Sicque deesse, quoad usque dirigatur, probatum est M. — {sup:7}) quanto superet]
+@n quid sit inter O. — {sup:8}) stationem] C, elmukaam, {i:suprascr.} stationem O. — {sup:9}) sui . . . tempore] inven-
+@n tum quaerendum est quanto etiam tempore O. — {sup:10}) investigasti] M, optas O, investigasti. Ut si infra
+@n tria signa fuerint, argumentum Saturni Iovis infra IIII signa, Martis infra V, Veneris infra V, Mercurii
+@n vero infra IIII. C. — {sup:11}) procul] longe O. — {sup:12}) statione prima] elmukaam primo O. — {sup:13}) fueritque in
+@n quaestione] quaerimusque O. — {sup:14}) quanto . . . . temporis] ab argumento invento ad elmukaam primum
+@n quantum sit, quanto etiam tempore O. — {sup:15}) praesenti] praesente C. — {sup:16}) ezich] esizch M, ezic O. —
+@n {sup:17}) suum . . . . supradictum] sua cuique ad hoc negotium argumenta propria O. — {sup:18}) argumenta] ar-
+@n gumentum elheza M, argumenta elheca C. — {sup:19}) etiam] C, et M. — {sup:20}) solum . . . . deserviunt] unum
+@n solum hic et alibi servit O. — {sup:21}) Porta . . . . solis] De recessu solis ab aequinoctiali circulo O. — {sup:22}) hic
+@n est] {i:om.} O. — {sup:23}) Intrabitur] Intrabitur itaque O. — {sup:24}) per . . . . examinatum] per inventum locum
+@n solis O. — {sup:25}) tabulam obliquationis] megil id est in obliquationem O. — {sup:26}) autem] enim M. — {sup:27}) ipsius ....]
+@n eius hemeli id est M. — {sup:28}) quidem] quilibet M. — {sup:29}) sive . . . . meridionalis] erit ienubi i. e. meridio-
+@n nalis sive australis M. — {sup:30}) quidem] quilibet M.
+@obs The page number «13» stands at the head of the page, centred, with a rule below it. L01-L13 end chapter 14, begun on p. 12 (JP2 0044). L14: the heading of chapter 15, in bold, centred.
+@obs L18-L36: chapter 15 continues in two columns, as chapter 7: on the left the text of C and M (L18-L27), on the right that of O (L28-L36), transcribed one after the other. Beside the first line of each column the sigla stand in the margin: «(O)» in the right margin; in the left margin the label is cut off at the left edge of the image, «et M)» visible, as on p. 7 (JP2 0039, L20), probably «(C et M)».
+@unres L18, the label in the left margin: only «et M)» is in the image; by the right column's «(O)» probably «(C et M)», as on p. 7.
+@obs L21 and L25: «⟨lacuna⟩», the editor's mark of a gap in the text, «lacuna» in italics between upright angle brackets. L20 «elmeil», the declination (al-mail); L30 and L32 «shemeli», northern, and L33 «genubi», southern, in italics.
+@obs L24: the i of «trîa» is printed with a circumflex in the place of its dot, a sort of another fount; see the critical note. L07: a dark speck at mid-height between «id» and «transeat»; not transcribed.
+@obs N14: «ipsius ....]», the four points of the omission set close (15-16 px apart), where the other lemmas of the page space them about 25 px apart; the omission stands for the gap that the text marks with «⟨lacuna⟩» (L21), which M fills. N04: «sui . . . tempore», three points. N15: the bracket after «meridionalis» is printed faint at its head.
+@obs The colons and semicolons of the text stand after the thin space of the edition (10-13 px measured).
+@critical AK07-CN026 | wrong sort | L24 | trîa | tria | the i of «tria» is printed with a circumflex, î, a sort of another fount; the word is «tria», as «prima tria» (L19) and «reliqua tria» (L26) | high | none

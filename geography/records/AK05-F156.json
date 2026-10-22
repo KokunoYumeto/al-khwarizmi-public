@@ -1,0 +1,264 @@
+{
+ "anchor": "AK05-F156",
+ "frame": 156,
+ "frame_file": "page_156.jpg",
+ "frame_sha256": "33b73f357286281650414bd1a78b8208d28c28d5e42239a8000c4b844ac451c1",
+ "printed_page": "١٥٠",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 156, printed p. 150: the springs on the island بوبارنيا beyond the seventh clime continued; then the springs and rivers on the island الوٮا, among them a spring that touches the town ٮطرٮطسوں. The editor's running numbers (٢٢٦٦)-(٢٢٨٣) and the numbers of Suhrāb; the folio of the manuscript, «(fol. 35ᵃ)», within a line; a word and numerals supplied by the editor between angle brackets. Five lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F156-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "[٢١٠٩] ومصبّها فى البحر عند طول {ov:ٮح م} والعرض {ov:ٮح مه} (٢٢٦٦) [٢١١٠] * عين",
+   "margin": null,
+   "cells": null,
+   "plain": "[٢١٠٩] ومصبّها فى البحر عند طول ٮح م والعرض ٮح مه (٢٢٦٦) [٢١١٠] * عين",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F156-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "اوّلها عند طول {ov:ٮٮ ى} والعرض {ov:ٮح ى} (٢٢٦٧) [٢١١١] ومصبّها فى البحر عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "اوّلها عند طول ٮٮ ى والعرض ٮح ى (٢٢٦٧) [٢١١١] ومصبّها فى البحر عند طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F156-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "{ov:ٮٮ يه} والعرض {ov:نز ل} (٢٢٦٨) [٢١١٢] * عين اوّلها عند طول {ov:يٮ ل} والعرض {ov:نط ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "ٮٮ يه والعرض نز ل (٢٢٦٨) [٢١١٢] * عين اوّلها عند طول يٮ ل والعرض نط ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F156-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "(٢٢٦٩) ومصبّها فى البحر عند طول {ov:ٮد ل}{n:a} والعرض {ov:نط ك} (٢٢٧٠) * عين اوّلها عند",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٢٦٩) ومصبّها فى البحر عند طول ٮد ل والعرض نط ك (٢٢٧٠) * عين اوّلها عند",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F156-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "طول {ov:ٮٮ م} والعرض {ov:نط مه} (٢٢٧١) [٢١١٣] ومصبّها فى البحر عند طول {ov:ٮح ك}{n:b}",
+   "margin": null,
+   "cells": null,
+   "plain": "طول ٮٮ م والعرض نط مه (٢٢٧١) [٢١١٣] ومصبّها فى البحر عند طول ٮح ك",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F156-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "والعرض {ov:سا ل} (٢٢٧٢) [٢١١٤] * عين اوّلها عند طول {ov:ٮد ه} العرض {ov:س ه} (٢٢٧٣)",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض سا ل (٢٢٧٢) [٢١١٤] * عين اوّلها عند طول ٮد ه العرض س ه (٢٢٧٣)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F156-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "[٢١١٥] ومصبّها فى البحر عند طول {ov:يه ه} والعرض {ov:س ه} (٢٢٧٤) [٢١١٦] *",
+   "margin": null,
+   "cells": null,
+   "plain": "[٢١١٥] ومصبّها فى البحر عند طول يه ه والعرض س ه (٢٢٧٤) [٢١١٦] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F156-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "العيون والأنهار الّتى فى جزيرة الوٮا{n:c} * عين اوّلها عند طول {ov:ٮط ى} والعرض {ov:ٮز ى} (٢٢٧٥)",
+   "margin": null,
+   "cells": null,
+   "plain": "العيون والأنهار الّتى فى جزيرة الوٮا * عين اوّلها عند طول ٮط ى والعرض ٮز ى (٢٢٧٥)",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F156-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "[٢١١٧] ومصبّها فى البحر عند طول {ov:ٮح ه} والعرض {ov:ٮب ل}{n:d} (٢٢٧٦) [٢١١٨] *",
+   "margin": null,
+   "cells": null,
+   "plain": "[٢١١٧] ومصبّها فى البحر عند طول ٮح ه والعرض ٮب ل (٢٢٧٦) [٢١١٨] *",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F156-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "عين اوّلها عند طول {ov:يط ك}{n:e} والعرض {ov:نح ل} (٢٢٧٧) [٢١١٩] ومصبّها فى البحر عند",
+   "margin": null,
+   "cells": null,
+   "plain": "عين اوّلها عند طول يط ك والعرض نح ل (٢٢٧٧) [٢١١٩] ومصبّها فى البحر عند",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F156-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "طول {ov:يز ى} والعرض {ov:نح ل} (٢٢٧٨) [٢١٢٠] * عين اوّلها عند طول {ov:يط مه}{n:f} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "طول يز ى والعرض نح ل (٢٢٧٨) [٢١٢٠] * عين اوّلها عند طول يط مه والعرض",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F156-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "{ov:ٮو ه} (٢٢٧٩) [٢١٢١] ومصبّها فى البحر عند طول {ov:ٮط ل} والعرض {ov:ٮب ل} (٢٢٨٠)",
+   "margin": null,
+   "cells": null,
+   "plain": "ٮو ه (٢٢٧٩) [٢١٢١] ومصبّها فى البحر عند طول ٮط ل والعرض ٮب ل (٢٢٨٠)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F156-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "[٢١٢٢] * ⟨عين⟩{n:g} اوّلها عند طول {ov:كا ه} والعرض {ov:نح ل} (٢٢٨١) [٢١٢٣] ومصبّها فى",
+   "margin": null,
+   "cells": null,
+   "plain": "[٢١٢٢] * ⟨عين⟩ اوّلها عند طول كا ه والعرض نح ل (٢٢٨١) [٢١٢٣] ومصبّها فى",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F156-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "البحر عند طول {ov:يح ل} والعرض {ov:ٮح ه} (٢٢٨٢) [٢١٢٤] * عين مماسّة",
+   "margin": "ʰ (fol. 35ᵃ)",
+   "cells": null,
+   "plain": "البحر عند طول يح ل والعرض ٮح ه (٢٢٨٢) [٢١٢٤] * عين مماسّة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F156-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "ٮطرٮطسوں{n:i} المدينة عند طول {ov:⟨ك ن⟩}{n:k} والعرض {ov:نط ل} (٢٢٨٣) [٢١٢٧] تدخل المدينة",
+   "margin": null,
+   "cells": null,
+   "plain": "ٮطرٮطسوں المدينة عند طول ⟨ك ن⟩ والعرض نط ل (٢٢٨٣) [٢١٢٧] تدخل المدينة",
+   "note_marks": [
+    "i",
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k"
+   ],
+   "lines": 5,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L04: a variant reading of the longitude is ٮد ك; the editor considers reading the longitude ڡد ل, and the variant ڡد ك, with the loop without dots; each with a line over the numerals (note a).",
+  "L05: a variant reading of the longitude is ح ط; the editor considers reading it ٮح ط or ح ك; each with a line over the numerals (note b).",
+  "L08: a variant reading of the name is الويا (note c).",
+  "L09: a variant reading of the latitude is نح ل, with a line over the numerals (note d).",
+  "L10: the manuscript has, by mistake, نط ك for the longitude, with a line over the numerals (note e).",
+  "L11: the manuscript has, by mistake, نط مه for the longitude, with a line over the numerals (note f).",
+  "L13: the word between the brackets is missing in the manuscript; the editor supplies it (note g).",
+  "L14 (the folio): the text of fol. 45ᵃ of the manuscript goes on on fol. 35ᵃ; the editor refers to his note a on p. 121 (note h).",
+  "L15: a variant reading of the name is ٮطروطسوں (note i).",
+  "L15: the manuscript has a gap at the numerals between the brackets; the editor supplies them from S (note k)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The springs on the island بوبارنيا go on from p. 149 (frame 155), whose last words, «عين اوّلها عند طول ٮٮ ى والعرض نح ى (٢٢٦٥)», L01 continues with the number of Suhrāb [٢١٠٩] and «ومصبّها فى البحر عند طول ٮح م والعرض ٮح مه (٢٢٦٦) *», and its mouth in the sea is at the longitude ٮح م and the latitude ٮح مه: with ي and ن, 18° 40′ and 58° 45′, beside the point (1302) of the coast of the island at ٮح م and ٮح ن (frame 091, L09).",
+  "L01-L07, the other springs of the island: «عين اوّلها عند طول ٮٮ ى والعرض ٮح ى (٢٢٦٧) ومصبّها فى البحر عند طول ٮٮ يه والعرض نز ل (٢٢٦٨) *», a spring whose beginning is at the longitude ٮٮ ى and the latitude ٮح ى, and its mouth in the sea at the longitude ٮٮ يه and the latitude 57° 30′; «عين اوّلها عند طول يٮ ل والعرض نط ل (٢٢٦٩) ومصبّها فى البحر عند طول ٮد ل والعرض نط ك (٢٢٧٠) *», a spring whose beginning is at the longitude 12° 30′ and the latitude 59° 30′, and its mouth in the sea at the longitude ٮد ل and the latitude 59° 20′; «عين اوّلها عند طول ٮٮ م والعرض نط مه (٢٢٧١) ومصبّها فى البحر عند طول ٮح ك والعرض سا ل (٢٢٧٢) *», a spring whose beginning is at the longitude ٮٮ م and the latitude 59° 45′, and its mouth in the sea at the longitude ٮح ك and the latitude 61° 30′; «عين اوّلها عند طول ٮد ه العرض س ه (٢٢٧٣) ومصبّها فى البحر عند طول يه ه والعرض س ه (٢٢٧٤) *», a spring whose beginning is at the longitude ٮد ه and the latitude 60° 5′, and its mouth in the sea at the longitude 15° 5′ and the latitude 60° 5′. In L06 «العرض» stands without و. The beginning of the spring of L02, read ي and ن, 12° 10′ and 58° 10′, is the beginning of the spring of p. 149, L15, «ٮٮ ى» and «نح ى».",
+  "L08: «العيون والأنهار الّتى فى جزيرة الوٮا *», the springs and the rivers on the island الوٮا, a heading in the type of the text at the beginning of the line, followed by a small open star. «الوٮا»: after «الو», one tooth without a dot joined to the final alif. The island is «اوليا» of the outer western sea (frame 092, L05), whose coast begins at the longitude ٮح ل and the latitude 51° 30′ and passes the great town الوى at 19° 30′ and 59° 45′ (frame 093, L06); the editor's note c there gives the form of this entry (2275) with the same tooth, الوٮا, and the variant reading الويا.",
+  "L08-L15: «عين اوّلها عند طول ٮط ى والعرض ٮز ى (٢٢٧٥) ومصبّها فى البحر عند طول ٮح ه والعرض ٮب ل (٢٢٧٦) *», a spring whose beginning is at the longitude ٮط ى and the latitude ٮز ى, and its mouth in the sea at the longitude ٮح ه and the latitude ٮب ل; «عين اوّلها عند طول يط ك والعرض نح ل (٢٢٧٧) ومصبّها فى البحر عند طول يز ى والعرض نح ل (٢٢٧٨) *», a spring whose beginning is at the longitude 19° 20′ and the latitude 58° 30′, and its mouth in the sea at the longitude 17° 10′ and the latitude 58° 30′; «عين اوّلها عند طول يط مه والعرض ٮو ه (٢٢٧٩) ومصبّها فى البحر عند طول ٮط ل والعرض ٮب ل (٢٢٨٠) *», a spring whose beginning is at the longitude 19° 45′ and the latitude ٮو ه, and its mouth in the sea at the longitude ٮط ل and the latitude ٮب ل; «⟨عين⟩ اوّلها عند طول كا ه والعرض نح ل (٢٢٨١) ومصبّها فى البحر عند طول يح ل والعرض ٮح ه (٢٢٨٢) *», ⟨a spring⟩ whose beginning is at the longitude 21° 5′ and the latitude 58° 30′, and its mouth in the sea at the longitude 18° 30′ and the latitude ٮح ه.",
+  "L14-L15: «عين مماسّة ٮطرٮطسوں المدينة عند طول ⟨ك ن⟩ والعرض نط ل (٢٢٨٣) تدخل المدينة», a spring touching ٮطرٮطسوں, the town, at the longitude ⟨20° 50′⟩ and the latitude 59° 30′; it enters the town …, continued on p. 151. The town is entry 509 of the table of the cities, «ڡطرڡطسون فى جزيرة» (frame 041, L13), at the longitude 21° 40′ and the latitude ن⟨ط ل⟩, where the editor's note f gives the form of this entry (2283), ٮطرٮطسوں, with the variant reading ٮطروطسوں. «ٮطرٮطسوں»: a tooth without a dot before each ط, and the final ن without its dot.",
+  "Numerals: «نز ل» (L03), with the dots of the ن and of the ز, 57° 30′; «نط ل» (L03, L15), 59° 30′; «نط ك» (L04), 59° 20′; «نط مه» (L05), 59° 45′; «سا ل» (L06), 61° 30′; «س ه» (L06, L07), 60° 5′; «يه ه» (L07), with the two dots of the ي, 15° 5′; «يط ك» (L10), 19° 20′; «نح ل» (L10, L11, L13), with the dot of the ن, 58° 30′; «يز ى» (L11), with the dots of the ي and of the ز, 17° 10′; «يط مه» (L11), 19° 45′; «كا ه» (L13), 21° 5′; «يح ل» (L14), with the two dots of the ي, 18° 30′; «⟨ك ن⟩» (L15), 20° 50′. The minutes «ه» (L06, twice; L07, twice; L09, L12, L13, L14) are the small round ring of the isolated ه, 5; the ك of «نط ك» (L04), «ٮح ك» (L05) and «يط ك» (L10) is the isolated ك with its small inner stroke, 20.",
+  "«ٮٮ ى» (L02), «ٮٮ يه» (L03) and «ٮٮ م» (L05): a tooth joined to a final ب, both without dots, 64 to 66 px wide, with a tall riser and a small bump at the right end of the bowl, where the isolated ب is a bowl of about 50 px with a riser at each end. Read with ي, 12° 10′, 12° 15′ and 12° 40′, beside «يٮ ل» (L03), 12° 30′, printed with the two dots of the ي and the ب without its dot; the coast of the island lies between 7° 30′ and 18° 40′ (frame 091).",
+  "«ٮب ل» (L09, L12): a tooth without its dot joined to a final ب with its dot below the bowl, 64 and 63 px wide, the group of «ٮب» on frame 078 (L02). Read with ن, 52° 30′: the coast of the island الوٮا begins at the latitude 51° 30′ (frame 092); read with ي, 12° 30′. The variant of note d, «نح ل», is 58° 30′.",
+  "A tooth without its dot in the other numerals, transcribed so: in the longitudes «ٮح م» (L01), «ٮد ل» (L04), «ٮح ك» (L05), «ٮد ه» (L06), «ٮط ى» (L08), «ٮح ه» (L09) and «ٮط ل» (L12), read with ي: 18° 40′, 14° 30′, 18° 20′, 14° 5′, 19° 10′, 18° 5′ and 19° 30′, beside «يه ه», «يط ك», «يز ى», «يط مه» and «يح ل» printed with the two dots of the ي; in the latitudes «ٮح مه» (L01), «ٮح ى» (L02), «ٮز ى» (L08), «ٮو ه» (L12) and «ٮح ه» (L14), read with ن: 58° 45′, 58° 10′, 57° 10′, 56° 5′ and 58° 5′, beside «نز ل», «نط ل» and «نح ل» printed with the dot of the ن. In «ٮز ى» (L08) the one dot stands above the head of the ز, not above the tooth, where «نز ل» (L03) has a dot above each.",
+  "«ٮح» (L01, twice; L02, L05, L09, L14), «نح» (L10, L11, L13) and «يح» (L14): the ح shows no dot in the bowl; the same form is a ج without its dot, 3.",
+  "Angle brackets, each followed by a note mark, around what the editor supplies: «⟨عين⟩» (L13), note g; «⟨ك ن⟩» (L15), the longitude, under the line over the numerals, note k. Transcribed with the brackets.",
+  "L14: the folio of the Strasbourg manuscript, «(fol. 35ᵃ)», is printed in Latin type within the line, between the longitude «يح ل» and «والعرض», preceded by the note mark h; transcribed as a margin note before the line.",
+  "Signs in the text, transcribed as printed: «ومصبّها» (L01, L02, L04, L05, L07, L09, L10, L12, L13) with a shadda over the ب; «اوّلها» (L02, L03, L04, L06, L08, L10, L11, L13) with a shadda over the و; «والأنهار» (L08) with a hamza over the alif; «الّتى» (L08) with a shadda over the ل and a final ى without dots; «مماسّة» (L14) with a shadda over the س; «فى» ends in a ى without dots.",
+  "The running numbers run (٢٢٦٦)-(٢٢٨٣) without a gap. The numbers of Suhrāb: [٢١٠٩] at the beginning of L01 belongs to (٢٢٦٥) at the end of p. 149; [٢١١٠]-[٢١١٢] after (٢٢٦٦)-(٢٢٦٨); (٢٢٦٩) and (٢٢٧٠) have none; [٢١١٣]-[٢١٢٤] after (٢٢٧١)-(٢٢٨٢); [٢١٢٧] after (٢٢٨٣). The numbers [٢١٠٧], [٢١٠٨], [٢١٢٥] and [٢١٢٦] do not occur on pp. 149-150. [٢١١٥], [٢١١٧] and [٢١٢٢] stand at the beginnings of L07, L09 and L13, after the running numbers at the ends of the lines before.",
+  "Asterisks: the small open stars with six points, after [٢١١٠] (L01), [٢١١٢] (L03), (٢٢٧٠) (L04), [٢١١٤] (L06), [٢١١٦] (L07), «الوٮا» (L08), [٢١١٨] (L09), [٢١٢٠] (L11), [٢١٢٢] (L13) and [٢١٢٤] (L14), are transcribed as asterisks.",
+  "Note marks: L04, a after the longitude; L05, b after the longitude; L08, c after «الوٮا»; L09, d after the latitude; L10, e after the longitude; L11, f after the longitude; L13, g after «⟨عين⟩»; L14, h before «(fol. 35ᵃ)»; L15, i after «ٮطرٮطسوں» and k after «⟨ك ن⟩».",
+  "Marks not transcribed: L08, a small speck in the left margin; L09, two small specks in the right margin; small specks of the impression.",
+  "The editor's footnotes stand in five lines below a short rule at the left: notes a-k. The page number «— ١٥٠ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

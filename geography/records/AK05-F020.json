@@ -1,0 +1,396 @@
+{
+ "anchor": "AK05-F020",
+ "frame": 20,
+ "frame_file": "page_020.jpg",
+ "frame_sha256": "7b698dc47ebf354778bb9fd66aa3cfcb0de9f3806e3236b08e8f8b36353caa38",
+ "printed_page": "١٤",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 020, printed p. 14: the cities of the third clime continued, entries 165-180: Hajar, al-Baḥrayn and the ports of the Gulf, Mahrūbān, Sīnīz, Jannābā, Sīrāf, Nāthin and Tīz on the sea, Kirmān, Dizak in the mountains, al-Daybul on the sea, Armābīl, Kābul, a city on the mountain, Diyār Shatī and Qūlī. Four lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F020-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(١٦٥) | [١٣٠] | مدينة هجر | عح | {z} | كد | نه",
+   "margin": null,
+   "cells": [
+    "(١٦٥)",
+    "[١٣٠]",
+    "مدينة هجر",
+    "عح",
+    "{z}",
+    "كد",
+    "نه"
+   ],
+   "plain": "(١٦٥) | [١٣٠] | مدينة هجر | عح | ō | كد | نه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F020-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(١٦٦) | [١٣١] | البحرين على البحر | عد | ك | كه | مه",
+   "margin": null,
+   "cells": [
+    "(١٦٦)",
+    "[١٣١]",
+    "البحرين على البحر",
+    "عد",
+    "ك",
+    "كه",
+    "مه"
+   ],
+   "plain": "(١٦٦) | [١٣١] | البحرين على البحر | عد | ك | كه | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F020-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(١٦٧) | [١٣٢] | مهروبان{n:a} على البحر | عو | ك | ل | {z}",
+   "margin": null,
+   "cells": [
+    "(١٦٧)",
+    "[١٣٢]",
+    "مهروبان{n:a} على البحر",
+    "عو",
+    "ك",
+    "ل",
+    "{z}"
+   ],
+   "plain": "(١٦٧) | [١٣٢] | مهروبان على البحر | عو | ك | ل | ō",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F020-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(١٦٨) | [١٣٣] | سينيز{n:b} على البحر | عو | مه | ل | {z}",
+   "margin": null,
+   "cells": [
+    "(١٦٨)",
+    "[١٣٣]",
+    "سينيز{n:b} على البحر",
+    "عو",
+    "مه",
+    "ل",
+    "{z}"
+   ],
+   "plain": "(١٦٨) | [١٣٣] | سينيز على البحر | عو | مه | ل | ō",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F020-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(١٦٩) | [١٣٤] | جنّابا{n:c} على البحر | عر | ك | ل | {z}",
+   "margin": null,
+   "cells": [
+    "(١٦٩)",
+    "[١٣٤]",
+    "جنّابا{n:c} على البحر",
+    "عر",
+    "ك",
+    "ل",
+    "{z}"
+   ],
+   "plain": "(١٦٩) | [١٣٤] | جنّابا على البحر | عر | ك | ل | ō",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F020-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(١٧٠) | [١٣٥] | سيراف{n:d} على البحر | عط | ل | كط | ل",
+   "margin": null,
+   "cells": [
+    "(١٧٠)",
+    "[١٣٥]",
+    "سيراف{n:d} على البحر",
+    "عط",
+    "ل",
+    "كط",
+    "ل"
+   ],
+   "plain": "(١٧٠) | [١٣٥] | سيراف على البحر | عط | ل | كط | ل",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F020-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(١٧١) | [١٣٦] | ناثن{n:e} على البحر | ڡ | مه | كط | ك",
+   "margin": null,
+   "cells": [
+    "(١٧١)",
+    "[١٣٦]",
+    "ناثن{n:e} على البحر",
+    "ڡ",
+    "مه",
+    "كط",
+    "ك"
+   ],
+   "plain": "(١٧١) | [١٣٦] | ناثن على البحر | ڡ | مه | كط | ك",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F020-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(١٧٢) | [١٣٧] | تيز على البحر | ڡٮ | م | كط | {z}",
+   "margin": null,
+   "cells": [
+    "(١٧٢)",
+    "[١٣٧]",
+    "تيز على البحر",
+    "ڡٮ",
+    "م",
+    "كط",
+    "{z}"
+   ],
+   "plain": "(١٧٢) | [١٣٧] | تيز على البحر | ڡٮ | م | كط | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F020-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(١٧٣) | [١٣٨] | كرمان | ص | {z} | ل | {z}",
+   "margin": null,
+   "cells": [
+    "(١٧٣)",
+    "[١٣٨]",
+    "كرمان",
+    "ص",
+    "{z}",
+    "ل",
+    "{z}"
+   ],
+   "plain": "(١٧٣) | [١٣٨] | كرمان | ص | ō | ل | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F020-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(١٧٤) | [١٣٩] | دزك{n:f} فى الجبل | صا | م | كح | {z}",
+   "margin": null,
+   "cells": [
+    "(١٧٤)",
+    "[١٣٩]",
+    "دزك{n:f} فى الجبل",
+    "صا",
+    "م",
+    "كح",
+    "{z}"
+   ],
+   "plain": "(١٧٤) | [١٣٩] | دزك فى الجبل | صا | م | كح | ō",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F020-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(١٧٥) | [١٤٠] | الديبل{n:g} على البحر | صٮ | {z} | كد | ك",
+   "margin": null,
+   "cells": [
+    "(١٧٥)",
+    "[١٤٠]",
+    "الديبل{n:g} على البحر",
+    "صٮ",
+    "{z}",
+    "كد",
+    "ك"
+   ],
+   "plain": "(١٧٥) | [١٤٠] | الديبل على البحر | صٮ | ō | كد | ك",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F020-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(١٧٦) | [١٤١] | ارمابيل{n:h} | صب | ٮه | كٮ | مه",
+   "margin": null,
+   "cells": [
+    "(١٧٦)",
+    "[١٤١]",
+    "ارمابيل{n:h}",
+    "صب",
+    "ٮه",
+    "كٮ",
+    "مه"
+   ],
+   "plain": "(١٧٦) | [١٤١] | ارمابيل | صب | ٮه | كٮ | مه",
+   "note_marks": [
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F020-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(١٧٧) | [١٤٢] | كابل | ق | {z} | كح{n:i} | {z}",
+   "margin": null,
+   "cells": [
+    "(١٧٧)",
+    "[١٤٢]",
+    "كابل",
+    "ق",
+    "{z}",
+    "كح{n:i}",
+    "{z}"
+   ],
+   "plain": "(١٧٧) | [١٤٢] | كابل | ق | ō | كح | ō",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F020-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(١٧٨) | [١٤٣] | مدينة ڡرسس على الجبل | ڡح | {z} | كه | {z}",
+   "margin": null,
+   "cells": [
+    "(١٧٨)",
+    "[١٤٣]",
+    "مدينة ڡرسس على الجبل",
+    "ڡح",
+    "{z}",
+    "كه",
+    "{z}"
+   ],
+   "plain": "(١٧٨) | [١٤٣] | مدينة ڡرسس على الجبل | ڡح | ō | كه | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F020-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(١٧٩) | [١٤٤] | ديار شتى | ڡح | مه | كه | م",
+   "margin": null,
+   "cells": [
+    "(١٧٩)",
+    "[١٤٤]",
+    "ديار شتى",
+    "ڡح",
+    "مه",
+    "كه",
+    "م"
+   ],
+   "plain": "(١٧٩) | [١٤٤] | ديار شتى | ڡح | مه | كه | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F020-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(١٨٠) | [١٤٥] | قولى | قد | ى | كد | مه",
+   "margin": null,
+   "cells": [
+    "(١٨٠)",
+    "[١٤٥]",
+    "قولى",
+    "قد",
+    "ى",
+    "كد",
+    "مه"
+   ],
+   "plain": "(١٨٠) | [١٤٥] | قولى | قد | ى | كد | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L03: at entry (1211) the name مهروبان is written ماهروان.",
+  "L04: the manuscript reads سينير, without the dot of the ز.",
+  "L05: the manuscript reads حماٮا for جنّابا; at entry (1211) the name is written جنانا.",
+  "L06: the manuscript reads سراف, without the ي.",
+  "L07: the manuscript reads نابن, with the variant reading ٮالى; at entry (1211) the name is written ناين.",
+  "L10: the manuscript reads ذزك, with ذ for the د.",
+  "L11: the manuscript reads الدسل, and so does entry (1210).",
+  "L12: the manuscript reads ارماسل.",
+  "L13: the degrees of the latitude are unclear in the manuscript and are supplied from S and from Yāqūt (IV, 220)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 019 without a heading, again with one longitude and the seven columns of the earlier pages: the cities of the third clime, entries 165-180, all with numbers of Suhrāb, [١٣٠]-[١٤٥]. Only entries 165 and 178 have the word «مدينة».",
+  "L05: «جنّابا», with a shadda over the ن. L07: «ناثن»: the three dots of the ث are printed as one mark, narrow above and wide below, as on frame 013 (L14).",
+  "L14: the first letter of «ڡرسس», a loop raised above the line and joined to the ر, is printed without dots: the loop of ف or ق (an initial م sits on the line); transcribed so. The editor's notes do not comment on it.",
+  "L15: «ديار شتى»: the ش stands 15 px from the end of the tail of the ر, where the spaces between the words of the names on this page measure 21-29 px, and within a word the letter after ر stands over its tail; transcribed with the space.",
+  "L16: «قولى»: the stroke of the ل rises 32 px above the line, where the other ل of the names rise 36-47 px and the teeth about 22 px; there is no dot below it; transcribed ل.",
+  "Letters printed without their dots in the numerals, transcribed so: ڡ (L07), the isolated loop of ف or ق; ڡٮ (L08), the loop and, close after it, the small tooth and the bowl of a final ب without its dot, narrower than ڡٮ on frame 012 (L13) and wider than the isolated ڡ of L07; ڡح (L14, L15), the loop without dots; صٮ (L11), the final ب without its dot; كٮ (L12, the degrees of the latitude), the ك joined to a final ب without its dot; ٮه (L12, the minutes of the longitude), a tooth joined to a final ه. With their dots: صب (L12); ق (L13) and قد (L16), the ق with its two dots; نه (L01, the minutes of the latitude), the ن with its dot.",
+  "L05: the degrees of the longitude, عر: in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed.",
+  "L13: the editor's note mark i stands after the degrees of the latitude, كح.",
+  "The page number «— ١٤ —» stands at the foot, centred."
+ ],
+ "copy_matter": [
+  "A fine dark hairline, one or two pixels wide, crosses the ج of «الجبل» in entry 174 (L10) and runs down to the left below the line; a fibre or a scratch, not a stroke of the type."
+ ],
+ "critical_notes": []
+}

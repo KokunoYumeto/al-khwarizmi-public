@@ -1,0 +1,52 @@
+@page 93 61
+@lang de
+% JP2 0093: Suter's commentary, p. 61: chapter 17 continued: Burgess's two proportions behind the rule of the
+% Sūrya-Siddhānta for the latitude of the planets; the rule of four quantities, with a figure; the second proportion,
+% with a figure of the inclined deferent and the epicycle (notes 1-2).
+betreffende Stellung (Zeit). {sp:Burgess} sagt im Kommentar{sup:1}) zu dieser Regel, dieselbe
+ergebe sich aus der Zusammensetzung zweier Proportionen, von denen die eine nur
+beim Monde Gültigkeit habe, die andere aber für die Planeten hinzukomme, nämlich :
+@t {i:1. Prop.} | {i:r} ∶ sin Dist. v. Knoten | | | = | grösste Breite ∶ Breite in der Dist. {i:r}{sup:2}) | | | | |
+@t {i:2. Prop.} | var. {i:r} ∶ {i:r} | | | = | Breite in der Dist. {i:r} ∶ Breite in der wahren Dist. | | | | |
+@p Aus beiden Proportionen folgt durch Multiplikation :
+@c var. {i:r} ∶ sin. Dist. v. Knoten = grösste Breite ∶ Breite in der wahren Dist.
+also : Breite in der wahren Dist. = {fr:sin Dist. v. Knoten × grösste Breite|var. {i:r}}.
+@p Was die erste Proportion anbetrifft, so ergibt sich dieselbe aus der Regel der
+4 Grössen in der sphär. Trigonometrie : sin {i:AB} ∶ sin {i:AB′} = sin {i:BC} ∶ sin {i:B′C′}, die in
+die Formel :
+@c sin {i:α} = {fr:sin {i:B′C′}|sin {i:AB′}}
+übergeht, wenn {i:AB} = 90° wird. Auf unsern Fall an-
+gewandt, ist {i:A} einer der Knoten (Durchschnittspunkte des
+Deferens mit der Ekliptik), {i:α} = Neigung des Deferens
+zur Ekliptik, {i:BC} = maximale Breite, wenn {i:AB} = 90°
+ist, {i:B′C′} = Breite des Planeten bei seiner Stellung {i:B′} im
+Deferens, {i:AB′} = Differenz der wahren Länge des Planeten und der Länge des Knotens.
+@p Die zweite Proportion ist jedenfalls nur angenähert richtig, wir können sie aus
+folgender Figur :
+@p {i:P} sei die Stellung des Planeten im Epizykel, {i:A} seine Projektion auf die Ebene
+der Ekliptik, {i:B} die Projektion des Epizykelzentrums auf dieselbe Ebene, so sind
+die Winkel {i:HMB} und {i:PEA} das, was im
+{i:Sūrya-Siddhānta} genannt ist : Breite des
+Planeten in der Distanz {i:r} (mittlere Di-
+stanz {i:MH}), bezw. Breite des Planeten in
+der Distanz {i:r′} (variable Distanz {i:EP}).
+Wegen der geringen Neigung der Ebene
+des Epizykels zur Ekliptik nahmen
+die Inder die beiden Senkrechten {i:PA}
+und {i:HB} als gleich gross an, dann
+hat man :
+@c sin {i:HMB} = {fr:{i:HB}|{i:MH}} = {fr:{i:HB}|{i:r}} ; sin {i:PEA} = {fr:{i:PA}|{i:EP}} = {fr:{i:PA}|{i:r′}}
+also {fr:sin {i:HMB}|sin {i:PEA}} = {fr:{i:r′}|{i:r}},
+@n {sup:1}) Ibid. p. 229—230.
+@n {sup:2}) Eigentlich sollte von den zwei letzten Gliedern der Proportion auch der Sinus genommen
+@n werden, da diese Neigungen bei den Planetenbahnen aber nur gering sind, kann man ohne grossen
+@n Fehler statt der Sinus die Bogen setzen.
+@obs The page number «61» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «betreffende Stellung (Zeit).» completes the rule of the Sūrya-Siddhānta begun at the end of p. 60 (JP2 0092, L40). N01: «Ibid.», Burgess's translation (p. 60, N03).
+@obs L04-L05: the two proportions, set so that their signs of equality stand one under the other: «1. Prop.» and «2. Prop.» in italics at the paragraph indent, «var. r ∶ r» set to the right, close to its sign of equality. Each printed row is one line here, the cells separated by our «|»; the empty cells give the columns room and are not printed. L07: the product of the proportions, displayed and centred; «sin.» with a point, where L04 and L08 have «sin». L08: «also :» at the left margin, a wide gap (77 px) after it, the fraction built up, written {fr:NUMERATOR|DENOMINATOR}, the full stop after it on the line. L12, L33 and L34: the formulas displayed, their fractions built up; L33 «HB/r ;», the semicolon after a space (16 px) and followed by a wide one; L34 «also» at the left margin, the comma after the last fraction.
+@obs The colons of the ratios and proportions (L04, L05, L07, L10) are set with a word space on either side (20-34 px measured, as the word spaces of their lines); they are written ∶ (U+2236), so that the spaces stay spaces. The other colons stand after the thin space of the edition (11-13 px measured).
+@obs L04-L08. Checked: with the sines and the latitudes as lengths, the first proportion gives the latitude at the mean distance r as sin(distance from the node) × greatest latitude : r, the second the latitude at the true distance as that at r times r : var. r; multiplying the two, r ∶ sin D and var. r ∶ r give var. r ∶ sin D, and greatest latitude ∶ latitude at r and latitude at r ∶ latitude at the true distance give greatest latitude ∶ latitude at the true distance, the proportion of L07, whence L08.
+@obs A figure stands at the right of L12-L17, which are set in a narrower measure at its left; it is not reproduced. A spherical triangle: B at the upper left, C at the lower left, A at the right; the arc B C on the left, the arc C C′ A below and the arc B B′ A above, curving down to A; the arc B′ C′ from B′ on the upper arc down to C′ on the lower; the angle α marked at A with a small arc. The letters are italic: A, B, B′, C, C′, α; the prime of the label B′ is printed as a short upright stroke like a raised 1.
+@obs L10-L18. Checked: in the triangles A B C and A B′ C′, right-angled at C and C′, with the common angle α at A, the sine rule of right spherical triangles gives sin BC = sin AB sin α and sin B′C′ = sin AB′ sin α, whence sin AB ∶ sin AB′ = sin BC ∶ sin B′C′; for AB = 90°, BC = α, and the proportion becomes sin α = sin B′C′ : sin AB′, as L12 has it.
+@obs A figure stands at the left of L23-L32, which are set in a narrower measure at its right; it is not reproduced. Two large ellipses, the circles of the ecliptic and of the inclined deferent seen obliquely, crossing at two points, the upper part of one of them dashed; a straight line through E from the top of the outer ellipse to the lower crossing point; the small ellipse of the epicycle about H at the upper right, with P on it; the lines E P, M H and E A, the horizontal line E M B, and the vertical lines P A and H B. The letters are italic: A, B, E, H, M, P.
+@obs L21-L34. Checked: with HB perpendicular to the plane of the ecliptic, sin HMB = HB : MH, and with PA perpendicular to it, sin PEA = PA : EP; taking PA = HB, sin HMB : sin PEA = EP : MH = r′ : r, which is the second proportion of L05 with the latitudes for their sines (note 2).
+@obs N02: after «genommen» an oblique speck on the base line, 24 px after the word; the sentence continues with «werden»; not transcribed. N01: «229—230», the long dash set close. L33: the bar of the last fraction, over r′, is printed in two pieces. Spaced type, marked {sp:}: «Burgess»; italics: «1. Prop.», «2. Prop.», the letters of the figures and r, r′, α, «Sūrya-Siddhānta».

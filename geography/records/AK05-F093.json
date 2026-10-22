@@ -1,0 +1,266 @@
+{
+ "anchor": "AK05-F093",
+ "frame": 93,
+ "frame_file": "page_093.jpg",
+ "frame_sha256": "8be86ddde4d9fe007c58aaab1946c828cf445199b1d934beaf858bc61e9e3b42",
+ "printed_page": "٨٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 093, printed p. 87: the islands of the outer western sea continued: the coast of the island اوليا, past the mouths of rivers and the great town of الوى, back to its first point; three small islands; and the island ٮولى with a town, whose coast begins to be followed. The editor's running numbers (١٣٢٨)-(١٣٤٦) and the numbers of Suhrāb [٨٩٨]-[٩١٣]; the folio of the manuscript, «(fol. 23ᵇ)», within the line. Three lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F093-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "الى طول {ov:لا ى} والعرض {ov:س ٮه} (١٣٢٨) [٨٩٨] تمرّ الى طول {ov:كح ك} والعرض {ov:س ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "الى طول لا ى والعرض س ٮه (١٣٢٨) [٨٩٨] تمرّ الى طول كح ك والعرض س ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F093-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "(١٣٢٩) [٨٩٩] تمرّ الى طول {ov:كو {z}} والعرض {ov:سا ل} (١٣٣٠) [٩٠٠] وتمرّ بمصبّ نهر",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٣٢٩) [٨٩٩] تمرّ الى طول كو ō والعرض سا ل (١٣٣٠) [٩٠٠] وتمرّ بمصبّ نهر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F093-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وتصير الى طول {ov:كج ل} والعرض {ov:س مه} (١٣٣١) [٩٠١] وتمرّ بمصبّ نهرين وتصير الى",
+   "margin": null,
+   "cells": null,
+   "plain": "وتصير الى طول كج ل والعرض س مه (١٣٣١) [٩٠١] وتمرّ بمصبّ نهرين وتصير الى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F093-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "طول {ov:ك ك} والعرض {ov:سا ٮه} (١٣٣٢) [٩٠٢] تمرّ الى طول {ov:ك كه} والعرض {ov:س م} (١٣٣٣)",
+   "margin": null,
+   "cells": null,
+   "plain": "طول ك ك والعرض سا ٮه (١٣٣٢) [٩٠٢] تمرّ الى طول ك كه والعرض س م (١٣٣٣)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F093-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "[٩٠٣] تمرّ الى طول {ov:ٮط ى} والعرض {ov:س م} (١٣٣٤) [٩٠٤] ثمّ تمرّ الى مدينة الوى",
+   "margin": null,
+   "cells": null,
+   "plain": "[٩٠٣] تمرّ الى طول ٮط ى والعرض س م (١٣٣٤) [٩٠٤] ثمّ تمرّ الى مدينة الوى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F093-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "الكبيرة عند طول {ov:ٮط ل} والعرض {ov:نط مه} (١٣٣٥) [٩٠٥] وتمرّ بمصبّ نهر وتصير الى",
+   "margin": null,
+   "cells": null,
+   "plain": "الكبيرة عند طول ٮط ل والعرض نط مه (١٣٣٥) [٩٠٥] وتمرّ بمصبّ نهر وتصير الى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F093-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "طول {ov:ٮح {z}} والعرض {ov:س {z}} (١٣٣٦) [٩٠٦] وتصير الى طول {ov:ٮو م}{n:a}",
+   "margin": "(fol. 23ᵇ)",
+   "cells": null,
+   "plain": "طول ٮح ō والعرض س ō (١٣٣٦) [٩٠٦] وتصير الى طول ٮو م",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F093-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "والعرض {ov:نط م} (١٣٣٧) [٩٠٧] وتمرّ على صورة الطيلسان الى مصبّ نهر وتصير الى",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض نط م (١٣٣٧) [٩٠٧] وتمرّ على صورة الطيلسان الى مصبّ نهر وتصير الى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F093-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "طول {ov:ٮو ى} والعرض {ov:نح {z}} (١٣٣٨) [٩٠٨] وتمرّ على صورة القوارة تمرّ بعرض {ov:نز ك}",
+   "margin": null,
+   "cells": null,
+   "plain": "طول ٮو ى والعرض نح ō (١٣٣٨) [٩٠٨] وتمرّ على صورة القوارة تمرّ بعرض نز ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F093-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "(١٣٣٩) [٩٠٩] وتصير{n:b} الى طول {ov:ٮط ل} والعرض {ov:نح {z}}{n:c} (١٣٤٠) [٩١٠] مصبّ",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٣٣٩) [٩٠٩] وتصير الى طول ٮط ل والعرض نح ō (١٣٤٠) [٩١٠] مصبّ",
+   "note_marks": [
+    "b",
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F093-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "نهر تمرّ الى الموضع الّذى منه ابتدأنا وهو عند طول {ov:يج ل} والعرض {ov:نا ل}{n:d} * جزيرة مقدار",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر تمرّ الى الموضع الّذى منه ابتدأنا وهو عند طول يج ل والعرض نا ل * جزيرة مقدار",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F093-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "نصف جزء وسطها عند طول {ov:كا {z}} والعرض {ov:نح ى} (١٣٤١) * جزيرة مقدار ربع جزء",
+   "margin": null,
+   "cells": null,
+   "plain": "نصف جزء وسطها عند طول كا ō والعرض نح ى (١٣٤١) * جزيرة مقدار ربع جزء",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F093-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "وسطها عند طول {ov:كح م} والعرض {ov:نر {z}}{n:e} (١٣٤٢) * جزيرة مقدار ثلث جزء وسطها عند",
+   "margin": null,
+   "cells": null,
+   "plain": "وسطها عند طول كح م والعرض نر ō (١٣٤٢) * جزيرة مقدار ثلث جزء وسطها عند",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F093-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "طول {ov:كد ن} والعرض {ov:ٮز {z}}{n:f} (١٣٤٣) * جزيرة ٮولى{n:g} فيها مدينة{n:h} اوّلها عند طول {ov:كو ك}",
+   "margin": null,
+   "cells": null,
+   "plain": "طول كد ن والعرض ٮز ō (١٣٤٣) * جزيرة ٮولى فيها مدينة اوّلها عند طول كو ك",
+   "note_marks": [
+    "f",
+    "g",
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F093-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "والعرض {ov:سج {z}} (١٣٤٤) [٩١١] تمرّ على صورة القوارة بعرض {ov:سب {z}}{n:i} (١٣٤٥)",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض سج ō (١٣٤٤) [٩١١] تمرّ على صورة القوارة بعرض سب ō (١٣٤٥)",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F093-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "[٩١٢] وتصير الى طول {ov:ل {z}} والعرض {ov:سب ك} (١٣٤٦) [٩١٣] تمرّ بمصبّ نهر وتصير",
+   "margin": null,
+   "cells": null,
+   "plain": "[٩١٢] وتصير الى طول ل ō والعرض سب ك (١٣٤٦) [٩١٣] تمرّ بمصبّ نهر وتصير",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L07: a variant reading of the second longitude is يز م, with a line over the numerals (note a).",
+  "L10: the word وتصير, before the mark b, stands in the margin of the manuscript, written by a later hand (note b).",
+  "L10: a variant reading of the latitude is نح ه, with a line over the numerals (note c).",
+  "L11: the point is the same as point 1312 (note d).",
+  "L13: a variant reading of the latitude is ٮز ه, the notched ٮر with one dot over the head of the ر, with a line over the numerals (note e).",
+  "L14: a variant reading of the latitude is نر ه, the notched ٮر with one dot over the tooth, with a line over the numerals (note f).",
+  "L14: at entry (2301) the name is written ثولى; the editor compares the name of the town اثلى (519), and at entry (2302) اثلى (note g).",
+  "L14: a variant reading is مدن, towns, for مدينة (note h).",
+  "L15: a variant reading of the latitude is سب ه, with a line over the numerals (note i)."
+ ],
+ "unresolved": [
+  "L13: the dot over the notch may also be the dot of a ز: ٮز {z}. Transcribed نر {z}.",
+  "L14: the dot over the notch may also be the dot of a ن: نر {z}. Transcribed ٮز {z}."
+ ],
+ "observations": [
+  "The description of the island اوليا goes on from p. 86 (frame 092), whose last word, «وتصير», L01 continues with «الى طول»: its coast from point to point, with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}, the editor's running numbers in parentheses and the numbers of Suhrāb in square brackets. The places of the coast: «وتمرّ بمصبّ نهر» (L02, L06), past the mouth of a river; «وتمرّ بمصبّ نهرين» (L03), of two rivers; L05-L06: «ثمّ تمرّ الى مدينة الوى الكبيرة عند طول», then it passes to the great town of الوى, at the longitude; L08: «وتمرّ على صورة الطيلسان الى مصبّ نهر», along the shape of the ṭaylasān to the mouth of a river; L09: «وتمرّ على صورة القوارة تمرّ بعرض», along the shape of the qawwāra, at the latitude (point 1339, given by its latitude only); L10-L11: «مصبّ نهر تمرّ الى الموضع الّذى منه ابتدأنا وهو عند طول يج ل والعرض نا ل», the mouth of a river; it passes to the place from which we began, which is at the longitude 13° 30′ and the latitude 51° 30′. This last point has no running number; the editor's note d identifies it with point 1312, the first point of the island (frame 092, L05), whose longitude is printed «ٮح ل», a tooth without a dot and a ح, where here «يج» has the two dots of the ي and the dot of the ج.",
+  "L11-L14: three small islands, each «جزيرة مقدار …», of half a degree, «نصف جزء» (L12), a quarter of a degree, «ربع جزء» (L12), and a third of a degree, «ثلث جزء» (L13), with the longitude and latitude of its middle, «وسطها عند طول … والعرض …», running numbers (١٣٤١)-(١٣٤٣), without numbers of Suhrāb; each entry ends with a small open star with six points, transcribed as an asterisk. L14-L16: «جزيرة ٮولى فيها مدينة اوّلها عند طول كو ك والعرض سج {z}», the island ٮولى, on which is a town; the first point of its coast is at the longitude 26° 20′ and the latitude 63° 0′; then «تمرّ على صورة القوارة بعرض سب {z}» (L15), along the shape of the qawwāra at the latitude 62° 0′, and the coast goes on to p. 88. «ٮولى» begins with a tooth without a dot and ends in a ى without dots; the editor's note g gives the forms ثولى and اثلى of other entries.",
+  "The running numbers run (١٣٢٨)-(١٣٤٦), and the numbers of Suhrāb [٨٩٨]-[٩١٠] and [٩١١]-[٩١٣], without a gap. L07: the folio of the Strasbourg manuscript, «(fol. 23ᵇ)», is printed in Latin type within the line, between [٩٠٦] and «وتصير»; transcribed as a margin note before the line.",
+  "Signs in the text, transcribed as printed: «تمرّ», «وتمرّ», «بمصبّ», «مصبّ» and «ثمّ» with a shadda; «الّذى» with a shadda over the ل; «ابتدأنا» with a hamza over the alif; «اوّلها» with a shadda over the و; «الوى», «الّذى» and «ٮولى» end in a ى without dots.",
+  "L13, L14: the degrees of the latitude are printed with the notched form ٮر of frame 041 (L06), a short tooth joined to a ر, whose heads form a notch at the top over the tail of the ر, where the isolated ز of the numerals is a single rounded stroke (frame 089, L08; frame 090, L03, L13); and one dot above the notch. L13: the tooth, at the right, rises 4 px above the head of the ر, and the dot, 10 by 11 px, stands over the tooth; transcribed نر, which with ر read as ز gives 57. L14: the dot stands over the left side of the notch, nearer the head of the ر than the tooth; transcribed ٮز, which read with ن gives 57. The latitudes of the neighbouring islands are 58° 10′ (L12) and 63° 0′ (L15). L09 prints «نز» with both dots, the ن's over the tooth and the ز's over the head.",
+  "Letters printed without their dots in the numerals, transcribed so: a tooth without its dot in the degrees of the longitude, «ٮط» (L05, L06, L10), «ٮح» (L07) and «ٮو» (L07, L09), which read with a ي give 19, 18 and 16, between the longitudes 20-31 of the first points of the coast (L01-L04) and «يج ل», 13° 30′ (L11); «ٮه» (L01, L04, the minutes of the latitude), a tooth joined to a final ه. With their dots: «كج» (L03), «يج» (L11) and «سج» (L15), with the dot in the bowl of the ج; «سب» (L15, L16), with the dot of the ب below, 62; «كد ن» (L14), with the dot of the ن; «نط», «نح», «نا», «نز» (L06-L12), with the dot of the ن.",
+  "The ح of the numerals, «كح» (L01, L13), «ٮح» (L07) and «نح» (L09, L10, L12), shows no dot in the bowl; the same form is a ج without its dot, 3, which L03, L11 and L15 print with its dot. Transcribed as printed. The isolated ى, 10, has no dots (L01, L05, L09, L12). The isolated ك, 20, is printed with the small inner stroke of the letter.",
+  "Note marks: L07, a after the second longitude; L10, b after «وتصير» and c after the latitude; L11, d after the latitude; L13, e after the latitude; L14, f after the first latitude, g after «ٮولى» and h after «مدينة»; L15, i after the second latitude.",
+  "The editor's footnotes stand in three lines below a short rule at the left: notes a-i. The page number «— ٨٧ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

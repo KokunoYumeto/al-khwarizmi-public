@@ -1,0 +1,60 @@
+@page 232 200
+@lang la
+% JP2 0232: Tab. 85, p. 200: the division of the houses for the ascendant in Libra: the beginnings of the second to
+% the sixth house for every degree of the ascendant, with the apparatus (notes a-p).
+@ml C 88{sup:v}, O 145{sup:r}
+@c {b:Aequatio casarum duodecim signo librae}
+@tw size=footnotesize 1.3 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65
+@ml N 53{sup:r}
+@t Gradus | Secundum |  | Tertium |  | Quartum |  | Quintum Ca- |  | Sextum Aqua- |
+@t aequales | Scorpius |  | Sagittar. |  | Capricor. |  | pricor. [Aquar. |  | rius [Pisces et |
+@t ortus | [et Sagittar.] |  | [et Capricor.] |  | [et Aquar.] |  | et Pisces] |  | Aries] |
+@t librae |  |  |  |  |  |  |  |  |  |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 1 | 3 | 16{sup:a}) | 3 | 11 | 1 | 8 | 28 | 58 | 28{sup:l}) | 52
+@t  |  |  |  |  |  |  | Aquar.{sup:f}) |  |  |
+@t 2 | 4 | 20 | 4 | 15 | 2 | 16 | 0 | 3 | 29 | 56
+@t  |  |  |  |  |  |  |  |  | Pisces{sup:m}) |
+@t 3 | 5 | 24 | 5 | 20 | 3 | 24{sup:d}) | 1 | 8 | 1 | 1
+@t 4 | 6 | 27{sup:b}) | 6 | 24 | 4 | 32 | 2 | 14 | 2 | 5
+@t 5 | 7 | 30 | 7 | 28 | 5 | 40 | 3 | 19 | 3 | 10{sup:n})
+@t 6 | 8 | 33 | 8 | 31 | 6 | 47 | 4 | 25 | 4 | 14
+@t 7 | 9 | 35 | 9 | 34 | 7 | 55 | 5 | 30 | 5 | 19
+@t 8 | 10 | 38{sup:c}) | 10 | 37 | 9 | 3 | 6 | 36 | 6 | 23
+@t 9 | 11 | 40 | 11 | 40 | 10 | 10 | 7 | 42 | 7 | 28
+@t 10 | 12 | 42 | 12 | 43 | 11 | 18 | 8 | 47 | 8 | 33
+@t 11 | 13 | 44 | 13 | 46 | 12 | 27 | 9 | 54 | 9 | 39
+@t 12 | 14 | 46 | 14 | 49 | 13 | 36 | 11 | 2 | 10 | 45
+@t 13 | 15 | 48 | 15 | 53 | 14 | 45 | 12 | 10 | 11 | 51
+@t 14 | 16 | 50 | 16 | 56 | 15 | 54 | 13 | 18 | 12 | 58
+@t 15 | 17 | 52 | 17 | 59 | 17 | 3 | 14 | 26 | 14 | 5
+@t 16 | 18 | 53 | 19 | 3 | 18 | 13{sup:e}) | 15 | 35 | 15 | 12
+@t 17 | 19 | 55 | 20 | 6 | 19 | 23 | 16 | 44 | 16 | 19
+@t 18 | 20 | 56 | 21 | 9 | 20 | 33 | 17 | 53 | 17 | 27
+@t 19 | 21 | 58 | 22 | 13 | 21 | 43 | 19 | 3 | 18 | 35
+@t 20 | 22 | 59 | 24 | 16 | 22 | 54 | 20 | 13 | 19 | 43
+@t 21 | 24 | 0 | 25 | 19 | 24 | 5 | 21 | 25 | 20 | 51
+@t 22 | 25 | 1 | 26 | 22 | 25 | 16 | 22 | 34 | 21 | 59
+@t 23 | 26 | 2 | 27 | 26 | 26 | 28 | 23 | 45 | 23 | 7
+@t 24 | 27 | 3 | 28 | 29 | 27 | 40 | 24 | 56 | 24 | 15
+@t 25 | 28 | 3 | 29 | 32 | 28 | 52 | 26 | 7 | 25 | 23{sup:o})
+@t  |  |  | Capric. |  | Aquar. |  |  |  |  |
+@t 26 | 29 | 3 | 0 | 35 | 0 | 4 | 27 | 19 | 26 | 31
+@t  | Sagitt. |  |  |  |  |  |  |  |  |
+@t 27 | 0 | 4 | 1 | 38 | 1 | 16 | 28 | 31 | 27 | 39
+@t 28 | 1 | 4 | 2 | 42 | 2 | 28 | 29 | 43 | 28 | 48
+@t  |  |  |  |  |  |  | Pisces{sup:g}) |  |  |
+@t 29 | 2 | 5 | 3 | 45 | 3 | 41 | 0{sup:h}) | 55 | 29 | 57
+@t  |  |  |  |  |  |  |  |  | Aries{sup:p}) |
+@t 30 | 3 | 5 | 4 | 48 | 4 | 54 | 2{sup:i}) | 7{sup:k}) | 1 | 6
+@n {sup:a}) 16] C, 56 O — {sup:b}) 27] C, 26 O — {sup:c}) 38] O, 28 C — {sup:d}) 24] O, 25 C — {sup:e}) 13] C, 12 O —
+@n {sup:f}) Aquar.] Pisces CO — {sup:g}) Pisces] {i:om.} CO — {sup:h}) 0] O, 1 C — {sup:i}) 2] 3 CO — {sup:k}) 7] 31 CO — {sup:l}) 28] C,
+@n 27 O, 38 N — {sup:m}) Pisces] Aries CO — {sup:n}) 10] O, 8 C — {sup:o}) 23] O, 33 C — {sup:p}) Aries] Taurus CO.
+@obs The page number «200» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 85», in bold sans serif, underlined. The page has no signature. The title (L01), «Aequatio casarum duodecim signo librae», the equation of the twelve houses for the sign of Libra, in bold, without sigla. The folios of the manuscripts stand at the left of the title in two lines, «C 88v, O 145r» and «N 53r», the letters raised, without the comma and the point of the other pages: see the critical notes; here as left margin notes beside L01 and L02.
+@obs The table: as on pp. 194-199 (JP2 0226-0231), the degrees of the ascendant, «Gradus aequales ortus librae», in four lines, and five pairs «Gr.», «Min.» under «Secundum Scorpius [et Sagittar.]», «Tertium Sagittar. [et Capricor.]», «Quartum Capricor. [et Aquar.]», «Quintum Capricor. [Aquar. et Pisces]» and «Sextum Aquarius [Pisces et Aries]», the last two heads divided «Ca-pricor.» and «Aqua-rius». Here each head is set from the top, one printed line to a line (L02-L05); the units in L06; the cells separated by our «|»; a head followed by empty cells spans their columns. The names of the signs into which the beginnings pass stand in lines of their own over their columns: «Aquar.f)» (L08) over the fifth house, «Piscesm)» (L10) over the sixth, «Capric.» and «Aquar.» (L34) over the third and the fourth, «Sagitt.» (L36) over the second, «Piscesg)» (L39) over the fifth and «Ariesp)» (L41) over the sixth.
+@obs L07-L42. The beginnings of the houses for the ascendant at 1° to 30° of Libra, by the rule of p. 194 (JP2 0226). Checked with the obliquity 23° 35′ and the latitude 38° 40′: the degrees and minutes agree within 4.1′ in every place except the third house from 20° to 30° (L28-L42); all five columns lag by 2′ to 4.1′ from 8° to 19° (L16-L27). The third house steps from 22° 13′ at 19° to 24° 16′ at 20° (L27-L28), 2° 3′ where the other steps are about 1° 3′, and from there to 30° it is one degree more than the computation, within 1′ (24° 16′ for 23° 17′ at 20°, 4° 48′ of Capricorn for 3° 48.6′ at 30°); so the third house enters Capricorn at 26° (L34-L35, 0° 35′), where the computation gives 27° (0° 38.4′). No note bears on these eleven values.
+@obs The names of the signs: the second house enters Sagittarius at 27°, the fourth Aquarius at 26°, the fifth Aquarius at 2° and Pisces at 29°, the sixth Pisces at 3° and Aries at 30°, as the computation gives (Aquarius 0° 3′ at 2° in the fifth house, Aries 1° 6.6′ at 30° in the sixth); only the third house enters Capricorn a row early, as above. The manuscripts have the following sign each time (notes f, m and p: Pisces, Aries and Taurus for «Aquar.», «Pisces» and «Aries»), as C and N have in the heads and the names of p. 196 (JP2 0228), and omit «Pisces» at 29° in the fifth house (note g).
+@obs Notes on the readings. Checked by the computation: the edition's readings are the nearer at 1° and 8° in the second house (notes a and c: C's 16 against O's 56, O's 38 against C's 28; 3° 16.4′, 10° 38.5′ computed), at 3° in the fourth (note d: O's 24 against C's 25; 3° 24.1′), at 29° and 30° in the fifth (notes h, i and k: O's 0 against C's 1 in the degrees, 0° 55.7′; the edition's 2° 7′ against the 3° 31′ of C and O, 2° 8.4′), and at 1°, 5° and 25° in the sixth (notes l, n and o: C's 28 against O's 27 and N's 38 in the degrees, O's 10 against C's 8, O's 23 against C's 33; 28° 51.5′, 3° 9.4′, 25° 23.2′). At 4° in the second house (note b) C's 27 and O's 26 lie 0.1′ and 0.9′ from the computation, 6° 26.9′; at 16° in the fourth (note e) C's 13, the edition's reading, keeps the steps of the column, 70′ and 70′, where O's 12 gives 69′ and 71′; both lag behind the computation, 18° 16.6′.
+@obs Italics: «om.».
+@critical AK07-CN222 | missing comma | L01 | C 88{sup:v}, O 145{sup:r} | C 88{sup:v}, O 145{sup:r}, | the folios of C and O end with a comma before the folio of N in the next line, as «C 88r, O 144v,» on p. 199 (JP2 0231) | medium | none
+@critical AK07-CN223 | missing point | L02 | N 53{sup:r} | N 53{sup:r}. | the folio of N ends with a point, as «N 52v.» on p. 199 (JP2 0231) | medium | none

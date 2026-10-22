@@ -1,0 +1,66 @@
+@page 198 166
+@lang la
+% JP2 0198: Tab. 55, p. 166: the equations of Mercury, with its corrected apogee, first station and latitude, for the
+% arguments 4s 1° to 5s 0° (and 7s 29° to 7s 0°), with the apparatus (notes 1-7 and a-d).
+@c {b:Coaequatio Mercurii} (N)
+@c {b:Elotari} (O)
+@ml C 70{sup:r}, O 127{sup:v},
+@c {b:Examinatio Mercurii} (C)
+@ml N 35{sup:v}.
+@c {b:Locus{sup:1}) draconis eius 0. 21. 10.} (CON)
+@tw size=footnotesize span=1.14 0.85 0.85 0.85 0.85 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.75
+@t Pagina numerorum (O) |  |  |  | Sublimatio |  |  | Exami- |  | Exami- |  | Statio prima |  |  | Latitude Mercurii |  |  |  |
+@t Semita numerorum (C) |  |  |  | ascensus{sup:4}) |  |  | natio |  | natio |  | Mercurii |  |  | descendentis{sup:7}) |  |  |  |
+@t Augmentum |  | Diminutio |  | Mercurii |  |  | ipsius |  | centri |  |  |  |  | {b:prima} |  | {b:secunda} |  |
+@t proprietatum |  | proprietatum |  | examinata{sup:5}) |  |  | elheza{sup:6}) |  |  |  |  |  |  |  |  |  |  |
+@t omnium{sup:2}) |  | omnium{sup:3}) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 4 | 1 | 7 | 29 | 7 | 4 | 19 | 21 | 11 | 3 | 24 | 4 | 24 | 29 | 1 | 6 | 5 | 21 | 26
+@t 4 | 2 | 7 | 28 | 7 | 4 | 21 | 21 | 6 | 3 | 21 | 4 | 24 | 29 | 1 | 6 | 5 | 18 | 1
+@t 4 | 3 | 7 | 27 | 7 | 4 | 24 | 21 | 1 | 3 | 19 | 4 | 24 | 29 | 1 | 5 | 5 | 14 | 30
+@t 4 | 4 | 7 | 26 | 7 | 4 | 26 | 20 | 56 | 3 | 16 | 4 | 24 | 29 | 1 | 5 | 5 | 10 | 53
+@t 4 | 5 | 7 | 25 | 7 | 4 | 29 | 20 | 50 | 3 | 14 | 4 | 24 | 29 | 1 | 4 | 5 | 7 | 11
+@t 4 | 6 | 7 | 24 | 7 | 4 | 33 | 20 | 43 | 3 | 11 | 4 | 24 | 29 | 1 | 4 | 5 | 3 | 23
+@t 4 | 7 | 7 | 23 | 7 | 4 | 37 | 20 | 35 | 3 | 9 | 4 | 24 | 29 | 1 | 3 | 4 | 59 | 29
+@t 4 | 8 | 7 | 22 | 7 | 4 | 41 | 20 | 27 | 3 | 6 | 4 | 24 | 29 | 1 | 3 | 4 | 55 | 30
+@t 4 | 9 | 7 | 21 | 7 | 4 | 45 | 20 | 19 | 3 | 3 | 4 | 24 | 30 | 1 | 2 | 4 | 51 | 26
+@t 4 | 10 | 7 | 20 | 7 | 4 | 49 | 20 | 10 | 3 | 1 | 4 | 24 | 30 | 1 | 2 | 4 | 47 | 16
+@t 4 | 11 | 7 | 19 | 7 | 4 | 54 | 20 | 1 | 2 | 59 | 4 | 24 | 30 | 1 | 1 | 4 | 43 | 1
+@t 4 | 12 | 7 | 18 | 7 | 4 | 59 | 19 | 51 | 2 | 57 | 4 | 24 | 30 | 1 | 1 | 4 | 38 | 41
+@t 4 | 13 | 7 | 17 | 7 | 5 | 4 | 19 | 41 | 2 | 54 | 4 | 24 | 30 | 1 | 0 | 4 | 34 | 15
+@t 4 | 14 | 7 | 16 | 7 | 5 | 9 | 19 | 30 | 2 | 51 | 4 | 24 | 30 | 1 | 0 | 4 | 29 | 45
+@t 4 | 15 | 7 | 15 | 7 | 5 | 15 | 19 | 19 | 2 | 49 | 4 | 24 | 30 | 1 | 0 | 4 | 25 | 10
+@t 4 | 16 | 7 | 14 | 7 | 5 | 21 | 19 | 7 | 2 | 45 | 4 | 24 | 31 | 0 | 59 | 4 | 20 | 30
+@t 4 | 17 | 7 | 13 | 7 | 5 | 27 | 18 | 54 | 2 | 39 | 4 | 24 | 31 | 0 | 59 | 4 | 15 | 45
+@t 4 | 18 | 7 | 12 | 7 | 5 | 34 | 18 | 41 | 2 | 35 | 4 | 24 | 31 | 0 | 58 | 4 | 10 | 55
+@t 4 | 19 | 7 | 11 | 7 | 5 | 41 | 18 | 27 | 2 | 32 | 4 | 24 | 32 | 0 | 58 | 4 | 6 | 1{sup:c})
+@t 4 | 20 | 7 | 10 | 7 | 5 | 48 | 18 | 13 | 2 | 29 | 4 | 24 | 32 | 0 | 57 | 4 | 1 | 3
+@t 4 | 21 | 7 | 9 | 7 | 5 | 55 | 17 | 58 | 2 | 25 | 4 | 24 | 33 | 0 | 57 | 3 | 56 | 0
+@t 4 | 22 | 7 | 8 | 7 | 6 | 3 | 17 | 42 | 2 | 22 | 4 | 24 | 33 | 0 | 56 | 3 | 50 | 51{sup:d})
+@t 4 | 23 | 7 | 7 | 7 | 6 | 12 | 17 | 25 | 2 | 19 | 4 | 24 | 34 | 0 | 56 | 3 | 45 | 41
+@t 4 | 24 | 7 | 6 | 7 | 6 | 21 | 17 | 7 | 2 | 15 | 4 | 24 | 34 | 0 | 56 | 3 | 40 | 25
+@t 4 | 25 | 7 | 5 | 7 | 6 | 30 | 16 | 49 | 2 | 12 | 4 | 24 | 34 | 0 | 55 | 3 | 35 | 5
+@t 4 | 26 | 7 | 4 | 7 | 6 | 39 | 16 | 30 | 2 | 9 | 4 | 24 | 34 | 0 | 55 | 3 | 29 | 42
+@t 4 | 27 | 7 | 3 | 7 | 6 | 49 | 16 | 10 | 2 | 5 | 4 | 24 | 35 | 0 | 54 | 3 | 24 | 14
+@t 4 | 28 | 7 | 2 | 7 | 6 | 59 | 15 | 50 | 2 | 2 | 4 | 24 | 35 | 0 | 54 | 3 | 18 | 43
+@t 4 | 29 | 7 | 1 | 7 | 7{sup:b}) | 10 | 15 | 29 | 1 | 59 | 4 | 24 | 36 | 0 | 54 | 3 | 13 | 8
+@t 5{sup:a}) | 0 | 7 | 0 | 7 | 7{sup:b}) | 21 | 15 | 8 | 1 | 57 | 4 | 24 | 36 | 0 | 53 | 3 | 7 | 30
+@n {sup:1}) Locus] O, Locusque C, Locus autem N — {sup:2}) proprietatum omnium] N, computationis et numeri
+@n et diminutio examinis CO — {sup:3}) proprietatum omnium] computationis et numeri et augmentum examinis
+@n CO) — {sup:4}) ascensus] O, {i:om.} C. — {sup:5}) examinata] O, definita C — {sup:6}) ipsius elheza] O, argumenti C — {sup:7}) La-
+@n titudo. . . descendentis] Latitudo C, Latitudo Mercurii ON.
+@n {sup:a}) 5] N, 4 CO — {sup:b}) 7] ON, 6 C — {sup:c}) 1] ON, 50 C — {sup:d}) 51] O, 52 C — O {i:addid. in marg. su-}
+@n {i:periore:} Cullel. kavvekib. kumna. flscerafehu. ille Otari. ahine unxi (?) ademu (?)
+@obs The page number «166» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 55», in bold sans serif, underlined. The page has no signature. The titles (L01-L04), in bold, the sigla in roman: N's title, O's «Elotari», C's «Examinatio Mercurii»; L04, «Locus1) draconis eius 0. 21. 10.», in smaller bold type, the figures set close, followed by «(CON)». The folios of the manuscripts stand at the left of L03 and L04, «C 70r, O 127v,» and «N 35v.», the letters raised; here as left margin notes. Specks at the top right and in the left margin; not transcribed.
+@obs The table: rules and heads as on p. 165 (JP2 0197), with «Augmentum proprietatum omnium2)» and «Diminutio proprietatum omnium3)», «Sublimatio ascensus4) Mercurii examinata5)», «Examinatio ipsius elheza6)», «Examinatio centri», «Statio prima Mercurii» and «Latitude Mercurii descendentis7)» over «prima» and «secunda». Here each head is set from the top, one printed line to a line (L05-L09), the cells separated by our «|»; a head followed by empty cells spans their columns. L10, the units, in bold.
+@obs L11-L40. Checked as on p. 162 (JP2 0194): the Sublimatio is 7s 14° 54′ less half the Examinatio argumenti in every row, a half minute counted as a whole, except at 150° (L40): there 7s 7° 21′ is 1′ more than the 7s 7° 20′ that the Examinatio argumenti of the row, 15° 8′, requires. No note of the apparatus bears on the 21; notes b concern the degrees.
+@obs L11-L40. The Examinatio argumenti answers to an epicycle radius between 21.99 and 22.10 in every row; against an epicycle of radius 22.0 it is within 0.9′ from 121° to 134° and 1.5′ to 5.8′ larger from 135° on (150°: 15° 8′ for 15° 2.2′). The Latitudo secunda is 6° 15′ · sin x to within 0.5″ in every row except at 142° (L32), and its value for 180° − y is that of y on p. 163 (JP2 0195) except there: at 142° the edition prints O's 3° 50′ 51″ (note d), where C's 52 agrees with the computation, 3° 50′ 52.4″, and with the 3° 50′ 52″ of 38°.
+@obs L11-L40, the other columns: the Examinatio centri decreases from 3° 24′ at 121° by 2′ to 4′ a degree, to 1° 57′ at 150°. To 136° it lies between 0.4′ below and 2.1′ above 3° 56′ · sin x, and its values are those of 180° − x on p. 163 (JP2 0195) or 1′ to 2′ smaller; from 136° to 137° it falls by 6′, 2° 45′ to 2° 39′, and from 137° on it is 1′ to 3.7′ below 3° 56′ · sin x and 2′ to 4′ smaller than the values of 180° − x (2° 39′ at 137° against 2° 42′ at 43°; 1° 57′ at 150° against 1° 59′ at 30°). No note of the apparatus bears on the column. The Statio prima is 4s 24° 29′, its least value, to 128° (from 115° on, p. 165, JP2 0197) and then increases by 0′ or 1′ a degree to 4s 24° 36′ at 149° and 150°. The Latitudo prima decreases from 1° 6′ at 121° and 122° by 1′ every second degree, every third at 133°-135°, 142°-144° and 147°-149°, to 0° 53′ at 150°.
+@obs Notes on the readings. Note a: the last argument, 5s 0°, is N's; C and O have 4. Checked: the degrees 7 of the Sublimatio at 149° and 150° (notes b, O and N, against C's 6) agree with the rule; the Latitudo secunda 4° 6′ 1″ at 139° (note c, O and N, against C's 50), 4° 6′ 1.3″ computed. Notes 2-3: O and C's heads «computationis et numeri et diminutio (augmentum) examinis», as on p. 148 (JP2 0180, notes 2-3). The last note reports words that O adds in the upper margin, an Arabic sentence in Latin letters, with the editor's question marks.
+@obs N03-N04: «La-titudo», divided at the end of the line with a hyphen; N04, the ellipsis of the lemma has three points, «. . .», where the lemmata of the other pages have four. Italics: «om.», «addid. in marg. superiore:». L04, «0. 21. 10.»; L05, «Latitude»; N02, the lemma «proprietatum omnium]» without a siglum; N03, «CO) —» and «om. C. —»; N06, «flscerafehu»: see the critical notes.
+@critical AK07-CN157 | wrong sort | L05 | Latitude Mercurii | Latitudo Mercurii | the lemma of note 7, «La-titudo. . . descendentis]», and the heads «Latitudo Mercurii» on pp. 162-165 (JP2 0194-0197); an e is printed for the final o | high | none
+@critical AK07-CN158 | stray point | L04 | 0. 21. 10. | 0. 21. 10 | the place of the node ends without a point before the sigla on pp. 162-165 (JP2 0194-0197), «0. 21. 10 (CON)» | medium | none
+@critical AK07-CN159 | missing siglum | N02 | {sup:3}) proprietatum omnium] computationis | {sup:3}) proprietatum omnium] N, computationis | the lemma of a note is followed by the siglum of its source, as «proprietatum omnium] N,» in note 2 and «Diminutio . . . . omnium] N,» on p. 148 (JP2 0180, note 3); the readings of C and O follow the lemma here without it | medium | none
+@critical AK07-CN160 | stray parenthesis | N03 | examinis CO) — | examinis CO — | the readings of note 3 end with the sigla before the dash, as «examinis CO —» of note 2; a closing parenthesis without an opening one is printed after CO | high | none
+@critical AK07-CN161 | stray point | N03 | {i:om.} C. — {sup:5}) | {i:om.} C — {sup:5}) | the readings of a note end without a point before the dash, as «definita C —» beside it; a point is printed after the siglum | high | none
+@critical AK07-CN162 | probable misprint | N06 | flscerafehu | fiscerafehu | the transliterated Arabic fī šarafihi, «in its exaltation»; the ligature fl, with a second stem of the height of the ascenders, is printed where fi is expected | medium | none

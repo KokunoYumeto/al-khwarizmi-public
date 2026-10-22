@@ -1,0 +1,61 @@
+@page 58 26
+@lang la
+% JP2 0058: the Latin text, p. 26: chapter 33, the eclipses of the moon: whether an eclipse will happen, its size, the
+% partial and the total eclipse (elzukut, elingile, elmukdh), the tables for the far and the near distance; with the
+% apparatus (notes 1-39).
+@ml O 139{sup:v}
+@c {b:Cap. 33. Quomodo defectus solis et lunae notari debeat{sup:1}).}
+@ml N 44{sup:v}
+@p Quoniam ex his quae superius tractata sunt, quando et{sup:2}) ubi coniunctio vel
+oppositio solis et lunae contingat, praesto est inveniri{sup:3}), a modo ad eorundem de-
+fectus notandos res ammonet edoceri. Primum itaque utpote{sup:4}) propinquiore de luna
+agendum censeo{sup:5}). Notata itaque luminum coniunctione et oppositione{sup:6}) secundum
+idem tempus{sup:7}), necnon latitudinis argumento{sup:8}) ut praedictum est, eorum ordine
+singulariter sigillato ; per ipsum idem argumentum defectus utrum futurus sit necne
+conicietur. Si enim nos introducere in semitas defectus aptum{sup:9}) fuerit, introducat{sup:10}),
+et introductis{sup:11}) defectus et{sup:12}) qualitatem atque etiam moram ostendet ; si vero non,
+nec hoc nec illud nec defectus futurus est{sup:13}). Per aptum{sup:14}) itaque in tabulam eclipsis
+introeatur{sup:15}), eius autem{sup:16}) adiunctum primo{sup:17}) quidem ipsum defectum et defectus
+quantitatem ponet{sup:18}) ; iuxta hoc quod{sup:19}) diametros quidem umbrae in XX dividitur
+digitos, digitus vero{sup:20}) in LX dakaicas{sup:21}), diametros vero lunae in XII digitos divisa
+est ; secundo vero qualitatem et moram{sup:22}) determinat. Omnis enim eclipsis vel par-
+tialis vel totalis est ; partialis autem apud {sp:arabes} dum ingreditur {i:elzukut}{sup:23}), apud
+nos vero casus dicitur{sup:24}) ; cum vero ab umbra exit, {i:elingile}{sup:25}), quod a nobis respiratio{sup:26})
+dici potest. Totalis autem apud eos quidem {i:elmukdh}{sup:27}), id est mora dicitur, interim
+dico, dum tota obscuratur. Cetera{sup:28}) enim vel casus vel respiratio dicenda sunt. In
+supposita autem tabula{sup:29}) tam casus quam morae tempora per {i:dakaicas}{sup:30}) et {i:elthenias}{sup:31})
+horarum{sup:32}) determinata sunt. Calle autem, ut si luna in spatio remoto fuerit, tabu-
+lam spatii remoti tractes, si vero in spatio propinquo, tabulum spatii propinqui
+investiges. Interest enim hoc{sup:33}), quia cum diametros umbrae spatii longinqui in XX
+digitos divisa sit, diametros umbrae spatii propinqui in XXI, utpote maior dividitur,
+quod enim{sup:34}) inde procedit, quia cuiuslibet planetae circulus respectu terrae excen-
+tricus{sup:35}) invenitur. Quod si luna in neutro locorum praedictorum fuerit, per argu-
+mentum tamen latitudinis in utramque{sup:36}) istarum tabularum{sup:37}) intrando adiuncta
+notanda sunt. Deinde minor summa a{sup:38}) maiori subtrahenda, quodque superfuerit
+reponendum{sup:38}) Postea vero per argumentum ({i:anomaliam}) lunae in tabulam{sup:39}) pro-
+@n {sup:1}) Quomodo . . . . debeat] O, {i:om.} C, De eclipsi id est defectu lunae N. — {sup:2}) et] C, vel O. — {sup:3}) in-
+@n veniri] C, intueri O. — {sup:4}) utpote] N, ut pote CO. — {sup:5}) id est quomodo sint, scil. vel coniunctione ambae
+@n vel oppositione C {i:suprascr.} — {sup:6}) coniunctione et oppositione] N, oppositione O, compositione C. — {sup:7}) id
+@n est in uno tempore C {i:suprascr.} — {sup:8}) quia unumquodque debet per se esse scriptum, ut retro (?) dictum
+@n est C {i:suprascr.} — {sup:9}) aptum] C, aptum natum O. — {sup:10}) introducat] C, introducet O. — {sup:11}) introductis] C,
+@n introducti O. — {sup:12}) et] C, quantitatem et O. — {sup:13}) futurus est] C, futuros N, futurus O, {i:deinde addid.} :
+@n Utrum autem aptum sit an non ex ipsa defectuum pagina facile concipitur ; illa enim quae ei praescripta
+@n sunt, apta dicentur, cetera vero omnia inepta. De aptis autem amplius agendum est. — {sup:14}] aptum] C,
+@n ipsum O. — {sup:15}) introeatur] C, introducatur O. — {sup:16}) autem] C, enim O. — {sup:17}) primo] O, primum C. —
+@n {sup:18}) ponet] C, ponit O. — {sup:19}) quod] N, quidem CO. — {sup:20}) vero] C, {i:om.} O. — {sup:21}) dakaicas] CO, minuta N. —
+@n {sup:22}) moram] ON, in horam C. — {sup:23}) elzukut] O, elciikuf C, elszukuf N. — {sup:24}) dicitur] O, dicatur C. —
+@n {sup:25}) elingile] C, elingine O. — {sup:26}) a nobis respiratio] C, nobiscum respiratio O. — {sup:27}) autem . . . elmukdh] O,
+@n vero elmuh C, vero elmuht N. — {sup:28}) Cetera] O, Ceteri C. — {sup:29}) tabula] C, pagina O. — {sup:30}) dakaicas] CO,
+@n minuta N. — {sup:31}) elthenias] CO, secunda N. — {sup:32}) horarum] O, {i:om.} C. — {sup:33}) hoc] O, {i:om.} C. — {sup:34}) quod
+@n enim] C, quodque O, quod quidem N. — {sup:35}) excentricus] centros C, ecentros ON. — {sup:36}) utramque] C, unum-
+@n quodque O. — {sup:37}) tabularum] C, paginarum O. — {sup:38}) a] O, {i:om.} C. — {sup:39}) quodque . . . . reponendum] C,
+@n superatioque caute reponenda O. — {sup:39}) in tabulam] C, examinatum in paginam O.
+@obs The page number «26» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: the heading of chapter 33, in bold, centred; in the left margin «O 139v» beside it and «N 44v» beside L02.
+@obs L02-L28: the eclipses of the moon: with the time of the syzygy and the argument of latitude, the table shows whether an eclipse is possible («aptum»); the diameter of the shadow is divided into twenty digits of sixty minutes, the diameter of the moon into twelve; the partial phases, the immersion, «elzukut» (al-suqūṭ), Latin «casus», and the emersion, «elingile» (al-injilāʾ), «respiratio», and the totality, «elmukdh» (al-mukth), «mora». For the moon at its greatest distance the shadow has twenty digits, at its least distance twenty-one; between them both tables are entered and the difference taken. L15: «arabes» is letter-spaced. L28: «(anomaliam)», in italics within round brackets, explains «argumentum».
+@obs N01: the c of «defectu» has a speck in its counter, not joined to the letter, so that it looks like an e; transcribed «defectu». N02: a dark speck on the base line between «id» and «est»; not transcribed. N04: «retro (?)», the question mark upright, after a thin space. N08: the bracket after the note number 14 is a square bracket with its upper part missing; see the critical note. N12: «autem . . . elmukdh», three points.
+@obs The colons and semicolons of the text and the apparatus stand after the thin space of the edition (9-11 px measured; «concipitur ;» in N07, 7 px).
+@critical AK07-CN043 | misprint | L21 | tabulum | tabulam | «tabulam spatii propinqui investiges», as «tabulam spatii remoti tractes» in the same sentence (L20-L21); the a of the ending is printed as u | high | none
+@critical AK07-CN044 | wrong note number and missing point | L28 | reponendum{sup:38}) Postea | reponendum{sup:39}). Postea | the apparatus has note 39 on «quodque . . . . reponendum» (N16); the text repeats 38, the number of the note on «a» in L27; and the sentence ends with «reponendum», before «Postea vero», where the full stop is not printed | high | the variant of note 39 belongs here
+@critical AK07-CN045 | wrong note number | N17 | {sup:39}) in tabulam] | {sup:40}) in tabulam] | the note on «in tabulam» (L28, «tabulam{sup:39})») is the note after note 39 on «quodque . . . . reponendum»: text and apparatus both number it 39 again, where it is 40 | high | none on the readings
+@critical AK07-CN046 | wrong bracket | N08 | {sup:14}] aptum] | {sup:14}) aptum] | the note numbers of the apparatus are followed by a round bracket; after 14 a square bracket is printed, its upper part missing | high | none
+@critical AK07-CN280 | wrong note number | L28 | tabulam{sup:39}) | tabulam{sup:40}) | the list of misprints, p. [237] (JP2 0271, L08), reads 39) and 40) for the 38) and 39) of this line, and 40) for 39) in the last line of the notes (critical notes AK07-CN044 and AK07-CN045): the note on «in tabulam» follows note 39 on «quodque . . . . reponendum» | high | none

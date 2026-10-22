@@ -1,0 +1,103 @@
+@page 280 246
+@lang de
+% JP2 0280: the glossary, p. 246: I. Arabic words, Shemeli to Zich, in two columns.
+@cl {i:Shemeli} = {i:shamālī}, nördlich, 13, 16, 18, 29
+@cl (N. 5, 12, 13).
+@cl {i:Shemelia} = {i:shamālīya}, fem. des vorhergeh.
+@cl 29 (N. 5, 13).
+@cl {i:Shems} = {i:Shams}, Sonne, 58, T. 21—26.
+@cl {i:Shoa} = {i:shuʿāʿ} (pl. {i:shuʿuʿ} und {i:shuʿāʿāt}), Strahl
+@cl eines Gestirns, z. B. der Sonne, 31 (N. 6),
+@cl T. 91 ; {i:matrak elshoa} s. {i:Matrak}.
+@cl {i:Shohor} = {i:shuhūr}, pl. v. {i:shahr}, Monat, T. 9 ;
+@cl s. auch {i:filshohor} (unter {i:fi}).
+@cl {i:Ṣifr}, leer, Null, 35.
+@cl {i:Sohor} s. {i:Shohor}.
+@cl {i:Ṣūra}, Gestalt, Figur ; {i:ṣūrat al-arḍ}, Abbildung
+@cl (Figur) der Erde, IX.
+@cl {i:Szukuf} s. {i:Zukut}.
+@cl {i:Szukut} s. {i:Zukut}.
+@cl {b:T.}
+@cl {i:Ṭabaḳāt} (pl. v. {i:ṭabaḳa}), Klassen ; {i:ṭabaḳāt al-}
+@cl {i:umam}, Klassen der Völker, IX ; s. auch
+@cl {i:Umam}.
+@cl {i:Tabeb} = {i:ṭabīb}, Gelehrter, Arzt XXII, 20.
+@cl {i:Tadil} = {i:taʿdīl}, Gleichung (der Sonne, des Mon-
+@cl des und der Planeten), wird im lat. Text
+@cl durch {i:aequatio}, {i:coaequatio} und {i:examinatio}
+@cl wiedergegeben, 9, 10, 46 etc. T. 21—56.
+@cl {i:Tarbea} = {i:tarbīʿ}, Geviert- oder Quadratschein
+@cl (Astrol.) T. 91.
+@cl {i:Ta’rīkh}, Zeitrechnung, Chronik, Datum, IX ;
+@cl {i:Ta’rīkh al-ṣufr}, die spanische Zeitrechnung,
+@cl 35 ; s. auch {i:Acofra}.
+@cl {i:Tedewir} = {i:tadwīr}, Umdrehung (in einem
+@cl Kreise) ; {i:felek eltedewir} = {i:falak al-tadwīr},
+@cl der Epizykel, T. 9 (N. 20).
+@cl {i:Tethlith} = {i:tathlīth}, Gedritt- oder Trigonal-
+@cl schein (Astrol.) T. 91.
+@cl {i:Tezdiz} = {i:tasdīs}, Gesechst- oder Hexagonal-
+@cl schein (Astrol.) T. 91.
+@cl {i:Tezweit} s. {i:Tezwiet}.
+@cl {i:Tezwiet} = {i:taswiya}, Gleichstellung, Anordnung,
+@cl Verteilung, 25, 96, T. 79.
+@cl {i:Thaur}, Stier, das Tierkreiszeichen des Stiers
+@cl ({i:Taurus}) T. 59{sup:a}.
+@cl {i:Thedewir} s. {i:Tedewir}.
+@cl {i:Thelide} u. {i:Thelidhe} = pl. v. {i:Thelidha}, s. d.
+@cl folg.
+@cl {i:Thelitha} = {i:thālitha}, fem. v. {i:thālith}, (die) dritte,
+@cl in der Rechnung mit Sexagesimalbrüchen
+@cl die {i:partes tertiae}, d. h. die Vielfachen von
+@cl {fr:1|60{sup:3}}, 15 (N.).
+@cl {i:Theni} = {i:thānī}, (der) zweite, 12.
+@cr {i:Thenia} = {i:thāniya}, fem. des vorhergeh., Se-
+@cr kunde, in der Rechnung mit Sexagesimal-
+@cr brüchen die {i:partes secundae}, d. h. die Viel-
+@cr fachen von {fr:1|60{sup:2}}, XXIII, XXV, 11, 14, 15, 36,
+@cr 69. T. 4. 5, etc.
+@cr {i:Thuid} s. {i:Thuld}.
+@cr {i:Thuld} = {i:thulth}, ein Drittel, 9.
+@cr {i:Thur} s. {i:Thaur}.
+@cr {b:U.}
+@cr {i:Udjain} s. {i:Arin}.
+@cr {i:Ule} = {i:ūlā}, fem. v. {i:awwal}, (die) erste, T. 2, 3,
+@cr etc.
+@cr {i:Umam} (pl. v. {i:umma}), Völker, Nationen.
+@cr {i:Uzain}, arab. Form für das ind. {i:Udjain}, s. {i:Arin}.
+@cr {b:W.}
+@cr {i:Wa}, arab. Praepos., und ; z. B. {i:wakhod} =
+@cr {i:wakhudh}, und nimm XXII, 27 (N. 18) ; {i:wa-}
+@cr {i:hezatu} = {i:wakhāṣṣathu}, und seine Anomalie
+@cr T. 6—8, s. auch {i:Heza}.
+@cr {i:Wabāl}, Schaden, 161.
+@cr {i:Wacat} = {i:wasaṭ} (od. {i:wasṭ}), Mitte, Mittel, mitt-
+@cr lere Bewegung (der Sonne, des Mondes und
+@cr der Planeten), im Text und in den Tafeln
+@cr meistens durch {i:medialitas} wiedergegeben,
+@cr 7—12 etc., 41, T. 4—20, etc. {i:wacat alkamar}
+@cr = {i:wasaṭ al-ḳamar}, Mittellauf (mittlere Be-
+@cr wegung) des Mondes, T. 6—8.
+@cr {i:Wadjh}, pl. {i:wudjūh}, vordere Seite, Antlitz, Art
+@cr und Weise, etc. ; in der Astrologie der dritte
+@cr Teil (10°) eines Tierkreiszeichens (lat. {i:de-}
+@cr {i:canus}, auch {i:facies}) 104.
+@cr {i:Wakhod mebibelche} XXII, 27 (N. 18).
+@cr {i:Wazat} s. {i:Wacat}.
+@cr {b:Y.}
+@cr {i:Yle} s. {i:Ule}.
+@cr {b:Z.}
+@cr {i:Zafar} = {i:Ṣafar}, der zweite muhammed. Monat,
+@cr XIV, XV, 2, 34, 42, 43, 45 etc. T. 2, 3, 4 etc.
+@cr {i:Zahat} s. {i:Caat}.
+@cr {i:Zare} s. {i:Care}.
+@cr {i:Zenia} s. {i:Thenia}.
+@cr {i:Zich} = {i:zīdj} (pers. {i:zīg}) astronomisches Tafel-
+@cr werk, VIII, 1, 32, etc. T. 116 ; {i:zīdj al-shāh}
+@cr oder {i:al-shahriyār}, die Tafeln des {sp:Shāh}
+@cr (des Königs) = die persischen Tafeln, 32,
+@obs The page number «246» stands at the head of the page, centred, with a rule below it. The page has no signature. Two columns divided by a vertical rule, as on pp. [241]-245 (JP2 0275-0279), transcribed column by column: the left column L01-L50, the right L51-L95; the letter heads «T.» (L17), «U.» (L59), «W.» (L65), «Y.» (L84) and «Z.» (L86) in bold, centred in their columns, each after a blank line; each entry begins at the edge of its column, its further lines indented. The entry «Zich» continues on p. 247 (JP2 0281).
+@obs L49 and L54: the fractions are built up, «1» over «60³» and over «60²», the exponents raised, written {fr:NUMERATOR|DENOMINATOR}. The semicolons of L08, L09, L13, L18, L19, L28, L30, L32, L66, L67, L79 and L93 stand after a thin space (8-11 px); written with a space. L27: a speck after the point of «T. 91.» (3 px against the 6 px of the point); not transcribed. «Shāh» (L94) in spaced roman. The dashes are long (31-47 px), except in «T. 6—8» (L77), which is printed as a short dash with a space on each side (27 px); written —.
+@obs Checked against the text, for example: «Shemeli» on pp. 13, 16, 18 and 29 (JP2 0045, 0048, 0050, 0061), «filshohor» of C and «filsohor» of M in the apparatus of Tab. 9 (p. 120, JP2 0152), «Tezwiet» on p. 25 and in the title of Tab. 79 (p. 194, JP2 0226), «felek eltedewir» in the apparatus of Tab. 9 (note 20), «Thuld» and the «thuid» of C and M on p. 9 (JP2 0041, the text and note 7), «delidhe», «thelidhe» and «thelidae» in the apparatus of p. 15 (JP2 0047), where the glossary has «Thelide», «Thelidhe» and «Delidhe» (p. 242, JP2 0276, L56), «Wakhod mebibelche» in note 18 of p. 27 (JP2 0059), «Tarbea», «Tethlith» and «Tezdiz» in the heads of Tab. 91 (p. 206, JP2 0238). The ordinal fractions «Thenia» (seconds), «Thelitha» (thirds) and «Rabia» (fourths, p. 245, JP2 0279, L64-L67) are the multiples of 1/60², 1/60³ and 1/60⁴.
+@critical AK07-CN293 | wrong punctuation | L55 | 69. T. 4. 5, etc. | 69, T. 4, 5, etc. | the references of an entry are divided by commas, also before the tables, as «41, T. 4—20, etc.» (L75) and «58, T. 21—26» (L05); points are printed after 69 and after 4 | high | none
+@critical AK07-CN294 | wrong reference | L70 | 161 | 103 | «wabāl», the detriment of a planet, is explained on p. 103 (JP2 0135, L32: «im sog. Schaden (detrimentum, arab. wabāl)»), with the other astrological terms that the glossary refers to pp. 103-105 («Rabb», «Ṣāḥib» 103; «Hubūṭ», «Sharaf», «Wadjh» 104; «Ḥadd» 105); p. 161 is Tab. 50, a table of Venus, without the word | medium | none

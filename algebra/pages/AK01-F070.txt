@@ -1,0 +1,46 @@
+@page 70 ٥٤
+% Frame 070, printed p. 54: the chapter on transactions continued. The first way: ten for six, how much for four?
+% Ten is the measure, six the rate, four the price; the measure is multiplied by the price, its opposite, and the
+% product divided by the rate: six and two thirds. «والوجه الثانى» in bold: ten for eight, what is the price of four?
+% Eight times four divided by ten: three and a fifth. «فان سأل سائل» in bold: a labourer hired for ten dirhams a
+% month works six days; his share is ten times six divided by thirty, two dirhams. Then «باب المساحة» in bold, the
+% chapter on mensuration: one by one is an area, a cubit by a cubit; every surface with equal sides and angles,
+% continued on the next page. No footnotes.
+منه اذا قيل لك عشرة بستة كم لك بأربعة فقوله عشرة هو العدد المسعر وقوله
+بستة هو السعر وقوله كم لك هو العدد المجهول المثمن وقوله بأربعة هوالعدد الذى
+هو الثمن فالعدد المسعر الذى هو العشرة مباين للعدد الذى هو الثمن وهو الأربعة
+فاضرب، العشرة فى الأربعة وهما المتباينان الظاهران فيكون أربعين فاقسمها
+على العدد الآخر الظاهر الذى هو السعر وهو ستة فيكون ستة وثلثين وهو
+العدد المجهول الذى هو فى قول القائل كم وهو المثمن ومباينه الستة الذى هو
+السعر . {b:والوجه الثانى} قول القائل عشرة بثمانية كم ثمن أربعة وربما قال أربعة منها
+كم ثمنها فالعشرة هى العدد المسعر وهو مباين للعدد الذى هو الثمن المجهول الذى
+فى قوله كم . والثمانية هى العدد الذى هو السعر وهو مباين للعدد الظاهر الذى هو
+المثمن وهو أربعة فاضرب العددين الظاهرين المتباينين أحدهما فى الآخر وهو
+أربعة فى ثمانية فيكون اثنين وثلاثين واقسمه على العدد الآخر الظاهر الذى هو
+المسعر وهو عشرة فيكون ثلاثة وخمسا وهو العدد الذى هو المثمن وهو مباين
+للعشرة التى عليها قسمت وهكذا جميع معاملات الناس وقياسها ان شاء الله تعالى .
+{b:فان سأل سائل} فقال أجير أجرته فى الشهر عشرة دراهم عمل ستة أيام كم نصيبه
+فقد علمت أن الستة الأيام هى خمس الشهر وأن الذى يصيبه من الدراهم بقدر
+ما عمل من الشهر . وقياس ذلك أن قوله شهر وهو ثلاثون يوما وهو المسعر
+وقوله عشرة دراهم هو السعر وقوله ستة أيام هو المثمن وقوله كم يصيبه
+هو الثمن فاضرب السعر الذى هو عشرة فى المثمن الذى هو مباينه وهو ستة
+فيكون ستين فاقسمه على الثلاثين التى هى العدد الظاهر وهو المسعر فيكون
+ذلك درهمين وهو الثمن وهذا ما يتعامل الناس به بينهم من الصرف والكيل
+والوزن . {b:باب المساحة} اعلم أن معنى واحد فى واحد انما هى مساحة ومعناه
+ذراع فى ذراع . فكل سطح متساوى الاضلاع والزوايا يكون من كل جانب
+@obs L01: منه continues the bold «ومثال ذلك فى وجه» at the end of frame 069, L17: «ومثال ذلك فى وجه منه اذا قيل لك», an example of it in one way.
+@obs Three run-in headings are printed in a bold face, as باب المعاملات on frame 069: والوجه الثانى (L07), the second way of the transactions; فان سأل سائل (L14), a further example; باب المساحة (L21), the heading of the chapter on mensuration. The words that follow each are in the face of the text. In the bold فان the ن is printed without its dot, as on frames 055-067; transcribed ن. The bold سأل has its hamza on the alif and the bold سائل its hamza on the tooth; both are stretched. The machine reading has والوم for the bold والوجه, فاله for فان and المسامه for المساحة.
+@obs The font sets the ث above the م that follows, as on frames 065 and 069: الثمن (L03, twice; L08, L18, L20), ثمنها (L08), بثمانية (L07), والثمانية (L09), ثمانية (L11); transcribed in plain letters. The machine reading has التن, التمن, الثن, عنها, بنمانيه, والتمانيه and تمانيه.
+@obs Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi, above the baseline): هوالعدد (L02; 28 between the و and the alif, its tail 16 px from the alif, as the conjunction و stands from the alif inside واقسمه, L11, 24, and والثمانية, L09, 26, where the other هو العدد of the line stands 38 apart and that of L01 43).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: وهكذا جميع (L13; 17 between the alif and the ج, where the alif stands 13 px from the ج inside اجذار on frame 069, L03; in doubt, the space is written); وخمسا وهو (L12; 20 between the alif and the conjunction و, as درهما ونصف on frame 061, L08); واحد انما (L21; 17 between the د and the alif, as تريد أن on frame 058, L04).
+@obs After ة a word space is transcribed where the gap is 16 px or more; the narrowest such gaps on this page: عشرة فى (L18; 19), ستة أيام (L17; 23).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: لك هو (L02; 5 between the ك and the ه), القائل عشرة, ثمن أربعة and قال أربعة (L07), فى الشهر and دراهم عمل (L14), من الدراهم (L15).
+@obs L04: «فاضرب،», as printed: a comma of the usual form (8 by 19 px, as the comma of frame 057, L14, 7 by 23) stands 7 px (nearest approach of the ink at 400 ppi) after the ب of فاضرب and 24 px before العشرة, between the verb and its object. See the critical note AK01-CN021.
+@obs L12: a dot of the size of the letters' dots (9 by 10 px) stands in the word space between عشرة and فيكون (24 px between the ة and the ف), its top 18 px below the foot of both letters. The full stops of this page stand on the line, between spaces of their own of 21 to 28 px on either side; the same sentence in L05 and L19 runs on without punctuation before فيكون (الذى هو السعر وهو ستة فيكون, وهو المسعر فيكون). The dot is not transcribed.
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after السعر, before the bold والوجه (L07; 28 and 25), after كم, before والثمانية (L09; 26 and 23), at the end of L13 (21 after تعالى), after الشهر, before وقياس (L16; 24 and 22), after والوزن, before the bold باب (L21; 27 and 26), after ذراع, before فكل (L22; 25 and 26).
+@obs L16: the tail of the final ر of المسعر (L16), at the end of the line, is printed apart, a flat stroke 15 by 6 px, 14 px below and to the left of the letter. L17: ستة (L17) is printed in a worn sort: the teeth of the س are small broken marks (11 by 9 and 11 by 12 px), followed by the elongation stroke and تة. Both are transcribed plain.
+@obs Plain alif where a hamza might be expected, as printed: اذا (L01), فاضرب, فاقسمها (L04), فاضرب (L10), اثنين, واقسمه (L11), ان (L13), فاضرب (L18), فاقسمه (L19), اعلم, انما (L21), الاضلاع (L22); with hamza: بأربعة (L01, L02), الأربعة (L03, L04), أربعين (L04), أربعة (L07, twice; L10, L11), أحدهما (L10), سأل, أجير, أجرته, أيام (L14), أن, الأيام, وأن (L15), أن (L16), أيام (L17), أن (L21); with madda: الآخر (L05, L10, L11); on ي: القائل (L06, L07), سائل (L14); the hamza on the line: شاء (L13).
+@obs No tanwīn is printed on this page: وخمسا (L12), يوما (L16).
+@obs The final yā' is printed without dots: الذى throughout, فى throughout, على (L05, L11, L19), الثانى (L07), هى (L08, L09, L15, L19, L21), التى (L13, L19), تعالى (L13), معنى (L21), متساوى (L22).
+@obs The print stretches الأربعة (L04), العدد (L05, L06), the bold سأل and سائل (L14), ستة (L17), والكيل (L20), انما (L21) and فكل (L22) with the elongation stroke; the stroke is not transcribed.
+@critical AK01-CN021 | misplaced punctuation | L04 | فاضرب، العشرة | فاضرب العشرة | The comma stands between the imperative and its object: «فاضرب العشرة فى الأربعة», multiply the ten by the four. The same instruction has no comma in L10 and L18 (فاضرب العددين, فاضرب السعر). The clause before it, on the opposite numbers, ends at the end of L03 («وهو الأربعة»), where a comma would separate the statement from the instruction. | high that no comma belongs between the verb and its object; whether it was meant at the end of L03 is not known | none on the mathematics: the words are complete

@@ -1,0 +1,48 @@
+@page 244 212
+@lang la
+% JP2 0244: Tab. 97, p. 212: the projection of the rays continued: three fields, for the ascendant at 5°, 10° and 15°
+% of Cancer, the columns from Cancer to Sagittarius, each field with the numbers for the sextile, the quadrature and
+% the trine, with the apparatus (notes 1-4 and a-f).
+C 93{sup:v}, O 149{sup:r–v}, N 60{sup:r}.
+@c {b:Quinque}{sup:1}) {b:gradus Cancri}
+@c {b:Exagonum 61° 11′} — {b:Tetragonum 91° 46′} — {b:Trigonum 122° 12′}{sup:a})
+@tw size=footnotesize 0.95 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62
+@t Gradus | Cancer |  | Leo |  | Virgo |  | Libra |  | Scorpius |  | Sagittar. |
+@t aequales | Capricorn. |  | Aquarius |  | Pisces |  | Aries |  | Taurus |  | Gemini |
+@t  | Horoscopus{sup:4}) |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus{sup:4}) |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 5 | 5 | 40 | 41 | 45 | 77 | 30 | 106 | 58 | 132 | 22 | 158 | 38
+@t 10 | 11 | 10 | 47 | 57 | 82 | 48 | 111 | 10 | 136 | 28 | 163 | 8
+@t 15 | 17 | 20 | 54 | 8 | 87 | 45 | 115 | 28 | 140 | 33 | 167 | 48
+@t 20 | 23 | 9 | 60 | 18 | 92 | 50 | 119 | 28{sup:b}) | 144 | 42 | 173 | 3
+@t 25 | 29 | 13 | 66 | 10 | 97 | 42 | 123 | 56 | 149 | 11 | 177{sup:c}) | 5
+@t 30 | 35 | 40 | 72 | 20 | 102 | 48 | 128 | 13 | 153 | 48 | 180 | 33
+@c {b:Decem}{sup:2}) {b:gradus Cancri}
+@c {b:Exagonum 61° 54′} — {b:Tetragonum 92°}{sup:d}) {b:50′} — {b:Trigonum 124°}{sup:e}) {b:48′}
+@t 5 | 5 | 33 | 41 | 30 | 77 | 43 | 107 | 58 | 133 | 58 | 160 | 38
+@t 10 | 11 | 0 | 47 | 43 | 83 | 5 | 112 | 23 | 138 | 16 | 165 | 13
+@t 15 | 16 | 55 | 53 | 55 | 88 | 13 | 116 | 48 | 142 | 31 | 169 | 58
+@t 20 | 22 | 58 | 60 | 8 | 93 | 29 | 121 | 3 | 146 | 33 | 175 | 16
+@t 25 | 29 | 5 | 66 | 7 | 98 | 35 | 125 | 38 | 151 | 18 | 180 | 16
+@t 30 | 35 | 25 | 72 | 25 | 103 | 53 | 129 | 58 | 155 | 58 | 185 | 41
+@c {b:Quindecim}{sup:3}) {b:gradus Cancri}
+@c {b:Exagonum 63° 53′} — {b:Tetragonum 94° 50′} ‐‐ {b:Trigonum 127°}{sup:f}) {b:46′}
+@t 5 | 5 | 40 | 41 | 38 | 78 | 22 | 109 | 47 | 137 | 29 | 164 | 17
+@t 10 | 11 | 23 | 47 | 53 | 83 | 54 | 114 | 21 | 141 | 47 | 168 | 54
+@t 15 | 17 | 0 | 54 | 8 | 89 | 29 | 118 | 54 | 145 | 59 | 173 | 49
+@t 20 | 23 | 0 | 60 | 36 | 94 | 47 | 123 | 12 | 150 | 19 | 179 | 4
+@t 25 | 29 | 10 | 67 | 8 | 99 | 57 | 127 | 59 | 155 | 7 | 184 | 14
+@t 30 | 35 | 18 | 72 | 59 | 105 | 29 | 133 | 9 | 159 | 44 | 189 | 39
+@n {sup:1}) Quinque] C, Quintus O, V. N. — {sup:2}) Decem] CN, Decimus O — 3) Quindecim] CN, Quintus
+@n X{sup:us} O — {sup:4})—{sup:4}) Horoscopus] ON, Matale C.
+@n {sup:a}) 122. 12] C, 122. 22 O, 123. 22 N ‐‐ {sup:b}) 28] C, 38 ON — {sup:c}) 177] O, 178 C — {sup:d}) 92] 62 CON —
+@n {sup:e}) 124] 120 CON ‐‐ {sup:f}) 127] ON, 117(?) C.
+@obs The page number «212» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 97», in bold sans serif, underlined. The page has no signature and no title: the folios of the manuscripts stand at the left above the double rule of the first field, in one line of their own, «C 93v, O 149r–v, N 60r.», the letters raised, the short dash between r and v at their height (L01).
+@obs The page holds three fields, as pp. 206-211 (JP2 0238-0243): «Quinque1) gradus Cancri» (L02), «Decem2) gradus Cancri» (L14) and «Quindecim3) gradus Cancri» (L22), the ascendant at 5°, 10° and 15° of Cancer, with the numbers for the sextile, the quadrature and the trine (L03, L15, L23); headings and numbers in bold. The columns begin with the sign of the ascendant: «Cancer Capricorn. Horoscopus4)», «Leo Aquarius Horoscopus», «Virgo Pisces Horoscopus», «Libra Aries Horoscopus», «Scorpius Taurus Horoscopus» and «Sagittar. Gemini Horoscopus4)», where C has «Matale» (note 4); here each head is set from the top, one printed line to a line (L04-L06), with «Gradus aequales», printed upwards, in L04-L05, and the units in L07. The numbers are counted from the beginning of Cancer: 5° 40′, 5° 33′ and 5° 40′ at 5° of Cancer, the oblique ascension of these 5° for the latitude 38° 30′ being 5° 33′ (computed with the obliquity 23° 35′). The second and the third field have no heads. Double rules divide the fields.
+@obs The numbers at the head of a field, as on pp. 206-211 (JP2 0238-0243), are a third, a half and two thirds of one number. In the second field the sextile 61° 54′ and the quadrature 92° 50′ (L15) are a third and a half of the last number of the field, 185° 41′ (L21), the 92 the editor's for the 62 of all three manuscripts (note d); its two thirds are 123° 47.3′, where the trine has 124° 48′, the editor's 124 for the 120 of the manuscripts (note e), as if from 187° 12′. In the first field the sextile 61° 11′, the quadrature 91° 46′ and O's trine 122° 22′ (note a) are a third, a half and two thirds of 183° 33′, where the table has 180° 33′ at 30° of Sagittarius (L13; critical note); the edition's trine 122° 12′, from C, belongs to 183° 18′. In the third field the sextile 63° 53′ and the trine 127° 46′ (L23) are a third and two thirds of 191° 39′, and the quadrature 94° 50′ is half of 189° 40′, where the table has 189° 39′ (L29), whose third and two thirds are 63° 13′ and 126° 26′.
+@obs The columns, as on pp. 208-211 (JP2 0240-0243): in Cancer and in Leo to its 20th degree the three fields lie within 14′, 24′ and 9′ of the oblique ascensions from the beginning of Cancer for the latitude 38° 30′ (computed with the obliquity 23° 35′); at 25° and 30° of Leo the first two fall 39′ to 45′ below them; from Virgo on all three fall far below them, to 180° 33′, 185° 41′ and 189° 39′ at the end of Sagittarius, where the oblique ascension from the beginning of Cancer is 220° 38′. At the end of Virgo (L13, L21, L29) each column stands 28′ to 37′ above the mean of its neighbours.
+@obs Notes on the readings. Checked by the other fields, which differ by 5° of the ascendant, and by the steps of the columns: the edition's readings are the nearer in the quadrature of the second field (note d, L15: the editor's 92 for 62, above) and in the trine of the third (note f, L23: the 127 of O and N against C's 117(?), two thirds of 191° 39′ being 127° 46′). O's reading is the nearer in the trine of the first field (note a, L03: O's 122° 22′, two thirds of 183° 33′, against C's 122° 12′ and N's 123° 22′); the reading of O and N at 20° of Libra in the first field (note b, L11: their 38 against C's 28, the steps 4° 10′ and 4° 18′ against 4° 0′ and 4° 28′, the steps before and after being 4° 18′ and 4° 17′; the repetition of the field on p. 213, JP2 0245, L12, has 119° 38′); C's at 25° of Sagittarius in the first (note c, L12: with the last number 183° 33′, C's 178 gives the steps 5° 2′ and 5° 28′, as 5° 0′ and 5° 25′, 5° 10′ and 5° 25′ at the end of Sagittarius in the other fields, L20-L21, L28-L29, and O's 177, which the edition prints, 4° 2′ and 6° 28′; the repetition of the field on p. 213, JP2 0245, L13, has 178° 5′). The editor's 124 in the trine of the second field (note e) does not agree with the rule (above).
+@obs The long dash before «Trigonum» in L23, and those before the notes b and f in N03 and N04, are each made up of two short dashes (15 and 19 px with a gap of 5 px; 14 and 16 px, 6 px; 22 and 14 px, 2 px; 36 to 39 px together); here written as two hyphens (U+2010). In N01 the note number 3 before «Quindecim» is printed on the line in the size of the text: see the critical note.
+@critical AK07-CN235 | wrong figure | L13 | 180 | 183 | the last number of the first field, at 30° of Sagittarius: the sextile 61° 11′, the quadrature 91° 46′ and O's trine 122° 22′ (note a) are a third, a half and two thirds of 183° 33′; with 183 the last two steps of the column are 5° 2′ and 5° 28′ from C's 178° 5′ (note c), as 5° 0′ and 5° 25′, 5° 10′ and 5° 25′ at the end of Sagittarius in the other two fields (L20-L21, L28-L29), where with 180 they are 4° 2′ and 3° 28′; the repetition of the field on p. 213 (JP2 0245, L14) has 183° 33′; a 0 is printed for the 3 | high | none
+@critical AK07-CN236 | wrong fount | N01 | — 3) Quindecim] | — {sup:3}) Quindecim] | the note numbers of the apparatus are set small and raised, as «1)» and «2)» before it in the same line; the 3 is printed on the line in the size of the text | high | none
+@critical AK07-CN239 | stray point | N01 | V. N. — {sup:2}) | V. N — {sup:2}) | the readings of a note end without a point before the dash, as «Decimus O —» after it in the same line and «V. N —» in the same note on p. 214 (JP2 0246, N01); a point is printed after N | high | none

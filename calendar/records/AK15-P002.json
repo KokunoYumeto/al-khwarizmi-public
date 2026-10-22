@@ -1,0 +1,118 @@
+{
+ "anchor": "AK15-P002",
+ "pdf_page": 2,
+ "printed_page": "-",
+ "kind": "title",
+ "role": "MODERN_EDITORIAL (a title page of the 1947/1948 edition)",
+ "image_raw_stream_sha256": "ba34a58c2ca0e78ba3bbd50bbce77aa1d87a40ff89b1e7d658971264fa52867a",
+ "image_decoded_pixels_sha256": "de24dda3f10c4ebca9e6e7a06aa6d97b8f82415f0f3d0738b4e94df7edccd91c",
+ "comment": "PDF 2: the title page of the treatise, printed with its own pagination and dated 1366 H / 1947: «Maqala fi istikhraj tarikh al-yahud wa-a'yadihim», by Abu Ja'far Muhammad ibn Musa al-Khwarizmi; the edition, the press, the place, the date and the print run. A number written in ink at the upper right (copy matter).",
+ "lines": [
+  {
+   "id": "AK15-P002-L01",
+   "n": 1,
+   "kind": "heading",
+   "text": "مقالة",
+   "plain": "مقالة",
+   "cells": null
+  },
+  {
+   "id": "AK15-P002-L02",
+   "n": 2,
+   "kind": "centre",
+   "text": "فى استخراج تاريخ اليهود واعيادهم",
+   "plain": "فى استخراج تاريخ اليهود واعيادهم",
+   "cells": null
+  },
+  {
+   "id": "AK15-P002-L03",
+   "n": 3,
+   "kind": "centre",
+   "text": "تاليف ابى جعفر محمد بن موسى",
+   "plain": "تاليف ابى جعفر محمد بن موسى",
+   "cells": null
+  },
+  {
+   "id": "AK15-P002-L04",
+   "n": 4,
+   "kind": "centre",
+   "text": "الخوارزمى رحمه الله تعالى",
+   "plain": "الخوارزمى رحمه الله تعالى",
+   "cells": null
+  },
+  {
+   "id": "AK15-P002-L05",
+   "n": 5,
+   "kind": "heading",
+   "text": "الطبعة الاولى",
+   "plain": "الطبعة الاولى",
+   "cells": null
+  },
+  {
+   "id": "AK15-P002-L06",
+   "n": 6,
+   "kind": "centre",
+   "text": "بمطبعة جمعية دائرة المعارف العثمانية",
+   "plain": "بمطبعة جمعية دائرة المعارف العثمانية",
+   "cells": null
+  },
+  {
+   "id": "AK15-P002-L07",
+   "n": 7,
+   "kind": "centre",
+   "text": "بعاصمة الدولة الآصفية الاسلامية",
+   "plain": "بعاصمة الدولة الآصفية الاسلامية",
+   "cells": null
+  },
+  {
+   "id": "AK15-P002-L08",
+   "n": 8,
+   "kind": "centre",
+   "text": "حيدرآباد الدكن",
+   "plain": "حيدرآباد الدكن",
+   "cells": null
+  },
+  {
+   "id": "AK15-P002-L09",
+   "n": 9,
+   "kind": "centre",
+   "text": "لازالت شموس افاداتها بازغة وبدور",
+   "plain": "لازالت شموس افاداتها بازغة وبدور",
+   "cells": null
+  },
+  {
+   "id": "AK15-P002-L10",
+   "n": 10,
+   "kind": "centre",
+   "text": "افاضاتها طالعة الى آخر الزمن",
+   "plain": "افاضاتها طالعة الى آخر الزمن",
+   "cells": null
+  },
+  {
+   "id": "AK15-P002-L11",
+   "n": 11,
+   "kind": "centre",
+   "text": "سنة {fr:١٣٦٦ هـ|١٩٤٧ م}",
+   "plain": "سنة ١٣٦٦ هـ ١٩٤٧ م",
+   "cells": null
+  },
+  {
+   "id": "AK15-P002-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "تعدا. الطبع {fr:٥٠٠|١٣٥٦ ف}",
+   "plain": "تعدا. الطبع ٥٠٠ ١٣٥٦ ف",
+   "cells": null
+  }
+ ],
+ "unresolved": [],
+ "observations": [
+  "L01 «مقالة» in a large type with a long swash; L05 in a larger type. Between L04 and L05 a rule with an ornament in its middle, and below it, a little to the left of the middle, a small printed mark like a tooth with a curl (about 30 px wide); not transcribed. L11: «١٣٦٦ هـ» over a rule and «١٩٤٧ م» under it, with «سنة» in a smaller type at the right end of the rule; L12, at the lower right of the page: the print run «٥٠٠» over a rule and «١٣٥٦ ف» (the year of the Fasli era) under it.",
+  "L12: «تعدا. الطبع»: the second د of تعداد (so printed in full on PDF 1, L14) is missing, and a small dot (6 px) stands in its place, at the height of the baseline; transcribed as printed. L03: «تاليف», without hamza; L04: «الخوارزمى», with the dot of the خ, the final ى without dots.",
+  "The edition was printed with a separate pagination and a title page of its own dated 1366/1947 and bound with other treatises in collections dated 1367/1948 (PDF 1); de Blois, n. 2, describes two such collections, of nine and of eleven treatises, with al-Khwarizmi's first in both."
+ ],
+ "copy_matter": [
+  "At the upper right, written in ink: a number, read «٣٤٠٢٦», over a curved stroke, and a shorter number below it, partly legible («٣١/١»?); an accession or shelf number of the copy that was scanned. Not part of the edition."
+ ],
+ "critical_notes": []
+}

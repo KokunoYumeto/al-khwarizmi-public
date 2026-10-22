@@ -1,0 +1,71 @@
+@page 147 115
+@lang la
+% JP2 0147: Tab. 4, p. 115: the mean motion of the sun in the collected and the single Arab years and in the Arab
+% months, in signs, degrees, minutes and seconds, and the mean sun at the entries of the signs, with the apparatus
+% (notes 1-11 and a-s).
+@m C 45{sup:v}, O 102{sup:r}.
+@c {b:Elwacat solis} (C) — {b:Medialitas solis} (O)
+@tw size=footnotesize span=1.1 1.3 0.8 0.8 0.9 0.9 1 0.8 0.8 0.9 0.9 2.4 0.8 0.8 0.9 0.9
+@t Anni | Medialitas{sup:1}) solis in | | | | Anni | Medialitas{sup:2}) solis in | | | | Menses | Medialitas{sup:2}) solis in | | |
+@t col- | annis collectis | | | | plani | annis planis | | | | arabici | mensibus arabicis{sup:3}) | | |
+@t lecti | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:4}) | {b:Sec.}{sup:5}) | | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:4}) | {b:Sec.}{sup:5}) | | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:4}) | {b:Sec.}{sup:5})
+@t Radix | 3 | 23 | 25 | 48{sup:i}) | 1 | 11 | 18 | 54 | 13 | Elmuharram | 0 | 29 | 34 | 5
+@t 30 | 5 | 1 | 22 | 51 | 2 | 11 | 8 | 47 | 34 | Zafar | 1 | 28 | 9 | 2
+@t 60 | 6 | 9 | 19 | 55 | 3 | 10 | 27 | 41 | 47 | Rabe (I) | 2 | 27 | 43 | 7
+@t 90 | 7 | 17 | 16 | 59 | 4 | 10 | 16 | 36{sup:m}) | 0 | Rabe (II) | 3 | 26 | 18 | 4
+@t 120 | 8 | 25 | 14 | 3 | 5 | 10 | 6 | 29 | 21 | Jumedi (I){sup:6}) | 4 | 25 | 52 | 9
+@t 150 | 10{sup:c}) | 3 | 11 | 6{sup:k}) | 6 | 9 | 25 | 23 | 34 | Jumedi (II){sup:6}) | 5 | 24 | 27 | 6
+@t 180 | 11 | 11 | 8 | 9 | 7 | 9 | 15 | 16 | 55 | Regeb{sup:7}) | 6 | 24 | 1 | 11
+@t 210 | 0 | 19{sup:d}) | 5 | 13 | 8 | 9 | 4 | 11 | 9 | Scabin{sup:8}) | 7 | 22 | 36 | 8
+@t 240 | 1 | 27{sup:e}) | 2 | 17 | 9 | 8 | 23 | 5 | 22 | Ra’ham{sup:9}) | 8 | 22 | 10 | 13
+@t 270 | 3 | 4 | 59 | 20 | 10 | 8 | 12 | 58 | 43 | Scawel{sup:10}) | 9 | 20{sup:q}) | 45 | 10
+@t 300 | 4 | 12 | 56 | 23 | 11 | 8 | 1 | 52 | 56{sup:n}) | Dulkada | 10 | 20 | 19 | 15
+@t 330 | 5 | 20 | 53 | 26 | 12 | 7 | 20 | 47 | 9{sup:o}) | Dulheia{sup:11}) | 11 | 18 | 54 | 12
+@t 360 | 6 | 28 | 50 | 29 | 13 | 7 | 10 | 40 | 30 | | | | |
+@t 390 | 8 | 6 | 47 | 32 | 14 | 6 | 29 | 34 | 45 | | | | |
+@t 420 | 9 | 14 | 44 | 36 | 15 | 6 | 18 | 28 | 57 | | | | |
+@t 450 | 10 | 22 | 41 | 39 | 16 | 6 | 8 | 22 | 18 | | | | |
+@t 480 | 0 | 0 | 38 | 42 | 17 | 5 | 27 | 16 | 31 | | | | |
+@t 510 | 1 | 8 | 35 | 45 | 18 | 5 | 17 | 9 | 52 | | | | |
+@t 540 | 2 | 16{sup:f}) | 32{sup:g}) | 49 | 19 | 5 | 6 | 4 | 5 | | | | |
+@t 570 | 3 | 24 | 29{sup:h}) | 52{sup:l}) | 20 | 4 | 24 | 58 | 19 | | | | |
+@t 600{sup:a}) | 5 | 2 | 27 | 9 | 21 | 4 | 14 | 51 | 40 | | | | |
+@t 630 | 6 | 10 | 24 | 13 | 22 | 4 | 3 | 45 | 53 | | | | |
+@t 660 | 7 | 18 | 21 | 17 | 23 | 3 | 22 | 40 | 7{sup:p}) | | | | |
+@t 690 | 8 | 26 | 18 | 21 | 24 | 3 | 12 | 33 | 28 | | | | |
+@t 720 | 10 | 4 | 15 | 25{sup:b}) | 25 | 3 | 1 | 27 | 41 | | | | |
+@t | | | | | 26 | 2 | 21 | 21 | 3 | | | | |
+@t | | | | | 27 | 2 | 10 | 15 | 16 | | | | |
+@t | | | | | 28 | 1 | 29 | 9 | 29 | | | | |
+@t | | | | | 29 | 1 | 19 | 2 | 50 | | | | |
+@t | | | | | 30 | 1 | 7 | 57 | 3 | | | | |
+@t | | | | | | | | | | Nomina | Medialitas solis in | | |
+@t | | | | | | | | | | signorum | primis signorum locis | | |
+@t | | | | | | | | | | Aries | 11 | 27 | 48 | 12
+@t | | | | | | | | | | Taurus | 0 | 28 | 18 | 38
+@t | | | | | | | | | | Gemini | 1 | 29 | 17 | 33
+@t | | | | | | | | | | Cancer | 3 | 0 | 28 | 20
+@t | | | | | | | | | | Leo | 4 | 1 | 29 | 58
+@t | | | | | | | | | | Virgo | 5 | 2 | 9 | 7
+@t | | | | | | | | | | Libra | 6 | 2 | 9 | 37{sup:s})
+@t | | | | | | | | | | Scorpius | 7 | 1 | 26{sup:r}) | 55
+@t | | | | | | | | | | Sagittarius | 8 | 0 | 40 | 40
+@t | | | | | | | | | | Capricornus | 8 | 29 | 33 | 42{sup:s})
+@t | | | | | | | | | | Aquarius | 9 | 28 | 35 | 28
+@t | | | | | | | | | | Pisces | 10 | 27 | 55 | 0
+@n {sup:1}) Medialitas] O, elwacat C — {sup:2}) Medialitas] O, {i:om.} C — {sup:3}) arabicis] O, {i:om.} C — {sup:4}) Min.] O,
+@n dak. C — {sup:5}) Sec.] O, theniae C — {sup:6}) Jumedi] O, lumedi C — {sup:7}) Regeb] O, rereb C — {sup:8}) Scabin] O,
+@n Sabin C — {sup:9}) Ra’ham] O, ratam C — {sup:10}) Scawel] O, shawel C — {sup:11}) Dulheia] O, dulkeia C.
+@n {sup:a-b}) 600 . . . . 25] O, {i:man. sec.}, {i:om.} C — {sup:c}) 10] O, 8 C — {sup:d}) 19] O, {i:corr. ex} 30 C — {sup:e}) 27] O,
+@n 26 C — {sup:f}) 16] C, 17 O — {sup:g}) 32] C, 33 O — {sup:h}) 29] C, {i:corr. in} 30 O, {i:man. sec.} — {sup:i}) 48] O, 43 C —
+@n {sup:k-l}) 6 . . . . 52] {i:corr. in} 14, 13, 17, 21, 25, 29, 33, 37, 41, 45, 49, 53, 57, 1, 5, O {i:man. sec.} — {sup:m}) 36] O,
+@n 37 C — {sup:n}) 56] C, 57 O — {sup:o}) 9] C, {i:om.} O — {sup:p}) 7] C, 50 O — {sup:q}) 20] O, 9 C — {sup:r}) 26] C, 36 O — {sup:s}) {i:Addid.}
+@n C {i:in Nota:} Nota quod in introitu librae wacat solis hoc rectius esse videtur 6. 2. 10. 37. 11 (?), in ca-
+@n pricornum vero ingredientis hoc 9 (?) 8. 29. 35. 42.
+@obs The page number «115» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 4», in bold sans serif, underlined. The title (L01), in bold, the sigla in roman: «Elwacat solis» is the title of C, «Medialitas solis» that of O; the folios of the manuscripts, «C 45v, O 102r.», stand at the right, the letters v and r raised; here as a margin note. At the foot, the signature «15*» on the right.
+@obs The table: a thick and a thin rule above the head, a double rule below it; vertical rules divide the columns, double ones after the years and before and after the months; thin rules under the heads that span the four columns of signs, degrees, minutes and seconds, whose heads «Sig.», «Gr.», «Min.», «Sec.» are set in small bold type. The heads «Anni col-lecti», «Anni plani» and «Menses arabici» are printed in two or three lines (L02-L04). Each printed row is one line here, the cells separated by our «|»; a head followed by empty cells spans their columns. The rows of the collected years end with 720 (L29), the months with Dulheia (L16).
+@obs L35-L48: below the months, after a thick and a thin rule, a second table, «Nomina signorum» and «Medialitas solis in primis signorum locis», with its own head in two lines and a double rule below it, stands in the columns of the months, beside the rows 14-30 of the single years; its rows are set about half a row lower than theirs. It is transcribed here after the rows of the years, in the columns in which it stands.
+@obs L05-L34. Checked against al-Khwārizmī's sidereal year, 1 577 916 450 000 days in 4 320 000 000 years (p. 42, JP2 0074), a mean motion of 360° in 365.2584375 days: 30 Arab years, 10 631 days, give 1s 7° 57′ 3.5″, a common year of 354 days 11s 18° 54′ 13.1″ and a leap year 11s 19° 53′ 21.3″. From the radix 3s 23° 25′ 48″ (113° 25′ 48″, p. 33, JP2 0065) the collected years from 30 to 570 are the radix and multiples of 1s 7° 57′ 3.5″ to within 2.4″, the seconds growing by 3 and 4 in turn (with the readings of notes c-g and i). The rows 600-720, which are those of O in a second hand (note a-b), lie 11-13″ higher: they continue from the 3s 24° 30′ 5″ to which that hand corrected the row 570 (notes h and k-l) by 1s 7° 57′ 4″ each, 9, 13, 17, 21, 25 seconds. The second hand's corrections of the seconds from 180 to 570 (note k-l), 13, 17, … 57, 1, 5, also grow by 4; the first, 14 at 150, does not follow that step.
+@obs L05-L34, the single years, and L05-L16, the months. Checked: the year p gives the mean motion in the days of the first p Arab years, 354 days and 355 in the leap years 2, 5, 7, 10, 13, 16, 18, 21, 24, 26 and 29 (Tab. 2, p. 110, JP2 0142): all 30 rows agree to within 1.5″, the values cut off rather than rounded (with the readings of notes m-p); the year 30, 1s 7° 57′ 3″, is the step of the collected years. The months give the motion in 30, 59, 89, … 354 days, the months of 30 and 29 days in turn: all 12 agree to within 1.1″ (with the reading of note q).
+@obs L37-L48. Checked: the mean sun at which the true sun enters each sign, with the solar apogee 77° 55′ (p. 9, JP2 0041) and the rule sin q = sin 2° 14′ · sin (mean − apogee) for the equation q (p. 45, JP2 0077): the values agree to within 2′ 48″, except Scorpius, whose 1° 26′ is 10′ 14″ too small; O's reading 1° 36′ (note r) agrees to within 14″. The note s, Ms. C's marginal note on the entries of Libra and Capricorn, is the editor's apparatus; its values are not those of the table.
+@obs N04 and N06: «a-b)» and «k-l)», each marking the first and the last place of a range. N07: «Addid.» and N08 «in Nota:» in italics, the colon set close; N08-N09: «11 (?)» and «9 (?)», the editor's question marks. N02: «dak.», «theniae», C's Arabic words for the minutes and the seconds (Suter, p. 36, JP2 0068). The ellipses «. . . .» of the lemmata as printed. Italics: «om.», «man. sec.», «corr. ex», «corr. in», «Addid.», «in Nota:».

@@ -1,0 +1,57 @@
+@page 57 25
+@lang la
+% JP2 0057: the Latin text, p. 25: the end of chapter 31 (the moon's anomaly at the syzygy; the tables are for Cordova;
+% the correction for the longitude; the equation of time); chapter 32, in square brackets, the degree of mid-heaven and
+% the division of the twelve houses (tezwiet elbuiut); with the apparatus (notes 1-28).
+ducantur{sup:1}), productumque inde{sup:2}) primo argumento vel addendum vel minuendum{sup:3}),
+prout de horis actum est. Erit itaque ratum in coniunctione vel oppositione lunae
+argumentum{sup:4}). Haec autem omnia pro situ {i:Cordubae} dicta sunt.
+@p Quare{sup:5}) si alibi astra notas, differentia quidem longitudinum{sup:6}) loci tui{sup:7}) atque{sup:8})
+{i:Cordubae} notanda erit{sup:9}), singulique quindecim gradus eius{sup:10}) horae comparandi. Si
+ergo fuerit locus tuus{sup:11}) ex oriente, subtrahantur{sup:12}) horae praedictae horis {i:Cordubae},
+sin autem ex occidente, addentur{sup:13}). Ut autem quaslibet horas aequales ad inaequales
+et e converso{sup:14}) reducere queamus, hanc examinationis dierum tabulam praeripuimus,
+cuius haec lex est : Per cuiuslibet signi quemlibet gradum solis intrabitur{sup:15}), adiunc-
+tumque eius ex inaequalibus diebus quotcunque fuerint minuetur ; sicque fient aequa-
+lium horarum dies. Sed et aequalibus idem e contrario{sup:16}) addendo inaequales fient.
+@m C 83{sup:r}
+@c {b:Cap. 32. [Scientia gradus medii caeli et dispositionis casarum XII.}
+@m N 56{sup:r}
+@c {b:Quam dispositionem dicunt tezwiet{sup:17}) elbuiut{sup:18}).}
+@p Perpende ergo gradum horoscopi et intra per eum in semitam graduum aequa-
+lium in horoscopis {i:felek elmustakim}{sup:19}) et accipe eius adiunctum ex horoscopis et
+adde super illud tempora duarum{sup:20}) horarum nocturnarum ex temporibus gradus
+horoscopici in tua regione. Quod autem inde coacervabitur quaere in horoscopis
+{i:felek elmustakim}{sup:21}) ; eoque invento revertere ab eodem ad gradus aequales. Erit
+itaque numerus illorum graduum casae secundae{sup:22}) principium. Deinde adde supra
+gradus horoscopicos{sup:23}) cum quibus fecisti casam secundam tempora duarum horarum
+nocturnarum, et invenisti{sup:24}) praedicto modo principium domicilii tertii. Deinde adde
+tantundem supra id cum quo invenisti casam tertiam, et per inde coacervatum sicut
+superius invenito{sup:25}) domicilii quarti principium. Quinti vero et ceterorum principia
+simili ratione reperies{sup:26}), hac una differentia memoriter praenotata, ut cum in primis
+IV duas horas nocturnas retractaveris, cetera per additionem duarum horarum diur-
+narum de tempore tuae regionis exequaris. Nota autem, quod si fuerit casa septima
+tanquam horoscopus, recte laborasti. Cum autem volueris scire tempora duarum
+horarum horoscopi tui, intra cum gradu horoscopico in semitam numeri in horo-
+scopis tuae regionis ex ipso signo solis, et sume eius adiunctum de temporibus
+horarum et duplica illud, et habebis tempora duarum horarum diurnarum, et minue
+illud idem duplum scilicet a LX, restabuntque tempora duarum horarum nocturna-
+rum, facque ita{sup:27}) cum eo sicut supradiximus.]{sup:28})
+@n {sup:1}) ducantur] C, ducentur O. — {sup:2}) inde] ON, tamen C. — {sup:3}) minuendum] O, subtrahendum C. —
+@n {sup:4}) Erit . . . . argumentum] C, Sicque erit argumentum coniunctionis vel oppositionis ratum O. — {sup:5}) Quare]
+@n C, Quod O. — {sup:6}) longitudinum] C, longitudinis O. — {sup:7}) tui] C, praesentis O. — {sup:8}) atque] C, et longitu-
+@n dinis O. — {sup:9}) erit] O, {i:om.} C. — {sup:10}) eius] C, {i:om.} O. — {sup:11}) tuus] C, praesens O. — {sup:12}) subtrahantur] C,
+@n subtrahentur O. — {sup:13}) sin . . . . addentur] C, si vero non, contrarium O. — {sup:14}) et e converso] C, {i:om.} O.
+@n — {sup:15}) intrabitur] C, in tabulam intrabitur O. — {sup:16}) e contrario] C, eodem modo O. — {sup:17}) tezwiet] N,
+@n tezweit C. — {sup:18}) {i:Hoc titulo anteposuit} N : De scientia gradus medii caeli. — {sup:19}) felek elmustakim] C,
+@n circuli aequinoctialis N. — {sup:20}] duarum] N, durarum C. — {sup:21}) felek elmustakim] C, circuli aequinoctialis
+@n N. — {sup:22}) secundae] N, secundum C. — {sup:23}) horoscopicos] horoscopos CN. — {sup:24}] invenisti] inveni CN. —
+@n {sup:25}) invenito] N, invento C. — {sup:26}) reperies] repperies CN. — {sup:27}) facque ita] C, fac itaque N. — {sup:28}) {i:Quae}
+@n {i:uncis inclusa om.} O.
+@obs The page number «25» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «4» on the right; recorded here, not transcribed as a line.
+@obs L01-L11 end chapter 31 (pp. 23-24, JP2 0055-0056). L03: the computations are for the situation of Cordova, «pro situ Cordubae», the meridian of Maslama's recension (see Suter's introduction, p. VII, JP2 0011, L14-L18). L04-L07: the difference of longitude between one's place and Cordova, an hour for every fifteen degrees, is subtracted from the hours of Cordova for a place to the east and added for a place to the west. Checked: local time at a place east of Cordova is ahead of Cordova's, so that an event computed in hours of Cordova falls later by the local reckoning; the hours would be added for a place to the east and subtracted for one to the west, the opposite of the text. Suter's commentary on chapter 31 (p. 84, JP2 0116, N02) says the same: «oriente» and «occidente» are to be exchanged. L08-L11: the table of the equation of days, for turning unequal days into equal ones and back.
+@obs L12-L32: chapter 32 stands in square brackets, opened before «Scientia» in the heading and closed after «supradiximus.» (L32); note 28: O omits it. The heading, in bold, centred, in two lines; in the right margin «C 83r» beside its first line and «N 56r» beside its second. «tezwiet elbuiut», the equalization of the houses (taswiyat al-buyūt); «casa» and «domicilium» the house; L15 and L18 «felek elmustakim», the right sphere, in italics.
+@obs L14-L32: the cusps of the houses: from the right ascension of the ascendant two seasonal night hours (in equatorial degrees) are added for each of the next three cusps, and two day hours for the following ones; the seventh cusp must come out opposite the ascendant. Checked: two seasonal hours of the day are a sixth of the arc of the day, and two of the night a sixth of 360 degrees less that arc, which is 60 less two day hours, as L30-L32 say.
+@obs N08 and N09: the note numbers 20 and 24 are followed by a square bracket, see the critical notes. N07: «N :», the colon after a thin space (13 px measured), as are the colon of L09 and the semicolons of L10 and L18 (12 px). N02, N09, N10: «ON», «CN», the sigla set together.
+@critical AK07-CN041 | wrong bracket | N08 | {sup:20}] duarum] | {sup:20}) duarum] | the note numbers of the apparatus are followed by a round bracket, «19)», «21)»; after 20 a square bracket is printed | high | none
+@critical AK07-CN042 | wrong bracket | N09 | {sup:24}] invenisti] | {sup:24}) invenisti] | the note numbers are followed by a round bracket, «23)», «25)»; after 24 a square bracket is printed | high | none

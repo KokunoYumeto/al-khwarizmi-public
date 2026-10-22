@@ -1,0 +1,453 @@
+{
+ "anchor": "AK05-F024",
+ "frame": 24,
+ "frame_file": "page_024.jpg",
+ "frame_sha256": "114c00b905928bedc23f8b61e1ec9735b1bde978f67449f644b437c402b3805c",
+ "printed_page": "١٨",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 024, printed p. 18: the cities of the fourth clime continued, entries 231-249: places on islands and on the sea, Alexandria, Rhodes, the coast of the Nile delta from Rashīd to al-Faramā, al-Qass and al-Nakhla, Gaza, a place on an island, and ʿAsqalān. One line of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F024-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٢٣١) | [٢٠٦] | ة تبوس فى جزيرة | مو | {z} | لو | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٣١)",
+    "[٢٠٦]",
+    "ة تبوس فى جزيرة",
+    "مو",
+    "{z}",
+    "لو",
+    "{z}"
+   ],
+   "plain": "(٢٣١) | [٢٠٦] | ة تبوس فى جزيرة | مو | ō | لو | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٢٣٢) | [٢٠٧] | عرطونا فى جزيرة | مو | م | لج | ل",
+   "margin": null,
+   "cells": [
+    "(٢٣٢)",
+    "[٢٠٧]",
+    "عرطونا فى جزيرة",
+    "مو",
+    "م",
+    "لج",
+    "ل"
+   ],
+   "plain": "(٢٣٢) | [٢٠٧] | عرطونا فى جزيرة | مو | م | لج | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٢٣٣) | [٢٠٨] | ڡرطنيا على البحر | مح | م | لا | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٣٣)",
+    "[٢٠٨]",
+    "ڡرطنيا على البحر",
+    "مح",
+    "م",
+    "لا",
+    "{z}"
+   ],
+   "plain": "(٢٣٣) | [٢٠٨] | ڡرطنيا على البحر | مح | م | لا | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٢٣٤) | [٢٠٩] | الاسكندريّة على البحر | نا | ك | لا | ه",
+   "margin": null,
+   "cells": [
+    "(٢٣٤)",
+    "[٢٠٩]",
+    "الاسكندريّة على البحر",
+    "نا",
+    "ك",
+    "لا",
+    "ه"
+   ],
+   "plain": "(٢٣٤) | [٢٠٩] | الاسكندريّة على البحر | نا | ك | لا | ه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٢٣٥) | [١٧٣] | روذس فى جزيرة | ن | {z} | له | ل",
+   "margin": null,
+   "cells": [
+    "(٢٣٥)",
+    "[١٧٣]",
+    "روذس فى جزيرة",
+    "ن",
+    "{z}",
+    "له",
+    "ل"
+   ],
+   "plain": "(٢٣٥) | [١٧٣] | روذس فى جزيرة | ن | ō | له | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٢٣٦) | [٢١٠] | ڡعاٮا على البحر | نٮ | ك | له | م",
+   "margin": null,
+   "cells": [
+    "(٢٣٦)",
+    "[٢١٠]",
+    "ڡعاٮا على البحر",
+    "نٮ",
+    "ك",
+    "له",
+    "م"
+   ],
+   "plain": "(٢٣٦) | [٢١٠] | ڡعاٮا على البحر | نٮ | ك | له | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٢٣٧) | | رشيد{n:a} على البحر | نٮ | م | لح | م",
+   "margin": null,
+   "cells": [
+    "(٢٣٧)",
+    "",
+    "رشيد{n:a} على البحر",
+    "نٮ",
+    "م",
+    "لح",
+    "م"
+   ],
+   "plain": "(٢٣٧) | | رشيد على البحر | نٮ | م | لح | م",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٢٣٨) | [٢١١] | البُرلُّس على البحر | نٮ | كه | لا | ل",
+   "margin": null,
+   "cells": [
+    "(٢٣٨)",
+    "[٢١١]",
+    "البُرلُّس على البحر",
+    "نٮ",
+    "كه",
+    "لا",
+    "ل"
+   ],
+   "plain": "(٢٣٨) | [٢١١] | البُرلُّس على البحر | نٮ | كه | لا | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٢٣٩) | | نقيزة{n:b} على البحر | نج | م | ل | يه",
+   "margin": null,
+   "cells": [
+    "(٢٣٩)",
+    "",
+    "نقيزة{n:b} على البحر",
+    "نج",
+    "م",
+    "ل",
+    "يه"
+   ],
+   "plain": "(٢٣٩) | | نقيزة على البحر | نج | م | ل | يه",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٢٤٠) | | ديصا{n:c} على البحر | ٮج | ن | لر | م",
+   "margin": null,
+   "cells": [
+    "(٢٤٠)",
+    "",
+    "ديصا{n:c} على البحر",
+    "ٮج",
+    "ن",
+    "لر",
+    "م"
+   ],
+   "plain": "(٢٤٠) | | ديصا على البحر | ٮج | ن | لر | م",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٢٤١) | [٢١٣] | ڡاطرا على البحر | نج | ٮه | له | م",
+   "margin": null,
+   "cells": [
+    "(٢٤١)",
+    "[٢١٣]",
+    "ڡاطرا على البحر",
+    "نج",
+    "ٮه",
+    "له",
+    "م"
+   ],
+   "plain": "(٢٤١) | [٢١٣] | ڡاطرا على البحر | نج | ٮه | له | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٢٤٢) | [٢١٤] | دمياط على البحر | نح | ٮه | لا | كه",
+   "margin": null,
+   "cells": [
+    "(٢٤٢)",
+    "[٢١٤]",
+    "دمياط على البحر",
+    "نح",
+    "ٮه",
+    "لا",
+    "كه"
+   ],
+   "plain": "(٢٤٢) | [٢١٤] | دمياط على البحر | نح | ٮه | لا | كه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٢٤٣) | | شطا على البحر | نج | ں | لا | ك",
+   "margin": null,
+   "cells": [
+    "(٢٤٣)",
+    "",
+    "شطا على البحر",
+    "نج",
+    "ں",
+    "لا",
+    "ك"
+   ],
+   "plain": "(٢٤٣) | | شطا على البحر | نج | ں | لا | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٢٤٤) | [٢١٥] | تنّيس على البحر | ٮد | {z} | لا | م",
+   "margin": null,
+   "cells": [
+    "(٢٤٤)",
+    "[٢١٥]",
+    "تنّيس على البحر",
+    "ٮد",
+    "{z}",
+    "لا",
+    "م"
+   ],
+   "plain": "(٢٤٤) | [٢١٥] | تنّيس على البحر | ٮد | ō | لا | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٢٤٥) | [٢١٦] | الفرما على البحر | ند | م | لا | ل",
+   "margin": null,
+   "cells": [
+    "(٢٤٥)",
+    "[٢١٦]",
+    "الفرما على البحر",
+    "ند",
+    "م",
+    "لا",
+    "ل"
+   ],
+   "plain": "(٢٤٥) | [٢١٦] | الفرما على البحر | ند | م | لا | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٢٤٦) | | القسّ والنخله{n:d} على البحر | ند | ن | لب | م",
+   "margin": null,
+   "cells": [
+    "(٢٤٦)",
+    "",
+    "القسّ والنخله{n:d} على البحر",
+    "ند",
+    "ن",
+    "لب",
+    "م"
+   ],
+   "plain": "(٢٤٦) | | القسّ والنخله على البحر | ند | ن | لب | م",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(٢٤٧) | [٢١٧] | غزّة على البحر | ند | ن | لٮ | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٤٧)",
+    "[٢١٧]",
+    "غزّة على البحر",
+    "ند",
+    "ن",
+    "لٮ",
+    "{z}"
+   ],
+   "plain": "(٢٤٧) | [٢١٧] | غزّة على البحر | ند | ن | لٮ | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L18",
+   "n": 18,
+   "kind": "row",
+   "text": "(٢٤٨) | [٢١٨] | قامقيس فى جزيرة قٮرس{n:e} | ٮه | {z} | لد | م",
+   "margin": null,
+   "cells": [
+    "(٢٤٨)",
+    "[٢١٨]",
+    "قامقيس فى جزيرة قٮرس{n:e}",
+    "ٮه",
+    "{z}",
+    "لد",
+    "م"
+   ],
+   "plain": "(٢٤٨) | [٢١٨] | قامقيس فى جزيرة قٮرس | ٮه | ō | لد | م",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F024-L19",
+   "n": 19,
+   "kind": "row",
+   "text": "(٢٤٩) | [٢١٩] | عسقلان على البحر | ٮه | ك | لح | {z}",
+   "margin": null,
+   "cells": [
+    "(٢٤٩)",
+    "[٢١٩]",
+    "عسقلان على البحر",
+    "ٮه",
+    "ك",
+    "لح",
+    "{z}"
+   ],
+   "plain": "(٢٤٩) | [٢١٩] | عسقلان على البحر | ٮه | ك | لح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e"
+   ],
+   "lines": 1,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L07: the manuscript reads رسيد for رشيد, without the dots of the ش.",
+  "L09: the manuscript reads ٮعره for نقيزة.",
+  "L10: the manuscript reads دمصا for ديصا.",
+  "L16: the manuscript reads الٮحله for النخله, without the dots of the ن and of the خ.",
+  "L18: the editor gives the reading of the manuscript as قٮرس."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 023 without a heading: the cities of the fourth clime, entries 231-249. No entry has the word «مدينة». Numbers of Suhrāb stand at entries 231-234 and 236 ([٢٠٦]-[٢١٠]), 235 ([١٧٣]), 238 ([٢١١]), 241-242 ([٢١٣], [٢١٤]), 244-245 ([٢١٥], [٢١٦]) and 247-249 ([٢١٧]-[٢١٩]); entries 237, 239, 240, 243 and 246 have none, and [٢١٢] does not appear on the page.",
+  "L01: before تبوس, separated from it by a word space, stands a small ring with two dots above it, the form of an isolated ة, smaller than the ة of the names and raised above the line: 15 px wide and 16 px high, from 20 to 5 px above the line, where the isolated ة of «نقيزة» (L09) and «غزّة» (L17) is 19-20 px wide and reaches 5-6 px below the line. Transcribed ة as printed; the editor's notes do not comment on it.",
+  "Letters printed without their dots in the names, transcribed so: «ڡرطنيا» (L03), a raised loop joined by a stroke on the line to the ر, the loop of ف or ق, as «ڡرقا» on frame 023 (L01); «ڡعاٮا» (L06), the loop at the start and the tooth before the last alif; «ڡاطرا» (L11), the loop joined to the alif. The ن of «الاسكندريّة» (L04) and of «عرطونا» (L02) has its dot.",
+  "L04: «الاسكندريّة», with a shadda over the ي. L08: «البُرلُّس»: a damma over the ب and, over the second ل, a shadda with a damma above it; the ر has no vowel sign. L14: «تنّيس», with a shadda over the ن. L16: «القسّ», with a shadda over the س; «والنخله» ends in a ه without the dots of a ة. L17: «غزّة», with a shadda over the ز.",
+  "Letters printed without their dots in the numerals, transcribed so: نٮ (L06-L08, the degrees of the longitude), the ن with its dot and the final ب without its dot; ٮج (L10) and ٮد (L14), the tooth without its dot, in the degrees of the longitude; ٮه (L11, L12, the minutes of the longitude; L18, L19, the degrees of the longitude), a tooth joined to a final ه; ں (L13, the minutes of the longitude), the bowl of a final ن without its dot; لٮ (L17, the degrees of the latitude), the final ب without its dot. With their dots: لج (L02), نا (L04), ن (L05; and the minutes ن of L10, L16 and L17), نج (L09, L11, L13), ند (L15-L17), لب (L16) and يه (L09).",
+  "L12: the degrees of the longitude of Dimyāṭ are printed «نح», the ن with its dot and the bowl without one, the form of ح, 8, where نج in L09, L11 and L13 has the dot of the ج. The editor gives the longitude of Dimyāṭ in al-Khwārizmī as 53° 55' (introduction, frame 187, p. XXVI), the values of نج and of نه for the minutes printed «ٮه». Transcribed نح as printed.",
+  "L10: the degrees of the latitude, «لر»: the letter after the ل has the small hooked head of the joined ر, as in «كر» on frame 022 (L09), not the round head of the و of «لو» (L01). In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed.",
+  "L18, L19: the degrees of the longitude, «ٮه», a tooth without its dot joined to a final ه, read with a ن give 55, after the ند, 54, of the entries before them, as on frames 014 and 018. The same form gives the minutes of the longitude in L11 and L12; the minutes of the latitude in L04, ه, 5, are a small round ring, the isolated letter.",
+  "The isolated ك, 20, is printed with the small inner stroke of the letter (L04, L06, L13, L19); the ك of «كه» (L08, L12) is the long oblique stroke over a flat bowl.",
+  "The page number «— ١٨ —» stands at the foot, centred.",
+  "L18: «قٮرس»: the tooth after the ق has no dot, and the editor's note e gives the same letters, قٮرس, as the reading of the manuscript, so the difference that the note records does not show; the editor's corrigenda (p. 163, frame 169) read قبرس in this line (critical note AK05-CN018): the dot of the ب has not printed."
+ ],
+ "copy_matter": [
+  "A fine dark vertical hairline, 2 px wide, crosses the teeth of the س of «قٮرس» (L18) and runs down below the line; a fibre or a scratch, not a stroke of the type."
+ ],
+ "critical_notes": [
+  {
+   "id": "AK05-CN018",
+   "class": "corrected in the corrigenda",
+   "line": "L18",
+   "printed": "قٮرس",
+   "proposed": "قبرس",
+   "evidence": "the editor's list of additions and corrections on p. 163 (frame 169) reads قبرس for قٮرس in this line, p. 18, line 18; his note e gives قٮرس as the reading of the manuscript, and the next page prints the island قبرس with the dot of the ب (frame 025, L06, L09)",
+   "confidence": "high",
+   "impact": "the island of entry 248 reads قبرس, Cyprus"
+  }
+ ]
+}

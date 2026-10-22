@@ -1,0 +1,35 @@
+@page 72 ٦٦
+% Frame 072, printed p. 66: the beginning of the seas of the inhabited earth and their islands, in running text. Two
+% headings, the seas of the sphere of the inhabited earth and the outer western and northern sea; then the course of
+% its coast from point to point, each with its longitude and latitude, the editor's running number, (٩٦٧)-(٩٨٣), and
+% the number of Suhrāb: past the shapes of a ṭaylasān, a qawwāra and a shābūra and the mouths of the rivers روذس and
+% حوسدس. Two lines of the editor's footnotes.
+@h * البحار الّتى على كرة الأرض المعمورة وجزائرها *
+@h * البحر المغربىّ الخارج والشمالىّ الخارج *
+اوّله من طول {ov:ا {z}} والعرض {ov:{z} ى} (٩٦٧) [٥٠٣] يمرّ الى طول {ov:ك {z}} والعرض {ov:{z} ى}
+(٩٦٨) [٥٠٤] ويمرّ على صورة الطيلسان الى طول {ov:ٮر {z}}{n:a} والعرض {ov:ح {z}} (٩٦٩)
+[٥٠٥] ويمرّ الى طول {ov:ط {z}} والعرض {ov:ح ل} (٩٧٠) [٥٠٦] ويمرّ على صورة قوارة الى
+طول {ov:ر {z}} والعرض {ov:ٮٮ ل} (٩٧١) [٥٠٧] ثمّ يمرّ الى طول {ov:ط مه} والعرض {ov:ٮٮ ك}
+(٩٧٢) [٥٠٨] ثمّ يمرّ الى طول {ov:ط مه} والعرض {ov:ٮو {z}} (٩٧٣) [٥٠٩] ويمرّ الى طول
+{ov:ى {z}} والعرض {ov:ٮو {z}} (٩٧٤) يمرّ الى طول {ov:ى {z}} والعرض {ov:ٮر {z}} (٩٧٥) [٥٦٠]
+ثمّ يمرّ على صورة الشابورة الى طول {ov:ط ك} والعرض {ov:ٮح ى} (٩٧٦) [٥٦١] وهناك مصبّ
+نهر روذس ويمرّ الى{n:b} طول {ov:ط ں} والعرض {ov:ٮط م} (٩٧٧) [٥٦٢] ويرجع مثل الشابورة
+الى طول {ov:ط ٮه} والعرض {ov:كا {z}} (٩٧٨) [٥٦٣] ويمرّ الى طول {ov:ط مه} وهناك مصب نهر
+حوسدس والعرض {ov:كا مه} (٩٧٩) [٥٦٤] ويمرّ الى طول {ov:ط ى} والعرض {ov:كح {z}}{n:c} (٩٨٠)
+[٥٦٥] ويمرّ الى طول {ov:ط {z}} والعرض {ov:كو {z}} (٩٨١) [٥٦٦] ويمرّ الى طول {ov:ح {z}}
+والعرض {ov:كح {z}} (٩٨٢) [٥٦٧] ويمرّ الى طول {ov:⟨ط {z}⟩}{n:d} والعرض {ov:كح {z}} (٩٨٣) [٥٦٨]
+@ednotes a b c d 2
+@obs The page begins the part of the work on the seas, in running text. L01, «* البحار الّتى على كرة الأرض المعمورة وجزائرها *», the seas on the sphere of the inhabited earth and their islands, and L02, «* البحر المغربىّ الخارج والشمالىّ الخارج *», the outer western sea and the outer northern sea, are headings in the large type, each between two small open stars, transcribed as asterisks. L01: «الّتى», with a shadda over the ل; «الأرض», with a hamza over the alif; «وجزائرها», with a hamza on a tooth without dots. L02: «المغربىّ» and «والشمالىّ» end in a ى without dots with a shadda over it; the second «الخارج» is printed with a long kashida, the stretched joining stroke, after the خ, which is not transcribed.
+@obs L03-L14: the course of the coast from point to point, «يمرّ الى طول … والعرض …», it passes to the longitude … and the latitude …, with the degrees and the minutes written with letters (abjad) as in the tables, each pair under one line, transcribed with {ov:…}. After each point stand the editor's running number in parentheses, (٩٦٧)-(٩٨٣), which goes on from the table of the mountains, and the number of the same point in Suhrāb's ʿAjāʾib al-aqālīm in square brackets: [٥٠٣]-[٥٠٩], then [٥٦٠]-[٥٦٨]; point 974 (L08) has none.
+@obs The coast passes «صورة الطيلسان», the shape of a ṭaylasān (L04), «صورة قوارة», the shape of a qawwāra (L05), and «صورة الشابورة», the shape of a shābūra, and back «مثل الشابورة», like the shābūra (L09, L10); and the mouths of two rivers, «وهناك مصبّ نهر روذس», there is the mouth of the river روذس (L09-L10), with a shadda over the ب of «مصبّ», and «وهناك مصب نهر حوسدس» (L11-L12), without it. «اوّله» (L03) has a shadda over the و, «يمرّ» and «ويمرّ» over the ر, and «ثمّ» over the م; «روذس» has the dot of the ذ.
+@obs L03: the latitudes of the first two points are printed «{z} ى», the sign for zero in the place of the degrees and ى, 10, in that of the minutes.
+@obs Letters printed without their dots in the numerals, transcribed so: ٮٮ, a tooth joined to a final ب, both without dots, 65 and 68 px wide (L06, the degrees of both latitudes), where the isolated ب is a bowl of about 50 px with a riser at each end, which read with a ي give 12, between the latitudes before and after, 8 and 16; a tooth without its dot in the degrees of the latitude, ٮو (L07, L08), ٮح (L09) and ٮط (L10), which read with a ي give 16, 18 and 19; ں, the round bowl of a final ن without its dot, 50 (L10, the minutes of the longitude); ٮه (L11, the minutes of the longitude), a tooth without its dot joined to a final ه. The isolated ى, 10, has no dots (L03, L08, L09, L12).
+@obs In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: L06, the degrees of the longitude, a ر with a single rounded head, rising 19 px above the line, 7. L04, the degrees of the longitude, and L08, the degrees of the second latitude, are printed with the notched form ٮر of frame 041 (L06): a short tooth without a dot joined to a ر, the tooth at the right rising 4 px above the head of the ر, the two forming a notch at the top, 18 and 15 px above the line; transcribed ٮر, which read with a ي gives 17, between the longitudes 20 and 9 of the points before and after (L03, L05) and between the latitudes 16 and 18 (L08, L09). The editor's note a prints the variant of L04 with the same notched form, ٮر ه.
+@unres L04, L08: the notched form may also be read as a single ر whose head is split, ر, 7, as on frame 066 (L06), where a split head after a و rises 20 px; here it rises 18 and 15 px. Transcribed ٮر.
+@obs The ح of the numerals, ح (L04, L05, L13), ٮح (L09) and كح (L12, L14), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.
+@obs L04: the note mark a stands after the longitude; L10: the mark b after «الى»; L12: the mark c after the latitude. L14: the longitude is printed between angle brackets, «⟨ط {z}⟩», under one line with the brackets, followed by the note mark d: the editor supplies it where the manuscript has a gap (note d).
+@obs Two lines of the editor's footnotes below a short rule at the left: notes a-d. The page number «— ٦٦ —» stands at the foot, centred.
+@variant L04: a variant reading of the longitude is ٮر ه, with a line over the numerals (note a).
+@variant L10: the manuscript has على for الى (note b).
+@variant L12: a variant reading of the latitude is كح ه, with a line over the numerals (note c).
+@variant L14: the manuscript has a gap at the longitude; its margin has ط, with a line over it, and صح, with a short stroke above it, the sign that a reading is correct; S has the same (note d).

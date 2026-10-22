@@ -1,0 +1,42 @@
+@page 20 ١٤
+@cols 12,30,64,12,12,12,12
+% Frame 020, printed p. 14: the cities of the third clime continued, entries 165-180: Hajar, al-Baḥrayn and the
+% ports of the Gulf, Mahrūbān, Sīnīz, Jannābā, Sīrāf, Nāthin and Tīz on the sea, Kirmān, Dizak in the mountains,
+% al-Daybul on the sea, Armābīl, Kābul, a city on the mountain, Diyār Shatī and Qūlī. Four lines of the editor's
+% footnotes.
+@r (١٦٥) | [١٣٠] | مدينة هجر | عح | {z} | كد | نه
+@r (١٦٦) | [١٣١] | البحرين على البحر | عد | ك | كه | مه
+@r (١٦٧) | [١٣٢] | مهروبان{n:a} على البحر | عو | ك | ل | {z}
+@r (١٦٨) | [١٣٣] | سينيز{n:b} على البحر | عو | مه | ل | {z}
+@r (١٦٩) | [١٣٤] | جنّابا{n:c} على البحر | عر | ك | ل | {z}
+@r (١٧٠) | [١٣٥] | سيراف{n:d} على البحر | عط | ل | كط | ل
+@r (١٧١) | [١٣٦] | ناثن{n:e} على البحر | ڡ | مه | كط | ك
+@r (١٧٢) | [١٣٧] | تيز على البحر | ڡٮ | م | كط | {z}
+@r (١٧٣) | [١٣٨] | كرمان | ص | {z} | ل | {z}
+@r (١٧٤) | [١٣٩] | دزك{n:f} فى الجبل | صا | م | كح | {z}
+@r (١٧٥) | [١٤٠] | الديبل{n:g} على البحر | صٮ | {z} | كد | ك
+@r (١٧٦) | [١٤١] | ارمابيل{n:h} | صب | ٮه | كٮ | مه
+@r (١٧٧) | [١٤٢] | كابل | ق | {z} | كح{n:i} | {z}
+@r (١٧٨) | [١٤٣] | مدينة ڡرسس على الجبل | ڡح | {z} | كه | {z}
+@r (١٧٩) | [١٤٤] | ديار شتى | ڡح | مه | كه | م
+@r (١٨٠) | [١٤٥] | قولى | قد | ى | كد | مه
+@ednotes a b c d e f g h i 4
+@obs The table goes on from frame 019 without a heading, again with one longitude and the seven columns of the earlier pages: the cities of the third clime, entries 165-180, all with numbers of Suhrāb, [١٣٠]-[١٤٥]. Only entries 165 and 178 have the word «مدينة».
+@obs L05: «جنّابا», with a shadda over the ن. L07: «ناثن»: the three dots of the ث are printed as one mark, narrow above and wide below, as on frame 013 (L14).
+@obs L14: the first letter of «ڡرسس», a loop raised above the line and joined to the ر, is printed without dots: the loop of ف or ق (an initial م sits on the line); transcribed so. The editor's notes do not comment on it.
+@obs L15: «ديار شتى»: the ش stands 15 px from the end of the tail of the ر, where the spaces between the words of the names on this page measure 21-29 px, and within a word the letter after ر stands over its tail; transcribed with the space.
+@obs L16: «قولى»: the stroke of the ل rises 32 px above the line, where the other ل of the names rise 36-47 px and the teeth about 22 px; there is no dot below it; transcribed ل.
+@obs Letters printed without their dots in the numerals, transcribed so: ڡ (L07), the isolated loop of ف or ق; ڡٮ (L08), the loop and, close after it, the small tooth and the bowl of a final ب without its dot, narrower than ڡٮ on frame 012 (L13) and wider than the isolated ڡ of L07; ڡح (L14, L15), the loop without dots; صٮ (L11), the final ب without its dot; كٮ (L12, the degrees of the latitude), the ك joined to a final ب without its dot; ٮه (L12, the minutes of the longitude), a tooth joined to a final ه. With their dots: صب (L12); ق (L13) and قد (L16), the ق with its two dots; نه (L01, the minutes of the latitude), the ن with its dot.
+@obs L05: the degrees of the longitude, عر: in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed.
+@obs L13: the editor's note mark i stands after the degrees of the latitude, كح.
+@obs The page number «— ١٤ —» stands at the foot, centred.
+@copy A fine dark hairline, one or two pixels wide, crosses the ج of «الجبل» in entry 174 (L10) and runs down to the left below the line; a fibre or a scratch, not a stroke of the type.
+@variant L03: at entry (1211) the name مهروبان is written ماهروان.
+@variant L04: the manuscript reads سينير, without the dot of the ز.
+@variant L05: the manuscript reads حماٮا for جنّابا; at entry (1211) the name is written جنانا.
+@variant L06: the manuscript reads سراف, without the ي.
+@variant L07: the manuscript reads نابن, with the variant reading ٮالى; at entry (1211) the name is written ناين.
+@variant L10: the manuscript reads ذزك, with ذ for the د.
+@variant L11: the manuscript reads الدسل, and so does entry (1210).
+@variant L12: the manuscript reads ارماسل.
+@variant L13: the degrees of the latitude are unclear in the manuscript and are supplied from S and from Yāqūt (IV, 220).

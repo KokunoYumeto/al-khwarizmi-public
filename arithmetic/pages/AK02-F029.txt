@@ -1,0 +1,46 @@
+@page 29 23
+% Frame 029, printed p. 23: other fractions, turned into the kind of their lowest order, multiplied and raised to whole
+% numbers; three sevenths by four ninths; three and a half by eight and three elevenths set out; the text breaks off;
+% the editor's footnote on the end of the manuscript text and the beginning of fol. 110 recto.
+inuicem, idest unum eorum in alio; qualiter constitues eos
+unius generis, ut uertas eos, scilicet in genus ultime differen-
+tie, idest si fuerit ultima ex secundis, uerte eos .{sc:ii}. secunda;
+et si fuerit ex terciis in tercia, et cetera. Similiter facies in
+partibus, idest si fuerit ultima differentia ex quintis uel ex se-
+ptimis, reddes numerum tuum ex genere eiusdem partis. Post
+hec multiplicabis eum in inuicem; et quod exierit, subleuabis
+eum ad numerum integrum, idest diuides eum per similem
+eiusdem generis multiplicati in alio genere, quasi uelles mul-
+tiplicare .{sc:iii}. septimas in .{sc:iiii}.{sup:or} nouenis, essentque ille septe-
+ne et nouene in prima differentia fractionis quasi minuta;mul-
+tiplicaresque eas in inuicem, et fierent in sua differentia ex
+genere secundorum. Cumque uolueris eas subleuare ad nume-
+rum integrum, diuides eas per utrasque differentias, que sunt
+septene in nouenis. Quod si aliud diuisum fuerit, et exierit
+de diuisione, numerus erit integer; et si non poterit diuidi,
+erunt partes unius eiusdem generis per quod diuisisti. Erunt-
+que tres septene in .{sc:iiii}.{sup:or} nouenis .{sc:xii}. partes et .{sc:lx}. tribus
+partibus unius. Cum ergo uolueris multiplicare tres et dimi-
+dium, idest .{sc:viii}. et tribus partibus .{sc:xi}., scribes tres, et pones
+sub eis unum, et sub uno duo. Iamque scripsisti tres et dimi-
+dium: quare dimidium est una pars duorum, quemadmodum
+unum minutum est una pars de {sc:lx}. partibus unius. Post hec
+scribes in alia parte .{sc:viii}., et sub eis tres, et sub tribus .{sc:xi}.,
+sicque constitues .{sc:viii}. (1).
+@n (1) Nel margine inferiore della carta 109 {i:verso} del suddetto codice {i:Ii}. 6. 5.
+@n si legge: {i:dicque constitues} .{sc:viii}. Più sotto nel margine stesso si legge: {i:est qui-}
+@n {i:dem}. Il {i:recto} della carta 110 del codice medesimo incomincia così (lin. 1—4):
+@n {i:Est quidem guazal cora tabula ad celi rotunditatem conformata, cuius itemque}
+@n {i:superficies equali spatiorum intersticione quadrifidis ab ipso centro per dia-}
+@n {i:metrum, fusis lineationibus, partita est.}
+@obs The page number «( 23 )» stands at the head of the page, centred. The page has no signature. The editor's footnote (1) stands below the text in the smaller type, and below the footnote a double rule, centred, closes the treatise.
+@obs L01-L18: fractions other than minutes and seconds: the numbers are turned into the kind of the lowest order in them, «in genus ultime differentie», seconds into seconds, thirds into thirds (see the critical note on L03), and for parts such as fifths or sevenths into those parts; the product is raised to whole numbers by dividing it by the product of the kinds. Three sevenths by four ninths: the sevenths and ninths stand in the first place of the fraction, as minutes do, and their product in the place of the seconds; it is divided by seven times nine; the result, twelve parts of sixty-three parts of one (see the critical note on L18).
+@obs L19-L25: three and a half by eight and three elevenths (see the critical note on L20): three is written, one under it and two under the one, for three and a half, a half being one part of two as a minute is one part of sixty; on the other side eight, three under it and eleven under the three; «sicque constitues .viii.». The text breaks off here, in the course of the example. N01-N06: the editor's footnote, in Italian: the lower margin of fol. 109 verso of the manuscript has «dicque constitues .viii.», and lower down «est quidem»; fol. 110 recto begins (lines 1-4) with another text, «Est quidem guazal cora tabula ...», quoted in italics.
+@obs Numerals: L10 and L18 «.iiii.or», with «or» raised; L23 «lx.» without the opening point. L25: the footnote reference «(1)», with an old-style figure one, follows «.viii.» after a word space.
+@obs N02: the accent of «Più» is printed as a stroke falling to the right with a lighter stroke rising to it from the left, so that it looks like a circumflex, and the u has a short stroke below it; transcribed «Più». N01 «Ii», N01 «verso», N02 «dicque constitues» and «est qui-dem», N03 «recto» and the quotation of N04-N06 are in italics.
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): without a space after the mark, L11 «minuta;mul-» (5 px, the median word space of the line 16.5 px). L03 «.ii. secunda» (12 px), L18 «.xii. partes» (13 px, median 18 px) and L20 «.viii. et» (12 px, median 17.5 px) have a space. A pencil underline below «idest» shortens the measured gap after the comma of L20 «dium,»; the gap to «idest» is 20 px. The semicolons of L01, L03, L07, L11 and L16 have printed tails (darkest pixel 41 to 56).
+@obs Marks not transcribed: L11, a dark speck at the head of the f of «fractionis».
+@critical AK02-CN020 | wrong word | L03 | .ii. | in | the rule names the kind into which the numbers are turned: «si fuerit ultima ex secundis, uerte eos .ii. secunda; et si fuerit ex terciis in tercia», where the second member has «in tercia», into thirds; the first needs «in secunda», into seconds, and two, «.ii.», has no place in a general rule | high | the rule reads «turn them two seconds» for «turn them into seconds»
+@critical AK02-CN021 | wrong word | L18 | et | ex | three sevenths by four ninths are twelve parts of sixty-three parts of one, «.xii. partes ex .lx. tribus partibus unius», as the division by seven times nine, «septene in nouenis» (L14-L15), gives; «et» makes the sixty-three parts a second quantity beside the twelve | high | the product reads twelve parts and sixty-three parts for twelve sixty-thirds
+@critical AK02-CN022 | wrong word | L20 | idest | in | the passage multiplies three and a half by eight and three elevenths: three, one and two are set out for three and a half (L20-L22), and «in alia parte» eight, three and eleven for eight and three elevenths (L24); «tres et dimidium, idest .viii. et tribus partibus .xi.» makes the second number a name of the first, which it is not; «in» names the multiplier, as in «multiplicare .iii. septimas in .iiii.or nouenis» (L10) | high | the second factor reads as another name of the first
+@copy A reader's notes in pencil: «in» in the right margin beside L03; «ex» in the right margin beside L18, with «et» underlined; «in» beside L20, with «idest» underlined; «quia» beside L22, with «quare» underlined; L24, a slash between the point after «xi» and the comma, and «/ hier Lücke» (German, here a gap) in the right margin. Not part of the edition.

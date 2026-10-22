@@ -1,0 +1,20 @@
+{
+ "session": "AK-P02",
+ "mode": "evidence-only audit; no source-text production; no reader from comparator prose",
+ "owned_range": "PDF035-PDF098 of 50_PRACTICAL_ASTRONOMY_CHARETTE_SCHMIDL.pdf (printed pp. 135-198) and PDF01-PDF20 of 51_ISTANBUL_MANUSCRIPTS_ERDEM.pdf (printed pp. 163-180, 185-186), with the PAL record",
+ "study_sha256": "E3FF31E617B84379FCF961310E4914BB6CF40E8E0F5117507AB24D1367626E18",
+ "erdem_sha256": "8E04019E12DE893944D623C63597FAAE965C73A070535276DA58E06600F0160F",
+ "pal_record_sha256": "5F1D6B016F454E6322B43A0C1F24736473804BDB66196E99F6A9E95A50B2FC88",
+ "canonical_source_checkpoint_sha256": "ebfb7b5c0c23f040672c10f50d923bf13d05d8317789e5621b29b4f137ea71a0",
+ "canonical_source_checkpoint_note": "SHA-256 over the return files in name order (file name, a NUL byte, the bytes), without checkpoint.json and SHA256SUMS",
+ "last_fully_transcribed_source_unit": "NONE",
+ "last_fully_verified_source_unit": "51:PDF20",
+ "first_untouched_source_unit": "NONE",
+ "owned_units_total": 84,
+ "owned_units_disposed": 84,
+ "unresolved_count": 6,
+ "figure_count": 0,
+ "formula_or_table_count": 0,
+ "supplementary_source_acquired": "Erdem 3/7 (1987), pp. 187-210, the Turkish version (DergiPark article file 693901)",
+ "date": "2026-10-22"
+}

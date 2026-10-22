@@ -1,0 +1,257 @@
+{
+ "anchor": "AK05-F106",
+ "frame": 106,
+ "frame_file": "page_106.jpg",
+ "frame_sha256": "6222b2856929724259b76a1b1ad7c4375d8cfb9bfea10424dd9ec032f694d338",
+ "printed_page": "١٠٠",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 106, printed p. 100: the islands in the Green Sea concluded: the coast of the island of silver, الفضّة, beyond the equator, back to its first point; then the heading of the islands in the sea of al-Baṣra and its first islands: seven single islands and three islands in a row. The editor's running numbers (١٥٣٠)-(١٥٤٣) and the numbers of Suhrāb [١٠١٢]-[١٠٢١]; the folio of the manuscript, «(fol. 28ᵃ)», within the line; words supplied by the editor between angle brackets. Four lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F106-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "الفضّة اوّلها من طول {ov:قند ك} والعرض {ov:ه م} خلف الاستواء (١٥٣٠) [١٠١٢] تمرّ الى",
+   "margin": null,
+   "cells": null,
+   "plain": "الفضّة اوّلها من طول قند ك والعرض ه م خلف الاستواء (١٥٣٠) [١٠١٢] تمرّ الى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F106-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "طول {ov:ڡٮد {z}} والعرض {ov:ح م} خلف الاستواء (١٥٣١) [١٠١٣] تمرّ الى طول {ov:ڡٮط ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "طول ڡٮد ō والعرض ح م خلف الاستواء (١٥٣١) [١٠١٣] تمرّ الى طول ڡٮط ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F106-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "والعرض {ov:ط {z}} خلف الاستواء (١٥٣٢) [١٠١٤] تمرّ الى طول {ov:ڡٮط ل} والعرض {ov:د ك}",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض ط ō خلف الاستواء (١٥٣٢) [١٠١٤] تمرّ الى طول ڡٮط ل والعرض د ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F106-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "خلف الاستواء (١٥٣٣) [١٠١٥] تمرّ الى الموضع الّذى منه بدأ⟨نا⟩{n:a} وهو عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "خلف الاستواء (١٥٣٣) [١٠١٥] تمرّ الى الموضع الّذى منه بدأ⟨نا⟩ وهو عند طول",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F106-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "{ov:ڡٮد ك} والعرض {ov:ه م} خلف الاستواء{n:b} *",
+   "margin": null,
+   "cells": null,
+   "plain": "ڡٮد ك والعرض ه م خلف الاستواء *",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F106-L06",
+   "n": 6,
+   "kind": "heading",
+   "text": "* الجزائر الّتى فى بحر البصرة *",
+   "margin": null,
+   "cells": null,
+   "plain": "* الجزائر الّتى فى بحر البصرة *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F106-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "جزيرة مقدار جزء وسطها عند طول {ov:عو {z}}{n:c} والعرض {ov:كح {z}} (١٥٣٤) * جزيرة مقدار",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة مقدار جزء وسطها عند طول عو ō والعرض كح ō (١٥٣٤) * جزيرة مقدار",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F106-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "جزء وسطها عند طول {ov:عو {z}} والعرض {ov:كد م} (١٥٣٥) [١٠١٦] * جزيرة مقدار جزء",
+   "margin": null,
+   "cells": null,
+   "plain": "جزء وسطها عند طول عو ō والعرض كد م (١٥٣٥) [١٠١٦] * جزيرة مقدار جزء",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F106-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "وسطها عند طول {ov:عح ك} والعرض {ov:كو ل} (١٥٣٦) [١٠١٧] * جزيرة مقدار جزء",
+   "margin": null,
+   "cells": null,
+   "plain": "وسطها عند طول عح ك والعرض كو ل (١٥٣٦) [١٠١٧] * جزيرة مقدار جزء",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F106-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "وسطها عند طول {ov:ڡ {z}} ⟨والعرض⟩{n:d} {ov:كد ل} (١٥٣٧) [١٠١٨] * جزيرة مقدار ⟨ثلثى",
+   "margin": null,
+   "cells": null,
+   "plain": "وسطها عند طول ڡ ō ⟨والعرض⟩ كد ل (١٥٣٧) [١٠١٨] * جزيرة مقدار ⟨ثلثى",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F106-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "جزء وسطها عند طول {ov:ڡا {z}}{n:e} و⟩{n:f}العرض {ov:كد ك}{n:g} (١٥٣٨) [١٠١٩] *",
+   "margin": "(fol. 28ᵃ)",
+   "cells": null,
+   "plain": "جزء وسطها عند طول ڡا ō و⟩العرض كد ك (١٥٣٨) [١٠١٩] *",
+   "note_marks": [
+    "e",
+    "f",
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F106-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "جزيرة مقدار جزء وسطها عند طول {ov:ڡ {z}} والعرض {ov:كد ك} (١٥٣٩) [١٠٢٠] *",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة مقدار جزء وسطها عند طول ڡ ō والعرض كد ك (١٥٣٩) [١٠٢٠] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F106-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "جزيرة مقدار جزء وسطها عند طول {ov:ڡ {z}} والعرض {ov:كز م} (١٥٤٠) [١٠٢١] *",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة مقدار جزء وسطها عند طول ڡ ō والعرض كز م (١٥٤٠) [١٠٢١] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F106-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "ثلٰث جزائر مقدار{n:h} جزء جزء فيما بين طول {ov:ڡد {z}} (١٥٤١) الى طول {ov:ڡر ل} (١٥٤٢)",
+   "margin": null,
+   "cells": null,
+   "plain": "ثلٰث جزائر مقدار جزء جزء فيما بين طول ڡد ō (١٥٤١) الى طول ڡر ل (١٥٤٢)",
+   "note_marks": [
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F106-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "وسط{n:i} كلّها عند طول {ov:ڡه مه} والعرض {ov:كو {z}} (١٥٤٣) *",
+   "margin": null,
+   "cells": null,
+   "plain": "وسط كلّها عند طول ڡه مه والعرض كو ō (١٥٤٣) *",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L04: the manuscript lacks the نا of بدأنا; the editor supplies it (note a).",
+  "L05: the point is the same as point 1530 (note b).",
+  "L07: a variant reading of the longitude is عو ه, with a line over the numerals (note c).",
+  "L10: the manuscript has a gap at the word والعرض; the editor supplies it (note d).",
+  "L11: the editor considers the reading of the longitude fairly certain in view of islands 1537 and 1539 (note e).",
+  "L10-L11: the manuscript has a gap with the remains of letters at the words between the brackets; the editor supplies them (note f).",
+  "L11: a variant reading of the latitude is كد ط, with a line over the numerals (note g).",
+  "L14: the word مقدار is written by a later hand in the manuscript (note h).",
+  "L15: the manuscript has وسطها for وسط (note i)."
+ ],
+ "unresolved": [
+  "L02, L05: the joining stroke between the loop and the د may also be a stretched join without a tooth: ڡد, 104 read with ق. Transcribed ڡٮد."
+ ],
+ "observations": [
+  "The islands in the Green Sea go on from p. 99 (frame 105), whose last word, «جزيرة», L01 continues with «الفضّة اوّلها من طول قند ك والعرض ه م خلف الاستواء (١٥٣٠)», the island of silver, the first point of whose coast is at the longitude قند ك and the latitude 5° 40′ beyond the equator; here «من طول» stands where the other islands have «عند طول». Then «تمرّ الى طول … والعرض …», points 1531-1533, each beyond the equator, with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}; and L04-L05 «تمرّ الى الموضع الّذى منه بدأ⟨نا⟩ وهو عند طول ڡٮد ك والعرض ه م خلف الاستواء *», back to the place from which we began, without a running number; the editor's note b identifies it with point 1530. Here the verb is «بدأ⟨نا⟩», where the other islands have «ابتدأنا».",
+  "L06: the heading of the next section, in larger type, centred: «* الجزائر الّتى فى بحر البصرة *», the islands in the sea of al-Baṣra, with a small open star with six points at each end. «الجزائر» has a hamza on the tooth and «الّتى» a shadda over the ل.",
+  "L07-L15: the islands of the sea of al-Baṣra, each with its size and the longitude and latitude of its middle, «وسطها عند طول … والعرض …»: islands of one degree, «جزيرة مقدار جزء» (L07, L07-L08, L08-L09, L09-L10, L12, L13), points 1534-1537, 1539 and 1540; an island of two thirds of a degree, «⟨ثلثى جزء⟩» (L10-L11), point 1538; and «ثلٰث جزائر مقدار جزء جزء فيما بين طول ڡد {z} (١٥٤١) الى طول ڡر ل (١٥٤٢) وسط كلّها عند طول ڡه مه والعرض كو {z} (١٥٤٣)» (L14-L15), three islands of one degree by one degree, between the longitude ڡد {z} and the longitude ڡر ل, the middle of all of them at the longitude ڡه مه and the latitude 26° 0′. Each island ends with a small open star with six points, transcribed as an asterisk.",
+  "The running numbers run (١٥٣٠)-(١٥٤٣) without a gap; the numbers of Suhrāb, [١٠١٢]-[١٠٢١], stand after (١٥٣٠)-(١٥٣٣) and (١٥٣٥)-(١٥٤٠); points 1534 and 1541-1543 have none. L11: the folio of the Strasbourg manuscript, «(fol. 28ᵃ)», is printed in Latin type within the line, between «العرض» and the numerals «كد ك»; transcribed as a margin note before the line.",
+  "Angle brackets, each followed by a note mark: «بدأ⟨نا⟩» (L04), the نا that the manuscript lacks (note a); «⟨والعرض⟩» (L10), supplied in a gap of the manuscript (note d); and «⟨ثلثى جزء وسطها عند طول ڡا {z} و⟩العرض» (L10-L11): the bracket opens before «ثلثى» at the end of L10 and closes after the و of «والعرض» in L11: the manuscript has a gap there with the remains of letters, and the editor supplies the words (note f); within the brackets the note mark e follows the longitude. Transcribed with the brackets.",
+  "Signs in the text, transcribed as printed: «الفضّة» (L01) with a shadda over the ض; «اوّلها» (L01) with a shadda over the و; «تمرّ» and «كلّها» (L15) with a shadda; «الّذى» (L04) with a shadda over the ل; «بدأ» (L04) with a hamza over the alif; «ثلٰث» (L14) with a dagger alif above the ل, printed thin, 4 by 8 px, where that of frame 104 (L11) is 7 by 13 px; «جزء» and «الاستواء» with a hamza; «جزائر» with a hamza on the tooth; «الّذى», «فى» and «ثلثى» end in a ى without dots.",
+  "The longitudes of the island of silver: L01, «قند», the ق with its two dots, a short tooth with the dot of the ن above it, and a د, 154; L02 and L05, the same form without dots: the loop of ف or ق, a short tooth low in the joining stroke, and a د, transcribed «ڡٮد»; it is longer than «ڡد» of L14 by the tooth, 60 and 61 px against 45 px, as «قند» of L01 is 65 px. Read with ق and ن, «ڡٮد» gives 154, and read with ق and ي, 114. The other two points of the island, «ڡٮط ل» (L02, L03): between the loop and the ط, a short tooth without a dot that rises above the joining stroke, with no part below it, where the medial م of these numerals is a diamond that stands out above and below the stroke (frame 013, L13, «ڡمح») or is set under the ق (frame 082, L16, «قمط»); they measure 63 and 61 px from the stem of the ط to the end of the loop, where the compact «قط» of frame 102 (L06) measures 48 px. Read with ق and ن they give 159° 30′, so that the coast of the island runs from 154° to 159° 30′. The editor's notes do not comment on these longitudes.",
+  "The longitudes of the islands of the sea of al-Baṣra: «عو» (L07, L08), 76, and «عح» (L09), 78; then the loop of ف or ق without dots: «ڡ» (L10, L12, L13), the isolated loop alone, «ڡا» (L11), «ڡد» (L14), «ڡر» (L14), the loop joined to a ر, as on frame 102 (L03), and «ڡه» (L15), which read with ف give 80, 81, 84, 87 and 85, beside the longitudes 76° 0′-78° 20′ of L07-L09; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII).",
+  "Other numerals: «كز» (L13, the degrees of the latitude), with the dot of the ز, 27; «د ك» (L03), 4° 20′. The ح of the numerals, «ح» (L02, the degrees of the latitude), «كح» (L07) and «عح» (L09), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. The isolated ك, 20, is printed with the small inner stroke of the letter (L01, L03, L05, L09, L11, L12).",
+  "Note marks: L04, a after «⟨نا⟩»; L05, b after «الاستواء»; L07, c after the longitude; L10, d after «⟨والعرض⟩»; L11, e after the longitude, f after «و⟩» and g after the latitude; L14, h after «مقدار»; L15, i after «وسط».",
+  "Marks not transcribed: L13, the line over «كز م» is printed in four pieces. The page is speckled throughout with small grey points of the paper.",
+  "The editor's footnotes stand in four lines below a short rule at the left: notes a-i. The page number «— ١٠٠ —» stands at the foot, centred, on the line of note i."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

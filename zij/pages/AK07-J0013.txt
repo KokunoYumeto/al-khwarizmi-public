@@ -1,0 +1,50 @@
+@page 13 IX
+@lang de
+% JP2 0013: the introduction, p. IX: al-Khwarizmi's other works (the geography, the chronicle, writings on sundials and
+% astrolabes); 2. Maslama al-Majriti, his works; the report of Ibn Sa'id on Maslama's recension of the tables.
+({i:ṣūrat al-arḍ}), die eine ziemlich selbständige Bearbeitung der Geographie des {sp:Ptole-}
+{sp:mäus} darstellt, in Strassburg noch arabisch vorhanden{sup:1}) ; eine {i:Chronik} ({i:kitāb al-}
+{i:ta’rīkh}), und noch drei Schriften über Sonnenuhren und Astrolabien, die alle nicht
+mehr vorhanden sind. Die „indische Rechenkunst“ und die „Algebra“ sind die
+Werke, denen man hauptsächlich die erste Bekanntschaft mit diesen Disziplinen im
+christlichen Abendlande zu verdanken hat ; vielleicht, wir können dies nicht mit
+Sicherheit behaupten, bildeten auch seine astronomischen Tafeln in der Bearbeitung
+{sp:Maslamas} die Grundlage für die späteren astronomischen Arbeiten im west-
+arabischen und christlichen Mittelalter.
+@p 2. {sp:Maslama b. Aḥmed al-Madjrīṭī, Abū’l-Ḳāsim}, aus Cordova, lebte
+zur Zeit {sp:Ḥakems} II. (961—976) und {sp:Hishāms} II. (976—1013) und starb 1007/08.
+Er war zu seiner Zeit der bedeutendste Mathematiker und Astronom des arabischen
+Spaniens, seine Hauptwerke sind : Über das {i:kaufmännische} oder {i:Geschäfts-Rechnen}
+({i:al-muʿāmalāt}), weder arabisch noch in Übersetzung vorhanden ; über {i:Konstruktion}
+{i:und Gebrauch des Astrolabiums}, arabisch noch vorhanden im Escurial ; Übersetzung
+und Kommentar des {i:Planisphärium} des {sp:Ptolemäus}, ins Lateinische übersetzt von
+{sp:Hermannus Dalmata}, gedruckt zu Basel 1536 und Venedig 1558 ; ein {i:Auszug}
+aus den {i:Tafeln} {sp:Al-Battānīs}, nicht mehr vorhanden ; die {i:Umarbeitung der Tafeln}
+{sp:Al-Khwārizmīs}, nur noch in der lateinischen Übersetzung des {sp:Athelhard von}
+{sp:Bath} vorhanden, die wir hier der Öffentlichkeit übergeben.
+@p Wir geben hier auch noch die Stelle in wörtlicher Übersetzung wieder, die der
+spanisch-arabische Historiker {sp:Ibn Ṣāʿid} (gest. 1070 in Toledo){sup:2}) über die Bearbeitung
+der Tafeln {sp:Al-Khwārizmīs} durch {sp:Maslama} uns überliefert hat{sup:3}) : „Er beschäftigte
+sich mit der Bearbeitung der Tafeln {sp:Al-Khwārizmīs} ; er wandelte die persische
+Zeitrechnung derselben in die arabische um, und bestimmte die mittlern Örter der
+Planeten für den Beginn der {i:Hidjra} ; er fügte zu dem Werke noch weitere schöne
+Tafeln hinzu, in denen er jedoch ihm (d. h. {sp:Khwārizmī}) genau folgte und nicht
+auf die Fehler in seinem Werke aufmerksam machte ; ich habe auf diesen Umstand
+hingewiesen in meinem Buche „über die Verbesserung der Bewegung der Planeten
+und die Belehrung über die Irrtümer der Astronomen“.“
+@p Diese Stelle beweist uns also, dass nicht alle Tafeln in dieser Bearbeitung von
+{sp:Al-Khwārizmī} herstammen ; welches aber diejenigen sind, die {sp:Maslama} hinzu-
+gefügt hat, ist schwer zu entscheiden, wir haben auf diesen Punkt schon oben auf-
+merksam gemacht und kommen auf denselben noch im Kommentar zurück. — Mit
+der Bemerkung, {sp:Maslama} habe die Fehler {sp:Al-Khwārizmīs} nicht bemerkt, oder
+nicht auf dieselben aufmerksam gemacht, meint er wohl in erster Linie die Nicht-
+beachtung der Praezession der Aequinoctialpunkte.
+@n {sup:1}) Vergl. C. A. {sp:Nallino} : {i:Al-Ḫuwārizmī e il suo rifacimento della geografia di Tolomeo}, in den
+@n Memorie della Reale Accademia dei Lincei (Classe di scienze morali, storiche e filologiche), Serie 5,
+@n Vol. II., P. I., Roma, 1894.
+@n {sup:2}) Vergl. meine oben (p. VII) zitierte Arbeit, p. 106.
+@n {sup:3}) Aus der Ausgabe seines Werkes {i:Ṭabaḳāt al-umam} (= Klassen der Völker) durch L. {sp:Cheikho},
+@n S. J., Beirut 1912, p. 69.
+@obs The page number «IX» stands at the head of the page, centred, with a rule below it.
+@obs N01: «Al-Ḫuwārizmī», in Nallino's transliteration, with an arc under the H (ḫ). L10 «2.» numbers the second biography. L30 «Astronomen“.“»: the inner quotation closes before the full stop, the outer after it.
+@obs L37: a dark speck at mid-height between «beachtung» and «der»; not transcribed.

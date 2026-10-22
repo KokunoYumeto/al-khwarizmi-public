@@ -1,0 +1,34 @@
+@page 59 ٥٣
+@cols 12,12,12,12,12,12,12,12,22,22
+@align c,c,c,c,c,c,c,c,c,c
+% Frame 059, printed p. 53: the left-hand page of the opening pp. 52-53: for the twelve mountains of the fourth clime of
+% p. 52 (frame 058), entries 749/750-771/772, the longitude and the latitude of the first and of the last boundary, the
+% colour and the direction of the head; the ends of the headings of the fifth clime, with its latitude, 41, and of its
+% mountains; and the same for entry 773/774. One line of the editor's footnotes, notes a-c of the opening.
+@r سٮ | {z} | له | {z} | سح | ٮه | له | ى | كحلىّ | شمال
+@r سط | مه | لو | {z} | عا | ل | له | ك | اصفر | شمال
+@r عٮ | ل | لو | {z} | عٮ | مه | له | ل | وردىّ | مغربىّ
+@r عٮ | ى | لد | ى | عز | {z} | له | م | حديدىّ | شمال
+@r عح | م | له | ى | عز | {z} | لح | ك | اصفر اغبر | شمال
+@r عه | ل | له | {z} | عر | ه | لح | ك | وردىّ | جنوب
+@r عو | ى | ⟨لج⟩{n:b} | ى | عح | ك | ل | ك | عكر امغر | جنوب
+@r عو | {z} | لا | م | عط | مه | لا | ل | اغبر | شمال
+@r عح | ك | ل | ك | ف | م | لٮ | ط | وردىّ | جنوب
+@r عو | {z} | لو | {z} | ڡح | ى | له | مه | احمر | شمال
+@r قا | م | لح | ك | قو | {z} | لح | ك | لازورد | شمال
+@r ڡ | ل | ل | ل | قو | م | ل | مه | وردىّ | شمال
+@h عرضه {ov:ما} *
+@h الإقليم الخامس *
+@r و | ن | لز | ك | ر | ك | لح | ل | وردىّ | مغربىّ
+@ednotes a b c 1
+@obs The page is the left-hand page of the opening pp. 52-53. L01-L12 give the boundaries, colours and directions of the mountains of p. 52 (frame 058), entries 749/750-771/772; the two entries whose descriptions take two lines on p. 52 have their row at the height of the second line: L03, entry 753/754, stands beside p. 52, L04, and L05, entry 757/758, beside p. 52, L07, and the page has no line at the height of p. 52, L03 and L06. L13, «عرضه ما *», ends the heading of p. 52, L15, the fifth clime and its latitude, 41; L14, «الإقليم الخامس *», ends «* الجبال الّتى فى», the mountains in the fifth clime; L15 gives the boundaries, colour and direction of entry 773/774 (p. 52, L17). Each row gives, from the right, the degrees and the minutes of the longitude and of the latitude of the first boundary, the same for the last boundary, the colour and the direction, in the columns of p. 39 (frame 045); the page has no heads. The headings stand at the inner edge of the page, next to their beginnings on p. 52; transcribed as headings.
+@obs L13: «عرضه» is printed with a long kashida, the stretched joining stroke, between the ض and the ه; the kashida is not transcribed. The latitude «ما» has a line above it, 93 px long, 36 px above the letters, transcribed with {ov:…}, as the latitudes of the earlier climes (frames 045, 049, 053, 057). L14: «الإقليم», with a hamza below the alif.
+@obs The colours are «كحلىّ», kohl-dark (L01); «اصفر», yellow (L02); «وردىّ», rose (L03, L06, L09, L12, L15); «حديدىّ», iron-coloured (L04); «اصفر اغبر», yellow and dusty (L05); «عكر امغر», turbid and red-ochre (L07); «اغبر», dusty (L08); «احمر», red (L10); and «لازورد», lapis blue (L11). The directions are «شمال», north (L01, L02, L04, L05, L08, L10-L12), «مغربىّ», western (L03, L15), and «جنوب», south (L06, L07, L09). «كحلىّ», «وردىّ», «حديدىّ» and «مغربىّ» end in a ى without dots with a shadda over it; «اغبر» (L05, L08) has the dot of the غ above and the dot of the ب below, and «امغر» (L07) the dot of the غ.
+@obs L07: the degrees of the first latitude are printed «⟨لج⟩», between angle brackets, followed by the note mark b: the editor supplies them from S where the manuscript has a gap (note b). Transcribed with both brackets in the degrees cell; the ج has its dot.
+@obs Letters printed without their dots in the numerals, transcribed so: سٮ (L01, the degrees of the first longitude), 62; عٮ (L03, the degrees of both longitudes; L04, the degrees of the first longitude), 72; لٮ (L09, the degrees of the last latitude), 32; ڡح (L10, the degrees of the last longitude), the loop of ف or ق without dots joined to a ح, 83; ڡ (L12, the degrees of the first longitude), the isolated loop of ف or ق without dots with its long tail, where the neighbouring longitudes are قا, 101 (L11), and قو, 106 (L12, the last longitude), with the two dots of the ق. With their dots: عز (L04, L05, the degrees of the last longitude), 77; ف (L09, the degrees of the last longitude), 80; قا (L11) and قو (L11, L12); لز (L15, the degrees of the first latitude), 37; ن (L15, the minutes of the first longitude), 50.
+@obs L06, the degrees of the last longitude, «عر», and L15, the degrees of the last longitude, «ر»: a ر without the dot of a ز; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII), so 77 and 7; transcribed ر as printed. L04 and L05 print the same degrees with the dot, عز.
+@obs The degrees printed with a final ح, سح (L01), عح (L05, L09, the first longitude; L07, the last longitude) and لح (L05, L06, L11, L15), show no dot in the bowl; the same form is a ج without its dot, 3, which L07 prints with its dot in «⟨لج⟩». Transcribed as printed.
+@obs The isolated ه, 5, of L06 (the minutes of the last longitude) is a small round blot, 19 by 21 px, the round form with its counter filled, as on frame 049 (L05); the minutes of the last longitude in L01, «ٮه», are a tooth without its dot joined to a final ه. The isolated ك, 20, is printed with the small inner stroke of the letter throughout.
+@obs A short rule stands above each pair of degrees and minutes in every row, the first ones at the top of the page; there are none below the rows. The rules are not transcribed.
+@obs The editor's footnotes of the opening stand here in one line, below a short rule at the left: note a, whose two marks stand on p. 52 (frame 058, L03, L04), note b and note c, whose mark stands on p. 52 (L12); their readings are recorded on the pages of their marks. The page number «— ٥٣ —» stands at the foot, centred.
+@variant L07: the manuscript has a gap at the degrees of the latitude of the first boundary; the editor supplies them from S (note b).

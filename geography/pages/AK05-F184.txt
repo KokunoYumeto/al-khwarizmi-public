@@ -1,0 +1,7 @@
+@page 184 XXIX
+@kind editorial
+% Frame 184, printed p. XXIX: the editor's introduction continued, in German.
+@withheld the editor's introduction, p. XXIX, in German: 29 printed lines, with words of the text, running numbers and page numbers in Arabic type
+@obs Topics of the page, with the entries and notes that it cites (the introduction is read for understanding and not reproduced or paraphrased): the language of the text; the asterisk with which the edition marks a form against the grammar of the classical language that it keeps from the manuscript, with examples after (١١٢٠) (frame 080), at (١٦٨١) and (١٦٨٥) (frame 117), (٢١٩١) (frame 151), (٥٩٦)-(٥٩٧) and (٦٠٢)-(٦٠٣) (frames 048-049), on p. 74, line 4 (frame 080), and at (١٦٦٨) (frame 116).
+@obs The introduction, pp. V-XXXI, is bound in the reverse order of its pages, from p. XXXI (frame 182) to p. V (frame 208); the frames keep the physical order, and the introduction is read from frame 208 back to frame 182. This page follows p. XXVIII (frame 185); p. XXX follows on frame 183.
+@obs The page number «— XXIX —» stands at the foot, centred.

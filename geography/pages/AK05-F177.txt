@@ -1,0 +1,8 @@
+@page 177 -
+@kind plate
+% Frame 177: plate IV, «TAFEL 4»: the map of the marsh, the Maeotis, from fol. 47ᵃ of the Strasbourg manuscript,
+% printed sideways on a sheet wider than the page.
+@fig AK05-F177-FIG1 200 250 3700 3350
+@obs The plate reproduces in halftone the map on fol. 47ᵃ of the manuscript, which the editor's list of plates (p. 162, frame 168) names the map of the «بطيحة», the marsh, the Maeotis, with north at the top. The text announces it after the extent and course of the marsh, entries 2379-2384, with «وهٰذه صورة ذٰلك», and this is its picture, where the editor's note f refers to this plate (frame 163, L07). The map is printed sideways; the caption «TAFEL 4» stands in the margin and reads with the map.
+@obs The map shows a large dark mass at the centre, the marsh, with rivers drawn as bands that run out from it, each labelled with its name; at their other ends mountains and springs, drawn as leaf-shaped, round and triangular figures, some with writing; two dark figures at the top, one of them a triangle.
+@obs The plate is reproduced as an image (the crop of the frame and its derivative); its handwritten text is not transcribed.

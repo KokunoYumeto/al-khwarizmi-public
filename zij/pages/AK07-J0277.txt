@@ -1,0 +1,104 @@
+@page 277 243
+@lang de
+% JP2 0277: the glossary, p. 243: I. Arabic words, Gauze to Jumedi elule, in two columns.
+@cl {b:G.}
+@cl {i:Gauze} s. {i:Jauze}.
+@cl {i:Gauzehar} = {i:djauzahar} (pers.), die Knoten-
+@cl punkte der Planetenbahnen mit der Ekliptik,
+@cl insbesondere die Mondknoten (s. auch {i:ʿAḳd})
+@cl 15, 41, T. 19, 20.
+@cl {i:Gavzehar} s. {i:Gauzehar}.
+@cl {i:Gedi} = {i:djady} (od. {i:djadi}), Bock, Böcklein, Tier-
+@cl kreiszeichen des Steinbocks, T. 59.
+@cl {i:Gedval} = {i:djadwal}, Tafel, Tabelle (astron.) 28,
+@cl T. 60—66, 69‐‐71.
+@cl {i:Geib} = {i:djaib}, die trigon. Funktion des {i:Sinus},
+@cl 17—19, 21, 22, 69, 71, T. 58, 58{sup:a}.
+@cl {i:Genubi} = {i:djanūbī}, südlich, 13, 16, 18, 29 (N. 1,
+@cl 6, 14, 15) ; {i:genubia} = {i:djanūbīya} (fem). 29
+@cl (N. 1, 6, 15).
+@cl {i:Genubium} s. d. vorhergehende.
+@cl {i:Gidher} = {i:djidhr}, Wurzel, insbesondere Qua-
+@cl dratwurzel, 22.
+@cl {i:Gumedi} s. {i:Jumedi}.
+@cl {b:H.}
+@cl {i:Haazem} (?) XXII, 20 (N. 3).
+@cl {i:Hacib} = {i:ḥāsib}, Rechner, XXII, 20 (N. 3).
+@cl {i:Hacil} = {i:ḥāṣil}, Ergebnis, Resultat (z. B. einer
+@cl Rechnung) 11.
+@cl {i:Ḥadd} (pl. {i:ḥudūd}), Grenzen, Teile der Tierkreis-
+@cl zeichen (lat. {i:termini}, {i:fines}) 105.
+@cl {i:Hadhid} = {i:ḥaḍīḍ}, unterster Teil, in der Astron.
+@cl {i:Perigeum} eines Planeten, in diesem Werke
+@cl übersetzt mit {i:submissio}, 14 (N. 28).
+@cl {i:Hamel} = {i:ḥamal}, Widder, Tierkreiszeichen des
+@cl Widders ({i:Aries}) T. 59.
+@cl {i:Harket} = {i:ḥaraka}, Bewegung ; {i:harket elscems}
+@cl = {i:ḥarakat al-shams}, Bewegung der Sonne,
+@cl T. 61.
+@cl {i:Hea} = {i:hai’a}, äussere Erscheinung (des Him-
+@cl mels) ; {i:ʿilm al-hai’a}, Wissenschaft der Him-
+@cl melskunde, Astronomie : s. auch {i:Kiteb}.
+@cl {i:Heca} s. {i:Heza}.
+@cl {i:Helhacib} s. {i:Hacib}.
+@cl {i:Hemar} s. {i:Ahemar}.
+@cl {i:Hemeli} s. {i:Shemeli}.
+@cl {i:Heza} = {i:ḥāṣṣa} u. {i:khāṣṣa}, die dem Planeten
+@cl eigentümliche Bewegung im Epizykel, die
+@cl sog. {i:Anomalie}, in diesem Werk durch {i:Ar-}
+@cl {i:gumentum} wiedergegeben XIV, XXI, 9—14
+@cl (u. N.), 28 (N. 1) 46, 53 ; T. 6—9, 11, 13, 15—18,
+@cl etc.
+@cl {i:Higera} = {i:Hidjra}, Flucht Muhammeds aus
+@cl Mekka, Beginn der muhammed. Aera, 1, 3,
+@cl 33, etc. T. 1.
+@cr {i:Ḥiṣṣa}, Anteil, Loos, Argument, mit dem man
+@cr in eine Tafel eintritt, 46.
+@cr {i:Hormi} u. {i:Horom}, verdorben aus {i:Hormuzd}
+@cr od. {i:Hormuz} = {i:Ormuzd}, pers. Name für den
+@cr Planeten Jupiter, XXII, T. 33, 36.
+@cr {i:Hout} = {i:ḥūt}, Fisch, Tierkreiszeichen der Fische,
+@cr T. 59.
+@cr {i:Hubūṭ}, Fall, Fallen, in der Astrologie der Tief-
+@cr stand, Fall ({i:casus}) eines Planeten, 104.
+@cr {b:I.}
+@cr {i:Iblīs}, Satan, Teufel, XXI.
+@cr {i:Idhnascer} = {i:ithnā ʿashar}, zwölf, T. 79.
+@cr {i:Igstimaat} = {i:idjtimāʿāt} (pl. v. {i:idjtimāʿ}) s. {i:Istima}.
+@cr {i:Ihtilef} = {i:ikhtilāf}, Verschiedenheit T. 73 ; {i:elihtilef}
+@cr {i:lilmanshar} = {i:al-ikhtilāf lil-manẓar}, die
+@cr Verschiedenheit des Anblicks (eines Ge-
+@cr stirns), d. h. seine {i:Parallaxe} 28 (N. 3).
+@cr {i:Ihtilief}, verdorben aus {i:Ihtilef}, s. dieses.
+@cr {i:Ingile} = {i:indjilā’}, Verschwinden, insbesondere
+@cr der Ausgang oder das Ende einer Finsternis,
+@cr die Phase von der Totalität bis zum Ende
+@cr (lat. {i:Emersio}), 26, 87.
+@cr {i:Ingine} s. {i:Ingile}.
+@cr {i:Iṣbaʿ} s. {i:Aṣbaʿ}.
+@cr {i:Ishemz} verdorben aus {i:eshemz} = {i:el-shems} s.
+@cr {i:Shems}.
+@cr {i:Isticbelet} = {i:istiḳbālāt} (pl. v. {i:istiḳbāl}) s. {i:Istikbel}.
+@cr {i:Istikbel} = {i:istiḳbāl}, Opposition (zweier Gestirne),
+@cr insbesondere von Sonne und Mond, 23, T. 70.
+@cr {i:Istima} = {i:idjtimāʿ}, Konjunktion (zweier Ge-
+@cr stirne), insbesondere von Sonne und Mond,
+@cr 23, T. 69.
+@cr {i:Istimaz} s. {i:Istima}.
+@cr {b:J.}
+@cr {i:Jauze} = {i:djauzā’} (oder {i:djawzā’}), das Tierkreis-
+@cr zeichen der Zwillinge, T. 59{sup:a} ; auch das
+@cr Sternbild des Orion.
+@cr {i:Jauzehar} s. {i:Gauzehar}.
+@cr {i:Jazdeiard} = {i:Yezdegird} III., letzter König der
+@cr Sassaniden, XV, XVI, T. 1.
+@cr {i:Jenubi} s. {i:Genubi}.
+@cr {i:Jumedi elachir} = {i:Djumādā al-ākhira}, {i:Djumādā}
+@cr {i:II.}, der sechste Monat des muhammed.
+@cr Jahres, XIV, XV, T. 2, 3, etc.
+@cr {i:Jumedi elule} = {i:Djumādā al-ūlā}, {i:Djumādā I},
+@cr der fünfte Monat des muhammed. Jahres,
+@cr XIV, XV, T. 2, 3, etc.
+@obs The page number «243» stands at the head of the page, centred, with a rule below it. At the foot, the signature «31*» on the right; recorded here, not transcribed as a line. Two columns divided by a vertical rule, as on pp. [241]-242 (JP2 0275-0276), transcribed column by column: the left column L01-L51, the right L52-L98; the letter heads «G.» (L01), «H.» (L21), «I.» (L61) and «J.» (L86) in bold, centred in their columns, the last three each after a blank line; each entry begins at the edge of its column, its further lines indented.
+@obs The semicolons of L15, L33, L37, L47, L65 and L87 and the colon of L38 stand after a thin space (7-12 px); written with a space. Dashes: «60—66» (L11) 27 px, «9—14» and «15—18» (L46-L47) 36-37 px, «17—19» (L13) 36 px in three pieces, «6—9» (L47) 32 px; «69‐‐71» (L11) is made up of two short dashes (17 and 13 px with a gap of 2 px), here written as two hyphens (U+2010). L15: «(fem).» with the point after the parenthesis, as printed. L52: «Loos», the older spelling of «Los».
+@obs Checked against the text, for example: «Gavzehar» on p. 9 (JP2 0041), «Gedval» in the titles of Tab. 60-66 and 69-71 (pp. 174-185), «Genubium» and «genubia» on p. 29 (JP2 0061), «Harket elscems» in Tab. 61 (p. 175, JP2 0207), «Helhacib» on p. XXII and p. 20 (JP2 0026, 0052), «Hemeli» on pp. 13 and 16, «Hormi» on p. XXII and in Tab. 33 and 36, «Idhnascer» in the title of Tab. 79 (p. 194, JP2 0226), «elihtilef» in Tab. 73 (p. 187, JP2 0219), «lilmanshar» on p. 28 (JP2 0060), «submissio» on p. 14 (JP2 0046), «Jumedi elachir» and «Jumedi elule» in Tab. 2 and 3 (pp. 110, 113).

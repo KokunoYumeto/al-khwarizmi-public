@@ -1,0 +1,172 @@
+{
+ "anchor": "AK15-P003",
+ "pdf_page": 3,
+ "printed_page": "٢",
+ "kind": "text",
+ "role": "AK_TEXT (the printed witness of al-Khwarizmi's treatise)",
+ "image_raw_stream_sha256": "f613abf876e781622743a93d0870c1d35a86c380d6cb32c722b3662fb396baa2",
+ "image_decoded_pixels_sha256": "f5d0ac71f981e8d70cd5ab872a9b8dcbca99f82853f22f6c9e8cbdaa092ae4ed",
+ "comment": "PDF 3, printed p. 2: the beginning of the treatise: the basmala; the duty of the wise to keep the customs of the righteous; the Torah on the lights as signs for times, days and years (Genesis 1:14); the command to keep the month of the flowers, Nisan, and the Passover on its fifteenth night, at the full moon (de Blois's section 1).",
+ "lines": [
+  {
+   "id": "AK15-P003-L01",
+   "n": 1,
+   "kind": "centre",
+   "text": "بسم الله الرحمن الرحيم",
+   "plain": "بسم الله الرحمن الرحيم",
+   "cells": null
+  },
+  {
+   "id": "AK15-P003-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "ان العاقل حقيق ان تكون عنايته مصروفة فيما يستصلح به مفترض",
+   "plain": "ان العاقل حقيق ان تكون عنايته مصروفة فيما يستصلح به مفترض",
+   "cells": null
+  },
+  {
+   "id": "AK15-P003-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "دينه ويحيي به سنن الصالحين من سلفه فاذا فعل ذلك توكل الله",
+   "plain": "دينه ويحيي به سنن الصالحين من سلفه فاذا فعل ذلك توكل الله",
+   "cells": null
+  },
+  {
+   "id": "AK15-P003-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "له بالكفاية وايده بالمؤونة واتاه اجر الدارين الدنيا والآخرة •",
+   "plain": "له بالكفاية وايده بالمؤونة واتاه اجر الدارين الدنيا والآخرة •",
+   "cells": null
+  },
+  {
+   "id": "AK15-P003-L05",
+   "n": 5,
+   "kind": "indent",
+   "text": "ان الله تبارك وتعالى قال فى التوراة فى السفر الاول لكن",
+   "plain": "ان الله تبارك وتعالى قال فى التوراة فى السفر الاول لكن",
+   "cells": null
+  },
+  {
+   "id": "AK15-P003-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "الصبا فى ربيع فصلا بين الليل والنهار ودليلا على الاوقات والايام",
+   "plain": "الصبا فى ربيع فصلا بين الليل والنهار ودليلا على الاوقات والايام",
+   "cells": null
+  },
+  {
+   "id": "AK15-P003-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "والسنين ثم امر الله تعالى موسى عليه السلام فى السفر الخامس",
+   "plain": "والسنين ثم امر الله تعالى موسى عليه السلام فى السفر الخامس",
+   "cells": null
+  },
+  {
+   "id": "AK15-P003-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "الموكد لما قبله من الاسفار ان يحتفظ بشهر الاوراد وهو شهر نيسن",
+   "plain": "الموكد لما قبله من الاسفار ان يحتفظ بشهر الاوراد وهو شهر نيسن",
+   "cells": null
+  },
+  {
+   "id": "AK15-P003-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "الذى يتجدد فيه الشهر ويورق فيه الشجر وتتشقق الارض عن",
+   "plain": "الذى يتجدد فيه الشهر ويورق فيه الشجر وتتشقق الارض عن",
+   "cells": null
+  },
+  {
+   "id": "AK15-P003-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "زهراتها ويدرك فيه الشعير وان يتخذ فى الليلة الخامسة عشرة منه",
+   "plain": "زهراتها ويدرك فيه الشعير وان يتخذ فى الليلة الخامسة عشرة منه",
+   "cells": null
+  },
+  {
+   "id": "AK15-P003-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "فسحا لربه بما امتن الله به عليه وعلى بنى اسرائيل فى اخراجهم من",
+   "plain": "فسحا لربه بما امتن الله به عليه وعلى بنى اسرائيل فى اخراجهم من",
+   "cells": null
+  },
+  {
+   "id": "AK15-P003-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "ارض مصر ليلا وان يكون ذلك موافقا لامتلاء القمر وتمام نوره",
+   "plain": "ارض مصر ليلا وان يكون ذلك موافقا لامتلاء القمر وتمام نوره",
+   "cells": null
+  },
+  {
+   "id": "AK15-P003-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "وجعله رأس الشهور وانزل به الوحى فى السفر الاول ثم امر فى",
+   "plain": "وجعله رأس الشهور وانزل به الوحى فى السفر الاول ثم امر فى",
+   "cells": null
+  },
+  {
+   "id": "AK15-P003-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "السفر الثانى ان يحتفظ بهذه الليلة طول الابد مع آى كثيرة من",
+   "plain": "السفر الثانى ان يحتفظ بهذه الليلة طول الابد مع آى كثيرة من",
+   "cells": null
+  },
+  {
+   "id": "AK15-P003-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "التورٰة اكد ذلك فيه لما اراد من اختيار بنى اسرائيل وامتحانهم",
+   "plain": "التورٰة اكد ذلك فيه لما اراد من اختيار بنى اسرائيل وامتحانهم",
+   "cells": null
+  }
+ ],
+ "unresolved": [],
+ "observations": [
+  "The running head «استخراج تاريخ اليهود للخوارزمى» stands at the head of the page, the page number «٢» at its right; at the lower left the catchword «وابتلاء», the first word of p. 3 (PDF 4); recorded here, not transcribed as lines. L01, the basmala, is centred; L05 begins with a paragraph indent. L04 ends with the edition's full stop, a large round dot at mid-height, written •.",
+  "Spacing. The edition sets the letters that do not join the next with irregular white after them: on this page the white inside a word after such a letter measures 5 to 14 px (العا قل, الصا لحين, ذ لك 13 px), and a word space 6 to 17 px (calendar/tools/gaps.py), so that the gaps do not show where a word ends. The words are divided by the sense. Where the print suggests another division: L03, the alif of اذا stands 7 px from فعل and 14 px from the ذ, so that the line reads at first sight «فاذ افعل»; L06, «والنهار ودليلا» is set «والنها رود ليلا» (13 px after the alif, 15 px after the د), and «ليلا على» with 6 px between the words.",
+  "Read as printed: L02 «مفترض»; L04 «بالمؤونة», with the hamza on the first و, «والآخرة» with the madda; L08 «الموكد» without hamza, «الاوراد», «نيسن»; L11 «فسحا», the Passover, with س; L13 «رأس» with the hamza; L14 «آى» with the madda and the final ى without dots; L15 «التورٰة», with a small raised alif in place of the alif of التوراة (so printed with the full alif in L05). L14: the two dots of the ي of «كثيرة» run into the tail of the ر; L06: those of «والايام» stand low under the line.",
+  "In the left margin beside L06, a short vertical stroke (about 25 px), outside the text block; not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK15-CN001",
+   "class": "missing letter",
+   "line": "L05",
+   "printed": "لكن",
+   "proposed": "لتكن",
+   "evidence": "the quotation is Genesis 1:14, «Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years» (Hebrew yehi meʾorot birqiaʿ ha-shamayim); the sentence needs the verb «let there be», لتكن; «لكن», «but», gives no sense before «الصبا فى ربيع فصلا بين الليل والنهار»",
+   "confidence": "medium",
+   "impact": "none"
+  },
+  {
+   "id": "AK15-CN002",
+   "class": "wrong letter",
+   "line": "L06",
+   "printed": "ربيع",
+   "proposed": "رقيع",
+   "evidence": "«the firmament» of Genesis 1:14 is Hebrew raqiaʿ, which Arabic versions of the Bible keep as رقيع; «ربيع», «spring», gives no sense here; ب and ق differ only in their dots",
+   "confidence": "medium",
+   "impact": "none"
+  },
+  {
+   "id": "AK15-CN003",
+   "class": "probable misprint",
+   "line": "L06",
+   "printed": "الصبا",
+   "proposed": "الضياء (?)",
+   "evidence": "Genesis 1:14 has «lights» (Hebrew meʾorot) as the subject that divides the day from the night; «الصبا» (the east wind; youth) gives no sense; الضيا(ء), «the light», differs from it only in the dots of ض and ي; another word for the lights is possible",
+   "confidence": "low",
+   "impact": "none"
+  }
+ ]
+}

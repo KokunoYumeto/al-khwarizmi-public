@@ -1,0 +1,56 @@
+@page 49 17
+@lang la
+% JP2 0049: the Latin text, p. 17: the end of chapter 22 (the six hours taken for the local meridian); chapter 23, the
+% sine (elgeib) from the arc and the arc from the sine: the sine planum and the versed sine (diminutum, elmankuz); with
+% the apparatus (notes 1-37).
+accipiantur, iuxta hoc quod superius determinatum est, cum de {i:elwacat}{sup:1}) planeta-
+rum inveniendo tractaremus. Si enim quantum ad terram {i:Arin} nostra regio ex
+parte orientali sita fuerit, quantum ea quidem distantia exigit, nostro meridiei addendum
+erit, ut per hanc additionem meridiei huius tractatus computatio conveniat. Si vero
+ex parte occidentali sederimus, contrarium. Sic ergo periculo erroris depulso sex
+horarum, ut supradictum est, examinatio{sup:2}) vel addenda vel detrahenda{sup:3}) est.
+@m C 71{sup:v}, O 129{sup:r}
+@c {b:Cap. 23. Inventio elgeib per arcum et e converso{sup:4}).}
+@m N 37{sup:r}
+@p Sciendum{sup:5}) autem in hoc loco est, quod{sup:6}) {i:elgeib}{sup:7}) aliud {i:planum} aliud {i:diminu-}
+{i:tum}{sup:8}). Cuiuslibet itaque{sup:9}) loci {i:elgeib planum} hoc modo investigandum{sup:10}) est : Per
+argumentum enim praesens in semitas {i:elgeib} intrabitur, quodque illi iunctum fuerit{sup:11})
+notabitur. Quod si ipsum argumentum dakaicae{sup:12}) comitantur, fiet item introitus
+secundus{sup:13}) gradu uno gradibus argumenti superaddito. Considerando itaque quo-
+modo {i:elgeib} secundum ad primum se habeat, perspicuum{sup:14}) erit, quantum ex eo
+dakaicis{sup:15}) illis attineat. Quapropter si fuerit {i:elgeib} secundum maius{sup:16}) primo, ad-
+dendum{sup:17}) erit ipsi{sup:18}) primo quantum dakaicis{sup:19}) illis accidit ; si vero{sup:20}) minus{sup:21}),
+ab eodem secundum idem minuendum{sup:22}) ; sicque erit {i:elgeib} quod quaeris in-
+ventum{sup:23}).
+@p Si vero {i:elgeib diminutum} scire desideras, fueritque argumentum introducens
+nonaginta{sup:24}) gradibus minus, erit ipsum introducens a nonaginta minuendum, quod-
+que residuum fuerit quantum sit eius{sup:25}) {i:elgeib} [{i:planum}] captandum est, ipsumque{sup:26})
+a sexaginta minuendum{sup:27}) ; quod itaque{sup:28}) inde restiterit, ipsum est quod quaeris.
+@p Quod si{sup:29}) argumentum primum nonaginta gradibus maius fuerit, ipsis quidem
+nonaginta proprium {i:elgeib planum} dabitur ; residuo item quod ei attinet, deinde ip-
+sum attinens supra{sup:30}) sexaginta addendum{sup:31}), totumque istud{sup:32}) {i:elgeib elmankuz}{sup:33})
+dicendum.
+@p Non dissimili etiam{sup:34}) ratione ab {i:elgeib}{sup:35}) ad arcum e converso{sup:36}) pervenitur
+ut in sequenti{sup:37}) tabula subnotatur.
+@p Quicunque autem astronomicae peritiam disciplinae affectat, hunc tractatum
+@n {sup:1}) elwacat] C, medio O, medio cursu N. — {sup:2}) examinatio] coaequatio N. — {sup:3}) detrahenda] C, mi-
+@n nuenda O. — {sup:4}) Inventio . . . . converso] CO, De inventione sinus id est cordae per arcum et e converso
+@n N. — {sup:5}) Sciendum] ON, Sciens C. — {sup:6}) quod] O, quia C. — {sup:7}) elgeib] CO, sinus N, {i:itemque in cet. locis.}
+@n — {sup:8}) aliud planum aliud diminutum] CO, alius planus alius diminutus N, {i:itemque in cet. loc.} — {sup:9}) ita-
+@n que] O, ergo C. — {sup:10}) investigandum] O, investigandus C. — {sup:11}) quodque . . . . fuerit] O, eiusque adiunc-
+@n tum C, eiusque adiunctus N. — {sup:12}) dakaicae] CO, minuta N. — {sup:13}) secundus] C, secundi O. — {sup:14}) per-
+@n spicuum] O, perspiciendum C. — {sup:15}) dakaicis] CO, minutis N. — {sup:16}) maius] CO, maior N. — {sup:17}) adden-
+@n dum] CO, addendus N. — {sup:18}) ipsi] C, {i:om.} O. — {sup:19}) dakaicis] CO, minutis N. — {sup:20}) si vero] O, sin
+@n autem C. — {sup:21}) minus] CO, minor N. — {sup:22}) ab . . . . minuendum] O, ipsum ipsi detrahendum C. —
+@n {sup:23}) erit . . . . inventum] O, elgeib quaesitum inventum erit C, sinus quaesitus inventus erit N. — {sup:24}) nona-
+@n ginta] C, a nonaginta O, — {sup:25}) eius] C, ei O. — {sup:26}) ipsumque] CO, ipseque N. — {sup:27}) minuendum] CO,
+@n minuendus N. — {sup:28}) itaque] O, autem C. — {sup:29}) Quod si] O, Sin autem C. — {sup:30}) supra] O, cum C. —
+@n {sup:31}) addendum] O, coacervandum C. — {sup:32}) istud] O, ipsum C. — {sup:33}) elmankuz] O, elmankut C, diminitus
+@n N. — {sup:34}) etiam] O, quoque C. — {sup:35}) ab elgeib] C, {i:om.} O, ab sinu N. — {sup:36}) e converso] C, converso
+@n gradu O. — {sup:37}) sequenti] O, sequente C.
+@obs The page number «17» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «3» on the right; recorded here, not transcribed as a line. A dark speck stands before «Selsk.» in it.
+@obs L01-L06 end chapter 22 (p. 16, JP2 0048). L07: the heading of chapter 23, in bold, centred; in the right margin beside it «C 71v, O 129r», and beside L08 «N 37r», the folios at which the chapter begins.
+@obs L08-L27: the sine, «elgeib» (al-jayb), in italics; «elgeib planum», the sine, and «elgeib diminutum», «elgeib elmankuz» (al-jayb al-mankūs), the versed sine, found as sixty less the sine of the complement for arcs below ninety degrees, and as sixty plus the sine of the excess for arcs above (L18-L25): the table of sines is for a radius of sixty. L20: «[planum]», the editor's square brackets upright, the word in italics.
+@obs The colons and semicolons of the text stand after the thin space of the edition (9-14 px measured); a light speck after the semicolon of L15 is not transcribed.
+@critical AK07-CN033 | wrong punctuation | N11 | a nonaginta O, — | a nonaginta O. — | each note of the apparatus ends with a full stop before the dash; after the siglum O of note 24 a comma is printed | high | none
+@critical AK07-CN279 | missing reading | N04 | CO, alius planus alius diminutus N | CO, {i:sed supra} planum {i:scrips.} C elmustewi, {i:supra} diminutum elmaruz, alius planus alius diminutus N | the list of misprints, p. [237] (JP2 0271, L05-L06): «Note 8 muss zwischen CO und alius eingefügt werden: sed supra planum scrips. C elmustewi, supra diminutum elmaruz», the Arabic words that C writes above «planum» and «diminutum» | high | none

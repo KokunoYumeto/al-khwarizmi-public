@@ -1,0 +1,40 @@
+@page 38 ٣٢
+% Frame 038, printed p. 32: the cities of the sixth clime continued, entries 459-474: ماطنڡا and روران at the mountain,
+% جزان, Sīsajān, Nashwā, a city at the mountain between the two gates, Bardhaʿa, Rafsā at the mountain and the gate of
+% the Khazar, Khwārizm, al-Khazar, Nawākath, two entries that are the word «مدينة» alone, Dirsāq, the city of Yājūj and
+% the city of Mājūj; the folio of the manuscript, «(fol. 8ᵇ)», in the margin. Three lines of the editor's footnotes.
+@r (٤٥٩) | [٤١٩] | ماطنڡا مع الجبل | س⟨ح | ك⟩{n:a} | ⟨مٮ | ل⟩{n:a}
+@m (fol. 8ᵇ)
+@r (٤٦٠) | [٤٢١] | روران مع الجبل | سط | له | ما | كه
+@r (٤٦١) | [٤٢٠] | جزان{n:b} | عا | {z} | مد | {z}
+@r (٤٦٢) | [٤٢٢] | سيسجان{n:c} | عا | {z} | ما | كه
+@r (٤٦٣) | [٤٢٣] | نشوى{n:d} | عد | كه | ما | له
+@r (٤٦٤) | [٤٢٦] | مدينة مع الجبل بين البابين | عٮ | م | مد | ن
+@r (٤٦٥) | [٣٩٠] | برذعة{n:e} | عح | {z} | مح | {z}
+@r (٤٦٦) | [٤٢٥] | رفسا{n:f} مع الجبل وباب الخزر | عج | ن | مه | له
+@r (٤٦٧) | [٤٢٧] | خوارزم | صا | ن | مٮ | ى
+@r (٤٦٨) | [٤٢٨] | الخزر | صح | {z} | مه | {z}
+@r (٤٦٩) | [٤٢٩] | نواكث{n:g} | ڡد | {z} | مد | {z}
+@r (٤٧٠) | [٤٣٠] | مدينة | ڡى | {z} | مد | مه
+@r (٤٧١) | [٤٣١] | مدينة | ڡٮ | مه | مٮ | {z}
+@r (٤٧٢) | [٤٣٢] | درساق | ڡا | ل | مٮ | {z}
+@r (٤٧٣) | [٤٣٣] | مدينة ياجوج | ڡع | كه | مج | له
+@r (٤٧٤) | | مدينة ماجوج | ڡعا | {z} | مه | {z}
+@ednotes a b c d e f g 3
+@obs The table goes on from frame 037 without a heading: the cities of the sixth clime, entries 459-474. Entry 474 has no number of Suhrāb; the others have [٤١٩], [٤٢١], [٤٢٠], [٤٢٢], [٤٢٣], [٤٢٦], [٣٩٠], [٤٢٥] (entries 459-466) and [٤٢٧]-[٤٣٣] (entries 467-473); [٤٢٤] stands at entry 444 (frame 036). Entries 464, 473 and 474 begin with the word «مدينة»; entries 470 and 471 are the word alone. The folio of the Strasbourg manuscript, «(fol. 8ᵇ)», is printed in Latin type in the right margin beside entry 460 (L02).
+@obs L01: the coordinates of entry 459 are printed «س⟨ح ك⟩» and «⟨مٮ ل⟩», each followed by the note mark a: the editor supplies the second letter of the degrees and the minutes of the longitude, and the whole latitude, from S, where the manuscript has a gap (note a). The opening bracket of the longitude stands between the س and the ح of the degrees, the س outside it. Transcribed with the brackets where they stand.
+@obs L01: «ماطنڡا»: after «ما», a ط, a low tooth with a dot above it, the ن, and a loop without dots joined to the final alif; transcribed ماطنڡا.
+@obs L05: «نشوى» ends in a ى without dots.
+@obs Letters printed without their dots in the numerals, transcribed so: مٮ (L01, L09, L13, L14, the degrees of the latitude), the م and a final ب without its dot, 42; عٮ (L06, the degrees of the longitude), 72; the loop of ف or ق without dots in the degrees of the longitude, ڡد (L11), ڡى (L12), ڡٮ (L13, the ب without its dot), ڡا (L14), ڡع (L15) and ڡعا (L16), the loop joined to a medial ع and a final alif. With their dots: عج (L08) and مج (L15), the ج with its dot in the bowl; ن (L06, the minutes of the latitude; L08, L09, the minutes of the longitude).
+@obs The degrees printed with a final ح, the ح of «س⟨ح» (L01), عح (L07) and صح (L10), and مح (L07, the degrees of the latitude), show no dot in the bowl; the same form is a ج without its dot, 3, which the print gives with its dot in عج (L08) and مج (L15). Transcribed as printed.
+@obs The isolated ك, 20, is printed with the small inner stroke of the letter (L01, the minutes of the longitude).
+@obs Specks, not transcribed: L06, a speck between the minutes and the degrees of the longitude; L12, two faint specks above the degrees of the longitude, «ڡى»; L14, a speck, 4 by 4 px, beside the foot of the ل of the minutes of the longitude, where the dots of the font are some 9 px across.
+@obs The page number «— ٣٢ —» stands at the foot, centred.
+@copy Faint wavy grey hairlines, fibres on the paper: L07, between the columns of the latitude; L08, below «الجبل».
+@variant L01: the manuscript has a gap in the coordinates; the editor supplies them from S.
+@variant L03: the manuscript reads حرران, without dots; at entry (2120) the name is written جزران, with the variant reading جرجان.
+@variant L04: the manuscript reads سجستان.
+@variant L05: the manuscript reads فشوى.
+@variant L07: the manuscript reads ٮرذعه, without the dot of the ب and with a final ه; at entry (2120) the name is written ٮردعه, without dots.
+@variant L08: at entry (2120) the name is written باسيا.
+@variant L11: the manuscript reads ٮواكث, without the dot of the ن.

@@ -1,0 +1,254 @@
+{
+ "anchor": "AK01-F112",
+ "frame": 112,
+ "frame_file": "page_112.jpg",
+ "frame_sha256": "005777a1e4073b642555aeb85fde0728b096ad3b66339fca69fce4d38a1dde8c",
+ "printed_page": "٩٦",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 112, printed p. 96: the problem of frame 111 concluded: the master's property four hundred, its third, a hundred and thirty-three and a third, shared in halves, sixty-six and two thirds to each: the slave partly paid works off thirty-three and a third of the hundred that remains of his value, the other two hundred and thirty-three and a third. Then two slaves worth three hundred and five hundred; the first dies leaving four hundred and a daughter, the master a son: the bequests a thing and a thing and two thirds; the master's heirs have eight hundred and fifty less two things and a sixth, twice the two bequests: the thing a hundred and thirteen and a third, the second bequest a hundred and eighty-eight and eight ninths, his work-off three hundred and eleven and a ninth. Then, under «فان أعتق» in bold, two slaves worth three hundred each, one dying with five hundred and a daughter, begun, continued on the next page. The values check exactly. No footnote on this page.",
+ "lines": [
+  {
+   "id": "AK01-F112-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "وثلاثون درهما وثلث درهم لكل واحد منهما ستةوستون درهما وثلثا درهم فيسعى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "الذى تعجل منه ثلثى قيمته فى ثلاثة وثلاثين درهما وثلث لأن له من المائة ستة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وستين درهما وثلثى درهم وصية ويسعى فيما بقى من المائة ويسعى الآخر فى مائتين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "وثلاثة وثلاثين درهما وثلث . فان أعتق عبدين له فى مرضه قيمة أحدهما ثلثمائة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "درهم وقيمة الآخر خمسمائة درهم فمات الذى قيمته ثلثمائة درهم وترك بنتا وترك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "السيد ابنا وترك العبد أربعمائة درهم فى كم يسعى كل واحد منهما . فقياسه أن تجعل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "وصية العبد الذى قيمته ثلثمائة درهم شيئا وسعايته ثلثمائة غير شىء وتجعل وصية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "العبد الذى قيمته خمسمائة درهم شيئا وثلثى شىء وسعايته خمسمائة درهم غير شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "وثلثى شىء لأن قيمته مثل قيمة الأول ومثل ثلثيها فاذا كان لذلك شىء كان لهذا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "مثله ومثل ثلثيه فمات الذى قيمته ثلثمائة درهم وترك أربعمائة درهم يؤدى من ذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "السعاية ثلثمائة غير شىء فيبقى فى أيدى ورثته مائة درهم وشىء النصف من ذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "لابنته وهو خمسون درهما ونصف شىء وما بقى لورثة السيد وهو خمسون درهما",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "ونصف شىء مضاف الى ثلثمائة غير شىء فتكون ثلثمائة وخمسين غير نصف شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "ويأخذون من الآخر سعايته وهو خمسمائة درهم غير شىء وثلثى شىء فيصير",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "فى أيديهم ثمانمائة وخمسون درهما غير شيئين وسدس شىء وهو مثلا الوصيتين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "جميعا اللتين هما شيئان وثلثا شىء فاجبر ذلك فيكون ثمانمائة وخمسين درهما",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "تعدل سبعة أشياء ونصفا فقابل به فيكون الشىء الواحد يعدل مائة وثلاثة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "عشر درهما وثلث درهم وذلك وصية العبد الذى قيمته ثلثمائة درهم ووصية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "العبد الآخر مثل ذلك ومثل ثلثيه وذلك مائة وثمانية وثمانون درهما وثمانية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "أتساع درهم وسعايته ثلثمائة وأحد عشر درهما وتسع درهم . {b:فان أعتق} عبدين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فان أعتق"
+   ]
+  },
+  {
+   "id": "AK01-F112-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "له فى مرضه قيمة كل واحد منهما ثلثمائة درهم ثم مات أحدهما وترك خمسمائةدرهم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F112-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "وترك بنتاً وترك السيد ابناً . فقياسه أن تجعل وصية كل واحد منهما شيئاً وسعايته",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L01: «وثلاثون درهما وثلث درهم» (L01) goes on from the last words of frame 111, «وهو مائة درهم وثلاثة» (frame 111, L22): the third of the master's four hundred, a hundred and thirty-three and a third, shared in halves.",
+  "L20: the words فان أعتق (L20), the run-in heading of the next problem, are printed in a bold face, after a full stop; عبدين, which follows, is in the face of the text. The problems before it on this page and on frames 109-111 begin «فان» in the face of the text (L04). The bold ن is printed without its dot; transcribed ن.",
+  "Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): ستةوستون (L01; 5 between the ة and the conjunction و, where ثلاثة وثلاثين in L04 has 17); خمسمائةدرهم (L21; 7 between the ة and the د, where خمسمائة درهم in L05 and L14 has 19 and أربعمائة درهم in L06 and L10 17 and 18).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: درهما وثلثا (L01; 19 between the alif and the conjunction و) and درهما وثلث (L01; 18), as ثلثا وخمس on frame 098, 19, where the alif stands 9 to 13 px from a conjunction و set without a space, and درهما وثلث in L04 has 26; وصية ويسعى (L03; 15 between the ة and the conjunction و), وثمانية وثمانون (L19; 16) and ثلثمائة وأحد (L20; 17), at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one; in doubt, the space is written.",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: وثلث درهم, لكل واحد, وستون درهما (L01), وستين درهما, وثلثى درهم, فى مائتين (L03), له فى (L04, L21), درهم وترك, وترك العبد (L05, L06), يسعى كل, كل واحد (L06), وتجعل وصية (L07), يؤدى من (L10), لورثة السيد (L12; 19 between the ة and the alif), كل واحد (L21, L22), فقياسه أن (L22).",
+  "The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after وثلث, before فان (L04; 28 and 27), after منهما, before فقياسه (L06; 26 and 22), after درهم, before the bold فان (L20; 30 and 28), and after ابناً, before فقياسه (L22; 36 and 21).",
+  "Plain alif where a hamza might be expected, as printed: ابنا (L06), فاذا (L09), الى (L13), فاجبر (L16), ابناً (L22); with hamza: لأن (L02, L09), أعتق, أحدهما (L04), أربعمائة, أن (L06), الأول (L09), أربعمائة (L10), أيدى (L11), ويأخذون (L14), أيديهم (L15), أشياء (L17), أتساع, وأحد, the bold أعتق (L20), أحدهما (L21), أن (L22); on و: يؤدى (L10); with madda: الآخر (L03, L05, L14, L19); on ي: المائة (L02, L03), مائتين (L03), ثلثمائة (L04, L05, L07, L10, L11, L18, L21; L07, twice; L13, twice), خمسمائة (L05, L08, L14; L08, twice), أربعمائة (L06, L10), مائة (L11, L17, L19), ثمانمائة (L15, L16), خمسمائةدرهم (L21), شيئا (L07, L08), شيئين (L15), شيئان (L16), شيئاً (L22); the hamza on the line: شىء (L07; L08, twice; L09, twice; L11, L12, L13; L14, twice; L15, L16), وشىء (L11), أشياء, الشىء (L17).",
+  "With tanwīn on the final alif: بنتاً, ابناً, شيئاً (L22); without tanwīn as printed: درهما (L01, L02, L03, L04, L12, L15, L16, L18, L19, L20; L01, twice; L12, twice), بنتا (L05), ابنا (L06), شيئا (L07, L08), جميعا (L16), ونصفا (L17).",
+  "L01, L15, L16: «وثلثا درهم» (L01), «مثلا الوصيتين» (L15) and «وثلثا شىء» (L16), as printed: the dual without its ن before the noun that follows it, as on frames 094-111.",
+  "The final yā' is printed without dots: فيسعى (L01), الذى, ثلثى, فى (L02), وثلثى, ويسعى, بقى, فى (L03, ويسعى twice), فى (L04), الذى (L05), فى, يسعى (L06), الذى (L07, L08), وثلثى (L08, L09, L14), الذى (L10), يؤدى (L10), فيبقى, فى, أيدى (L11), بقى (L12), الى (L13), فى (L15), الذى (L18), فى (L21).",
+  "The print stretches لكل (L01, between the ل and the ك), عبدين (L04, between the ب and the د), لهذا (L09, between the ه and the ذ), فتكون (L13, between the ت and the ك), فيصير (L14, between the ص and the ي), فيكون and وخمسين (L16, between the ي and the ك and between the س and the ي), فيكون and الواحد (L17, between the ي and the ك and between the ح and the د), ووصية (L18, between the ي and the ة) and وثمانية (L19, the second, between the ي and the ة) with the elongation stroke; the stroke is not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

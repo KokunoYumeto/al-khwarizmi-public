@@ -1,0 +1,4 @@
+@page 140 [108]
+@kind blank
+% JP2 0140: the back of the part title, p. [108]; nothing printed.
+@obs Blank. The word «TAFELN» of p. [107] shows through the leaf, mirrored; damp stains run down from the top; small specks.

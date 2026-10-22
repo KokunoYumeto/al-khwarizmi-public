@@ -1,0 +1,253 @@
+{
+ "anchor": "AK05-F110",
+ "frame": 110,
+ "frame_file": "page_110.jpg",
+ "frame_sha256": "8195862148af88545e1be5388f80cba7340ea1d3179db05298bdac6045add04d",
+ "printed_page": "١٠٤",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 110, printed p. 104: the places in which the boundaries of the countries are written, continued: Asia, Galatia, Cappadocia, Ādharbayjān, al-Shāsh and طاربند, Yājūj, ڡطانيا, لورٮوسه, اطا, Illyricum and Dalmatia, سوسه and ڡلطاعلاطيه. The editor's running numbers (١٥٨١)-(١٥٩٢) and the numbers of Suhrāb [٥٣٠]-[٥٤٠]; the folio of the manuscript, «(fol. 29ᵃ)», within the line; letters supplied by the editor between angle brackets. The footnotes end the editor's note m of p. 103 in three lines and give notes a-r in six.",
+ "lines": [
+  {
+   "id": "AK05-F110-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "بلاد اسيه وسطها عند طول {ov:نب ل}{n:a} والعرض {ov:مج ل} (١٥٨١) [٥٣٠] * بلاد علاطيه{n:b}",
+   "margin": null,
+   "cells": null,
+   "plain": "بلاد اسيه وسطها عند طول نب ل والعرض مج ل (١٥٨١) [٥٣٠] * بلاد علاطيه",
+   "note_marks": [
+    "a",
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F110-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "وسطها عند طول {ov:نو ل} والعرض {ov:مح {z}} (١٥٨٢) [٥٣١] * بلاد قبادوقيه{n:c} وسطها",
+   "margin": null,
+   "cells": null,
+   "plain": "وسطها عند طول نو ل والعرض مح ō (١٥٨٢) [٥٣١] * بلاد قبادوقيه وسطها",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F110-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "عند طول {ov:ٮو ل} والعرض {ov:⟨م⟩ا{n:d} {z}}{n:e} (١٥٨٣) [٥٣٢] * بلاد آذربيجان{n:f} وسطها عند",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول ٮو ل والعرض ⟨م⟩ا ō (١٥٨٣) [٥٣٢] * بلاد آذربيجان وسطها عند",
+   "note_marks": [
+    "d",
+    "e",
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F110-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "طول {ov:⟨ع⟩{n:g}ج م} والعرض {ov:ما ل} (١٥٨٤) [٥٣٣] * بلاد ⟨الش⟩اش{n:h} وطاربند{n:i}",
+   "margin": "(fol. 29ᵃ)",
+   "cells": null,
+   "plain": "طول ⟨ع⟩ج م والعرض ما ل (١٥٨٤) [٥٣٣] * بلاد ⟨الش⟩اش وطاربند",
+   "note_marks": [
+    "g",
+    "h",
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F110-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "وسطها عند طول {ov:صح {z}}{n:k} والعرض {ov:مٮ {z}} (١٥٨٥) [٥٣٤] * بلاد ياجوج وسطها",
+   "margin": null,
+   "cells": null,
+   "plain": "وسطها عند طول صح ō والعرض مٮ ō (١٥٨٥) [٥٣٤] * بلاد ياجوج وسطها",
+   "note_marks": [
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F110-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "عند طول {ov:ڡسر ل} والعرض {ov:مد {z}}{n:l} (١٥٨٦) [٥٣٥] * بلاد ڡطانيا وسطها عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول ڡسر ل والعرض مد ō (١٥٨٦) [٥٣٥] * بلاد ڡطانيا وسطها عند طول",
+   "note_marks": [
+    "l"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F110-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "{ov:ك ل} والعرض {ov:مو ى} (١٥٨٧) [٥٣٦] * بلاد لورٮوسه{n:m} وسطها عند طول {ov:كٮ م}{n:n}",
+   "margin": null,
+   "cells": null,
+   "plain": "ك ل والعرض مو ى (١٥٨٧) [٥٣٦] * بلاد لورٮوسه وسطها عند طول كٮ م",
+   "note_marks": [
+    "m",
+    "n"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F110-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "والعرض {ov:مو م} (١٥٨٨) [٥٣٧] * بلاد اطا وسطها عند طول {ov:لا ى} والعرض {ov:مه ى}",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض مو م (١٥٨٨) [٥٣٧] * بلاد اطا وسطها عند طول لا ى والعرض مه ى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F110-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "(١٥٨٩) [٥٣٨] * بلاد يلورقيون واماطيه وسطها عند طول {ov:مٮ {z}}{n:o} والعرض {ov:مه ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٥٨٩) [٥٣٨] * بلاد يلورقيون واماطيه وسطها عند طول مٮ ō والعرض مه ل",
+   "note_marks": [
+    "o"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F110-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "(١٥٩٠) [٥٣٩] * بلاد سوسه وسطها عنا طول {ov:نب ك} والعرض {ov:مه {z}}{n:p} (١٥٩١)",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٥٩٠) [٥٣٩] * بلاد سوسه وسطها عنا طول نب ك والعرض مه ō (١٥٩١)",
+   "note_marks": [
+    "p"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F110-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "[٥٤٠] * بلاد ڡلطاعلاطيه وسطها عند طول {ov:كو ل}{n:q} والعرض {ov:مط ں}{n:r} (١٥٩٢)",
+   "margin": null,
+   "cells": null,
+   "plain": "[٥٤٠] * بلاد ڡلطاعلاطيه وسطها عند طول كو ل والعرض مط ں (١٥٩٢)",
+   "note_marks": [
+    "q",
+    "r"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "m"
+   ],
+   "lines": 3,
+   "continued": true
+  },
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q",
+    "r"
+   ],
+   "lines": 6,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "p. 103 (frame 109), L12: the end of the editor's note m: further references to the indexes of BGA VII and VIII and to Yāqūt, vol. II, p. 863; and the forms of the name in al-Hamdānī: ٮراقا, with a tooth without a dot, براقا, بروه, روه and برقه, which his index lists under تراقا and ترقة, and تراقيه, pp. 34, 35 and 43.",
+  "L01: the manuscript has, by mistake, يب ل for the longitude, with a line over the numerals (note a).",
+  "L01: a variant reading of the name is رعلاطيه (note b).",
+  "L02: a variant reading of the name is رڡادوقه, with a loop without dots (note c).",
+  "L03: the manuscript is damaged at the bracketed م of the latitude (note d).",
+  "L03: a variant reading of the latitude is ⟨م⟩ا ه, with a line over the numerals (note e).",
+  "L03: the editor compares entry (377) (note f).",
+  "L04: the manuscript has a gap at the ع of the longitude; the editor supplies it after S (note g).",
+  "L04: the manuscript has a gap and then اس, without the dots of the ش (note h).",
+  "L04: the manuscript has طاربند; the editor compares entry (402) (note i).",
+  "L05: a variant reading of the longitude is صح ه, with a line over the numerals (note k).",
+  "L06: a variant reading of the latitude is مد ه, with a line over the numerals (note l).",
+  "L07: a variant reading of the name is لوزٮوسه, with the dot of the ز and a tooth without a dot (note m).",
+  "L07: a variant reading of the longitude is ك م, with a line over the numerals (note n).",
+  "L09: a variant reading of the longitude is مٮ ه, with a line over the numerals (note o).",
+  "L10: a variant reading of the latitude is مه ه, with a line over the numerals (note p).",
+  "L11: a variant reading of the longitude is كوك, with a line over it; the editor suggests that it may be read ك ل, with a line over the numerals (note q).",
+  "L11: a variant reading of the latitude is مط ى, with a line over the numerals (note r)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The frame is the first of the second frame archive, frames 110-218. The text runs on from p. 103 (frame 109) without a gap: p. 103 ends with entry (١٥٨٠) [٥٢٩] and its star, and L01 begins entry (١٥٨١) [٥٣٠]; the end of the editor's note m of p. 103 stands at the top of the footnotes of this page.",
+  "The places in which the boundaries of the countries are written go on, each country with the longitude and latitude of its middle, «وسطها عند طول … والعرض …», with the degrees and the minutes written with letters under one line, transcribed with {ov:…}: «بلاد اسيه» (L01), Asia; «بلاد علاطيه» (L01-L02), Galatia; «بلاد قبادوقيه» (L02-L03), Cappadocia; «بلاد آذربيجان» (L03-L04), Ādharbayjān; «بلاد ⟨الش⟩اش وطاربند» (L04-L05), al-Shāsh and طاربند; «بلاد ياجوج» (L05-L06), Yājūj; «بلاد ڡطانيا» (L06-L07); «بلاد لورٮوسه» (L07-L08); «بلاد اطا» (L08-L09); «بلاد يلورقيون واماطيه» (L09), Illyricum and Dalmatia; «بلاد سوسه» (L10); and «بلاد ڡلطاعلاطيه» (L11), whose number of Suhrāb follows on p. 105. Each country ends with a small open star with six points, transcribed as an asterisk, before the next «بلاد».",
+  "The running numbers run (١٥٨١)-(١٥٩٢) and the numbers of Suhrāb [٥٣٠]-[٥٤٠], each after its running number, without a gap; (١٥٨٩) and (١٥٩٠) stand at the beginning of L09 and L10, after the latitudes that end L08 and L09, and [٥٤٠] at the beginning of L11. L04: the folio of the Strasbourg manuscript, «(fol. 29ᵃ)», is printed in Latin type within the line, between the star after [٥٣٣] and «بلاد»; transcribed as a margin note before the line.",
+  "Angle brackets, each followed by a note mark: L03, the degrees of the latitude, «⟨م⟩ا», the م supplied where the manuscript is damaged (note d); the line over the numerals runs over the bracketed م, the alif, the note mark d and the zero; L04, the degrees of the longitude, «⟨ع⟩ج», the ع supplied after S in a gap of the manuscript (note g), the mark g standing between the closing bracket and the ج, under the line; L04, «⟨الش⟩اش», al-Shāsh, the letters ال and the ش supplied in a gap of the manuscript (note h). Transcribed with the brackets.",
+  "Names: «آذربيجان» (L03) with a madda over the alif; «علاطيه», «قبادوقيه», «طاربند», «ياجوج», «يلورقيون», «واماطيه» and «اسيه» with all their dots. Without dots, transcribed so: «ڡطانيا» (L06) and «ڡلطاعلاطيه» (L11), the first letter a loop of ف or ق without dots; «لورٮوسه» (L07), a single tooth without a dot between the ر and the و, the name the editor's note m gives with a ز, «لوزٮوسه».",
+  "Numerals: «نب» (L01, L10), with the dot of the ن above and that of the ب below, 52; «مج» (L01), with the dot of the ج, 43; «نو» (L02), with the dot of the ن, 56; L03, «ٮو», the same form without a dot over the tooth, which read with a ن gives 56 and read with a ي 16; «ج» of «⟨ع⟩ج» (L04), with its dot; «مٮ» (L05, the degrees of the latitude; L09, the degrees of the longitude), the flat final bowl of a ب without its dot, 42; «ڡسر» (L06), the loop of ف or ق without dots, a س and a ر, which read with ق and with ر read as ز gives 167; «كٮ» (L07, the degrees of the longitude), a ك joined to the flat final bowl of a ب without its dot, 22; «ں» (L11, the minutes of the latitude), the bowl of a final ن without its dot, 50. L07: the line over «كٮ م» is printed in two pieces, and the oblique upper stroke of the ك reaches 26 px beyond its right end.",
+  "In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: «ڡسر» (L06).",
+  "The ح of the numerals, «مح» (L02) and «صح» (L05), shows no dot in the bowl; the same form is a ج without its dot, 3, which L01 and L04 print with its dot. Transcribed as printed. The isolated ى, 10, has no dots (L07, L08, twice). The isolated ك, 20, is printed with the small inner stroke of the letter (L07, L10).",
+  "L10: the word before the longitude of entry 1591 is printed «عنا»: its last letter is a vertical stroke, 32 px high, rising from the joining stroke without the foot that the د of «عند» has at the left (L02); see the critical note.",
+  "Note marks: L01, a after the longitude and b after «علاطيه»; L02, c after «قبادوقيه»; L03, d within the line over the latitude, after the alif, and e after the latitude; L03, f after «آذربيجان»; L04, g within the line over the longitude, after the closing bracket, h after «⟨الش⟩اش» and i after «وطاربند»; L05, k after the longitude; L06, l after the latitude; L07, m after «لورٮوسه» and n after the longitude; L09, o after the longitude; L10, p after the latitude; L11, q after the longitude and r after the latitude.",
+  "Marks not transcribed: L10, a thin broken line in the ink of the print: two short dashes below «بلاد», and a slanting row of dashes from below «عنا» down to the left below «طول», ending in a stroke of 46 by 10 px that stands just above the line over the longitude «كو ل» of L11; it is no part of the letters or of the lines over the numerals.",
+  "The editor's footnotes stand below a short rule at the left, in nine lines: three that end note m of p. 103 (frame 109, L12), and six with notes a-r of this page. The page number «— ١٠٤ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK05-CN008",
+   "class": "damaged or wrong sort",
+   "line": "L10",
+   "printed": "عنا",
+   "proposed": "عند",
+   "evidence": "the word between «وسطها» and «طول» of entry 1591 ends in a vertical stroke without the foot of the د, so that it reads «عنا», which gives no sense there; every other entry of the section has «وسطها عند طول», and the د of «عند» in L02 has its foot",
+   "confidence": "high",
+   "impact": "none: the coordinates read the same"
+  }
+ ]
+}

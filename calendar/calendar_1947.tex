@@ -1,0 +1,240 @@
+\documentclass[11pt]{article}
+\usepackage[a4paper,left=26mm,right=30mm,top=22mm,bottom=22mm]{geometry}
+\usepackage{fontspec,needspace,xcolor}
+\usepackage[unicode,hidelinks]{hyperref}
+\usepackage{polyglossia}
+\setmainlanguage{english}
+\setotherlanguages{arabic}
+\setmainfont{Linux Libertine O}[Ligatures=TeX]
+\newfontfamily\arabicfont{Amiri}[Script=Arabic]
+\newfontfamily\ArBody{Amiri}[Script=Arabic,Scale=1.1,BoldFont={Amiri Bold}]
+\newfontfamily\ArHead{Amiri}[Script=Arabic,Scale=1.3,BoldFont={Amiri Bold}]
+\hypersetup{pdftitle={al-Khwarizmi, On the Jewish calendar, Hyderabad edition (1947): the printed text, line by line},pdfauthor={Muhammad ibn Musa al-Khwarizmi}}
+\setlength{\parindent}{0pt}\setlength{\parskip}{0pt}
+\tracinglostchars=2
+\newcommand{\PageHead}[4]{\par\bigskip\penalty-300\pdfbookmark[1]{PDF #1 (#2)}{pg-#1}\hypertarget{AK15-P#3}{}%
+ {\large\bfseries #4}\enspace{\footnotesize\color{gray}PDF page #1}\par\smallskip}
+\newcommand{\ArStrut}{\vrule height 1.05em depth 0.45em width 0pt}
+\newcommand{\EdL}[3]{\par\noindent\hypertarget{#2}{}\llap{\footnotesize\color{gray}#1\hspace{4mm}}\parbox[t]{\linewidth}{\setRTL\ArBody\raggedleft\ArStrut #3\par}\par}
+\newcommand{\EdLp}[3]{\EdL{#1}{#2}{\hspace*{8mm}#3}}
+\newcommand{\EdLc}[3]{\par\noindent\hypertarget{#2}{}\llap{\footnotesize\color{gray}#1\hspace{4mm}}\parbox[t]{\linewidth}{\setRTL\ArBody\centering\ArStrut #3\par}\par}
+\newcommand{\EdLh}[3]{\par\noindent\hypertarget{#2}{}\llap{\footnotesize\color{gray}#1\hspace{4mm}}\parbox[t]{\linewidth}{\setRTL\ArHead\centering\bfseries #3\par}\par\smallskip}
+\newcommand{\EdLn}[3]{\par\noindent\hypertarget{#2}{}\llap{\footnotesize\color{gray}#1\hspace{4mm}}\parbox[t]{\linewidth}{\setRTL\ArBody\small\raggedleft #3\par}\par}
+\newcommand{\Fr}[2]{\begin{tabular}[c]{@{}c@{}}#1\\[-2pt]\hline #2\end{tabular}}
+\newcommand{\Withheld}[1]{\par\smallskip{\small\color{gray}[#1]}\par}
+\begin{document}
+
+\thispagestyle{empty}
+\begin{center}\Large AL-KHWĀRIZMĪ\par\vspace{4mm}\LARGE On the Jewish calendar\par\vspace{4mm}{\ArHead\RL{مقالة فى استخراج تاريخ اليهود واعيادهم}}\par\vspace{5mm}\normalsize in the edition of Hyderabad (Maṭbaʿat Jamʿiyyat Dāʾirat al-Maʿārif al-ʿUthmāniyya, 1366\,H / 1947), the first of the eleven treatises of \emph{al-Rasāʾil al-mutafarriqa fī al-hayʾa} (1367\,H / 1948)\par\vspace{3mm}the scan of Arabic Wikisource, PDF pages 1–10\par\vspace{4mm}\large the printed text, line by line\end{center}\vspace{6mm}
+\noindent Every printed line of the edition is one line here, page by page, with its number in the margin and its anchor AK15-P\#\#\#-L\#\# (PDF page, line); the lines of the edition’s footnotes have the anchors AK15-P\#\#\#-N\#\#. The text is transcribed as printed: the spelling of the edition, with the final \RL{\ArBody ى} without dots where it is so printed, the hamza only where it is printed, and every numeral in the form the edition prints, Arabic-Indic digits and the letters of the abjad. The running heads, the page numbers and the catchwords are recorded in the page records. The edition’s spacing after letters that do not join the next is irregular: the white inside a word can be as wide as a word space; the words are divided by the sense, and the page records note where the print suggests another division.
+\par\smallskip\noindent The treatise survives in one manuscript, made in Mosul in 632\,H (1234), now in the Khuda Bakhsh Library at Patna, which is not part of this work. The printed text is known to keep the errors of that copy and to add new ones, above all in the numerals. This transcription keeps the print; the critical notes at the end, which are not part of the transcription, propose corrections where the arithmetic of the calendar, or the text itself, shows the print to be wrong.
+\par\smallskip\noindent The text is in the public domain, and this transcription is dedicated to the public domain (CC0 1.0). It is AI-integrated work (Claude); no person has proofread it. This file holds 143 lines from 10 PDF pages.\par\clearpage
+\PageHead{1}{title page}{001}{title page}
+\EdLh{1}{AK15-P001-L01}{الرسائل المتفرقة فى الهيئة}
+\EdLc{2}{AK15-P001-L02}{للمتقدمين ومعاصرى البيرونى}
+\EdLc{3}{AK15-P001-L03}{( وهى احدى عشر رسائل )}
+\EdL{4}{AK15-P001-L04}{\mbox{١ ـ استخراج تاريخ اليهود للحوارزمى}\hfill\mbox{٢ ـ تخطيط الساعات للنيريزى}}
+\EdL{5}{AK15-P001-L05}{\mbox{٣ ـ استخراج تاريخ اليهود للقاينى}\hfill\mbox{٤ ـ استخراج الساعات للقابنى}}
+\EdL{6}{AK15-P001-L06}{\mbox{٥ ـ اقامة البرهان على الدائرة للبوزجانى}\hfill\mbox{٦ ـ مساحة المجسم المكاف لويجن القوهى}}
+\EdL{7}{AK15-P001-L07}{\mbox{٧ ـ كيفية تسطيح الكرة لاحمد الصغانى}\hfill\mbox{٨ ـ اشكال الدائرة لنصر بن عبدالله}}
+\EdL{8}{AK15-P001-L08}{\mbox{٩ ـ المقادير المشتركة لابن البغدادى}\hfill\mbox{١٠ ـ الشكل القطاع لاحمد السجزى}}
+\EdLc{9}{AK15-P001-L09}{١١ ـ الابعاد والاجرام لكوشيار الجيلى}
+\EdLh{10}{AK15-P001-L10}{الطبعة الاولى}
+\EdLc{11}{AK15-P001-L11}{بمطبعة جمعية دائرة المعارف العثمانية}
+\EdLc{12}{AK15-P001-L12}{حيدرآباد الدكن ( الهند )}
+\EdLc{13}{AK15-P001-L13}{سنة \Fr{١٣٦٧ هـ}{١٩٤٨ م}}
+\EdLc{14}{AK15-P001-L14}{تعداد الطبع \Fr{٥٠٠}{١٣٥٧ ف}}
+\PageHead{2}{title page}{002}{title page}
+\EdLh{1}{AK15-P002-L01}{مقالة}
+\EdLc{2}{AK15-P002-L02}{فى استخراج تاريخ اليهود واعيادهم}
+\EdLc{3}{AK15-P002-L03}{تاليف ابى جعفر محمد بن موسى}
+\EdLc{4}{AK15-P002-L04}{الخوارزمى رحمه الله تعالى}
+\EdLh{5}{AK15-P002-L05}{الطبعة الاولى}
+\EdLc{6}{AK15-P002-L06}{بمطبعة جمعية دائرة المعارف العثمانية}
+\EdLc{7}{AK15-P002-L07}{بعاصمة الدولة الآصفية الاسلامية}
+\EdLc{8}{AK15-P002-L08}{حيدرآباد الدكن}
+\EdLc{9}{AK15-P002-L09}{لازالت شموس افاداتها بازغة وبدور}
+\EdLc{10}{AK15-P002-L10}{افاضاتها طالعة الى آخر الزمن}
+\EdLc{11}{AK15-P002-L11}{سنة \Fr{١٣٦٦ هـ}{١٩٤٧ م}}
+\EdLc{12}{AK15-P002-L12}{تعدا. الطبع \Fr{٥٠٠}{١٣٥٦ ف}}
+\PageHead{3}{p. ٢}{003}{p. \RL{\ArBody ٢}}
+\EdLc{1}{AK15-P003-L01}{بسم الله الرحمن الرحيم}
+\EdL{2}{AK15-P003-L02}{ان العاقل حقيق ان تكون عنايته مصروفة فيما يستصلح به مفترض}
+\EdL{3}{AK15-P003-L03}{دينه ويحيي به سنن الصالحين من سلفه فاذا فعل ذلك توكل الله}
+\EdL{4}{AK15-P003-L04}{له بالكفاية وايده بالمؤونة واتاه اجر الدارين الدنيا والآخرة •}
+\EdLp{5}{AK15-P003-L05}{ان الله تبارك وتعالى قال فى التوراة فى السفر الاول لكن}
+\EdL{6}{AK15-P003-L06}{الصبا فى ربيع فصلا بين الليل والنهار ودليلا على الاوقات والايام}
+\EdL{7}{AK15-P003-L07}{والسنين ثم امر الله تعالى موسى عليه السلام فى السفر الخامس}
+\EdL{8}{AK15-P003-L08}{الموكد لما قبله من الاسفار ان يحتفظ بشهر الاوراد وهو شهر نيسن}
+\EdL{9}{AK15-P003-L09}{الذى يتجدد فيه الشهر ويورق فيه الشجر وتتشقق الارض عن}
+\EdL{10}{AK15-P003-L10}{زهراتها ويدرك فيه الشعير وان يتخذ فى الليلة الخامسة عشرة منه}
+\EdL{11}{AK15-P003-L11}{فسحا لربه بما امتن الله به عليه وعلى بنى اسرائيل فى اخراجهم من}
+\EdL{12}{AK15-P003-L12}{ارض مصر ليلا وان يكون ذلك موافقا لامتلاء القمر وتمام نوره}
+\EdL{13}{AK15-P003-L13}{وجعله رأس الشهور وانزل به الوحى فى السفر الاول ثم امر فى}
+\EdL{14}{AK15-P003-L14}{السفر الثانى ان يحتفظ بهذه الليلة طول الابد مع آى كثيرة من}
+\EdL{15}{AK15-P003-L15}{التورٰة اكد ذلك فيه لما اراد من اختيار بنى اسرائيل وامتحانهم}
+\PageHead{4}{p. ٣}{004}{p. \RL{\ArBody ٣}}
+\EdL{1}{AK15-P004-L01}{وابتلاء طاعتهم فيما جعل لهم السبيل ليجزيهم عما يعملون فلم يكن}
+\EdL{2}{AK15-P004-L02}{لنبى الله عليه السلام بد من اعمال سنة الشمس وسنة القمر ويتبين}
+\EdL{3}{AK15-P004-L03}{حسابهما والصاحة ولغير السنين التى سيأتى على تفسير العمل به فيها}
+\EdL{4}{AK15-P004-L04}{ليكون الفسح فى شهر الاوراد فى ليلة خمس عشرة من نيسان}
+\EdL{5}{AK15-P004-L05}{واربع عشرة ليلة من شهر القمر وذلك مخالف لحساب اليونانين}
+\EdL{6}{AK15-P004-L06}{واهل فارس لاقتصارهم على سنة الشمس وشهورها وموافقة}
+\EdL{7}{AK15-P004-L07}{شهور الاهلة ومخالفتها فامر صلى الله عليه ان يضع حسابا يدل فيه}
+\EdL{8}{AK15-P004-L08}{على مسير الشمس والقمر وعدد ايام كل واحد منهما وفى كم يجتمعان}
+\EdL{9}{AK15-P004-L09}{اذا افترقا من الايام والساعات واجزائهما ومواضع الكواكب}
+\EdL{10}{AK15-P004-L10}{السبعة ورأس السنين لليوم الذى خلق فيه آدم وجعل فى كل تسعة}
+\EdL{11}{AK15-P004-L11}{عشر سنة قمرية زيادة سبعة اشهر وسمى التسعة عشر بزيادتها}
+\EdL{12}{AK15-P004-L12}{المحزور الصغير وتفسيره الدور ويسمى السنة التى تكون فيها زيادة}
+\EdL{13}{AK15-P004-L13}{اشهر من السبعة الاشهر السنة المعبرة وسمى ذلك الشهر الزايد}
+\EdL{14}{AK15-P004-L14}{اذار الاخير لحاجة جماعة بنى اسرائيل الى معرفته ولما فيه من الدلالة}
+\EdL{15}{AK15-P004-L15}{على ايامهم واعيادهم ومداخل رؤس شهورهم وسنى تاريخهم}
+\EdL{16}{AK15-P004-L16}{فضت القرون بعد القرون •}
+\EdLp{17}{AK15-P004-L17}{وذلك محفوظ فى خاص خاصة من بنى اسرائيل ليس لهم}
+\EdL{18}{AK15-P004-L18}{كثير عدد وهو مستغلق على الجمهور الاعظم لاهمالهم النظر فيه}
+\EdL{19}{AK15-P004-L19}{ولقلة عنايتهم واتكالهم على المعرفة من اخبارهم فعملت فى ذلك}
+\PageHead{5}{p. ٤}{005}{p. \RL{\ArBody ٤}}
+\EdL{1}{AK15-P005-L01}{كتابا قريب المأخذ واضح الدلالة لتخف به المؤونة على من}
+\EdL{2}{AK15-P005-L02}{تكلف معرفته وبالله التوفيق •}
+\EdLp{3}{AK15-P005-L03}{فاول ذلك تسمية شهور بنى اسرائيل وعدد ايام كل شهر}
+\EdL{4}{AK15-P005-L04}{فاولها نيسن وهو ـ ٣٠ ـ يوما ـ اير ـ ٢٩ ـ يوما ـ سيوان ـ ٣٠}
+\EdL{5}{AK15-P005-L05}{يوما ـ تمز ـ ٢٩ يوما ـ اوب ـ ٣٠ ـ يوما ـ ايلل ـ ٢٩ يوما}
+\EdL{6}{AK15-P005-L06}{تشرى ـ ٣٠ يوما ـ فاذا كانت السنة تقدير شهر تام وشهر ناقص}
+\EdL{7}{AK15-P005-L07}{فرحشوان ـ ٢٩ ـ يوما ـ وكسليو ـ ٣٠ ـ يوما ـ وطبيث ـ ٢٩}
+\EdL{8}{AK15-P005-L08}{يوما ـ وشباط ـ ٣٠ ـ يوما ـ واذار ـ ٢٩ يوما ، وان زادت السنة}
+\EdL{9}{AK15-P005-L09}{على التقدير يوما ، كان مرحشوان ـ ٣٠ ـ يوما ـ وكسليو ـ ٣٠ ـ}
+\EdL{10}{AK15-P005-L10}{يوما •}
+\EdLp{11}{AK15-P005-L11}{وان كانت السنة ناقصة يوما كان مرحشوان ـ ٢٩ ـ يوما}
+\EdL{12}{AK15-P005-L12}{وكسليو ـ ٢٩ ـ يوما واذا كان السنة معبرة كان اذار الاول ـ ٣٠}
+\EdL{13}{AK15-P005-L13}{يوما وكان اذار الاخير ـ ٢٩ ـ يوما ثم المحزور الاصغر وهو تسع}
+\EdL{14}{AK15-P005-L14}{عشرة سنة قمرية فيها من الزياد سبعة اشهر فالسنة الاولى اذار}
+\EdL{15}{AK15-P005-L15}{السنة الثانية اذار ـ السنة الثالثة اذار ـ السنة الرابعة اذار ـ السنة}
+\EdL{16}{AK15-P005-L16}{الخامسة اذار ـ السنة السادسة اذار ـ السنة السابعة اذار ـ السنة الثامنة}
+\EdL{17}{AK15-P005-L17}{اذار واذار ـ السنة التاسعة اذار ـ السنة العاشرة اذار ـ السنة}
+\EdL{18}{AK15-P005-L18}{الحادية عشر اذار واذار ـ السنة الثانية عشر اذار ـ السنة الثالثة}
+\EdL{19}{AK15-P005-L19}{عشر اذار ـ السنة الرابعة عشر اذار واذار ـ السنة الخامسة عشر اذار}
+\PageHead{6}{p. ٥}{006}{p. \RL{\ArBody ٥}}
+\EdL{1}{AK15-P006-L01}{والسنة السادسة عشر اذار واذار ـ السنة السابعة عشر اذار السنة}
+\EdL{2}{AK15-P006-L02}{الثامنة عشر اذار ـ السنة التاسعة عشر اذار واذار ـ آخر الساعة}
+\EdL{3}{AK15-P006-L03}{من ساعات القمر ـ ١٠٨٠ ـ وشهر القمر من ميلاد الى ميلاد تسعة}
+\EdL{4}{AK15-P006-L04}{وعشرون يوما واثنا عشر ساعة ـ ٧٩٣ ـ جزء •}
+\EdLp{5}{AK15-P006-L05}{واما سنة القمر فاذا كانت اثنا عشر شهرا ثلثمائة واربعة}
+\EdL{6}{AK15-P006-L06}{وخمسون يوما وثمان ساعات ـ ٨٧٦ ـ جزءا واذا كانت ثلاثة عشر}
+\EdL{7}{AK15-P006-L07}{شهرا فايامها ـ ٣٨٣ ـ يوما و ـ ٢١ ـ ساعة و ـ ٤٨٩ ـ جزء}
+\EdL{8}{AK15-P006-L08}{واما المحزور الصغير فهى تسع عشرة سنة معبرة تكون بسنى القمر}
+\EdL{9}{AK15-P006-L09}{تسع عشرة سنة وسبعة اشهر ويكون عدد ايامها ـ ٦٩٣٩ ـ يوما}
+\EdL{10}{AK15-P006-L10}{وست عشرة ساعة و ـ ٤٩٤ ـ جزء كل تشرى سنة فيها عبور لولد}
+\EdL{11}{AK15-P006-L11}{قمره قبل ـ ٤٩١ ـ يمضى من الساعة التاسعة من يوم الجمعة فان رأس}
+\EdL{12}{AK15-P006-L12}{تشرى يوم السبت وتكون مرحشوان وكسليو ناقصين فان لم تكن}
+\EdL{13}{AK15-P006-L13}{فى تلك السنة عبور ولا فى السنة المقبلة وولد القمر قبل ان يمضى ـ}
+\EdL{14}{AK15-P006-L14}{٤٠٨ ـ جزءا من الساعة الاولى من ليلة الجمعة فان رأس تشرى}
+\EdL{15}{AK15-P006-L15}{يوم السبت ويكون مرحشوان وكسليو ناقصين وان ولد القمر بعد}
+\EdL{16}{AK15-P006-L16}{١٠٩ ـ الى حد يوم السبت فان رأس تشرى يوم السبت ويكون}
+\EdL{17}{AK15-P006-L17}{مرحشوان وكسليو تامين فان لم يكن فى السنة عبور وكان فى السنة}
+\EdL{18}{AK15-P006-L18}{المقبلة عبور وولد القمر قبل ـ ٢٠٤ ـ الى حد يوم السبت ويكون}
+\EdL{19}{AK15-P006-L19}{مرحشوان وكسليو تامين وكل تشرى سنة فيها عبور لولد قمره}
+\PageHead{7}{p. ٦}{007}{p. \RL{\ArBody ٦}}
+\EdL{1}{AK15-P007-L01}{قبل ـ ٩٦٠ ـ جزءا يمضى من السنة الحادى عشرة من ليلة الاربعاء}
+\EdL{2}{AK15-P007-L02}{فان رأس تشرى ١١٢٠٠٠٠٠٠٠٠ يوم الخميس ومرحشوان}
+\EdL{3}{AK15-P007-L03}{وكسليو ناقصين فان ولد القمر بعد يمضى من الساعة الحادى عشرة}
+\EdL{4}{AK15-P007-L04}{من ليلة الاربعاء الى حد يوم الخميس فان رأس تشرى يوم الخميس و}
+\EdL{5}{AK15-P007-L05}{مرحشوان وكسليو تامين فان لم يكن فى تلك السنة عبور وولد القمر}
+\EdL{6}{AK15-P007-L06}{قبل ـ ٢٠٤ ـ اجزاء يمضى من الساعة العاشرة من ليلة الخميس فان رأس}
+\EdL{7}{AK15-P007-L07}{تشرى يوم الخميس ويكون مرحشوان وكسليو كالتقدير فان ولد القمر}
+\EdL{8}{AK15-P007-L08}{يعد ٢٠٤ اجزاء من الساعة العاشرة من ليلة الخميس الى حد يوم}
+\EdL{9}{AK15-P007-L09}{الخميس يكون رأس تشرى ويكون مرحشوان وكسليو تامين •}
+\EdL{10}{AK15-P007-L10}{وكل تشرى سنة فيها عبور لولد قمره قبل الساعة السابعة من يوم}
+\EdL{11}{AK15-P007-L11}{الثلاثاء يكون رأس تشرى يوم الثلاثاء ويكون مرحشوان وكسليو}
+\EdL{12}{AK15-P007-L12}{كالتقدير وان لم يكن فى تلك السنة عبور وولد قمره قبل ٢٠٤ ـ يمضى}
+\EdL{13}{AK15-P007-L13}{من الساعة العاشرة من ليلة الثلاثاء فان رأس تشرى يوم الثلاثاء}
+\EdL{14}{AK15-P007-L14}{ومرحشوان وكسليو بالتقدير وان ولد القمر بعد ٢٠٤ اجزاء يمضى}
+\EdL{15}{AK15-P007-L15}{من الساعة من ليلة الثلثاء فان رأس تشرى يوم الخميس ويكون}
+\EdL{16}{AK15-P007-L16}{مرحشوان وكسليو كالتقدير وكل تشرى سنة فيها عبور لولد قمره}
+\EdL{17}{AK15-P007-L17}{قبل ٤٩١ ـ جزءا يمضى من الساعة التاسعة من يوم الاحد يكون رأس}
+\EdL{18}{AK15-P007-L18}{تشرى يوم الاثنين ويكون مرحشوان وكسليو ناقصين فان ولد}
+\EdL{19}{AK15-P007-L19}{القمر بعد ٤٩١ ـ جزءا يمضى من الساعة التاسعة من يوم الاحد الى حد}
+\PageHead{8}{p. ٧}{008}{p. \RL{\ArBody ٧}}
+\EdL{1}{AK15-P008-L01}{يوم الاثنين يكون رأس تشرى يوم الاثنين ويكون مرحشوان}
+\EdL{2}{AK15-P008-L02}{وكسليو تامين فان لم يكن فى تلك السنة عبور وولد قمره قبل ٢٠٤}
+\EdL{3}{AK15-P008-L03}{اجزاء يمضى من الساعة العاشرة من ليلة الاحد يكون رأس تشرى}
+\EdL{4}{AK15-P008-L04}{يوم الاثنين ويكون مرحشوان وكسليو ناقصين فان ولد قمره}
+\EdL{5}{AK15-P008-L05}{بعد ٢٠٤ ـ اجزاء يمضى من الساعة العاشرة من يوم الاحد الى حد}
+\EdL{6}{AK15-P008-L06}{يوم الاثنين فان رأس تشرى يوم الاثنين ويكون مرحشوان}
+\EdL{7}{AK15-P008-L07}{وكسليو تامين وان لم يكن فى تلك السنة عبور وكان فى السنة التى}
+\EdL{8}{AK15-P008-L08}{مضت قبلها عبور وكان ميلاد القمر بعد ـ ٨٩ ـ اجزاء يمضى من}
+\EdL{9}{AK15-P008-L09}{الساعة الرابعة من يوم الاثنين فان رأس تشرى يوم الثلاثاء}
+\EdL{10}{AK15-P008-L10}{ويكون مرحشوان وكسليو كالتقدير •}
+\EdLp{11}{AK15-P008-L11}{فاما سنة الشمس فان عدد ايامها ـ ٣٦٥ ـ يوما و ـ ٥ ـ}
+\EdL{12}{AK15-P008-L12}{ساعات ٣٧٩١ جزءا من ـ ٤١٠٤ ـ ساعة والذى مضى من السنين}
+\EdL{13}{AK15-P008-L13}{منذ خلق الله آدم الى ان ينقضى سنة الف ومأية وخمسة وثلاثين}
+\EdL{14}{AK15-P008-L14}{لذى القرنين ـ ٤٠٨٢ ـ سنة معبرة على ما فى التوراة وكتب}
+\EdL{15}{AK15-P008-L15}{الانبياء واخبار الآن كان وسط الشمس اول يوم من ايام آدم وهو}
+\EdL{16}{AK15-P008-L16}{يوم الجمعة ـ ه كو ـ وسط القمر ـ ه كو اوج القمر ـ ا ه ـ زحل}
+\EdL{17}{AK15-P008-L17}{ح نه ـ المشترى ـ و ه ـ المريخ ا و الزهرة ـ د كه عطارد (١)}
+\EdL{18}{AK15-P008-L18}{الرأس ـ ه يد ـ وسط الشمس لبناء بيت المقدس ـ ه كو ـ القمر}
+\EdL{19}{AK15-P008-L19}{كو ـ اوج القمر ـ ط كو م يو ـ زحل ـ ى كب ط ـ المشترى}
+\par\smallskip\noindent\hfill\rule{30mm}{0.4pt}\par
+\EdLn{N1}{AK15-P008-N01}{(١) بياض فى الاصل}
+\PageHead{9}{p. ٨}{009}{p. \RL{\ArBody ٨}}
+\EdL{1}{AK15-P009-L01}{ج ـ رمت لد ـ المريخ ـ يخ انه كور ـ الزهرة ـ رنب يامر}
+\EdL{2}{AK15-P009-L02}{عطارد ـ الج يط اط ـ الرأس ـ د كو لد نا ـ وسط الشمس لاول}
+\EdL{3}{AK15-P009-L03}{سنى ذى القرنين و ـ يح لا لح ـ القمر ـ د و مه مط ـ اوج القمر}
+\EdL{4}{AK15-P009-L04}{ر كو ير يط ـ زحل ـ ح ح ـ كد و ـ المشترى ـ ج يب نب}
+\EdL{5}{AK15-P009-L05}{لح لج ـ المريخ ـ ح يب يد مو ـ الزهرة ـ ب ا ـ كب ج}
+\EdL{6}{AK15-P009-L06}{عطارد ـ ر ى الح ـ الرأس ـ د كج ما كز •}
+\EdLp{7}{AK15-P009-L07}{فمن اراد ان يعرف موضع الشمس للوسط ووسط القمر}
+\EdL{8}{AK15-P009-L08}{فليأخد سنى ذى القرنين التامة ويزيد عليها تسعة ابدا ثم يلقى ما}
+\EdL{9}{AK15-P009-L09}{اجتمع من تسعة عشر سنة فما بقى دون تسع عشرة سنة فهى سنون}
+\EdL{10}{AK15-P009-L10}{قمرية من عمل المحزور فيجعله اياما قمرية فما بلغ فهو الاصل الصغير}
+\EdL{11}{AK15-P009-L11}{فاضربه فى دور ايهما اردت معرفة وسطه فما بلغ فاقسمه على}
+\EdL{12}{AK15-P009-L12}{اصل الايام فما خرج فسنون شمسية فالقها ثم اضرب ما بقى فى}
+\EdL{13}{AK15-P009-L13}{اثنى عشر وتقسمه على اصل الايام فما خرج فبروج وما بقى}
+\EdL{14}{AK15-P009-L14}{فاضربه فى ثلاثين وتقسمه على الاصل فما خرج فدرج وما بقى}
+\EdL{15}{AK15-P009-L15}{فاضربه فى ستين وتقسمه على الاصل فما خرج فدقايق ثم}
+\EdL{16}{AK15-P009-L16}{نستخرج كذلك ما احببت من الثوانى والثوالث والروابع}
+\EdL{17}{AK15-P009-L17}{ما خرج من البروج والدرج والدقايق فزدها على موضع ايهما}
+\EdL{18}{AK15-P009-L18}{نسبت له التاريخ فما بلغ فهو وسطه لطلوع الشمس ان شاء الله •}
+\EdLp{19}{AK15-P009-L19}{اصل الايام لخمسة وثلثين الف الف وتسعمائة الف وخمسة}
+\PageHead{10}{p. ٩}{010}{p. \RL{\ArBody ٩}}
+\EdL{1}{AK15-P010-L01}{وسبعون الفا وثلثمائة واحد وخمسون دور الشمس ثمانية وتسعون}
+\EdL{2}{AK15-P010-L02}{الف واربعمائة وستة وتسعون ـ دور القمر الف الف وستة}
+\EdL{3}{AK15-P010-L03}{عشر الف وسبع مائة وستة وثلثون •}
+\EdLh{4}{AK15-P010-L04}{معرفة الاجتماع والاستقبال}
+\EdLp{5}{AK15-P010-L05}{فان اردت معرفة اجتماع الشمس والقمر وهو رأس}
+\EdL{6}{AK15-P010-L06}{شهر بنى اسرائيل فلتضرب الاصل الصغير فى خمسة وعشرين الفا}
+\EdL{7}{AK15-P010-L07}{وتسعمائة وعشرين فما بلغ فاقسمه على سبع مائة وخمسة وستين}
+\EdL{8}{AK15-P010-L08}{يوما اربعمائة وثلثة وثلثين فما خرج فشهور مضت من اول المحزور}
+\EdL{9}{AK15-P010-L09}{الى الشهر الذى انت فيه وما بقى فاقسمه على خمسة وعشرين الفا}
+\EdL{10}{AK15-P010-L10}{وتسع مأية وعشرين فما خرج فايام وما بقى فاقسمه على الف وثمانين}
+\EdL{11}{AK15-P010-L11}{فما خرج فساعات فما خرج من الايام والساعات واجزاء الساعة}
+\EdL{12}{AK15-P010-L12}{فهو ما مضى من شهرك من الاجتماع ان شاء الله •}
+\EdLc{13}{AK15-P010-L13}{تم تاريخ اليهود عن محمد بن موسى الخوارزمى}
+\EdLc{14}{AK15-P010-L14}{والحمد لله رب العالمين وصلوته على نبيه محمد وآله}
+\clearpage\pdfbookmark[1]{critical notes}{critical}{\large\bfseries Critical notes}\par\medskip\noindent These notes are not part of the transcription. They record errors of the printed witness and propose corrections; the transcription keeps the print.\par\medskip
+\noindent\textbf{AK15-CN001}\enspace\hyperlink{AK15-P003-L05}{AK15-P003-L05}\enspace(missing letter)\par\noindent printed: \RL{\ArBody لكن}\enspace proposed: \RL{\ArBody لتكن}\par\noindent the quotation is Genesis 1:14, «Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years» (Hebrew yehi meʾorot birqiaʿ ha-shamayim); the sentence needs the verb «let there be», \RL{\ArBody لتكن}; «\RL{\ArBody لكن}», «but», gives no sense before «\RL{\ArBody الصبا فى ربيع فصلا بين الليل والنهار}»\par\noindent confidence: medium\par\noindent impact: none\par\medskip
+\noindent\textbf{AK15-CN002}\enspace\hyperlink{AK15-P003-L06}{AK15-P003-L06}\enspace(wrong letter)\par\noindent printed: \RL{\ArBody ربيع}\enspace proposed: \RL{\ArBody رقيع}\par\noindent «the firmament» of Genesis 1:14 is Hebrew raqiaʿ, which Arabic versions of the Bible keep as \RL{\ArBody رقيع}; «\RL{\ArBody ربيع}», «spring», gives no sense here; \RL{\ArBody ب} and \RL{\ArBody ق} differ only in their dots\par\noindent confidence: medium\par\noindent impact: none\par\medskip
+\noindent\textbf{AK15-CN003}\enspace\hyperlink{AK15-P003-L06}{AK15-P003-L06}\enspace(probable misprint)\par\noindent printed: \RL{\ArBody الصبا}\enspace proposed: \RL{\ArBody الضياء (?)}\par\noindent Genesis 1:14 has «lights» (Hebrew meʾorot) as the subject that divides the day from the night; «\RL{\ArBody الصبا}» (the east wind; youth) gives no sense; \RL{\ArBody الضيا(ء)}, «the light», differs from it only in the dots of \RL{\ArBody ض} and \RL{\ArBody ي}; another word for the lights is possible\par\noindent confidence: low\par\noindent impact: none\par\medskip
+\noindent\textbf{AK15-CN004}\enspace\hyperlink{AK15-P004-L16}{AK15-P004-L16}\enspace(wrong letter)\par\noindent printed: \RL{\ArBody فضت}\enspace proposed: \RL{\ArBody مضت}\par\noindent «\RL{\ArBody ومداخل رؤس شهورهم وسنى تاريخهم مضت القرون بعد القرون}», «as century followed century»: the verb is \RL{\ArBody مضت}; \RL{\ArBody ف} (a loop with a dot above) and \RL{\ArBody م} (a loop without one) differ by the dot\par\noindent confidence: medium\par\noindent impact: none\par\medskip
+\noindent\textbf{AK15-CN005}\enspace\hyperlink{AK15-P004-L13}{AK15-P004-L13}\enspace(probable misprint)\par\noindent printed: \RL{\ArBody زيادة اشهر من السبعة الاشهر}\enspace proposed: \RL{\ArBody زيادة شهر من السبعة الاشهر}\par\noindent the intercalated year receives one of the seven months added in the cycle (L11), and the next words name «that added month», «\RL{\ArBody ذلك الشهر الزايد}», the last Adar; «\RL{\ArBody اشهر}», months, has an alif too many\par\noindent confidence: medium\par\noindent impact: none\par\medskip
+\noindent\textbf{AK15-CN006}\enspace\hyperlink{AK15-P005-L07}{AK15-P005-L07}\enspace(wrong letter)\par\noindent printed: \RL{\ArBody فرحشوان}\enspace proposed: \RL{\ArBody مرحشوان}\par\noindent the month Marheshvan, printed «\RL{\ArBody مرحشوان}» in L09 and L11; \RL{\ArBody ف} (a loop with a dot) for \RL{\ArBody م}\par\noindent confidence: high\par\noindent impact: none\par\medskip
+\noindent\textbf{AK15-CN007}\enspace\hyperlink{AK15-P005-L14}{AK15-P005-L14}\enspace(missing letter)\par\noindent printed: \RL{\ArBody من الزياد}\enspace proposed: \RL{\ArBody من الزيادة}\par\noindent «\RL{\ArBody فيها من الزيادة سبعة اشهر}», «in it an addition of seven months», as «\RL{\ArBody زيادة سبعة اشهر}» on p. 3 (PDF 4, L11); the \RL{\ArBody ة} is missing\par\noindent confidence: medium\par\noindent impact: none\par\medskip
+\noindent\textbf{AK15-CN008}\enspace\hyperlink{AK15-P005-L15}{AK15-P005-L15}\enspace(missing words)\par\noindent printed: \RL{\ArBody السنة الثالثة اذار}\enspace proposed: \RL{\ArBody السنة الثالثة اذار واذار}\par\noindent the cycle has seven intercalated years («\RL{\ArBody سبعة اشهر}», L14; p. 3, L11); the print marks only five as intercalated (8, 11, 14, 16, 19: L17-L19 and p. 5, PDF 6); the third year is the first intercalated year of the scheme 3, 5, 8, 11, 14, 16, 19 that de Blois reads in the manuscript (his section 3, «g-b-ṭ-b-g»)\par\noindent confidence: high\par\noindent impact: the count of intercalated years in the printed cycle\par\medskip
+\noindent\textbf{AK15-CN009}\enspace\hyperlink{AK15-P005-L16}{AK15-P005-L16}\enspace(missing words)\par\noindent printed: \RL{\ArBody الخامسة اذار}\enspace proposed: \RL{\ArBody الخامسة اذار واذار}\par\noindent as AK15-CN008: the fifth year is the second intercalated year of the scheme 3, 5, 8, 11, 14, 16, 19\par\noindent confidence: high\par\noindent impact: the count of intercalated years in the printed cycle\par\medskip
+\noindent\textbf{AK15-CN010}\enspace\hyperlink{AK15-P006-L07}{AK15-P006-L07}\enspace(wrong figure)\par\noindent printed: \RL{\ArBody ٤٨٩}\enspace proposed: \RL{\ArBody ٥٨٩}\par\noindent thirteen lunar months of 29d 12h 793p make 383 days 21 hours 589 parts (13 x 793 = 10309 parts = 9 hours 589 parts), as the twelve-month year of L05-L06 (354d 8h 876p) plus one month gives (876 + 793 = 1669 parts = 1 hour 589 parts); the five is printed as a four, as de Blois describes for the numerals of this edition\par\noindent confidence: high\par\noindent impact: the length of the thirteen-month year\par\medskip
+\noindent\textbf{AK15-CN011}\enspace\hyperlink{AK15-P006-L10}{AK15-P006-L10}\enspace(wrong figure)\par\noindent printed: \RL{\ArBody ٤٩٤}\enspace proposed: \RL{\ArBody ٥٩٥}\par\noindent the cycle of 235 lunar months makes 6939 days 16 hours 595 parts (235 x 793 = 186355 parts = 172 hours 595 parts), the sum of twelve years of 354d 8h 876p and seven of 383d 21h 589p; L09-L10 have the days and hours right; both fives of 595 are printed as fours\par\noindent confidence: high\par\noindent impact: the length of the cycle\par\medskip
+\noindent\textbf{AK15-CN012}\enspace\hyperlink{AK15-P006-L16}{AK15-P006-L16}\enspace(wrong figure)\par\noindent printed: \RL{\ArBody ١٠٩}\enspace proposed: \RL{\ArBody ٤٠٨}\par\noindent L13-L16 give the two cases of a year that is common and is followed by a common year: a molad before 408 parts of the first hour of the night of Friday gives the first of Tishri on Saturday with Marheshvan and Kislev deficient, «\RL{\ArBody وان ولد القمر بعد ...}» the same Saturday with both full; the dividing limit is the same 408 parts, the limit Friday 0h 408p of the four gates of the standard calendar (calendar/checks/gates.py)\par\noindent confidence: medium\par\noindent impact: the limit of the full year\par\medskip
+\noindent\textbf{AK15-CN013}\enspace\hyperlink{AK15-P006-L18}{AK15-P006-L18}\enspace(omission)\par\noindent printed: \RL{\ArBody وولد القمر قبل ـ ٢٠٤ ـ الى حد يوم السبت ويكون مرحشوان وكسليو تامين}\enspace proposed: \RL{\ArBody وولد القمر قبل ـ ٢٠٤ ـ [جزءا يمضى من الساعة العاشرة من ليلة الجمعة فان رأس تشرى يوم السبت ويكون مرحشوان وكسليو ناقصين وان ولد القمر بعد ـ ٢٠٤ ـ] الى حد يوم السبت ويكون مرحشوان وكسليو تامين}\par\noindent L17-L19 give the case of a common year followed by a leap year; for it the four gates of the standard calendar (calendar/checks/gates.py) give two cases divided by one limit: a molad from Thursday 18h to Friday 9h 204p, the first of Tishri on Saturday with the year deficient (353 days), and from Friday 9h 204p to Saturday 18h, Saturday with the year complete (355 days); Friday 9h 204p is 204 parts of the tenth hour of the night of Friday; the print keeps the beginning of the first case («\RL{\ArBody قبل ـ ٢٠٤ ـ}») and the end of the second («\RL{\ArBody الى حد يوم السبت ... تامين}»), as when the eye passes from the first \RL{\ArBody ٢٠٤} to the second; the words in brackets follow the parallel sentence of L13-L17 and are not attested; «\RL{\ArBody فان رأس تشرى يوم السبت}» may also be missing before «\RL{\ArBody ويكون}» (cf. L16)\par\noindent confidence: medium\par\noindent impact: the rule for a common year followed by a leap year\par\medskip
+\noindent\textbf{AK15-CN014}\enspace\hyperlink{AK15-P007-L01}{AK15-P007-L01}\enspace(wrong word)\par\noindent printed: \RL{\ArBody من السنة الحادى عشرة}\enspace proposed: \RL{\ArBody من الساعة الحادى عشرة}\par\noindent «of the eleventh year» gives no sense in a limit counted in parts of an hour; the parallel phrases of the page have «\RL{\ArBody من الساعة}» (L03, L06, L08, L13, L17, L19)\par\noindent confidence: high\par\noindent impact: none\par\medskip
+\noindent\textbf{AK15-CN015}\enspace\hyperlink{AK15-P007-L01}{AK15-P007-L01}\enspace(wrong figure)\par\noindent printed: \RL{\ArBody ٩٦٠ ـ جزءا يمضى من السنة الحادى عشرة}\enspace proposed: \RL{\ArBody ٦٩٥ ـ جزءا يمضى من الساعة الثانية عشرة}\par\noindent in a leap year that begins on Thursday the next year is common (no two adjacent years of the cycle are intercalated) and its molad falls 5 days 21 hours 589 parts later (383d 21h 589p less 54 weeks; p. 5, PDF 6, L07, with AK15-CN010); the year is deficient (383 days) when the next first of Tishri is Tuesday and complete (385 days) when it is Thursday, and the next first of Tishri moves to Thursday when its molad reaches 204 parts of the tenth hour of the night of Tuesday (L12-L15: Tuesday 9h 204p); this molad is then Wednesday 11h 695p, 695 parts of the twelfth hour of the night of Wednesday, the limit of the four gates of the standard calendar (calendar/checks/gates.py, constants.py); the print's 960 parts of the eleventh hour (Wednesday 10h 960p) is 815 parts earlier; the eleventh hour stands also in L03, so that the error may be older than the edition\par\noindent confidence: medium\par\noindent impact: the limit between the deficient and the complete leap year that begins on Thursday\par\medskip
+\noindent\textbf{AK15-CN016}\enspace\hyperlink{AK15-P007-L03}{AK15-P007-L03}\enspace(missing figure)\par\noindent printed: \RL{\ArBody بعد يمضى من الساعة الحادى عشرة}\enspace proposed: \RL{\ArBody بعد ـ ٦٩٥ ـ جزءا يمضى من الساعة الثانية عشرة}\par\noindent after «\RL{\ArBody بعد}» the figure and «\RL{\ArBody جزءا}» are missing (cf. «\RL{\ArBody بعد ٢٠٤ اجزاء يمضى}», L14; «\RL{\ArBody بعد ٤٩١ ـ جزءا يمضى}», L19); the limit is the one of L01 (AK15-CN015): from Wednesday 11h 695p to Thursday 18h the gates give Thursday with the leap year complete (385 days), as L03-L05 state\par\noindent confidence: medium\par\noindent impact: the limit between the deficient and the complete leap year that begins on Thursday\par\medskip
+\noindent\textbf{AK15-CN017}\enspace\hyperlink{AK15-P007-L08}{AK15-P007-L08}\enspace(wrong letter)\par\noindent printed: \RL{\ArBody يعد}\enspace proposed: \RL{\ArBody بعد}\par\noindent «\RL{\ArBody فان ولد القمر بعد ٢٠٤ اجزاء ...}», «if the moon is born after 204 parts ...»; the parallel phrases have «\RL{\ArBody بعد}» (L03, L14, L19); the first letter carries two dots below (see the observation) where \RL{\ArBody ب} has one\par\noindent confidence: high\par\noindent impact: none\par\medskip
+\noindent\textbf{AK15-CN018}\enspace\hyperlink{AK15-P007-L09}{AK15-P007-L09}\enspace(missing words)\par\noindent printed: \RL{\ArBody يكون رأس تشرى ويكون}\enspace proposed: \RL{\ArBody يكون رأس تشرى يوم الخميس ويكون}\par\noindent the sentence does not name the day of the first of Tishri; for a molad from Thursday 9h 204p to Thursday 18h in a common year the gates give Thursday (355 days), and the parallel sentences name the day («\RL{\ArBody فان رأس تشرى يوم الخميس}», L04, L06-L07)\par\noindent confidence: medium\par\noindent impact: none\par\medskip
+\noindent\textbf{AK15-CN019}\enspace\hyperlink{AK15-P007-L15}{AK15-P007-L15}\enspace(missing word)\par\noindent printed: \RL{\ArBody من الساعة من ليلة الثلثاء}\enspace proposed: \RL{\ArBody من الساعة العاشرة من ليلة الثلثاء}\par\noindent the limit is the one of L12-L13, 204 parts of the tenth hour of the night of Tuesday (Tuesday 9h 204p of the gates), which divides the common year beginning on Tuesday from the one beginning on Thursday; the ordinal of the hour is missing\par\noindent confidence: high\par\noindent impact: none\par\medskip
+\noindent\textbf{AK15-CN020}\enspace\hyperlink{AK15-P008-L05}{AK15-P008-L05}\enspace(wrong word)\par\noindent printed: \RL{\ArBody من يوم الاحد}\enspace proposed: \RL{\ArBody من ليلة الاحد}\par\noindent the limit is the one of L02-L03, 204 parts of the tenth hour of the night of Sunday (Sunday 9h 204p of the gates); «the tenth hour of the day of Sunday» would be Sunday 21h-22h and would leave the molads from Sunday 9h 204p to Sunday 21h 204p without a rule; the gates give Monday with the year complete from Sunday 9h 204p\par\noindent confidence: high\par\noindent impact: none\par\medskip
+\noindent\textbf{AK15-CN021}\enspace\hyperlink{AK15-P008-L08}{AK15-P008-L08}\enspace(wrong figure)\par\noindent printed: \RL{\ArBody ٨٩}\enspace proposed: \RL{\ArBody ٥٨٩}\par\noindent the limit for a common year after a leap year is Monday 15h 589p, 589 parts of the fourth hour of the day of Monday: the molad of the leap year before lies 383d 21h 589p (thirteen months) earlier, and from this limit it falls on Tuesday at 18h or later, so that that year began on Thursday and a first of Tishri on Monday would make it 382 days (calendar/checks/gates.py, constants.py); the hundreds digit is missing in the print\par\noindent confidence: high\par\noindent impact: the limit of the rule for a common year after a leap year\par\medskip
+\noindent\textbf{AK15-CN022}\enspace\hyperlink{AK15-P008-L14}{AK15-P008-L14}\enspace(wrong figure)\par\noindent printed: \RL{\ArBody ٤٠٨٢}\enspace proposed: \RL{\ArBody ٤٥٨٣}\par\noindent the Jewish reckoning puts 3448 years between the creation of Adam and the beginning of the era of Dhū l-Qarnayn (so reported by Elias of Nisibis, in de Blois's chapter), and 3448 + 1135 = 4583 years at the end of the year 1135; the standard calendar agrees: the Seleucid year 1135, from Tishri 823 CE, is the year 4584 of the era of the world, 4583 of the era of Adam, which begins one year later; the treatise's own rule on p. 8 (PDF 9, L08-L09), which adds 9 to the completed Seleucid years before casting out nineteens, agrees with 3448 years (3448 = 19 x 181 + 9), while 4082 - 1135 = 2947 leaves 2 (calendar/checks/constants.py); the author's own figure is not known here, and the print differs in two digits\par\noindent confidence: medium\par\noindent impact: the number of years from Adam\par\medskip
+\noindent\textbf{AK15-CN023}\enspace\hyperlink{AK15-P008-L18}{AK15-P008-L18}\enspace(missing figure)\par\noindent printed: \RL{\ArBody القمر كو}\enspace proposed: \RL{\ArBody القمر ـ ه كو}\par\noindent at the building of the Temple, as on the first day of Adam, the sun and the moon are in conjunction at 176° (de Blois, section 7); the print gives the sun «\RL{\ArBody ه كو}», 5 signs 26 degrees, and for the moon only «\RL{\ArBody كو}», without the sign, where the first list (L16) has «\RL{\ArBody وسط القمر ـ ه كو}»\par\noindent confidence: medium\par\noindent impact: the position of the moon at the building of the Temple\par\medskip
+\noindent\textbf{AK15-CN024}\enspace\hyperlink{AK15-P009-L08}{AK15-P009-L08}\enspace(wrong letter)\par\noindent printed: \RL{\ArBody فليأخد}\enspace proposed: \RL{\ArBody فليأخذ}\par\noindent «let him take» the completed years; the \RL{\ArBody ذ} has lost its dot\par\noindent confidence: high\par\noindent impact: none\par\medskip
+\noindent\textbf{AK15-CN025}\enspace\hyperlink{AK15-P010-L02}{AK15-P010-L02}\enspace(missing words)\par\noindent printed: \RL{\ArBody الف الف وستة عشر الف}\enspace proposed: \RL{\ArBody الف الف وثلثمائة وستة عشر الف}\par\noindent the revolutions of the moon in the base of days are the months of the 5184 cycles together with the revolutions of the sun: 1,218,240 + 98,496 = 1,316,736, and 35,975,351 / 1,316,736 = 27.3216 days, the period of the moon's revolution; the print gives 1,016,736, 300,000 less (calendar/checks/constants.py)\par\noindent confidence: high\par\noindent impact: the mean motion of the moon by the procedure of p. 8 (PDF 9)\par\medskip
+\noindent\textbf{AK15-CN026}\enspace\hyperlink{AK15-P010-L08}{AK15-P010-L08}\enspace(wrong word)\par\noindent printed: \RL{\ArBody سبع مائة وخمسة وستين يوما اربعمائة وثلثة وثلثين}\enspace proposed: \RL{\ArBody سبع مائة وخمسة وستين الفا واربعمائة وثلثة وثلثين}\par\noindent the product of the small base (days) and 25,920 (parts in a day, L06-L07) is divided by the number of parts in a lunar month, 29 x 25,920 + 12 x 1080 + 793 = 765,433 (calendar/checks/constants.py), to give the months elapsed of the cycle, as de Blois describes this section; «\RL{\ArBody يوما}», «days», stands where the number needs «\RL{\ArBody الفا}», «thousand»\par\noindent confidence: high\par\noindent impact: the number of parts in the month\par\medskip
+\end{document}

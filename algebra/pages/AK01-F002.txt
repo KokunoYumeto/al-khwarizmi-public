@@ -1,0 +1,5 @@
+@page 2 -
+@kind provenance
+% Frame 002: the inside of the front board with the bookplate of Columbia University in the City of New York, The
+% Libraries.
+@copy The bookplate of Columbia University Libraries, pasted on the inside of the front board; not part of the edition.

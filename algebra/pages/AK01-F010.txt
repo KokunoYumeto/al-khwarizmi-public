@@ -1,0 +1,4 @@
+@page 10 -
+@kind blank
+% Frame 010: a blank leaf side.
+@obs The verso of the facsimile plate (frame 009), blank.

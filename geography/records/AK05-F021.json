@@ -1,0 +1,364 @@
+{
+ "anchor": "AK05-F021",
+ "frame": 21,
+ "frame_file": "page_021.jpg",
+ "frame_sha256": "8ddbc84cad940d9beea5a8a699fbfb5f513b7dc8657bff61a56cd09ead654430",
+ "printed_page": "١٥",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 021, printed p. 15: the last cities of the third clime, entries 181-185, al-Qandahār and four cities of the east; the heading of the fourth clime, «الإقليم الرابع عرضه لو ō», its latitude 36° 0', and of its cities, with the folio of the manuscript, «(fol. 5ᵃ)», in the margin; entries 186-195, from عارٮرا, a city on an island, and Tangier to سفطريا. One line of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F021-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(١٨١) | [١٤٦] | القندهار | قى | {z} | ل | {z}",
+   "margin": null,
+   "cells": [
+    "(١٨١)",
+    "[١٤٦]",
+    "القندهار",
+    "قى",
+    "{z}",
+    "ل",
+    "{z}"
+   ],
+   "plain": "(١٨١) | [١٤٦] | القندهار | قى | ō | ل | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(١٨٢) | [١٤٧] | مدينة فى سفح الجبل | ڡا | يه | كو | {z}",
+   "margin": null,
+   "cells": [
+    "(١٨٢)",
+    "[١٤٧]",
+    "مدينة فى سفح الجبل",
+    "ڡا",
+    "يه",
+    "كو",
+    "{z}"
+   ],
+   "plain": "(١٨٢) | [١٤٧] | مدينة فى سفح الجبل | ڡا | يه | كو | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(١٨٣) | [١٤٨] | مدينة قلينرا | قلز | م | كر | ل",
+   "margin": null,
+   "cells": [
+    "(١٨٣)",
+    "[١٤٨]",
+    "مدينة قلينرا",
+    "قلز",
+    "م",
+    "كر",
+    "ل"
+   ],
+   "plain": "(١٨٣) | [١٤٨] | مدينة قلينرا | قلز | م | كر | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(١٨٤) | [١٤٩] | مدينة طعولا{n:a} | ڡمح | ى | كد | ل",
+   "margin": null,
+   "cells": [
+    "(١٨٤)",
+    "[١٤٩]",
+    "مدينة طعولا{n:a}",
+    "ڡمح",
+    "ى",
+    "كد",
+    "ل"
+   ],
+   "plain": "(١٨٤) | [١٤٩] | مدينة طعولا | ڡمح | ى | كد | ل",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(١٨٥) | [١٥٠] | مدينة اراٮدا | ڡس | {z} | كح | ل",
+   "margin": null,
+   "cells": [
+    "(١٨٥)",
+    "[١٥٠]",
+    "مدينة اراٮدا",
+    "ڡس",
+    "{z}",
+    "كح",
+    "ل"
+   ],
+   "plain": "(١٨٥) | [١٥٠] | مدينة اراٮدا | ڡس | ō | كح | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L06",
+   "n": 6,
+   "kind": "heading",
+   "text": "* الإقليم الرابع عرضه {ov:لو {z}} *",
+   "margin": null,
+   "cells": null,
+   "plain": "* الإقليم الرابع عرضه لو ō *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L07",
+   "n": 7,
+   "kind": "heading",
+   "text": "* المدن الّتي فى الإقليم الرابع *",
+   "margin": null,
+   "cells": null,
+   "plain": "* المدن الّتي فى الإقليم الرابع *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(١٨٦) | | عارٮرا مدينة فى جزيرة ٮاطى | ه | ى | له | ن",
+   "margin": "(fol. 5ᵃ)",
+   "cells": [
+    "(١٨٦)",
+    "",
+    "عارٮرا مدينة فى جزيرة ٮاطى",
+    "ه",
+    "ى",
+    "له",
+    "ن"
+   ],
+   "plain": "(١٨٦) | | عارٮرا مدينة فى جزيرة ٮاطى | ه | ى | له | ن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(١٨٧) | | اسابش مشهورة* | ر | ٮه | لو | {z}",
+   "margin": null,
+   "cells": [
+    "(١٨٧)",
+    "",
+    "اسابش مشهورة*",
+    "ر",
+    "ٮه",
+    "لو",
+    "{z}"
+   ],
+   "plain": "(١٨٧) | | اسابش مشهورة* | ر | ٮه | لو | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(١٨٨) | [١٥٤] | طنجة | ح | {z} | له | ل",
+   "margin": null,
+   "cells": [
+    "(١٨٨)",
+    "[١٥٤]",
+    "طنجة",
+    "ح",
+    "{z}",
+    "له",
+    "ل"
+   ],
+   "plain": "(١٨٨) | [١٥٤] | طنجة | ح | ō | له | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(١٨٩) | [١٥٥] | اطرنسيولا على البحر | ٮا | {z} | لح | م",
+   "margin": null,
+   "cells": [
+    "(١٨٩)",
+    "[١٥٥]",
+    "اطرنسيولا على البحر",
+    "ٮا",
+    "{z}",
+    "لح",
+    "م"
+   ],
+   "plain": "(١٨٩) | [١٥٥] | اطرنسيولا على البحر | ٮا | ō | لح | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(١٩٠) | [١٥٦] | اوٮلوس قرب البحر | ٮٮ | ن | لٮ | ن",
+   "margin": null,
+   "cells": [
+    "(١٩٠)",
+    "[١٥٦]",
+    "اوٮلوس قرب البحر",
+    "ٮٮ",
+    "ن",
+    "لٮ",
+    "ن"
+   ],
+   "plain": "(١٩٠) | [١٥٦] | اوٮلوس قرب البحر | ٮٮ | ن | لٮ | ن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(١٩١) | [١٥٧] | مدينة للفيا | ٮٮ | مه | لب | {z}",
+   "margin": null,
+   "cells": [
+    "(١٩١)",
+    "[١٥٧]",
+    "مدينة للفيا",
+    "ٮٮ",
+    "مه",
+    "لب",
+    "{z}"
+   ],
+   "plain": "(١٩١) | [١٥٧] | مدينة للفيا | ٮٮ | مه | لب | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(١٩٢) | [١٥٨] | مدينة قرطوس | ٮح | ك | ل | م",
+   "margin": null,
+   "cells": [
+    "(١٩٢)",
+    "[١٥٨]",
+    "مدينة قرطوس",
+    "ٮح",
+    "ك",
+    "ل",
+    "م"
+   ],
+   "plain": "(١٩٢) | [١٥٨] | مدينة قرطوس | ٮح | ك | ل | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(١٩٣) | [١٥٩] | مدينة ٮرٮارا | ٮح | ل | لٮ | {z}",
+   "margin": null,
+   "cells": [
+    "(١٩٣)",
+    "[١٥٩]",
+    "مدينة ٮرٮارا",
+    "ٮح",
+    "ل",
+    "لٮ",
+    "{z}"
+   ],
+   "plain": "(١٩٣) | [١٥٩] | مدينة ٮرٮارا | ٮح | ل | لٮ | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(١٩٤) | [١٦٠] | مدينة واٮرا على البحر | ٮد | ل | لٮ | ك",
+   "margin": null,
+   "cells": [
+    "(١٩٤)",
+    "[١٦٠]",
+    "مدينة واٮرا على البحر",
+    "ٮد",
+    "ل",
+    "لٮ",
+    "ك"
+   ],
+   "plain": "(١٩٤) | [١٦٠] | مدينة واٮرا على البحر | ٮد | ل | لٮ | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F021-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(١٩٥) | [١٦١] | مدينة سفطريا | يه | م | لا | ل",
+   "margin": null,
+   "cells": [
+    "(١٩٥)",
+    "[١٦١]",
+    "مدينة سفطريا",
+    "يه",
+    "م",
+    "لا",
+    "ل"
+   ],
+   "plain": "(١٩٥) | [١٦١] | مدينة سفطريا | يه | م | لا | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a"
+   ],
+   "lines": 1,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L04: the editor refers to entry (1847), where the name is written طعولا."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 020 without a heading: the last cities of the third clime, entries 181-185. Then the heading of the fourth clime and of its cities, set between small open stars, and its first cities, entries 186-195. Entries 186 and 187 have no numbers of Suhrāb; the numbers run [١٤٦]-[١٥٠] in entries 181-185 and [١٥٤]-[١٦١] in entries 188-195. The folio of the Strasbourg manuscript, «(fol. 5ᵃ)», is printed in Latin type in the left margin beside entry 186 (L08).",
+  "L06: the latitude of the fourth clime, «لو ō», 36° 0', is printed with a line above the numeral and the zero sign; transcribed with {ov:…}. In both headings the alif of الإقليم carries a hamza below. L07: «الّتي», with a shadda over the ل and the two dots of the final ي, where the headings of the cities of the second and third climes have «الّتى» (frame 014, L06; frame 017, L14).",
+  "L09: an asterisk stands after مشهورة, «اسابش مشهورة*», raised like the editor's note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (introduction, frame 184, p. XXIX); transcribed as printed.",
+  "L08: «عارٮرا»: after «عار», whose ر is the plain curved stroke of the isolated letter, a tooth without a dot joined to a ر, the two strokes forming a notch at the top; the same form begins «ٮرٮارا» (L15) and follows the alif in «واٮرا» (L16), and it is that of the numerals ٮر of frame 015 (L03, L04). Transcribed ٮر. Letters printed without their dots in the names, transcribed so: «ٮاطى» (L08) and «ٮرٮارا» (L15), the tooth joined to the alif; «اراٮدا» (L05), the tooth before the د; «اوٮلوس» (L12), the tooth before the ل.",
+  "Letters printed without their dots in the numerals, transcribed so: the loop of ف or ق without dots, ڡا (L02), ڡمح (L04) and ڡس (L05); ٮا (L11), a tooth joined to an alif; ٮٮ (L12, L13), a tooth joined to a final ب, both without dots, with two risers at the right end of the bowl (in L13 the tooth is printed apart from the bowl); ٮح (L14, L15) and ٮد (L16), the tooth without its dot; ٮه (L09, the minutes of the longitude), a tooth joined to a final ه; لٮ (L12, L15, L16), the final ب without its dot. With their dots: قى (L01) and قلز (L03), the ق with its two dots and the ز with one; يه (L02, the minutes of the longitude; L17, the degrees of the longitude); لب (L13, the degrees of the latitude); ن (L08, the minutes of the latitude; L12, the minutes of the longitude and of the latitude). The isolated ه, 5 (L08, the degrees of the longitude), is a small round ring.",
+  "L03: the degrees of the latitude, كر, and L09: the degrees of the longitude, ر, the plain curved stroke of the isolated letter: in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed.",
+  "The page number «— ١٥ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

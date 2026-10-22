@@ -1,0 +1,30 @@
+@page 96 ٨٠
+% Frame 096, printed p. 80: the problem of frame 095 concluded: the estate seven hundred and fifty-five, two fifths three
+% hundred and two; less the share, eighty-two, two hundred and twenty; less its quarter and fifth, ninety-nine, a
+% hundred and twenty-one; with three fifths of the estate, four hundred and fifty-three, five hundred and seventy-four,
+% eighty-two to each of seven shares. Then, under «فان كانت الفريضة على حالها» in bold, the same heirs and a bequest of
+% the share of a son less a quarter and a fifth of what remains of the two fifths after the share: from two fifths two
+% shares are taken, the son having two portions, and what was excepted is added back; an estate and nine tenths of a
+% fifth of an estate less two shares, continued on the next page. Below the rule two footnotes of the editors.
+وخمسين . والخمسان من ذلك ثلثمائة واثنان . ثم ارفع النصيب من ذلك وهو
+اثنان وثمانون فيبقى مائتان وعشرون ثم ارفع من ذلك الربع والخمس تسعةوتسعين
+سهماً فيبقى مائة وأحد وعشرون فزد عليها ثلاثة أخماس المال وهو اربعمائة وثلاثة
+وخمسون فتكون خمسمائة وأربعة وسبعين بين سبعة أسهم لكل سهم اثنان وثمانون
+وهو نصيب البنت وللابن ضعف ذلك {n:١} . {b:فان كانت الفريضة على حالها} وأوصى
+لرجل بمثل نصيب الابن إلا ربع وخمس ما يبقى من الخمسين بعد النصيب {n:٢}
+فالوصية من الخمسين ترفع من ذلك نصيبين لأن للابن سهمين فيبقى خمسا مال إلا
+نصيبين وزد ما استثنى عليه وهو ربع الخمسين وخمسها إلا تسعة أعشار نصيب
+فيكون خمسى مال وتسعة أعشار خمس مال إلا نصيبين وتسعة أعشار نصيب فزد
+على ذلك ثلاثة أخماس المال فيكون مالا وتسعة أعشار خمس مال إلا نصيبين
+@ednotes ١ ٢ 12
+@obs L05: the words فان كانت الفريضة على حالها (L05), the run-in heading of the next problem, as on frames 091 and 095, are printed in a bold face, after a full stop; وأوصى, which follows, is in the face of the text. The bold ن is printed without its dot; transcribed ن.
+@obs L01: the hundreds are printed ثلثمائة (L01), without the alif of ثلاث, as on frames 089, 092 and 095; transcribed as printed. L07: «خمسا مال», the dual, as on frame 095, L06.
+@obs Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): تسعةوتسعين (L02; 5 between the ة and the conjunction و, where مائة وأحد in L03 has 23, ثلثمائة واثنان in L01 22 and اربعمائة وثلاثة in L03 23).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: وأحد وعشرون (L03; 16 between the د and the conjunction و, where the د stands 6 to 7 px from a و inside a word and 18 from the conjunction و after a space on frame 064; in doubt, the space is written); وهو اربعمائة (L03; 19 between the و and the alif, where the conjunction و stands 14 and 15 px from the alif in وأربعة, L04, and وأحد, L03; in doubt, the space is written).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: وعشرون ثم, ثم ارفع, من ذلك, ذلك الربع (L02), فتكون خمسمائة, بين سبعة (L04), ترفع من (L07), فيكون خمسى, خمس مال, مال إلا (L09).
+@obs The note marks and the full stops (gaps as the nearest approach of the ink at 400 ppi): after وخمسين, before والخمسان (L01; 28 and 25), and after واثنان, before ثم (L01; 26 and 33), the full stops stand between spaces; (١) stands 20 px after ذلك, followed by a full stop 19 px after the mark and 25 px before the bold فان (L05); (٢) stands 32 px after النصيب, at the end of L06, without a full stop.
+@obs Plain alif where a hamza might be expected, as printed: واثنان, ارفع (L01), اثنان, ارفع (L02), اربعمائة (L03), اثنان (L04), وللابن (L05), الابن (L06), للابن (L07), استثنى (L08); with hamza: وأحد, أخماس (L03), وأربعة, أسهم (L04), وأوصى (L05), لأن (L07), أعشار (L08; L09, twice; L10), أخماس (L10); below the alif: إلا (L06, L07, L08, L09, L10); on ي: ثلثمائة (L01), مائتان (L02), مائة, اربعمائة (L03), خمسمائة (L04).
+@obs With tanwīn on the final alif: سهماً (L03); without tanwīn as printed: خمسا (L07), مالا (L10).
+@obs The final yā' is printed without dots: فيبقى (L02, L03, L07), the bold على, وأوصى (L05), يبقى (L06), استثنى (L08), خمسى (L09), على (L10).
+@obs The print stretches لكل (L04, between the ل and the ك) with the elongation stroke; the stroke is not transcribed.
+@obs Notes (١) and (٢) of the editors restate the two problems in modern notation. (١), on the problem of frame 095, with the daughter's share x: the bequests x and 9/20 (2/5 − x), together 11/20 x + 9/50; what remains, 41/50 − 11/20 x, equals seven shares, 7x; hence x = 82/755, the daughter 82 parts of 755 and a son twice as much; the note ends «والوصيتان هما ٨٢ ، ١٠٨ أجزاء», the bequests 82 and 108 parts. The second bequest is 99 parts, 9/20 (2/5 − 82/755) = 99/755, as the text has it (L02), and 755 − 82 − 99 = 574 = 7 × 82, while with 108 the remainder, 565, is not a multiple of seven (checked exactly). (٢), on the problem of this page, with a son's share 2x: the bequest 2x − 9/20 (2/5 − 2x), printed «= ٢٩/١٠ س − ٩/٥٩», where the constant is 9/50, as the next line of the note has it; what remains, 59/50 − 29/10 x, equals 7x; hence x = 59/495, the daughter 59 parts of 495, a son twice as much and the bequest 82 (checked exactly). Neither note is reproduced.

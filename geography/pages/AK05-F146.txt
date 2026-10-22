@@ -1,0 +1,49 @@
+@page 146 ١٤٠
+% Frame 146, printed p. 140: the Euphrates concluded, past Malaṭya and Hanzīṭ, between the mountain al-Lukkām and
+% Shimshāṭ, by Sumaysāṭ on its bank, by Manbij and over its bridge, by Bālis, al-Raqqa and al-Rāfiqa, around ʿĀna,
+% al-Ḥadītha, Ālūsa and al-Nāʾūsa, by Hīt and al-Anbār, a part of it to al-Kūfa, into the marshes; a river out of it
+% into the marshes; a river out of it by al-Anbār into Baghdad; and a river from a mountain by Hanzīṭ into the
+% Euphrates. The editor's running numbers (٢١٢٢)-(٢١٢٩) and the numbers of Suhrāb; words and a letter supplied by the
+% editor between angle brackets. Nine lines of the editor's footnotes.
+(٢١٢٢) [١٤٨٨] ويمرّ فيما بين ملطية ومدينة هنزيط{n:a} ويمرّ فيما بين جبل اللكّام ومدينة
+شمشاط ⟨ومدينة⟩{n:b} سميساط على شطّه ويمرّ فيما بين جبل{n:c} ⟨و⟩{n:d} مدينة منبج وعلى جسر
+منبج ويمرّ على بالس والرقّة والرافقة{n:e} جميعاً بما بينهما ويمرّ فيحيط بعانة والحديثة وآلوسة{n:f}
+والناؤوسة{n:g} ويمرّ فيماسّ{n:h} هيت ويمرّ بالأنبار ويمرّ قطعة منه الى الكوفة ويمرّ الى موضع
+طوله {ov:عا {z}} والعرض {ov:لا {z}} (٢١٢٣) [١٤٨٩] ومصبّه فى البطائح عند طول {ov:عح {z}} والعرض
+{ov:لا ل} (٢١٢٤) [١٤٩٠] * ويخرج من الفرات من موضع طوله {ov:عا {z}} والعرض {ov:لا {z}}
+(٢١٢٥) [١٤٩١] نهر ايضاً يصبّ في البطائح * ويخرج ايضاً من الفرات ⟨نهر⟩{n:i}
+مماسّ* للأنبار{n:k} فيما بين الأنبار والكوفة من موضع طوله {ov:سح ن} والعرض {ov:لب كه}
+(٢١٢٦) [١٤٩٤] ومصبّه فى بغداد عند طول {ov:سط م}{n:l} والعرض {ov:لح {z}} (٢١٢٧) *
+ويقع الى نهر الفرات نهر من جبل اوّله عند طول {ov:سب ك} والعرض {ov:ما {z}} (٢١٢٨)
+[١٤٩٢] يمرّ بمدينة هنزيط{n:m} ويصبّ فى الفرات عند طول {ov:سا ل} والعرض {ov:لط ك}
+(٢١٢٩) [١٤٩٣] *
+@ednotes a b c d e f g h i k l m 9
+@obs The Euphrates goes on from p. 139 (frame 145), whose last words, «⟨يمرّ الى طرف⟩ جبل مٮڡنبا عند طول س ك والعرض مب ك», it passes to the edge of the mountain مٮڡنبا at the longitude 60° 20′ and the latitude 42° 20′, L01 continues with the running number of that point, (٢١٢٢), and its number of Suhrāb.
+@obs L01-L05: «ويمرّ فيما بين ملطية ومدينة هنزيط ويمرّ فيما بين جبل اللكّام ومدينة شمشاط ⟨ومدينة⟩ سميساط على شطّه», and it passes between Malaṭya and the town Hanzīṭ, passes between the mountain al-Lukkām and the town Shimshāṭ, ⟨and the town⟩ Sumaysāṭ on its bank; «ويمرّ فيما بين جبل ⟨و⟩ مدينة منبج وعلى جسر منبج ويمرّ على بالس والرقّة والرافقة جميعاً بما بينهما», passes between a mountain ⟨and⟩ the town Manbij and over the bridge of Manbij, passes by Bālis, al-Raqqa and al-Rāfiqa, all of them, with what lies between them; «ويمرّ فيحيط بعانة والحديثة وآلوسة والناؤوسة ويمرّ فيماسّ هيت ويمرّ بالأنبار ويمرّ قطعة منه الى الكوفة ويمرّ الى موضع طوله عا {z} والعرض لا {z} (٢١٢٣)», passes and surrounds ʿĀna, al-Ḥadītha, Ālūsa and al-Nāʾūsa, passes touching Hīt, passes al-Anbār, a part of it passes to al-Kūfa, and it passes to a place whose longitude is 71° 0′ and the latitude 31° 0′; «ومصبّه فى البطائح عند طول عح {z} والعرض لا ل (٢١٢٤) *», and its mouth is in the marshes at the longitude عح ō and the latitude 31° 30′.
+@obs The places are entries of the table of the cities: Malaṭya, 366, and Hanzīṭ, 367 (frame 031, L16, L17), where the editor records the forms of the manuscript هرٮط, at this entry and at (2129), and هيرٮط at (2123), as notes a and m of this page; Shimshāṭ, 368, and Sumaysāṭ, 369 (frame 032, L01, L02); Manbij, 273, Bālis, 278, the bridge of Manbij, 281, and al-Raqqa the White, 284 (frame 026, L06, L11, L14, L17); al-Ḥadītha, 288, al-Nāʾūsa, 289, and Ālūsa, 290, the last two without coordinates, Hīt, 291, al-Anbār, 292, al-Kūfa, 299, and Baghdad, 300 (frame 027, L02-L06, L13, L14). The mountain al-Lukkām is entries 745-746 of the table of the mountains (frame 056, L15). The editor's note e records that al-Rāfiqa is not in the table of the cities; at entry 288 he compares «بعانة والحديثة» of this entry (2123) with the reading of the manuscript there.
+@obs L06-L07: «ويخرج من الفرات من موضع طوله عا {z} والعرض لا {z} (٢١٢٥) نهر ايضاً يصبّ في البطائح *», and out of the Euphrates, from a place whose longitude is 71° 0′ and the latitude 31° 0′, comes a river that also flows into the marshes.
+@obs L07-L09: «ويخرج ايضاً من الفرات ⟨نهر⟩ مماسّ* للأنبار فيما بين الأنبار والكوفة من موضع طوله سح ن والعرض لب كه (٢١٢٦) ومصبّه فى بغداد عند طول سط م والعرض لح {z} (٢١٢٧) *», and out of the Euphrates comes also ⟨a river⟩, touching al-Anbār, between al-Anbār and al-Kūfa, from a place whose longitude is سح ن and the latitude 32° 25′, and its mouth is in Baghdad at the longitude 69° 40′ and the latitude لح ō. The table of the cities gives Baghdad the longitude عح ō (frame 027, L14); the editor's note l concerns this longitude.
+@obs L10-L12: «ويقع الى نهر الفرات نهر من جبل اوّله عند طول سب ك والعرض ما {z} (٢١٢٨) يمرّ بمدينة هنزيط ويصبّ فى الفرات عند طول سا ل والعرض لط ك (٢١٢٩) *», and into the river Euphrates falls a river from a mountain, whose beginning is at the longitude 62° 20′ and the latitude 41° 0′; it passes the town Hanzīṭ and flows into the Euphrates at the longitude 61° 30′ and the latitude 39° 20′.
+@obs Numerals: «عا {z}» (L05, L06), 71° 0′; «لا {z}» (L05, L06), 31° 0′; «لا ل» (L06), 31° 30′; «لب كه» (L08), with the dot of the ب, 32° 25′; «سط م» (L09), 69° 40′; «سب ك» (L10), with the dot of the ب, 62° 20′; «ما {z}» (L10), 41° 0′; «سا ل» (L11), 61° 30′; «لط ك» (L11), 39° 20′.
+@obs «عح {z}» (L05), «سح ن» (L08), with the dot of the ن, and «لح {z}» (L09): the ح shows no dot in the bowl; the same form is a ج without its dot, 3. Read with ح, 78° 0′, 68° 50′ and 38° 0′; read with ج, 73° 0′, 63° 50′ and 33° 0′.
+@obs Angle brackets, each followed by a note mark, around what the editor supplies: «⟨ومدينة⟩» (L02), note b; «⟨و⟩» (L02), note d, printed with a space before «مدينة»; «⟨نهر⟩» (L07), note i. Transcribed with the brackets.
+@obs L08: «مماسّ*»: an asterisk with six solid arms stands after the word, raised like the note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (frame 046, L10), as on frames 135 (L03) and 141 (L06); the stars of L06, L07, L09 and L12 are open.
+@obs L07: «في» is printed with the two dots of the ي below the final letter, where «فى» elsewhere on the page (L05, L09, L11) ends in a ى without dots.
+@obs Signs in the text, transcribed as printed: «ويمرّ» (L01, twice; L02; L03, twice; L04, four times) and «يمرّ» (L11) with a shadda over the ر; «اللكّام» (L01) with a shadda over the ك; «شطّه» (L02) with a shadda over the ط; «والرقّة» (L03) with a shadda over the ق; «جميعاً» (L03) and «ايضاً» (L07, twice) with the tanwin of the accusative over the alif; «وآلوسة» (L03) with a madda over the alif; «والناؤوسة» (L04) with a hamza over the و; «فيماسّ» (L04) and «مماسّ» (L08) with a shadda over the س; «بالأنبار» (L04), «للأنبار» and «الأنبار» (L08) with a hamza over the alif; «ومصبّه» (L05, L09), «يصبّ» (L07) and «ويصبّ» (L11) with a shadda over the ب; «البطائح» (L05, L07) with a hamza on the tooth; «اوّله» (L10) with a shadda over the و; «على» (L02, twice; L03), «الى» (L04, twice; L10) and «فى» end in a ى without dots.
+@obs The running numbers run (٢١٢٢)-(٢١٢٩) without a gap. The numbers of Suhrāb: [١٤٨٨]-[١٤٩١] after (٢١٢٢)-(٢١٢٥); [١٤٩٤] after (٢١٢٦); (٢١٢٧) has none; [١٤٩٢] after (٢١٢٨), at the beginning of L11; and [١٤٩٣] after (٢١٢٩).
+@obs Asterisks: the small open stars with six points, after [١٤٩٠] (L06), after «البطائح» (L07), after (٢١٢٧) (L09) and after [١٤٩٣] (L12), are transcribed as asterisks; the editor's asterisk after «مماسّ» (L08) is transcribed after the word.
+@obs Note marks: L01, a after «هنزيط»; L02, b after «⟨ومدينة⟩», c after «جبل» and d after «⟨و⟩»; L03, e after «والرافقة» and f after «وآلوسة»; L04, g after «والناؤوسة» and h after «فيماسّ»; L07, i after «⟨نهر⟩»; L08, k after «للأنبار»; L09, l after the longitude; L11, m after «هنزيط».
+@obs Marks not transcribed: small specks before the stars of L09 and L12 and above the ١ of (٢١٢٩) (L12); other specks of the impression.
+@obs The editor's footnotes stand in nine lines below a short rule at the left: notes a-m. The page number «— ١٤٠ —» stands at the foot, centred.
+@variant L01: the manuscript reads هيرٮط, with the two dots of the ي and a tooth without a dot before the ط (note a).
+@variant L02: the word between the brackets is missing in the manuscript (note b).
+@variant L02: in the manuscript the word جبل stands above the following word مدينة (note c).
+@variant L02: the letter between the brackets is missing in the manuscript (note d).
+@variant L03: the town الرافقة is not named in the table of the cities (note e).
+@variant L03: a variant reading of the name is الومه (note f).
+@variant L04: the manuscript reads الٮاروسه, the tooth after the article without a dot (note g).
+@variant L04: the manuscript reads فيما بين (note h).
+@variant L07: the word between the brackets is missing in the manuscript (note i).
+@variant L08: the manuscript reads الانبار; the editor suggests that the manuscript may set two readings side by side, the one ممّا بين الأنبار ⟨والكوفة⟩, the other فيما بين الأنبار والكوفة (note k).
+@variant L09: the editor remarks that this longitude presupposes a longitude of Baghdad other than the one given at (٣٠٠), the entry of Baghdad in the table of the cities (frame 027; the note prints [٣٠٠], corrected in the editor's corrigenda (p. 163, frame 169)), and compares the values that agree with it at [٢٦٦], in Yāqūt I ٦٧٨, 24, and in Abū l-Fidāʾ ٣٠٢ (note l).
+@variant L11: the manuscript reads هرٮط, with a tooth without a dot before the ط (note m).

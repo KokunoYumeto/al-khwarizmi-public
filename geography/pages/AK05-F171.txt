@@ -1,0 +1,8 @@
+@page 171 -
+@kind plate
+% Frame 171: plate I, «TAFEL 1»: the map of the island of the Yāqūt and of the mountain around it, from fol. 11ᵇ of
+% the Strasbourg manuscript, printed sideways on the page.
+@fig AK05-F171-FIG1 350 100 2100 3360
+@obs The plate reproduces in halftone the map on fol. 11ᵇ of the manuscript, which the editor's list of plates (p. 162, frame 168) names the map of the island of the Yāqūt, «جزيرة الياقوت», and of the mountain around it, with south at the top; the text describes the mountain on p. 42 (frame 048). The map is printed sideways on the page; the caption «TAFEL 1», in Latin capitals, stands in the margin and reads with the map.
+@obs The map shows a long oval ring with leaf-like scallops along its outer side, the mountain; inside it a dark round mass with wavy hatching, the island, and at the centre of the island a small ring that holds writing; a straight line crossing the ring near one end, with writing beside it inside the ring; writing inside the ring on the other side of the island; and two lines of writing outside the ring.
+@obs The plate is reproduced as an image (the crop of the frame and its derivative); its handwritten text is not transcribed.

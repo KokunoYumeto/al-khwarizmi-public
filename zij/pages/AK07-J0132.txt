@@ -1,0 +1,59 @@
+@page 132 100
+@lang de
+% JP2 0132: Suter's commentary, p. 100: chapter 37 continued: al-Khwārizmī's method according to Ibn Hibintā; the
+% tables of the projection of the rays recast for Cordova; the first row of Table 91 compared with the oblique
+% ascensions for 38° 30′; the first example of their use begins (notes 1-3).
+@p Welchen Weg hat nun {sp:Kh.} eingeschlagen ? Nach dem, was {sp:Nallino}{sup:1}) aus
+{sp:Ibn Hibintā} zitiert, müsste man schliessen, {sp:Kh.} sei ungefähr so verfahren, wie
+oben von {sp:Dorotheus} berichtet wurde, nur habe er die Rectascension des Aequator-
+bogens wieder in Ekliptikgrade verwandelt, und dann diesen Ekliptikbogen als Radius
+des Sextilscheins genommen. Die uns hier vorliegenden Tafeln weichen aber von
+den Tafeln {sp:Kh.}’s, wie sie {sp:Ibn Hibintā} uns überliefert hat, und von denen {sp:Nallino}
+mir gütigst eine Probe übersandt hat, sowohl in der Anordnung als im Inhalt wesent-
+lich ab ; erstens gehen sie nur von 10° zu 10° der Zeichen, die unsrigen aber von
+5° zu 5° ; zweitens geben sie jeweilen nicht die ganze Rectascension vom Frühlings-
+punkt an gerechnet, sondern nur die Rectascension jedes Zeichens für sich{sup:2}) ; auch
+die Zahlen für den Sextil-, Quadrat- und Trigonalschein sind andere. Unsere Tafeln
+nehmen die {i:Ascensiones obliquae} für die Breite von {i:Cordova,} die {sp:Maslama} zu 38° 30′
+angibt, zur Grundlage ; die Tafeln {sp:Kh.}’s für die {i:proiectiones radiorum} sind also eben-
+falls für Cordova umgearbeitet worden. Aber nun erwächst für uns ein schwieriges
+Problem ; die Ascensiones obliquae stimmen jeweilen nur mit den Zahlen der ersten
+drei Kolonnen, nachher weichen sie ziemlich stark ab ; geben wir hiefür ein Beispiel :
+@p Tafel 91, erste Zeile, hat folgende Zahlen :
+@t Gradus | Aries | Taurus | Gemini | Cancer | Leo | Virgo
+@t aequales | (Libra) | (Scorpius) | (Sagittar.) | (Capricorn.) | (Aquar.) | (Pisces)
+@t 5° | 2° 58′ | 21° 50′ | 45° 20′ | 76° 0′ | 106° 32′ | 131° 9′
+@p Die Ascensiones obliquae der ersten 5 Grade jedes Zeichens sind aber für die
+Breite 38° 30′ :
+@t | 3° 0′ | 21° 55′ | 45° 5′ | 75° 18′ | 111° 24′ | 149° 2′
+@p Diese Abweichungen in den letzten drei bis vier Kolonnen zeigen sich überall,
+woher rühren sie ? Es ist mir bis jetzt nicht gelungen, dies zu erklären, die Art und
+Weise, wie die Tafeln berechnet worden sind, ist mir also noch dunkel, doch habe
+ich aus den, wenn auch sehr kurzen und oft durch die verdorbene lateinische Über-
+setzung entstellten Regeln des Textes herausgefunden, wie man sie zur Bestimmung
+des Ortes der Strahlenwerfung benutzen muss. Ich gebe hiefür drei {i:Beispiele} :
+@p 1. Zur Berechnung des Ortes braucht man in erster Linie das {i:Horoskop}{sup:3}),
+d. h. den Grad der Ekliptik, der zur bestimmten Zeit (der Berechnung) aufgeht, er
+sei 55° (= 25° des Stiers), in zweiter Linie die {i:Länge} des Planeten, sie sei 65° (5° der
+Zwillinge). Man sucht nun in den Tafeln zuerst das Feld ({i:area}) auf, das dem Horo-
+skop 25° des Stiers entspricht, es ist das Feld auf Tafel 94, das mit {i:Viginti quinque}
+{i:gradus tauri} überzchrieben ist, dann tritt man mit der Länge des Planeten, 5° der
+Zwillinge, in dieses Feld ein, d. h. man sucht 5° in der ersten Kolonne, und geht
+horizontal weiter bis zur Kolonne, die oben mit {sk:Gemini|Sagittar.} überschrieben ist, hier findet
+@n {sup:1}) Ibid. I, 312.
+@n {sup:2}) d. h. z. B. die Rectascension des Widders, also von 30°, ist 27° 54′, diejenige von Widder
+@n und Stier zusammen, also von 60°, ist 57° 48′, daher ist diejenige des Stiers allein gleich der Diffe
+@n renz dieser Zahlen, d. i. = 29° 54′.
+@n {sup:3}) {i:Horoscopus} = {i:Ascendens.}
+@obs The page number «100» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 begins a new paragraph after the end of p. 99 (JP2 0131, L35).
+@obs L18-L20 and L23: two tables divided by vertical rules: the first of seven columns, the degrees and the six pairs of signs, the second of the six values under the same rules, its first column empty. Each printed row is one line here, the cells separated by our «|»; the empty first cell of L23 keeps the values under their columns. Small specks before «111° 24′» and «149° 2′» (L23), a dark dot above «Hibintā» (L06), and dots in the left margin beside L15 and L17 are not transcribed.
+@obs L01-L13 and N01. Checked against Nallino I, 312: the method of adding 60°, 90° or 120° to the right ascension of the star and taking the point of the ecliptic with the resulting right ascension is the one on which al-Khwārizmī relied «in tabulis radiationum construendis», «si quae Ibn Hibintà f. 34, r.–v. narrat recte intelligo»; Ibn Hibintā gives the tables on ff. 35r-37v. N02. Checked: 57° 48′ − 27° 54′ = 29° 54′. The right ascensions of 30° and 60° are 27° 50′ and 57° 44′ with the obliquity 23° 51′, 27° 53′ and 57° 47′ with al-Battānī's 23° 35′.
+@obs L17-L23. Checked: the oblique ascensions of 5° of each sign at the latitude 38° 30′, counted from the vernal point, are 3° 0′, 21° 53′, 45° 0′, 75° 14′, 111° 22′ and 149° 1′ with the obliquity 23° 35′ (with 23° 51′: 2° 58′, 21° 42′, 44° 44′, 74° 58′, 111° 13′, 148° 58′); Suter's values of L23 lie within 5′ of the first. The values of Table 91 are to be compared with the table.
+@obs L30-L37: 55° = 25° of Taurus, 65° = 5° of Gemini. L37: «Gemini» over «Sagittar.», the heading of a column of the tables quoted in the line, in small type, written {sk:TOP|BOTTOM}. The field «Viginti quinque gradus tauri» of Table 94 to be compared with the table.
+@obs L35: «überzchrieben»; N03: «Diffe» at the end of the line without its hyphen; see the critical notes. L25: «sie ?», the question mark after a wider space (21 px); L01 «eingeschlagen ?» (10 px).
+@obs Spaced type, marked {sp:}: «Kh.», «Nallino», «Ibn Hibintā», «Dorotheus», «Maslama»; italics: «Ascensiones obliquae» (L12; upright in L15 and L21), «Cordova,», «proiectiones radiorum», «Beispiele», «Horoskop», «Länge», «area», «Viginti quinque gradus tauri», «Horoscopus», «Ascendens.».
+@obs The colons and semicolons stand after the thin space of the edition (11-14 px measured).
+@critical AK07-CN078 | wrong sort | L35 | überzchrieben | überschrieben | «überschrieben», as in L37; the s is printed as z | high | none
+@critical AK07-CN079 | missing hyphen | N03 | Diffe | Diffe- | «Differenz» is divided between N03 and N04 without the hyphen of the division | high | none
+@critical AK07-CN284 | wrong word | L09 | die ganze Rectascension | die ganze Ascensio obliqua | the list of misprints, p. [237] (JP2 0271, L16), reads «Ascensio obliqua» for «Rectascension» in L09 and L10; footnote 2 (N02-N04), whose numbers are right ascensions, is left as it stands | high | none
+@critical AK07-CN285 | wrong word | L10 | nur die Rectascension | nur die Ascensio obliqua | the list of misprints, p. [237] (JP2 0271, L16), reads «Ascensio obliqua» for «Rectascension» in L09 and L10 (critical note AK07-CN284) | high | none

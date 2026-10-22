@@ -1,0 +1,110 @@
+@page 288 254
+@lang de
+% JP2 0288: the index of names and subjects, p. 254: Robertus Ketenensis to Uhlemann (R-U), in two columns.
+@cl Robertus Ketenensis od. Retinensis s. Robert
+@cl von Chester.
+@cl Rodbertus Cestrensis s Robert von Chester.
+@cl Roger von Hereford XII, 106.
+@cl Rose, astrologische 102—105.
+@cl Rota = circumferentia, peripheria, sphaera 4,
+@cl 7 ; s. auch Durchmesser.
+@cl — draconis s. Durchmesser des Erdschattens.
+@cl Rudolf von Brügge XIII, XVIII.
+@cl Rückläufigkeit s. das folg.
+@cl Rückwärtsschreiten, der Planeten 12, 55, 56 ;
+@cl Zeit desselben 12, 13, 56—58.
+@cl Rumor (?) 31.
+@cl {b:S.}
+@cl Sachau, E. 37, 38, 49, 66, 79, 105, 235.
+@cl Savasorda X.
+@cl Schaden s. Alienatio.
+@cl Schaltjahre der Araber 34, 37 ; der julian. Zeit-
+@cl rechnung s. Annus bissextus.
+@cl Schatten s. Umbra.
+@cl Schiaparelli, Giov. XXIV, 66, 80—83.
+@cl Schiefe der Ekliptik s. Ekliptik.
+@cl — der Mondbahn s. Mondbahn.
+@cl Schram, R. 83, 85 (N. 2).
+@cl Semita numerorum (Kolonne der Zahlen) 69,
+@cl 78, T. 21, 22 etc., 58, 58{sup:a}, 61—66.
+@cl Sened b. ʿAlī 32.
+@cl Servitus s. Tiefstand.
+@cl Sexagesimalteile s. Multiplikationstafel.
+@cl Sextilschein (Exagonum) 30, 31, 98—101, T.
+@cl 91—114.
+@cl Seybold, C. F. XXI.
+@cl Siddhāntas VIII, 32, 59, 65, 70, 105, 106 ; Ārya-S.
+@cl 65, 66 ; Brahma-S. 32, 65, 235 ; Śiromani-S. 70 ;
+@cl Sūrya-S. 32, 33, 42, 43, 45, 46, 51, 52, 58—60,
+@cl 62, 64, 65, 68, 74, 75, 78—80, 86, 90, 92.
+@cl Signa s. Notae.
+@cl Signum, Tierkreiszeichen 14, 15, 41, 71 ; Auf-
+@cl gänge derselben in der geraden Sphäre
+@cl 18—20, 72, 73, T. 59, 59{sup:a} ; s. auch Ascensiones
+@cl rectae ; in der schiefen Sphäre 20, 21, 73—76 ;
+@cl s. auch Ascensiones obliquae.
+@cl Sindhind 32, 33, 43, 46, 49, 70, 103, 235.
+@cl Sinus, Auffindung desselben 17, 18, 68—71, T.
+@cl 58 und 58{sup:a}.
+@cl — der Ergänzung (Cosinus) 73, 77.
+@cl — diminutus (versus) 17, 69, 71.
+@cl — planus (rectus) 17, 21, 22, 69, 71, 77.
+@cl Sonne s. Bewegung, Länge, Sublimatio, Dekli-
+@cl nation, Durchmesser, Examinatio, Verfin-
+@cl sterung.
+@cr Spatium longinquum (remotum) 26—28, 86 87,
+@cr 94, 95.
+@cr — propinquum 26—28, 86, 87, 94, 95.
+@cr Stationen, der Planeten 12, 13, 55—58, T. 27—56.
+@cr Steinschneider, M. XIII, 41.
+@cr Sternjahr s. Jahr, siderisches.
+@cr Stillstand der Planeten, s. Stationen.
+@cr Stunden, ungleiche, s. Zeitstunden.
+@cr Stundenwinkel 92, 93.
+@cr Stupor 22—24, 80.
+@cr Sublimatio (Apogeum) des Mondes 14, 15, 64,
+@cr 88 ; der Planeten 14, 15, 46—50, 52, 53, 60, 63,
+@cr 64, 235 ; der Sonne 9, 14, 33, 43, 44, 46, 47,
+@cr 67, 82.
+@cr — examinata vel definita 10, 11, 49, 50, 53, 54,
+@cr T. 27—56.
+@cr Submissio (Perigeum) 14, 15, 47, 63, 64, 88.
+@cr Sullimatio s. Sublimatio.
+@cr Syzygien s. Konjunktion und Opposition.
+@cr {b:T.}
+@cr Tabula (vel pagina) differentiarum 21, 76.
+@cr — correctionis 95.
+@cr Tabulae proportionis 26, 27, 88, 94, T. 73—75.
+@cr — spuriae (al-Battānīs) XV, 40, 102.
+@cr Tafeln (astron.) : die alphonsinischen 35 ; die
+@cr des Battānī s. al-Battānī ; die erprobten 32,
+@cr 46, 47, 58 ; die persischen (des Shâh) 32, 45,
+@cr 49, 51, 52, 105, 106, 235 ; die nach dem Sind-
+@cr hind verfassten VIII, 70; die Theon’schen 94.
+@cr Tagebogen des Ascendenten 97.
+@cr Tagesstunden 20, 25, 76, 97, 98.
+@cr Tangens s. Umbra.
+@cr Tempora = Aequatorialgrade 97.
+@cr Termini s. Grenzen.
+@cr Tetragonum s. Quadratschein.
+@cr Thābit b. Ḳurra XI.
+@cr Thebit s. Thābit.
+@cr Thibaut, G. 42, 46, 64, 68, 75, 90, 235.
+@cr Thoth (ägypt. Gottheit) XXII.
+@cr Tiefstand 104, T. 116.
+@cr Tierkreiszeichen s. Signum.
+@cr Trepidation der Fixsterne 42.
+@cr Trigonalia s. Triplizitäten.
+@cr Trigonalschein 30, 31, 98, 99, 101, T. 91—114.
+@cr Trigonum s. das vorhergeh.
+@cr Triplizitäten 104.
+@cr {b:U.}
+@cr Udjain s. Arin.
+@cr Uhlemann 105.
+@obs The page number «254» stands at the head of the page, centred, with a rule below it. The page has no signature. Two columns divided by a vertical rule, as on pp. [249]-253 (JP2 0283-0287), transcribed column by column: the left column L01-L51, the right L52-L100; the letter heads «S.» (L14), «T.» (L71) and «U.» (L98) in bold, centred in their columns, each after a blank line; each entry begins at the edge of its column, its further lines indented, the subentries with a dash indented less.
+@obs The semicolons of L07, L11, L18, L33, L34 (three), L38, L40, L41 (two), L63, L64, L76 (and its colon), L77, L78 and L79 stand after a thin space (6-11 px); written with a space. L80: the semicolon after «70» is set close (5 px); written without a space. L78: «Shâh» with a circumflex over the a, where the commentary and the glossary have «Shāh» with the macron (p. 32, JP2 0064; p. 246, JP2 0280); transcribed as printed. L80: «Theon’schen», the apostrophe ’. L26: the 1 of «21» is printed with a mark below it, part of the stain described below. L34: «Śiromani», the S with an acute accent; L87: «Ḳurra» with the dot below the K. The dashes are long (27-47 px).
+@obs A stain of dark specks lies over L27-L29 of the left column: over «b.» and the ʿayn of «Sened b. ʿAlī» and a speck below its «32», over the t of «Servitus» and over «sima» of «Sexagesimalteile»; below the 1 of «21» (L26) and over the 9 of «59» (L33). It is a mark in this copy, not part of the print; the words read as transcribed.
+@obs Checked against the text, for example: «Ketenensis» and «Retinensis» on p. XII (JP2 0016), «Cestrensis» on pp. VIII and XI, «Roger» on pp. XII and 106, the astrological rose on pp. 102-105, «rota» on pp. 4 and 7, «Rudolf» on p. XIII, the retrogradation on pp. 12 and 55-57, «rumor» on p. 31, «Sachau» on all the pages cited, «Savasorda» on p. X, «Schaltjahr» on pp. 34 and 37, «Schiaparelli» on pp. XXIV, 66 and 80-83, «Schram» on pp. 83 and 85, «Sened b. ʿAlī» on p. 32, «Seybold» on p. XXI, «Ārya» on pp. 65-66, «Śiromani» on p. 70, the Sindhind on all the pages cited, «Steinschneider» on pp. XIII and 41, «Stundenwinkel» on pp. 92-93, «stupor» on pp. 22-24 and 80, «Sullimatio» in the text, «differentiarum» on pp. 21 and 76, «correctionis» on p. 95, «spuriae» on pp. XV and 102, the Alphonsine tables on p. 35, the tested tables («erprobten Tafeln») on pp. 32, 46, 47 and 58, the Theonic tables on p. 94, «Tagebogen» on p. 97, «Thābit» on p. XI, «Thibaut» on all the pages cited, «Thoth» on p. XXII, the trepidation on p. 42, the triplicities on p. 104, «Uhlemann» on p. 105.
+@critical AK07-CN320 | missing point | L03 | Cestrensis s Robert | Cestrensis s. Robert | the abbreviation «s.» (siehe) has its point everywhere else in the index, as «Retinensis s. Robert von Chester» two lines above (L01); here no point is printed after the s | high | none
+@critical AK07-CN321 | missing comma | L52 | 86 87, | 86, 87, | the references of an entry are divided by commas, as «86, 87, 94, 95» in the next entry (L54) | high | none
+@critical AK07-CN322 | wrong accent | L78 | Shâh | Shāh | the name is printed «Shāh», with the macron, in the commentary (p. 32, JP2 0064; p. 52, JP2 0084) and in the glossary (p. 246, JP2 0280, L94); the index alone has the circumflex | medium | none

@@ -1,0 +1,56 @@
+@page 133 101
+@lang de
+% JP2 0133: Suter's commentary, p. 101: chapter 37 continued: the three examples of the use of the tables of the
+% projection of the rays (Tables 94, 111-113); the rules for the right aspects; the comparison with Regiomontanus
+% begins (notes 1-2).
+man die Zahl 26° 45′, zu dieser muss man die Zahl, die am Kopf dieses Feldes bei
+{i:Exagonum} (Sextilschein) steht, also 53° 30′ addieren{sup:1}), dies gibt 80° 15′ ; diese Zahl
+sucht man in demselben Feld unter den Zahlen der sechs Zeilen und sechs Kolonnen,
+und findet die nächst höhere 80° 23′ in der 5. Zeile, 4. Kolonne, dazu gehört (sie wird
+als eine {i:ascensio obliqua} aufgefasst) die Länge 25° des Krebses, die Interpolation ergibt
+für die Differenz 80° 23′ — 80° 15′ = 8′ die Zahl 7′, also ist der Ort (= Länge) des
+{i:linken Sextilscheins} = 24° 53′ des Krebses{sup:2}). Will man den Ort des rechten Sextil-
+scheins haben, so muss man den Ort des linken Trigonalscheins suchen, und zu ihm
+180° addieren.
+@p 2. {i:Horoskop} = 317° (= 17° des Wassermanns), {i:Länge} des Planeten = 138°
+(= 18° des Löwen). Im Felde von Tafel 111, überschrieben {i:Quindecim gradus Aquarii,}
+findet man zu 18° des Löwen mit Zuhilfenahme der Interpolation die Zahl 14° 16′,
+dazu die Zahl, die am Kopfe des Feldes bei {i:Exagonum} steht, 49° 28′ addiert, gibt
+63° 44′, zu dieser Zahl findet man in demselben Feld mit Hilfe der Interpolation die
+Länge 3° 40′ des Skorpions. Da nun aber das Horoskop nicht 15°, sondern 17° des
+Wassermanns, so muss man noch den Sextilschein für 20° des Wassermanns bestimmen,
+diesen findet man nach dem gleichen Verfahren im nächsten Felde (Tafel 112) = 3° 55′
+des Skorpions ; die Differenz der beiden Werte ist also für 5° des Horoskops = 15′,
+für 2° (von 15° auf 17°) also = 6′, dies zu 3° 40′ addiert, gibt für den gesuchten Ort
+des {i:linken Sextilscheins} 3° 46′ des Skorpions.
+@p 3. {i:Horoskop} = 335° (= 5° der Fische), {i:Länge} des Planeten = 115° (= 25° des
+Krebses). Im Felde von Tafel 113, überschrieben {i:Quinque gradus Piscium} findet man
+zu 25° des Krebses die Zahl 117° 13′, dazu die Zahl, die bei {i:Exagonum} steht, 48° 19′
+addiert, gibt 165° 32′ ; diese Zahl findet man in diesem Felde nicht mehr, die höchste
+desselben ist 144° 58′, diese subtrahiert man von der erhaltenen, bleibt 20° 34′, dazu
+findet man in der 1.—2. Kolonne desselben Feldes mit Hilfe der Interpolation die
+Länge 3° 45′ der Wage als Ort des {i:linken Sextilscheins.}
+@p Hat man die {i:linken} Sextil-, Quadrat- und Trigonalscheine auf diese Weise
+bestimmt, so findet man die {i:rechten} nach den Regeln :
+@t Der rechte | Trigonalschein | ist der Nadir des linken | | Sextilscheins.
+@t „ „ | Quadratschein | „ „ „ „ „ | | Quadratscheins.
+@t „ „ | Sextilschein | „ „ „ „ „ | | Trigonalscheins.
+@p So ist also im 1. Beispiel der rechte Trigonalschein = 24° 53′ des Steinbocks.
+In den gegebenen drei Beispielen sind alle Fälle zur Darstellung gebracht, die bei
+diesen Bestimmungen eventuell eintreten können und die in den Regeln des Textes
+berücksichtigt sind.
+@p Es gehört wohl die Methode {sp:Kh.}’s zu der von {i:Regiomontan} (l. c.) genannten
+@n {sup:1}) Dies natürlich dann, wenn man den Sextilschein sucht ; sucht man den Quadrat- oder
+@n Trigonalschein, so muss man die Zahl addieren, die am Kopf des Feldes bei {i:Tetragonum,} bezw.
+@n {i:Trigonum} steht.
+@n {sup:2}) Dies ist also c. 10° weniger als sich ergeben würde, wenn man einfach vom Ort des Pla-
+@n neten auf der Ekliptik 60° vorwärts zählen würde, man käme so zu 5° des Löwen.
+@obs The page number «101» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 completes the sentence that ends p. 100 (JP2 0132, L37), «hier findet».
+@obs L01-L09 and N04-N05. Checked: 26° 45′ + 53° 30′ = 80° 15′; 80° 23′ − 80° 15′ = 8′; 25° − 7′ = 24° 53′ of Cancer, 114° 53′; the planet at 65° and 60° more give 125°, 5° of Leo, 10° 7′ beyond 114° 53′, «c. 10°». The entries of Table 94 are to be compared with the table.
+@obs L10-L20. Checked: 317° = 17° of Aquarius, 138° = 18° of Leo; 14° 16′ + 49° 28′ = 63° 44′; 3° 55′ − 3° 40′ = 15′ for 5° of the horoscope, 15′ · 2 : 5 = 6′; 3° 40′ + 6′ = 3° 46′ of Scorpio. L21-L27. Checked: 335° = 5° of Pisces, 115° = 25° of Cancer; 117° 13′ + 48° 19′ = 165° 32′; 165° 32′ − 144° 58′ = 20° 34′. The entries of Tables 111-113 are to be compared with the tables.
+@obs L28-L33. Checked: counted on the ecliptic from the planet at λ, the left aspects lie at λ + 60°, λ + 90°, λ + 120°, the right ones at λ − 60°, λ − 90°, λ − 120°; λ − 120° = (λ + 60°) − 180°, λ − 90° = (λ + 90°) − 180°, λ − 60° = (λ + 120°) − 180°, the three rules of L30-L32, and the rule of L07-L09. 24° 53′ of Cancer and 180° give 24° 53′ of Capricorn, as L33 says.
+@obs L30-L32: the three rules set as a small table, the ditto marks «„» under the words they repeat: twice under «Der rechte», five times under «ist der Nadir des linken». Each printed row is one line here, the cells separated by our «|»; the empty cell gives the fourth column room.
+@obs The dashes: L06 «80° 23′ — 80° 15′», the minus a long dash (47 px) with a space on either side; L26 «1.—2. Kolonne», the long dash (44 px) set close.
+@obs Small marks in L08 («Trigonalscheins»), after «Trigonalschein,» (N02) and after «steht.» (N03); not transcribed.
+@obs Spaced type, marked {sp:}: «Kh.»; italics: «Exagonum», «ascensio obliqua», «linken Sextilscheins», «Horoskop», «Länge» (L10, L21), «Quindecim gradus Aquarii,», «Quinque gradus Piscium», «linken», «rechten», «Regiomontan», «Tetragonum,», «Trigonum».
+@obs The colons and semicolons stand after the thin space of the edition (10-15 px measured).

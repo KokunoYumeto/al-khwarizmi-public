@@ -1,0 +1,210 @@
+{
+ "anchor": "AK02-F003",
+ "frame": 3,
+ "frame_file": "page_003.jpg",
+ "frame_sha256": "c38f2610323c0f873ab2a2afee497a42d8b820780e47b2812a3daeaea6ca2faa",
+ "printed_page": "-",
+ "kind": "title",
+ "role": "MODERN_EDITORIAL (title page)",
+ "comment": "Frame 003: the printed front wrapper of the 1857 edition, on yellow paper, which carries the title within an ornamental border; with the editor's presentation inscription to the Royal Library in Munich.",
+ "lines": [
+  {
+   "id": "AK02-F003-L01",
+   "n": 1,
+   "kind": "centre",
+   "text": "TRATTATI",
+   "margin": null,
+   "plain": "TRATTATI",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F003-L02",
+   "n": 2,
+   "kind": "centre",
+   "text": "D’ ARITMETICA",
+   "margin": null,
+   "plain": "D’ ARITMETICA",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F003-L03",
+   "n": 3,
+   "kind": "centre",
+   "text": "PUBBLICATI",
+   "margin": null,
+   "plain": "PUBBLICATI",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F003-L04",
+   "n": 4,
+   "kind": "centre",
+   "text": "DA BALDASSARRE BONCOMPAGNI",
+   "margin": null,
+   "plain": "DA BALDASSARRE BONCOMPAGNI",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F003-L05",
+   "n": 5,
+   "kind": "centre",
+   "text": "{sc:socio ordinario dell’accademia pontificia de’nuovi lincei,}",
+   "margin": null,
+   "plain": "socio ordinario dell’accademia pontificia de’nuovi lincei,",
+   "italic": [],
+   "small_caps": [
+    "socio ordinario dell’accademia pontificia de’nuovi lincei,"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F003-L06",
+   "n": 6,
+   "kind": "centre",
+   "text": "{sc:e socio corrispondente dell’accademia reale}",
+   "margin": null,
+   "plain": "e socio corrispondente dell’accademia reale",
+   "italic": [],
+   "small_caps": [
+    "e socio corrispondente dell’accademia reale"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F003-L07",
+   "n": 7,
+   "kind": "centre",
+   "text": "{sc:delle scienze di torino,}",
+   "margin": null,
+   "plain": "delle scienze di torino,",
+   "italic": [],
+   "small_caps": [
+    "delle scienze di torino,"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F003-L08",
+   "n": 8,
+   "kind": "centre",
+   "text": "{sc:della reale accademia delle scienze di napoli,}",
+   "margin": null,
+   "plain": "della reale accademia delle scienze di napoli,",
+   "italic": [],
+   "small_caps": [
+    "della reale accademia delle scienze di napoli,"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F003-L09",
+   "n": 9,
+   "kind": "centre",
+   "text": "{sc:e della pontificia accademia delle scienze}",
+   "margin": null,
+   "plain": "e della pontificia accademia delle scienze",
+   "italic": [],
+   "small_caps": [
+    "e della pontificia accademia delle scienze"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F003-L10",
+   "n": 10,
+   "kind": "centre",
+   "text": "{sc:dell’ istituto di bologna}",
+   "margin": null,
+   "plain": "dell’ istituto di bologna",
+   "italic": [],
+   "small_caps": [
+    "dell’ istituto di bologna"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F003-L11",
+   "n": 11,
+   "kind": "centre",
+   "text": "I.",
+   "margin": null,
+   "plain": "I.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F003-L12",
+   "n": 12,
+   "kind": "centre",
+   "text": "ALGORITMI DE NUMERO INDORUM.",
+   "margin": null,
+   "plain": "ALGORITMI DE NUMERO INDORUM.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F003-L13",
+   "n": 13,
+   "kind": "centre",
+   "text": "ROMA",
+   "margin": null,
+   "plain": "ROMA",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F003-L14",
+   "n": 14,
+   "kind": "centre",
+   "text": "TIPOGRAFIA DELLE SCIENZE FISICHE E MATEMATICHE",
+   "margin": null,
+   "plain": "TIPOGRAFIA DELLE SCIENZE FISICHE E MATEMATICHE",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F003-L15",
+   "n": 15,
+   "kind": "centre",
+   "text": "in Via Lata N.° 211.",
+   "margin": null,
+   "plain": "in Via Lata N.° 211.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F003-L16",
+   "n": 16,
+   "kind": "centre",
+   "text": "1857.",
+   "margin": null,
+   "plain": "1857.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The front wrapper, of yellow paper, carries the title within an ornamental border: «Trattati d’aritmetica», treatises of arithmetic, published by Baldassarre Boncompagni, with his academies; «I. Algoritmi de numero Indorum», the first treatise of the series; Rome, the Tipografia delle scienze fisiche e matematiche, Via Lata 211, 1857. The lines of the academies (L05-L10) are set in small capitals. Short rules stand below L04, between L10 and L11 and below L12.",
+  "The wrapper is torn at the lower right corner; the print of its back (frame 004) and of the stamp on it shows through."
+ ],
+ "copy_matter": [
+  "In ink at the top: «A la Bibliothèque Royale / de Munich / B. Boncompagni», the editor's inscription presenting the copy to the Royal Library in Munich, with his signature; at the upper left, in ink, the shelfmark «4° Math. U. 9», with a raised «u» underlined, and a faint mark after it; a short word in pencil at the right, «Rat» or «Kat». The stamp «BIBLIOTHECA REGIA MONACENSIS», rectangular and faded, in the middle of the page, below L10; the oval stamp «Bayerische Staatsbibliothek München» of the back of the wrapper shows through, in mirror image, below L16. Not part of the edition."
+ ],
+ "critical_notes": []
+}

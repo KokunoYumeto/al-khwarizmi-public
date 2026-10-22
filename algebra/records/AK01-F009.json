@@ -1,0 +1,33 @@
+{
+ "anchor": "AK01-F009",
+ "frame": 9,
+ "frame_file": "page_009.jpg",
+ "frame_sha256": "e9bcbb02c7ee74bbc0590abdc8bc9fee01cb0d77ff515075d1452ed8c2825aca",
+ "printed_page": "-",
+ "kind": "facsimile",
+ "role": "MODERN_EDITORIAL (plate: facsimile of the manuscript)",
+ "comment": "Frame 009: a plate: the facsimile, in a line block, of the title page of the manuscript that the edition follows, with the title «كتاب الخوارزمى» in a decorated frame and the notes of owners and readers inside and above it. The editors' study (frame 026, p. ١٤) describes the manuscript as kept in the Bodleian Library at Oxford, written in Cairo and finished on Sunday 19 Muharram 743 of the Hijra, the only copy of the work they knew; the edition gives no shelfmark.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [
+  {
+   "id": "AK01-F009-FIG1",
+   "rect": [
+    650,
+    478,
+    2289,
+    3277
+   ],
+   "after": null
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The facsimile is reproduced as an image; its handwritten text is not transcribed.",
+  "Frame 026: 19 Muharram 743 is 23 June 1342 (Julian), a Sunday, by the arithmetical calendar counted from 15 July 622, and 24 June, a Monday, from 16 July 622; the Sunday of the colophon agrees with the first."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

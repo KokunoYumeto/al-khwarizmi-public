@@ -1,0 +1,56 @@
+@page 61 29
+@lang la
+% JP2 0061: the Latin text, p. 29: the end of chapter 34 (the parallax in latitude); chapter 35, the solar eclipse;
+% chapter 36, the equation of the twelve houses, begins; with the apparatus (notes 1-27).
+nalis{sup:1}), eidem eadem addenda. Quod itaque inde proveniet{sup:2}), idem ipsum intersti-
+tium medii caeli huius horoscopi{sup:3}) et imminentis capitibus nostris erit. Deinde
+latitudo lunae scienda{sup:4}) erit ; si enim fuerit septemtrionalis{sup:5}), erit ipsa latitudo ab
+interstitio praedicto subtrahenda ; si vero meridionalis{sup:6}), eidem eadem addenda.
+Quod ergo{sup:7}) inde procedet, ipsum idem interstitium lunae et imminentis capitibus
+nostris ostendet. Per ipsum itaque in tabulam{sup:8}) diversitatum aspectus intrandum{sup:9})
+eiusque adiunctum in latitudine sumendum{sup:10}). Ipsum enim diversitatem aspectus pro
+latitudine significat. Manifestum est ergo{sup:11}), quia si fuerit medium caelum respectu
+nostri imminentis septemtrionalis{sup:12}), erit etiam diversitas aspectus septemtrionalis{sup:13}),
+sin autem meridionalis{sup:14}), erit et ipsa meridionalis{sup:15}).
+@m C 86{sup:v}, O 142{sup:v}
+@c {b:Cap. 35. De diversitatibus defectuum solis.}
+@m N 49{sup:r}
+@p Defectuum{sup:16}) solis varietatem quaerens, ne in quaestione deficias, sic habendum
+est. In primis quidem coniunctio diurna{sup:17}) firmanda est, sole iuxta draconis caput
+vel caudam existente. Argumentum enim sic se habens aptum erit in defectum{sup:18})
+introducere, aliter vero contrarium. Hic{sup:19}) autem de apto agitur. Ipsum itaque argu-
+mentum latitudinis atque medium caelum in hora coniunctionis, sed et horae diver-
+sitatis aspectus, necnon etiam diversitas aspectus in longitudine diligenter{sup:20}) notanda
+@m O 143{sup:r}
+sunt. Si enim fuerit | locus coniunctionis inter horoscopum et medium caelum, sub-
+trahetur diversitas aspectus in longitudine a coniunctionis loco ; similiterque horae
+diversitatum respectus ab horis{sup:21}) coniunctionis subtrahendae. Quod si fuerit locus
+coniunctionis inter occasum et medium caelum, erit diversitas{sup:22}) aspectus loco con-
+iunctionis, similiterque horae{sup:23}) diversitatis aspectus horis coniunctionis addendae{sup:24}).
+Quod autem inde post additionem vel diminutionem procedet, locum lunae pro
+defectu quem quaeris in zodiaco ostendet. Quod vero{sup:25}) ex horis coniunctionis post
+additionem vel diminutionem exibit, horas coniunctionis quaesitae ponet.
+@m C 87{sup:r}, O 143{sup:v}
+@c {b:Cap. 36. De aequatione XII domorum{sup:26}).}
+@m N 49{sup:v}
+@p His hactenus tractatis quoniam in omnibus providentiis astronomicis horoscopus
+et maximam vim obtinet et ceteris pro suo cuique ordine eum sequentibus impertit,
+subdita est tabula aequationis casarum duodecim{sup:27}) initia ipsarum ostendens. Introi-
+@n {sup:1}) Sin autem meridionalis] N, Sin autem genubi C, Si vero genubia O. — {sup:2}) proveniet] C, procedet
+@n O. — {sup:3}) horoscopi] C, {i:om.} O. — {sup:4}) scienda] ON, scientia C. — {sup:5}) septemtrionalis] N, shemeli C, scemelia O.
+@n — {sup:6}) meridionalis) N, genubi C, genubia O. — {sup:7}) ergo] C, {i:om.} O. — {sup:8}) tabulam] C, paginam O. — {sup:9}) in-
+@n trandum] C, intrabitur O. — {sup:10}) sumendum] C, sumetur O. — {sup:11}) est ergo] C, itaque est O. — {sup:12}) septem-
+@n trionalis] N, shemeli C, scemelium O. — {sup:13}) septemtrionalis] N, shemeli C, scemelia O. — {sup:14}) sin autem
+@n meridionalis] N, sin autem genubi C, si vero genubium O. — {sup:15}) ipsa meridionalis] N, ipsa genubi C,
+@n haec genubia O. — {sup:16}) Defectuum] C, Defectum O. — {sup:17}) diurna] C, {i:om.} O. — {sup:18}) defectum] ON, defec-
+@n tuum C. — {sup:19}) Hic] C, hoc O. — {sup:20}) diligenter] C, {i:om.} O, a coniunctionis loco N. — {sup:21}) ab horis] ON,
+@n ad horas C. — {sup:22}) erit diversitas] O, erunt diversitas quidem C. — {sup:23}) similiterque horae] O, horae quoque
+@n C. — {sup:24}) addendae] O, addenda C. — {sup:25}) vero] C, etiam O. — {sup:26}) De . . . domorum] N, {i:om.} CO. — {sup:27}) duo-
+@n decim] N, XII CO.
+@obs The page number «29» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L10 end chapter 34 (p. 28, JP2 0060); note 1 takes its lemma from «Sin autem meridio-» at the end of p. 28 (L29). L11 and L26: the headings of chapters 35 and 36, in bold, centred; in the right margin «C 86v, O 142v» beside the first and «N 49r» beside L12, «C 87r, O 143v» beside the second and «N 49v» beside L27. L18: the vertical bar between «fuerit» and «locus» marks the beginning of fol. 143 recto of O, which the note in the right margin, «O 143r», names; transcribed as a margin note.
+@obs L01-L10: the parallax in latitude, continued from p. 28: a southern declination of the midheaven is added to the latitude of the place, giving the distance of the midheaven from the point above our heads («imminentis capitibus nostris», the zenith); the moon's latitude, northern, is subtracted from that distance and, southern, added to it, giving the moon's distance from the zenith, with which the table gives the parallax in latitude; it is northern when the midheaven is north of the zenith and southern when it is south of it. Checked: the parallax displaces the moon away from the zenith, towards the north when the moon stands north of the zenith and towards the south when it stands south of it.
+@obs L11-L25: chapter 35, the solar eclipse: a conjunction by day with the sun near the head or the tail of the dragon; for the conjunction between the ascendant and the midheaven, east of the meridian, the parallax in longitude is subtracted from the place of the conjunction and the hours of the parallax from the hours of the conjunction; west of it both are added. Checked: east of the meridian the visible conjunction comes before the true one by about the time in which the moon gains the parallax on the sun, and at that time the moon's true place is less than the place of the conjunction by about the parallax; west of the meridian both are more. For the hours this is the opposite of chapter 34 (p. 28, JP2 0060, L20-L22).
+@obs L20: «horae diversitatum respectus», where L16-L17 and L22 have «horae diversitatis aspectus»; the edition has no note on it. L26-L29: chapter 36, the equation of the houses; its heading is N's (note 26: CO omit it). The Arabic words of the apparatus, upright as printed: «genubi», «genubia», «genubium», southern (janūbī); «shemeli», «scemelia», «scemelium», northern (shamālī).
+@obs L09: the v of «diversitas» is printed with its left arm broken. N10: «De . . . domorum», three points.
+@obs The semicolons of the text stand after the thin space of the edition (11-13 px measured).
+@critical AK07-CN047 | wrong bracket | N03 | {sup:6}) meridionalis) N | {sup:6}) meridionalis] N | the lemmata of the apparatus are closed by a square bracket, «septemtrionalis] N» (note 5), «ergo] C» (note 7); after «meridionalis» a round bracket is printed | high | none

@@ -1,0 +1,44 @@
+@page 95 ٨٩
+% Frame 095, printed p. 89: the islands of the outer western sea concluded: the end of the coast of the island سقيديا,
+% back to its first point; the island امراتوس, on which are the men, and the island امرانوس, on which are the women,
+% each followed round its coast; then the heading of the islands in the sea of Tangier, of مرطاس, Ifrīqiya, Barqa and
+% Syria, and its first three islands. The editor's running numbers (١٣٦٤)-(١٣٧٥) and the numbers of Suhrāb
+% [٩١٩]-[٩٢٧]. Four lines of the editor's footnotes.
+(١٣٦٤) [٩١٩] وتصير الى الموضع الّذى منه ابتدأنا وهو عند طول {ov:مب ل} والعرض
+{ov:ٮط م}{n:a} * جزيرة امراتوس{n:b} الّتى فيها الرجال اوّلها عند طول {ov:مط م}{n:c} والعرض {ov:سد مه}{n:d}
+(١٣٦٥) [٩٢٠] تمرّ الى طول {ov:ن ك} والعرض {ov:سب ك} (١٣٦٦) [٩٢١] تمرّ الى طول
+{ov:نو ن} والعرض {ov:سه ك} (١٣٦٧) [٩٢٢] تمرّ{n:e} الى طول {ov:ٮد ك} والعرض {ov:سو م} (١٣٦٨)
+[٩٢٣] تمرّ الى الموضع الّذي منه ابتدأنا وهو عند طول {ov:مط م} والعرض {ov:سد مه}{n:f} *
+جزيرة امرانوس الّتى فيها النساء اوّلها عند طول {ov:ن ل} والعرض {ov:سا ى} (١٣٦٩) [٩٢٤]
+وتمرّ الى طول {ov:نب ل} والعرض {ov:ٮط ن} (١٣٧٠) [٩٢٥] تمرّ الى طول {ov:ٮو {z}} والعرض {ov:سا ك}
+(١٣٧١) [٩٢٦] وتمرّ على صورة الطيلسان الى طول {ov:ٮر كه} والعرض {ov:سد م} (١٣٧٢)
+[٩٢٧] ثمّ تمرّ الى الموضع الّذى منه ابتدأنا وهو عند طول {ov:ن ل} والعرض {ov:سا ى}{n:g} *
+@h * الجزائر الّتى فى بحر طنجة ومرطاس{n:h}
+@h وإفريقيّة وبرقة والشام *
+جزيرة مدوّرة مقدار جزء وسطها عند طول {ov:ٮح ى} والعرض {ov:لح ن} (١٣٧٣) * جزيرة
+مقدار جزء ونصف فى جزء وسطها عند طول {ov:ٮح ل} والعرض {ov:لب م} (١٣٧٤) * جزيرة
+مدوّرة مقدار جزء وربع{n:i} وسطها عند طول {ov:ك {z}} والعرض {ov:لط ى} (١٣٧٥) * اربع
+@ednotes a b c d e f g h i 4
+@obs The description of the island سقيديا goes on from p. 88 (frame 094), whose last words, «وتمرّ على صورة القوارة تمرّ بعرض س ل», are followed in L01 by their running number, (١٣٦٤), and the number of Suhrāb, [٩١٩]. L01-L02: «وتصير الى الموضع الّذى منه ابتدأنا وهو عند طول مب ل والعرض ٮط م», and it comes to the place from which we began, which is at the longitude 42° 30′ and the latitude ٮط م: this last point has no running number; the editor's note a identifies it with point 1361, the first point of the island (frame 094, L14), whose latitude is printed «نط م» with the dot of the ن.
+@obs L02-L05: «جزيرة امراتوس الّتى فيها الرجال اوّلها عند طول مط م والعرض سد مه», the island امراتوس, on which are the men; the first point of its coast is at the longitude 49° 40′ and the latitude 64° 45′ (point 1365); then «تمرّ الى طول … والعرض …», points 1366-1368, and «تمرّ الى الموضع الّذي منه ابتدأنا وهو عند طول مط م والعرض سد مه», back to the place from which we began, without a running number; the editor's note f identifies it with point 1365.
+@obs L06-L09: «جزيرة امرانوس الّتى فيها النساء اوّلها عند طول ن ل والعرض سا ى», the island امرانوس, on which are the women; the first point of its coast is at the longitude 50° 30′ and the latitude 61° 10′ (point 1369); then points 1370-1372, the last «على صورة الطيلسان», along the shape of the ṭaylasān (L08); and «ثمّ تمرّ الى الموضع الّذى منه ابتدأنا وهو عند طول ن ل والعرض سا ى», then back to the place from which we began, without a running number; the editor's note g identifies it with point 1369. «امرانوس» has the dot of the ن, where «امراتوس» (L02) has the two dots of the ت.
+@obs The running numbers run (١٣٦٤)-(١٣٧٥) without a gap; the numbers of Suhrāb, [٩١٩]-[٩٢٧], stand after (١٣٦٤)-(١٣٧٢), without a gap; islands 1373-1375 have none. Each of the two islands, and the island سقيديا, ends with a small open star with six points, transcribed as an asterisk.
+@obs L10-L11: the heading of the next section, in larger type, centred on two lines: «* الجزائر الّتى فى بحر طنجة ومرطاس / وإفريقيّة وبرقة والشام *», the islands in the sea of Tangier, of مرطاس, of Ifrīqiya, of Barqa and of Syria. «ومرطاس» ends in an isolated س, a taller first tooth, two smaller teeth and the bowl, without dots; the note mark h follows it. «الّتى» has a shadda over the ل; «وإفريقيّة» a hamza below the alif and a shadda over the ي; «والشام» is printed with a long kashida, the stretched joining stroke, between the ش and the alif, which is not transcribed; a small open star with six points stands at the beginning of the first line and at the end of the second.
+@obs L12-L14: the first islands of the section, each with its size and the longitude and latitude of its middle, «وسطها عند طول … والعرض …»: «جزيرة مدوّرة مقدار جزء» (L12), a round island of one degree; «جزيرة مقدار جزء ونصف فى جزء» (L12-L13), of one and a half degrees by one degree; «جزيرة مدوّرة مقدار جزء وربع» (L13-L14), a round island of one and a quarter degrees; each entry ends with a small open star with six points. L14 ends with «اربع», four, continued on p. 90.
+@obs Signs in the text, transcribed as printed: «تمرّ», «وتمرّ» and «ثمّ» with a shadda; «الّذى» (L01, L09) and «الّذي» (L05) with a shadda over the ل, and «الّتى» (L02, L06) likewise; «اوّلها» with a shadda over the و; «مدوّرة» (L12, L14) with a shadda over the و; «ابتدأنا» with a hamza over the alif; «جزء» with a hamza on the line after the ز. L05: «الّذي» ends in a ي with its two dots below, joined into one mark of 17 by 8 px, where «الّذى» in L01 and L09 ends in a ى without dots.
+@obs Letters printed without their dots in the numerals, transcribed so: a tooth without its dot in the degrees of the latitude, «ٮط» (L02, L07), which read as a ن gives 59, and in the degrees of the longitude, «ٮد» (L04), «ٮو» (L07), which read as a ن give 54 and 56, beside the longitudes 49° 40′-56° 50′ of the other points of the two islands, and «ٮح» (L12, L13), which read with a ي gives 18, beside the longitude 20° 0′ of the third island (L14). With their dots: «مب» (L01) and «لب» (L13), with the dot of the ب below; «سب» (L03); «ن» (L03, L06, L09, the degrees of the longitude; L04, L07, L12, the minutes), «نو» (L04) and «نب» (L07), with the dot of the ن, which in «نب» stands over the tooth, 7 by 9 px.
+@obs L08, the degrees of the longitude: the notched form ٮر of frame 041 (L06), a short tooth without a dot joined to a ر, the two forming a notch at the top, where the isolated ر of the numerals is a single rounded stroke (frame 072, L06); in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ٮر, which read as نز gives 57° 25′, beside the longitudes 56° 0′ (L07) and 50° 30′ (L09) of the same island.
+@unres L08: the notched form may also be read as a single ر whose head is split, ر, 7. Transcribed ٮر.
+@obs The ح of the numerals, «ٮح» (L12, L13) and «لح» (L12), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. The isolated ى, 10, has no dots (L06, L09, L12, L14). The isolated ك, 20, is printed with the small inner stroke of the letter.
+@obs Note marks: L02, a after the latitude, b after «امراتوس», c after the longitude and d after the latitude; L04, e after «تمرّ»; L05, f after the latitude; L09, g after the latitude; L10, h after «ومرطاس»; L14, i after «وربع».
+@obs Marks not transcribed: L01, L03, the opening bracket of [٩١٩] and of [٩٢١], and L04, the closing bracket of [٩٢٢], are printed as plain vertical strokes without their short arms; L04, a cluster of small specks of ink over the first two figures of (١٣٦٧), which remains legible; L06, «النساء» has a blot of ink at the top of the ل and a speck of 7 by 6 px beside the dot of the ن. The page is speckled throughout with small grey points of the paper.
+@obs The editor's footnotes stand in four lines below a short rule at the left: notes a-i. The page number «— ٨٩ —» stands at the foot, centred.
+@variant L02: the point is the same as point 1361 (note a).
+@variant L02: a variant reading of the name is امراترس; at entry (1369) the name is written امرانوس, at entry (2340) ارماٮوس, and at entry (2346) امراٮوس, these two with a tooth without a dot before the و (note b).
+@variant L02: a variant reading of the longitude is مط {z}, with a line over the numerals (note c).
+@variant L02: a variant reading of the latitude is سد م, with a line over the numerals (note d).
+@variant L04: the word تمرّ, before the mark e, is a later insertion in the manuscript (note e).
+@variant L05: the point is the same as point 1365 (note f).
+@variant L09: the point is the same as point 1369 (note g).
+@variant L10: the editor refers to entry (1558) for the name مرطاس (note h).
+@variant L14: a variant reading is مقدار ربع جزء, of the size of a quarter of a degree, for مقدار جزء وربع (note i).

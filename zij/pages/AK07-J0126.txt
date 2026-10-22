@@ -1,0 +1,54 @@
+@page 126 94
+@lang de
+% JP2 0126: Suter's commentary, p. 94: the end of chapter 34 (the parallax in latitude, 40′ 43″, and Theon's tables
+% in al-Battānī); chapter 35, the eclipse of the sun: the limits of the argument of latitude in al-Khwārizmī and
+% al-Battānī; no eclipse at Cordova for the conjunction of 23 January 901; the apparent latitude (notes 1-2).
+{i:coeli huius horoscopi et imminentis capitibus nostris.} Nun ist die {i:Breite} des Mondes zu
+bestimmen, das korrigierte Argument derselben ist nach p. 84 = 169° 7{sup:1}/{sub:2}′, dazu gehört
+nach Tafel 26 die Breite 50′ 53″, sie ist nördlich, ist also von der vorhin gefundenen
+Ekliptik-Zenitdistanz zu subtrahieren, dies gibt 56° 43′ 45″ ; mit diesem Argument
+tritt man in Tafel 77 ein, und findet daselbst die {i:Parallaxe} der {i:Breite} = 40′ 43″,
+und zwar ist sie {i:südlich} zu nehmen, weil das {i:Medium Coelum} auch südlich vom
+Zenit von Cordova gelegen ist.
+@p Nach den Tafeln {sp:Theons} (bei {sp:Batt.} II, 98) findet man mit einer Korrektur
+(s. {sp:Batt.} I, 83) die Parallaxe der Länge c. 35′, die der Breite c. 47′ ; ungefähr dieselben
+Resultate ergeben sich nach den Regeln, die {sp:Batt.} I, 79—81 aufstellt. Wir sehen
+also, dass die Parallaxe der Länge bei {sp:Kh.} wesentlich grösser ist als bei {sp:Batt.},
+auch die in der Breite weicht um 6′ ab ; {sp:Batt.} bemerkt aber selbst, dass diese
+{sp:Theon}’schen Tafeln keine ganz befriedigende Resultate ergeben können.
+@c {b:Kap. 35. Über die Verfinsterung der Sonne.}
+@c (Text p. 29, Tafel 78.)
+@p Dieses Kapitel ist sehr kurz und jedenfalls unvollständig. Aus Tafel 78 ersehen
+wir, dass {sp:Kh.} die Grenzen des Argumentes der Breite, innerhalb welcher eine Fin-
+sternis überhaupt stattfinden kann, folgendermassen annimmt : von 172° 49′ bis
+187° 30′, von 0° bis 7° 11′ und 352° 30′ bis 360° ; {sp:Batt.} hat (II, 88) folgende Zahlen :
+159° 44′ bis 191° 16′, 0° bis 20° 16′ und 348° 44′ bis 360°.
+@p Es wird in diesem Kapitel nichts darüber gesagt, wie man die Tafeln {i:pro spatio}
+{i:longinquo} und {i:pro spatio propinquo} zu benutzen habe, wir nehmen an, dass dies auf
+ähnliche Weise geschehen müsse wie bei den Tafeln der Mondfinsternisse und wie
+bei {sp:Batt.}{sup:1}), doch fehlen in Tafel 78 die {i:Tabulae proportionis,} die sich in den Mond-
+tafeln finden ; wahrscheinlich aber sind dieselben Proportionaltafeln zu benutzen
+wie dort (Tafeln 73—76).
+@p Da sich nun das Argument der Breite bei unserer Konjunktion (s. p. 82—84),
+nämlich 169° 7{sup:1}/{sub:2}′, nicht in Tafel 78 vorfindet, so müssen wir schliessen, es finde bei
+dieser Konjunktion keine Sonnenfinsternis für Cordova statt. Nach den Tafeln {sp:Batt.}’s
+kann aber eine solche stattfinden für andere Orte, und wir wollen nun die weitere
+Rechnung nach diesen Tafeln durchführen, wir nehmen aber die bis jetzt nach
+den Tafeln {sp:Kh.}’s gefundenen Werte :
+@t | Breite des Mondes | 50′ 53″, |
+@t | Parallaxe der Breite | 40′ 43″. |
+@p Da die {i:Breite nördlich} ist, die {i:Parallaxe} aber {i:südlich} zu nehmen ist, müssen
+wir die Parallaxe von der Breite subtrahieren, dies gibt 10′ 10″, dies ist die schein-
+bare Breite des Mondes bei der für uns sichtbaren Konjunktion{sup:2}). Für diese {i:schein-}
+@n {sup:1}) Ed. {sp:Nallino}, I, 111, und II, 91.
+@n {sup:2}) Nach {sp:Batt.} findet man : scheinbare Breite = 58′ 25″ — 47′ = 11′ 25″ ; nach den {sp:Theon}’schen
+@n Tafeln lässt sich aber die Parallaxe nicht genau bestimmen, es wäre also möglich, dass doch die
+@n beiden Werte für die scheinbare Breite nahezu übereinstimmen könnten.
+@obs The page number «94» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «coeli huius horoscopi et imminentis capitibus nostris.», in italics, completes the Latin words «interstitium medii» at the end of p. 93 (JP2 0125, L39); the Latin of chapter 34 (p. 29, JP2 0061, L01-L02) has «interstitium medii caeli huius horoscopi et imminentis capitibus nostris», «caeli» where Suter writes «coeli».
+@obs L01-L07. Checked: the corrected argument of latitude of p. 84 (JP2 0116, L11), 169° 7′ 31″, «169° 7½′»; sin q = sin 4° 30′ · sin 10° 52½′ gives q = 50′ 53″, the 50′ 53″ of Table 26 (the argument less than 180°, the latitude north); 57° 34′ 38″ − 50′ 53″ = 56° 43′ 45″. The parallax 40′ 43″ of Table 77 is to be compared with the table. L08-L13: Theon's tables in al-Battānī give c. 35′ and c. 47′; 47′ − 40′ 43″ = 6′ 17″, «um 6′».
+@obs L16-L20: the limits of the argument of latitude for a solar eclipse, mirror images of one another about the nodes: al-Khwārizmī 180° − 7° 11′ to 180° + 7° 30′ and 360° − 7° 30′ to 7° 11′; al-Battānī 180° − 20° 16′ to 180° + 11° 16′ and 360° − 11° 16′ to 20° 16′. Checked: 169° 7½′ lies outside al-Khwārizmī's limits (172° 49′) and inside al-Battānī's (159° 44′), as L27-L30 say. The values of Table 78 are to be compared with the table.
+@obs L33-L34: the two values, set in a centred block, the names joined to the figures by dotted leaders (five and four points), not transcribed. Each printed row is one line here, the cells separated by our «|»; the empty cells give the block room and are not printed. L35-L37 and N02. Checked: 50′ 53″ − 40′ 43″ = 10′ 10″; 58′ 25″ − 47′ = 11′ 25″.
+@obs L13: «keine ganz befriedigende Resultate», as printed, the strong ending after «keine», as «gar keine trigonometrische Ableitungen» (p. 92, JP2 0124, L15). L02 and L28: «169° 7 1/2′», the fraction small, the 1 raised.
+@obs Spaced type, marked {sp:}: «Theons», «Theon’schen», «Batt.», «Kh.», «Nallino»; italics: the Latin of L01, «Breite» (L01, L05), «Parallaxe», «südlich», «Medium Coelum», «pro spatio longinquo», «pro spatio propinquo», «Tabulae proportionis,», «Breite nördlich», «schein-». L14-L15: the heading of chapter 35, in bold, centred, with the reference to the text below it.
+@obs The dashes: L10 «79—81», L26 «73—76», L27 «82—84», the long dash set close; N02 «58′ 25″ — 47′», the minus a long dash with a space on either side.
+@obs The colons and semicolons stand after the thin space of the edition (8-13 px measured).

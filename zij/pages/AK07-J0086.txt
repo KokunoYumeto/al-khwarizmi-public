@@ -1,0 +1,52 @@
+@page 86 54
+@lang de
+% JP2 0086: Suter's commentary, p. 54: the end of chapter 10 (the difference of the two results for Saturn);
+% chapter 11, the true places of Venus and Mercury: the mean longitude is the sun's; the example of Venus for noon of
+% 15 Ṣafar 540 begins: the anomaly, the corrected apogee, the centre and the equations (notes 1-3).
+@p Der Fehler von c. 11° gegenüber der Bestimmung des wahren Ortes nach {sp:Batt.}
+rührt in erster Linie von der kleinern mittlern Länge des Saturns bei {sp:Kh.} her, die
+in Folge der Nichtbeachtung der Praezession bei {sp:Kh.} um c. 10° kleiner ist als bei
+{sp:Batt.}, in zweiter Linie aber auch von abweichenden Werten in den Gleichungen
+des Centrums und der Anomalie. Berücksichtigt man auch bei {sp:Kh.} die Praezession,
+verfährt aber im übrigen nach seiner Methode, so erhält man für den wahren Ort
+des Saturns c. 43′ weniger als nach der Methode {sp:Batt.}’s.
+@c {b:Kap. 11. Bestimmung des (wahren) Ortes der zwei untern Planeten.}
+@c (Text p. 12, Tafeln 45—56.)
+@p {sp:Kh.} bemerkt, dass der wahre Ort von Venus und Merkur auf die gleiche Weise
+bestimmt werde, wie bei den obern Planeten, dass die mittlere Länge für diese
+beiden Planeten aber dieselbe sei wie die der Sonne, und dass in den Tafeln für
+die mittlere Bahn dieser Planeten (Tafeln 15 u. 16) statt der mittlern Länge die
+Anomalie angegeben sei{sup:1}). In ähnlicher Weise drückt sich auch {sp:Batt.}{sup:2}) aus.
+@p Wir geben auch hier ein Beispiel für den Planeten Venus und verweisen für die
+etwas von der der obern Planeten abweichende Theorie und Berechnung der Glei-
+chungen (besonders für Merkur) auf {sp:Batt.}{sup:3})
+@p {i:Bestimmung des wahren Ortes der Venus} für Mittag den 15. Ṣafar des Jahres
+540 d. H.
+@t Anomalie der Venus am Ende des 510. Jahres (nach Tafel 15 u. 16) | | | | | 232° 45′
+@t | | | Zunahme in 29 Jahren | | 216° 15′
+@t | | | „ „ 1 Monat | | 18° 30′
+@t | | | „ „ 14 Tagen | | 8° 38′
+@t | | | | Summa : | 476° 8′
+@t | | | | | — 360°
+@t | | | Anomalie | = | 116° 8′
+@t Mittlere Länge wie die der Sonne | | | | = | 131° 1′ (s. p. 42 u. 53) |
+@t Sublimatio (Apog.) exam. für 116° 8′ (nach Tafel 48) | | | | = | 59° 9′ |
+@t | | | Centrum | = | 71° 52′ |
+@t Centrum | 71° 52′ | Anomalie | 116° 8′
+@t Examin. Centri (nach Tafel 47) | 2° 7′ | Exam. Centri | 2° 7′
+@t Centrum aequat. | 69° 45′ | Argument. exam. | 118° 15′
+Zu diesem Argum. exam. findet man in Tafel 48 als Gleichung der Anomalie (Exa-
+minatio elheza) = 44° 43{sup:1}/{sub:2}′, diese ist zum Centrum aequat. zu addieren, gibt 114° 28{sup:1}/{sub:2}′,
+dies ist das Centrum ultimum ; hiezu die Sublim. examin. (= 59° 9′) addiert, gibt
+@n {sup:1}) Dies will der in seinem ersten Teil etwas unklare Satz sagen : {i:quod eorum in libro scriptum}
+@n {i:est argumentum atque eorundem et solis unum idemque est elwacat.}
+@n {sup:2}) Ed. {sp:Nallino}, I, 113.
+@n {sup:3}) Ibid. II, 243–244.
+@obs The page number «54» stands at the head of the page, centred, with a rule below it; a short oblique stroke beside the right end of the rule, not transcribed. The page has no signature. L01-L07 end chapter 10, after the two computations of the place of Saturn on pp. 52-53 (JP2 0084-0085). L08-L09: the heading of chapter 11, in bold, centred, with the reference to the text below it.
+@obs L01-L07: «c. 11°», «c. 10°»: the two true longitudes of p. 53 (JP2 0085) differ by 11° 38′, and the two mean longitudes by 9° 40′; the «c. 43′» of L07 is Suter's own computation, which is not given.
+@obs N01: the quotation is the sentence of chapter 11 of the Latin text, p. 12 (JP2 0044, L03-L04), «excepto quod eorum in libro scriptum est argumentum atque eorundem et solis unum idemque est elwacat», with «elwacat» there in italics; here the whole quotation is in italics.
+@obs L20-L32: the computation, set as tables: in L20-L26 the figures stand in a column at the right, the names of L21-L23 and L26 joined to them by dotted leaders, which are not transcribed, the ditto marks „ of L22-L23 under «Zunahme» and «in»; L24, «Summa :», stands below a rule under the figures of L23, and L26 below a rule under «— 360°» (the minus 22 px, set 15 px before the figures); L26 alone has «=». L27-L29: the figures after a column of «=», L27 and L29 with dotted leaders, L29 below a rule. L30-L32: two computations side by side, each with its names, leaders and figures, L32 below rules under the figures of both. Each printed row is one line here, the cells separated by our «|»; the empty cells give the columns room and are not printed.
+@obs L20-L35. Checked: 232° 45′ + 216° 15′ + 18° 30′ + 8° 38′ = 476° 8′, less 360° 116° 8′; with Brahmagupta's parameters (7 022 389 492 revolutions of the conjunction of Venus and 4 320 000 000 of the sun in 1 577 916 450 000 days, see p. 42, JP2 0074) the anomaly of Venus moves 216° 15′ 26″ in the 29 years, 10277 days, 18° 29′ 47″ in thirty days and 8° 37′ 54″ in fourteen days. 131° 1′ − 59° 9′ = 71° 52′; 71° 52′ − 2° 7′ = 69° 45′; 116° 8′ + 2° 7′ = 118° 15′; 69° 45′ + 44° 43½′ = 114° 28½′. The values of Tables 15-16, 47 and 48 are to be compared with the tables.
+@obs L34: «44° 43½′», «114° 28½′», the fraction set with a raised 1 and a lowered 2; «Examinatio elheza» upright. L27: «131° 1′», the mean longitude of the sun of p. 42 rounded, as on p. 53 (JP2 0085, N01).
+@obs N04: «243–244»: a dash of 28 px with a gap of 11 px before it and 7 px after it, like «45–46» on p. 42 (JP2 0074, N06); transcribed as an en dash. Spaced type, marked {sp:}: «Batt.», «Kh.», «Nallino»; italics: «Bestimmung des wahren Ortes der Venus», the Latin of N01-N02.
+@obs The colons and the semicolon stand after the thin space of the edition (10-13 px measured).

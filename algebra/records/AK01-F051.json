@@ -1,0 +1,202 @@
+{
+ "anchor": "AK01-F051",
+ "frame": 51,
+ "frame_file": "page_051.jpg",
+ "frame_sha256": "e384821d8219bc20d3677254c08245d7ae05da71a843d79a31a1f298b21080ae",
+ "printed_page": "٣٥",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 051, printed p. 35: the first of the six problems solved (ten divided into two parts, one part multiplied by itself equal to four times the product of the parts: the part is eight, the other two); then the second problem, «والمسألة الثانية», a run-in heading in bold: ten divided into two parts, the square of ten equal to two and seven ninths times the square of one part, or six and a quarter times the square of the other; continued on the next page. Below the rule three footnotes of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F051-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "مرات {n:١} فقياسه أن تجعل أحد القسمين شيئا والآخر عشرة الا شيئا فتضرب",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F051-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "شيئا فى عشرة الا شيئا فتكون عشرة أشياء الا مالا ثم تضربه فى أربعة لقولك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F051-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "أربع مرات فيكون أربعة أمثال المضروب من أحد القسمين والآخر فيكون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F051-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "ذلك أربعين شيئا الا اربعة أموال ثم تضرب شيئا فى شىء وهو أحدالقسمين فى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F051-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "نفسه فيكون مالا يعدل أربعين شيئا الا أربعة أموال فاجبرها بالأربعةالأموال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F051-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "وزدها على المال فيكون أربعين شيئا تعدل خمسة أموال فالمال الواحديعدل ثمانية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F051-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "أجذار وهو أربعة وستون جذرها ثمانية وهو أحد القسمين المضروب فى نفسه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F051-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "والباقى من العشرة اثنان وهو القسم الآخر فقد أخرجتك هذه المسألة الى أحد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F051-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "الأبواب الستة وهى أموال تعدل جذوراً فاعلم ذلك {n:٢} . {b:والمسألة الثانية} عشرة",
+   "note_marks": [
+    "٢"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "والمسألة الثانية"
+   ]
+  },
+  {
+   "id": "AK01-F051-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "قسمتها قسمين فضربت كل قسم فى نفسه ثم ضربت العشرة فى نفسها فكان مااجتمع",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F051-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "من ضرب العشرة فى نفسها مثل أحد القسمين مضروبا فى نفسه مرتين وسبعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F051-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "اتساع مرة أو مثل الآخر مضروباً فى نفسه ست مرات وربع مرة{n:٣}. فقياس ذلك",
+   "note_marks": [
+    "٣"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F051-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "ان تجعل أحد القسمين شيئاً والآخر عشرة الا شيئا فتضرب الشىء فى نفسه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F051-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "فيكون مالا ثم فى اثنين وسبعة اتساع فيكون مالين وسبعة اتساع مال ثم تضرب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F051-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "العشرة فى مثلها فتكون مائة تعدل مالين وسبعة اتساع مال فاردده الى مال واحد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١",
+    "٢",
+    "٣"
+   ],
+   "lines": 7,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "Note (١) of the editors reproduces a marginal gloss (حاشية) of the manuscript on the first problem: «لك فى هذه المسالة طريقان احدهما أن تجعل المضروب فى نفسه هو الشىء وهى الطريقة التى ذكرها فى الكتاب والثانى أن تجعل المضروب فى نفسه هو العشرة الا شيئاً», that is: in this problem there are two ways; one is to make the part multiplied by itself the thing, the way the book takes; the other is to make the part multiplied by itself ten less a thing. The gloss is the manuscript's text, quoted as the edition prints it."
+ ],
+ "unresolved": [],
+ "observations": [
+  "L09: the words والمسألة الثانية are printed in a bold face, the run-in heading of the second problem after the full stop that ends the first; عشرة, which follows, is in the face of the text.",
+  "The note marks: (١) after مرات (L01) and (٢) after ذلك (L09) stand between spaces (29 and 25 px, 31 and 25 px; nearest approach of the ink at 400 ppi), and the full stop after (٢) between spaces too (25 and 24); (٣) stands close after مرة (L12; 12 px), and the full stop close after it (9 px), with a space before فقياس (27).",
+  "Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): أحدالقسمين (L04; 8 between the د and the alif, where أحد القسمين stands 18 to 26 apart in L01, L03, L07, L11 and L13), الواحديعدل (L06; 7 between the د and the ي), بالأربعةالأموال (L05; 9 between the ة and the alif), مااجتمع (L10; 10 between the two alifs, as in فامااضطرارها on frame 050, L09, where ما اجتمع on frame 047 stands 20 to 25 apart).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: مثلها فتكون (L15; 24 between the alif and the ف, as close as شيئا فتضرب in L01, 25, which is set with a space; without a space the alif stands 15 from the ف in جذرافلمازدت on frame 050, L10), الا اربعة (L04; 27 between the two alifs).",
+  "After ر the gap above the baseline is wider on this page than on frame 050: 30 to 41 px inside a word (وربع, اربعة, تضربه, فضربت, ضربت, مرة, مرات, مرتين), 43 to 55 between words (أجذار وهو, L07; الآخر فقد, L08; الآخر مضروباً, L12; والآخر فيكون, L03; والآخر عشرة, L01). The tail of the ر reaches under the next letter inside a word, and in والآخر فيكون (L03) and الآخر مضروباً (L12) under the next word as well.",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: أحدالقسمين فى (L04; 8), قسمين فضربت (L10; 8), ثم ضربت (L10; 9), فى نفسه (L10; 14), فى نفسها (L10; 11), فيكون مالين (L14; 5), ثم فى (L14; 8), نفسه ست (L12; 7), فقياس ذلك (L12; 10).",
+  "Plain alif where a hamza might be expected, as printed: الا (L01, L02, L04, L05, L13), اربعة (L04), اثنان (L08), الى (L08, L15), مااجتمع (L10), اتساع (L12, L14, L15), ان (L13), اثنين (L14), فاردده (L15); with hamza: أن, أحد (L01), أشياء, أربعة (L02), أربع, أربعة, أمثال, أحد (L03), أربعين, أموال, أحدالقسمين (L04), أربعين, أربعة, أموال, بالأربعةالأموال (L05), أربعين, أموال (L06), أجذار, أربعة, أحد (L07), أخرجتك, المسألة, أحد (L08), الأبواب, أموال, والمسألة (L09), أحد (L11), أو (L12), أحد (L13); with madda: والآخر (L01, L03, L13), الآخر (L08, L12); the hamza on the line: أشياء (L02), شىء (L04), الشىء (L13).",
+  "With tanwīn on the final alif: جذوراً (L09), مضروباً (L12), شيئاً (L13, the first); without tanwīn as printed: شيئا (L01, L02, L04, L05, L06; L13, the second), مالا (L02, L05, L14), مضروبا (L11).",
+  "The final yā' is printed without dots: فى throughout, شىء (L04), على (L06), والباقى, الى (L08), وهى (L09), الشىء (L13), الى (L15).",
+  "The print stretches the second فيكون of L03, at the end of the line, with the elongation stroke between the ي and the ك; the stroke is not transcribed.",
+  "Notes (٢) and (٣) of the editors restate the two problems in modern notation: note (٢) the equation of the first problem, with its two roots, eight and zero; note (٣) the equation of the second problem written for either part, each giving six and the other part four. Neither is reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

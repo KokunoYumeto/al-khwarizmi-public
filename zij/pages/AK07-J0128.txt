@@ -1,0 +1,55 @@
+@page 128 96
+@lang de
+% JP2 0128: Suter's commentary, p. 96: the end of chapter 35: al-Battānī's observation of the eclipse at Antioch
+% compared with the computation; two corrections to the Latin of chapter 34; chapters 32 and 36, the division of
+% the twelve astrological houses, begin (notes 1-3).
+unserer bürgerlichen Zeitrechnung am 23. Jan. 8{sup:h} 20{sup:m} Morgens. Nun liegt {i:Antiochia}
+c. 41° östlich von {i:Cordova,} dies macht in Zeit 2{sup:h} 44{sup:m}, dies zu 5{sup:h} 11{sup:m} addiert gibt 7{sup:h} 55{sup:m}
+als die Zeit der Mitte der Finsternis für {i:Antiochia} ; der Unterschied gegenüber der
+Angabe {sp:Batt.}’s ist also c. 25{sup:m}. Die Grösse der Verfinsterung, sagt {sp:Batt.}, habe wenig
+mehr als die Hälfte, oder in {i:Raḳḳa} etwas weniger als zwei Drittel betragen. Auch
+diese Angaben weichen wenig von denen unserer Berechnung ab.
+@p Wie wir oben bemerkt haben, sind die beiden Kapitel 34 und 35 sehr unklar
+und höchst wahrscheinlich unvollständig und teilweise unrichtig in der Übersetzung
+wiedergegeben. Wir werden kaum fehlgehen, wenn wir annehmen, dass {sp:Athelhard}
+diese etwas schwierigen astronomischen Partien nicht recht verstanden habe, und
+spätere Abschreiber natürlich noch viel weniger, daraus ergaben sich teils falsche
+Auffassungen, teils Auslassungen, von denen ich zwei hier erwähnen und zu korri-
+gieren versuchen will. In Kap. 34 (p. 28) heisst es : {i:erit hoc productum horis coniunc-}
+{i:tionis addendum} ; statt {i:horis coniunctionis} muss es wohl heissen {i:loco coniunctionis,} oder
+besser {i:loco vero lunae} ; denn es handelt sich hier nicht speziell um eine Konjunktion,
+sondern allgemein um den durch die {i:Parallaxe} veränderten Ort des Mondes. Und
+weiter heisst es ebenda : {i:Quodque inde surget, horam eclipsis supra locum pro quo in-}
+{i:quiris ex diversitate aspectus mutatam ponit} ; statt {i:horam eclipsis} muss es heissen :
+{i:locum lunae apparentem in ecliptica}{sup:1}). In Kap. 35 ist der Passus vom Anfang an bis
+{i:Si enim fuerit locus coniunctionis} ganz ungenügend für die Bestimmung einer Sonnen-
+finsternis ; man wird es mir aber nicht verargen, wenn ich auf einen Versuch den
+richtigen Text herzustellen verzichte.
+@c {b:Kap. 32 u. 36. Über die Verteilung der zwölf astrologischen Häuser.}
+@c (Text p. 25 u. 29—30, Tafeln 79—90.)
+@p Diese beiden Kapitel und das nächstfolgende letzte beschäftigen sich mit rein
+{i:astrologischen} Fragen. Kapitel 32 steht nur in den Mss. C u. N und zwar im erstern
+an unrichtiger Stelle{sup:2}), es sollte dem Kap. 36 unmittelbar vorangehen, denn es
+enthält die Vorschriften für die Auffindung der Anfänge der zwölf Häuser auf der
+Ekliptik, Kap. 36 dagegen die Anleitung zur Benutzung der zugehörigen Tafeln.
+@p Das arabische {i:taswiya} = Verteilung, Einteilung, Anordnung ist vom Übersetzer
+teils durch {i:aequatio,} teils durch das richtigere {i:dispositio} wiedergegeben worden. Es
+handelt sich um die Verteilung der zwölf astrologischen Häuser auf die Himmelskugel.
+Es existierten verschiedene Arten dieser Verteilung, wofür ich auf {sp:Batt.}{sup:3}) verweise ;
+alle haben das gemeinsame, dass sich sechs grösste Kreise auf der Himmelskugel in
+einem Durchmesser schneiden, wodurch dieselbe in zwölf sphärische Zweiecke geteilt
+wird. Die Einteilung {sp:Batt.}’s, die wahrscheinlich auch die {sp:Ptolemäische} im {i:Quadri-}
+{i:partitum} ist, und der auch {sp:Kh.} folgt, ist folgende : Die sechs grössten Kreise gehen
+@n {sup:1}) Vergl. {sp:Batt.}, ed. {sp:Nallino}, I, 83—84.
+@n {sup:2}) S. oben p. 86, Note 3.
+@n {sup:3}) Ed. {sp:Nallino}, I, 246—249.
+@obs The page number «96» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 completes the sentence that ends p. 95 (JP2 0127, L36), «stattgefunden, also nach».
+@obs L01-L04. Checked: 12h − 3h 40m = 8h 20m in the morning of 23 January; Antioch lies about 36° 10′ east and Cordova 4° 47′ west of Greenwich, some 41° apart, 2h 44m of time; 5h 11m + 2h 44m = 7h 55m; 8h 20m − 7h 55m = 25m. The 5h 11m include the parallax in time computed for Cordova, 1h 33½m (p. 95, JP2 0127, L19); that for Antioch is not computed.
+@obs L04-L06. Checked against Nallino I, 56: at Antioch «occultatus est Sol, secundum visum, paulo magis quam dimidia parte», and at ar-Raqqah «Solis minus quam 2/3 occultatae sunt, secundum visum».
+@obs L07-L22. Checked against the Latin of chapter 34 (p. 28, JP2 0060, L21-L24): «Si enim fuerit luna inter horoscopum et medium caelum, erit hoc productum horis coniunctionis addendum ; … Quodque inde surget, horam eclipsis supra locum pro quo inquiris ex diversitate aspectus mutatam ponit.»; and of chapter 35 (p. 29, JP2 0061, L20): «Si enim fuerit locus coniunctionis inter horoscopum et medium caelum». N01: al-Battānī (Nallino I, 83-84) calls the place so found «locus eclipticae in quo Luna apparet», the apparent place of Suter's emendation.
+@obs L23-L24: the heading of chapters 32 and 36, in bold, centred, with the reference to the text below it in smaller type. Checked: chapter 32 stands on p. 25 of the text (JP2 0057), chapter 36 on pp. 29-30 (JP2 0061-0062). N02: p. 86 (JP2 0118), note 3: chapter 32 stands at this place only in Ms. C, in N on fol. 56r.
+@obs L30-L31. Checked against the Latin: the heading of chapter 32 (p. 25, JP2 0057) has «dispositionis casarum XII» and «Quam dispositionem dicunt tezwiet elbuiut», «tezwiet» the Arabic «taswiya»; chapter 36 (p. 29, JP2 0061) is headed «De aequatione XII domorum». L33-L35 and N03: Nallino's note «Supputatio duodecim domorum astrologicarum» (I, 246-249) says that the astrologers divide the sky in different ways, but all by six great circles which cut one another in two opposite points.
+@obs L29: a small raised dot after «Ekliptik,», and L07 a faint mark after «haben,» and L06 before «unserer»; not transcribed. L36: «Ptolemäische» spaced, an adjective; L37 «Kh.» spaced (9 px between the K and the h).
+@obs The dashes: L24 «29—30», «79—90» (33-35 px, the smaller type), N01 «83—84» (36 px), N03 «246—249» (44 px): long dashes, set close.
+@obs Spaced type, marked {sp:}: «Batt.», «Athelhard», «Ptolemäische», «Kh.», «Nallino»; italics: «Antiochia», «Cordova,», «Raḳḳa» (with a dot under each k), the Latin of L13-L20, «Parallaxe», «astrologischen» (L26), «taswiya», «aequatio,», «dispositio», «Quadripartitum». L13 «Kap. 34 (p. 28)»: the page of the text.
+@obs The colons and semicolons stand after the thin space of the edition (8-13 px measured).

@@ -1,0 +1,247 @@
+{
+ "anchor": "AK01-F079",
+ "frame": 79,
+ "frame_file": "page_079.jpg",
+ "frame_sha256": "514f1badb8c7451002edb4356a06fcb5a6a95b024f0968b59f046a40b242d5c4",
+ "printed_page": "٦٣",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 079, printed p. 63: the triangle of sides thirteen, fourteen and fifteen concluded: the squares are cast away, twenty-nine and twenty-eight things equal a hundred and sixty-nine, the thing is five, the foot of the altitude from the side of thirteen, and the rest of the base nine; the altitude the root of 169 less 25, twelve; it stands on the base at two right angles and is therefore called the perpendicular; twelve times half the base, seven, eighty-four, with its figure. «والجنس الثالث», the obtuse triangle, of sides six, five and nine: its altitude falls inside it only on the longest side; on a shorter side it falls outside; then the circles, continued on the next page. No footnotes.",
+ "lines": [
+  {
+   "id": "AK01-F079-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "وهو أن تلقى مالا بمال لأن المالين ناقصان فيبقى تسعة وعشرون وثمانية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "وعشرون شيئا تعدل مائة وتسعة وستين . فالق تسعة وعشرين من مائة وتسعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وستين فيبقى مائة وأربعون تعدل ثمانية وعشرين شيئا فالشىء الواحد خمسة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "وهو مسقط الحجر مما يلى الثلاثة عشر وتمام القاعدة مما يلى الضلع الآخر فهو",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "تسعة فاذا أردت أن تعرف العمود فاضرب هذه الخمسة فى مثلها وانقصها من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "الضلع الذى يليها مضروبا فى مثله وهو ثلاثة عشر فيبقى مائة وأربعة وأربعون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "فجذر ذلك هو العمود وهو اثنى عشر والعمود أبدا يقع على القاعدة على زاويتين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "قائمتين ولذلك سمى عمودا لأنه مستو فاضرب العمود فى نصف القاعدة وهو",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "سبعة فيكون اربعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "وثمانين وذلك تكسيرها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "وهذه صورتها .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "{b:والجنس الثالث} المنفرجة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "والجنس الثالث"
+   ]
+  },
+  {
+   "id": "AK01-F079-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "وهى التى لها زاوية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "منفرجة وهى مثلثة من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "كل جانب عدد مختلف",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "وهى من جانب ستة ومن جانب خمسة ومن جانب تسعة فمعرفة تكسير هذه من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "قبل عمودها ومسقط حجرها ولا يقع مسقط هذه المثلثة فى جوفها الا على الضلع",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "الأطول فاجعله قاعدة ولوجعلت أحد الضلعين الأقصرين قاعدة لوقع مسقط حجرها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "خارجها وعلم مسقط حجرها وعمودها على مثال ماعملت لك فى الحادة وعلى ذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F079-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "القياس وهذه صورتها . وأما المدورات التى فرغنا من صفتها وتكسيرها فى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [
+  {
+   "id": "AK01-F079-FIG1",
+   "rect": [
+    1140,
+    1800,
+    2420,
+    2600
+   ],
+   "after": 15
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Layout: L01-L08 run across the page; L09-L15 stand in a narrower column at the left of the figure, which is reproduced after L15; L16-L20 run across the page.",
+  "The figure, drawn, not set in type: the triangle of L01-L11, with ١٣ beside the upper left side, ١٥ beside the right side, ١٤ under the base and ١٢ beside the altitude drawn from the apex to the base.",
+  "L12: the words والجنس الثالث (L12), the heading of the third kind of triangle, are printed in a bold face, as the headings of frames 069 and 070; المنفرجة, which follows, is in the face of the text. The bold ن is printed without its dot; transcribed ن.",
+  "L20: «وهذه صورتها», this is its figure, of the obtuse triangle; the figure stands on the next page.",
+  "Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): ماعملت (L19; 7 between the alif and the ع, as مافسرنا on frame 061, 12, where ما بقى stands 31 apart on frame 063); لوقع (L18; 22 between the و and the ق, the distance of the و from the next letter inside a word, 23 px before ع, frame 046, as la-waqaʿa, it would fall); ولوجعلت (L18; 23 between the و of ولو and the ج, as in وهوجذر on frame 064, L05, 25, where the words with a space, ولا يقع in L17, stand 35 apart). The machine reading has ولوجعلت too.",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: الواحد خمسة (L03; 18 between the د and the خ, 22 above the baseline, where the د stands 6 px from the ف in واحدفان on frame 071, L01, and 22 in واحد فان in the same line; in doubt, the space is written).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: اثنى عشر (L07), وثمانين وذلك (L10), وعلم مسقط (L19), من جانب (L16, three times), الثالث المنفرجة (L12; 8 between the bold ث and the alif); the machine reading joins the words of من جانب. After the ligature لا a word space is transcribed in ولا يقع (L17; 35) and الا على (L17; 33), where the ligature stands 20 to 26 px from the next letter inside a word.",
+  "The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after وستين, before فالق (L02; 28 and 26), at the end of L11 (56 after صورتها), after صورتها, before وأما (L20; 26 and 26).",
+  "مما (L04, twice) is printed with the font's ligature of two mīms set one above the other.",
+  "Plain alif where a hamza might be expected, as printed: فالق (L02), فاذا, فاضرب, وانقصها (L05), اثنى (L07), فاضرب (L08), اربعة (L09), الا (L17), فاجعله (L18); with hamza: أن, لأن (L01), وأربعون (L03), أردت, أن (L05), وأربعة, وأربعون (L06), أبدا (L07), لأنه (L08), الأطول, أحد, الأقصرين (L18), وأما (L20); with madda: الآخر (L04); on ي: مائة (L02, twice; L03, L06), قائمتين (L08); the hamza on the line: فالشىء (L03).",
+  "No tanwīn is printed on this page: مالا (L01), شيئا (L02, L03), مضروبا (L06), أبدا (L07), عمودا (L08).",
+  "The final yā' is printed without dots: تلقى, فيبقى (L01), فيبقى (L03, L06), يلى (L04, twice), فى (L05, L06, L08, L17, L19, L20), الذى (L06), اثنى, على (L07, twice), سمى (L08), وهى (L13, L14, L16), التى (L13, L20), على (L17; L19, twice).",
+  "The print stretches بمال and ناقصان (L01), صورتها (L11, at length), لها (L13), تكسير (L16) and وتكسيرها (L20) with the elongation stroke; the stroke is not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

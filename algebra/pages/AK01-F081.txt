@@ -1,0 +1,43 @@
+@page 81 ٦٥
+% Frame 081, printed p. 65: the truncated pyramid concluded: the whole height is twenty, a third of the base, five and
+% a third, times twenty, a hundred and six and two thirds; the part added to complete it, a third of two by two by
+% ten, thirteen and a third; the rest, ninety-three and a third, is the volume, with its figure. The truncated cone:
+% the square of the diameter less its seventh and half its seventh. Then a triangular field of sides ten and ten and
+% base twelve with a square field inside it: the altitude of the triangle, the root of a hundred less thirty-six,
+% eight; its area forty-eight; the side of the square is taken as a thing, the two triangles beside it, continued on
+% the next page. Below the rule one footnote of the editors.
+والطول كله عشرون ذراعا فلما عرفنا الطول أخذنا ثلث تكسير الأسفل
+وهو خمسة وثلث فضربناه فى الطول وهو عشرون ذراعا فبلغ ذلك مائة وستة
+أذرع وثلثى ذراع فأردنا أن نلقى منه ما زدنا عليه حتى انخرط وهو واحد وثلث
+الذى هو ثلث تكسير اثنين فى اثنين فى عشرة وهو ثلاثة عشر وثلث وذلك
+تكسير ما زدنا عليه حتى انخرط فاذا رفعنا ذلك من مائة وستة أذرع وثلثى
+ذراع بقى ثلاثة وتسعون ذراعا وثلث
+وذلك تكسير العمود المخروط وهذه
+صورته . وان كان المخروط مدورا فالق
+من ضرب قطره فى نفسه سبعه ونصف
+سبعه فما بقى فهو تكسيره {n:١} . فان قيل
+أرض مثلثة من جانبيها عشرة أذرع عشرة
+أذرع والقاعدة اثنا عشر ذراعا فى جوفها
+أرض مربعة كم كل جانب من المربعة فقياس
+ذلك أن تعرف عمود المثلثة وهو أن تضرب نصف القاعدة وهو ستة فى مثله فيكون
+ستة وثلاثين فانقصها من أحد الجانبين الأقصرين مضروباً فى مثله وهو مائة
+يبقى أربعة وستون فخذ جذرها ثمانية وهو العمود وتكسيرها ثمانية وأربعون
+ذراعاً وهو ضربك العمود فى نصف القاعدة وهو ستة فجعلنا أحد جوانب
+المربعة شيئا وضربناه فى مثله فصار مالا فحفظناه ثم علمنا أنه قد بقى لنا مثلثتان
+عن جنبتى المربعة ومثلثة فوقها فأما المثلثتان اللتان على جنبتى المربعة فهما متساويتان
+وعموداهما واحد وهما على زاوية قائمة فتكسيرها أن تضرب شيئاً فى ستة الا
+@fig AK01-F081-FIG1 540 1295 1300 2200 after=13
+@ednotes ١ 1
+@obs Layout: L01-L05 run across the page; L06-L13 stand in a narrower column at the right of the figure, which is reproduced after L13; L14-L20 run across the page.
+@obs The figure, drawn, not set in type: the section of the truncated pyramid of frame 080, L11-L13, a trapezoid with a vertical line from the middle of its upper side to the middle of its base; ٢ above the upper side, ٤ under the base and ١٠ beside the vertical line.
+@obs L07: «تكسير العمود المخروط», as printed, the volume of the truncated pyramid, called a column-cone. L09-L10: سبعه, its seventh, with the pronoun ه, twice. L20: فتكسيرها, as printed, with the singular pronoun, of the two triangles that the line before names (فهما متساويتان, L19).
+@obs L11: جانبيها (L11), its two sides, as printed: after the ن and the ب, each with its dot, a short tooth for the ي, whose two dots stand below the ه that follows; the machine reading has جانبها.
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: واحد وثلث (L03; 18 between the د and the conjunction و, where the د stands 6 to 7 px from a و inside a word); أربعة وستون (L16; 21 between the ة and the conjunction و).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: تعرف عمود and تضرب نصف (L14), جانب من (L13).
+@obs The ف before خ, ج and ح is printed with its head set on the next letter, as on frames 052, 061 and 068: فخذ (L16), فجعلنا (L17), فحفظناه (L18).
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after صورته, before وان (L08; 26 and 25), and in L10 after the note mark (١), before فان (28 and 25); the mark stands 33 px after تكسيره.
+@obs Plain alif where a hamza might be expected, as printed: اثنين (L04, twice), فاذا (L05), وان, فالق (L08), فان (L10), اثنا (L12), فانقصها (L15), الا (L20); with hamza: أخذنا, الأسفل (L01), أذرع, فأردنا, أن (L03), أذرع (L05), أرض, أذرع (L11), أذرع (L12), أرض (L13), أن (L14, twice), أحد, الأقصرين (L15), أربعة, وأربعون (L16), أحد (L17), أنه (L18), فأما (L19), أن (L20); on ي: مائة (L02, L05, L15), شيئا (L18), قائمة, شيئاً (L20).
+@obs With tanwīn on the final alif: مضروباً (L15), ذراعاً (L17), شيئاً (L20); without tanwīn as printed: ذراعا (L01, L02, L06, L12), مدورا (L08), شيئا, مالا (L18).
+@obs The final yā' is printed without dots: فى (L02; L04, twice; L09, L12, L14, L15, L17, L18, L20), وثلثى, نلقى, حتى (L03), الذى (L04), حتى, وثلثى (L05), بقى (L06, L10, L18), يبقى (L16), جنبتى (L19, twice), على (L19, L20).
+@obs The print stretches تكسير (L01, L04, L05, L07), وهذه (L07, at length), وتكسيرها (L16) and ستة (L17) with the elongation stroke; the stroke is not transcribed.
+@obs Note (١) of the editors explains that تكسيره (L10) means the area of the base; it is not reproduced.

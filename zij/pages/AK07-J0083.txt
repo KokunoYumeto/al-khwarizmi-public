@@ -1,0 +1,54 @@
+@page 83 51
+@lang de
+% JP2 0083: Suter's commentary, p. 51: chapter 10 continued: al-Bīrūnī's "Reasons of the tables of al-Khwārizmī",
+% unpublished, in Ibn ʿEzrā's Hebrew translation; the rules of the Sūrya-Siddhānta (II, 43-44) for the true places of
+% the planets in Burgess's translation, with his commentary; the two halvings of the equation (notes 1-3).
+und besonders bei diesem Kapitel über die wahren Örter der Planeten, dass die
+„Gründe der Tafeln des {sp:Kh.}“ von {sp:Al-Bīrūnī}{sup:1}), in der hebräischen Übersetzung des
+{sp:Ibn ʿEzrā} noch existierend, noch nicht zur Veröffentlichung gelangt sind.
+@p Sehen wir noch zu, was der {i:Sūrya-Siddhānta} über die Bestimmung des wahren
+Ortes der Planeten enthält. Seine Regeln{sup:2}) sind wesentlich komplizierter als diejenigen
+{sp:Kh.}’s, woraus wir wohl den Schluss ziehen dürfen, dass schon die persischen Tafeln des
+{i:Shāh} eine Vereinfachung der indischen Methode vorgenommen hatten. Ich führe hier
+nur die Verse 43 u. 44 (des II. Buches) in der engl. Übersetzung von E. {sp:Burgess}{sup:3}) an :
+@p 43. {i:The process of correction for the apsis is the only one required for the sun and}
+{i:moon ; for Mars and the other planets are prescribed that for the conjunction, that for}
+{i:the apsis, again that for the apsis and that for the conjunction — four in succession.}
+@p 44. {i:To the mean place of the planet apply half the equation of the conjunction,}
+{i:likewise half the equation of the apsis ; to the mean place of the planet apply the whole}
+{i:equation of the apsis and also that of the conjunction.}
+@p Mit diesen Regeln würde man ohne Kommentar wohl nicht viel anfangen können,
+wir sehen nur soviel daraus, dass es sich dabei auch um {i:Halbierung} der {i:Gleichung}
+handelt. {sp:Burgess} kommentiert diese Verse in folgender Weise :
+@p {i:The phraseology of the text is not entirely explicit, and would bear, if taken alone,}
+{i:a different interpretation from that which the commentary puts upon it, and which the}
+{i:rules to be given later show to be its true meaning ; this is as follows : first calculate}
+{i:from the mean place of the planet the equation of the conjunction, and apply the half}
+{i:of it to the mean place ; from the position thus obtained calculate the equation of the}
+{i:apsis, and apply half of it to the longitude as already once equated ; from this result}
+{i:find once more the equation of the apsis and apply it to the original mean place of the}
+{i:planet ; and finally calculate from and apply to this last place the whole equation of}
+{i:the conjunction.}
+@p {sp:Burgess} gibt dann Beispiele für die Berechnung der wahren Örter der fünf
+Planeten nach diesen Regeln. Wir haben uns lange mit der Vergleichung dieser
+Berechnungen mit den nach den Regeln {sp:Kh.}’s ausgeführten beschäftigt, aber den
+wahren Zusammenhang nicht herausfinden können. Im {i:Sūrya-Siddhānta} wird zwei
+mal eine Gleichung halbiert : zuerst die {i:Gleichung der Konjunktion} (bei uns {i:Gleichung}
+{i:des Centrums}), und die Hälfte dieser Gleichung der mittlern Länge des Planeten hin-
+zugefügt ; hierauf wird die {i:Gleichung der Apsis} (des Epizykels, bei uns {i:Gleichung der}
+{i:Anomalie}) halbiert, und die Hälfte wieder der neuen, korrigierten Länge des Planeten
+hinzugefügt ; dann wird von dieser zum zweiten mal korrigierten Länge wieder die
+{i:Gleichung der Anomalie} bestimmt und diese zur ursprünglichen mittlern Länge
+addiert, endlich wird von diesem Resultate die {i:Gleichung des Centrums} bestimmt und
+dieselbe zu dem vorhin erhaltenen Resultate addiert, so hat man die {i:wahre Länge}
+des Planeten. {sp:Burgess} hat nach diesen Regeln den wahren Ort des Saturns für
+@n {sup:1}) Oder {sp:Aḥmed b. al-Muthannā}, vergl. {i:Biblioth. mathem.} 3. Folge, XII, p. 282.
+@n {sup:2}) {i:Transl.} {sp:Burgess}, p. 211—216.
+@n {sup:3}) Ibid. p. 214—215.
+@obs The page number «51» stands at the head of the page, centred, with a rule below it. At the foot, the signature «7*» on the right. L01: «und besonders» continues «Sehr bedauert aber haben wir bei unsrer Kommentierungs-Arbeit,» at the end of p. 50 (JP2 0082, L40).
+@obs L09-L14 and L18-L26: the two quotations from Burgess's translation of the Sūrya-Siddhānta (Journal of the American Oriental Society 6, 1860), set in italics in the full measure, each paragraph indented; the numbers of the verses, «43.» and «44.», upright. L11: «— four in succession.», the long dash with a space on either side.
+@obs L09-L39: the procedure of the Sūrya-Siddhānta as Burgess's commentary explains it: half the equation of the conjunction (the equation of the centre, in Suter's terms) is applied to the mean place; from that place half the equation of the apsis (the anomaly) is found and applied; from that result the whole equation of the apsis is found and applied to the original mean place, and from this last place the whole equation of the conjunction. Suter's summary, L30-L39, follows the same order.
+@obs L02: «Al-Bīrūnī» spaced; N01 gives another possible author of the «Gründe der Tafeln», «Aḥmed b. al-Muthannā», spaced, with the dot under ḥ and the macron. L03: «Ibn ʿEzrā», spaced, the ʿayn raised.
+@obs L09 and L23: a grey stain over the e of «the» and over the r of «already»; read as «the» and «already». Specks not transcribed: above the line after «planet» (L13), in the u of «Berechnung» (L27), above the t of «bestimmt» (L36).
+@obs Spaced type, marked {sp:}: «Kh.», «Al-Bīrūnī», «Ibn ʿEzrā», «Burgess», «Aḥmed b. al-Muthannā»; italics: «Sūrya-Siddhānta», «Shāh», the quotations, «Halbierung» and «Gleichung» (L16), «Gleichung der Konjunktion», «Gleichung des Centrums», «Gleichung der Apsis», «Gleichung der Anomalie», «wahre Länge», «Biblioth. mathem.», «Transl.».
+@obs The colons and semicolons, in the German and in the English, stand after the thin space of the edition (7-14 px measured).

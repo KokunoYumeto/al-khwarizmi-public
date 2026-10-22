@@ -1,0 +1,4 @@
+@page 3 -
+@kind extrinsic
+% Frame 003: a leaf with the stamp of the acquisition programme at its head.
+@copy The stamp «Provided by the Library of Congress Public Law 480 Program» at the head of the leaf: the programme through which the copy was acquired; not part of the edition.

@@ -1,0 +1,53 @@
+@page 78 46
+@lang de
+% JP2 0078: Suter's commentary, p. 46: the end of chapter 9: al-Battānī's values for the example; the lunar tables
+% of al-Khwārizmī and the epicycle radius; the words taʿdīl, al-khāṣṣa, al-ḥiṣṣa; chapter 10, the true places of the
+% three upper planets: the apogees of the planets and the sun (notes 1-2).
+mittlere Länge am Ende des 510. Jahres 50° 44′ 20″ an, statt wie unsere Tafeln 40° 56′ 38″,
+und die Gleichung wird 6° 19′ 57″ gefunden statt 4° 55′ 7″.
+@p Wie die Mondtafeln {sp:Kh.}’s berechnet sind, ist mir nicht klar geworden ; die
+grösste Gleichung beträgt bei 90° mittlerer Anomalie 4° 56′, dies entspricht einem
+Epizykelradius von c. 5{sup:p} 10′, anstatt 5{sup:p} 15′, wie {sp:Batt.} hat ; berechnet man aber die
+Gleichung für andere Anomalien ({i:m}) nach der Formel
+@c tg aeq. anom. = {fr:{i:e} sin {i:m}|1 + {i:e} cos {i:m}},
+worin {i:e} also = {fr:5{sup:p} 10′|60{sup:p}} = 0,08611 zu setzen ist, so findet man keine Übereinstimmung,
+es müssen mithin eine der oben genannten, oder beide Ungleichheiten doch wohl
+berücksichtigt worden sein, in welcher Weise aber konnten wir nicht herausfinden.
+@p In den Tafel- und Kolonnenüberschriften finden wir für das arabische {i:Taʿdīl}
+= {i:Gleichung} bald das arabische Wort in der Form {i:Tadil}, bald das lateinische {i:Exa-}
+{i:minatio}, {i:Aequatio} kommt nicht vor, statt dieses Wortes hat N {i:Coaequatio}. Das Wort
+{i:elheza}, auch {i:elheca} geschrieben, ist das arabische {i:al-khāṣṣa} (auch {i:al-ḥāṣṣa} geschrieben)
+= die (dem Planeten) eigentümliche (Bewegung), richtig wäre : {i:al-ḥaraka al-khāṣṣa}
+= die (ihm) eigentümliche Bewegung, d. i. die sogenannte {i:Anomalie}, d. h. der Bogen,
+den der Mond oder der Planet auf dem Epizykel vom Apogeum desselben aus bis
+zu einem bestimmten Zeitpunkt durchlaufen hat. Dieses Wort wird in unserm
+Werke, besonders in Ms. C, mit {i:Argumentum} übersetzt ; es wird verwechselt mit {i:al-ḥiṣṣa}
+= Anteil, Loos, d. h. das Argument, mit dem man in eine Tafel eintritt.
+@c {b:Kap. 10. Bestimmung des (wahren) Ortes der drei obern Planeten.}
+@c (Text p. 10—11, Tafeln 27—44.)
+@p Betrachten wir zuerst die {i:Apogeen} der Planeten und der Sonne, so finden wir
+für dieselben im Text p. 14—15 und in den Tafeln 27—44 folgende Werte :
+@t Saturn | Jupiter | Mars | Venus | Merkur | Sonne
+@t 244° 55′ | 172° 32′ | 128° 24′ | 81° 15′ | 224° 54′ | 77° 55′.
+@p Diese Zahlen stimmen, auch wenn die {i:Praezession} berücksichtigt wird, weder
+mit denen des {sp:Ptol.} noch mit denen des {sp:Batt.}, auch nicht mit den Werten im
+{i:Sūrya-Siddhānta} und in der {i:Panchasiddhāntikā} überein.{sup:1}) Besonders weichen die
+Werte für Jupiter, Merkur und Venus in den genannten Werken wesentlich von
+einander ab ; der Wert für das Apogeum der Sonne stimmt, wenn wir für 55′ 15′
+lesen, wie wir oben (p. 43) schon bemerkt haben, mit dem Werte, den der arabische
+{i:Sindhind} nach dem Zeugnis {sp:Ibn Hibintās} gegeben hat ; ebenso der Wert für
+Jupiter mit demjenigen der „erprobten Tafeln“ nach {sp:Ibn Yūnus}{sup:2}). Am stärksten
+weicht der Wert für Merkur von denen der übrigen Tafeln ab, in denen er nicht
+über 202° hinaus geht, doch ist davon der {i:Sūrya-Siddhānta} auszunehmen, in welchem
+@n {sup:1}) Vergl. {sp:Burgess}, l. c. p. 216 u. 427 ; ebenso {i:the Panchasiddhāntikā of Varāha Mihira}, ed.
+@n by G. {sp:Thibaut}, etc., Benares 1889, p. 93 der engl. Übersetzung.
+@n {sup:2}) {sp:Batt.}, ed. {sp:Nallino}, I, 218 u. 239—242.
+@obs The page number «46» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «mittlere Länge» continues «dieselben geben nämlich für die» at the end of p. 45 (JP2 0077, L35). L21-L22: the heading of chapter 10, in bold, centred, with the reference to the text below it.
+@obs L07: the formula is displayed in a line of its own, centred, the fraction built up, «e sin m» over «1 + e cos m», with a comma after it; L08: «5p 10′» over «60p», built up, the p raised; e and m in italics. Written {fr:NUMERATOR|DENOMINATOR}.
+@obs L01-L02. Checked: 50° 44′ 20″ − 40° 56′ 38″ = 9° 47′ 42″; 314° 6′ 28″ (p. 42, JP2 0074, L35) + 9° 47′ 42″ + 6° 19′ 57″ = 330° 14′ 7″, 27′ short of al-Battānī's 330° 41′ (p. 45, JP2 0077, L35); the rest is in al-Battānī's increments for the 29 years, the month and the 14 days, which count from the equinox (p. 42, JP2 0074, L04-L05): at his precession of 1° in 66 years, 29 years add about 26′.
+@obs L03-L10. Checked: 60 sin 4° 56′ = 5p 9.6′ and 60 tan 4° 56′ = 5p 10.7′; 5p 10′ : 60p = 0.08611. With e = 0.08611 the formula of L07 gives 4° 55′ 18″ at 90° (arctan e) and its greatest value, 4° 56′ 24″ (arcsin e), near 95°, where cos m = −e; at 95° from the apogee, the anomaly of 265° of the example of p. 45, Suter reads 4° 54′ 52″ in Table 24 (p. 45, JP2 0077, N04). The rule sin q = sin 4° 56′ · sin m, whose greatest value 4° 56′ falls at 90°, gives 4° 54′ 52″ for m = 95°. To be compared with Table 24.
+@obs L25-L26: the apogees, set in six columns, the names over the values. Checked against the text of chapter 18 (pp. 14-15, JP2 0046-0047): Saturn eight signs 4° 55′, Jupiter five signs 22° 32′, Mars four signs 8° 24′, Venus two signs 21° 15′, Mercury seven signs 14° 54′, the sun two signs 17° 55′, that is 244° 55′, 172° 32′, 128° 24′, 81° 15′, 224° 54′ and 77° 55′. Each printed row is one line here, the cells separated by our «|». L31-L32: the reading 15′ for 55′ of p. 43 (JP2 0075, N05-N08).
+@obs L11-L20, the transliteration as printed: «Taʿdīl», with the ʿayn raised and the macron; «al-khāṣṣa», «al-ḥāṣṣa», «al-ḥaraka al-khāṣṣa», «al-ḥiṣṣa», with the dots under ḥ and ṣṣ; «Tadil», «elheza», «elheca», the forms of the Latin text. L20: «Loos», as printed.
+@obs L24: the e of «Text» is a damaged sort, its eye partly missing; L30: the n of «in» is printed broken; N01: the note number 1 is printed broken, two small marks before the bracket; L31: the prime after «15» is a thinner, curved sort. Specks not transcribed: above «anom.» (L07), before «worin» (L08), before «hat» (L13), above the line after «Werte :» (L24) and after «wird,» (L27).
+@obs Spaced type, marked {sp:}: «Kh.», «Batt.», «Ptol.», «Ibn Hibintās», «Ibn Yūnus», «Burgess», «Thibaut», «Nallino»; italics: «m», «e», the Arabic and Latin words of L11-L20, «Anomalie» (L16), «Apogeen», «Praezession», «Sūrya-Siddhānta», «Panchasiddhāntikā», «Sindhind», and in N01 «the Panchasiddhāntikā of Varāha Mihira».
+@obs The colons and semicolons stand after the thin space of the edition (10-14 px measured).

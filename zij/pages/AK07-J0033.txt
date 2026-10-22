@@ -1,0 +1,43 @@
+@page 33 1
+@lang la
+% JP2 0033: the Latin text, p. 1: the title of the work; the preamble: the tables give the state of the seven planets
+% and the dragon from noon of Wednesday, the first of al-Muharram of the Hijra; the meridian of Arin; with the
+% editor's apparatus (notes 1-29).
+@m M 82{sup:r}, C 41{sup:r}
+@h Incipit ezich Elkaurezmi per Athelardum Bathoniensem
+@m O 99{sup:v}, N 8{sup:r}
+@h ex arabico sumptus{sup:1}).
+@p Liber iste septem planetarum atque draconis statum{sup:2}) continet a meridie quartae
+feriae{sup:3}) usque ad meridiem quintae feriae{sup:4}) determinatum. Secundum hoc et{sup:5}) in
+ceteris feriis idem convenit, a meridie{sup:6}) scilicet praecedentis usque ad meridiem{sup:7})
+sequentis{sup:8}). Quoniam enim meridies quartae feriae{sup:9}) initium fuit elhigere{sup:10}) mensis-
+que{sup:11}) elmuharram{sup:12}), ideo et ab eo{sup:13}) ezich{sup:14} sumpsit exordium{sup:15}).
+@p Posita{sup:16}) itaque est in hoc volumine ab {i:Elkaurezmo}{sup:17}) examinatio planetarum
+et temporum secundum medium{sup:18}) locum terrae dictum{sup:19}) Arin{sup:20}), a quo quidem
+ad{sup:21}) quatuor mundi terminos aequalis habetur distantia, nonaginta videlicet gradus
+secundum quartam circuli partem{sup:22}). Omnes enim{sup:23}) terrae{sup:24}) regiones describere
+omniaque tempora determinare et taediosum esset{sup:25}) et inexplicabile, quare{sup:26}) pro
+temporibus innumeris meridies, pro terris infinitis Arin{sup:27}) annotata sunt, eo scilicet
+tenore, ut ab hac radice per regulas geometricales et arithmeticas ceteras{sup:28}) regiones
+et tempora determinare non sit difficile.
+@p Interim itaque id a lectore postulatum sit, ut si harum artium immunis acces-
+serit, quicquid in his computationum lineis secundum regulas subscriptas{sup:29}) inciderit,
+@n {sup:1}) Incipit . . . . sumptus] O, {i:sed supra} ezich {i:scripsit} opus, {i:supra} Elkaurezmi auctoris ; Incipit liber
+@n ezich Jafaris Elkaurezmi per Adelardum Bathoniensem ex arabico in latinum sumptus M, Incipit liber
+@n ezeig id est chanonum alghoarizmi per adelardum bathoniensem ex arabico sumptus et per rodbertum
+@n cestrensem ordine digestus N ; {i:om.} C. — {sup:2}) statum] {i:om.} M. — {sup:2}) meridie . . . feriae] M, meridie quartae
+@n C, medio mercurii die O. — {sup:4}) meridiem . . . feriae] CM, medium diem Jovis O. — {sup:5}) et] etiam O,
+@n etiam et CM. — {sup:6}) meridie] medio die O. — {sup:7}) meridiem] medium O. — {sup:8}) sequentis] subsequentis M. —
+@n {sup:9}) enim . . . feriae] autem medius dies mercurii O. — {sup:10}) elhigere] regni Alexandri O {i:suprascr.} —
+@n {sup:11}) mensisque] C, mensis M, et O. — {sup:12}) elmuharram] id est primi mensis ON {i:suprascr.} — {sup:13}) et ab eo]
+@n C, ab eo M, ab eo et O. — {sup:14}) ezich] MOC, ezeig N. — {sup:15}) exordium] initium O. — {sup:16}) Posita] Postea
+@n M. — {sup:17}) Elkaurezmo] auctore O {i:suprascr.}, alghoarizmo N. — {sup:18}) medium] {i:om.} C. — {sup:19}) dictum] {i:om.}
+@n O. — {sup:20}) Arin] Arim M. — {sup:21}) ad] in O. — {sup:22}) partem] O, portionem CM. — {sup:23}) Omnes enim] Quoniam
+@n enim omnes O. — {sup:24}) terrae] terrae et M. — {sup:25}) esset] M, {i:om.} CO. — {sup:26}) quare] {i:om.} O. — {sup:27}) Arin] C,
+@n Arim M, centrum terrae O. — {sup:28}) ceteras] ceterasque M. — {sup:29}) subscriptas] praescriptas CN.
+@obs The first page of the Latin text; the page number, 1, is not printed at the head. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «1» on the right; recorded here, not transcribed as a line.
+@obs L01-L02: the title, «Incipit ezich Elkaurezmi per Athelardum Bathoniensem ex arabico sumptus», in a larger type, centred, with a short rule below it. In the right margin beside it the folios of the four manuscripts at which the text begins: Mazarine (M) 82 recto, Chartres (C) 41 recto, Oxford (O) 99 verso, Madrid (N) 8 recto; transcribed as margin notes.
+@obs The apparatus (N01-N13), in a smaller type, gives the readings of the manuscripts by their sigla C, O, M and N; the lemma closes with a square bracket; «om.» (omitted), «suprascr.» (written above) and the remarks of the editor in italics. N01: the omission in the lemma is printed as four points, in N04, N05 and N07 as three. The text and the apparatus follow the editor's principles of p. XXIII (JP2 0027): ae for the e of the manuscripts, v for consonantal u, t for c before i and a vowel.
+@obs N01: the semicolons of the apparatus stand after a thin space (9 px), as in the German pages.
+@critical AK07-CN008 | wrong note number | N04 | {sup:2}) meridie . . . feriae] | {sup:3}) meridie . . . feriae] | the note on «meridie quartae feriae» is note 3 (L04 «feriae{sup:3})»); the number is printed 2, a second time after the note 2 on «statum» in the same line | high | the variant belongs to note 3
+@critical AK07-CN009 | missing bracket | L07 | ezich{sup:14} | ezich{sup:14}) | the note numbers of the text are followed by a bracket on the line, «13)», «15)»; after the raised 14 of «ezich» the bracket is not printed | high | none

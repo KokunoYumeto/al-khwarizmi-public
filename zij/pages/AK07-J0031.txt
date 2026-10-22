@@ -1,0 +1,6 @@
+@page 31 [XXVII]
+@kind divider
+@lang de
+% JP2 0031: the part title of the Latin text, p. [XXVII].
+@c TEXT
+@obs The part title, unnumbered, before the Latin text: the word «TEXT», letter-spaced capitals, alone a little above the middle of the page. Damp stains run down from the top.

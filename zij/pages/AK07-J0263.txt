@@ -1,0 +1,51 @@
+@page 263 231
+@lang la
+% JP2 0263: Tab. 116, p. 231: the table of the lords, judges, faces etc., in O only: for each sign the lord of its
+% house, the planet exalted, in detriment and in fall in it, the lords of its triplicity by day and by night, the
+% lords of its three faces and its five terms, with the apparatus (notes 1-4 and a-b) and O's closing words.
+@m O 158{sup:v}.
+@c {b:[Tabula dominorum, iudicum, facierum, etc.]}
+@tw size=footnotesize span=1.02 0.85 0.85 0.85 0.85 0.85 0.7 0.7 0.7 0.7 0.7 0.7
+@t Signa | Domicilia et |  | Reges(?) et |  | Trigonalia in die |  |  | Trigonalia in nocte |  |
+@t  | alienationes |  | Servitores |  |  |  |  |  |  |
+@t  | Domicilia | Regnum | Alienatio | Servitus | Judices eorum in die |  |  | Judices eorum in nocte |  |
+@t 1 | 2 | 3 | 4 | 5 | 6 |  |  | 7 |  |
+@t Aries | Mars | Sol | Venus | Saturn. | Sol | Jupiter | Saturn. | Jupiter | Sol | Saturn.
+@t Taurus | Venus | Luna | Mars | 0 | Venus | Luna | Mars{sup:1}) | Luna | Venus | Mars
+@t Gemini | Mercur. | Caput | Jupiter | Cauda | Saturn. | Mercur. | Jupiter | Mercur. | Saturn. | Jupiter
+@t Cancer | Luna | Jupiter | Saturn. | Mars | Venus | Mars | Luna | Mars | Venus | Luna{sup:2})
+@t Leo | Sol | 0 | Saturn. | 0 | Sol | Jupiter | Saturn. | Jupiter | Sol | Saturn.
+@t Virgo | Mercur. | Mercur. | Jupiter | Venus | Venus | Luna | Mars{sup:3}) | Luna | Venus | Mars
+@t Libra | Venus | Saturn. | Mars | Sol | Saturn. | Mercur. | Jupiter | Mercur. | Saturn. | Jupiter
+@t Scorpius | Mars | 0 | Venus | Luna | Venus | Mars | Luna | Mars | Venus | Luna
+@t Sagittar. | Jupiter | Cauda | Mercur. | Caput | Sol | Jupiter | Saturn. | Jupiter | Sol | Saturn.
+@t Capric. | Saturn. | Mars | Luna | Jupiter | Venus | Luna | Mars{sup:4}) | Luna | Venus | Mars
+@t Aquar. | Saturn. | 0 | Sol | 0 | Saturn. | Mercur. | Jupiter | Mercur. | Saturn. | Jupiter
+@t Pisces | Jupiter | Venus | Mercur. | Mercur. | Venus | Mars | Luna | Mars | Venus | Luna
+@tw size=footnotesize span=1.02 0.85 0.75 0.75 0.75 0.95 0.95 0.95 0.95 0.95
+@t Signa | Facies |  |  | Fines secundum Medos |  |  |  |
+@t Aries | Mars | Sol | Venus | Jupiter 6° | Venus 6° | Mercur. 8° | Mars 5° | Saturn. 5°
+@t Taurus | Mercur. | Luna | Saturn. | Venus 8° | Mercur. 6° | Jupiter 8° | Saturn. 5° | Mars 3°
+@t Gemini | Jupiter | Mars | Sol | Mercur. 6° | Jupiter 6° | Venus 5° | Mars 7° | Saturn. 6°
+@t Cancer | Venus | Mercur. | Luna | Mars 7°{sup:a}) | Venus 6° | Mercur. 6° | Jupiter 7° | Saturn. 4°
+@t Leo | Saturn. | Jupiter | Mars | Jupiter 6° | Venus 5° | Saturn. 7° | Mercur. 6° | Mars 6°
+@t Virgo | Sol | Venus | Mercur. | Mercur. 7° | Venus 10° | Jupiter 4° | Mars 7° | Saturn. 2°
+@t Libra | Luna | Saturn. | Jupiter | Saturn. 6° | Mercur. 8° | Jupiter 7° | Venus 7° | Mars 2°
+@t Scorpius | Mars | Sol | Venus | Mars 7° | Venus 4° | Mercur. 8° | Jupiter 5° | Saturn. 6°
+@t Sagittar. | Mercur. | Luna | Saturn. | Jupiter12° | Venus 5° | Mercur. 4° | Saturn. 5° | Mars 4°
+@t Capric. | Jupiter | Mars | Sol | Mercur. 7° | Jupiter 7° | Venus 8° | Saturn. 4° | Mars 4°
+@t Aquar. | Venus | Mercur. | Luna | Mercur. 7° | Venus 6° | Jupiter3°{sup:b}) | Mars 9° | Saturn. 5°
+@t Pisces | Saturn. | Jupiter | Mars | Venus 12° | Jupiter 4° | Mercur. 3° | Mars 9° | Saturn. 2°
+@n {sup:1}) Mars] Saturnus O — {sup:2}) Luna] Venus O — {sup:3}) Mars] Saturnus O — {sup:4}) Mars] Saturnus O.
+@n {sup:a}) 7°] 8° O — {sup:b}) 3°] 7° O.
+@n i. e. opus nomen auctoris
+@n {i:Addid.} O {i:in fine huius tabulae}: Explicit Ezich Elkaurezmi per Athelardum Bathoniensem ex arabico
+@n sumptum.
+@obs The page number «231» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 116», in bold sans serif, underlined. The page has no signature. The title (L01), «[Tabula dominorum, iudicum, facierum, etc.]», the table of the lords, judges, faces etc., in bold, in square brackets: the table stands only in O, on its last leaf, and the title is the editor's (Suter, p. 102, JP2 0134, L08-L20). The folio, «O 158v.», the letter raised, stands at the right of the title; here as a right margin note. At the foot, after the notes, a short double rule, centred, closes the tables; not transcribed as a line.
+@obs The table has two parts, divided by a double rule. The upper (L02-L17): «Signa», the signs, and four pairs of columns: «Domicilia et alienationes», with «Domicilia» and «Regnum», and «Reges(?) et Servitores», with «Alienatio» and «Servitus», the heads standing over the columns as printed; «Trigonalia in die» with «Judices eorum in die» and «Trigonalia in nocte» with «Judices eorum in nocte», each three columns. The figures 1 to 7 under the heads (L05) are Suter's, who numbered the columns for citation; the manuscript has none (Suter, p. 103, JP2 0135, N03-N04). The lower (L18-L30): «Signa», «Facies», three columns, and «Fines secundum Medos», five columns, each a planet with a number of degrees. Here each head is set from the top, one printed line to a line; the cells separated by our «|»; a head followed by empty cells spans their columns. The abbreviations «Saturn.», «Mercur.», «Sagittar.», «Capric.» and «Aquar.» are printed; «Jupiter12°» (L27) and «Jupiter3°b)» (L29) have no space, the cells being full.
+@obs The upper part, checked against the doctrine that Suter explains (pp. 103-104, JP2 0135, L16-L37, and JP2 0136, L01-L28): column 2 gives the lord of the house of each sign, Mars for Aries and Scorpius, Venus for Taurus and Libra, Mercury for Gemini and Virgo, the moon for Cancer, the sun for Leo, Jupiter for Sagittarius and Pisces, Saturn for Capricornus and Aquarius; column 4 the lord of the opposite sign, which is in its detriment there (Venus in Aries and Scorpius, Mars in Taurus and Libra, Jupiter in Gemini and Virgo, Saturn in Cancer and Leo, Mercury in Sagittarius and Pisces, the moon in Capricornus, the sun in Aquarius); column 3 the planet exalted in the sign (the sun in Aries, the moon in Taurus, the head of the dragon in Gemini, Jupiter in Cancer, Mercury in Virgo, Saturn in Libra, the tail in Sagittarius, Mars in Capricornus, Venus in Pisces, none, 0, in Leo, Scorpius and Aquarius); column 5 the planet in its fall, exalted in the opposite sign (Saturn in Aries, the tail in Gemini, Mars in Cancer, Venus in Virgo, the sun in Libra, the moon in Scorpius, the head in Sagittarius, Jupiter in Capricornus, Mercury in Pisces, none in Taurus, Leo and Aquarius). Columns 6 and 7 give the lords of the four triplicities, by day and by night: the sun, Jupiter and Saturn by day, Jupiter, the sun and Saturn by night for Aries, Leo and Sagittarius; Venus, the moon and Mars, the moon, Venus and Mars for Taurus, Virgo and Capricornus; Saturn, Mercury and Jupiter, Mercury, Saturn and Jupiter for Gemini, Libra and Aquarius; Venus, Mars and the moon, Mars, Venus and the moon for Cancer, Scorpius and Pisces. Every line agrees with this scheme.
+@obs The lower part: the lords of the faces, the three parts of 10° of each sign, follow the order Saturn, Jupiter, Mars, the sun, Venus, Mercury, the moon from Mars in the first face of Aries to Mars in the last face of Pisces, as Suter says (p. 104, JP2 0136, L29-L40). The terms, «Fines secundum Medos», divide each sign among the five planets; the five numbers of each sign add up to 30°, and in eleven of the signs they are the terms that Suter recognises as the system Nallino ascribes to the Egyptians (p. 105, JP2 0137, L01-L12), the Egyptian terms of Ptolemy's Tetrabiblos, beginning with Jupiter 6°, Venus 6°, Mercury 8°, Mars 5°, Saturn 5° in Aries. In Aquarius (L29) the table has Mercury 7°, Venus 6°, Jupiter 3° and Mars 9°, where the Egyptian terms have Jupiter 7° and Mars 5°: the 7 is O's reading for Jupiter (note b), the 3 the editor's, which makes the five numbers add up to 30° with the 9 of Mars; see the critical notes. Over the twelve signs the terms of Saturn add up to 57°, of Venus to 82° and of Mercury to 76°; those of Jupiter to 75° and of Mars to 70°, with 7° and 5° in Aquarius to 79° and 66°, the five sums making 360°.
+@obs Notes on the readings. The edition's readings are those of the scheme: Mars as the third lord of the triplicity of Taurus, Virgo and Capricornus by day (notes 1, 3 and 4, L07, L11, L15: O's Saturnus), the moon as the third lord of that of Cancer, Scorpius and Pisces by night (note 2, L09: O's Venus), and Mars 7° in the terms of Cancer (note a, L22: O's 8°, which would make the sign 31°). For note b see above. Only O has the table, so these are the editor's corrections of O.
+@obs O's closing words (N04-N05), in the apparatus: «Addid. O in fine huius tabulae: Explicit Ezich Elkaurezmi per Athelardum Bathoniensem ex arabico sumptum», here ends the zīj of al-Khwārizmī taken from the Arabic by Adelard of Bath; above «Ezich» and «Elkaurezmi», in smaller type, stand the glosses «i. e. opus» and «nomen auctoris», here a line of their own (N03). Suter thought that Bjørnbo, who did not copy the two tables, had overlooked these words (p. 102, JP2 0134, L08-L13). Italics: «Addid.», «in fine huius tabulae».
+@critical AK07-CN272 | wrong figure | L29 | Mars 9° | Mars 5° | the terms of Mars in Aquarius: in the other eleven signs the table has the Egyptian terms (Ptolemy, Tetrabiblos, the chapter on the terms), and in these Aquarius has Jupiter 7° and Mars 5°; with Jupiter 7°, O's reading (note b), and Mars 5° the terms of Jupiter over the twelve signs add up to 79° and those of Mars to 66°, which with Saturn's 57°, Venus's 82° and Mercury's 76° make 360°; the 9 repeats the Mars 9° of Pisces in the same column of the next line (L30) | medium | none
+@critical AK07-CN273 | wrong emendation | L29 | Jupiter3°{sup:b}) | Jupiter7°{sup:b}) | O has 7° (note b: «3°] 7° O»); the editor's 3 makes the terms of Aquarius add up to 30° with the Mars 9° that follows, where the Egyptian terms of the other eleven signs have Jupiter 7° and Mars 5° in Aquarius (critical note AK07-CN272) | medium | none

@@ -1,0 +1,5 @@
+@page 12 -
+@kind editorial
+% Frame 012: the editors' preface, end, dated and signed by the two editors.
+@withheld the editors' preface (مقدمة), second page, with its date and the signatures of the two editors
+@obs The preface (frames 011-012) states that the manuscript the edition follows is a copy made about five hundred years after the author's death, that the notes in its margins, added by readers, are not treated as part of the text, and that the editors corrected what they judged obvious copying errors without marking the corrections. The edition is therefore not a diplomatic edition of the manuscript; this transcription follows the edition as printed. The preface is dated 26/9/1937.

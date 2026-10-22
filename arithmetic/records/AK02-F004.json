@@ -1,0 +1,20 @@
+{
+ "anchor": "AK02-F004",
+ "frame": 4,
+ "frame_file": "page_004.jpg",
+ "frame_sha256": "dd5a8b167b209050be8e23243d00fe5fa170ef2e762260dd12b17c01af0d99f0",
+ "printed_page": "-",
+ "kind": "provenance",
+ "role": "COPY_PROVENANCE",
+ "comment": "Frame 004: the back of the front wrapper: nothing printed; the print of the title page shows through; a library stamp.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Nothing is printed on the back of the wrapper; the title of the front (frame 003) and the inscription show through in mirror image."
+ ],
+ "copy_matter": [
+  "The oval stamp «Bayerische Staatsbibliothek München» in black, at the foot of the area of the title. Not part of the edition."
+ ],
+ "critical_notes": []
+}

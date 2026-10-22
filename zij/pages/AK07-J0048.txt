@@ -1,0 +1,57 @@
+@page 48 16
+@lang la
+% JP2 0048: the Latin text, p. 16: the bracketed addition of a second hand in C to chapter 21, in Arabic figures (the
+% solar motions after Ptolemy's Almagest); chapter 22, on the visibility of the moon on the evening of the 29th day;
+% with the apparatus (notes 1-24).
+@p [Secundum {sp:Ptolomaeum} in {i:almagesti} annus est ex 365 diebus et 14 minutis
+et 48 secundis, dies vero ex 59 minutis et 8 minutiis (sic) et 17 tertiis et 13 quartis
+et 12 quintis et 31 sextis fere, hora vero ex duabus minutis et 27 minutiis et 50
+tertiis et 43 quartis et tribus quintis et una sexta fere, mensis vero ex 29 gradibus
+et 34 minutis et 8 minutiis et 35 tertiis et 36 quartis et 15 quintis et 30 sextis ; an-
+nus vero egyptiorum ex 359 gradibus et 45 minutis et 24 minutiis et 45 tertiis et
+21 quartis et 8 quintis et 35 sextis ; annus vero collectus, qui est 18 annis, est ex
+1350 (sic! recte 355) gradibus et 37 minutis et 25 minutiis et 36 tertiis et 20 quartis
+et 34 quintis et 30 sextis ; et iste quidem numerus remanet ex aggregatione 18 anno-
+rum eiectis ciclis perfectis]{sup:1}).
+@ml C 71{sup:r}, O 128{sup:v}
+@c {b:Cap. 22. De apparitione lunae vigesima nona die ad vesperum{sup:2}).}
+@ml N 36{sup:v}
+@p Hactenus planetarum examinationes{sup:3}) cum eis quae illi considerationi attinent
+praescriptae sunt. Nunc vero de lunae appararitione competens est subnotare. Cum
+itaque{sup:4}) quaeretur, utrum die mensis lunaris{sup:5}) vigesima nona ad vesperum visibilis
+sit luna an non{sup:6}), erit locus solis et lunae secundum ipsius{sup:7}) diei meridiem, addita
+etiam sex horarum examinatione{sup:8}), inveniendus ; sicque habebitur eorum locus{sup:9})
+secundum eiusdem diei vesperum{sup:10}). Deinde locus lunae a loco solis quo numero
+habundat diligenter notandus{sup:11}). Quod{sup:12}) si fuerit luna {i:shemeli}{sup:13}), id est ex hac
+parte septentrionali{sup:14}), erit ipsius lunae latitudo differentiae praenotatae coacervanda{sup:15}),
+si vero {i:genubi}, id est ex illa parte, meridionalis scilicet sive australis{sup:16}), eadem{sup:17})
+eidem{sup:18}) subtrahenda{sup:19}), eritque distantia definita{sup:20}). Deinde vero in tabulam sub-
+scriptam introducemur per lunae signum, et signi faciem eorumque angularis nota-
+bitur conventus. Eo itaque conventu si distantia supradicta maior fuerit, eodem
+vespere expectatum lumen apparebit ; sin autem minor, non{sup:21}) ; si vero{sup:22}) aequalis,
+oculo quidem perspicaci sanoque aere vix apparebit.
+@p Quod si vigesimi septimi diei hora matutina{sup:23}) quaestio inciderit, solis item
+atque lunae secundum eiusdem diei meridiem loco notato, quantumque sex horis
+attinet subtracto, tractabuntur cetera modo supradicto{sup:24}).
+@p Callendum autem ut horae supradictae secundum statum praesentis regionis
+@n {sup:1}) Secundum . . . . perfectis] C, {i:man. secunda}, {i:om.} MO. — {sup:2}) De . . . . vesperum] C, De latitudine
+@n cuiuslibet habitationis inveniende (sic) O. — {sup:3}) examinationes] coaequationes N. — {sup:4}) itaque] C, itaque
+@n id O. — {sup:5}) die mensis lunaris] C, mensis cuiuslibet die quidem O. — {sup:6}) luna an non] C, {i:om.} O. —
+@n {sup:7}) ipsius] C. eiusdem O. — {sup:8}) examinatione] coaequatione N. — {sup:9}) eorum locus] C. {i:om.} O. — {sup:10}) vespe-
+@n rum] C, vesperam O. — {sup:11}) locus . . . . notandus] C, distantia solis et lunae diligenter notanda eidemque
+@n latitudo lunae addenda O ; si enim locus lunae loco solis minor aut aequalis, frustra laborabis C {i:su-}
+@n {i:prascr.} — {sup:12}) Quod] C, ita dico O. — {sup:13}) shemeli] O, in hemeli C. — {sup:14}) shemeli . . . . septentrionali] sep-
+@n temtrionalis N. — {sup:15}) septentrionali . . . . coacervanda] C, {i:om.} O. — {sup:16}) si . . . . australis] C, si vero genubi,
+@n id est ex illa parte O, si vero australis N. — {sup:17}) eadem] id est la[titudo] lu[nae] C {i:suprascr.} — {sup:18}) eidem]
+@n id est differentia C {i:suprascr.} — {sup:19}) subtrahenda] minuenda O. — {sup:20}) definita] C, diffinita O. — {sup:21}) non]
+@n C, contrarium O. — {sup:22}) si vero] C, quod si O. — {sup:23}) Quod . . . . matutina] C, Sin autem horam vicesimae
+@n septimae diei matutinam O. — {sup:24}) supradicto] diei eiusdem mensis est cum adiectis horarum locis C
+@n {i:suprascr.}
+@obs The page number «16» stands at the head of the page, centred, with a rule below it.
+@obs L01-L10: the passage in square brackets is the addition of a later hand in C to chapter 21 (note 1, «man. secunda»), the only part of the text in Arabic figures, as Suter says on p. XXIII (JP2 0027, L12-L14): the solar motions after Ptolemy's Almagest, the year 365;14,48 days, the motion in a day, an hour, a month of thirty days, an Egyptian year of 365 days and eighteen Egyptian years. «minutis» are minutes and «minutiis» seconds; the editor's «(sic)» (L02) marks «minutiis» where the series would lead one to expect «secundis». L08: «1350 (sic! recte 355)», the editor's correction in the line, «355» being the degrees of eighteen years after the full circles are cast off (L09-L10).
+@obs Checked: 360 degrees divided by 365;14,48 days give 0;59,8,17,13,12,30… a day, the text's 0;59,8,17,13,12,31 «fere» (L02-L03); a twenty-fourth of it, 0;2,27,50,43,3,1, the hour (L03-L04); 365 times it, 359;45,24,45,21,8,35, the Egyptian year (L06-L07); eighteen times that, 6475;37,25,36,20,34,30, less seventeen circles, 355;37,25,36,20,34,30 (L08-L09), as Suter corrects. Thirty times the daily motion is 29;34,8,36,36,15,30, where the text has 35 thirds (L05); see the critical note.
+@obs L11: the heading of chapter 22, in bold, centred; in the left margin beside it «C 71r, O 128v», and beside L12 «N 36v», the folios at which the chapter begins. L01: «Ptolomaeum» is letter-spaced, «almagesti» in italics; L18 and L20 «shemeli», northern, and «genubi», southern, in italics.
+@obs The semicolons of the text and of N06 stand after the thin space of the edition (8-13 px measured).
+@critical AK07-CN030 | wrong numeral | L05 | 35 tertiis | 36 tertiis | the month of thirty days is thirty times the daily motion of L02-L03, 0;59,8,17,13,12,31, which gives 29;34,8,36,36,15,30; the text has 35 thirds and the other places as computed. Ptolemy's monthly motion of the sun (Almagest III.1) is the same 29;34,8,36,36,15,30 | high | the thirds of the monthly motion read 35 for 36
+@critical AK07-CN031 | misprint | L13 | appararitione | apparitione | «de lunae apparitione», the appearance of the moon, as the heading of the chapter (L11); the syllable «ar» is printed twice | high | none
+@critical AK07-CN032 | wrong punctuation | N04 | C. eiusdem O. … C. om. O. | C, eiusdem O. … C, om. O. | the readings within a note are divided by commas, «C, mensis cuiuslibet die quidem O.» (N03); in notes 7 and 9 a full stop is printed after the siglum C | medium | none

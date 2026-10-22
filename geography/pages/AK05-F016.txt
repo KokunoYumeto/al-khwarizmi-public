@@ -1,0 +1,40 @@
+@page 16 ١٠
+% Frame 016, printed p. 10: the cities of the second clime continued, entries 98-114: Jurash of Yemen, Jidda on the
+% sea, Māla, Mecca, al-Ṭāʾif, the city of Marwā, al-Yamāma, Ghanābārā, Qanb on the sea, a city on the sea, a city
+% printed امق, Hajar, ʿUmān on the sea, Awmūra between the two seas, al-Nayrūn on the sea, al-Manṣūra of Sind and a
+% city on the sea; the folio of the manuscript, «(fol. 4ᵃ)», in the margin. Three lines of the editor's footnotes.
+@r (٩٨) | [٧١] | جرش{n:a} من اليمن | سه | {z} | يز | {z}
+@r (٩٩) | [٧٢] | جدّة على البحر | سه | ل | كا | مه
+@r (١٠٠) | [٧٣] | ماله{n:b} | سو | {z} | ٮط | {z}
+@r (١٠١) | [٧٤] | مكّة | سر | {z} | كا | {z}
+@r (١٠٢) | [٧٥] | الطائف | سح | ك | كا | ك
+@r (١٠٣) | [٧٦] | مدينة مروا | سط | ى | ٮو | مه
+@r (١٠٤) | [٧٧] | اليمامة | عا | مه | كا | ل
+@r (١٠٥) | [٧٨] | غنابارا | عد | م | ٮط | {z}
+@r (١٠٦) | [٨٦] | مدينة قنب على البحر | عو | ل | كٮ | ك
+@r (١٠٧) | [٨٧] | مدينة على البحر | عح | م | كٮ | ل
+@r (١٠٨) | [٨٨] | مدينة امق | عط | {z} | ٮح | {z}
+@r (١٠٩) | | هجر{n:c} | عح | م | كٮ | ل
+@m (fol. 4ᵃ)
+@r (١١٠) | [٨٩] | عمان على البحر | ڡد | ل | ٮط | مه
+@r (١١١) | [٩٠] | اوموره{n:d} واغلة* بين البحرين | ص | ل | كٮ | {z}
+@r (١١٢) | [٩١] | النيرون{n:e} على البحر | صٮ | ك | كح | ل
+@r (١١٣) | [٩٢] | المنصورة من السند | صح | {z} | كٮ | {z}
+@r (١١٤) | [٩٣] | مدينة على البحر | صر | {z} | كا | {z}
+@ednotes a b c d e 3
+@obs The table goes on from frame 015 without a heading: the cities of the second clime, entries 98-114. Entry 109 has no number of Suhrāb. The folio of the Strasbourg manuscript, «(fol. 4ᵃ)», is printed in Latin type in the right margin beside entry 110 (L13), as on frame 014.
+@obs L11: the second word of the name is printed «امق»: an alif, then an initial م joined to a final ق with its two dots, without a tooth between them; transcribed as printed. A short horizontal stroke crosses the left parenthesis of the running number «(١٠٨)», a flaw of the print.
+@obs L14: an asterisk stands after واغلة, «اوموره واغلة* بين البحرين», raised like the editor's note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (introduction, frame 184, p. XXIX); transcribed as printed. The two dots of the ة of واغلة are printed as one mark touching the top of the letter.
+@obs Letters printed without their dots in the numerals, transcribed so: the tooth without its dots, ٮط (L03, L08, L13), ٮو (L06) and ٮح (L11) in the degrees of the latitude; the loop of ف or ق without dots, ڡد (L13, the degrees of the longitude); the final ب without its dot, صٮ (L15, the degrees of the longitude). With their dots: يز (L01), the ي with its two dots and the ز with its dot, 17.
+@obs L04, L17: the degrees of the longitude, سر and صر: in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed. In L01 the latitude is printed with a dotted ز, يز.
+@obs L06: below the tooth of the degrees of the latitude, ٮو, stands a small dark speck, 5 px across, where the dots of the font are 10-11 px; it is not transcribed as a dot.
+@obs The degrees of the latitude of L09, L10, L12, L14 and L16 are printed «كٮ», a long oblique stroke over a flat bowl, 78 to 89 px wide, without the small inner stroke of the isolated ك: the ك joined to the final ب without its dot, 22 (frame 014, L11). The isolated ك, 20, of the minutes (L05, the minutes of the longitude and of the latitude; L09, the minutes of the latitude; L15, the minutes of the longitude) has the inner stroke. Read so, the latitudes are 22° 20′ (L09), 22° 30′ (L10, L12) and 22° 0′ (L14, L16).
+@obs L02: «جدّة», with a shadda over the د. L04: «مكّة», with a shadda over the ك. L05: «الطائف», with a hamza over the tooth before the ف.
+@obs L08: a small dot stands below the ٨ of the number of Suhrāb, «[٧٨]», a speck of the print; it is not transcribed. L17: in «البحر» the ل is printed apart from the following ب, and a small speck stands below the alif.
+@obs The page number «— ١٠ —» stands at the foot, centred.
+@copy A faint grey curl beside the zero sign of the minutes of the latitude of entry 114 (L17).
+@variant L01: the manuscript reads حرش, without the dot of the ج, and so does entry (1691).
+@variant L03: at entry (1751) the name ماله is written ٮاله, with a tooth without dots for the م.
+@variant L12: the editor compares entry (165).
+@variant L14: at entries (645) and (646) the name اوموره is written ارموره.
+@variant L15: the manuscript reads الٮٮروں for النيرون, without any dots, and so does entry (1757); at entry (1210) the name is written الٮٮرون, with the variant reading الٮٮرزن.

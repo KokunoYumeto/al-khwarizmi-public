@@ -1,0 +1,4 @@
+@page 213 -
+@kind blank
+% Frame 213: the back of the reprint's leaf with the German title (frame 214), on the grey mottled paper; nothing printed.
+@obs Blank, on the grey mottled paper of the reprint (frames 005, 214).

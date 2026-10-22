@@ -1,0 +1,52 @@
+@page 94 62
+@lang de
+% JP2 0094: Suter's commentary, p. 62: chapter 17 continued: the second proportion with arcs for sines; the columns
+% latitudo secunda and latitudo prima of Tables 27-56 compared with the rule of the Sūrya-Siddhānta; the example of
+% the latitude of Saturn for 15 Ṣafar 540 (note 1).
+oder wie oben bemerkt wurde, statt der Sinus die Bogen (Winkel) gesetzt :
+@c {fr:Breite in der mittleren Dist. {i:r}|Breite in der wahren Dist {i:r′}} = {fr:{i:r′}|{i:r}},
+dies ist die 2. Proportion des {i:Sūrya-Siddhānta.}
+@p Es stimmen nun die Werte der Breite der Planeten nach {sp:Batt.} berechnet
+keineswegs mit den nach dem {i:Sūrya-Siddhānta} berechneten, aber auch die letztern
+stimmen nicht mit den nach {sp:Kh.} berechneten. Wir haben oben schon bemerkt,
+dass die Regel {sp:Kh.}’s keine direkte Übereinstimmung mit der des {i:Sūrya-Siddhānta}
+zeige, wir wollen nun nachzuweisen versuchen, wie weit sie übereinstimmen.
+@p Wir haben gefunden, dass die Zahlen der letzten Kolonne in den Tafeln 27—56,
+die die Überschrift {i:Latitudo secunda} trägt, erhalten werden nach der Formel :
+@c sin {i:lat. sec.} = sin {i:argum.} × sin {i:lat. maxim.},
+wo das {i:argumentum} = wahre Länge des Planeten weniger Länge seines Knotens =
+Distanz des Planeten vom Knoten ist, und die {i:lat. max.} (in der mittleren Distanz) =
+der {i:lat. secunda} für 90° ist (bei Saturn = 5° nach {sp:Kh.}) ; es stimmt also diese {i:lat.}
+{i:secunda} mit dem Zähler des Wertes für die Breite in wahrer Distanz (s. p. 61){sup:1}).
+Nun heisst es in der Regel {sp:Kh.}’s, man müsse die {i:lat. secunda} durch die {i:lat. prima}
+teilen, um die gesuchte Breite zu erhalten, aber nicht durch die {i:lat. prima,} die dem
+vorigen Argumente (Distanz des Planeten vom Knoten) entspricht, sondern durch
+diejenige, die dem Argument {i:Anomalia aequata} ({i:elheza examinatum} (!) im Texte)
+entspricht ; vergleicht man dies mit der im {i:Sūrya-Siddhānta} für die Breite in der
+wahren Distanz gegebenen Formel, so müsste also diese {i:lat. prima,} die der {i:Anomalia}
+{i:aequata} entspricht, gleich dem variabeln Radius {i:r′} sein. Die Tafeln der Planeten
+(Nr. 27—56) enthalten aber dieses {i:r′} nicht in absoluter Grösse, sondern geben sein
+Verhältnis zum mittleren Radius {i:r} an, oder mit andern Worten : Die Zahlen der
+Kolonne {i:lat. prima} repräsentieren die Werte für {i:r′}, wenn {i:r} = 1 angenommen wird.
+@p Wie dieses {i:r′} bestimmt worden ist, konnten wir nicht herausfinden, aber
+jedenfalls ist es unrichtig, wenn die Kolonne der {i:lat. prima} mit Graden und
+Minuten überschrieben ist, {i:r′} oder vielmehr {fr:{i:r′}|{i:r}} ist eine unbenannte Grösse, und es
+sollte daher statt {i:Grade} und {i:Minuten} heissen {i:Partes} und {i:Minutae,} dann erhält man
+auch für den Quotienten von {i:lat. sec.} durch {i:lat. prima} wieder Grade und Minuten.
+@p Wir wollen nun genau den Regeln {sp:Kh.}’s entsprechend ein {i:Beispiel} geben. Es
+sei die {i:Breite} des {i:Saturns} für den Anfang des 15. Ṣafar d. J. 540 d. H. zu bestimmen :
+@p Die {i:Anomalia aequata} ({i:elheza examinata}) für diesen Zeitpunkt ist = 109° 24{sup:1}/{sub:2}′
+(s. p. 53), dazu gehört nach Tafel 30 die latitudo prima 1° 15′, oder vielmehr 1{sup:{i:p}} 15′
+= 1{sup:1}/{sub:4} ; der wahre Ort des Planeten für diesen Zeitpunkt ist = 27° 12′ (s. p. 53), die
+Länge des Knotens = 103° 12′ (s. p. 64), diese beiden addiert, gibt 130° 24′ ; diesem
+Argument entspricht in Tafel 31 die latitudo secunda 3° 48″ 27′, nun haben wir :
+@c 3° 48{sup:1}/{sub:2}′ ∶ 1{sup:{i:p}} 15′ = 228{sup:1}/{sub:2}′ ∶ 1{sup:1}/{sub:4} = 183′ = 3° 3′ = {i:gesuchte Breite.}
+@n {sup:1}) Wenn man statt „grösste Breite“ „{i:sin} grösste Breite“ setzt.
+@obs The page number «62» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «oder wie oben bemerkt wurde» continues the explanation of the second proportion from p. 61 (JP2 0093, L34), «also sin HMB : sin PEA = r′ : r,».
+@obs L02, L11 and L38: the formulas displayed, centred; the fractions of L02 and L28 built up, written {fr:NUMERATOR|DENOMINATOR}; L02 ends with a comma after the last fraction, L11 with a comma after «maxim.». In the denominator of L02 «Dist» has no point, where the numerator has «Dist. r»; see the critical note. L38: the colons of the two divisions set with a word space on either side (31-32 px measured), written ∶ (U+2236); «1p», the p raised and in italics, as in L34.
+@obs L11-L15 and L33-L38. Checked: with the greatest latitude of Saturn, 5° (L14), the formula of L11 gives for the argument 130° 24′ a latitudo secunda of 3° 48′ 20″, for 130° 3° 49′ 42″ and for 131° 3° 46′ 17″; the 3° 48′ 27″ of the example, read from Table 31, answers to a greatest latitude of 5° 0′ 9″. 27° 12′ + 103° 12′ = 130° 24′: the true place of Saturn of p. 53 (JP2 0085) and the number of its node in chapter 19 (p. 64, JP2 0096, L38; Latin p. 15, JP2 0047, L08-L09), which the text of chapter 17 adds to the place of the planet («draconis sui numerus loco eiusdem planetae prius examinato coacervabitur», p. 14, JP2 0046, L10-L11), where L12 takes the longitude of the node away. 3° 48½′ = 228½′, and 228½′ : 1¼ = 182.8′, 183′ = 3° 3′. The values of Tables 30 and 31 are to be compared with the tables.
+@obs L19: «elheza examinatum (!)», Suter's «(!)» upright: the Latin of chapter 17 (p. 14, JP2 0046, L09) has «elheca … examinatum». L24: «Worten : Die», the capital after the colon as printed. N01: «sin» in italics within the second quotation.
+@obs Spaced type, marked {sp:}: «Batt.», «Kh.»; italics: «Sūrya-Siddhānta», «Latitudo secunda», «lat. sec.», «argum.», «lat. maxim.», «argumentum», «lat. max.», «lat. secunda», «lat. prima», «Anomalia aequata», «elheza examinatum», «elheza examinata», «r», «r′», «Grade», «Minuten», «Partes», «Minutae,», «Beispiel», «Breite» (L32), «Saturns», «gesuchte Breite.»; «latitudo prima» (L34) and «latitudo secunda» (L37) upright.
+@obs The other colons and the semicolons stand after the thin space of the edition (8-13 px measured; «Kh.) ;» in L14, 8 px).
+@critical AK07-CN056 | missing point | L02 | Breite in der wahren Dist r′ | Breite in der wahren Dist. r′ | the abbreviation has its point in the numerator of the same fraction, «Breite in der mittleren Dist. r», and on p. 61 (JP2 0093, L04-L08) | high | none
+@critical AK07-CN057 | wrong signs | L37 | 3° 48″ 27′ | 3° 48′ 27″ | the minutes and the seconds have exchanged their signs: the next line divides 3° 48½′, that is 3° 48′ 30″, rounded from 3° 48′ 27″ | high | none on the result

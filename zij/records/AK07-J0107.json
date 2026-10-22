@@ -1,0 +1,691 @@
+{
+ "anchor": "AK07-J0107",
+ "jp2_index": 107,
+ "jp2_member": "b24872489_0107.jp2",
+ "jp2_sha256": "1a82f93009db2f9cb205e924dcc2fa3887fe6243f293ace2d03c4ff694f656c9",
+ "reading_copy": "page_0107.jpg",
+ "reading_copy_sha256": "5081bd4ee4e79ed3e616a802b0137b5d0e8d66fe77f21f4302e1d254a544e13d",
+ "printed_page": "75",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0107: Suter's commentary, p. 75: chapters 26 and 26a continued: al-Khwārizmī's factors for the ascensional difference, computed for al-Raqqa (36°): Aries 114/115, part of a sign, Taurus 113/116 (103/126 better), Gemini 1/3; the rule of the Sūrya-Siddhānta (note 1).",
+ "lines": [
+  {
+   "id": "AK07-J0107-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "Produkt durch 115, so habe man (in Graden) das, was von der Rectascension sub-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Produkt durch 115, so habe man (in Graden) das, was von der Rectascension sub-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "trahiert, bezw. zu ihr addiert werden müsse, um die {i:Ascensio obliqua} zu erhalten.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "trahiert, bezw. zu ihr addiert werden müsse, um die Ascensio obliqua zu erhalten.",
+   "italic": [
+    "Ascensio obliqua"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "Wir geben im folgenden die Berechnung für {i:Al-Raḳḳa} (geogr. Breite = 36°) nach",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wir geben im folgenden die Berechnung für Al-Raḳḳa (geogr. Breite = 36°) nach",
+   "italic": [
+    "Al-Raḳḳa"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "dieser Regel :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dieser Regel :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L05",
+   "n": 5,
+   "kind": "centre",
+   "text": "cot 54° = tg 36° = 8{sup:{i:p}} 44′ (nach Tafel 60) ; 8{sup:{i:p}} 44′ · {fr:114|115} = 8{sup:{i:p}} 39′ ;",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "cot 54° = tg 36° = 8p 44′ (nach Tafel 60) ; 8p 44′ · (114)/(115) = 8p 39′ ;",
+   "italic": [
+    "p",
+    "p",
+    "p"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "dieses setzt {sp:Kh.} = 8° 39′ und zieht es von der Rectascension von 30° des Widders,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dieses setzt Kh. = 8° 39′ und zieht es von der Rectascension von 30° des Widders,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "die nach Tafel 59 = 117° 50′ — 90° = 27° 50′ ist, ab, so ergibt sich die {i:Ascensio obliqua}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die nach Tafel 59 = 117° 50′ — 90° = 27° 50′ ist, ab, so ergibt sich die Ascensio obliqua",
+   "italic": [
+    "Ascensio obliqua"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "für das Zeichen des Widders für {i:Al-Raḳḳa} = 19° 11′. Nach den Tafel {sp:Batt.}’s erhält",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "für das Zeichen des Widders für Al-Raḳḳa = 19° 11′. Nach den Tafel Batt.’s erhält",
+   "italic": [
+    "Al-Raḳḳa"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "man 19° 21′, {sp:Ptol.} (l. c.) hat 19° 12′, da er ungefähr die gleiche Schiefe der Ekliptik",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "man 19° 21′, Ptol. (l. c.) hat 19° 12′, da er ungefähr die gleiche Schiefe der Ekliptik",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ptol."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "annimmt wie {sp:Kh.} Berechnet man {i:DN} nach der Formel {sp:Batt.}’s, aber mit den",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "annimmt wie Kh. Berechnet man DN nach der Formel Batt.’s, aber mit den",
+   "italic": [
+    "DN"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh.",
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "Werten {sp:Kh.}’s, so erhält man 8° 37{sup:1}/{sub:2}′, der Faktor {fr:114|115} ist also ein wenig zu gross.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Werten Kh.’s, so erhält man 8° 371/2′, der Faktor (114)/(115) ist also ein wenig zu gross.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L12",
+   "n": 12,
+   "kind": "indent",
+   "text": "Würde man sin {i:DN} vollständig mit der Cotangenten-Tafel {sp:Kh.}’s berechnen, so",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Würde man sin DN vollständig mit der Cotangenten-Tafel Kh.’s berechnen, so",
+   "italic": [
+    "DN"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "fände man zunächst in Tafel 21 die Deklination von 30° des Widders = 11° 39′ 50″",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "fände man zunächst in Tafel 21 die Deklination von 30° des Widders = 11° 39′ 50″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "= 11° 40′, dazu gehört in Tafel 60 die Tangente 2{sup:{i:p}} 28′, also hätte man : sin {i:DN}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "= 11° 40′, dazu gehört in Tafel 60 die Tangente 2p 28′, also hätte man : sin DN",
+   "italic": [
+    "p",
+    "DN"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "= 8{sup:{i:p}} 44′ · 2{sup:{i:p}} 28′ ; dies muss man aber, weil die Tangenten für den Gnomon 12, und",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "= 8p 44′ · 2p 28′ ; dies muss man aber, weil die Tangenten für den Gnomon 12, und",
+   "italic": [
+    "p",
+    "p"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "die Sinus für den Radius 60 berechnet sind, durch 144 teilen und mit 60 multiplizieren,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die Sinus für den Radius 60 berechnet sind, durch 144 teilen und mit 60 multiplizieren,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "dies gibt :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dies gibt :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L18",
+   "n": 18,
+   "kind": "centre",
+   "text": "sin {i:DN} = {fr:8{sup:{i:p}} 44′ · 2{sup:{i:p}} 28′ · 60|144} = 8{sup:{i:p}} 44′ · {fr:148|144} = 8{sup:{i:p}} 59′ ;",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sin DN = (8p 44′ · 2p 28′ · 60)/(144) = 8p 44′ · (148)/(144) = 8p 59′ ;",
+   "italic": [
+    "DN",
+    "p",
+    "p",
+    "p",
+    "p"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "zu diesem Sinus gehört in Tafel 58 der Winkel 8° 37′. Um den Sinus zu erhalten,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zu diesem Sinus gehört in Tafel 58 der Winkel 8° 37′. Um den Sinus zu erhalten,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "muss man also 8{sup:{i:p}} 44′ mit dem Faktor {fr:148|144} multiplizieren ; um sofort den Winkel zu",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "muss man also 8p 44′ mit dem Faktor (148)/(144) multiplizieren ; um sofort den Winkel zu",
+   "italic": [
+    "p"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "erhalten, multipliziert {sp:Kh.} 8{sup:{i:p}} 44′ mit dem Faktor {fr:114|115} ; ob und wie dieser aus dem",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "erhalten, multipliziert Kh. 8p 44′ mit dem Faktor (114)/(115) ; ob und wie dieser aus dem",
+   "italic": [
+    "p"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "erstern erhalten worden sei, lässt sich schwerlich herausfinden, nach unserer Ansicht",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "erstern erhalten worden sei, lässt sich schwerlich herausfinden, nach unserer Ansicht",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "ist er auf empirischem Wege gefunden worden.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ist er auf empirischem Wege gefunden worden.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L24",
+   "n": 24,
+   "kind": "indent",
+   "text": "Will man die Ascensional-Differenz nur für einen bestimmten Teil des Zeichens",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Will man die Ascensional-Differenz nur für einen bestimmten Teil des Zeichens",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "haben, nimmt man einfach den entsprechenden Teil des Faktors, also z. B. für 15°",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "haben, nimmt man einfach den entsprechenden Teil des Faktors, also z. B. für 15°",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "nur {fr:57|115}, dies gibt also dann für Bogen {i:DN} den Wert 4° 19{sup:1}/{sub:2}′, also für die {i:Ascensio}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nur (57)/(115), dies gibt also dann für Bogen DN den Wert 4° 191/2′, also für die Ascensio",
+   "italic": [
+    "DN",
+    "Ascensio"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "{i:obliqua} von 15° des Widders den Wert 9° 26{sup:1}/{sub:2}′ ({sp:Batt.} hat 9° 28′).",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "obliqua von 15° des Widders den Wert 9° 261/2′ (Batt. hat 9° 28′).",
+   "italic": [
+    "obliqua"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L28",
+   "n": 28,
+   "kind": "indent",
+   "text": "Für das Zeichen des Stiers hat {sp:Kh.} den Faktor {fr:113|116} ; hier liegt jedenfalls ein",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Für das Zeichen des Stiers hat Kh. den Faktor (113)/(116) ; hier liegt jedenfalls ein",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "Fehler vor, die Ascensional-Differenz wird zu gross, ein besserer Wert wäre {fr:103|126}. —",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Fehler vor, die Ascensional-Differenz wird zu gross, ein besserer Wert wäre (103)/(126). —",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "Für das Zeichen der Zwillinge gibt {sp:Kh.} den Faktor {fr:1|3}, der ziemlich gut stimmt :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Für das Zeichen der Zwillinge gibt Kh. den Faktor (1)/(3), der ziemlich gut stimmt :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "man erhält für die {i:Ascensio obliqua} dieses Zeichens mit diesem Faktor den Wert",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "man erhält für die Ascensio obliqua dieses Zeichens mit diesem Faktor den Wert",
+   "italic": [
+    "Ascensio obliqua"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "29° 21′, während {sp:Batt.} 29° 17′ hat. — Im {i:Sūrya-Siddhānta} finden wir nichts von",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "29° 21′, während Batt. 29° 17′ hat. — Im Sūrya-Siddhānta finden wir nichts von",
+   "italic": [
+    "Sūrya-Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "diesen Faktoren, dagegen in den Versen 60 u. 61 des 2. Kap.{sup:1}) die Regel :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "diesen Faktoren, dagegen in den Versen 60 u. 61 des 2. Kap.1) die Regel :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L34",
+   "n": 34,
+   "kind": "centre",
+   "text": "sin Ascens.-Diff. = {fr:sin {i:δ} · tg {i:φ} · 60|12 · cos {i:δ}},",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sin Ascens.-Diff. = (sin δ · tg φ · 60)/(12 · cos δ),",
+   "italic": [
+    "δ",
+    "φ",
+    "δ"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "die mit der oben gegebenen Formel {sp:Batt.}’s übereinstimmt.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die mit der oben gegebenen Formel Batt.’s übereinstimmt.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) {i:Transl.} {sp:Burgess}, p. 232—233. Dieselbe Regel findet sich auch in der {i:Panchasiddhāntikā},",
+   "margin": null,
+   "plain": "1) Transl. Burgess, p. 232—233. Dieselbe Regel findet sich auch in der Panchasiddhāntikā,",
+   "italic": [
+    "Transl.",
+    "Panchasiddhāntikā"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Burgess"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0107-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "ed. G. {sp:Thibaut}, p. 27 der Übersetzung.",
+   "margin": null,
+   "plain": "ed. G. Thibaut, p. 27 der Übersetzung.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Thibaut"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «75» stands at the head of the page, centred, with a rule below it. At the foot, the signature «10*» on the right. L01 completes the sentence that ends p. 74 (JP2 0106, L34), «mit 114 und teile das».",
+  "L05, L18 and L34: the formulas displayed and centred, their fractions built up, written {fr:NUMERATOR|DENOMINATOR}, as are the factors 114/115, 148/144, 57/115, 113/116, 103/126 and 1/3 within the lines; «8p 44′», «2p 28′», the p raised and italic; «·» the raised dot of multiplication; in L05 a wide gap after the semicolon that follows «(nach Tafel 60)».",
+  "L05-L11. Checked: 12 tg 36° = 8p 43′ 7″, so that the 8p 44′ that Suter reads in Table 60 is about a minute high; 524′ × 114 : 115 = 519.4′ = 8p 39′; with ε = 23° 51′ the right ascension of the end of Aries is 27° 50′ 10″ (Table 59: 117° 50′ less 90°, see p. 72, JP2 0104); 27° 50′ − 8° 39′ = 19° 11′; the ascensional difference by al-Battānī's formula with al-Khwārizmī's values, sin DN = tg 36° · tg 11° 39′ 50″, is 8° 37′ 34″, and the exact oblique ascension of Aries 19° 12′ 37″, Ptolemy's 19° 12′.",
+  "L12-L23. Checked: the declination of the end of Aries with ε = 23° 51′ is 11° 39′ 50″, as in Table 21; 12 tg 11° 39′ 50″ = 2p 28′ 38″, so that 2p 28′ is the tangent of Table 60 truncated; 8p 44′ · 2p 28′ · 60 : 144 = 8p 44′ · 148 : 144 = 8p 58′ 33″, «8p 59′»; the arc whose sine is 8p 59′ on a radius of 60 is 8° 36′ 39″, «8° 37′».",
+  "L24-L32. Checked: half of 8° 39′ is 4° 19½′, the arc for 15°, 57/115 of 8p 44′ (4° 19′ 43″); the right ascension of 15° of Aries is 13° 46′ 12″, and 13° 46′ − 4° 19½′ = 9° 26½′; the exact oblique ascension of 15° is 9° 23′ 7″. Taurus: the ascensional difference grows from 8° 37′ 34″ at the end of Aries to 15° 45′ 37″ at the end of Taurus, by 7° 8′ 3″, which is 0.8169 of 8p 44′, close to 103/126 = 0.8175, where 113/116 gives 8° 30′. Gemini: from 15° 45′ 37″ to 18° 44′ 8″ at the solstice, by 2° 58′ 31″, where a third of 8p 44′ is 2° 54′ 40″; the right ascension of the sign of Gemini, 90° − 57° 44′ 16″ = 32° 15′ 44″, less 2° 54′ 40″ is 29° 21′, Suter's value, and the exact oblique ascension of Gemini is 29° 17′ 13″, al-Battānī's 29° 17′.",
+  "L34. Checked: tg φ is the shadow of a gnomon of 12, so that sin δ · tg φ · 60 : (12 cos δ) = 60 tg δ tg φ : 12, the sine of the ascensional difference on a radius of 60, al-Battānī's formula of p. 74 (JP2 0106, L27).",
+  "L08: «Nach den Tafel Batt.’s», as printed. Spaced type, marked {sp:}: «Kh.», «Batt.», «Ptol.», «Burgess», «Thibaut»; italics: «Ascensio obliqua», «Al-Raḳḳa», «DN», «Sūrya-Siddhānta», the letters of the formulas, «Transl.», «Panchasiddhāntikā».",
+  "The colons and semicolons stand after the thin space of the edition (9-19 px measured)."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

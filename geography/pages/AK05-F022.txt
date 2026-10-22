@@ -1,0 +1,37 @@
+@page 22 ١٦
+% Frame 022, printed p. 16: the cities of the fourth clime continued, entries 196-213: places on and near the sea, a
+% place at the edge of a mountain, cities on islands, al-Qayrawān, and Maksūlā near the sea. One line of the editor's
+% footnotes and one word of a second.
+@r (١٩٦) | [١٦٢] | ڡرطاجنه قرب البحر | ٮو | {z} | لٮ | {z}
+@r (١٩٧) | [١٦٣] | اڡدا مع حدّ جبل | يز | {z} | لا | ل
+@r (١٩٨) | [١٦٤] | جرسياٮريا | ٮح | ل | ل | ك
+@r (١٩٩) | [١٦٥] | وانا قرب البحر | ٮط | م | لا | مه
+@r (٢٠٠) | [١٦٦] | مدينة جليه | ك | {z} | ل | ل
+@r (٢٠١) | [١٦٧] | سليدا قرب البحر | كٮ | ٮه | لا | م
+@r (٢٠٢) | [١٦٨] | سلثا على البحر | كح | ل | لٮ | {z}
+@r (٢٠٣) | [١٦٩] | طحسطوا قرب البحر | كد | يه | لا | م
+@r (٢٠٤) | [١٧٠] | ٮارٮا على البحر | كر | يه | لٮ | {z}
+@r (٢٠٥) | [١٧١] | ڡرڡول | كح | ك | لا | {z}
+@r (٢٠٦) | [١٧٢] | مدينة اٮلا{n:a} فى جزيرة | كح | ل | له | ل
+@r (٢٠٧) | [١٨٩] | القيروان | لا | {z} | لا | م
+@r (٢٠٨) | [١٩٠] | رٮحيا{n:b} قرب البحر | لا | م | لا | ل
+@r (٢٠٩) | [١٩١] | مدينة سيقا | لا | م | ل | ك
+@r (٢١٠) | [١٩٢] | مدينة قا فى جزيرة | لٮ | {z} | لد | ن
+@r (٢١١) | [١٩٣] | ٮرقا{n:c} على البحر | لب | مه | لب | {z}
+@r (٢١٢) | [١٩٥] | داروطس{n:d} على البحر | لد | ل | لا | م
+@r (٢١٣) | [١٩٦] | مكسولا قرب البحر | له | مه | لٮ | {z}
+@ednotes a b c d 2
+@obs The table goes on from frame 021 without a heading: the cities of the fourth clime, entries 196-213. All have numbers of Suhrāb: [١٦٢]-[١٧٢] in entries 196-206, then [١٨٩]-[١٩٣] in entries 207-211 and [١٩٥], [١٩٦] in entries 212-213; [١٩٤] does not appear on the page. Only entries 200, 206, 209 and 210 have the word «مدينة».
+@obs L01: «ڡرطاجنه»: the first letter is a loop raised above the line and joined by a stroke on the line to the ر: the loop of ف or ق without dots, as in «ڡرقا» and «ڡرنبوس» (frame 023, L01, L18); an isolated و stands on the line and goes straight into its tail. Transcribed ڡر.
+@obs L03: «جرسياٮريا»: after the alif, a tooth without a dot joined to a ر, the two strokes forming a notch at the top, where the isolated ر of the font is a plain curved stroke (frame 021, L08); transcribed ٮر. It stands 15 px from the alif, where the alif and the ر of «ٮارٮا» (L09) stand 13 px apart and the words of the names on this page 21-32 px; transcribed as one word.
+@obs L10: «ڡرڡول»: two groups, each a raised loop without dots joined to a following letter, then the isolated ل. The letter after the first loop has the narrow head of ر, as in «جرسياٮريا» (L03); the letter after the second loop has the larger round head of و, as in «مكسولا» (L18); transcribed ڡر and ڡو.
+@obs L16: «ٮرقا»: a short tooth without its dot joined to the head of the ر, whose tail descends below the line; the ق of «قا» has its two dots. The editor's note c compares ثرقا.
+@obs Letters printed without their dots in the names, transcribed so: «اڡدا» (L02), the loop of ف or ق; «ٮارٮا» (L09), the tooth before each alif; «اٮلا» (L11), the tooth before the لا; «رٮحيا» (L13), the tooth after the ر. L02: «حدّ», with a shadda over the د. L07: «سلثا»: the three dots of the ث are printed.
+@obs Letters printed without their dots in the numerals, transcribed so: the tooth without its dot, ٮو (L01), ٮح (L03) and ٮط (L04), in the degrees of the longitude; ٮه (L06, the minutes of the longitude), a tooth joined to a final ه; the final ب without its dot, لٮ, in the degrees of the latitude (L01, L07, L09, L18) and of the longitude (L15). With their dots: يز (L02), the ي with its two dots and the ز with its dot; لب (L16, the longitude and the latitude); يه (L08, L09, the minutes of the longitude); ن (L15, the minutes of the latitude).
+@obs L09: the degrees of the longitude, كر: in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed.
+@obs The degrees of the longitude are printed in L05 «ك», the isolated ك, 20, with the small inner stroke of the letter, and in L06 «كٮ», a long oblique stroke over a flat bowl, 101 px wide, the ك joined to the final ب without its dot, 22 (frame 014, L11). The ك of the minutes (L03, L10, L14) has the inner stroke.
+@obs The page number «— ١٦ —» stands at the foot, centred.
+@variant L11: at entry (1870) the name اٮلا is written اثلا.
+@variant L13: the manuscript gives the variant reading زيحيا.
+@variant L16: at entry (1039) the name ٮرقا is written ثرقا.
+@variant L17: at entry (1039) the name داروطس is written ذيارطس.

@@ -1,0 +1,57 @@
+@page 51 19
+@lang la
+% JP2 0051: the Latin text, p. 19: chapter 25 continued: the ascensions of the signs in the right sphere computed from
+% the sines (elgeib primum, secundum, tertium, quartum), the signs that share the ascensions of Aries, Taurus and
+% Gemini, and the use of the table; with the apparatus (notes 1-30).
+signorum ortus in loco latitudine carente consideretur{sup:1}). In illis enim regionibus
+quae latitudinem habent, diversis temporibus diversi eorum ortus et occasus
+reperiuntur. Quae etiam celerius oriuntur tardius occidunt et e converso. In eis
+vero quae latitudine carent, ut regio{sup:2}) {i:Arin}, in qua semper dies aequales{sup:3}), omni
+tempore eorum ortus uniformis{sup:4}). In omni tamen regione in meridie quidem sic
+oriuntur ut{sup:5}) in {i:Arin}. Cum igitur quaeretur{sup:6}) signorum ortus, {sup:7}) qualis sit secundum
+circulum aequinoctialem{sup:8}) obliquationis solis, quae quidem gradus XXIII atque
+dakaicas LI obtinet, {i:elgeib} notandum erit, diceturque {i:elgeib primum}. Deinde {i:elmeil},
+id est obliquatio, a XC detrahetur{sup:9}), quod autem{sup:10}) remanserit argumentum, eius
+{i:elgeib} quaerendum erit diceturque {i:elgeib secundum}. Postea vero eius signi, quod in
+qnaestione est, obliquatio ultimi gradus argumentum ponendum est, eiusque {i:elgeib}
+considerandum, diceturque {i:elgeib tertium}. Postremo vero ipsa eadem ultimi gradus
+obliquatio a XC minuenda, residuoque argumento posito eius ipsius {i:elgeib} inveniendum,
+diceturque {i:elgeib quartum}. His autem{sup:11}) ita habitis {i:elgeib tertium} in {i:elgeib secundum}
+ducendum est, quodque inde producetur secundum{sup:12}) {i:elgeib primum}{sup:13}) dividendum ;
+atque quod ei accidet in sexaginta ducendum. Quod autem inde producetur secundum{sup:14})
+@m O 130{sup:v}
+{i:elgeib} | {i:quartum} dividendum erit{sup:15}). Quod vero{sup:16}) ei accidet, ad eius arcum modo supra
+dicto revertatur{sup:17}). Ipse itaque arcus ortum ipsius signi verbi gratia arietis iuxta
+circulum aequinoctialem{sup:18}) sua quantitate ostendit{sup:19}). Similiter autem et{sup:20}) de aliis
+inquirendum est. Ea tamen cautela praestricta, ut si supra tauro quaestio inciderit,
+supradictis expletis praeceptis a postremo arcu id quod arieti attinet minuatur ;
+cetera vero ortui tauri parificentur{sup:21}). Item si quando geminorum ortus tractabitur,
+praeceptis regulae expletis a postremo arcu eo quod arieti et tauro accidet subtracto,
+reliquum geminorum{sup:22}) ortum ostendet{sup:23}). Ex his autem tribus signis determinatis
+ceterorum etiam{sup:24}) ortus apparent. Comitantur enim arietem pisces atque libra cum
+virgine, taurum autem leo atque scorpius cum aquario, geminos autem{sup:25}) cancer
+atque capricornus cum sagittario. Haec autem omnia, ut facilius reperiri queant,
+in sequentibus tabulis secundum {i:elfelek}{sup:26}) {i:elmustakim} descripta sunt. Cuius quidem
+introitus sic habetur{sup:27}) : A capricorno enim incipiens per ortum cuiuslibet gradus
+cuiusvis signi secundum circulum aequinoctialem, id est {i:elmustakim}, {sup:28}) praescriptum in
+tabulam intra ; eius autem{sup:29}) adiunctum horoscopum zodiaci incunctanter{sup:30}) ostendet.
+@n {sup:1}) O {i:in marg. addid.} : Nota : elard astronomicum a ductu arithmetico et geometrico differre —
+@n {sup:2}) regio] O, regione C. — {sup:3}) in . . . . aequales] C, {i:om.} O. — {sup:4}) uniformis] C, idem O. — {sup:5}) in . . . . ut]
+@n C, lineam meridianam quidem sic transeunt ut oriuntur O. — {sup:6}) quaeretur] C, quaerimus O. — {sup:7}) ortus]
+@n C, ortus in Arin O. — {sup:8}) secundum circulum aequinoctialem] C, in circulo aequinoctiali O. — {sup:9}) detra-
+@n hetur] C, minuetur O. — {sup:10}) quod autem] C, quodque O. — {sup:11}) His autem] C, Hisque O. — {sup:12}) secundum]
+@n C, supra O. — {sup:13}) primum] C, {i:om.} O. — {sup:14}) secundum] C, supra O. — {sup:15}) dividendum erit] O, divi-
+@n datur C. — {sup:16}) Quod vero] C, Quodque O. — {sup:17}) revertatur] C, revertetur O. — {sup:18}) iuxta circulum
+@n aequinoctialem] C, in circulo aequinoctiali O — {sup:19}) ostendit] O, ostendet C — {sup:20}) Similiter autem et] C,
+@n Similiterque O. — {sup:21}) parificentur] C, pacificentur O. — {sup:22}) reliquum geminorum] C, cetera taurorum O. —
+@n {sup:23}) ostendet] C, ostendunt O. — {sup:24}) etiam] C, {i:om.} O. — {sup:25}) autem] O, vero C. — {sup:26}) elfelek] O, felek C. —
+@n {sup:27}) habetur] O, habet (?) C. — {sup:28}) cuiusvis . . . . elmustakim] C, quorumlibet signorum circulo aequinoctiali
+@n O. — {sup:29}) eius autem] C, eiusque O. — {sup:30}) horoscopum . . . . incunctanter] C, occupationem ortus signi in
+@n aequinoctiali O ; indubitanter C {i:suprascr.}
+@obs The page number «19» stands at the head of the page, centred, with a rule below it. At the foot, the signature «3*» on the right. L01-L31 continue chapter 25, begun on p. 18 (JP2 0050, L24-L26).
+@obs L17: the vertical bar between «elgeib» and «quartum» marks the beginning of fol. 130 verso of O, which the note in the right margin, «O 130v», names; transcribed as a margin note.
+@obs L06-L17: the ascension of a sign in the right sphere: the sine of the obliquity, 23° 51′ (elgeib primum), the sine of its complement (secundum), the sine of the declination of the last degree of the sign (tertium) and the sine of its complement (quartum); the third times the second, divided by the first, times sixty, divided by the fourth, is the sine of the ascension, whose arc is taken. Checked: this is 60 sin δ cos ε / (sin ε cos δ) = 60 tan δ / tan ε, the sine of the right ascension α for a radius of sixty, since tan δ = tan ε sin α. L20-L27: the ascensions of Taurus and Gemini are found by subtracting those of the signs before them; Pisces, Libra and Virgo share the ascension of Aries, Leo, Scorpio and Aquarius that of Taurus, Cancer, Capricorn and Sagittarius that of Gemini.
+@obs L06 and L30: the note numbers 7 and 28 are printed after the comma that follows the word, with a space before them, «ortus, 7)» and «elmustakim, 28)»; transcribed as printed. L11: «qnaestione», see the critical note. L08: «elmeil», the declination (al-mail), here the obliquity; L28 and L30 «elfelek elmustakim», the right sphere.
+@obs N01: the note ends with the dash, without a full stop after «differre»; N08: «O —» and «C —», without a point after the sigla. N03: before the dash after «O.» a light vertical stroke (darkest pixel 153), probably a spacing sort; not transcribed. N11: «habet (?)», the bracket 10 px from the word, a thin space.
+@obs The colons and semicolons of the text and the apparatus stand after the thin space of the edition (9-13 px measured).
+@critical AK07-CN034 | turned letter | L11 | qnaestione | quaestione | the u of «quaestione» is printed upside down, as an n | high | none

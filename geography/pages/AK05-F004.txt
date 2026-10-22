@@ -1,0 +1,4 @@
+@page 4 -
+@kind provenance
+% Frame 004: a leaf with a number written in pencil at its head.
+@copy The number «70-961379» written in pencil at the head of the leaf, a number of the library's records; not part of the edition.

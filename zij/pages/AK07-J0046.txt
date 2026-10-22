@@ -1,0 +1,55 @@
+@page 46 14
+@lang la
+% JP2 0046: the Latin text, p. 14: chapter 16, the latitude of the moon; chapter 17, the latitude of the three upper
+% planets, and of Venus and Mercury; chapter 18, the apogees of the planets, begins (the sun, Saturn, Jupiter); with the
+% apparatus (notes 1-34).
+@c {b:Cap. 16. De latitudine lunae.}
+@p Notitia latitudinis lunae sic habetur : Loco lunae primum invento addetur dra-
+conis {i:elwacat} ; inde autem coacervatum{sup:1}) est argumentum, per quod{sup:2}) in latitudinem
+lunae intrabitur, sumeturque quod in latitudine lunae invenietur{sup:3}). Sciatur quoque{sup:4})
+tantundem esse{sup:5}) ad locum lunae a dracone, eritque quemadmodum de sole supra-
+dictum est, scilicet quomodo se habeat suum {i:elmeil}{sup:6}).
+@ml O 102{sup:r}
+@c {b:Cap. 17. De latitudine trium{sup:7}) superiorum planetarum.}
+@p Porta{sup:8}) latitudinis trium superiorum planetarum. Intrabitur itaque per cuius-
+libet eorum {i:elheca}{sup:9}) examinatum in tabulam{sup:10}) latitudinis primae, latitudoque{sup:11})
+prima ibi inventa reponetur. Deinde draconis sui numerus loco eiusdem planetae
+prius examinato coacervabitur{sup:12}), diceturque totum id{sup:13}) argumentum. Per ipsum
+itaque in latitudinem secundam intrabitur. Denique{sup:14}) latitudo secunda secundum{sup:15})
+latitudinem primam dividatur{sup:16}). Quod autem{sup:17}) ei accidet ipsum est quod quaeris.
+@p Pro venere autem et mercurio sic : Per argumentum suum examinatum{sup:18}) in
+latitudinem primam intrabitur ; numerusque deinde draconis alterutrius horum
+planetarum cum solis {i:elwacat}{sup:19}) suique ipsius planetae argumento examinato coacer-
+vabitur{sup:20}) ; eritque hoc totum {i:elheca}{sup:21}). Cum eo itaque{sup:22}) in latitudinem secundam
+intrabitur. Denique{sup:23}) latitudo secunda secundum latitudinem primam dividatur{sup:24}).
+Quod ergo{sup:25}) ei attinebit ipsum est quod quaeris.
+@ml C 48{sup:r}, O 104{sup:v}
+@c {b:Cap. 18. De sublimatione et submissione planetarum.}
+@p {i:Elaug}{sup:26}) vero planetarum atque eorundem{sup:27}) submissio{sup:28}) sic se habent. Solis
+quidem sublimatio haec est : duo signa, XVII gradus et LV dakaicae{sup:29}), nulla
+elthenia{sup:30}) ; Saturni vero signa VIII, gradus IIII, dakaicae{sup:31}) LV, in ceteris nichilum{sup:32}) ;
+Iovis autem{sup:33}) signa V, gradus XXII, dakaicae XXXII et nichilum{sup:34}) ; Martis vero
+@n {sup:1}) Loco . . . . coacervatum] Notabitur itaque elwazat, id est medialitas draconis, prius lunae loco
+@n invento, addeturque praedicta medialitas loco lunae, quodque inde surget ipsum O. — {sup:2}) quod] {i:om.} M.
+@n — {sup:3}) sumeturque . . . . invenietur] per eius enim adiunctum latitudo lunae designatur O. — {sup:4}) quoque]
+@n etiam O. — {sup:5}) esse] quantum est argumentum coacervatum M. — {sup:6}) ad . . . . elmeil] inter locum lunae
+@n et draconem O. — {sup:7}) trium] {i:om.} O. — {sup:8}) Porta] Notitia O. — {sup:9}) elheca] argumentum M {i:suprascr.} —
+@n {sup:10}) tabulam] M. tabula C. — {sup:11}) latitudoque] C, latitudo quaeque M. — {sup:12}) cuiuslibet . . . . coacervabitur]
+@n argumentum inventum cuiuslibet in semitam latitudinis, sumeturque latitudo prima. Deinde cuiuslibet
+@n trium superiorum draco super locum illius iam inventum addetur O. — {sup:13}) totum id] hoc totum O. —
+@n {sup:14}) Denique] Atque O. — {sup:15}) secundum] supra O. — {sup:16}) dividatur] M, dividetur O, dividatur, id est (?)
+@n quae (?) denominatio surget facta divisione C. — {sup:17}) Quod autem] quodque O. — {sup:18}) suum examinatum]
+@n eorum inventum O. — {sup:19}) elwacat] C, elwat M. — {sup:20}) numerusque . . . . coacervabitur] suusque (!) horum
+@n planetarum draco cum medialitate solis et argumento stellae in libro determinato iungetnr O. — {sup:21}) el-
+@n heca] argumentum O. — {sup:22}) Cum eo itaque] per quod O. — {sup:23}) Denique] divideturque O. — {sup:24}) divida-
+@n tur] {i:om.} O. — {sup:25}) Quod ergo] Quodque O. — {sup:26}) Elaug] Elaug sublimatio C, Elaug, {i:supra quod scr.} id
+@n est sublimatio M, sullimatio O. — {sup:27}) eorundem] earundem CM. — {sup:28}) submissio] elhadhid, {i:supra quod}
+@n {i:scr.} submissio M. — {sup:28}) dakaicae] M, dakaicas C, dacaicae O. — {sup:30}) nulla elthenia] C, {i:om.} O. — {sup:31}) da-
+@n kaicae] dakaicae vero O. — {sup:32}) in ceteris nichilum] {i:om.} O — {sup:33}) autem] vero O. — {sup:34}) et nichilum] {i:om.} O.
+@obs The page number «14» stands at the head of the page, centred, with a rule below it. L01, L07 and L20: the headings of chapters 16-18, in bold, centred; in the left margin beside the heading of chapter 17 «O 102r», beside that of chapter 18 «C 48r, O 104v», the folios of the manuscripts at which the chapters begin.
+@obs L21-L24: the apogees: the sun two signs, 17 degrees and 55 minutes (as in chapter 8, p. 9, JP2 0041, L17); Saturn eight signs, 4 degrees, 55 minutes; Jupiter five signs, 22 degrees, 32 minutes; the list goes on on p. 15. L21: «Elaug», the apogee (al-awj), in italics.
+@obs N10: the bracket after «Quod autem» is printed broken, its head missing and a speck above it, so that it looks like a j; transcribed «]». N17: «{i:om.} O —», without a point after the siglum before the dash.
+@obs The colons and semicolons of the text stand after the thin space of the edition (8-12 px measured).
+@critical AK07-CN027 | wrong punctuation | N06 | M. tabula C. | M, tabula C. | the readings of the manuscripts within a note are divided by commas; after the siglum M a full stop is printed before «tabula», as on pp. 9 and 10 | medium | none
+@critical AK07-CN028 | turned letter | N12 | iungetnr | iungetur | the u of «iungetur», it shall be joined, is printed upside down, as an n | high | none
+@critical AK07-CN029 | wrong note number | N16 | {sup:28}) dakaicae] | {sup:29}) dakaicae] | the note on «dakaicae» in L22 is note 29 («dakaicae{sup:29})»); the apparatus prints its number 28, a second time after the note 28 on «submissio» | high | the variant belongs to note 29

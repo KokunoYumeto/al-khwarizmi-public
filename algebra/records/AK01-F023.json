@@ -1,0 +1,21 @@
+{
+ "anchor": "AK01-F023",
+ "frame": 23,
+ "frame_file": "page_023.jpg",
+ "frame_sha256": "e6f5b1a83f85d21794ad7f8fb77b61d4de7113f8356c028a2deed1ee4ec6e277",
+ "printed_page": "١١",
+ "kind": "editorial",
+ "role": "MODERN_EDITORIAL (not reproduced)",
+ "comment": "Frame 023: the editors' study, second part (al-Khwārizmī: his life and his book), with footnotes.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [
+  "the editors' study, second part (al-Khwārizmī: his life and his book), with footnotes"
+ ],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,107 @@
+@page 276 242
+@lang de
+% JP2 0276: the glossary, p. 242: I. Arabic words, Bergis to Fudhul, in two columns.
+@cl {i:Bergis} = {i:Birdjis}, pers. Name für den Planeten
+@cl Jupiter, T. 33, 36.
+@cl {i:Bi}, mit dem Artikel verbunden {i:bil}, arab.
+@cl Praepos., in, auf, mit, z. B. {i:bilfelek}, in (od.
+@cl auf) der Sphäre (s. {i:felek}).
+@cl {i:Bhukti} (sanskr.) Genuss, Freude, 78.
+@cl {i:Bood} = {i:buʿd}, Entfernung, T. 73.
+@cl {i:Buht} (pers.), in der Astron. die wahre (un-
+@cl gleiche) tägliche Bewegung der Sonne, des
+@cl Mondes und der fünf Planeten, 22, 78, 90.
+@cl {i:Buiut} = {i:buyūt} (pl. v. {i:bait}), Häuser, inbesondere
+@cl die zwölf astrologischen Häuser, 25, T. 79.
+@cl {i:Burug} = {i:burūdj} (pl. v. {i:burdj}), Burgen, Häuser,
+@cl insbesondere die zwölf Zeichen (Häuser)
+@cl des Tierkreises, 11 (N. 40), 18 (N. 23), T. 79.
+@cl {i:Buruga} s. {i:Burug}.
+@cl {i:Burus} s. {i:Burug}.
+@cl {b:C.}
+@cl {i:Caat} = {i:sāʿāt} (pl. v. {i:sāʿa}), Stunden, vielleicht
+@cl auch der Singular, T. 5.
+@cl {i:Caratan} = {i:saraṭān}, Krebs, hier Zeichen des
+@cl Krebses im Tierkreis, T. 59{sup:a}.
+@cl {i:Care} = {i:sarīʿ}, schnell, T. 24.
+@cl {i:Carne} (?) T. 9.
+@cl {i:Carneli} (?) T. 13.
+@cl {i:Catar} = {i:saṭar} oder {i:saṭr}, Linie, Zeile, Kolonne,
+@cl XIV ; pl. {i:cotor} = {i:suṭūr} ; {i:catar eladed} = {i:saṭar}
+@cl {i:al-ʿadad}, Kolonne der Zahl, T. 21, 22, 25—30,
+@cl 32, etc.
+@cl {i:Catur} s. {i:Catar}.
+@cl {i:Cauz} = {i:ḳaus} ({i:ḳaws}), Bogen (eines Kreises),
+@cl auch Zeichen des Schützen im Tierkreis,
+@cl T. 59{sup:b}.
+@cl {i:Cavsc} s. {i:Cauz}.
+@cl {i:Ciicuth} s. {i:Zukut}.
+@cl {i:Ciikuf} s. {i:Zukut}.
+@cl {i:Cotoreladet} = {i:suṭūr al-ʿadad}, Kolonnen der
+@cl Zahl, 27 (N. 16) ; s. auch {i:Catar}.
+@cl {i:Cukut} s. {i:Zukut}.
+@cl {i:Cumbula} = {i:sumbula}, Ähre, hier Tierkreis-
+@cl zeichen der Jungfrau, T. 59{sup:b}.
+@cl {i:Cuzuf} s. {i:Kucuf}.
+@cl {b:D.}
+@cl {i:Dakaicae} = {i:daḳā’iḳ} (pl. v. {i:daḳīḳa}) Minuten
+@cl (60. Teil des Grades oder der Stunde) XXIII,
+@cl XXV ; 3, 4, 36, etc.
+@cl {i:Dakaik} s. {i:Dakaicae}.
+@cl {i:Dakeca} s. {i:Dakaicae}.
+@cl {i:Darega} = {i:daradja} (pl. {i:daradj}) Grad (der 360.
+@cl Teil des Kreisumfanges) 11 (N. 40).
+@cr {i:Dareis}, verdorben aus {i:daregis}, Dat. plur. v.
+@cr {i:darega}, s. dieses.
+@cr {i:Dehi} = {i:dalw} ({i:dalu}), grosser Krug, Eimer, Tier-
+@cr kreiszeichen des Wassermanns ({i:Aquarius})
+@cr T. 59.
+@cr {i:Delidhe} s. {i:Thelitha}.
+@cr {i:Dhel} = {i:ẓill} Schatten, dann die trigon. Funk-
+@cr tion der {i:Cotangens}, T. 60.
+@cr {i:Dhirāʿ}, Elle (ein Längenmass) 43.
+@cr {i:Djebr}, Wiederherstellung ; {i:al-djebr wa’l-muḳā-}
+@cr {i:bala} = Algebra, VIII ; s. auch {i:Muḳābala}.
+@cr {i:Dulheia} u. {i:Dulheiga} = {i:Dhū’l-ḥidjdja}, der
+@cr zwölfte Monat der Muhammedaner, Monat
+@cr der Wallfahrt, XIV, XV, 2, T. 2, 3, etc.
+@cr {i:Dulkada} = {i:Dhū’l-ḳaʿda}, der elfte Monat der
+@cr Muhammedaner, XIV, XV, 2, T. 2, 3, etc.
+@cr {i:Dulkarnain} = {i:Dhū’l-ḳarnain}, der zweigehörnte
+@cr ({i:bicornus}), Beiname Alexanders des Grossen
+@cr bei den Arabern 3, 35.
+@cr {i:Dulkeda} u. {i:Dulkidda} s. {i:Dulkada}.
+@cr {b:E.}
+@cr {i:Ecumbula} s. {i:Cumbula}.
+@cr {i:Ekucufet} s. {i:Kucufet}.
+@cr {i:Eneid} s. {i:Anāhīd}.
+@cr {i:Etdeiard} s. {i:Jazdeiard}.
+@cr {i:Ezdeiard} s. {i:Jazdeiard}.
+@cr {i:Ezed} = {i:asad}, Löwe, Tierkreiszeichen des Lö-
+@cr wen, T. 59{sup:a}.
+@cr {i:Ezeig} s. {i:Zich}.
+@cr {i:Ezich} s. {i:Zich}.
+@cr {b:F.}
+@cr {i:Felek} = {i:falak}, Sphäre, Himmelsgewölbe, kreis-
+@cr förmige Bahn eines Himmelkörpers um die
+@cr Erde, 7, 18, 25, etc. ; {i:felek elmustakim} s.
+@cr {i:Mustakim} ; {i:felek eltedewir} s. {i:Tedewir}.
+@cr {i:Feler} s. {i:Felek}.
+@cr {i:Fi}, mit dem Artikel verbunden {i:fil} (= {i:fi’l}), arab.
+@cr Praepos., in auf, z. B. {i:fiaard} = {i:fī ʿarḍ}, in
+@cr Breite (mit folg. Genitiv) T. 79 (Hier ist hinter
+@cr {i:fiaard} ausgefallen {i:Cordubae}) — {i:filcaat} und
+@cr {i:filacaat} = {i:fī’l-sāʿa}, in der Stunde, oder
+@cr {i:fī’l-sāʿāt}, in den Stunden, T. 5 — {i:filcinun} =
+@cr {i:fī’l-sinīn}, in den Jahren, T. 69 — {i:fil dakaik}
+@cr {i:elcaat} = {i:fī daḳā’iḳ al-sāʿa}, in den Minuten
+@cr der Stunde, T. 5 — {i:filiaum} = {i:fī’l-yaum}, im
+@cr Tage T. 5 ‐‐ {i:filshohor} = {i:fī’l-shuhūr}, in den
+@cr Monaten, T. 9 — {i:fil zahat} s. {i:filcaat}.
+@cr {i:Fudhul} = {i:fuḍūl} (pl. v. {i:faḍl}), Überschüsse, Dif-
+@cr ferenzen, 27 (N. 19), T. 73.
+@obs The page number «242» stands at the head of the page, centred, with a rule below it. The page has no signature. Two columns divided by a vertical rule, as on p. [241] (JP2 0275), transcribed column by column: the left column L01-L50, the right L51-L99; the letter heads «C.» (L18), «D.» (L43), «E.» (L71) and «F.» (L81) in bold, centred in their columns, each after a blank line; each entry begins at the edge of its column, its further lines indented.
+@obs L12: the point after «T. 79» stands below the line, a sort that has slipped; transcribed as a point. L62: a speck below the «=» after «Dulheiga»; L67: «Dulkarnain=Dhū’l-ḳarnain» is set close, with little space around the «=»; not transcribed. L96: the dash before «filshohor» is made up of two short dashes (12 and 19 px with a gap of 5 px); here written as two hyphens (U+2010), as on p. 212 (JP2 0244); the other dashes of the entry are long (36-41 px). The semicolons of L27 (both), L38, L46, L60, L61, L84 and L85 stand after a thin space (8-13 px); written with a space.
+@obs Checked against the text, for example: «ciicuth» and «cuzuf» on p. 27 (JP2 0059) and «ciikuf» on p. 26 (JP2 0058), in words of C and O with the article, «cumbula» in Tab. 59b (p. 173, JP2 0205), «Elkucufet» of C in the title of Tab. 74 (p. 188, JP2 0220), «felek eltedewir» on p. XXI (JP2 0025) and in Tab. 7 and 9 (pp. 118, 120), «Feler» on p. 7 (JP2 0039), «fil zahat» in the head of Tab. 61 (p. 175, JP2 0207).
+@critical AK07-CN288 | misprint | L11 | inbesondere | insbesondere | the adverb «insbesondere», as in the entry «Burug» two lines below (L14); the s is missing | high | none
+@critical AK07-CN289 | missing comma | L88 | Praepos., in auf, z. B. | Praepos., in, auf, z. B. | the meanings of the preposition are listed with commas, as «Praepos., in, auf, mit, z. B.» in the entry «Bi» (L04); no comma is printed after «in» | medium | none

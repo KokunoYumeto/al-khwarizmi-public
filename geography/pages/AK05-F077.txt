@@ -1,0 +1,46 @@
+@page 77 ٧١
+% Frame 077, printed p. 71: the sea of Tangier and the seas joined to it, continued, in running text: the coast from
+% point to point, with the editor's running numbers (١٠٥٧)-(١٠٧٧) and the numbers of Suhrāb, past the mouth of four
+% rivers and the towns ڡلحس, قرمى, دسيقارٮا with the mountain قوفا, اروشينيه, ثاورسانا and اوقوطيا. Four lines of the
+% editor's footnotes.
+اربعة انهار وبمدينة ڡلحس{n:a} الى طول {ov:سا ل} والعرض {ov:مر {z}}{n:b} (١٠٥٧) [٦٤١] ويمرّ
+على صورة القوارة الى اسفل مدينة قرمى يمرّ الى طول {ov:سح م} والعرض {ov:مو ن} (١٠٥٨)
+[٦٤٢] يمرّ الى طول {ov:سد ك}{n:c} والعرض {ov:مو {z}}{n:d} (١٠٥٩) [٦٤٣] يمرّ الى طول {ov:سه {z}}{n:e}
+والعرض {ov:مو ك} (١٠٦٠) [٦٤٤] يمرّ الى طول {ov:سه ل} والعرض {ov:مو {z}} (١٠٦١) [٦٤٥]
+يمرّ الى طول {ov:ع ل} والعرض {ov:مه {z}}{n:f} (١٠٦٢) [٦٤٦] ويمرّ بمدينة دسيقارٮا ويضرب
+جبل قوفا مع المدينة ويمرّ مع الجبل الى طول {ov:عا ل} والعرض {ov:مر ل} (١٠٦٣) [٦٤٧]
+ويمرّ الى طول {ov:عا {z}}{n:g} والعرض {ov:مح ⟨{z}⟩}{n:h} (١٠٦٤) [٦٤٨] يمرّ الى طول {ov:عا ل} والعرض
+{ov:مط {z}}{n:i} (١٠٦٥) [٦٤٩] يمرّ الى طول {ov:ع مه} والعرض {ov:مط مه} (١٠٦٦) [٦٥٠] يمرّ
+الى طول {ov:سط ل} والعرض {ov:مط ن} (١٠٦٧) [٦٥١] يمرّ الى اسفل مدينة اروشينيه ويمرّ
+الى{n:k} طول {ov:سو ل}{n:l} والعرض {ov:مط مه} (١٠٦٨) [٦٥٢] يمرّ الى طول {ov:سو ل} والعرض {ov:ن ل}
+(١٠٦٩) [٦٥٣] يمرّ الى طول {ov:سح ه} والعرض {ov:نٮ {z}}{n:m} (١٠٧٠) [٦٥٤] يمرّ الى طول
+{ov:سب ك} والعرض {ov:نج مه} (١٠٧١) [٦٥٥] يمرّ الى طول {ov:سٮ ه} والعرض {ov:ٮح مه} (١٠٧٢)
+[٦٥٦] يمرّ بأسفل مدينة ثاورسانا الى طول {ov:سا ل} والعرض {ov:نا ن} (١٠٧٣) [٦٥٧] ثمّ
+يمرّ على صورة الطيلسان بعرض {ov:نب مه} (١٠٧٤) [٦٥٨] ويصير الى طول {ov:ند ل} والعرض
+{ov:نا ل} (١٠٧٥) [٦٥٩] ويمرّ بأسفل مدينة اوقوطيا الى طول {ov:ند ل} والعرض {ov:نٮ ل}{n:n} (١٠٧٦)
+[٦٦٠] يمرّ الى طول {ov:ٮح م} والعرض {ov:ٮٮ ل}{n:o} (١٠٧٧) [٦٦١] يمرّ الى طول {ov:ٮح ل}{n:p} والعرض
+@ednotes a b c d e f g h i k l m n o p 4
+@obs The running text goes on from p. 70 (frame 076), whose last words, «ويمرّ هنالك بمصبّ», L01 continues with «اربعة انهار», the mouth of four rivers: the coast from point to point, with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}, the editor's running numbers in parentheses, (١٠٥٧)-(١٠٧٧), and the numbers of Suhrāb in square brackets, [٦٤١]-[٦٦١], without a gap.
+@obs The places of the coast: L01: «وبمدينة ڡلحس», and the town of ڡلحس; L02: «على صورة القوارة الى اسفل مدينة قرمى», along the shape of the qawwāra to below the town of قرمى; L05-L06: «ويمرّ بمدينة دسيقارٮا ويضرب جبل قوفا مع المدينة ويمرّ مع الجبل», it passes the town of دسيقارٮا, the mountain قوفا extends along the town, and the coast passes along the mountain; L09: «يمرّ الى اسفل مدينة اروشينيه», to below the town of اروشينيه; L13: «يمرّ بأسفل مدينة ثاورسانا», below the town of ثاورسانا; L14: «يمرّ على صورة الطيلسان بعرض», along the shape of the ṭaylasān at the latitude, and «ويصير الى», and comes to; L15: «ويمرّ بأسفل مدينة اوقوطيا», below the town of اوقوطيا. «يمرّ», «ويمرّ» and «ثمّ» are printed with a shadda; «بأسفل» with a hamza over the alif.
+@obs L01: «ڡلحس»: the first letter is an upright loop, 24 by 28 px, without a dot, raised above the line and joined at its foot to the ل, like the loop of ف in «قوفا» (L06), where the initial م of «مدينة» (L02) is a round blob on the line; transcribed ڡ. Then the ل, a medial ح without a dot and a final س. The form of note a, «فلمس», has the dot of the ف and a م in the place of the ح.
+@obs L05: «دسيقارٮا»: the ي with its two dots below, the ق with its two dots; the tooth between the ر and the final alif has no dot. L13: «ثاورسانا»: the three dots of the ث are printed as one cluster, 17 by 17 px, touching the alif. L02: «قرمى» ends in a ى without dots. L06: «قوفا», L09: «اروشينيه» and L15: «اوقوطيا», with all their dots.
+@obs Letters printed without their dots in the numerals, transcribed so: سٮ (L12, the degrees of the second longitude), 62, where the first longitude of the same line, «سب ك», has the dot of the ب; نٮ (L11, the degrees of the latitude; L15, the degrees of the second latitude), a ن with its dot joined to a final ب without its dot, 52, where L14 prints «نب» with both dots; and a tooth without its dot in ٮح (L12, the degrees of the second latitude; L16, the degrees of both longitudes), which read as a ن gives 58. L16, the degrees of the latitude: a tooth, 21 px high, and a flat final bowl, 54 by 17 px, both without dots, the same strokes as «نب» (L14) without its dots; transcribed ٮٮ, which read as نب gives 52. L12: the first latitude, «نج مه», has the dots of the ن and of the ج, 53; L13 and L15: in «نا» the dot of the ن touches the alif.
+@obs In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: «مر» (L01, L06, the degrees of the latitude), 47.
+@obs The ح of the numerals, سح (L02, L11), مح (L07) and ٮح (L12, L16), shows no dot in the bowl; the same form is a ج without its dot, 3, which L12 prints with its dot in «نج». Transcribed as printed.
+@obs L07: the minutes of the second latitude are the sign for zero between angle brackets, «⟨{z}⟩», under the line with «مح», followed by the note mark h: the editor supplies them, which the manuscript lacks (note h).
+@obs Note marks: L01, a after «ڡلحس» and b after the latitude; L03, c after the first longitude, d after the latitude and e after the second longitude; L05, f after the latitude; L07, g after the first longitude and h after the latitude; L08, i after the latitude; L10, k after «الى» and l after the first longitude; L11, m after the latitude; L15, n after the second latitude; L16, o after the latitude and p after the second longitude.
+@obs Marks not transcribed: L01, a speck of 4 by 3 px above «مر», much smaller than the dots of the font, about 10 by 10 px; L10, a short oblique stroke, 8 by 9 px, about 20 px above the first tooth of the س of the first longitude, «سو», with the form of a fatha; L12, two specks of 3 by 3 px above the head of the ح of the second latitude.
+@obs The editor's footnotes stand in four lines below a short rule at the left: notes a-p. The page number «— ٧١ —» stands at the foot, centred.
+@variant L01: a variant reading of the name is فلمس (note a).
+@variant L01: a variant reading of the latitude is مر ه, with a line over the numerals (note b).
+@variant L03: variant readings: of the first longitude سد ل, of the latitude مو ه, and of the second longitude سو {z}, each with a line over the numerals (notes c, d, e).
+@variant L05: a variant reading of the latitude is مه ه, with a line over the numerals (note f).
+@variant L07: a variant reading of the first longitude is عا ه, with a line over the numerals (note g).
+@variant L07: the manuscript lacks the minutes of the latitude, which the editor supplies (note h).
+@variant L08: a variant reading of the latitude is مط ه, with a line over the numerals (note i).
+@variant L10: the manuscript has على for الى (note k).
+@variant L10: variant readings of the first longitude are سو ك and سو ن, each with a line over the numerals (note l).
+@variant L11: a variant reading of the latitude is نٮ ه, with a line over the numerals and the ب without its dot (note m).
+@variant L15: a variant reading of the second latitude is ٮه ل, with a line over the numerals and the tooth without a dot (note n).
+@variant L16: the manuscript is unclear at the latitude; a variant reading is ٮٮ {z}, with a line over the numerals (note o).
+@variant L16: a variant reading of the second longitude is نح م, with a line over the numerals (note p).

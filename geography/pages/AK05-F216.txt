@@ -1,0 +1,4 @@
+@page 216 -
+@kind blank
+% Frame 216: an endpaper of the library's binding; nothing printed.
+@obs Blank.

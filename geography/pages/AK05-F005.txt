@@ -1,0 +1,17 @@
+@page 5 -
+@kind title
+% Frame 005: the title page of the 1962 Baghdad reprint, printed on grey mottled paper: the calligraphic title page of
+% the 1926 edition, reproduced by offset, and two lines in type naming the reprint.
+@c كتاب صورة الأرض
+@c من المدن والجبال والبحار والجزائر والأنهار
+@c استخرجه أبو جعفر محمّد بن موسى الخوارزمىّ
+@c من كتاب جغرافيا الّذى ألّفه بطلميوس القلوذىّ
+@c وقد اعتنى بنسخه وتصحيحه
+@c هانس فون مژيك
+@c طبع فى مدينة ڤينا الجليلة
+@c بمطبعة آدولف هولزهوزن
+@c سنة ١٣٤٥ ه وهى ١٩٢٦ م
+@c أعيد طبعه سنة ١٩٦٢
+@c في أوفسيت مطبعة الرابطة ــ بغداد
+@obs The title page is written in calligraphy and printed from a block. Its lines are transcribed with the words divided as usual, since the calligraphy sets them close and lets them overlap; hamza and shadda are transcribed where they are written (الأرض, والأنهار, أبو, محمّد, الخوارزمىّ, الّذى, ألّفه, القلوذىّ, آدولف). The other vowel signs of the calligraphy (a ḍamma over the ب of كتاب and the ص of صورة, over the ه of استخرجه, ألّفه, بنسخه and تصحيحه, a fatḥa over the ع of طبع and the م of مدينة, a kasra under the alif of استخرجه and the س of سنة) and its small v-shaped signs over and under letters are not transcribed. The editor's name is written مژيك, with ژ, three dots over the ز, for the ž of Mžik, and Vienna ڤينا, with ڤ, three dots over the ف, for its v; موسى carries a short upright stroke over its final ى, and «ه» after the Hijri year 1345 and «م» after 1926 abbreviate the eras.
+@obs L10-L11: the two lines of the reprint are set in a heavy modern type, not in the calligraphy of the 1926 title page, which the reprint reproduces by offset (L01-L09, as frame 007): «أعيد طبعه سنة ١٩٦٢ / في أوفسيت مطبعة الرابطة ــ بغداد», reprinted in 1962 in offset at the Rābiṭa press, Baghdad. The type of these lines dots the final ي of في, where the calligraphy writes فى.

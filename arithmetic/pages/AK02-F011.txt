@@ -1,0 +1,48 @@
+@page 11 5
+% Frame 011, printed p. 5: numbers below a hundred with a hundred, placed in their own places; the example .ccc. xxv.,
+% placed from the writer's right; the tens collected in a place carried to the next place; examples with ten and
+% eleven units.
+in secunda differentia ponatur etiam unum quod sic .{sc:x}. Simi-
+liter si fuerit cum .{sc:c}. alius .numerus de his qui sunt infra
+eum, ponatur in differentia que sibi debetur. Quod ostendamus
+sub quodam exemplari, et dicamus quod esset numerus .{sc:ccc}.
+{sc:xxv}. Quem cum uellemus ponere in suis differentiis, posuimus
+ita. Incepimus a dextera scriptoris, et posuimus in prima dif-
+ferentia .{sc:v}.; in secunda, eundo uersus sinistram partem scri-
+ptoris, .{sc:xx}., et in tercia differentia .{sc:ccc}., unumquemque nu-
+merum in differentia sua,idest unitates in differentia unitatum,
+que est prima; et decenos in differentia decenorum, que est
+secunda. Centenos uero in differentia centenorum, que est
+tercia; et hec est figura .335. : et similiter erit in aliis differen-
+tiis secundum hunc ordinem, idest quocienscumque augmen-
+tatus fuerit numerus et creuerint differentie, ponatur unum-
+quodque genus numeri in sua differentia que debetur ei. Cum
+autem collecti fuerint in aliqua differentiarum .{sc:x}. uel plus,
+erigantur ad superiorem differentiam, et fiat de unoquoque
+.{sc:x}. in superiori differentia unum. Rursum si fuerit in eadem
+differentia,ad quam peruenerit numerus ascendendo, alter nu-
+merus addatur desuper, et colligantur insimul: et si fuerint in
+eo .{sc:x}. uel plus, fiat de unoquoque .{sc:x}. unum, et erigatur ad
+superiorem differentiam, idest si collecti fuerint in prima dif-
+@m car. 103 {i:verso}.
+ferentia decem,|fiat de eis unum, et ponatur in secunda diffe-
+rentia: et si in eadem differentia similiter fuerit numerus, iun-
+gatur ei: et si fuerint ibi .{sc:x}., fiat de eis unum, et erigatur
+etiam ad terciam differentiam. Verbi gratia. Si in prima differen-
+tia, que est differentia unitatum,habueris .{sc:x}.,fac de eis unum,
+et pone ipsum in secunda differentia.In prima uero differentia
+pone circulum sicut diximus,ut ostendatur due esse differentie.
+Si uero fuerint .{sc:xi}., fac de .{sc:x}. unum, et pone eum in secunda
+differentia ut supra, et dimitte unum in prima. Si autem in-
+ueneris in secunda differentia, ubi posuistis ipsum numerum
+quem fecisti de .{sc:x}.,aliquem numerum, iunge eum cum illo.Et
+@obs The page number «( 5 )» stands at the head of the page, centred. The page has no footnotes and no signature.
+@obs L02: «alius .numerus»: a point stands before «numerus», at the base line, 5 px from the n and 14 px after «alius», of the size and form of the points of the line (8 by 8 px); no numeral follows it. Transcribed as printed; see the critical note.
+@obs L04-L05: the number of the example, «.ccc.» at the end of L04 and «xxv.» at the beginning of L05, without an opening point: 325, with five in the first place, twenty in the second and three hundred in the third (L07-L08). L12: its figure is printed «.335.», in old-style arabic numerals; see the critical note.
+@obs L23: the vertical bar between «decem,» and «fiat» marks the beginning of fol. 103 verso of the manuscript, which the note in the right margin, «car. 103 verso.», names; transcribed as a margin note.
+@obs L32: «posuistis», the second person plural, beside the singular «ueneris» (L31-L32), «fecisti» and «iunge» (L33); transcribed as printed, without a note of the editor.
+@obs Colons and semicolons: L20 «insimul:», L24 «rentia:» and L25 «ei:» are printed colons; a reader has added in pencil a tail below the lower dot of each, which makes them look like semicolons. The tails are much lighter than the print (their darkest pixel 87 to 143, where the tail of a printed semicolon, as in «prima;» of L10, has its darkest pixel at 20 to 66) and thinner. The semicolons of L07, L10 and L12 are printed.
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): without a space after the mark, L09 «sua,idest» (7 px, the median word space 13 px), L19 «differentia,ad» (5 px), L23 «decem,|fiat», L27 «unitatum,habueris» (5 px) and «.x.,fac» (8 px), L28 «differentia.In» (10 px, median 16), L29 «diximus,ut» (7 px), L33 «.x.,aliquem» (10 px, median 17) and «illo.Et» (10 px); with a space before the mark, L12 «.335. :» (11 px). In L26, set tightly (median 10.5 px), «differentiam. Verbi» (8 px) and «gratia. Si» (9 px) have a space; L29 «ostendatur due» is separated by 10 px.
+@critical AK02-CN003 | stray point | L02 | alius .numerus | alius numerus | a point of the size and form of the points of the line stands before «numerus», set close to it; the sentence has no numeral there («Similiter si fuerit cum .c. alius numerus de his qui sunt infra eum»), and the parallel sentence of p. 4 has «aliquis numerus de his qui sunt infra eum» without a point (frame 010, L28-L29) | medium | none: the words read the same
+@critical AK02-CN004 | wrong numeral | L12 | .335. | .325. | the figure of the example is printed .335., where the number of the example is .ccc. xxv. (L04-L05), placed as five in the first place, twenty in the second and three hundred in the third (L06-L08), which is 325; a reader of this copy has underlined the middle figure and written «325» in the margin | high | the figure of the example reads 325; whether the error is of the edition or of the manuscript is not shown by the print
+@copy A reader's notes in pencil: L01, «sic» underlined, and «significat» in the right margin beside the line, a gloss of «sic»; L02, a stroke over «qui»; L04, a curve through the «m» of «exemplari»; L12, a stroke under the middle figure of «.335.», and «325» in the right margin; L20, L24 and L25, tails added below the colons of «insimul:», «rentia:» and «ei:». Not part of the edition.

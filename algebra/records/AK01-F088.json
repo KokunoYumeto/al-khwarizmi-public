@@ -1,0 +1,130 @@
+{
+ "anchor": "AK01-F088",
+ "frame": 88,
+ "frame_file": "page_088.jpg",
+ "frame_sha256": "af5b4111b5fc45daf5e5e6024f00f1102842ec2cae840d9867f364cea3ada6e0",
+ "printed_page": "٧٢",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 088, printed p. 72: the second case of frame 087 continued: the mother's share taken as a hundred and fifty-six parts, of which the holder of the quarter receives twenty through the third and nineteen of her own allowance; the son allows the holder of the two fifths the difference between two fifths of his share and what the third gives him, thirty-eight of a hundred and ninety-five, so that sixty-five, the third, and thirty-eight are taken from the son; the shares to be made whole, continued on the next page. Below the rule one long footnote of the editors, with their computation of the case in modern notation.",
+ "lines": [
+  {
+   "id": "AK01-F088-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "جزءاً من مائة وستة وخمسين من جميع نصيبها فينبغى أن يكون نصيبها مائة وستة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F088-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "وخمسين فحصته من الثلث من نصيبها عشرون سهما والذى أجازت له ربع حصتها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F088-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وهو تسعة وثلاثون فيؤخذ ثلث مافى يدها لهما وتسعة عشر سهما للذى أجازت",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F088-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "له خاصة. ثم الابن قدأجاز لصاحب الخمسين فضل مابين خمسى نصيبه وبين ما يصيبه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F088-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "من الثلث {n:١} وهو ثمانية وثلاثون من مائة وخمسة وتسعين من نصيب الابن",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F088-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "بعد اخراج الثلث لهما لأن الذى له من خاصة الثلث ثمانية أجزاء من ثلاثة عشر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F088-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "من الثلث وهو أربعون . والذى أجازله من خمسى نصيبه ثمانية وثلاثون فذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F088-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "ثمانية وسبعون فيؤخذ منه خمسة وستون ثلث ماله لهما والذى أجاز له خاصة ثمانية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F088-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "وثلاثون . فان أردت أن تصحح سهام الفريضة صححتها فكانت من مائتى ألف",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١"
+   ],
+   "lines": 13,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L02: فحصته (L02), so his portion, with the ف and its dot joined to the ح.",
+  "Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): مافى (L03; 12 between the alif and the ف, as درهمافاذا (frame 056, L03), 13); قدأجاز (L04; 10 between the د and the alif, as أحدالقسمين (frame 051, L04), 8, where بعد اخراج in L06 has 18 and تريد أن (frame 058, L04) 17); مابين (L04; 17 between the alif and the ب, where an alif stands 12 to 20 px from a tooth inside a word on this page, in ثمانية (L05, L08), مائة (L01) and مائتى (L09)); أجازله (L07; the tail of the ز reaches under the ل and ends 12 px from it, as the tails of ر and ز do inside a word, 8 to 19 px; 30 above the baseline), where أجاز له (L08) has 26 at the tail and 47 above the baseline.",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: وتسعة عشر (L03; 15 between the ة and the ع, at the boundary between the gaps after ة without a space, 1 to 14, and with one, 16 or more; in doubt, the space is written); ما يصيبه (L04; 20 between the alif and the ي, as wide as the widest gap between an alif and a tooth inside a word on this page, in مائتى, and narrower than where a space is set on frame 087, 22 to 32).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: من مائة (L01; 9 between the ن and the م), له خاصة (L04; 8 between the ه and the خ), ثم الابن (L04; 12 between the م and the alif), بين خمسى (L04; 11 between the ن and the خ), له خاصة (L08; 12).",
+  "The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after أربعون, before والذى (L07; 19 and 25), after وثلاثون, before فان (L09; 26 and 27). In L04 the full stop stands close after خاصة, 10 px from the ة, and 17 px before ثم; it is transcribed close after the word, with a space before the next (in doubt, the space is written). The note mark (١) stands in a space of 115 px between الثلث and وهو (L05; 38 px after the word and 31 before the next), without a full stop.",
+  "Plain alif where a hamza might be expected, as printed: الابن (L04, L05), اخراج (L06); with hamza: أن (L01), أجازت (L02, L03), قدأجاز (L04), لأن, أجزاء (L06), أربعون, أجازله (L07), أجاز (L08), أردت, أن, ألف (L09); on و: فيؤخذ (L03, L08); on ي: مائة (L01, twice; L05), مائتى (L09); the hamza on the line: جزءاً (L01), أجزاء (L06). أربعون (L07) has the hamza that frame 087 does not print in the same word (L06, L07, L08).",
+  "With tanwīn on the final alif: جزءاً (L01); without tanwīn as printed: سهما (L02, L03).",
+  "The final yā' is printed without dots: فينبغى (L01), والذى (L02), مافى, للذى (L03), خمسى (L04), الذى (L06), والذى, خمسى (L07), والذى (L08), مائتى (L09).",
+  "Note (١) of the editors, of thirteen printed lines, works out the case in modern notation, in parts of 9360 of the estate: the holder of the two fifths receives 8/13 of the third, which is 8/39 of what the son receives, and the son allows him the difference from the two fifths, 2/5 − 8/39 = 38/195, so that the son pays a third of his share and 38/195 of it; the husband pays 1/3 × 1/4 = 1/12 = 780 and keeps 1560; the mother pays 1/6 × (1/4 + 8/13 × 1/3) = 710 and keeps 850; the son pays 7/12 × (2/5 + 5/13 × 1/3) = 2884 and keeps 2576; the bequests 4374 and the heirs 4986. These values check exactly. The note then gives the holder of the quarter 5/13 × 4374/9360 = 21870/964080 and the holder of the two fifths 8/13 of the same, 34992/964080. Five to eight is the division of the third alone: from the note's own amounts the holder of the quarter receives 300 from the husband, 390 from the mother (a quarter of her share) and 700 from the son, 1390 of 9360, and the holder of the two fifths 480, 320 and 2184, 2984 (together 4374); and 13 × 9360 is 121680, not 964080, which is 103 × 9360 (checked exactly). The note is not reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,82 @@
+@page 275 [241]
+@lang de
+% JP2 0275: the glossary, first page (p. [241]): I. Arabic (and some Persian) words, Aakrab to Beied hakht, in two
+% columns.
+@h Glossar.
+@c I. Arabische (und einige persische) Wörter.
+@cl {b:A.}
+@cl {i:Aakrab} s. {i:Akrab}.
+@cl {i:Aalemet} = {i:ʿalāmāt} (pl. v. {i:ʿalāma}) {i:Notulae},
+@cl Zeichen, Marke, Signatur, hier die Zahlen
+@cl der Wochentage (1 . . . 7 = Sonntag bis Sams-
+@cl tag), T. 69.
+@cl {i:Aard} s. {i:Ard}.
+@cl {i:Abaad} = {i:abʿad}, weiter entfernt ({i:longinquior}),
+@cl T. 73, 74.
+@cl {i:Achir} = {i:ākhir}, (der) letzte, zweite, T. 2, 3 etc.
+@cl {i:Acofra} = {i:aṣ-ṣufr} ({i:Ta’rīkh aṣ-ṣufr}), spanische
+@cl Aera, auch einfach Aera (im Text {i:Era}) ge-
+@cl nannt, 3, 35, T. 1.
+@cl {i:Acrab} s. {i:Akrab}.
+@cl {i:Aded} u. {i:Adet} = {i:ʿadad}, Zahl, T. 21 etc., viel-
+@cl leicht bedeutet es auch bisweilen den Plural
+@cl {i:aʿdād}.
+@cl {i:Adel} (?) T. 10.
+@cl {i:Adhel} = {i:al-dhel}, s. {i:Dhel}.
+@cl {i:Aguze} = {i:adjzā’} (pl. v. {i:djuz}), Teile, T. 73.
+@cl {i:Ahemar} = {i:aḥmar}, rot, hier auch Name des
+@cl Planeten Mars, neben {i:Mirrīkh}, T. 39—42.
+@cl {i:Ajuze} s. {i:Aguze}.
+@cl {i:ʿAḳd}, Knoten (der Planetenbahnen); {i:ʿaḳd al-}
+@cl {i:shamālī}, der nördliche Knoten (der Mond-
+@cl bahn) 41.
+@cl {i:Akrab}, 1) = {i:aḳrab}, näher ({i:propinquior}) T. 75,
+@cl 76; 2) = {i:ʿaḳrab}, Skorpion (8. Zeichen des
+@cl Tierkreises) T. 59{sup:b}.
+@cl {i:Anāhīd}, pers. Name des Planeten Venus, XXII,
+@cl T. 45.
+@cl {i:Arafa} (?) 15 (N. 20).
+@cl {i:Ard} = {i:ʿarḍ}, Breite eines Gestirns, oder geogr.
+@cl Breite eines Ortes, 19 (N. 1), T. 22, 79.
+@cl {i:Arhik} T. 15 (N. 7) s. {i:Achir}.
+@cl {i:Arin} = {i:Uzain} = {i:Udjain}, VII, XVIII, 1, 8, 19,
+@cl 33, etc.
+@cr {i:Artifa} = {i:irtifāʿ}, Höhe (eines Gestirns), 18, 21,
+@cr 22, etc. T. 60.
+@cr {i:Aṣbaʿ}, Finger, Zoll, ein arab. Längenmass, 43.
+@cr {i:Asceir} s. {i:Sceir}.
+@cr {i:Ascowa} s. {i:Shoa}.
+@cr {i:Ashoa} s. {i:Shoa}.
+@cr {i:Asmir} = {i:as-sair}, oder {i:al-masīr}, der Lauf,
+@cr die Bahn (eines Gestirns), XXI, T. 9.
+@cr {i:Athofen} = {i:aṭ-ṭūfān}, die Sündflut ({i:diluvium}) 5,
+@cr 35, T. 1.
+@cr {i:Aub}, verdorben aus {i:Aug}, s. dieses.
+@cr {i:Audel}, wahrsch. verdorben aus {i:ʿarḍ el}, Breite
+@cr des . . ., oder Breite der . . . T. 10.
+@cr {i:Aug} = {i:audj} ({i:awdj}), {i:Apogeum} = Erdferne
+@cr eines Planeten, 9, 10, 14 ; {i:aug el-musteri}
+@cr {i:muadala} = korrigiertes Apogeum des Ju-
+@cr piter, T. 36 ; s. auch {i:Muadala}.
+@cr {i:Autarid} s. {i:Otari[d]}.
+@cr {i:Avvel} s. {i:Awel}.
+@cr {i:Avtarid} s. {i:Otari[d]}.
+@cr {i:Awel} = {i:awwel}, (der) erste, T. 2, 3, etc.
+@cr {i:Azabaa} = {i:aṣābiʿ} (pl. v. {i:aṣbaʿ}), Finger ({i:digiti}),
+@cr Mass für den Sonnen- und Monddurch-
+@cr messer, auch für den Erdschatten bei Mond-
+@cr finsternissen, T. 73.
+@cr {i:Azofar} s. {i:Acofra}.
+@cr {b:B.}
+@cr {i:Bāb}, Pforte, Kapitel, 58.
+@cr {i:Baheram} u. {i:Bahram} = {i:Bahrām}, pers. Name
+@cr für den Planeten Mars, XXII, T. 39—42.
+@cr {i:Batiae}, wahrsch. das fem. zu {i:baṭī’} = {i:baṭī’a},
+@cr langsam, T. 24.
+@cr {i:Bei ed halt} s. das folgende.
+@cr {i:Beied hakht} = {i:Bēdukht}, pers. Name für den
+@cr Planeten Venus, XXII, T. 45.
+@obs The first page of the glossary, p. [241], without a page number (the contents, p. [III], JP2 0007, give pp. 241-248). At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «31» on the right; recorded here, not transcribed as a line. The heading «Glossar.» (L01) and the section heading «I. Arabische (und einige persische) Wörter.» (L02) are set in a sans-serif type of regular weight, centred across the page, with a short rule below «Glossar.».
+@obs Below the section heading the glossary runs in two columns divided by a vertical rule; transcribed column by column (@cl, @cr), the left column first (L03-L39), then the right (L40-L74). Each entry begins at the edge of its column, and its further lines are indented. The letter heads «A.» (L03) and «B.» (L66) are set in bold, centred in their columns, «B.» after a blank line. In each entry the transcribed words of the text, their Arabic forms and the Latin words are in italics; references: arabic numerals are the pages of the text and the commentary, roman numerals those of the introduction, «T.» the tables and «N.» the footnotes.
+@obs The semicolons of L26 and L30 stand close to the preceding sign (2 and 4 px), those of L54 and L56 after a thin space (10 px); written so. «Ta’rīkh» (L13), «adjzā’» (L22) and «baṭī’», «baṭī’a» (L70) with the hamza as an apostrophe ’, ʿ (the ʿayn) in «ʿalāmāt», «abʿad», «ʿadad», «aʿdād», «ʿAḳd», «ʿaḳrab», «ʿarḍ», «irtifāʿ», «Aṣbaʿ», «aṣābiʿ». A speck above the first «=» of L38; not transcribed.
+@obs Checked against the text: the forms of the headwords occur where the references point, for example «Elaalemet» of O in the apparatus of Tab. 69 (p. 183, JP2 0215, N01), «libood elabaad» in the title of Tab. 73 (p. 187, JP2 0219), «Rabe alachir» and «Jumedi elachir» in Tab. 2 (p. 110, JP2 0142), «elacrab» of C in the apparatus of Tab. 76 (p. 190, JP2 0222), «Matale elakrab» in Tab. 59b (p. 173, JP2 0205), «Elahemar. Baheram» in the title of O of Tab. 39 (p. 150, JP2 0182), «Asmir» in Tab. 9 (p. 120, JP2 0152), «Azofar» in Tab. 1 (p. 109), «ascovva» of O in the apparatus of Tab. 91 (p. 206, JP2 0238), the glossary's «Ascowa».

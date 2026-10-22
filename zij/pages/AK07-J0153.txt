@@ -1,0 +1,53 @@
+@page 153 121
+@lang la
+% JP2 0153: Tab. 10, p. 121: the mean motion of Saturn in 1-30 days, in 1-24 hours and in 2-60 minutes of an
+% hour, in signs, degrees, minutes and seconds, with the apparatus (notes 1-4, a-e, and Ms. M's marginal note).
+@m C 49{sup:r}, M 85{sup:v}
+@c {b:Zohal} (O)
+@m O 105{sup:r}, N 25{sup:r}
+@c {b:Medius cursus Saturni} (MN) — {b:elwacat zohal} (CM)
+@tw size=footnotesize span=1.1 1.2 0.8 0.8 0.9 0.9 1.2 0.8 0.8 0.9 0.9 1.25 0.8 0.8 0.9 0.9
+@t Numerus | Medialitas{sup:1}) Saturni | | | | Numerus | Medialitas{sup:1}) Saturni | | | | Numerus | Medialitas{sup:1}) Saturni in | | |
+@t dierum | in diebus | | | | horarum | in horis | | | | partium{sup:2}) | partibus horarum | | |
+@t | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:3}) | {b:Sec.}{sup:4}) | | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:3}) | {b:Sec.}{sup:4}) | horarum | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:3}) | {b:Sec.}{sup:4})
+@t 1 | 0 | 0 | 2 | 0 | 1 | 0 | 0 | 0 | 5 | 2 | 0 | 0 | 0 | 0
+@t 2 | 0 | 0 | 4 | 1 | 2 | 0 | 0 | 0 | 10 | 4 | 0 | 0 | 0 | 0
+@t 3 | 0 | 0 | 6 | 1 | 3 | 0 | 0 | 0 | 15 | 6 | 0 | 0 | 0 | 0
+@t 4 | 0 | 0 | 8 | 2 | 4 | 0 | 0 | 0 | 20 | 8 | 0 | 0 | 0 | 1
+@t 5 | 0 | 0 | 10 | 2 | 5 | 0 | 0 | 0 | 25 | 10 | 0 | 0 | 0 | 1
+@t 6 | 0 | 0 | 12 | 2 | 6 | 0 | 0 | 0 | 30 | 12 | 0 | 0 | 0 | 1
+@t 7{sup:a}) | 0 | 0 | 14 | 3 | 7 | 0 | 0 | 0 | 35 | 14 | 0 | 0 | 0 | 1
+@t 8 | 0 | 0 | 16 | 3 | 8 | 0 | 0 | 0 | 40 | 16 | 0 | 0 | 0 | 1
+@t 9 | 0 | 0 | 18 | 3 | 9 | 0 | 0 | 0 | 45 | 18 | 0 | 0 | 0 | 1
+@t 10 | 0 | 0 | 20 | 4 | 10 | 0 | 0 | 0 | 50 | 20 | 0 | 0 | 0 | 2
+@t 11 | 0 | 0 | 22 | 4 | 11{sup:d}) | 0 | 0 | 0 | 55 | 22 | 0 | 0 | 0 | 2
+@t 12 | 0 | 0 | 24 | 5 | 12 | 0 | 0 | 1{sup:e}) | 0 | 24 | 0 | 0 | 0 | 2
+@t 13 | 0 | 0 | 26 | 5 | 13 | 0 | 0 | 1 | 5 | 26 | 0 | 0 | 0 | 2
+@t 14 | 0 | 0 | 28 | 5 | 14 | 0 | 0 | 1 | 10 | 28 | 0 | 0 | 0 | 2
+@t 15 | 0 | 0 | 30 | 6 | 15 | 0 | 0 | 1 | 15 | 30 | 0 | 0 | 0 | 2
+@t 16 | 0 | 0 | 32 | 6 | 16 | 0 | 0 | 1 | 20 | 32 | 0 | 0 | 0 | 3
+@t 17 | 0 | 0 | 34 | 6 | 17 | 0 | 0 | 1 | 25 | 34 | 0 | 0 | 0 | 3
+@t 18 | 0 | 0 | 36 | 7 | 18 | 0 | 0 | 1 | 30 | 36 | 0 | 0 | 0 | 3
+@t 19 | 0 | 0 | 38 | 7 | 19 | 0 | 0 | 1 | 35 | 38 | 0 | 0 | 0 | 3
+@t 20 | 0 | 0 | 40 | 8 | 20 | 0 | 0 | 1 | 40 | 40 | 0 | 0 | 0 | 3
+@t 21 | 0 | 0 | 42 | 8 | 21 | 0 | 0 | 1 | 45 | 42 | 0 | 0 | 0 | 3
+@t 22 | 0 | 0 | 44 | 8 | 22 | 0 | 0 | 1 | 50 | 44 | 0 | 0 | 0 | 4
+@t 23 | 0 | 0 | 46 | 9 | 23 | 0 | 0 | 1 | 55 | 46 | 0 | 0 | 0 | 4
+@t 24 | 0 | 0 | 48 | 9 | 24 | 0 | 0 | 2 | 0 | 48 | 0 | 0 | 0 | 4
+@t 25 | 0 | 0 | 50 | 10 | | | | | | 50 | 0 | 0 | 0 | 4
+@t 26 | 0 | 0 | 52 | 10 | | | | | | 52 | 0 | 0 | 0 | 4
+@t 27 | 0 | 0 | 54 | 10 | | | | | | 54 | 0 | 0 | 0 | 4
+@t 28 | 0 | 0 | 56 | 11 | | | | | | 56 | 0 | 0 | 0 | 5
+@t 29 | 0 | 0 | 58{sup:c}) | 11 | | | | | | 58 | 0 | 0 | 0 | 5
+@t 30 | 0 | 1{sup:b}) | 0 | 11 | | | | | | 60 | 0 | 0 | 0 | 5
+@n {sup:1}) Medialitas] O, Mediocritas CM — {sup:2}) partium] MO, {i:om.} C — {sup:3}) et {sup:4}) {i:V. notas in tab. 8.}
+@n {sup:a}) 7] 6 M — {sup:b}) 1] 0 COM — {sup:c}) 58] {i:om.} C — {sup:d}) 11] 10 M — {sup:e}) 1] 0 C.
+@n M {i:addid. in marg. man. prima:} Nota : zohal id est Saturnus — elmuster[i] id est Jubiter (sic) — al-
+@n mareh id est Mars — eladel id est Sol (!) — zohara id est Venus — autapid ({i:lege} autarid) id est Mercurius
+@n — hamar ({i:lege} kamar) id est luna — elmukatil keiwen id est examinatio (!) Saturni — meil elhermz ({i:lege}
+@n elshemz) obliquatio solis — audel ({i:lege} ard el) latitudo.
+@obs The page number «121» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 10», in bold sans serif, underlined. The titles (L01, L02), in bold, the sigla in roman: L01 that of O, L02 those of M and N and of C and M; the folios of the manuscripts, «C 49r, M 85v» over «O 105r, N 25r», stand at the right of the titles, the letters r and v raised; here as margin notes beside L01 and L02. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «16» on the right; recorded here, not transcribed as a line.
+@obs The table: a thick and a thin rule above the head, a double rule below it; vertical rules divide the fifteen columns, double ones before and after each column of arguments; thin rules under the heads that span the four columns of signs, degrees, minutes and seconds, whose heads «Sig.», «Gr.», «Min.», «Sec.» are set in small bold type. «Numerus dierum», «Numerus horarum» and «Numerus partium2) horarum» are printed turned through a quarter, reading upwards, in two and three lines; here their words stand in L03-L05. Each printed row is one line here, the cells separated by our «|»; a head followed by empty cells spans their columns. The hours end with 24 (L29).
+@obs L06-L35. Checked against the daily motion of Saturn of Tab. 9 (p. 120, JP2 0152), 2′ 0.38″: the days agree with n × 2′ 0.38″ to within 0.5″, the 30 days 1° 0′ 11″ (with the readings of notes b and c; the edition's 1 of note b, against the 0 of C, O and M, is required by the computation, 1° 0′ 11.5″). The hours are 5″ each, the hourly motion 5.02″, and the «partes horarum», the sixtieths of an hour, are 1/12″ each, 5″ for the 60 parts, the halves rounded down (6, 18, 30, 42 and 54 parts: 0, 1, 2, 3 and 4 seconds): all as printed.
+@obs N03-N06: Ms. M's marginal note in the first hand: a glossary of the Arabic words of the tables, the names of the planets (zohal, Saturn; elmusteri, Jupiter; almareh, Mars; zohara, Venus; autarid, Mercury; kamar, the moon), with the editor's «(sic)», «(!)» and «lege» corrections; «eladel id est Sol (!)» and «elmukatil keiwen id est examinatio (!) Saturni» marked by the editor. N03: «elmuster[i]», the i supplied by the editor in square brackets. The colon after «prima» set close (3 px), the colon after «Nota» after the thin space of the edition (9 px). Italics: «om.», «V. notas in tab. 8.», «addid. in marg. man. prima:», «lege».
+@obs A dark speck after «Gr.» in the head of the hours (L05), at the height of a note number, is not part of the print; not transcribed. Specks in the table; not transcribed.

@@ -1,0 +1,4 @@
+@page 14 ٢
+@kind editorial
+% Frame 014: the editors' study «الجبر قبل الخوارزمى» (algebra before al-Khwārizmī), with footnotes.
+@withheld the editors' study «الجبر قبل الخوارزمى» (algebra before al-Khwārizmī), with footnotes

@@ -1,0 +1,49 @@
+@page 94 ٨٨
+% Frame 094, printed p. 88: the islands of the outer western sea continued: the end of the coast of the island ٮولى,
+% back to its first point; fifteen small islands within one area; eleven single small islands, the middle of one of them
+% lost in a gap of the manuscript; and the island سقيديا with a town, whose coast begins to be followed. The editor's
+% running numbers (١٣٤٧)-(١٣٦٣) and the numbers of Suhrāb [٩١٤]-[٩١٨]; the folio of the manuscript, «(fol. 24ᵃ)»,
+% at the beginning of a line. Four lines of the editor's footnotes.
+الى طول {ov:لب ك}{n:a} والعرض {ov:سح ى} (١٣٤٧) [٩١٤] تمرّ على صورة القوارة تمرّ بعرض
+{ov:سد م} (١٣٤٨) [٩١٥] وتصير الى طول {ov:كو ك}{n:b} والعرض {ov:سح {z}}{n:c}{n:d} وهو الموضع الّذى
+منه ابتدأنا * خمسة عشر جزيرة صغار* فى مقدار جزءين ونصف فى جزءين وسطها عند
+طول {ov:لب ل} والعرض {ov:سٮ {z}}{n:e} (١٣٤٩) * جزيرة مقدار ربع جزء وسطها عند طول
+{ov:لد ى} والعرض {ov:سب ه} (١٣٥٠) * جزيرة مقدار ربع جزء وسطها عند طول {ov:لد ى}
+والعرض {ov:سا ى} (١٣٥١) * جزيرة مقدار ثلث جزء وسطها عند طول {ov:له ى} والعرض
+{ov:سا ل} (١٣٥٢) * جزيرة مقدار ربع جزء وسطها عند طول {ov:لو ى} والعرض {ov:سب {z}}
+(١٣٥٣) * جزيرة مقدار ربع جزء وسطها عند طول {ov:لز ل}{n:f} والعرض {ov:سب ل} (١٣٥٤) *
+جزيرة مقدار ربع جزء وسطها عند طول {ov:لز ل} والعرض {ov:سح م} (١٣٥٥) * جزيرة مقدار
+ربع جزء وسطها عند طول {ov:لط م} والعرض {ov:ٮط {z}}{n:g} (١٣٥٦) * جزيرة مقدار ثلثى جزء
+@m (fol. 24ᵃ)
+وسطها عند طول {ov:لر ل} والعرض {ov:سح ل}{n:h} (١٣٥٧) * جزيرة مقدار ربع جزء
+وسطها عند ⟨. . . . . .⟩{n:i} (١٣٥٨) * جزيرة مقدار ثلثى جزء وسطها عند طول {ov:م ن}
+والعرض{n:k} {ov:نط ى} (١٣٥٩) * جزيرة مقدار سدس جزء وسطها عند طول {ov:ما م} والعرض
+{ov:نط ل} (١٣٦٠) * جزيرة سقيديا{n:l} فيها مدينة اوّلها عند طول {ov:مب ل} والعرض {ov:نط م} (١٣٦١)
+[٩١٦] تمرّ على صورة القوارة تمرّ بعرض {ov:ٮط {z}} (١٣٦٢) [٩١٧] وتصير الى مصبّ نهر
+عند طول {ov:مو {z}} والعرض {ov:ٮط مه} (١٣٦٣) [٩١٨] وتمرّ على صورة القوارة تمرّ بعرض {ov:س ل}
+@ednotes a b c d e f g h i k l 4
+@obs The description of the island ٮولى goes on from p. 87 (frame 093), whose last words, «تمرّ بمصبّ نهر وتصير», L01 continues with «الى طول»: its coast from point to point, with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}, the editor's running numbers in parentheses and the numbers of Suhrāb in square brackets. L01: «الى طول لب ك والعرض سح ى (١٣٤٧)», to the longitude 32° 20′ and the latitude سح ى; L01-L02: «تمرّ على صورة القوارة تمرّ بعرض سد م (١٣٤٨)», along the shape of the qawwāra, at the latitude 64° 40′ (point 1348, given by its latitude only); L02-L03: «وتصير الى طول كو ك والعرض سح {z} وهو الموضع الّذى منه ابتدأنا», and it comes to the longitude 26° 20′ and the latitude سح {z}, which is the place from which we began. This last point has no running number; the editor's note d identifies it with point 1344, the first point of the island (frame 093, L14-L15), at the longitude «كو ك» and the latitude «سج {z}», printed there with the dot of the ج.
+@obs L03-L14: small islands, each with its size and the longitude and latitude of its middle, «وسطها عند طول … والعرض …», running numbers (١٣٤٩)-(١٣٦٠), without numbers of Suhrāb; each entry ends with a small open star with six points, transcribed as an asterisk. L03-L04: «خمسة عشر جزيرة صغار* فى مقدار جزءين ونصف فى جزءين وسطها عند طول لب ل والعرض سٮ {z}», fifteen small islands within a size of two and a half degrees by two degrees, their middle at the longitude 32° 30′ and the latitude سٮ {z}; then single islands of a quarter of a degree, «ربع جزء» (L04, L05, L07, L08, L09, L10, L11), a third of a degree, «ثلث جزء» (L06), two thirds of a degree, «ثلثى جزء» (L10, L12), and a sixth of a degree, «سدس جزء» (L13).
+@obs L12: the middle of island 1358 is not given: «وسطها عند ⟨. . . . . .⟩», six dots, evenly spaced, between angle brackets, followed by the note mark i: the manuscript has a gap there (note i). Transcribed with the dots and the brackets.
+@obs L14-L16: «جزيرة سقيديا فيها مدينة اوّلها عند طول مب ل والعرض نط م», the island سقيديا, on which is a town; the first point of its coast is at the longitude 42° 30′ and the latitude 59° 40′; then «تمرّ على صورة القوارة تمرّ بعرض ٮط {z}» (L15), along the shape of the qawwāra at the latitude ٮط {z}; «وتصير الى مصبّ نهر عند طول مو {z} والعرض ٮط مه» (L15-L16), to the mouth of a river at the longitude 46° 0′ and the latitude ٮط مه; «وتمرّ على صورة القوارة تمرّ بعرض س ل» (L16), at the latitude 60° 30′, and the coast goes on to p. 89. «سقيديا» is printed with all its dots.
+@obs The running numbers run (١٣٤٧)-(١٣٦٣) without a gap; the numbers of Suhrāb, [٩١٤]-[٩١٨], stand after (١٣٤٧), (١٣٤٨) and (١٣٦١)-(١٣٦٣). L11: the folio of the Strasbourg manuscript, «(fol. 24ᵃ)», is printed in Latin type within the line, at its beginning; transcribed as a margin note before the line.
+@obs L03: «صغار*»: an asterisk with six solid arms stands after the word, raised like the note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (frame 046, L10), as on frame 091 (L04, L05, L14); the star after «ابتدأنا» and those between the entries are small open stars with six points.
+@obs Signs in the text, transcribed as printed: «تمرّ», «وتمرّ» and «مصبّ» with a shadda; «الّذى» with a shadda over the ل; «اوّلها» with a shadda over the و; «ابتدأنا» with a hamza over the alif; «جزءين» (L03, twice) with a hamza between the ز and the ي; «جزء» with a hamza on the line after the ز; «الّذى» and «فى» end in a ى without dots; «ثلثى» (L10, L12) has the three dots of each ث and ends in a ى without dots.
+@obs Letters printed without their dots in the numerals, transcribed so: «سٮ» (L04, the latitude of the fifteen islands), the flat final bowl of the ب without its dot, 62, where L05, L07 and L08 print «سب» with the dot; a tooth without its dot in «ٮط» (L10, L15, L16, the degrees of the latitude), which read as a ن gives 59, beside «نط» (L13, L14), printed with the dot of the ن. With their dots: «لب» (L01, L04), «سب» (L05, L07, L08) and «مب» (L14), with the dot of the ب below; «لز» (L08, L09), with the dot of the ز, 37; «نط» (L13; L14, twice) and «ن» (L12, the minutes of the longitude), with the dot of the ن.
+@obs The ح of the numerals, «سح» (L01, L02, L09, L11, the degrees of the latitude), shows no dot in the bowl; the same form is a ج without its dot, 3. Read as سج, they give 63; read as سح, 68. Transcribed as printed. The latitude of L02 belongs to the point that the editor's note d identifies with point 1344, whose latitude is printed «سج {z}» with the dot (frame 093, L15).
+@obs The isolated ى, 10, has no dots (L01, L05, L06, L07, L13). The isolated ك, 20, is printed with the small inner stroke of the letter (L01, L02). The isolated ه, 5 (L05, the minutes of the latitude), is the small round form of the letter, as in notes e and g.
+@obs Note marks: L01, a after the longitude; L02, b after the longitude, and c and d after the latitude; L04, e after the latitude; L08, f after the longitude; L10, g after the latitude; L11, h after the latitude; L12, i after the closing angle bracket; L13, k after «والعرض», before the numerals; L14, l after «سقيديا».
+@obs Marks not transcribed: L16, a speck of 3 by 3 px above the م of «مه», the minutes of the latitude, well to the left of the tooth of «ٮط».
+@obs L11, the degrees of the longitude: «لر»: the letter joined to the foot of the ل has the small pointed head of the joined ر, which stands out 8 px from the stem, as the ز of «لز ل» (L08, L09) with its dot, where the و of «لو ى» (L07) and of the variant reading «لو ل» of the editor's note f is a round loop that stands out 12 px and begins higher on the stem; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed, which read with ز gives 37.
+@obs The editor's footnotes stand in four lines below a short rule at the left: notes a-l, notes h and k also as one note on the text between their marks. The page number «— ٨٨ —» stands at the foot, centred.
+@variant L01: variant readings of the longitude are ل ل, لب ل and ل ك, each with a line over the numerals (note a).
+@variant L02: variant readings of the longitude are كو كب, كز ك and كز كب, each with a line over the numerals (note b).
+@variant L02: the manuscript has سح ه for the latitude, with a line over the numerals (note c).
+@variant L02: the point is the same as point 1344 (note d).
+@variant L04: a variant reading of the latitude is سٮ ه, with a line over the numerals and the ب without its dot (note e).
+@variant L08: a variant reading of the longitude is لو ل, with a line over the numerals (note f).
+@variant L10: a variant reading of the latitude is ٮط ه, with a line over the numerals and the tooth without a dot (note g).
+@variant L11: the manuscript is damaged at the latitude (note h).
+@variant L11-L13: the text between the marks h and k, from (١٣٥٧) to «والعرض» of L13, stands in the margin of the manuscript, written by a later hand (notes h-k).
+@variant L12: the manuscript has a gap at the middle of island 1358 (note i).
+@variant L14: at entry (2329) the name is written ڡذٮا, a loop without dots joined to a ذ, then a tooth without a dot joined to an alif; the editor compares the name of the town سيقاں (524), whose final ن has no dot (note l).

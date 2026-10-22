@@ -1,0 +1,785 @@
+{
+ "anchor": "AK07-J0081",
+ "jp2_index": 81,
+ "jp2_member": "b24872489_0081.jp2",
+ "jp2_sha256": "b2587addc141ef00dc888512f26cfc92d0ba12a08fb3241b97ad5c4726c800bd",
+ "reading_copy": "page_0081.jpg",
+ "reading_copy_sha256": "58d1f4a9c4a8cc4458b4d32f6594b4af9a6522e336920144d9324707d11545be",
+ "printed_page": "49",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0081: Suter's commentary, p. 49: chapter 10 continued: the equation of the anomaly by the tangent, with a figure; al-Battānī's columns V-VII; al-Khwārizmī's corrected apogee of Saturn (Sublimatio Saturni examinata); Ibn ʿIrāq's treatise on the halving of the equation; Chasles on the fictitious apogee (notes 1-2).",
+ "lines": [
+  {
+   "id": "AK07-J0081-L01",
+   "n": 1,
+   "kind": "centre",
+   "text": "tg {i:RET} = {fr:{i:PS}|{i:ES}} = {fr:{i:PS}|{i:EH} + {i:HS}} = {fr:{i:r} sin {i:ψ}|Dist. centri epic. + {i:r} cos {i:ψ}}.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "tg RET = (PS)/(ES) = (PS)/(EH + HS) = (r sin ψ)/(Dist. centri epic. + r cos ψ).",
+   "italic": [
+    "RET",
+    "PS",
+    "ES",
+    "PS",
+    "EH",
+    "HS",
+    "r",
+    "ψ",
+    "r",
+    "ψ"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L02",
+   "n": 2,
+   "kind": "indent",
+   "text": "Diese {i:Gleichung der Anomalie} ändert sich, wie man sieht, mit der variabeln",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Diese Gleichung der Anomalie ändert sich, wie man sieht, mit der variabeln",
+   "italic": [
+    "Gleichung der Anomalie"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "Distanz des Centrums des Epizykels von der Erde ; {sp:Batt.} hat in Kol. VI die Gleichung",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Distanz des Centrums des Epizykels von der Erde ; Batt. hat in Kol. VI die Gleichung",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "der Anomalie für eine mittlere Distanz",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Anomalie für eine mittlere Distanz",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "gegeben, Kol. V u. VII dienen dazu, die Kor-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "gegeben, Kol. V u. VII dienen dazu, die Kor-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "rekturen für die Abweichung der übrigen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "rekturen für die Abweichung der übrigen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "Distanzen von der mittlern zu bestimmen ;",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Distanzen von der mittlern zu bestimmen ;",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "auf Einzelheiten können wir hier nicht",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "auf Einzelheiten können wir hier nicht",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "eintreten (s. das Beispiel unten).",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "eintreten (s. das Beispiel unten).",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L10",
+   "n": 10,
+   "kind": "indent",
+   "text": "Was nun die Tafeln {sp:Kh.}’s anbetrifft,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Was nun die Tafeln Kh.’s anbetrifft,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "so lässt er in erster Linie die Kol. V u. VII",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "so lässt er in erster Linie die Kol. V u. VII",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "bei {sp:Batt.}, durch welche die von der geo-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bei Batt., durch welche die von der geo-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "zentrischen Distanz des Epizykelcentrums",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zentrischen Distanz des Epizykelcentrums",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "abhängige Gleichung der Anomalie korri-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "abhängige Gleichung der Anomalie korri-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "giert wird, weg. Dagegen hat {sp:Kh.} eine",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "giert wird, weg. Dagegen hat Kh. eine",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "Kolonne, überschrieben mit {i:Sublimatio}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kolonne, überschrieben mit Sublimatio",
+   "italic": [
+    "Sublimatio"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "{i:Saturni examinata}, oder besser {i:Apogeum}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Saturni examinata, oder besser Apogeum",
+   "italic": [
+    "Saturni examinata",
+    "Apogeum"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "{i:Saturni aequatum}, deren Werte zwischen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Saturni aequatum, deren Werte zwischen",
+   "italic": [
+    "Saturni aequatum"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "8{sup:s} 4° 55′ (= 244° 55′ = wirkliches Apogeum",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "8s 4° 55′ (= 244° 55′ = wirkliches Apogeum",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "des Saturns) und 8{sup:s} 2° 3′ (= 242° 3′) variieren.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des Saturns) und 8s 2° 3′ (= 242° 3′) variieren.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "Dies ist nun wohl der Punkt, auf den sich die Angaben bei einigen arabischen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Dies ist nun wohl der Punkt, auf den sich die Angaben bei einigen arabischen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "Autoren über die Tafeln {sp:Kh.}’s beziehen. Ich habe oben (p. 33) schon angeführt, dass",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Autoren über die Tafeln Kh.’s beziehen. Ich habe oben (p. 33) schon angeführt, dass",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "{sp:Ibn al-Adamī} berichtet hat, dass {sp:Kh.} seine Gleichungen (der Planeten) nach der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Ibn al-Adamī berichtet hat, dass Kh. seine Gleichungen (der Planeten) nach der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ibn al-Adamī",
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "Methode der Perser (also wahrscheinlich nach den Tafeln des {i:Shāh}) berechnet habe ;",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Methode der Perser (also wahrscheinlich nach den Tafeln des Shāh) berechnet habe ;",
+   "italic": [
+    "Shāh"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "ich muss nun hier noch hinzufügen, dass {sp:Abū Naṣr Manṣūr b. ʿAlī b. ʿIrāḳ}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ich muss nun hier noch hinzufügen, dass Abū Naṣr Manṣūr b. ʿAlī b. ʿIrāḳ",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Abū Naṣr Manṣūr b. ʿAlī b. ʿIrāḳ"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "(c. 950—1000){sup:1}) eine Abhandlung an {sp:Al-Bīrūnī} gerichtet hat „über die Gründe der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(c. 950—1000)1) eine Abhandlung an Al-Bīrūnī gerichtet hat „über die Gründe der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Bīrūnī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "{i:Halbierung} deı {i:Gleichung} bei den Astronomen die dem Sindhind folgten“.{sup:2}) Wie",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Halbierung deı Gleichung bei den Astronomen die dem Sindhind folgten“.2) Wie",
+   "italic": [
+    "Halbierung",
+    "Gleichung"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "verhält es sich nun mit dieser {i:Halbierung} der {i:Gleichung} ? Schon M. {sp:Chasles} hat",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "verhält es sich nun mit dieser Halbierung der Gleichung ? Schon M. Chasles hat",
+   "italic": [
+    "Halbierung",
+    "Gleichung"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Chasles"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "in der oben (p. I der Einleitung) zitierten Abhandlung diese Frage berührt, aber",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "in der oben (p. I der Einleitung) zitierten Abhandlung diese Frage berührt, aber",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "seine Darstellung ist in gewissen Punkten nicht ganz klar und auch nicht ganz",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "seine Darstellung ist in gewissen Punkten nicht ganz klar und auch nicht ganz",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "richtig. Er sagt p. 849 : {i:Former un apogée fictif, c’est comme si l’on donnait une équa-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "richtig. Er sagt p. 849 : Former un apogée fictif, c’est comme si l’on donnait une équa-",
+   "italic": [
+    "Former un apogée fictif, c’est comme si l’on donnait une équa-"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "{i:tion fictive à l’apogée réel. Et en effet, j’ai trouvé depuis cette équation ou la manière}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "tion fictive à l’apogée réel. Et en effet, j’ai trouvé depuis cette équation ou la manière",
+   "italic": [
+    "tion fictive à l’apogée réel. Et en effet, j’ai trouvé depuis cette équation ou la manière"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "{i:de la former dans d’autres tables que j’ai reconnues être imitées du Sindhind et dans}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "de la former dans d’autres tables que j’ai reconnues être imitées du Sindhind et dans",
+   "italic": [
+    "de la former dans d’autres tables que j’ai reconnues être imitées du Sindhind et dans"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "{i:lesquelles ces traces manifestes d’une astronomie étrangère avaient échappé à l’attention}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "lesquelles ces traces manifestes d’une astronomie étrangère avaient échappé à l’attention",
+   "italic": [
+    "lesquelles ces traces manifestes d’une astronomie étrangère avaient échappé à l’attention"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "{i:des astronomes historiens. L’équation en question est précisement la moitié de l’équation}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des astronomes historiens. L’équation en question est précisement la moitié de l’équation",
+   "italic": [
+    "des astronomes historiens. L’équation en question est précisement la moitié de l’équation"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L36",
+   "n": 36,
+   "kind": "text",
+   "text": "{i:du centre, c’est ainsi que l’auteur la désigne. C’est la prosthaphérèse de longitude de}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "du centre, c’est ainsi que l’auteur la désigne. C’est la prosthaphérèse de longitude de",
+   "italic": [
+    "du centre, c’est ainsi que l’auteur la désigne. C’est la prosthaphérèse de longitude de"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "{i:Ptolemée.} — Es ist nun wohl richtig, dass {sp:Kh.} auch das {i:Apogeum} korrigiert, und nicht",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Ptolemée. — Es ist nun wohl richtig, dass Kh. auch das Apogeum korrigiert, und nicht",
+   "italic": [
+    "Ptolemée.",
+    "Apogeum"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L38",
+   "n": 38,
+   "kind": "text",
+   "text": "nur die {i:Anomalie} und das {i:Centrum} des Planeten ; es ist auch möglich, dass diese",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nur die Anomalie und das Centrum des Planeten ; es ist auch möglich, dass diese",
+   "italic": [
+    "Anomalie",
+    "Centrum"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-L39",
+   "n": 39,
+   "kind": "text",
+   "text": "Korrektur des Apogeums ein Ersatz für den von den Indern, bezw. Persern fallen-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Korrektur des Apogeums ein Ersatz für den von den Indern, bezw. Persern fallen-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Vergl. {sp:Suter}, in {i:Abhandlgn. zur Gesch. der mathem. Wissensch.} X, 81.",
+   "margin": null,
+   "plain": "1) Vergl. Suter, in Abhandlgn. zur Gesch. der mathem. Wissensch. X, 81.",
+   "italic": [
+    "Abhandlgn. zur Gesch. der mathem. Wissensch."
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Suter"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0081-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "{sup:2}) Vergl. {sp:Albērūnī}, {i:Chronologie orientalischer Völker}, ed. {sp:Sachau}, Leipzig, 1878, p. XXXXVII.",
+   "margin": null,
+   "plain": "2) Vergl. Albērūnī, Chronologie orientalischer Völker, ed. Sachau, Leipzig, 1878, p. XXXXVII.",
+   "italic": [
+    "Chronologie orientalischer Völker"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Albērūnī",
+    "Sachau"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «49» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III 1.», the point after «III» printed so faintly that it hardly shows, on the left, and the sheet number «7» on the right; recorded here, not transcribed as a line. L01: the formula, displayed and centred, continues «Durch die Tangens ausgedrückt, findet man einfacher:» at the end of p. 48 (JP2 0080, L31); its three fractions are built up, written {fr:NUMERATOR|DENOMINATOR}, with a full stop after the last. A speck in the left margin before it; not transcribed.",
+  "A figure stands at the right of L04-L20, which are set in a narrower measure at its left; it is not reproduced. As on p. 47 (JP2 0079): the large circle of the ecliptic, A at its top, F at its upper right, B at its bottom, and R, Q, T on its upper left; the inner circle of the deferent, G at its top, K at its bottom; the vertical line A B through G, E′, M (marked by a short stroke), E and K; the small circle of the epicycle about H, which stands on the deferent at the left, with the planet P on it. The lines E′ H Q, E H R and E P T run from the points of the vertical line through the epicycle to the ecliptic; the radius H P, and P S perpendicular to H R. The letters are italic: A, B, E, E′, F, G, H, K, M, P, Q, R, S, T.",
+  "L01. Checked: S is the foot of the perpendicular from P to the line E H R, so that tg RET = P S : E S, E S = E H + H S, and with P S = r sin ψ and H S = r cos ψ (p. 48, JP2 0080, L23-L26) tg RET = r sin ψ : (E H + r cos ψ), as printed.",
+  "L19-L20: «8s 4° 55′», «8s 2° 3′», the s raised; L20 is set close in the narrow measure. Checked: eight signs and 4° 55′ are 244° 55′, the apogee of Saturn of chapter 18 of the text (p. 14, JP2 0046) and of p. 46 (JP2 0078, L26); eight signs and 2° 3′ are 242° 3′; the corrected apogee of Saturn thus varies by 2° 52′. To be compared with the tables of Saturn. L21: «Dies ist nun wohl der Punkt» begins at the left margin, without the indent of a paragraph, continuing the paragraph of L10.",
+  "L25: «Abū Naṣr Manṣūr b. ʿAlī b. ʿIrāḳ» spaced, with the macrons, the dots under ṣ and ḳ and the ʿayn raised before «Alī» and «Irāḳ». L26: «(c. 950—1000)», the long dash set close. L27: the quotation «über die Gründe der Halbierung deı Gleichung bei den Astronomen die dem Sindhind folgten» within German quotation marks; «Halbierung» and «Gleichung» in italics, «Sindhind» upright; the r of «der» is printed without its arm, as a dotless ı; see the critical note.",
+  "L31-L37: the passage of Chasles (Comptes rendus 23, 1846, p. 849; see p. 43, JP2 0075, N03-N04), in italics, ending with «Ptolemée.»; «Ptolemée» (L37), as printed; the usual spelling is «Ptolémée», and Chasles's article has not been compared here. L35: «précisement»; see the critical note. L28: «Gleichung ?», the question mark in italics after a thin space (13 px).",
+  "N02: «p. XXXXVII», as printed, for the page 47 of the preface (XLVII). «orientalischer Völker»: the word space between the two italic words is narrow (10 px). Spaced type, marked {sp:}: «Batt.», «Kh.», «Ibn al-Adamī», «Abū Naṣr Manṣūr b. ʿAlī b. ʿIrāḳ», «Al-Bīrūnī», «Chasles», «Suter», «Albērūnī», «Sachau».",
+  "The colons, semicolons and the question mark stand after the thin space of the edition (11-15 px measured)."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK07-CN051",
+   "class": "damaged letter",
+   "line": "L27",
+   "printed": "deı",
+   "proposed": "der",
+   "evidence": "«die Gründe der Halbierung der Gleichung»: the article in the genitive; the r is printed without its arm, so that the word reads «deı»",
+   "confidence": "high",
+   "impact": "none"
+  },
+  {
+   "id": "AK07-CN052",
+   "class": "missing accent",
+   "line": "L35",
+   "printed": "précisement",
+   "proposed": "précisément",
+   "evidence": "the same sentence of Chasles, quoted again on p. 50 (JP2 0082, L02), has «précisément», the usual French spelling; here the acute accent on the second e is missing",
+   "confidence": "high",
+   "impact": "none"
+  },
+  {
+   "id": "AK07-CN282",
+   "class": "wrong numeral",
+   "line": "L29",
+   "printed": "(p. I der Einleitung)",
+   "proposed": "(p. VII der Einleitung)",
+   "evidence": "the list of misprints, p. [237] (JP2 0271, L11), reads «p. VII» for «p. I»; the introduction is printed on pp. VII-XXV (contents, p. [III], JP2 0007)",
+   "confidence": "high",
+   "impact": "none"
+  }
+ ]
+}

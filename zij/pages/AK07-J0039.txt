@@ -1,0 +1,68 @@
+@page 39 7
+@lang la
+% JP2 0039: the Latin text, p. 7: the end of chapter 5 (the notulae of the single and the collected years, the table of
+% the bissextiles); chapter 6, the division of the circle; chapter 7 begins, printed in two columns, the text of C and M
+% on the left and that of O on the right; with the apparatus (notes 1-26).
+tur processionem ultimo mensi XI{sup:1}) et XXIIII adiuncta sunt. Quoniam itaque ex-
+tremus mensis XI et XXIIII annotatus est, ideo primus quoque{sup:2}) annus planus
+@m M 84{sup:v}
+eisdem{sup:3}) signatur. Quoniam vero secundum hunc ordinem extrema annorum | pla-
+norum linea XXIX et unitate et octonario{sup:4}) et tribus quartis signata est, ideo et
+prima annorum collectorum linea eadem{sup:5}) signatur summa. Quod sic patet. Si
+enim ab ea radix auferatur, praedicti numeri{sup:6}) invenientur. Quoniam vero anni
+collecti secundum trigenarium crescunt{sup:7}), ideo singulis sequentibus supra praece-
+dentes notae{sup:8}) extremae lineae annorum planorum, id est XXIX et I{sup:9}) et VIII{sup:10})
+et tres quartae adduntur. Sic{sup:11}) in infinitum crescere potest pagina.
+@p Certitudo autem tabulae bissextilis ex continentia dierum ipsis mensibus
+suprascriptorum{sup:12}) habetur. Cum enim october secunda incipiat feria, habeatque{sup:13})
+dies XXXI, erit ut november quinta feria introducatur. Similisque ratio in ceteris.
+@m C 44{sup:v}, O 101{sup:r}
+@c {b:Cap 6. De divisione rotarum.}
+@p Sequitur ut de planetarum rotis pro praesenti intentione praelibemus. Rota
+igitur{sup:14}), quam arabes {i:felek}{sup:15}) dicunt{sup:16}), in XII dividitur signa, signum autem{sup:17}) in
+gradus XXX, gradus vero{sup:18}) in dakaicas LX, quas quidam partes{sup:19}) vocant{sup:20}), da-
+kaica{sup:21}) item in LX secundas, secunda item{sup:22}) in LX tertias, et ad hunc modum{sup:23})
+quantumlibet vel in infinitum rotae magnitudo descrescit{sup:24}).
+@c {b:Cap. 7.}
+@ml et M)
+@cl {b:De elwacat id est medio planetarum,}
+@cl {b:primum secundum terrae Arin, deinde}
+@cl {b:secundum cuiuslibet regionis meridiem.}
+@cl Intrabis itaque secundum quodlibet
+@cl momentum in tabulam {i:elwacat} cuiusvis
+@cl planetae, primum per annos collectos,
+@cl postea per planos, deinde per menses et
+@cl dies et horas{sup:25}) atque momenta, quae
+@cl iam cuncta praeterierint. Eorum autem,
+@cl quae ibi invenies minora, quae{sup:26}) in sua
+@m (O)
+@cr {b:De elwazat id est medialitate planetarum}
+@cr {b:invenienda.}
+@cr Nunc demonstrandum est, qua ratione
+@cr cuiuslibet planetae medialitas reperiri
+@cr queat.
+@cr Intrabitur itaque secundum tempus
+@cr quodlibet in tabulam medialitatis per
+@cr numerum annorum collectorum. deinde
+@cr per numerum annorum planorum prae-
+@cr teritorum, dico praesentem non notando,
+@n {sup:1}) XI] XX O. — {sup:2}) primus quoque] etiam primus O. — {sup:3}) eisdem] eiusdem C. — {sup:4}) et unitate . . . .
+@n octonario] et octonario et unitate O. — {sup:5}) eadem] {i:om.} N. — {sup:6}) praedicti numeri] praedictae numeri
+@n notae M. — {sup:7}) crescunt] crescuntur M. — {sup:8}) notae] numeri O. — {sup:9}) I] unitas O. — {sup:10}) VIII] octonarius
+@n O. — {sup:11}) Sic] C, Sicque O, Ergo M. — {sup:12}) suprascriptorum] super ascriptorum M. — {sup:13}) habeatque]
+@n habentque M. — {sup:14}) igitur] ergo O. — {sup:15}) felek] feler M. — {sup:16}) dicunt] dictum M. — {sup:17}) autem] vero O,
+@n {i:om.} M. — {sup:18}) vero] {i:om.} O. — {sup:19}) partes] medek O. — {sup:20}) vocant] C, vocant, medek minutum inde
+@n dakeca O ; medek . . . . . dakeca {i:verisimile scholium}. — {sup:21}) dakaica] dakaicas C. — {sup:22}) item] C, itidem M,
+@n {i:om.} O.— {sup:23}) et ad hunc modum] sicque O. — {sup:24}) vel . . . . descrescit] C, dividendo progredi fas est O.
+@n {i:Ad hoc additur in} O : Haecce etenim partitiones, licet sensuali reputatione parvae videantur, re tamen
+@n ipsa et rationis intellectu non modicae esse reperiuntur. Unde et has et earum etiam partium partes
+@n relationis ingruente necessitate individentia alia resolvi fas est ({i:quod aperte non translatio sed scholium}
+@n {i:latinum est}). — {sup:25}) dies et horas] M, de ({i:in ras.}) ac horas C. — {sup:26}) quae] C, quaeque M.
+@obs The page number «7» stands at the head of the page, centred, with a rule below it. L01-L12 end chapter 5 (p. 6, JP2 0038). L03: the vertical bar between «annorum» and «pla-» marks the beginning of fol. 84 verso of M, which the note in the right margin, «M 84v», names. L13: the heading of chapter 6, in bold, centred, with «C 44v, O 101r» in the right margin.
+@obs L19: «Cap. 7.», in bold, centred. L20-L39: chapter 7 is printed in two columns, as Suter says on p. XIII (JP2 0017, L12-L14): on the left the text of C and M, on the right that of O, each with its own heading in bold (L20-L22, L30-L31); the columns are transcribed one after the other, the left first (L20-L29), then the right (L30-L39). Beside the first line of each heading the sigla stand in the margin: «(O)» in the right margin; in the left margin the label is cut off at the left edge of the image, the visible part reading «et M)», the e of «et» itself cut.
+@unres L20, the label in the left margin: only «et M)» is in the image, which ends at the left edge of the page; by the label «(O)» of the right column and the manuscripts whose text the left column gives, it is probably «(C et M)».
+@obs L18: «descrescit», so printed in the text and in the lemma of note 24, for decrescit; transcribed as printed. L21: «elwacat» in italics in the text; the headings have «elwacat» (left) and «elwazat» (right) in the bold of the headings.
+@obs N10: the t of «translatio» is printed without its crossbar and the last e of «aperte» with its bar faint; transcribed as the letters they are. N07: the omission in the lemma is printed as five points. N08: «O.—», the dash set close.
+@obs The semicolon of N07 and the colon of N09 stand after the thin space of the edition (8 and 10 px measured).
+@critical AK07-CN017 | missing point | L13 | Cap 6. | Cap. 6. | the chapter headings print the abbreviation with its point, «Cap. 5.» (p. 6), «Cap. 7.» (L19); after «Cap» of chapter 6 the point is not printed | high | none
+@critical AK07-CN018 | wrong punctuation | L37 | collectorum. deinde | collectorum, deinde | the sentence of the right column runs on, «per numerum annorum collectorum, deinde per numerum annorum planorum praeteritorum»; the full stop before the lower-case «deinde» stands where a comma is needed | medium | none

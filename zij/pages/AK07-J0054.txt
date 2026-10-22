@@ -1,0 +1,58 @@
+@page 54 22
+@lang la
+% JP2 0054: the Latin text, p. 22: the end of chapter 28a (the altitude of the sun from the shadow); chapter 28b, the
+% reversed shadow (umbra elmankuz) from the altitude; chapter 29, elbuht, the motion of a planet in a day or an hour;
+% chapter 30, the size of the sun's disc, begins; with the apparatus (notes 1-30).
+{i:elgidher}{sup:1}), id est quadrati latus, notabitur, eritque hoc {i:elgidher} huius{sup:2}) ipsius umbrae
+diametros. Deinde vero umbra ipsa in LX ducenda erit, atque inde productum
+secundum diametrum praedictam{sup:3}) dividendum, dividentisque{sup:4}) arcus inveniendus,
+arcusque inventus{sup:5}) a XC subtrahendus ; residuum igitur {i:artifa} quod quaeris{sup:5a})
+ostendet.
+@c {b:Cap. 28{sup:b}. Quomodo per artifa solis umbra elmankuz{sup:6}) perpendatur.}
+@ml O 133{sup:r}
+@p Per ipsum itaque{sup:7}) {i:artifa} in semitam {i:elgeib} introduceris. Itemque {i:artifa} idem{sup:8})
+a XC subtrahetur{sup:9}), atque per residuum in semitam {i:elgeib} item{sup:10}) intrabitur{sup:11}).
+Deinde {i:elgeib primum} in duodenarium{sup:10a}) ducetur, atque inde productum supra{sup:12})
+{i:elgeib secundnm} dividetur{sup:13}). Quod si dakaicae interfuerint, ipsae in sexagenarium
+ducentur{sup:14}), cuius summa ut supra dicta dividetur{sup:15}) ; sicque in dividente habebimus
+et digitos et dakaikas {i:umbram elmankuz} significantes{sup:16}).
+@p Introitus itaque in tabulam{sup:17}) umbrarum subscriptam hic est : per quodlibet
+enim solis{sup:18}) {i:artifa} in tabulam ipsam{sup:19}) introductis{sup:20}) adiunctum illius umbram
+ostendet{sup:21}).
+@ml C 76{sup:r}, O 133{sup:v}
+@c {b:Cap. 29. De elbuht et inventione eius.}
+@p Deinceps vero de {i:elbuht} dicendum est, quod quidem quantum ad nominis
+interpretationem {i:stupor} dici potest. Dicitur autem {i:elbuht} spatium circuli, quod
+quilibet planetarum{sup:22}) quantolibet peragrat tempore. Quod equidem hoc modo
+deprehenditur : Examinato{sup:23}) loco cuiuslibet planetae secundum diem praesentem,
+iterumque{sup:24}) secundum sequentem, differentiaque locorum illorum considerata,
+quantum {i:elbuht} ipsi planetae ad tempus unius diei pertineat{sup:25}), apparebit. Non
+dissimiliter quoque horarius vel momentaneus cuiusvis{sup:26}) planetae stupor repe-
+riri potest.
+@c {b:Cap. 30. De quantitate rotae solis{sup:27}).}
+@p Nunc autem de quantitate rotae solis considerandum est. Et pro diei quidem
+spatio stupor solis in XXXIII{sup:28}) dakaicas ducendus erit{sup:29}) ; quod autem{sup:30}) inde
+@n {sup:1}) elgidher] C, elgider O. — {sup:2}) id est . . . . huius] O, {i:om.} C. — {sup:3}) praedictam] C, praedictum O. —
+@n {sup:4}) dividentisque] O, dividentis demum C. — {sup:5}) inventus] O, ipse C. — {sup:5a}) quod qnaeris] O, quae-
+@n situm C. — {sup:6}) elmankuz] O, elmakuz C. — {sup:7}) itaque] C, {i:om.} O. — {sup:8}) idem] C, ipsum O. — {sup:9}) subtra-
+@n hetur] O, subtrahes C. — {sup:10}) item] O, secundo C. — {sup:11})intrabitur] O, intrabis C. — {sup:11a}) duodenarium] O,
+@n XII C. — {sup:12}) supra] O, secundum C. — {sup:13}) dividetur] O, dividatur C. — {sup:14}) ducentur] O, ducantur C. —
+@n {sup:15}) cuius . . . . dividetur] O, indeque productum sicut praedictum dividatur C. — {sup:16}) habebimus . . . .
+@n significantes] O, umbrae mensuram reperies C. — {sup:17}) tabulam] C, paginam O. — {sup:18}) solis] C, {i:om.} O. —
+@n {sup:19}) ipsam] C, {i:om.} O. — {sup:20}) introductis] O, introductus C. — {sup:21}) adiunctum . . . . ostendet] O, umbrae
+@n quantitatem invenies adiunctum C. — {sup:22}) quod quilibet planetarum] quotlibet planetarum C, quod
+@n quilibet planeta O. — {sup:23}) Examinato] Examinatio CO. — {sup:24}) iterumque] C, adhibeatur iterum O. —
+@n {sup:25}) differentiaque . . . . pertineat] C, loci inventio, sic igitur differentia corum considerata, quale ad
+@n ipsum tempus elbuht attineat O. — {sup:26}) quoque . . . . cuiusvis] C, in horis et earum partibus cuius-
+@n libet O. — {sup:27}) De . . . . solis] O, {i:om.} C. — {sup:28}) XXXIII] C, XXX O. — {sup:29}) erit] C, est O. — {sup:30}) Quod
+@n autem] C, quodque O.
+@obs The page number «22» stands at the head of the page, centred, with a rule below it. The page has no signature.
+@obs L01-L05 end chapter 28a (p. 21, JP2 0053, L28-L30): the shadow s squared and 144 added; the side of the square, «elgidher» (al-jidhr, the root), is the hypotenuse, «diametros»; the shadow times sixty divided by it is a sine, whose arc subtracted from ninety is the altitude. Checked: s·60/√(s²+144) = 60 cos h for the shadow s = 12 cot h of a gnomon of twelve digits, whose arc is 90° − h; ninety less it is the altitude h.
+@obs L06-L15: chapter 28b, the reversed shadow, «umbra elmankuz» (al-ẓill al-mankūs), from the altitude: the sine of the altitude («elgeib primum») times twelve, divided by the sine of its complement («elgeib secundum»), gives the reversed shadow in digits and minutes. Checked: 12 sin h / cos h = 12 tan h, the shadow of a gnomon of twelve digits set at right angles to a wall. In the left margin beside L07 «O 133r»; beside the heading of chapter 29 (L16) «C 76r, O 133v».
+@obs L16-L24: chapter 29: «elbuht» (al-buht), which the text renders «stupor», is the arc that a planet travels in a given time, found as the difference of its places on two successive days, or for an hour or a moment. L25-L27: chapter 30, the size of the sun's disc, continued on p. 23. «stupor» is in italics in L18 and in roman type in L23 and L27.
+@obs L12: «dakaikas», with k for the c of «dakaicas» elsewhere in the text; transcribed as printed. N04: «{sup:11})intrabitur]», without a space after the bracket of the note number; the square bracket after «intrabitur» is printed with its upper part missing. N04: a small dark speck before the O after «item]», not transcribed.
+@obs The colons and semicolons of the text stand after the thin space of the edition (10-12 px measured).
+@critical AK07-CN036 | wrong note number | L09 | duodenarium{sup:10a}) | duodenarium{sup:11a}) | the notes added within the series are numbered after the note that they follow, «quaeris{sup:5a})» after note 5; the note on «duodenarium» follows note 11 and the apparatus numbers it 11a (N04, «{sup:11a}) duodenarium] O, XII C.»); the text prints 10a | high | the variant belongs to note 11a
+@critical AK07-CN037 | turned letter | L10 | secundnm | secundum | the second u of «secundum» is printed upside down, as an n | high | none
+@critical AK07-CN038 | turned letter | N02 | quod qnaeris] | quod quaeris] | the lemma repeats the text of L04, «quod quaeris»; the u of «quaeris» is printed upside down, as an n | high | none
+@critical AK07-CN039 | probable misprint | N11 | differentia corum considerata | differentia eorum considerata | the reading of O in note 25: «sic igitur differentia eorum considerata», the difference of them (the two places) being considered, as the text has «differentiaque locorum illorum considerata» (L21); «corum» is no Latin word, probably c for e. It may report the spelling of O itself | medium | none on the text

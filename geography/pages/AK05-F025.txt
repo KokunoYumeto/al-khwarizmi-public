@@ -1,0 +1,39 @@
+@page 25 ١٩
+% Frame 025, printed p. 19: the cities of the fourth clime continued, entries 250-267: al-Ramla, Yāfā, Bayt al-Maqdis
+% Īliyāʾ, Arsūf, Qaysāriyya, two places on the island of Cyprus, ʿAkkā, Ṭabariyya, al-Kanīsa, Ṣūr, Ṣaydāʾ, Bayrūt,
+% Jubayl, ʿArqa, Lubnān Ṣaydāʾ, Aṭrābulus and al-Lādhiqiyya; the folio of the manuscript, «(fol. 6ᵃ)», in the margin.
+% Two lines of the editor's footnotes.
+@r (٢٥٠) | [٢٢٠] | الرملة | نه | م | لب | م
+@r (٢٥١) | [٢٢١] | يافا على البحر | ٮو | {z} | لد | {z}
+@r (٢٥٢) | [٢٢٢] | بيت المقدّس إيلِيَاء{n:a} | ٮو | {z} | لٮ | {z}
+@r (٢٥٣) | [٢٢٣] | ارسوف على البحر على جبل | نو | ن | لٮ | مه
+@r (٢٥٤) | [٢٢٤] | قيساريّة على البحر | نز | ل | لح | ٮه
+@r (٢٥٥) | [٢٢٥] | سمارا{n:b} فى جزيرة قبرس{n:c} | نز | مه | لد | ل
+@r (٢٥٦) | [٢٦٢] | عكّا على البحر | ٮح | كه | لح | ك
+@r (٢٥٧) | [٢٦١] | طبريّة الأردنّ | ٮر | مه | لٮ | {z}
+@r (٢٥٨) | [٢٦٣] | قرفوس فى جزيرة قبرس{n:c} | ٮح | {z} | لد | ن
+@r (٢٥٩) | [٢٦٤] | الكنيسة{n:d} على البحر | نز | ل | لد | {z}
+@r (٢٦٠) | [١٧٦] | صور على البحر | ٮط | ٮه | لح | م
+@r (٢٦١) | [٢٦٥] | صيداء على البحر | ٮط | ك | لج | مه
+@r (٢٦٢) | [١٧٤] | بيروت على البحر | ٮط | ل | لد | {z}
+@r (٢٦٣) | [١٧٨] | جبيل على البحر | س | {z} | لد | {z}
+@r (٢٦٤) | | عرقة قرب البحر | سا | يه | لو | ٮو
+@r (٢٦٥) | | لبنان صيداء{n:e} على البحر | ٮط | ل | لح | مه
+@m (fol. 6ᵃ)
+@r (٢٦٦) | [١٧٩] | اطرابلس على البحر | س | له | لد | {z}
+@r (٢٦٧) | [١٨٠] | اللَاذقيّة على البحر | سا | {z} | لد | {z}
+@ednotes a b c d e 2
+@obs The table goes on from frame 024 without a heading: the cities of the fourth clime, entries 250-267. No entry has the word «مدينة». Entries 264 and 265 have no numbers of Suhrāb; the others have [٢٢٠]-[٢٢٥] (entries 250-255), [٢٦٢], [٢٦١], [٢٦٣], [٢٦٤] (entries 256-259), [١٧٦], [٢٦٥], [١٧٤], [١٧٨] (entries 260-263) and [١٧٩], [١٨٠] (entries 266-267). The folio of the Strasbourg manuscript, «(fol. 6ᵃ)», is printed in Latin type in the left margin beside entry 266 (L17).
+@obs L06, L09: «قبرس» is printed with the dot of the ب, where on frame 024 (L18) the same name shows no dot.
+@obs Vowel signs and other marks in the names, transcribed as printed: L03: «المقدّس», with a shadda over the د; «إيلِيَاء», with a hamza below the first alif, a kasra below the ل, a fatha above the second ي and a final hamza on the line after the alif. L05: «قيساريّة», L08: «طبريّة» and L18: «اللَاذقيّة», with a shadda over the ي; in L18 also a short slanting stroke, a fatha, above the لا. L07: «عكّا», with a shadda over the ك. L08: «الأردنّ», with a hamza above the alif and a shadda over the ن. L12, L16: «صيداء», with the hamza on the line after the alif.
+@obs L01: the two dots of the ة of «الرملة» are printed touching the top of the letter. L12: a thin stroke, 4 px wide and 11 px high, stands above the ب of «البحر»; it is smaller than the vowel signs of the font and is not transcribed.
+@obs Letters printed without their dots in the numerals, transcribed so: ٮو (L02, L03) and ٮح (L07, L09), the tooth without its dot, in the degrees of the longitude; ٮط (L11-L13, L16), the tooth without its dot before a ط; لٮ (L03, L04, L08), the final ب without its dot, in the degrees of the latitude; ٮو (L15, the minutes of the latitude). With their dots: نه (L01), نو (L04), نز (L05, L06, L10), ن (L04 and L09, minutes), لب (L01), لج (L12), يه (L15).
+@obs L01: the dot of the ب of the latitude «لب» is printed small, 4 px across, below the middle of the bowl; a round dot of the size of the font's dots stands on the line to the left of the bowl, between the columns of the degrees and the minutes, and is not transcribed. L15: a dark speck, 4 by 5 px, stands to the left of the و of the minutes «ٮو» at the height of a dot above the tooth; it is not transcribed as a dot.
+@obs L08: the degrees of the longitude, ٮر: a tooth without a dot joined to a ر, the two strokes forming a notch at the top, where the isolated ر of the font is a plain curved stroke (frame 021, L09); the neighbouring entries have نز, 57, and ٮح, 58. In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed.
+@obs The minutes of the latitude in L05 and of the longitude in L11 are «ٮه», a tooth without its dot joined to a final ه; transcribed ٮه. The isolated ك, 20, has the small inner stroke of the letter (L07, the minutes of the latitude; L12, the minutes of the longitude); the ك of «كه» (L07) is the long oblique stroke over a flat bowl.
+@obs The first note at the foot, the reading of the manuscript for L03, is printed without its mark a: «Hs. اٮلٮا». Below the notes, at the left, the signature «2*» of the printed sheet; the page number «— ١٩ —» stands at the foot, centred.
+@variant L03: the manuscript reads اٮلٮا for إيلياء, without the dots of the two ي and without the hamzas.
+@variant L06: at entry (1893) the name سمارا is written سمار.
+@variant L06, L09: the manuscript reads ڡٮرس for قبرس, without the dots of the ق and of the ب.
+@variant L10: the manuscript reads الكٮٮسه for الكنيسة, without the dots of the ن and of the ي, with a final ه.
+@variant L16: the manuscript reads لسان صدا for لبنان صيداء; the editor's corrigenda (p. 163, frame 169) add that perhaps لسان is to be read for لبنان.

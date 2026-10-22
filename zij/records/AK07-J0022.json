@@ -1,0 +1,769 @@
+{
+ "anchor": "AK07-J0022",
+ "jp2_index": 22,
+ "jp2_member": "b24872489_0022.jp2",
+ "jp2_sha256": "5cae646550a6233a6847eadb8432f4ca0bd63f4746fb2cf0545c6394a19f19e7",
+ "reading_copy": "page_0022.jpg",
+ "reading_copy_sha256": "706480d8766893aba56d8d448a1e8db99636e7c517083382973431188debc59d",
+ "printed_page": "XVIII",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0022: the introduction, p. XVIII: the end of the note on the era (no. 5) and Suter's explanation (Isidore, the bissextile day); no. 6, a marginal note on the months; no. 7, Robert of Chester's adiectiones for London.",
+ "lines": [
+  {
+   "id": "AK07-J0022-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "{i:accescitur}{sup:1}) {i:a sexto. Nonas marcii usque ad diem pridie kalendarum ianuarii apponitur}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "accescitur1) a sexto. Nonas marcii usque ad diem pridie kalendarum ianuarii apponitur",
+   "italic": [
+    "accescitur",
+    "a sexto. Nonas marcii usque ad diem pridie kalendarum ianuarii apponitur"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "{i:in cursu lunae} (?)",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "in cursu lunae (?)",
+   "italic": [
+    "in cursu lunae"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L03",
+   "n": 3,
+   "kind": "indent",
+   "text": "Die Worte {i:dicta autem era ex quo . . . reipublicae} sind in der Tat ein Zitat aus",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Die Worte dicta autem era ex quo . . . reipublicae sind in der Tat ein Zitat aus",
+   "italic": [
+    "dicta autem era ex quo . . . reipublicae"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "{sp:Isidor v. Sevilla}, das auch von L. {sp:Ideler} in seinen Versuchen, das Wort {i:aera}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Isidor v. Sevilla, das auch von L. Ideler in seinen Versuchen, das Wort aera",
+   "italic": [
+    "aera"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Isidor v. Sevilla",
+    "Ideler"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "zu erklären, angeführt wird{sup:2}). Die Erklärung von {i:bissextus} ist kaum zu verstehen,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zu erklären, angeführt wird2). Die Erklärung von bissextus ist kaum zu verstehen,",
+   "italic": [
+    "bissextus"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "und wohl auch unrichtig aufgefasst vom Schreiber. Bekanntlich kommt es davon",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "und wohl auch unrichtig aufgefasst vom Schreiber. Bekanntlich kommt es davon",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "her, dass man in Schaltjahren {i:zwei mal} gesagt hat : {i:Sextus ante Kalendas Martii}, also",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "her, dass man in Schaltjahren zwei mal gesagt hat : Sextus ante Kalendas Martii, also",
+   "italic": [
+    "zwei mal",
+    "Sextus ante Kalendas Martii"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "den 24. Februar {i:zwei mal} gezählt hat. Der Schreiber nimmt statt der {i:Kalendae Martii}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "den 24. Februar zwei mal gezählt hat. Der Schreiber nimmt statt der Kalendae Martii",
+   "italic": [
+    "zwei mal",
+    "Kalendae Martii"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "die {i:Nonae Martii}, und meint dann wohl mit dem folgenden, dass der Schalttag an",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die Nonae Martii, und meint dann wohl mit dem folgenden, dass der Schalttag an",
+   "italic": [
+    "Nonae Martii"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "verschiedenen Stellen eingeschaltet worden sei, sogar auch am Ende des Monats",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "verschiedenen Stellen eingeschaltet worden sei, sogar auch am Ende des Monats",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "Dezember, was, wie wir unten sehen werden, in der sog. spanischen Aera der Fall",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Dezember, was, wie wir unten sehen werden, in der sog. spanischen Aera der Fall",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "war. — Was mit den Worten {i:in cursu lunae} gesagt werden will, verstehen wir nicht.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "war. — Was mit den Worten in cursu lunae gesagt werden will, verstehen wir nicht.",
+   "italic": [
+    "in cursu lunae"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L13",
+   "n": 13,
+   "kind": "indent",
+   "text": "6) Auf fol. 11{sup:v} ist zu den Worten {i:ideo quotiens duodecim menses in annum redu-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "6) Auf fol. 11v ist zu den Worten ideo quotiens duodecim menses in annum redu-",
+   "italic": [
+    "ideo quotiens duodecim menses in annum redu-"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "{i:cimus, totiens ab ipsa reductionis summa} (in unserm Text p. 6) folgende Randnote",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "cimus, totiens ab ipsa reductionis summa (in unserm Text p. 6) folgende Randnote",
+   "italic": [
+    "cimus, totiens ab ipsa reductionis summa"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "von 2. Hand beigefügt : {i:id est a mensibus et diebus residuis ex quibus fit annus qui}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "von 2. Hand beigefügt : id est a mensibus et diebus residuis ex quibus fit annus qui",
+   "italic": [
+    "id est a mensibus et diebus residuis ex quibus fit annus qui"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "{i:aliis annis adiicitur ; non enim complebitur annus ex XII mensibus XXX dierum nisi}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "aliis annis adiicitur ; non enim complebitur annus ex XII mensibus XXX dierum nisi",
+   "italic": [
+    "aliis annis adiicitur ; non enim complebitur annus ex XII mensibus XXX dierum nisi"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "{i:addatur V dies et quarta ; menses enim tantum XXX dierum hic dantur} (?), {i:unde erit eis}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "addatur V dies et quarta ; menses enim tantum XXX dierum hic dantur (?), unde erit eis",
+   "italic": [
+    "addatur V dies et quarta ; menses enim tantum XXX dierum hic dantur",
+    "unde erit eis"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "{i:quandoque addendum quandoque subtrahendum ut vere romani menses habeantur.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "quandoque addendum quandoque subtrahendum ut vere romani menses habeantur.",
+   "italic": [
+    "quandoque addendum quandoque subtrahendum ut vere romani menses habeantur."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L19",
+   "n": 19,
+   "kind": "indent",
+   "text": "7) Am untern Rand von fol. 18{sup:v} (Tafel 15) findet sich folgende Note : {i:Adiectiones}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "7) Am untern Rand von fol. 18v (Tafel 15) findet sich folgende Note : Adiectiones",
+   "italic": [
+    "Adiectiones"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "{i:Veneris et Mercurii sunt adiectio solis ; hae autem adiectiones omnes iuxta civitatem Lon-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Veneris et Mercurii sunt adiectio solis ; hae autem adiectiones omnes iuxta civitatem Lon-",
+   "italic": [
+    "Veneris et Mercurii sunt adiectio solis ; hae autem adiectiones omnes iuxta civitatem Lon-"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "{i:doniae in hoc libro computantur et mediis cursibus planetarum adiciuntur} (sic). — Hiermit",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "doniae in hoc libro computantur et mediis cursibus planetarum adiciuntur (sic). — Hiermit",
+   "italic": [
+    "doniae in hoc libro computantur et mediis cursibus planetarum adiciuntur"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "will der Verfasser dieser Note, und dies ist ohne Zweifel {sp:Robert von Chester}{sup:3}),",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "will der Verfasser dieser Note, und dies ist ohne Zweifel Robert von Chester3),",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Robert von Chester"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "sagen, dass die mittlern Längen von Venus und Merkur die gleichen seien wie die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sagen, dass die mittlern Längen von Venus und Merkur die gleichen seien wie die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "der Sonne, und dass er für diese und die drei obern Planeten die {i:adiectiones} für",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Sonne, und dass er für diese und die drei obern Planeten die adiectiones für",
+   "italic": [
+    "adiectiones"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "den Meridian von London berechnet habe. Unter diesen {i:adiectiones} ist folgendes zu",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "den Meridian von London berechnet habe. Unter diesen adiectiones ist folgendes zu",
+   "italic": [
+    "adiectiones"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "verstehen : Die nach den Tafeln 9—20 für Sonne, Mond und die Planeten berechneten",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "verstehen : Die nach den Tafeln 9—20 für Sonne, Mond und die Planeten berechneten",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "mittlern Längen gelten für den Meridian von {i:Arin} ({i:Udjain}), für London muss der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mittlern Längen gelten für den Meridian von Arin (Udjain), für London muss der",
+   "italic": [
+    "Arin",
+    "Udjain"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "mittlern Länge jedes dieser Himmelskörper eine bestimmte Grösse beigefügt werden,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mittlern Länge jedes dieser Himmelskörper eine bestimmte Grösse beigefügt werden,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "und zwar die mittlere Bewegung ({i:motus medius}) desselben für c. 5{sup:h} (denn Udjain ist",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "und zwar die mittlere Bewegung (motus medius) desselben für c. 5h (denn Udjain ist",
+   "italic": [
+    "motus medius"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "c. 75° östlich von London), diese zu addierende Grösse nennt {sp:Robert von Chester}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "c. 75° östlich von London), diese zu addierende Grösse nennt Robert von Chester",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Robert von Chester"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "{i:adiectio}. — Er hat nun diese {i:adiectiones} an verschiedenen Stellen angegeben (jeweilen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "adiectio. — Er hat nun diese adiectiones an verschiedenen Stellen angegeben (jeweilen",
+   "italic": [
+    "adiectio",
+    "adiectiones"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "am untern Rand des Blattes) und zwar : für Saturn auf fol. 24{sup:v} (Tafel 9) zu 18″,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "am untern Rand des Blattes) und zwar : für Saturn auf fol. 24v (Tafel 9) zu 18″,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "für Jupiter auf fol. 28{sup:v} (Tafel 11) zu 45″, für Mars auf fol. 14{sup:v} (Tafel 13) zu 4′ 49″,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "für Jupiter auf fol. 28v (Tafel 11) zu 45″, für Mars auf fol. 14v (Tafel 13) zu 4′ 49″,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "für den Drachenkopf auf fol. 23{sup:v} (Tafel 19) zu 30″ ; die Tafeln für die mittlere",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "für den Drachenkopf auf fol. 23v (Tafel 19) zu 30″ ; die Tafeln für die mittlere",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "Bewegung der Sonne und des Mondes fehlen in N. Diese Zahlen stimmen aber",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Bewegung der Sonne und des Mondes fehlen in N. Diese Zahlen stimmen aber",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L36",
+   "n": 36,
+   "kind": "text",
+   "text": "nicht mit unsern Tafeln für einen Zeitunterschied von 5{sup:h}, {sp:Robert von Chester}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nicht mit unsern Tafeln für einen Zeitunterschied von 5h, Robert von Chester",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Robert von Chester"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "scheint diesen nicht ganz 4{sup:h} angenommen zu haben, die angenähert richtigen Zahlen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "scheint diesen nicht ganz 4h angenommen zu haben, die angenähert richtigen Zahlen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Wohl für {i:accersitur} = {i:arcessitur} (= herholen, hernehmen).",
+   "margin": null,
+   "plain": "1) Wohl für accersitur = arcessitur (= herholen, hernehmen).",
+   "italic": [
+    "accersitur",
+    "arcessitur"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "{sup:2}) {i:Handbuch der mathem. u. technischen Chronologie}, Berlin 1825—26, II, 426—430.",
+   "margin": null,
+   "plain": "2) Handbuch der mathem. u. technischen Chronologie, Berlin 1825—26, II, 426—430.",
+   "italic": [
+    "Handbuch der mathem. u. technischen Chronologie"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "{sup:3}) Denn dieser hat nach dem Zeugnis des {sp:Hermannus Dalmata} das Werk {sp:Al-Battānīs}",
+   "margin": null,
+   "plain": "3) Denn dieser hat nach dem Zeugnis des Hermannus Dalmata das Werk Al-Battānīs",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Hermannus Dalmata",
+    "Al-Battānīs"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-N04",
+   "n": 4,
+   "kind": "note",
+   "text": "ins Lateinische übersetzt, und soll auch die Tafeln desselben für den Meridian von London um-",
+   "margin": null,
+   "plain": "ins Lateinische übersetzt, und soll auch die Tafeln desselben für den Meridian von London um-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-N05",
+   "n": 5,
+   "kind": "note",
+   "text": "gerechnet haben. Vergl. oben p. XIII, und {sp:Al-Battānī}, ed. {sp:Nallino} I, {i:Praefatio}, XXXIV–XXXV,",
+   "margin": null,
+   "plain": "gerechnet haben. Vergl. oben p. XIII, und Al-Battānī, ed. Nallino I, Praefatio, XXXIV–XXXV,",
+   "italic": [
+    "Praefatio"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Al-Battānī",
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0022-N06",
+   "n": 6,
+   "kind": "note",
+   "text": "wo aber noch {sp:Rudolphus Brugensis} statt {sp:Hermannus Dalmata} steht.",
+   "margin": null,
+   "plain": "wo aber noch Rudolphus Brugensis statt Hermannus Dalmata steht.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Rudolphus Brugensis",
+    "Hermannus Dalmata"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «XVIII» stands at the head of the page, centred, with a rule below it. L01-L02 end the marginal note of fol. 9r begun on p. XVII (JP2 0021, L38-L40).",
+  "L02 and L17: «(?)», upright, after a gap of 10 px from the italic word before it (a thin space, as before the colons); L21 «(sic)» upright. L03: the omission in the quotation is printed as three points about 18 px apart, as on p. XI (JP2 0015, L09); transcribed «. . .». L26: the dash of «9—20» is printed in two pieces, as on p. XI; transcribed as one long dash. N05: «XXXIV–XXXV» has a short dash (30 px), where N02 «1825—26» and «426—430» have the long dash (41 px).",
+  "L32-L34: the seconds and minutes of arc are printed with the double and single prime, «18″», «4′ 49″»; L29, L36, L37: the h of the hours raised, «5h», «4h».",
+  "Marks not transcribed: a small comma-shaped speck above the B of «Bekanntlich» (L06) and a light speck above «dicta» (L03)."
+ ],
+ "copy_matter": [
+  "A vertical stroke of pencil, about 25 px wide and 330 px long, in the right margin beside L21-L26. Not part of the edition."
+ ],
+ "critical_notes": []
+}

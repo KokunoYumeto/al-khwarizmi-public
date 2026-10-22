@@ -1,0 +1,56 @@
+@page 124 92
+@lang de
+% JP2 0124: Suter's commentary, p. 92: chapter 34 continued: al-Battānī's parallaxes in longitude and latitude; the
+% Sūrya-Siddhānta; the principle of al-Khwārizmī's tables (hour angle and ecliptic zenith distance); the ascendant
+% of the conjunction of 23 January 901, 297° 3′ (notes 1-2).
+Ekliptik ist). Nachdem er dann aus den Tafeln (II, 93—94) mit Hilfe der Zenit-
+distanz als Argument und verschiedener Korrekturen die Parallaxe des Mondes im
+Höhenkreis {i:ZA} bestimmt hat, multipliziert er diese Parallaxe sowohl mit dem Sinus
+des Winkels der Länge als auch mit dem des Winkels der Breite, das erste Produkt
+gibt die {i:Parallaxe} des Mondes in der {i:Länge}, das zweite diejenige in der {i:Breite.}
+Nach {sp:Batt.} verhalten sich also die Parallaxen des Mondes in Länge und Breite wie
+die Sinus der Winkel der Länge und Breite, oder anders ausgedrückt, er zerlegt die
+Parallaxe der Höhe in ihre Komponenten nach der Länge und Breite.
+@p Die Regeln des {i:Sūrya-Siddhānta} über die Parallaxenbestimmung befinden sich
+im 5. Kapitel desselben{sup:1}). Sie weichen im Prinzip nicht wesentlich von denjenigen
+{sp:Batt.}’s ab, es werden auch trigonometrische Beziehungen benutzt, die sog. {i:Meridian-}
+{i:distanz} und {i:Ekliptik-Zenitdistanz} berechnet, und aus diesen dann die Parallaxen in
+Länge und Breite bestimmt.
+@p Die Regeln {sp:Kh.}’s sind viel einfacher ; da er aber nur den Gebrauch der Tafeln
+erklärt und gar keine trigonometrische Ableitungen gibt, so ist es schwer zu ent-
+scheiden, auf welchem Wege er die Zahlen seiner Tafeln gefunden hat. Sein Prinzip
+ist kurz ausgedrückt folgendes : Die {i:Parallaxe} in der {i:Länge} ist eine Funktion der
+Abweichung des Mondes vom Meridian nach Osten oder Westen, d. h. nach unsrer
+heutigen Ausdrucksweise eine {i:Funktion} des {i:Stundenwinkels,} die {i:Parallaxe} in der {i:Breite}
+ist eine Funktion seiner {i:Zenitdistanz.} Die Zahlen in der ersten Kolonne (Tafel 77)
+bedeuten also zweierlei : Handelt es sich um die Bestimmung der {i:Parallaxe} in der
+{i:Länge,} zo bezeichnen sie den Abstand des Mondes vom Meridian des Beobachtungs-
+ortes auf dem Aequator (oder einem Parallelkreis) gemessen, also den {i:Stundenwinkel}
+des Mondes ; handelt es sich um die Bestimmung der {i:Parallaxe} in der {i:Breite,} so
+bedeuten sie die Zenitdistanz des Mondes, und zwar seine sog. {i:Ekliptik-Zenitdistanz,}
+d. h. wenn er im {i:Medium Coelum} ist. — In dieser Hinsicht scheint sich also {sp:Kh.}
+mehr den Indern als {sp:Batt.} zu nähern.
+@p Der Text von Kap. 34 verlangt zuerst die Bestimmung des {i:Aszendenten} ({i:Horo-}
+{i:scopus}) für die gegebene Zeit der Konjunktion, d. h. die Länge des Punktes der
+Ekliptik, der, um unser oben (p. 82—84) gegebenes {i:Beispiel} für eine {i:Konjunktion}
+von Sonne und Mond wieder aufzunehmen, am 29. Muḥarram des J. 288 d. H. um
+18{sup:h} 44{sup:m} 29{sup:s} aufgeht. Der Text sagt gar nichts darüber, wie dieser Aszendent bestimmt
+werde ; er könnte auch mit den Tafeln, die dieses Werk enthält, unserer Ansicht
+nach nicht gefunden werden, es fehlen nämlich die Tafeln der schiefen Aufsteigungen,
+von denen wir wenigstens diejenigen für die Breite von Cordova kennen sollten ;
+immerhin könnte er auf dem Wege der Rechnung mit Hilfe der Aszensional-Differenz
+bestimmt werden. Wir haben daher den {i:Aszendenten} nach den Vorschriften {sp:Batt.}’s{sup:2})
+bestimmt und ihn = 297° 3′ gefunden. Auch die Regel für die Auffindung des
+{i:Medium Coelum} scheint bei {sp:Kh.} fehlerhaft zu sein, zum mindesten ist es unklar, von
+was man die 90° zu subtrahieren habe, ob vom {i:Aszendenten} selbst, oder von seiner
+@n {sup:1}) {i:Transl.} {sp:Burgess}, p. 285—295.
+@n {sup:2}) Ed. {sp:Nallino}, I, 73.
+@obs The page number «92» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «Ekliptik ist).» completes the sentence that ends p. 91 (JP2 0123, L38), «wenn Z der Zenit und P der Pol der».
+@obs L01-L08: al-Battānī's parallax of altitude in the circle Z A of the figure of p. 91, resolved by the sines of the angles of longitude and latitude. L14-L29: al-Khwārizmī's Table 77: its first column is the hour angle of the moon for the parallax in longitude and its ecliptic zenith distance, at the culmination of the point of the ecliptic, for the parallax in latitude; to be compared with the table.
+@obs L30-L41. Checked: the true conjunction of 23 January 901, 6h 44m 29s in the morning at Cordova (p. 83, JP2 0115), with the true longitude of the sun and the moon 303° 19′ 48″ and an obliquity of 23° 51′: the right ascension of the sun is 305° 43′, the hour angle −78° 53′, the right ascension of the midheaven 226° 50′; the ascendant comes out at 297° 33′, 297° 16′ and 296° 48′ for latitudes of 37° 30′, 37° 53′ (Cordova) and 38° 30′, so that Suter's 297° 3′ answers to a latitude of about 38° 10′. The point of the ecliptic in the midheaven is then 229° 23′. The sun, about a quarter of an hour before its rising, stands about 6° after the ascendant.
+@obs L23: «zo bezeichnen»; see the critical note. L41: a dark mark above the u of «subtrahieren», not an umlaut; not transcribed. L39: «Aszensional-Differenz», with sz, where pp. 73-75 (JP2 0105-0107) have «Ascensional-Differenz»; as printed. L33: «29. Muḥarram» upright, with the dot under the ḥ; L34: «18h 44m 29s», the letters raised.
+@obs The dashes: L01 «93—94», L32 «82—84», N01 «285—295», the long dash set close; L28 «ist. — In», the long dash with a space on either side.
+@obs Spaced type, marked {sp:}: «Batt.», «Kh.», «Burgess», «Nallino»; italics: «ZA», «Parallaxe», «Länge», «Breite» (L05, L19, L24), «Sūrya-Siddhānta», «Meridiandistanz», «Ekliptik-Zenitdistanz», «Funktion», «Stundenwinkels,», «Zenitdistanz.», «Stundenwinkel», «Medium Coelum», «Aszendenten», «Horoscopus», «Beispiel», «Konjunktion», «Transl.».
+@obs The colons and semicolons stand after the thin space of the edition (8-12 px measured).
+@critical AK07-CN072 | misprint | L22 | Länge, zo bezeichnen | Länge, so bezeichnen | the correlative «so» after the conditional clause «Handelt es sich um …», as in «Breite, so bedeuten sie» (L24-L25); the s is printed as z | high | none
+@obs The list of misprints, p. [237] (JP2 0271, L15), reads «so» for «zo» in L22, the 19th line from the foot of the text (critical note AK07-CN072).

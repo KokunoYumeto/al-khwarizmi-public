@@ -1,0 +1,395 @@
+{
+ "anchor": "AK05-F031",
+ "frame": 31,
+ "frame_file": "page_031.jpg",
+ "frame_sha256": "a9822bd4ab9eafdd112a1670049b261fb3c8350687b97f3808fd2237240a1e35",
+ "printed_page": "٢٥",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 031, printed p. 25: the cities of the fifth clime continued, entries 351-367: Māsī on an island, Dalʿū, Isṭāfā, places on the sea (لرسو, Fānū, Ṭarnūn, Afāsis), ڡرعامس, ڡورنا, Lādhiqiyya the maritime, ʿAmmūriyya, Qarsiyā at a mountain, سلموس, Nūsā, Zibaṭra, Malaṭya and Hanzīṭ. Three lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F031-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٣٥١) | [٢٩٦ ٣٦٦] | ماسى فى جزيرة | له | مه | م | ك",
+   "margin": null,
+   "cells": [
+    "(٣٥١)",
+    "[٢٩٦ ٣٦٦]",
+    "ماسى فى جزيرة",
+    "له",
+    "مه",
+    "م",
+    "ك"
+   ],
+   "plain": "(٣٥١) | [٢٩٦ ٣٦٦] | ماسى فى جزيرة | له | مه | م | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٣٥٢) | [٣٦٧] | مدينة دلعو | مه | م | لز | م",
+   "margin": null,
+   "cells": [
+    "(٣٥٢)",
+    "[٣٦٧]",
+    "مدينة دلعو",
+    "مه",
+    "م",
+    "لز",
+    "م"
+   ],
+   "plain": "(٣٥٢) | [٣٦٧] | مدينة دلعو | مه | م | لز | م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٣٥٣) | [٣١٥ ٣٦٨] | مدينة اسطافا | مه | م | لح | {z}",
+   "margin": null,
+   "cells": [
+    "(٣٥٣)",
+    "[٣١٥ ٣٦٨]",
+    "مدينة اسطافا",
+    "مه",
+    "م",
+    "لح",
+    "{z}"
+   ],
+   "plain": "(٣٥٣) | [٣١٥ ٣٦٨] | مدينة اسطافا | مه | م | لح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٣٥٤) | [٣١٦] | لرسو على البحر | مه | م | م | {z}",
+   "margin": null,
+   "cells": [
+    "(٣٥٤)",
+    "[٣١٦]",
+    "لرسو على البحر",
+    "مه",
+    "م",
+    "م",
+    "{z}"
+   ],
+   "plain": "(٣٥٤) | [٣١٦] | لرسو على البحر | مه | م | م | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٣٥٥) | [٣١٧] | فانوا على حدّ البحر | مو | ل | لز | ل",
+   "margin": null,
+   "cells": [
+    "(٣٥٥)",
+    "[٣١٧]",
+    "فانوا على حدّ البحر",
+    "مو",
+    "ل",
+    "لز",
+    "ل"
+   ],
+   "plain": "(٣٥٥) | [٣١٧] | فانوا على حدّ البحر | مو | ل | لز | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٣٥٦) | [٣١٨] | طرنون{n:a} على البحر | مح | ن | م | ٮه",
+   "margin": null,
+   "cells": [
+    "(٣٥٦)",
+    "[٣١٨]",
+    "طرنون{n:a} على البحر",
+    "مح",
+    "ن",
+    "م",
+    "ٮه"
+   ],
+   "plain": "(٣٥٦) | [٣١٨] | طرنون على البحر | مح | ن | م | ٮه",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٣٥٧) | [٣٢٢] | افاسس على البحر | ٮا | يه | لز | كه",
+   "margin": null,
+   "cells": [
+    "(٣٥٧)",
+    "[٣٢٢]",
+    "افاسس على البحر",
+    "ٮا",
+    "يه",
+    "لز",
+    "كه"
+   ],
+   "plain": "(٣٥٧) | [٣٢٢] | افاسس على البحر | ٮا | يه | لز | كه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٣٥٨) | [٣١٩] | مدينة ڡرعامس{n:b} | نا | له | م | يه",
+   "margin": null,
+   "cells": [
+    "(٣٥٨)",
+    "[٣١٩]",
+    "مدينة ڡرعامس{n:b}",
+    "نا",
+    "له",
+    "م",
+    "يه"
+   ],
+   "plain": "(٣٥٨) | [٣١٩] | مدينة ڡرعامس | نا | له | م | يه",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٣٥٩) | [٣٢٠] | مدينة ڡورنا | نا | م | لز | {z}",
+   "margin": null,
+   "cells": [
+    "(٣٥٩)",
+    "[٣٢٠]",
+    "مدينة ڡورنا",
+    "نا",
+    "م",
+    "لز",
+    "{z}"
+   ],
+   "plain": "(٣٥٩) | [٣٢٠] | مدينة ڡورنا | نا | م | لز | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٣٦٠) | [٣٢١] | مدينة لاذقيّة بحريّة | نب | م | لح | ن",
+   "margin": null,
+   "cells": [
+    "(٣٦٠)",
+    "[٣٢١]",
+    "مدينة لاذقيّة بحريّة",
+    "نب",
+    "م",
+    "لح",
+    "ن"
+   ],
+   "plain": "(٣٦٠) | [٣٢١] | مدينة لاذقيّة بحريّة | نب | م | لح | ن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٣٦١) | [٣٢٣] | عمّوريّة | نج | {z} | لح | {z}",
+   "margin": null,
+   "cells": [
+    "(٣٦١)",
+    "[٣٢٣]",
+    "عمّوريّة",
+    "نج",
+    "{z}",
+    "لح",
+    "{z}"
+   ],
+   "plain": "(٣٦١) | [٣٢٣] | عمّوريّة | نج | ō | لح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٣٦٢) | [٣٢٤] | قرسيا مع جبل | ن⟨ه⟩{n:c} | {z} | لط | مه",
+   "margin": null,
+   "cells": [
+    "(٣٦٢)",
+    "[٣٢٤]",
+    "قرسيا مع جبل",
+    "ن⟨ه⟩{n:c}",
+    "{z}",
+    "لط",
+    "مه"
+   ],
+   "plain": "(٣٦٢) | [٣٢٤] | قرسيا مع جبل | ن⟨ه⟩ | ō | لط | مه",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٣٦٣) | [٣٢٥] | سلموس | ٮو | مه | لو | ك",
+   "margin": null,
+   "cells": [
+    "(٣٦٣)",
+    "[٣٢٥]",
+    "سلموس",
+    "ٮو",
+    "مه",
+    "لو",
+    "ك"
+   ],
+   "plain": "(٣٦٣) | [٣٢٥] | سلموس | ٮو | مه | لو | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٣٦٤) | [٣٢٨] | مدينة نوسا | ٮح | {z} | لح | {z}",
+   "margin": null,
+   "cells": [
+    "(٣٦٤)",
+    "[٣٢٨]",
+    "مدينة نوسا",
+    "ٮح",
+    "{z}",
+    "لح",
+    "{z}"
+   ],
+   "plain": "(٣٦٤) | [٣٢٨] | مدينة نوسا | ٮح | ō | لح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٣٦٥) | [٣٢٩] | مدينة زبطرة | ٮط | ك | لط | {z}",
+   "margin": null,
+   "cells": [
+    "(٣٦٥)",
+    "[٣٢٩]",
+    "مدينة زبطرة",
+    "ٮط",
+    "ك",
+    "لط",
+    "{z}"
+   ],
+   "plain": "(٣٦٥) | [٣٢٩] | مدينة زبطرة | ٮط | ك | لط | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٣٦٦) | [٣٣٠] | ملطية | سا | {z} | لط | {z}",
+   "margin": null,
+   "cells": [
+    "(٣٦٦)",
+    "[٣٣٠]",
+    "ملطية",
+    "سا",
+    "{z}",
+    "لط",
+    "{z}"
+   ],
+   "plain": "(٣٦٦) | [٣٣٠] | ملطية | سا | ō | لط | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F031-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(٣٦٧) | [٣٣١] | هنزيط{n:d} | سا | م | لط | مه",
+   "margin": null,
+   "cells": [
+    "(٣٦٧)",
+    "[٣٣١]",
+    "هنزيط{n:d}",
+    "سا",
+    "م",
+    "لط",
+    "مه"
+   ],
+   "plain": "(٣٦٧) | [٣٣١] | هنزيط | سا | م | لط | مه",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L06: at entry (1053) the name طرنون is written ٮطرون; the editor's corrigenda (p. 163, frame 169) add a comparison with the town طروب at entry (1943), with the variant reading طرون.",
+  "L08: at entry (1944) the name ڡرعامس is written قرغامس.",
+  "L12: the degrees of the longitude are unclear in the manuscript; the ه is supplied from S.",
+  "L17: the manuscript reads هرٮط here and at entry (2129); at entry (2123) the name is written هيرٮط."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 030 without a heading: the cities of the fifth clime, entries 351-367. All have numbers of Suhrāb; at entries 351 and 353 the square brackets hold two numbers, «٢٩٦» above «٣٦٦» and «٣١٥» above «٣٦٨», transcribed «[٢٩٦ ٣٦٦]» and «[٣١٥ ٣٦٨]». Entries 352, 353, 358-360, 364 and 365 have the word «مدينة».",
+  "L08, L09: «ڡرعامس» and «ڡورنا» begin with a loop raised above the line and joined by a stroke on the line to the next letter: the loop of ف or ق without dots, as «ڡرقا» on frame 023 (L01); in «ڡرعامس» the next letter is a ر, with the small head of the letter (9 px), in «ڡورنا» a و, with its loop (14 px), followed by a separate ر. An isolated و does not join the next letter. Transcribed ڡر and ڡو.",
+  "L17: «هنزيط»: after the initial ه, a tooth with a dot above it, then a second upright with a dot above it that runs at its foot into the descending tail of a ز, then the ي with its two dots below and the ط; the two dots stand side by side, each above one of the uprights (centred 3 and 2 px from them). Transcribed هنزيط. The editor's note d gives the readings of the manuscript.",
+  "L12: the degrees of the longitude are printed «ن⟨ه⟩»: an initial ن, a tooth with its dot above, standing on the line outside the angle brackets, and the ه supplied by the editor between them (note c: the manuscript is unclear), followed by the note mark c; transcribed so. The longitudes of the neighbouring entries run نا, نا, نب, نج before it and ٮو, ٮح, ٮط after it.",
+  "Signs in the names, transcribed as printed: L05: «حدّ», with a shadda over the د; L10: «لاذقيّة» and «بحريّة», with a shadda over the ي; L11: «عمّوريّة», with a shadda over the م and over the ي.",
+  "Letters printed without their dots in the numerals, transcribed so: ٮا (L07, the degrees of the longitude), a tooth joined to an alif, where L08 and L09 print the same form with the dot of the ن, نا; ٮو, ٮح and ٮط (L13-L15, the degrees of the longitude), the tooth without its dot. With their dots: نا (L08, L09), نب (L10, the ن with its dot above and the ب with its dot below), نج (L11), ن (L06, the minutes of the longitude; L10, the minutes of the latitude), يه (L07, L08), and the ز of لز (L02, L05, L07, L09).",
+  "The degrees of the latitude printed لح (L03, L10, L11, L14) and of the longitude printed مح (L06) show no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.",
+  "The minutes of the latitude in L06, «ٮه», are a tooth without its dot joined to a final ه, the form that L07 and L08 print with the two dots of the ي, يه. The isolated ك, 20, has the small inner stroke of the letter (L01, L13, the minutes of the latitude; L15, the minutes of the longitude).",
+  "Specks, not transcribed: L03, a dark round dot to the left of the zero sign of the minutes of the latitude, and a fainter one above it; L04, a speck at the left of the bowl of the latitude «م»; L08, a speck to the left of the name, beside the note mark b.",
+  "The page number «— ٢٥ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

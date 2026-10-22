@@ -1,0 +1,20 @@
+@page 214 -
+@kind title
+% Frame 214: the German title page of 1926 reproduced by the 1962 reprint on its grey mottled paper, as frame 005
+% reproduces the Arabic title page.
+@lc DAS KITĀB
+@lc ṢŪRAT AL-ARḌ DES ABŪ ǦAʿFAR
+@lc MUḤAMMAD IBN MŪSĀ
+@lc AL-ḪUWĀRIZMĪ
+@lc Herausgegeben
+@lc NACH DEM HANDSCHRIFTLICHEN UNIKUM DER
+@lc BIBLIOTHÈQUE DE L’UNIVERSITÉ ET RÉGIONALE
+@lc IN STRASSBURG / COD. 4247 /
+@lc VON
+@lc HANS v. MŹIK
+@lc Mit fünf Tafeln in Lichtdruck
+@lc MCMXXVI
+@lc Otto Harrassowitz · Leipzig
+@obs The leaf, on the grey mottled paper of the reprint title page (frame 005), reproduces by offset the German title page of 1926 (frame 210), line for line; it is the reprint's title leaf at the end of the volume, which opens from the right. Transcribed as frame 210. The title page is set in Roman capitals, with three lines in black letter (Fraktur), transcribed in Roman type: «Herausgegeben» (L05), «Mit fünf Tafeln in Lichtdruck» (L11) and «Otto Harrassowitz · Leipzig» (L13). The transliterated names keep the diacritics of the print: the dots below Ṣ, Ḍ and Ḥ, the macrons, the haček of Ǧ and the breve below Ḫ of «AL-ḪUWĀRIZMĪ», the half ring of «ǦAʿFAR». The shelfmark of the manuscript, «COD. 4247», stands between two thin slanting strokes, transcribed as slashes; its figures are old-style. A rule separates the date, «MCMXXVI», 1926, from the publisher's line.
+@obs L10: «MŹIK», with the acute accent of the title page of frame 210 (critical note AK05-CN022).
+@obs The reproduction is greyer and softer than the letterpress of frame 210; faint creases cross the leaf.

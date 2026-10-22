@@ -1,0 +1,290 @@
+{
+ "anchor": "AK05-F115",
+ "frame": 115,
+ "frame_file": "page_115.jpg",
+ "frame_sha256": "47b7463bb08af7c5f4df3eed1c537c4bb4eb1fc25cf6c288e71b8d422d6aaaf4",
+ "printed_page": "١٠٩",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 115, printed p. 109: the Nile concluded: the mouths of its second to seventh channels, the seventh at Dimyāṭ; then the spring on the equator that flows into the Nile of Egypt, with its river; the spring on the island of silver in the sea of China, with its three rivers; and the spring on the island of silver in the Dark Sea, with its two rivers. The editor's running numbers (١٦٤٦)-(١٦٦١) and the numbers of Suhrāb [١٥٤٢]-[١٥٥٠] and [٢٢٣٣]-[٢٢٣٩]; the folio of the manuscript, «(fol. 31ᵇ)», at the end of a line. Three lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F115-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "الثانى الّذى يخرج من مصر الى البحر عند طول {ov:ٮج {z}} (١٦٤٦) [١٥٤٢] والثالث",
+   "margin": null,
+   "cells": null,
+   "plain": "الثانى الّذى يخرج من مصر الى البحر عند طول ٮج ō (١٦٤٦) [١٥٤٢] والثالث",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "عند ⟨طول⟩{n:a} {ov:نح ل} (١٦٤٧) [١٥٤٣] والرابع عند طول {ov:نح م} (١٦٤٨) [١٥٤٤]",
+   "margin": null,
+   "cells": null,
+   "plain": "عند ⟨طول⟩ نح ل (١٦٤٧) [١٥٤٣] والرابع عند طول نح م (١٦٤٨) [١٥٤٤]",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "والخامس عند طول {ov:نح ں} (١٦٤٩) [١٥٤٥] والسادس عند طول {ov:ند ك} (١٦٥٠)",
+   "margin": null,
+   "cells": null,
+   "plain": "والخامس عند طول نح ں (١٦٤٩) [١٥٤٥] والسادس عند طول ند ك (١٦٥٠)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "[١٥٤٦] والسابع عند طول {ov:ند ل} (١٦٥١) [١٥٤٧] وهناك دمياط{n:b} *",
+   "margin": "(fol. 31ᵇ)",
+   "cells": null,
+   "plain": "[١٥٤٦] والسابع عند طول ند ل (١٦٥١) [١٥٤٧] وهناك دمياط *",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "صفة العين الّتى على خطّ الاستواء الّتى تصبّ الى نيل مصر * وعين مدوّرة مركزها",
+   "margin": null,
+   "cells": null,
+   "plain": "صفة العين الّتى على خطّ الاستواء الّتى تصبّ الى نيل مصر * وعين مدوّرة مركزها",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "على خطّ الاستواء ومصبّها الى النيل عند مدينة النوبة قطر هٰذه العين ثلٰثة اجزاء",
+   "margin": null,
+   "cells": null,
+   "plain": "على خطّ الاستواء ومصبّها الى النيل عند مدينة النوبة قطر هٰذه العين ثلٰثة اجزاء",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "مركزها عند طول {ov:سب {z}} (١٦٥٢) [١٥٤٨] يخرج منها نهر عند طول {ov:سا ل} (١٦٥٣)",
+   "margin": null,
+   "cells": null,
+   "plain": "مركزها عند طول سب ō (١٦٥٢) [١٥٤٨] يخرج منها نهر عند طول سا ل (١٦٥٣)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "[١٥٤٩] مصبّه فى النيل عند طول {ov:نح {z}}{n:c} والعرض {ov:ٮو ك} (١٦٥٤) [١٥٥٠) مماسّ*",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٥٤٩] مصبّه فى النيل عند طول نح ō والعرض ٮو ك (١٦٥٤) [١٥٥٠) مماسّ*",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "للإقليم الأوّل وخليج فيمابين نهر هٰذه العين والنيل فوق مدينة النوبة *",
+   "margin": null,
+   "cells": null,
+   "plain": "للإقليم الأوّل وخليج فيمابين نهر هٰذه العين والنيل فوق مدينة النوبة *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "عين فى جزيرة الفضّة فى بحر الصين عند طول {ov:قند م} والعرض {ov:ح ل} خلف خطّ الاستواء",
+   "margin": null,
+   "cells": null,
+   "plain": "عين فى جزيرة الفضّة فى بحر الصين عند طول قند م والعرض ح ل خلف خطّ الاستواء",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "(١٦٥٥) [٢٢٣٣] يخرج منها من موضع واحد ثلٰثة انهار الأوسط منها يمرّ بركن",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٦٥٥) [٢٢٣٣] يخرج منها من موضع واحد ثلٰثة انهار الأوسط منها يمرّ بركن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "المدينة الّتى فى الجزيرة ويمرّ الى البحر عند طول {ov:قٮط م} والعرض {ov:د ل} (١٦٥٦) [٢٢٣٤]",
+   "margin": null,
+   "cells": null,
+   "plain": "المدينة الّتى فى الجزيرة ويمرّ الى البحر عند طول قٮط م والعرض د ل (١٦٥٦) [٢٢٣٤]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "والنهر الأوّل يصبّ فى البحر عند طول {ov:قٮد م} والعرض {ov:ه ك} (١٦٥٧) [٢٢٣٥] والثالث",
+   "margin": null,
+   "cells": null,
+   "plain": "والنهر الأوّل يصبّ فى البحر عند طول قٮد م والعرض ه ك (١٦٥٧) [٢٢٣٥] والثالث",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "يصبّ فى البحر عند طول {ov:قٮط ن} والعرض {ov:ر مه}{n:d} (١٦٥٨) [٢٢٣٦] * عين فى جزيرة",
+   "margin": null,
+   "cells": null,
+   "plain": "يصبّ فى البحر عند طول قٮط ن والعرض ر مه (١٦٥٨) [٢٢٣٦] * عين فى جزيرة",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "الفضّة فى البحر المظلم عند طول {ov:ڡعٮ ل} والعرض {ov:ه ك} خلف خطّ الاستواء (١٦٥٩)",
+   "margin": null,
+   "cells": null,
+   "plain": "الفضّة فى البحر المظلم عند طول ڡعٮ ل والعرض ه ك خلف خطّ الاستواء (١٦٥٩)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "[٢٢٣٧] يخرج منها نهران{n:e} يصبّان فى البحر مصبّ الأوّل عند طول {ov:قسط م} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "[٢٢٣٧] يخرج منها نهران يصبّان فى البحر مصبّ الأوّل عند طول قسط م والعرض",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F115-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "{ov:ح ك} (١٦٦٠) [٢٢٣٨] والثانى عند طول {ov:قعح م}{n:f} و{n:f}العرض {ov:و م} (١٦٦١) [٢٢٣٩] *",
+   "margin": null,
+   "cells": null,
+   "plain": "ح ك (١٦٦٠) [٢٢٣٨] والثانى عند طول قعح م والعرض و م (١٦٦١) [٢٢٣٩] *",
+   "note_marks": [
+    "f",
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L02: the manuscript lacks the word طول; the editor supplies it (note a).",
+  "L04: the editor refers to his note c on p. 108 (frame 114), on the map of the course of the Nile in the manuscript (note b).",
+  "L08: a variant reading of the longitude is كو ل, with a line over the numerals; the editor considers that it more probably belongs to the latitude than to the longitude (note c).",
+  "L14: the latitude is a correction by a later hand in the manuscript (note d).",
+  "L16: the manuscript has بهرں for نهران, the ب with its dot and the final ن without its dot (note e).",
+  "L17: a later hand corrected the passage between the two marks f; the manuscript first read ڡعح و العرض, with the loop without dots and a line over ڡعح و (note f-f)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The Nile goes on from p. 108 (frame 114), whose last words, «ومصبّ الخليج», L01 continues with «الثانى الّذى يخرج من مصر الى البحر عند طول ٮج {z} (١٦٤٦)», and the mouth of the second channel, which goes out from Miṣr to the sea, is at the longitude ٮج {z}. Then the mouths of the third to the seventh channel, «والثالث عند ⟨طول⟩ نح ل (١٦٤٧)», and the third at the longitude نح ل, and so on to the seventh, points 1647-1651, with the degrees and the minutes of each longitude written with letters under one line, transcribed with {ov:…}; L04: «وهناك دمياط *», and there is Dimyāṭ.",
+  "L05-L09: «صفة العين الّتى على خطّ الاستواء الّتى تصبّ الى نيل مصر *», the description of the spring on the equator that flows into the Nile of Egypt, in the type of the text and run on in the line; then «وعين مدوّرة مركزها على خطّ الاستواء ومصبّها الى النيل عند مدينة النوبة قطر هٰذه العين ثلٰثة اجزاء مركزها عند طول سب {z} (١٦٥٢)», a round spring whose centre is on the equator and whose outflow to the Nile is at the town of al-Nūba; the diameter of this spring is three degrees, and its centre is at the longitude 62° 0′; «يخرج منها نهر عند طول سا ل (١٦٥٣) مصبّه فى النيل عند طول نح {z} والعرض ٮو ك (١٦٥٤) مماسّ* للإقليم الأوّل», a river goes out of it at the longitude 61° 30′, whose mouth in the Nile is at the longitude نح {z} and the latitude ٮو ك, touching the first clime; «وخليج فيمابين نهر هٰذه العين والنيل فوق مدينة النوبة *», and a channel between the river of this spring and the Nile above the town of al-Nūba.",
+  "L10-L14: «عين فى جزيرة الفضّة فى بحر الصين عند طول قند م والعرض ح ل خلف خطّ الاستواء (١٦٥٥)», a spring on the island of silver in the sea of China at the longitude 154° 40′ and the latitude ح ل beyond the equator; «يخرج منها من موضع واحد ثلٰثة انهار», three rivers go out of it from one place: «الأوسط منها يمرّ بركن المدينة الّتى فى الجزيرة ويمرّ الى البحر عند طول قٮط م والعرض د ل (١٦٥٦)», the middle one passes by the corner of the town on the island and goes to the sea at the longitude قٮط م, 159° 40′ read with ن, and the latitude 4° 30′; «والنهر الأوّل يصبّ فى البحر عند طول قٮد م والعرض ه ك (١٦٥٧)», the first river flows into the sea at the longitude قٮد م and the latitude 5° 20′; «والثالث يصبّ فى البحر عند طول قٮط ن والعرض ر مه (١٦٥٨) *», and the third at the longitude قٮط ن, 159° 50′ read with ن, and the latitude ر مه.",
+  "L14-L17: «عين فى جزيرة الفضّة فى البحر المظلم عند طول ڡعٮ ل والعرض ه ك خلف خطّ الاستواء (١٦٥٩)», a spring on the island of silver in the Dark Sea at the longitude ڡعٮ ل and the latitude 5° 20′ beyond the equator; «يخرج منها نهران يصبّان فى البحر مصبّ الأوّل عند طول قسط م والعرض ح ك (١٦٦٠)», two rivers go out of it and flow into the sea, the mouth of the first at the longitude 169° 40′ and the latitude ح ك; «والثانى عند طول قعح م والعرض و م (١٦٦١) *», and the second at the longitude 178° 40′ and the latitude 6° 40′.",
+  "The running numbers run (١٦٤٦)-(١٦٦١) without a gap, each followed by its number of Suhrāb: [١٥٤٢]-[١٥٥٠] for points 1646-1654, then [٢٢٣٣]-[٢٢٣٩] for the springs on the islands of silver and their rivers, points 1655-1661. [١٥٤٦], [١٥٤٩] and [٢٢٣٧] stand at the beginning of L04, L08 and L16, after the running numbers at the end of the line before.",
+  "L04: the folio of the Strasbourg manuscript, «(fol. 31ᵇ)», is printed in Latin type within the line, at its end, after the small open star that closes the entry of Dimyāṭ; transcribed as a margin note before the line.",
+  "L08: the number of Suhrāb of point 1654 is printed «[١٥٥٠)»: it opens with a square bracket and closes with a round parenthesis of the form and height of those of the running numbers; transcribed so, with a critical note.",
+  "Asterisks: L08 «مماسّ*»: an asterisk with six solid arms stands after the word, raised like the note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (frame 046, L10). The small open stars with six points, after «دمياط» with its note mark b (L04), after «مصر» (L05), after «النوبة» (L09), after [٢٢٣٦] (L14) and after [٢٢٣٩] (L17), are transcribed as asterisks.",
+  "L02: «⟨طول⟩», between angle brackets, followed by the note mark a: the manuscript lacks the word, and the editor supplies it (note a). Transcribed with the brackets.",
+  "L09: «فيمابين» is printed as one word: the alif of «فيما» stands 9 px from the ب of «بين», where the word spaces of the line measure 20 to 22 px. Transcribed as printed.",
+  "Signs in the text, transcribed as printed: «الّذى» (L01) and «الّتى» (L05, twice; L12) with a shadda over the ل; «خطّ» (L05, L06, L10, L15), «تصبّ» and «مدوّرة» (L05), «ومصبّها» (L06), «مصبّه» and «مماسّ» (L08), «الفضّة» (L10, L15), «يمرّ» (L11), «ويمرّ» (L12), «يصبّ» (L13, L14), «يصبّان» and «مصبّ» (L16) with a shadda; «الأوّل» (L09, L13, L16) with a hamza over the alif and a shadda over the و; «هٰذه» (L06, L09) and «ثلٰثة» (L06, L11) with a dagger alif; «للإقليم» (L09) with a hamza below the alif; «الأوسط» (L11) with a hamza over the alif; «الاستواء» (L05, L06, L10, L15) with a hamza on the line; «الى», «فى», «الثانى» (L01) and «والثانى» (L17) end in a ى without dots.",
+  "Names: «مصر» (L01, L05), «دمياط» (L04), «النوبة» (L06, L09), «الفضّة» (L10, L15) and «الصين» (L10) are printed with their dots.",
+  "Numerals: «ٮج {z}» (L01), a tooth without its dot joined to a ج with the dot in its bowl, which read as a ن gives 53° 0′; «نح ل», «نح م» and «نح ں» (L02, L03), with the dot of the ن, the minutes of L03 the bowl of a final ن without its dot, ں, 50; «ند ك» and «ند ل» (L03, L04), 54° 20′ and 54° 30′; «سب {z}» (L07), with the dot of the ب below, 62° 0′; «سا ل» (L07), 61° 30′; «ٮو ك» (L08), a tooth without its dot joined to a و, which read with a ي gives 16° 20′; «قند م» (L10), with the two dots of the ق and the dot of the ن, 154° 40′; «د ل» (L12), 4° 30′; «قسط م» (L16), with the three teeth of the س, 169° 40′; «قعح م» (L17), with the two dots of the ق, 178° 40′; «و م» (L17), 6° 40′. The latitudes «ه ك» (L13, L15), 5° 20′, are printed with the small round ring of the isolated ه.",
+  "L02, L03, L08: the ح of «نح» shows no dot in the bowl; the same form is a ج without its dot, 3, which L01 prints with its dot in «ٮج». Read with ج, the longitudes of the third, fourth and fifth channels, 58° 30′, 58° 40′ and 58° 50′ with ح, are 53° 30′, 53° 40′ and 53° 50′, between the second channel, 53° 0′ (L01), and the sixth and seventh, 54° 20′ and 54° 30′ (L03, L04). The table of the cities prints the longitude of Dimyāṭ with the same form, «نح ٮه» (frame 024, L12), and the editor gives it as 53° 55′ (introduction, frame 187, p. XXVI). Transcribed as printed. The ح of «ح ل» (L10) and «ح ك» (L17) likewise shows no dot.",
+  "L12, L14: the degrees of the longitude, «قٮط»: between the ق with its two dots and the ط, a short tooth without a dot that rises above the joining stroke, with no part below it, where the medial م of these numerals is a diamond that stands out above and below the stroke (frame 013, L13, «ڡمح») or is set under the ق (frame 082, L16, «قمط»); they measure 62 and 64 px from the stem of the ط to the end of the loop, where the compact «قط» of frame 102 (L06, L11) measures 48 px. Transcribed قٮط, which read with ن gives 159° 40′ and 159° 50′, at the eastern end of the coast of the island of silver, which runs from 154° to 159° 30′ (frame 106, L01-L05).",
+  "L13: the degrees of the longitude, «قٮد»: after the ق with its two dots a tall tooth without a dot, 11 px above the stroke, joined to a د, where the ن of «قند» (L10) has its dot; transcribed قٮد, which read as a ن gives 154° 40′, the longitude of the spring (L10).",
+  "L15: the degrees of the longitude, «ڡعٮ»: the loop of ف or ق without dots, a medial ع and the flat bowl of a final ب without its dot; read with ق and ب, 172° 30′. A speck, 4 by 3 px, stands on the line to the left of the bowl, not below its middle, where a ب has its dot; it is not transcribed as a dot.",
+  "L14: the latitude «ر مه», with the note mark d: in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII), so 7° 45′; transcribed ر as printed.",
+  "Note marks: L02, a after «⟨طول⟩»; L04, b after «دمياط»; L08, c after the longitude; L14, d after the latitude; L16, e after «نهران»; L17, f after the longitude «قعح م» and again after the و of «والعرض», around the passage that note f-f concerns.",
+  "Marks not transcribed: L02, a speck, 6 by 4 px, below the bowl of the ح of the longitude of the third channel, outside it, where the dot of a ج stands inside the bowl; L09, a small dark mark, 7 by 8 px, about 35 px above the و of «النوبة», far above the place of a vowel sign.",
+  "The editor's footnotes stand in three lines below a short rule at the left: notes a-f. The page number «— ١٠٩ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK05-CN009",
+   "class": "wrong sort",
+   "line": "L08",
+   "printed": "[١٥٥٠)",
+   "proposed": "[١٥٥٠]",
+   "evidence": "the number of Suhrāb of point 1654 is closed by a round parenthesis, of the height and form of those of the running numbers, where every other number of Suhrāb of the page and of the edition read so far is closed by a square bracket, as [١٥٤٩] at the beginning of the same line",
+   "confidence": "high",
+   "impact": "none: the number reads 1550 either way"
+  }
+ ]
+}

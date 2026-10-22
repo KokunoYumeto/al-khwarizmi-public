@@ -1,0 +1,4 @@
+@page 125 -
+@kind blank
+% Frame 125: a blank leaf side, on the grey paper of the wrapper.
+@obs Blank, on grey paper of the tone of the edition's printed wrapper (frames 001 and 126), darker than the white paper of the text leaves; nothing printed.

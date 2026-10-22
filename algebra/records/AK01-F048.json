@@ -1,0 +1,281 @@
+{
+ "anchor": "AK01-F048",
+ "frame": 48,
+ "frame_file": "page_048.jpg",
+ "frame_sha256": "4ea739128aab29a02deb85092c57e943dd9d447df451b328ded2dfb62175805e",
+ "printed_page": "٣٢",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 048, printed p. 32: division of roots continued (the root of four divided by the root of nine, two thirds; two roots of nine divided by the root of four); multiplication of roots (the root of nine by the root of four, six; the root of five by the root of ten; the root of a third by the root of a half; two roots of nine by three roots of four); then, with two words in bold, the demonstration of «the root of two hundred less ten added to twenty less the root of two hundred» begins, with the labels of its figure (frame 049). Below the rule two footnotes of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F048-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "الواحد وهو واحد ونصف . وان أردت أن تقسم جذر أربعة على جذر تسعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "فانك تقسم أربعة على تسعة فيكون اربعة اتساع واحد فجذرها ما يصيب الواحد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وهو ثلثا واحد . فان اردت أن تقسم جذرى تسعة على جذر اربعة أو غيرها",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "من الاموال فاضعف جذر التسعة على ما أريتك فى عمل الاضعاف فما بلغ",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "فاقسمه على أربعة أو على ما اردت أن تقسم عليه واعمل به كما عملت . وكذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "ان أردت ثلاثة أجذار تسعة أو اكثر أو نصف جذر تسعة أوأقل أو ما كان",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "فعلى هذا المنوال فاعمله تصب ان شاء الله تعالى . وان اردت أن تضرب جذر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "تسعة فى جذر اربعة{n:١} فاضرب تسعة فى أربعة فيكون ستة وثلاثين فخذ جذرها",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "وهو ستةفهو جذر تسعة مضروب فى جذر أربعة . وكذلك لوأردت أن تضرب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "جذر خمسة فى جذر عشرة فاضرب خمسة فى عشرة فجذر ما بلغ هو الشىء الذى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "تريده . وان اردت ان تضرب جذر ثلث فى جذر نصف فاضرب ثلثا فى نصف",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "فيكون سدسا فجذر السدس هو جذر الثلث مضروب فى جذر النصف .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "وان اردت أن تضرب جذرى تسعة فى ثلاثة أجذار اربعة فاستخرج جذرى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "تسعة كما وصفت لك حتى تعلم جذر أى مال هو وكذلك فافعل بثلاثة اجذار",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "الاربعة حتى تعلم جذر أى مال هو ثم اضرب المالين أحدهما فى الآخر فجذر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "ما اجتمع لك هو جذر {n:٢} تسعة فى ثلاثة أجذار اربعة وكذلك كلما زاد من",
+   "note_marks": [
+    "٢"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "الأجذار أونقص فعلى هذا المثال فاعمل به {b:فأما عز} جذر مائتين الا عشرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "فأما عز"
+   ]
+  },
+  {
+   "id": "AK01-F048-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "مجموعا الى عشرين الا جذر مائتين فان صورة ذلك خط {ov:اٮ} وهو جذر مائتين",
+   "note_marks": [],
+   "figure_labels": [
+    "اٮ"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "فمن ا الى نقطة ح هو العشرة والباقى جذر مائتين هو الباقى من خط {ov:اٮ}",
+   "note_marks": [],
+   "figure_labels": [
+    "اٮ"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F048-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "وهو خط {ov:حٮ} ثم تخرج من نقطة {ov:ٮ} خطا الى نقطة {ov:ه} وهو خط العشرين وهو",
+   "note_marks": [],
+   "figure_labels": [
+    "حٮ",
+    "ٮ",
+    "ه"
+   ],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١",
+    "٢"
+   ],
+   "lines": 2,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [
+  "L17: «فأما عز» as printed. The letters are clear, but عز gives no sense before «جذر مائتين الا عشرة»; the parallel heading of the next demonstration (frame 049, L10) reads «وأما علة جذر مائتين». Whether the print has a wrong sort or a different word was intended is not known; the editors do not comment."
+ ],
+ "observations": [
+  "L17: the two words فأما عز are printed in a bold face, the run-in heading of the demonstrations of the sums and differences of roots that begin here. The second word is printed as an initial ع joined to a final ز: a short stroke with a tail that falls to the left below the line, and a dot above it, like the bold ر of وعشرون (frame 037, L20) with a dot, and unlike the bold final ن of من (frame 041, L05), which is a deep bowl. See the unresolved reading of this page.",
+  "The labels of the figure (frame 049) carry a short wavy line above them (here a line above): اٮ (L18, L19), حٮ (L20), ٮ and ه (L20). In L19 the labels ا (after فمن) and ح (after نقطة) are printed without it.",
+  "The ب of the labels is printed without its dot (اٮ, حٮ, ٮ), as on frames 036-042; transcribed ٮ. The ح of the labels (L19, L20) is printed in the flat form that the corner label of frame 042 has. The label ه (L20) is printed in the knotted initial form, as in هن (frame 038, L02) and on frame 049.",
+  "L20: the label ه names the end of the line of twenty, which the next page (frame 049, L01-L02) names د: there the line from ٮ to ه is equal to اٮ, the root of two hundred, and the rest of the twenty runs from ه to د. See the critical note AK01-CN012.",
+  "Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): أوأقل (L06; 15 between the و and the alif, where أو أقل elsewhere, and أو before the next word on this page, stand 38 to 44 px apart, and the و stands 20 to 30 px from the next letter inside a word), ستةفهو (L09; 7), لوأردت (L09; 27, as on frame 047), أونقص (L17; 24).",
+  "After a non-connecting letter a word space is transcribed where the gap is a space: الواحد وهو (L01; 16 between the د and the و, which stand 6 to 7 px apart inside a word), واحد ونصف (L01; 23), ما يصيب (L02; 26), ثلثا واحد (L03; 27), ما أريتك (L04; 28), فما بلغ (L04; 32), كما عملت (L05; 26), ثلاثة أجذار (L06; 24, L13; 25, L16; 23), هذا المنوال (L07; 35), ما بلغ (L10; 34), زاد من (L16; 24), صورة ذلك (L18; 23). The conjunction و stands 39 to 41 px from the ك of وكذلك (L05, L09, L14, L16), farther than from other letters; it is transcribed joined, as the conjunction always is.",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: فى أربعة (L08), فى جذر and أن تضرب (L09).",
+  "Plain alif where a hamza might be expected, as printed: وان (L01, L07, L11, L13), اربعة (L02, L03, L08, L13, L16), اتساع (L02), فان اردت (L03), الاموال, الاضعاف (L04), اردت (L05, L07, L11, L13), ان (L06, L07, L11), اكثر (L06), اجذار (L14), الاربعة, اضرب (L15), اجتمع (L16), الا (L17, L18), الى (L18, L19, L20), فان (L18); with hamza: أردت (L01, L06), أن (L01, L03, L05, L07, L09, L13), أربعة (L01, L02, L05, L08, L09), أو (L03, L05, L06), أريتك (L04), أجذار (L06, L13, L16), أوأقل (L06), لوأردت (L09), أى (L14, L15), أحدهما (L15), الأجذار, أونقص, فأما (L17); with madda: الآخر (L15); the hamza on the line: شاء (L07), الشىء (L10).",
+  "Without tanwīn as printed: ثلثا (L03, L11), سدسا (L12), مجموعا (L18), خطا (L20).",
+  "The final yā' is printed without dots: فى throughout, على (L01-L05), جذرى (L03, L13), فعلى (L07, L17), تعالى (L07), الذى (L10), حتى, أى (L14, L15), الى (L18-L20), والباقى, الباقى (L19); and before the hamza in الشىء (L10).",
+  "The print stretches عمل (L04), السدس (L12) and جذر (L17, after the bold words) with the elongation stroke; the stroke is not transcribed.",
+  "L08: the note mark (١) stands close after اربعة, with a wide space after it; L16: (٢) stands between جذر and تسعة, in a wide space.",
+  "The full stops of L01, L03, L05, L07, L09 and L11 stand between spaces; L12 ends with a full stop after a space.",
+  "Note (١) of the editors restates the product of L08 in modern notation, and with it the general rule √x·√y = √(xy). Note (٢) reads, in substance: the correct reading is «جذرا تسعة»; see the critical note AK01-CN013. Neither note is reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK01-CN012",
+   "class": "labels of the text and of the figure disagree",
+   "line": "L20",
+   "printed": "نقطة ه",
+   "proposed": "نقطة د",
+   "evidence": "The line drawn from ٮ is the line of twenty, «twice the line اح, which is ten» (frame 049, L01). On the next page the text divides that line: from ٮ to ه is equal to اٮ, the root of two hundred, and «the rest of the twenty is from ه to د» (frame 049, L01-L02); the figure (frame 049) has د at the far end of the line, ه between ٮ and د. The line of twenty therefore ends at د, not at ه.",
+   "confidence": "high that the sense requires د; whether the slip is the print's or the manuscript's is not known, since the edition does not reproduce this page of the manuscript",
+   "impact": "none on the mathematics: the next page names the points correctly"
+  },
+  {
+   "id": "AK01-CN013",
+   "class": "omission in the statement",
+   "line": "L16",
+   "printed": "جذر تسعة",
+   "proposed": "جذرا تسعة",
+   "evidence": "The passage multiplies two roots of nine by three roots of four (L13): the root of the product is two roots of nine times three roots of four, «جذرا تسعة فى ثلاثة أجذار اربعة», as L13 states the factors («جذرى تسعة»). The print has the singular جذر. The editors' note (٢) gives the same correction.",
+   "confidence": "high",
+   "impact": "none on the procedure, which is stated correctly in L13-L15"
+  }
+ ]
+}

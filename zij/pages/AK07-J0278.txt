@@ -1,0 +1,107 @@
+@page 278 244
+@lang de
+% JP2 0278: the glossary, p. 244: I. Arabic words, Kamar to Mirrīkh, in two columns.
+@cl {b:K.}
+@cl {i:Kamar} = {i:ḳamar}, Mond, T. 2{sup:a}, 6—8, 21—26, etc.
+@cl {i:Kamarie} = {i:ḳamarīya}, fem. v. {i:ḳamarī}, auf den
+@cl Mond bezüglich, T. 73, 74.
+@cl {i:Kamene}, verdorben aus {i:Kamarie}.
+@cl {i:Karnain} s. {i:Dulkarnain}.
+@cl {i:Kawekib} (auch {i:Kavvekib}) = {i:kawākib} (pl. v.
+@cl {i:kaukab} od. {i:kawkab}), die Gestirne, insbe-
+@cl sondere die sieben Planeten, T. 55 (N.).
+@cl {i:Keiwen} = {i:Kaiwān}, pers. Name für den Pla-
+@cl neten Saturn, XXII, T. 27—29.
+@cl {i:Ketib} = {i:Kātib}, Schreiber, dann hauptsächlich
+@cl in Spanien und Nordafrika gebräuchlicher
+@cl Name für den Planeten Merkur, T. 51, 53.
+@cl {i:Kiteb} = {i:Kitāb}, Buch ; {i:Kiteb hea} = {i:kitāb al-hai’a},
+@cl Buch der Astronomie, 3 (N. 32) ; es ist hiermit
+@cl vielleicht die Astronomie des {i:Djābir b. Aflaḥ}
+@cl gemeint, die im Ms. des Escorial den Titel
+@cl trägt {i:kitāb al-hai’a}.
+@cl {i:Kucuf} u. {i:Kuzuf} = {i:kusūf}, Finsternis, Ver-
+@cl finsterung (v. Sonne und Mond) 27, T. 73, 74.
+@cl {i:Kucufet} = {i:kusūfāt} (pl. v. {i:kusūf}) s. {i:Kucuf}.
+@cl {i:Kuscus}, wahrscheinl. = {i:ḳaus}, Bogen, 9 ; s. auch
+@cl {i:Cauz}.
+@cl {i:Kuszuf} s. {i:Kucuf}.
+@cl {b:L.}
+@cl {i:Li}, mit dem Artikel verbunden {i:lil}, arab.
+@cl Praepos., zu, für, wegen, in Bezug auf, be-
+@cl zeichnet auch einfach den Dativ ; auch
+@cl Konjunktion : dass, damit. Z.B.{i:libood elabaad}
+@cl = {i:lil-buʿd al-abʿad}, für die weiteste Ent-
+@cl fernung ({i:pro spatio longinquo}) T. 73 — {i:li-}
+@cl {i:burug elhamel} = {i:liburdj al-ḥamal} für das
+@cl Zeichen des Widders, T. 79 — {i:lieztekim} =
+@cl {i:liyastaḳīm}, dass er bestimme, reguliere . . .
+@cl XXI, T. 9 — {i:lilkawekib} = {i:lil-kawākib}, für
+@cl die Gestirne, od. in Bezug auf die Gestirne,
+@cl T. 91 — {i:lilmanshar} = {i:lil-manẓar}, in Bezug
+@cl auf den Anblick (Ort des Erscheinens) 28,
+@cl s. auch {i:Manshar} — {i:liwacat alcuzuf} = {i:liwa-}
+@cl {i:saṭ al-kusūf}, für die Mitte der Finsternis,
+@cl 27, s. auch {i:Wacat}.
+@cl {b:M.}
+@cl {i:Mabsūṭ}, ausgebreitet, ({i:planus}), 36, 77 ; s. auch
+@cl {i:Mobzota}.
+@cl {i:Magesti} (auch {i:Megesti}) = {i:Madjisṭī}, der Alma-
+@cl gest (die grosse Syntaxis) des {sp:Ptolemäus}
+@cl 2, 18, etc.
+@cr {i:Magmoa} = {i:madjmūʿ}, Summe, Gesamtheit ; auch
+@cr Partizip = gesammelt, (fem. {i:madjmūʿa}) T.
+@cr 15 (N. 1) ; {i:filcinun elmagmoa} = {i:fī’l-sinīn}
+@cr {i:al-madjmūʿa}, in den (zu 30) vereinigten
+@cr Jahren ({i:in annis collectis}) T. 69.
+@cr {i:Mahwar} = {i:miḥwar}, Achse, Erdachse, hier Pol
+@cr derselben, 18.
+@cr {i:Maimoa} s. {i:Magmoa}.
+@cr {i:Makuz} = {i:maʿkūs}, verkehrt, 22 (N. 6), 69 ; s. auch
+@cr {i:Mankuz}.
+@cr {i:Mandhar} = {i:manẓar}, Anblick, Ort des Erschei-
+@cr nens, 28 (N. 3), T. 77 ; s. auch {i:Ihtilef}.
+@cr {i:Mankut} s. {i:Mankuz}.
+@cr {i:Mankuz}, 1) = {i:mankūs}, verkehrt, 17, 22, 69, 77 ;
+@cr 2) = {i:manḳūṣ}, vermindert ({i:diminutus}), 17, 69.
+@cr {i:Manshar} s. {i:Mandhar}.
+@cr {i:Marech} = {i:Mirrīkh}, der Planet Mars, T. 13, 14,
+@cr 39, 41—44.
+@cr {i:Mareh} s. {i:Marech}.
+@cr {i:Markez} = {i:markaz}, Mittelpunkt, Centrum, 48 ;
+@cr {i:Tadil elmarkez} = {i:Taʿdīl al-markaz}, Glei-
+@cr chung des Centrums, T. 54.
+@cr {i:Maruz}, verdorben aus {i:Mankuz}, s. dieses.
+@cr {i:Masīr}, Lauf, Bahn, XXI ; {i:al-masīr al-wasaṭ},
+@cr der mittlere Lauf, die mittlere Bewegung,
+@cr 41.
+@cr {i:Matale} = {i:maṭāliʿ} (pl. v. {i:maṭlaʿ}), Aufsteigungen
+@cr der Gestirne ({i:Ascensiones rectae et obliquae}),
+@cr in diesem Werke mit {i:Horoscopi} übersetzt,
+@cr 18 (N. 23), T. 59—59{sup:b}, 91 (N. 1), 95 (N. 1), 97
+@cr (N. 4).
+@cr {i:Matarech} s. {i:Matareh}.
+@cr {i:Matareh} = {i:maṭāriḥ} (pl. v. {i:maṭraḥ}) s. {i:Matrak}.
+@cr {i:Matrak} = {i:maṭraḥ}, Ort der Projektion ; {i:matrak}
+@cr {i:elshoa} = {i:maṭraḥ al-shuʿāʿ}, Ort der Strahlen-
+@cr werfung, 31 (N. 6), T. 91 ; s. auch {i:Shoa}.
+@cr {i:Maudho} = {i:maudūʿ}, Ort, Lage ; {i:maudho Jauze-}
+@cr {i:garhu} = {i:mauḍūʿ djauzaharhu}, Ort seines
+@cr (aufsteigenden) Knotens, T. 34.
+@cr {i:Medek} = {i:mudaḳḳ}, fein zerstossen, in ganz
+@cr kleine Teile geteilt, Minute, 7 (N. 20).
+@cr {i:Medte} = {i:madda} (od. {i:mudda}), Ausdehnung,
+@cr Dauer, T. 13 (N. 17).
+@cr {i:Megil} s. {i:Meil}.
+@cr {i:Meil} = {i:mail}, Neigung, Deklination jedes Punk-
+@cr tes der Ekliptik zum Aequator ; 13, 14, 58,
+@cr T. 21 (N. 4) ; {i:al-mail al-kullī}, die ganze Nei-
+@cr gung, d. h. die Schiefe der Ekliptik.
+@cr {i:Mezen} = {i:mīzān}, Wage, das Tierkreiszeichen
+@cr der Wage, T. 59{sup:b}.
+@cr {i:Mirech}, T. 92, s. Nachtrag 5.
+@cr {i:Mirrīkh}, der Planet Mars, 236.
+@obs The page number «244» stands at the head of the page, centred, with a rule below it. The page has no signature. Two columns divided by a vertical rule, as on pp. [241]-243 (JP2 0275-0277), transcribed column by column: the left column L01-L48, the right L49-L100; the letter heads «K.» (L01), «L.» (L26) and «M.» (L43) in bold, centred in the left column, the last two each after a blank line; each entry begins at the edge of its column, its further lines indented.
+@obs The semicolons of L15, L16, L23, L29, L44, L49, L51, L57, L60, L62, L68, L72, L82, L84, L85, L94 and L95, and the colon of L30, stand after a thin space (7-11 px); written with a space. L23: «Bogen, 9» with a narrow space (12 px) after the comma. L30: «Z.B.libood elabaad» without spaces, as printed; «Ptolemäus» (L47) in spaced roman. The dashes are long (33-41 px; that of L38 in two pieces, 9 and 28 px with a gap of 1 px). L35: «. . .» as printed.
+@obs The entry «Kiteb» (L15-L19) gives «Kiteb hea» on p. 3, note 32, where the list of misprints, p. [237] (JP2 0271, L03), reads «kiteb hea (librum canonum N)». «Mirech, T. 92, s. Nachtrag 5.» (L99) refers to the addition of C on p. 207 (JP2 0239, N03) and to the fifth addition on p. 236 (JP2 0268, L03-L13); «Mirrīkh ... 236» (L100) to the same page.
+@critical AK07-CN290 | missing accent | L85 | {i:maudūʿ} | {i:mauḍūʿ} | the word is printed «mauḍūʿ», with the dot under the d (ḍād), in the next line of the same entry (L86); here the dot is missing | high | none

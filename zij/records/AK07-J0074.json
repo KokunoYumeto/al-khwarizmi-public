@@ -1,0 +1,761 @@
+{
+ "anchor": "AK07-J0074",
+ "jp2_index": 74,
+ "jp2_member": "b24872489_0074.jp2",
+ "jp2_sha256": "001cd5084d0932da2079cff77b4150282c410db978d3a5a2da28abe7f9b972b8",
+ "reading_copy": "page_0074.jpg",
+ "reading_copy_sha256": "9192acfeffcef8fd4038b4ae74ae0ae4c8b03a0028eeee89567055413aed426e",
+ "printed_page": "42",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0074: Suter's commentary, p. 42: chapter 7 continued: the difference from al-Battānī's longitudes and the sidereal year; the length of the year from Tables 4 and 5; the tropical year and the precession; the mean places of the sun and the moon for noon of 15 Ṣafar 540 (notes 1-4).",
+ "lines": [
+  {
+   "id": "AK07-J0074-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "auch bei den Längen der Planeten finden wir diesen Unterschied von 8{sup:1}/{sub:2} bis 9{sup:1}/{sub:2}°",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "auch bei den Längen der Planeten finden wir diesen Unterschied von 81/2 bis 91/2°",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "wieder, mit Ausnahme des Mars, wo der Unterschied 11{sup:1}/{sub:2}° ist ; wahrscheinlich liegen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wieder, mit Ausnahme des Mars, wo der Unterschied 111/2° ist ; wahrscheinlich liegen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "hier Fehler der Abschreiber vor. Diese Unterschiede rühren von der Nichtbeachtung",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "hier Fehler der Abschreiber vor. Diese Unterschiede rühren von der Nichtbeachtung",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "der {i:Praezession} des Frühlingspunktes her ; in der Tat legte {sp:Kh.} für die Bestimmung",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Praezession des Frühlingspunktes her ; in der Tat legte Kh. für die Bestimmung",
+   "italic": [
+    "Praezession"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "des mittlern Laufes der Sonne das {i:Sternjahr} und nicht das {i:tropische} Jahr, wie {sp:Batt.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des mittlern Laufes der Sonne das Sternjahr und nicht das tropische Jahr, wie Batt.",
+   "italic": [
+    "Sternjahr",
+    "tropische"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "zu Grunde ; wenn wir nämlich nach Tafel 4 und 5 die Zeit bestimmen, die die Sonne",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zu Grunde ; wenn wir nämlich nach Tafel 4 und 5 die Zeit bestimmen, die die Sonne",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "braucht, um einen ganzen Umkreis (= 360°) zu durchlaufen, so finden wir :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "braucht, um einen ganzen Umkreis (= 360°) zu durchlaufen, so finden wir :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L08",
+   "n": 8,
+   "kind": "table",
+   "text": "In 12 · 30 = | 360 Tagen | = 12 · (29° 34′ 5″) = | 354° 49′",
+   "cells": [
+    "In 12 · 30 =",
+    "360 Tagen",
+    "= 12 · (29° 34′ 5″) =",
+    "354° 49′"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "In 12 · 30 = | 360 Tagen | = 12 · (29° 34′ 5″) = | 354° 49′",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L09",
+   "n": 9,
+   "kind": "table",
+   "text": "„ | 5 „ | = | 4° 55′ 41″",
+   "cells": [
+    "„",
+    "5 „",
+    "=",
+    "4° 55′ 41″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "„ | 5 „ | = | 4° 55′ 41″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L10",
+   "n": 10,
+   "kind": "table",
+   "text": "„ | 6 Stdn. | = | 14′ 47″",
+   "cells": [
+    "„",
+    "6 Stdn.",
+    "=",
+    "14′ 47″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "„ | 6 Stdn. | = | 14′ 47″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L11",
+   "n": 11,
+   "kind": "table",
+   "text": "„ | 13 Min. | = | 32″",
+   "cells": [
+    "„",
+    "13 Min.",
+    "=",
+    "32″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "„ | 13 Min. | = | 32″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L12",
+   "n": 12,
+   "kind": "table",
+   "text": "also in | 365{sup:d} 6{sup:h} 13{sup:m} | = | 360° 0′ 0″",
+   "cells": [
+    "also in",
+    "365{sup:d} 6{sup:h} 13{sup:m}",
+    "=",
+    "360° 0′ 0″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "also in | 365d 6h 13m | = | 360° 0′ 0″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "{sp:Kh.} nahm also die Länge des Sternjahres zu 365{sup:d} 6{sup:h} 13{sup:m} an ; wir finden im {i:Sūrya-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kh. nahm also die Länge des Sternjahres zu 365d 6h 13m an ; wir finden im Sūrya-",
+   "italic": [
+    "Sūrya-"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "{i:Siddhānta}{sup:1}) für die Länge des Sternjahres 365{sup:d} 6{sup:h} 12,6{sup:m}, was ungefähr mit unserer",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Siddhānta1) für die Länge des Sternjahres 365d 6h 12,6m, was ungefähr mit unserer",
+   "italic": [
+    "Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "Berechnung stimmt{sup:2}). — {sp:Kh.} erwähnt das tropische Jahr gar nicht in seinem Werke,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Berechnung stimmt2). — Kh. erwähnt das tropische Jahr gar nicht in seinem Werke,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "und es scheint in der Tat, dass auch die Inder bis und mit {sp:Brahmagupta} es nicht",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "und es scheint in der Tat, dass auch die Inder bis und mit Brahmagupta es nicht",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Brahmagupta"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "gekannt haben. Das, was im {i:Sūrya-Siddhānta}{sup:3}) über die Praezession gesagt ist, soll",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "gekannt haben. Das, was im Sūrya-Siddhānta3) über die Praezession gesagt ist, soll",
+   "italic": [
+    "Sūrya-Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "nach {sp:Burgess} und {sp:Thibaut}{sup:4}) eine spätere Einschiebung sein ; dagegen lehrte aller-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nach Burgess und Thibaut4) eine spätere Einschiebung sein ; dagegen lehrte aller-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Burgess",
+    "Thibaut"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "dings Āryabhaṭṭa am Ende des 5. Jahrh. n. Chr. die {i:Trepidation} der Fixsterne, bezw.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dings Āryabhaṭṭa am Ende des 5. Jahrh. n. Chr. die Trepidation der Fixsterne, bezw.",
+   "italic": [
+    "Trepidation"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "des Frühlingspunktes.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des Frühlingspunktes.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L21",
+   "n": 21,
+   "kind": "indent",
+   "text": "Als Beispiele für den Gebrauch der Tafeln geben wir die Berechnung des",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Als Beispiele für den Gebrauch der Tafeln geben wir die Berechnung des",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "mittlern Ortes der Sonne und des Mondes für Mittag den {i:15. Ṣafar} des J. 540 d. H.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mittlern Ortes der Sonne und des Mondes für Mittag den 15. Ṣafar des J. 540 d. H.",
+   "italic": [
+    "15. Ṣafar"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L23",
+   "n": 23,
+   "kind": "table",
+   "text": "{i:1. Sonne} : | Länge am Ende des 510. Jahres | = | 38° 35′ 45″",
+   "cells": [
+    "{i:1. Sonne} :",
+    "Länge am Ende des 510. Jahres",
+    "=",
+    "38° 35′ 45″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "1. Sonne : | Länge am Ende des 510. Jahres | = | 38° 35′ 45″",
+   "italic": [
+    "1. Sonne"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L24",
+   "n": 24,
+   "kind": "table",
+   "text": "| Zunahme in 29 Jahren | = | 49° 2′ 50″",
+   "cells": [
+    "",
+    "Zunahme in 29 Jahren",
+    "=",
+    "49° 2′ 50″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| Zunahme in 29 Jahren | = | 49° 2′ 50″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L25",
+   "n": 25,
+   "kind": "table",
+   "text": "| „ „ 1 Monat | = | 29° 34′ 5″",
+   "cells": [
+    "",
+    "„ „ 1 Monat",
+    "=",
+    "29° 34′ 5″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| „ „ 1 Monat | = | 29° 34′ 5″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L26",
+   "n": 26,
+   "kind": "table",
+   "text": "| „ „ 14 Tagen | = | 13° 47′ 54″",
+   "cells": [
+    "",
+    "„ „ 14 Tagen",
+    "=",
+    "13° 47′ 54″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| „ „ 14 Tagen | = | 13° 47′ 54″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L27",
+   "n": 27,
+   "kind": "table",
+   "text": "| Summa | = | 131° 0′ 34″",
+   "cells": [
+    "",
+    "Summa",
+    "=",
+    "131° 0′ 34″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| Summa | = | 131° 0′ 34″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "Also war die mittlere Länge der Sonne zur genannten Zeit = 131° 0′ 34″.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Also war die mittlere Länge der Sonne zur genannten Zeit = 131° 0′ 34″.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L29",
+   "n": 29,
+   "kind": "table",
+   "text": "{i:2. Mond} : | Länge am Ende des 510. Jahres | = | 40° 56′ 38″",
+   "cells": [
+    "{i:2. Mond} :",
+    "Länge am Ende des 510. Jahres",
+    "=",
+    "40° 56′ 38″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "2. Mond : | Länge am Ende des 510. Jahres | = | 40° 56′ 38″",
+   "italic": [
+    "2. Mond"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L30",
+   "n": 30,
+   "kind": "table",
+   "text": "| Zunahme in 29 Jahren | = | 53° 24′ 16″",
+   "cells": [
+    "",
+    "Zunahme in 29 Jahren",
+    "=",
+    "53° 24′ 16″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| Zunahme in 29 Jahren | = | 53° 24′ 16″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L31",
+   "n": 31,
+   "kind": "table",
+   "text": "| „ „ 1 Monat | = | 35° 17′ 26″",
+   "cells": [
+    "",
+    "„ „ 1 Monat",
+    "=",
+    "35° 17′ 26″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| „ „ 1 Monat | = | 35° 17′ 26″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L32",
+   "n": 32,
+   "kind": "table",
+   "text": "| „ „ 14 Tagen | = | 184° 28′ 8″",
+   "cells": [
+    "",
+    "„ „ 14 Tagen",
+    "=",
+    "184° 28′ 8″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| „ „ 14 Tagen | = | 184° 28′ 8″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L33",
+   "n": 33,
+   "kind": "table",
+   "text": "| Summa : | = | 314° 6′ 28″",
+   "cells": [
+    "",
+    "Summa :",
+    "=",
+    "314° 6′ 28″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "| Summa : | = | 314° 6′ 28″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "Also war die mittlere Länge des Mondes zur genannten Zeit = 314° 6′ 28″.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Also war die mittlere Länge des Mondes zur genannten Zeit = 314° 6′ 28″.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) E. {sp:Burgess}, {i:Translation of the S. S.}, im Journal of the American Oriental Society, Vol. VI,",
+   "margin": null,
+   "plain": "1) E. Burgess, Translation of the S. S., im Journal of the American Oriental Society, Vol. VI,",
+   "italic": [
+    "Translation of the S. S."
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Burgess"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "1860, p. 161.",
+   "margin": null,
+   "plain": "1860, p. 161.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "{sup:2}) S. unten Kap. 21 u. 22.",
+   "margin": null,
+   "plain": "2) S. unten Kap. 21 u. 22.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-N04",
+   "n": 4,
+   "kind": "note",
+   "text": "{sup:3}) Transl. {sp:Burgess}, l. c. p. 244—249.",
+   "margin": null,
+   "plain": "3) Transl. Burgess, l. c. p. 244—249.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Burgess"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-N05",
+   "n": 5,
+   "kind": "note",
+   "text": "{sup:4}) {i:Astronomie, Astrologie u. Mathematik}, im Grundriss der Indo-Arischen Philologie u. Alter-",
+   "margin": null,
+   "plain": "4) Astronomie, Astrologie u. Mathematik, im Grundriss der Indo-Arischen Philologie u. Alter-",
+   "italic": [
+    "Astronomie, Astrologie u. Mathematik"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0074-N06",
+   "n": 6,
+   "kind": "note",
+   "text": "tumskunde, 3. Bd. 9. Heft, p. 45–46.",
+   "margin": null,
+   "plain": "tumskunde, 3. Bd. 9. Heft, p. 45–46.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «42» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «auch» continues the sentence that ends p. 41 (JP2 0073, L38) with a semicolon.",
+  "L08-L12: the computation of the year, set as a small table: the ditto marks „ stand under «In» and under «Tagen»; the last row, «also in 365d 6h 13m = 360° 0′ 0″», stands below a rule across the table; «·», the raised dot of multiplication. L23-L27 and L29-L33: the two examples, set as tables: the ditto marks „ under «Zunahme in»; the sums below a short rule under the figures; L23 and L29 «1. Sonne :», «2. Mond :» in italics with their numbers; L33 has «Summa : =», L27 «Summa =». Each printed row is one line here, the cells separated by our «|»; the empty cells give the words room and are not printed. L13-L14: «365d 6h 13m», «365d 6h 12,6m», the letters raised.",
+  "L08-L12, L23-L34. Checked: 12 × 29° 34′ 5″ = 354° 49′; the four values add up to 360° 0′ 0″; 38° 35′ 45″ + 49° 2′ 50″ + 29° 34′ 5″ + 13° 47′ 54″ = 131° 0′ 34″, and 40° 56′ 38″ + 53° 24′ 16″ + 35° 17′ 26″ + 184° 28′ 8″ = 314° 6′ 28″. The month of the examples is Muḥarram, 30 days, and the 14 days run from noon of 1 Ṣafar to noon of 15 Ṣafar; the 29 years 511-539 have eleven leap years, 10277 days; the 510 years are seventeen cycles of 10631 days, 180727 days.",
+  "L08-L14. Checked: the values for 360 days, 5 days, 6 hours and 13 minutes are rounded to the second and the first is twelve times the rounded value for thirty days, so that they fix the length of the year only to within a few minutes. The long periods of the tables fix it more closely, and they fit the year of Brahmagupta's Brahmasphuṭasiddhānta, 1 577 916 450 000 days in 4 320 000 000 years, 365.2584375 days or 365d 6h 12m 9s: with it 10277 days give 49° 2′ 50″, the value of L24, and 180727 days added to the radix 113° 25′ 48″ (p. 41, JP2 0073, L36) give 38° 35′ 47″, against 38° 35′ 45″ in L23; 30 days give 29° 34′ 5″ and 14 days 13° 47′ 54″, as in L25-L26. The year of 365d 6h 13m (L13) gives 49° 1′ 48″ and 38° 17′ 45″, the Sūrya-Siddhānta's year of 1 577 917 828 days in 4 320 000 years 49° 2′ 18″ and 38° 26′ 27″. For the moon, Brahmagupta's 57 753 300 000 revolutions in the same days give 53° 24′ 17″ for the 29 years (L30: 53° 24′ 16″), 35° 17′ 26″ for 30 days and 184° 28′ 8″ for 14 days, as in L31-L32; the Sūrya-Siddhānta's 57 753 336 revolutions give 53° 22′ 15″ for the 29 years.",
+  "L19: «Āryabhaṭṭa», with the macron over the capital A and dots under both t, upright and not spaced. L07: the last n of «durchlaufen» is a bold sort; N02: the first 1 of «161», 23 px wide where the last is 17 px, is a bold sort; transcribed as the letters. N04: «244—249», the long dash set close; N06: «45–46», a shorter dash (26 px) with a gap of 8-9 px on either side; transcribed as an en dash. N01: «S. S.», the Sūrya-Siddhānta, in italics within the title.",
+  "Spaced type, marked {sp:}: «Kh.», «Batt.», «Brahmagupta», «Burgess», «Thibaut». Italics: «Praezession» (L04; upright in L17), «Sternjahr», «tropische» (L05; upright in L15), «Sūrya-Siddhānta», «Trepidation», «15. Ṣafar» with its number, and the titles.",
+  "The colons and semicolons stand after the thin space of the edition (9-12 px measured).",
+  "L08-L13: in the additions, p. 235 (JP2 0267, L22-L33), Suter computes the length of the year again from Tables 4 and 5, without the multiplication by 12, and finds 365d 6h 12m."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

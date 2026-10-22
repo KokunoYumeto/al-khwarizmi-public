@@ -1,0 +1,22 @@
+{
+ "anchor": "AK07-J0272",
+ "jp2_index": 272,
+ "jp2_member": "b24872489_0272.jp2",
+ "jp2_sha256": "ad0a24f16124283fc920ed06c548ef7ec452961905e63598596d08d3df1e6ba8",
+ "reading_copy": "page_0272.jpg",
+ "reading_copy_sha256": "f8caca14f9f4441bc1af62149dd6d6e62ac70bfa1c8f5ff5558c351588019ccb",
+ "printed_page": "[238]",
+ "kind": "blank",
+ "language": null,
+ "role": "blank",
+ "file": "suter",
+ "comment": "JP2 0272: the back of the list of misprints, p. [238]; nothing printed.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Blank. The list of misprints of p. [237] (JP2 0271) shows faintly through the leaf, mirrored; damp stains run down from the top and up from the foot; small specks."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

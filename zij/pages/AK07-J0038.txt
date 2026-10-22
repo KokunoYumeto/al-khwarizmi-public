@@ -1,0 +1,54 @@
+@page 38 6
+@lang la
+% JP2 0038: the Latin text, p. 6: chapter 5, on finding the leap year and the weekday on which a Roman month begins:
+% the sum in days, the subtraction of the cycles of 28 years, the table of the bissextiles; the order of the notulae
+% of the tables; with the apparatus (notes 1-36).
+@ml O 159{sup:v}, C 42{sup:v},
+@c {b:Cap. 5. De anni bissextilis inventione.}
+@ml N 11{sup:v}
+@p Ratio inveniendi annum bissextilem, quotaque feria{sup:1}) quilibet{sup:2}) romanorum
+mensis introeat{sup:3}), secundum tabulas sequentes{sup:4}) haec est. Per annos arabum{sup:5})
+collectos, deinde per planos in annos Alexandri{sup:6}) eis adiunctos, similiterque per
+menses arabum in sua adiuncta{sup:7}) ; collecta itaque hac summa minora in maiora
+reducentur, partes scilicet in dies, dies{sup:8}) in menses, menses in annos. Quoniam
+autem menses subscripti{sup:9}) secundum continentiam XXX dierum annotati sunt, ideo
+quotiens XII menses in annum{sup:10}) reducimus, totiens ab ipsa reductionis summa
+quinque dies{sup:11}) et quartam subtrahemus{sup:12}). Duodecim enim in XXX ducti non
+amplius quam CCCLX producunt. Annus vero{sup:13}) romanorum CCCLXV dies et
+quartam continet. Hac itaque summa perpensa{sup:14}) ab octobre{sup:15}) usque ad mensem
+praesentem computandum est, et quot dies supra XXX mensibus ipsis{sup:16}) ascripti
+sunt, totidem ab hac summa auferendi sunt. Si vero februarius qui{sup:17}) XXVIII die-
+rum est interciderit, supradictae summae propter eum{sup:18}) duo dies addendi sunt.
+Sicque patebit et praesens mensis romanorum et dies{sup:19}). Hoc ergo modo directa
+summa ab ea ipsa XXVIII{sup:20}) anni detrahendi{sup:21}), quotiens ab ea detrahi possunt.
+Ut autem huius detractionis{sup:22}) labor minuatur, subiecta est tabula secundum XXVIII
+numerum{sup:23}) coacervata. Eum itaque numerum, quem in hac tabula{sup:24}) summae
+praedictae proximum eorum qui infra eam sunt{sup:25}) reperies, ab ipsa summa auferes,
+et quod residuum fuerit memoriter teneto{sup:21}).
+@p Secundum hoc igitur residuum in tabulam bissextorum quos arabes {i:kebicen}
+vocant, intrato{sup:27}), et quomodo bissextus ad annum praesentem se habeat apparebit.
+Mensis quoque quilibet, quota feria incipiat, non latebit{sup:28}).
+@p Certitudo autem tabularum negotii praesentis primo mensium, deinde annorum
+planorum, postremo annorum collectorum haec est. Quoniam enim menses arabum,
+qui post annos planos positi sunt, in annos planos mensesque{sup:29}) solares{sup:30}), quorum
+unusquisque, ut dictum est, XXX dierum est{sup:31}), reducendi sunt{sup:32}), ideo primo mensi
+lunari{sup:33}), qui et ipse XXX dierum est{sup:34}), unitas adiuncta est{sup:35}). Secundo vero
+unitas ex praecedente et XXIX{sup:36}) dies ex se ipso annotantur. Secundum hanc igi-
+@n {sup:1}) quotaque feria] qua etiam die O. — {sup:2}) quilibet] quelibet M, quislibet O. — {sup:3}) introeat] intret
+@n O. — {sup:4}) sequentes] praecedentes M. — {sup:5}) arabum] {i:om.} O. — {sup:6}) Alexandri] C, Ale{ov:x} M, Alexandricis O. —
+@n {sup:7}) adiuncta] adiuncta intrabitur, addendo etiam dies si qui supersint O. — {sup:8}) dies] et dies MN. —
+@n {sup:9}) subscripti] praescripti M. — {sup:10}) annum] annos O. — {sup:11}) dies] {i:om.} C. — {sup:12}) subtrahemus] minuemus
+@n O. — {sup:13}) vero] O, {i:om.} C, autem N. — {sup:14}) perpensa] habita O. — {sup:15}) octobre] octobri O. — {sup:16}) ipsis]
+@n {i:ante} ipsis M {i:in ras.} inveneris. — {sup:17}) qui] quia O. — {sup:18}) propter eum] causa eius O. — {sup:19}) Sicque . . . .
+@n dies] {i:om.} O. — {sup:20}) XXVIII] XLVIII M. — {sup:21}) detrahendi] minuendi sunt O. — {sup:22}) detractionis] diminu-
+@n tionis O. — {sup:23}) XXVIII numerum] additionem numeri XXVIII O. — {sup:24}) tabula] {i:om.} M. — {sup:25}) qui infra
+@n eam sunt] qui infra ea sunt C, qui infra eam M, quae infra eam sunt N, eaque minorem O, {i:et om.}
+@n eorum. — {sup:26}) memoriter teneto] tene O. — {sup:27}) intrato] intra O. — {sup:28}) Mensis . . . . latebit] Sed etiam
+@n qua die mensis quislibet incipiat apparebit O. — {sup:29}) planos mensesque] planos et menses O, menses M.
+@n — {sup:30}) solares] tales reducendi sunt O. — {sup:31}) est] {i:om.} M. — {sup:32}) reducendi sunt] {i:om.} O. — {sup:33}) lunari]
+@n unitas adiuncta est O. — {sup:34}) qui . . . . est] est enim et ipse XXX dierum O. — {sup:35}) unitas adiuncta est]
+@n {i:om.} O. — {sup:36}) XXIX] XXX C.
+@obs The page number «6» stands at the head of the page, centred, with a rule below it. L01: the chapter heading, in bold, centred; in the left margin «O 159v, C 42v,» beside it and «N 11v» beside L02, the folios at which the chapter begins in O, C and N.
+@obs L11: the 1 of the note number 15 is a sort of another design, an I with a serif at the head and at the foot, where the other figures 1 of the notes have a flag; transcribed 15. N02: «Ale{ov:x}», the abbreviation of M, Alex with a bar over the x. L14 and L20: the 28 years, «XXVIII», the solar cycle after which the weekdays and the leap years return.
+@obs The semicolon of L05 stands after the thin space of the edition (11 px measured).
+@critical AK07-CN016 | wrong note number | L20 | teneto{sup:21}) | teneto{sup:26}) | the note numbers run 25, 26, 27 (L19-L22), and the apparatus has note 26 on «memoriter teneto» (N10, «26) memoriter teneto] tene O.»); the number after «teneto» is printed 21, which is already the note on «detrahendi» in L15 | high | the variant of O belongs to note 26

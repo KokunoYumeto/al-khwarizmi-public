@@ -1,0 +1,41 @@
+@page 26 ٢٠
+% Frame 026, printed p. 20: the cities of the fourth clime continued, entries 268-286: al-Muthaqqab on the sea,
+% Damascus, Ḥimṣ, Salamiyya, Ḥalab, Manbij, Anṭākiya, al-Maṣṣīṣa, Ṭarsūs, al-Ḥiyār, Bālis, Ḥamāh, Shayzar, Jisr Manbij,
+% Maʿarrat al-Nuʿmān, Fāmiya, al-Raqqa al-Bayḍāʾ, Mayyāfāriqīn and Tadmur. One line of the editor's footnotes.
+@r (٢٦٨) | | المثقّب{n:a} على البحر | س | ل | لو | ك
+@r (٢٦٩) | [١٧٧] | دمشق على حدّ الجبل | س | {z} | لح | {z}
+@r (٢٧٠) | [١٨١] | حمص | سا | {z} | لد | {z}
+@r (٢٧١) | [١٨٣] | سلميّة | سٮ | مه | لح | ل
+@r (٢٧٢) | [١٨٤] | حلب | سح | {z} | لد | ل
+@r (٢٧٣) | [١٨٥] | منبج | سح | مه | له | ل
+@r (٢٧٤) | [١٨٢] | انطاكيّة | سا | له | لد | ى
+@r (٢٧٥) | | المصيصة قرب البحر | ٮط | م | لو | {z}
+@r (٢٧٦) | [٣٢٦] | طرسوس قرب البحر | ٮح | {z} | لو | ٮه
+@r (٢٧٧) | [١٨٦] | الحيار | سد | ٮه | لح | ل
+@r (٢٧٨) | [١٨٧] | بالس | سه | ٮه | لو | {z}
+@r (٢٧٩) | | حماة | سٮ | ٮه | لو | {z}
+@r (٧٨٠) | | شيزر | سٮ | ى | لد | ك
+@r (٢٨١) | [٣٣٨] | جسر منبج | سد | له | لو | ٮه
+@r (٢٨٢) | | معرّة النعمان | سٮ | ل | لد | ن
+@r (٢٨٣) | | فامية | سٮ | ى | لد | ك
+@r (٢٨٤) | [١٨٨] | الرقّة البيضاء | سو | {z} | لو | {z}
+@r (٢٨٥) | [٢٩٨] | ميّافارقين{n:b} | سد | م{n:c} | لر | ٮه
+@r (٢٨٦) | | تدمر | سو | ⟨{z}⟩{n:d} | له | ⟨{z}⟩{n:d}
+@ednotes a b c d 1
+@critical AK05-CN001 | wrong number | L13 | (٧٨٠) | (٢٨٠) | the running numbers of the page go from (٢٧٩) in L12 to (٢٨١) in L14, and the first digit is a ٧, printed like the ٧ of (٢٧٩); the editor's notes do not comment on it | high | none on the table: the running number only counts the entries
+@obs The table goes on from frame 025 without a heading: the cities of the fourth clime, entries 268-286. No entry has the word «مدينة». Entries 268, 275, 279, 280, 282, 283 and 286 have no numbers of Suhrāb; the others have [١٧٧], [١٨١], [١٨٣], [١٨٤], [١٨٥], [١٨٢] (entries 269-274), [٣٢٦] (entry 276), [١٨٦], [١٨٧] (entries 277-278), [٣٣٨] (entry 281), [١٨٨] (entry 284) and [٢٩٨] (entry 285).
+@obs L13: the running number is printed «(٧٨٠)», with a ٧ for the first digit, between (٢٧٩) and (٢٨١); transcribed as printed, with a critical note.
+@obs Signs in the names, transcribed as printed: a shadda over the ق of «المثقّب» (L01), over the د of «حدّ» (L02), over the ي of «سلميّة» (L04), «انطاكيّة» (L07) and «ميّافارقين» (L18), over the ر of «معرّة» (L15) and over the ق of «الرقّة» (L17); «البيضاء» (L17) ends in a hamza on the line after the alif. L01: the three dots of the ث are printed.
+@obs Letters printed without their dots in the numerals, transcribed so: سٮ (L04, L12, L13, L15, L16), the س and a final ب without its dot, a long flat bowl with a short rise at its end, where the isolated س of L01 and L02 has a deep round bowl; ٮط (L08) and ٮح (L09), the tooth without its dot, in the degrees of the longitude; ٮه (L09, L14, L18, the minutes of the latitude; L10-L12, the minutes of the longitude), a tooth joined to a ه. With their dots: ن (L15, the minutes of the latitude).
+@obs L05, L06: the degrees of the longitude are printed سح, without a dot in the bowl of the last letter; the same form is a ج without its dot, 3 (سج, 63), as the ح, 8 (سح, 68). Transcribed as printed.
+@obs L14: below the tooth of the minutes of the latitude, «ٮه», stands a small dark speck, 6 by 8 px, about half the ink of a dot of the font (the dot of the ب of «بالس», L11, is 8 by 8 px); it is not transcribed as a dot.
+@obs Specks, not transcribed: L01, a dark speck to the right of the top of the ل of the minutes of the longitude; L02, a speck above the zero sign of the minutes of the longitude; L13, a round dot to the right of the ك of the minutes of the latitude, on the line; L15, a speck beside the top of the ل of the minutes of the longitude; L16, a speck to the right of the ى of the minutes of the longitude.
+@obs L18: the minutes of the longitude, م, carry the editor's note mark c. L19: the minutes of the longitude and of the latitude are each printed as a zero sign between angle brackets, «⟨ō⟩», with the note mark d: the editor's sign for what he supplies.
+@obs L18, the degrees of the latitude: «لر»: the letter joined to the foot of the ل has the small pointed head of the joined ر, which stands out 8 px from the stem, as the ز of «لز» with its dot (frame 032, L08, L14, L16), where the و of «لو» (L01, L08, L09, L11, L12, L14, L17) is a round loop that stands out 11 to 13 px and begins higher on the stem; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed, which read with ز gives 37.
+@obs The page number «— ٢٠ —» stands at the foot, centred.
+@variant L01: the editor gives the reading of the manuscript as المڡٮ: after ال a م, then a raised loop with a counter and a final ب without its dot, without the tooth of the ث and without the dots of the ق and of the ب.
+@obs L08: the editor's corrigenda (p. 163, frame 169) read «المصّيصة», with a shadda over the ص (critical note AK05-CN019).
+@critical AK05-CN019 | corrected in the corrigenda | L08 | المصيصة | المصّيصة | the editor's list of additions and corrections on p. 163 (frame 169) reads المصّيصة, with a shadda over the ص, for المصيصة in this line, p. 20, line 8 | high | a vowel sign only: the name of entry 275 reads al-Maṣṣīṣa
+@variant L18: the manuscript reads مناڡارقيں for ميّافارقين, with the dot of the ن after the م but not those of the ف and of the final ن.
+@variant L18: for the longitude, سد م, the manuscript gives the variant reading سه م, printed with a line above the numerals.
+@variant L19: the minutes of the longitude and of the latitude are missing in the manuscript.

@@ -1,0 +1,4 @@
+@page 215 -
+@kind blank
+% Frame 215: an endpaper of the library's binding; nothing printed.
+@obs Blank.

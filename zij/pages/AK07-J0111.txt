@@ -1,0 +1,55 @@
+@page 111 79
+@lang de
+% JP2 0111: Suter's commentary, p. 79: the end of chapters 30 and 30a: the factors 11/20 and 29/720 for the apparent
+% diameters, al-Battānī's 47/48; the examples for 90° of anomaly; the Sūrya-Siddhānta; al-Bīrūnī on the
+% Khaṇḍakhādyaka of Brahmagupta (notes 1-6).
+Bewegungen von Sonne und Mond multipliziert, um die scheinbaren Durchmesser
+zu erhalten, und zwar ist der Faktor für die Sonne = 33′ = {cf:33|60} = {cf:11|20}, der für den
+Mond = 2′ 25″{sup:1}) = 2{cf:25|60} ∶ 60 = {cf:145|3600} = {cf:29|720}. {sp:Batt.}{sup:2}) gibt für die Berechnung des
+Monddurchmessers eine ähnliche Regel ; er sagt, man müsse die wahre {i:stündliche}
+Bewegung des Mondes mit 5{cf:7|8} multiplizieren und durch 6 teilen (also mit {cf:47|48} multip-
+lizieren), um den scheinbaren Monddurchmesser zu erhalten ; reduzieren wir den
+Faktor {sp:Kh.}’s auf die {i:stündliche} wahre Bewegung, so wird er = {cf:29|30}, der Unterschied
+beider Faktoren ist = {cf:1|80}. Geben wir für Sonne und Mond je ein {i:Beispiel :}
+@p Die tägliche wahre Bewegung der Sonne für 90° der Anomalie ist nach Tafel 63
+= 2′ 28″ · 24, dieses mit {cf:11|20} multipliziert, gibt für den Sonnendurchmesser 32′ 33{cf:1|2}″,
+für den Halbmesser also 16′ 16{cf:3|4}″ ; die Tafel hat 16′ 17″{sup:3}).
+@p Die tägliche wahre Bewegung des Mondes für 90° der Anomalie ist nach der-
+selben Tafel 32′ 56″ · 24, dieses mit {cf:29|720} multipliziert, gibt für den Monddurchmesser
+31′ 50″, für den Halbmesser also 15′ 55″ ; die Tafel hat 15′ 58″.
+@p Man wird übrigens nicht immer den richtigen Wert der täglichen wahren
+Bewegung von Sonne und Mond finden, wenn man die stündliche mit 24 multipliziert,
+denn die letztern Werte sind in den Tafeln teils ab-, teils aufgerundet, und durch
+die Multiplikation mit 24 wird der Fehler soviel mal grösser. Der Text bemerkt
+daher auch, man finde die tägliche Bewegung, indem man den wahren Ort des
+Gestirns für den Mittag eines bestimmten Tages und ebenso für den Mittag des fol-
+genden Tages bestimme, der Unterschied beider Örter sei der {i:buht} dieses Gestirns.
+@p Die oben genannten Regeln {sp:Kh.}’s zur Bestimmung der scheinbaren Durchmesser
+von Sonne und Mond scheinen den indischen Werken entnommen zu sein. Der
+{i:Sūrya-Siddhānta} enthält allerdings dieselben nicht in dieser Form, und seine Werte
+für die mittlern Durchmesser von Sonne und Mond (32′ 25″ bezw. 32′){sup:4}) stimmen
+auch nicht ganz mit denen {sp:Kh.}’s (32′ 34″ und 31′ 50″), die Unterschiede sind aller-
+dings gering. Aber {sp:Al-Bīrūnī} hat in seinem Werk über Indien{sup:5}) eine Stelle, die
+uns beweist, dass {sp:Kh.} in diesem Punkte sich auf indische Quellen gestützt hat ; er
+sagt, dass die Methode der Berechnung der scheinbaren Durchmesser von Sonne
+und Mond, wie sie der {i:Khaṇḍakhādyaka}{sup:6}) des {sp:Brahmagupta} enthalte, die gleiche
+sei, wie sie in den Tafeln {sp:Kh.}’s gefunden werde. In der Tat kannten die Araber
+schon früh eine Übersetzung dieses Werkes unter dem Namen {i:Al-Arkand,} die später
+von {sp:Al-Bīrūnī} selbst verbessert worden ist, wie er im Verzeichnis seiner Schriften
+angibt. Es unterliegt also wohl keinem Zweifel, dass {sp:Kh.} auch dieses Werk {sp:Brahma-}
+{sp:guptas} gekannt und benutzt habe. (Vergl. weiter unten den Schluss von Kap. 33).
+@n {sup:1}) Der Text hat unrichtig 2′ 16″.
+@n {sup:2}) Ibid. I, 97.
+@n {sup:3}) Bei andern Werten der Anomalie stimmt freilich die Rechnung nicht immer so schön.
+@n {sup:4}) Transl. {sp:Burgess}, p. 269—272.
+@n {sup:5}) {i:Alberunis India}, English Edition by E. C. {sp:Sachau}, London 1888 und 1910, II, 79 (arab.
+@n Text, London 1887, p. 241).
+@n {sup:6}) Ein Werk, das {sp:Brahmagupta} nach seinem {i:Siddhānta}, und auf etwas andern Grundsätzen
+@n aufgebaut, geschrieben hat.
+@obs The page number «79» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 continues the sentence that ends p. 78 (JP2 0110, L32), «mit denen er die wahren täglichen».
+@obs The fractions of L02-L14 are case fractions, small figures over a short bar within the line, written {cf:NUMERATOR|DENOMINATOR}: 33/60, 11/20, 2 25/60, 145/3600, 29/720, 5 7/8, 47/48, 29/30, 1/80, 33½, 16¾. L03: «2 25/60 ∶ 60», the colon of the division with a space on either side (20 and 21 px), written ∶ (U+2236).
+@obs L01-L08. Checked: 33′ = 33/60 = 11/20 of the daily motion of the sun gives its diameter (chapter 30 of the text, p. 22, JP2 0054); for the moon 2′ 25″ = 2 25/60 : 60 = 145/3600 = 29/720 of the daily motion; the text's 0;2,16 (note 1, and p. 23, JP2 0055, L04-L06) does not agree with its hourly rule, 0;58,10, which is 24 × 0;2,25,25. Al-Battānī's 5 7/8 : 6 = 47/48 of the hourly motion; 24 × 29/720 = 29/30; 47/48 − 29/30 = (235 − 232)/240 = 1/80.
+@obs L09-L14. Checked: 2′ 28″ × 24 = 59′ 12″; 59′ 12″ × 11/20 = 32′ 33.6″, «32′ 33½″», and half of it 16′ 16.8″, «16′ 16¾″»; 32′ 56″ × 24 = 13° 10′ 24″, and 13° 10′ 24″ × 29/720 = 31′ 50.1″, half of it 15′ 55″. The values of Table 63, 16′ 17″ and 15′ 58″, are to be compared with the table. L25-L26: 32′ 34″ and 31′ 50″, the diameters of L10 and L14 for 90° of anomaly, the mean distance.
+@obs L30: «Khaṇḍakhādyaka», in italics, with the dot under the ṇ and the macrons; L27 and L33 «Al-Bīrūnī» spaced; L34-L35 «Brahma-|guptas» spaced across the division. N02: «Ibid.», Nallino's edition of al-Battānī (p. 78, JP2 0110, N09).
+@obs Spaced type, marked {sp:}: «Batt.», «Kh.», «Al-Bīrūnī», «Brahmagupta», «Brahmaguptas», «Burgess», «Sachau»; italics: «stündliche», «Beispiel :», «buht», «Sūrya-Siddhānta», «Khaṇḍakhādyaka», «Al-Arkand,», «Alberunis India», «Siddhānta».
+@obs The other colons and the semicolons stand after the thin space of the edition (10-17 px measured; «Beispiel :», in italics, 10 px).

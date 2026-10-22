@@ -1,0 +1,465 @@
+{
+ "anchor": "AK02-F025",
+ "frame": 25,
+ "frame_file": "page_025.jpg",
+ "frame_sha256": "7c61f581ce19f9b7a07f570c653725d60eb292ef3182cc68b6faaa9663737233",
+ "printed_page": "19",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 025, printed p. 19: two degrees and 45 minutes multiplied by three degrees, 10 minutes and 30 seconds: both factors brought down to their lowest order, multiplied, and the product raised by divisions by sixty; the general rule; a shorter way announced.",
+ "lines": [
+  {
+   "id": "AK02-F025-L01",
+   "n": 1,
+   "kind": "indent",
+   "text": "Et si uolueris multiplicare duo integra, idest duos gradus",
+   "margin": null,
+   "plain": "Et si uolueris multiplicare duo integra, idest duos gradus",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "et {sc:xlv}. minuta in tribus integris et {sc:x}. minutis , ac .{sc:xxx}.",
+   "margin": null,
+   "plain": "et xlv. minuta in tribus integris et x. minutis , ac .xxx.",
+   "italic": [],
+   "small_caps": [
+    "xlv",
+    "x",
+    "xxx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "secundis, pone duo integra minuta, idest multiplicabis ea in",
+   "margin": null,
+   "plain": "secundis, pone duo integra minuta, idest multiplicabis ea in",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L04",
+   "n": 4,
+   "kind": "text",
+   "text": ".{sc:lx}., et erunt .{sc:c}.{sc:xx}., quibus addes predicta .{sc:xlv}. minuta,",
+   "margin": null,
+   "plain": ".lx., et erunt .c.xx., quibus addes predicta .xlv. minuta,",
+   "italic": [],
+   "small_caps": [
+    "lx",
+    "c",
+    "xx",
+    "xlv"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "et erunt .{sc:x}{sup:.c.}{sc:lv}. minuta:serva ea; quare iam reddidisti ea in ul-",
+   "margin": null,
+   "plain": "et erunt .x.c.lv. minuta:serva ea; quare iam reddidisti ea in ul-",
+   "italic": [],
+   "small_caps": [
+    "x",
+    "lv"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "timam differentiam.Post hec fac predictos tres gradus minuta,",
+   "margin": null,
+   "plain": "timam differentiam.Post hec fac predictos tres gradus minuta,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "multiplicando ea in {sc:lx}. ut supra. Quibus addes .{sc:x}. predicta",
+   "margin": null,
+   "plain": "multiplicando ea in lx. ut supra. Quibus addes .x. predicta",
+   "italic": [],
+   "small_caps": [
+    "lx",
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "minuta, et erunt .{sc:c}.{sc:xc}. minuta: de inde pone ipsa .{sc:c}.{sc:xc}. mi-",
+   "margin": null,
+   "plain": "minuta, et erunt .c.xc. minuta: de inde pone ipsa .c.xc. mi-",
+   "italic": [],
+   "small_caps": [
+    "c",
+    "xc",
+    "c",
+    "xc"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "nuta secunda, multiplicando iterum ea in .{sc:lx}., donec reddas",
+   "margin": null,
+   "plain": "nuta secunda, multiplicando iterum ea in .lx., donec reddas",
+   "italic": [],
+   "small_caps": [
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "ea in ultimam differentiam, idest in secunda. Erunt .{sc:xi}. milia",
+   "margin": null,
+   "plain": "ea in ultimam differentiam, idest in secunda. Erunt .xi. milia",
+   "italic": [],
+   "small_caps": [
+    "xi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "quadrigenta, quibus addes .{sc:xxx}. secunda que sunt cum eis.",
+   "margin": null,
+   "plain": "quadrigenta, quibus addes .xxx. secunda que sunt cum eis.",
+   "italic": [],
+   "small_caps": [
+    "xxx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "Eruntque .{sc:xi}. milia quadringenta secunda. Sicque reddes ea",
+   "margin": null,
+   "plain": "Eruntque .xi. milia quadringenta secunda. Sicque reddes ea",
+   "italic": [],
+   "small_caps": [
+    "xi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "in ultimum genus fractionis eiusdem numeri. Multiplica hec",
+   "margin": null,
+   "plain": "in ultimum genus fractionis eiusdem numeri. Multiplica hec",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "omnia predicta in .{sc:c}. {sc:lxv}. minuta, et erunt mille milium, et",
+   "margin": null,
+   "plain": "omnia predicta in .c. lxv. minuta, et erunt mille milium, et",
+   "italic": [],
+   "small_caps": [
+    "c",
+    "lxv"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "octingenta octoginta quinque milia ac nongenta quinquaginta",
+   "margin": null,
+   "plain": "octingenta octoginta quinque milia ac nongenta quinquaginta",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "tercia: quare multiplicasti ea,idest in secundas in minutiis, et",
+   "margin": null,
+   "plain": "tercia: quare multiplicasti ea,idest in secundas in minutiis, et",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "facta sunt tercia. Quod diuides per {sc:lx}., ut reddantur secun-",
+   "margin": null,
+   "plain": "facta sunt tercia. Quod diuides per lx., ut reddantur secun-",
+   "italic": [],
+   "small_caps": [
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "da. Exibuntque tibi .{sc:xxxi}. milia et quadringenta .{sc:xxx}.{sup:ta} {sc:ii}.{sup:o}",
+   "margin": null,
+   "plain": "da. Exibuntque tibi .xxxi. milia et quadringenta .xxx.ta ii.o",
+   "italic": [],
+   "small_caps": [
+    "xxxi",
+    "xxx",
+    "ii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "secunda, et remanebunt .{sc:xxx}.{sup:ta} tercia. Item diuides secunda",
+   "margin": null,
+   "plain": "secunda, et remanebunt .xxx.ta tercia. Item diuides secunda",
+   "italic": [],
+   "small_caps": [
+    "xxx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "per .{sc:lx}.,ut reddantur minuta. Exibuntque tibi quingenta .{sc:xx}.",
+   "margin": null,
+   "plain": "per .lx.,ut reddantur minuta. Exibuntque tibi quingenta .xx.",
+   "italic": [],
+   "small_caps": [
+    "lx",
+    "xx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "tria minuta , et super erunt {sc:lii}. secunda. Rursum diuide",
+   "margin": null,
+   "plain": "tria minuta , et super erunt lii. secunda. Rursum diuide",
+   "italic": [],
+   "small_caps": [
+    "lii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "minuta, ut reddantur gradus, idest numerus integer. Eruntque",
+   "margin": null,
+   "plain": "minuta, ut reddantur gradus, idest numerus integer. Eruntque",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L23",
+   "n": 23,
+   "kind": "text",
+   "text": ".{sc:viii}.{sup:to}, et remanebunt .{sc:xl}{sup:ta}{sc:iii}{sup:a}. minuta. Eritque omne quod",
+   "margin": null,
+   "plain": ".viii.to, et remanebunt .xltaiiia. minuta. Eritque omne quod",
+   "italic": [],
+   "small_caps": [
+    "viii",
+    "xl",
+    "iii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "exierit de multiplicacione octo gradus, et {sc:xliii}. minuta, et",
+   "margin": null,
+   "plain": "exierit de multiplicacione octo gradus, et xliii. minuta, et",
+   "italic": [],
+   "small_caps": [
+    "xliii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "{sc:lii}. secunda, ac .{sc:xxx}. tercia: et similiter facies de uniuersis",
+   "margin": null,
+   "plain": "lii. secunda, ac .xxx. tercia: et similiter facies de uniuersis",
+   "italic": [],
+   "small_caps": [
+    "lii",
+    "xxx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "fractionibus; reddes scilicet unamquamque ex eis quam uolue-",
+   "margin": null,
+   "plain": "fractionibus; reddes scilicet unamquamque ex eis quam uolue-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "ris multiplicare in aliam inferiorem differentiam que fuerit in",
+   "margin": null,
+   "plain": "ris multiplicare in aliam inferiorem differentiam que fuerit in",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "unaquaque ex eis. Post hec multiplica unam earum in aliam;",
+   "margin": null,
+   "plain": "unaquaque ex eis. Post hec multiplica unam earum in aliam;",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "et serua quod exierit;et uide ex qua differentiarum sit: deinde",
+   "margin": null,
+   "plain": "et serua quod exierit;et uide ex qua differentiarum sit: deinde",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "diuide per .{sc:lx}. quemadmodum dixi tibi , ut erigas eas ad",
+   "margin": null,
+   "plain": "diuide per .lx. quemadmodum dixi tibi , ut erigas eas ad",
+   "italic": [],
+   "small_caps": [
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "gradus, uel ergo peruenerint ex differentiis que sunt infra gra-",
+   "margin": null,
+   "plain": "gradus, uel ergo peruenerint ex differentiis que sunt infra gra-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "dus, et quod fuerit, ipsum erit quod exiuit tibi de multiplica-",
+   "margin": null,
+   "plain": "dus, et quod fuerit, ipsum erit quod exiuit tibi de multiplica-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F025-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "cione unius earum in aliam : et est ei alius modus breuior:",
+   "margin": null,
+   "plain": "cione unius earum in aliam : et est ei alius modus breuior:",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 19 )» stands at the head of the page, centred. The page has no footnotes and no signature.",
+  "L01-L25: two degrees and forty-five minutes multiplied by three degrees, ten minutes and thirty seconds. The first factor is turned into minutes: two by sixty, 120, and forty-five, 165 (printed «.xlv.» with «.c.» above it, see the critical note). The second into minutes, three by sixty and ten, 190, and into seconds, 190 by sixty, 11400, and thirty, 11430 (printed 11400, see the critical note). Seconds by minutes give thirds: 11430 by 165, 1885950 thirds, «mille milium, et octingenta octoginta quinque milia ac nongenta quinquaginta»; divided by sixty, 31432 seconds and thirty thirds; by sixty, 523 minutes and fifty-two seconds; by sixty, eight degrees and forty-three minutes. The product: eight degrees, 43 minutes, 52 seconds and 30 thirds.",
+  "L25-L33: the general rule: each factor is brought down to the lowest order in it, the two are multiplied, the order of the product is found, and the product is raised by divisions by sixty to degrees. The page ends with the announcement of a shorter way, «alius modus breuior:».",
+  "L05: the numeral «.xlv.» has «.c.», in smaller type, set above it over the junction of the x and the l; transcribed after the x as a raised group. L05: «serva», with v, where the edition prints u elsewhere (L29 «serua»); transcribed as printed. L11: «quadrigenta», without the n, where L12 and L18 have «quadringenta».",
+  "Numerals: L02 «xlv.» and «x.», L07 «lx.», L14 «lxv.», L17 «lx.,», L21 «lii.», L24 «xliii.» and L25 «lii.» without the opening point; L14 «.c. lxv.», one hundred and sixty-five, with a word space after the point of «.c.» (20 px). Raised letters: L18 «.xxx.ta ii.o», triginta duo, L19 «.xxx.ta», L23 «.viii.to», octo, and «.xlta iiia.», quadraginta tria, with no point between «xlta» and «iiia».",
+  "Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): with a space before the mark, L02 «minutis ,» (18 px), L21 «minuta ,» (19 px), L30 «tibi ,» (21 px) and L33 «aliam :» (23 px); without a space after the mark, L05 «minuta:serva» (2 px), L06 «differentiam.Post» (6 px, the median word space of the line 18 px), L16 «ea,idest» (5 px), L20 «.lx.,ut» (6 px) and L29 «exierit;et» (6 px). L08 «minuta:», the colon 9 px from the word, is set close, with a space after it (14 px). L09 «secunda, multiplicando» (14 px, median 19 px), L12 «.xi. milia» (15 px, median 19.5 px) and L18 «da. Exibuntque» (21 px, median 26 px) have a space. Specks after the point of L13 «numeri.» and L24 «xliii.» and after the comma of L14 «milium,» shorten the measured gaps; the gaps to the next word are 20, 34 and 27 px. The semicolons of L05, L26, L28 and L29 have printed tails (darkest pixel 54 to 63); L25 «tercia:» is a colon, its two dots without a tail."
+ ],
+ "copy_matter": [
+  "A reader's notes in pencil: «quia» in the right margin beside L05 and L16, with «quare» underlined in both lines; L07, a bracket after «Quibus»; L11, «quadrigenta» underlined and «quadringenta» in the right margin; L17, a stroke above «sunt»; L19, a slash through the s of «diuides», with a slash and the deletion sign (deleatur) in the right margin; L25, «et» underlined and «quod» in the right margin, and a light stroke at the upper right of the colon of «tercia:»; L26, a small stroke below «quam»; L33, a slash through the m of «aliam», «alia» written below the line, «et» underlined, and «Quod» in the right margin. Not part of the edition."
+ ],
+ "critical_notes": [
+  {
+   "id": "AK02-CN014",
+   "class": "wrong numeral",
+   "line": "L05",
+   "printed": ".xlv. with .c. set above",
+   "proposed": ".c.lxv.",
+   "evidence": "two degrees are 120 minutes (L04), and with the forty-five minutes they make 165, the number multiplied in L14, «.c. lxv.»; the print has «xlv», forty-five, with «.c.» set above between the x and the l, which read as c added to xlv is 145",
+   "confidence": "high",
+   "impact": "the sum of the minutes reads forty-five with an added hundred; the working continues with 165"
+  },
+  {
+   "id": "AK02-CN015",
+   "class": "omitted numeral",
+   "line": "L12",
+   "printed": ".xi. milia quadringenta secunda",
+   "proposed": ".xi. milia quadringenta .xxx. secunda",
+   "evidence": "190 minutes are 11400 seconds (L10-L11), and the thirty seconds added in L11 make 11430; the product that follows (L14-L16), 1885950 thirds, is 11430 by 165, where 11400 by 165 is 1881000",
+   "confidence": "high",
+   "impact": "the number of seconds reads 11400 for 11430; the product is computed from 11430"
+  }
+ ]
+}

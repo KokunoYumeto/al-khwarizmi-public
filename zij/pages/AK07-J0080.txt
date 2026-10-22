@@ -1,0 +1,48 @@
+@page 80 48
+@lang de
+% JP2 0080: Suter's commentary, p. 48: chapter 10 continued: the equation of the centre measured by the angle E'HE,
+% its sine and tangent; the mean centrum m; the formula for tg E'HE with and without R = 60; the equation of the
+% anomaly, sin RET, from the position of the planet on the epicycle (notes 1-2).
+wird von {sp:Batt.} die {i:Gleichung der Anomalie und des Centrums} oder auch nur {i:Gleichung}
+{i:des Centrums} genannt, sie ist auch die Differenz zwischen dem {i:mittlern} und {i:wahren}
+{i:Apogeum} des Epizykels. — Diese Gleichung wird durch den ∢ {i:E′HE} gemessen ; zieht
+man {i:MS} und {i:EN} senkrecht auf die Verlängerung von {i:QHE′}, so hat man aus dem
+rechtwinkligen Dreieck {i:ENH} :
+@c sin {i:E′HE} = {fr:{i:EN}|{i:EH}}, oder tg {i:E′HE} = {fr:{i:EN}|{i:HN}}.
+@p Es sei nun {i:m} = Bogen {i:AQ}, d. h. die Differenz zwischen der mittlern Länge des
+Planeten und derjenigen des Apogeums des exzentrischen Kreises, welcher Bogen
+durch den ∢ {i:AE′Q} gemessen wird, und von den Arabern das {i:Centrum} ({i:al-markaz})
+genannt wurde, weil er aus dem Centrum des {i:Aequans} gemessen gedacht wird ; ferner
+sei {i:e} die Exzentrizität {i:EM} = {i:E′M}, {i:ρ} = {i:HM} = Radius des Deferens, so findet man
+leicht :
+@c tg aeq. centri = tg {i:E′HE} = {fr:2{i:e} sin {i:m}|{rt:{i:ρ}{sup:2} − ({fr:{i:e} sin {i:m}|{i:R}}){sup:2}} + {fr:{i:e} cos {i:m}|{i:R}}}{sup:1}),
+oder {i:R} = 1, und {fr:{i:e}|{i:ρ}} = {i:e}{sub:1} gesetzt :
+@c tg {i:E′HE} = {fr:2{i:e}{sub:1} sin {i:m}|{rt:1 − ({i:e}{sub:1} sin {i:m}){sup:2}} + {i:e}{sub:1} cos {i:m}}{sup:2}).
+@p Die {i:Gleichung der Anomalie und des Centrums} mit Hilfe dieser Formeln bestimmt
+ergibt die Werte, die bei {sp:Batt.} in den Tafeln der Gleichungen der Planeten (ed.
+{sp:Nallino} II, 108—137) in Kolonne III stehen. Es muss aber an der Länge der Pla-
+neten noch eine andere Korrektur vorgenommen werden, die abhängig ist von der
+Stellung des Planeten im Epizykel. Der Planet sei in {i:P} (s. folg. Fig.), es wird der
+Bogen {i:RT}, oder der ∢ {i:RET} gesucht ; zieht man {i:PS} senkrecht auf {i:ER}, so ist :
+@c sin {i:RET} = {fr:{i:PS}|{i:EP}} = {fr:{i:PS}|Geozentr. Dist. d. Plan.},
+aber {i:PS} = {i:PH} · sin {i:RHP} = {i:r} sin {i:ψ}, wo {i:r} der Radius des Epizykels, in Dezimalteilen
+des Radius des Deferens oder des Aequans ({i:MH} = 1) ausgedrückt ist, und {i:ψ} den Winkel
+(Bogen) bedeutet, den der Planet vom Apogeum des Epizykels an bis zum Ort {i:P}
+beschrieben hat, d. h. die {i:Anomalie}. Die Distanz {i:EP} des Planeten von der Erde ist
+aber = {rt:({i:EH} + {i:HS}){sup:2} + {i:PS}{sup:2}} = {rt:(Dist. centri epic. + {i:r} cos {i:ψ}){sup:2} + ({i:r} sin {i:ψ}){sup:2}}, also
+@c sin {i:RET} = {fr:{i:r} sin {i:ψ}|{rt:(Dist. centri epic. + {i:r} cos {i:ψ}){sup:2} + ({i:r} sin {i:ψ}){sup:2}}}.
+Dieser Winkel wird die {i:Gleichung der Anomalie} genannt, er ist der Unterschied zwischen
+der wahren Länge des Centrums {i:H} des Epizykels und der wahren Länge des Planeten
+in der Ekliptik. Durch die Tangens ausgedrückt, findet man einfacher:
+@n {sup:1}) {i:R} bedeutet hier 60{sup:p}, da die trigonom. Funktionen der Araber sich immer auf einen Kreis
+@n mit dem Radius 60 beziehen ; in der zweiten Formel ist der Radius des Kreises = 1 statt = 60
+@n angenommen.
+@n {sup:2}) Wollte man den ∢ {i:E′HE} mit Hilfe des Sinus bestimmen, was sehr wahrscheinlich {sp:Batt.}
+@n getan hat, so würde die Formel wesentlich komplizierter (vergl. {sp:Batt.} ed. {sp:Nallino}, II, 240).
+@obs The page number «48» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «wird von Batt.» continues «die Differenz zwischen beiden, der mittlern und der wahren Länge, d. h. der Bogen RQ,» at the end of p. 47 (JP2 0079, L39).
+@obs The formulas of L06, L13, L15, L22 and L28 are displayed, each in a line of its own, centred; their fractions are built up, written {fr:NUMERATOR|DENOMINATOR}, and the square roots are printed with the radical sign and a bar over the radicand, written {rt:…}. In L13 the bar covers «ρ² − (e sin m / R)²» and «+ e cos m / R» stands after it; in L15 it covers «1 − (e₁ sin m)²»; L14 and L27 have a fraction and the roots within the line. L13 and L15 end with the note numbers, «1)» with a comma after it and «2)» with a full stop. The letters of the figures, e, m, ρ, r, ψ and R are italic, «sin», «cos», «tg», «aeq. centri», «Dist. centri epic.» and «Geozentr. Dist. d. Plan.» upright; the minus sign is printed as a short dash, transcribed «−».
+@obs L03-L15. Checked: with M the centre of the deferent of radius ρ, E′ and E on the line of the apsides at the distance e on either side of M, E′ on the side of the apogee, and m = ∢ AE′Q the mean centrum measured at E′, the perpendicular from E to the line H E′ produced (L04) is E N = 2e sin m, and H N = H E′ + E′ N = (√(ρ² − e² sin² m) − e cos m) + 2e cos m = √(ρ² − e² sin² m) + e cos m, so that tg E′HE = E N : H N = 2e sin m : (√(ρ² − e² sin² m) + e cos m); this is the formula of L13 with the sine and cosine of a circle of radius R (note 1), and with R = 1 and e₁ = e : ρ, dividing above and below by ρ, that of L15.
+@obs L20-L28. Checked: S is the foot of the perpendicular from P to the line E H R; with the anomaly ψ = ∢ RHP, H S = r cos ψ and P S = r sin ψ, so that E P² = (E H + H S)² + P S², as in L27, and sin RET = P S : E P, as in L28.
+@obs L15: the subscript 1 of the last e₁ is printed broken, like a comma; a speck above the line between «sin» and «m» in the radicand. L31: the colon after «einfacher» is set close to the word (3 px), where the other colons and semicolons of the page stand after the thin space of the edition (8-14 px measured).
+@obs Spaced type, marked {sp:}: «Batt.», «Nallino». Italics: «Gleichung der Anomalie und des Centrums», «Gleichung des Centrums», «mittlern» and «wahren Apogeum», «Centrum» (L09), «al-markaz», «Aequans» (L10; upright in L24), «Anomalie» (L26), «Gleichung der Anomalie», and the letters. N01: «60p», the p raised.
+@obs L10: corrected in the additions, p. 235 (JP2 0267, L15-L17): «weil er die Lage des Centrums des Epizykels in Bezug auf das Apogeum des Exzenters angibt».

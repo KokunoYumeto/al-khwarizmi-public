@@ -1,0 +1,405 @@
+{
+ "anchor": "AK02-F019",
+ "frame": 19,
+ "frame_file": "page_019.jpg",
+ "frame_sha256": "12710b550818ddb8d96f072e1b667d6ec99977215182f16a1ab4dd576542b8f1",
+ "printed_page": "13",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 019, printed p. 13: the proof of multiplication by casting out nines, continued; the beginning of division: the number to be divided written above, the divisor below it, shifted to the right when the highest place above is smaller; the quotient found and multiplied into the divisor, the product subtracted.",
+ "lines": [
+  {
+   "id": "AK02-F019-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "duplicasti per .{sc:ix}., et quod remanserit infra .{sc:ix}., serua. Ite-",
+   "margin": null,
+   "plain": "duplicasti per .ix., et quod remanserit infra .ix., serua. Ite-",
+   "italic": [],
+   "small_caps": [
+    "ix",
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "rum diuide alium numerum per .{sc:ix}., et quod remanserit infra",
+   "margin": null,
+   "plain": "rum diuide alium numerum per .ix., et quod remanserit infra",
+   "italic": [],
+   "small_caps": [
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L03",
+   "n": 3,
+   "kind": "text",
+   "text": ".{sc:ix}. serua. Deinde multiplica quod remanserit de primo in eo",
+   "margin": null,
+   "plain": ".ix. serua. Deinde multiplica quod remanserit de primo in eo",
+   "italic": [],
+   "small_caps": [
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "quod remanserit tibi de secundo; et proinde ex eo quod colle-",
+   "margin": null,
+   "plain": "quod remanserit tibi de secundo; et proinde ex eo quod colle-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "ctum fuerit .{sc:ix}., si fuerit ibi; et si non fuerint ibi .{sc:ix}., quod",
+   "margin": null,
+   "plain": "ctum fuerit .ix., si fuerit ibi; et si non fuerint ibi .ix., quod",
+   "italic": [],
+   "small_caps": [
+    "ix",
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "remanserit, erunt nota. Si autem fuerint ibi .{sc:ix}., proice .{sc:ix}.",
+   "margin": null,
+   "plain": "remanserit, erunt nota. Si autem fuerint ibi .ix., proice .ix.",
+   "italic": [],
+   "small_caps": [
+    "ix",
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "et serua quod remanserit; et quare hec erunt nota, intellige.",
+   "margin": null,
+   "plain": "et serua quod remanserit; et quare hec erunt nota, intellige.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "Post hec multiplica unam multiplicationem in aliam;et diuide",
+   "margin": null,
+   "plain": "Post hec multiplica unam multiplicationem in aliam;et diuide",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "quod collectum fuit per .{sc:ix}.; et quod remanserit, si fuerit si-",
+   "margin": null,
+   "plain": "quod collectum fuit per .ix.; et quod remanserit, si fuerit si-",
+   "italic": [],
+   "small_caps": [
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "mile illi quod dixi tibi de nota, scito quare inuenisti. Si uero",
+   "margin": null,
+   "plain": "mile illi quod dixi tibi de nota, scito quare inuenisti. Si uero",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "non fuerit simile, errasti: intellige.",
+   "margin": null,
+   "plain": "non fuerit simile, errasti: intellige.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L12",
+   "n": 12,
+   "kind": "indent",
+   "text": "In diuisione autem pones numerum quem uolueris diuidere",
+   "margin": null,
+   "plain": "In diuisione autem pones numerum quem uolueris diuidere",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "per differentias suas : postea pones ipsum numerum, super",
+   "margin": null,
+   "plain": "per differentias suas : postea pones ipsum numerum, super",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "quem uis diuidere, sub eo. Sitque ultima differentia numeri",
+   "margin": null,
+   "plain": "quem uis diuidere, sub eo. Sitque ultima differentia numeri",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "super quem diuidis sub ultima differentia superioris numeri",
+   "margin": null,
+   "plain": "super quem diuidis sub ultima differentia superioris numeri",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "quem diuidis. Si autem fuerit numerus, qui est ultima diffe-",
+   "margin": null,
+   "plain": "quem diuidis. Si autem fuerit numerus, qui est ultima diffe-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "rentia superioris numeri quem uis diuidere, minus illo qui est",
+   "margin": null,
+   "plain": "rentia superioris numeri quem uis diuidere, minus illo qui est",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "ultima differentia inferioris numeri super quem diuidis, re-",
+   "margin": null,
+   "plain": "ultima differentia inferioris numeri super quem diuidis, re-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "trahe ipsam differentiam uersus dexteram, donec sit numerus",
+   "margin": null,
+   "plain": "trahe ipsam differentiam uersus dexteram, donec sit numerus",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "superioris differentie plus 1 : pone ultimam differentiam infe-",
+   "margin": null,
+   "plain": "superioris differentie plus 1 : pone ultimam differentiam infe-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "rioris numeri, super quem diuidis,sub differentia secunda que",
+   "margin": null,
+   "plain": "rioris numeri, super quem diuidis,sub differentia secunda que",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "succedit ultimam differentiam superioris numeri. Post hec",
+   "margin": null,
+   "plain": "succedit ultimam differentiam superioris numeri. Post hec",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "aspice primam differentiam numeri super quem uis diuidere,",
+   "margin": null,
+   "plain": "aspice primam differentiam numeri super quem uis diuidere,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "et pone in directo eius super numerum superioriorem({i:sic})quem",
+   "margin": null,
+   "plain": "et pone in directo eius super numerum superioriorem(sic)quem",
+   "italic": [
+    "sic"
+   ],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "diuidis, uel sub eo in directo eius aliquem|numerum quem inde",
+   "margin": "car. 106 {i:verso}.",
+   "plain": "diuidis, uel sub eo in directo eius aliquem|numerum quem inde",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "multiplicaueris in ultima differentia inferioris numeri super",
+   "margin": null,
+   "plain": "multiplicaueris in ultima differentia inferioris numeri super",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "quem diuidis, erit similis illius numeri qui fuerit in superiori",
+   "margin": null,
+   "plain": "quem diuidis, erit similis illius numeri qui fuerit in superiori",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "differentia, uel prope eum qui sit minus illo. Cumque scieris",
+   "margin": null,
+   "plain": "differentia, uel prope eum qui sit minus illo. Cumque scieris",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "eum, multiplica eum in ultima differentia inferioris numeri,",
+   "margin": null,
+   "plain": "eum, multiplica eum in ultima differentia inferioris numeri,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "et minue quod exierit tibi de multiplicatione de eo quod est",
+   "margin": null,
+   "plain": "et minue quod exierit tibi de multiplicatione de eo quod est",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "supra eum ex inferiori numero qui diuiditur.Iterum multiplica",
+   "margin": null,
+   "plain": "supra eum ex inferiori numero qui diuiditur.Iterum multiplica",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "eum in secunda differentia que succedit ultimam differentiam",
+   "margin": null,
+   "plain": "eum in secunda differentia que succedit ultimam differentiam",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F019-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "uersus dexteram; et minue eum de eo quod est super eum; et",
+   "margin": null,
+   "plain": "uersus dexteram; et minue eum de eo quod est super eum; et",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 13 )» stands at the head of the page, centred. The page has no footnotes and no signature.",
+  "L20: «plus 1 :», the figure one, an old-style arabic numeral with a flag at its top, between word spaces (20 and 23 px), in the Latin text.",
+  "L24: «superioriorem(sic)quem»: the edition marks the form with «(sic)» in italics, set close to the words on both sides (6 and 4 px). L25: the vertical bar between «aliquem» and «numerum», set close to both words, marks the beginning of fol. 106 verso of the manuscript, which the note in the right margin, «car. 106 verso.», names; transcribed as a margin note.",
+  "Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): with a space before the mark, L13 «suas :» (21 px) and L20 «1 :» (23 px); without a space after the mark, L08 «aliam;et» (10 px, the median word space of the line 15.5 px), L21 «diuidis,sub» (11 px, median 17 px) and L31 «diuiditur.Iterum» (9 px, median 15 px); L09 «.ix.; et» (12 px, median 16.5 px) has a space. The commas of L17 «diuidere,» and L18 «diuidis,» stand 8 px from the word, without a space.",
+  "Marks not transcribed: light specks at mid-height between «per» and «differentias» (L13) and between «quem» and «diuidis» (L27)."
+ ],
+ "copy_matter": [
+  "A reader's notes in pencil: «proice» in the right margin beside L04, with «proinde» underlined; «erit» in the left margin beside L06, with «erunt» underlined, and «erit» faintly in the right margin; «quia hoc erit» beside L07, with «quare hec erunt» underlined; «fuerit» beside L09, with «fuit» underlined; «quia» beside L10, with «quare» underlined; faint erased words in the right margin beside L08-L09; L14, «quem» underlined; «idest» in the right margin beside L20, with a stroke under «1 :»; L21, a stroke over «diuidis»; «cum» in the right margin beside L25, with «inde» underlined; L29, a stroke after «numeri,»; «sollte · quo sein» (German, should be «quo») in the right margin beside L31; L32, a stroke over «succedit». Not part of the edition."
+ ],
+ "critical_notes": []
+}

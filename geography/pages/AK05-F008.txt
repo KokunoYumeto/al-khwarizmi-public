@@ -1,0 +1,4 @@
+@page 8 -
+@kind provenance
+% Frame 008: the verso of the 1926 title page: nothing printed; the library's call mark in pencil.
+@copy The call mark «ButlStax G 93 .K48» written in pencil at the top: Butler Library stacks, the call number of the copy; not part of the edition. The calligraphy of the title page shows through from the recto.

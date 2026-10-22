@@ -1,0 +1,52 @@
+@page 97 65
+@lang de
+% JP2 0097: Suter's commentary, p. 65: the end of chapter 19 (the motion of the moon's nodes, 3′ 10″ 48‴ a day);
+% chapters 20 and 21, the daily motions of the moon and the sun; the sidereal year of 365d 6h 13m 2s compared with the
+% years of the Sūrya-, Ārya- and Brahma-Siddhānta (notes 1-2).
+@p Für den Mond bemerkt er wieder, dass seine Knotenpunkte beweglich seien,
+und zwar betrage die Bewegung derselben täglich 3′ 11″ 48‴, stündlich 7″ 57‴ ;
+multipliziert man die letztere Zahl mit 24, so erhält man 3′ 10″ 48‴, so muss es
+also heissen statt 3′ 11″ 48‴, dann stimmt es auch mit der Tafel 20, die für die
+tägliche Bewegung des Drachenkopfes 3′ 11″, für die stündliche 8″ hat, wie auch
+{sp:Batt.} Dass diese Bewegung der Knoten derjenigen der Apsiden entgegengesetzt sei,
+wird von {sp:Kh.} nicht erwähnt. Nach den neuern Bestimmungen braucht die Knoten-
+linie zu einer vollen Umdrehung 6798{sup:d},3355, dies macht im Tag eine Bewegung
+von 3′ 10″ 38‴, also wiederum eine sehr schöne Übereinstimmung. Die Tafeln
+{sp:Batt.}’s{sup:1}) stimmen mit denen {sp:Kh.}’s nur bis zu 4 Tagen, von hier an beginnen die
+Abweichungen, die in einem Jahr auf 1′ 14″, in 30 Jahren auf 34′ 46″ anwachsen.
+@c {b:Kap. 20 und 21. Über die tägliche Bewegung des Mondes und der Sonne.}
+@c (Text p. 15—16.)
+@p Diese beiden Kapitel stehen hier nicht am richtigen Orte, sie sollten dem
+Kapitel 7 „Über die mittlere Bewegung der Planeten“ unmittelbar folgen, oder besser
+mit ihm vereinigt sein.
+@p Die mittlere tägliche Bewegung des Mondes wird angegeben zu 13° 10′ 34″
+52‴ 48{sup:{i:IV}}, die stündliche zu 32′ 56″ 47‴ 52{sup:{i:IV}} ; die letzten zwei Zahlen sind unrichtig,
+es muss heissen 27‴ 12{sup:{i:IV}}.
+@p Die mittlere tägliche Bewegung der Sonne wird angegeben zu 59′ 8″, die stünd-
+liche zu 2′ 27″ 50‴ 25{sup:{i:IV}} ; die Division von 59′ 8″ durch 24 ergibt aber nur 2′ 27″ 50‴,
+also sind wahrscheinlich bei 59′ 8″ zehn Tertien ausgefallen oder weggelassen
+worden.
+@p Legen wir für die Bewegung der Sonne die obige mittlere stündliche Bewegung
+derselben von 2′ 27″ 50‴ 25{sup:{i:IV}} zu Grunde, so erhalten wir für die mittlere Bewegung
+in 365 Tagen 359° 44′ 40″ 50‴. Dieser mittlern Bewegung entspricht eine Jahreslänge
+von 365{sup:d} 6{sup:h} 13{sup:m} 2{sup:s}, ungefähr dieselbe Grösse, die wir oben (p. 42) gefunden haben,
+und die uns also wieder zeigt, dass {sp:Kh.} für seine Sonnen- und Planetentafeln das
+siderische Jahr als Basis genommen hat. Diese Jahreslänge entspricht aber nicht ganz
+den Werten, die man in den indischen {i:Siddhāntas} findet{sup:2}), sie ist um c. 25{sup:s} grösser
+als sie vom {i:Sūrya-Siddhānta} und dem spätern {i:Ārya-Siddhānta,} und um 53{sup:s} grösser
+als sie vom {i:Brahma-Siddhānta} angegeben wird. Gehen wir aber umgekehrt von
+der Jahreslänge dieser {i:Siddhāntas} aus, so kommen wir beim {i:Sūrya-Siddhānta} (365{sup:d}
+6{sup:h} 12{sup:m} 36,5{sup:s}) auf eine mittlere tägliche Bewegung von 59′ 8″ 10‴ 10{sup:{i:IV}}, beim {i:Brahma-}
+{i:Siddhānta} (365{sup:d} 6{sup:h} 12{sup:m} 9{sup:s}) auf eine solche von 59′ 8″ 10‴ 21{sup:{i:IV}} 22{sup:{i:V}} ; dem erstern Werte
+entspricht eine stündliche Bewegung von 2′ 27″ 50‴ 25,4{sup:{i:IV}}, dem zweiten eine solche
+von 2′ 27″ 50‴ 25,8{sup:{i:IV}} ; da {sp:Kh.} die stündliche Bewegung zu 2′ 27″ 50‴ 25{sup:{i:IV}} angibt, so
+ist die Wahrscheinlichkeit etwas grösser, dass er dem {i:Sūrya-Siddhānta} und dem
+@n {sup:1}) Ed. {sp:Nallino}, II, 19—22.
+@n {sup:2}) {sp:Batt.} ed. {sp:Nallino}, I, 206.
+@obs The page number «65» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «9» on the right; recorded here, not transcribed as a line. L01-L11 end chapter 19 (p. 64, JP2 0096, L34-L38). L12-L13: the heading of chapters 20 and 21, in bold, centred, with the reference to the text below it.
+@obs L01-L11. Checked: the daily and hourly motions of the moon's node are those of chapter 19 of the Latin text (p. 15, JP2 0047, L13-L15); 7″ 57‴ × 24 = 3′ 10″ 48‴; 360° in 6798.3355 days are 3′ 10″ 38‴ a day. L03-L04: «so muss es also heissen statt 3′ 11″ 48‴» leaves the value 3′ 10″ 48‴ of the clause before it to be understood. The comparison with al-Battānī's tables (note 1) is not checked here.
+@obs L17-L23. Checked: the daily and hourly motions of the moon and the sun of chapters 20 and 21 of the Latin text (p. 15, JP2 0047, L17-L20 and L22-L24); 13° 10′ 34″ 52‴ 48⁗ : 24 = 32′ 56″ 27‴ 12⁗; 59′ 8″ : 24 = 2′ 27″ 50‴, and 59′ 8″ 10‴ : 24 = 2′ 27″ 50‴ 25⁗.
+@obs L24-L38. Checked: 24 × 2′ 27″ 50‴ 25⁗ = 59′ 8″ 10‴; 365 × 59′ 8″ 10‴ = 359° 44′ 40″ 50‴; the remaining 15′ 19″ 10‴ need 0.25905 days, so that the year is 365.25905 days, 365d 6h 13m 2s. The Sūrya-Siddhānta's year, 1 577 917 828 days in 4 320 000 years, is 365d 6h 12m 36.6s, 25.5s less; Brahmagupta's, 1 577 916 450 000 days in 4 320 000 000 years, 365d 6h 12m 9s, 53s less. The daily motions are 59′ 8″ 10‴ 10⁗ 24^V and 59′ 8″ 10‴ 21⁗ 33^V, the hourly 2′ 27″ 50‴ 25⁗ 26^V (25,4⁗) and 2′ 27″ 50‴ 25⁗ 53^V (25,9⁗); the text's 21⁗ 22^V (L35) is 11 fifths short of the second daily motion, and its 25,8⁗ (L37) is the hourly motion truncated, where 25,4⁗ (L36) is truncated too. L27: «(p. 42)», the year of 365d 6h 13m (p. 42, JP2 0074, L08-L13).
+@obs L18-L19, L21, L25, L34-L38: the fourths written with a raised italic IV, the fifths of L35 with a raised italic V; L08: «6798d,3355», the d raised between the whole days and the decimals; L27, L30-L31, L33-L35: the d, h, m and s raised. L31: «Ārya-Siddhānta,», with the macron over the capital A.
+@obs L26: a speck on the base line before «mittlern»; not transcribed. Spaced type, marked {sp:}: «Batt.», «Kh.», «Nallino»; italics: «Siddhāntas», «Sūrya-Siddhānta», «Ārya-Siddhānta,», «Brahma-Siddhānta».
+@obs The semicolons stand after the thin space of the edition (13-16 px measured).

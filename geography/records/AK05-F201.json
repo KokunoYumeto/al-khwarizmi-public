@@ -1,0 +1,25 @@
+{
+ "anchor": "AK05-F201",
+ "frame": 201,
+ "frame_file": "page_201.jpg",
+ "frame_sha256": "25d64a4bf67415ca91a9255c7eb5905c9563f317e0bb662c4af24071aa8fec3b",
+ "printed_page": "XII",
+ "kind": "editorial",
+ "role": "MODERN_EDITORIAL (not reproduced)",
+ "comment": "Frame 201, printed p. XII: the editor's introduction continued, in German.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [
+  "the editor's introduction, p. XII, in German: 30 printed lines"
+ ],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Topics of the page, with the entries and notes that it cites (the introduction is read for understanding and not reproduced or paraphrased): the sources of the coordinates and the differing positions of one place in Arabic authors.",
+  "The introduction, pp. V-XXXI, is bound in the reverse order of its pages, from p. XXXI (frame 182) to p. V (frame 208); the frames keep the physical order, and the introduction is read from frame 208 back to frame 182. This page follows p. XI (frame 202); p. XIII follows on frame 200.",
+  "The page number «— XII —» stands at the foot, centred. The page has no footnotes."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

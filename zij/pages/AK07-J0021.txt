@@ -1,0 +1,52 @@
+@page 21 XVII
+@lang de
+% JP2 0021: the introduction, p. XVII: the additions of N, no. 4: a small table at the foot of fol. 9r converting the
+% Arab years into Christian years (a scholium of a later hand), with Suter's remarks; no. 5: a marginal note on the era.
+@p 4) Am Fusse von fol. 9{sup:r} findet sich eine kleine Tafel, die die Verwandlung der
+{i:arabischen} Jahre in die {i:christlichen} ermöglicht, aber nur für die {i:anni collecti} von 30
+bis 660 ; sie ist also unvollständig, vielleicht ist sie ein Überrest der im Kommentar
+p. 36 erwähnten, in den übrigen Handschriften fehlenden Tafel, sie ist allerdings nur
+ein Scholium einer spätern Hand, ich gebe sie hier aber ebenfalls :
+@t Notae | Anni arab. | Anni dom. collecti | Menses | Dies | Fract.
+@t 5 | 30 | 650 | 7 | 23 | 3
+@t 4 | 60 | 679 | 9 | 2 | 2
+@t 1 | 90 | 708 | 10 | 11 | 1
+@t 5 | 120 | 737 | 11 | 20 | 0
+@t 4 | 150 | 767 | 0 | 28 | 2
+@t 2 | 180 | 796 | 2 | 2 | 1
+@t 7 | 210 | 825 | 3 | 11 | 0
+@t 5 | 240 | 824{sup:a}) | 4 | 29 | 3
+@t 4 | 270 | 883 | 5 | 28 | 2
+@t 1 | 300 | 912 | 7 | 7 | 1
+@t 5 | 330 | 941 | 8 | 16 | 0
+@t 4 | 360 | 970 | 9 | 24 | 3
+@t 2 | 390 | 999 | 11 | 3 | 2
+@t 7 | 420 | 1029 | 0 | 7 | 0
+@t 5 | 450 | 1058 | 1 | 15 | 3
+@t 3 | 480 | 1087 | 2 | 24 | 2
+@t 1 | 510 | 1116 | 4 | 3 | 1
+@t 5 | 540 | 1145 | 5 | 12 | 0
+@t 4 | 570 | 1174 | 6 | 20 | 3
+@t 2 | 600 | 1203 | 7 | 29 | 2?
+@t 7 | 630 | 1232 | 9 | 7 | 1
+@t 5 | 660 | 1261 | 10 | 17 | 0
+@t  | 690 | 1290 | 11 | 25 | 3
+@t  | 720 | 1320 | 1 | 4 | 2
+@t  | 750 | 1349 | 2 | 13 | 1
+@p Zu dieser Tafel haben wir zu bemerken : Unter a) sollte es heissen 854 ; die
+Zahlen der letzten Kolonne bedeuten „Viertel“ ; die Zahlen der Kolonne {i:Dies} sind
+öfters fehlerhaft, man kann sie nach den heutigen Tafeln leicht verbessern ; auch die
+{i:Fractiones} stimmen nicht durchweg. Die letzten drei Zeilen für die Jahre 690, 720 u.
+750 sind von einer neuern Hand hinzugefügt, und zwar in arabischen Ziffern, die mir
+diejenigen des 14. bis 15. Jahrhunderts zu sein scheinen{sup:1}).
+@p 5) Am Rande von fol. 9{sup:r} steht folgende Note von 2. Hand : {i:Era (Aera) quoque} (?)
+{i:cesaris augusti tempore posita est : dicta autem era ex quo omnis orbis es (aes) reddere}
+{i:professus est reipublicae. Era secundum ysidorum adcescit (sic!) — Bissextus autem}
+@n {sup:1}) Die Ziffern der 2., 4. u. 6. Kolonne waren für mich wegen zu schwacher photographischer
+@n Abbildung unlesbar, ich verdanke eine Abschrift derselben aus dem Original Herrn {sp:Gonzalez},
+@n Archivar in Madrid, einem Schüler von Herrn Prof. {sp:Asín}, aufs beste.
+@obs The page number «XVII» stands at the head of the page, centred, with a rule below it.
+@obs L06-L31: the table of N, between a double rule above and a double rule below its heads, with single vertical rules between the six columns: «Notae», «Anni arab.», «Anni dom. collecti» (in two lines), «Menses», «Dies», «Fract.»; each row is one line here, its cells separated by our «|». The column «Notae» is empty in the last three rows (L29-L31), which Suter says a later hand added (L35-L37). L13: «824a)», the year that L32 corrects to 854. L26: «2?», the question mark printed in the table.
+@obs Checked: the Christian year of each row is the year completed when the thirty Arab years end, counted from the epoch of 16 July 622, in every row but L13 (824 for 854, as the text says). The months are the completed months of the date at which the years end (in the Julian calendar), in every row but L30, the year 720, where the date is 31 January and the table has 1 month 4 days; the days agree in three rows only (30, 270 and 540, L07, L15, L24), and Suter says that the days are often wrong (L33-L34).
+@obs L38: «quoque (?)»: the bracketed question mark, upright, stands after a gap of 12 px, where the word spaces of the line are about 27 px; the colons and semicolons of the page stand after the thin space of the edition (9-14 px), in the italic Latin as in the German.
+@obs Marks not transcribed: a dark wedge-shaped mark, 34 by 8 px, above the 0 of the column «Fract.» in L10, in the ink of the print; a dot at the left margin before L01.

@@ -1,0 +1,33 @@
+@page 74 ٥٨
+% Frame 074, printed p. 58: the demonstration for the right triangle concluded: the square اٮحد is divided into four
+% equal squares; the line from ه to ط cuts the square اك into two triangles, اطه and هكط, whose legs اط and اه are
+% half the sides and whose chord طه stands at a right angle; the lines from ط to ز, from ز to the middle of the lower
+% side and from there to ه make eight equal triangles, four of which are half the great square اد; the square on اط
+% is two triangles, the square on اه two more, together four, and the square on طه also four: what was to be shown.
+% Then «وهذه صورته» and the figure. Below the rule one footnote of the editors.
+فصار سطح {ov:اٮ} {ov:حد} أربعة سطوح متساوية الأضلاع والزوايا والمساحة وهى
+سطح {ov:اك} وسطح {ov:حك} وسطح {ov:ٮك} وسطح {ov:دك} ثم نخرج من نقطة
+{ov:ه} الى نقطة ط خطاً يقطع سطح {ov:اك} نصفين فحدث من السطح مثلثان وهما
+مثلثا {ov:اطه} و{ov:هكط} فقد تبين لنا أن {ov:اط} نصف {ov:اٮ} و{ov:اه} مثله وهو نصف
+{ov:اح} ووترهما خط {ov:طه} على زاوية قائمة وكذلك نخرج خطوطاً من {ov:ط} الى {ov:ز}
+ومن {ov:ز} الى {ov:ع} ومن {ov:ع} الى {ov:ه} فيحدث من جميع المربعة ثمانى مثلثات
+متساويات وقد تبين لنا أن أربعة منها نصف السطح الأعظم الذى هو {ov:اد} وقد
+تبين لنا أن ضلع {ov:اط} فى نفسه تكسير مثلثين ، {ov:اه} {n:١} تكسير مثلثين مثلهما فيكون
+جميع ذلك تكسير أربع مثلثات وضلع {ov:هط} فى نفسه أيضاً تكسير أربع مثلثات
+أخر وقد تبين لنا أن الذى يكون من ضرب {ov:اط} فى نفسه ، {ov:اه} فى نفسه مجموعين
+مثل الذى يكون من ضرب {ov:طه} فى نفسه وذلك ما أردنا أن نبين وهذه صورته .
+@fig AK01-F074-FIG1 425 1835 2015 3218 after=11
+@ednotes ١ 1
+@obs The letters that label the figure carry a short wavy line above them (here a line above), over one of their letters; the machine reading misreads most of them, as on the earlier frames; the ط after نقطة in L03 is printed without it and is transcribed without it. The ب of the labels is printed without its dot (ٮ), as on frames 036-073, and transcribed so; ه in its knotted initial form. The letters of a label are set as separate sorts, a narrow space apart (ٮ and ك in L02, 30 px; ا and د in L07, 37 px, the line over the ا only), and are transcribed together as one label, as on the earlier frames.
+@obs The figure, drawn, not set in type, below L11: a square with ا at the upper right corner, ٮ at the upper left, a hooked ح at the lower right and د at the lower left; ط at the middle of the upper side, ز at the middle of the left side, ه at the middle of the right side, and at the middle of the lower side a letter shaped like ح without a dot; ك at the centre, where the line from ط to the lower side crosses the line from ه to ز; the lines from ط to ز, from ز to the middle of the lower side, from there to ه and from ه to ط form the inner square. The ب of the figure has no dot.
+@obs L06: the point at the middle of the lower side is named twice with the ع-shaped sort, with the line above, as on frame 073, L16; the figure marks it with the letter shaped like ح without a dot, distinct from the hooked ح of the corner, which the text names ح in the labels حد, حك and اح (L01, L02, L05). See the critical note AK01-CN023.
+@obs L08: «، {ov:اه} تكسير مثلثين مثلهما», as printed, without «فى نفسه» after the label, where the clause before it has «ضلع اط فى نفسه» (L08) and L10 has «اه فى نفسه» (L10); the editors' note (١) reads the label here as اه multiplied by itself.
+@obs L04: the conjunction و before the labels هكط and اه stands 29 and 28 px (nearest approach above the baseline at 400 ppi) from them, about its distance from an alif inside a word (24 to 26 px, frame 070); it is transcribed joined, as the conjunction always is.
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: قائمة وكذلك (L05; 17 between the ة and the conjunction و, at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one); {ov:حد} أربعة (L01; 19 between the د and the alif, as تريد أن on frame 058, L04, 17).
+@obs The commas stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after مثلثين, before the label اه (L08; 28 and 33), after نفسه, before the label اه (L10; 24 and 27). The note mark (١) stands 24 px after the label اه and 26 px before تكسير (L08). L11 ends with a full stop 25 px after صورته.
+@obs Plain alif where a hamza might be expected, as printed: الى (L03, L05; L06, twice); with hamza: أربعة (L01, L07), الأضلاع (L01), أن (L04, L07, L08, L10, L11), الأعظم (L07), أربع (L09, twice), أيضاً (L09), أخر (L10), أردنا (L11); on ي: قائمة (L05).
+@obs With tanwīn on the final alif: خطاً (L03), خطوطاً (L05), أيضاً (L09).
+@obs The final yā' is printed without dots: وهى (L01), الى (L03, L05, L06), على (L05), ثمانى (L06), الذى (L07, L10, L11), فى (L08, L09, L10, L11).
+@obs The print stretches جميع and ثمانى (L06, at length) with the elongation stroke; the stroke is not transcribed.
+@obs Note (١) of the editors reads the label اه of L08 as اه multiplied by itself; it is not reproduced.
+@critical AK01-CN023 | labels of the text and of the figure disagree | L06 | ع, twice | ج | The line names with ع the point at the middle of the lower side of the square, where the line from ط ends, joined by the new lines to ز and to ه. The figure on this page has no ع: at that point it has a letter shaped like ح without a dot, distinct from the hooked ح of the corner, the letter that the figures of frames 041, 042 and 050 have for ج; the text names the corner ح in the labels حد, حك and اح (L01, L02, L05). The same point is named with the same sort on frame 073, L16 (AK01-CN022). | high that the sort stands for the ج of the figure | none on the mathematics: the labels only name the points of the figure

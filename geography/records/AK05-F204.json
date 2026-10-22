@@ -1,0 +1,25 @@
+{
+ "anchor": "AK05-F204",
+ "frame": 204,
+ "frame_file": "page_204.jpg",
+ "frame_sha256": "2f88e3d6c1b43e617e9e8e2e407e827dbe6da27a5cbd22acf439f0996ffc6f6b",
+ "printed_page": "IX",
+ "kind": "editorial",
+ "role": "MODERN_EDITORIAL (not reproduced)",
+ "comment": "Frame 204, printed p. IX: the editor's introduction continued, in German.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [
+  "the editor's introduction, p. IX, in German: 30 printed lines, with four numbers of Suhrāb in Arabic-Indic digits"
+ ],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Topics of the page, with the entries and notes that it cites (the introduction is read for understanding and not reproduced or paraphrased): omissions in S; what the edition restores and what it does not; the names of Greek origin and the form in which the edition prints them.",
+  "The introduction, pp. V-XXXI, is bound in the reverse order of its pages, from p. XXXI (frame 182) to p. V (frame 208); the frames keep the physical order, and the introduction is read from frame 208 back to frame 182. This page follows p. VIII (frame 205); p. X follows on frame 203.",
+  "The page number «— IX —» stands at the foot, centred. The page has no footnotes."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

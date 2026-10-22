@@ -1,0 +1,30 @@
+@page 83 [٦٧]
+% Frame 083, printed p. 67 (the page bears no number; frame 082 is p. ٦٦, frame 084 p. ٦٨): the beginning of the book
+% of wills, «كتاب الوصايا», a heading in large type; the first chapter, «باب من ذلك فى العين والدين», on cash and
+% debt, its heading in bold: a man dies leaving two sons and bequeathing a third of his estate to a stranger; he
+% leaves ten dirhams in cash and ten dirhams owed by one of the sons; the debt recovered is taken as a thing; the
+% third is taken off and the rest shared; the thing is found from the share of a son. A second problem, a fifth and a
+% dirham bequeathed, begun, continued on the next page. Below the rule two footnotes of the editors.
+@h كتاب الوصايا
+@p {b:باب من ذلك فى العين والدين} رجل مات وترك ابنين وأوصى بثلث ماله
+لرجل أجنبى وترك عشرة دراهم عينا وعشرة دراهم دينا على أحد الابنين {n:١} .
+قياسه أن تجعل المستخرج من الدين شيئاً فتزيده على العين وهو عشرة دراهم
+فيكون عشرة وشيئاً ثم تعزل ثلثها لأنه أوصى بثلث ماله وهو ثلاثة دراهم وثلث
+وثلث شىء فيبقى ستة دراهم وثلثان وثلثا شىء فتقسمه بين الابنين فيصيب كل
+ابن ثلاثة دراهم وثلث درهم وثلث شىء فهو يعدل الشىء المستخرج فقابل به
+فتلقى ثلثاً من شىء بثلث شىء فيبقى ثلثا شىء تعدل ثلاثة دراهم وثلثا فتحتاج أن
+تكمل الشىء الذى استخرج من الدين . فان ترك ابنين وترك عشرة دراهم عينا
+وعشرة دراهم ديناعلى أحد الابنين وأوصى لرجل بخمس ماله ودرهم {n:٢}فقياسه
+أن تجعل ما يستخرج من الدين شيئاً فتزيده على العين فتكون شيئاً وعشرةدراهم
+فتعزل خمسها لأنه أوصى بخمس ماله وهو درهمان وخمس شىء فيبقى ثمانيةدراهم
+@ednotes ١ ٢ 8
+@obs L01: the heading of the book, «كتاب الوصايا», the book of wills, is printed centred in a large type, as the openings of the work's parts in this edition; the page bears no printed number.
+@obs L02: the words باب من ذلك فى العين والدين (L02), the heading of the first chapter of the book, on cash and debt, are printed in a bold face, run in at the beginning of a line printed with a paragraph indent; the words that follow are in the face of the text. The bold ن is printed without its dot, as on frames 055-070; transcribed ن.
+@obs Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): ديناعلى (L10; 11 between the alif and the ع, where the same words with a space, دينا على in L03, stand 28 apart); وعشرةدراهم (L11; 6 between the ة and the د, 16 above the baseline) and ثمانيةدراهم (L12; 7, 13 above the baseline), where the same words with a space, عشرة دراهم in L03 and L09, stand 25 to 34 apart; the machine reading sets spaces in both. In وثلثا شىء (L06) the alif stands 26 px from the ش, a word space, which is transcribed; the machine reading joins the words.
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: دراهم وثلث (L05), بثلث شىء (L08), دراهم عينا (L09), وأوصى لرجل (L10), من الدين and فتكون شيئاً (L11), فتعزل خمسها, لأنه أوصى, بخمس ماله and وخمس شىء (L12).
+@obs The note marks and full stops: (١) stands 35 px (nearest approach of the ink at 400 ppi) after الابنين and the full stop 37 px after the mark, at the end of L03; (٢) stands 43 px after ودرهم and 13 px before فقياسه (L10), set close to it, and is transcribed so. L09: the full stop after الدين stands between spaces (25 and 25 px).
+@obs Plain alif where a hamza might be expected, as printed: ابنين (L02, L09), الابنين (L03, L06, L10), ابن (L07), فان (L09); with hamza: وأوصى (L02, L10), أجنبى, أحد (L03), أن (L04, L08, L11), لأنه, أوصى (L05, L12), أحد (L10); the hamza on the line: شىء (L06, L07, L08, three times; L12), الشىء (L07, L09).
+@obs With tanwīn on the final alif: شيئاً (L04; L11, twice), وشيئاً (L05), ثلثاً (L08); without tanwīn as printed: عينا (L03, L09), دينا (L03), ديناعلى (L10), وثلثا (L08).
+@obs The final yā' is printed without dots: فى (L02, in the bold heading), وأوصى (L02, L10), أجنبى, على (L03), على (L04, L11), أوصى (L05, L12), فيبقى (L06, L08, L12), فتلقى (L08), الذى (L09), ديناعلى (L10).
+@obs The print stretches تكمل (L09) with the elongation stroke; the stroke is not transcribed.
+@obs Notes (١) and (٢) of the editors. (١) states the principle that they take the chapter to follow: when an heir owes the estate a debt larger than his share, he keeps the whole of it, part as his share and the rest as a gift from the testator; with each son's share x, 2/3 (10 + x) = 2x, x = 5: the legatee receives five dirhams and the other son five. (٢) solves the second problem: the bequest 1/5 (10 + x) + 1, the rest 4/5 (10 + x) − 1 equal to two shares, 2x; x = 5 5/6 and the bequest 4 1/6. Both results check exactly. Neither note is reproduced.

@@ -1,0 +1,51 @@
+@page 267 235
+@lang de
+% JP2 0267: Additions and corrections, p. 235: 1. concluded (Pechüle's check of al-Khwārizmī's equations of the
+% anomaly); 2. a correction to p. 48; 3. the transcription Pañcasiddhāntikā; 4. the length of the sidereal year from
+% Tables 4 and 5, 365d 6h 12m, with the table of its parts.
+wird. — Herr {sp:Pechüle} hat nun auch die Werte der Gleichung der Anomalie in
+den Tafeln {sp:Kh.’s} auf diese Formel geprüft, und im allgemeinen ziemliche Überein-
+stimmung gefunden (grösste Abweichungen 4′—5′), nur bei Mars zeigten sich Diffe-
+renzen bis zu 21′ (bei einer Anomalie von 160°—170°). {sp:Kh.} scheint also in der
+oben gegebenen Formel für tg {i:RET} die Distanz des Centrums des Epizykels von der
+Erde als konstant, also = 1 (bezw. 60{sup:p}) angenommen zu haben, denn dann ver-
+wandelt sie sich in
+@c tg aeq. anom. = {fr:{i:r} sin {i:ψ}|1 + {i:r} · cos {i:ψ}}
+Nur bei Mars, der eine ziemlich grosse Exzentrizität hat, scheint er die Variabilität
+dieser Distanz etwas berücksichtigt zu haben, in welcher Weise aber ist kaum aus-
+findig zu machen.
+@p Mit diesen Zusätzen zum 10. Kap. sind aber keineswegs die Gründe enthüllt,
+weshalb {sp:Kh.} das mittlere Apogeum der Planeten um die halbe Gleichung der
+Anomalie vermindert hat.
+@p {b:2.} P. 48, Zeile 10 v. o. muss es statt „weil er aus dem Centrum des Aequans
+gemessen gedacht wird“, heissen : „weil er die Lage des Centrums des Epizykels in
+Bezug auf das Apogeum des Exzenters angibt“.
+@p {b:3.} P. 46, etc. habe ich das astronomische Werk des Inders {sp:Varāhamihira}
+in der von {sp:Thibaut} nach englischer Transskriptionsweise gebrauchten Form {i:Pan-}
+{i:chasiddhāntikā} wiedergegeben ; nach der jetzt von den Orientalisten allgemein adop-
+tierten Transskriptionsart sollte es {i:Pañcasiddhāntikā} geschrieben sein.
+@p {b:4.} Ich habe p. 42 (Kap. 7) den mittlern Lauf der Sonne in 360 Tagen so be-
+rechnet, dass ich den mittlern Lauf in 30 Tagen mit 12 multipliziert habe ; dies ist
+nicht ganz richtig, denn, wenn die 5″ beim mittlern Lauf in 30 Tagen (= 29°34′5″)
+noch einen Bruchteil hätten, der weggeworfen wurde, so würde der dadurch ent-
+standene Fehler durch Multiplikation mit 12 so viel mal grösser ; wir geben daher
+im folgenden eine andere Bestimmung :
+@tw 1.15 0.4 1.05 0.5 1.05 0.3 1.2 0.95
+@t Mittellauf | in | 1 Jahr zu | 354 | Tagen | = | 348°54′13″ | (s. T. 4)
+@t — | - |  | 11 | — | = | 10°50′30″ | (s. T. 5)
+@t — | - |  | 6 | Stunden | = | 14′47″ | (s. T. 5)
+@t — | - |  | 12 | Minuten | = | 30″ | (s. T. 5)
+@t Mittellauf | in | 365{sup:d} 6{sup:h} 12{sup:m} |  |  | = | 360° 0′ 0″ |
+d. h. {sp:Kh.} nahm die Länge des Sternjahres zu 365{sup:d} 6{sup:h} 12{sup:m} an. Dies würde mit dem
+stimmen, was uns {sp:Al-Bīrūnī} in seiner Chronologie (ed. Sachau, arab. Text p. 11,
+engl. Übers. p. 12—13) über das persische Sonnenjahr berichtet ; an einer andern
+Stelle desselben Werkes (arab. Text p. 52, engl. Übers. p. 61—62) fügt er dann aller-
+dings dieser Jahreslänge noch 9{sup:s} zu, und erhält so den Wert, den auch der {i:Brahma-}
+{i:Siddhānta} und der arabische {i:Sindhind} haben. Es scheint also, dass auch in diesem
+Punkte {sp:Kh.} wahrscheinlich den {i:persischen} Tafeln des {i:Shāh} gefolgt war (vergl. auch
+@obs The page number «235» stands at the head of the page, centred, with a rule below it. At the foot, the signature «30*» on the right; recorded here, not transcribed as a line. L01 continues the sentence of p. 234 (JP2 0266, L37).
+@obs L08: the formula is displayed in a line of its own, centred, the fraction built up, written {fr:NUMERATOR|DENOMINATOR}; r and ψ in italics, as «RET» in L05. L28-L32: the table of the mean motions, in columns: in L29-L31 a long dash under «Mittellauf» and a short one under «in» stand for the repeated words, and a long dash under «Tagen» in L29; a rule across the table above L32; «365d 6h 12m» (L32, L33) with the letters raised, «9s» (L37) likewise; the values as printed, «348°54′13″» without spaces and «360° 0′ 0″» with them. Here the cells separated by our «|»; a cell followed by empty cells spans their columns.
+@obs L28-L32. Checked: the motions are those of the tables of the mean sun: one single Arab year of 354 days 11s 18° 54′ 13″ = 348° 54′ 13″ (Tab. 4, p. 115, JP2 0147), 11 days 10° 50′ 30″, 6 hours 14′ 47″ and 12 parts of an hour 30″ (Tab. 5, p. 116, JP2 0148); their sum is 360° 0′ 0″ exactly, so the sun returns to its place in 365d 6h 12m. On p. 42 (JP2 0074, L08-L13) Suter had 12 · 29° 34′ 5″ = 354° 49′ for 360 days and 365d 6h 13m. The 6h 12m agree with the 6h 12m 9s of the year of Tab. 115 (p. 230, JP2 0262).
+@obs L01-L08. Checked with r, the radius of the epicycle, taken as the sine of the greatest equation of the anomaly of each planet in the tables (Tab. 27-56, pp. 138-167, JP2 0170-0199; the printed misprints of p. 149 and p. 167, critical notes AK07-CN130 and AK07-CN164, set aside): the equations of the anomaly agree with the formula of L08 within 4.1′ for Saturn and 6.4′ for Mercury, within 10.4′ for Jupiter and 11.9′ for Venus, the larger differences falling between 150° and 177°, and differ from it by up to 21.3′ for Mars, at 161°, the 21′ at 160°-170° of Pechüle (L03-L04).
+@obs L15-L17: on p. 48 (JP2 0080) the tenth line, L10, reads «genannt wurde, weil er aus dem Centrum des Aequans gemessen gedacht wird ; ferner», of the centre (al-markaz). L18-L21: «Panchasiddhāntikā» stands on p. 46 (JP2 0078, L29, N01) and elsewhere in the commentary, as Suter says. «Transskriptionsweise» (L19) and «Transskriptionsart» (L21) are spelled with ss twice; «Pan-chasiddhāntikā» (L19-L20) is divided at the end of the line, «Brahma-Siddhānta» (L37-L38) at its hyphen.
+@obs Spaced type, marked {sp:}: «Pechüle» (L01), «Kh.’s» (L02), «Kh.» (L04, L13, L33, L39), «Varāhamihira» (L18), «Thibaut» (L19), «Al-Bīrūnī» (L34); «Sachau» (L34) is not spaced. Italics: «RET», r, ψ, «Pan-chasiddhāntikā», «Pañcasiddhāntikā», «Brahma-Siddhānta», «Sindhind», «persischen», «Shāh». Bold: the numbers «2.», «3.», «4.». Dashes: «4′—5′», «160°—170°», «12—13» and «61—62» long (41-45 px, the third broken).

@@ -1,0 +1,592 @@
+{
+ "anchor": "AK07-J0120",
+ "jp2_index": 120,
+ "jp2_member": "b24872489_0120.jp2",
+ "jp2_sha256": "39e95c92d55a553a5b22484f89b1e84022d3764d7759f5678ed23ec55d307633",
+ "reading_copy": "page_0120.jpg",
+ "reading_copy_sha256": "e0103b8aee4e3cd426c559c8bb79a727964d456197daebd891360b590f211ca9",
+ "printed_page": "88",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0120: Suter's commentary, p. 88: chapter 33 continued: respiratio and emersio; al-Battānī's rules for the casus and the half mora, with two figures; the correction of the differences between the far and the near distance by the tabula proportionis; the corrected digits, casus and half mora of the example (note 1).",
+ "lines": [
+  {
+   "id": "AK07-J0120-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "{i:ἀναπλήρωσις} = das „Wiedervollmachen“ (des Mondes) entspricht ; besser wäre {i:emersio}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ἀναπλήρωσις = das „Wiedervollmachen“ (des Mondes) entspricht ; besser wäre emersio",
+   "italic": [
+    "ἀναπλήρωσις",
+    "emersio"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "statt {i:respiratio.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "statt respiratio.",
+   "italic": [
+    "respiratio."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L03",
+   "n": 3,
+   "kind": "indent",
+   "text": "Für die Berechnung der Minuten des {i:Casus} und der {i:Mora} geben wir ebenfalls",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Für die Berechnung der Minuten des Casus und der Mora geben wir ebenfalls",
+   "italic": [
+    "Casus",
+    "Mora"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "die Regeln {sp:Batt.}’s (I, 98, Z. 5—14) und zeigen ihre Richtigkeit an der Hand folgender",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die Regeln Batt.’s (I, 98, Z. 5—14) und zeigen ihre Richtigkeit an der Hand folgender",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "zwei Figuren. {sp:Batt.} sagt zuerst : Vom Quadrat der Summe der beiden Radien ({i:MS}{sup:2}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zwei Figuren. Batt. sagt zuerst : Vom Quadrat der Summe der beiden Radien (MS2",
+   "italic": [
+    "MS"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "in Fig. 3) subtrahiere das Quadrat der Breite des Mondes ({i:SN}{sup:2}), so gibt die Wurzel",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "in Fig. 3) subtrahiere das Quadrat der Breite des Mondes (SN2), so gibt die Wurzel",
+   "italic": [
+    "SN"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "aus der Differenz (also {i:MN}), durch die stündliche Bewegung des Mondes geteilt, die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "aus der Differenz (also MN), durch die stündliche Bewegung des Mondes geteilt, die",
+   "italic": [
+    "MN"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "Zeit vom Beginn der Finsternis bis zur Mitte der totalen Verfinsterung (also {i:Casus}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Zeit vom Beginn der Finsternis bis zur Mitte der totalen Verfinsterung (also Casus",
+   "italic": [
+    "Casus"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "und {i:halbe Mora} zusammen). — Zweitens sagt er : Wenn totale Verfinsterung stattfindet",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "und halbe Mora zusammen). — Zweitens sagt er : Wenn totale Verfinsterung stattfindet",
+   "italic": [
+    "halbe Mora"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "(und man will die Zeit dieser allein kennen), so subtrahiere man den Monddurch-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(und man will die Zeit dieser allein kennen), so subtrahiere man den Monddurch-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "messer ({i:MT} in Fig. 4) von der Summe der beiden Radien ({i:ST}){sup:1}), vom Quadrate dieser",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "messer (MT in Fig. 4) von der Summe der beiden Radien (ST)1), vom Quadrate dieser",
+   "italic": [
+    "MT",
+    "ST"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "Differenz ({i:SM}{sup:2}) subtrahiere man das Quadrat der Breite des Mondes ({i:SN}{sup:2}), so gibt die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Differenz (SM2) subtrahiere man das Quadrat der Breite des Mondes (SN2), so gibt die",
+   "italic": [
+    "SM",
+    "SN"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "Wurzel aus der Differenz (also {i:MN}), durch die stündliche Bewegung des Mondes geteilt,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wurzel aus der Differenz (also MN), durch die stündliche Bewegung des Mondes geteilt,",
+   "italic": [
+    "MN"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "die halbe Zeit der totalen Verfinsterung (also die {i:halbe Mora}). Subtrahiert man diese",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die halbe Zeit der totalen Verfinsterung (also die halbe Mora). Subtrahiert man diese",
+   "italic": [
+    "halbe Mora"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "von der nach der ersten Regel erhaltenen Zeit, so erhält man die Zeit des {i:Casus.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "von der nach der ersten Regel erhaltenen Zeit, so erhält man die Zeit des Casus.",
+   "italic": [
+    "Casus."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L16",
+   "n": 16,
+   "kind": "table",
+   "text": "Fig. 3. | Fig. 4.",
+   "cells": [
+    "Fig. 3.",
+    "Fig. 4."
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Fig. 3. | Fig. 4.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L17",
+   "n": 17,
+   "kind": "indent",
+   "text": "Kehren wir nun zu den oben erhaltenen Differenzen zwischen den Daten der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kehren wir nun zu den oben erhaltenen Differenzen zwischen den Daten der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "Erdnähe und Erdferne zurück. Diese erfahren nun eine Korrektur, die von der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Erdnähe und Erdferne zurück. Diese erfahren nun eine Korrektur, die von der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "Änderung des Monddurchmessers in seiner Bewegung vom Apogeum zum Perigeum",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Änderung des Monddurchmessers in seiner Bewegung vom Apogeum zum Perigeum",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "herrührt, und die mit Hilfe der zweitletzten Kolonne von Tafel 74 (bezw. 73) bestimmt",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "herrührt, und die mit Hilfe der zweitletzten Kolonne von Tafel 74 (bezw. 73) bestimmt",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "wird, überschrieben {i:Tabula proportionis.} Man tritt mit der {i:Anomalia aequata} (korrig.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wird, überschrieben Tabula proportionis. Man tritt mit der Anomalia aequata (korrig.",
+   "italic": [
+    "Tabula proportionis.",
+    "Anomalia aequata"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "Anomalie), die in unserm Falle rund 285° 45′ ist (s. oben p. 85), in diese Kolonne",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Anomalie), die in unserm Falle rund 285° 45′ ist (s. oben p. 85), in diese Kolonne",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "ein, der zugehörige Wert, {i:dakaicae superationum} genannt, ist 20′ 43″, mit dieser Zahl,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ein, der zugehörige Wert, dakaicae superationum genannt, ist 20′ 43″, mit dieser Zahl,",
+   "italic": [
+    "dakaicae superationum"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "die also = 20{cf:43|60} ∶ 60, d. h. in einem Dezimalbruch = 0,345 ist, multipliziert man",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die also = 20(43)/(60) ∶ 60, d. h. in einem Dezimalbruch = 0,345 ist, multipliziert man",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "die obigen drei Differenzen, und erhält die Werte :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die obigen drei Differenzen, und erhält die Werte :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L26",
+   "n": 26,
+   "kind": "table",
+   "text": "0{sup:dig.} 20′ | 1′ 46″ | 2′ 6″",
+   "cells": [
+    "0{sup:dig.} 20′",
+    "1′ 46″",
+    "2′ 6″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "0dig. 20′ | 1′ 46″ | 2′ 6″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "diese addiert man zu den entsprechenden Werten der zweiten Reihe (für die Erd-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "diese addiert man zu den entsprechenden Werten der zweiten Reihe (für die Erd-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "ferne) und erhält so die korrigierten Werte :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ferne) und erhält so die korrigierten Werte :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L29",
+   "n": 29,
+   "kind": "table",
+   "text": "Digiti der Verfinsterung : | Min. u. Sec. des Casus : | Min. u. Sec. der halben Mora :",
+   "cells": [
+    "Digiti der Verfinsterung :",
+    "Min. u. Sec. des Casus :",
+    "Min. u. Sec. der halben Mora :"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Digiti der Verfinsterung : | Min. u. Sec. des Casus : | Min. u. Sec. der halben Mora :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-L30",
+   "n": 30,
+   "kind": "table",
+   "text": "19{sup:dig.} 36′ | 31′ 25″ | 23′ 8″",
+   "cells": [
+    "19{sup:dig.} 36′",
+    "31′ 25″",
+    "23′ 8″"
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "19dig. 36′ | 31′ 25″ | 23′ 8″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Dafür hätte er auch einfacher sagen können : den Mondradius ({i:MP}) vom Schattenradius",
+   "margin": null,
+   "plain": "1) Dafür hätte er auch einfacher sagen können : den Mondradius (MP) vom Schattenradius",
+   "italic": [
+    "MP"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0120-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "({i:SP}).",
+   "margin": null,
+   "plain": "(SP).",
+   "italic": [
+    "SP"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «88» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «ἀναπλήρωσις» completes the sentence that ends p. 87 (JP2 0119, L29), «das wiederum dem ptolemäischen»; the Greek in italics, with the smooth breathing on the first α and the acute on the η; ἔμπτωσις, μονή and ἀναπλήρωσις are Ptolemy's words for the immersion, the totality and the emersion of a lunar eclipse.",
+  "Between L15 and L16 two figures side by side; they are not reproduced; L16 has their captions, «Fig. 3.» and «Fig. 4.», each centred under its figure. Fig. 3: a large semicircle, the earth's shadow, on a base line E S K, S its centre; a vertical line from S to the top of the semicircle, with N on it; the small circle of the moon about M at the upper right, outside the semicircle, which crosses the lower left part of the small circle; the horizontal line N M and the line S M. Fig. 4: the same semicircle with E, S and K, the vertical line from S with N on it; the small circle about M inside the semicircle, touching it at P at the upper right; the horizontal line N M and the line from S through M and P to T outside the semicircle. The letters are italic.",
+  "L03-L15 and N01-N02. Checked: with R the radius of the shadow, r that of the moon and SN the latitude of the moon, the moon's centre at the first contact lies at MS = R + r from S (Fig. 3, where the drawing shows the circles overlapping rather than touching), and MN = √((R + r)² − SN²) is the arc of the moon's path to the middle of the eclipse; at the beginning of totality (Fig. 4) SM = R − r = ST − MT, with ST = R + r and MT = 2r, or SP − MP (note 1), and MN = √((R − r)² − SN²) is the arc to the middle; divided by the moon's hourly motion relative to the shadow they give casus with half mora, and half mora; their difference is the casus.",
+  "L17-L30. Checked: 20′ 43″ = 20 43/60 : 60 = 0.3453; 58′ × 0.345 = 20.0′, «0 dig. 20′»; 5′ 6″ × 0.345 = 1′ 45.6″, «1′ 46″»; 6′ 6″ × 0.345 = 2′ 6.3″, «2′ 6″»; 19 dig. 16′ + 20′ = 19 dig. 36′; 29′ 39″ + 1′ 46″ = 31′ 25″; 21′ 2″ + 2′ 6″ = 23′ 8″. The proportion 0.345 at the corrected anomaly 285° 45′ (74° 15′ from the apogee) is the fraction of the way from the greatest to the least distance of the moon on an epicycle of radius 5p 10′ (p. 46, JP2 0078): the distance √(60² + 5;10² + 2 · 60 · 5;10 · cos 74° 15′) = 61p 36′ lies 0.3448 of the way from 65p 10′ to 54p 50′, 20′ 41″ in sixtieths, where (1 − cos 74° 15′) : 2 would give 21′ 51″. The values of Tables 73, 74 and 76 are to be compared with the tables. With the corrected argument of latitude 359° 11′ 53″ (p. 85) the latitude of the moon is about 3′ 47″ south, so that the eclipse is nearly central.",
+  "L24: «20 43/60 ∶ 60», the case fraction written {cf:43|60}, the colon of the division with a word space on either side (21 px), written ∶ (U+2236). L26 and L30: «0dig. 20′», «19dig. 36′», the abbreviation raised in the smaller type; the values set in three columns under the heads of L29 and of p. 87 (JP2 0119, L01); L29 in the smaller type, with a colon after «Mora», where p. 87 has a full stop. Each printed row is one line here, the cells separated by our «|».",
+  "L05, L06, L12: «MS2», «SN2», «SM2», the 2 raised and upright. The dashes: L04 «5—14», the long dash set close; L09 «zusammen). — Zweitens», the long dash with a space on either side.",
+  "Spaced type, marked {sp:}: «Batt.»; italics: the Greek word, «emersio», «respiratio.», «Casus», «Mora», «halbe Mora», the letters of the figures, «Tabula proportionis.», «Anomalia aequata», «dakaicae superationum».",
+  "The other colons and the semicolon stand after the thin space of the edition (8-14 px measured)."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

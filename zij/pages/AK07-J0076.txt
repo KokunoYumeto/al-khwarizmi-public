@@ -1,0 +1,54 @@
+@page 76 44
+@lang de
+% JP2 0076: Suter's commentary, p. 44: chapter 8 continued: the example (the true place of the sun for 15 Ṣafar 540,
+% 9° 14′ 34″ of Leo); the interpolation; the geometric explanation of the equation of the sun in the eccentric
+% hypothesis, with a figure (notes 1-4).
+{i:Apogeum} = 77° 55′, so erhalten wir die {i:Anomalie} = 53° 5′ 34″, mit diesem Argument
+tritt man in die Tafel 22 ein und findet hier für die {i:Gleichung} der Sonne mit Hilfe
+der Interpolation 1° 46′, diese Gleichung von der mittlern Länge subtrahiert, gibt
+als {i:wahren Ort} der Sonne 129° 14′ 34″, d. h. die Sonne befand sich in diesem Zeit-
+punkt in 9° 14′ 34″ des Löwen.
+@p Die Erklärung, wie man bei allfälligen Minuten der Anomalie zu verfahren habe,
+ist in unserm Texte (p. 9—10 : {i:Quod si ab argumento partes aliquae restiterint} . . .) ver-
+dorben ; es ist natürlich dieselbe Berechnung von Proportionalteilen auszuführen,
+wie bei unsern logarith.-trigonometrischen Tafeln.{sup:1})
+@p Wir geben im folgenden die geometrische Erklärung zu dem obigen Verfahren
+der Bestimmung der wahren Länge der Sonne nach {sp:Ptol.-Batt.}, und zwar nach
+der exzentrischen Hypothese, d. h. die Sonne bewege sich in einem zur Ekliptik
+exzentrischen Kreise, nicht auf einem Epizykel. {sp:Ptol.} hat übrigens schon gezeigt,
+dass man genau zu demselben Resultate komme mit Hilfe eines Epizykels.
+@p Es sei {i:E} der Mittelpunkt der Ekliptik, also der Erdmittelpunkt, {i:M} der Mittel-
+punkt des exzentrischen Kreises, in dem sich die Sonne gleichförmig bewegen soll.
+{i:A} ist also das Apogeum, {i:P} das Perigeum der Sonne ;
+diese letztere befinde sich im Punkte {i:S}, {i:F} sei der
+Frühlingspunkt. Nun ist ∢ {i:FMS} die mittlere Länge
+der Sonne, hievon zieht man die Länge des Apo-
+geums, d. h. den ∢ {i:FMA} ab, und hat dann den
+∢ {i:AMS}, die sogenannte {i:mittlere Anomalie}, in unsern
+Tafeln gewöhnlich {i:Argument} genannt. Wir wollen
+aber den ∢ {i:AES} haben, unter dem von der Erde ({i:E})
+aus gesehen, der Bogen {i:AS} erscheint, den die Sonne
+vom Apogeum an durchlaufen hat ; diesen Winkel erhalten wir, wenn wir von der
+mittlern Anomalie den ∢ {i:α}, die sogenannte {i:Gleichung} der Sonne, subtrahieren. Der
+∢ {i:AES}, oder auch {i:AMG}, wenn {i:MG} ∥ {i:ES}, heisst nun die {i:wahre Anomalie}, addiert
+man dazu wieder ∢ {i:AMF}, d. h. die Länge des Apogeums, so hat man den ∢ {i:FMG}
+oder Bogen {i:FG}, d. h. die {i:wahre Länge} der Sonne. — In unserm Text wird die
+Gleichung {i:α} direkt von der mittlern Länge der Sonne abgezogen, was natürlich auf
+dasselbe hinauskommt.
+@p Wie man für jeden Bogen {i:AS}, oder für jede mittlere Anomalie, die Gleichung
+berechnet, will ich hier nicht ausführlich auseinandersetzen, ich bemerke nur, dass
+{sp:Ptol.}{sup:2}) und {sp:Batt.}{sup:3}) sie mittels des pythagor. Lehrsatzes und trigonometrischer Be-
+ziehungen aus den Dreiecken {i:HME} und {i:HES} berechnen, {sp:al-Bīrūnī}{sup:4}) aber, indem er
+mit Hilfe des Cosinus-Satzes aus dem Dreieck {i:EMS} zuerst {i:ES}, und dann aus dem
+rechtwinkligen Dreieck {i:HES} den ∢ {i:α} berechnet.
+@n {sup:1}) Vergl. auch {sp:Batt.}, ed. {sp:Nallino}, I, 72, Z. 9—13.
+@n {sup:2}) {i:Almagest} III, 5 (ed. {sp:Heiberg}, I, 240—255, deutsche Übers. von K. {sp:Manitius}, I, 173—180).
+@n {sup:3}) Ed. {sp:Nallino}, I, 48, 219—220.
+@n {sup:4}) Vergl. {i:Biblioth. mathem.} {b:11}{sub:3}, 1910, p. 45 u. 71.
+@obs The page number «44» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «Apogeum» continues «Subtrahieren wir davon das» at the end of p. 43 (JP2 0075, L34).
+@obs A figure stands at the left of L17-L25, which are set in a narrower measure at its right; it is not reproduced. Two circles of the same radius: the eccentric with the centre M, on which lie A at the left end of the dashed horizontal diameter, F at the upper left, G and S at the lower left, and P at the right end of the diameter; and the circle of the ecliptic with the centre E, which passes through P′ at the right end of the same dashed line. The solid lines F M, S M produced to H, H E and S E; the dashed line G M, parallel to S E; the angle α marked twice, at S between S M and S E, and at M between M G and M S; L38 calls the triangle H E S right-angled. The letters are italic: A, M, E, P, P′, F, G, H, S, α.
+@obs L01-L05. Checked: 131° 0′ 34″ − 77° 55′ = 53° 5′ 34″; 131° 0′ 34″ − 1° 46′ = 129° 14′ 34″, which is 9° 14′ 34″ of Leo (from 120°). The equation of 1° 46′ is to be compared with Table 22. L15-L32. Checked: A, M and E lie on one line with M between A and E, so that ∢ AMS is the exterior angle of the triangle EMS at M and equals ∢ MES + ∢ MSE, that is ∢ AES + α; the true anomaly ∢ AES is the mean anomaly less the equation α, and ∢ AMG = ∢ AES and ∢ GMS = α, since MG ∥ ES.
+@obs L07: «(p. 9—10 : Quod si ab argumento partes aliquae restiterint . . .)», the quotation in italics, the colon after a thin space (12 px), three points. L19, L21, L22, L24, L27-L29, L38: «∢», the angle sign, a < with a short stroke across it, set before the italic letters with a space. L28: «MG ∥ ES», the sign of parallels printed as two vertical strokes.
+@obs L31: the h of «Gleichung» is a bold sort. N04: «11₃» (the third series), the 11 bold and the 3 lowered. L33: a dark speck below the e of «jeden»; L30: a speck on the base line after «wird»; not transcribed.
+@obs Spaced type, marked {sp:}: «Ptol.-Batt.», «Ptol.», «Batt.», «al-Bīrūnī», «Nallino», «Heiberg», «Manitius»; italics: the letters of the figure, «Apogeum», «Anomalie» (L01), «Gleichung» (L02, L27), «wahren Ort», «mittlere Anomalie», «Argument», «wahre Anomalie», «wahre Länge», «Almagest», «Biblioth. mathem.».
+@obs The colons and semicolons stand after the thin space of the edition (10-13 px measured).

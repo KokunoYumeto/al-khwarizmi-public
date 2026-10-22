@@ -1,0 +1,261 @@
+{
+ "anchor": "AK05-F073",
+ "frame": 73,
+ "frame_file": "page_073.jpg",
+ "frame_sha256": "9e64accedf9e2017da9cb8e5a4b69e44c1476e033d502248ffc8cd475edc01f7",
+ "printed_page": "٦٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 073, printed p. 67: the outer western sea continued, in running text: the coast from point to point, with the editor's running numbers (٩٨٤)-(١٠٠٢) and the numbers of Suhrāb: past the shape of a qawwāra to Tangier, the line of the clime of latitude 36, the two copper idols on the sea of Tangier, said to be the landmarks of Hercules, which nobody passed beyond; then northwards past the mouth of the river اس. Five lines of the editor's footnotes and the signature of the printed sheet.",
+ "lines": [
+  {
+   "id": "AK05-F073-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "ويمرّ الى طول {ov:ح ى} والعرض {ov:كط ى} (٩٨٤) [٥٦٩] يمرّ الى طول {ov:ح {z}} والعرض {ov:لا {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "ويمرّ الى طول ح ى والعرض كط ى (٩٨٤) [٥٦٩] يمرّ الى طول ح ō والعرض لا ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F073-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "(٩٨٥) [٥٧٠] يمرّ الى طول {ov:ح ل} والعرض {ov:لٮ {z}} (٩٨٦) [٥٧١] ويمرّ على صورة",
+   "margin": null,
+   "cells": null,
+   "plain": "(٩٨٥) [٥٧٠] يمرّ الى طول ح ل والعرض لٮ ō (٩٨٦) [٥٧١] ويمرّ على صورة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F073-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "قوارة الى طول {ov:ر ل} والعرض {ov:له م}{n:a} (٩٨٧) [٥٧٢] وذلك عند طنجة ثمّ يترك مقدار",
+   "margin": null,
+   "cells": null,
+   "plain": "قوارة الى طول ر ل والعرض له م (٩٨٧) [٥٧٢] وذلك عند طنجة ثمّ يترك مقدار",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F073-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "ثلثى جزء من هٰذا الموضع وذلك على خطّ الإقليم الّذى عرضه {ov:لو {z}} (٩٨٨) وهٰذا",
+   "margin": null,
+   "cells": null,
+   "plain": "ثلثى جزء من هٰذا الموضع وذلك على خطّ الإقليم الّذى عرضه لو ō (٩٨٨) وهٰذا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F073-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "الموضع هو متّصل ببحر طنجة عليه{n:b} صورة صنمين من نحاس قد حملا صنماً{n:c} آخر برجليه",
+   "margin": null,
+   "cells": null,
+   "plain": "الموضع هو متّصل ببحر طنجة عليه صورة صنمين من نحاس قد حملا صنماً آخر برجليه",
+   "note_marks": [
+    "b",
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F073-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "بأيديهما ويقال انّ هٰذا اعلام هرقل{n:d} الّتى لم يجاوزها احد{n:e} فيجوز ذلك ⟨الموضع⟩{n:f}",
+   "margin": null,
+   "cells": null,
+   "plain": "بأيديهما ويقال انّ هٰذا اعلام هرقل الّتى لم يجاوزها احد فيجوز ذلك ⟨الموضع⟩",
+   "note_marks": [
+    "d",
+    "e",
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F073-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "فيصير الى طول {ov:ه ن} والعرض {ov:لو ك} (٩٨٩) [٥٧٣] يمرّ الى طول {ov:ر ٮه} والعرض {ov:لز ى}",
+   "margin": null,
+   "cells": null,
+   "plain": "فيصير الى طول ه ن والعرض لو ك (٩٨٩) [٥٧٣] يمرّ الى طول ر ٮه والعرض لز ى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F073-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "(٩٩٠) [٥٧٤] ويمرّ الى طول {ov:ه {z}} والعرض {ov:لر ى} (٩٩١) [٥٧٥] يمرّ الى طول {ov:د {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "(٩٩٠) [٥٧٤] ويمرّ الى طول ه ō والعرض لر ى (٩٩١) [٥٧٥] يمرّ الى طول د ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F073-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "والعرض {ov:لر م} (٩٩٢) [٥٧٦] يمرّ الى طول {ov:د ل}{n:g} وهناك مصبّ نهر اس والعرض {ov:لح مه}",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض لر م (٩٩٢) [٥٧٦] يمرّ الى طول د ل وهناك مصبّ نهر اس والعرض لح مه",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F073-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "(٩٩٣) [٥٧٧] يمرّ الى طول {ov:د ى} والعرض {ov:لح مه} (٩٩٤) [٥٧٨] يمرّ الى طول {ov:و ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "(٩٩٣) [٥٧٧] يمرّ الى طول د ى والعرض لح مه (٩٩٤) [٥٧٨] يمرّ الى طول و ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F073-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "والعرض {ov:لط ٮه} (٩٩٥) [٥٧٩] يمرّ الى طول {ov:ه ل} والعرض {ov:لط م} (٩٩٦) [٥٨٠] يمرّ",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض لط ٮه (٩٩٥) [٥٧٩] يمرّ الى طول ه ل والعرض لط م (٩٩٦) [٥٨٠] يمرّ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F073-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "الى طول {ov:و م} والعرض {ov:ما {z}} (٩٩٧) [٥٨١] يمرّ الى طول {ov:و {z}} والعرض {ov:ما ٮه}{n:h} (٩٩٨)",
+   "margin": null,
+   "cells": null,
+   "plain": "الى طول و م والعرض ما ō (٩٩٧) [٥٨١] يمرّ الى طول و ō والعرض ما ٮه (٩٩٨)",
+   "note_marks": [
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F073-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "[٥٨٢] يمرّ الى طول {ov:و مه} والعرض {ov:مٮ {z}} (٩٩٩) [٥٨٣] يمرّ الى طول {ov:و م} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "[٥٨٢] يمرّ الى طول و مه والعرض مٮ ō (٩٩٩) [٥٨٣] يمرّ الى طول و م والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F073-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "{ov:مح {z}} (١٠٠٠) [٥٨٤] يمرّ الى طول {ov:و ⟨م⟩ه}{n:i} والعرض {ov:مح يه} (١٠٠١) [٥٨٥] يمرّ",
+   "margin": null,
+   "cells": null,
+   "plain": "مح ō (١٠٠٠) [٥٨٤] يمرّ الى طول و ⟨م⟩ه والعرض مح يه (١٠٠١) [٥٨٥] يمرّ",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F073-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "الى طول {ov:و ك} والعرض {ov:مد {z}}{n:k} (١٠٠٢) [٥٨٦] يمرّ الى طول {ov:ر {z}}{n:l} والعرض {ov:مد م}",
+   "margin": null,
+   "cells": null,
+   "plain": "الى طول و ك والعرض مد ō (١٠٠٢) [٥٨٦] يمرّ الى طول ر ō والعرض مد م",
+   "note_marks": [
+    "k",
+    "l"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l"
+   ],
+   "lines": 5,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L03: a variant reading of the latitude is له {z}, 35° 0′ (note a).",
+  "L05: the manuscript has على for عليه (note b).",
+  "L05: the manuscript has صنم for صنماً (note c).",
+  "L06: the manuscript has هزقل for هرقل (note d).",
+  "L06: the words before the mark e stand in the margin of the manuscript (note e).",
+  "L09: the longitude د ل is the first reading of the manuscript, which the editor holds to be correct by comparison with entry (1912); the manuscript changed it later to زك, and a variant reading is رك (note g).",
+  "L12: a variant reading of the second latitude is ما ط, 41° 9′ (note h).",
+  "L15: a variant reading of the first latitude is مد ه, 44° 5′ (note k).",
+  "L15: a variant reading of the second longitude is ر ه (note l)."
+ ],
+ "unresolved": [
+  "L12: the loop before the alif in the first latitude may also be read as a round ه with a separate alif: ه ا. Transcribed ما."
+ ],
+ "observations": [
+  "The running text of the outer western sea goes on from p. 66 (frame 072): the coast from point to point, «يمرّ الى طول … والعرض …», with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}; after each point stand the editor's running number in parentheses, (٩٨٤)-(١٠٠٢), and the number of Suhrāb in square brackets, [٥٦٩]-[٥٨٦]; point 988 (L04) has none.",
+  "L03-L06: after the shape of a qawwāra the coast reaches Tangier, «وذلك عند طنجة», and leaves two thirds of a degree of this place, «ثمّ يترك مقدار ثلثى جزء من هٰذا الموضع», on the line of the clime whose latitude is 36 (L04); this place is joined to the sea of Tangier, and on it is the image of two idols of copper, which carry in their hands another idol by its legs; it is said that these are the landmarks of Hercules, «اعلام هرقل», beyond which nobody has passed (L05-L06). L09: «وهناك مصبّ نهر اس», there is the mouth of the river اس.",
+  "Signs in the text, transcribed as printed: «يمرّ» and «ويمرّ», with a shadda over the ر; «ثمّ», «انّ», «خطّ», «مصبّ» and «متّصل», with a shadda; «الّذى» and «الّتى», with a shadda over the ل; «هٰذا» and «وهٰذا», with a dagger alif over the ه (L04, L06); «جزء», with a hamza on the line (L04); «الإقليم», with a hamza below the alif (L04); «بأيديهما», with a hamza over the alif (L06); «آخر», with a madda (L05); «صنماً», with the tanwin of the accusative over its alif (L05). L06: «⟨الموضع⟩», between angle brackets, followed by the note mark f: the editor supplies the word, which the manuscript lacks (note f).",
+  "Note marks: L03, a after the latitude; L05, b after «عليه» and c after «صنماً»; L06, d after «هرقل» and e after «احد»; L09, g after the longitude «د ل»; L12, h after the second latitude; L14, i after the longitude; L15, k after the first latitude and l after the second longitude.",
+  "L07, the degrees of the first longitude: a small solid teardrop, 13 by 16 px, larger than the dots of the font (9 by 9 px) and much smaller than the sign for zero, with the form of the round ه of frame 065 (L15); transcribed ه, 5.",
+  "L12, the degrees of the first latitude: a small round loop, 16 by 18 px, on the line, 5 px to the right of an alif, with the joining stroke between them not printed; the latitude «ما ٮه» of the same line prints the initial م joined to its alif, and the loop has its size. Transcribed ما, 41, between the latitudes 39° 40′ (L11) and «ما ٮه», 41 degrees (L12).",
+  "L14: the minutes of the longitude are printed «⟨م⟩ه»: an initial م between angle brackets, then the final ه of «مه», 45, followed by the note mark i: the editor supplies the م from S where the manuscript has a gap (note i). Transcribed with the brackets in the cell.",
+  "Letters printed without their dots in the numerals, transcribed so: لٮ (L02, the degrees of the latitude), a ل joined to a final ب without its dot, 32; مٮ (L13, the degrees of the first latitude), 42; ٮه (L07, the minutes of the second longitude; L11, the minutes of the first latitude; L12, the minutes of the second latitude), a tooth without its dot joined to a final ه.",
+  "In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: ر (L03, L07, L15, the degrees of the longitude), لر (L08, L09, the degrees of the latitude), 37. L07 prints لز, with the dot, in the degrees of the second latitude.",
+  "The ح of the numerals, ح (L01, L02, the degrees of the longitude), لح (L09, L10) and مح (L14, both latitudes), shows no dot in the bowl; the same form is a ج without its dot, 3, which in مح would give 43 and 43° 15′, between the latitudes 42 (L13) and 44 (L15). Transcribed as printed.",
+  "The isolated ى, 10, has no dots (L01, L07, L08, L10). The isolated ك, 20, is printed with the small inner stroke of the letter (L07, L15).",
+  "The editor's footnotes stand in five lines below a short rule at the left: notes a-l. Below the notes, at the left, the signature «5*» of the printed sheet; the page number «— ٦٧ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

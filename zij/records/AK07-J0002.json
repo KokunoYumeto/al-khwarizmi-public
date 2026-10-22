@@ -1,0 +1,24 @@
+{
+ "anchor": "AK07-J0002",
+ "jp2_index": 2,
+ "jp2_member": "b24872489_0002.jp2",
+ "jp2_sha256": "b7c8608dfdcbfe43dbb7f5201f540a324009cec4bfb531061c3830788a696d3f",
+ "reading_copy": "page_0002.jpg",
+ "reading_copy_sha256": "d96b3b5633a06bfcff288552e193d9f5b33da2f6ed4c50c0d8565fc0a56e9632",
+ "printed_page": "-",
+ "kind": "provenance",
+ "language": null,
+ "role": "COPY_PROVENANCE",
+ "file": "suter",
+ "comment": "JP2 0002: the front pastedown, with a bookplate, a shelfmark and a barcode.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Nothing of the edition is printed on this page."
+ ],
+ "copy_matter": [
+  "The bookplate «Ex Libris R. M. Burrell», with the drawing of a turbaned figure seated cross-legged and reading a book; below it, in pencil, the shelfmark «(2) AJB.CA.AA2»; at the foot, a barcode label «22501959681»."
+ ],
+ "critical_notes": []
+}

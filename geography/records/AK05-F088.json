@@ -1,0 +1,178 @@
+{
+ "anchor": "AK05-F088",
+ "frame": 88,
+ "frame_file": "page_088.jpg",
+ "frame_sha256": "5feadcf28ccb64b84fd816e63e9635c594a7dffd49e1fa4ffd97881f79bf7255",
+ "printed_page": "٨٢",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 088, printed p. 82: the heading of the Dark Sea and the beginning of its course, in running text: its boundary is from the boundary of the sea of China, at the point where that sea touches it, beyond the equator; then the coast to the mountain of the river سفس at Gog, with the editor's running numbers (١٢٦١)-(١٢٦٨), and a passage supplied from S; the folio of the manuscript, «(fol. 22ᵃ)», within the line. Ten lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F088-L01",
+   "n": 1,
+   "kind": "heading",
+   "text": "* البحر المظلم *",
+   "margin": null,
+   "cells": null,
+   "plain": "* البحر المظلم *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F088-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "حدّه من حدّ بحر الصين اوّله عند طول {ov:قسد {z}} والعرض {ov:ى {z}} خلف خطّ الاستواء{n:a}",
+   "margin": null,
+   "cells": null,
+   "plain": "حدّه من حدّ بحر الصين اوّله عند طول قسد ō والعرض ى ō خلف خطّ الاستواء",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F088-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "{n:b}⟨يمرّ الى طول {ov:قسد {z}} والعرض {ov:يج ل} خلف خطّ الاستواء{n:c}⟩{n:d} يمرّ الى طول",
+   "margin": "(fol. 22ᵃ)",
+   "cells": null,
+   "plain": "⟨يمرّ الى طول قسد ō والعرض يج ل خلف خطّ الاستواء⟩ يمرّ الى طول",
+   "note_marks": [
+    "b",
+    "c",
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F088-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "{ov:قف {z}} والعرض {ov:ٮح ل} ⟨خلف خطّ الاستواء⟩{n:e} (١٢٦١) [٨١٧] يمرّ الى طول {ov:قف {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "قف ō والعرض ٮح ل ⟨خلف خطّ الاستواء⟩ (١٢٦١) [٨١٧] يمرّ الى طول قف ō",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F088-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "والعرض {ov:كز {z}} (١٢٦٢) [٨١٨] ويمرّ على صورة الطيلسان يمرّ بعرض ⟨{ov:كح {z}}⟩{n:f} (١٢٦٣)",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض كز ō (١٢٦٢) [٨١٨] ويمرّ على صورة الطيلسان يمرّ بعرض ⟨كح ō⟩ (١٢٦٣)",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F088-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "[٨١٩] ويماسّ جبل نهر سفس المحيط بياجوج ويصير الى طول {ov:ڡسط {z}} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "[٨١٩] ويماسّ جبل نهر سفس المحيط بياجوج ويصير الى طول ڡسط ō والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F088-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "{ov:كه ل}{n:g} (١٢٦٤) [٨٢٠] ويمرّ الى طول {ov:ڡعا ل} والعرض {ov:كا ى} (١٢٦٥) [٨٢١] ويمرّ",
+   "margin": null,
+   "cells": null,
+   "plain": "كه ل (١٢٦٤) [٨٢٠] ويمرّ الى طول ڡعا ل والعرض كا ى (١٢٦٥) [٨٢١] ويمرّ",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F088-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "الى طول {ov:ڡعح ل} والعرض {ov:كح {z}} (١٢٦٦) [٨٢٢] يمرّ الى طول {ov:ڡعح {z}} والعرض {ov:كد {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "الى طول ڡعح ل والعرض كح ō (١٢٦٦) [٨٢٢] يمرّ الى طول ڡعح ō والعرض كد ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F088-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "(١٢٦٧) [٨٢٣] و⟨يمرّ⟩{n:h} الى طول {ov:ڡعو ل} والعرض {ov:كه م} (١٢٦٨) [٨٢٤] يمرّ الى طول",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٢٦٧) [٨٢٣] و⟨يمرّ⟩ الى طول ڡعو ل والعرض كه م (١٢٦٨) [٨٢٤] يمرّ الى طول",
+   "note_marks": [
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h"
+   ],
+   "lines": 10,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L02: the point is the same as point 1147 (note a).",
+  "L03: folio 21ᵃ of the manuscript holds a drawing of the different shapes of the coasts, with the instruction «هذه الصورة موضعها قبل قوله البحر المظلم حدّه من حدّ بحر الصين اوّله عند طول فسد ه», this picture has its place before the words «the Dark Sea: its boundary is from the boundary of the sea of China; its beginning is at the longitude فسد ه», the numerals «فسد ه» under one line and followed by the editor's «sic!»; the editor refers to plate II; folio 21ᵇ is blank (note b).",
+  "L03: the point between the angle brackets is the same as point 1146 (note c).",
+  "L03: the manuscript lacks the passage between the angle brackets; the editor supplies it from S (note d).",
+  "L04: the manuscript lacks the words خلف خطّ الاستواء; above the latitude it has the word شمال (note e).",
+  "L05: the manuscript has a gap at the latitude; from the remains of the letters the minutes were perhaps ل; the editor restores the text after S (note f).",
+  "L07: a variant reading of the first latitude is كز ل, with a line over the numerals (note g).",
+  "L09: the manuscript lacks the word يمرّ, which the editor supplies (note h)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "L01: the heading of the new section, «* البحر المظلم *», the Dark Sea, in the large type, between two small open stars with six points, transcribed as asterisks; the page has no other heading.",
+  "L02: «حدّه من حدّ بحر الصين اوّله عند طول قسد {z} والعرض ى {z} خلف خطّ الاستواء», its boundary is from the boundary of the sea of China; its beginning is at the longitude 164° 0′ and the latitude 0° 10′ beyond the equator. This first point has no running number; the editor's note a identifies it with point 1147 (frame 081, L13-L14). «حدّه» and «حدّ» have a shadda over the د, «اوّله» over the و, «خطّ» over the ط; «الاستواء» ends in an alif followed by a small hamza on the line (L02, L03, L04), where p. 75 (frame 081) prints «الاستوى*».",
+  "L03: the folio of the Strasbourg manuscript, «(fol. 22ᵃ)», is printed in Latin type within the line, at its beginning, followed by the note mark b: folio 21 of the manuscript holds no text (note b); transcribed as a margin note before the line, with the mark b at the beginning of the line.",
+  "L03: the passage «⟨يمرّ الى طول قسد {z} والعرض يج ل خلف خطّ الاستواء⟩», between angle brackets, with the note mark c before the closing bracket and d after it, is supplied by the editor from S, which shows how the sea of China and the Dark Sea are joined; the manuscript lacks it (note d). The editor's note c identifies the point with point 1146 (frame 081, L12-L13), whose latitude p. 75 prints «يح ل», 18° 30′; here the latitude is printed «يج», with the two dots of the ي below the tooth, merged into one bar, 17 by 8 px, and the dot of the ج in the bowl, 13° 30′. Transcribed as printed.",
+  "L04: the words «⟨خلف خطّ الاستواء⟩», between angle brackets and followed by the note mark e, are supplied by the editor; the manuscript has the word «شمال», north, above the latitude (note e). L05: the latitude «⟨كح {z}⟩», between angle brackets, with its line inside them, followed by the note mark f, is restored by the editor after S where the manuscript has a gap (note f). L09: «و⟨يمرّ⟩», the word «يمرّ» between angle brackets and followed by the note mark h, is supplied by the editor, which the manuscript lacks (note h).",
+  "L06: «ويماسّ جبل نهر سفس المحيط بياجوج», and it touches the mountain of the river سفس, which surrounds Gog, with a shadda over the س of «ويماسّ» and all the dots of «جبل», «نهر», «سفس» and «بياجوج». L05: «على صورة الطيلسان», along the shape of the ṭaylasān; point 1263 (L05) is given by its latitude only, «يمرّ بعرض».",
+  "The running numbers run (١٢٦١)-(١٢٦٨), and the numbers of Suhrāb [٨١٧]-[٨٢٤], which go on from [٨١٦] (frame 086, point 1230); the numbers [٨٣٩]-[٨٦٨] of the sea of Khwārazm (frames 086-087) come after them in Suhrāb's order.",
+  "Letters printed without their dots in the numerals, transcribed so: «ٮح» (L04, the degrees of the latitude), a tooth without its dot, which read with a ي gives 18; and the loop of ف or ق without dots in the degrees of the longitude: «ڡسط» (L06), «ڡعا» (L07), «ڡعح» (L08, twice) and «ڡعو» (L09), which read with ق give 169, 171, 178 and 176, where «قسد» (L02, L03) and «قف» (L04, twice), 180, are printed with the two dots of the ق. In «قف» the two dots of the ق are merged into one bar, 18 by 10 px, and the ف has its dot. With their dots: «كز» (L05), 27; «يج» (L03).",
+  "The ح of the numerals, «ٮح» (L04), «كح» (L05, L08) and «ڡعح» (L08), shows no dot in the bowl; the same form is a ج without its dot, 3, which L03 prints with its dot in «يج». Transcribed as printed. The isolated ى, 10, has no dots (L02, L07). The isolated ك, 20, is printed with the small inner stroke of the letter.",
+  "Note marks: L02, a after «الاستواء»; L03, b at the beginning of the line, after the folio, c after «الاستواء» within the brackets and d after the closing bracket; L04, e after the closing bracket; L05, f after the closing bracket; L07, g after the first latitude; L09, h after «⟨يمرّ⟩».",
+  "The editor's footnotes stand in ten lines below a short rule at the left: notes a-h. The page number «— ٨٢ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

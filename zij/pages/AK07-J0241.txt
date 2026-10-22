@@ -1,0 +1,50 @@
+@page 241 209
+@lang la
+% JP2 0241: Tab. 94, p. 209: the projection of the rays continued: three fields, for the ascendant at 20°, 25° and
+% 30° of Taurus, the columns from Taurus to Libra, each field with the numbers for the sextile, the quadrature and
+% the trine, with the apparatus (notes a-o); the field of 25° of Taurus is that of Suter's first example.
+@r C 92{sup:r}, O 148{sup:r},
+@r N 58{sup:v}
+@c {b:Viginti gradus Tauri}
+@c {b:Exagonum 52° 29′} — {b:Tetragonum 78° 44′}{sup:a}) — {b:Trigonum 104° 9′}{sup:b})
+@tw size=footnotesize 0.95 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62
+@t Gradus | Taurus |  | Gemini |  | Cancer |  | Leo |  | Virgo |  | Libra |
+@t aequales | Scorpius |  | Sagittar. |  | Capricorn. |  | Aquarius |  | Pisces |  | Aries |
+@t  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |  | Horoscopus |
+@t  | {b:Gr.} | {b:Mln.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 5 | 3 | 25 | 26 | 48 | 56 | 58 | 90 | 38 | 119 | 55 | 141 | 3
+@t 10 | 6 | 52 | 31 | 5 | 62 | 33 | 97 | 50 | 123 | 3 | 144 | 13
+@t 15 | 10 | 40 | 35 | 53 | 68 | 18 | 102 | 33 | 126 | 43 | 147{sup:c}) | 31
+@t 20 | 14 | 20 | 40 | 55 | 74 | 21 | 107 | 47 | 130 | 28 | 150 | 48
+@t 25 | 18 | 25 | 46 | 14 | 80 | 5 | 112 | 32 | 134 | 3 | 154 | 13
+@t 30 | 22 | 25 | 51 | 33 | 85 | 28 | 115 | 23 | 137 | 53 | 157 | 28
+@c {b:Viginti quinque gradus Tauri}
+@c {b:Exagonum 53° 30′} — {b:Tetragonum 80° 16′} — {b:Trigonum 107°}{sup:f}) {b:0′}
+@t 5 | 3 | 30 | 26 | 45 | 57 | 13 | 91 | 52 | 121 | 16 | 143 | 36
+@t 10 | 7{sup:d}) | 5 | 31 | 5 | 62{sup:e}) | 41 | 97 | 5 | 125 | 11 | 147 | 6
+@t 15 | 10 | 40 | 35 | 50 | 68 | 18 | 102 | 15 | 129 | 4 | 150 | 24
+@t 20 | 14 | 20 | 40 | 53 | 74 | 23 | 107 | 25 | 132 | 56 | 153 | 41
+@t 25 | 18 | 25 | 46 | 5 | 80 | 23 | 112 | 20 | 136 | 43 | 157 | 9
+@t 30 | 22 | 25 | 51 | 43 | 86 | 25 | 117 | 26 | 140 | 41 | 160 | 31
+@c {b:Triginta gradus Tauri}
+@c {b:Exagonum 54°}{sup:g}) {b:37′} — {b:Tetragonum 81°}{sup:h}) {b:45′} — {b:Trigonum 109° 13′}
+@t 5 | 3 | 35 | 27 | 25 | 57 | 35 | 92 | 35 | 123 | 8 | 146 | 28
+@t 10 | 7 | 10 | 31 | 50 | 63{sup:i}) | 20 | 97{sup:l}) | 0 | 127 | 17 | 149 | 50
+@t 15 | 10 | 50 | 36 | 28 | 69{sup:k}) | 0 | 103 | 20 | 131 | 15 | 153 | 10
+@t 20 | 14 | 35 | 41 | 28 | 74 | 45 | 108 | 30 | 135{sup:m}) | 15 | 156 | 38
+@t 25 | 18 | 44 | 46 | 46 | 81 | 0 | 113 | 43 | 139 | 7 | 160{sup:n}) | 18
+@t 30 | 22 | 55 | 52 | 0 | 87 | 5 | 119 | 0 | 143 | 5 | 163{sup:o}) | 50
+@n {sup:a}) 44] CO, 84 N — {sup:b}) 9] 109 CON — {sup:c}) 147] ON, 148 C — {sup:d}) 7] ON, 6 C — {sup:e}) 62] C, 92 O —
+@n {sup:f}) 107] 57 CON — {sup:g}) 54] 104 CON — {sup:h}) 81] 71 CON — {sup:i}) 63] C, 93 O — {sup:k}) 69] C, 99 O — {sup:l}) 97] C,
+@n 93 O — {sup:m}) 135] ON, 125 C — {sup:n}) 160] 190 CON — {sup:o}) 163] 193 CON.
+@obs The page number «209» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 94», in bold sans serif, underlined. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «27» on the right; recorded here, not transcribed as a line. The page has no title: the folios of the manuscripts stand at the right above the double rule of the first field, in two lines of their own, «C 92r, O 148r,» and «N 58v», the letters raised, the second without its point: see the critical note (L01-L02).
+@obs The page holds three fields, as pp. 206-208 (JP2 0238-0240): «Viginti gradus Tauri» (L03), «Viginti quinque gradus Tauri» (L15) and «Triginta gradus Tauri» (L23), the ascendant at 20°, 25° and 30° of Taurus, with the numbers for the sextile, the quadrature and the trine (L04, L16, L24); headings and numbers in bold. The heads of the columns of the first field as on p. 208 (JP2 0240, L05-L08), from Taurus to Libra, with «Horoscopus» in each and without notes (L05-L08); the head of the minutes of Taurus reads «Mln.» (L08; critical note). The second and the third field have no heads. Double rules divide the fields.
+@obs The numbers at the head of a field, as on pp. 206-208 (JP2 0238-0240), are a third, a half and two thirds of one number. In the second field it is the last number of the field, 160° 31′ (L22): 53° 30.3′, 80° 15.5′ and 107° 0.7′, printed 53° 30′, 80° 16′ and 107° 0′ (L16), the 107 the editor's for the 57 of all three manuscripts (note f). In the first field the sextile 52° 29′ and the quadrature 78° 44′ (L04) are a third and a half of the last number, 157° 28′ (L14), whose two thirds are 104° 58.7′, where the trine has 104° 9′, the editor's 9 for the 109 of the manuscripts (note b). In the third field the sextile 54° 37′ and the trine 109° 13′ (L24) are a third and two thirds of the last number, 163° 50′ (L30), the 54 the editor's for the 104 of the manuscripts (note g); its half is 81° 55′, where the quadrature has 81° 45′, the 81 the editor's for the 71 of the manuscripts (note h): see the critical note. The same three numbers, with 81° 55′, stand at the head of the field of 15° of Taurus on p. 208 (JP2 0240, L24).
+@obs Suter's first example (p. 100, JP2 0132, L30-L37, and p. 101, JP2 0133, L01-L09) uses the second field: the ascendant at 25° of Taurus and the planet at 5° of Gemini give 26° 45′ (L17), and with the sextile 53° 30′ (L16) the sum 80° 15′, which falls between 74° 23′ and 80° 23′ at 20° and 25° of Cancer (L20-L21); the interpolation gives 24° 53.3′ of Cancer for the left sextile, Suter's 24° 53′.
+@obs The columns, as on p. 208 (JP2 0240): in Taurus and Gemini the three fields lie above the oblique ascensions from the beginning of Taurus for 38° 30′ (computed with the obliquity 23° 35′), by up to 27′, 34′ and 59′; at the end of Libra they reach 157° 28′, 160° 31′ and 163° 50′, where the oblique ascension from the beginning of Taurus is 198° 42′.
+@obs Notes on the readings. Checked by the other fields, which differ by 5° of the ascendant (on p. 208, JP2 0240, those of 5°, 10° and 15° of Taurus), and by the steps of the columns: the edition's readings are the nearer in the quadrature of the first field (note a, L04: the 44 of C and O against N's 84; half of 157° 28′ is 78° 44′), at 15° of Libra in the first (note c, L11: the 147 of O and N against C's 148, the steps 3° 18′ and 3° 17′ against 4° 18′ and 2° 17′), at 10° of Taurus and of Cancer in the second (notes d and e, L18: the 7 of O and N against C's 6, the steps 3° 35′ and 3° 35′ against 2° 35′ and 4° 35′; C's 62 against O's 92), and at 10° and 15° of Cancer, 10° of Leo and 20° of Virgo in the third (notes i, k, l and m, L26-L28: C's 63, 69 and 97 against O's 93, 99 and 93; the 135 of O and N against C's 125). The editor's corrections of the readings common to C, O and N agree with the rule of the heads in notes f, g and h, and with the steps of Libra in the third field in notes n and o (L29-L30: 160 and 163 for 190 and 193; the steps 3° 20′ to 3° 40′); that of note b does not (above).
+@obs Without variants: in the first field the column of Leo rises from 85° 28′ at the end of Cancer by 5° 10′, 7° 12′, 4° 43′, 5° 14′, 4° 45′ and 2° 51′ (L09-L14), and by 4° 32′ into Virgo; at 10° to 25° of Leo it stands 12′ to 45′ above the second field (97° 50′, 102° 33′, 107° 47′, 112° 32′ against 97° 5′, 102° 15′, 107° 25′, 112° 20′) and 3° 15′ to 3° 49′ above the field of 15° of Taurus on p. 208 (JP2 0240, L26-L29). In the third field 97° 0′ at 10° of Leo (L26) stands between the steps 4° 25′ and 6° 20′.
+@obs The 1 of «15» in the first column of the first field (L11) is bent at its foot; specks between the columns; not transcribed.
+@critical AK07-CN230 | missing point | L02 | N 58{sup:v} | N 58{sup:v}. | the folio of N ends with a point, as «N 58r.» on p. 208 (JP2 0240, L02) | high | none
+@critical AK07-CN231 | wrong sort | L08 | {b:Mln.} | {b:Min.} | the heads of the other five columns of minutes read «Min.»; the i is printed as an l, without its dot, as in «Mln.» on p. 119 (JP2 0151, L06; critical note AK07-CN087) | high | none
+@critical AK07-CN232 | wrong figure | L24 | 81° 45′ | 81° 55′ | the quadrature is the half of the number of which the sextile 54° 37′ and the trine 109° 13′ are a third and two thirds, the last number of the field, 163° 50′ (L30), whose half is 81° 55′; p. 208 (JP2 0240, L24) has the same sextile and trine with the quadrature 81° 55′; the editor corrects the degrees of all three manuscripts (note h) and keeps the 45 | high | none

@@ -1,0 +1,52 @@
+@page 15 XI
+@lang de
+% JP2 0015: the introduction, p. XI: the Mazarine manuscript (M), its hands and contents; the Madrid manuscript (N), its
+% writing, colours, history (Toledo, Cardinal Celada) and contents; Robert of Chester named in its title.
+Tafeln hat es deren nur 9. Es ist ebenfalls eine Pergament-Handschrift aus dem
+13. Jahrh., der beschriebene Blattraum misst durchschnittlich 30/23 cm. Es haben
+verschiedene Hände daran gearbeitet, Björnbo hat dies durch die Bezeichnungen
+M{sub:1}, M{sub:2}, etc. ausgedrückt.{sup:1}) Es ist sehr wahrscheinlich, dass M eine unvollständige
+und sehr flüchtige Abschrift von C sei, da auch fehlerhafte Lesarten meistens über-
+einstimmen. Unsere Abhandlung nimmt in diesem Ms. fol. 82{sup:r}—89{sup:v} ein. Neben
+ihr befinden sich darin unter anderem noch : {sp:Thebit}, {i:de iis quae indigent expositione}
+{i:antequam legatur Almagesti}, unvollständig ; {sp:Jordanus}, {i:de pondere} ; der Traktat, der
+mit {i:communis et consuetus} . . . beginnt{sup:2}) ; {i:liber alchorismi arithmeticae qui editus est a}
+{i:magistro Johanne}.
+@p Mit der Handschrift der Biblioteca Nacional in {i:Madrid} (N), bezeichnet mit
+Nr. 10016, die A. {sp:Björnbo} leider nicht mehr benutzen konnte, haben wir uns etwas
+ausführlicher zu beschäftigen, da sie von besonderer historischer Wichtigkeit ist.
+Sie ist eine Pergament-Handschrift aus dem 13. Jahrh. nach den Angaben des Kata-
+loges, die mir durch die Bemühungen des Herrn {sp:Miguel Asín}, Prof. des Arabischen
+an der Universität Madrid, dem ich hier öffentlich für seine liebenswürdige Hilfe,
+besonders auch zur Erlangung von Photographien der Handschrift, meinen verbind-
+lichsten Dank ausspreche, zur Kenntnis gekommen sind. Der beschriebene Blattraum
+misst nach den Photographien im Text 16/10 cm, in den Tafeln 17/12 cm. Die Hand-
+schrift ist sehr schön und gleichmässig geschrieben, und enthält wenig Abkürzungen,
+die Initialen sind in schwarz, rot und grün ausgeführt, auch die Zahlen der ver-
+schiedenen Kolonnen der Tafeln und die Titel derselben wechseln oft (nicht durch-
+weg) in schwarzer, roter und grüner Tinte mit einander ab{sup:3}). Die Handschrift
+befand sich ursprünglich in der Kathedrale von {i:Toledo}. Herr Prof. {sp:Asín} bemerkte
+mir in einem Briefe, dass es wahrscheinlich sei, dass dieselbe aus Italien nach Spa-
+nien gekommen sei, weil sie einen Teil der Sammlung des Cardinals {sp:Celada} gebildet
+habe, die in Italien zusammengestellt worden sei. Wir glauben doch eher, dass sie
+erst in Spanien in diese Sammlung geraten sei, die wohl in Italien begonnen, aber
+vielleicht in Spanien fortgesetzt worden sein mag.
+@p Auch diese schöne Handschrift ist leider unvollständig, von den 37 Kapiteln
+des Textes enthält sie nur 1—5, 22 u. 23, 31—37, also noch weniger als M, dafür
+aber von den c. 125 Tafeln deren 110 (es fehlen nur die Nummern : 4—8, 21, 57{sup:b}, 59,
+59{sup:a}, 59{sup:b}, 60, 61, 67, 68, 115, 116).
+@p Im ersten Satze (Titel) des Textes im Ms. N führt sich {sp:Rodbertus Cestrensis},
+d. i. {sp:Robert von Chester}, mit den Worten {i:et per rodbertum cestrensem ordine digestus},
+@n {sup:1}) So scheint z. B. die erste Tafel der Gleichung Saturns (Tafel 27) in drei Abschriften von
+@n vərschiedener Hand (M{sub:1}, M{sub:2}, M{sub:3}) auf fol. 86 u. 87 vorhanden zu sein, die zweite Tafel der Gleichung
+@n dieses Planeten (Tafel 28) in zwei Abschriften (M{sub:1} u. M{sub:2}) auf denselben Blättern ; die folgenden
+@n Tafeln fehlen alle.
+@n {sup:2}) Vergl. G. {sp:Eneström}, in der {i:Biblioth. mathemat.}, 3. Folge, Bd. 8, p. 135 ff.
+@n {sup:3}) Dies wurde für die Photographie der Tafeln zum Verhängnis, die mit grüner und roter Tinte
+@n geschriebenen Titel und Zahlen wurden im Bilde so schwach, dass die beste Loupe sogar an einigen
+@n Stellen versagt hat.
+@obs The page number «XI» stands at the head of the page, centred, with a rule below it.
+@obs L31: the dash of «1—5» is printed in two pieces, 16 and 21 px long with a gap of 5 px, together 42 px, where the dash of «31—37» in the same line is one stroke of 45 px; a broken long dash, transcribed as one. L03 «Björnbo» is in the type of the text, not spaced; L12 «Björnbo» is spaced. L04 and N02-N03: the figures after M are lowered, M₁, M₂, M₃. L06: the r and v after the folio numbers are raised.
+@obs N02: the first e of «verschiedener» is printed upside down, ə; see the critical note.
+@obs Marks not transcribed: mid-height specks between «lichsten» and «Dank» (L18) and between «in» and «schwarz» (L21).
+@critical AK07-CN002 | turned letter | N02 | vərschiedener | verschiedener | the first e of the word is printed upside down, a turned sort; the word is «verschiedener», of different hands, as «verschiedene Hände» in L03 | high | none

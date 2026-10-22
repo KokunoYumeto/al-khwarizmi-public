@@ -1,0 +1,9 @@
+file	work	lane	language	role	lines	sha256
+AK01_algebra_1939.ar.tsv	AK01	algebra	ar	the Arabic text as printed in the 1939 Cairo edition, with the edition's cover and title page	1637	253e90471011f776074b2d36c66143144c1da9eb254a65ed67134ed0325433f7
+AK05_geography_1926.ar.tsv	AK05	geography	ar	the Arabic text as printed in Mzik's edition (1926; the 1962 reprint), with its Arabic index	2526	9147b8330606d64163944f5efba1cd18f52dd9f03e8dfa97c75e1d502ecb5433
+AK05_geography_1926_editor.de.tsv	AK05	geography	de	MODERN_EDITORIAL: Mzik's German title pages, the series title and the imprint	43	bce7da17eed336a9dfd3b9ff7a062f46ecd719ef5f0c7b0ce82f030b54b04702
+AK02_arithmetic_1857_editor.it.tsv	AK02	arithmetic	it	MODERN_EDITORIAL: Boncompagni's Italian title page, heading and footnotes	38	bf1e1efacb358156aaa9ebef0c7e5df103e494eec108bde886708121d745a9a0
+AK02_arithmetic_1857.la.tsv	AK02	arithmetic	la	RECENSION_LATIN: the Latin text as printed by Boncompagni (1857)	730	632ae2a74a910ad08cf54ff316532c72866bfb903dd459ca2bd6376a7db1e40e
+AK07_zij_1914_suter.de.tsv	AK07	zij	de	MODERN_EDITORIAL: Suter's German title page, foreword, introduction, commentary, additions, glossary, index	5303	33ae5f0a26a2d6fcccf9c3b00ad94f37f8c5fe27a151289ad3b2e797aaafe3e8
+AK07_zij_1914.la.tsv	AK07	zij	la	RECENSION_LATIN: the Latin text and tables of the recension of Maslama and Adelard, with Suter's Latin apparatus	6357	a74b4de3b64aa9005dae8eabd116d8215744a79dd741b69fbf0253b52252a24a
+AK15_calendar_1947.ar.tsv	AK15	calendar	ar	the Arabic text as printed in the Hyderabad edition (1947), with the two title pages	170	b1256153e9577c722f1de69a3579494cb9b315a30158346f4bb3807bf73132a1

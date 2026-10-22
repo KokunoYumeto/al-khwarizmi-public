@@ -1,0 +1,4 @@
+@page 180 -
+@kind blank
+% Frame 180: the back of the folding sheet of plate V; nothing printed.
+@obs Blank. The page of plate V (frame 179) shows through faintly from the other side of the sheet; two vertical folds of the sheet cross the frame. A speck of 8 by 7 px.

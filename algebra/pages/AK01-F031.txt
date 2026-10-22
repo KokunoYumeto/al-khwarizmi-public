@@ -1,0 +1,22 @@
+@page 31 ١٧
+% Frame 031, printed p. 17: the definitions of the root, the square (mal) and the simple number; the six kinds of
+% equation begin with the three simple ones; squares equal to roots, with examples. Below the rule the editors'
+% footnote (١) of p. 16 continues: eight lines of equations in modern notation.
+لا ينسب إلى جذر ولا إلى مال . فالجذر منها كل شىء مضروب فى نفسه من
+الواحد وما فوقه من الأعداد وما دونه من الكسور . والمال كل ما اجتمع
+من الجذر المضروب فى نفسه . والعدد المفرد كل ملفوظ به من العدد
+بلا نسبة إلى جذر ولا إلى مال . فمن هذه الضروب الثلاثة ما يعدل بعضها
+بعضا وهو كقولك أموال تعدل جذوراً . وأموال تعدل عدداً . وجذور
+تعدل عدداً .
+@p فأما الأموال التى تعدل الجذور فمثل قولك مال يعدل خمسة اجذاره فجذر
+المال خمسة والمال خمسة وعشرون وهو مثل خمسة أجذاره . وكقولك ثلث مال
+يعدل أربعة أجذار فالمال كله يعدل اثنى عشر جذراً وهو مائة وأربعة وأربعون
+وجذره اثنى عشر . ومثل قولك خمسة أموال تعدل عشرة أجذار فالمال الواحد
+يعدل جذرين وجذر المال اثنان والمال أربعة وكذلك ما كثر من الأموال أو قل
+يرد إلى مال واحد . وكذلك يفعل بماعادلهامن الأجذار يرد إلى مثل مايرد اليه المال.
+@ednotes ١ 8 continued
+@obs L07: اجذاره is printed with a plain alif, where L08 has أجذاره.
+@obs L12 is set tight to fill the measure. Without a word space after a non-connecting letter, and transcribed so: بماعادلهامن, مايرد; after a connecting letter, whose final form marks the end of the word, a word space is transcribed although the print sets the words close: إلى مال, اليه المال. The full stop at the end of L12 is set close.
+@obs L01: شىء with a dotless yā' before the hamza.
+@obs Without tanwīn as printed: بعضا (L05); with tanwīn on the final alif: جذوراً, عدداً (L05), عدداً (L06), جذراً (L09).
+@copy Pencil marks of a reader of the Columbia copy: in the top margin, the English words «multiplicand» and «multiplier» beside the Arabic مضروب and مضروب فيه.

@@ -1,0 +1,23 @@
+@page 1 -
+@kind cover
+% Frame 001: the front cover of the Columbia copy: the printed paper wrapper of the edition, mounted on the library's
+% cloth binding. The wrapper repeats the title page with the series number «No. 2».
+@c الجامعة المصرية
+@c كلية العلوم
+@c No. 2
+@c كتاب الجبر والمقابلة
+@c لمحمد بن موسى الخوارزمى
+@c قام بتقديمه والتعليق عليه
+@c على مصطفى مشرفة
+@c دكتور فى الفلسفة ــ دكتور فى العلوم
+@c من جامعة لندن
+@c أستاذ الرياضة التطبيقية بالجامعة المصرية
+@c و
+@c محمد مرسى أحمد
+@c دكتور فى الفلسفة
+@c من جامعة إدنبرة
+@c أستاذ الرياضة البحتة المساعد بالجامعة المصرية
+@c مطبعة فتح الله الياس نورى وأولاده بمصر
+@c ١٩٣٩
+@obs The lines stand on the wrapper as on the title page (frame 007): the faculty in two underlined lines at the top right, then «No. 2» in Latin type, the title, the author, a short rule, the line on the editors, the two editors in two columns (Mušarrafa on the right, Aḥmad on the left, «و» between them), a double rule and the printer with the year. The wrapper prints أحمد with the hamza, the title page احمد without it.
+@copy The wrapper is mounted on the green cloth binding of Columbia University Libraries; the binding and its spine are copy matter, not part of the edition.

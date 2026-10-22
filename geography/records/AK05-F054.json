@@ -1,0 +1,334 @@
+{
+ "anchor": "AK05-F054",
+ "frame": 54,
+ "frame_file": "page_054.jpg",
+ "frame_sha256": "2f44f7e545dc835e07a3b59e284f8b63c1dba10c3ec99fa3b3b963ecfc6d66b9",
+ "printed_page": "٤٨",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 054, printed p. 48: the right-hand page of the opening pp. 48-49 of the table of the mountains of the third clime: the numbers and names of seventeen mountains, entries 687/688-719/720: حوٮا, ٮد, the mountain of the sun, Farʿī, Zārish, Maqlabān, Asṭūs, اٮعاما, a mountain joined to the sea, the mountain of the mine, ارٮٮطا, اوٮدٮون and Thabrūn, and four without a name. Two lines of the editor's footnotes, continued from the foot of p. 49.",
+ "lines": [
+  {
+   "id": "AK05-F054-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٦٨٧ ٦٨٨) | [١١٧٧ ١١٧٨] | جبل حوٮا{n:a}",
+   "margin": null,
+   "cells": [
+    "(٦٨٧ ٦٨٨)",
+    "[١١٧٧ ١١٧٨]",
+    "جبل حوٮا{n:a}"
+   ],
+   "plain": "(٦٨٧ ٦٨٨) | [١١٧٧ ١١٧٨] | جبل حوٮا",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٦٨٩ ٦٩٠) | [١١٧٩ ١١٨٠] | جبل ٮد",
+   "margin": null,
+   "cells": [
+    "(٦٨٩ ٦٩٠)",
+    "[١١٧٩ ١١٨٠]",
+    "جبل ٮد"
+   ],
+   "plain": "(٦٨٩ ٦٩٠) | [١١٧٩ ١١٨٠] | جبل ٮد",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٦٩١ ٦٩٢) | [١١٨١ ١١٨٢] | جبل الشمس",
+   "margin": null,
+   "cells": [
+    "(٦٩١ ٦٩٢)",
+    "[١١٨١ ١١٨٢]",
+    "جبل الشمس"
+   ],
+   "plain": "(٦٩١ ٦٩٢) | [١١٨١ ١١٨٢] | جبل الشمس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٦٩٣ ٦٩٤) | [١١٨٣ ١١٨٤] | جبل فرعى",
+   "margin": null,
+   "cells": [
+    "(٦٩٣ ٦٩٤)",
+    "[١١٨٣ ١١٨٤]",
+    "جبل فرعى"
+   ],
+   "plain": "(٦٩٣ ٦٩٤) | [١١٨٣ ١١٨٤] | جبل فرعى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٦٩٥ ٦٩٦) | [١١٨٥ ١١٨٦] | جبل زارش{n:b}",
+   "margin": null,
+   "cells": [
+    "(٦٩٥ ٦٩٦)",
+    "[١١٨٥ ١١٨٦]",
+    "جبل زارش{n:b}"
+   ],
+   "plain": "(٦٩٥ ٦٩٦) | [١١٨٥ ١١٨٦] | جبل زارش",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٦٩٧ ٦٩٨) | [١١٨٧ ١١٨٨] | جبل مقلبان{n:c}",
+   "margin": null,
+   "cells": [
+    "(٦٩٧ ٦٩٨)",
+    "[١١٨٧ ١١٨٨]",
+    "جبل مقلبان{n:c}"
+   ],
+   "plain": "(٦٩٧ ٦٩٨) | [١١٨٧ ١١٨٨] | جبل مقلبان",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٦٩٩ ٧٠٠) | [١١٩٩ ١٢٠٠] | جبل",
+   "margin": null,
+   "cells": [
+    "(٦٩٩ ٧٠٠)",
+    "[١١٩٩ ١٢٠٠]",
+    "جبل"
+   ],
+   "plain": "(٦٩٩ ٧٠٠) | [١١٩٩ ١٢٠٠] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٧٠١ ٧٠٢) | [١١٨٩ ١١٩٠] | جبل اسطوس{n:d}",
+   "margin": null,
+   "cells": [
+    "(٧٠١ ٧٠٢)",
+    "[١١٨٩ ١١٩٠]",
+    "جبل اسطوس{n:d}"
+   ],
+   "plain": "(٧٠١ ٧٠٢) | [١١٨٩ ١١٩٠] | جبل اسطوس",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٧٠٣ ٧٠٤) | [١١٩٥ ١١٩٦] | جبل اٮعاما",
+   "margin": null,
+   "cells": [
+    "(٧٠٣ ٧٠٤)",
+    "[١١٩٥ ١١٩٦]",
+    "جبل اٮعاما"
+   ],
+   "plain": "(٧٠٣ ٧٠٤) | [١١٩٥ ١١٩٦] | جبل اٮعاما",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٧٠٥ ٧٠٦) | [١١٩٧ ١١٩٨] | جبل متّصل بالبحر{n:e}",
+   "margin": null,
+   "cells": [
+    "(٧٠٥ ٧٠٦)",
+    "[١١٩٧ ١١٩٨]",
+    "جبل متّصل بالبحر{n:e}"
+   ],
+   "plain": "(٧٠٥ ٧٠٦) | [١١٩٧ ١١٩٨] | جبل متّصل بالبحر",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٧٠٧ ٧٠٨) | [١٢٠١ ١٢٠٢] | جبل المعدن",
+   "margin": null,
+   "cells": [
+    "(٧٠٧ ٧٠٨)",
+    "[١٢٠١ ١٢٠٢]",
+    "جبل المعدن"
+   ],
+   "plain": "(٧٠٧ ٧٠٨) | [١٢٠١ ١٢٠٢] | جبل المعدن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٧٠٩ ٧١٠) | [١٢٠٣ ١٢٠٤] | جبل",
+   "margin": null,
+   "cells": [
+    "(٧٠٩ ٧١٠)",
+    "[١٢٠٣ ١٢٠٤]",
+    "جبل"
+   ],
+   "plain": "(٧٠٩ ٧١٠) | [١٢٠٣ ١٢٠٤] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٧١١ ٧١٢) | [١٢٠٥ ١٢٠٦] | جبل",
+   "margin": null,
+   "cells": [
+    "(٧١١ ٧١٢)",
+    "[١٢٠٥ ١٢٠٦]",
+    "جبل"
+   ],
+   "plain": "(٧١١ ٧١٢) | [١٢٠٥ ١٢٠٦] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٧١٣ ٧١٤) | [١٢٠٧ ١٢٠٨] | جبل ارٮٮطا",
+   "margin": null,
+   "cells": [
+    "(٧١٣ ٧١٤)",
+    "[١٢٠٧ ١٢٠٨]",
+    "جبل ارٮٮطا"
+   ],
+   "plain": "(٧١٣ ٧١٤) | [١٢٠٧ ١٢٠٨] | جبل ارٮٮطا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٧١٥ ٧١٦) | [١٢٠٩ ١٢١٠] | جبل",
+   "margin": null,
+   "cells": [
+    "(٧١٥ ٧١٦)",
+    "[١٢٠٩ ١٢١٠]",
+    "جبل"
+   ],
+   "plain": "(٧١٥ ٧١٦) | [١٢٠٩ ١٢١٠] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٧١٧ ٧١٨) | [١٢١١ ١٢١٢] | جبل اوٮدٮون",
+   "margin": null,
+   "cells": [
+    "(٧١٧ ٧١٨)",
+    "[١٢١١ ١٢١٢]",
+    "جبل اوٮدٮون"
+   ],
+   "plain": "(٧١٧ ٧١٨) | [١٢١١ ١٢١٢] | جبل اوٮدٮون",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F054-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(٧١٩ ٧٢٠) | [١٢١٣ ١٢١٤] | جبل ثبرون{n:g}",
+   "margin": null,
+   "cells": [
+    "(٧١٩ ٧٢٠)",
+    "[١٢١٣ ١٢١٤]",
+    "جبل ثبرون{n:g}"
+   ],
+   "plain": "(٧١٩ ٧٢٠) | [١٢١٣ ١٢١٤] | جبل ثبرون",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "e",
+    "f",
+    "g",
+    "h"
+   ],
+   "lines": 2,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: at entry (1745) the name is written رحوما (note a, printed at the foot of p. 49).",
+  "L05: at entry (1820) the name is written زارس, with the variant reading فارس (note b, printed at the foot of p. 49).",
+  "L06: at entry (1817) the name is written the same way, مقلبان (note c, printed at the foot of p. 49).",
+  "L08: at entry (1816) the name is written اسلوس, with the variant reading اسطوس (note d, printed at the foot of p. 49).",
+  "L10: on the map of the course of the Nile in the manuscript, fol. 30ᵇ and 31ᵃ (plate III), and at entry (1642), the mountain is called جبل المقطّم, the Muqaṭṭam (note e).",
+  "L17: at entries (2042) and (2044) the name is written ٮورون (note g)."
+ ],
+ "unresolved": [
+  "L14: the two teeth may be the teeth of a س with one tooth not printed: ارسطا. Transcribed ارٮٮطا."
+ ],
+ "observations": [
+  "The table of the mountains of the third clime goes on across the opening pp. 48-49, without a heading: each line of p. 48 is continued by the same line of p. 49 (frame 055), which gives the boundaries, the colour and the direction. The running numbers go on from entry 685/686 (frame 052) and run (٦٨٧ ٦٨٨)-(٧١٩ ٧٢٠). The numbers of Suhrāb are [١١٧٧ ١١٧٨]-[١١٨٧ ١١٨٨] (L01-L06), [١١٩٩ ١٢٠٠] (L07), [١١٨٩ ١١٩٠] (L08), [١١٩٥ ١١٩٦] and [١١٩٧ ١١٩٨] (L09, L10) and [١٢٠١ ١٢٠٢]-[١٢١٣ ١٢١٤] (L11-L17); [١١٩١]-[١١٩٤] do not appear on the page.",
+  "L07, L12, L13, L15: the name is the word «جبل» alone. L03: «جبل الشمس», the mountain of the sun; L10: «جبل متّصل بالبحر», a mountain joined to the sea, with a shadda over the ت of «متّصل»; L11: «جبل المعدن», the mountain of the mine.",
+  "Names printed without dots, transcribed so: L01: «حوٮا», the ح without a dot, a و, and a short tooth without a dot joined to the final alif; the editor's note a gives the form of entry (1745), «رحوما». L02: «ٮد», a short tooth without a dot joined to a د. L16: «اوٮدٮون»: after «او», a tooth without a dot joined to a د, a tooth without a dot joined to a و, and a final ن with its dot.",
+  "L09: «اٮعاما»: after the first alif, an upright 22 px high without a dot, joined at its foot to a medial ع, a filled hump on the line like the medial ع of «المعدن» (L11), and a second alif; then «ما». An ع after a letter that does not join has the form of an open hook (L04, «فرعى»), which this group does not show; the upright is therefore read as a tooth before the ع. Transcribed اٮعاما.",
+  "L14: «ارٮٮطا»: after «ار», two teeth without dots, the first 14 px and the second 6 px high, then the ط and the final alif, where the medial س of «اسطوس» (L08) has three low teeth before the ط; the same form stands on p. 121 (frame 127, L10), at entry (1835), where a river from this mountain falls into the river that reaches the sea at the town امرس. Transcribed with two teeth without dots.",
+  "With their dots: L04: «فرعى», the ف with its dot and the final ى without dots; L05: «زارش», the ز with its dot and the ش with its three; L06: «مقلبان», with the two dots of the ق and the dots of the ب and the ن; L08: «اسطوس»; L17: «ثبرون», the three dots of the ث set as a triangle, the ب with its dot below and the ن with its dot.",
+  "Marks not transcribed: L05, a short dash, 12 by 5 px, at mid-height to the left of «زارش», before the note mark b, not of the round form of the dots of the font; L13, the zero of the second number of Suhrāb, [١٢٠٦], is printed as a small curve open at its lower left, of the size of the zeros of the neighbouring numbers (L12, L14), which are solid round dots; transcribed ٠.",
+  "The editor's footnotes of the opening begin at the foot of p. 49 (frame 055) with notes a-d and the beginning of note e, and continue here in two lines, set in two columns, with the end of note e and notes f, g and h. The texts of notes a-d, whose marks stand on this page (L01, L05, L06, L08), are printed on p. 49; the marks of notes f and h stand on p. 49 (L16, L17).",
+  "The page number «— ٤٨ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

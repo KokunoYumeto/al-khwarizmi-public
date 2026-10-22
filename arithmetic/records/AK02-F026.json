@@ -1,0 +1,427 @@
+{
+ "anchor": "AK02-F026",
+ "frame": 26,
+ "frame_file": "page_026.jpg",
+ "frame_sha256": "749f841bdd323e14444293b447d30dcdb89c2fa78235afbc72ab6e424560b478",
+ "printed_page": "20",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 026, printed p. 20: the end of the multiplication of fractions; division of fractions: both numbers brought into one kind, then divided; fifteen thirds by six thirds; ten seconds by five minutes.",
+ "lines": [
+  {
+   "id": "AK02-F026-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "set hic ordo est, quo usi sunt indi, super quem figurare nume-",
+   "margin": null,
+   "plain": "set hic ordo est, quo usi sunt indi, super quem figurare nume-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "rum suum.",
+   "margin": null,
+   "plain": "rum suum.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L03",
+   "n": 3,
+   "kind": "indent",
+   "text": "Scito quare cum uolueris diuidere numerum cum fractione per",
+   "margin": null,
+   "plain": "Scito quare cum uolueris diuidere numerum cum fractione per",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "aliquem numerum cum fractione; uel numerum cum fractione",
+   "margin": null,
+   "plain": "aliquem numerum cum fractione; uel numerum cum fractione",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "per numerum integrum; aut numerum integrum per numerum",
+   "margin": null,
+   "plain": "per numerum integrum; aut numerum integrum per numerum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "cum fractione, facies utrumque numerum unius generis, idest",
+   "margin": null,
+   "plain": "cum fractione, facies utrumque numerum unius generis, idest",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "uertes utrosque numeros in inferiorem differentiam.Verbi gra-",
+   "margin": null,
+   "plain": "uertes utrosque numeros in inferiorem differentiam.Verbi gra-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "tia. Si fuerit inferior differentia ex secundis, pones utrumque",
+   "margin": null,
+   "plain": "tia. Si fuerit inferior differentia ex secundis, pones utrumque",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "numerum secunda: quod si fuerint in uno ex eis tercia,et cum",
+   "margin": null,
+   "plain": "numerum secunda: quod si fuerint in uno ex eis tercia,et cum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "alio secunda, uertes utrosque in tercia: et si fuerit cum aliquo",
+   "margin": null,
+   "plain": "alio secunda, uertes utrosque in tercia: et si fuerit cum aliquo",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "ex quarta, uel sexta, uel aliud quod sit his differentiis inferius,",
+   "margin": null,
+   "plain": "ex quarta, uel sexta, uel aliud quod sit his differentiis inferius,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "alter uero fuerit numerus integer, uertes utrosque in eam dif-",
+   "margin": null,
+   "plain": "alter uero fuerit numerus integer, uertes utrosque in eam dif-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "ferentiam que fuerit in utrisque inferior: deinde diuide quod",
+   "margin": null,
+   "plain": "ferentiam que fuerit in utrisque inferior: deinde diuide quod",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "uolueris super quod uolueris: post quam reddideris utrumque",
+   "margin": null,
+   "plain": "uolueris super quod uolueris: post quam reddideris utrumque",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "numerum unius generis, et quod exi | erit, erunt gradus, idest",
+   "margin": "car. 109 {i:recto}.",
+   "plain": "numerum unius generis, et quod exi | erit, erunt gradus, idest",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "numerus integer: quare omnes duo numeri qui fuerint unius",
+   "margin": null,
+   "plain": "numerus integer: quare omnes duo numeri qui fuerint unius",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "generis, si diuidatur unus eorum per alterum, erit quod exie-",
+   "margin": null,
+   "plain": "generis, si diuidatur unus eorum per alterum, erit quod exie-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "rit numerus integer. Verbi gratia : {sc:xv}. tercie si diuidantur",
+   "margin": null,
+   "plain": "rit numerus integer. Verbi gratia : xv. tercie si diuidantur",
+   "italic": [],
+   "small_caps": [
+    "xv"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "per sex tercias, exibunt de equalitate diuisionis duo et dimi-",
+   "margin": null,
+   "plain": "per sex tercias, exibunt de equalitate diuisionis duo et dimi-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "dium: quare .{sc:xv}. tercie faciunt .{sc:v}. integros; quos cum diui-",
+   "margin": null,
+   "plain": "dium: quare .xv. tercie faciunt .v. integros; quos cum diui-",
+   "italic": [],
+   "small_caps": [
+    "xv",
+    "v"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "seris per .{sc:vi}. tercias qui sunt duo integri, exibunt duo et di-",
+   "margin": null,
+   "plain": "seris per .vi. tercias qui sunt duo integri, exibunt duo et di-",
+   "italic": [],
+   "small_caps": [
+    "vi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "midium : et similiter diuiduntur medietates per medietates,",
+   "margin": null,
+   "plain": "midium : et similiter diuiduntur medietates per medietates,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "et quarte per quartas , minuta quoque per minuta per minu-",
+   "margin": null,
+   "plain": "et quarte per quartas , minuta quoque per minuta per minu-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "ta, et secunda per secunda, ac tercia per tercia : et cum uo-",
+   "margin": null,
+   "plain": "ta, et secunda per secunda, ac tercia per tercia : et cum uo-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "lueris diuidere .{sc:x}. secunda super .{sc:v}. minuta, pone minuta",
+   "margin": null,
+   "plain": "lueris diuidere .x. secunda super .v. minuta, pone minuta",
+   "italic": [],
+   "small_caps": [
+    "x",
+    "v"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "secunda , ut sint unius generis , atque unius differentie ;",
+   "margin": null,
+   "plain": "secunda , ut sint unius generis , atque unius differentie ;",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "eruntque tercenta secunda, super quem dum uolueris diui-",
+   "margin": null,
+   "plain": "eruntque tercenta secunda, super quem dum uolueris diui-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "dere .{sc:x}. secunda , non possunt diuidi .{sc:x}. super tercenta.",
+   "margin": null,
+   "plain": "dere .x. secunda , non possunt diuidi .x. super tercenta.",
+   "italic": [],
+   "small_caps": [
+    "x",
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "Scito itaque quod non exiuit unus integer: pone ergo circu-",
+   "margin": null,
+   "plain": "Scito itaque quod non exiuit unus integer: pone ergo circu-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "lum in loco unius, et multiplica .{sc:x}. in .{sc:lx}. , et erunt sex-",
+   "margin": null,
+   "plain": "lum in loco unius, et multiplica .x. in .lx. , et erunt sex-",
+   "italic": [],
+   "small_caps": [
+    "x",
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "centi; quos cum diuiseris super tercentos, exibunt duo, que",
+   "margin": null,
+   "plain": "centi; quos cum diuiseris super tercentos, exibunt duo, que",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "sunt duo secunda; et hoc est quod debetur uni: quare cum",
+   "margin": null,
+   "plain": "sunt duo secunda; et hoc est quod debetur uni: quare cum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F026-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "multiplicasti ea in .{sc:lx}. ; postea diuisisti , iam minuisti ea",
+   "margin": null,
+   "plain": "multiplicasti ea in .lx. ; postea diuisisti , iam minuisti ea",
+   "italic": [],
+   "small_caps": [
+    "lx"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 20 )» stands at the head of the page, centred. The page has no footnotes and no signature.",
+  "L01-L02: the end of the multiplication of fractions: «set hic ordo est, quo usi sunt indi». L03-L17: division of fractions: a number with a fraction by a number with a fraction, or by a whole number, or a whole number by a number with a fraction: both are brought into one kind, the lowest order in either, and then divided; what results is whole, «gradus, idest numerus integer», since of two numbers of one kind divided one by the other the result is a whole number. L17-L24: fifteen thirds («tercie», parts of three) by six thirds, two and a half: fifteen thirds are five wholes, six thirds two; halves by halves, quarters by quarters, minutes by minutes, seconds by seconds and thirds by thirds likewise. L24-L33: ten seconds by five minutes: five minutes are 300 seconds; ten cannot be divided by 300, so no whole results and a circle is put in the place of the units; ten by sixty, 600, divided by 300, two, named «duo secunda» (see the critical note). The page ends in the course of the sentence.",
+  "L15: the vertical bar in «exi | erit», with a word space on each side, divides the word exierit; it marks the beginning of fol. 109 recto of the manuscript, which the note in the left margin, «car. 109 recto.», names; transcribed as a margin note.",
+  "L01: «usi sunt» (8 px) and «super quem» (7 px), where the other word spaces of the line are 14 to 18 px; transcribed with a space. L18: «xv.» without the opening point.",
+  "Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): with a space before the mark, L18 «gratia :» (25 px), L22 «midium :» (21 px), L23 «quartas ,» (19 px), L24 «tercia :» (20 px), L26 «secunda ,» and «generis ,» (19 px) and «differentie ;» (17 px), L28 «secunda ,» (19 px), L30 «.lx. ,» (24 px) and L33 «.lx. ;» (23 px) and «diuisisti ,» (21 px); without a space after the mark, L07 «differentiam.Verbi» (7 px, the median word space of the line 17 px) and L09 «tercia,et» (5 px). L09 «secunda: quod» (11 px, the median word space of the line 16.5 px) has a space; the colon stands 8 px from the word. L32 «uni:», the colon 9 px from the word, is set close. The semicolons of L04, L05, L20, L26, L31, L32 and L33 have printed tails (darkest pixel 43 to 74). L10 «tercia:» is a colon; a light mark between it and the word (darkest pixel 109) is not transcribed."
+ ],
+ "copy_matter": [
+  "A reader's notes in pencil: «quia» in the left margin beside L03, L16, L20 and L32, with «quare» underlined in each line; L24, «et» before «cum» underlined and «Quod» in the left margin; a small stroke above «cum» (L06) and a light mark before the colon of «tercia:» (L10). Not part of the edition."
+ ],
+ "critical_notes": [
+  {
+   "id": "AK02-CN016",
+   "class": "repeated words",
+   "line": "L23",
+   "printed": "per minuta per minuta",
+   "proposed": "per minuta",
+   "evidence": "the list names each divisor once: «medietates per medietates», «quarte per quartas», «secunda per secunda», «tercia per tercia» (L22-L24); «per minuta» is printed twice, the second time divided at the end of L23",
+   "confidence": "medium",
+   "impact": "none on the sense"
+  },
+  {
+   "id": "AK02-CN017",
+   "class": "wrong order",
+   "line": "L32",
+   "printed": "duo secunda",
+   "proposed": "duo minuta",
+   "evidence": "ten seconds by five minutes, 300 seconds (L25-L27): ten by sixty, 600, divided by 300, gives two after one multiplication by sixty, that is two minutes, one thirtieth of one; the proof on p. 21 (L09-L12) multiplies the two by five minutes and gets ten seconds, which holds for two minutes, where two seconds by five minutes are ten thirds. The text names the quotient seconds again on p. 21 (L01, L10, L11)",
+   "confidence": "high",
+   "impact": "the quotient is named seconds for minutes; the figure two is right"
+  }
+ ]
+}

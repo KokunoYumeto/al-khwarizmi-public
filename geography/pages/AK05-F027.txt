@@ -1,0 +1,38 @@
+@page 27 ٢١
+% Frame 027, printed p. 21: the cities of the fourth clime continued, entries 287-303: ʿĀnāt in the middle of the
+% Euphrates, the city of al-Ḥadītha, al-Nāʾūsa and Ālūsa (without coordinates), Hīt, al-Anbār, Ḥarrān, al-Ruhā,
+% al-Mawṣil, Raʾs al-ʿAyn, Qarqīsiyāʾ, Naṣībīn, al-Kūfa, Baghdād, Surra man raʾā, Wāsiṭ and al-Madāʾin. Three lines of
+% the editor's footnotes.
+@r (٢٨٧) | [١٩٤] | عانات وسط الفرات | سز | {z} | لد | ك
+@r (٢٨٨) | | مدينة{n:a} الحديثة{n:b} | سو | {z} | لد | ك
+@r (٢٨٩) | | الناؤوسة{n:c} | | | |
+@r (٢٩٠) | | آلوسة{n:d} | | | |
+@r (٢٩١) | [٢٢٦] | هيت | سح | ل | لح | يه
+@r (٢٩٢) | [٢٢٨] | الأنبار | سط | {z} | لب | مه
+@r (٢٩٣) | [٣٠١] | حرّان | سه | {z} | لو | م
+@r (٢٩٤) | [٣٠٢] | الرها | سد | {z} | لو | م
+@r (٢٩٥) | [٢٢٧] | الموصل | سط | {z} | له | ل
+@r (٢٩٦) | [٢٥٦] | رأس العين | سح | {z} | لر | {z}
+@r (٢٩٧) | | قرقيسياء | سو | ں | له | ك
+@r (٢٩٨) | [٢٦٠] | نصيبين | سر | ن | لو | {z}
+@r (٢٩٩) | [٢٢٩] | الكوفة | سط | ل | لا | ن
+@r (٣٠٠) | [٢٦٦] | بغداد | عح | {z} | لح | ط
+@r (٣٠١) | [٢٣٠] | سرّ من رأى | سط | مه | لد | {z}
+@r (٣٠٢) | [٢٦٧] | واسط | عا | ل | لٮ | ك
+@r (٣٠٣) | [٢٧٦] | المدائن | عح | {z} | لج | {z}
+@ednotes a b c d 3
+@obs The table goes on from frame 026 without a heading: the cities of the fourth clime, entries 287-303. Only entry 288 has the word «مدينة». Entries 288-290 and 297 have no numbers of Suhrāb; the others have [١٩٤] (entry 287), [٢٢٦], [٢٢٨], [٣٠١], [٣٠٢], [٢٢٧], [٢٥٦] (entries 291-296) and [٢٦٠], [٢٢٩], [٢٦٦], [٢٣٠], [٢٦٧], [٢٧٦] (entries 298-303).
+@obs L03-L04: entries 289 and 290, al-Nāʾūsa and Ālūsa, have no coordinates: the columns of the numerals are empty, and no rules are printed in them from below entry 288 to above entry 291. The editor's notes c and d say that the manuscript gives no longitude and latitude for them.
+@obs Signs in the names, transcribed as printed: L03: «الناؤوسة», with a hamza above the first و; L04: «آلوسة», with a madda over the alif; L06: «الأنبار» and L10: «رأس», with a hamza above the alif; L07: «حرّان» and L15: «سرّ», with a shadda over the ر; L11: «قرقيسياء», with the hamza on the line after the alif; L15: «رأى», with a hamza above the alif and a final ى without dots; L17: «المدائن», with a hamza above the tooth.
+@obs L15: «سرّ من رأى»: the tail of the ر of سرّ ends to the right of the م, without reaching under it, 20 px from it at the nearest; inside a word on this page ر stands 12 to 17 px from the next letter (L07, L11), and before a word space 28 px or more (frame 018, L15-L16); in doubt the space is written.
+@obs Letters printed without their dots in the numerals, transcribed so: ں (L11, the minutes of the longitude), the bowl of a final ن without its dot; لٮ (L16, the degrees of the latitude), the final ب without its dot. With their dots: سز (L01), the ز with its dot; لب (L06); لج (L17); ن (L12, the minutes of the longitude; L13, the minutes of the latitude); يه (L05).
+@obs L12: the degrees of the longitude, سر: in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII), as in سز of L01, printed with the dot; transcribed ر as printed.
+@obs The degrees printed with a final ح, سح (L05, L10), عح (L14, L17) and لح (L05, L14), show no dot in the bowl: the same form is a ج without its dot, 3, which the print gives with its dot in لج (L17). Transcribed as printed.
+@obs Specks, not transcribed: L06, a speck on the line after «الأنبار»; L07, a small dot, 7 by 8 px, between the bracket of the number of Suhrāb and the running number; L16, a speck above the و of «واسط».
+@obs L10, the degrees of the latitude: «لر»: the letter joined to the foot of the ل has the small pointed head of the joined ر, which stands out 8 px from the stem, as the ز of «لز» with its dot (frame 032, L08, L14, L16), where the و of «لو» (L07, L08, L12) is a round loop that stands out 11 to 13 px and begins higher on the stem; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed, which read with ز gives 37.
+@obs The page number «— ٢١ —» stands at the foot, centred.
+@copy A faint grey curl, perhaps a fibre, below the degrees of the longitude of entry 298 (L12).
+@variant L02: for مدينة the manuscript gives the variant reading جزيرة.
+@variant L02: the manuscript reads عانات for الحديثة, a slip of the copyist according to the editor; he compares «بعانة والحديثة» at entry (2123).
+@variant L03: the manuscript reads الٮاووسه, without the dot of the ن, and gives no longitude and latitude; at entry (2123) the name is written الٮاروسه.
+@variant L04: the manuscript reads الوسه and gives no longitude and latitude; so also entry (2123), with the variant reading الومه.

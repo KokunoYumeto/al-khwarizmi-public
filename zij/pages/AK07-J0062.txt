@@ -1,0 +1,55 @@
+@page 62 30
+@lang la
+% JP2 0062: the Latin text, p. 30: the end of chapter 36 (the table of the houses); chapter 37, the rays of the stars,
+% sextile, quartile and trine, from the table in columns for the degree of the ascendant; with the apparatus (notes 1-29).
+tus itaque in eam hic est : Ab ariete enim incipiens quolibet eius gradu horoscopo
+existente, per eundem gradum in tabulam intrandum erit, quodque ei{sup:1}) adiunctum
+fuerit tam secundae quam tertiae et quartae et quintae et sextae casarum initia{sup:2})
+ostendit. Notandum vero{sup:3}), quod{sup:4}) septima primae, octava secundae, ceteraeque cete-
+ris hoc ordine respondent. Unde{sup:5}) alias sex apponere neglectum est.
+@ml C 90{sup:r}, O 146{sup:r}
+@c {b:Cap. 37. Quomodo stellarum radiatio sive exagonalis sive tetragonalis}
+@ml N 56{sup:r}
+@c {b:sive trigonalis inveniatur.{sup:6})}
+@p Stellarum radiatio hoc modo investiganda est. Quaecunque enim radiatio quae-
+ritur, sive exagonalis, sive tetragonalis, sive trigonalis, primo quidem horoscopus
+quotus sui signi sit{sup:7}), considerandum est, utrum scilicet{sup:8}) quintus vel decimus vel
+quintus decimus vel vicesimus vel vicesimus quintus{sup:9}) vel etiam tricesimus fuerit.
+Deinde gradus ipsius planetae{sup:10}), cuius radiationem quaeris, notandum est. Per
+gradum itaque planetae{sup:11}) aut ei proximum eo maiorem in numerum graduum aequa-
+lium intrandum est ; prima quidem area quinario{sup:12}), secunda denario, tertia quin-
+denario, quarta vigenario, quinta vicesimo quinto{sup:13}), sexta trigenario{sup:14}) serviente. Ab
+eo autem in paginam horoscoporum usque sub signum{sup:15}) ipsius planetae{sup:16}) pro-
+cedendum est, adiunctumque illius{sup:17}) servandum. Deinde radiationis quaesitae nu-
+merus in capite paginae praescriptus addendus est, quodque inde coacervabitur in
+ipsa pagina quaerendum aut saltem ei proximum ; alterum enim{sup:18}) signorum ei prae-
+sidentium secundum gradus aequales ei{sup:19}) praescriptos radiationem quaesitam mon-
+strat. Quod si nec ipsum nec ei proximum tabula offert{sup:20}), illum aliquem, quem ei
+propinquiorem eo minorem inveneris{sup:21}), subtrahe, residuumque in pagina quaere.
+Ipse enim tibi et signum et gradum radiationis modo supradicto ostendet, eo tamen
+excepto, quod sana quidem inventio vel sane proxima signum superius, diminuta
+vero inferius frequenter eligit. Quod si horoscopus inter decimum vel inter XV vel
+@ml N 56{sup:v}
+inter XX vel inter XXV sive inter XXX{sup:22}) | fuerit, duae radiationes exhibendae erunt,
+in{sup:23}) duabus scilicet{sup:24}) areis servientibus quidem illis{sup:25}) numeris inter quos horosco-
+pus continetur. Verbi gratia, si inter X{sup:26}) fuerit, prima radiatio in area quinarii, id
+est prima, secunda vero in area denarii, id est secunda, facienda est, similique modo
+@ml O 146{sup:v}
+in ceteris. Quibus executis{sup:27}) harum radiationum | differentia notanda est eademque
+supra{sup:28}) quinarium dividenda ; quodque ad hoc attinet in additionem{sup:29}) horoscopi
+@n {sup:1}) quodque ei] O, quod autem C. — {sup:2}) casarum initia] C, casae initium O. — {sup:3}) Notandum vero]
+@n C, Notandumque illud O. — {sup:4}) quod] O, quia C {i:et in marg.} O. — {sup:5}) Unde] C, Unde et O. — {sup:6}) Quo-
+@n modo . . . inveniatur] O, {i:om.} C, De radiationibus stellarum N. — {sup:7}) sit] ON, fit C. — {sup:8}) scilicet] ON, solis C.
+@n — {sup:9}) vel . . . quintus] CO, vel XX.{sup:us} vel XXV.{sup:us} N. — {sup:10}) planetae] C, stellae O. — {sup:11}) planetae] C, stellae
+@n O. — {sup:12}) quinario] C, quinario horoscopi O. — {sup:13}) vicesimo quinto] O, XXV.{sup:rio} C, vigenario quinto N. —
+@n {sup:14}) trigenario] O, tricenario C. — {sup:15}) sub signum] C, ad subsignum O. — {sup:16}) planetae] C, stellae O. —
+@n {sup:17}) illius] C, illud ob O. — {sup:18}) enim] C, etiam O. — {sup:19}) ei] O, eo C. — {sup:20}) offert] C, offeret ON. — {sup:21}) in-
+@n veneris] C, invenis O. — {sup:22}) inter decimum . . . . XXX] O, interdecimus vel interquindecimus vel inter-
+@n vicesimus vel intertricesimus C. — {sup:23}) in] ON, vel in C. — {sup:24}) scilicet] ON, solis C. — {sup:25}) illis] C, {i:om.} O.
+@n — {sup:26}) inter X] O, interdecimus C. — {sup:27}) executis] ON, exequutis C. — {sup:28}) supra] C, super O. — {sup:29}) addi-
+@n tionem] C, additione O.
+@obs The page number «30» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L05 end chapter 36 (p. 29, JP2 0061): «Introi-|tus». L06-L07: the heading of chapter 37, in bold, centred, in two lines; in the left margin «C 90r, O 146r» beside the first and «N 56r» beside the second, the folio of N that the margin of p. 25 (JP2 0057) gives for the beginning of chapter 32 as well. L26 and L30: the vertical bars between «XXX22)» and «fuerit» and between «radiationum» and «differentia» mark the beginnings of fol. 56 verso of N and fol. 146 verso of O, which the notes in the left margin, «N 56v» and «O 146v», name; transcribed as margin notes.
+@obs L01-L05: the table of the houses is entered with any degree of the ascendant from Aries on, and gives the beginnings of the second to the sixth houses; the seventh corresponds to the first, the eighth to the second, and so on, so the other six are not given. Checked: the cusps of opposite houses are 180 degrees apart.
+@obs L06-L31: chapter 37, the rays of the planets, sextile («exagonalis»), quartile («tetragonalis») and trine («trigonalis»): the table is entered with the degree of the planet, or the next greater one, in the column of equal degrees; its six areas («areae») serve the ascendant in the fifth, tenth, fifteenth, twentieth, twenty-fifth and thirtieth degree of its sign; the value under the planet's sign is taken, the number of the ray written at the head of the page is added, and the sum, looked for in the same page, gives with the sign and the degrees at its head the place of the ray. For an ascendant between two of these degrees both columns are used and their difference is divided by five (continued on p. 31). Checked: the columns are five degrees of the ascendant apart, so that a fifth of the difference of two neighbouring columns is the change for one degree.
+@obs L21: a speck at mid-height before «offert»; L24: a speck above the comma after «excepto»; not transcribed. N03: the dash after «N.» stands 13 px from the point; the other dashes of the apparatus stand about 28 px from the word before them. N04 and N05: «XX.us», «XXV.us», «XXV.rio», the endings raised. N03 and N04: «Quomodo . . . inveniatur», «vel . . . quintus», three points; N08 «inter decimum . . . . XXX», four.
+@obs The colon and the semicolons of the text stand after the thin space of the edition (8-11 px measured).

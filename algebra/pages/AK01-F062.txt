@@ -1,0 +1,38 @@
+@page 62 ٤٦
+% Frame 062, printed p. 46: the twelfth of the various problems concluded (the root five and a third, the quantity
+% twenty-eight and four ninths); then, under «فان قال», a quantity times four times itself gives twenty (the root of
+% five); a quantity times its third gives ten (the root of thirty); a quantity times four times itself gives a third of
+% the quantity (a twelfth); a quantity times its root gives three times the quantity (nine); four roots times three
+% roots give the square and forty-four (four); four roots times five roots give two squares and thirty-six (two); then
+% «وكذلك لو قال»: a root times four roots gives three squares and fifty, continued on the next page. Below the rule
+% four footnotes of the editors.
+على الخمسة عشر فيكون خمسة وثلثا فذلك جذر المال والمال ثمانية وعشرون
+واربعة أتساع . {b:فان قال} مال تضربه فى أربعة أمثاله فيكون عشرين . فقياسه
+أنك اذا ضربته فى مثله كان خمسة وهوجذرخمسة . {b:فان قال} مال تضربه فى ثلثه
+فيكون عشرة . فقياسه أنك اذا ضربته فى مثله كان ثلاثين فتقول المال جذر ثلاثين.
+{b:فان قال} مال تضربه فى أربعة أمثاله فيعود ثلث المال الأول{n:١}. فقياسه أنك اذا
+ضربته فى اثنى عشر مثله عاد المال وهو نصف سدس فى ثلث . فان قال مال تضربه
+فى جذره فيعود ثلاثة أمثال المال الأول {n:٢} . فقياسه أنك اذا ضربت الجذر فى
+ثلث المال عاد المال فتقول هذا مال ثلثه جذره وهو تسعة . فان قال مال
+تضرب أربعة أجذاره فى ثلاثة أجذاره فيعود المال وزيادة أربعة وأربعين
+درهما {n:٣} . فقياسه أن تضرب أربعة أجذار فى ثلاثة أجذار فيكون اثنى عشر
+مالا تعدل مالا وأربعة واربعين درهما فالق من الاثنى عشر المال مالا بمال فيبقى
+أحدعشر مالا تعدل اربعة وأربعين درهما فاقسمها عليها تكن اربعة وهو المال .
+فان قال مال تضرب أربعة أجذاره فى خمسة أجذاره فيعود مثلى المال وزيادة
+ستة وثلاثين درهما{n:٤}فقياسه أنك تضرب أربعة أجذارفى خمسة أجذار فيكون
+عشرين مالا تعدل مالين وستة وثلاثين درهما فتلقى من العشرين المال مالين
+بمالين فتبقى ثمانية عشر مالا تعدل ستة وثلاثين درهما فتقسم ستة وثلاثين
+درهما على ثمانية عشر فيكون القسم اثنين وهو المال . وكذلك لو قال مال
+تضرب جذره فى أربعة أجذاره فيعود ثلاثة أمثال المال وزيادة خمسين
+@ednotes ١ ٢ ٣ ٤ 5
+@obs L02, L03 and L05: the words فان قال are printed in a bold face, as the run-in headings of the problems on frames 055-061; L06, L08 and L13 introduce the next problems with فان قال in the face of the text, and L17 with وكذلك لو قال. The bold ن is printed without its dot and the two dots of the bold ق run together, as on frames 055-061; transcribed ن and ق.
+@obs Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): وهوجذرخمسة (L03; 25 between the و and the ج, as in وهوعشرة on frame 049, 24, where the و stands 40 px or more from the next word with a space; and 25 between the ر and the خ, measured above the baseline, the tail of the ر 20 px from the خ, where inside أربعة, L02, the ر stands 35 from the ب, its tail 23, and between words, in جذر المال, L01, 44, its tail 26); أحدعشر (L12; 3 between the د and the ع, as in أحدعشرشيئا on frame 056, L07); أجذارفى (L14; 28 between the ر and the ف above the baseline, the tail of the ر 12 px from the ف, as in أجذارفبقيت on frame 058, L12).
+@obs After ة a word space is transcribed where the gap is 16 px or more: ثمانية وعشرون (L01; 23), خمسة وثلثا (L01; 42), خمسة وهوجذرخمسة (L03; 22), أربعة وأربعين (L09; 23), وأربعة واربعين (L11; 25), اربعة وأربعين (L12; 24) and اربعة وهو (L12; 18), ستة وثلاثين (L14; 16, L15; 22, L16; 23 twice).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: كان خمسة (L03), فى مثله (L03, L04), فتقول المال and المال جذر (L04), الاثنى عشر (L11), تعدل اربعة (L12; 10 between the final ل and the alif), مثلى المال (L13), فقياسه أنك and أجذارفى خمسة (L14; 10 between the ى and the خ).
+@obs The note marks: (١) stands 12 px after الأول and the full stop 10 px after it, 26 px before فقياسه (L05); (٢) and (٣) stand between spaces, each followed by a full stop between spaces (L07, L10); (٤) stands close between درهما and فقياسه (13 and 8 px), without a full stop (L14). The other full stops stand between spaces, except at the end of L04, close after ثلاثين (10 px).
+@obs Plain alif where a hamza might be expected, as printed: واربعة (L02), اذا (L03, L04, L05, L07), اثنى (L06, L10), فان (L06, L08, L13), واربعين, فالق, الاثنى (L11), اربعة (L12, twice), فاقسمها (L12), اثنين (L17); with hamza: أتساع, أربعة, أمثاله (L02), أنك (L03, L04), أربعة, أمثاله, الأول, أنك (L05), أمثال, الأول, أنك (L07), أربعة, أجذاره (twice), وأربعين (L09), أن, أربعة, أجذار (twice) (L10), وأربعة (L11), أحدعشر, وأربعين (L12), أربعة, أجذاره (twice) (L13), أنك, أربعة, أجذارفى, أجذار (L14), أربعة, أجذاره, أمثال (L18).
+@obs No tanwīn is printed on this page: مالا (L11, twice; L12, L15, L16), درهما (L10, L11, L12, L14, L15, L16, L17).
+@obs The final yā' is printed without dots: على (L01, L12, L17), فى throughout, اثنى (L06, L10), الاثنى, فيبقى (L11), مثلى (L13), أجذارفى (L14), فتلقى (L15), فتبقى (L16).
+@obs The print stretches المال (L08, twice; L09; L17; L18, at length), ثمانية (L16, L17) and تعدل (L16) with the elongation stroke; the stroke is not transcribed.
+@unres L06: «وهو نصف سدس فى ثلث», as printed. The letters are clear. نصف سدس, a twelfth, is the quantity that the problem of L05 asks for (four times its square equal to a third of it: 4x·x = x/3, x = 1/12, as the editors' note (١) also gives); what «فى ثلث» adds is not clear, and the editors do not comment.
+@obs Notes (١) to (٤) of the editors restate the four problems of L05, L06-L07, L08-L09 and L13-L14 as equations in modern notation and solve them: a twelfth; three and the quantity nine; the quantity four; the quantity two. None is reproduced.

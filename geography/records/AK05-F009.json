@@ -1,0 +1,297 @@
+{
+ "anchor": "AK05-F009",
+ "frame": 9,
+ "frame_file": "page_009.jpg",
+ "frame_sha256": "6231ecd483b2c69ab57945dab4be54136ab584ae32aad5215002fc67396c6694",
+ "printed_page": "٣",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 009, printed p. 3: the first page of the text. The basmala, with the folio of the manuscript in the margin; the head of the table: the editor's running number, the number of the same entry in Suhrāb's ʿAjāʾib al-aqālīm, the names of the cities, and longitude and latitude in degrees and minutes; then, under the heading «اسماء المدن الّتى خلف خطّ الاستواء» (the cities beyond the equator), entries 1-8, from Afāṭā on the sea to three cities of China. Five lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F009-L01",
+   "n": 1,
+   "kind": "heading",
+   "text": "بسم الله الرّحمن الرّحيم",
+   "margin": "(fol. 2ᵇ)",
+   "cells": null,
+   "plain": "بسم الله الرّحمن الرّحيم",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F009-L02",
+   "n": 2,
+   "kind": "head",
+   "text": "(العدد) | [العدد كما تجده فى كتاب عجائب الأقاليم] | اسماء المدن | الطول^2 | العرض^2",
+   "margin": null,
+   "cells": [
+    "(العدد)",
+    "[العدد كما تجده فى كتاب عجائب الأقاليم]",
+    "اسماء المدن",
+    "الطول^2",
+    "العرض^2"
+   ],
+   "plain": "(العدد) | [العدد كما تجده فى كتاب عجائب الأقاليم] | اسماء المدن | الطول^2 | العرض^2",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F009-L03",
+   "n": 3,
+   "kind": "head",
+   "text": "| | | درج | دقائق | درج | دقائق",
+   "margin": null,
+   "cells": [
+    "",
+    "",
+    "",
+    "درج",
+    "دقائق",
+    "درج",
+    "دقائق"
+   ],
+   "plain": "| | | درج | دقائق | درج | دقائق",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F009-L04",
+   "n": 4,
+   "kind": "centre",
+   "text": "* اسماء المدن الّتى خلف خطّ الاستواء *",
+   "margin": null,
+   "cells": null,
+   "plain": "* اسماء المدن الّتى خلف خطّ الاستواء *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F009-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(١) | | مدينة افاطا{n:a} على البحر | {u:سه} | {u:{z}} | ح | {z}",
+   "margin": null,
+   "cells": [
+    "(١)",
+    "",
+    "مدينة افاطا{n:a} على البحر",
+    "{u:سه}",
+    "{u:{z}}",
+    "ح",
+    "{z}"
+   ],
+   "plain": "(١) | | مدينة افاطا على البحر | سه | ō | ح | ō",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": [
+    "سه",
+    "ō"
+   ]
+  },
+  {
+   "id": "AK05-F009-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٢) | | اعا{n:b} مدينة القمر{n:c} فى جزيرة سرنديب | ڡكٮ | {z} | ج | {z}",
+   "margin": null,
+   "cells": [
+    "(٢)",
+    "",
+    "اعا{n:b} مدينة القمر{n:c} فى جزيرة سرنديب",
+    "ڡكٮ",
+    "{z}",
+    "ج",
+    "{z}"
+   ],
+   "plain": "(٢) | | اعا مدينة القمر فى جزيرة سرنديب | ڡكٮ | ō | ج | ō",
+   "note_marks": [
+    "b",
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F009-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٣) | | مدينة برقايا{n:d} فى جزيرة سرنديب | ڡكه | {z} | ج | {z}",
+   "margin": null,
+   "cells": [
+    "(٣)",
+    "",
+    "مدينة برقايا{n:d} فى جزيرة سرنديب",
+    "ڡكه",
+    "{z}",
+    "ج",
+    "{z}"
+   ],
+   "plain": "(٣) | | مدينة برقايا فى جزيرة سرنديب | ڡكه | ō | ج | ō",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F009-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٤) | | مدينة فى جزيرة الفضّة | قنح | {z} | ر | ل",
+   "margin": null,
+   "cells": [
+    "(٤)",
+    "",
+    "مدينة فى جزيرة الفضّة",
+    "قنح",
+    "{z}",
+    "ر",
+    "ل"
+   ],
+   "plain": "(٤) | | مدينة فى جزيرة الفضّة | قنح | ō | ر | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F009-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٥) | | مدينة قطيغوراا{n:e} | قسا{n:f} | ل | و | {z}",
+   "margin": null,
+   "cells": [
+    "(٥)",
+    "",
+    "مدينة قطيغوراا{n:e}",
+    "قسا{n:f}",
+    "ل",
+    "و",
+    "{z}"
+   ],
+   "plain": "(٥) | | مدينة قطيغوراا | قسا | ل | و | ō",
+   "note_marks": [
+    "e",
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F009-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٦) | | مدينة من بلاد الصين مودير{n:g} | ڡسد | ل | ا | {z}",
+   "margin": null,
+   "cells": [
+    "(٦)",
+    "",
+    "مدينة من بلاد الصين مودير{n:g}",
+    "ڡسد",
+    "ل",
+    "ا",
+    "{z}"
+   ],
+   "plain": "(٦) | | مدينة من بلاد الصين مودير | ڡسد | ل | ا | ō",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F009-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٧) | | مدينة من بلاد الصين سوسه{n:h} | ڡسه | {z} | ح | {z}",
+   "margin": null,
+   "cells": [
+    "(٧)",
+    "",
+    "مدينة من بلاد الصين سوسه{n:h}",
+    "ڡسه",
+    "{z}",
+    "ح",
+    "{z}"
+   ],
+   "plain": "(٧) | | مدينة من بلاد الصين سوسه | ڡسه | ō | ح | ō",
+   "note_marks": [
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F009-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٨) | | مدينة من بلاد الصين | ڡسه | {z} | ر | {z}{n:i}",
+   "margin": null,
+   "cells": [
+    "(٨)",
+    "",
+    "مدينة من بلاد الصين",
+    "ڡسه",
+    "{z}",
+    "ر",
+    "{z}{n:i}"
+   ],
+   "plain": "(٨) | | مدينة من بلاد الصين | ڡسه | ō | ر | ō",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+   ],
+   "lines": 5,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L06: for القمر the manuscript reads القفر, as it does also at entry (1496).",
+  "L09: for the name قطيغوراا the manuscript gives the variant reading ڡطعورا, with the loop of the ف or ق undotted; at entry (1726/1) the name is written قطيغورا, with the same variant.",
+  "L09: the degrees of the longitude, قسا, are unclear in the manuscript.",
+  "L10: the name مودير is written by a later hand in the manuscript.",
+  "L11: the name سوسه is written by a later hand in the manuscript.",
+  "L12: for the minutes of the latitude, the zero sign, the manuscript gives the variant reading ه (5)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "L01: the basmala is written in calligraphy and printed from a block; hamza and shadda are transcribed where they are written, its other vowel signs are not, as on the title pages (frames 005 and 007). The folio of the Strasbourg manuscript, «(fol. 2ᵇ)», is printed in Latin type in the left margin beside it.",
+  "L02-L03: the head of the table, in a smaller type. Its columns, from the right: «(العدد)», the editor's running number in parentheses, and «[العدد كما تجده فى كتاب عجائب الأقاليم]», the number of the same entry in Suhrāb's ʿAjāʾib al-aqālīm in square brackets, both printed vertically, the second in two lines within square brackets; «اسماء المدن»; «الطول» and «العرض», each over two columns headed «درج» and «دقائق», degrees and minutes, printed vertically. On this page the column of the square brackets is empty. A rule stands above each pair of numeral cells of every entry, and above the cells of entries 1-6 also below them.",
+  "L04: the heading of the section, «اسماء المدن الّتى خلف خطّ الاستواء», stands between two small open stars, transcribed as asterisks.",
+  "The numerals of the table are written with letters, by their numerical values (abjad), the hundreds first: سه, 65; قنح, 158. The editor keeps the defective writing of the manuscript and corrects it only where dots stand in the wrong place or a number is impossible (introduction, frame 192, p. XXI). The loop of ف or ق printed without dots is transcribed ڡ (L06, L07, L10, L11, L12), and the final ب printed without its dot ٮ (L06, ڡكٮ); where the print dots the ق, it is transcribed ق (L08, قنح; L09, قسا). In the latitudes of L08 and L12 the print has ر; the editor states that in these numerals ر stands for 7 and not for 200 (introduction, frame 196, p. XVII); transcribed ر as printed.",
+  "The sign for zero is a small circle with a stroke above it, the form which, the editor says, the Strasbourg manuscript alone uses for the zero (introduction, frame 192, p. XXI); it is written {z} in the page files and set as a small circle with a bar in the PDF.",
+  "L05: the longitude of entry 1, سه, and its minutes, the zero sign, are printed with a short line below them, under the س and the ه and under the circle of the zero sign; transcribed with the markup {u:…}. The pages of the introduction read so far do not say what the line marks.",
+  "L06: «اعا», as printed: an alif, an ع joined to a final alif, without the tooth or the dot of a ن (the join rises 4 px above the baseline); the editor's note b refers to the name «اعنا» at entry (1496).",
+  "L09: «قطيغوراا», as printed, with two alifs after the ر: the first stands 2 px from the ر, the second 14 px after the first; the editor's note e gives the name as «قطيغورا», with one alif, at entry (1726/1). The note mark f stands after the degrees of the longitude, قسا.",
+  "L10: a small irregular mark of ink, 7 px wide and 14 px high, stands above the left end of the longitude ڡسد; it is not shaped like the dots of the font, and a dot there would make an impossible number; it is not transcribed.",
+  "L12: the note mark i stands after the minutes of the latitude. In the footnotes the note i, the last line of the page, is printed without its mark; the editor's corrigenda (p. 163, frame 169) supply it.",
+  "The editor's notes refer to other entries of the book that name the same places: افاطا at (1142), written there «راقاطا»; اعا at (1496), «اعنا»; القمر at (1496); برقايا at (1498), «برقانا»; قطيغوراا at (1726/1); مودير at [105], an entry of Suhrāb; سوسه at (67) and (1726/1); and the minutes of the latitude of entry 8 at (1726/1).",
+  "Below the notes, at the left, the signature «1*» of the printed sheet; the page number «— ٣ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

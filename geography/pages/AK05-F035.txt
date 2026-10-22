@@ -1,0 +1,44 @@
+@page 35 ٢٩
+% Frame 035, printed p. 29: the cities of the sixth clime continued, entries 413-428: the hot springs of لقاليوا,
+% Asturica, مكسارا and Augusta at the mountain, the temple of Venus in the mountain, Nemausus, al-Andalus, Lugdunum,
+% Genua, حرٮطيه, اڡلون, دڡسالا, طلسا on the sea, ٮسڡٮا, مطيا and Neapolis on the sea; the folio of the manuscript,
+% «(fol. 8ᵃ)», in the margin. Three lines of the editor's footnotes.
+@r (٤١٣) | | حمّة لقاليوا | و | ك | مد | ك
+@r (٤١٤) | [٤٠٤] | اسطورتى مع الجبل | ط | ى | مح | ل
+@r (٤١٥) | [٣٧١] | مكسارا مع الجبل | يد | {z} | ما | ل
+@r (٤١٦) | [٤٠٥] | اوعوسطا على الجبل | يه | يه | مد | نه
+@r (٤١٧) | [٣٧٢] | هيكل الزهرة فى الجبل | ط | ل | مب | ى
+@r (٤١٨) | [٤٠٦] | مدينة ٮموسس | كٮ | ٮه | مد | يه
+@r (٤١٩) | | الاندلس{n:a} | ى | {z} | لج | {z}
+@m (fol. 8ᵃ)
+@r (٤٢٠) | [٣٧٣] | لوعرٮوں{n:b} | كج | مه | مه | {z}
+@r (٤٢١) | [٤٠٧] | يانويا{n:c} | كج | مه | مد | ل
+@r (٤٢٢) | [٣٧٥] | حرٮطيه | كح | مه | مد | {z}
+@r (٤٢٣) | [٤٠٨] | اڡلون{n:d} | كه | مه | مد | يه
+@r (٤٢٤) | [٣٧٤] | دڡسالا{n:e} | كه | ن | مح | كه
+@r (٤٢٥) | [٤٠٩] | طلسا على البحر | كه | ن | مٮ | مه
+@r (٤٢٦) | [٣٧٦] | ٮسڡٮا | كح | ى | مٮ | و
+@r (٤٢٧) | [٤١٠] | مطيا{n:f} | ل | نه | مج | ٮه
+@r (٤٢٨) | [٣٧٧] | ٮاڡلس على البحر | لا | {z} | ما | ل
+@ednotes a b c d e f 3
+@obs The table goes on from frame 034 without a heading: the cities of the sixth clime, entries 413-428. Entries 413 and 419 have no number of Suhrāb; the others have [٤٠٤], [٣٧١], [٤٠٥], [٣٧٢], [٤٠٦] (entries 414-418) and [٣٧٣], [٤٠٧], [٣٧٥], [٤٠٨], [٣٧٤], [٤٠٩], [٣٧٦], [٤١٠], [٣٧٧] (entries 420-428). Only entry 418 has the word «مدينة». The folio of the Strasbourg manuscript, «(fol. 8ᵃ)», is printed in Latin type in the left margin beside entry 420 (L08), as on frames 021, 023 and 025.
+@obs Signs in the names, transcribed as printed: L01: «حمّة», with a shadda over the م and the two dots of the ة. L05: «فى» has no dots on the ى; L02: «اسطورتى» ends in a ى without dots.
+@obs Names printed without dots, transcribed so: L06: «ٮموسس», the initial tooth without its dot; L08: «لوعرٮوں», the tooth before the second و and the final ن without dots; L10: «حرٮطيه», the tooth after the ر without a dot, the ي before the ه with its two dots; L11: «اڡلون», L12: «دڡسالا» and L16: «ٮاڡلس», the loop of ف or ق without dots, and in L16 the initial tooth without its dot.
+@obs L14: «ٮسڡٮا» has no dots: an initial tooth, 16 px above the line; three low teeth, 3 to 6 px, of the height of the medial س in «دڡسالا» (L12) and «طلسا» (L13); a loop on the line with an open counter, the ف or ق, 21 px; a low rounded tooth, 7 px, of the height of the ي before the alif in «مطيا» (L15); and the final alif. Transcribed so; the editor has no note on the entry.
+@obs Letters printed without their dots in the numerals, transcribed so: كٮ (L06, the degrees of the longitude), the ك and a final ب without its dot, 22; مٮ (L13, L14, the degrees of the latitude), 42, where L05 prints مب with the dot of the ب. With their dots: كج (L08, L09) and مج (L15), the ج with its dot in the bowl; لج (L07); يد (L03) and يه (L04, L06, L11), the ي with its two dots; ن (L12, L13, the minutes of the longitude) and نه (L04, L15).
+@obs The degrees printed with a final ح, مح (L02, L12, the degrees of the latitude) and كح (L10, L14, the degrees of the longitude), show no dot in the bowl; the same form is a ج without its dot, 3, which the print gives with its dot in كج (L08, L09), مج (L15) and لج (L07). Transcribed as printed.
+@obs L07: the degrees of the latitude are printed لج, 33, with the dot of the ج in the bowl, where the other entries of the page have 41 to 45 degrees, or 48 where مح is read with ح; the editor's note a on the entry says that the manuscript is unclear. Transcribed as printed.
+@obs L16: the degrees of the longitude are printed «لا», the ligature of ل and ا, 31.
+@obs The isolated ك, 20, is printed with the small inner stroke of the letter (L01, the minutes of the longitude and of the latitude). The minutes of the longitude in L06 and of the latitude in L15, «ٮه», are a tooth without its dot joined to a final ه, the form printed with its dots in يه (L04, L06, L11) and نه (L04, L15).
+@obs L04: two small projections stand on the bracket at the left of the number of Suhrāb, «[٤٠٥]», one on its inner side at mid-height and one on its outer side lower down, a flaw of the print.
+@obs Specks, not transcribed: L09, a dark speck to the right of the ل of the minutes of the latitude, and another below it; L12, two dark specks to the left of the minutes of the latitude, outside the column.
+@obs The page number «— ٢٩ —» stands at the foot, centred.
+@copy A faint wavy grey hairline lies below the number of Suhrāb of entry 415 (L03), a fibre on the paper.
+@variant L07: the manuscript is unclear here.
+@obs L07: the editor's corrigenda (p. 163, frame 169) read «لح», 38, for the degrees of the latitude, «لج», 33 (critical note AK05-CN020).
+@critical AK05-CN020 | corrected in the corrigenda | L07 | لج | لح | the editor's list of additions and corrections on p. 163 (frame 169) reads لح for لج in this line, p. 29, line 7, where لج is the degrees of the latitude of al-Andalus | high | the latitude of al-Andalus, entry 419, reads 38° 0′ instead of 33° 0′
+@variant L08: at entry (2074) the name is written لوعزٮون.
+@variant L09: at entry (2074) the name is written ٮاٮوٮا, without dots, and at entry (2088) ٮاٮونا.
+@variant L11: at entries (2080) and (2088) the name is written ڡلون, without the alif, the loop without dots.
+@variant L12: at entries (2080) and (2083) the name is written دقسالا.
+@variant L15: at entry (2091) the name is written منطيا, with the variant reading يبطا.

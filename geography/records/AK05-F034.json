@@ -1,0 +1,330 @@
+{
+ "anchor": "AK05-F034",
+ "frame": 34,
+ "frame_file": "page_034.jpg",
+ "frame_sha256": "9a29eb662f8158c2c34e7068b582307d9f5ca5673a7cb5b3d1be8b6c0e3f271d",
+ "printed_page": "٢٨",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 034, printed p. 28: the last cities of the fifth clime, entries 401-411: Akhsīkath, a name of which the editor supplies all but the last letter, Isbījāb, al-Ṭarāz the city of the merchants, al-Tubbat, Aṭrāqārā, a city on a mountain with a spring, Shīrā which is Sīnistān, Baghbūr, Dalqū and Sharqā on the island; the heading of the sixth clime, «الإقليم السادس عرضه مه», its latitude 45°, and of its cities; entry 412. Four lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F034-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٤٠١) | [٣٥٢] | اخسيكث{n:a} | صو | ل | لو | م",
+   "margin": null,
+   "cells": [
+    "(٤٠١)",
+    "[٣٥٢]",
+    "اخسيكث{n:a}",
+    "صو",
+    "ل",
+    "لو",
+    "م"
+   ],
+   "plain": "(٤٠١) | [٣٥٢] | اخسيكث | صو | ل | لو | م",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F034-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٤٠٢) | [٣٥٣] | ⟨طاربن⟩د{n:b} | صو | ل | لط | له",
+   "margin": null,
+   "cells": [
+    "(٤٠٢)",
+    "[٣٥٣]",
+    "⟨طاربن⟩د{n:b}",
+    "صو",
+    "ل",
+    "لط",
+    "له"
+   ],
+   "plain": "(٤٠٢) | [٣٥٣] | ⟨طاربن⟩د | صو | ل | لط | له",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F034-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٤٠٣) | [٣٥٤] | اسبيجاب{n:c} | صج | ى | لط | ن",
+   "margin": null,
+   "cells": [
+    "(٤٠٣)",
+    "[٣٥٤]",
+    "اسبيجاب{n:c}",
+    "صج",
+    "ى",
+    "لط",
+    "ن"
+   ],
+   "plain": "(٤٠٣) | [٣٥٤] | اسبيجاب | صج | ى | لط | ن",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F034-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٤٠٤) | [٣٥٥] | الطراز{n:d} وهى مدينة التجار | ق | ل | م | كد",
+   "margin": null,
+   "cells": [
+    "(٤٠٤)",
+    "[٣٥٥]",
+    "الطراز{n:d} وهى مدينة التجار",
+    "ق",
+    "ل",
+    "م",
+    "كد"
+   ],
+   "plain": "(٤٠٤) | [٣٥٥] | الطراز وهى مدينة التجار | ق | ل | م | كد",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F034-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٤٠٥) | [٣٥٦] | التبّت | ڡل | {z} | لح | {z}",
+   "margin": null,
+   "cells": [
+    "(٤٠٥)",
+    "[٣٥٦]",
+    "التبّت",
+    "ڡل",
+    "{z}",
+    "لح",
+    "{z}"
+   ],
+   "plain": "(٤٠٥) | [٣٥٦] | التبّت | ڡل | ō | لح | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F034-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٤٠٦) | [٣٥٧] | اطراقارا | ڡمط | ى | لز | ن",
+   "margin": null,
+   "cells": [
+    "(٤٠٦)",
+    "[٣٥٧]",
+    "اطراقارا",
+    "ڡمط",
+    "ى",
+    "لز",
+    "ن"
+   ],
+   "plain": "(٤٠٦) | [٣٥٧] | اطراقارا | ڡمط | ى | لز | ن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F034-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٤٠٧) | [٣٥٨] | مدينة على جبل وعين | ڡمط | يه | لط | {z}",
+   "margin": null,
+   "cells": [
+    "(٤٠٧)",
+    "[٣٥٨]",
+    "مدينة على جبل وعين",
+    "ڡمط",
+    "يه",
+    "لط",
+    "{z}"
+   ],
+   "plain": "(٤٠٧) | [٣٥٨] | مدينة على جبل وعين | ڡمط | يه | لط | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F034-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٤٠٨) | [٣٥٩] | شيرا وهى سينستان{n:e} | ڡٮح | ل | م | ك",
+   "margin": null,
+   "cells": [
+    "(٤٠٨)",
+    "[٣٥٩]",
+    "شيرا وهى سينستان{n:e}",
+    "ڡٮح",
+    "ل",
+    "م",
+    "ك"
+   ],
+   "plain": "(٤٠٨) | [٣٥٩] | شيرا وهى سينستان | ڡٮح | ل | م | ك",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F034-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٤٠٩) | | مدينة بغبور{n:f} | قنط | لا | م | لز",
+   "margin": null,
+   "cells": [
+    "(٤٠٩)",
+    "",
+    "مدينة بغبور{n:f}",
+    "قنط",
+    "لا",
+    "م",
+    "لز"
+   ],
+   "plain": "(٤٠٩) | | مدينة بغبور | قنط | لا | م | لز",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F034-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٤١٠) | | مدينة دلقو | ڡس | {z} | م | نه",
+   "margin": null,
+   "cells": [
+    "(٤١٠)",
+    "",
+    "مدينة دلقو",
+    "ڡس",
+    "{z}",
+    "م",
+    "نه"
+   ],
+   "plain": "(٤١٠) | | مدينة دلقو | ڡس | ō | م | نه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F034-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٤١١) | [٢٩١] | شرقا فى الجزيرة | كط | له | م | ى",
+   "margin": null,
+   "cells": [
+    "(٤١١)",
+    "[٢٩١]",
+    "شرقا فى الجزيرة",
+    "كط",
+    "له",
+    "م",
+    "ى"
+   ],
+   "plain": "(٤١١) | [٢٩١] | شرقا فى الجزيرة | كط | له | م | ى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F034-L12",
+   "n": 12,
+   "kind": "heading",
+   "text": "* الإقليم السادس عرضه {ov:مه} *",
+   "margin": null,
+   "cells": null,
+   "plain": "* الإقليم السادس عرضه مه *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F034-L13",
+   "n": 13,
+   "kind": "heading",
+   "text": "* المدن الّتى فى الإقليم السادس *",
+   "margin": null,
+   "cells": null,
+   "plain": "* المدن الّتى فى الإقليم السادس *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F034-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٤١٢) | [٣٧٠] | مدينة ٮرقارا | ز | ك | مج | ل",
+   "margin": null,
+   "cells": [
+    "(٤١٢)",
+    "[٣٧٠]",
+    "مدينة ٮرقارا",
+    "ز",
+    "ك",
+    "مج",
+    "ل"
+   ],
+   "plain": "(٤١٢) | [٣٧٠] | مدينة ٮرقارا | ز | ك | مج | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: the manuscript reads حساكت.",
+  "L02: the manuscript has a gap, which the editor marks with five dots in parentheses, before the د; at entry (1585) the name is written طاربنذ. The editor suggests that the manuscript may have read الطاربند here, since S has the form الطارفيد.",
+  "L03: the manuscript reads اسٮٮحاٮ, without any dots.",
+  "L04: the manuscript reads الطرار.",
+  "L08: the manuscript reads سٮسٮاں, without dots; at entry (497) the name is written يسيسباں, and at entry (1602) سيسياں.",
+  "L09: the manuscript reads بغيور."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 033 without a heading: the last cities of the fifth clime, entries 401-411. Then the heading of the sixth clime and of its cities, set between small open stars, and its first city, entry 412. Entries 409 and 410 have no number of Suhrāb; the others have [٣٥٢]-[٣٥٩] (entries 401-408), [٢٩١] (entry 411) and [٣٧٠] (entry 412). Entries 407, 409, 410 and 412 begin with the word «مدينة»; entry 404 has it in «وهى مدينة التجار».",
+  "L02: the name is printed «⟨طاربن⟩د»: the editor supplies the first five letters between angle brackets, the ب with its dot below and the ن with its dot above, and the ن is joined across the closing bracket to the د, which the manuscript has after a gap (note b).",
+  "L11: entry 411, «شرقا فى الجزيرة», has the number of Suhrāb [٢٩١] of entry 346 (frame 030, L11), with which the editor equates it in his note there.",
+  "L14: the name of entry 412 begins with a tooth without a dot joined to a ر, «ٮر», where a و has a closed loop (L07, «وعين»); transcribed ٮرقارا.",
+  "L12-L13: the latitude of the sixth clime, «مه», 45°, is printed with a line above the numeral; transcribed with {ov:…}. In both headings the alif of الإقليم carries a hamza below; L13: «الّتى», with a shadda over the ل, and «فى» without dots on the ى.",
+  "Signs in the names, transcribed as printed: L05: «التبّت», with a shadda over the ب. L04, L08: «وهى» and L11: «فى» have no dots on the ى.",
+  "Letters printed without their dots in the numerals, transcribed so: the loop of ف or ق without dots in the degrees of the longitude, ڡل (L05), ڡمط (L06, L07), ڡٮح (L08) and ڡس (L10), where L04 prints ق with its two dots and L09 قنط, the ق with its two dots and the ن with its dot. With their dots: صج (L03) and مج (L14), the ج with its dot in the bowl; ز (L14, the degrees of the longitude); the ز of لز (L06, L09); ن (L03, L06, the minutes of the latitude); نه (L10); يه (L07).",
+  "L06-L08: in ڡمط (L06, L07) the medial م is a diamond that stands out above and below the joining stroke; in ڡٮح (L08) the letter between the loop and the ح is a short tooth without a dot that rises above the joining stroke, with no part below it, where the medial م of these numerals is a diamond that stands out above and below the stroke (frame 013, L13, «ڡمح») or is set under the ق (frame 082, L16, «قمط»). Read with ق and ن, ڡٮح gives 158, beside قنط, 159 (L09).",
+  "The degrees printed with a final ح, لح (L05) and ڡٮح (L08), show no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.",
+  "L09: the minutes of the longitude are printed «لا», the ligature of ل and ا, 31.",
+  "The isolated ك, 20, has the small inner stroke of the letter (L08, the minutes of the latitude; L14, the minutes of the longitude).",
+  "Specks, not transcribed: L11, a dark speck to the left of «له», the minutes of the longitude, and another to the left of the «م» of the degrees of the latitude.",
+  "The page number «— ٢٨ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,39 @@
+{
+ "anchor": "AK07-J0139",
+ "jp2_index": 139,
+ "jp2_member": "b24872489_0139.jp2",
+ "jp2_sha256": "5c20d941d27527499872f7094d55aab559c769e9f114708579ac0f9f166f6091",
+ "reading_copy": "page_0139.jpg",
+ "reading_copy_sha256": "3c6d811dfd65f6dfc84061a859401a999dce6e61e01c634a94cb688aecea0489",
+ "printed_page": "[107]",
+ "kind": "divider",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (part title)",
+ "file": "suter",
+ "comment": "JP2 0139: the part title of the tables, p. [107].",
+ "lines": [
+  {
+   "id": "AK07-J0139-L01",
+   "n": 1,
+   "kind": "centre",
+   "text": "TAFELN",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "TAFELN",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The part title, unnumbered, before the tables: the word «TAFELN», in capitals (69 px high), alone a little above the middle of the page, centred on the text block. Damp stains run down from the top."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

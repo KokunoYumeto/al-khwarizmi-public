@@ -1,0 +1,272 @@
+{
+ "anchor": "AK05-F142",
+ "frame": 142,
+ "frame_file": "page_142.jpg",
+ "frame_sha256": "8c65cad1a8ff16b5dd28586d7126c3784e2fb313a81484da3b9d6d8f1fe701b6",
+ "printed_page": "١٣٦",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 142, printed p. 136: the springs and rivers of the sixth clime from the west: the river from a spring begun on p. 135, to the sea; a river from a spring to the sea; a river from a mountain and three further rivers from the same mountain, one of them called اغتل, to the sea; a river past the town مارٮانوس; and the river درٮوس from the mountain ⟨ا⟩روس, between the towns لوعزٮون and ٮاٮوٮا. The editor's running numbers (٢٠٥٨)-(٢٠٧٤) and the numbers of Suhrāb; words and a letter supplied by the editor between angle brackets. Four lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F142-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "والعرض {ov:مد ى} (٢٠٥٨) [١٩٩٠] ومصبّه فى البحر عند طول {ov:و م}{n:a} والعرض {ov:مد ى}",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض مد ى (٢٠٥٨) [١٩٩٠] ومصبّه فى البحر عند طول و م والعرض مد ى",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F142-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "(٢٠٥٩) [١٩٩١] * نهر اوّله عين عند طول {ov:ط ى} والعرض {ov:مد مه} (٢٠٦٠) [١٩٩٢]",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٠٥٩) [١٩٩١] * نهر اوّله عين عند طول ط ى والعرض مد مه (٢٠٦٠) [١٩٩٢]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F142-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "ومصبّه فى البحر عند طول {ov:ر {z}} والعرض {ov:مد مه} (٢٠٦١) [١٩٩٣] * نهر من جبل",
+   "margin": null,
+   "cells": null,
+   "plain": "ومصبّه فى البحر عند طول ر ō والعرض مد مه (٢٠٦١) [١٩٩٣] * نهر من جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F142-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "اوّله عند طول {ov:يط ل} والعرض {ov:مد ك} (٢٠٦٢) [١٩٩٤] ومصبّه فى البحر عند طول {ov:ٮح {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "اوّله عند طول يط ل والعرض مد ك (٢٠٦٢) [١٩٩٤] ومصبّه فى البحر عند طول ٮح ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F142-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "والعرض {ov:مد مه} (٢٠٦٣) [١٩٩٥] * نهر من هٰذا الجبل ايضاً اوّله عند طول {ov:ك {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض مد مه (٢٠٦٣) [١٩٩٥] * نهر من هٰذا الجبل ايضاً اوّله عند طول ك ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F142-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "والعرض {ov:مد {z}} (٢٠٦٤) [١٩٩٦] ومصبّه فى البحر عند طول {ov:كا {z}} والعرض {ov:مب ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض مد ō (٢٠٦٤) [١٩٩٦] ومصبّه فى البحر عند طول كا ō والعرض مب ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F142-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "(٢٠٦٥) [١٩٩٧] * نهر من هٰذا الجبل ايضاً اوّله عند طول {ov:ك ٮه}{n:b} والعرض {ov:مد ك}{n:c}",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٠٦٥) [١٩٩٧] * نهر من هٰذا الجبل ايضاً اوّله عند طول ك ٮه والعرض مد ك",
+   "note_marks": [
+    "b",
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F142-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "(٢٠٦٦) [٢٠٠٠] ومصبّه فى البحر عند ⟨طول⟩{n:d} {ov:كا ل} والعرض {ov:مب ل} (٢٠٦٧)",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٠٦٦) [٢٠٠٠] ومصبّه فى البحر عند ⟨طول⟩ كا ل والعرض مب ل (٢٠٦٧)",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F142-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "[٢٠٠١] * نهر اغتل من هٰذا الجبل ايضاً اوّله عند طول {ov:ك ل}{n:e} والعرض {ov:مد مه}",
+   "margin": null,
+   "cells": null,
+   "plain": "[٢٠٠١] * نهر اغتل من هٰذا الجبل ايضاً اوّله عند طول ك ل والعرض مد مه",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F142-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "(٢٠٦٨) [١٩٩٨] ومصبّه فى البحر عند طول {ov:كا ن} والعرض {ov:مب ل} (٢٠٦٩) [١٩٩٩] *",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٠٦٨) [١٩٩٨] ومصبّه فى البحر عند طول كا ن والعرض مب ل (٢٠٦٩) [١٩٩٩] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F142-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "نهر يخرج من هٰذا الجبل ⟨ايضاً⟩{n:f} اوّله عند طول {ov:ك م} والعرض {ov:مد ن} (٢٠٧٠) [٢٠٠٢]",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر يخرج من هٰذا الجبل ⟨ايضاً⟩ اوّله عند طول ك م والعرض مد ن (٢٠٧٠) [٢٠٠٢]",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F142-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "يمرّ بأسفل مدينة مارٮانوس ثمّ ينتهى الى طول {ov:ك {z}} والعرض {ov:مز {z}} (٢٠٧١) [٢٠٠٣]",
+   "margin": null,
+   "cells": null,
+   "plain": "يمرّ بأسفل مدينة مارٮانوس ثمّ ينتهى الى طول ك ō والعرض مز ō (٢٠٧١) [٢٠٠٣]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F142-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "ويصبّ فى البحر عند طول {ov:ٮح ل} والعرض {ov:مز ى}{n:g} (٢٠٧٢) [٢٠٠٤] *",
+   "margin": null,
+   "cells": null,
+   "plain": "ويصبّ فى البحر عند طول ٮح ل والعرض مز ى (٢٠٧٢) [٢٠٠٤] *",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F142-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "نهر درٮوس{n:h} اوّله من جبل ⟨ا⟩{n:i}روس عند طول {ov:كز م} والعرض {ov:مد ن} (٢٠٧٣) [٢٠٠٥]",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر درٮوس اوّله من جبل ⟨ا⟩روس عند طول كز م والعرض مد ن (٢٠٧٣) [٢٠٠٥]",
+   "note_marks": [
+    "h",
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F142-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "ويمرّ فيما بين مدينة لوعزٮون ومدينة ٮاٮوٮا ثمّ ينتهى الى طول {ov:كح {z}} والعرض {ov:مد مه}",
+   "margin": null,
+   "cells": null,
+   "plain": "ويمرّ فيما بين مدينة لوعزٮون ومدينة ٮاٮوٮا ثمّ ينتهى الى طول كح ō والعرض مد مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F142-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "(٢٠٧٤) [٢٠٠٦] ثمّ يعدل فيصبّ فى البحر عند طول {ov:كٮ ك} والعرض {ov:مٮ ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٠٧٤) [٢٠٠٦] ثمّ يعدل فيصبّ فى البحر عند طول كٮ ك والعرض مٮ ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: a variant reading of the longitude is و ل, with a line over the numerals; the editor suggests that it may perhaps be read ر م (note a).",
+  "L07: a variant reading of the longitude is ك ں, the ن without its dot, with a line over the numerals (note b).",
+  "L07: a variant reading of the latitude is مد مه, with a line over the numerals; the editor suggests that it may perhaps be read مه ك (note c).",
+  "L08: the word between the brackets is missing in the manuscript (note d).",
+  "L09: a variant reading of the longitude is كٮ ō, the ك joined to the final ب without its dot, with a line over the numerals (note e).",
+  "L11: the word between the brackets is missing in the manuscript (note f).",
+  "L13: a variant reading of the latitude is مو ى, with a line over the numerals (note g).",
+  "L14: at points (2078) and (2082) the name is written دريوس, with the two dots of the ي (note h).",
+  "L14: the manuscript has a gap at the letter between the brackets; the editor supplies it after points (2078), (2080) and (2088) (note i)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The river whose beginning stands at the end of p. 135 (frame 141), «نهر اوّله عين عند طول يٮ ٮه», a river whose beginning is a spring at the longitude 12° ٮه, goes on in L01: «والعرض مد ى (٢٠٥٨) ومصبّه فى البحر عند طول و م والعرض مد ى (٢٠٥٩) *», and the latitude 44° 10′, and its mouth in the sea at the longitude 6° 40′ and the latitude 44° 10′.",
+  "L02-L03: «نهر اوّله عين عند طول ط ى والعرض مد مه (٢٠٦٠) ومصبّه فى البحر عند طول ر {z} والعرض مد مه (٢٠٦١) *», a river whose beginning is a spring at the longitude 9° 10′ and the latitude 44° 45′, and its mouth in the sea at the longitude ر ō and the latitude 44° 45′. The isolated ر without a dot: in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII): 7° 0′.",
+  "L03-L08: «نهر من جبل اوّله عند طول يط ل والعرض مد ك (٢٠٦٢) ومصبّه فى البحر عند طول ٮح {z} والعرض مد مه (٢٠٦٣) *», a river from a mountain, whose beginning is at the longitude 19° 30′ and the latitude 44° 20′, and its mouth in the sea at the longitude ٮح ō and the latitude 44° 45′; «نهر من هٰذا الجبل ايضاً اوّله عند طول ك {z} والعرض مد {z} (٢٠٦٤) ومصبّه فى البحر عند طول كا {z} والعرض مب ل (٢٠٦٥) *», a river also from this mountain, whose beginning is at the longitude 20° 0′ and the latitude 44° 0′, and its mouth in the sea at the longitude 21° 0′ and the latitude 42° 30′; «نهر من هٰذا الجبل ايضاً اوّله عند طول ك ٮه والعرض مد ك (٢٠٦٦) ومصبّه فى البحر عند ⟨طول⟩ كا ل والعرض مب ل (٢٠٦٧) *», a river also from this mountain, whose beginning is at the longitude 20° ٮه and the latitude 44° 20′, and its mouth in the sea at ⟨the longitude⟩ 21° 30′ and the latitude 42° 30′.",
+  "L09-L10: «نهر اغتل من هٰذا الجبل ايضاً اوّله عند طول ك ل والعرض مد مه (٢٠٦٨) ومصبّه فى البحر عند طول كا ن والعرض مب ل (٢٠٦٩) *», the river اغتل, also from this mountain, whose beginning is at the longitude 20° 30′ and the latitude 44° 45′, and its mouth in the sea at the longitude 21° 50′ and the latitude 42° 30′.",
+  "L11-L13: «نهر يخرج من هٰذا الجبل ⟨ايضاً⟩ اوّله عند طول ك م والعرض مد ن (٢٠٧٠) يمرّ بأسفل مدينة مارٮانوس ثمّ ينتهى الى طول ك {z} والعرض مز {z} (٢٠٧١) ويصبّ فى البحر عند طول ٮح ل والعرض مز ى (٢٠٧٢) *», a river that comes out of this mountain ⟨also⟩, whose beginning is at the longitude 20° 40′ and the latitude 44° 50′; it passes below the town مارٮانوس, then reaches the longitude 20° 0′ and the latitude 47° 0′, and flows into the sea at the longitude ٮح ل and the latitude 47° 10′. The town is entry 475 of the table of the cities, «مارٮاٮوس» (frame 039, L03), at the longitude ٮط ن and the latitude 46° 30′, where the editor records the form of this entry (2071), مارٮانوس; here the ن has its dot and the tooth after the ر none.",
+  "L14-L16: «نهر درٮوس اوّله من جبل ⟨ا⟩روس عند طول كز م والعرض مد ن (٢٠٧٣)», the river درٮوس, whose beginning is from the mountain ⟨ا⟩روس at the longitude 27° 40′ and the latitude 44° 50′; «ويمرّ فيما بين مدينة لوعزٮون ومدينة ٮاٮوٮا ثمّ ينتهى الى طول كح {z} والعرض مد مه (٢٠٧٤)», and it passes between the town لوعزٮون and the town ٮاٮوٮا, then reaches the longitude 28° 0′ and the latitude 44° 45′; «ثمّ يعدل فيصبّ فى البحر عند طول ك ك والعرض مٮ ل», then it turns and flows into the sea at the longitude 22° 20′ and the latitude 42° 30′, continued on p. 137.",
+  "The mountain is entries 837-838 of the table of the mountains, «جبل اورس متّصل بالبحر» (frame 064, L01), where the editor records the form of this entry (2073) and of entries (2078), (2080) and (2088), اروس. The towns are entries 420, «لوعرٮوں», at the longitude 23° 45′ and the latitude 45° 0′, and 421, «يانويا», at the longitude 23° 45′ and the latitude 44° 30′, of the table of the cities (frame 035, L08, L09), where the editor records the forms of this entry (2074), لوعزٮون and ٮاٮوٮا. Here «لوعزٮون» has the dot of the ز and of the final ن, and the tooth before the و none; «ٮاٮوٮا» has no dots.",
+  "Numerals: «مد ى» (L01, twice), 44° 10′; «و م» (L01), 6° 40′; «ط ى» (L02), 9° 10′; «مد مه» (L02, L03, L05, L09, L15), 44° 45′; «يط ل» (L04), with the two dots of the ي, 19° 30′; «مد ك» (L04, L07), 44° 20′; «ك {z}» (L05, L12), 20° 0′; «مد {z}» (L06), 44° 0′; «كا {z}» (L06), 21° 0′; «مب ل» (L06, L08, L10), with the dot of the ب, 42° 30′; «كا ل» (L08), 21° 30′; «ك ل» (L09), 20° 30′; «كا ن» (L10), with the dot of the ن, 21° 50′; «ك م» (L11), 20° 40′; «مد ن» (L11, L14), with the dot of the ن, 44° 50′; «مز {z}» (L12), with the dot of the ز, 47° 0′; «مز ى» (L13), with the dot of the ز, 47° 10′; «كز م» (L14), with the dot of the ز, 27° 40′, the minutes printed close to the degrees under one line; «كح {z}» (L15), 28° 0′.",
+  "Without their dots, transcribed so: «ٮح» (L04, L13), a tooth without a dot joined to a ح, which read as يح gives 18, beside the beginnings of these rivers at 19° 30′ (L04) and 20° 40′ (L11), and read as نح 58: 18° 0′ and 18° 30′. «مٮ ل» (L16), the م joined to the flat final bowl of a ب without its dot, read as مب 42° 30′, as «مب ل» of L06, L08 and L10 with the dot. «ك ٮه» (L07), the minutes: a tooth without its dot joined to a final ه, 26 by 24 px, where the isolated ه is a small round ring of about 18 by 20 px: ٮه, 55 read with a ن, 15 with a ي (frame 113, L08; frame 031, L07); the editor's note b gives the variant ك ں.",
+  "L01: «و م»: the tail of the isolated م is broken: its lower part, 5 by 12 px, stands apart below the head. L11: «ك م»: a thin broken stroke runs on the line from the foot of the ك to the م, so that the two numerals appear joined; transcribed as two numerals, the degrees and the minutes. L16: «كٮ ك»: the degrees are a long oblique stroke over a flat bowl, 82 px wide, the ك joined to the final ب without its dot, 22 (frame 014, L11), as in the editor's note e; the minutes are the isolated ك, 20, with the small inner stroke: 22° 20′.",
+  "Angle brackets, each followed by a note mark, around what the editor supplies: «⟨طول⟩» (L08), note d; «⟨ايضاً⟩» (L11), note f; «⟨ا⟩» (L14), note i, followed by «روس». Transcribed with the brackets.",
+  "Signs in the text, transcribed as printed: «ومصبّه» (L01, L03, L04, L06, L08, L10) with a shadda over the ب, and «ويصبّ» (L13) and «فيصبّ» (L16) with a shadda over the ب; «اوّله» (L02, L04, L05, L07, L09, L11, L14) with a shadda over the و; «يمرّ» (L12) and «ويمرّ» (L15) with a shadda over the ر; «ثمّ» (L12, L15, L16) with a shadda; «هٰذا» (L05, L07, L09, L11) with a small alif over the ه; «ايضاً» (L05, L07, L09) and «⟨ايضاً⟩» (L11) with the tanwin of the accusative over the alif; «بأسفل» (L12) with a hamza over the alif; «ينتهى» (L12, L15), «فى» and «الى» end in a ى without dots.",
+  "The running numbers run (٢٠٥٨)-(٢٠٧٤) without a gap. The numbers of Suhrāb run [١٩٩٠]-[١٩٩٧] after (٢٠٥٨)-(٢٠٦٥); then [٢٠٠٠] and [٢٠٠١] after (٢٠٦٦) and (٢٠٦٧), [١٩٩٨] and [١٩٩٩] after (٢٠٦٨) and (٢٠٦٩), the river اغتل, and [٢٠٠٢]-[٢٠٠٦] after (٢٠٧٠)-(٢٠٧٤). [٢٠٠١] stands at the beginning of L09, after the running number (٢٠٦٧) at the end of L08.",
+  "Asterisks: the small open stars with six points, after [١٩٩١] (L02), [١٩٩٣] (L03), [١٩٩٥] (L05), [١٩٩٧] (L07), [٢٠٠١] (L09), [١٩٩٩] (L10) and [٢٠٠٤] (L13), are transcribed as asterisks; the star of L13 is printed broken in two halves, 15 by 31 and 16 by 29 px.",
+  "Note marks: L01, a after the longitude; L07, b after the longitude and c after the latitude; L08, d after «⟨طول⟩»; L09, e after the longitude; L11, f after «⟨ايضاً⟩»; L13, g after the latitude; L14, h after «درٮوس» and i after «⟨ا⟩».",
+  "Marks not transcribed: L12, a broken vertical stroke of 7 by 21 px at the beginning of the line, before «يمرّ», at the height of the tops of the letters; small specks of the impression around the numerals.",
+  "The editor's footnotes stand in four lines below a short rule at the left: notes a-i. The page number «— ١٣٦ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

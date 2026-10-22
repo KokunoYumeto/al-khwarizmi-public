@@ -1,0 +1,53 @@
+@page 211 179
+@lang la
+% JP2 0211: Tab. 65, p. 179: the true hourly motions of the sun and the moon, the radii of the sun and the moon and
+% the two columns of the dragon, for the anomalies 121° to 150° and 239° to 210°, with the apparatus (notes 1-3 and a-f).
+@m C 78{sup:v}, O 135{sup:v},
+@c {b:Gedval elbuht} (O)
+@m N 40{sup:v}.
+@c {b:Tabula motus Solis et Lunae diurni et horarii atque momentanei} (N)
+@tw size=footnotesize span=1.1 0.5 0.5 0.5 0.5 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62
+@t Semitae numerorum (CO) |  |  |  | Motus |  | Motus |  | Dimidium |  | Dimidium |  | Primum |  | Secundum |
+@t Lineae numeri (N) |  |  |  | Solis |  | Lunae |  | rotae |  | rotae |  | dimidium |  | dimidium |
+@t  |  |  |  | in hora{sup:1}) |  | in hora{sup:2}) |  | Solis{sup:3}) |  | Lunae{sup:3}) |  | rotae |  | rotae |
+@t  |  |  |  |  |  |  |  |  |  |  |  | Draconis{sup:3}) |  | Draconis{sup:3}) |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.} | {b:Min.} | {b:Sec.}
+@t 4 | 1 | 7 | 29 | 2 | 31 | 34 | 25 | 16 | 37 | 16 | 41 | 12 | 35 | 55 | 4
+@t 4 | 2 | 7 | 28 | 2 | 31 | 34 | 27 | 16 | 37 | 16 | 42 | 12 | 35 | 55 | 7
+@t 4 | 3 | 7 | 27 | 2 | 31 | 34 | 30 | 16 | 38{sup:c}) | 16 | 43 | 12 | 36 | 55 | 11
+@t 4 | 4 | 7 | 26 | 2 | 31 | 34 | 32 | 16 | 38 | 16 | 44 | 12 | 36 | 55 | 15
+@t 4 | 5 | 7 | 25 | 2 | 31 | 34 | 34 | 16 | 39 | 16 | 46{sup:e}) | 12 | 37 | 55 | 19
+@t 4 | 6 | 7 | 24 | 2 | 32 | 34 | 37 | 16 | 39 | 16 | 47 | 12 | 37 | 55 | 24
+@t 4 | 7 | 7 | 23 | 2 | 32 | 34 | 40 | 16 | 40 | 16 | 48 | 12 | 37 | 55 | 27
+@t 4 | 8 | 7 | 22 | 2 | 32 | 34 | 42 | 16 | 40 | 16 | 49 | 12 | 38 | 55 | 32
+@t 4 | 9 | 7 | 21 | 2 | 32 | 34 | 45 | 16 | 41 | 16 | 51 | 12 | 38 | 55 | 36
+@t 4 | 10 | 7 | 20 | 2 | 32 | 34 | 48 | 16 | 41 | 16 | 52 | 12 | 39 | 55 | 41
+@t 4 | 11 | 7 | 19 | 2 | 32 | 34 | 50 | 16 | 42 | 16 | 53 | 12 | 39 | 55 | 44{sup:f})
+@t 4 | 12 | 7 | 18 | 2 | 32 | 34 | 53 | 16 | 43 | 16 | 54 | 12 | 39 | 55 | 48
+@t 4 | 13 | 7 | 17 | 2 | 32 | 34 | 55 | 16 | 43 | 16 | 56 | 12 | 40 | 55 | 52
+@t 4 | 14 | 7 | 16 | 2 | 32 | 34 | 58 | 16 | 44 | 16 | 57 | 12 | 40 | 55 | 56
+@t 4 | 15 | 7 | 15 | 2 | 32 | 35 | 0 | 16 | 45 | 16 | 58 | 12 | 40 | 56 | 0
+@t 4 | 16 | 7 | 14 | 2 | 32 | 35 | 1 | 16 | 45 | 16 | 59 | 12 | 41 | 56 | 2
+@t 4 | 17 | 7 | 13 | 2 | 32 | 35 | 3 | 16 | 46 | 16 | 59 | 12 | 41 | 56 | 4
+@t 4 | 18 | 7 | 12 | 2 | 32 | 35 | 4 | 16 | 47 | 17{sup:d}) | 0 | 12 | 41 | 56 | 6
+@t 4 | 19 | 7 | 11 | 2 | 32 | 35 | 5 | 16 | 47 | 17 | 0 | 12 | 42 | 56 | 8
+@t 4 | 20 | 7 | 10 | 2 | 32 | 35 | 6 | 16 | 48 | 17 | 1 | 12 | 42 | 56 | 10
+@t 4 | 21 | 7 | 9 | 2 | 32 | 35 | 8 | 16 | 48 | 17 | 2 | 12 | 42 | 56 | 12
+@t 4 | 22 | 7 | 8 | 2 | 33 | 35 | 9 | 16 | 49 | 17 | 2 | 12 | 43 | 56 | 15
+@t 4 | 23 | 7 | 7 | 2 | 33 | 35 | 10 | 16 | 49 | 17 | 3 | 12 | 43 | 56 | 17
+@t 4 | 24 | 7 | 6 | 2 | 33 | 35 | 12 | 16 | 49 | 17 | 4 | 12 | 43 | 56 | 19
+@t 4 | 25 | 7 | 5 | 2 | 33 | 35 | 13 | 16 | 49 | 17 | 4 | 12 | 43 | 56 | 21
+@t 4 | 26 | 7 | 4 | 2 | 33 | 35 | 14 | 16 | 49 | 17 | 5 | 12 | 44 | 56 | 23
+@t 4 | 27 | 7 | 3 | 2 | 33 | 35 | 16 | 16 | 50 | 17 | 6 | 12 | 44 | 56 | 25
+@t 4 | 28 | 7 | 2 | 2 | 33 | 35 | 17{sup:b}) | 16 | 50 | 17 | 6 | 12 | 44 | 56 | 27
+@t 4 | 29 | 7 | 1 | 2 | 33 | 35 | 18 | 16 | 50 | 17 | 7 | 12 | 44 | 56 | 29
+@t 5{sup:a}) | 0 | 7 | 0 | 2 | 33 | 35 | 20 | 16 | 50 | 17{sup:d}) | 7 | 12 | 45 | 56 | 31
+@n {sup:1}) Motus . . . . hora] O, Cursus solis horarius C — {sup:2}) Motus . . . . hora] O, Cursus lunae horarius C —
+@n {sup:3}) {i:Hos titulos om.} C.
+@n {sup:a}) 5] N, 4 CO — {sup:b}) 17] O, 16 C — {sup:c}) 38] C, 37 O — {sup:d-d}) 17] O, 16 C — {sup:e}) 46] C, 47 O — {sup:f}) 44] C, 43 O.
+@obs The page number «179» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 65», in bold sans serif, underlined. At the foot, the signature «23*» on the right; recorded here, not transcribed as a line. The titles (L01-L02), as on p. 178 (JP2 0210), «Gedval elbuht (O)» and «Tabula motus Solis et Lunae diurni et horarii atque momentanei (N)», in bold, the sigla in roman; a speck above the u of «elbuht» and a speck after the 2 of the second column in L36; not transcribed. The folios of the manuscripts stand at the right of the second title in two lines, «C 78v, O 135v,» and «N 40v.», the letters raised; here as right margin notes.
+@obs The table: as on p. 178, with notes 1-3 in the heads. Here each head is set from the top, one printed line to a line (L03-L07); the cells separated by our «|»; a head followed by empty cells spans their columns. The range of note d is marked at its first and last rows, 138° and 150° (L25, L37).
+@obs L08-L37. The arguments, the anomalies 4s 1° to 5s 0° and their complements 7s 29° to 7s 0°, with N's reading of note a at 5s 0°. Checked: the law 2′ 28″ − 5.8″ cos α of p. 178 gives the second column within 0.6″, the sixth (five times) within 0.9″ and the fourth (6.6 times) within 2.1″; the fourth column stays at 16′ 49″ from 142° to 146° and at 16′ 50″ from 147° to 150°.
+@obs L08-L37, continued. The moon: the seventh column is 1 3/5 times the third within 1.0″ and the fifth 0.4846 times the third within 1.0″ in every row, as on pp. 175-176. The third column rises by 2″ or 3″ a degree to 135° and by 1″ or 2″ from there to 35′ 20″ at 150°; it lies above 32′ 56″ 27‴ − 2′ 43.9″ cos α by 1.0″ to 7.7″, most at 134°-135°.
+@obs Notes on the readings. Checked: O's 35′ 17″ at 148° (note b, against C's 16) keeps the steps of the third column, 1″ and 1″, and agrees with the seventh column divided by 1 3/5, 35′ 16.9″, and the fifth divided by 0.4846, 35′ 17.2″; C's 16′ 38″ at 123° (note c, against O's 37) is 6.6 times the law of the sun, 16′ 37.6″; C's 16′ 46″ at 125° (note e, against O's 47) is the nearer to 0.4846 times the third column, 16′ 45.1″; C's 55′ 44″ at 131° (note f, against O's 43) is 1 3/5 times the third column, 55′ 44.0″. The minutes 17 of the radius of the moon from 138° to 150° (notes d-d, O, against C's 16) complete the 16′ 59″ of 137°. Note a: N's 5, against the 4 of C and O, makes the argument of L37 5s 0°, 150°, the complement of 7s 0°.
+@obs Notes 1-3: as on p. 178. Italics: «Hos titulos om.». N01: the ellipses «. . . .» of the lemmas as printed, the first set close. N03: «{sup:d-d})», the two letters of the range joined by a hyphen, raised, before one parenthesis.

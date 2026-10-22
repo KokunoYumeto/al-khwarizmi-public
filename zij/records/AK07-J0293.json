@@ -1,0 +1,24 @@
+{
+ "anchor": "AK07-J0293",
+ "jp2_index": 293,
+ "jp2_member": "b24872489_0293.jp2",
+ "jp2_sha256": "50142d80b1b4330f42ef44966490590630084abda52a3ba21c21fd591b3d4d06",
+ "reading_copy": "page_0293.jpg",
+ "reading_copy_sha256": "79bebb453560d5947d5d2dac84e8729f91b461695f397629ec0e174c32932b14",
+ "printed_page": "-",
+ "kind": "provenance",
+ "language": null,
+ "role": "COPY_PROVENANCE",
+ "file": "suter",
+ "comment": "JP2 0293: the rear pastedown, with a tick in pencil.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Nothing of the edition is printed on this page. The pastedown of the rear board: the edges of the cloth turned over the board show through the paper along the sides and at the corners."
+ ],
+ "copy_matter": [
+  "A tick in pencil at the upper left."
+ ],
+ "critical_notes": []
+}

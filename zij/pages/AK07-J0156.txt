@@ -1,0 +1,64 @@
+@page 156 124
+@lang la
+% JP2 0156: Tab. 13, p. 124: the mean motion of Mars in the collected and the single Arab years and in the Arab
+% months, and the anomaly of Mars («Heza») in days and hours, with the apparatus (notes 1-17, a-z and α).
+@ml C 50{sup:r-v},
+@c {b:Elwazat almarech}{sup:1}) (CO)
+@ml O 106{sup:v}, N 14{sup:v}.
+@c {b:Medius cursus Martis} (N)
+@tw size=footnotesize span=1.1 1.1 0.75 0.75 0.85 0.85 0.9 0.75 0.75 0.85 0.85 1.8 0.75 0.75 0.85 0.85
+@t Anni | Medialitas{sup:2}) Martis | | | | Anni | Medialitas{sup:2}) Martis | | | | Menses | Medialitas{sup:2}) Martis | | |
+@t collecti | in collectis{sup:3}) | | | | plani | in planis{sup:4}) | | | | arabum | in mensibue | | |
+@t | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:5}) | {b:Sec.}{sup:6}) | | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.} | | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t Radix | 7{sup:a}) | 0 | 25 | 15 | 1 | 6 | 5 | 30 | 10 | Elmuharr. | 0 | 15 | 43 | 14
+@t 30 | 0 | 21{sup:c}) | 16 | 2 | 2 | 0 | 11 | 31 | 46 | Zafar | 1 | 0 | 55 | 2
+@t 60 | 6 | 12 | 6 | 49 | 3 | 6 | 17{sup:p}) | 1{sup:t}) | 56 | Rabe I.{sup:7}) | 1 | 16 | 38 | 16
+@t 90 | 0 | 2 | 57 | 36 | 4 | 0 | 22 | 32 | 6 | Rabe II.{sup:8}) | 2 | 1 | 50 | 4
+@t 120 | 5{sup:b}) | 23{sup:d}) | 48 | 23 | 5 | 6 | 28 | 33 | 42 | Jumedi{sup:9}) | 2 | 17 | 33 | 18
+@t 150 | 11 | 14{sup:e}) | 39 | 10 | 6 | 1 | 4 | 3 | 52 | Jumedi{sup:9}) | 3 | 2 | 45 | 5
+@t 180 | 5 | 5 | 29 | 57 | 7 | 7 | 10 | 5 | 28 | Regeb | 3 | 18 | 28 | 19
+@t 210 | 10 | 26 | 20{sup:h}) | 44 | 8 | 1 | 15 | 35 | 38 | Scabin{sup:10}) | 4 | 3 | 40 | 7
+@t 240 | 4 | 17 | 11 | 31 | 9 | 7 | 21 | 5 | 48 | Ramadh{sup:11}) | 4 | 19 | 23 | 21
+@t 270 | 10 | 8 | 2 | 19 | 10 | 1 | 27 | 7 | 24 | Scawel{sup:12}) | 5 | 4 | 35{sup:z}) | 9
+@t 300 | 3 | 28 | 53 | 6 | 11 | 8{sup:k}) | 2 | 37 | 34 | Dulkada{sup:13}) | 5 | 20 | 18 | 23{sup:α})
+@t 330 | 9 | 19 | 43 | 53 | 12 | 2{sup:l}) | 8 | 7 | 44 | Dulheia{sup:14}) | 6 | 5 | 30 | 10
+@t 360 | 3 | 10 | 34 | 40 | 13 | 8 | 14 | 9 | 20 | | | | |
+@t 390 | 9 | 1 | 25 | 28 | 14 | 2 | 19 | 39 | 30 | Dies et horae | Heza{sup:16}) Martis | | |
+@t 420 | 2 | 22 | 16 | 15 | 15 | 8 | 25 | 9 | 40 | | supradictum{sup:17}) | | |
+@t 450 | 8 | 13{sup:f}) | 7 | 2 | 16 | 3{sup:m}) | 1 | 11 | 16 | | | | |
+@t 480 | 2 | 3 | 57 | 49 | 17 | 9{sup:n}) | 6 | 41 | 26 | dies | 0 | 0 | 27 | 42
+@t 510 | 7 | 24 | 48 | 36{sup:i}) | 18 | 3 | 12 | 43 | 2 | 5 | 0 | 2 | 18 | 29
+@t 540 | 1 | 15 | 39 | 24 | 19 | 9 | 18 | 13 | 12 | 10 | 0 | 4 | 36 | 57
+@t 570 | 7 | 6{sup:g}) | 39 | 11 | 20 | 3 | 23 | 43 | 22 | 15 | 0 | 6{sup:x}) | 55 | 25
+@t | | | | | 21 | 9 | 29 | 44 | 58{sup:u}) | 20 | 0 | 9 | 13 | 54
+@t | | | | | 22 | 4{sup:o}) | 5{sup:q}) | 15 | 8 | 25 | 0 | 11 | 32 | 22
+@t | | | | | 23 | 10 | 10 | 45 | 18{sup:v}) | 30 | 0 | 13 | 50 | 51
+@t | | | | | 24 | 4 | 16 | 46 | 54 | 60 | 0 | 27{sup:y}) | 41 | 42
+@t | | | | | 25 | 10 | 22 | 17 | 4 | hora{sup:15}) | 0 | 0 | 1 | 10
+@t | | | | | 26 | 4 | 28 | 18 | 40 | 3 | 0 | 0 | 3 | 28
+@t | | | | | 27 | 11 | 3{sup:r}) | 48 | 50 | 6 | 0 | 0 | 6 | 55
+@t | | | | | 28 | 5 | 9 | 19 | 0 | 12 | 0 | 0 | 13 | 51
+@t | | | | | 29 | 11 | 15 | 20 | 36 | | | | |
+@t | | | | | 30 | 5 | 20{sup:s}) | 50 | 47 | | | | |
+@n {sup:1}) almarech] O, almarehh C — {sup:2}) Medialitas] O, Mediocritas C — {sup:3}) in collectis] O, in annis col-
+@n lectis C N — {sup:4}) in planis] O, in annis planis C, in annis residuis N — {sup:5}) et {sup:6}) {i:V. notas in tab. 8} — {sup:7}) I.)
+@n O, {i:om.} C — {sup:8}) II.] O, {i:om.} C — {sup:9}) Jumedi] C, Gum̃. O — {sup:10}) Scabin] O, Shabin C — {sup:11}) Ramadh.] Ratham
+@n C, Răgă O — {sup:12}) Scawel] Sawel C, Scaw’ O — {sup:13}) Dulkada] Dulreda C, Dulk’ O — {sup:14}) Dulheia] C, Dulh.
+@n O — {sup:15}) hora] O, horae C — {sup:16}) Heza] O, heca C — {sup:17}) Heza . . . . supradictum] {i:suprascr.} C : elmedte car-
+@n neli (?)
+@n {sup:a}) 7] C, 6 O — {sup:b}) 5] 0 C O — {sup:c}) 21] 25 C O — {sup:d}) 23] O, 24 C — {sup:e}) 14] C, 24 O — {sup:f}) 13] O,
+@n {i:corr. ex.} 14 N, 14 C — {sup:g}) 6] O N, 40 C — {sup:h}) 20] O N, 30 C — {sup:i}) 36] C, 32 O — {sup:k}) 8] C, 7 O — {sup:l}) 2] C,
+@n 1 O — {sup:m}) 3] C, 2 O — {sup:n}) 9] C, 8 O — {sup:o}) 4] C, 3 O — {sup:p}) 17] O N, 16 C — {sup:q}) 5] 2 C O — {sup:r}) 3] 4 C O —
+@n {sup:s}) 20] O N, 30 C — {sup:t}) 1] C, 50 O — {sup:u}) 58] O, 18 C — {sup:v}) 18] 58 C O — {sup:x}) 6] O N, 11 C — {sup:y}) 27] C,
+@n 28 O — {sup:z}) 35] C, 25 O {sup:α}) 23] O N, 24 C.
+@obs The page number «124» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 13», in bold sans serif, underlined. The titles (L01, L02), in bold, the sigla and the note number in roman: L01 that of C and O, L02 that of N; the folios of the manuscripts, «C 50r-v, O 106v» over «N 14v.», stand at the left of the titles, the letters raised; here as left margin notes, divided after «C 50r-v,» so that they keep within the page. The page has no signature.
+@obs The table: a thick and a thin rule above the head, a double rule below it; vertical rules divide the fifteen columns, double ones before and after the columns of the years and of the months; thin rules under the heads that span the four columns of signs, degrees, minutes and seconds, whose heads «Sig.», «Gr.», «Min.», «Sec.» are set in small bold type, only the first «Min.» and «Sec.» with note numbers. «Anni collecti» is printed turned through a quarter, reading upwards, in two lines, «Anni plani» and «Menses arabum» in two lines; here their words stand in L03 and L04. Each printed row is one line here, the cells separated by our «|»; a head followed by empty cells spans their columns. The collected years end with 570 (L25).
+@obs L06-L35, the right-hand block: the months fill the first twelve rows (L06-L17); below them a thick and a thin rule, a second head, «Dies et horae» and «Heza16) Martis supradictum17)» in two lines over the four columns, set between the rows 14 and 15 (here L19-L20), a double rule, and the anomaly of Mars in days and hours (L22-L33); the last two rows are empty.
+@obs L06-L35, the years and months. Checked against Brahmagupta's parameter, 2 296 828 522 revolutions of Mars in 1 577 916 450 000 days, a daily mean motion of 31′ 26″ 28‴ 7⁗, 5s 20° 50′ 47.2″ in 30 Arab years (10 631 days): from the radix 7s 0° 25′ 15″ (210° 25′ 15″) the collected years agree to within 1.6″ to 540 (with the editor's 5 and 21 of notes b and c, where C and O have 0 and 25, and the readings of notes d-f, h and i); the 30 single years, 354 days and 355 in the leap years 2, 5, 7, 10, 13, 16, 18, 21, 24, 26 and 29, agree to within 1.3″ (with the editor's 5, 3 and 18 of notes q, r and v, where C and O have 2, 4 and 58, and the readings of notes k-p, s-u); the months, 30, 59, … 354 days, agree to within 0.8″ (with the readings of notes z and α), the year of the months, 6s 5° 30′ 10″, being the single year 1. The radix is not recomputed here.
+@obs L25, the row 570, 7s 6° 39′ 11″: the minutes are 9 too large; 5s 20° 50′ 47″ added to the row 540, 1s 15° 39′ 24″, give 7s 6° 30′ 11″ (computed 7s 6° 30′ 11.8″); the 39 are the minutes of the row above. No note bears on them.
+@obs L22-L33, the anomaly («Heza») of Mars, the excess of the sun's mean motion over Mars's (p. 56, JP2 0088): 27′ 41.7″ a day with Brahmagupta's parameters. Checked: the days 1, 5, … 30 and 60 and the hours 1, 3, 6 and 12 agree with it to within 0.8″ (with the readings of notes x and y).
+@obs L04, «mensibue»; L14, «Ramadh11)»; N02, «7) I.)»; N11, no dash before «α)»: see the critical notes. N03: the long dash before note 11 is printed in two pieces (19 and 22 px); read as one. N03: «Gum̃.» with the tilde, N04: «Răgă» with two breves, «Scaw’», «Dulk’» with the apostrophe. N05: «C :», the colon after the thin space of the edition (8 px); «(?)» the editor's. N07: «b) 5] 0 C O», «c) 21] 25 C O», and in N09-N10 «q) 5] 2 C O», «r) 3] 4 C O», «v) 18] 58 C O»: the editor's readings against both manuscripts. N11: «α», the Greek letter in italics, after z. The ellipses «. . . .» of the lemmata as printed. Italics: «V. notas in tab. 8», «om.», «suprascr.», «corr. ex.».
+@critical AK07-CN098 | misprint | L04 | in mensibue | in mensibus | «in mensibus», as the heads «in collectis» and «in planis» beside it and «in mensibus» on p. 122 (JP2 0154); the final s is printed as e | high | none
+@critical AK07-CN099 | missing point | L14 | Ramadh{sup:11}) | Ramadh.{sup:11}) | the abbreviation has its point in the lemma of note 11, «Ramadh.]», and in the table of p. 122 (JP2 0154), «Ramadh.13)» | medium | none
+@critical AK07-CN100 | wrong bracket | N02 | {sup:7}) I.) | {sup:7}) I.] | the lemma of a note is closed by a square bracket, as «8) II.]» in the next line; after «I.» a round bracket is printed | high | none
+@critical AK07-CN101 | missing dash | N11 | 25 O {sup:α}) | 25 O — {sup:α}) | the notes of the apparatus are divided by a long dash; between z and α only a wide space is printed | medium | none

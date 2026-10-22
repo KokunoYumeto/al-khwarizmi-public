@@ -1,0 +1,4 @@
+@page 5 -
+@kind blank
+% Frame 005: a blank leaf before the text; nothing printed.
+@obs Blank. Faint offset of lines of type and of the stamp of the next page (frame 006) show on the leaf; a stain at the upper right.

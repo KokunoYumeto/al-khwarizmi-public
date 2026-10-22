@@ -1,0 +1,273 @@
+{
+ "anchor": "AK05-F152",
+ "frame": 152,
+ "frame_file": "page_152.jpg",
+ "frame_sha256": "0489be064bcc6a0f90efc1bcc28443ccc10940ac6a0ce677f10c2ae2fecdc561",
+ "printed_page": "١٤٦",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 152, printed p. 146: the marsh of the river of Balkh concluded; a river out of the river of Balkh, which cuts through a long mountain and passes Ushrūsana, Khujand, al-Muḥammadiyya and Kirmān to the sea, with the river سليمس that falls into it near al-Muḥammadiyya; a spring past the town of the merchants into the river of Balkh, and a river from a spring that falls into it. The editor's running numbers (٢٢٠٤)-(٢٢١٥) and the numbers of Suhrāb; the folio of the manuscript, «(fol. 44ᵇ)», within a line; words, letters and numerals supplied by the editor between angle brackets. Six lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F152-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "مصبّ ⟨نهر⟩{n:a} بلخ وعرض {ov:مب {z}} (٢٢٠٤) [١٠٣٢] ومن مصبّ نهر بلخ الى حدّها",
+   "margin": null,
+   "cells": null,
+   "plain": "مصبّ ⟨نهر⟩ بلخ وعرض مب ō (٢٢٠٤) [١٠٣٢] ومن مصبّ نهر بلخ الى حدّها",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F152-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "ممّا يلى خوارزم تدقّ{n:b} تلك الجهة وذٰلك انّ طولها ممّا يلى خوارزم {ov:ص {z}} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "ممّا يلى خوارزم تدقّ تلك الجهة وذٰلك انّ طولها ممّا يلى خوارزم ص ō والعرض",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F152-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "هناك {ov:ما {z}} (٢٢٠٥) * يخرج من نهر بلخ نهر اوّله عند طول {ov:صا ل} والعرض {ov:لط م}",
+   "margin": null,
+   "cells": null,
+   "plain": "هناك ما ō (٢٢٠٥) * يخرج من نهر بلخ نهر اوّله عند طول صا ل والعرض لط م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F152-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "(٢٢٠٦) [١٥٦٥] يمرّ فيقطع جبلاً طويلاً{n:c} ويمرّ فيما بين اسفل مدينة اشروسنة{n:d}",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٢٠٦) [١٥٦٥] يمرّ فيقطع جبلاً طويلاً ويمرّ فيما بين اسفل مدينة اشروسنة",
+   "note_marks": [
+    "c",
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F152-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "ومدينة خجندة{n:e} الى موضع طوله {ov:صب ل} والعرض {ov:لد م}{n:f} (٢٢٠٧) [١٥٦٦] ويمرّ بركن",
+   "margin": null,
+   "cells": null,
+   "plain": "ومدينة خجندة الى موضع طوله صب ل والعرض لد م (٢٢٠٧) [١٥٦٦] ويمرّ بركن",
+   "note_marks": [
+    "e",
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F152-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "مدينة المحمّديّة{n:g} ويمرّ بقرب ⟨مدينة⟩{n:h} كرمان ويصبّ فى البحر عند طول {ov:فز ل}{n:i} ⟨والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "مدينة المحمّديّة ويمرّ بقرب ⟨مدينة⟩ كرمان ويصبّ فى البحر عند طول فز ل ⟨والعرض",
+   "note_marks": [
+    "g",
+    "h",
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F152-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "{ov:كح م}⟩{n:k} (٢٢٠٨) [١٥٦٧] * يقع الى هٰذا النهر نهر ⟨سلي⟩{n:l}مس من جبل اوّله عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "كح م⟩ (٢٢٠٨) [١٥٦٧] * يقع الى هٰذا النهر نهر ⟨سلي⟩مس من جبل اوّله عند طول",
+   "note_marks": [
+    "k",
+    "l"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F152-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "{ov:فح {z}}{n:m} والعرض {ov:لو {z}}{n:n} (٢٢٠٩) [١٥٦٨] ويصبّ ⟨فى النهر⟩{n:o} ⟨بقرب",
+   "margin": "(fol. 44ᵇ)",
+   "cells": null,
+   "plain": "فح ō والعرض لو ō (٢٢٠٩) [١٥٦٨] ويصبّ ⟨فى النهر⟩ ⟨بقرب",
+   "note_marks": [
+    "m",
+    "n",
+    "o"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F152-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "المحمّد⟩{n:o}يّة عند طول {ov:فط م}{n:p} والعرض {ov:لب {z}} (٢٢١٠) [١٥٦٩] * عين تخرج من جبل",
+   "margin": null,
+   "cells": null,
+   "plain": "المحمّد⟩يّة عند طول فط م والعرض لب ō (٢٢١٠) [١٥٦٩] * عين تخرج من جبل",
+   "note_marks": [
+    "o",
+    "p"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F152-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "عند طول {ov:صط م}{n:q} والعرض {ov:لط {z}} (٢٢١١) [١٥٧٠] وتمرّ بقرب مدينة التجّار وتمرّ الى",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول صط م والعرض لط ō (٢٢١١) [١٥٧٠] وتمرّ بقرب مدينة التجّار وتمرّ الى",
+   "note_marks": [
+    "q"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F152-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "موضع طوله {ov:ق {z}} والعرض {ov:ما ل} (٢٢١٢) [١٥٧١] وتمرّ فتصبّ فى نهر بلخ عند طول",
+   "margin": null,
+   "cells": null,
+   "plain": "موضع طوله ق ō والعرض ما ل (٢٢١٢) [١٥٧١] وتمرّ فتصبّ فى نهر بلخ عند طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F152-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "{ov:صو م} والعرض {ov:مد ل} (٢٢١٣) [١٥٧٢] * ويقع الى هٰذه العين نهر من عين اوّلها",
+   "margin": null,
+   "cells": null,
+   "plain": "صو م والعرض مد ل (٢٢١٣) [١٥٧٢] * ويقع الى هٰذه العين نهر من عين اوّلها",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F152-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "عند طول {ov:ڡا م} والعرض {ov:لط ك} (٢٢١٤) [١٥٧٣] يمرّ مماسّاً لمدينة التجّار ويصبّ فى",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول ڡا م والعرض لط ك (٢٢١٤) [١٥٧٣] يمرّ مماسّاً لمدينة التجّار ويصبّ فى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F152-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "نهر العين عند طول {ov:ق {z}} والعرض {ov:ما ل} (٢٢١٥) [١٥٧٤] * ويقع الى هٰذه العين",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر العين عند طول ق ō والعرض ما ل (٢٢١٥) [١٥٧٤] * ويقع الى هٰذه العين",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "q"
+   ],
+   "lines": 6,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: the word between the brackets is missing in the manuscript (note a).",
+  "L02: the manuscript reads بدو (note b).",
+  "L04: the manuscript reads جبل طويل, without the endings of the accusative (note c).",
+  "L04: the manuscript reads اسروسنه, without the dots of the ش and with a final ه (note d).",
+  "L05: the manuscript reads خحنده, without the dot of the ج and with a final ه (note e).",
+  "L05: the manuscript has, by mistake, لر م for the latitude, with a line over the numerals; the editor corrects it from S (note f).",
+  "L06: the manuscript is badly damaged at the name (note g).",
+  "L06: the word between the brackets is missing in the manuscript (note h).",
+  "L06: the manuscript has, by mistake, قز ل for the longitude, with a line over the numerals (note i).",
+  "L07: the manuscript has a gap at the passage between the brackets, «والعرض كح م» (L06-L07); the editor supplies it from S (note k).",
+  "L07: the manuscript is damaged and indistinct at the letters between the brackets (note l).",
+  "L08: the manuscript has, by mistake, قح ō for the longitude, with a line over the numerals (note m).",
+  "L08: a variant reading of the latitude is لو م, with a line over the numerals (note n).",
+  "L08: the manuscript has gaps at the words between the two pairs of brackets, «فى النهر» (L08) and «بقرب المحمّد» (L08-L09); the editor supplies them (note o).",
+  "L09: the manuscript has, by mistake, قط م for the longitude, with a line over the numerals (note p).",
+  "L10: the manuscript has, by mistake, ڡط م for the longitude, the loop without dots, with a line over the numerals; the editor corrects it from S (note q)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The marsh of the river of Balkh goes on from p. 145 (frame 151), whose last words, «وهٰذه البطيحة من طول ڡو ل (٢٢٠٢) الى طول ص {z} (٢٢٠٣) والعرض فيما بين», L01-L03 continue: «مصبّ ⟨نهر⟩ بلخ وعرض مب {z} (٢٢٠٤) ومن مصبّ نهر بلخ الى حدّها ممّا يلى خوارزم تدقّ تلك الجهة وذٰلك انّ طولها ممّا يلى خوارزم ص {z} والعرض هناك ما {z} (٢٢٠٥) *», and the latitude between the mouth of ⟨the river⟩ of Balkh and the latitude 42° 0′; and from the mouth of the river of Balkh to its boundary on the side of Khwārizm, that side narrows, because its longitude on the side of Khwārizm is 90° 0′ and the latitude there 41° 0′.",
+  "L03-L07: «يخرج من نهر بلخ نهر اوّله عند طول صا ل والعرض لط م (٢٢٠٦) يمرّ فيقطع جبلاً طويلاً ويمرّ فيما بين اسفل مدينة اشروسنة ومدينة خجندة الى موضع طوله صب ل والعرض لد م (٢٢٠٧) ويمرّ بركن مدينة المحمّديّة ويمرّ بقرب ⟨مدينة⟩ كرمان ويصبّ فى البحر عند طول فز ل ⟨والعرض كح م⟩ (٢٢٠٨) *», out of the river of Balkh comes a river whose beginning is at the longitude 91° 30′ and the latitude 39° 40′; it passes and cuts through a long mountain, and passes between the lower part of the town Ushrūsana and the town Khujand to a place whose longitude is 92° 30′ and latitude 34° 40′; it passes the corner of the town al-Muḥammadiyya and passes near ⟨the town⟩ Kirmān, and flows into the sea at the longitude 87° 30′ ⟨and the latitude 28° 40′⟩.",
+  "L07-L09: «يقع الى هٰذا النهر نهر ⟨سلي⟩مس من جبل اوّله عند طول فح {z} والعرض لو {z} (٢٢٠٩) ويصبّ ⟨فى النهر⟩ ⟨بقرب المحمّد⟩يّة عند طول فط م والعرض لب {z} (٢٢١٠) *», into this river falls a river, ⟨سلي⟩مس, from a mountain; its beginning is at the longitude 88° 0′ and the latitude 36° 0′, and it flows ⟨into the river⟩ ⟨near al-Muḥammad⟩iyya at the longitude 89° 40′ and the latitude 32° 0′.",
+  "L09-L12: «عين تخرج من جبل عند طول صط م والعرض لط {z} (٢٢١١) وتمرّ بقرب مدينة التجّار وتمرّ الى موضع طوله ق {z} والعرض ما ل (٢٢١٢) وتمرّ فتصبّ فى نهر بلخ عند طول صو م والعرض مد ل (٢٢١٣) *», a spring comes out of a mountain at the longitude 99° 40′ and the latitude 39° 0′; it passes near the town of the merchants and passes to a place whose longitude is 100° 0′ and latitude 41° 30′, and passes and falls into the river of Balkh at the longitude 96° 40′ and the latitude 44° 30′.",
+  "L12-L14: «ويقع الى هٰذه العين نهر من عين اوّلها عند طول ڡا م والعرض لط ك (٢٢١٤) يمرّ مماسّاً لمدينة التجّار ويصبّ فى نهر العين عند طول ق {z} والعرض ما ل (٢٢١٥) *», and into this spring falls a river from a spring whose beginning is at the longitude ڡا م and the latitude 39° 20′; it passes touching the town of the merchants and flows into the river of the spring at the longitude 100° 0′ and the latitude 41° 30′, the place of point (2212). Then «ويقع الى هٰذه العين», and into this spring falls …, continued on p. 147.",
+  "The places: «خوارزم» (L02) is entry 467 of the table of the cities (frame 038, L09), at the longitude 91° 50′ and the latitude مٮ ى; «اشروسنة» (L04) and «خجندة» (L05) are entries 398 and 399 (frame 033, L14-L15), at the longitudes 91° 10′ and صٮ ل and the latitudes 36° 40′ and 37° 10′, where the editor's notes e and f give the forms of the manuscript at this entry (2207), اسروسنه and خحنده; «المحمّديّة» (L06) is entry 324 (frame 029, L02), at the longitude 90° 0′ and the latitude 31° 45′; «كرمان» (L06) is entry 173 (frame 020, L09), at the longitude 90° 0′ and the latitude 30° 0′; «مدينة التجّار» (L10, L13) is entry 404, «الطراز وهى مدينة التجار» (frame 034, L04), al-Ṭarāz, which is the town of the merchants, at the longitude 100° 30′ and the latitude 40° 24′.",
+  "Numerals: «مب {z}» (L01), with the dot of the ب, 42° 0′; «ص {z}» (L02), 90° 0′; «ما {z}» (L03), 41° 0′; «صا ل» (L03), 91° 30′; «لط م» (L03), 39° 40′; «صب ل» (L05), with the dot of the ب, 92° 30′; «لد م» (L05), 34° 40′; «فز ل» (L06), with the dots of the ف and of the ز, 87° 30′; «كح م» (L07), 28° 40′; «فح {z}» (L08), with the dot of the ف, 88° 0′; «لو {z}» (L08), with the round loop of the و, 36° 0′; «فط م» (L09), with the dot of the ف, 89° 40′; «لب {z}» (L09), with the dot of the ب, 32° 0′; «صط م» (L10), 99° 40′; «لط {z}» (L10), 39° 0′; «ق {z}» (L11, L14), with the two dots of the ق, 100° 0′; «ما ل» (L11, L14), 41° 30′; «صو م» (L12), 96° 40′; «مد ل» (L12), 44° 30′; «لط ك» (L13), 39° 20′.",
+  "«ڡا م» (L13): the loop of ف or ق without dots joined to an alif: read قا, 101° 40′, beside the beginning of the spring of L09-L10 at 99° 40′ and the town of the merchants at the longitude 100° 30′; read فا, 81.",
+  "«كح م» (L07) and «فح {z}» (L08): the ح shows no dot in the bowl; the same form is a ج without its dot, 3.",
+  "Angle brackets, each followed by a note mark, around what the editor supplies: «⟨نهر⟩» (L01), note a; «⟨مدينة⟩» (L06), note h; «⟨والعرض» (L06) to «كح م⟩» (L07), with the line over the numerals within the brackets, note k; «⟨سلي⟩» (L07), the first letters of the name, with «مس» after the closing bracket, note l; «⟨فى النهر⟩» (L08) and «⟨بقرب» (L08) to «المحمّد⟩» (L09), with «يّة» after the closing bracket, both with the mark o. Transcribed with the brackets.",
+  "L07: «⟨سلي⟩مس»: within the brackets a س, a ل and a medial ي with its two dots; after them «مس», the م joined to a final س.",
+  "L08: the folio of the Strasbourg manuscript, «(fol. 44ᵇ)», is printed in Latin type within the line, between the note mark o after «⟨فى النهر⟩» and «⟨بقرب»; transcribed as a margin note before the line.",
+  "Signs in the text, transcribed as printed: «مصبّ» (L01, twice) with a shadda over the ب; «حدّها» (L01) with a shadda over the د; «ممّا» (L02, twice) with a shadda over the م; «تدقّ» (L02) with a shadda over the ق; «وذٰلك» (L02) with a small alif over the ذ; «انّ» (L02) with a shadda over the ن; «اوّله» (L03, L07) and «اوّلها» (L12) with a shadda over the و; «يمرّ» (L04, L13) and «ويمرّ» (L04, L05, L06) with a shadda over the ر; «جبلاً» and «طويلاً» (L04) with the tanwin of the accusative over the alif; «المحمّديّة» (L06) and «المحمّد⟩يّة» (L09) with a shadda over the second م and another over the ي; «ويصبّ» (L06, L08, L13) and «فتصبّ» (L11) with a shadda over the ب; «هٰذا» (L07) and «هٰذه» (L12, L14) with a small alif over the ه; «وتمرّ» (L10, twice; L11) with a shadda over the ر; «التجّار» (L10, L13) with a shadda over the ج; «مماسّاً» (L13) with a shadda over the س and the tanwin of the accusative over the alif; «فى», «الى» and «يلى» end in a ى without dots.",
+  "The running numbers run (٢٢٠٤)-(٢٢١٥) without a gap. The numbers of Suhrāb: [١٠٣٢] after (٢٢٠٤); (٢٢٠٥) has none; [١٥٦٥]-[١٥٧٤] after (٢٢٠٦)-(٢٢١٥). (٢٢٠٦) [١٥٦٥] stands at the beginning of L04, after the coordinates at the end of L03.",
+  "Asterisks: the small open stars with six points, after (٢٢٠٥) (L03), [١٥٦٧] (L07), [١٥٦٩] (L09), [١٥٧٢] (L12) and [١٥٧٤] (L14), are transcribed as asterisks.",
+  "Note marks: L01, a after «⟨نهر⟩»; L02, b after «تدقّ»; L04, c after «طويلاً» and d after «اشروسنة»; L05, e after «خجندة» and f after the latitude; L06, g after «المحمّديّة», h after «⟨مدينة⟩» and i after the longitude; L07, k after the closing bracket and l after «⟨سلي⟩»; L08, m after the longitude, n after the latitude and o after «⟨فى النهر⟩»; L09, o after the closing bracket of «المحمّد⟩» and p after the longitude; L10, q after the longitude.",
+  "Marks not transcribed: L08, a round speck, 8 by 7 px, at the right of the loop of «فح», at the height of the loop, where no letter takes a dot; L14, a short horizontal stroke, 24 by 4 px, below the ع of «عند»; small specks of the impression.",
+  "The editor's footnotes stand in six lines below a short rule at the left: notes a-q; note o serves both brackets of L08-L09. The page number «— ١٤٦ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

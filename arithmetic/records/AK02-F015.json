@@ -1,0 +1,411 @@
+{
+ "anchor": "AK02-F015",
+ "frame": 15,
+ "frame_file": "page_015.jpg",
+ "frame_sha256": "2b8413e8f39aa60c8ee92e2430710054afad03c035e44560a8598f7a58f98cf0",
+ "printed_page": "9",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 015, printed p. 9: subtraction continued, borrowing from the place above; work from the highest place; the example 6422 less 3211, set out place by place, and its remainder 3211. One footnote.",
+ "lines": [
+  {
+   "id": "AK02-F015-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "uero nichil remanserit, pones ibi circulum ut supra. Si autem",
+   "margin": null,
+   "plain": "uero nichil remanserit, pones ibi circulum ut supra. Si autem",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "in secunda differentia a superiori nichil fuerit, accipe unum",
+   "margin": null,
+   "plain": "in secunda differentia a superiori nichil fuerit, accipe unum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "de tercia differentia, et erunt .{sc:x}. in secunda. Et rursum ex",
+   "margin": null,
+   "plain": "de tercia differentia, et erunt .x. in secunda. Et rursum ex",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "illis .{sc:x}. accipias unum, et fac de eo ut supra, et remanebunt",
+   "margin": null,
+   "plain": "illis .x. accipias unum, et fac de eo ut supra, et remanebunt",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "in secunda .{sc:ix}.; et incipe semper in augmentacione uel di-",
+   "margin": null,
+   "plain": "in secunda .ix.; et incipe semper in augmentacione uel di-",
+   "italic": [],
+   "small_caps": [
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "minutione ab altiori differentia: postea a sequenti que eam",
+   "margin": null,
+   "plain": "minutione ab altiori differentia: postea a sequenti que eam",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "succedit, quia utilius ac leuius erit opus, si Deus uoluerit.",
+   "margin": null,
+   "plain": "succedit, quia utilius ac leuius erit opus, si Deus uoluerit.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "Quod ut facilius intelligatur, necesse est ut hoc sub exemplo",
+   "margin": null,
+   "plain": "Quod ut facilius intelligatur, necesse est ut hoc sub exemplo",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "notemus, et hoc dicamus tribus modis, ne quis in eo aliquo",
+   "margin": null,
+   "plain": "notemus, et hoc dicamus tribus modis, ne quis in eo aliquo",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "modo turbetur. Constituamus ergo aliquem numerum, et di-",
+   "margin": null,
+   "plain": "modo turbetur. Constituamus ergo aliquem numerum, et di-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "camus, uerbi gratia. Ponamus sex milia quadrigentos uiginti",
+   "margin": null,
+   "plain": "camus, uerbi gratia. Ponamus sex milia quadrigentos uiginti",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "duo per differentias suas, et dicamus quod uolumus minuere",
+   "margin": null,
+   "plain": "duo per differentias suas, et dicamus quod uolumus minuere",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "de eis tria milia ducentos undecim : ponamus itaque in prima",
+   "margin": null,
+   "plain": "de eis tria milia ducentos undecim : ponamus itaque in prima",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "differentia que est in dextera, scilicet duo, et in secunda .{sc:xx}.",
+   "margin": null,
+   "plain": "differentia que est in dextera, scilicet duo, et in secunda .xx.",
+   "italic": [],
+   "small_caps": [
+    "xx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "In tercia quoque quadringentos, et in quarta sex milia : et po-",
+   "margin": null,
+   "plain": "In tercia quoque quadringentos, et in quarta sex milia : et po-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "namus etiam ipsum numerum quem uolumus minuere de eo",
+   "margin": null,
+   "plain": "namus etiam ipsum numerum quem uolumus minuere de eo",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "sub ipso per consimiles differentias ita.Ponamus scilicet unum",
+   "margin": null,
+   "plain": "sub ipso per consimiles differentias ita.Ponamus scilicet unum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "sub duobus in prima differentia, et .{sc:x}. sub .{sc:xx}. in secunda;",
+   "margin": null,
+   "plain": "sub duobus in prima differentia, et .x. sub .xx. in secunda;",
+   "italic": [],
+   "small_caps": [
+    "x",
+    "xx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "ducentos quoque sub quadringentis in tercia, et tria milia",
+   "margin": null,
+   "plain": "ducentos quoque sub quadringentis in tercia, et tria milia",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "sub {sc:vi}. milibus in quarta; et hec est eorum figura.",
+   "margin": null,
+   "plain": "sub vi. milibus in quarta; et hec est eorum figura.",
+   "italic": [],
+   "small_caps": [
+    "vi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L21",
+   "n": 21,
+   "kind": "indent",
+   "text": "Cumque uellemus minuere unum numerum de alio, mino-",
+   "margin": null,
+   "plain": "Cumque uellemus minuere unum numerum de alio, mino-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "rem scilicet de maiori, cepimus a superiori differentia, idest a",
+   "margin": null,
+   "plain": "rem scilicet de maiori, cepimus a superiori differentia, idest a",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "quarta. Minuimus itaque {sc:iii}. de {sc:vi}. , et remanserunt tria in",
+   "margin": null,
+   "plain": "quarta. Minuimus itaque iii. de vi. , et remanserunt tria in",
+   "italic": [],
+   "small_caps": [
+    "iii",
+    "vi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "quarta differentia. Minuimus quoque duo de {sc:iiii}{sup:or}, et reman-",
+   "margin": null,
+   "plain": "quarta differentia. Minuimus quoque duo de iiiior, et reman-",
+   "italic": [],
+   "small_caps": [
+    "iiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "serunt in tercia differentia duo. Minuimus etiam unum de",
+   "margin": null,
+   "plain": "serunt in tercia differentia duo. Minuimus etiam unum de",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "{sc:ii}.{sup:obus}, et remansit unum in secunda differentia : et similiter",
+   "margin": null,
+   "plain": "ii.obus, et remansit unum in secunda differentia : et similiter",
+   "italic": [],
+   "small_caps": [
+    "ii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "remansit in prima differentia unum, cum minuerimus de duo-",
+   "margin": null,
+   "plain": "remansit in prima differentia unum, cum minuerimus de duo-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "bus, que erant super eum, unum; et hec | remanencium figura",
+   "margin": "car. 105 {i:recto}.",
+   "plain": "bus, que erant super eum, unum; et hec | remanencium figura",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "est . . . . (1). Rursum ponamus alium numerum alio modo ad",
+   "margin": null,
+   "plain": "est . . . . (1). Rursum ponamus alium numerum alio modo ad",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "placitum, de quo nichil remaneat in differentiis suis. Sitque",
+   "margin": null,
+   "plain": "placitum, de quo nichil remaneat in differentiis suis. Sitque",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "(1) La lacuna indicata con quattro punti nella linea 29 della presente pa-",
+   "margin": null,
+   "plain": "(1) La lacuna indicata con quattro punti nella linea 29 della presente pa-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "gina trovasi anche nel sopraccitato Codice {i:Ii}. 6. 5. (carta 105 {i:recto} , linea",
+   "margin": null,
+   "plain": "gina trovasi anche nel sopraccitato Codice Ii. 6. 5. (carta 105 recto , linea",
+   "italic": [
+    "Ii",
+    "recto"
+   ],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F015-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "prima).",
+   "margin": null,
+   "plain": "prima).",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 9 )» stands at the head of the page, centred. The page has no signature.",
+  "L11-L20: the example is six thousand four hundred and twenty-two («sex milia quadrigentos uiginti duo») less three thousand two hundred and eleven («tria milia ducentos undecim»), set out place by place; L20 ends «et hec est eorum figura.», and this is their figure, without the figure, and without the four points with which the edition marks such a gap in L29 and on the earlier pages. L21-L29: the subtraction place by place, from the fourth place, with the remainder three thousand two hundred and eleven, whose figure is again missing (the four points of L29 and the footnote: the gap is in the manuscript, fol. 105 recto, line 1).",
+  "L11: «quadrigentos», without the n, where L15 has «quadringentos» and L19 «quadringentis»; transcribed as printed.",
+  "Numerals: L20 «vi.», L23 «iii.» and «vi.», in small capitals without the opening point; L24 «iiiior», with «or» raised, quatuor, and L26 «ii.obus», with «obus» raised, duobus. L28: the vertical bar between «hec» and «remanencium» marks the beginning of fol. 105 recto of the manuscript, which the note in the right margin, «car. 105 recto.», names; transcribed as a margin note. L29: the four points of the gap are spaced apart, «. . . .».",
+  "Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): L13 «undecim : ponamus» (21 px before the colon), L15 «milia : et» (10 px) and L26 «differentia : et» (10 px), with a space before the colon; L23 «.vi. ,» (23 px before the comma); L17 «ita.Ponamus», without a space after the point (8 px, the median word space of the line 16 px). L05 «.ix.;»: the semicolon follows the point closely."
+ ],
+ "copy_matter": [
+  "A reader's notes in pencil: an erased note to the left of the page number, illegible; L01, a stroke between «ibi» and «circulum»; «quod» in the right margin beside L05, and faint erased figures and words in the margin beside L03-L08; L06, a stroke over «io» of «altiori»; «quadringentos» in the right margin beside L11, with «r» of «quadrigentos» underlined; L14, «, scilicet» struck through, with «dextera» underlined and «dextris» in the right margin; L15, a light mark below the colon of «milia :»; L19, a light dot at mid-height between «ducentos» and «quoque» (darkest pixel 115, where a printed point is 17); L20, a stroke through the «l» of «milibus»; L22, a curve before «cepimus»; faint marks in the right margin beside L22. Not part of the edition."
+ ],
+ "critical_notes": []
+}

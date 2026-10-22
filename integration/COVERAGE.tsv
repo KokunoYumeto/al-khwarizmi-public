@@ -1,0 +1,51 @@
+session	source	owned_units	ledger	expected	disposed	missing	repeated	abuts_previous	state
+AK-A01	ALGEBRA	frames001-035	algebra/physical_unit_disposition.tsv	35	35	-	-	yes	exact
+AK-A02	ALGEBRA	frames036-070	algebra/physical_unit_disposition.tsv	35	35	-	-	yes	exact
+AK-A03	ALGEBRA	frames071-105	algebra/physical_unit_disposition.tsv	35	35	-	-	yes	exact
+AK-A04	ALGEBRA	frames106-130	algebra/physical_unit_disposition.tsv	25	25	-	-	yes	exact
+ALGEBRA (all)	ALGEBRA	1-130	algebra/physical_unit_disposition.tsv	130	130	-	-	-	exact
+AK-G01	GEOGRAPHY	frames001-045	geography/physical_unit_disposition.tsv	45	45	-	-	yes	exact
+AK-G02	GEOGRAPHY	frames046-090	geography/physical_unit_disposition.tsv	45	45	-	-	yes	exact
+AK-G03	GEOGRAPHY	frames091-135	geography/physical_unit_disposition.tsv	45	45	-	-	yes	exact
+AK-G04	GEOGRAPHY	frames136-181	geography/physical_unit_disposition.tsv	46	46	-	-	yes	exact
+AK-G05	GEOGRAPHY	frames182-218	geography/physical_unit_disposition.tsv	37	37	-	-	yes	exact
+GEOGRAPHY (all)	GEOGRAPHY	1-218	geography/physical_unit_disposition.tsv	218	218	-	-	-	exact
+AK-N01	ARITHMETIC	frames001-030	arithmetic/physical_unit_disposition.tsv	30	30	-	-	yes	exact
+ARITHMETIC (all)	ARITHMETIC	1-30	arithmetic/physical_unit_disposition.tsv	30	30	-	-	-	exact
+AK-Z01	ZIJ	JP2_0000-0036	zij/physical_unit_disposition.tsv	37	37	-	-	yes	exact
+AK-Z02	ZIJ	JP2_0037-0073	zij/physical_unit_disposition.tsv	37	37	-	-	yes	exact
+AK-Z03	ZIJ	JP2_0074-0110	zij/physical_unit_disposition.tsv	37	37	-	-	yes	exact
+AK-Z04	ZIJ	JP2_0111-0147	zij/physical_unit_disposition.tsv	37	37	-	-	yes	exact
+AK-Z05	ZIJ	JP2_0148-0184	zij/physical_unit_disposition.tsv	37	37	-	-	yes	exact
+AK-Z06	ZIJ	JP2_0185-0221	zij/physical_unit_disposition.tsv	37	37	-	-	yes	exact
+AK-Z07	ZIJ	JP2_0222-0258	zij/physical_unit_disposition.tsv	37	37	-	-	yes	exact
+AK-Z08	ZIJ	JP2_0259-0295	zij/physical_unit_disposition.tsv	37	37	-	-	yes	exact
+ZIJ (all)	ZIJ	0-295	zij/physical_unit_disposition.tsv	296	296	-	-	-	exact
+AK-P01	PRACTICAL	PDF001-034	practical/P01, practical/P02	34	34	-	-	yes	exact
+AK-P02	PRACTICAL	PDF035-098	practical/P01, practical/P02	64	64	-	-	yes	exact
+PRACTICAL (all)	PRACTICAL	1-98	practical/P01, practical/P02	98	98	-	-	-	exact
+AK-C01	CALENDAR	PDF001-010	calendar/physical_unit_disposition.tsv	10	10	-	-	yes	exact
+CALENDAR (all)	CALENDAR	1-10	calendar/physical_unit_disposition.tsv	10	10	-	-	-	exact
+AK-C01 exclusion	CALENDAR	PDF011-PDF320	calendar/physical_unit_disposition.tsv	310	range row	-	-	-	excluded, visible
+AK-P01 additional	PRACTICAL	PAL-A4830	practical/P01	1	1	-	-	-	evidence unit outside the numbered range: disposed
+AK-P02 additional	PRACTICAL	51:PDF01	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF02	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF03	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF04	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF05	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF06	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF07	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF08	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF09	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF10	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF11	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF12	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF13	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF14	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF15	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF16	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF17	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF18	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF19	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:PDF20	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: disposed (read, not reproduced)
+AK-P02 additional	PRACTICAL	51:missing	practical/P02	1	1	-	-	-	evidence unit outside the numbered range: gap; covered by the Turkish version

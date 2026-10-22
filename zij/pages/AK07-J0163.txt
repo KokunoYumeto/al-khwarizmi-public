@@ -1,0 +1,56 @@
+@page 163 131
+@lang la
+% JP2 0163: Tab. 20, p. 131: the mean motion of the node in 1-30 days, in 1-24 hours and in 2-60 minutes of an hour,
+% the last in signs, degrees, minutes, seconds and thirds, with the apparatus (notes 1-7 and a-l).
+@c {b:Elwazat elgavzehar} (O)
+@m C 52{sup:v}—53{sup:r}, O 110{sup:r},
+@c {b:Eliavzehar} (C)
+@m N 24{sup:r}.
+@c {b:Medius cursus draconis} (N)
+@tw size=footnotesize span=1.12 1.2 0.75 0.75 0.85 0.85 1.2 0.75 0.75 0.85 0.85 1.25 0.75 0.75 0.8 0.8 0.95
+@t Numerus | Medius cursus draconis | | | | Numerus | Medius cursus draconis | | | | Partes{sup:3}) | Medius cursus draconis | | | |
+@t dierum | in diebus{sup:1}) | | | | horarum | in horis{sup:2}) | | | | horarum | in partibus horarum{sup:4}) | | | |
+@t | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:5}) | {b:Sec.}{sup:6}) | | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.} | | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Sec.} | {b:Tert.}{sup:7})
+@t 1 | 0 | 0 | 3 | 11 | 1 | 0 | 0 | 0 | 8 | 2 | 0 | 0 | 0 | 0 | 16
+@t 2 | 0 | 0 | 6 | 22 | 2 | 0 | 0 | 0 | 16 | 4 | 0 | 0 | 0 | 0 | 32{sup:h})
+@t 3 | 0 | 0 | 9 | 32{sup:c}) | 3 | 0 | 0 | 0 | 24{sup:e}) | 6 | 0 | 0 | 0 | 0 | 48
+@t 4 | 0 | 0 | 12 | 43 | 4 | 0 | 0 | 0 | 32 | 8 | 0 | 0 | 0 | 1 | 4
+@t 5 | 0 | 0 | 15 | 54 | 5 | 0 | 0 | 0 | 40 | 10 | 0 | 0 | 0 | 1 | 19
+@t 6 | 0 | 0 | 19 | 5 | 6 | 0 | 0 | 0 | 48 | 12 | 0 | 0 | 0 | 1 | 35
+@t 7 | 0 | 0 | 22 | 16 | 7 | 0 | 0 | 0 | 56 | 14 | 0 | 0 | 0 | 1 | 51
+@t 8 | 0 | 0 | 25 | 26 | 8 | 0 | 0 | 1 | 4 | 16 | 0 | 0 | 0 | 2 | 7{sup:i})
+@t 9 | 0 | 0 | 28{sup:a}) | 37 | 9 | 0 | 0 | 1 | 12 | 18 | 0 | 0 | 0 | 2 | 23
+@t 10 | 0 | 0 | 31{sup:b}) | 48 | 10 | 0 | 0 | 1 | 19 | 20 | 0 | 0 | 0 | 2 | 39
+@t 11 | 0 | 0 | 34 | 59 | 11 | 0 | 0 | 1 | 27{sup:f}) | 22 | 0 | 0 | 0 | 2 | 55
+@t 12 | 0 | 0 | 38 | 10 | 12 | 0 | 0 | 1 | 35 | 24 | 0 | 0 | 0 | 3 | 11
+@t 13 | 0 | 0 | 41 | 21 | 13 | 0 | 0 | 1 | 43 | 26 | 0 | 0 | 0 | 3 | 27
+@t 14 | 0 | 0 | 44 | 31 | 14 | 0 | 0 | 1 | 51 | 28 | 0 | 0 | 0 | 3 | 43{sup:k})
+@t 15 | 0 | 0 | 47 | 42 | 15 | 0 | 0 | 1 | 59 | 30 | 0 | 0 | 0 | 3 | 58
+@t 16 | 0 | 0 | 50 | 53 | 16 | 0 | 0 | 2 | 7 | 32 | 0 | 0 | 0 | 4 | 14
+@t 17 | 0 | 0 | 54 | 4 | 17 | 0 | 0 | 2 | 15 | 34 | 0 | 0 | 0 | 4 | 30
+@t 18 | 0 | 0 | 57 | 15 | 18 | 0 | 0 | 2 | 23{sup:g}) | 36 | 0 | 0 | 0 | 4 | 46
+@t 19 | 0 | 1 | 0 | 25 | 19 | 0 | 0 | 2 | 31 | 38 | 0 | 0 | 0 | 5 | 2
+@t 20 | 0 | 1 | 3 | 36 | 20 | 0 | 0 | 2 | 39 | 40 | 0 | 0 | 0 | 5 | 18
+@t 21 | 0 | 1 | 6 | 47 | 21 | 0 | 0 | 2 | 47 | 42 | 0 | 0 | 0 | 5 | 34
+@t 22 | 0 | 1 | 9 | 58{sup:d}) | 22 | 0 | 0 | 2 | 55 | 44 | 0 | 0 | 0 | 5 | 50{sup:l})
+@t 23 | 0 | 1 | 13 | 9 | 23 | 0 | 0 | 3 | 3 | 46 | 0 | 0 | 0 | 6 | 6
+@t 24 | 0 | 1 | 16 | 19 | 24 | 0 | 0 | 3 | 11 | 48 | 0 | 0 | 0 | 6 | 22
+@t 25 | 0 | 1 | 19 | 30 | | | | | | 50 | 0 | 0 | 0 | 6 | 38
+@t 26 | 0 | 1 | 22 | 41 | | | | | | 52 | 0 | 0 | 0 | 6 | 54
+@t 27 | 0 | 1 | 25 | 52 | | | | | | 54 | 0 | 0 | 0 | 7 | 10
+@t 28 | 0 | 1 | 29 | 3 | | | | | | 56 | 0 | 0 | 0 | 7 | 26
+@t 29 | 0 | 1 | 32 | 14 | | | | | | 58 | 0 | 0 | 0 | 7 | 42
+@t 30 | 0 | 1 | 35 | 24 | | | | | | 60 | 0 | 0 | 0 | 7 | 58
+@n {sup:1}) Medius . . . . diebus] O, mediocritas draconis in dies C, Dies N — {sup:2}) Medius . . . . horis] O, medio-
+@n critas draconis in horas C, horae N — {sup:3}) Partes] O, dakaicae C, minuta N — {sup:4}) Medius . . . . horarum] O,
+@n mediocritas draconis in dakaicas horarum C, minuta horarum N — {sup:5}) et {sup:6}) {i:V. notas in tab. 8.} — {sup:7}) CO
+@n Bj. {i:non habent quintam columnam, sed numeros hujus col. tn quartam, numerosque quartae col. in tertiam}
+@n {i:ponunt ; om.} N {i:tertias quintae columnae.}
+@n {sup:a}) 28] ON, 27 C — {sup:b}) 31] C, 21 O — {sup:c}) 32] ON, 22 C — {sup:d}) 58] ON, 48 C — {sup:e}) 24] ON, 23 C —
+@n {sup:f}) 27] C, 28 O — {sup:g}) 23] C, 33 O — {sup:h}) 32] O, 31 C — {sup:i}) 7] C, 50 O — {sup:k}) 43] 34 C, 33 O — {sup:l}) 50] O, 1 C.
+@obs The page number «131» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 20», in bold sans serif, underlined. The three titles (L01-L03), in bold, the sigla in roman: L01 that of O, L02 that of C, L03 that of N; the folios of the manuscripts, «C 52v—53r, O 110r,» over «N 24r.», stand at the right of L02 and L03, the letters raised; here as margin notes. At the foot, the signature «17*» on the right.
+@obs The table: a thick and a thin rule above the head, a double rule below it; vertical rules divide the sixteen columns, double ones before and after each column of arguments; thin rules under the heads that span the columns of signs, degrees, minutes, seconds and, in the third part, thirds, whose heads «Sig.», «Gr.», «Min.», «Sec.», «Tert.» are set in small bold type, only the first «Min.» and «Sec.» and «Tert.» with note numbers. «Numerus dierum», «Numerus horarum» and «Partes3) horarum» are printed turned through a quarter, reading upwards, in two lines; here their words stand in L04 and L05. Each printed row is one line here, the cells separated by our «|»; a head followed by empty cells spans their columns. The hours end with 24 (L30).
+@obs L07-L36. Checked against the daily motion of the node of Tab. 19 (p. 130, JP2 0162), 3′ 10″ 48‴ 20⁗ with Brahmagupta's parameter (3′ 10″ 48‴ 23⁗ in the years of Tab. 19, a difference that does not show here): the 30 days agree with n × 3′ 10.81″ to within 0.7″ (with the readings of notes a-d), the 24 hours with n × 7.95″ to within 0.5″ (with the readings of notes e-g). The «partes horarum», the sixtieths of an hour, are given to the thirds, 7.95‴ to the part: the values step by 16‴ for 2 parts, by 15‴ only from 8 to 10 and from 28 to 30 parts, and agree with the computation to within 1‴, the values from 54 to 60 parts 1‴ too large, 60 parts 7″ 58‴ against 7″ 57‴ (with the readings of notes h-l; the editor's 43 of note k, against 34 of C and 33 of O, is required, 3″ 42.6‴). The 30 days, 1° 35′ 24″, are the month Elmuharram of Tab. 19 (1° 35′ 24″), the 24 hours, 3′ 11″, one day.
+@obs N03-N05: note 7 on the head «Tert.»: C, O and Björnbo's copy have no fifth column but set its numbers in the fourth and those of the fourth in the third; N omits the thirds of the fifth column. The remark is in italics, the sigla «CO», «Bj.» and «N» in roman. N04: «tn quartam»; see the critical note. N05: «ponunt ;», the semicolon after the thin space of the edition. The ellipses «. . . .» of the lemmata as printed. N07: «k) 43] 34 C, 33 O», the editor's reading against both.
+@obs L28, the 44 parts, «5 | 50l)»: the letter of note l faintly printed, its form barely visible between the 0 and the bracket; read as l, the note «l) 50] O, 1 C».
+@critical AK07-CN109 | wrong sort | N04 | {i:tn quartam} | {i:in quartam} | the preposition «in», as «in tertiam» later in the same line; an italic t, with its bar and its ascender (28 px), is printed for the i | high | none

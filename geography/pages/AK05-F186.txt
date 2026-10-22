@@ -1,0 +1,7 @@
+@page 186 XXVII
+@kind editorial
+% Frame 186, printed p. XXVII: the editor's introduction continued, in German.
+@withheld the editor's introduction, p. XXVII, in German: 21 printed lines, with letters and running numbers in Arabic type, in sections headed by the letter they treat
+@obs Topics of the page, with the entries and notes that it cites (the introduction is read for understanding and not reproduced or paraphrased): ل, م, ن (ں) and س, with (١٢), (١٠٤٣), (١٠٦٨), (١٢٧٨), (١٣٩٠), (١١٢), (١١٧٧), (٣٢٠), (١٤٤٢), (٨٧٦), (١٠٢٠), (١٣١٥), (٢٢٤٩), (١٧٢٠), (٢٢٤٠) and (١١٥٦) (frames 010, 016, 028, 066, 074, 076, 077, 082, 083, 089, 092, 096, 100, 120, 154).
+@obs The introduction, pp. V-XXXI, is bound in the reverse order of its pages, from p. XXXI (frame 182) to p. V (frame 208); the frames keep the physical order, and the introduction is read from frame 208 back to frame 182. This page follows p. XXVI (frame 187); p. XXVIII follows on frame 185.
+@obs The page number «— XXVII —» stands at the foot, centred.

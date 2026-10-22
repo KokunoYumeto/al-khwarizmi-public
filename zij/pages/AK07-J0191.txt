@@ -1,0 +1,61 @@
+@page 191 159
+@lang la
+% JP2 0191: Tab. 48, p. 159: the equations of Venus, with its corrected apogee, first station and latitude, for the
+% arguments 3s 1° to 4s 0° (and 8s 29° to 8s 0°), with the apparatus (notes 1-5 and a-l).
+@c {b:Coaequatio Veneris} (N)
+@c {b:Tadil} (O
+@c {b:Examinatio Veneris} (C)
+@m C 66{sup:v}, O 124{sup:r},
+@c {b:Locus vero{sup:1}) draconis eius 1. 29. 27} (CN)
+@tw size=footnotesize span=1.14 0.85 0.85 0.85 0.85 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.75
+@m N 31{sup:r}.
+@t Pagina numerorum (O) |  |  |  | Sublimatio |  |  | Exami- |  | Exami- |  | Statio prima |  |  | Latitudo Veneris |  |  |  |
+@t Semita numeri (C) |  |  |  | ascensus{sup:2}) |  |  | natio |  | natio |  | Veneris |  |  | descendentis{sup:5}) |  |  |  |
+@t Augmentum |  | Diminutio |  | Veneris |  |  | ipsius |  | centri |  |  |  |  | {b:prima} |  | {b:secunda} |  |
+@t proprietatum |  | proprietatum |  | examinata{sup:3}) |  |  | elheza{sup:4}) |  |  |  |  |  |  |  |  |  |  |
+@t omnium |  | omnium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 3 | 1 | 8 | 29 | 2 | 2 | 56 | 36 | 39 | 2 | 13 | 5 | 17{sup:e}) | 12 | 1 | 40 | 4 | 59 | 57
+@t 3 | 2 | 8 | 28 | 2 | 2 | 45 | 37 | 0 | 2 | 13 | 5 | 17{sup:e}) | 13 | 1 | 40 | 4 | 59 | 49
+@t 3 | 3 | 8 | 27 | 2 | 2 | 35 | 37 | 20 | 2 | 13 | 5 | 17{sup:f}) | 14{sup:k}) | 1 | 39 | 4 | 59 | 35
+@t 3 | 4 | 8 | 26 | 2 | 2 | 25 | 37 | 40 | 2 | 12 | 5 | 17 | 15 | 1 | 38 | 4 | 59 | 16
+@t 3 | 5 | 8 | 25 | 2 | 2 | 15 | 38 | 0 | 2 | 12 | 5 | 17 | 16 | 1 | 37 | 4 | 58 | 51
+@t 3 | 6 | 8 | 24 | 2 | 2 | 5 | 38 | 20 | 2 | 12 | 5 | 17 | 17 | 1 | 36 | 4 | 58 | 21
+@t 3 | 7 | 8 | 23 | 2 | 1 | 55 | 38 | 40 | 2 | 11 | 5 | 17 | 18 | 1 | 35 | 4 | 57 | 46
+@t 3 | 8 | 8 | 22 | 2 | 1 | 45{sup:b}) | 38 | 59 | 2 | 11 | 5 | 17 | 19 | 1 | 34 | 4 | 57 | 5
+@t 3 | 9 | 8 | 21 | 2 | 1 | 36 | 39 | 18 | 2 | 11 | 5 | 17 | 20 | 1 | 34 | 4 | 56 | 18
+@t 3 | 10 | 8 | 20 | 2 | 1 | 27 | 39 | 37 | 2 | 10 | 5 | 17 | 21 | 1 | 33 | 4 | 55 | 26
+@t 3 | 11 | 8 | 19 | 2 | 1 | 17 | 39 | 56 | 2 | 10 | 5 | 17 | 22 | 1 | 32 | 4 | 54 | 29
+@t 3 | 12 | 8 | 18 | 2 | 1 | 8 | 40 | 15 | 2 | 10 | 5 | 17{sup:f}) | 23 | 1 | 31 | 4 | 53 | 27
+@t 3 | 13 | 8 | 17 | 2 | 0 | 59 | 40 | 33 | 2 | 9 | 5 | 17{sup:g}) | 25 | 1 | 30 | 4 | 52 | 19
+@t 3 | 14 | 8 | 16 | 2 | 0 | 50 | 40 | 51 | 2 | 9 | 5 | 17{sup:g}) | 26 | 1 | 29 | 4 | 51 | 5
+@t 3 | 15 | 8 | 15 | 2 | 0 | 41 | 41 | 10 | 2 | 9 | 5 | 17{sup:h}) | 27 | 1 | 28 | 4 | 49 | 46
+@t 3 | 16 | 8 | 14 | 2 | 0 | 32 | 41 | 27 | 2 | 8 | 5 | 17 | 28 | 1 | 27 | 4 | 48 | 23
+@t 3 | 17 | 8 | 13 | 2 | 0 | 23 | 41 | 45 | 2 | 8 | 5 | 17 | 29 | 1 | 26 | 4 | 46 | 53
+@t 3 | 18 | 8 | 12 | 2 | 0 | 14{sup:c}) | 42 | 3 | 2 | 7 | 5 | 17 | 30 | 1 | 25 | 4 | 45 | 19
+@t 3 | 19 | 8 | 11 | 2 | 0 | 5 | 42 | 20 | 2 | 6 | 5 | 17 | 32 | 1 | 24 | 4 | 43 | 39
+@t 3 | 20 | 8 | 10 | 1 | 29 | 57 | 42 | 37 | 2 | 5 | 5 | 17 | 33 | 1 | 23 | 4 | 41 | 54
+@t 3 | 21 | 8 | 9 | 1 | 29 | 49 | 42 | 53 | 2 | 4 | 5 | 17 | 34 | 1 | 22 | 4 | 40 | 4
+@t 3 | 22 | 8 | 8 | 1 | 29 | 41 | 43 | 9 | 2 | 3 | 5 | 17 | 36 | 1 | 21 | 4 | 38 | 9
+@t 3 | 23 | 8 | 7 | 1 | 29 | 33 | 43 | 25 | 2 | 2 | 5 | 17 | 37 | 1 | 20 | 4 | 36 | 9
+@t 3 | 24 | 8 | 6 | 1 | 29 | 25 | 43 | 41 | 2 | 1 | 5 | 17 | 38 | 1 | 19 | 4 | 34 | 4
+@t 3 | 25 | 8 | 5 | 1 | 29 | 17 | 43 | 56 | 2 | 0 | 5 | 17 | 40 | 1 | 18 | 4 | 31 | 53
+@t 3 | 26 | 8 | 4 | 1 | 29 | 10 | 44 | 11 | 1 | 59 | 5 | 17 | 41 | 1 | 17 | 4 | 29 | 38
+@t 3 | 27 | 8 | 3 | 1 | 29 | 2 | 44 | 26 | 1 | 58 | 5 | 17 | 42 | 1 | 16 | 4 | 27{sup:l}) | 18
+@t 3 | 28 | 8 | 2 | 1 | 28 | 55{sup:d}) | 44 | 40 | 1 | 57 | 5 | 17{sup:h}) | 43 | 1 | 15 | 4 | 24 | 53
+@t 3 | 29 | 8 | 1 | 1 | 28 | 48 | 44 | 54 | 1 | 56 | 5 | 17{sup:i}) | 45 | 1 | 14 | 4 | 22 | 23
+@t 4{sup:a}) | 0 | 8 | 0 | 1 | 28 | 41 | 45 | 8 | 1 | 55 | 5 | 17{sup:i}) | 46 | 1 | 13 | 4 | 19 | 48
+@n {sup:1}) vero] C, autem N — {sup:2}) ascensus] O, {i:om.} C — {sup:3}) examinata] O, definita C — {sup:4}) ipsius elheza]
+@n O, argumenti C — {sup:5}) Veneris descendentis] O, recessus Veneris C.
+@n {sup:a}) 4] N, 3 CO — {sup:b}) 45] C, 46 ON — {sup:c}) 14] ON, 13 C — {sup:d}) 55] O, 35 C — {sup:e}) 17] C, 27 O —
+@n {sup:f})—{sup:f}) 17] 27 O, {i:om.} C — {sup:g}) 17] C, 27 O — {sup:h})—{sup:h}) 17] 27 O, {i:om.} C. — {sup:i}) 17] C, 27 O — {sup:k}) 14] ON, 13
+@n C — {sup:l}) 27] ON, 28 C.
+@obs The page number «159» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 48», in bold sans serif, underlined. The page has no signature. The titles (L01-L04), in bold, the sigla in roman; L04, «Locus vero1) draconis eius 1. 29. 27», in smaller bold type, followed by «(CN)», the c of «Locus» printed only in part, as on p. 157 (JP2 0189). The folios of the manuscripts stand at the right of L04 and below it, «C 66v, O 124r,» and «N 31r.», the letters raised; here as right margin notes.
+@obs The table: rules and heads as on p. 158 (JP2 0190), with «Sublimatio ascensus2) Veneris examinata3)», «Examinatio ipsius elheza4)», «Examinatio centri», «Statio prima Veneris» and «Latitudo Veneris descendentis5)» over «prima» and «secunda». Here each head is set from the top, one printed line to a line (L05-L09), the cells separated by our «|»; a head followed by empty cells spans their columns. L10, the units, in bold.
+@obs L11-L40. Checked as on p. 156 (JP2 0188): the Sublimatio is 2s 21° 15′ less half the Examinatio argumenti in every row, a half minute counted as a whole, except at 98° and 105°. At 98° (L18) the edition prints C's 2s 1° 45′ (note b) for 2s 1° 45½′, where O and N have 46. At 105° (L25), 2s 0° 41′ answers to an Examinatio argumenti of 41° 8′ or 41° 9′, where the table has 41° 10′; that value is itself out of line, its steps from 104° and to 106°, 19′ and 17′, standing against 18′ on either side, and its excess over the epicycle of p. 156, 2.6′, is 0.9′ more than at 104° and 106°. No note of the apparatus bears on it.
+@obs L11-L40. The Latitudo secunda is 5° · sin x to within 0.7″ in every row, and its value for 90° + y is that for 90° − y on p. 158 (JP2 0190) in every row except at 105° (L25): 4° 49′ 46″ against the 4° 49′ 47″ of 75° (4° 49′ 46.7″ computed), here Saturn's value (p. 141, JP2 0173). The Examinatio argumenti answers to an epicycle radius between 43.99 and 44.08 in every row; against the epicycle of radius 43.95 of p. 156 (JP2 0188) it is 1.7′ to 6.3′ larger (120°: 45° 8′ for 45° 1.7′), and it rises by 21′ to 14′ a degree; the greatest equation of an epicycle of radius 44.0 to 44.1, 47° 10′ to 47° 18′, falls at about 137°.
+@obs L11-L40, the other columns: the Examinatio centri for 90° + y is that for 90° − y on pp. 157-158 (JP2 0189-0190) in every row except at 120° (L40), 1° 55′ against the 1° 56′ of 60°; 2° 14′ · sin 60° = 1° 56.0′. The Statio prima increases from 5s 17° 12′ to 5s 17° 46′ by 1′ or 2′ a degree. The Latitudo prima decreases from 1° 40′ at 91° and 92° by 1′ a degree, with equal values at 98° and 99°, to 1° 13′ at 120°.
+@obs Notes on the readings. Note a: the last argument, 4s 0°, is N's; C and O have 3. Notes e-i: the degrees 17 of the Statio prima are C's at 91°, 92°, 103°, 104°, 119° and 120° (notes e, g, i), where O has 27; from 93° to 102° and from 105° to 118° (notes f-f and h-h) O has 27 and C leaves them out, and the apparatus reports no manuscript for the 17 of the edition, which continues the 5s 17° 11′ of 90° (p. 158). Checked: the Sublimatio 2s 0° 14′ at 108° (note c, O and N, against C's 13) and 1s 28° 55′ at 118° (note d, O, against C's 35) agree with the rule, 2s 0° 13½′ and 1s 28° 55′; the Statio prima 5s 17° 14′ at 93° (note k, O and N, against C's 13) with the steps of the column; the Latitudo secunda 4° 27′ 18″ at 117° (note l, O and N, against C's 28), 4° 27′ 18.1″ computed.
+@obs Italics: «om.». L02, «Tadil (O» without the closing parenthesis, and N04, «om. C. —»: see the critical notes.
+@critical AK07-CN143 | missing parenthesis | L02 | {b:Tadil} (O | {b:Tadil} (O) | the sigla after the titles stand in parentheses, as «(N)» and «(C)» in the lines above and below and «Tadil (O)» on p. 157 (JP2 0189); the closing parenthesis is not printed | high | none
+@critical AK07-CN144 | stray point | N04 | {sup:h})—{sup:h}) 17] 27 O, {i:om.} C. — | {sup:h})—{sup:h}) 17] 27 O, {i:om.} C — | the readings of a note end without a point before the dash, as «om. C —» of note f in the same line; a point is printed after the siglum | high | none

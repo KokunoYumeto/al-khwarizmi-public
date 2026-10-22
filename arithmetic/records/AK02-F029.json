@@ -1,0 +1,435 @@
+{
+ "anchor": "AK02-F029",
+ "frame": 29,
+ "frame_file": "page_029.jpg",
+ "frame_sha256": "e46c30a5f23b3a40adf8635293e78069cd18a88ba689f19a756645670cfc582a",
+ "printed_page": "23",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 029, printed p. 23: other fractions, turned into the kind of their lowest order, multiplied and raised to whole numbers; three sevenths by four ninths; three and a half by eight and three elevenths set out; the text breaks off; the editor's footnote on the end of the manuscript text and the beginning of fol. 110 recto.",
+ "lines": [
+  {
+   "id": "AK02-F029-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "inuicem, idest unum eorum in alio; qualiter constitues eos",
+   "margin": null,
+   "plain": "inuicem, idest unum eorum in alio; qualiter constitues eos",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "unius generis, ut uertas eos, scilicet in genus ultime differen-",
+   "margin": null,
+   "plain": "unius generis, ut uertas eos, scilicet in genus ultime differen-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "tie, idest si fuerit ultima ex secundis, uerte eos .{sc:ii}. secunda;",
+   "margin": null,
+   "plain": "tie, idest si fuerit ultima ex secundis, uerte eos .ii. secunda;",
+   "italic": [],
+   "small_caps": [
+    "ii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "et si fuerit ex terciis in tercia, et cetera. Similiter facies in",
+   "margin": null,
+   "plain": "et si fuerit ex terciis in tercia, et cetera. Similiter facies in",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "partibus, idest si fuerit ultima differentia ex quintis uel ex se-",
+   "margin": null,
+   "plain": "partibus, idest si fuerit ultima differentia ex quintis uel ex se-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "ptimis, reddes numerum tuum ex genere eiusdem partis. Post",
+   "margin": null,
+   "plain": "ptimis, reddes numerum tuum ex genere eiusdem partis. Post",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "hec multiplicabis eum in inuicem; et quod exierit, subleuabis",
+   "margin": null,
+   "plain": "hec multiplicabis eum in inuicem; et quod exierit, subleuabis",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "eum ad numerum integrum, idest diuides eum per similem",
+   "margin": null,
+   "plain": "eum ad numerum integrum, idest diuides eum per similem",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "eiusdem generis multiplicati in alio genere, quasi uelles mul-",
+   "margin": null,
+   "plain": "eiusdem generis multiplicati in alio genere, quasi uelles mul-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "tiplicare .{sc:iii}. septimas in .{sc:iiii}.{sup:or} nouenis, essentque ille septe-",
+   "margin": null,
+   "plain": "tiplicare .iii. septimas in .iiii.or nouenis, essentque ille septe-",
+   "italic": [],
+   "small_caps": [
+    "iii",
+    "iiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "ne et nouene in prima differentia fractionis quasi minuta;mul-",
+   "margin": null,
+   "plain": "ne et nouene in prima differentia fractionis quasi minuta;mul-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "tiplicaresque eas in inuicem, et fierent in sua differentia ex",
+   "margin": null,
+   "plain": "tiplicaresque eas in inuicem, et fierent in sua differentia ex",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "genere secundorum. Cumque uolueris eas subleuare ad nume-",
+   "margin": null,
+   "plain": "genere secundorum. Cumque uolueris eas subleuare ad nume-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "rum integrum, diuides eas per utrasque differentias, que sunt",
+   "margin": null,
+   "plain": "rum integrum, diuides eas per utrasque differentias, que sunt",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "septene in nouenis. Quod si aliud diuisum fuerit, et exierit",
+   "margin": null,
+   "plain": "septene in nouenis. Quod si aliud diuisum fuerit, et exierit",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "de diuisione, numerus erit integer; et si non poterit diuidi,",
+   "margin": null,
+   "plain": "de diuisione, numerus erit integer; et si non poterit diuidi,",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "erunt partes unius eiusdem generis per quod diuisisti. Erunt-",
+   "margin": null,
+   "plain": "erunt partes unius eiusdem generis per quod diuisisti. Erunt-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "que tres septene in .{sc:iiii}.{sup:or} nouenis .{sc:xii}. partes et .{sc:lx}. tribus",
+   "margin": null,
+   "plain": "que tres septene in .iiii.or nouenis .xii. partes et .lx. tribus",
+   "italic": [],
+   "small_caps": [
+    "iiii",
+    "xii",
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "partibus unius. Cum ergo uolueris multiplicare tres et dimi-",
+   "margin": null,
+   "plain": "partibus unius. Cum ergo uolueris multiplicare tres et dimi-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "dium, idest .{sc:viii}. et tribus partibus .{sc:xi}., scribes tres, et pones",
+   "margin": null,
+   "plain": "dium, idest .viii. et tribus partibus .xi., scribes tres, et pones",
+   "italic": [],
+   "small_caps": [
+    "viii",
+    "xi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "sub eis unum, et sub uno duo. Iamque scripsisti tres et dimi-",
+   "margin": null,
+   "plain": "sub eis unum, et sub uno duo. Iamque scripsisti tres et dimi-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "dium: quare dimidium est una pars duorum, quemadmodum",
+   "margin": null,
+   "plain": "dium: quare dimidium est una pars duorum, quemadmodum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "unum minutum est una pars de {sc:lx}. partibus unius. Post hec",
+   "margin": null,
+   "plain": "unum minutum est una pars de lx. partibus unius. Post hec",
+   "italic": [],
+   "small_caps": [
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "scribes in alia parte .{sc:viii}., et sub eis tres, et sub tribus .{sc:xi}.,",
+   "margin": null,
+   "plain": "scribes in alia parte .viii., et sub eis tres, et sub tribus .xi.,",
+   "italic": [],
+   "small_caps": [
+    "viii",
+    "xi"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "sicque constitues .{sc:viii}. (1).",
+   "margin": null,
+   "plain": "sicque constitues .viii. (1).",
+   "italic": [],
+   "small_caps": [
+    "viii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "(1) Nel margine inferiore della carta 109 {i:verso} del suddetto codice {i:Ii}. 6. 5.",
+   "margin": null,
+   "plain": "(1) Nel margine inferiore della carta 109 verso del suddetto codice Ii. 6. 5.",
+   "italic": [
+    "verso",
+    "Ii"
+   ],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "si legge: {i:dicque constitues} .{sc:viii}. Più sotto nel margine stesso si legge: {i:est qui-}",
+   "margin": null,
+   "plain": "si legge: dicque constitues .viii. Più sotto nel margine stesso si legge: est qui-",
+   "italic": [
+    "dicque constitues",
+    "est qui-"
+   ],
+   "small_caps": [
+    "viii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "{i:dem}. Il {i:recto} della carta 110 del codice medesimo incomincia così (lin. 1—4):",
+   "margin": null,
+   "plain": "dem. Il recto della carta 110 del codice medesimo incomincia così (lin. 1—4):",
+   "italic": [
+    "dem",
+    "recto"
+   ],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-N04",
+   "n": 4,
+   "kind": "note",
+   "text": "{i:Est quidem guazal cora tabula ad celi rotunditatem conformata, cuius itemque}",
+   "margin": null,
+   "plain": "Est quidem guazal cora tabula ad celi rotunditatem conformata, cuius itemque",
+   "italic": [
+    "Est quidem guazal cora tabula ad celi rotunditatem conformata, cuius itemque"
+   ],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-N05",
+   "n": 5,
+   "kind": "note",
+   "text": "{i:superficies equali spatiorum intersticione quadrifidis ab ipso centro per dia-}",
+   "margin": null,
+   "plain": "superficies equali spatiorum intersticione quadrifidis ab ipso centro per dia-",
+   "italic": [
+    "superficies equali spatiorum intersticione quadrifidis ab ipso centro per dia-"
+   ],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F029-N06",
+   "n": 6,
+   "kind": "note",
+   "text": "{i:metrum, fusis lineationibus, partita est.}",
+   "margin": null,
+   "plain": "metrum, fusis lineationibus, partita est.",
+   "italic": [
+    "metrum, fusis lineationibus, partita est."
+   ],
+   "small_caps": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 23 )» stands at the head of the page, centred. The page has no signature. The editor's footnote (1) stands below the text in the smaller type, and below the footnote a double rule, centred, closes the treatise.",
+  "L01-L18: fractions other than minutes and seconds: the numbers are turned into the kind of the lowest order in them, «in genus ultime differentie», seconds into seconds, thirds into thirds (see the critical note on L03), and for parts such as fifths or sevenths into those parts; the product is raised to whole numbers by dividing it by the product of the kinds. Three sevenths by four ninths: the sevenths and ninths stand in the first place of the fraction, as minutes do, and their product in the place of the seconds; it is divided by seven times nine; the result, twelve parts of sixty-three parts of one (see the critical note on L18).",
+  "L19-L25: three and a half by eight and three elevenths (see the critical note on L20): three is written, one under it and two under the one, for three and a half, a half being one part of two as a minute is one part of sixty; on the other side eight, three under it and eleven under the three; «sicque constitues .viii.». The text breaks off here, in the course of the example. N01-N06: the editor's footnote, in Italian: the lower margin of fol. 109 verso of the manuscript has «dicque constitues .viii.», and lower down «est quidem»; fol. 110 recto begins (lines 1-4) with another text, «Est quidem guazal cora tabula ...», quoted in italics.",
+  "Numerals: L10 and L18 «.iiii.or», with «or» raised; L23 «lx.» without the opening point. L25: the footnote reference «(1)», with an old-style figure one, follows «.viii.» after a word space.",
+  "N02: the accent of «Più» is printed as a stroke falling to the right with a lighter stroke rising to it from the left, so that it looks like a circumflex, and the u has a short stroke below it; transcribed «Più». N01 «Ii», N01 «verso», N02 «dicque constitues» and «est qui-dem», N03 «recto» and the quotation of N04-N06 are in italics.",
+  "Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): without a space after the mark, L11 «minuta;mul-» (5 px, the median word space of the line 16.5 px). L03 «.ii. secunda» (12 px), L18 «.xii. partes» (13 px, median 18 px) and L20 «.viii. et» (12 px, median 17.5 px) have a space. A pencil underline below «idest» shortens the measured gap after the comma of L20 «dium,»; the gap to «idest» is 20 px. The semicolons of L01, L03, L07, L11 and L16 have printed tails (darkest pixel 41 to 56).",
+  "Marks not transcribed: L11, a dark speck at the head of the f of «fractionis»."
+ ],
+ "copy_matter": [
+  "A reader's notes in pencil: «in» in the right margin beside L03; «ex» in the right margin beside L18, with «et» underlined; «in» beside L20, with «idest» underlined; «quia» beside L22, with «quare» underlined; L24, a slash between the point after «xi» and the comma, and «/ hier Lücke» (German, here a gap) in the right margin. Not part of the edition."
+ ],
+ "critical_notes": [
+  {
+   "id": "AK02-CN020",
+   "class": "wrong word",
+   "line": "L03",
+   "printed": ".ii.",
+   "proposed": "in",
+   "evidence": "the rule names the kind into which the numbers are turned: «si fuerit ultima ex secundis, uerte eos .ii. secunda; et si fuerit ex terciis in tercia», where the second member has «in tercia», into thirds; the first needs «in secunda», into seconds, and two, «.ii.», has no place in a general rule",
+   "confidence": "high",
+   "impact": "the rule reads «turn them two seconds» for «turn them into seconds»"
+  },
+  {
+   "id": "AK02-CN021",
+   "class": "wrong word",
+   "line": "L18",
+   "printed": "et",
+   "proposed": "ex",
+   "evidence": "three sevenths by four ninths are twelve parts of sixty-three parts of one, «.xii. partes ex .lx. tribus partibus unius», as the division by seven times nine, «septene in nouenis» (L14-L15), gives; «et» makes the sixty-three parts a second quantity beside the twelve",
+   "confidence": "high",
+   "impact": "the product reads twelve parts and sixty-three parts for twelve sixty-thirds"
+  },
+  {
+   "id": "AK02-CN022",
+   "class": "wrong word",
+   "line": "L20",
+   "printed": "idest",
+   "proposed": "in",
+   "evidence": "the passage multiplies three and a half by eight and three elevenths: three, one and two are set out for three and a half (L20-L22), and «in alia parte» eight, three and eleven for eight and three elevenths (L24); «tres et dimidium, idest .viii. et tribus partibus .xi.» makes the second number a name of the first, which it is not; «in» names the multiplier, as in «multiplicare .iii. septimas in .iiii.or nouenis» (L10)",
+   "confidence": "high",
+   "impact": "the second factor reads as another name of the first"
+  }
+ ]
+}

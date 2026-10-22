@@ -1,0 +1,769 @@
+anchor	frame	printed_page	line	kind	text	margin
+AK02-F003-L01	3	-	L01	centre	TRATTATI	
+AK02-F003-L02	3	-	L02	centre	D’ ARITMETICA	
+AK02-F003-L03	3	-	L03	centre	PUBBLICATI	
+AK02-F003-L04	3	-	L04	centre	DA BALDASSARRE BONCOMPAGNI	
+AK02-F003-L05	3	-	L05	centre	{sc:socio ordinario dell’accademia pontificia de’nuovi lincei,}	
+AK02-F003-L06	3	-	L06	centre	{sc:e socio corrispondente dell’accademia reale}	
+AK02-F003-L07	3	-	L07	centre	{sc:delle scienze di torino,}	
+AK02-F003-L08	3	-	L08	centre	{sc:della reale accademia delle scienze di napoli,}	
+AK02-F003-L09	3	-	L09	centre	{sc:e della pontificia accademia delle scienze}	
+AK02-F003-L10	3	-	L10	centre	{sc:dell’ istituto di bologna}	
+AK02-F003-L11	3	-	L11	centre	I.	
+AK02-F003-L12	3	-	L12	centre	ALGORITMI DE NUMERO INDORUM.	
+AK02-F003-L13	3	-	L13	centre	ROMA	
+AK02-F003-L14	3	-	L14	centre	TIPOGRAFIA DELLE SCIENZE FISICHE E MATEMATICHE	
+AK02-F003-L15	3	-	L15	centre	in Via Lata N.° 211.	
+AK02-F003-L16	3	-	L16	centre	1857.	
+AK02-F007-L01	7	1	L01	centre	I.	
+AK02-F007-L02	7	1	L02	centre	{b:ALGORITMI DE NUMERO INDORUM.}	
+AK02-F007-L03	7	1	L03	centre	(Biblioteca dell’Università di Cambridge, Codice manoscritto contrassegnato « {i:Ii}. 6. 5 »	
+AK02-F007-L04	7	1	L04	centre	carte 102, {i:recto} — 109, {i:verso}).	
+AK02-F007-L05	7	1	L05	text	DIXIT algoritmi: laudes deo rectori nostro atque defensori	car. 102 {i:recto}.
+AK02-F007-L06	7	1	L06	text	dicamus dignas, que et debitum ei reddant, et augendo mul-	
+AK02-F007-L07	7	1	L07	text	tiplicent laudem, deprecemurque eum ut nos dirigat in semita	
+AK02-F007-L08	7	1	L08	text	rectitudinis et ducat in uiam ueritatis, et ut auxilietur nobis	
+AK02-F007-L09	7	1	L09	text	super bona uoluntate in his que decreuimus exponere ac pa-	
+AK02-F007-L10	7	1	L10	text	tefacere de numero indorum per .{sc:ix}. literas, quibus exposue-	
+AK02-F007-L11	7	1	L11	text	runt uniuersum numerum suum causa leuitatis atque abre-	
+AK02-F007-L12	7	1	L12	text	uiationis, ut hoc opus scilicet redderetur leuius querenti arith-	
+AK02-F007-L13	7	1	L13	text	meticam, idest numerum tam maximum quam exiguum, et quic-	
+AK02-F007-L14	7	1	L14	text	quid in eo est ex multiplicatione et diuisione, collectione quo-	
+AK02-F007-L15	7	1	L15	text	que ac dispersione et cetera.	
+AK02-F007-L16	7	1	L16	indent	Dixit algoritmi: Cum uidissem yndos constituisse .{sc:ix}. literas	
+AK02-F007-L17	7	1	L17	text	in uniuerso numero suo, propter dispositionem suam quam po-	
+AK02-F007-L18	7	1	L18	text	suerunt, uolui patefacere de opere quod fit per eas aliquid	
+AK02-F007-L19	7	1	L19	text	quod esset leuius discentibus, si deus uoluerit. Si autem indi	
+AK02-F007-L20	7	1	L20	text	hoc uoluerunt, et intentio eorum in his .{sc:ix}. literis fuit causa que	
+AK02-F007-L21	7	1	L21	text	mihi patuit, deus direxit me ad hoc. Si uero alia de causa,	
+AK02-F007-L22	7	1	L22	text	preter eam quam ego exposui,hoc fecerunt per hoc quod ego	
+AK02-F007-L23	7	1	L23	text	exposui, eadem causa certissime et absque ulla dubitatione po-	
+AK02-F007-L24	7	1	L24	text	tuerit inueniri.Leuiterque patebit aspicientibus et discentibus.	
+AK02-F007-L25	7	1	L25	indent	Fecerunt igitur .{sc:ix}. literas, quarum figure sunt he .... (1).	
+AK02-F007-L26	7	1	L26	text	est quoque diuersitas inter homines in figuris earum: fit autem	
+AK02-F007-L27	7	1	L27	text	hec diuersitas in figura quinte litere et sexte, septime quoque	
+AK02-F007-N01	7	1	N01	note	(1) La lacuna indicata con quattro punti nelle linea 25 della presente	
+AK02-F007-N02	7	1	N02	note	pagina trovasi anche nel sopraccitato Codice {i:Ii}. 6. 5 della Biblioteca dell’	
+AK02-F007-N03	7	1	N03	note	Università di Cambridge (carta 102 {i:recto}, lin. 18).	
+AK02-F008-L01	8	2	L01	text	et octaue. Set in hoc nullum impedimentum est. Sunt enim note	
+AK02-F008-L02	8	2	L02	text	signantes numerum, et he sunt figure in quibus est illa diuer-	
+AK02-F008-L03	8	2	L03	text	sitas .... (1). Et iam patefeci in libro algebre et almucabalah,	
+AK02-F008-L04	8	2	L04	text	idest restaurationis et oppositionis, quod uniuersus numerus	
+AK02-F008-L05	8	2	L05	text	sit compositus, et quod uniuersus numerus componatur super	
+AK02-F008-L06	8	2	L06	text	unum. Vnum ergo inuenitur in uniuerso numero ; et hoc	
+AK02-F008-L07	8	2	L07	text	est quod in alio libro arithmetice dicitur. Quia unum est	
+AK02-F008-L08	8	2	L08	text	radix uniuersi numeri, et est extra numerum. Radix numeri	
+AK02-F008-L09	8	2	L09	text	est, quare per eum inuenitur omnis numerus. Extra nume-	
+AK02-F008-L10	8	2	L10	text	rum uero est, quare inuenitur per se, idest absque alio ali-	
+AK02-F008-L11	8	2	L11	text	quo numero. Reliquus autem numerus sine uno inueniri non	
+AK02-F008-L12	8	2	L12	text	potest. Cum enim unum dicis, inuentione sui non indiget alio	
+AK02-F008-L13	8	2	L13	text	numero. Reliquus autem numerus indiget indiget ({i:sic}) uno :	
+AK02-F008-L14	8	2	L14	text	quare non potes dicere duo uel tria, nisi precedat unum. Ni-	
+AK02-F008-L15	8	2	L15	text	chil aliud est ergo numerus, nisi unitatum collectio; et hoc	
+AK02-F008-L16	8	2	L16	text	quod diximus non potes dicere duo uel tria,nisi precedat unum:	
+AK02-F008-L17	8	2	L17	text	non de uoce diximus,ut ita dicam,set de re.Non enim | possunt	car. 102 {i:verso}.
+AK02-F008-L18	8	2	L18	text	esse duo uel tria, si unum auferatur. Vnum uero potest esse	
+AK02-F008-L19	8	2	L19	text	absque secundo uel tercio. Igitur nichil aliud sunt duo, nisi	
+AK02-F008-L20	8	2	L20	text	unius duplicitas uel geminatio: et similiter tria nichil aliud	
+AK02-F008-L21	8	2	L21	text	sunt, nisi eiusdem unitatis triplicatio: sic de reliquo numero	
+AK02-F008-L22	8	2	L22	text	intellige. Set nunc redeamus ad librum.	
+AK02-F008-L23	8	2	L23	indent	Inueni,inquid algorizmi, omne quod potest dici ex numero,	
+AK02-F008-L24	8	2	L24	text	et esse quicquid excedit unum usque in .{sc:ix}., idest quod est	
+AK02-F008-L25	8	2	L25	text	inter .{sc:ix}. et unum, idest duplicatur unum et fiunt duo; et	
+AK02-F008-L26	8	2	L26	text	triplicatur idem unum, fiuntque tria, et sic in ceteris usque	
+AK02-F008-L27	8	2	L27	text	in .{sc:ix}. De inde ponuntur .{sc:x}. in loco unius, et duplicantur	
+AK02-F008-L28	8	2	L28	text	.{sc:x}. ac triplicantur, quemadmodum factum est de uno, fiunt-	
+AK02-F008-L29	8	2	L29	text	que ex eorum duplicatione .{sc:xx}., ex triplicatione .{sc:xxx}., et	
+AK02-F008-L30	8	2	L30	text	ita usque ad .{sc:xc}. Post hec redeunt .{sc:c}. in loco unius , et	
+AK02-F008-N01	8	2	N01	note	(1) La lacuna indicata con quattro punti nella linea terza della presente pa-	
+AK02-F008-N02	8	2	N02	note	gina trovasi anche nel sopraccitato Codice {i:Ii}. 6. 5. (carta 102 {i:recto}, lin. 22).	
+AK02-F009-L01	9	3	L01	text	duplicantur ibi atque triplicantur, quemadmodum factum est	
+AK02-F009-L02	9	3	L02	text	de uno et .{sc:x}. ; efficiunturque ex eis .{sc:cc}. et .{sc:ccc}. et cetera	
+AK02-F009-L03	9	3	L03	text	usque in .{sc:dcccc}. Rursum ponuntur mille in loco unius ; et	
+AK02-F009-L04	9	3	L04	text	duplicando et triplicando, ut diximus, fiunt ex eis .{sc:ii}. milia,	
+AK02-F009-L05	9	3	L05	text	et .{sc:iii}. et cetera usque in infinitum numerum, secundum hunc	
+AK02-F009-L06	9	3	L06	text	modum. Et inueni quod operati sunt yndi ex his differentiis.	
+AK02-F009-L07	9	3	L07	text	Quarum prima est differentia unitatum, in qua duplicatur et	
+AK02-F009-L08	9	3	L08	text	triplicatur quicquid est inter unum et .{sc:ix}. Secunda differentia	
+AK02-F009-L09	9	3	L09	text	decenorum, in qua duplicatur uel triplicatur quicquid est a	
+AK02-F009-L10	9	3	L10	text	.{sc:x}. in nonaginta. Tercia differentia centenorum, in qua du-	
+AK02-F009-L11	9	3	L11	text	plicatur uel triplicatur quicquid est a .{sc:c}. in .{sc:dcccc}. Quarta	
+AK02-F009-L12	9	3	L12	text	uero est differentia milium, in qua duplicatur ac triplicatur	
+AK02-F009-L13	9	3	L13	text	quicquid est a mille in .{sc:ix}. {sc:m}. Quinta differentia est .{sc:x̄}. hoc	
+AK02-F009-L14	9	3	L14	text	modo: quocienscumque ascenderit numerus, adduntur differen-	
+AK02-F009-L15	9	3	L15	text	tie: erit dispositio numeri ita: Omne unum quod fuerit in su-	
+AK02-F009-L16	9	3	L16	text	periora ({i:sic}) differentia, erit in inferiori que est ante ipsam .{sc:x}.;	
+AK02-F009-L17	9	3	L17	text	et quod fuerit .{sc:x}. inferiori, erit unum in superiori que pre-	
+AK02-F009-L18	9	3	L18	text	cedit eam; et erit inicium differentiarum in dextera scriptoris:	
+AK02-F009-L19	9	3	L19	text	et hec erit prima earum, et ipsa posita est unitatibus. Cum	
+AK02-F009-L20	9	3	L20	text	autem ponerentur .{sc:x}. in loco unius , et fierent in secunda	
+AK02-F009-L21	9	3	L21	text	differentia, essetque figura eorum figura unius, necesse fuit	
+AK02-F009-L22	9	3	L22	text	eis figura decenorum, eo quod similis esset figure unius, ut	
+AK02-F009-L23	9	3	L23	text	scirent per eam quod essent .{sc:x}. Proposuerunt igitur ei unam	
+AK02-F009-L24	9	3	L24	text	differentiam, et posuerunt in ea circulum paruulum in simi-	
+AK02-F009-L25	9	3	L25	text	litudine .o. litere, ut per hoc scirent quod differentia uni-	
+AK02-F009-L26	9	3	L26	text	tatum esset uacua, et nichil numeri esset in ea preter circulum	
+AK02-F009-L27	9	3	L27	text	paruulum, quem diximus occupare eam : et ostenditur quod	
+AK02-F009-L28	9	3	L28	text	numerus, qui est in sequenti differentia,esset decenis, et quod	
+AK02-F009-L29	9	3	L29	text	hec esset differentia secunda que est differentia decenorum.	
+AK02-F009-L30	9	3	L30	text	Et posuerunt post circulum in predicta differentia secunda	
+AK02-F009-L31	9	3	L31	text	quicquid uoluerunt ex numero decenorum de hoc quod est	
+AK02-F009-L32	9	3	L32	text	inter .{sc:x}. et .{sc:xc}., et he sunt figure decenorum : figura .{sc:x}. est	
+AK02-F010-L01	10	4	L01	text	hec .... Figura .{sc:xx} .... (1).Et similiter figura .{sc:xxx}. est ita, | et	car. 103 {i:recto}.
+AK02-F010-L02	10	4	L02	text	ita usque ad .{sc:ix}. : erit scilicet circulus in prima differentia,	
+AK02-F010-L03	10	4	L03	text	et caracter pertinens ad ipsum numerum in secunda diffe-	
+AK02-F010-L04	10	4	L04	text	rentia. Hoc autem sciendum est , quod caracter qui sic in	
+AK02-F010-L05	10	4	L05	text	prima differentia, unum; in secunda sic .{sc:x}.; in tercia .{sc:c}.,	
+AK02-F010-L06	10	4	L06	text	atque in quarta .{sc:ī}. Et similiter qui sic in prima differentia	
+AK02-F010-L07	10	4	L07	text	duo; in secunda sic .{sc:xx}. , et in tercia .{sc:cc}. , et in quarta .{sc:īī}.	
+AK02-F010-L08	10	4	L08	text	et sic de ceteris intellige. Nos autem redeamus ad librum.	
+AK02-F010-L09	10	4	L09	indent	Post differentiam decenorum sequitur sequitur ({i:sic}) differen-	
+AK02-F010-L10	10	4	L10	text	tia centenorum, in qua duplicatur ac triplicatur quicquid est a	
+AK02-F010-L11	10	4	L11	text	.{sc:c}. in .{sc:dcccc}.; et eius figura est sicut figura unius in tercia dif-	
+AK02-F010-L12	10	4	L12	text	ferentia posita ita .100.; et figura ducentorum est sicut figura	
+AK02-F010-L13	10	4	L13	text	duorum posita similiter in tercia differentia ita .300.:figura quo-	
+AK02-F010-L14	10	4	L14	text	que tercentorum est figura trium posita in tercia differentia	
+AK02-F010-L15	10	4	L15	text	ita .300, et sic usque ad nongenta. Hac quoque sequitur diffe-	
+AK02-F010-L16	10	4	L16	text	rentia milium, in qua similiter duplicatur et triplicatur quic-	
+AK02-F010-L17	10	4	L17	text	quid est a mille in .{sc:īx̄}. Cuius figura est sicut figura unius in	
+AK02-F010-L18	10	4	L18	text	quarta differentia posita ita .1000: figura duorum milium est si-	
+AK02-F010-L19	10	4	L19	text	cut figura duorum in quarta differentia posita ita. 2000. et ita	
+AK02-F010-L20	10	4	L20	text	usque ad {sc:ix}. milia: ponuntur autem in differentia quarta ante	
+AK02-F010-L21	10	4	L21	text	caracterem tres circuli, ut ostendatur, quod sit in quarta dif-	
+AK02-F010-L22	10	4	L22	text	ferentia, sicut positus est in secunda differentia unius, et in	
+AK02-F010-L23	10	4	L23	text	tercia duo, ut ostenderetur quod essent differentie decenorum	
+AK02-F010-L24	10	4	L24	text	uel centenorum: et hoc fit cum non fuerit ante ipsum nume-	
+AK02-F010-L25	10	4	L25	text	rum alius numerus in eadem differentia. Si autem fuerit cum	
+AK02-F010-L26	10	4	L26	text	numero, qui ponitur in his differentiis, aliquis numerus infra	
+AK02-F010-L27	10	4	L27	text	eum, debet poni in ea differentia que sibi debetur. Verbi	
+AK02-F010-L28	10	4	L28	text	gratia : si fuerit cum .{sc:x}. aliquis numerus de his qui sunt	
+AK02-F010-L29	10	4	L29	text	infra eum , utpote .{sc:xi}, uel {sc:xii}., ponuntur ita .{sc:ii}. : in prima	
+AK02-F010-L30	10	4	L30	text	scilicet differentia, ubi positus erat circulus, ponatur unus, et	
+AK02-F010-N01	10	4	N01	note	(1) Le due lacune, ciascuna delle quali è indicata con quattro punti nella	
+AK02-F010-N02	10	4	N02	note	prima linea della presente pagina, trovansi anche nel sopraccitato Codice {i:Ii}. 6.	
+AK02-F010-N03	10	4	N03	note	5. (carta 102 {i:verso}, lin. 33).	
+AK02-F011-L01	11	5	L01	text	in secunda differentia ponatur etiam unum quod sic .{sc:x}. Simi-	
+AK02-F011-L02	11	5	L02	text	liter si fuerit cum .{sc:c}. alius .numerus de his qui sunt infra	
+AK02-F011-L03	11	5	L03	text	eum, ponatur in differentia que sibi debetur. Quod ostendamus	
+AK02-F011-L04	11	5	L04	text	sub quodam exemplari, et dicamus quod esset numerus .{sc:ccc}.	
+AK02-F011-L05	11	5	L05	text	{sc:xxv}. Quem cum uellemus ponere in suis differentiis, posuimus	
+AK02-F011-L06	11	5	L06	text	ita. Incepimus a dextera scriptoris, et posuimus in prima dif-	
+AK02-F011-L07	11	5	L07	text	ferentia .{sc:v}.; in secunda, eundo uersus sinistram partem scri-	
+AK02-F011-L08	11	5	L08	text	ptoris, .{sc:xx}., et in tercia differentia .{sc:ccc}., unumquemque nu-	
+AK02-F011-L09	11	5	L09	text	merum in differentia sua,idest unitates in differentia unitatum,	
+AK02-F011-L10	11	5	L10	text	que est prima; et decenos in differentia decenorum, que est	
+AK02-F011-L11	11	5	L11	text	secunda. Centenos uero in differentia centenorum, que est	
+AK02-F011-L12	11	5	L12	text	tercia; et hec est figura .335. : et similiter erit in aliis differen-	
+AK02-F011-L13	11	5	L13	text	tiis secundum hunc ordinem, idest quocienscumque augmen-	
+AK02-F011-L14	11	5	L14	text	tatus fuerit numerus et creuerint differentie, ponatur unum-	
+AK02-F011-L15	11	5	L15	text	quodque genus numeri in sua differentia que debetur ei. Cum	
+AK02-F011-L16	11	5	L16	text	autem collecti fuerint in aliqua differentiarum .{sc:x}. uel plus,	
+AK02-F011-L17	11	5	L17	text	erigantur ad superiorem differentiam, et fiat de unoquoque	
+AK02-F011-L18	11	5	L18	text	.{sc:x}. in superiori differentia unum. Rursum si fuerit in eadem	
+AK02-F011-L19	11	5	L19	text	differentia,ad quam peruenerit numerus ascendendo, alter nu-	
+AK02-F011-L20	11	5	L20	text	merus addatur desuper, et colligantur insimul: et si fuerint in	
+AK02-F011-L21	11	5	L21	text	eo .{sc:x}. uel plus, fiat de unoquoque .{sc:x}. unum, et erigatur ad	
+AK02-F011-L22	11	5	L22	text	superiorem differentiam, idest si collecti fuerint in prima dif-	
+AK02-F011-L23	11	5	L23	text	ferentia decem,|fiat de eis unum, et ponatur in secunda diffe-	car. 103 {i:verso}.
+AK02-F011-L24	11	5	L24	text	rentia: et si in eadem differentia similiter fuerit numerus, iun-	
+AK02-F011-L25	11	5	L25	text	gatur ei: et si fuerint ibi .{sc:x}., fiat de eis unum, et erigatur	
+AK02-F011-L26	11	5	L26	text	etiam ad terciam differentiam. Verbi gratia. Si in prima differen-	
+AK02-F011-L27	11	5	L27	text	tia, que est differentia unitatum,habueris .{sc:x}.,fac de eis unum,	
+AK02-F011-L28	11	5	L28	text	et pone ipsum in secunda differentia.In prima uero differentia	
+AK02-F011-L29	11	5	L29	text	pone circulum sicut diximus,ut ostendatur due esse differentie.	
+AK02-F011-L30	11	5	L30	text	Si uero fuerint .{sc:xi}., fac de .{sc:x}. unum, et pone eum in secunda	
+AK02-F011-L31	11	5	L31	text	differentia ut supra, et dimitte unum in prima. Si autem in-	
+AK02-F011-L32	11	5	L32	text	ueneris in secunda differentia, ubi posuistis ipsum numerum	
+AK02-F011-L33	11	5	L33	text	quem fecisti de .{sc:x}.,aliquem numerum, iunge eum cum illo.Et	
+AK02-F012-L01	12	6	L01	text	si fuerint .{sc:x}. uel plus, fac de .{sc:x}. unum, et iterum pone eum	
+AK02-F012-L02	12	6	L02	text	in differentia tercia ; et quod remanserit infra .{sc:x}. maneat in	
+AK02-F012-L03	12	6	L03	text	suo loco. Quod autem dicimus plus .{sc:x}., hoc pertinet ad mul-	
+AK02-F012-L04	12	6	L04	text	tum numerum. Verbi gratia. Si fuerit in secunda uel tercia	
+AK02-F012-L05	12	6	L05	text	differentia magnus numerus, utpote si inueneris in differentia	
+AK02-F012-L06	12	6	L06	text	tercia,que est differentia centenorum, .{sc:ix}.;et si fuerint in dif-	
+AK02-F012-L07	12	6	L07	text	ferentia secunda .{sc:x}., facies de .{sc:x}. unum, et mutabis eum ad	
+AK02-F012-L08	12	6	L08	text	terciam differentiam, ubi iunges eum cum .{sc:ix}. , et fiunt .{sc:x}. :	
+AK02-F012-L09	12	6	L09	text	facies unum de ipsis .{sc:x}.,et mutabis eum in quarta differentia,	
+AK02-F012-L10	12	6	L10	text	et ibi erit mille. Si uero inuenisses in secunda differentia .{sc:xx}.,	
+AK02-F012-L11	12	6	L11	text	et facies de eis duo, addensque duo super .{sc:ix}. in tercia diffe-	
+AK02-F012-L12	12	6	L12	text	rentia, et fierent .{sc:xi}.: faceres iterum de .{sc:x}. unum, et mutares	
+AK02-F012-L13	12	6	L13	text	eum ad quartam differentiam,ubi esset mille, et remanet unum	
+AK02-F012-L14	12	6	L14	text	in tercia differentia : et ideo dicit .{sc:x}. uel plus. Et hoc scien-	
+AK02-F012-L15	12	6	L15	text	dum, quare cum mutaueris numerum,et posueris eum in se-	
+AK02-F012-L16	12	6	L16	text	quenti differentia, debes ponere per caracteres suos, idest si	
+AK02-F012-L17	12	6	L17	text	fuerint .{sc:x}. , pones pro eis caracterem qui significat in prima	
+AK02-F012-L18	12	6	L18	text	differentia unum; et si fuerint .{sc:xx}., pones pro eis caracterem	
+AK02-F012-L19	12	6	L19	text	qui significat in prima differentia duo, et sic de ceteris intel-	
+AK02-F012-L20	12	6	L20	text	lige.Si uero remanserit in eadem differentia,de qua mutasti nu-	
+AK02-F012-L21	12	6	L21	text	merum, aliquid ex numero, dimitte eum similiter per caracte-	
+AK02-F012-L22	12	6	L22	text	res suos, idest si remanserit unum uel duo, dimittes eum ibi	
+AK02-F012-L23	12	6	L23	text	per caracterem qui significat eundem numerum, idest si reman-	
+AK02-F012-L24	12	6	L24	text	serit unum, describes ibi caracterem unius; et si remanserint	
+AK02-F012-L25	12	6	L25	text	duo, describes ibi caracterem duorum et cetera. Set significa-	
+AK02-F012-L26	12	6	L26	text	bit unaqueque figura secundum quod fuerit differentia, idest	
+AK02-F012-L27	12	6	L27	text	in prima differentia significabit unitates ; in secunda dece-	
+AK02-F012-L28	12	6	L28	text	no ({i:sic}); in tercia centenos et cetera, sicut supra dictum est.	
+AK02-F012-L29	12	6	L29	indent	Si autem fuerit numerus multus, et uolueris scire quotus sit,	
+AK02-F012-L30	12	6	L30	text	uel quot differentie sint in ipso, ut scribas eum in libro, uel	
+AK02-F012-L31	12	6	L31	text	loquaris de eo, scito quod non sit in aliqua differentia plus	
+AK02-F012-L32	12	6	L32	text	.{sc:ix}., nec minus uno, nisi circulus sit qui nichil est. Cum ergo	
+AK02-F012-L33	12	6	L33	text	uolueris hoc scire, numera differentias, incipiens a prima que	
+AK02-F013-L01	13	7	L01	text	erit in dextera parte, et hec erit differentia unitatum. Relique	
+AK02-F013-L02	13	7	L02	text	uero differentie erunt descripte per successiones suas uersus	
+AK02-F013-L03	13	7	L03	text	sinistram partem scriptoris. Ex quibus secunda erit differentia	
+AK02-F013-L04	13	7	L04	text	decenorum, et tercia centenorum, et quarta milium, et quinta	
+AK02-F013-L05	13	7	L05	text	.{sc:x}. milium. Sexta uero differentia erit .{sc:c}. milium, et septima	
+AK02-F013-L06	13	7	L06	text	mille milium. Rursum {sc:viii}.{sup:ua} erit .{sc:x}. milia milium,| et nona .{sc:c}.	car. 104 {i:recto}.
+AK02-F013-L07	13	7	L07	text	milia milium, et decima mille mille milium tribus uicibus, et	
+AK02-F013-L08	13	7	L08	text	undecima .{sc:x}. millia milia milium tribus uicibus, et duodecima	
+AK02-F013-L09	13	7	L09	text	.{sc:c}. millia milia milium tribus uicibus, et {sc:x̄īīī}. mille mille	
+AK02-F013-L10	13	7	L10	text	mille milium quatuor uicibus; et similiter in omni differentia	
+AK02-F013-L11	13	7	L11	text	ex differentiis numeri addes in locutione tua. Quia super tres	
+AK02-F013-L12	13	7	L12	text	differentias, idest decenorum et centenorum, et milium resi-	
+AK02-F013-L13	13	7	L13	text	duum fuerit unum, erunt .{sc:x}. milia ipsorum milium que exie-	
+AK02-F013-L14	13	7	L14	text	runt tibi in dictis. Si uero remanserint duo, erunt .{sc:c}. milia	
+AK02-F013-L15	13	7	L15	text	ex ipsis milibus: et iam constitui tibi exemplar, quo poteris	
+AK02-F013-L16	13	7	L16	text	scire ac probare per eum quicquid augmentatur super nume-	
+AK02-F013-L17	13	7	L17	text	rum, uel minuitur ex eo; et hec est figura eiusdem . . . . (1).	
+AK02-F013-L18	13	7	L18	indent	Due litere cum collegeris eas secundum quod diximus de	
+AK02-F013-L19	13	7	L19	text	his notis, erit numerus milium earum notarum mille mille	
+AK02-F013-L20	13	7	L20	text	mille millium quinque uicibus secundum numerum caracte-	
+AK02-F013-L21	13	7	L21	text	rum qui sunt sub eis; uel centum millia milia milia milium	
+AK02-F013-L22	13	7	L22	text	quatuor uicibus, secundum numerum caracterum qui sunt sub	
+AK02-F013-L23	13	7	L23	text	eis; uel octoginta milia milia milia milium quatuor uicibus, se-	
+AK02-F013-L24	13	7	L24	text	cundum quod est ex eis caracteribus. Deinde septingenta mi-	
+AK02-F013-L25	13	7	L25	text	lia milia milium[milium] tribus uicibus, secundum caracteres	
+AK02-F013-L26	13	7	L26	text	qui sunt sub eis; et tria milia milia milium tribus uicibus; uel	
+AK02-F013-L27	13	7	L27	text	quinquaginta unum milia milium duabus uicibus; uel quadrin-	
+AK02-F013-L28	13	7	L28	text	genta milia et nonaginta duo milia et octingenta sexaginta tres.	
+AK02-F013-L29	13	7	L29	indent	Cum uolueris addere numerum super numerum , uel mi-	
+AK02-F013-N01	13	7	N01	note	(1) La lacuna indicata con quattro punti nella linea 17 della presente	
+AK02-F013-N02	13	7	N02	note	pagina trovasi anche nel sopraccitato Codice {i:Ii}. 6. 5. (carta 104 {i:recto}, lin.	
+AK02-F013-N03	13	7	N03	note	8, 9).	
+AK02-F014-L01	14	8	L01	text	nuere numerum de numero, pone utrosque numeros in duobus	
+AK02-F014-L02	14	8	L02	text	ordinibus, unum scilicet ex eis sub altero, et sit differentia	
+AK02-F014-L03	14	8	L03	text	unitatum sub differentia unitatum, et differentia decenorum	
+AK02-F014-L04	14	8	L04	text	sub differentia decenorum. Quod si uolueris colligere utrosque	
+AK02-F014-L05	14	8	L05	text	numeros, addes scilicet unum super alterum : addes unam-	
+AK02-F014-L06	14	8	L06	text	quamque differentiam super differentiam que est super eam	
+AK02-F014-L07	14	8	L07	text	de genere suo, idest unitates super unitates, et decenos super	
+AK02-F014-L08	14	8	L08	text	decenos.Cum collecti fuerint in aliqua differentiarum,idest in	
+AK02-F014-L09	14	8	L09	text	differentia unitatum uel decenorum,siue in alia aliqua decem,	
+AK02-F014-L10	14	8	L10	text	pones pro eis unum,et eriges eum ad superiorem differentiam,	
+AK02-F014-L11	14	8	L11	text	idest si habueris in prima differentia, que est differentia unita-	
+AK02-F014-L12	14	8	L12	text	tum, decem, facies de eis unum, et sub leuabis eum ad diffe-	
+AK02-F014-L13	14	8	L13	text	rentiam decenorum, et ibi significabit decem. Si autem reman-	
+AK02-F014-L14	14	8	L14	text	serit aliquid de numero quod sit infra {sc:x}; uel fuerit ipse nume-	
+AK02-F014-L15	14	8	L15	text	rus infra .{sc:x}., dimictens eum in eadem differentia; et si nichil	
+AK02-F014-L16	14	8	L16	text	remanserit, pones circulum, ut non sit differentia uacua: set	
+AK02-F014-L17	14	8	L17	text	sit in ea circulus qui occupet ea, ne forte cum | uacua fuerit,	car. 104 {i:verso}.
+AK02-F014-L18	14	8	L18	text	minuantur differentie, et putetur secunda esse prima; et sic de-	
+AK02-F014-L19	14	8	L19	text	cipieris in numero tuo. Sic quoque facies in omnibus diffe-	
+AK02-F014-L20	14	8	L20	text	rentiis. Similiter cum collecti fuerint in secunda differentia	
+AK02-F014-L21	14	8	L21	text	.{sc:x}., facies de eis unum; et subleuabis eum ad differentiam	
+AK02-F014-L22	14	8	L22	text	terciam; ibique significabit centum ; et quicquid remanserit	
+AK02-F014-L23	14	8	L23	text	infra .{sc:x}., remanebit ibi. Si uero nichil in ceteris remanserit,	
+AK02-F014-L24	14	8	L24	text	pones ibi circulum ut supra. Sic facies in ceteris differentiis,	
+AK02-F014-L25	14	8	L25	text	si plus fuerit. Si uero uolueris minuere unum de alio, nu-	
+AK02-F014-L26	14	8	L26	text	merum scilicet de numero, minues unam quamque differen-	
+AK02-F014-L27	14	8	L27	text	tiam de alia differentia que est super se ex genere suo, sicut	
+AK02-F014-L28	14	8	L28	text	supra dictum est. Quod si non fuerit in superiori differentia	
+AK02-F014-L29	14	8	L29	text	tantus numerus, de quo possis minuere numerum inferioris	
+AK02-F014-L30	14	8	L30	text	differentie, idest si fuerit minus, uel nichil ibi fuerit, acci-	
+AK02-F014-L31	14	8	L31	text	pies de secunda differentia que est alcior illo superiori unum,	
+AK02-F014-L32	14	8	L32	text	et de eo facies decem; minuesque de eo quod debueris, et	
+AK02-F014-L33	14	8	L33	text	quod remanserit dimittes in eadem superiori differentia. Si	
+AK02-F015-L01	15	9	L01	text	uero nichil remanserit, pones ibi circulum ut supra. Si autem	
+AK02-F015-L02	15	9	L02	text	in secunda differentia a superiori nichil fuerit, accipe unum	
+AK02-F015-L03	15	9	L03	text	de tercia differentia, et erunt .{sc:x}. in secunda. Et rursum ex	
+AK02-F015-L04	15	9	L04	text	illis .{sc:x}. accipias unum, et fac de eo ut supra, et remanebunt	
+AK02-F015-L05	15	9	L05	text	in secunda .{sc:ix}.; et incipe semper in augmentacione uel di-	
+AK02-F015-L06	15	9	L06	text	minutione ab altiori differentia: postea a sequenti que eam	
+AK02-F015-L07	15	9	L07	text	succedit, quia utilius ac leuius erit opus, si Deus uoluerit.	
+AK02-F015-L08	15	9	L08	text	Quod ut facilius intelligatur, necesse est ut hoc sub exemplo	
+AK02-F015-L09	15	9	L09	text	notemus, et hoc dicamus tribus modis, ne quis in eo aliquo	
+AK02-F015-L10	15	9	L10	text	modo turbetur. Constituamus ergo aliquem numerum, et di-	
+AK02-F015-L11	15	9	L11	text	camus, uerbi gratia. Ponamus sex milia quadrigentos uiginti	
+AK02-F015-L12	15	9	L12	text	duo per differentias suas, et dicamus quod uolumus minuere	
+AK02-F015-L13	15	9	L13	text	de eis tria milia ducentos undecim : ponamus itaque in prima	
+AK02-F015-L14	15	9	L14	text	differentia que est in dextera, scilicet duo, et in secunda .{sc:xx}.	
+AK02-F015-L15	15	9	L15	text	In tercia quoque quadringentos, et in quarta sex milia : et po-	
+AK02-F015-L16	15	9	L16	text	namus etiam ipsum numerum quem uolumus minuere de eo	
+AK02-F015-L17	15	9	L17	text	sub ipso per consimiles differentias ita.Ponamus scilicet unum	
+AK02-F015-L18	15	9	L18	text	sub duobus in prima differentia, et .{sc:x}. sub .{sc:xx}. in secunda;	
+AK02-F015-L19	15	9	L19	text	ducentos quoque sub quadringentis in tercia, et tria milia	
+AK02-F015-L20	15	9	L20	text	sub {sc:vi}. milibus in quarta; et hec est eorum figura.	
+AK02-F015-L21	15	9	L21	indent	Cumque uellemus minuere unum numerum de alio, mino-	
+AK02-F015-L22	15	9	L22	text	rem scilicet de maiori, cepimus a superiori differentia, idest a	
+AK02-F015-L23	15	9	L23	text	quarta. Minuimus itaque {sc:iii}. de {sc:vi}. , et remanserunt tria in	
+AK02-F015-L24	15	9	L24	text	quarta differentia. Minuimus quoque duo de {sc:iiii}{sup:or}, et reman-	
+AK02-F015-L25	15	9	L25	text	serunt in tercia differentia duo. Minuimus etiam unum de	
+AK02-F015-L26	15	9	L26	text	{sc:ii}.{sup:obus}, et remansit unum in secunda differentia : et similiter	
+AK02-F015-L27	15	9	L27	text	remansit in prima differentia unum, cum minuerimus de duo-	
+AK02-F015-L28	15	9	L28	text	bus, que erant super eum, unum; et hec | remanencium figura	car. 105 {i:recto}.
+AK02-F015-L29	15	9	L29	text	est . . . . (1). Rursum ponamus alium numerum alio modo ad	
+AK02-F015-L30	15	9	L30	text	placitum, de quo nichil remaneat in differentiis suis. Sitque	
+AK02-F015-N01	15	9	N01	note	(1) La lacuna indicata con quattro punti nella linea 29 della presente pa-	
+AK02-F015-N02	15	9	N02	note	gina trovasi anche nel sopraccitato Codice {i:Ii}. 6. 5. (carta 105 {i:recto} , linea	
+AK02-F015-N03	15	9	N03	note	prima).	
+AK02-F016-L01	16	10	L01	text	numerus noster mille centum quadraginta quatuor, de quibus	
+AK02-F016-L02	16	10	L02	text	minuamus .{sc:c}.{sc:xliiii}., et constituamus unum quemque ex eis	
+AK02-F016-L03	16	10	L03	text	sub alio hoc modo.	
+AK02-F016-L04	16	10	L04	indent	Cum uolueris mediare aliquem numerum, accipe a prima	
+AK02-F016-L05	16	10	L05	text	differentia, et media eam: in qua si fuerit numerus inpar, me-	
+AK02-F016-L06	16	10	L06	text	dia pares, et remanebit unum, quod mediabis, idest diuides in	
+AK02-F016-L07	16	10	L07	text	duas medietates; constituesque medietatem unam triginta par-	
+AK02-F016-L08	16	10	L08	text	tem ex sexaginta, que faciunt unum; et pone sub eadem diffe-	
+AK02-F016-L09	16	10	L09	text	rentia .{sc:xxx}.: deinde mediabis sequentem differentiam, si fue-	
+AK02-F016-L10	16	10	L10	text	rit numerus eius par; et si fuerit impar, accipe medietatem	
+AK02-F016-L11	16	10	L11	text	paris, et pone eam in loco eius, et constitue medietatem unius	
+AK02-F016-L12	16	10	L12	text	residui quinque; et pone eos in differentia que est ante ipsam.	
+AK02-F016-L13	16	10	L13	text	Si autem non fuerit in eadem differentia quam uolueris me-	
+AK02-F016-L14	16	10	L14	text	diare, nisi tantum unum, pone in loco eius circulum, et pone	
+AK02-F016-L15	16	10	L15	text	quinque in differentia que est ante ipsam. Et similiter operare	
+AK02-F016-L16	16	10	L16	text	in uniuersis differentiis. Et cum uolueris duplare, incipe a su-	
+AK02-F016-L17	16	10	L17	text	periori differentia, et dupla; et cum numerus crescendo exces-	
+AK02-F016-L18	16	10	L18	text	serit .{sc:x}., fac de decem unum, et pone eum in sequenti diffe-	
+AK02-F016-L19	16	10	L19	text	rentia, et inuenies, si Deus uoluerit.	
+AK02-F016-L20	16	10	L20	indent	Etiam patefeci in libro, quod necesse est omni numero qui	
+AK02-F016-L21	16	10	L21	text	multiplicatur in aliquo quolibet numero, ut duplicetur unus	
+AK02-F016-L22	16	10	L22	text	ex eis secundum unitates alterius. Cumque uolueris multipli-	
+AK02-F016-L23	16	10	L23	text	care aliquem numerum in alio per literas indorum, necesse est	
+AK02-F016-L24	16	10	L24	text	retinere multiplicationem numeri, qui est inter unum et .{sc:ix}.	
+AK02-F016-L25	16	10	L25	text	in inuicem, siue concors fuerit numerus, siue diuersus. Cum-	
+AK02-F016-L26	16	10	L26	text	que uolueris multiplicare numerum in altero, pone unum ex	
+AK02-F016-L27	16	10	L27	text	eis secundum quantitatem mansionum eius in tabula, uel in	
+AK02-F016-L28	16	10	L28	text	qualibet re alia quam uolueris. De inde pone primam diffe-	
+AK02-F016-L29	16	10	L29	text	rentiam alterius numeri sub altiori differentia primi. Eritque	
+AK02-F016-L30	16	10	L30	text	prima mansio eiusdem numeri sub ultima mansione primi nu-	
+AK02-F016-L31	16	10	L31	text	meri quem posuisti. Et erit mansio secunda precedens primum	
+AK02-F016-L32	16	10	L32	text	numerum uersus sinistram: cuius rei exemplar est. Quod cum	
+AK02-F016-L33	16	10	L33	text	uellemus multiplicare duo milia tercentos .{sc:xxvi}. in .{sc:ccx}.{sc:iiii}{sup:or},	
+AK02-F017-L01	17	11	L01	text	posuimus duo milia tercentos .{sc:xxvi}. per indas literas in	
+AK02-F017-L02	17	11	L02	text	{sc:iiii}.{sup:or} differentiis; fueruntque in prima differentia, que est in	
+AK02-F017-L03	17	11	L03	text	dextera, .{sc:vi}.; et in secunda duo, qui sunt .{sc:xx}.; et in tercia	
+AK02-F017-L04	17	11	L04	text	tres, qui sunt tercenti; et in quarta duo, qui sunt duo milia.	
+AK02-F017-L05	17	11	L05	text	Post hec posuimus sub duobus milibus {sc:iiii}{sup:or}; de inde in pre-	
+AK02-F017-L06	17	11	L06	text	cedenti uersus sinistram unum, qui sunt .{sc:x}.; postea in tercia	
+AK02-F017-L07	17	11	L07	text	duo, qui sunt ducenti:et hec est figura eorum.	
+AK02-F017-L08	17	11	L08	indent	| Post hec incipias ab ultima differentia superiori; et multi-	car. 105 {i:verso}.
+AK02-F017-L09	17	11	L09	text	plica eam in ultima differentia inferioris numeri, qui est sub	
+AK02-F017-L10	17	11	L10	text	eo,uel quod exierit de multiplicatione,scribes de super.Postea	
+AK02-F017-L11	17	11	L11	text	scribes etiam in differentia que succeditur, redeundo uersus	
+AK02-F017-L12	17	11	L12	text	dexteram inferioris numeri. Deinde facies similiter , donec	
+AK02-F017-L13	17	11	L13	text	multiplices ultimam differentiam superioris numeri in uniuer-	
+AK02-F017-L14	17	11	L14	text	sis differentiis inferioris numeri: et cum hec perfeceris, mu-	
+AK02-F017-L15	17	11	L15	text	tabis numerum inferiorem una differentia uersus dexteram.	
+AK02-F017-L16	17	11	L16	text	Eritque prima differentia inferioris numeri sub differentia que	
+AK02-F017-L17	17	11	L17	text	succedit numerum quem multiplicasti uersus dexteram. De-	
+AK02-F017-L18	17	11	L18	text	inde pones reliquas differentias pur successiones eorum: post	
+AK02-F017-L19	17	11	L19	text	hec multiplicabis etiam ipsum numerum, sub quo posuisti	
+AK02-F017-L20	17	11	L20	text	primam differentiam inferioris numeri ultima mansione inferio-	
+AK02-F017-L21	17	11	L21	text	ris numeri: de inde in ea que succedit, donec perficias omnes,	
+AK02-F017-L22	17	11	L22	text	quemadmodum fecisti in prima differentia: uel quicquid col-	
+AK02-F017-L23	17	11	L23	text	lectum fuerit ex multiplicatione unius cuiusque differentie,	
+AK02-F017-L24	17	11	L24	text	scribes eum in differentia que est super ipsum : uel cum	
+AK02-F017-L25	17	11	L25	text	hec feceris, mutabis etiam eum numerum, scilicet tuum, una	
+AK02-F017-L26	17	11	L26	text	differentia ; et facies de eo quemadmodum fecisti in diffe-	
+AK02-F017-L27	17	11	L27	text	rentiis primis ; et non cessabis ita facere, donec perficias	
+AK02-F017-L28	17	11	L28	text	omnes differentias. Sic que multiplicabis uniuersum numerum	
+AK02-F017-L29	17	11	L29	text	superiorem in uniuerso numero inferiori. Cumque euenerit	
+AK02-F017-L30	17	11	L30	text	ut prima differentia inferioris numeri sit sub aliqua diffe-	
+AK02-F017-L31	17	11	L31	text	rentia, in qua nullus sit numerus, idest in qua fuerit cir-	
+AK02-F017-L32	17	11	L32	text	culus, faciamus eam transire ad succedentem differentiam ,	
+AK02-F017-L33	17	11	L33	text	in qua fuerit numerus uersus dexteram. Quia omnis circu-	
+AK02-F018-L01	18	12	L01	text	lus qui multiplicatur in aliquo numero, nichil est, idest nul-	
+AK02-F018-L02	18	12	L02	text	lus numerus surgit ex eo; et quicquid multiplicatur in cir-	
+AK02-F018-L03	18	12	L03	text	culo, similiter nichil.Cumque mutauerimus differentias uersus	
+AK02-F018-L04	18	12	L04	text	dexteram ; postea multiplicauerimus ipsum numerum supe-	
+AK02-F018-L05	18	12	L05	text	riorem in una quaque differentia ex numero inferiori, adde-	
+AK02-F018-L06	18	12	L06	text	mus quod exierit nobis de multiplicatione super differen-	
+AK02-F018-L07	18	12	L07	text	tiam que est super illam differentiam , in qua multiplica-	
+AK02-F018-L08	18	12	L08	text	uimus : dumque crescente numero collecti fuerint nobis in	
+AK02-F018-L09	18	12	L09	text	aliqua differentia .{sc:x}., faciemus ex eis unum : ponemusque	
+AK02-F018-L10	18	12	L10	text	eum in sequenti differentia uersus sinistram; et si aliquid	
+AK02-F018-L11	18	12	L11	text	remanserit , notabimus eum in loco suo: si uero nichil re-	
+AK02-F018-L12	18	12	L12	text	manserit, ponemus in loco eius circulum, ne minuatur ali-	
+AK02-F018-L13	18	12	L13	text	quid ex differentiis: et cum perduxerit multiplicatio ad pri-	
+AK02-F018-L14	18	12	L14	text	mam differentiam numeri inferioris, debebimus quicquid fue-	
+AK02-F018-L15	18	12	L15	text	rit in differentia, que est super eam; et notabimus id quod	
+AK02-F018-L16	18	12	L16	text	exierit nobis ex multiplicatione in loco eius. Sicque facie-	
+AK02-F018-L17	18	12	L17	text	mus , donec multiplicemus uniuersas differentias superioris	
+AK02-F018-L18	18	12	L18	text	numeri in uniuersis differentiis inferioris; et sic multiplica-	
+AK02-F018-L19	18	12	L19	text	bimus | numerum ex eis secundum numerum unitatum alte-	car. 106 {i:recto}.
+AK02-F018-L20	18	12	L20	text	rius, et perficietur multiplicatio: et hec est figura numeri,	
+AK02-F018-L21	18	12	L21	text	qui exiuit nobis de multiplicatione duorum milium et ter-	
+AK02-F018-L22	18	12	L22	text	centorum uiginti sex in ducentis .{sc:xiiii}., que sunt quadrin-	
+AK02-F018-L23	18	12	L23	text	genta milia et nonaginta septem milia et septingenta .{sc:lxiiii}.	
+AK02-F018-L24	18	12	L24	indent	Cum uolueris scire utrum inuenisti uel errasti in dupla-	
+AK02-F018-L25	18	12	L25	text	tione tua uel multiplicatione, accipe numerum quem uolueris	
+AK02-F018-L26	18	12	L26	text	duplare, et diuide eum per .{sc:ix}. et .{sc:ix}., et quicquid remanse-	
+AK02-F018-L27	18	12	L27	text	rit minus .{sc:ix}., duplica eum: in quo si fuerint .{sc:ix}., proice eos,	
+AK02-F018-L28	18	12	L28	text	et quod remanserit serua. Post hoc duplica numerum tuum,	
+AK02-F018-L29	18	12	L29	text	idest ipsum numerum quem uolueris duplare, et diuide eum	
+AK02-F018-L30	18	12	L30	text	per .{sc:ix}., et .{sc:ix}.; et quod remanserit, si fuerit simile illi qui	
+AK02-F018-L31	18	12	L31	text	prius remanserat dum duplicaueras eum, iam inuenisti: sin	
+AK02-F018-L32	18	12	L32	text	autem, errasti.Et cum multiplicare uolueris aliquem numerum	
+AK02-F018-L33	18	12	L33	text	in aliquo;et uolueris probare ut supra, diuide numerum quem	
+AK02-F019-L01	19	13	L01	text	duplicasti per .{sc:ix}., et quod remanserit infra .{sc:ix}., serua. Ite-	
+AK02-F019-L02	19	13	L02	text	rum diuide alium numerum per .{sc:ix}., et quod remanserit infra	
+AK02-F019-L03	19	13	L03	text	.{sc:ix}. serua. Deinde multiplica quod remanserit de primo in eo	
+AK02-F019-L04	19	13	L04	text	quod remanserit tibi de secundo; et proinde ex eo quod colle-	
+AK02-F019-L05	19	13	L05	text	ctum fuerit .{sc:ix}., si fuerit ibi; et si non fuerint ibi .{sc:ix}., quod	
+AK02-F019-L06	19	13	L06	text	remanserit, erunt nota. Si autem fuerint ibi .{sc:ix}., proice .{sc:ix}.	
+AK02-F019-L07	19	13	L07	text	et serua quod remanserit; et quare hec erunt nota, intellige.	
+AK02-F019-L08	19	13	L08	text	Post hec multiplica unam multiplicationem in aliam;et diuide	
+AK02-F019-L09	19	13	L09	text	quod collectum fuit per .{sc:ix}.; et quod remanserit, si fuerit si-	
+AK02-F019-L10	19	13	L10	text	mile illi quod dixi tibi de nota, scito quare inuenisti. Si uero	
+AK02-F019-L11	19	13	L11	text	non fuerit simile, errasti: intellige.	
+AK02-F019-L12	19	13	L12	indent	In diuisione autem pones numerum quem uolueris diuidere	
+AK02-F019-L13	19	13	L13	text	per differentias suas : postea pones ipsum numerum, super	
+AK02-F019-L14	19	13	L14	text	quem uis diuidere, sub eo. Sitque ultima differentia numeri	
+AK02-F019-L15	19	13	L15	text	super quem diuidis sub ultima differentia superioris numeri	
+AK02-F019-L16	19	13	L16	text	quem diuidis. Si autem fuerit numerus, qui est ultima diffe-	
+AK02-F019-L17	19	13	L17	text	rentia superioris numeri quem uis diuidere, minus illo qui est	
+AK02-F019-L18	19	13	L18	text	ultima differentia inferioris numeri super quem diuidis, re-	
+AK02-F019-L19	19	13	L19	text	trahe ipsam differentiam uersus dexteram, donec sit numerus	
+AK02-F019-L20	19	13	L20	text	superioris differentie plus 1 : pone ultimam differentiam infe-	
+AK02-F019-L21	19	13	L21	text	rioris numeri, super quem diuidis,sub differentia secunda que	
+AK02-F019-L22	19	13	L22	text	succedit ultimam differentiam superioris numeri. Post hec	
+AK02-F019-L23	19	13	L23	text	aspice primam differentiam numeri super quem uis diuidere,	
+AK02-F019-L24	19	13	L24	text	et pone in directo eius super numerum superioriorem({i:sic})quem	
+AK02-F019-L25	19	13	L25	text	diuidis, uel sub eo in directo eius aliquem|numerum quem inde	car. 106 {i:verso}.
+AK02-F019-L26	19	13	L26	text	multiplicaueris in ultima differentia inferioris numeri super	
+AK02-F019-L27	19	13	L27	text	quem diuidis, erit similis illius numeri qui fuerit in superiori	
+AK02-F019-L28	19	13	L28	text	differentia, uel prope eum qui sit minus illo. Cumque scieris	
+AK02-F019-L29	19	13	L29	text	eum, multiplica eum in ultima differentia inferioris numeri,	
+AK02-F019-L30	19	13	L30	text	et minue quod exierit tibi de multiplicatione de eo quod est	
+AK02-F019-L31	19	13	L31	text	supra eum ex inferiori numero qui diuiditur.Iterum multiplica	
+AK02-F019-L32	19	13	L32	text	eum in secunda differentia que succedit ultimam differentiam	
+AK02-F019-L33	19	13	L33	text	uersus dexteram; et minue eum de eo quod est super eum; et	
+AK02-F020-L01	20	14	L01	text	fac in diminutione quem admodum fecimus in inicio libri.	
+AK02-F020-L02	20	14	L02	text	Cum uolueris minuere aliquem numerum de aliquo numero,et	
+AK02-F020-L03	20	14	L03	text	similiter fac,donec multiplices eum in uniuersis differentiis in-	
+AK02-F020-L04	20	14	L04	text	ferioris numeri super quem diuidis. Post hec muta uniuersas	
+AK02-F020-L05	20	14	L05	text	differentias inferioris numeri, super quem diuidis, una diffe-	
+AK02-F020-L06	20	14	L06	text	rentia uersus dexteram, et pone in directo prime differentie	
+AK02-F020-L07	20	14	L07	text	illius ad similitudinem illius quod prius posuisti. Quod cum	
+AK02-F020-L08	20	14	L08	text	multiplicaueris in ultima differentia inferioris numeri super	
+AK02-F020-L09	20	14	L09	text	quem diuidis, consument id quod supra eum est, uel quod	
+AK02-F020-L10	20	14	L10	text	fuerit prope eum: et multiplica illud quod posuisti in directo	
+AK02-F020-L11	20	14	L11	text	eius in ultima differentia numeri inferioris ; et minue quod	
+AK02-F020-L12	20	14	L12	text	exierit tibi de multiplicatione de eo quod supra eum est; et	
+AK02-F020-L13	20	14	L13	text	sic facies in uniuersis differentiis : et si remanserit de diffe-	
+AK02-F020-L14	20	14	L14	text	rentiis numeri superioris quem diuidis aliquid quod debeat di-	
+AK02-F020-L15	20	14	L15	text	uidi,semper muta differentias inferioris numeri una differentia,	
+AK02-F020-L16	20	14	L16	text	donec sit prima differentia eius in directo alicuius differentie	
+AK02-F020-L17	20	14	L17	text	superioris numeri : quod si fuerit in aliqua differentia, ex dif-	
+AK02-F020-L18	20	14	L18	text	ferentiis numeri quem diuidis, circulus, et peruenerit mutatio	
+AK02-F020-L19	20	14	L19	text	ad eum, non transeas eum, quem ad modum fecisti in multi-	
+AK02-F020-L20	20	14	L20	text	plicatione. Set pones in directo eius aliquid quod multipli-	
+AK02-F020-L21	20	14	L21	text	cabis quem ad modum narrauimus. Cumque perfeceris hec	
+AK02-F020-L22	20	14	L22	text	omnia, quicquid exierit tibi ex differentiis in directo numeri	
+AK02-F020-L23	20	14	L23	text	quem diuidis, illud debetur uni: et si aliquid remanserit, erit	
+AK02-F020-L24	20	14	L24	text	pars unius ex eo numero quem diuidis,et numquam remanebit	
+AK02-F020-L25	20	14	L25	text	nisi quod erit minus illo quod diuidis. Si autem plus reman-	
+AK02-F020-L26	20	14	L26	text	serit, scito quod errasti.	
+AK02-F020-L27	20	14	L27	indent	Et scito quod diuisio sit similis multiplicationi; set hoc fit	
+AK02-F020-L28	20	14	L28	text	econuerso: quare in diuisione minuimus, et ibi addimus, idest	
+AK02-F020-L29	20	14	L29	text	in multiplicatione eius exemplar est. Quod cum uellemus di-	
+AK02-F020-L30	20	14	L30	text	uidere quadraginta sex milia et quadrigentos sexaginta octo	
+AK02-F020-L31	20	14	L31	text	super tercentos .{sc:xxiiii}., posuimus primum in dextera parte	
+AK02-F020-L32	20	14	L32	text	octo; postea posuimus sex uersus sinistram qui sunt sexaginta:	
+AK02-F020-L33	20	14	L33	text	de inde .{sc:iiii}.{sup:or} qui sunt quadringenti; postea sex que sunt .{sc:vi}.	
+AK02-F021-L01	21	15	L01	text	milia ; postea .{sc:iiii}.{sup:or} que sunt quadringinta milia. Eruntque	
+AK02-F021-L02	21	15	L02	text	ultima harum differentiarum uersus sinistram, et prima earum	
+AK02-F021-L03	21	15	L03	text	octo uersus | dexteram: post hec scribes sub eis numerum su-	car. 107 {i:recto}.
+AK02-F021-L04	21	15	L04	text	per quem diuidis; scribesque ultimam differentiam numeri ,	
+AK02-F021-L05	21	15	L05	text	super quem diuidis, que est figura trium,et sunt tercenti sub	
+AK02-F021-L06	21	15	L06	text	ultima differentia numeri superioris, que sunt {sc:iiii}.{sup:or}, eo quod	
+AK02-F021-L07	21	15	L07	text	sit minus illo quod est supra eum : et si esset plus illo,retra-	
+AK02-F021-L08	21	15	L08	text	hemus eum una mansione, ponemusque eum sub sex : post	
+AK02-F021-L09	21	15	L09	text	hec ponemus in ea,que succedit tres,figuram duorum que sunt	
+AK02-F021-L10	21	15	L10	text	.{sc:xx}. sub sex: postea ponemus in ea que succedit .{sc:iiii}.{sup:or} idem	
+AK02-F021-L11	21	15	L11	text	.{sc:iiii}.{sup:or}: et hec figura earum.	
+AK02-F021-L12	21	15	L12	indent	Post hec insipientes scribamus in directo prime differentie	
+AK02-F021-L13	21	15	L13	text	numeri super quem diuidimus super numerum superiorem	
+AK02-F021-L14	21	15	L14	text	quem diuidimus qui sunt quater unum: et si posuissemus eum	
+AK02-F021-L15	21	15	L15	text	sub .{sc:iiii}.{sup:or}, esset conueniens. Multiplicemusque ipsum in tri-	
+AK02-F021-L16	21	15	L16	text	bus, et minuemus eum de eo quod supra ipsum est, et rema-	
+AK02-F021-L17	21	15	L17	text	nebit unum. De inde multiplicemus eum in duobus; minue-	
+AK02-F021-L18	21	15	L18	text	mus eum de eo quod supra ipsum est, qui sunt .{sc:vi}., et re-	
+AK02-F021-L19	21	15	L19	text	manebunt .{sc:iiii}.{sup:or} Post hec multiplicemus eum iterum in	
+AK02-F021-L20	21	15	L20	text	.{sc:iiii}.{sup:or}, et minuemus eum de eo quod supra ipsum est, que	
+AK02-F021-L21	21	15	L21	text	sunt .{sc:iiii}., et nichil remanebit : ponemusque in loco eius cir-	
+AK02-F021-L22	21	15	L22	text	culum. Postea mutabis inicium numeri super quem diuidis,uel	
+AK02-F021-L23	21	15	L23	text	.{sc:iiii}.{sup:or} sub .{sc:vi}., et erunt duo sub circulo, et {sc:iii}. sub .{sc:iiii}. De	
+AK02-F021-L24	21	15	L24	text	inde scribes in directo inferioris numeri aliquid in ordine	
+AK02-F021-L25	21	15	L25	text	unius, idest .{sc:iiii}., quos multiplicabis in tribus, et erunt {sc:xii}.;	
+AK02-F021-L26	21	15	L26	text	minuesque eos de eo quod est super tres qui sunt {sc:xiiii}., et	
+AK02-F021-L27	21	15	L27	text	remanebunt .{sc:ii} : post hec multiplicabis etiam ipsos .{sc:iiii}.{sup:or} in	
+AK02-F021-L28	21	15	L28	text	duobus qui succedunt tres, et erunt {sc:viii}. , quos minues de eo	
+AK02-F021-L29	21	15	L29	text	quod supra ipsum est qui sunt .{sc:xx}., et remanebunt {sc:xii}., duo	
+AK02-F021-L30	21	15	L30	text	scilicet supra {sc:ii}.{sup:o}, et unum supra tres. Iterum multiplicabis	
+AK02-F021-L31	21	15	L31	text	.{sc:iiii}., in .{sc:iiii}. qui succedunt dexteram, et erunt {sc:xvi}.; minues-	
+AK02-F021-L32	21	15	L32	text	que eos de eo quod supra ipsos est qui sunt .{sc:cxxvi}. , et	
+AK02-F021-L33	21	15	L33	text	remanebunt supra .{sc:iiii}. circulus , et supra duos unum , et	
+AK02-F022-L01	22	16	L01	text	super tres unum. Iterum mutabis numerum super quem diui-	
+AK02-F022-L02	22	16	L02	text	dis, idest {sc:iiii}.{sup:or} sub {sc:viii}., erunt duo sub circulo et tres sub	
+AK02-F022-L03	22	16	L03	text	uno: postea scribes in directo {sc:iiii}. super numerum superiorem	
+AK02-F022-L04	22	16	L04	text	quem diuidis in ordine .{sc:iiii}., atque unius tres, quos multipli-	
+AK02-F022-L05	22	16	L05	text	cabis in tribus, et erunt .{sc:ix}.; minuesque eos de eo quod est	
+AK02-F022-L06	22	16	L06	text	supra tres, qui sunt {sc:xi}., et remanebunt super tres duo. Mul-	
+AK02-F022-L07	22	16	L07	text	tiplicabis quoque tres in duobus qui succedunt tres, et erunt	
+AK02-F022-L08	22	16	L08	text	{sc:vi}., quo minues de eo quod est supra tres qui sunt .{sc:xx}. ,	
+AK02-F022-L09	22	16	L09	text	remanebunt .{sc:xiiii}. Iterum multiplicabis predictos tres in	
+AK02-F022-L10	22	16	L10	text	.{sc:iiii}.{sup:or} qui succedunt duos, et erunt {sc:xii}. ; minuesque eos de	
+AK02-F022-L11	22	16	L11	text	eo quod super illos est, qui sunt {sc:cxxviii}., et remanebunt su-	
+AK02-F022-L12	22	16	L12	text	pra .{sc:iiii}. sex, et supra duos tres, et supra tres unum. Exibit-	
+AK02-F022-L13	22	16	L13	text	que nobis quod debetur uni ex eis; et hoc erit .{sc:cxliii}. ,	
+AK02-F022-L14	22	16	L14	text	et {sc:cxxxvi}.partes de .{sc:ccc}.{sc:xxiiii}. partibus unius: et hec figura	
+AK02-F022-L15	22	16	L15	text	eorum.	
+AK02-F022-L16	22	16	L16	indent	| Et si uolueris diuidere differentias plures super unam, ut	car. 107 {i:verso}.
+AK02-F022-L17	22	16	L17	text	pote mille .{sc:dccc}. per .{sc:ix}., scribes mille octingentos, quorum	
+AK02-F022-L18	22	16	L18	text	figura est, ut ponas uersus dexteram duos circulos : postea	
+AK02-F022-L19	22	16	L19	text	.{sc:viii}.; deinde unum: post hec ponas .{sc:ix}. sub .{sc:viii}., eo quod	
+AK02-F022-L20	22	16	L20	text	sint plus .{sc:viii}. : deinde scribes in directo eius super octo ali-	
+AK02-F022-L21	22	16	L21	text	quid,quod cum multiplicaueris in .{sc:ix}.,consumet quod est super	
+AK02-F022-L22	22	16	L22	text	se , idest {sc:xviii}. qui sunt super .{sc:ix}.; inueniesque illud esse	
+AK02-F022-L23	22	16	L23	text	duo, quos multiplicabis .{sc:ix}. {sc:ix}. et erunt .{sc:xviii}.; minuesque	
+AK02-F022-L24	22	16	L24	text	eos de eo quod est desuper, et nichil remanebit : de inde	
+AK02-F022-L25	22	16	L25	text	muta .{sc:ix}. una differentia uersus dexteram, et fient sub cir-	
+AK02-F022-L26	22	16	L26	text	culo. Ponesque aliquid de super, quod cum multiplicaueris	
+AK02-F022-L27	22	16	L27	text	in .{sc:ix}., nichil erit: quare est circulus super .{sc:ix}., et nullus nu-	
+AK02-F022-L28	22	16	L28	text	merus est ibidem. Pones ergo circulum in directo .{sc:ix}. in or-	
+AK02-F022-L29	22	16	L29	text	dine duorum, et multiplicabis .{sc:ix}. in circulo, eritque circulus,	
+AK02-F022-L30	22	16	L30	text	idest nichil. Post hec muta etiam .{sc:ix}. ad differentiam que est	
+AK02-F022-L31	22	16	L31	text	ante eam, que est prima differentia; eruntque .{sc:ix}.sub circulo:	
+AK02-F022-L32	22	16	L32	text	et fac de eis quem admodum fecisti de circulo qui erat eos ({i:sic}).	
+AK02-F022-L33	22	16	L33	text	Eruntque ibidem duo circuli, post quos erunt duo qui sunt	
+AK02-F023-L01	23	17	L01	text	ducenti; et hoc est quod debetur uni, et non remanebit ex	
+AK02-F023-L02	23	17	L02	text	eo quod diuiditur quicquam: et quocienscumque diuiseris ali-	
+AK02-F023-L03	23	17	L03	text	quem numerum super aliquem, et remanserint de eo quod di-	
+AK02-F023-L04	23	17	L04	text	uiditur circuli, ante quos nullus sit numerus , accipe quod	
+AK02-F023-L05	23	17	L05	text	residuum fuit ex circulis ab inicio differentiarum diuisi numeri	
+AK02-F023-L06	23	17	L06	text	uersus dexteram , et addes eos super id quod exierit de diui-	
+AK02-F023-L07	23	17	L07	text	sione; et quod fuerit, ipsum est quod debetur uni. Et hec est	
+AK02-F023-L08	23	17	L08	text	quedam abreuiacio propinqua. Ordo autem primus est ordo	
+AK02-F023-L09	23	17	L09	text	operis: cuius rei exemplar est, quod cum scriberemus mille	
+AK02-F023-L10	23	17	L10	text	.{sc:dccc}, fuerunt duo circuli et {sc:viii}., et in tercia differentia ,	
+AK02-F023-L11	23	17	L11	text	atque unum in quarta: posuimus .{sc:ix}. sub .{sc:viii}, eo quod sint	
+AK02-F023-L12	23	17	L12	text	plus illo, quod est in ultima differentia; fuitque figura eorum	
+AK02-F023-L13	23	17	L13	text	ita. Cumque scriberemus in directo .{sc:ix}. supra .{sc:viii}. duo, mul-	
+AK02-F023-L14	23	17	L14	text	tiplicaremusque ea in .{sc:ix}., fuerintque .{sc:xviii}., quos cum minue-	
+AK02-F023-L15	23	17	L15	text	remus de eo quod est supra .{sc:ix}., et remanserunt duo circuli,	
+AK02-F023-L16	23	17	L16	text	nullum habentes ante se numerum. Scripsimus ergo duos cir-	
+AK02-F023-L17	23	17	L17	text	culos in ordine duorum , qui sunt supra .{sc:ix}., et fuerunt .{sc:cc}.,	
+AK02-F023-L18	23	17	L18	text	quorum hec est figura.	
+AK02-F023-L19	23	17	L19	indent	Hec sunt uniuersa que necessaria sunt hominibus ex diui-	
+AK02-F023-L20	23	17	L20	text	sione et multiplicatione in eo numero qui fuerit integer. Et	
+AK02-F023-L21	23	17	L21	text	nunc incipiemus tractare de multiplicatione fractionum, et	
+AK02-F023-L22	23	17	L22	text	earum diuisione, et de extractione radicum, si Deus uoluerit.	
+AK02-F023-L23	23	17	L23	indent	Scito quod fraciones appellentur multis nominibus in nu-	
+AK02-F023-L24	23	17	L24	text	merabilibus | atque infinitis, ut medietas, tercia, quarta, nona	car. 108 {i:recto}.
+AK02-F023-L25	23	17	L25	text	et decima, et una pars ex {sc:xiii}., et pars ex .{sc:x}.{sc:viii}., et cetera.	
+AK02-F023-L26	23	17	L26	text	Set indi posuerunt exitum partium suarum ex sexaginta: diui-	
+AK02-F023-L27	23	17	L27	text	serunt enim unum in .{sc:lx}. partes, quas nominauerunt minuta.	
+AK02-F023-L28	23	17	L28	text	Iterum unum quodque minutum in .{sc:lx}. partes, quas uocaue-	
+AK02-F023-L29	23	17	L29	text	runt secunda; eritque unum ex {sc:lx}. minutum, et unum ex tri-	
+AK02-F023-L30	23	17	L30	text	bus milibus et sexcentis erit secundum; et unum quodque se-	
+AK02-F023-L31	23	17	L31	text	cundum iterum diuiditur in .{sc:lx}., eritque unum ex ducentis	
+AK02-F023-L32	23	17	L32	text	milibus et {sc:xvi}. milibus tercium; et unum quodque tercium	
+AK02-F023-L33	23	17	L33	text	diuiditur in {sc:lx}. quarta, et ita usque ad infinitum erunt diffe-	
+AK02-F024-L01	24	18	L01	text	rentie: prima igitur est differentia graduum, in qua est nume-	
+AK02-F024-L02	24	18	L02	text	rus integer, et in secunda mansione erunt minuta. In tercia	
+AK02-F024-L03	24	18	L03	text	quoque sunt secunda; et in quarta tercia, et ita usque in .{sc:ix}.,	
+AK02-F024-L04	24	18	L04	text	et .{sc:x}. mansione : et scito quod omnis numerus integer qui	
+AK02-F024-L05	24	18	L05	text	multiplicatur in numero integro, efficitur numerus integer; et	
+AK02-F024-L06	24	18	L06	text	omnis numerus integer multiplicatus in aliqua fractione, effi-	
+AK02-F024-L07	24	18	L07	text	citur ex genere illius fractionis; eruntque duo gradus multi-	
+AK02-F024-L08	24	18	L08	text	plicati in duobus minutis .{sc:iiii}. minuta, et tres gradus in sex	
+AK02-F024-L09	24	18	L09	text	terciis .{sc:xviii}. tercia. Minuta quoque in minutis erunt secun-	
+AK02-F024-L10	24	18	L10	text	da; et secunda in secundis tercia; et tercia in terciis quarta ;	
+AK02-F024-L11	24	18	L11	text	et quarta in quartis quarta : quare coniunctis utrasque diffe-	
+AK02-F024-L12	24	18	L12	text	rentias quas multiplicas inuicem;et quod colligitur ex numero	
+AK02-F024-L13	24	18	L13	text	fractionum simile ei quod exit de numero integro in inuicem	
+AK02-F024-L14	24	18	L14	text	multiplicato. Verbi gratia. Sex minuta multiplicata in {sc:vii}.	
+AK02-F024-L15	24	18	L15	text	minuciis, erunt .{sc:xlii}. secunda: quare minuta sunt partes ex	
+AK02-F024-L16	24	18	L16	text	{sc:lx}. partibus unius integri : et cum multiplicaueris partes ex	
+AK02-F024-L17	24	18	L17	text	{sc:lx}. in .{sc:lx}., erit quod exierit de multiplicacione ex {sc:lx}. in {sc:lx}.,	
+AK02-F024-L18	24	18	L18	text	que sunt tria milia sexcenta: et similiter .{sc:vii}. secunda in .{sc:ix}.	
+AK02-F024-L19	24	18	L19	text	minutis erunt .{sc:lx}. tria tercia ; eruntque omnia quoque {sc:lx}.	
+AK02-F024-L20	24	18	L20	text	ex eis secundum unum, et remanebunt tria tercia : quare mi-	
+AK02-F024-L21	24	18	L21	text	nuta sunt partes ex {sc:lx}., et secunda partes ex tribus milibus	
+AK02-F024-L22	24	18	L22	text	et sexcentis. Multiplica ergo ea in inuicem , et efficientur	
+AK02-F024-L23	24	18	L23	text	partes ex ducentis milibus et {sc:xvi}. milibus que sunt tercia ,	
+AK02-F024-L24	24	18	L24	text	et sunt .{sc:lx}. ex tribus milibus et sexcentis.	
+AK02-F024-L25	24	18	L25	indent	Et cum uolueris multiplicare unum et dimidium in duo et	
+AK02-F024-L26	24	18	L26	text	dimidio, fac unum et dimidium minuta, et erunt .{sc:xc}. Iterum	
+AK02-F024-L27	24	18	L27	text	fac unum et dimidium quem uis multiplicare in eadem minu-	
+AK02-F024-L28	24	18	L28	text	ta, et erunt similiter .{sc:xc}. : multiplica unum ex eis in alio, et	
+AK02-F024-L29	24	18	L29	text	erunt .{sc:viii}. milia et .{sc:c}. secunda : diuide secunda per {sc:lx}.,	
+AK02-F024-L30	24	18	L30	text	et erunt minuta: quare omnia queque | {sc:lx}{sup:ta} {sc:ii}{sup:da}. faciunt unum	car. 108 {i:verso}.
+AK02-F024-L31	24	18	L31	text	minutum. Exibuntque tibi .{sc:c}.{sc:xxx}.{sup:ta} {sc:v}{sup:que} minuta : et diuide	
+AK02-F024-L32	24	18	L32	text	ea per {sc:lx}., et erunt gradus: quare omnia queque .{sc:lx}.{sup:ta} minuta	
+AK02-F024-L33	24	18	L33	text	faciunt unum gradum;et hoc erit unum integrum ex numero :	
+AK02-F024-L34	24	18	L34	text	exibuntque tibi duo et {sc:xvi}. minuta, que sunt quarta unius.	
+AK02-F025-L01	25	19	L01	indent	Et si uolueris multiplicare duo integra, idest duos gradus	
+AK02-F025-L02	25	19	L02	text	et {sc:xlv}. minuta in tribus integris et {sc:x}. minutis , ac .{sc:xxx}.	
+AK02-F025-L03	25	19	L03	text	secundis, pone duo integra minuta, idest multiplicabis ea in	
+AK02-F025-L04	25	19	L04	text	.{sc:lx}., et erunt .{sc:c}.{sc:xx}., quibus addes predicta .{sc:xlv}. minuta,	
+AK02-F025-L05	25	19	L05	text	et erunt .{sc:x}{sup:.c.}{sc:lv}. minuta:serva ea; quare iam reddidisti ea in ul-	
+AK02-F025-L06	25	19	L06	text	timam differentiam.Post hec fac predictos tres gradus minuta,	
+AK02-F025-L07	25	19	L07	text	multiplicando ea in {sc:lx}. ut supra. Quibus addes .{sc:x}. predicta	
+AK02-F025-L08	25	19	L08	text	minuta, et erunt .{sc:c}.{sc:xc}. minuta: de inde pone ipsa .{sc:c}.{sc:xc}. mi-	
+AK02-F025-L09	25	19	L09	text	nuta secunda, multiplicando iterum ea in .{sc:lx}., donec reddas	
+AK02-F025-L10	25	19	L10	text	ea in ultimam differentiam, idest in secunda. Erunt .{sc:xi}. milia	
+AK02-F025-L11	25	19	L11	text	quadrigenta, quibus addes .{sc:xxx}. secunda que sunt cum eis.	
+AK02-F025-L12	25	19	L12	text	Eruntque .{sc:xi}. milia quadringenta secunda. Sicque reddes ea	
+AK02-F025-L13	25	19	L13	text	in ultimum genus fractionis eiusdem numeri. Multiplica hec	
+AK02-F025-L14	25	19	L14	text	omnia predicta in .{sc:c}. {sc:lxv}. minuta, et erunt mille milium, et	
+AK02-F025-L15	25	19	L15	text	octingenta octoginta quinque milia ac nongenta quinquaginta	
+AK02-F025-L16	25	19	L16	text	tercia: quare multiplicasti ea,idest in secundas in minutiis, et	
+AK02-F025-L17	25	19	L17	text	facta sunt tercia. Quod diuides per {sc:lx}., ut reddantur secun-	
+AK02-F025-L18	25	19	L18	text	da. Exibuntque tibi .{sc:xxxi}. milia et quadringenta .{sc:xxx}.{sup:ta} {sc:ii}.{sup:o}	
+AK02-F025-L19	25	19	L19	text	secunda, et remanebunt .{sc:xxx}.{sup:ta} tercia. Item diuides secunda	
+AK02-F025-L20	25	19	L20	text	per .{sc:lx}.,ut reddantur minuta. Exibuntque tibi quingenta .{sc:xx}.	
+AK02-F025-L21	25	19	L21	text	tria minuta , et super erunt {sc:lii}. secunda. Rursum diuide	
+AK02-F025-L22	25	19	L22	text	minuta, ut reddantur gradus, idest numerus integer. Eruntque	
+AK02-F025-L23	25	19	L23	text	.{sc:viii}.{sup:to}, et remanebunt .{sc:xl}{sup:ta}{sc:iii}{sup:a}. minuta. Eritque omne quod	
+AK02-F025-L24	25	19	L24	text	exierit de multiplicacione octo gradus, et {sc:xliii}. minuta, et	
+AK02-F025-L25	25	19	L25	text	{sc:lii}. secunda, ac .{sc:xxx}. tercia: et similiter facies de uniuersis	
+AK02-F025-L26	25	19	L26	text	fractionibus; reddes scilicet unamquamque ex eis quam uolue-	
+AK02-F025-L27	25	19	L27	text	ris multiplicare in aliam inferiorem differentiam que fuerit in	
+AK02-F025-L28	25	19	L28	text	unaquaque ex eis. Post hec multiplica unam earum in aliam;	
+AK02-F025-L29	25	19	L29	text	et serua quod exierit;et uide ex qua differentiarum sit: deinde	
+AK02-F025-L30	25	19	L30	text	diuide per .{sc:lx}. quemadmodum dixi tibi , ut erigas eas ad	
+AK02-F025-L31	25	19	L31	text	gradus, uel ergo peruenerint ex differentiis que sunt infra gra-	
+AK02-F025-L32	25	19	L32	text	dus, et quod fuerit, ipsum erit quod exiuit tibi de multiplica-	
+AK02-F025-L33	25	19	L33	text	cione unius earum in aliam : et est ei alius modus breuior:	
+AK02-F026-L01	26	20	L01	text	set hic ordo est, quo usi sunt indi, super quem figurare nume-	
+AK02-F026-L02	26	20	L02	text	rum suum.	
+AK02-F026-L03	26	20	L03	indent	Scito quare cum uolueris diuidere numerum cum fractione per	
+AK02-F026-L04	26	20	L04	text	aliquem numerum cum fractione; uel numerum cum fractione	
+AK02-F026-L05	26	20	L05	text	per numerum integrum; aut numerum integrum per numerum	
+AK02-F026-L06	26	20	L06	text	cum fractione, facies utrumque numerum unius generis, idest	
+AK02-F026-L07	26	20	L07	text	uertes utrosque numeros in inferiorem differentiam.Verbi gra-	
+AK02-F026-L08	26	20	L08	text	tia. Si fuerit inferior differentia ex secundis, pones utrumque	
+AK02-F026-L09	26	20	L09	text	numerum secunda: quod si fuerint in uno ex eis tercia,et cum	
+AK02-F026-L10	26	20	L10	text	alio secunda, uertes utrosque in tercia: et si fuerit cum aliquo	
+AK02-F026-L11	26	20	L11	text	ex quarta, uel sexta, uel aliud quod sit his differentiis inferius,	
+AK02-F026-L12	26	20	L12	text	alter uero fuerit numerus integer, uertes utrosque in eam dif-	
+AK02-F026-L13	26	20	L13	text	ferentiam que fuerit in utrisque inferior: deinde diuide quod	
+AK02-F026-L14	26	20	L14	text	uolueris super quod uolueris: post quam reddideris utrumque	
+AK02-F026-L15	26	20	L15	text	numerum unius generis, et quod exi | erit, erunt gradus, idest	car. 109 {i:recto}.
+AK02-F026-L16	26	20	L16	text	numerus integer: quare omnes duo numeri qui fuerint unius	
+AK02-F026-L17	26	20	L17	text	generis, si diuidatur unus eorum per alterum, erit quod exie-	
+AK02-F026-L18	26	20	L18	text	rit numerus integer. Verbi gratia : {sc:xv}. tercie si diuidantur	
+AK02-F026-L19	26	20	L19	text	per sex tercias, exibunt de equalitate diuisionis duo et dimi-	
+AK02-F026-L20	26	20	L20	text	dium: quare .{sc:xv}. tercie faciunt .{sc:v}. integros; quos cum diui-	
+AK02-F026-L21	26	20	L21	text	seris per .{sc:vi}. tercias qui sunt duo integri, exibunt duo et di-	
+AK02-F026-L22	26	20	L22	text	midium : et similiter diuiduntur medietates per medietates,	
+AK02-F026-L23	26	20	L23	text	et quarte per quartas , minuta quoque per minuta per minu-	
+AK02-F026-L24	26	20	L24	text	ta, et secunda per secunda, ac tercia per tercia : et cum uo-	
+AK02-F026-L25	26	20	L25	text	lueris diuidere .{sc:x}. secunda super .{sc:v}. minuta, pone minuta	
+AK02-F026-L26	26	20	L26	text	secunda , ut sint unius generis , atque unius differentie ;	
+AK02-F026-L27	26	20	L27	text	eruntque tercenta secunda, super quem dum uolueris diui-	
+AK02-F026-L28	26	20	L28	text	dere .{sc:x}. secunda , non possunt diuidi .{sc:x}. super tercenta.	
+AK02-F026-L29	26	20	L29	text	Scito itaque quod non exiuit unus integer: pone ergo circu-	
+AK02-F026-L30	26	20	L30	text	lum in loco unius, et multiplica .{sc:x}. in .{sc:lx}. , et erunt sex-	
+AK02-F026-L31	26	20	L31	text	centi; quos cum diuiseris super tercentos, exibunt duo, que	
+AK02-F026-L32	26	20	L32	text	sunt duo secunda; et hoc est quod debetur uni: quare cum	
+AK02-F026-L33	26	20	L33	text	multiplicasti ea in .{sc:lx}. ; postea diuisisti , iam minuisti ea	
+AK02-F027-L01	27	21	L01	text	una differentia, que sunt secunda: et scito quare omnis nume-	
+AK02-F027-L02	27	21	L02	text	rus qui diuiditur super aliquem numerum,quod extrahitur de	
+AK02-F027-L03	27	21	L03	text	diuiso, si multiplicatur in eo super quem diuiditur, redibit	
+AK02-F027-L04	27	21	L04	text	numerus primus, idest numerus qui diuiditur. Cuius rei exem-	
+AK02-F027-L05	27	21	L05	text	plar est : quare cum diuiseris .{sc:l}. super .{sc:x}. exibunt que de-	
+AK02-F027-L06	27	21	L06	text	bentur uni, idest quinque. Cumque multiplicaueris id quod	
+AK02-F027-L07	27	21	L07	text	exiuit tibi de diuiso, idest quinque, in eo super quem diuidis	
+AK02-F027-L08	27	21	L08	text	que sunt .{sc:x}., redibit numerus primus, idest .{sc:l}. Cum ergo di-	
+AK02-F027-L09	27	21	L09	text	uideremus .{sc:x}. secunda super .{sc:v}. minuta, exiuit quod debetur	
+AK02-F027-L10	27	21	L10	text	uni, idest duo secunda: et cum multiplicaremus duo secun-	
+AK02-F027-L11	27	21	L11	text	da, hoc est quod exiuit nobis ex diuisione, in eo super quod	
+AK02-F027-L12	27	21	L12	text	diuisimus que sunt .{sc:v}. minuta, facta sunt .{sc:x}. secunda, et hec	
+AK02-F027-L13	27	21	L13	text	est probatio diuisionis. Item cum uolueris diuidere .{sc:x}. mi-	
+AK02-F027-L14	27	21	L14	text	nuta super .{sc:v}.tercia, uerte minuta in tercia, eruntque .{sc:xxxvi}.	
+AK02-F027-L15	27	21	L15	text	milia tercia; diuidesque super .{sc:v}. tercia, et erunt .{sc:vii}. milia	
+AK02-F027-L16	27	21	L16	text	ducenti gradus, et hoc est quod debetur uni.	
+AK02-F027-L17	27	21	L17	indent	Cumque hoc uolueris probare, multiplica .{sc:vii}. milia ducen-	
+AK02-F027-L18	27	21	L18	text	tos gradus in .{sc:v}. tercia, et exibunt .{sc:xxxvi}. milia, que cum di-	
+AK02-F027-L19	27	21	L19	text	uiseris per .{sc:lx}. , exibunt .{sc:vi}. centa secunda; et cum iterum	
+AK02-F027-L20	27	21	L20	text	diuiseris .{sc:vi}. centa secunda, exibunt decem minuta.	
+AK02-F027-L21	27	21	L21	indent	Cum uolueris constituere numerum integrum et fractiones ,	
+AK02-F027-L22	27	21	L22	text	pone numerum integrum in altiori differentia : deinde pone	
+AK02-F027-L23	27	21	L23	text	quicquid fuerit ex differentia prima que sunt minuta sub nu-	
+AK02-F027-L24	27	21	L24	text	mero integro, et secunda sub minutis; et similiter tercia sub	
+AK02-F027-L25	27	21	L25	text	secundis , et cetera que uolueris ex differentiis. Cuius rei	
+AK02-F027-L26	27	21	L26	text	exemplar est. Quod cum uellemus constituere .{sc:xii}. gradus et	
+AK02-F027-L27	27	21	L27	text	.{sc:xxx}. minuta, .{sc:xl}. quoque .{sc:vi}. secunda, et .{sc:l}. quarta, con-	
+AK02-F027-L28	27	21	L28	text	stituimus .{sc:xii}. Post hec posuimus sub eis .{sc:xxx}. in differen-	
+AK02-F027-L29	27	21	L29	text	tia minutorum ; et sub .{sc:xxx}. {sc:xlv}. in differentia secundo-	
+AK02-F027-L30	27	21	L30	text	rum. In differentia uero terciorum posuimus circulos, quare	
+AK02-F027-L31	27	21	L31	text	carebat terciis, et ut sciremus quare adhuc restabant quarta.	
+AK02-F027-L32	27	21	L32	text	Deinde posuimus sub circulis quinquaginta in differentia	
+AK02-F027-L33	27	21	L33	text	quartorum; et hec est figura eorum.	
+AK02-F028-L01	28	22	L01	indent	Et similiter uniuersas differentias fractionum sub se inui-	
+AK02-F028-L02	28	22	L02	text	cem; et quotienscumque collecta fuerint in aliqua mansione	
+AK02-F028-L03	28	22	L03	text	.{sc:lx}., uel plus, ponemus in loco eorum, idest in eorum diffe-	
+AK02-F028-L04	28	22	L04	text	rentia quicquid residuum fuerit super .{sc:lx}.; et faciemus de	
+AK02-F028-L05	28	22	L05	text	omni .{sc:lx}. unum.|Ponemus eum in superiora ({i:sic}) differentia: et	car. 109 {i:verso}.
+AK02-F028-L06	28	22	L06	text	similiter si uoluerimus inuenire fractiones, incipiemus a supe-	
+AK02-F028-L07	28	22	L07	text	riori differentia; minuemusque unamquamque differentiam de	
+AK02-F028-L08	28	22	L08	text	ea que supra ipsa est. Quod si fuerit in eadem superiori diffe-	
+AK02-F028-L09	28	22	L09	text	rentia minus eo quod uolueris, minue ex ea : uel fuerit in ea	
+AK02-F028-L10	28	22	L10	text	circulus, minue unum de differentia que est super eam; fiet-	
+AK02-F028-L11	28	22	L11	text	que ipsum unum partes .{sc:lx}. de fractione quam operaris; et	
+AK02-F028-L12	28	22	L12	text	minue ex eo quod operaris; et adde quod residuum fuerit super	
+AK02-F028-L13	28	22	L13	text	differentiam inperfectam: et si fuerit supra ipsam differentiam	
+AK02-F028-L14	28	22	L14	text	circulus, minue de differentia que est supra eam, unum, et	
+AK02-F028-L15	28	22	L15	text	redde eum partes .{sc:lx}. in differentia que est infra ipsam: de-	
+AK02-F028-L16	28	22	L16	text	inde minue iterum ex ea etiam unum, et fac eum partes ut	
+AK02-F028-L17	28	22	L17	text	supra in differentia quam uolueris. Post hec minue ex ea quod	
+AK02-F028-L18	28	22	L18	text	uolueris; et quod residuum fuerit pone in ea differentia qua	
+AK02-F028-L19	28	22	L19	text	finitum est id quod minuitur ex ea.	
+AK02-F028-L20	28	22	L20	indent	Et cum duplare aliquem numerum uel fractionem, incipe	
+AK02-F028-L21	28	22	L21	text	a differentia altiori : de inde ab ea que eam succedit. Cumque	
+AK02-F028-L22	28	22	L22	text	collectum fuerit in aliqua differentiarum aliud plus numero	
+AK02-F028-L23	28	22	L23	text	eius partium, pone superfluum in ea differentia, et subleua	
+AK02-F028-L24	28	22	L24	text	unum a differentia que est supra ipsam. In mediatione autem	
+AK02-F028-L25	28	22	L25	text	incipies ab inferiori differentia, mediabisque illam; deinde se-	
+AK02-F028-L26	28	22	L26	text	quentem : et si inueneris ibi unum, fac de eo quemadmodum	
+AK02-F028-L27	28	22	L27	text	exposui tibi in inicio libri. Et si uolueris multiplicare fractiones	
+AK02-F028-L28	28	22	L28	text	et numerum, ac fractiones extra minuta, uel secunda, ut sunt	
+AK02-F028-L29	28	22	L29	text	quarte et septime, ac cetere partes his similes, et diuidere eas	
+AK02-F028-L30	28	22	L30	text	in inuicem, erit opus in eis sicut opus minutorum et secundo-	
+AK02-F028-L31	28	22	L31	text	rum; et constituam tibi exemplar, si deus uoluerit. Et iam pa-	
+AK02-F028-L32	28	22	L32	text	tefeci tibi in multiplicacione minutorum et secundorum ac	
+AK02-F028-L33	28	22	L33	text	terciorum de duobus numeris, quos uolueris multiplicare in	
+AK02-F029-L01	29	23	L01	text	inuicem, idest unum eorum in alio; qualiter constitues eos	
+AK02-F029-L02	29	23	L02	text	unius generis, ut uertas eos, scilicet in genus ultime differen-	
+AK02-F029-L03	29	23	L03	text	tie, idest si fuerit ultima ex secundis, uerte eos .{sc:ii}. secunda;	
+AK02-F029-L04	29	23	L04	text	et si fuerit ex terciis in tercia, et cetera. Similiter facies in	
+AK02-F029-L05	29	23	L05	text	partibus, idest si fuerit ultima differentia ex quintis uel ex se-	
+AK02-F029-L06	29	23	L06	text	ptimis, reddes numerum tuum ex genere eiusdem partis. Post	
+AK02-F029-L07	29	23	L07	text	hec multiplicabis eum in inuicem; et quod exierit, subleuabis	
+AK02-F029-L08	29	23	L08	text	eum ad numerum integrum, idest diuides eum per similem	
+AK02-F029-L09	29	23	L09	text	eiusdem generis multiplicati in alio genere, quasi uelles mul-	
+AK02-F029-L10	29	23	L10	text	tiplicare .{sc:iii}. septimas in .{sc:iiii}.{sup:or} nouenis, essentque ille septe-	
+AK02-F029-L11	29	23	L11	text	ne et nouene in prima differentia fractionis quasi minuta;mul-	
+AK02-F029-L12	29	23	L12	text	tiplicaresque eas in inuicem, et fierent in sua differentia ex	
+AK02-F029-L13	29	23	L13	text	genere secundorum. Cumque uolueris eas subleuare ad nume-	
+AK02-F029-L14	29	23	L14	text	rum integrum, diuides eas per utrasque differentias, que sunt	
+AK02-F029-L15	29	23	L15	text	septene in nouenis. Quod si aliud diuisum fuerit, et exierit	
+AK02-F029-L16	29	23	L16	text	de diuisione, numerus erit integer; et si non poterit diuidi,	
+AK02-F029-L17	29	23	L17	text	erunt partes unius eiusdem generis per quod diuisisti. Erunt-	
+AK02-F029-L18	29	23	L18	text	que tres septene in .{sc:iiii}.{sup:or} nouenis .{sc:xii}. partes et .{sc:lx}. tribus	
+AK02-F029-L19	29	23	L19	text	partibus unius. Cum ergo uolueris multiplicare tres et dimi-	
+AK02-F029-L20	29	23	L20	text	dium, idest .{sc:viii}. et tribus partibus .{sc:xi}., scribes tres, et pones	
+AK02-F029-L21	29	23	L21	text	sub eis unum, et sub uno duo. Iamque scripsisti tres et dimi-	
+AK02-F029-L22	29	23	L22	text	dium: quare dimidium est una pars duorum, quemadmodum	
+AK02-F029-L23	29	23	L23	text	unum minutum est una pars de {sc:lx}. partibus unius. Post hec	
+AK02-F029-L24	29	23	L24	text	scribes in alia parte .{sc:viii}., et sub eis tres, et sub tribus .{sc:xi}.,	
+AK02-F029-L25	29	23	L25	text	sicque constitues .{sc:viii}. (1).	
+AK02-F029-N01	29	23	N01	note	(1) Nel margine inferiore della carta 109 {i:verso} del suddetto codice {i:Ii}. 6. 5.	
+AK02-F029-N02	29	23	N02	note	si legge: {i:dicque constitues} .{sc:viii}. Più sotto nel margine stesso si legge: {i:est qui-}	
+AK02-F029-N03	29	23	N03	note	{i:dem}. Il {i:recto} della carta 110 del codice medesimo incomincia così (lin. 1—4):	
+AK02-F029-N04	29	23	N04	note	{i:Est quidem guazal cora tabula ad celi rotunditatem conformata, cuius itemque}	
+AK02-F029-N05	29	23	N05	note	{i:superficies equali spatiorum intersticione quadrifidis ab ipso centro per dia-}	
+AK02-F029-N06	29	23	N06	note	{i:metrum, fusis lineationibus, partita est.}	

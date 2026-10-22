@@ -1,0 +1,214 @@
+{
+ "anchor": "AK01-F044",
+ "frame": 44,
+ "frame_file": "page_044.jpg",
+ "frame_sha256": "a1b1cd58da7d1e37d3c5cb48b3b5f12b7fa8f47468b4153fcd330332e044ddbb",
+ "printed_page": "٢٨",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 044, printed p. 28: the chapter on multiplication continued: the end of (10-1)(10-1) = 81; (10+2)(10-1) = 108; why the examples were given; the things (roots) multiplied: (10-x)10 = 100-10x, (10+x)10 = 100+10x, (10+x)(10+x) = 100+20x+x², (10-x)(10-x) = 100+x²-20x; continued on the next page. Below the rule five footnotes of the editors, one printed line each.",
+ "lines": [
+  {
+   "id": "AK01-F044-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "الناقص فى العشرة عشرة ناقصة والواحد الناقص أيضا فى العشرة عشرة ناقصة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F044-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "فذلك ثمانون والواحد الناقص فى الواحد الناقص واحد زائد فذلك أحد وثمانون.",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F044-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "واذا كانت عشرة واثنان فى عشرة الا واحداً {n:١} فالعشرة فى العشرة مائة",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F044-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "والواحد الناقص فى العشرةعشرةناقصةوالاثنان الزائدان فى العشرةعشرون زائدة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F044-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "فذلك مائة وعشرة والاثنان الزائدان فى الواحد المنقوص اثنان ناقصان فذلك",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F044-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "كله مائة وثمانية . وإنما بينت ذلك لتستدل به على ضرب الأشياء بعضها فى بعض",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F044-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "اذا كان معها عدد أو استثنيت من عدد أو استثنى منها عدد . فاذا قيل لك عشرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F044-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "الا شيئا ومعنى الشىء الجذر فى عشرة {n:٢} فاضرب عشرة فى عشرة يكون مائة",
+   "note_marks": [
+    "٢"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F044-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "والا شيئا فى عشرة يكون عشرة أجذار ناقصة فيعدل مائة الا عشرة أشياء . فان",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F044-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "قال عشرة وشىء فى عشرة فاضرب عشرة فى عشرة يكون مائة وشيئا فى عشرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F044-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "بعشرة أشياء زائدة يكون مائة وعشرة أشياء . وان قال عشرة وشىء فى مثلها {n:٣}",
+   "note_marks": [
+    "٣"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F044-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "قلت عشرة فى عشرة مائة وعشرةفى شىء بعشرةأشياء وعشرةفى شىء بعشرة أشياء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F044-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "أيضا وشىء فى شىء مال زائد فيكون ذلك مائة درهم وعشرين شيئا ومالا زائداً .",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F044-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "وإن قال عشرة الا شيئاً فى عشرة الا شيئاً {n:٤} قلت عشرة فى عشرة بمائة والا",
+   "note_marks": [
+    "٤"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F044-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "شيئاً فى عشرة عشرة أشياء ناقصة والا شيئا فى عشرة عشرة أشياء ناقصة والا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F044-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "شيئاً فى الا شيئاً مال زائد فيكون ذلك مائة ومالا الا عشرين شيئاً {n:٥} وكذلك",
+   "note_marks": [
+    "٥"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١",
+    "٢",
+    "٣",
+    "٤",
+    "٥"
+   ],
+   "lines": 5,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "Note (٥) of the editors reproduces a marginal gloss (حاشية) of the manuscript: «ومثله لو كان السؤال شىء إلا عشرة فى شىء إلا عشرة», that is, and the same if the question were a thing less ten times a thing less ten. The gloss is the manuscript's text, quoted as the edition prints it (with إلا, where the text has الا)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "Set without a word space after the tā' marbūṭa, and transcribed so: العشرةعشرةناقصةوالاثنان, العشرةعشرون (L04), وعشرةفى (L12, twice), بعشرةأشياء (L12). The ة stands 4 to 9 px from the next letter (nearest approach of the letters at 400 ppi), as on frames 032-043 where the print sets these letters without a space (5 to 10 px); with a space they stand 17 to 46 px apart, and on this page the same words are set spaced in العشرة عشرة (L01, 26 and 34 px), عشرة فى and بعشرة أشياء (L12, 25 and 29 px). In L04 the ة of عشرة stands 13 px from the ن of ناقصة: the ن and the other toothed letters stand some px further from the preceding letter than other letters do (frame 045, L09 and L13: 11 px for أشياءناقصة), and the words are taken as set without a space.",
+  "L04 is set tight: after letters with a tail the word spaces measure 8 to 9 px (الناقص فى, فى العشرة), after the د of والواحد 24 px.",
+  "L02: the full stop is set close after وثمانون. L13: the full stop stands after a space at the end of the line. The other full stops (L06, L07, L09, L11) stand between spaces.",
+  "Plain alif where a hamza might be expected, as printed: واذا (L03), الا (L03, L08, L09, L14, L16), والا (L09, L14, L15), اذا (L07), فاذا (L07), فان (L09), وان (L11), والاثنان (L04, L05), اثنان (L05); with hamza: أيضا (L01, L13), أحد (L02), وإنما, الأشياء (L06), أو (L07), أجذار, أشياء (L09), وإن (L14).",
+  "With tanwīn on the final alif: واحداً (L03), زائداً (L13), شيئاً (L14, L15, L16); without tanwīn as printed: أيضا (L01, L13), شيئا (L08, L09, L13), وشيئا (L10), ومالا (L13, L16), and the second شيئا of L15.",
+  "The final yā' is printed without dots: فى throughout, على (L06), استثنى (L07), ومعنى (L08); and before the hamza: الشىء (L08), وشىء (L10, L11, L13), شىء (L12, L13).",
+  "The note marks (١) (L03), (٢) (L08), (٤) (L14) and (٥) (L16) stand between spaces; (٣) ends L11, after a space.",
+  "The print stretches واحداً (L03) with the elongation stroke; the stroke is not transcribed.",
+  "Notes (١) to (٤) of the editors restate the examples in modern notation; not reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

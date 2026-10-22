@@ -1,0 +1,199 @@
+{
+ "anchor": "AK01-F052",
+ "frame": 52,
+ "frame_file": "page_052.jpg",
+ "frame_sha256": "6160312568fc361e2382a7a29d44b6d7f8da223ba6ecd346726c6cd26d9162a9",
+ "printed_page": "٣٦",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 052, printed p. 36: the second of the six problems solved (one part six, the other four; squares equal to a number); the third problem, «والمسألة الثالثة», in bold: ten divided into two parts, one part divided by the other gives four (the part is two; roots equal to a number); then the fourth problem, «والمسألة الرابعة», in bold: a quantity of which a third and a dirham multiplied by a quarter and a dirham gives twenty, continued on the next page. Below the rule two footnotes of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F052-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "وهو تسعة أجزاء من خمسة وعشرين جزءا وهو خمس وأربعة أخماس الخمس فخذ",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F052-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "خمس المائة وأربعة أخماس خمسها وهو ستة وثلاثون تعدل مالا فخذ جذرهاستة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F052-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "وهو أحد القسمين والآخر أربعة لامحالة فقد أخرجتك هذه المسألة الى أحد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F052-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "الأبواب الستة وهى أموال تعدل عددا . {b:والمسألة الثالثة} عشرة قسمتها قسمين",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "والمسألة الثالثة"
+   ]
+  },
+  {
+   "id": "AK01-F052-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "ثم قسمت أحدهما على الآخر فخرج القسم أربعة {n:١} . فقياس ذلك أن تجعل أحد",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F052-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "القسمين شيئا والآخر عشرة الا شيئا ثم تقسم عشرة الا شيئاً على شىء ليكون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F052-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "أربعة وقد علمت انك متى ماضربت ما خرج لك من القسم فى المقسوم عليه عاد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F052-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "المال الذى قسمته والقسم فى هذه المسألة أربعة والمقسوم عليه شىء فاضرب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F052-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "أربعة فى شىء فيكون أربعة أشياء تعدل المال الذى قسمته وهو عشرة الا شيئا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F052-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "فاجبر العشرة بالشىء وزده على الأربعة الاشياء فيكون خمسة أشياء تعدل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F052-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "عشرة فالشىء الواحد اثنان وهو أحد القسمين فقد أخرجتك هذه المسألةالى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F052-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "أحد الأبواب الستة وهى جذور تعدل عدداً . {b:والمسألة الرابعة} مال ضربت ثلثه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "والمسألة الرابعة"
+   ]
+  },
+  {
+   "id": "AK01-F052-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "ودرهما فى ربعه ودرهم فكان عشرين {n:٢} . قياسه أن تضرب ثلث شىءفى ربع شىء",
+   "note_marks": [
+    "٢"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F052-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "فيكون نصف سدس مال وتضرب درهمافى ثلث شىءفيكون ثلث شىءودرهمافى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F052-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "ربع شىء بربع شىء ودرهما فى درهم بدرهم فذلك كله نصف سدس مال وثلث شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١",
+    "٢"
+   ],
+   "lines": 6,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L04: the words والمسألة الثالثة, and L12: والمسألة الرابعة, are printed in a bold face, the run-in headings of the third and the fourth problem after the full stop that ends the preceding one; the words that follow, عشرة and مال, are in the face of the text.",
+  "L01 and L02: the ف of فخذ is printed in the form it takes before خ, its head set on the خ; it is the ف of فخرج (L05).",
+  "Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): جذرهاستة (L02; 13 between the alif and the س), لامحالة (L03; 14 between the لا and the م, closer than the ligature stands to the next letter inside a word, 20 to 26 px: الاعداد on frame 053, L05, 20), ماضربت (L07; 10 between the alif and the ض, where ما خرج in the same line stands 28 apart), المسألةالى (L11; 9 between the ة and the alif, where المسألة الى stands 29 apart in L03), شىءفى (L13; 6 between the hamza and the ف), شىءفيكون (L14; 6), شىءودرهمافى (L14; 4 between the hamza and the و, 11 between the alif and the ف), درهمافى (L14; 11). Inside a word the alif stands 8 to 17 px from the next letter on this page (اثنان, L11, 17; انك, L07, 16), the hamza on the line 5 to 10 from the ى before it; with a space the alif stands 22 or more from the next word, the hamza on the line 21 or more.",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: الستة وهى (L12; 15 between the ة and the و, where the ة stands 20 to 42 from the next word elsewhere on this page, and 4 to 8 from the و in مائةومال and مائةوخمسين on frame 050), شيئا والآخر (L06; 22 between the alif and the conjunction و).",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: أخماس الخمس (L01; 10), على الآخر (L05; 14), أن تجعل (L05; 5), أن تضرب (L13; 13), تضرب ثلث (L13; 15), فى ربع (L13; 6), فى ثلث (L14; 14), فيكون ثلث (L14; 14), فذلك كله (L15; 8), كله نصف (L15; 11), نصف سدس (L15; 6), سدس مال (L15; 8), مال وثلث (L15; 7).",
+  "The note marks (١) (L05) and (٢) (L13) stand between spaces after أربعة and عشرين, and each is followed by a full stop, which stands between spaces too. The full stops after عددا (L04) and عدداً (L12) stand between spaces.",
+  "Plain alif where a hamza might be expected, as printed: الى (L03), الا (L06, twice; L09), انك (L07), الاشياء (L10), المسألةالى (L11), اثنان (L11); with hamza: أجزاء, وأربعة, أخماس (L01), وأربعة, أخماس (L02), أحد, أربعة, أخرجتك, المسألة (L03), الأبواب, أموال, والمسألة (L04), أحدهما, أربعة, أن, أحد (L05), أربعة (L07), المسألة, أربعة (L08), أربعة, أشياء (L09), الأربعة, أشياء (L10), أحد, أخرجتك (L11), أحد, الأبواب, والمسألة (L12), أن (L13); with madda: والآخر (L03, L06), الآخر (L05); on ي: المائة (L02); the hamza on the line: أجزاء, جزءا (L01), شىء (L06, L08, L09), بالشىء, أشياء, الاشياء (L10), فالشىء (L11), شىءفى, شىء (L13), شىءفيكون, شىءودرهمافى (L14), شىء (L15, three times).",
+  "With tanwīn on the final alif: شيئاً (L06, the third), عدداً (L12); without tanwīn as printed: جزءا (L01), مالا (L02), عددا (L04), شيئا (L06, the first and the second; L09), ودرهما (L13, L15), درهمافى (L14), شىءودرهمافى (L14).",
+  "The final yā' is printed without dots: الى (L03), وهى (L04, L12), على (L05, L06, L10), متى (L07), فى (L07, L08, L09, L13, L15), الذى (L08, L09), المسألةالى (L11), درهمافى (L14); and before the hamza in شىء throughout.",
+  "The print stretches الأربعة (L10) with the elongation stroke between the ع and the ة, and sets the hamza of the last شىء of L13, at the end of the line, 31 px from the ى, where it stands 5 to 10 px from it elsewhere on this page; neither is transcribed.",
+  "Note (١) of the editors restates the third problem as an equation in modern notation and solves it (the part is two). Note (٢) remarks, in substance, that in this problem and some of those that follow al-Khwārizmī uses the word مال in a sense other than the square, and that كمية would serve better there; it then solves the fourth problem in modern notation (the quantity is twelve; the other root of the equation, negative, is also given). Neither note is reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

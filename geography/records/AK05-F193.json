@@ -1,0 +1,25 @@
+{
+ "anchor": "AK05-F193",
+ "frame": 193,
+ "frame_file": "page_193.jpg",
+ "frame_sha256": "e4c216265df982e44bcfb7828f8549f486336b21f06be7d5a526692b75d1de73",
+ "printed_page": "XX",
+ "kind": "editorial",
+ "role": "MODERN_EDITORIAL (not reproduced)",
+ "comment": "Frame 193, printed p. XX: the editor's introduction continued, in German.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [
+  "the editor's introduction, p. XX, in German: 30 printed lines, with numerals in Arabic type"
+ ],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Topics of the page, with the entries and notes that it cites (the introduction is read for understanding and not reproduced or paraphrased): the minute digits; the choice of a reading in the edition; the use of the Greek text.",
+  "The introduction, pp. V-XXXI, is bound in the reverse order of its pages, from p. XXXI (frame 182) to p. V (frame 208); the frames keep the physical order, and the introduction is read from frame 208 back to frame 182. This page follows p. XIX (frame 194); p. XXI follows on frame 192.",
+  "The page number «— XX —» stands at the foot, centred. The page has no footnotes."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

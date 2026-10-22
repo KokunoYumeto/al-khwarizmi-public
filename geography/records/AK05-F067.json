@@ -1,0 +1,353 @@
+{
+ "anchor": "AK05-F067",
+ "frame": 67,
+ "frame_file": "page_067.jpg",
+ "frame_sha256": "5592be0aea32a03c94e2a6d0101db0eadf178f47a97d9c46feff4c649f4bba70",
+ "printed_page": "٦١",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 067, printed p. 61: the left-hand page of the opening pp. 60-61: the boundaries, colours and directions of the last three entries of the sixth clime, 871/872-875/876, the dam of Gog and Magog among them; the ends of the headings of the seventh clime, with its latitude, 48, and of its mountains; the same for entries 877/878-889/890; the ends of the headings of what lies beyond the seventh clime, to the latitude of sixty-three; and the same for entry 891/892. One line of the editor's footnotes, notes a-c and the beginning of note d, which continues at the foot of p. 60.",
+ "lines": [
+  {
+   "id": "AK05-F067-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "قما | {z} | ما | ى | ڡمو | مه | مو | {z} | احمر | شمال",
+   "margin": null,
+   "cells": [
+    "قما",
+    "{z}",
+    "ما",
+    "ى",
+    "ڡمو",
+    "مه",
+    "مو",
+    "{z}",
+    "احمر",
+    "شمال"
+   ],
+   "plain": "قما | ō | ما | ى | ڡمو | مه | مو | ō | احمر | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F067-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "ڡٮح | {z} | مه | {z} | قنه | مه | مٮ | ك | لازورد | جنوب",
+   "margin": null,
+   "cells": [
+    "ڡٮح",
+    "{z}",
+    "مه",
+    "{z}",
+    "قنه",
+    "مه",
+    "مٮ",
+    "ك",
+    "لازورد",
+    "جنوب"
+   ],
+   "plain": "ڡٮح | ō | مه | ō | قنه | مه | مٮ | ك | لازورد | جنوب",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F067-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "ڡسح | ل | مح | {z} | ڡسح | ل | ن | لز{n:b} | حديدىّ{n:c} | مغربىّ{n:d}",
+   "margin": null,
+   "cells": [
+    "ڡسح",
+    "ل",
+    "مح",
+    "{z}",
+    "ڡسح",
+    "ل",
+    "ن",
+    "لز{n:b}",
+    "حديدىّ{n:c}",
+    "مغربىّ{n:d}"
+   ],
+   "plain": "ڡسح | ل | مح | ō | ڡسح | ل | ن | لز | حديدىّ | مغربىّ",
+   "note_marks": [
+    "b",
+    "c",
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F067-L04",
+   "n": 4,
+   "kind": "heading",
+   "text": "عرضه {ov:مح} *",
+   "margin": null,
+   "cells": null,
+   "plain": "عرضه مح *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F067-L05",
+   "n": 5,
+   "kind": "heading",
+   "text": "الإقليم السابع *",
+   "margin": null,
+   "cells": null,
+   "plain": "الإقليم السابع *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F067-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "كه | {z} | مز | {z} | كز | له | مز | {z} | لازوردىّ | شمال",
+   "margin": null,
+   "cells": [
+    "كه",
+    "{z}",
+    "مز",
+    "{z}",
+    "كز",
+    "له",
+    "مز",
+    "{z}",
+    "لازوردىّ",
+    "شمال"
+   ],
+   "plain": "كه | ō | مز | ō | كز | له | مز | ō | لازوردىّ | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F067-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "كط | ن | مو | مه | له | ل | مط | يه | وردىّ | شمال",
+   "margin": null,
+   "cells": [
+    "كط",
+    "ن",
+    "مو",
+    "مه",
+    "له",
+    "ل",
+    "مط",
+    "يه",
+    "وردىّ",
+    "شمال"
+   ],
+   "plain": "كط | ن | مو | مه | له | ل | مط | يه | وردىّ | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F067-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "لد | ل | مه | ل | لو | {z} | مه | م | لازورد | جنوب",
+   "margin": null,
+   "cells": [
+    "لد",
+    "ل",
+    "مه",
+    "ل",
+    "لو",
+    "{z}",
+    "مه",
+    "م",
+    "لازورد",
+    "جنوب"
+   ],
+   "plain": "لد | ل | مه | ل | لو | ō | مه | م | لازورد | جنوب",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F067-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "ٮه | {z} | مو | ل | نز | {z} | مو | ل | وردىّ | جنوب",
+   "margin": null,
+   "cells": [
+    "ٮه",
+    "{z}",
+    "مو",
+    "ل",
+    "نز",
+    "{z}",
+    "مو",
+    "ل",
+    "وردىّ",
+    "جنوب"
+   ],
+   "plain": "ٮه | ō | مو | ل | نز | ō | مو | ل | وردىّ | جنوب",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F067-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "صو | {z} | مه | ٮه | ق | ن | مط | ن | اصفر كمد | شمال",
+   "margin": null,
+   "cells": [
+    "صو",
+    "{z}",
+    "مه",
+    "ٮه",
+    "ق",
+    "ن",
+    "مط",
+    "ن",
+    "اصفر كمد",
+    "شمال"
+   ],
+   "plain": "صو | ō | مه | ٮه | ق | ن | مط | ن | اصفر كمد | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F067-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "قٮ | {z} | مر | {z} | ڡر | ك | مر | {z} | وردىّ | شمال",
+   "margin": null,
+   "cells": [
+    "قٮ",
+    "{z}",
+    "مر",
+    "{z}",
+    "ڡر",
+    "ك",
+    "مر",
+    "{z}",
+    "وردىّ",
+    "شمال"
+   ],
+   "plain": "قٮ | ō | مر | ō | ڡر | ك | مر | ō | وردىّ | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F067-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "ڡسح | مه | مز | ل | ڡعه | ل | مز | ل | لازورد | جنوب",
+   "margin": null,
+   "cells": [
+    "ڡسح",
+    "مه",
+    "مز",
+    "ل",
+    "ڡعه",
+    "ل",
+    "مز",
+    "ل",
+    "لازورد",
+    "جنوب"
+   ],
+   "plain": "ڡسح | مه | مز | ل | ڡعه | ل | مز | ل | لازورد | جنوب",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F067-L13",
+   "n": 13,
+   "kind": "heading",
+   "text": "الى عرض ثلثة وستّين *",
+   "margin": null,
+   "cells": null,
+   "plain": "الى عرض ثلثة وستّين *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F067-L14",
+   "n": 14,
+   "kind": "heading",
+   "text": "الإقليم السابع *",
+   "margin": null,
+   "cells": null,
+   "plain": "الإقليم السابع *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F067-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "ٮح | ل | س | ك | ٮد | مه | سا | {z} | وردىّ | جنوب",
+   "margin": null,
+   "cells": [
+    "ٮح",
+    "ل",
+    "س",
+    "ك",
+    "ٮد",
+    "مه",
+    "سا",
+    "{z}",
+    "وردىّ",
+    "جنوب"
+   ],
+   "plain": "ٮح | ل | س | ك | ٮد | مه | سا | ō | وردىّ | جنوب",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d"
+   ],
+   "lines": 1,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L03: a variant reading of the latitude of the last boundary is ن ل, with a line over the numerals (note b).",
+  "L03: a variant reading of the colour is نحاسىّ, copper-coloured (note c).",
+  "L03: the margin of the manuscript has, beside this entry, the gloss «وهو سدّ ياجوج وماجوج وهٰذا السدّ فيما بين هٰذا الجبل المسمّى السدّ وبين جبل ياجوج وماجوج», that is, «it is the dam of Gog and Magog, and this dam is between this mountain called the dam and the mountain of Gog and Magog» (note d, its Arabic text printed in two lines at the foot of p. 60)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The page is the left-hand page of the opening pp. 60-61: each of its lines continues the same line of p. 60 (frame 066). L01-L03 give the boundaries, colours and directions of entries 871/872-875/876; L04, «عرضه مح *», ends the heading of p. 60, L04, the seventh clime and its latitude, 48; L05, «الإقليم السابع *», ends «* الجبال الّتى فى», the mountains in the seventh clime; L06-L12 give entries 877/878-889/890; L13, «الى عرض ثلثة وستّين *», ends «* خلف الإقليم السابع», beyond the seventh clime to the latitude of sixty-three; L14, «الإقليم السابع *», ends «* الجبال الّتى وراء», the mountains beyond the seventh clime; L15 gives entry 891/892. Each row gives, from the right, the degrees and the minutes of the longitude and of the latitude of the first boundary, the same for the last boundary, the colour and the direction, in the columns of p. 39 (frame 045); the page has no heads. The headings stand at the inner edge of the page, next to their beginnings on p. 60; transcribed as headings.",
+  "L04: «عرضه» is printed with a long kashida, the stretched joining stroke, between the ض and the ه, and L14: «السابع» with one between the ب and the ع; the kashida is not transcribed. The latitude «مح» has a line above it, 94 px long, 75 px above the letters, transcribed with {ov:…}, as the latitudes of the earlier climes. L05, L14: «الإقليم», with a hamza below the alif. L13: «الى» ends in a ى without dots; «ثلثة» is printed without the dagger alif that frame 041 (L03) prints in «ثلٰثة»; «وستّين», with a shadda over the ت.",
+  "The colours are «احمر», red (L01); «لازورد», lapis blue (L02, L08, L12), and «لازوردىّ», with a ى and a shadda (L06); «حديدىّ», iron-coloured (L03); «وردىّ», rose (L07, L09, L11, L15); and «اصفر كمد», dull yellow (L10). The directions are «شمال», north (L01, L06, L07, L10, L11), «جنوب», south (L02, L08, L09, L12, L15), and «مغربىّ», western (L03). «لازوردىّ», «حديدىّ», «وردىّ» and «مغربىّ» end in a ى without dots with a shadda over it.",
+  "L03: the note mark b stands after the minutes of the last latitude, «لز», the mark c after the colour and the mark d after the direction.",
+  "Letters printed without their dots in the numerals, transcribed so: the loop of ف or ق without dots in the degrees of the longitude: ڡمو (L01, the last), 146; ڡٮح (L02, the first), with a tooth without its dot; ڡسح (L03, both; L12, the first), 168; ڡر (L11, the last), 107; ڡعه (L12, the last), 175, where L01, L02 and L10 print قما, قنه and ق with the two dots of the ق; مٮ (L02, the degrees of the last latitude), 42; قٮ (L11, the degrees of the first longitude), the ق with its two dots joined to a final ب without its dot, 102; ٮح (L15, the degrees of the first longitude), 18; ٮد (L15, the degrees of the last longitude), 14. With their dots: كز (L06, the degrees of the last longitude), 27; مز (L06, L12, the degrees of both latitudes), 47; نز (L09, the degrees of the last longitude), 57; لز (L03, the minutes of the last latitude), 37; يه (L07, the minutes of the last latitude), 15; ن (L03, the degrees of the last latitude; L07, L10, the minutes), 50.",
+  "L11, the degrees of both latitudes, «مر», and the degrees of the last longitude, «ڡر»: a ر without the dot of a ز; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII), so 47 and 107; transcribed ر as printed. L06 and L12 print مز with the dot.",
+  "The degrees printed with a final ح, ڡٮح (L02), ڡسح (L03, L12), مح (L03) and ٮح (L15), show no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.",
+  "L09: the degrees of the first longitude, «ٮه», a tooth without its dot joined to a final ه, read with a ن give 55, beside the last longitude of the row, نز, 57; the first longitudes of the neighbouring rows are لد, 34, and صو, 96 (L08, L10).",
+  "The minutes of the first latitude in L10 are «ٮه» as well. The isolated ك, 20, is printed with the small inner stroke of the letter (L02, L11).",
+  "A short rule stands above each pair of degrees and minutes in every row. The rules are not transcribed.",
+  "Specks, not transcribed: L01, a few specks of 7 to 8 px above the loop of the degrees of the last longitude, «ڡمو», much smaller than the dots of the font.",
+  "The editor's footnotes of the opening begin here, in one line below a short rule at the left: note a, whose mark stands on p. 60 (frame 066, L01) and whose reading is recorded there, notes b and c, and note d, whose first words, «Am Rande:», are followed at the foot of p. 60 by the text of a gloss in the margin of the manuscript. The page number «— ٦١ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

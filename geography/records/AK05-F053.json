@@ -1,0 +1,413 @@
+{
+ "anchor": "AK05-F053",
+ "frame": 53,
+ "frame_file": "page_053.jpg",
+ "frame_sha256": "88ffacea209b8071e1efa869ac58df61151b515d6cbb6d79663466bdb097dc2e",
+ "printed_page": "٤٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 053, printed p. 47: the left-hand page of the opening pp. 46-47: the boundaries, colour and direction of the last mountain of the second clime, entry 659/660; the ends of the headings of the third clime, with its latitude, 30, and of its mountains; and the boundaries, colours and directions of the thirteen mountains of p. 46, entries 661/662-685/686. One line of the editor's footnotes, continued at the foot of p. 46.",
+ "lines": [
+  {
+   "id": "AK05-F053-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "قلا | {z} | كح | م | ڡله | ك | كح | م | لازورد | شمال",
+   "margin": null,
+   "cells": [
+    "قلا",
+    "{z}",
+    "كح",
+    "م",
+    "ڡله",
+    "ك",
+    "كح",
+    "م",
+    "لازورد",
+    "شمال"
+   ],
+   "plain": "قلا | ō | كح | م | ڡله | ك | كح | م | لازورد | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F053-L02",
+   "n": 2,
+   "kind": "heading",
+   "text": "عرضه {ov:ل} *",
+   "margin": null,
+   "cells": null,
+   "plain": "عرضه ل *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F053-L03",
+   "n": 3,
+   "kind": "heading",
+   "text": "الإقليم الثالث *",
+   "margin": null,
+   "cells": null,
+   "plain": "الإقليم الثالث *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F053-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "ح | ل | كر | ٮه | ى | مه | كو | ك | وردىّ | شمال",
+   "margin": null,
+   "cells": [
+    "ح",
+    "ل",
+    "كر",
+    "ٮه",
+    "ى",
+    "مه",
+    "كو",
+    "ك",
+    "وردىّ",
+    "شمال"
+   ],
+   "plain": "ح | ل | كر | ٮه | ى | مه | كو | ك | وردىّ | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F053-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "ٮا | {z} | كط | ل | ٮه | م | كط | ل | لازورد | شمال",
+   "margin": null,
+   "cells": [
+    "ٮا",
+    "{z}",
+    "كط",
+    "ل",
+    "ٮه",
+    "م",
+    "كط",
+    "ل",
+    "لازورد",
+    "شمال"
+   ],
+   "plain": "ٮا | ō | كط | ل | ٮه | م | كط | ل | لازورد | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F053-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "ٮٮ | {z} | كو | {z} | يز | مه | كه | ك | وردىّ | شمال",
+   "margin": null,
+   "cells": [
+    "ٮٮ",
+    "{z}",
+    "كو",
+    "{z}",
+    "يز",
+    "مه",
+    "كه",
+    "ك",
+    "وردىّ",
+    "شمال"
+   ],
+   "plain": "ٮٮ | ō | كو | ō | يز | مه | كه | ك | وردىّ | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F053-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "ٮد | كه | كح | {z} | ٮر | {z} | كح | {z} | اصفر | شمال",
+   "margin": null,
+   "cells": [
+    "ٮد",
+    "كه",
+    "كح",
+    "{z}",
+    "ٮر",
+    "{z}",
+    "كح",
+    "{z}",
+    "اصفر",
+    "شمال"
+   ],
+   "plain": "ٮد | كه | كح | ō | ٮر | ō | كح | ō | اصفر | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F053-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "ٮر | مه | كح | ن | ك | {z} | كو | {z} | تبنىّ | جنوب",
+   "margin": null,
+   "cells": [
+    "ٮر",
+    "مه",
+    "كح",
+    "ن",
+    "ك",
+    "{z}",
+    "كو",
+    "{z}",
+    "تبنىّ",
+    "جنوب"
+   ],
+   "plain": "ٮر | مه | كح | ن | ك | ō | كو | ō | تبنىّ | جنوب",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F053-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "ٮح | م | ل | {z} | كا | مه | كر | {z}{n:c} | خلوقىّ | شمال",
+   "margin": null,
+   "cells": [
+    "ٮح",
+    "م",
+    "ل",
+    "{z}",
+    "كا",
+    "مه",
+    "كر",
+    "{z}{n:c}",
+    "خلوقىّ",
+    "شمال"
+   ],
+   "plain": "ٮح | م | ل | ō | كا | مه | كر | ō | خلوقىّ | شمال",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F053-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "كا | {z} | كو | {z} | كح | {z} | كو | {z} | كمتىّ | جنوب",
+   "margin": null,
+   "cells": [
+    "كا",
+    "{z}",
+    "كو",
+    "{z}",
+    "كح",
+    "{z}",
+    "كو",
+    "{z}",
+    "كمتىّ",
+    "جنوب"
+   ],
+   "plain": "كا | ō | كو | ō | كح | ō | كو | ō | كمتىّ | جنوب",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F053-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "كا | ٮه | لا | ⟨كه⟩{n:d} | كٮ | ل | كط | ل | فرفيرىّ | جبوب",
+   "margin": null,
+   "cells": [
+    "كا",
+    "ٮه",
+    "لا",
+    "⟨كه⟩{n:d}",
+    "كٮ",
+    "ل",
+    "كط",
+    "ل",
+    "فرفيرىّ",
+    "جبوب"
+   ],
+   "plain": "كا | ٮه | لا | ⟨كه⟩ | كٮ | ل | كط | ل | فرفيرىّ | جبوب",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F053-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "كا | ل | كح | {z} | كح | ل | كح | {z} | لازورد | شمال",
+   "margin": null,
+   "cells": [
+    "كا",
+    "ل",
+    "كح",
+    "{z}",
+    "كح",
+    "ل",
+    "كح",
+    "{z}",
+    "لازورد",
+    "شمال"
+   ],
+   "plain": "كا | ل | كح | ō | كح | ل | كح | ō | لازورد | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F053-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "كو | {z} | كه | م | كح | م | كح | له | اصفر | شمال",
+   "margin": null,
+   "cells": [
+    "كو",
+    "{z}",
+    "كه",
+    "م",
+    "كح",
+    "م",
+    "كح",
+    "له",
+    "اصفر",
+    "شمال"
+   ],
+   "plain": "كو | ō | كه | م | كح | م | كح | له | اصفر | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F053-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "كح | له | كط | ن | ل | ك | كح | ل | ورسىّ | شمال",
+   "margin": null,
+   "cells": [
+    "كح",
+    "له",
+    "كط",
+    "ن",
+    "ل",
+    "ك",
+    "كح",
+    "ل",
+    "ورسىّ",
+    "شمال"
+   ],
+   "plain": "كح | له | كط | ن | ل | ك | كح | ل | ورسىّ | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F053-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "لح | {z} | ل | {z} | له | ل | ل | {z} | وردىّ | جنوب",
+   "margin": null,
+   "cells": [
+    "لح",
+    "{z}",
+    "ل",
+    "{z}",
+    "له",
+    "ل",
+    "ل",
+    "{z}",
+    "وردىّ",
+    "جنوب"
+   ],
+   "plain": "لح | ō | ل | ō | له | ل | ل | ō | وردىّ | جنوب",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F053-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "لر | ك | كه | ن | لز | ك | كح | م | لكّى | مشرقىّ",
+   "margin": null,
+   "cells": [
+    "لر",
+    "ك",
+    "كه",
+    "ن",
+    "لز",
+    "ك",
+    "كح",
+    "م",
+    "لكّى",
+    "مشرقىّ"
+   ],
+   "plain": "لر | ك | كه | ن | لز | ك | كح | م | لكّى | مشرقىّ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c"
+   ],
+   "lines": 1,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L09: a variant reading of the latitude of the last boundary is كو ō, with a line over the numerals (note c).",
+  "L11: the manuscript is badly damaged at the minutes of the latitude of the first boundary; the editor supplies them (note d, printed at the foot of p. 46)."
+ ],
+ "unresolved": [
+  "L07, L08: the notched form may also be read as a single ر whose head is split, ر, 7. Transcribed ٮر."
+ ],
+ "observations": [
+  "The page is the left-hand page of the opening pp. 46-47: each of its lines continues the same line of p. 46 (frame 052). L01 gives the boundaries, the colour and the direction of the last mountain of the second clime, entry 659/660; L02, «عرضه ل *», ends the heading of p. 46, L02, the third clime and its latitude, 30; L03, «الإقليم الثالث *», ends «* الجبال الّتى فى», the mountains in the third clime; L04-L16 give the boundaries, the colours and the directions of the mountains of p. 46, L04-L16, entries 661/662-685/686. Each row gives, from the right, the degrees and the minutes of the longitude and of the latitude of the first boundary, the same for the last boundary, the colour and the direction, in the columns of p. 39 (frame 045); the page has no heads. The headings stand at the inner edge of the page, next to their beginnings on p. 46; transcribed as headings.",
+  "L02: «عرضه» is printed with a long kashida, the stretched joining stroke, between the ض and the ه; the kashida is not transcribed. The latitude «ل» has a line above it, 75 px long, 45 px above the letter, transcribed with {ov:…}, as the latitude of the second clime on frame 049 (L07). L03: «الإقليم», with a hamza below the alif.",
+  "The colours are «لازورد», lapis blue (L01, L05, L12); «وردىّ», rose (L04, L06, L15); «اصفر», yellow (L07, L13); «تبنىّ», straw-coloured (L08); «خلوقىّ», the colour of khalūq (L09); «كمتىّ», bay (L10); «فرفيرىّ», purple (L11); «ورسىّ», the yellow of wars (L14); and «لكّى», lac red (L16). The directions are «شمال», north (L01, L04-L07, L09, L12-L14), «جنوب», south (L08, L10, L15), and «مشرقىّ», eastern (L16); L11 prints «جبوب» (below).",
+  "Signs in the colours and directions, transcribed as printed: «وردىّ», «تبنىّ», «خلوقىّ», «كمتىّ», «فرفيرىّ», «ورسىّ» and «مشرقىّ» end in a ى without dots with a shadda, set high above the end of the word. L16: «لكّى» has a shadda over the ك and none over the ى, where frame 047 (L11) prints «لكّىّ» with both. «تبنىّ» has the two dots of the ت, the dot of the ب below and the dot of the ن above; «خلوقىّ» the dot of the خ and the two dots of the ق; «كمتىّ» the two dots of the ت; «فرفيرىّ» the dots of both ف and the two dots of the ي.",
+  "L11: the direction is printed «جبوب»: the dot of the second letter stands below the tooth, beside the dot of the ج, and there is none above it, where «جنوب» in L08, L10 and L15 has the dot of the ن above the tooth. Transcribed as printed; see the critical note.",
+  "Letters printed without their dots in the numerals, transcribed so: ٮا (L05, the degrees of the first longitude), a short tooth joined to an alif, 11, as on frame 045 (L11); ٮٮ (L06, the degrees of the first longitude), a tooth joined to a final ب, both without dots, 64 px wide, where the isolated ب is a bowl of about 50 px with a riser at each end, which read with a ي give 12, beside the last longitude of the row, «يز», 17; ٮد (L07) and ٮح (L09), the degrees of the first longitude, the tooth without its dot, 14 and 18; كٮ (L11, the degrees of the last longitude), the ك joined to a final ب without its dot, 22; ڡله (L01, the degrees of the last longitude), the loop of ف or ق without dots joined to ل and ه, 135, where the first longitude of the same row is printed قلا with the two dots of the ق, 131. With their dots: يز (L06, the degrees of the last longitude), 17, with the two dots of the ي and the dot of the ز; لز (L16, the degrees of the last longitude), 37; ن (L08, L14, L16, the minutes of the first latitude), 50.",
+  "L16, the degrees of the first longitude, «لر»: a ر without the dot of a ز; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII), so 37; transcribed ر as printed. L16 prints the degrees of the last longitude with the dot, لز. L07, the degrees of the last longitude, and L08, the degrees of the first longitude: the notched form ٮر of frame 041 (L06), a short tooth without a dot joined to a ر, the two forming a notch at the top, the tooth at the right rising above the head of the ر, where the isolated ز of the numerals is a single rounded stroke (frame 047, L01, L04); transcribed ٮر, which read with a ي gives 17: L07 runs from 14° 25′ to 17° 0′, and L08 from 17° 45′ to 20° 0′.",
+  "The degrees printed with a ح, alone (L04, the first longitude) or in كح, ٮح and لح, show no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.",
+  "«ٮه», a tooth without its dot joined to a final ه, gives the minutes of the first latitude in L04, the degrees of the last longitude in L05, 15 read with a ي beside the first longitude ٮا, 11, and the minutes of the first longitude in L11. The isolated ك, 20, is printed with the small inner stroke of the letter throughout (L01, L04, L06, L08, L14, L16).",
+  "L09: the note mark c stands after the zero of the minutes of the last latitude. The editor's note c gives as a variant reading «كو ō», with a line above the numerals: the round loop of the و, where the table prints «كر ō» with the small pointed head of the ر.",
+  "L04, the degrees of the first latitude, and L09, the degrees of the last latitude: «كر»: the letter joined to the end of the ك has the small pointed head of the joined ر, as «كر» of frame 055 (L01, L06, L13, L16), where the و of «كو» (L04, the last latitude; L06, L08, L10, L13) is a round loop; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed, which read with ز gives 27.",
+  "L11: the minutes of the first latitude are printed «⟨كه⟩», between angle brackets, followed by the note mark d: the editor supplies them where the manuscript is badly damaged (note d, printed at the foot of p. 46). Transcribed with both brackets in the minutes cell.",
+  "A short rule stands above each pair of degrees and minutes in L01 and L04-L16; L16 has none below it. The rules are not transcribed.",
+  "Specks, not transcribed: L15, a round blot, 17 by 14 px, at the lower left of the zero of the minutes of the first latitude, larger than the dots of the font, which are some 10 px across; L16, a few small specks between the rule and the upper stroke of the ك of the degrees of the last latitude.",
+  "The editor's footnotes of the opening begin here, in one line below a short rule at the left: notes a and b, whose marks stand on p. 46 (frame 052, L01, L06) and whose readings are recorded there, and note c; the line continues at the foot of p. 46 with notes d, e and f.",
+  "The page number «— ٤٧ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK05-CN004",
+   "class": "misplaced dot",
+   "line": "L11",
+   "printed": "جبوب",
+   "proposed": "جنوب",
+   "evidence": "the dot of the second letter of the direction stands below the tooth, beside the dot of the ج, and none stands above it, where the direction جنوب of L08, L10 and L15 has the dot of the ن above the tooth; جبوب is not a word, and the directions of the table are جنوب, شمال, مشرقىّ and مغربىّ",
+   "confidence": "high",
+   "impact": "none on the coordinates; the direction of the head is south"
+  }
+ ]
+}

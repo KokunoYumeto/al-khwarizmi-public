@@ -1,0 +1,283 @@
+{
+ "anchor": "AK05-F117",
+ "frame": 117,
+ "frame_file": "page_117.jpg",
+ "frame_sha256": "9c8648b53ee882db05576e9543b244eea32616ee75e1a552c8f7bbdd79e3f0b3",
+ "printed_page": "١١١",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 117, printed p. 111: the springs and rivers of the first clime continued: a spring whose river flows into the first river past the town بغيرا; another spring and its river; the spring of the mountain غانه and its river past Jarmā the great, through the mountains سرعاطوس and اصفر and past al-Qayrawān to the sea; the river from the two springs called the lakes of the turtles; the river of the mountain باليس in Yemen past Ṣanʿāʾ and Mārā to the sea. The editor's running numbers (١٦٧٣)-(١٦٨٧) and the numbers of Suhrāb [١٦٩٥]-[١٦٩٨], [١٦٦٧]-[١٦٧٥] and [١٦٦٣]. Three lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F117-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "جبل تصبّ فى النهر الأوّل ايضاً اوّل العين عند طول {ov:كد {z}} والعرض {ov:ك ل} (١٦٧٣)",
+   "margin": null,
+   "cells": null,
+   "plain": "جبل تصبّ فى النهر الأوّل ايضاً اوّل العين عند طول كد ō والعرض ك ل (١٦٧٣)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "[١٦٩٥] ومصبّها{n:a} فى النهر عند طول {ov:كو ك} والعرض {ov:ٮح ك} (١٦٧٤) [١٦٩٦] تمرّ",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٦٩٥] ومصبّها فى النهر عند طول كو ك والعرض ٮح ك (١٦٧٤) [١٦٩٦] تمرّ",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "بمدينة بغيرا * وعين ايضاً تصبّ فى النهر الأوّل اوّلها عند طول {ov:ر {z}} والعرض {ov:ٮط ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "بمدينة بغيرا * وعين ايضاً تصبّ فى النهر الأوّل اوّلها عند طول ر ō والعرض ٮط ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "(١٦٧٥) [١٦٩٧] ومصبّها فى النهر عند طول {ov:كا م} والعرض {ov:ر {z}} (١٦٧٦)",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٦٧٥) [١٦٩٧] ومصبّها فى النهر عند طول كا م والعرض ر ō (١٦٧٦)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "[١٦٩٨] *",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٦٩٨] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "عين تخرج من جبل غانه{n:b} مصبّها فى البحر اوّل العين عند طول {ov:مد ل}{n:c} والعرض {ov:ٮا م}",
+   "margin": null,
+   "cells": null,
+   "plain": "عين تخرج من جبل غانه مصبّها فى البحر اوّل العين عند طول مد ل والعرض ٮا م",
+   "note_marks": [
+    "b",
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "(١٦٧٧) [١٦٦٧] تمرّ الى طول {ov:لط ل} والعرض {ov:ٮو م} (١٦٧٨) [١٦٦٨] ثمّ تمرّ بمدينة",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٦٧٧) [١٦٦٧] تمرّ الى طول لط ل والعرض ٮو م (١٦٧٨) [١٦٦٨] ثمّ تمرّ بمدينة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "جرمى الكبيرة الى جبل سرعاطوس قاطعة له عند طول {ov:لا {z}} (١٦٧٩) [١٦٦٩] تمرّ",
+   "margin": null,
+   "cells": null,
+   "plain": "جرمى الكبيرة الى جبل سرعاطوس قاطعة له عند طول لا ō (١٦٧٩) [١٦٦٩] تمرّ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "بجبل اصفر{n:d} فتقطعه عند طول {ov:لا {z}} (١٦٨٠) [١٦٧٠] وتمرّ الى القيروان مماسّ* لها",
+   "margin": null,
+   "cells": null,
+   "plain": "بجبل اصفر فتقطعه عند طول لا ō (١٦٨٠) [١٦٧٠] وتمرّ الى القيروان مماسّ* لها",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "عند طول {ov:لا {z}} وتصبّ فى البحر عند طول {ov:لا ل} والعرض {ov:لٮ م} (١٦٨١) [١٦٧١] *",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول لا ō وتصبّ فى البحر عند طول لا ل والعرض لٮ م (١٦٨١) [١٦٧١] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "ويقع فى هٰذا النهر نهر من عينين يقال لهما بحيرات السلاحف احداهما{n:e} عند طول {ov:مه {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "ويقع فى هٰذا النهر نهر من عينين يقال لهما بحيرات السلاحف احداهما عند طول مه ō",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "والعرض {ov:كٮ ك} (١٦٨٢) [١٦٧٢] والثانية عند طول {ov:مو ك}{n:f} والعرض {ov:كب {z}} (١٦٨٣)",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض كٮ ك (١٦٨٢) [١٦٧٢] والثانية عند طول مو ك والعرض كب ō (١٦٨٣)",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "[١٦٧٣] يخرج من كلّ واحدة نهر فيلتقيان عند طول {ov:مه ل} والعرض {ov:كا {z}} (١٦٨٤)",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٦٧٣] يخرج من كلّ واحدة نهر فيلتقيان عند طول مه ل والعرض كا ō (١٦٨٤)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "[١٦٧٤] ويصيران نهرا واحدا فيصبّ فى الأوّل عند طول {ov:لط م} والعرض {ov:ٮو م}",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٦٧٤] ويصيران نهرا واحدا فيصبّ فى الأوّل عند طول لط م والعرض ٮو م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "(١٦٨٥) [١٦٧٥] *",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٦٨٥) [١٦٧٥] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "نهر يخرج من جبل باليس باليمن عند طول {ov:سز ك}{n:g} والعرض {ov:ٮد {z}} (١٦٨٦) [١٦٦٣]",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر يخرج من جبل باليس باليمن عند طول سز ك والعرض ٮد ō (١٦٨٦) [١٦٦٣]",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F117-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "يمرّ بصنعاء وبمدينة مارا ويصبّ فى البحر عند طول {ov:⟨س⟩{n:h}ب ن} والعرض {ov:ٮو {z}} (١٦٨٧)",
+   "margin": null,
+   "cells": null,
+   "plain": "يمرّ بصنعاء وبمدينة مارا ويصبّ فى البحر عند طول ⟨س⟩ب ن والعرض ٮو ō (١٦٨٧)",
+   "note_marks": [
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L02: the manuscript reads مصبّه for ومصبّها (note a).",
+  "L06: the manuscript reads الغابه for غانه (note b).",
+  "L06: a variant reading of the longitude is مٮ ل, the ب without its dot, with a line over the numerals (note c).",
+  "L09: the mountain اصفر is missing in the table of the mountains (note d).",
+  "L11: the manuscript reads احدهما for احداهما (note e).",
+  "L12: a variant reading of the longitude is مو ل, with a line over the numerals (note f).",
+  "L16: the manuscript has, by mistake, سه ك for the longitude, with the variant reading سه ل, each with a line over the numerals; the editor corrects it after S (note g).",
+  "L17: the manuscript has a gap at the س of the longitude, which the editor supplies after S (note h)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The springs and rivers of the first clime go on from p. 110 (frame 116), whose last words, «* عين فى», L01 continues with «جبل تصبّ فى النهر الأوّل ايضاً اوّل العين عند طول كد {z} والعرض ك ل (١٦٧٣)», a spring in a mountain, which also flows into the first river; the beginning of the spring is at the longitude 24° 0′ and the latitude 20° 30′; no name of the mountain is printed. «ومصبّها فى النهر عند طول كو ك والعرض ٮح ك (١٦٧٤) تمرّ بمدينة بغيرا *» (L02-L03), and its mouth in the river is at the longitude 26° 20′ and the latitude ٮح ك; it passes by the town بغيرا.",
+  "L03-L05: «وعين ايضاً تصبّ فى النهر الأوّل اوّلها عند طول ر {z} والعرض ٮط ل (١٦٧٥)», and another spring that flows into the first river; its beginning is at the longitude ر ō and the latitude ٮط ل; «ومصبّها فى النهر عند طول كا م والعرض ر {z} (١٦٧٦)», and its mouth in the river at the longitude 21° 40′ and the latitude ر ō. L05 holds only the number of Suhrāb of point 1676 and the star that closes the entry.",
+  "L06-L10: «عين تخرج من جبل غانه مصبّها فى البحر اوّل العين عند طول مد ل والعرض ٮا م (١٦٧٧)», a spring that comes out of the mountain غانه, whose mouth is in the sea; the beginning of the spring is at the longitude 44° 30′ and the latitude ٮا م; «تمرّ الى طول لط ل والعرض ٮو م (١٦٧٨)», it passes to the longitude 39° 30′ and the latitude ٮو م; «ثمّ تمرّ بمدينة جرمى الكبيرة الى جبل سرعاطوس قاطعة له عند طول لا {z} (١٦٧٩)», then it passes by the town of Jarmā the great to the mountain سرعاطوس, cutting through it at the longitude 31° 0′; «تمرّ بجبل اصفر فتقطعه عند طول لا {z} (١٦٨٠)», it passes by the mountain اصفر and cuts through it at the longitude 31° 0′; «وتمرّ الى القيروان مماسّ* لها عند طول لا {z} وتصبّ فى البحر عند طول لا ل والعرض لٮ م (١٦٨١) *», and it passes to al-Qayrawān, touching it at the longitude 31° 0′, and flows into the sea at the longitude 31° 30′ and the latitude لٮ م.",
+  "L11-L15: «ويقع فى هٰذا النهر نهر من عينين يقال لهما بحيرات السلاحف احداهما عند طول مه {z} والعرض كٮ ك (١٦٨٢)», and into this river falls a river from two springs that are called the lakes of the turtles, one of them at the longitude 45° 0′ and the latitude كٮ ك; «والثانية عند طول مو ك والعرض كب {z} (١٦٨٣)», and the second at the longitude 46° 20′ and the latitude 22° 0′; «يخرج من كلّ واحدة نهر فيلتقيان عند طول مه ل والعرض كا {z} (١٦٨٤)», from each of them comes a river, and they meet at the longitude 45° 30′ and the latitude 21° 0′; «ويصيران نهرا واحدا فيصبّ فى الأوّل عند طول لط م والعرض ٮو م (١٦٨٥) *», and they become one river, which flows into the first at the longitude 39° 40′ and the latitude ٮو م. L15 holds only the running number and the number of Suhrāb of point 1685 and the star.",
+  "L16-L17: «نهر يخرج من جبل باليس باليمن عند طول سز ك والعرض ٮد {z} (١٦٨٦)», a river that comes out of the mountain باليس in Yemen at the longitude 67° 20′ and the latitude ٮد ō; «يمرّ بصنعاء وبمدينة مارا ويصبّ فى البحر عند طول ⟨س⟩ب ن والعرض ٮو {z} (١٦٨٧)», it passes by Ṣanʿāʾ and by the town of Mārā and flows into the sea at the longitude ⟨س⟩ب ن and the latitude ٮو ō.",
+  "L03: «بغيرا»: the ب with its dot below, a medial غ, the solid head of the letter with its dot above, the ي with its two dots, a ر and an alif. The editor's note d on p. 8 (frame 014) gives this form for the name of the town «تغيرا» of the table of the cities (frame 014, L08).",
+  "L17: the longitude is printed «⟨س⟩ب ن», all under one line: the س between angle brackets, supplied by the editor where the manuscript has a gap (note h), the note mark h after the closing bracket, within the line, then the ب with its dot below and the ن with its dot; transcribed so. With the س, 62° 50′.",
+  "Asterisks: L09 «مماسّ*»: an asterisk with six solid arms stands after the word, raised like the note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (frame 046, L10), as on frame 114 (L07, L08, L11). The small open stars with six points, after «بغيرا» (L03), after [١٦٩٨] (L05), after [١٦٧١] (L10) and after [١٦٧٥] (L15), are transcribed as asterisks.",
+  "Signs in the text, transcribed as printed: «تصبّ» (L01, L03), «ومصبّها» (L02, L04), «مصبّها» (L06), «اوّل» (L01, L06), «اوّلها» (L03), «تمرّ» (L02, L07, L08), «ثمّ» (L07), «وتمرّ» (L09), «مماسّ» (L09), «وتصبّ» (L10), «كلّ» (L13), «فيصبّ» (L14), «يمرّ» and «ويصبّ» (L17) with a shadda; «الأوّل» (L01, L03, L14) with a hamza over the alif and a shadda over the و; «ايضاً» (L01, L03) with the tanwin of the accusative over the final alif; «هٰذا» (L11) with a dagger alif above the ه; «بصنعاء» (L17) with a hamza on the line; «نهرا واحدا» (L14) without the tanwin; «الى», «فى» and «جرمى» end in a ى without dots.",
+  "Names: «غانه» (L06), «جرمى الكبيرة» (L08), «سرعاطوس» (L08), «اصفر» (L09), «القيروان» (L09), «بحيرات السلاحف» (L11), «باليس» and «باليمن» (L16), «بصنعاء» and «مارا» (L17) are printed with their dots.",
+  "Numerals: «كد {z}» (L01), 24° 0′; «ك ل» (L01), 20° 30′; «كو ك» (L02), 26° 20′; «كا م» (L04), 21° 40′; «مد ل» (L06), 44° 30′; «لط ل» (L07), 39° 30′; «لا {z}» (L08, L09, L10), 31° 0′; «لا ل» (L10), 31° 30′; «مه {z}» (L11), 45° 0′; «مو ك» (L12), 46° 20′; «كب {z}» (L12), with the dot of the ب, 22° 0′; «مه ل» (L13), 45° 30′; «كا {z}» (L13), 21° 0′; «لط م» (L14), 39° 40′; «سز ك» (L16), with the dot of the ز, 67° 20′. Without their dots, transcribed so: a tooth without its dot joined to the next letter, «ٮح» (L02), «ٮط» (L03), «ٮا» (L06), «ٮو» (L07, L14, L17) and «ٮد» (L16), which read with a ي give 18, 19, 11, 16 and 14; the flat final bowl of a ب without its dot, «لٮ» (L10), 32, and «كٮ» (L12, the latitude of the first spring), 22, where the latitude of the second spring is printed «كب» with the dot.",
+  "In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: «ر {z}» (L03, the longitude; L04, the latitude), 7° 0′.",
+  "The ح of «ٮح» (L02) shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. The isolated ك, 20, is printed with the small inner stroke of the letter (L01, L02, L12, L16).",
+  "The running numbers run (١٦٧٣)-(١٦٨٧) without a gap; the numbers of Suhrāb follow them in the order [١٦٩٥]-[١٦٩٨] (points 1673-1676), [١٦٦٧]-[١٦٧٥] (points 1677-1685) and [١٦٦٣] (point 1686), each after its running number; point 1687 has none on the page. [١٦٩٥], [١٦٩٨], [١٦٧٣] and [١٦٧٤] stand at the beginning of L02, L05, L13 and L14, after the running numbers at the end of the line before.",
+  "Note marks: L02, a after «ومصبّها»; L06, b after «غانه» and c after the longitude; L09, d after «اصفر»; L11, e after «احداهما»; L12, f after the longitude; L16, g after the longitude; L17, h within the line over the longitude, after the closing bracket.",
+  "Marks not transcribed: L01, a speck, 6 by 5 px, at the upper left of the top of the alif of «ايضاً», much smaller than the hamza of «الأوّل» in the same line, 12 by 14 px; L02, a round dot, 10 by 10 px, between «عند» and «طول»; L03, a speck, 5 by 6 px, beside the foot of the alif of «ايضاً»; between L07 and L08, a small solid triangle, 13 by 12 px, with a short stem below it, under the number «[١٦٦٨]».",
+  "The editor's footnotes stand in three lines below a short rule at the left: notes a-h. The page number «— ١١١ —» stands at the foot, centred."
+ ],
+ "copy_matter": [
+  "Thin dark hairlines, perhaps fibres: above the latitude «ٮح ك» (L02), slanting, and below the line over the latitude «كب ō» (L12)."
+ ],
+ "critical_notes": []
+}

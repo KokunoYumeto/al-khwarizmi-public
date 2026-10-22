@@ -1,0 +1,56 @@
+@page 135 103
+@lang de
+% JP2 0135: Suter's commentary, p. 103: the end of the chapter on the conversion of the years of birth (the year of
+% the table, 365d 6h 12m 9s, against the 365d 6h 13m 2s of chapters 20-21); the second closing chapter, on the
+% domicilia, exaltationes, decani etc. of the planets (Table 116), begins (notes 1-3).
+9{sup:d} 1{sup:h} 5{sup:m} von seinem 35. Geburtstage an steht die Sonne bei demselben Fixstern, wie
+bei seiner Geburt. Diese Zeit erfährt aber noch eine Korrektur durch die Bestimmung
+des {i:wahren} Ortes der Sonne, denn der gefundene Ort ist nur der {i:mittlere} ; ich werde
+aber hierauf nicht näher eintreten, sondern verweise dafür auf {sp:Batt.} I, 148. Die
+zweite Hälfte der Tafel gibt die von der Sonne noch zu durchlaufende Bahn in Graden,
+Minuten und Sekunden an. — Diese {i:Revolutiones} oder {i:Conversiones annorum nativi-}
+{i:tatum,} und ebenso die {i:Revolutiones annorum mundi} (oder {i:civitatum}) spielten in der
+Astrologie des Altertums und Mittelalters eine grosse Rolle{sup:1}).
+@p Es ist hier noch zu erwähnen, dass in dieser Tafel der Überschuss des siderischen
+Jahres über das bürgerliche zu 6{sup:h} 12{sup:m}, oder wenn wir die 93° 2′ 15″ der letzten Kolonne
+in Zeit verwandeln, genauer zu 6{sup:h} 12{sup:m} 9{sup:s} angenommen ist, während nach Kap. 20 u. 21
+6{sup:h} 13{sup:m} 2{sup:s} zu erwarten gewesen wären. Der Wert von 6{sup:h} 12{sup:m} 9{sup:s} entspricht nach den
+Angaben verschiedener arabischer Astronomen der Länge des siderischen Jahres im
+arabischen {i:Sindhind,} es scheint also auch {sp:Maslama al-Madjrīṭī} diesen Wert
+angenommen zu haben, und hierin also nicht {sp:Kh.} gefolgt zu sein. {sup:2})
+@c {b:Über die Domicilia, Exaltationes, Decani, etc. der Planeten.}
+@c (Tafel 116.)
+@p Diese Tafel ist im ganzen identisch mit der {i:astrologischen Rose} bei {sp:Batt.}, wie
+ich oben schon erwähnt habe ; in einzelnen Punkten aber, die noch zu nennen sind,
+weichen die beiden von einander ab.
+@p Die 1. Kolonne{sup:3}) enthält die zwölf Zeichen des Tierkreises, die in der genannten
+Rose ausserhalb des äussersten Kreises stehen, der dem entsprechend in zwölf Sek-
+toren geteilt ist. In der 2. Kolonne stehen die Herren ({i:Domini}) der entsprechenden
+Häuser ({i:Domicilia}) der 1. Kolonne, sie wäre also eher mit {i:Domini} statt {i:Domicilia} zu
+überschreiben ; es ist also der Widder ({i:Aries}) das Haus des {i:Mars,} oder {i:Mars} ist der
+Hausherr des {i:Widders, Venus} der des {i:Stiers} ({i:Taurus}) u. s. w. Sonne und Mond haben
+je nur {i:ein} Haus, die fünf Planeten aber jeder deren {i:zwei,} so ist ausser dem {i:Widder}
+auch noch der {i:Skorpion} das Haus des {i:Mars,} ausser dem {i:Stier} auch noch die {i:Wage}
+({i:Libra}) das Haus der {i:Venus.} — Diese {i:Domini} (arab. {i:ṣāḥib} oder {i:rabb}) stehen in der
+Rose {sp:Batt.}’s im zweitinnersten Kreise.
+@p In der 4. Kolonne, überschrieben {i:Alienatio,} stehen die Planeten, die in dem
+entsprechenden Tierkreiszeichen im sog. {i:Schaden} ({i:detrimentum,} arab. {i:wabāl}) sind ;
+ein Planet ist in dem Haus im Schaden, das um 180° von seinem Domicilium ent-
+fernt ist, oder das der Nadir seines Domiciliums ist, es ist dann also diesem gleich-
+sam entfremdet, daher der Name {i:Alienatio,} den ich sonst bei keinem mittelalterlichen
+Astrologen bis jetzt gefunden habe. So ist {i:Venus} im {i:Widder} und {i:Skorpion} im {i:Schaden,}
+weil ihre Häuser die Wage und der Stier sind, {i:Mars} im {i:Stier} und in der {i:Wage} im
+@n {sup:1}) Vergl. {sp:Batt.}, ed. {sp:Nallino}, I, 304—305.
+@n {sup:2}) S. oben p. 42 u. 65.
+@n {sup:3}) Ich habe die Kolonnen der obern Hälfte der Tafel der Bequemlichkeit des Zitierens halber
+@n mit Nummern versehen, die im Ms. fehlen.
+@obs The page number «103» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 completes the sentence that ends p. 102 (JP2 0134, L39), «Also erst nach». A wider space stands before the heading L16.
+@obs L01-L02. Checked: 9d 1h 5m are the excess of 35 years of al-Khwārizmī over 35 years of 365 days (p. 102, JP2 0134). The example of p. 102 counts from 4 January 962 to 4 January 997, 35 × 365 days and the 9 Julian leap days; counted from the same hour of 4 January 997, the 35th birthday of the Julian calendar, the sun returns to its place after 1h 5m; the 9d 1h 5m run from the end of 35 years of 365 days, 26 December 996, to the same moment. L09-L10 call the year of 365 days «das bürgerliche».
+@obs L09-L15 and N02. Checked: 93° 2′ 15″ at 15° to the hour are 6h 12m 9s, and 93° 2′ 15″ : 360° = 0.2584375 days, Brahmagupta's year of 365.2584375 days (1 577 916 450 000 days in 4 320 000 000 years); the 6h 13m 2s are the year derived from the hourly mean motion of the sun on p. 65 (JP2 0097), «ungefähr dieselbe Grösse, die wir oben (p. 42) gefunden haben». The value 93° 2′ 15″ of Table 115 is to be compared with the table.
+@obs L03-L04 and N01. Checked against Nallino: I, 148 is al-Battānī's chapter on the revolutions of the years by the tables, which asks for «locum medium et locum verum Solis in origine»; I, 304-305 is Nallino's note on the revolutions of the nativities.
+@obs L16-L17: the heading of the second closing chapter, in bold, centred, with the reference to the table below it in smaller type.
+@obs L23-L37. Checked: the houses of Mars are Aries and Scorpio, of Venus Taurus and Libra, the sun and the moon one each; the sign opposite a house is the detriment: Libra and Taurus being the houses of Venus, Aries and Scorpio are her detriments; Aries and Scorpio being those of Mars, Libra and Taurus are his, as L36-L37 say. The columns of Table 116 are to be compared with the table.
+@obs L04: after «eintreten,» a small arc below the line (17 px), spacing material inked; not transcribed. L15: «sein. 2)», the note number after a space following the full stop.
+@obs L29: «ṣāḥib», with the dots under the s and the h and the macron over the a; L32: «wabāl», with the macron. L06: «Minuten und Sekunden an. — Diese», the long dash with a space on either side; L29 «Venus. — Diese»; N01 «304—305», set close.
+@obs Spaced type, marked {sp:}: «Batt.», «Maslama al-Madjrīṭī», «Kh.», «Nallino»; italics: «wahren», «mittlere», «Revolutiones», «Conversiones annorum nativitatum,», «Revolutiones annorum mundi», «civitatum», «Sindhind,», «astrologischen Rose», «Domini», «Domicilia», «Aries», the names of the planets and signs in L25-L37 where printed so, «ein», «zwei,», «Libra», «ṣāḥib», «rabb», «Alienatio,», «Schaden», «detrimentum,», «wabāl».
+@obs The colons and semicolons stand after the thin space of the edition (10-13 px measured).

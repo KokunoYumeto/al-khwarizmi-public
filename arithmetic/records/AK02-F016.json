@@ -1,0 +1,401 @@
+{
+ "anchor": "AK02-F016",
+ "frame": 16,
+ "frame_file": "page_016.jpg",
+ "frame_sha256": "4f314fce2f0034dd151506db74a0eae77d39e13efd5d3bab6a0d459007ad1223",
+ "printed_page": "10",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 016, printed p. 10: the second example of subtraction, 1144 less 144; halving, place by place, with the half of an odd unit written as thirty sixtieths and the half of an odd ten as five in the place before; doubling, from the highest place; the beginning of multiplication: the products of the numbers from one to nine to be known, and the placing of the two numbers in the table.",
+ "lines": [
+  {
+   "id": "AK02-F016-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "numerus noster mille centum quadraginta quatuor, de quibus",
+   "margin": null,
+   "plain": "numerus noster mille centum quadraginta quatuor, de quibus",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "minuamus .{sc:c}.{sc:xliiii}., et constituamus unum quemque ex eis",
+   "margin": null,
+   "plain": "minuamus .c.xliiii., et constituamus unum quemque ex eis",
+   "italic": [],
+   "small_caps": [
+    "c",
+    "xliiii"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "sub alio hoc modo.",
+   "margin": null,
+   "plain": "sub alio hoc modo.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L04",
+   "n": 4,
+   "kind": "indent",
+   "text": "Cum uolueris mediare aliquem numerum, accipe a prima",
+   "margin": null,
+   "plain": "Cum uolueris mediare aliquem numerum, accipe a prima",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "differentia, et media eam: in qua si fuerit numerus inpar, me-",
+   "margin": null,
+   "plain": "differentia, et media eam: in qua si fuerit numerus inpar, me-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "dia pares, et remanebit unum, quod mediabis, idest diuides in",
+   "margin": null,
+   "plain": "dia pares, et remanebit unum, quod mediabis, idest diuides in",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "duas medietates; constituesque medietatem unam triginta par-",
+   "margin": null,
+   "plain": "duas medietates; constituesque medietatem unam triginta par-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "tem ex sexaginta, que faciunt unum; et pone sub eadem diffe-",
+   "margin": null,
+   "plain": "tem ex sexaginta, que faciunt unum; et pone sub eadem diffe-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "rentia .{sc:xxx}.: deinde mediabis sequentem differentiam, si fue-",
+   "margin": null,
+   "plain": "rentia .xxx.: deinde mediabis sequentem differentiam, si fue-",
+   "italic": [],
+   "small_caps": [
+    "xxx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "rit numerus eius par; et si fuerit impar, accipe medietatem",
+   "margin": null,
+   "plain": "rit numerus eius par; et si fuerit impar, accipe medietatem",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "paris, et pone eam in loco eius, et constitue medietatem unius",
+   "margin": null,
+   "plain": "paris, et pone eam in loco eius, et constitue medietatem unius",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "residui quinque; et pone eos in differentia que est ante ipsam.",
+   "margin": null,
+   "plain": "residui quinque; et pone eos in differentia que est ante ipsam.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "Si autem non fuerit in eadem differentia quam uolueris me-",
+   "margin": null,
+   "plain": "Si autem non fuerit in eadem differentia quam uolueris me-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "diare, nisi tantum unum, pone in loco eius circulum, et pone",
+   "margin": null,
+   "plain": "diare, nisi tantum unum, pone in loco eius circulum, et pone",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "quinque in differentia que est ante ipsam. Et similiter operare",
+   "margin": null,
+   "plain": "quinque in differentia que est ante ipsam. Et similiter operare",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "in uniuersis differentiis. Et cum uolueris duplare, incipe a su-",
+   "margin": null,
+   "plain": "in uniuersis differentiis. Et cum uolueris duplare, incipe a su-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "periori differentia, et dupla; et cum numerus crescendo exces-",
+   "margin": null,
+   "plain": "periori differentia, et dupla; et cum numerus crescendo exces-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "serit .{sc:x}., fac de decem unum, et pone eum in sequenti diffe-",
+   "margin": null,
+   "plain": "serit .x., fac de decem unum, et pone eum in sequenti diffe-",
+   "italic": [],
+   "small_caps": [
+    "x"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "rentia, et inuenies, si Deus uoluerit.",
+   "margin": null,
+   "plain": "rentia, et inuenies, si Deus uoluerit.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L20",
+   "n": 20,
+   "kind": "indent",
+   "text": "Etiam patefeci in libro, quod necesse est omni numero qui",
+   "margin": null,
+   "plain": "Etiam patefeci in libro, quod necesse est omni numero qui",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "multiplicatur in aliquo quolibet numero, ut duplicetur unus",
+   "margin": null,
+   "plain": "multiplicatur in aliquo quolibet numero, ut duplicetur unus",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "ex eis secundum unitates alterius. Cumque uolueris multipli-",
+   "margin": null,
+   "plain": "ex eis secundum unitates alterius. Cumque uolueris multipli-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "care aliquem numerum in alio per literas indorum, necesse est",
+   "margin": null,
+   "plain": "care aliquem numerum in alio per literas indorum, necesse est",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "retinere multiplicationem numeri, qui est inter unum et .{sc:ix}.",
+   "margin": null,
+   "plain": "retinere multiplicationem numeri, qui est inter unum et .ix.",
+   "italic": [],
+   "small_caps": [
+    "ix"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "in inuicem, siue concors fuerit numerus, siue diuersus. Cum-",
+   "margin": null,
+   "plain": "in inuicem, siue concors fuerit numerus, siue diuersus. Cum-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "que uolueris multiplicare numerum in altero, pone unum ex",
+   "margin": null,
+   "plain": "que uolueris multiplicare numerum in altero, pone unum ex",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "eis secundum quantitatem mansionum eius in tabula, uel in",
+   "margin": null,
+   "plain": "eis secundum quantitatem mansionum eius in tabula, uel in",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "qualibet re alia quam uolueris. De inde pone primam diffe-",
+   "margin": null,
+   "plain": "qualibet re alia quam uolueris. De inde pone primam diffe-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "rentiam alterius numeri sub altiori differentia primi. Eritque",
+   "margin": null,
+   "plain": "rentiam alterius numeri sub altiori differentia primi. Eritque",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "prima mansio eiusdem numeri sub ultima mansione primi nu-",
+   "margin": null,
+   "plain": "prima mansio eiusdem numeri sub ultima mansione primi nu-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "meri quem posuisti. Et erit mansio secunda precedens primum",
+   "margin": null,
+   "plain": "meri quem posuisti. Et erit mansio secunda precedens primum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "numerum uersus sinistram: cuius rei exemplar est. Quod cum",
+   "margin": null,
+   "plain": "numerum uersus sinistram: cuius rei exemplar est. Quod cum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F016-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "uellemus multiplicare duo milia tercentos .{sc:xxvi}. in .{sc:ccx}.{sc:iiii}{sup:or},",
+   "margin": null,
+   "plain": "uellemus multiplicare duo milia tercentos .xxvi. in .ccx.iiiior,",
+   "italic": [],
+   "small_caps": [
+    "xxvi",
+    "ccx",
+    "iiii"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 10 )» stands at the head of the page, centred. The page has no footnotes and no signature.",
+  "L01-L03: the example of subtraction is one thousand one hundred and forty-four («mille centum quadraginta quatuor») less «.c.xliiii.», one hundred and forty-four, written «.c.» and «xliiii.» with one point between them; L03 ends «hoc modo.», in this way, without the figure and without the four points of a gap. L33: «.ccx.iiiior», two hundred and fourteen, «iiii» with «or» raised, after «.ccx.».",
+  "L07-L09: the half of an odd unit is written as «triginta partem ex sexaginta», thirty sixtieths, placed under the place as «.xxx.».",
+  "L32: the second «u» of «numerum» is broken, its two stems printed as short strokes; transcribed «numerum».",
+  "Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): L09 «.xxx.: deinde», the colon close to the point (8 px), without a space; L24 «unum et .ix.», with a wider space (31 px) before the point; the colon of L32 «sinistram:» is close to the word (6 px)."
+ ],
+ "copy_matter": [
+  "A reader's notes in pencil: «or / XLIIII» in the left margin beside L01-L02, a reading of «.xliiii.» as quadraginta quatuor; L03, a dot after «modo.» (darkest pixel 107, where the printed point is 22) and faint erased writing to the right of it; «quod» in the left margin beside L10, with «et» marked by a stroke; L11, «paris,» underlined and a slash after it; L11, a stroke over «loco»; L13, a stroke over «fuerit»; «quod / quod» in the left margin beside L15-L16, with strokes under «Et» (L15, L16); L27, a small comma-shaped mark at the base line between «eis» and «secundum», not in the ink of the print. Not part of the edition."
+ ],
+ "critical_notes": []
+}

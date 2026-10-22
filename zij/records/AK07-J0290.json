@@ -1,0 +1,22 @@
+{
+ "anchor": "AK07-J0290",
+ "jp2_index": 290,
+ "jp2_member": "b24872489_0290.jp2",
+ "jp2_sha256": "a3134b264a8ae064aeff2826f5092793745ea70948f45085438250669eade01e",
+ "reading_copy": "page_0290.jpg",
+ "reading_copy_sha256": "3b26d2ba64a16061b0afa58fa2c8ee83846106139921607f20738b4997f91373",
+ "printed_page": "[256]",
+ "kind": "blank",
+ "language": null,
+ "role": "blank",
+ "file": "suter",
+ "comment": "JP2 0290: the back of p. 255, p. [256]; nothing printed.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Blank. The index of p. 255 (JP2 0289) and the library stamp beside it show through the leaf, mirrored; damp stains run down from the top and up from the foot; small specks; the gutter at the right."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,4 @@
+@page 176 -
+@kind blank
+% Frame 176: the back of the folding sheet of plate III; nothing printed.
+@obs Blank. The map of plate III (frame 175) shows through faintly from the other side of the sheet. Two specks, 15 by 14 and 11 by 9 px, near the foot of the sheet.

@@ -1,0 +1,42 @@
+@page 37 ٢٣
+% Frame 037, printed p. 23: the end of the first demonstration (why half the roots is squared); a second figure for
+% the same case: the square اب with two rectangles of five on two of its sides and the corner square of five by five
+% that completes the great square ده; the side of the great square, eight, less five, is three. Then the fifth case
+% begins, "a square and twenty-one dirhams equal ten roots", its statement printed in bold. The figure stands at the
+% left of lines 14-19, which are set in a narrower measure beside it. One footnote of the editors, (١).
+ضلعه ثلاثة وهو جذر ذلك المال . وإنما نصفنا العشرة الاجذار وضربناها فى
+مثلها وزدناها على العدد الذى هو تسعة وثلاثون ليتم لنا بناء السطح الأعظم
+بما نقص من زواياه الأربع لأن كل عدد يضرب ربعه فى مثله ثم فى أربعة
+يكون مثل ضرب نصفه فى مثله فاستغنينا بضرب نصف الاجذار فى مثلها عن
+الربع فى مثله ثم فى أربعة وهذه صورته .
+@p وله أيضا صورة أخرى تؤدى الى هذا وهى سطح {ov:اٮ} وهو المال فأردنا
+أن نزيد عليه مثل عشرة أجذاره فنصفنا العشرة فصارت خمسة فصيرناها سطحين
+على جنبتى سطح {ov:اٮ} وهما سطحا {ov:ح} {inv:ج} فصار طول كل سطح منهما خمسة أذرع
+وهو نصف العشرة الاجذار وعرضه مثل ضلع سطح {ov:اٮ} فبقيت لنا مربعة من
+زوايا سطح {ov:اٮ} وهى خمسة فى خمسة وهى نصف العشرة الأجذار التى زدناها
+على جنبتى السطح الأول فعلمنا أن السطح الأول هو المال وأن السطحين اللذين
+على جنبتيه هما عشرة أجذار فذلك كله تسعة وثلاثون وبقى الى تمام السطح
+الأعظم مربعة خمسة فى خمسة فذلك خمسة وعشرون فزدناها على تسعة وثلاثين
+ليتم لنا السطح الأعظم الذى هو سطح {ov:ده} فبلغ
+ذلك كله أربعة وستين فأخذنا جذرها وهو
+ثمانية وهو أحد أضلاع السطح الأعظم فاذا
+نقصنا منه مثل مازدنا عليه وهو خمسة بقى
+ثلاثة وهو ضلع سطح {ov:اٮ} الذى هو المال وهو
+جذره والمال تسعة وهذه صورته
+@p {b:وأما مال وأحد وعشرون درهما تعدل عشرة اجذاره}{n:١} فا نانجعل المال سطحاً
+@fig AK01-F037-FIG1 545 2250 1240 3032 after=13
+@ednotes ١ 1
+@obs The figure: a square divided by two lines into four. The upper right square is marked المال, with ا at its upper right corner and ب at its lower left corner, the corner it shares with the other three; the upper left rectangle is marked ح; the lower right rectangle carries a mark shaped like a question mark, perhaps a ج; the lower left square is marked ٢٥. د stands outside the upper left corner of the whole and ه outside its lower right corner. The figure is drawn, not set in type, and is reproduced as an image.
+@obs Letters printed as the labels of the figure carry a short wavy line above them: اب (L06, L08, L09, L10, L18), the line over its ب; ده (L14), the line over its د, where frame 36 has it over the ه; ح (L08), the line over the left half of the letter and the space after it.
+@obs L08: the two labels after سطحا are ح and a ج printed upside down: the sort is turned through 180 degrees, so that the bowl of the letter opens to the left, the stroke that tops a ج runs along its foot, and the dot stands inside the bowl. Transcribed {inv:ج} and set upside down in the PDF. See the critical note AK01-CN002.
+@obs L20: the statement of the fifth case, from وأما to اجذاره, is printed in a bold face; the rest of the line, from فا نانجعل, in the face of the text. The line is printed with a paragraph indent. In the bold face the joined د and ذ come close to the shape of ر and ز; the letter after the ج of اجذاره reaches as deep below the line as the joined د of وأحد, not as deep as the joined ر of وعشرون, and is read ذ.
+@obs Set without a word space after a non-connecting letter, and transcribed so: مازدنا (L17; the ا and the ز stand 11 px apart, nearest approach of the letters at 400 ppi, where إذا زدت on frame 041, L02, sets them 32 px apart). In the bold face of L20 the word spaces are narrow: the ل of مال and the و of وأحد stand 8 px apart; the د of وأحد and the و of وعشرون stand 12 px apart, which does not show whether a space is set, and the space is written: وأحد وعشرون. After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: أن نزيد and فصارت خمسة (L07), طول كل (L08), سطح ده (L14), مال وأحد, تعدل عشرة, نجعل المال and المال سطحاً (L20).
+@obs Plain alif where a hamza might be expected, as printed: الاجذار (L01, L04, L09; L10 has الأجذار), الى (L06, L12), فاذا (L16), اجذاره (L20; L07 has أجذاره).
+@obs With tanwīn on the final alif: سطحاً (L20); without tanwīn as printed: أيضا (L06).
+@obs The print stretches some words with the elongation stroke (kashīda) to fill the line, as تمام (L12), فأخذنا (L15), عليه (L17); the stroke is not transcribed.
+@obs L01: the full stop after المال stands between spaces; L05 ends with a full stop set apart; L19, at the end of the narrow column, ends without one.
+@obs L20: the note mark (١) is set close after اجذاره, with a space after it.
+@critical AK01-CN002 | turned letter | L08 | ح and ج printed upside down | ح ج | The second label after سطحا is a ج printed upside down: rotated through 180 degrees it has the shape of the ج of the text type. The line names the two rectangles on the sides of the square اب, and the figure labels them ح and, with a mark like a question mark, the other. | high | none on the mathematics: only the position of the letter is in error
+@obs L20: the print sets a word space inside فانا, after its first alif, and none after it: فا نانجعل (see the critical note AK01-CN005).
+@obs The ب of the label اب is printed without its dot every time (L06, L08, L09, L10, L18); transcribed ٮ, the dotless form. In L09 a small irregular speck stands 35 to 45 px below the bowl of the ب, not shaped like the printed dots.
+@critical AK01-CN005 | misplaced word space | L20 | فا نانجعل | فانا نجعل | The print sets a space inside فانا, between the ا of فا and the ن of نا (29 px, nearest approach of the letters at 400 ppi), and none between فانا and نجعل (15 px). On frame 041, L05, the same words are set فانا نجعل: 15 px inside فانا, 30 px after it. | high | none on the mathematics: only the division of the words is in error

@@ -1,0 +1,40 @@
+@page 66 ٦٠
+@cols 22,50,82
+@align r,c,r
+% Frame 066, printed p. 60: the right-hand page of the opening pp. 60-61 of the table of the mountains: the last three
+% entries of the sixth clime, 871/872-875/876, Qāsiyā, اسعودر and the dam between the two mountains of Gog and Magog;
+% the headings of the seventh clime and of its mountains, with the folio of the manuscript, «(fol. 15ᵇ)», in the margin;
+% seven entries of the seventh clime, 877/878-889/890, among them Sāmūlā in the land of Gog; the headings of what lies
+% beyond the seventh clime; and its first mountain, 891/892, Mālī on an island. Two lines of the editor's footnotes,
+% the end of note d, continued from the foot of p. 61.
+@r (٨٧١ ٨٧٢) | [١٣٥٧ ١٣٥٨] | جبل قاسيا{n:a}
+@r (٨٧٣ ٨٧٤) | [١٣٥٩ ١٣٦٠] | جبل اسعودر
+@r (٨٧٥ ٨٧٦) | [١٣٦١ ١٣٦٢] | السدّ بين جبلين ياجوج وماجوج
+@h * الإقليم السابع
+@h * الجبال الّتى فى
+@m (fol. 15ᵇ)
+@r (٨٧٧ ٨٧٨) | [١٣٦٣ ١٣٦٤] | جبل ٮورسس
+@r (٨٧٩ ٨٨٠) | [١٣٦٥ ١٣٦٦] | جبل الڡس فى اصله ماڡلوٮ
+@r (٨٨١ ٨٨٢) | [١٣٦٧ ١٣٦٨] | جبل سسٮٮڡا
+@r (٨٨٣ ٨٨٤) | [١٣٦٩ ١٣٧٠] | جبل لٮٮعوس
+@r (٨٨٥ ٨٨٦) | [١٣٧١ ١٣٧٢] | جبل
+@r (٨٨٧ ٨٨٨) | [١٣٧٣ ١٣٧٤] | جبل
+@r (٨٨٩ ٨٩٠) | [١٣٧٥ ١٣٧٦] | جبل سامولا فى بلاد ياجوج
+@h * خلف الإقليم السابع
+@h * الجبال الّتى وراء
+@r (٨٩١ ٨٩٢) | [١٣٨١ ١٣٨٢] | جبل مالى فى جزيرة
+@ednotes d 2
+@obs The table of the mountains goes on across the opening pp. 60-61: each line of p. 60 is continued by the same line of p. 61 (frame 067), which gives the boundaries, the colour and the direction. L01-L03 are the last three entries of the sixth clime. The headings run across the opening: L04, «* الإقليم السابع», is continued on p. 61 by «عرضه مح *», the seventh clime and its latitude, 48; L05, «* الجبال الّتى فى», by «الإقليم السابع *», the mountains in the seventh clime; L13, «* خلف الإقليم السابع», by «الى عرض ثلثة وستّين *», beyond the seventh clime to the latitude of sixty-three; and L14, «* الجبال الّتى وراء», by «الإقليم السابع *», the mountains beyond the seventh clime. They are set in the large type, each beginning with a small open star, transcribed as an asterisk, and stand at the inner edge of the page, next to their ends on p. 61; transcribed as headings. L04, L13: «الإقليم», with a hamza below the alif; L05, L14: «الّتى», with a shadda over the ل; L05: «فى», with the dot of the ف and no dots on the ى; L13: «خلف», with the dots of the خ and the ف; L14: «الجبال», printed with a long kashida, the stretched joining stroke, between the ب and the alif, which is not transcribed, and «وراء», with a hamza after the alif.
+@obs The running numbers go on from entry 869/870 (frame 064) and run (٨٧١ ٨٧٢)-(٨٩١ ٨٩٢). The numbers of Suhrāb are [١٣٥٧ ١٣٥٨]-[١٣٧٥ ١٣٧٦] (L01-L12) and [١٣٨١ ١٣٨٢] (L15); [١٣٧٧]-[١٣٨٠] do not appear on the page. The folio of the Strasbourg manuscript, «(fol. 15ᵇ)», is printed in Latin type in the right margin beside entry 877/878 (L06).
+@obs L03: «السدّ بين جبلين ياجوج وماجوج», the dam between two mountains, Gog and Magog, with a shadda over the د of «السدّ»: the only entry of the page that does not begin with «جبل». L10, L11: the word «جبل» alone. L12: «سامولا فى بلاد ياجوج», Sāmūlā in the land of Gog, with the dots of «بلاد» and «ياجوج». L15: «مالى فى جزيرة», Mālī on an island; «مالى» ends in a ى without dots, with a speck, 3 by 5 px, below it. «فى» (L07, L12, L15) has the dot of the ف and no dots on the ى.
+@obs L01: «قاسيا», the ق with its two dots and the ي with its two dots below; the note mark a follows.
+@obs Loops without dots in the names. The medial ع of this type is wider than high (frame 054, L11, «المعدن»: 18 by 11 px), where the medial loop of ف or ق is narrower and taller (frame 064, L17, «اسفطافا», with the dot of the ف). L02: «اسعودر»: after the alif, the three teeth of a س (12, 9 and 8 px), a loop 17 px wide and 14 px high, then و, د and ر; transcribed ع. L07: «الڡس» and «ماڡلوٮ»: upright loops, 12 by 17 and 11 by 14 px, with a counter; transcribed ڡ; the final ب of «ماڡلوٮ» has no dot. L08: an upright loop, 12 by 14 px; transcribed ڡ. L09: a loop 18 px wide and 12 px high; transcribed ع.
+@unres L02: the loop may also be read as the loop of ف or ق: اسڡودر. Transcribed اسعودر.
+@unres L09: the loop may also be read as the loop of ف or ق: لٮٮڡوس. Transcribed لٮٮعوس.
+@obs L06: «ٮورسس»: a tooth without a dot, 18 px high, joined to a و; a ر, rising 20 px above the line like the isolated ر of L02, its head split for 7 px into two strokes; and six teeth before the bowl of the final س. The notched ٮر, a tooth joined to a ر (frame 041, L06), rises only 12 px. Transcribed ٮورسس.
+@obs L08: «سسٮٮڡا»: after «جبل», eight upright strokes before the loop, the first 10 px high and the others 5 to 8 px, then the alif; six of them are taken as the teeth of two س, as in the six teeth of «ٮورسس» (L06), whose first two strokes stand as close together (7 and 8 px) as the first two here. A speck of 9 px, much smaller than the dots of the font, stands above the joint of the loop.
+@unres L08: the eight strokes before the loop are of nearly the same height, so the grouping into letters does not show: the name may also be read ٮسسٮڡا or ٮٮسسڡا. Transcribed سسٮٮڡا.
+@obs L09: «لٮٮعوس»: after the ل, two teeth without dots, 6 and 7 px high and 16 px apart, the second 4 px from the loop with a dip to 3 px between them; then the loop, a و and a final س with three teeth. Transcribed as counted.
+@obs The two lines of the editor's footnotes at the foot of the page continue note d, whose mark and first words, «Am Rande:», stand at the foot of p. 61 (frame 067): they hold a gloss in Arabic from the margin of the manuscript, quoted in the variants of frame 067. The text of note a, whose mark stands on this page (L01), is printed at the foot of p. 61.
+@obs The page number «— ٦٠ —» stands at the foot, centred.
+@variant L01: a variant reading of the name is قاسنا (note a, printed at the foot of p. 61).

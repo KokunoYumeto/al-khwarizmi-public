@@ -1,0 +1,267 @@
+{
+ "anchor": "AK05-F154",
+ "frame": 154,
+ "frame_file": "page_154.jpg",
+ "frame_sha256": "d4330ae22e88bfa09edcad755bc58f76c4d61128f7800bbedb2a3705e04b7263",
+ "printed_page": "١٤٨",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 154, printed p. 148: rivers and springs that fall into the great river of p. 147: three rivers from a mountain, three rivers from the mountain طغورا and two springs; then the beginning of the river بوخردس. The editor's running numbers (٢٢٣٣)-(٢٢٤٩) and the numbers of Suhrāb; words supplied by the editor between angle brackets. Four lines of the editor's footnotes, the first of them ending note f of p. 147.",
+ "lines": [
+  {
+   "id": "AK05-F154-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "[١٥٩١] * ويقع ايضاً الى النهر الكبير ثلٰثة انهار من جبل مخرج النهر الأوّل",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٥٩١] * ويقع ايضاً الى النهر الكبير ثلٰثة انهار من جبل مخرج النهر الأوّل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F154-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "⟨عند طول⟩{n:a} {ov:ڡح {z}} والعرض {ov:مح ل} (٢٢٣٣) ومصبّه فى النهر عند طول {ov:ڡج ى} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "⟨عند طول⟩ ڡح ō والعرض مح ل (٢٢٣٣) ومصبّه فى النهر عند طول ڡج ى والعرض",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F154-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "{ov:ٮا ل} (٢٢٣٤) والثانى اوّله عند طول {ov:ڡج ل} والعرض {ov:مر ل} (٢٢٣٥) ومصبّه فى النهر",
+   "margin": null,
+   "cells": null,
+   "plain": "ٮا ل (٢٢٣٤) والثانى اوّله عند طول ڡج ل والعرض مر ل (٢٢٣٥) ومصبّه فى النهر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F154-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "عند طول {ov:قد ل} والعرض {ov:ن م} (٢٢٣٦) والثالث اوّله عند طول {ov:قد مه} والعرض {ov:مح ه}",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول قد ل والعرض ن م (٢٢٣٦) والثالث اوّله عند طول قد مه والعرض مح ه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F154-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "(٢٢٣٧) ومصبّه فى النهر عند طول {ov:ڡو ه} والعرض {ov:ن ك} (٢٢٣٨) * ويقع ايضاً الى",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٢٣٧) ومصبّه فى النهر عند طول ڡو ه والعرض ن ك (٢٢٣٨) * ويقع ايضاً الى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F154-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "النهر الكبير ثلٰثة انهار من جبل طغورا الأوّل منها مخرجه عند طول {ov:قيب {z}} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "النهر الكبير ثلٰثة انهار من جبل طغورا الأوّل منها مخرجه عند طول قيب ō والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F154-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "{ov:نح ى}{n:b} (٢٢٣٩) [١٥٩٢] ومصبّه فى النهر عند طول {ov:قط ك} والعرض {ov:ن ه}{n:c} (٢٢٤٠)",
+   "margin": null,
+   "cells": null,
+   "plain": "نح ى (٢٢٣٩) [١٥٩٢] ومصبّه فى النهر عند طول قط ك والعرض ن ه (٢٢٤٠)",
+   "note_marks": [
+    "b",
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F154-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "[١٥٩٣] ومخرج الثانى عند طول {ov:قيد ه} والعرض {ov:نب ه} (٢٢٤١) [١٥٩٤] ومصبّه",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٥٩٣] ومخرج الثانى عند طول قيد ه والعرض نب ه (٢٢٤١) [١٥٩٤] ومصبّه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F154-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "فى النهر عند طول {ov:قيب ى} والعرض {ov:مط ل} (٢٢٤٢) [١٥٩٥] ومخرج الثالث عند",
+   "margin": null,
+   "cells": null,
+   "plain": "فى النهر عند طول قيب ى والعرض مط ل (٢٢٤٢) [١٥٩٥] ومخرج الثالث عند",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F154-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "طول {ov:قيه ل} والعرض {ov:ٮا ل} (٢٢٤٣) [١٥٩٦] ومصبّه فى النهر عند طول {ov:قيد ه} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "طول قيه ل والعرض ٮا ل (٢٢٤٣) [١٥٩٦] ومصبّه فى النهر عند طول قيد ه والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F154-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "{ov:مح ل} (٢٢٤٤) [١٥٩٧] * ويقع الى هٰذا النهر الكبير عين اوّلها عند طول {ov:ڡط م}{n:d}",
+   "margin": null,
+   "cells": null,
+   "plain": "مح ل (٢٢٤٤) [١٥٩٧] * ويقع الى هٰذا النهر الكبير عين اوّلها عند طول ڡط م",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F154-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "والعرض {ov:مد ل} (٢٢٤٥) [١٥٩٨] مصبّها فى النهر عند طول {ov:قيح ه} والعرض {ov:مو ه}",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض مد ل (٢٢٤٥) [١٥٩٨] مصبّها فى النهر عند طول قيح ه والعرض مو ه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F154-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "(٢٢٤٦) [١٥٩٩] * ويقع الى النهر الكبير ايضاً عين اوّلها عند طول {ov:قكد ل}{n:e} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٢٤٦) [١٥٩٩] * ويقع الى النهر الكبير ايضاً عين اوّلها عند طول قكد ل والعرض",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F154-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "{ov:مط ه} (٢٢٤٧) [١٦٠٠] ومصبّها فى النهر عند طول {ov:قكج {z}}{n:f} والعرض {ov:مو ك}",
+   "margin": null,
+   "cells": null,
+   "plain": "مط ه (٢٢٤٧) [١٦٠٠] ومصبّها فى النهر عند طول قكج ō والعرض مو ك",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F154-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "(٢٢٤٨) [١٦٠١] *",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٢٤٨) [١٦٠١] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F154-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "نهر بوخردس اوّله عين عند طول {ov:ڡمه ل}{n:g} والعرض {ov:مر {z}} (٢٢٤٩) [١٦٠٢] يمرّ الى",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر بوخردس اوّله عين عند طول ڡمه ل والعرض مر ō (٢٢٤٩) [١٦٠٢] يمرّ الى",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g"
+   ],
+   "lines": 4,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L02: the manuscript has a gap at the words between the brackets; the editor supplies them (note a).",
+  "L07: a variant reading of the first latitude is لج ى, with a line over the numerals (note b).",
+  "L07: the manuscript first had ز ه for the second latitude, with a line over the numerals; a later hand has corrected it (note c).",
+  "L11: a variant reading of the longitude is ڡط ō, the loop without dots, with a line over the numerals (note d).",
+  "L13: a variant reading of the longitude is قكد ك, with a line over the numerals (note e).",
+  "L14: a variant reading of the longitude is كج ō, with a line over the numerals (note f).",
+  "L16: a variant reading of the longitude is ڡعه ل, the loop without dots, with a line over the numerals (note g)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The springs and rivers that fall into the great river go on from p. 147 (frame 153), whose last point, «ومصبّه فى النهر عند طول قز ك والعرض ن ل (٢٢٣٢)», L01 completes with its number of Suhrāb, [١٥٩١], followed by an asterisk.",
+  "L01-L05: «ويقع ايضاً الى النهر الكبير ثلٰثة انهار من جبل مخرج النهر الأوّل ⟨عند طول⟩ ڡح {z} والعرض مح ل (٢٢٣٣) ومصبّه فى النهر عند طول ڡج ى والعرض ٮا ل (٢٢٣٤) والثانى اوّله عند طول ڡج ل والعرض مر ل (٢٢٣٥) ومصبّه فى النهر عند طول قد ل والعرض ن م (٢٢٣٦) والثالث اوّله عند طول قد مه والعرض مح ه (٢٢٣٧) ومصبّه فى النهر عند طول ڡو ه والعرض ن ك (٢٢٣٨) *», into the great river fall also three rivers from a mountain: the source of the first river is ⟨at the longitude⟩ ڡح ō and the latitude 48° 30′, and its mouth in the river at the longitude ڡج ى and the latitude ٮا ل; the second begins at the longitude ڡج ل and the latitude مر ل, and its mouth in the river is at the longitude 104° 30′ and the latitude 50° 40′; the third begins at the longitude 104° 45′ and the latitude 48° 5′, and its mouth in the river is at the longitude ڡو ه and the latitude 50° 20′. The mountain is not named.",
+  "L05-L11: «ويقع ايضاً الى النهر الكبير ثلٰثة انهار من جبل طغورا الأوّل منها مخرجه عند طول قيب {z} والعرض نح ى (٢٢٣٩) ومصبّه فى النهر عند طول قط ك والعرض ن ه (٢٢٤٠) ومخرج الثانى عند طول قيد ه والعرض نب ه (٢٢٤١) ومصبّه فى النهر عند طول قيب ى والعرض مط ل (٢٢٤٢) ومخرج الثالث عند طول قيه ل والعرض ٮا ل (٢٢٤٣) ومصبّه فى النهر عند طول قيد ه والعرض مح ل (٢٢٤٤) *», into the great river fall also three rivers from the mountain طغورا: the first of them has its source at the longitude 112° 0′ and the latitude 58° 10′, and its mouth in the river at the longitude 109° 20′ and the latitude 50° 5′; the source of the second is at the longitude 114° 5′ and the latitude 52° 5′, and its mouth in the river at the longitude 112° 10′ and the latitude 49° 30′; the source of the third is at the longitude 115° 30′ and the latitude ٮا ل, and its mouth in the river at the longitude 114° 5′ and the latitude 48° 30′.",
+  "The mountain «طغورا» (L06) is entries 941-942 of the table of the mountains, «جبل طفورا» (frame 070, L07), whose editor's note f gives the form of this entry (2239), طغورا; its boundaries are at the longitude 109° 20′ and the latitude 55° 45′ and at the longitude قٮه م and the latitude 51° 20′ (frame 071, L07). Here the غ has its dot.",
+  "L11-L13: «ويقع الى هٰذا النهر الكبير عين اوّلها عند طول ڡط م والعرض مد ل (٢٢٤٥) مصبّها فى النهر عند طول قيح ه والعرض مو ه (٢٢٤٦) *», into this great river falls a spring whose beginning is at the longitude ڡط م and the latitude 44° 30′; its mouth in the river is at the longitude 118° 5′ and the latitude 46° 5′. «مصبّها» stands without و.",
+  "L13-L15: «ويقع الى النهر الكبير ايضاً عين اوّلها عند طول قكد ل والعرض مط ه (٢٢٤٧) ومصبّها فى النهر عند طول قكج {z} والعرض مو ك (٢٢٤٨) *», into the great river falls also a spring whose beginning is at the longitude 124° 30′ and the latitude 49° 5′, and its mouth in the river at the longitude 123° 0′ and the latitude 46° 20′. L15 holds only the running number, the number of Suhrāb and the asterisk, at the right.",
+  "L16: «نهر بوخردس اوّله عين عند طول ڡمه ل والعرض مر {z} (٢٢٤٩) يمرّ الى», the river بوخردس, whose beginning is a spring at the longitude 145° 30′ and the latitude 47° 0′; it passes to …, continued on p. 149. «بوخردس» has the dot of the ب and the dot of the خ.",
+  "Numerals: «مح ل» (L02, L11), 48° 30′; «قد ل» (L04), with the two dots of the ق, 104° 30′; «ن م» (L04), with the dot of the ن, 50° 40′; «قد مه» (L04), 104° 45′; «مح ه» (L04), 48° 5′; «ن ك» (L05), 50° 20′; «قيب {z}» (L06), with the dots of the ق, the ي and the ب, 112° 0′; «نح ى» (L07), with the dot of the ن, 58° 10′; «قط ك» (L07), 109° 20′; «ن ه» (L07), 50° 5′; «قيد ه» (L08, L10), 114° 5′; «نب ه» (L08), with the dots of the ن and of the ب, 52° 5′; «قيب ى» (L09), 112° 10′; «مط ل» (L09), 49° 30′; «قيه ل» (L10), 115° 30′; «مد ل» (L12), 44° 30′; «قيح ه» (L12), 118° 5′; «مو ه» (L12), 46° 5′; «قكد ل» (L13), 124° 30′; «مط ه» (L14), 49° 5′; «قكج {z}» (L14), with the dot of the ج, 123° 0′; «مو ك» (L14), 46° 20′. The ك of «ن ك», «قط ك» and «مو ك» is the isolated ك with its small inner stroke, 36 to 38 px wide, 20. The minutes «ه» (L04, L05, L07, L08, twice, L10, L12, twice, L14) are the small round ring of the isolated ه, 5.",
+  "The loop of ف or ق without dots in the degrees of the longitude, transcribed so: «ڡح {z}» (L02), read قح 108° 0′ or فح 88; «ڡج ى» (L02) and «ڡج ل» (L03), read قج 103° 10′ and 103° 30′ or فج 83; «ڡو ه» (L05), read قو 106° 5′ or فو 86; «ڡط م» (L11), read قط 109° 40′ or فط 89; «ڡمه ل» (L16), the loop before م, a tens letter, which only ق can precede, 145° 30′; the variant of note g, «ڡعه ل», has the loop before ع, likewise ق, 175° 30′. Read with ق, the rivers of L01-L05 begin and end between 103° and 108°, beside «قد ل» and «قد مه» printed with the dots of the ق (L04), and near the course of the great river at 108° 0′ and 46° 5′ and at 107° 5′ and 50° 30′ (frame 153, L04).",
+  "«ٮا ل» (L03, L10): a tooth without its dot joined to an alif: read with a ن, 51° 30′; read with a ي, 11. At L10, 51° 30′ is the latitude of the end of the mountain طغورا, 51° 20′ in the table; at L03, the great river passes 51° 0′ at the longitude 100° 30′ (frame 153, L05). In L03 faint specks of 6 to 8 px stand to the right of the tooth, not above it; the dot of the font is some 9 px across and solid.",
+  "«مر ل» (L03) and «مر {z}» (L16): the letter joined to the م is the joined ر, the dotless ز: its head is a small hook 8 px wide and 7 to 8 rows high, without a counter, where the و of «مو ه» (L12) has a round head 14 px wide and 15 rows high. In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII): 47° 30′ and 47° 0′.",
+  "«مح ل» (L02, L11), «مح ه» (L04), «نح ى» (L07) and «قيح ه» (L12): the ح shows no dot in the bowl, where «ڡج ى» (L02), «ڡج ل» (L03) and «قكج» (L14) have the dot of the ج; the same form is a ج without its dot, 3.",
+  "Angle brackets, followed by a note mark, around what the editor supplies: «⟨عند طول⟩» (L02), note a. The mark a is faintly printed, a small grey mark of 11 by 11 px after the closing bracket. Transcribed with the brackets.",
+  "Signs in the text, transcribed as printed: «ايضاً» (L01, L05, L13) with the tanwin of the accusative over its alif; «ثلٰثة» (L01, L06) with a small alif over the ل; «الأوّل» (L01, L06) with a hamza over the alif and a shadda over the و; «ومصبّه» (L02, L03, L05, L07, L08, L10), «مصبّها» (L12) and «ومصبّها» (L14) with a shadda over the ب; «اوّله» (L03, L04, L16) and «اوّلها» (L11, L13) with a shadda over the و; «هٰذا» (L11) with a small alif over the ه; «يمرّ» (L16) with a shadda over the ر; «والثانى» (L03) and «الثانى» (L08) with the three dots of the ث and a final ى without dots; «فى» and «الى» end in a ى without dots.",
+  "The running numbers run (٢٢٣٣)-(٢٢٤٩) without a gap. The numbers of Suhrāb: (٢٢٣٣)-(٢٢٣٨), the three rivers of the unnamed mountain, have none; [١٥٩٢]-[١٦٠٢] after (٢٢٣٩)-(٢٢٤٩). [١٥٩٣] stands at the beginning of L08, after the running number (٢٢٤٠) at the end of L07.",
+  "Asterisks: the small open stars with six points, after [١٥٩١] (L01), (٢٢٣٨) (L05), [١٥٩٧] (L11), [١٥٩٩] (L13) and [١٦٠١] (L15), are transcribed as asterisks.",
+  "Note marks: L02, a after «⟨عند طول⟩»; L07, b after the first latitude and c after the second; L11, d after the longitude; L13, e after the longitude; L14, f after the longitude; L16, g after the longitude.",
+  "Marks not transcribed: L06, in «من» of «انهار من جبل» the head of the م, 15 by 18 px, stands apart from the ن, the joining stroke between them broken; small specks of the impression.",
+  "The editor's footnotes stand in four lines below a short rule at the left: the first line ends note f of p. 147 (frame 153), whose reading is recorded there; then notes a-g. The page number «— ١٤٨ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

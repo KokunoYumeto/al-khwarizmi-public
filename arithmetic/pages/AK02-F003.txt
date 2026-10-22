@@ -1,0 +1,23 @@
+@page 3 -
+@kind title
+% Frame 003: the printed front wrapper of the 1857 edition, on yellow paper, which carries the title within an
+% ornamental border; with the editor's presentation inscription to the Royal Library in Munich.
+@c TRATTATI
+@c D’ ARITMETICA
+@c PUBBLICATI
+@c DA BALDASSARRE BONCOMPAGNI
+@c {sc:socio ordinario dell’accademia pontificia de’nuovi lincei,}
+@c {sc:e socio corrispondente dell’accademia reale}
+@c {sc:delle scienze di torino,}
+@c {sc:della reale accademia delle scienze di napoli,}
+@c {sc:e della pontificia accademia delle scienze}
+@c {sc:dell’ istituto di bologna}
+@c I.
+@c ALGORITMI DE NUMERO INDORUM.
+@c ROMA
+@c TIPOGRAFIA DELLE SCIENZE FISICHE E MATEMATICHE
+@c in Via Lata N.° 211.
+@c 1857.
+@obs The front wrapper, of yellow paper, carries the title within an ornamental border: «Trattati d’aritmetica», treatises of arithmetic, published by Baldassarre Boncompagni, with his academies; «I. Algoritmi de numero Indorum», the first treatise of the series; Rome, the Tipografia delle scienze fisiche e matematiche, Via Lata 211, 1857. The lines of the academies (L05-L10) are set in small capitals. Short rules stand below L04, between L10 and L11 and below L12.
+@obs The wrapper is torn at the lower right corner; the print of its back (frame 004) and of the stamp on it shows through.
+@copy In ink at the top: «A la Bibliothèque Royale / de Munich / B. Boncompagni», the editor's inscription presenting the copy to the Royal Library in Munich, with his signature; at the upper left, in ink, the shelfmark «4° Math. U. 9», with a raised «u» underlined, and a faint mark after it; a short word in pencil at the right, «Rat» or «Kat». The stamp «BIBLIOTHECA REGIA MONACENSIS», rectangular and faded, in the middle of the page, below L10; the oval stamp «Bayerische Staatsbibliothek München» of the back of the wrapper shows through, in mirror image, below L16. Not part of the edition.

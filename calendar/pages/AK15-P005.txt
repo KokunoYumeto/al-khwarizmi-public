@@ -1,0 +1,31 @@
+@page 5 ٤
+% PDF 5, printed p. 4: the end of the introduction; the names of the months of the Israelites and their days, the
+% regular, the full and the defective year and the intercalated year with its two Adars (de Blois's section 2); the
+% small cycle of nineteen lunar years with seven added months, years 1-15 (de Blois's section 3).
+كتابا قريب المأخذ واضح الدلالة لتخف به المؤونة على من
+تكلف معرفته وبالله التوفيق •
+@p فاول ذلك تسمية شهور بنى اسرائيل وعدد ايام كل شهر
+فاولها نيسن وهو ـ ٣٠ ـ يوما ـ اير ـ ٢٩ ـ يوما ـ سيوان ـ ٣٠
+يوما ـ تمز ـ ٢٩ يوما ـ اوب ـ ٣٠ ـ يوما ـ ايلل ـ ٢٩ يوما
+تشرى ـ ٣٠ يوما ـ فاذا كانت السنة تقدير شهر تام وشهر ناقص
+فرحشوان ـ ٢٩ ـ يوما ـ وكسليو ـ ٣٠ ـ يوما ـ وطبيث ـ ٢٩
+يوما ـ وشباط ـ ٣٠ ـ يوما ـ واذار ـ ٢٩ يوما ، وان زادت السنة
+على التقدير يوما ، كان مرحشوان ـ ٣٠ ـ يوما ـ وكسليو ـ ٣٠ ـ
+يوما •
+@p وان كانت السنة ناقصة يوما كان مرحشوان ـ ٢٩ ـ يوما
+وكسليو ـ ٢٩ ـ يوما واذا كان السنة معبرة كان اذار الاول ـ ٣٠
+يوما وكان اذار الاخير ـ ٢٩ ـ يوما ثم المحزور الاصغر وهو تسع
+عشرة سنة قمرية فيها من الزياد سبعة اشهر فالسنة الاولى اذار
+السنة الثانية اذار ـ السنة الثالثة اذار ـ السنة الرابعة اذار ـ السنة
+الخامسة اذار ـ السنة السادسة اذار ـ السنة السابعة اذار ـ السنة الثامنة
+اذار واذار ـ السنة التاسعة اذار ـ السنة العاشرة اذار ـ السنة
+الحادية عشر اذار واذار ـ السنة الثانية عشر اذار ـ السنة الثالثة
+عشر اذار ـ السنة الرابعة عشر اذار واذار ـ السنة الخامسة عشر اذار
+@obs The running head «استخراج تاريخ اليهود للخوارزمى» stands at the head of the page, the page number «٤» at its right; recorded here, not transcribed as a line. At the foot, centred, «(١)», with no mark in the text that refers to it (a mark of the printer's sheet?), and at the lower left the catchword «والسنة», the first word of p. 5 (PDF 6); recorded here, not transcribed as lines. L03 and L11 begin with a paragraph indent; L02 and L10 end with the edition's full stop (•); L08 and L09 have the Arabic comma «،».
+@obs The numbers of days are printed in Arabic-Indic digits, set between dashes; the dashes vary in length (about 15 to 40 px) and some are broken in two; all are written ـ. L11: the dash after «٢٩» carries a dot above it; not transcribed.
+@obs The names of the months, as printed: نيسن, اير, سيوان, تمز, اوب, ايلل, تشرى, فرحشوان (L07) and مرحشوان (L09, L11), كسليو, طبيث, شباط, اذار. L07: the first letter of «فرحشوان» is a loop with a dot well above it, as in «فضت» (p. 3, PDF 4, L16); under the two teeth after the ط of «وطبيث» one dot each, above the last its three dots; read طبيث. L12 «واذا كان السنة», كان without the ت of the feminine, as printed; L14 «من الزياد».
+@obs Checked: the regular year (تقدير, a full and a defective month in turn: Nisan 30, Iyyar 29, Sivan 30, Tammuz 29, Av 30, Elul 29, Tishri 30, Marheshvan 29, Kislev 30, Tevet 29, Shevat 30, Adar 29) has 354 days; the full year, with Marheshvan and Kislev of 30, 355; the defective year, with both of 29, 353; the intercalated year has Adar I of 30 and Adar II of 29 days, 30 days more.
+@critical AK15-CN006 | wrong letter | L07 | فرحشوان | مرحشوان | the month Marheshvan, printed «مرحشوان» in L09 and L11; ف (a loop with a dot) for م | high | none
+@critical AK15-CN007 | missing letter | L14 | من الزياد | من الزيادة | «فيها من الزيادة سبعة اشهر», «in it an addition of seven months», as «زيادة سبعة اشهر» on p. 3 (PDF 4, L11); the ة is missing | medium | none
+@critical AK15-CN008 | missing words | L15 | السنة الثالثة اذار | السنة الثالثة اذار واذار | the cycle has seven intercalated years («سبعة اشهر», L14; p. 3, L11); the print marks only five as intercalated (8, 11, 14, 16, 19: L17-L19 and p. 5, PDF 6); the third year is the first intercalated year of the scheme 3, 5, 8, 11, 14, 16, 19 that de Blois reads in the manuscript (his section 3, «g-b-ṭ-b-g») | high | the count of intercalated years in the printed cycle
+@critical AK15-CN009 | missing words | L16 | الخامسة اذار | الخامسة اذار واذار | as AK15-CN008: the fifth year is the second intercalated year of the scheme 3, 5, 8, 11, 14, 16, 19 | high | the count of intercalated years in the printed cycle

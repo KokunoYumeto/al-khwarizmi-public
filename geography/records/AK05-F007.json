@@ -1,0 +1,131 @@
+{
+ "anchor": "AK05-F007",
+ "frame": 7,
+ "frame_file": "page_007.jpg",
+ "frame_sha256": "239321b68e8b232deb8e119d3564a16f14200a099ea1f4d5a78d4f789a298eab",
+ "printed_page": "-",
+ "kind": "title",
+ "role": "MODERN_EDITORIAL (title page)",
+ "comment": "Frame 007: the title page of the 1926 edition, in calligraphy, on the white paper of the text.",
+ "lines": [
+  {
+   "id": "AK05-F007-L01",
+   "n": 1,
+   "kind": "centre",
+   "text": "كتاب صورة الأرض",
+   "margin": null,
+   "cells": null,
+   "plain": "كتاب صورة الأرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F007-L02",
+   "n": 2,
+   "kind": "centre",
+   "text": "من المدن والجبال والبحار والجزائر والأنهار",
+   "margin": null,
+   "cells": null,
+   "plain": "من المدن والجبال والبحار والجزائر والأنهار",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F007-L03",
+   "n": 3,
+   "kind": "centre",
+   "text": "استخرجه أبو جعفر محمّد بن موسى الخوارزمىّ",
+   "margin": null,
+   "cells": null,
+   "plain": "استخرجه أبو جعفر محمّد بن موسى الخوارزمىّ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F007-L04",
+   "n": 4,
+   "kind": "centre",
+   "text": "من كتاب جغرافيا الّذى ألّفه بطلميوس القلوذىّ",
+   "margin": null,
+   "cells": null,
+   "plain": "من كتاب جغرافيا الّذى ألّفه بطلميوس القلوذىّ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F007-L05",
+   "n": 5,
+   "kind": "centre",
+   "text": "وقد اعتنى بنسخه وتصحيحه",
+   "margin": null,
+   "cells": null,
+   "plain": "وقد اعتنى بنسخه وتصحيحه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F007-L06",
+   "n": 6,
+   "kind": "centre",
+   "text": "هانس فون مژيك",
+   "margin": null,
+   "cells": null,
+   "plain": "هانس فون مژيك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F007-L07",
+   "n": 7,
+   "kind": "centre",
+   "text": "طبع فى مدينة ڤينا الجليلة",
+   "margin": null,
+   "cells": null,
+   "plain": "طبع فى مدينة ڤينا الجليلة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F007-L08",
+   "n": 8,
+   "kind": "centre",
+   "text": "بمطبعة آدولف هولزهوزن",
+   "margin": null,
+   "cells": null,
+   "plain": "بمطبعة آدولف هولزهوزن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F007-L09",
+   "n": 9,
+   "kind": "centre",
+   "text": "سنة ١٣٤٥ ه وهى ١٩٢٦ م",
+   "margin": null,
+   "cells": null,
+   "plain": "سنة ١٣٤٥ ه وهى ١٩٢٦ م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The title page is written in calligraphy and printed from a block. Its lines are transcribed with the words divided as usual, since the calligraphy sets them close and lets them overlap; hamza and shadda are transcribed where they are written (الأرض, والأنهار, أبو, محمّد, الخوارزمىّ, الّذى, ألّفه, القلوذىّ, آدولف). The other vowel signs of the calligraphy (a ḍamma over the ب of كتاب and the ص of صورة, over the ه of استخرجه, ألّفه, بنسخه and تصحيحه, a fatḥa over the ع of طبع and the م of مدينة, a kasra under the alif of استخرجه and the س of سنة) and its small v-shaped signs over and under letters are not transcribed. The editor's name is written مژيك, with ژ, three dots over the ز, for the ž of Mžik, and Vienna ڤينا, with ڤ, three dots over the ف, for its v; موسى carries a short upright stroke over its final ى, and «ه» after the Hijri year 1345 and «م» after 1926 abbreviate the eras.",
+  "The 1962 reprint reproduces this page on its own title page (frame 005) and adds two lines in type."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

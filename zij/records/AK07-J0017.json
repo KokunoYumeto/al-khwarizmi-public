@@ -1,0 +1,753 @@
+{
+ "anchor": "AK07-J0017",
+ "jp2_index": 17,
+ "jp2_member": "b24872489_0017.jp2",
+ "jp2_sha256": "2a7bffc39d4c09f6ba66e2f24fdcc4a0b9251e680633f0293f4411c540dac72b",
+ "reading_copy": "page_0017.jpg",
+ "reading_copy_sha256": "50e64cd09442ddf78897f773f0f9329b65c7e27ac3583570ab12e334f5f90ed4",
+ "printed_page": "XIII",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0017: the introduction, p. XIII: Robert's Latin renderings of the Arabic terms; the relation of C and O (Bjornbo's view, through Heiberg); Hermannus Dalmata as a possible second translator; the transcription of shin as sh or sc.",
+ "lines": [
+  {
+   "id": "AK07-J0017-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "lateinische ersetzt hat ; so hat er für {i:dakaicae} stets {i:minuta}, für {i:eltheniae secunda}, für",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "lateinische ersetzt hat ; so hat er für dakaicae stets minuta, für eltheniae secunda, für",
+   "italic": [
+    "dakaicae",
+    "minuta",
+    "eltheniae secunda"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "{i:elwacat medius cursus}, für {i:tadil coaequatio} (nicht {i:aequatio}), für {i:elgeib sinus}, für {i:elfelek}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "elwacat medius cursus, für tadil coaequatio (nicht aequatio), für elgeib sinus, für elfelek",
+   "italic": [
+    "elwacat medius cursus",
+    "tadil coaequatio",
+    "aequatio",
+    "elgeib sinus",
+    "elfelek"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "{i:elmustakim circulus aequatorialis} oder {i:aequinoctialis}, etc.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "elmustakim circulus aequatorialis oder aequinoctialis, etc.",
+   "italic": [
+    "elmustakim circulus aequatorialis",
+    "aequinoctialis"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L04",
+   "n": 4,
+   "kind": "indent",
+   "text": "Am schwierigsten ist das Verhältnis von C zu O und die Beziehung beider",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Am schwierigsten ist das Verhältnis von C zu O und die Beziehung beider",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "zum Autographen {sp:Athelhards} zu erklären. {sp:Björnbo}, der hierüber keine schrift-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zum Autographen Athelhards zu erklären. Björnbo, der hierüber keine schrift-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Athelhards",
+    "Björnbo"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "lichen Angaben hinterlassen hat, war nach einer brieflichen Mitteilung von Herrn",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "lichen Angaben hinterlassen hat, war nach einer brieflichen Mitteilung von Herrn",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "Prof. {sp:Heiberg} in Kopenhagen an mich der Ansicht, „dass nur Abschriften zweier",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Prof. Heiberg in Kopenhagen an mich der Ansicht, „dass nur Abschriften zweier",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Heiberg"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "nicht vollendeten Arbeitsexemplare des Übersetzers vorlägen, so dass die Restitution",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nicht vollendeten Arbeitsexemplare des Übersetzers vorlägen, so dass die Restitution",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "eines Urtextes unmöglich wäre ; vielmehr müssten in vielen Fällen beide Texte",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "eines Urtextes unmöglich wäre ; vielmehr müssten in vielen Fällen beide Texte",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "neben einander gedruckt werden.“ So stark weichen nun doch die beiden Texte",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "neben einander gedruckt werden.“ So stark weichen nun doch die beiden Texte",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "C und O nicht von einander ab, dass dies notwendig wäre, {sp:Björnbo} hat selbst nur",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "C und O nicht von einander ab, dass dies notwendig wäre, Björnbo hat selbst nur",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Björnbo"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "in einem einzigen Kapitel (Nr. 7) dies getan, und wir sind ihm hierin gefolgt. Darin",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "in einem einzigen Kapitel (Nr. 7) dies getan, und wir sind ihm hierin gefolgt. Darin",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "hat er recht, dass eine Restitution des Urtextes unmöglich ist, und dass sehr wahr-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "hat er recht, dass eine Restitution des Urtextes unmöglich ist, und dass sehr wahr-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "scheinlich Text und Tafeln auch in C und O unvollständig sind, wenn auch in",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "scheinlich Text und Tafeln auch in C und O unvollständig sind, wenn auch in",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "geringem Masse. Die Abweichungen sind aber immerhin derart, dass sie nicht vom",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "geringem Masse. Die Abweichungen sind aber immerhin derart, dass sie nicht vom",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "blossen Abschreiben der einen Handschrift von der andern herrühren können ; darum",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "blossen Abschreiben der einen Handschrift von der andern herrühren können ; darum",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "hat sich uns die Vermutung aufgedrängt, der Schreiber von O oder von C, welcher",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "hat sich uns die Vermutung aufgedrängt, der Schreiber von O oder von C, welcher",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "von beiden können wir nicht entscheiden, habe neben der Übersetzung {sp:Athelhards}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "von beiden können wir nicht entscheiden, habe neben der Übersetzung Athelhards",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Athelhards"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "noch eine andere vor sich gehabt, und habe nun bald aus der einen, bald aus der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "noch eine andere vor sich gehabt, und habe nun bald aus der einen, bald aus der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "andern den Text genommen, der ihm als der bessere erschien. In der Tat ist es",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "andern den Text genommen, der ihm als der bessere erschien. In der Tat ist es",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "sehr wahrscheinlich, dass auch {sp:Hermannus Dalmata}, Zeitgenosse und Freund des",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sehr wahrscheinlich, dass auch Hermannus Dalmata, Zeitgenosse und Freund des",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Hermannus Dalmata"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "{sp:Robert v. Chester}, die (von {sp:Maslama} umgeänderten) Tafeln {sp:Al-Khwārizmīs}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Robert v. Chester, die (von Maslama umgeänderten) Tafeln Al-Khwārizmīs",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Robert v. Chester",
+    "Maslama",
+    "Al-Khwārizmīs"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "übersetzt habe. An einer Stelle der Übersetzung des von {sp:Maslama} kommentierten",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "übersetzt habe. An einer Stelle der Übersetzung des von Maslama kommentierten",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Maslama"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "{i:Planisphärium} des {sp:Ptolemäus}, die lange Zeit fälschlich dem {sp:Rudolf von Brügge}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Planisphärium des Ptolemäus, die lange Zeit fälschlich dem Rudolf von Brügge",
+   "italic": [
+    "Planisphärium"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Ptolemäus",
+    "Rudolf von Brügge"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "zugeschrieben wurde, sagt {sp:Hermannus} : {i:Quem locum a Ptolemaeo minus diligenter}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zugeschrieben wurde, sagt Hermannus : Quem locum a Ptolemaeo minus diligenter",
+   "italic": [
+    "Quem locum a Ptolemaeo minus diligenter"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Hermannus"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "{i:perspectum cum} {sp:Albatene} {i:miratur et} {sp:Alchoarismus}, {i:quorum hunc quidem opera}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "perspectum cum Albatene miratur et Alchoarismus, quorum hunc quidem opera",
+   "italic": [
+    "perspectum cum",
+    "miratur et",
+    "quorum hunc quidem opera"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Albatene",
+    "Alchoarismus"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "{i:nostra Latium habet, illius vero commodissima translatio} {sp:Roberti} {i:mei industria, Latinae}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nostra Latium habet, illius vero commodissima translatio Roberti mei industria, Latinae",
+   "italic": [
+    "nostra Latium habet, illius vero commodissima translatio",
+    "mei industria, Latinae"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Roberti"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "{i:orationis thesaurum accumulat}{sup:1}). Sollte damit vielleicht die verschiedene Wiedergabe",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "orationis thesaurum accumulat1). Sollte damit vielleicht die verschiedene Wiedergabe",
+   "italic": [
+    "orationis thesaurum accumulat"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "des arabischen Buchstabens {i:schīn} in den beiden Mss. C und O durch {i:sh} (englisch),",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des arabischen Buchstabens schīn in den beiden Mss. C und O durch sh (englisch),",
+   "italic": [
+    "schīn",
+    "sh"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "bezw. {i:sc} (dalmat.-italien. ?) in Zusammenhang stehen ? Diese Frage weiter zu ver-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bezw. sc (dalmat.-italien. ?) in Zusammenhang stehen ? Diese Frage weiter zu ver-",
+   "italic": [
+    "sc"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "folgen und wenn möglich zu entscheiden, muss ich den Herren Philologen überlassen.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "folgen und wenn möglich zu entscheiden, muss ich den Herren Philologen überlassen.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "Es tritt dann auch die Frage noch hinzu, ob {sp:Hermannus Dalmata} auch die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Es tritt dann auch die Frage noch hinzu, ob Hermannus Dalmata auch die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Hermannus Dalmata"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "Übersetzung {sp:Athelhards} zur Vergleichung herbeigezogen habe ; als Freund von",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Übersetzung Athelhards zur Vergleichung herbeigezogen habe ; als Freund von",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Athelhards"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "{sp:Robert v. Chester}, dem „Ordner“ derselben, wird er wohl mit dieser Übersetzung",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Robert v. Chester, dem „Ordner“ derselben, wird er wohl mit dieser Übersetzung",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Robert v. Chester"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "bekannt gewesen sein.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bekannt gewesen sein.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L36",
+   "n": 36,
+   "kind": "indent",
+   "text": "Da ich die Photographien des Ms. N aus Madrid erst erhielt (hauptsächlich",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Da ich die Photographien des Ms. N aus Madrid erst erhielt (hauptsächlich",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "durch meine Schuld), als der Text und die Tafeln schon fertig für den Druck",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "durch meine Schuld), als der Text und die Tafeln schon fertig für den Druck",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Vergl. {sp:Wüstenfeld}, {i:Die Übersetzungen arab. Werke in das Lateinische seit dem 11. Jahrh.},",
+   "margin": null,
+   "plain": "1) Vergl. Wüstenfeld, Die Übersetzungen arab. Werke in das Lateinische seit dem 11. Jahrh.,",
+   "italic": [
+    "Die Übersetzungen arab. Werke in das Lateinische seit dem 11. Jahrh."
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Wüstenfeld"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "p. 52 (in Abhandlungen der k. Gesellsch. d. Wissensch. zu Göttingen, histor.-philolog. Kl. XXII, 2,",
+   "margin": null,
+   "plain": "p. 52 (in Abhandlungen der k. Gesellsch. d. Wissensch. zu Göttingen, histor.-philolog. Kl. XXII, 2,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "1877) ; {sp:Steinschneider}, {i:Die europäischen Übersetzungen aus dem Arabischen}, A, p. 34 (in Sitzungs-",
+   "margin": null,
+   "plain": "1877) ; Steinschneider, Die europäischen Übersetzungen aus dem Arabischen, A, p. 34 (in Sitzungs-",
+   "italic": [
+    "Die europäischen Übersetzungen aus dem Arabischen"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Steinschneider"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-N04",
+   "n": 4,
+   "kind": "note",
+   "text": "berichte der k. Akademie d. Wissensch. in Wien, philos. histor. Kl. CXLIX, 1904) ; {i:Al-Battānī}, edid.",
+   "margin": null,
+   "plain": "berichte der k. Akademie d. Wissensch. in Wien, philos. histor. Kl. CXLIX, 1904) ; Al-Battānī, edid.",
+   "italic": [
+    "Al-Battānī"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0017-N05",
+   "n": 5,
+   "kind": "note",
+   "text": "{sp:Nallino}, I, Praefatio, p. XLIX.",
+   "margin": null,
+   "plain": "Nallino, I, Praefatio, p. XLIX.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Nallino"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «XIII» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «III» on the right; recorded here, not transcribed as a line.",
+  "L25-L28: the passage of Hermannus Dalmata is quoted in italics, the names in it («Albatene», «Alchoarismus», «Roberti») spaced in roman type. L01-L03: Robert's Latin renderings of the Arabic terms of C and O: dakaicae minuta, eltheniae secunda, elwacat medius cursus, tadil coaequatio, elgeib sinus, elfelek elmustakim circulus aequatorialis or aequinoctialis.",
+  "Marks not transcribed: a dark speck below the m of «quidem» (L26) and one between «mei» and «industria» (L27); a light mark after «Lateinische» (N01)."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

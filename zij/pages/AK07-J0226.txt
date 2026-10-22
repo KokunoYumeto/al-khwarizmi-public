@@ -1,0 +1,60 @@
+@page 226 194
+@lang la
+% JP2 0226: Tab. 79, p. 194: the division of the houses (tezwiet elbuiut) for the ascendant in Aries: the beginnings of
+% the second to the sixth house for every degree of the ascendant, with the apparatus (notes 1-2 and a-α).
+@ml C 87{sup:r}, O 143{sup:v},
+@c {b:Tezwiet elbuiut idhnascer}{sup:1}) {b:liburug elhamel}{sup:2}) (CO)
+@ml N 50{sup:r}.
+@c {b:Aequatio casarum duodecim signo arietis} (N)
+@tw size=footnotesize 1.3 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65
+@t Gradus | Secundum |  | Tertium |  | Quartum |  | Quintum |  | Sextum |
+@t aequales | Taurus |  | Gemini |  | Cancer |  | Cancer |  | Leo [et Virgo] |
+@t cuiuslibet |  |  |  |  |  |  | [et Leo] |  |  |
+@t horoscopi |  |  |  |  |  |  |  |  |  |
+@t arietis |  |  |  |  |  |  |  |  |  |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 1 | 3 | 3 | 2 | 48 | 0 | 33{sup:m}) | 28 | 34 | 28 | 38
+@t 2 | 3 | 53 | 3 | 28 | 1 | 6 | 29 | 14 | 29 | 31
+@t  |  |  |  |  |  |  |  |  | Virgo |
+@t 3 | 4 | 43{sup:a}) | 4 | 8 | 1 | 39 | 29 | 54 | 0 | 25{sup:z})
+@t  |  |  |  |  |  |  | Leo |  |  |
+@t 4 | 5 | 33 | 4 | 48 | 2 | 11 | 0 | 34 | 1 | 18
+@t 5 | 6 | 24{sup:b}) | 5 | 28 | 2 | 43{sup:n}) | 1 | 15 | 2 | 2
+@t 6 | 7 | 14{sup:c}) | 6 | 8 | 3 | 16 | 1 | 56 | 2 | 54
+@t 7 | 8 | 5 | 6 | 48 | 3 | 49 | 2 | 37 | 3 | 46
+@t 8 | 8 | 56 | 7 | 28 | 4 | 22 | 3 | 18{sup:u}) | 4 | 37
+@t 9 | 9 | 47 | 8 | 8 | 4 | 55{sup:o}) | 3 | 59 | 5 | 29
+@t 10 | 10 | 37{sup:d}) | 8 | 47 | 5 | 28 | 4 | 41 | 6 | 20
+@t 11 | 11 | 27 | 9 | 27 | 6 | 1 | 5 | 22 | 7 | 12
+@t 12 | 12 | 16 | 10 | 7 | 6 | 34{sup:p}) | 6 | 3 | 8 | 5
+@t 13 | 13 | 5 | 10 | 47 | 7 | 8 | 6 | 45 | 8 | 57
+@t 14 | 13 | 53{sup:e}) | 11 | 27 | 7 | 42{sup:q}) | 7 | 27 | 9 | 49
+@t 15 | 14 | 42 | 12 | 7 | 8 | 16 | 8 | 9 | 10 | 42
+@t 16 | 15 | 31 | 12 | 47 | 8 | 50 | 8 | 52 | 11 | 35
+@t 17 | 16 | 21 | 13 | 28 | 9 | 25 | 9 | 35 | 12 | 29
+@t 18 | 17 | 10 | 14 | 8 | 10 | 0 | 10 | 18 | 13 | 22
+@t 19 | 18 | 0 | 14 | 49 | 10 | 35 | 11 | 1 | 14{sup:x}) | 16
+@t 20 | 18 | 50 | 15 | 30{sup:k}) | 11 | 10 | 11 | 45 | 15{sup:y}) | 10
+@t 21 | 19 | 39 | 16 | 10 | 11 | 43{sup:r}) | 12 | 28 | 16 | 3
+@t 22 | 20 | 28 | 16 | 50 | 12 | 18 | 13 | 12 | 16 | 57
+@t 23 | 21 | 18 | 17 | 30 | 12 | 52 | 13 | 55 | 17 | 51{sup:α})
+@t 24 | 22 | 7{sup:f}) | 18 | 10 | 13 | 26 | 14 | 38 | 18 | 45
+@t 25 | 22 | 56{sup:g}) | 18 | 51 | 14 | 1 | 15 | 22 | 19 | 39
+@t 26 | 23 | 45 | 19 | 32 | 14 | 37 | 16 | 7{sup:v}) | 20 | 34
+@t 27 | 24 | 35 | 20 | 13 | 15 | 13 | 16 | 53 | 21 | 30
+@t 28 | 25 | 24{sup:h}) | 20 | 54 | 15 | 49 | 17 | 38 | 22 | 25
+@t 29 | 26 | 14{sup:i}) | 21 | 36 | 16{sup:l}) | 25 | 18{sup:t}) | 24 | 23 | 21
+@t 30 | 27 | 4 | 22 | 18 | 17 | 2{sup:s}) | 19 | 10 | 24 | 16
+@n {sup:1}) idhnascer] O, id naser C — {sup:2}) elhamel] {i:addid.} C fiaard.
+@n {sup:a}) 43] C, 48 O — {sup:b}) 24] O, 23 C — {sup:c}) 14] O, 13 C — {sup:d}) 37 C, 38 ON — {sup:e}) 53] C, 55 O — {sup:f}) 7]
+@n O, 50 C — {sup:g}) 56] O, 16 C — {sup:h}) 24] O, 23 C — {sup:i}) 14] ON, 13 C — {sup:k}) 30] O, 50 C — {sup:l}) 16] C, 15 O —
+@n {sup:m}) 33] C, 34 O — {sup:n}) 43] C, 44 O — {sup:o}) 55] O, 52 C — {sup:p}) 34] O, 33 C — {sup:q}) 42] O, 45 C — {sup:r}) 43 C]
+@n 44 O — {sup:s}) 2] O, 7 C — {sup:t}) 18] C, 38 O — {sup:u}) 18] C, 38 O — {sup:v}) 7] O, 50 C — {sup:x}) 14] O, 16 C — {sup:y}) 15]
+@n O, 14 C — {sup:z}) 25] ON, 30 C — {sup:α}) 51] C, 11 O.
+@obs The page number «194» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 79», in bold sans serif, underlined. The page has no signature. The titles (L01-L02), in bold, the sigla in roman: that of C and O, «Tezwiet elbuiut idhnascer1) liburug elhamel2) (CO)», taswiyat al-buyūt idhā naẓar li-burj al-ḥamal, the division of the houses when one considers the sign of the Ram, and N's «Aequatio casarum duodecim signo arietis (N)», the equation of the twelve houses for the sign of Aries. The folios of the manuscripts stand at the left of the titles in two lines, «C 87r, O 143v,» and «N 50r.», the letters raised; here as left margin notes.
+@obs The table: eleven columns divided by double vertical rules: «Gradus aequales cuiuslibet horoscopi arietis», the degrees of the ascendant in Aries, in five lines, and five pairs «Gr.», «Min.» under the houses and the signs in which their beginnings fall, «Secundum Taurus», «Tertium Gemini», «Quartum Cancer», «Quintum Cancer [et Leo]» and «Sextum Leo [et Virgo]», with the square brackets as printed. Here each head is set from the top, one printed line to a line (L03-L07); the units in L08; the cells separated by our «|»; a head followed by empty cells spans their columns. Where the beginning of a house passes into the next sign, the name of the sign is printed in a line of its own over the column: «Virgo» (L11) over the sixth house before the row of 3°, «Leo» (L13) over the fifth before the row of 4°.
+@obs L09-L40. The beginnings of the second to the sixth house, in degrees and minutes of their signs, for the ascendant at 1° to 30° of Aries, by the rule of chapter 32 (Suter, p. 97, JP2 0129, L01-L19): the right ascension of the ascendant increased by one, two and three sixths of the night arc of the ascendant for the second, third and fourth houses, and by the half night arc and one and two sixths of the day arc for the fifth and sixth, each converted back into a longitude; the seventh house begins at the point opposite the ascendant. Checked: the 150 values agree within 2′ in 140 places with the beginnings so computed with the obliquity 23° 35′, al-Battānī's value, and the latitude 38° 40′ (Suter, p. 97, N03: 38° 30′ for Cordova, from the tables of the projection of the rays); with al-Khwārizmī's obliquity 23° 51′ no latitude fits as well, the best, 38° 6′, leaving deviations up to 10′. The larger deviations: the second house at 9°-13° of the ascendant (L19-L23), 2.3′ to 3.5′ more; the fourth at 19°-22° (L29-L32), 2.2′ to 3.4′ more; and the sixth at 3° and 4° (L12, L14), Virgo 0° 25′ and 1° 18′ for 0° 19.8′ and 1° 10.8′, 5.2′ and 7.2′ more, the steps of the column being 53′, 54′, 53′, 44′ and 52′ from 1° to 6° (the computation 51′ in each step).
+@obs Notes on the readings. Checked by the computation: the edition's readings are the nearer at 3°, 6°, 14°, 24°, 25°, 28° and 29° in the second house (notes a, c, e, f, g, h and i: C's 43 against O's 48, O's 14 against C's 13, C's 53 against O's 55, O's 7 and 56 against C's 50 and 16, O's 24 against C's 23, the 14 of O and N against C's 13; 4° 43.9′, 7° 14.3′, 13° 52.4′, 22° 6.9′, 22° 56.3′, 25° 24.9′, 26° 14.5′ computed), at 20° in the third (note k: O's 30 against C's 50; 15° 28.6′), at 1°, 9°, 14°, 21° and 30° in the fourth (notes m, o, q, r and s: C's 33 against O's 34, O's 55 against C's 52, O's 42 against C's 45, C's 43 against O's 44, O's 2 against C's 7; 0° 32.8′, 4° 56.1′, 7° 42.9′, 11° 41.6′, 17° 1.9′), at 8° and 26° in the fifth (notes u and v: C's 18 against O's 38, O's 7 against C's 50; 3° 18.2′, 16° 7.9′), at 3° and 23° in the sixth (notes z and α: the 25 of O and N against C's 30, C's 51 against O's 11; 0° 19.8′, 17° 50.6′); the degrees of notes l, t, x and y (29° in the fourth house, 16 against O's 15, 29° in the fifth, C's 18 against O's 38, 19° and 20° in the sixth, O's 14 and 15 against C's 16 and 14) are those that the order of the columns requires. At 5° and 12° in the fourth house (notes n and p) and at 10° in the second (note d) the readings differ by 1′: the computation gives 2° 44.1′ (O's 44 against the edition's 43), 6° 35.9′ (the edition's 34, O's, against C's 33) and 10° 33.8′ (the edition's 37, C's, against the 38 of O and N). At 5° in the second house (note b) O's 24 and C's 23 lie 0.3′ and 1.3′ from the computation, 6° 24.3′.
+@obs Notes 1-2: C's «id naser» for «idhnascer»; after «elhamel» C adds «fiaard», fī l-arḍ, on the earth. Italics: «addid.».
+@critical AK07-CN220 | missing bracket | N02 | {sup:d}) 37 C, 38 ON | {sup:d}) 37] C, 38 ON | the lemma of each note is closed by a bracket before the sigla, as «{sup:e}) 53] C, 55 O» after it; no bracket is printed after 37 | high | none
+@critical AK07-CN221 | misplaced bracket | N04 | {sup:r}) 43 C] 44 O | {sup:r}) 43] C, 44 O | the bracket that closes the lemma stands after the siglum, and no comma divides the readings, where the other notes have «43] C, 44 O», as note n in the same line | high | none

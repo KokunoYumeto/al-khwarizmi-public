@@ -1,0 +1,62 @@
+@page 199 167
+@lang la
+% JP2 0199: Tab. 56, p. 167: the equations of Mercury, with its corrected apogee, first station and latitude, for the
+% arguments 5s 1° to 6s 0° (and 6s 29° to 6s 0°), with the apparatus (notes 1-7 and a-l).
+@c {b:Coaequatio Mercurii} (N)
+@c {b:Tadil elotari} (O)
+@m C 70{sup:v}, O 128{sup:r},
+@c {b:Examinatio Mercurii} (C)
+@m N 36{sup:r}.
+@c {b:Locus{sup:1}) draconis eius 0. 21. 10 (CN)}
+@tw size=footnotesize span=1.14 0.85 0.85 0.85 0.85 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.75
+@t Pagina numerorum (O) |  |  |  | Sublimatio |  |  | Exami- |  | Exami- |  | Statio prima |  |  | Latitudo Mercurii |  |  |  |
+@t Via numerorum (C) |  |  |  | ascensus{sup:4}) |  |  | natio |  | natio |  | Mercurii |  |  | descendentis{sup:7}) |  |  |  |
+@t Augmentum |  | Diminutio |  | Mercurii |  |  | ipsius |  | centri |  |  |  |  | {b:prima} |  | {b:secunda} |  |
+@t proprietatum |  | proprietatum |  | examinata{sup:5}) |  |  | elheza{sup:6}) |  |  |  |  |  |  |  |  |  |  |
+@t omnium{sup:2}) |  | omnium{sup:3}) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 5 | 1 | 6 | 29 | 7 | 7 | 32 | 14 | 45 | 1 | 55 | 4 | 24 | 36 | 0 | 53 | 3{sup:f}) | 1 | 48
+@t 5 | 2 | 6 | 28 | 7 | 7 | 43 | 14 | 22 | 1 | 52 | 4 | 24 | 36 | 0 | 53 | 2 | 56{sup:i}) | 3
+@t 5 | 3 | 6 | 27 | 7 | 7 | 55 | 13 | 59 | 1 | 47 | 4 | 24 | 37 | 0 | 52 | 2 | 50 | 15
+@t 5 | 4 | 6 | 26 | 7 | 8 | 7 | 13 | 34 | 1 | 43 | 4 | 24 | 37 | 0 | 52 | 2 | 44 | 23
+@t 5 | 5 | 6 | 25 | 7 | 8 | 20 | 13 | 9 | 1 | 40 | 4 | 24 | 37 | 0 | 52 | 2 | 38 | 29
+@t 5 | 6 | 6 | 24 | 7 | 8 | 33{sup:b}) | 12 | 42 | 1 | 36 | 4 | 24 | 38 | 0 | 52 | 2 | 32 | 32
+@t 5 | 7 | 6 | 23 | 7 | 8 | 47 | 12 | 15 | 1 | 32 | 4 | 24 | 38 | 0 | 51 | 2 | 26 | 32
+@t 5 | 8 | 6 | 22 | 7 | 9 | 1 | 11 | 47 | 1 | 28 | 4 | 24 | 38 | 0 | 51 | 2 | 20 | 29
+@t 5 | 9 | 6 | 21 | 7 | 9 | 15 | 11 | 19 | 1 | 24 | 4 | 24 | 39 | 0 | 51 | 2 | 14 | 23
+@t 5 | 10 | 6 | 20 | 7 | 9 | 29 | 10 | 50 | 1 | 21 | 4 | 24 | 39 | 0 | 51 | 2 | 8 | 15
+@t 5 | 11 | 6 | 19 | 7 | 9 | 44{sup:c}) | 10 | 21 | 1 | 17 | 4 | 24 | 39 | 0 | 50 | 2 | 2 | 5
+@t 5 | 12 | 6 | 18 | 7 | 9 | 59 | 9 | 51 | 1 | 13 | 4 | 24 | 39 | 0 | 50 | 1{sup:g}) | 55 | 53
+@t 5 | 13 | 6 | 17 | 7 | 10 | 14 | 9 | 21 | 1 | 9 | 4 | 24 | 39 | 0 | 50 | 1 | 49 | 38{sup:l})
+@t 5 | 14 | 6 | 16 | 7 | 10 | 29 | 8 | 50 | 1 | 5 | 4 | 24 | 39 | 0 | 50 | 1 | 43 | 22
+@t 5 | 15 | 6 | 15 | 7 | 10 | 44 | 8 | 20 | 1 | 2 | 4 | 24 | 40 | 0 | 50 | 1 | 37 | 3
+@t 5 | 16 | 6 | 14 | 7 | 11 | 0 | 7 | 48 | 0{sup:e}) | 57 | 4 | 24 | 40 | 0 | 50 | 1 | 30 | 43
+@t 5 | 17 | 6 | 13 | 7 | 11 | 16 | 7 | 16 | 0 | 53 | 4 | 24 | 40 | 0 | 50 | 1 | 24 | 21
+@t 5 | 18 | 6 | 12 | 7 | 11 | 32 | 6 | 45 | 0 | 49 | 4 | 24 | 40 | 0 | 49 | 1 | 17 | 58
+@t 5 | 19 | 6 | 11 | 7 | 11 | 48 | 6 | 12 | 0 | 45 | 4 | 24 | 40 | 0 | 49 | 1 | 11 | 33
+@t 5 | 20 | 6 | 10 | 7 | 12 | 4 | 5 | 40 | 0 | 41 | 4 | 24 | 41 | 0 | 49 | 1{sup:g}) | 5 | 7
+@t 3 | 21 | 6 | 9 | 7 | 12 | 21 | 5 | 7 | 0 | 37 | 4 | 24 | 41 | 0 | 49 | 0{sup:h}) | 58 | 40
+@t 5 | 22 | 6 | 8 | 7 | 12 | 38 | 4 | 33 | 0 | 33 | 4 | 24 | 41 | 0 | 49 | 0 | 52 | 11
+@t 5 | 23 | 6 | 7 | 7 | 12 | 54 | 4 | 0 | 0 | 28 | 4 | 24 | 41 | 0 | 49 | 0 | 45 | 42
+@t 5 | 24 | 6 | 6 | 7 | 13 | 11 | 3 | 26 | 0 | 24 | 4 | 24 | 41 | 0 | 49 | 0 | 39 | 12
+@t 5 | 25 | 6 | 5 | 7 | 13 | 28{sup:d}) | 2 | 53 | 0 | 20 | 4 | 24 | 41 | 0 | 48 | 0 | 32 | 41
+@t 5 | 26 | 6 | 4 | 7 | 13 | 45 | 2 | 18 | 0 | 16 | 4 | 24 | 41 | 0 | 48 | 0 | 26 | 10
+@t 5 | 27 | 6 | 3 | 7 | 14 | 2 | 1 | 45 | 0 | 12 | 4 | 24 | 41 | 0 | 48 | 0 | 19 | 38
+@t 5 | 28 | 6 | 2 | 7 | 14 | 19 | 1 | 10 | 0 | 8 | 4 | 24 | 42 | 0 | 48 | 0 | 13{sup:k}) | 5
+@t 5 | 29 | 6 | 1 | 7 | 14 | 37 | 0 | 35 | 0 | 4 | 4 | 24 | 42 | 0 | 48 | 0 | 6 | 33
+@t 6{sup:a}) | 0 | 6 | 0 | 7 | 14 | 54 | 0 | 0 | 0{sup:e}) | 0 | 4 | 24 | 42 | 0 | 48 | 0{sup:h}) | 0 | 0
+@n {sup:1}) Locus] Locusque C, Locus autem N — {sup:2}) proprietatum omnium] N, computationis et numeri
+@n diminutio examinis CO – {sup:3}) proprietatum omnium] N, computationis et numeri augmentum examinis CO —
+@n {sup:4}) ascensus] O, {i:om.} C — {sup:5}) examinata] O, definita C — {sup:6}) ipsius elheza] O, argumenti C — {sup:7}) Latitudo
+@n . . . . descendentis] Latitudo C, Latitudo Mercurii ON.
+@n {sup:a}) 6] N, 5 CO — {sup:b}) 33] C, 32 O — {sup:c}) 44] C, 43 O — {sup:d}) 28] C, 27 O — {sup:e})—{sup:e}) 0] C, 1 O — {sup:f}) 3]
+@n ON, 2 C — {sup:g})—{sup:g}) 1] C, 2 O — {sup:h})—{sup:h}) 0] C, 2 O — {sup:i}) 56] O, 57 C — {sup:k}) 13] O, 14 C — {sup:l}) 38] 58 CO.
+@obs The page number «167» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 56», in bold sans serif, underlined. The page has no signature. The titles (L01-L04), in bold, the sigla in roman except in L04: N's title, O's «Tadil elotari», C's «Examinatio Mercurii»; L04, «Locus1) draconis eius 0. 21. 10 (CN)», in smaller bold type, the sigla «(CN)» set in bold too. The folios of the manuscripts stand at the right of L03 and L04, «C 70v, O 128r,» and «N 36r.», the letters raised; here as right margin notes. Specks in the margins and a grey speck at the foot of the line between «Examinatio» and «Mercurii» (L03); not transcribed.
+@obs The table: rules and heads as on p. 166 (JP2 0198), with «Pagina numerorum (O) Via numerorum (C)» and «Latitudo Mercurii descendentis7)». Here each head is set from the top, one printed line to a line (L05-L09), the cells separated by our «|»; a head followed by empty cells spans their columns. L10, the units, in bold.
+@obs L11-L40. Checked as on p. 162 (JP2 0194): the Sublimatio is 7s 14° 54′ less half the Examinatio argumenti in every row, a half minute counted as a whole, to 7s 14° 54′, the apogee itself, at 180°. The Latitudo secunda is 6° 15′ · sin x to within 0.6″ in every row, and its value for 180° − y is that of y on p. 162 (JP2 0194) in every row except at 153°: here 2° 50′ 15″, the computed value, where p. 162 prints 2° 56′ 15″ at 27° (see the critical note there).
+@obs L11-L40, the Examinatio argumenti. The radius that reproduces each value as the equation of an epicycle is between 21.90 and 22.13 in every row; against an epicycle of radius 22.0 the table is up to 5.8′ larger from 151° to 159° and up to 2.8′ smaller from 161° to 176°. The steps of the column grow from 23′ to 35′ a degree, regularly.
+@obs L11-L40, the other columns: the Examinatio centri decreases by 3′ to 5′ a degree from 1° 55′ at 151° to 0 at 180°; it lies within 1.2′ of 3° 56′ · sin x in every row, and its values for 180° − y are those of y on p. 162 (JP2 0194) from 163° on, except at 165° (1° 2′ against 1° 1′ at 15°), and 1′ or 2′ larger from 151° to 162°. The Statio prima increases from 4s 24° 36′ to 4s 24° 42′ at 178°-180° by 0′ or 1′ a degree. The Latitudo prima decreases from 0° 53′ at 151° and 152° to 0° 48′ from 175° on, by 1′ at a time, in runs of two to seven equal values.
+@obs Notes on the readings. Note a: the last argument, 6s 0°, is N's; C and O have 5. Note 1: the lemma «Locus» is given without a siglum, and the place of the node bears the sigla (CN) only; C has «Locusque», N «Locus autem». Notes 2-3: the readings of C and O are given without the «et» before «diminutio» and «augmentum» of p. 166 (JP2 0198, notes 2-3). Checked: C's readings of the Sublimatio at 156°, 161° and 175° (notes b, c, d: 33, 44, 28 against O's 32, 43, 27) agree with the rule, 7s 8° 33′, 7s 9° 43½′ and 7s 13° 27½′, the half minutes counted as whole; C's 0 degrees of the Examinatio centri from 166° to 180° (notes e-e, against O's 1), the degrees 3, 1 and 0 of the Latitudo secunda (notes f, g-g and h-h), O's 2° 56′ 3″ at 152° (note i, against C's 57) and O's 0° 13′ 5″ at 178° (note k, against C's 14) agree with the computation; at 163° (note l) the edition prints 1° 49′ 38″ against the 58 of C and O, 1° 49′ 38.4″ computed; the note does not say «correxi».
+@obs N02: the dash before note 3 is shorter than the others, 27 px against 41-42 px, and is transcribed as an en dash. N05: a speck above the c of «c)»; not transcribed. Italics: «om.». N03-N04: the ellipsis «. . . .» of the lemma as printed. L04, «(CN)» in bold, and L31, the sign «3» of the first argument at 171°: see the critical notes.
+@critical AK07-CN163 | wrong fount | L04 | {b:0. 21. 10 (CN)} | {b:0. 21. 10} (CN) | the sigla after the titles are set in roman, as «(CON)» after the same line on pp. 163-166 (JP2 0195-0198); here «(CN)» is set in bold with the title | medium | none
+@critical AK07-CN164 | wrong figure | L31 | 3 | 5 | the sign of the arguments of the first column is 5 in every other row of the page, and 5s 21° = 171°, the complement of the 6s 9° of the row; a 3 is printed | high | none

@@ -1,0 +1,22 @@
+@page 41 ٢٥
+% Frame 041, printed p. 25: the end of the demonstration of the fifth case (the root three; with the half of the
+% roots added, seven, the root of a greater square that also answers the question) and its figure; the sixth case
+% begins, "three roots and four of number equal a square", its statement printed in bold. Below the rule two footnotes
+% of the editors, (١) with a figure of their own and (٢) a formula.
+ثلاثة وهو جذر المال الأول . فان زدته على خط {ov:حع} الذى هو نصف الأجذار
+بلغ ذلك سبعة وهو خط {ov:زح} ويكون جذر مال أكثر من هذا المال إذا زدت
+عليه واحدا وعشرين صار ذلك مثل عشرة أجذاره وهذه صورته {n:١}
+وذلك ما أردنا أن نبين
+@p {b:وأما ثلاثة أجذار وأربعة من العدد تعدل مالا} {n:٢} فانا نجعل المال سطحاً
+مربعاً مجهول الأضلاع متساوى الأضلاع والزوايا وهوسطح {ov:اد} فهذا السطح
+@fig AK01-F041-FIG1 695 1030 2370 2035 after=4
+@ednotes ١ ٢ 9
+@obs The figure of the fifth case, drawn, not set in type: a rectangle divided by three vertical lines and, in its left part, by a horizontal line, into the square on the half of the roots, with the small square inside it, and the square of the root beside the rectangle of the twenty-one; the sides of the small square are marked ٢ and those of the square of the root ٣. Its labels: م, ل and ك along the top; on the middle line ه at its left end, then ز, at the middle of the line a letter shaped like ح without a dot, ا, and ح at the right end; ن inside the lower left square; along the bottom a round ه, ط, ب and د. It has no ع (critical note AK01-CN003).
+@obs The rectangle of the figure takes in, at its top right, the line L04 «وذلك ما أردنا أن نبين», which the print sets beside the top of the figure, at the height of its upper labels; the line is transcribed as L04 and stands in the image as well.
+@obs L01: the label حع, the ح without a dot and the ع the same sort as on frame 038 (critical note AK01-CN003); L02: the label زح.
+@obs L05: the statement of the sixth case, from وأما to مالا, is printed in a bold face, with a paragraph indent; the note mark (٢) stands apart after it, and the rest of the line, from فانا, is in the face of the text. Here the print sets فانا نجعل with the space after فانا (30 px, nearest approach of the letters at 400 ppi; within فانا 15 px); on frame 037, L20, the same words have the space inside فانا.
+@obs Set without a word space after a non-connecting letter, and transcribed so: وهوسطح (L06; the و and the س stand 26 px apart, as far as the و and the ه inside وهو on the same line, 26 px; set with a space, the same words stand 46 px apart on frame 038, L10, and 43 px on frame 036, L01). After a non-connecting letter a word space is transcribed where the gap is a space: سبعة وهو (L02, 21 px, where the same letters set without a space stand 5 to 9 px apart on frames 032 to 036), واحدا وعشرين (L03, 27 px), الزوايا وهوسطح (L06, 28 px, against 9 px in والزواياوهو on frame 038, L10).
+@obs Plain alif where a hamza might be expected, as printed: فان (L01), فانا (L05); with hamza: الأول (L01), أكثر, إذا (L02), أجذاره (L03), أردنا, أن (L04), أجذار, وأربعة (L05), الأضلاع (L06, twice).
+@obs With tanwīn on the final alif: سطحاً (L05), مربعاً (L06); without tanwīn as printed: واحدا (L03), مالا (L05).
+@obs L01: the full stop after الأول stands between spaces. L04, a short line, ends without a full stop.
+@obs The editors' note (١) runs in a narrow column beside a figure of their own, a rectangle divided into squares with the dimensions ٧ and ٢, which illustrates the other solution of the fifth case; the note and its figure are the editors' work and are not reproduced. Note (٢) restates the sixth case as an equation in modern notation.

@@ -1,0 +1,759 @@
+{
+ "anchor": "AK07-J0024",
+ "jp2_index": 24,
+ "jp2_member": "b24872489_0024.jp2",
+ "jp2_sha256": "0558338c30c0b057e7563c8623c86bd1f242cefb073368350650e0fbedae2b44",
+ "reading_copy": "page_0024.jpg",
+ "reading_copy_sha256": "baa116c34f93f00eaff8cd48ffdb7a71f36a7e9c40594aef52fd046e2bd3df9a",
+ "printed_page": "XX",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0024: the introduction, p. XX: the end of no. 11; the additions of N, no. 12: a note of a second hand on the latitude of the moon in eclipses (fol. 47v); no. 13: notes of a second and a third hand on solar eclipses (fol. 49r); Suter's judgement of them begins.",
+ "lines": [
+  {
+   "id": "AK07-J0024-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "541 und 571 an, die in C und O fehlen ; die erstern scheinen von gleicher Hand zu",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "541 und 571 an, die in C und O fehlen ; die erstern scheinen von gleicher Hand zu",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "sein, wie die vorhergehenden, die letztern von einer andern Hand. Da die Tafel",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sein, wie die vorhergehenden, die letztern von einer andern Hand. Da die Tafel",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "stets von jedermann fortgesetzt werden kann, so verzichten wir auf die Wiedergabe",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "stets von jedermann fortgesetzt werden kann, so verzichten wir auf die Wiedergabe",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "dieser Zeilen.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dieser Zeilen.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L05",
+   "n": 5,
+   "kind": "indent",
+   "text": "12) Auf fol. 47{sup:v} (in unserm Text p. 29) ist nach den Worten {i:erit et ipsa meri-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "12) Auf fol. 47v (in unserm Text p. 29) ist nach den Worten erit et ipsa meri-",
+   "italic": [
+    "erit et ipsa meri-"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "{i:dionalis} von 2. Hand (?) hinzugefügt : {i:Haec circa meridiem, alibi autem : Inventa vera}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dionalis von 2. Hand (?) hinzugefügt : Haec circa meridiem, alibi autem : Inventa vera",
+   "italic": [
+    "dionalis",
+    "Haec circa meridiem, alibi autem : Inventa vera"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "{i:lunae latitudine nadair}{sup:1}) {i:gradus coniunctionis ponatur in astrolabio super horam con-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "lunae latitudine nadair1) gradus coniunctionis ponatur in astrolabio super horam con-",
+   "italic": [
+    "lunae latitudine nadair",
+    "gradus coniunctionis ponatur in astrolabio super horam con-"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "{i:iunctiones et videatur quot gradibus distet gradus coniunctionis a centro minimi circuli}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "iunctiones et videatur quot gradibus distet gradus coniunctionis a centro minimi circuli",
+   "italic": [
+    "iunctiones et videatur quot gradibus distet gradus coniunctionis a centro minimi circuli"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "{i:almucantarat, et si fuit vera lunae latitudo septemtrionalis, auferatur ab illis gradibus,}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "almucantarat, et si fuit vera lunae latitudo septemtrionalis, auferatur ab illis gradibus,",
+   "italic": [
+    "almucantarat, et si fuit vera lunae latitudo septemtrionalis, auferatur ab illis gradibus,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "{i:si meridiana, addatur ; et per id fiat introitus in tabulas latitudinis per aspectum.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "si meridiana, addatur ; et per id fiat introitus in tabulas latitudinis per aspectum.",
+   "italic": [
+    "si meridiana, addatur ; et per id fiat introitus in tabulas latitudinis per aspectum."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L11",
+   "n": 11,
+   "kind": "indent",
+   "text": "13) Auf fol. 49{sup:r} (in unserm Text p. 29) ist nach den Worten : {i:horas coniunctionis}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "13) Auf fol. 49r (in unserm Text p. 29) ist nach den Worten : horas coniunctionis",
+   "italic": [
+    "horas coniunctionis"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "{i:quaesitae ponet} von 2. Hand hinzugefügt : {i:Introitus harum tabularum hic est : primo}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "quaesitae ponet von 2. Hand hinzugefügt : Introitus harum tabularum hic est : primo",
+   "italic": [
+    "quaesitae ponet",
+    "Introitus harum tabularum hic est : primo"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "{i:videatur coniunctionis distantia solis et lunae a capite vel cauda et si fuerit luna in}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "videatur coniunctionis distantia solis et lunae a capite vel cauda et si fuerit luna in",
+   "italic": [
+    "videatur coniunctionis distantia solis et lunae a capite vel cauda et si fuerit luna in"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "{i:longiori longitudine sui brevis circuli}{sup:2}) {i:intretur in tabulas priores, aliter in posteriores}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "longiori longitudine sui brevis circuli2) intretur in tabulas priores, aliter in posteriores",
+   "italic": [
+    "longiori longitudine sui brevis circuli",
+    "intretur in tabulas priores, aliter in posteriores"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "{i:et sumatur de digitis quod opponitur distantiae praedictae. Exinde sumatur diversitas}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "et sumatur de digitis quod opponitur distantiae praedictae. Exinde sumatur diversitas",
+   "italic": [
+    "et sumatur de digitis quod opponitur distantiae praedictae. Exinde sumatur diversitas"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "{i:aspectus lunae et videatur quot digitis ipsa aequipolleat. Et si fuerit luna tunc septem-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "aspectus lunae et videatur quot digitis ipsa aequipolleat. Et si fuerit luna tunc septem-",
+   "italic": [
+    "aspectus lunae et videatur quot digitis ipsa aequipolleat. Et si fuerit luna tunc septem-"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "{i:trionalis a sole addantur illi digiti super inventos digitos in tabula, si meridiana, demantur}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "trionalis a sole addantur illi digiti super inventos digitos in tabula, si meridiana, demantur",
+   "italic": [
+    "trionalis a sole addantur illi digiti super inventos digitos in tabula, si meridiana, demantur"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "{i:si poterit, aliter enim non erit eclipsis ; et sic inventum erit quantitas eclipsis. Et tunc}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "si poterit, aliter enim non erit eclipsis ; et sic inventum erit quantitas eclipsis. Et tunc",
+   "italic": [
+    "si poterit, aliter enim non erit eclipsis ; et sic inventum erit quantitas eclipsis. Et tunc"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "{i:cum illo invento in tabula sumantur minuta casus in eius directo et erit mora usque ad}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "cum illo invento in tabula sumantur minuta casus in eius directo et erit mora usque ad",
+   "italic": [
+    "cum illo invento in tabula sumantur minuta casus in eius directo et erit mora usque ad"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "{i:mediam eclipsim. In diversitate aspectus quot fuerint digiti sic inveniatur : Per tabulas}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mediam eclipsim. In diversitate aspectus quot fuerint digiti sic inveniatur : Per tabulas",
+   "italic": [
+    "mediam eclipsim. In diversitate aspectus quot fuerint digiti sic inveniatur : Per tabulas"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "{i:elbut inveniatur quantitas solaris corporis et dividatur in XII aequas partes quia semper}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "elbut inveniatur quantitas solaris corporis et dividatur in XII aequas partes quia semper",
+   "italic": [
+    "elbut inveniatur quantitas solaris corporis et dividatur in XII aequas partes quia semper"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "{i:duodecima diametri solis digitus dicitur. Videatur quotiens eius duodecima in diversitate}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "duodecima diametri solis digitus dicitur. Videatur quotiens eius duodecima in diversitate",
+   "italic": [
+    "duodecima diametri solis digitus dicitur. Videatur quotiens eius duodecima in diversitate"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "{i:aspectus contineatur, et tot fient ex ea digiti. Si ergo inventum fuerit plus XII digitis}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "aspectus contineatur, et tot fient ex ea digiti. Si ergo inventum fuerit plus XII digitis",
+   "italic": [
+    "aspectus contineatur, et tot fient ex ea digiti. Si ergo inventum fuerit plus XII digitis"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "{i:et XLVIII min. in longitudine propiori vel plus X et XLVIII min. in longiori, et luna}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "et XLVIII min. in longitudine propiori vel plus X et XLVIII min. in longiori, et luna",
+   "italic": [
+    "et XLVIII min. in longitudine propiori vel plus X et XLVIII min. in longiori, et luna"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "{i:fuerit septemtrionalis a sole, auferantur praedicti digiti de invento et residuum clarum}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "fuerit septemtrionalis a sole, auferantur praedicti digiti de invento et residuum clarum",
+   "italic": [
+    "fuerit septemtrionalis a sole, auferantur praedicti digiti de invento et residuum clarum"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "{i:in sole relinquitur. Si vero luna fuerit meridiana et inventum secundum se obscurabit}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "in sole relinquitur. Si vero luna fuerit meridiana et inventum secundum se obscurabit",
+   "italic": [
+    "in sole relinquitur. Si vero luna fuerit meridiana et inventum secundum se obscurabit"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "{i:de sole, haec secundum eos quibus sol semper meridianus est ; quia cum fuerit septem-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "de sole, haec secundum eos quibus sol semper meridianus est ; quia cum fuerit septem-",
+   "italic": [
+    "de sole, haec secundum eos quibus sol semper meridianus est ; quia cum fuerit septem-"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "{i:trionalis contra operari oportebit.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "trionalis contra operari oportebit.",
+   "italic": [
+    "trionalis contra operari oportebit."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L29",
+   "n": 29,
+   "kind": "indent",
+   "text": "Hierauf folgt von 3. Hand : {i:Sed et in maiori elongatione ante caudam vel post}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Hierauf folgt von 3. Hand : Sed et in maiori elongatione ante caudam vel post",
+   "italic": [
+    "Sed et in maiori elongatione ante caudam vel post"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "{i:caput, quia usque ad XXIII gradus fit solis eclipsis. Et tunc sciatur vera lunae latitudo}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "caput, quia usque ad XXIII gradus fit solis eclipsis. Et tunc sciatur vera lunae latitudo",
+   "italic": [
+    "caput, quia usque ad XXIII gradus fit solis eclipsis. Et tunc sciatur vera lunae latitudo"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "{i:et diversitas aspectus latitudinis eius ; et auferatur minus de maiori, et per residuum erit}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "et diversitas aspectus latitudinis eius ; et auferatur minus de maiori, et per residuum erit",
+   "italic": [
+    "et diversitas aspectus latitudinis eius ; et auferatur minus de maiori, et per residuum erit"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "{i:quantitas scita eclipsis, cuius digiti per solis et residui quantitatem, ut praedictum est,}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "quantitas scita eclipsis, cuius digiti per solis et residui quantitatem, ut praedictum est,",
+   "italic": [
+    "quantitas scita eclipsis, cuius digiti per solis et residui quantitatem, ut praedictum est,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "{i:investigentur, et per eos mora in tabula. Iungantur autem medietates}{sup:3}) {i:diametrorum}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "investigentur, et per eos mora in tabula. Iungantur autem medietates3) diametrorum",
+   "italic": [
+    "investigentur, et per eos mora in tabula. Iungantur autem medietates",
+    "diametrorum"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "{i:solis et lunae, et si residuum praedictum fuerit eis aequale vel maius, non erit eclipsis,}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "solis et lunae, et si residuum praedictum fuerit eis aequale vel maius, non erit eclipsis,",
+   "italic": [
+    "solis et lunae, et si residuum praedictum fuerit eis aequale vel maius, non erit eclipsis,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "{i:si nichilum fuerit residuum, totalis, si vero residuum minus fuerit, erit eclipsis partialis.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "si nichilum fuerit residuum, totalis, si vero residuum minus fuerit, erit eclipsis partialis.",
+   "italic": [
+    "si nichilum fuerit residuum, totalis, si vero residuum minus fuerit, erit eclipsis partialis."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L36",
+   "n": 36,
+   "kind": "indent",
+   "text": "Wir haben im Kommentar zu Kap. 35 bemerkt, dass dieses sehr kurz und",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wir haben im Kommentar zu Kap. 35 bemerkt, dass dieses sehr kurz und",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "jedenfalls unvollständig sei. Dies scheint auch der Verfasser des ersten der obigen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "jedenfalls unvollständig sei. Dies scheint auch der Verfasser des ersten der obigen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L38",
+   "n": 38,
+   "kind": "text",
+   "text": "Zusätze gefühlt zu haben, und glaubte daher, eine bessere, verständlichere Darstellung",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Zusätze gefühlt zu haben, und glaubte daher, eine bessere, verständlichere Darstellung",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-L39",
+   "n": 39,
+   "kind": "text",
+   "text": "der Bestimmung einer Sonnenfinsternis geben zu müssen. Allein seine Regel ist,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Bestimmung einer Sonnenfinsternis geben zu müssen. Allein seine Regel ist,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Wahrscheinlich {i:nadir}.",
+   "margin": null,
+   "plain": "1) Wahrscheinlich nadir.",
+   "italic": [
+    "nadir"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "{sup:2}) {i:brevis circuli} = {i:epicycli}.",
+   "margin": null,
+   "plain": "2) brevis circuli = epicycli.",
+   "italic": [
+    "brevis circuli",
+    "epicycli"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0024-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "{sup:3}) Im Text {i:mediates}.",
+   "margin": null,
+   "plain": "3) Im Text mediates.",
+   "italic": [
+    "mediates"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «XX» stands at the head of the page, centred, with a rule below it. L01-L04 end no. 11, begun at the foot of p. XIX (JP2 0023, L37-L38): N gives the conjunctions and oppositions also for the years 541 and 571, which Suter does not reproduce.",
+  "The notes of N are quoted in italics, with Suter's words in roman between them; «(?)» (L06) upright. L20: the a of «mediam» is of a different design from the italic a of the line, taller and more upright, a sort of another fount; transcribed as a. The colons and semicolons of the Latin stand after the thin space of the edition, as in the German (6-13 px measured).",
+  "N03: «Im Text mediates»: the text of the note has «mediates», which the quotation (L33) gives as «medietates»."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

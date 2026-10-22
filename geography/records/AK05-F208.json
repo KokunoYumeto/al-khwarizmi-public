@@ -1,0 +1,25 @@
+{
+ "anchor": "AK05-F208",
+ "frame": 208,
+ "frame_file": "page_208.jpg",
+ "frame_sha256": "90ac428185f9fa084f93821bd729ff5a2e369155fa310fb8254d7fbd6b9e91d3",
+ "printed_page": "V",
+ "kind": "editorial",
+ "role": "MODERN_EDITORIAL (not reproduced)",
+ "comment": "Frame 208, printed p. V: the first page of the editor's introduction, «EINLEITUNG», in German.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [
+  "the editor's introduction, «EINLEITUNG», p. V, in German: the heading and 24 printed lines"
+ ],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Topics of the page, with the entries and notes that it cites (the introduction is read for understanding and not reproduced or paraphrased): the heading «EINLEITUNG»; the manuscript on which the edition rests, cod. 4247 of the Bibliothèque de l'université et régionale in Strasbourg; the running numbers in parentheses and the numbers of Suhrāb's «ʿAjāʾib al-aqālīm» in square brackets; the five plates (frames 171-179); the headings of the index (frames 165-167).",
+  "The introduction, pp. V-XXXI, is bound in the reverse order of its pages, from p. XXXI (frame 182) to p. V (frame 208); the frames keep the physical order, and the introduction is read from frame 208 back to frame 182. This page is read first; p. VI follows on frame 207.",
+  "The page number «— V —» stands at the foot, centred. The page has no footnotes."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

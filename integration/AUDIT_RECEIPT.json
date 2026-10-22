@@ -1,0 +1,179 @@
+{
+ "audit": "AK-I01 cold audit (new root; no patching)",
+ "audited_head": "0f01207bd3747ea2626be7f1f1b2a433fe3dd1eb",
+ "root_folder": "akh_cold_audit2",
+ "started_utc": "2026-10-22T13:41:28Z",
+ "finished_utc": "2026-10-22T13:42:57Z",
+ "environment": {
+  "python": "3.13.9",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "xelatex": "MiKTeX-XeTeX 4.18 (MiKTeX 26.5)",
+  "pymupdf": "1.27.2.3"
+ },
+ "result": "PASS",
+ "steps": [
+  {
+   "step": "clean clone",
+   "result": "PASS",
+   "detail": {
+    "head": "0f01207bd3747ea2626be7f1f1b2a433fe3dd1eb",
+    "status": "clean"
+   }
+  },
+  {
+   "step": "integrate.py checks",
+   "result": "PASS",
+   "detail": "coverage rows 50, seams 26, special units 330, works 45, artifacts 8; failed checks: 0"
+  },
+  {
+   "step": "integration artifacts reproduced",
+   "result": "PASS",
+   "detail": {
+    "compared": 14,
+    "differ": [],
+    "not committed": []
+   }
+  },
+  {
+   "step": "replay algebra",
+   "result": "PASS",
+   "detail": {
+    "returncode": 0,
+    "pdfs_identical": [
+     "True"
+    ],
+    "missing_characters": [
+     0
+    ],
+    "builder": "130 frames (1-130), 1637 lines (1604 of the text), 21 figures, 60 withheld note blocks, 1058 observations, 9 variants"
+   }
+  },
+  {
+   "step": "replay geography",
+   "result": "PASS",
+   "detail": {
+    "returncode": 0,
+    "pdfs_identical": [
+     "True"
+    ],
+    "missing_characters": [
+     0
+    ],
+    "builder": "218 frames (1-218), 2569 lines (2506 of the text), 5 figures, 156 withheld note blocks, 2345 observations, 1253 variants"
+   }
+  },
+  {
+   "step": "replay arithmetic",
+   "result": "PASS",
+   "detail": {
+    "returncode": 0,
+    "pdfs_identical": [
+     "True"
+    ],
+    "missing_characters": [
+     0
+    ],
+    "builder": "30 frames (1-30), 768 lines (732 of the text, 20 of the notes), 149 observations, 28 copy records, 22 critical notes"
+   }
+  },
+  {
+   "step": "replay zij",
+   "result": "PASS",
+   "detail": {
+    "returncode": 0,
+    "pdfs_identical": [
+     "True",
+     "True"
+    ],
+    "missing_characters": [
+     0,
+     0
+    ],
+    "builder": "296 images (0000-0295); Latin: 154 pages, 5230 lines, 1127 note lines; Suter: 142 pages, 4916 lines, 387 note lines; 1676 observations, 15 copy records, 322 critical notes"
+   }
+  },
+  {
+   "step": "replay calendar",
+   "result": "PASS",
+   "detail": {
+    "returncode": 0,
+    "pdfs_identical": [
+     "True"
+    ],
+    "missing_characters": [
+     0
+    ],
+    "builder": "10 pages (1-10), 170 lines (143 of the text), 39 observations, 26 critical notes"
+   }
+  },
+  {
+   "step": "replay practical build_p01.py",
+   "result": "PASS",
+   "detail": "written: checkpoint.json, codex_items.tsv, edition_folio_concordance.tsv, evidence_ledger.tsv, landberg56_image_inventory.tsv, physical_unit_disposition.tsv, source_acquisition_gap_ledger.tsv, text_ma"
+  },
+  {
+   "step": "replay practical build_p02.py",
+   "result": "PASS",
+   "detail": "written: attribution_findings.tsv, checkpoint.json, cross_lane_checks.tsv, erdem_chapter_map.tsv, erdem_inventory.tsv, errata_of_the_studies.tsv, evidence_ledger.tsv, physical_unit_disposition.tsv, pr"
+  },
+  {
+   "step": "derived files reproduced exactly (clone still clean)",
+   "result": "PASS",
+   "detail": "clean"
+  },
+  {
+   "step": "render algebra/jabr_1939.pdf",
+   "result": "PASS",
+   "detail": {
+    "pages": 75,
+    "fonts": 4,
+    "unembedded": []
+   }
+  },
+  {
+   "step": "render geography/surat_1962.pdf",
+   "result": "PASS",
+   "detail": {
+    "pages": 100,
+    "fonts": 6,
+    "unembedded": []
+   }
+  },
+  {
+   "step": "render arithmetic/algoritmi_1857.pdf",
+   "result": "PASS",
+   "detail": {
+    "pages": 23,
+    "fonts": 3,
+    "unembedded": []
+   }
+  },
+  {
+   "step": "render zij/tafeln_1914_latin.pdf",
+   "result": "PASS",
+   "detail": {
+    "pages": 178,
+    "fonts": 6,
+    "unembedded": []
+   }
+  },
+  {
+   "step": "render zij/tafeln_1914_suter.pdf",
+   "result": "PASS",
+   "detail": {
+    "pages": 139,
+    "fonts": 7,
+    "unembedded": []
+   }
+  },
+  {
+   "step": "render calendar/calendar_1947.pdf",
+   "result": "PASS",
+   "detail": {
+    "pages": 11,
+    "fonts": 5,
+    "unembedded": []
+   }
+  }
+ ]
+}

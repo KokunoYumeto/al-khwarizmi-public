@@ -1,0 +1,55 @@
+@page 136 104
+@lang de
+% JP2 0136: Suter's commentary, p. 104: Table 116 continued: the exaltations and falls, the lords of the triplicities,
+% the decans (facies) and their lords; the terms begin (note 1).
+{i:Schaden,} weil seine Häuser der Skorpion und der Widder sind. — Diese {i:Alienationes}
+fehlen in der Rose {sp:Batt.}’s.
+@p Die Kolonnen 3 und 5 enthalten die sog. {i:Erhöhungen} ({i:Dignitates, Exaltationes,}
+arab. {i:sharaf,} pl. {i:ashrāf}) und {i:Tiefstände} ({i:Deiectiones, Casus,} arab. {i:hubūṭ}), oder vielmehr
+die Planeten, die in dem entsprechenden Zeichen der 1. Kolonne in der Erhöhung
+oder im Tiefstand (Fall) sind. So ist z. B. {i:Jupiter} in der {i:Erhöhung} im {i:Krebs} ({i:Cancer}),
+d. h. in diesem Zeichen hat er die höchste Macht, den grössten Einfluss, dagegen
+ist er im {i:Tiefstand} oder im {i:Fall} im {i:Steinbock} ({i:Capricornus}), welches Zeichen um 180°
+vom Krebs absteht, in diesem Zeichen hat er den geringsten oder gar keinen Einfluss.
+{i:Saturn} ist in der {i:Wage} in der {i:Erhöhung,} dagegen im {i:Widder} im {i:Fall.} Im Löwen
+und Wassermann ({i:Aquarius}) steht kein Planet in der Erhöhung, und keiner im Fall,
+im Stier keiner im Fall, im Skorpion keiner in der Erhöhung. Ausser Sonne, Mond
+und den fünf Planeten haben auch die Mondknoten, Drachenkopf und Drachen-
+schwanz ihre Exaltationes und Casus. Der 3. Kolonne entspricht der innerste Kreis
+der Rose {sp:Batt.}’s, die 5. Kolonne fehlt in derselben. In der Rose ist auch noch
+der Grad des Zeichens angegeben, in welchem der Planet das Maximum seiner Macht
+erreicht (z. B. Venus im 27.° der Fische), diese Grade fehlen in unserer Tafel. Auch
+den Überschriften dieser Kolonnen, {i:Regnum} für {i:Dignitas} oder {i:Exaltatio,} und {i:Servitus}
+für {i:Casus} oder {i:Deiectio} begegnen wir hier zum ersten mal.
+@p Die Kolonnen 6 u. 7 enthalten die {i:Herren} oder {i:Regenten} (hier {i:Judices} genannt)
+der sog. {i:Triplizitäten} (hier {i:Trigonalia} genannt), d. h. je dreier Zeichen des Tierkreises,
+die die Ecken eines gleichseitigen Dreieckes bilden. So bilden z. B. {i:Widder, Löwe}
+und {i:Schütze} eine {i:Triplizität} (d. h. stehen unter einander im Trigonalschein) und ihre
+Herren ({i:Judices, Domini}) sind {i:Sonne, Jupiter} u. {i:Saturn} am {i:Tage, Jupiter, Sonne, Saturn}
+bei {i:Nacht.} Eigentlich sind nur die ersten beiden die Herren, der dritte, Saturn, nur
+ihr (etwas untergeordneter) Genosse. Diese {i:Judices} ({i:Domini}) der Triplizitäten finden
+sich in der astrologischen Rose im zweitäussersten Ring und zwar auch für Tag
+und für Nacht.
+@p Die untere Hälfte der Tafel enhält links die sog. {i:Facies} ({i:Decani,} arab. {i:wadjh,}
+pl. {i:wudjūh}) und ihre Herren ({i:Domini}). Jedes Zeichen des Tierkreises wird nämlich
+in drei gleiche Teile von je 10° geteilt, und jedem dieser Teile ein Planet (Sonne
+und Mond inbegriffen) als Herr zugeteilt. Diese Verteilung wurde nicht bei allen
+Völkern, die sich mit Astrologie beschäftigt haben, nach dem gleichen Prinzip durch-
+geführt ; die hier gegebene Verteilung ist die ägyptisch-griechische{sup:1}), die von den
+meisten arabischen Astrologen adoptiert worden ist : dem ersten Decan des Widders
+wird sein Hausherr Mars zugeteilt, dem zweiten die Sonne, dem dritten die Venus,
+dem ersten Decan des Stiers Merkur, u. s. f., stets in der alten Reihefolge dieser
+Himmelskörper : Saturn, Jupiter, Mars, Sonne, Venus, Merkur, Mond. — Die astro-
+logische Rose enthält die Facies im 3. (mittlern) Kreisring, und zwar in gleicher
+Weise verteilt wie in unserer Tafel.
+@p Rechts in der untern Hälfte der Tafel sind die {i:Grenzen} ({i:Termini,} hier {i:Fines}
+@n {sup:1}) {sp:Ptolemäus} ausgenommen, der die {i:Facie}s nicht kennt.
+@obs The page number «104» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 completes the sentence that ends p. 103 (JP2 0135, L37), «Mars im Stier und in der Wage im».
+@obs L01-L19. Checked: Aries and Scorpio, the houses of Mars, lie opposite Libra and Taurus, his detriments (L01); Jupiter's exaltation, Cancer, and his fall, Capricorn, lie 180° apart (L06-L09), as do Saturn's, Libra and Aries (L10). With the exaltations sun Aries, moon Taurus, Mercury Virgo, Venus Pisces, Mars Capricorn, Jupiter Cancer, Saturn Libra, and the falls in the opposite signs, Leo and Aquarius have neither, Taurus no fall and Scorpio no exaltation, as L10-L12 say; Gemini and Sagittarius are left for the nodes (L12-L14). The columns of Table 116 are to be compared with the table.
+@obs L20-L28. Checked: Aries, Leo and Sagittarius lie 120° apart, the corners of an equilateral triangle on the ecliptic. L29-L40. Checked: twelve signs of three decans each give 36 decans of 10°; counted in the order Saturn, Jupiter, Mars, sun, Venus, Mercury, moon from Mars, the first decan of Aries, the decans of Aries go to Mars, the sun and Venus and the first of Taurus to Mercury, as L35-L37 say.
+@obs L29: «enhält»; see the critical note. L38: «Himmelskörper», the second m damaged; read as printed word. N01: «Facies», the letters «Facie» in italics and the final s upright, a letter of the roman fount.
+@obs L04: «ashrāf» and «hubūṭ», with the macrons and the dot under the t; L30: «wudjūh», with the macron. L17: «27.°», the full stop of the ordinal before the degree sign.
+@obs The dashes: L01 «sind. — Diese», L38 «Mond. — Die», long dashes with a space on either side.
+@obs Spaced type, marked {sp:}: «Batt.», «Ptolemäus»; italics: «Schaden,», «Alienationes», «Erhöhungen», «Dignitates, Exaltationes,», «sharaf,», «ashrāf», «Tiefstände», «Deiectiones, Casus,», «hubūṭ», the names of planets and signs where printed so (L06-L11, L22-L25), «Erhöhung», «Tiefstand», «Fall», «Regnum», «Dignitas», «Exaltatio,», «Servitus», «Casus», «Deiectio», «Herren», «Regenten», «Judices», «Triplizitäten», «Trigonalia», «Triplizität», «Domini», «Tage», «Nacht.», «Facies», «Decani,», «wadjh,», «wudjūh», «Grenzen», «Termini,», «Fines».
+@obs The colons and semicolons stand after the thin space of the edition (9-12 px measured).
+@critical AK07-CN081 | misprint | L29 | enhält | enthält | «enthält», as in «Die astrologische Rose enthält die Facies» (L38-L39); the t is not printed | high | none

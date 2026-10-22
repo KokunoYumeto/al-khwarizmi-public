@@ -1,0 +1,56 @@
+@page 231 199
+@lang la
+% JP2 0231: Tab. 84, p. 199: the division of the houses for the ascendant in Virgo: the beginnings of the second to
+% the sixth house for every degree of the ascendant, with the apparatus (notes a-o).
+@m C 88{sup:r}, O 144{sup:v},
+@c {b:Aequatio casarum duodecim signo virginis}
+@tw size=footnotesize 1.3 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65 0.65
+@m N 52{sup:v}.
+@t Gradus | Secundum |  | Tertium |  | Quartum |  | Quintum |  | Sextum |
+@t aequales | Libra |  | Libra [Scorp. |  | Scorpius |  | Sagittar. |  | Capricorn. |
+@t ortus | [et Scorpius] |  | et Sagitt.] |  | [et Sagittar.] |  | [et Capricor.] |  | [et Aquarius] |
+@t virginis |  |  |  |  |  |  |  |  |  |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 1 | 0 | 2 | 29 | 4 | 26 | 18 | 27 | 9 | 27 | 56
+@t  |  |  | Scorp. |  |  |  |  |  |  |
+@t 2 | 1 | 11 | 0 | 16 | 27 | 30{sup:i}) | 28 | 13 | 28 | 56
+@t 3 | 2 | 20 | 1 | 28 | 28 | 43 | 29 | 18 | 29 | 56
+@t  |  |  |  |  |  |  | Capric. |  | Aquar. |
+@t 4 | 3 | 28 | 2 | 40 | 29 | 50{sup:k}) | 0 | 23 | 0 | 57
+@t  |  |  |  |  | Sagitt. |  |  |  |  |
+@t 5 | 4 | 37 | 3 | 53 | 1 | 8 | 1 | 28 | 1 | 57
+@t 6 | 5 | 45 | 5 | 4 | 2 | 20 | 2 | 31 | 2 | 57
+@t 7 | 6 | 53 | 6 | 15 | 3 | 32 | 3 | 34 | 3 | 58
+@t 8 | 8{sup:a}) | 1{sup:c}) | 7 | 26 | 4 | 43 | 4 | 38 | 4 | 59
+@t 9 | 9 | 9 | 8 | 37{sup:d}) | 5 | 56 | 5 | 41 | 6 | 0
+@t 10 | 10 | 17 | 9 | 47 | 7 | 6 | 6 | 44 | 7 | 1
+@t 11 | 11 | 24 | 10 | 55 | 8 | 16 | 7 | 46 | 8 | 2
+@t 12 | 12{sup:b}) | 31 | 12 | 4 | 9 | 25 | 8 | 49 | 9 | 3
+@t 13 | 13 | 38 | 13 | 12 | 10 | 34 | 9 | 51 | 10 | 4
+@t 14 | 14 | 45 | 14 | 21 | 11 | 43 | 10 | 54 | 11 | 5
+@t 15 | 15 | 52 | 15 | 30 | 12 | 52 | 11 | 57 | 12 | 6
+@t 16 | 16 | 59 | 16 | 38 | 14{sup:e}) | 2 | 13 | 1 | 13 | 8
+@t 17 | 18 | 6 | 17 | 47 | 15 | 12 | 14 | 5 | 14 | 10{sup:m})
+@t 18 | 19 | 13 | 18 | 54 | 16 | 22 | 15 | 9 | 15 | 12{sup:n})
+@t 19 | 20 | 20 | 20 | 4 | 17 | 32 | 16 | 13 | 16 | 15
+@t 20 | 21 | 26 | 21 | 13 | 18 | 42 | 17 | 17 | 17 | 18
+@t 21 | 22 | 31 | 22 | 18 | 19{sup:e}) | 49 | 18 | 20 | 18 | 20
+@t 22 | 23 | 36 | 23 | 23 | 20 | 56 | 19 | 22 | 19 | 22
+@t 23 | 24 | 41 | 24 | 28 | 22 | 3 | 20 | 25 | 20 | 25
+@t 24 | 25 | 45 | 25 | 33 | 23 | 10 | 21 | 27 | 21 | 27
+@t 25 | 26 | 49 | 26 | 38 | 24 | 16 | 22 | 29 | 22 | 29
+@t 26 | 27 | 54 | 27 | 44 | 25 | 25 | 23 | 33 | 23 | 32
+@t 27 | 28 | 58 | 28 | 50 | 26{sup:f}) | 34 | 24 | 38 | 24 | 36
+@t  | Scorp. |  |  |  |  |  |  |  |  |
+@t 28 | 0 | 3 | 29 | 56 | 27{sup:g}) | 42 | 25 | 43 | 25 | 39
+@t  |  |  | Sagitt. |  |  |  |  |  |  |
+@t 29 | 1 | 7 | 1 | 2 | 28{sup:h}) | 51 | 26 | 48{sup:l}) | 26 | 43{sup:o})
+@t 30 | 2 | 12 | 2 | 7 | 30 | 0 | 27 | 53 | 27 | 47
+@n {sup:a}) 8] C, 7 O — {sup:b}) 12] C, 11 O — {sup:c}) 1] 51 CO — {sup:d}) 37] C, 57 O — {sup:e-e}) 14. . . .19] C, 13, 13, 15,
+@n 16, 16, 18 O — {sup:f}) 26] C, 27 O — {sup:g}) 27] C, 28 O — {sup:h}) 28] C, 0 O — {sup:i}) 30] ON, 19 C — {sup:k}) 50] O,
+@n 15 C — {sup:l}) 48] C, 49 O — {sup:m}) 10] O, 9 C — {sup:n}) 12] O, 10 C — {sup:o}) 43] O, 48 C.
+@obs The page number «199» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 84», in bold sans serif, underlined. The page has no signature. The title (L01), «Aequatio casarum duodecim signo virginis», the equation of the twelve houses for the sign of Virgo, in bold, without sigla. The folios of the manuscripts stand at the right of the title in two lines, «C 88r, O 144v,» and «N 52v.», the letters raised; here as right margin notes beside L01 and L02.
+@obs The table: as on pp. 194-198 (JP2 0226-0230), the degrees of the ascendant, «Gradus aequales ortus virginis», in four lines, and five pairs «Gr.», «Min.» under «Secundum Libra [et Scorpius]», «Tertium Libra [Scorp. et Sagitt.]», «Quartum Scorpius [et Sagittar.]», «Quintum Sagittar. [et Capricor.]» and «Sextum Capricorn. [et Aquarius]». Here each head is set from the top, one printed line to a line (L02-L05); the units in L06; the cells separated by our «|»; a head followed by empty cells spans their columns. The names of the signs into which the beginnings pass stand in lines of their own over their columns: «Scorp.» (L08) over the third house, «Capric.» and «Aquar.» (L11) over the fifth and the sixth, «Sagitt.» (L13) over the fourth, «Scorp.» (L37) over the second and «Sagitt.» (L39) over the third. The fourth house at 30° (L41) is printed «30 0», 30° 0′ of Sagittarius, without a new sign. A speck before the 51 of the fourth house in L40; not transcribed.
+@obs L07-L41. The beginnings of the houses for the ascendant at 1° to 30° of Virgo, by the rule of p. 194 (JP2 0226). Checked with the obliquity 23° 35′ and the latitude 38° 40′: the degrees and minutes agree within 2′ in 127 of the 150 places and within 3′ in 140. The fifth house lags by 6.0′, 5.4′ and 3.6′ at 1°-3° and the fourth by 5.9′ at 4° (L12), 29° 50′ for 29° 55.9′; the third to the fifth house run ahead by 2′ to 4.1′ at 19°-21° and lag by 2.5′ to 3.7′ at 25°-26°; the fourth runs ahead by 2.4′ to 3.3′ at 9°-11°. At 30°, when the ascendant is the autumnal point, the fourth house begins exactly at the end of Sagittarius, the 30° 0′ of the table.
+@obs Notes on the readings. Checked by the computation: the edition's readings are the nearer at 8° and 12° in the second house (notes a, b and c: C's 8 and 12 against O's 7 and 11 in the degrees, the edition's 1 against the 51 of C and O in the minutes; 8° 1.3′, 12° 31.6′ computed), at 9° in the third (note d: C's 37 against O's 57; 8° 35.4′), at 2°, 4°, 16°-21° and 27°-29° in the fourth (notes i, k, e-e, f, g and h: the 30 of O and N against C's 19, O's 50 against C's 15; C's degrees 14 to 19 against O's 13, 13, 15, 16, 16 and 18, C's 26, 27 and 28 against O's 27, 28 and 0; 27° 31.3′, 29° 55.9′, 14° 2.2′ to 19° 46.4′, 26° 35.9′, 27° 44.0′, 28° 52.0′), at 29° in the fifth (note l: C's 48 against O's 49; 26° 48.4′) and at 17°, 18° and 29° in the sixth (notes m, n and o: O's 10, 12 and 43 against C's 9, 10 and 48; 14° 10.4′, 15° 12.3′, 26° 43.6′).
+@obs N01: «{sup:e-e})», the two letters of the note joined by a hyphen, raised, before one parenthesis, and the points of the lemma «14. . . .19» as printed; the note is marked at 16° and 21° of the fourth house.

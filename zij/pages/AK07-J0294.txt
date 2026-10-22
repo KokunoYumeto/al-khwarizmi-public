@@ -1,0 +1,4 @@
+@page 294 -
+@kind binding
+% JP2 0294: the back cover of the library's binding.
+@obs The back cover of the binding, of dark, textured cloth like the front cover (JP2 0001), without lettering; photographed in low light, at the size of the image of the front cover.

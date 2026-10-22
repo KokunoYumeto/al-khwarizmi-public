@@ -1,0 +1,483 @@
+{
+ "anchor": "AK05-F069",
+ "frame": 69,
+ "frame_file": "page_069.jpg",
+ "frame_sha256": "f4a0abe00c6d81c92dbba825e98782480c9934595b14f4fe6c5b79e356625c3c",
+ "printed_page": "٦٣",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 069, printed p. 63: the left-hand page of the opening pp. 62-63. For the eighteen entries beyond the seventh clime of p. 62 (frame 068), 893/894-927/928, the longitude and the latitude of the first and of the last boundary, the colour and the direction of the head. Three lines of the editor's footnotes, continued at the foot of p. 62.",
+ "lines": [
+  {
+   "id": "AK05-F069-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "لا | ن | مط | م | لا | ن | نب | مه | وردىّ{n:a} | مغربىّ",
+   "margin": null,
+   "cells": [
+    "لا",
+    "ن",
+    "مط",
+    "م",
+    "لا",
+    "ن",
+    "نب",
+    "مه",
+    "وردىّ{n:a}",
+    "مغربىّ"
+   ],
+   "plain": "لا | ن | مط | م | لا | ن | نب | مه | وردىّ | مغربىّ",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "لد | م | نب | ل | لط | {z} | نب | ل | اصفر مشبع | شمال",
+   "margin": null,
+   "cells": [
+    "لد",
+    "م",
+    "نب",
+    "ل",
+    "لط",
+    "{z}",
+    "نب",
+    "ل",
+    "اصفر مشبع",
+    "شمال"
+   ],
+   "plain": "لد | م | نب | ل | لط | ō | نب | ل | اصفر مشبع | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "له | ل | مط | م | م | ك | مط | ل | لازورد | شمال",
+   "margin": null,
+   "cells": [
+    "له",
+    "ل",
+    "مط",
+    "م",
+    "م",
+    "ك",
+    "مط",
+    "ل",
+    "لازورد",
+    "شمال"
+   ],
+   "plain": "له | ل | مط | م | م | ك | مط | ل | لازورد | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "لط | {z} | ٮو | م | مٮ | م | ند | مه | وردىّ | شمال",
+   "margin": null,
+   "cells": [
+    "لط",
+    "{z}",
+    "ٮو",
+    "م",
+    "مٮ",
+    "م",
+    "ند",
+    "مه",
+    "وردىّ",
+    "شمال"
+   ],
+   "plain": "لط | ō | ٮو | م | مٮ | م | ند | مه | وردىّ | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "ما | مه | مط | ل | مد | {z} | نا | مه | اصفر مشبع | شمال",
+   "margin": null,
+   "cells": [
+    "ما",
+    "مه",
+    "مط",
+    "ل",
+    "مد",
+    "{z}",
+    "نا",
+    "مه",
+    "اصفر مشبع",
+    "شمال"
+   ],
+   "plain": "ما | مه | مط | ل | مد | ō | نا | مه | اصفر مشبع | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "مد | يه | مح | ل | مد | يه | ن | {z} | اصفر | مغربىّ",
+   "margin": null,
+   "cells": [
+    "مد",
+    "يه",
+    "مح",
+    "ل",
+    "مد",
+    "يه",
+    "ن",
+    "{z}",
+    "اصفر",
+    "مغربىّ"
+   ],
+   "plain": "مد | يه | مح | ل | مد | يه | ن | ō | اصفر | مغربىّ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "مو | ك | ٮد | ن | مح | ل | نو | {z} | احمر مشبع | شمال",
+   "margin": null,
+   "cells": [
+    "مو",
+    "ك",
+    "ٮد",
+    "ن",
+    "مح",
+    "ل",
+    "نو",
+    "{z}",
+    "احمر مشبع",
+    "شمال"
+   ],
+   "plain": "مو | ك | ٮد | ن | مح | ل | نو | ō | احمر مشبع | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "مو | م | نا | ٮه | ⟨م⟩{n:e}و | م | ٮح | {z} | احمر كمد | مغربىّ",
+   "margin": null,
+   "cells": [
+    "مو",
+    "م",
+    "نا",
+    "ٮه",
+    "⟨م⟩{n:e}و",
+    "م",
+    "ٮح",
+    "{z}",
+    "احمر كمد",
+    "مغربىّ"
+   ],
+   "plain": "مو | م | نا | ٮه | ⟨م⟩و | م | ٮح | ō | احمر كمد | مغربىّ",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "ٮح | ٮه | ٮٮ | {z} | ٮح | ٮه | ٮه | {z} | اصفر مشبع | مغربىّ",
+   "margin": null,
+   "cells": [
+    "ٮح",
+    "ٮه",
+    "ٮٮ",
+    "{z}",
+    "ٮح",
+    "ٮه",
+    "ٮه",
+    "{z}",
+    "اصفر مشبع",
+    "مغربىّ"
+   ],
+   "plain": "ٮح | ٮه | ٮٮ | ō | ٮح | ٮه | ٮه | ō | اصفر مشبع | مغربىّ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "ٮح | ل | ٮٮ | له | نو | ل | نو | ل | اصفر مشبع | جنوب",
+   "margin": null,
+   "cells": [
+    "ٮح",
+    "ل",
+    "ٮٮ",
+    "له",
+    "نو",
+    "ل",
+    "نو",
+    "ل",
+    "اصفر مشبع",
+    "جنوب"
+   ],
+   "plain": "ٮح | ل | ٮٮ | له | نو | ل | نو | ل | اصفر مشبع | جنوب",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "⟨نز⟩{n:f} | {z} | ٮو | ك | ٮح | ل | ٮح | ك | اصفر | شمال",
+   "margin": null,
+   "cells": [
+    "⟨نز⟩{n:f}",
+    "{z}",
+    "ٮو",
+    "ك",
+    "ٮح",
+    "ل",
+    "ٮح",
+    "ك",
+    "اصفر",
+    "شمال"
+   ],
+   "plain": "⟨نز⟩ | ō | ٮو | ك | ٮح | ل | ٮح | ك | اصفر | شمال",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "س | {z} | ٮر | م | سٮ | ن | ٮط | {z} | اصفر تبنىّ | شمال",
+   "margin": null,
+   "cells": [
+    "س",
+    "{z}",
+    "ٮر",
+    "م",
+    "سٮ",
+    "ن",
+    "ٮط",
+    "{z}",
+    "اصفر تبنىّ",
+    "شمال"
+   ],
+   "plain": "س | ō | ٮر | م | سٮ | ن | ٮط | ō | اصفر تبنىّ | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "سط | {z} | س | ن | عه | ل | س | مه{n:h} | اصفر{n:i} | شمال",
+   "margin": null,
+   "cells": [
+    "سط",
+    "{z}",
+    "س",
+    "ن",
+    "عه",
+    "ل",
+    "س",
+    "مه{n:h}",
+    "اصفر{n:i}",
+    "شمال"
+   ],
+   "plain": "سط | ō | س | ن | عه | ل | س | مه | اصفر | شمال",
+   "note_marks": [
+    "h",
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "عه | ل | س | مه{n:k} | قز | ك | سح | ك | اصفر كدر | شمال",
+   "margin": null,
+   "cells": [
+    "عه",
+    "ل",
+    "س",
+    "مه{n:k}",
+    "قز",
+    "ك",
+    "سح",
+    "ك",
+    "اصفر كدر",
+    "شمال"
+   ],
+   "plain": "عه | ل | س | مه | قز | ك | سح | ك | اصفر كدر | شمال",
+   "note_marks": [
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "عح | {z} | نز | {z} | عه | ن | نح | {z} | اصفر مشبع | جنوب",
+   "margin": null,
+   "cells": [
+    "عح",
+    "{z}",
+    "نز",
+    "{z}",
+    "عه",
+    "ن",
+    "نح",
+    "{z}",
+    "اصفر مشبع",
+    "جنوب"
+   ],
+   "plain": "عح | ō | نز | ō | عه | ن | نح | ō | اصفر مشبع | جنوب",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "عز | يه | ند | يه | عز | مه | ٮو | {z} | احمر كمد | مغربىّ",
+   "margin": null,
+   "cells": [
+    "عز",
+    "يه",
+    "ند",
+    "يه",
+    "عز",
+    "مه",
+    "ٮو",
+    "{z}",
+    "احمر كمد",
+    "مغربىّ"
+   ],
+   "plain": "عز | يه | ند | يه | عز | مه | ٮو | ō | احمر كمد | مغربىّ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "عز | يه | ن | ى | عط | {z} | نب | {z} | اصفر | شمال",
+   "margin": null,
+   "cells": [
+    "عز",
+    "يه",
+    "ن",
+    "ى",
+    "عط",
+    "{z}",
+    "نب",
+    "{z}",
+    "اصفر",
+    "شمال"
+   ],
+   "plain": "عز | يه | ن | ى | عط | ō | نب | ō | اصفر | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F069-L18",
+   "n": 18,
+   "kind": "row",
+   "text": "فح | {z} | ٮز | {z} | صح | كه | ٮه | {z} | وردىّ | شمال",
+   "margin": null,
+   "cells": [
+    "فح",
+    "{z}",
+    "ٮز",
+    "{z}",
+    "صح",
+    "كه",
+    "ٮه",
+    "{z}",
+    "وردىّ",
+    "شمال"
+   ],
+   "plain": "فح | ō | ٮز | ō | صح | كه | ٮه | ō | وردىّ | شمال",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: a variant reading of the colour is اصفر, yellow (note a).",
+  "L08: the manuscript is unclear at the م of the degrees of the last longitude; the editor reads it after S (note e).",
+  "L11: the manuscript is unclear at the degrees of the first longitude; the editor reads them after S (note f).",
+  "L13: a variant reading of the latitude of the last boundary is س ٮه, with a line over the numerals (note h, printed at the foot of p. 62).",
+  "L13: a variant reading of the colour is ازرق, blue (note i, printed at the foot of p. 62).",
+  "L14: a variant reading of the latitude of the first boundary is س ٮه, with a line over the numerals (note k, printed at the foot of p. 62)."
+ ],
+ "unresolved": [
+  "L12: the notched form may also be read as a single ر whose head is split, ر, 7. Transcribed ٮر.",
+  "L18: the notched form may also be read as a single ز whose head is split, ز, 7; the last latitude of the row is «ٮه», 55 read with a ن. Transcribed ٮز."
+ ],
+ "observations": [
+  "The page is the left-hand page of the opening pp. 62-63: each of its lines continues the same line of p. 62 (frame 068), L01-L18, entries 893/894-927/928. Each row gives, from the right, the degrees and the minutes of the longitude and of the latitude of the first boundary, the same for the last boundary, the colour and the direction, in the columns of p. 39 (frame 045); the page has no heads.",
+  "The colours are «وردىّ», rose (L01, L04, L18); «اصفر مشبع», deep yellow (L02, L05, L09, L10, L15); «لازورد», lapis blue (L03); «اصفر», yellow (L06, L11, L13, L17); «احمر مشبع», deep red (L07); «احمر كمد», dull red (L08, L16); «اصفر تبنىّ», straw-yellow (L12); and «اصفر كدر», murky yellow (L14). The directions are «شمال», north (L02-L05, L07, L11-L14, L17, L18), «مغربىّ», western (L01, L06, L08, L09, L16), and «جنوب», south (L10, L15). «وردىّ», «تبنىّ» and «مغربىّ» end in a ى without dots with a shadda over it.",
+  "L01: the note mark a stands after the colour. L13: the mark h stands after the minutes of the last latitude, «مه», and the mark i after the colour. L14: the mark k stands after the minutes of the first latitude, «مه».",
+  "L08: the degrees of the last longitude are printed «⟨م⟩و»: the م between angle brackets, the note mark e, then the و. L11: the degrees of the first longitude, «⟨نز⟩», with the dots of the ن and of the ز, between angle brackets, followed by the note mark f. The editor supplies them from S where the manuscript is unclear (notes e and f). Transcribed with the brackets in the cells.",
+  "Letters printed without their dots in the numerals, transcribed so: a tooth without its dot in ٮو (L04, L11, the degrees of the first latitude; L16, the degrees of the last latitude), ٮد (L07, the degrees of the first latitude), ٮح (L08, L11, the degrees of the last latitude; L09, both longitudes; L10, the first longitude; L11, the last longitude) and ٮط (L12, the degrees of the last latitude), which read as a ن would give 56, 54, 58 and 59; مٮ (L04, the degrees of the last longitude), 42; سٮ (L12, the degrees of the last longitude), 62; and ٮٮ (L09, L10, the degrees of the first latitude), a tooth joined to a final ب, both without dots, which read with a ن give 52, as نب with the dots (L01, L02, L17). With their dots: نب (L01, L02, L17), with the dots of the ن and of the ب, 52; ند (L04, L16), 54; نا (L05, L08), 51; نو (L07, L10), 56; نز (L11, L15), 57; نح (L15), 58; عز (L16, L17), 77; قز (L14), 107; فح (L18), 88; ن, 50 (L01, L06, L07, L12, L13, L15, L17).",
+  "L12 and L18, the degrees of the first latitude, are printed with the notched form of frame 041 (L06): a short tooth without a dot joined to a ر, the two forming a notch at the top, the tooth at the right rising above the head of the ر, where the isolated ز of the numerals is a single rounded stroke (frame 047, L01, L04). L12 has no dot; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ٮر, which read as نز gives 57° 40′, beside the last latitude of the row, ٮط, which read as a ن gives 59. L18 has the dot of the ز above the head; transcribed ٮز, which read as نز gives 57 and read as يز 17.",
+  "L09, L10: the degrees of the first latitude are a tooth joined to a final ب, both without dots: in L09 a flat bowl of 55 px and a tall riser standing apart at its right end, 63 px together; in L10 a bowl with the tooth and the riser at its right end, 64 px, where the isolated ب is a bowl of about 50 px with a riser at each end (frame 047, L05). Read with a ن, 52° 0′ and 52° 35′, the first latitudes lie below the last latitudes of the same rows, «ٮه {z}» (L09), 55° 0′ read with a ن, and «نو ل» (L10), 56° 30′. The degrees of the last latitude of L09 and L18, «ٮه», read with a ن give 55.",
+  "The degrees printed with a final ح, مح (L06, the first latitude; L07, the last longitude), ٮح (L08-L11), سح (L14), عح and نح (L15), and صح and فح (L18), show no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.",
+  "«ٮه», a tooth without its dot joined to a final ه, gives the minutes of the first latitude in L08, the minutes of both longitudes and the degrees of the last latitude in L09 and the degrees of the last latitude in L18. The isolated ك, 20, is printed with the small inner stroke of the letter. L17, the minutes of the first latitude: «ى», 10, without dots.",
+  "L04, the degrees of the first latitude, «ٮو»: at the right of the tooth, level with the joining stroke, stands a small ring, 15 by 15 px, with a white counter; it is larger than the dots of the font, 9 by 8 px (L17), and has no bar like the sign for zero. Not transcribed; the editor's notes do not mention it.",
+  "Marks not transcribed: L16, a short oblique stroke, 13 by 5 px, at the left of the descending ر of «احمر», at the height of the line, with the form of a kasra but not its place; L11, a faint broken horizontal stroke, about 30 px long, at the left of «شمال», at mid-height of the letters.",
+  "A short rule stands above each pair of degrees and minutes in every row; in L01-L06 several of them are printed shorter or broken. The rules are not transcribed.",
+  "The editor's footnotes of the opening begin here, in three lines below a short rule at the left: notes a, e and f, whose marks stand on this page (L01, L08, L11), and notes b, c, d and g, whose marks stand on p. 62 (frame 068, L02, L04, L05, L12) and whose readings are recorded there; they continue at the foot of p. 62 with notes h-o. The page number «— ٦٣ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,711 @@
+{
+ "anchor": "AK07-J0080",
+ "jp2_index": 80,
+ "jp2_member": "b24872489_0080.jp2",
+ "jp2_sha256": "c951cb795e505b67336291b54861e01e3fc7c041ba295bf2dcc38b21dde5dbcd",
+ "reading_copy": "page_0080.jpg",
+ "reading_copy_sha256": "e44cab34ff96966a35123396f8cb274bdd057118ca6ad84fd449fa01d210e11b",
+ "printed_page": "48",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0080: Suter's commentary, p. 48: chapter 10 continued: the equation of the centre measured by the angle E'HE, its sine and tangent; the mean centrum m; the formula for tg E'HE with and without R = 60; the equation of the anomaly, sin RET, from the position of the planet on the epicycle (notes 1-2).",
+ "lines": [
+  {
+   "id": "AK07-J0080-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "wird von {sp:Batt.} die {i:Gleichung der Anomalie und des Centrums} oder auch nur {i:Gleichung}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wird von Batt. die Gleichung der Anomalie und des Centrums oder auch nur Gleichung",
+   "italic": [
+    "Gleichung der Anomalie und des Centrums",
+    "Gleichung"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "{i:des Centrums} genannt, sie ist auch die Differenz zwischen dem {i:mittlern} und {i:wahren}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des Centrums genannt, sie ist auch die Differenz zwischen dem mittlern und wahren",
+   "italic": [
+    "des Centrums",
+    "mittlern",
+    "wahren"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "{i:Apogeum} des Epizykels. — Diese Gleichung wird durch den ∢ {i:E′HE} gemessen ; zieht",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Apogeum des Epizykels. — Diese Gleichung wird durch den ∢ E′HE gemessen ; zieht",
+   "italic": [
+    "Apogeum",
+    "E′HE"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "man {i:MS} und {i:EN} senkrecht auf die Verlängerung von {i:QHE′}, so hat man aus dem",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "man MS und EN senkrecht auf die Verlängerung von QHE′, so hat man aus dem",
+   "italic": [
+    "MS",
+    "EN",
+    "QHE′"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "rechtwinkligen Dreieck {i:ENH} :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "rechtwinkligen Dreieck ENH :",
+   "italic": [
+    "ENH"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L06",
+   "n": 6,
+   "kind": "centre",
+   "text": "sin {i:E′HE} = {fr:{i:EN}|{i:EH}}, oder tg {i:E′HE} = {fr:{i:EN}|{i:HN}}.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sin E′HE = (EN)/(EH), oder tg E′HE = (EN)/(HN).",
+   "italic": [
+    "E′HE",
+    "EN",
+    "EH",
+    "E′HE",
+    "EN",
+    "HN"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L07",
+   "n": 7,
+   "kind": "indent",
+   "text": "Es sei nun {i:m} = Bogen {i:AQ}, d. h. die Differenz zwischen der mittlern Länge des",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Es sei nun m = Bogen AQ, d. h. die Differenz zwischen der mittlern Länge des",
+   "italic": [
+    "m",
+    "AQ"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "Planeten und derjenigen des Apogeums des exzentrischen Kreises, welcher Bogen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Planeten und derjenigen des Apogeums des exzentrischen Kreises, welcher Bogen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "durch den ∢ {i:AE′Q} gemessen wird, und von den Arabern das {i:Centrum} ({i:al-markaz})",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "durch den ∢ AE′Q gemessen wird, und von den Arabern das Centrum (al-markaz)",
+   "italic": [
+    "AE′Q",
+    "Centrum",
+    "al-markaz"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "genannt wurde, weil er aus dem Centrum des {i:Aequans} gemessen gedacht wird ; ferner",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "genannt wurde, weil er aus dem Centrum des Aequans gemessen gedacht wird ; ferner",
+   "italic": [
+    "Aequans"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "sei {i:e} die Exzentrizität {i:EM} = {i:E′M}, {i:ρ} = {i:HM} = Radius des Deferens, so findet man",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sei e die Exzentrizität EM = E′M, ρ = HM = Radius des Deferens, so findet man",
+   "italic": [
+    "e",
+    "EM",
+    "E′M",
+    "ρ",
+    "HM"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "leicht :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "leicht :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L13",
+   "n": 13,
+   "kind": "centre",
+   "text": "tg aeq. centri = tg {i:E′HE} = {fr:2{i:e} sin {i:m}|{rt:{i:ρ}{sup:2} − ({fr:{i:e} sin {i:m}|{i:R}}){sup:2}} + {fr:{i:e} cos {i:m}|{i:R}}}{sup:1}),",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "tg aeq. centri = tg E′HE = (2e sin m)/(√(ρ2 − ((e sin m)/(R))2) + (e cos m)/(R))1),",
+   "italic": [
+    "E′HE",
+    "e",
+    "m",
+    "ρ",
+    "e",
+    "m",
+    "R",
+    "e",
+    "m",
+    "R"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "oder {i:R} = 1, und {fr:{i:e}|{i:ρ}} = {i:e}{sub:1} gesetzt :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "oder R = 1, und (e)/(ρ) = e1 gesetzt :",
+   "italic": [
+    "R",
+    "e",
+    "ρ",
+    "e"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L15",
+   "n": 15,
+   "kind": "centre",
+   "text": "tg {i:E′HE} = {fr:2{i:e}{sub:1} sin {i:m}|{rt:1 − ({i:e}{sub:1} sin {i:m}){sup:2}} + {i:e}{sub:1} cos {i:m}}{sup:2}).",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "tg E′HE = (2e1 sin m)/(√(1 − (e1 sin m)2) + e1 cos m)2).",
+   "italic": [
+    "E′HE",
+    "e",
+    "m",
+    "e",
+    "m",
+    "e",
+    "m"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L16",
+   "n": 16,
+   "kind": "indent",
+   "text": "Die {i:Gleichung der Anomalie und des Centrums} mit Hilfe dieser Formeln bestimmt",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Die Gleichung der Anomalie und des Centrums mit Hilfe dieser Formeln bestimmt",
+   "italic": [
+    "Gleichung der Anomalie und des Centrums"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "ergibt die Werte, die bei {sp:Batt.} in den Tafeln der Gleichungen der Planeten (ed.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ergibt die Werte, die bei Batt. in den Tafeln der Gleichungen der Planeten (ed.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "{sp:Nallino} II, 108—137) in Kolonne III stehen. Es muss aber an der Länge der Pla-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Nallino II, 108—137) in Kolonne III stehen. Es muss aber an der Länge der Pla-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "neten noch eine andere Korrektur vorgenommen werden, die abhängig ist von der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "neten noch eine andere Korrektur vorgenommen werden, die abhängig ist von der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "Stellung des Planeten im Epizykel. Der Planet sei in {i:P} (s. folg. Fig.), es wird der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Stellung des Planeten im Epizykel. Der Planet sei in P (s. folg. Fig.), es wird der",
+   "italic": [
+    "P"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "Bogen {i:RT}, oder der ∢ {i:RET} gesucht ; zieht man {i:PS} senkrecht auf {i:ER}, so ist :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Bogen RT, oder der ∢ RET gesucht ; zieht man PS senkrecht auf ER, so ist :",
+   "italic": [
+    "RT",
+    "RET",
+    "PS",
+    "ER"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L22",
+   "n": 22,
+   "kind": "centre",
+   "text": "sin {i:RET} = {fr:{i:PS}|{i:EP}} = {fr:{i:PS}|Geozentr. Dist. d. Plan.},",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sin RET = (PS)/(EP) = (PS)/(Geozentr. Dist. d. Plan.),",
+   "italic": [
+    "RET",
+    "PS",
+    "EP",
+    "PS"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "aber {i:PS} = {i:PH} · sin {i:RHP} = {i:r} sin {i:ψ}, wo {i:r} der Radius des Epizykels, in Dezimalteilen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "aber PS = PH · sin RHP = r sin ψ, wo r der Radius des Epizykels, in Dezimalteilen",
+   "italic": [
+    "PS",
+    "PH",
+    "RHP",
+    "r",
+    "ψ",
+    "r"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "des Radius des Deferens oder des Aequans ({i:MH} = 1) ausgedrückt ist, und {i:ψ} den Winkel",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des Radius des Deferens oder des Aequans (MH = 1) ausgedrückt ist, und ψ den Winkel",
+   "italic": [
+    "MH",
+    "ψ"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "(Bogen) bedeutet, den der Planet vom Apogeum des Epizykels an bis zum Ort {i:P}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(Bogen) bedeutet, den der Planet vom Apogeum des Epizykels an bis zum Ort P",
+   "italic": [
+    "P"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "beschrieben hat, d. h. die {i:Anomalie}. Die Distanz {i:EP} des Planeten von der Erde ist",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "beschrieben hat, d. h. die Anomalie. Die Distanz EP des Planeten von der Erde ist",
+   "italic": [
+    "Anomalie",
+    "EP"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "aber = {rt:({i:EH} + {i:HS}){sup:2} + {i:PS}{sup:2}} = {rt:(Dist. centri epic. + {i:r} cos {i:ψ}){sup:2} + ({i:r} sin {i:ψ}){sup:2}}, also",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "aber = √((EH + HS)2 + PS2) = √((Dist. centri epic. + r cos ψ)2 + (r sin ψ)2), also",
+   "italic": [
+    "EH",
+    "HS",
+    "PS",
+    "r",
+    "ψ",
+    "r",
+    "ψ"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L28",
+   "n": 28,
+   "kind": "centre",
+   "text": "sin {i:RET} = {fr:{i:r} sin {i:ψ}|{rt:(Dist. centri epic. + {i:r} cos {i:ψ}){sup:2} + ({i:r} sin {i:ψ}){sup:2}}}.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sin RET = (r sin ψ)/(√((Dist. centri epic. + r cos ψ)2 + (r sin ψ)2)).",
+   "italic": [
+    "RET",
+    "r",
+    "ψ",
+    "r",
+    "ψ",
+    "r",
+    "ψ"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "Dieser Winkel wird die {i:Gleichung der Anomalie} genannt, er ist der Unterschied zwischen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Dieser Winkel wird die Gleichung der Anomalie genannt, er ist der Unterschied zwischen",
+   "italic": [
+    "Gleichung der Anomalie"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "der wahren Länge des Centrums {i:H} des Epizykels und der wahren Länge des Planeten",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der wahren Länge des Centrums H des Epizykels und der wahren Länge des Planeten",
+   "italic": [
+    "H"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "in der Ekliptik. Durch die Tangens ausgedrückt, findet man einfacher:",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "in der Ekliptik. Durch die Tangens ausgedrückt, findet man einfacher:",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) {i:R} bedeutet hier 60{sup:p}, da die trigonom. Funktionen der Araber sich immer auf einen Kreis",
+   "margin": null,
+   "plain": "1) R bedeutet hier 60p, da die trigonom. Funktionen der Araber sich immer auf einen Kreis",
+   "italic": [
+    "R"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "mit dem Radius 60 beziehen ; in der zweiten Formel ist der Radius des Kreises = 1 statt = 60",
+   "margin": null,
+   "plain": "mit dem Radius 60 beziehen ; in der zweiten Formel ist der Radius des Kreises = 1 statt = 60",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "angenommen.",
+   "margin": null,
+   "plain": "angenommen.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-N04",
+   "n": 4,
+   "kind": "note",
+   "text": "{sup:2}) Wollte man den ∢ {i:E′HE} mit Hilfe des Sinus bestimmen, was sehr wahrscheinlich {sp:Batt.}",
+   "margin": null,
+   "plain": "2) Wollte man den ∢ E′HE mit Hilfe des Sinus bestimmen, was sehr wahrscheinlich Batt.",
+   "italic": [
+    "E′HE"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0080-N05",
+   "n": 5,
+   "kind": "note",
+   "text": "getan hat, so würde die Formel wesentlich komplizierter (vergl. {sp:Batt.} ed. {sp:Nallino}, II, 240).",
+   "margin": null,
+   "plain": "getan hat, so würde die Formel wesentlich komplizierter (vergl. Batt. ed. Nallino, II, 240).",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt.",
+    "Nallino"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «48» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «wird von Batt.» continues «die Differenz zwischen beiden, der mittlern und der wahren Länge, d. h. der Bogen RQ,» at the end of p. 47 (JP2 0079, L39).",
+  "The formulas of L06, L13, L15, L22 and L28 are displayed, each in a line of its own, centred; their fractions are built up, written {fr:NUMERATOR|DENOMINATOR}, and the square roots are printed with the radical sign and a bar over the radicand, written {rt:…}. In L13 the bar covers «ρ² − (e sin m / R)²» and «+ e cos m / R» stands after it; in L15 it covers «1 − (e₁ sin m)²»; L14 and L27 have a fraction and the roots within the line. L13 and L15 end with the note numbers, «1)» with a comma after it and «2)» with a full stop. The letters of the figures, e, m, ρ, r, ψ and R are italic, «sin», «cos», «tg», «aeq. centri», «Dist. centri epic.» and «Geozentr. Dist. d. Plan.» upright; the minus sign is printed as a short dash, transcribed «−».",
+  "L03-L15. Checked: with M the centre of the deferent of radius ρ, E′ and E on the line of the apsides at the distance e on either side of M, E′ on the side of the apogee, and m = ∢ AE′Q the mean centrum measured at E′, the perpendicular from E to the line H E′ produced (L04) is E N = 2e sin m, and H N = H E′ + E′ N = (√(ρ² − e² sin² m) − e cos m) + 2e cos m = √(ρ² − e² sin² m) + e cos m, so that tg E′HE = E N : H N = 2e sin m : (√(ρ² − e² sin² m) + e cos m); this is the formula of L13 with the sine and cosine of a circle of radius R (note 1), and with R = 1 and e₁ = e : ρ, dividing above and below by ρ, that of L15.",
+  "L20-L28. Checked: S is the foot of the perpendicular from P to the line E H R; with the anomaly ψ = ∢ RHP, H S = r cos ψ and P S = r sin ψ, so that E P² = (E H + H S)² + P S², as in L27, and sin RET = P S : E P, as in L28.",
+  "L15: the subscript 1 of the last e₁ is printed broken, like a comma; a speck above the line between «sin» and «m» in the radicand. L31: the colon after «einfacher» is set close to the word (3 px), where the other colons and semicolons of the page stand after the thin space of the edition (8-14 px measured).",
+  "Spaced type, marked {sp:}: «Batt.», «Nallino». Italics: «Gleichung der Anomalie und des Centrums», «Gleichung des Centrums», «mittlern» and «wahren Apogeum», «Centrum» (L09), «al-markaz», «Aequans» (L10; upright in L24), «Anomalie» (L26), «Gleichung der Anomalie», and the letters. N01: «60p», the p raised.",
+  "L10: corrected in the additions, p. 235 (JP2 0267, L15-L17): «weil er die Lage des Centrums des Epizykels in Bezug auf das Apogeum des Exzenters angibt»."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

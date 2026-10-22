@@ -1,0 +1,19 @@
+{
+ "session": "AK-P01",
+ "mode": "evidence and attribution audit only; no source-text production",
+ "owned_range": "PDF001-PDF034 of 50_PRACTICAL_ASTRONOMY_CHARETTE_SCHMIDL.pdf (printed pp. 101-134) and the PAL record of Ayasofya 4830",
+ "study_sha256": "E3FF31E617B84379FCF961310E4914BB6CF40E8E0F5117507AB24D1367626E18",
+ "pal_record_sha256": "5F1D6B016F454E6322B43A0C1F24736473804BDB66196E99F6A9E95A50B2FC88",
+ "canonical_source_checkpoint_sha256": "d2920c90a4fb9f53094d6a711d031bd2346045dbaabff7020965b38c6bf00d9b",
+ "canonical_source_checkpoint_note": "SHA-256 over the return files in name order (file name, a NUL byte, the bytes), without checkpoint.json and SHA256SUMS",
+ "last_fully_transcribed_source_unit": "NONE",
+ "last_fully_verified_source_unit": "PDF034",
+ "first_untouched_source_unit": "NONE",
+ "owned_units_total": 35,
+ "owned_units_disposed": 35,
+ "unresolved_count": 7,
+ "figure_count": 0,
+ "formula_or_table_count": 0,
+ "berlin_images_acquired": "canvases 0161-0202 = ff. 77r-97v (42 files)",
+ "date": "2026-10-22"
+}

@@ -1,0 +1,4 @@
+@page 11 -
+@kind editorial
+% Frame 011: the editors' preface, «مقدمة», first page.
+@withheld the editors' preface (مقدمة), first page: a heading and about 20 lines

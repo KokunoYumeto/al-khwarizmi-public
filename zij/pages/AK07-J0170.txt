@@ -1,0 +1,67 @@
+@page 170 138
+@lang la
+% JP2 0170: Tab. 27, p. 138: the equations of Saturn, with its corrected apogee, first station and latitude, for the
+% arguments 0s 1° to 1s 0° (and 11s 29° to 11s 0°), with the apparatus (notes 1-5 and a-γ).
+@ml C 56{sup:r}, O 113{sup:v},
+@c {b:Coaequatio Saturni} (N) — {b:Tadil zohal. Elmukatil. Keiwen} (O)
+@ml M{sub:1} 86{sup:r},
+@c {b:Examinatio Saturni. Elmukatil. Keiwen} (CM)
+@ml M{sub:2} 86{sup:v},
+@c {b:Locus draconis eius 3. S. 13 Gr. 12 Min.}{sup:1})
+@tw size=footnotesize span=1.14 0.85 0.85 0.85 0.85 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.7 0.7 0.75 0.7 0.75 0.7 0.75 0.75
+@ml M{sub:3} 87,
+@t Viae numerorum (O) |  |  |  | Sublimatio{sup:4}) |  |  | Exami- |  | Exami- |  | Statio |  |  | Latitudo Saturni |  |  |  |
+@ml N 25{sup:v}.
+@t Catar eladed (CM) |  |  |  | examinata (O) |  |  | natio |  | natio |  | prima Saturni |  |  | accedentis |  |  |  |
+@t Augmen- |  | Diminutio |  | Sublimatio{sup:4}) |  |  | argumenti |  | centri |  |  |  |  | {b:prima} |  | {b:secunda} |  |
+@t tum{sup:2}) |  | proprietatum |  | Saturni |  |  | Saturni{sup:5}) |  | Saturni |  |  |  |  |  |  |  |  |
+@t proprietatum |  | omnium{sup:3}) |  | definita (CM) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+@t omnium |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+@t {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sig.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 0 | 1 | 11 | 29 | 8 | 4 | 53 | 0 | 5 | 0 | 8 | 3 | 22 | 44 | 1 | 33{sup:t}) | 0 | 5 | 14{sup:{i:α}})
+@t 0 | 2 | 11 | 28 | 8 | 4 | 50 | 0 | 11 | 0 | 17 | 3 | 22 | 44 | 1 | 32 | 0 | 10 | 28
+@t 0 | 3 | 11 | 27 | 8 | 4 | 47 | 0 | 16 | 0 | 26 | 3 | 22 | 44 | 1 | 32 | 0 | 15 | 42
+@t 0 | 4 | 11 | 26 | 8 | 4 | 44 | 0 | 22 | 0 | 35 | 3 | 22 | 45 | 1 | 31 | 0 | 20 | 56
+@t 0 | 5 | 11 | 25 | 8 | 4 | 42 | 0 | 27 | 0 | 44 | 3 | 22 | 45 | 1 | 31{sup:u}) | 0 | 26 | 9
+@t 0 | 6 | 11 | 24 | 8 | 4 | 39 | 0 | 33{sup:f}) | 0 | 53 | 3 | 22 | 45 | 1 | 30 | 0 | 31 | 21
+@t 0 | 7 | 11 | 23 | 8 | 4 | 36 | 0 | 38{sup:g}) | 1 | 2 | 3 | 22 | 46 | 1 | 30 | 0 | 36 | 33
+@t 0 | 8 | 11 | 22 | 8 | 4 | 34 | 0 | 43 | 1 | 10 | 3 | 22 | 46 | 1 | 29 | 0 | 41 | 45
+@t 0 | 9 | 11 | 21 | 8 | 4 | 31 | 0 | 48{sup:h}) | 1 | 19 | 3 | 22 | 46 | 1 | 29 | 0 | 46 | 56
+@t 0 | 10 | 11 | 20 | 8 | 4 | 28{sup:d}) | 0 | 54 | 1 | 28{sup:o}) | 3 | 22 | 46 | 1 | 28 | 0 | 52 | 6
+@t 0 | 11 | 11 | 19 | 8 | 4 | 26 | 0 | 59{sup:i}) | 1 | 37{sup:p}) | 3 | 22 | 47 | 1 | 28 | 0 | 57 | 15
+@t 0 | 12 | 11 | 18 | 8 | 4 | 23 | 1 | 5{sup:k}) | 1 | 46 | 3 | 22 | 47 | 1 | 27 | 1 | 2 | 22
+@t 0 | 13 | 11 | 17 | 8 | 4 | 20 | 1 | 10 | 1 | 55 | 3 | 22 | 47 | 1 | 27 | 1 | 7 | 29
+@t 0 | 14 | 11 | 16 | 8 | 4{sup:c}) | 18 | 1 | 15 | 2 | 4 | 3 | 22 | 48 | 1 | 26 | 1 | 12 | 35{sup:{i:β}})
+@t 0 | 15 | 11 | 15 | 8 | 4 | 15 | 1 | 21 | 2 | 13 | 3 | 22 | 48 | 1 | 26 | 1 | 17{sup:y}) | 39
+@t 0 | 16 | 11 | 14 | 8 | 4 | 12 | 1 | 26{sup:l}) | 2 | 21{sup:q}) | 3 | 22 | 48 | 1 | 25 | 1 | 22 | 41
+@t 0 | 17 | 11 | 13 | 8 | 4 | 10 | 1 | 31 | 2 | 29 | 3 | 22 | 49 | 1 | 25 | 1 | 27 | 43
+@t 0 | 18 | 11 | 12 | 8 | 4 | 7 | 1 | 36 | 2 | 38 | 3 | 22 | 49 | 1 | 25 | 1 | 32 | 42
+@t 0 | 19 | 11 | 11 | 8 | 4 | 5 | 1 | 41 | 2 | 46 | 3 | 22 | 50 | 1 | 25 | 1 | 37 | 40
+@t 0 | 20 | 11 | 10 | 8 | 4 | 2 | 1 | 47 | 2 | 54 | 3 | 22 | 50 | 1 | 25 | 1 | 42 | 36
+@t 0 | 21 | 11 | 9 | 8 | 3 | 59 | 1 | 52 | 3 | 3 | 3 | 22 | 51 | 1 | 25 | 1 | 47{sup:z}) | 31
+@t 0 | 22 | 11 | 8 | 8 | 3 | 57 | 1 | 57 | 3 | 11 | 3 | 22 | 51 | 1 | 25 | 1 | 52 | 23
+@t 0 | 23 | 11 | 7 | 8 | 3 | 54 | 2 | 2 | 3 | 19 | 3 | 22 | 52 | 1 | 25{sup:v}) | 1 | 57 | 13
+@t 0 | 24 | 11 | 6 | 8 | 3 | 51 | 2 | 7 | 3 | 28{sup:r}) | 3 | 22 | 52 | 1 | 25{sup:v}) | 2{sup:x}) | 2 | 1
+@t 0 | 25 | 11 | 5 | 8 | 3 | 49 | 2 | 12 | 3 | 36{sup:s}) | 3 | 22 | 53 | 1 | 24 | 2 | 6 | 47
+@t 0 | 26 | 11 | 4 | 8 | 3 | 47 | 2 | 17 | 3 | 44 | 3 | 22 | 53 | 1 | 24 | 2 | 11 | 31
+@t 0 | 27 | 11 | 3 | 8 | 3 | 44 | 2 | 22 | 3 | 53 | 3 | 22 | 54 | 1 | 24 | 2 | 16 | 12{sup:{i:γ}})
+@t 0 | 28 | 11 | 2 | 8 | 3 | 42 | 2 | 27 | 4{sup:n}) | 1 | 3 | 22 | 54 | 1 | 24 | 2 | 20 | 50
+@t 0 | 29 | 11 | 1 | 8 | 3 | 39 | 2 | 32{sup:m}) | 4 | 9 | 3 | 22 | 55 | 1 | 24 | 2 | 25 | 27
+@t 1{sup:a}) | 0{sup:b}) | 11 | 0 | 8 | 3 | 37{sup:e}) | 2 | 37 | 4{sup:n}) | 18 | 3 | 22 | 56 | 1 | 24 | 2{sup:x}) | 30 | 0
+@n {sup:1}) {i:Haec verba inferiore marg. scripta sunt in C et O} — {sup:2}) Augmentum] OM{sub:2, 3} N, argumentum CM{sub:1}
+@n — {sup:3}) omnium] CMN, {i:om.} O — {sup:4}) Sublimatio M{sub:1, 2}, Sullimatio CON — {sup:5}) Examinatio . . . . Saturni] CM,
+@n examinatio ipsius heleza Saturni O.
+@n {sup:a}) 1] M{sub:1, 2} N, 0 CO — {sup:b}) 0] O, {i:corr. ex} 30 N, 30 M{sub:1, 2} C — {sup:c}) 4], {i:om.} C — {sup:d}) 28] 27 C — {sup:e}) 37]
+@n C, 39 O, 36 M{sub:2} — {sup:f}) 33] O, 23 C M{sub:1, 2, 3} — {sup:g}) 38] COM{sub:1, 3}, 28 M{sub:2} — {sup:h}) 48] COM{sub:3}, 28 M{sub:1}, 47 M{sub:2} —
+@n {sup:i}) 59] 65 M{sub:1} — {sup:k}) 5] COM{sub:2, 3}, 0 M{sub:1} — {sup:l}) 26] 27 C — {sup:m}) 32] {i:corr. in} 22 M{sub:1} – {sup:n})—{sup:n}) 4] 3 M{sub:1, 3} — {sup:o}) 28]
+@n 27 M{sub:1, 2} — {sup:p}) 37] 36 M{sub:1} — {sup:q}) 21] 22 C — {sup:r}) 28] 38 C — {sup:s}) 36] 37 C — {sup:t}) 33] 32 O — {sup:u}) 31] 21 M{sub:2} —
+@n {sup:v}) 25] 24 O — {sup:x})—{sup:x}) 2] 1 O — {sup:y}) 17] 27 M{sub:1} — {sup:z}) 47] 46 O — {sup:{i:α}}) 14) 17 M{sub:2} — {sup:{i:β}}) 35] 25 M{sub:2} — {sup:{i:γ}}) 12] 11 O.
+@obs The page number «138» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 27», in bold sans serif, underlined. The page has no signature. The titles (L01-L03), in bold, the sigla in roman; L03, the place of Saturn's node, «Locus draconis eius 3. S. 13 Gr. 12 Min.», in smaller bold type, with note 1. The folios of the manuscripts stand at the left of the titles in three lines, «C 56r, O 113v,», «M1 86r, M2 86v, M3 87,» and «N 25v.», the letters raised and the figures of M sunk; here as left margin notes. «M3 87» has no letter after the folio number.
+@obs The table: double vertical rules divide seven groups of columns. «Viae numerorum (O) Catar eladed (CM)» over the four columns of the arguments, divided below a rule into «Augmentum2) proprietatum omnium» and «Diminutio proprietatum omnium3)» in smaller type; «Sublimatio4) examinata (O) Sublimatio4) Saturni definita (CM)»; «Examinatio argumenti Saturni5)», «Examinatio» hyphenated «Exami-natio» as in the next head, «Examinatio centri Saturni»; «Statio prima Saturni»; «Latitudo Saturni accedentis» over five columns, divided below a rule into «prima» and «secunda» in smaller bold type. Here each head is set from the top, one printed line to a line (L04-L09), the cells separated by our «|»; a head followed by empty cells spans their columns. L10, the units, in bold.
+@obs L03 and note 1: the node of Saturn, three signs 13° 12′, is the value of chapter 19 of the text (p. 15, JP2 0047). Notes a and b: the last argument, 1s 0°, that is 30°, is the reading of N, corrected there from 30; C has 0s 30°, the same argument, O 0s 0° and M1, M2 1s 30°.
+@obs L11-L40. Checked: each value of the Sublimatio is 8s 4° 55′, the apogee of Saturn (text, chapter 18, p. 14, JP2 0046), less half the Examinatio argumenti of the same row, as Suter describes it (p. 50, JP2 0082, L05-L08); a half minute is counted as a whole, except at 24°, where 8s 3° 51′ stands for 8s 3° 51½′. The Examinatio argumenti agrees to within 0.6′ in every row with the equation of the anomaly of an epicycle, arc tan (r sin x : (60 + r cos x)) as on p. 49 (JP2 0081, L01), for r = 5.95, the radius that fits the thirty values best. The Latitudo secunda is 5° · sin x to within 0.7″ in every row, the greatest latitude of Saturn 5° (p. 62, JP2 0094, L14); the formula sin lat. sec. = sin argum. × sin lat. max. given there (L11) yields values up to 9″ smaller, 2° 29′ 51″ at 30° for the 2° 30′ 0″ of the table.
+@obs L11-L40, the other columns, compared from row to row: the Examinatio centri increases by 9′ from 1° to 7° and then by 8′ or 9′; its values lie up to 2.6′ below 8° 36′ · sin x, except at 30°, where 4° 18′ is 8° 36′ · sin 30°. The Statio prima increases steadily from 3s 22° 44′ to 3s 22° 56′, by 0′ or 1′ a degree. The Latitudo prima decreases from 1° 33′ by 1′ every second degree to 1° 25′ at 16°, stays at 1° 25′ to 24° and is 1° 24′ from 25° on; Suter takes these figures for the ratio r′ : r (p. 62, JP2 0094, L16-L25).
+@obs Notes on the readings. Checked: the editor's readings agree with the rules above where the variants depart from them: the Sublimatio 8s 3° 37′ at 30° (note e, C), 3° 36½′ computed; the Examinatio argumenti 1° 26′ at 16° (note l, against C's 27), 85.8′ computed; the Examinatio centri 1° 37′ (note p) and 2° 21′ and 3° 36′ (notes q and s, against C's 22 and 37), with steps of 8′ or 9′; the Latitudo secunda in notes y, z, α, β and γ, 1° 17′ 38.7″, 1° 47′ 30.6″, 0° 5′ 14.1″, 1° 12′ 34.6″ and 2° 16′ 11.8″ computed. At 6° (note f) the computation gives 32.4′, against O's 33 and the 23 of C and M; at 9° (note h) the Sublimatio 8s 4° 31′ = 8s 4° 55′ − 24′ requires 48, against M2's 47. At 1° (note t) O's 32 would break the pairs of equal values of the Latitudo prima.
+@obs N06: the dash before «n)—n)» is shorter than the others, 29 px against 34-43 px, and is transcribed as an en dash; the dashes before k) (N06), u) (N07) and β) (N08) are each printed in two pieces with a gap of 1-3 px, and are transcribed as one long dash. N01, «Haec verba . . . . in C et O» in italics; italics also «om.», «corr. ex» and «corr. in» and the Greek letters α, β, γ of the notes. N02: the ellipsis «. . . .» of the lemma as printed. N04, «4], om. C», and N08, «14) 17 M2»: see the critical notes.
+@critical AK07-CN115 | wrong bracket | N08 | {sup:{i:α}}) 14) 17 M{sub:2} | {sup:{i:α}}) 14] 17 M{sub:2} | the lemma of a note is closed by a square bracket, as «z) 47] 46 O» and «β) 35] 25 M2» beside it; a parenthesis is printed after 14 | high | none
+@critical AK07-CN116 | stray comma | N04 | {sup:c}) 4], {i:om.} C | {sup:c}) 4] {i:om.} C | «om.» follows the lemma directly, as «58] om. C» (p. 121, JP2 0153) and «1] om. O» (p. 110, JP2 0142); a comma is printed after the bracket | high | none

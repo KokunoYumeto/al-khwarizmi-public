@@ -1,0 +1,44 @@
+@page 8 2
+% Frame 008, printed p. 2: the figures of the letters, with a second gap; the book of algebra and almucabalah; one as the
+% root and the beginning of all number; the nine letters, and the tens and hundreds put in the place of the unit.
+% One footnote.
+et octaue. Set in hoc nullum impedimentum est. Sunt enim note
+signantes numerum, et he sunt figure in quibus est illa diuer-
+sitas .... (1). Et iam patefeci in libro algebre et almucabalah,
+idest restaurationis et oppositionis, quod uniuersus numerus
+sit compositus, et quod uniuersus numerus componatur super
+unum. Vnum ergo inuenitur in uniuerso numero ; et hoc
+est quod in alio libro arithmetice dicitur. Quia unum est
+radix uniuersi numeri, et est extra numerum. Radix numeri
+est, quare per eum inuenitur omnis numerus. Extra nume-
+rum uero est, quare inuenitur per se, idest absque alio ali-
+quo numero. Reliquus autem numerus sine uno inueniri non
+potest. Cum enim unum dicis, inuentione sui non indiget alio
+numero. Reliquus autem numerus indiget indiget ({i:sic}) uno :
+quare non potes dicere duo uel tria, nisi precedat unum. Ni-
+chil aliud est ergo numerus, nisi unitatum collectio; et hoc
+quod diximus non potes dicere duo uel tria,nisi precedat unum:
+@m car. 102 {i:verso}.
+non de uoce diximus,ut ita dicam,set de re.Non enim | possunt
+esse duo uel tria, si unum auferatur. Vnum uero potest esse
+absque secundo uel tercio. Igitur nichil aliud sunt duo, nisi
+unius duplicitas uel geminatio: et similiter tria nichil aliud
+sunt, nisi eiusdem unitatis triplicatio: sic de reliquo numero
+intellige. Set nunc redeamus ad librum.
+@p Inueni,inquid algorizmi, omne quod potest dici ex numero,
+et esse quicquid excedit unum usque in .{sc:ix}., idest quod est
+inter .{sc:ix}. et unum, idest duplicatur unum et fiunt duo; et
+triplicatur idem unum, fiuntque tria, et sic in ceteris usque
+in .{sc:ix}. De inde ponuntur .{sc:x}. in loco unius, et duplicantur
+.{sc:x}. ac triplicantur, quemadmodum factum est de uno, fiunt-
+que ex eorum duplicatione .{sc:xx}., ex triplicatione .{sc:xxx}., et
+ita usque ad .{sc:xc}. Post hec redeunt .{sc:c}. in loco unius , et
+@n (1) La lacuna indicata con quattro punti nella linea terza della presente pa-
+@n gina trovasi anche nel sopraccitato Codice {i:Ii}. 6. 5. (carta 102 {i:recto}, lin. 22).
+@obs The page number «( 2 )» stands at the head of the page, centred. The page has no signature.
+@obs L03: the four points after «diuersitas» mark the place of the figures that show the differences between the forms of the letters, which the edition does not print; the editor's footnote (1) says that the gap is in the manuscript too, at fol. 102 recto, line 22.
+@obs L13: «indiget indiget (sic)»: the edition prints the word twice and marks the repetition with «(sic)» in italics, as the manuscript has it.
+@obs L17: the vertical bar between «enim» and «possunt» marks the beginning of fol. 102 verso of the manuscript, which the note in the left margin, «car. 102 verso.», names (on the left-hand pages the folio notes stand in the left margin); transcribed as a margin note.
+@obs L23: the text spells the name «algorizmi» here, where p. 1 has «algoritmi» (frame 007, L05, L16).
+@obs Spaces at punctuation: L16, L17 and L23 are set tightly, with word spaces of 13 to 19 px. After «tria,» (L16), «diximus,», «dicam,» and «re.» (L17) and «Inueni,» (L23) the gap before the next word is 4 to 8 px, the spacing of the punctuation itself, and no space is transcribed; before the colon of L16 the gap is 6 px. Elsewhere the page sets a space before «;» (L06), «:» (L13) and «,» (L30), as transcribed.
+@copy A reader's marks in pencil: L03, a vertical stroke through the final «e» of «algebre»; L09, a stroke under «quare»; L10, a small curve between «per» and «se»; L27, an oblique stroke after «.ix.»; L30, an oblique stroke after «.xc.». In the left margin, in ink or dark pencil: «quia» beside L09, and the sign «§» beside L27 and L30. Not part of the edition.

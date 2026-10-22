@@ -1,0 +1,41 @@
+@page 39 ٣٣
+% Frame 039, printed p. 33: the heading of the seventh clime, «الإقليم السابع عرضه مح», its latitude 48°, and of its
+% cities; entries 475-487: مارٮاٮوس, a name that the editor supplies but for its last letter, at the mountain, Arāṭī,
+% Mānāyālūs, Frāṭā, Abīrdabīn, Warqīs, an entry that is the word «مدينة» alone, Arzamī, Aslīthā, Chalcedon on a gulf,
+% Heraclea and Aṭūrmā. Three lines of the editor's footnotes.
+@h * الإقليم السابع عرضه {ov:مح} *
+@h * المدن الّتى فى الإقليم السابع *
+@r (٤٧٥) | [٤٣٧] | مارٮاٮوس{n:a} | ٮط | ن | مو | ل
+@r (٤٧٦) | [٤٤١] | ⟨ماڡلو⟩ٮ{n:b} مع الجبل | لٮ | ك | مر | ل
+@r (٤٧٧) | [٤٣٨] | اراطى | لٮ | ل | مز | {z}
+@r (٤٧٨) | [٤٤٢] | مدينة مانايالوس | لد | يه | مه | ى
+@r (٤٧٩) | [٤٣٩] | مدينة فراطا | له | {z} | مح | ٮه
+@r (٤٨٠) | [٤٤٣] | ابيردبين{n:c} | م | مه | مح | ك
+@r (٤٨١) | [٤٤٠] | ورقيس{n:d} | مٮ | {z} | مز | ٮه
+@r (٤٨٢) | [٤٤٤] | مدينة | مح | ك | مو | ل
+@r (٤٨٣) | [٤٤٥] | ارزمى | مد | ن | مو | ك
+@r (٤٨٤) | [٤٤٦] | اسليثا | مه | {z} | مح | ى
+@r (٤٨٥) | [٤٤٧] | حلڡدوں{n:e} على خليج | ن | ل | مو | {z}
+@r (٤٨٦) | [٤٤٨] | هرقله | نج | كه | مو | له
+@r (٤٨٧) | [٤٤٩] | اطورما{n:f} | ند | ك | مه | ى
+@ednotes a b c d e f 3
+@obs L01-L02: the page begins with the heading of the seventh clime and of its cities, set between small open stars, followed by its first cities, entries 475-487. The latitude of the clime, «مح», 48°, is printed with a line above the numeral, transcribed with {ov:…}; the ح has no dot in the bowl. In both headings the alif of الإقليم carries a hamza below; L02: «الّتى», with a shadda over the ل, and «فى» without dots on the ى.
+@obs All entries have numbers of Suhrāb: [٤٣٧], [٤٤١], [٤٣٨], [٤٤٢], [٤٣٩], [٤٤٣], [٤٤٠] (entries 475-481) and [٤٤٤]-[٤٤٩] (entries 482-487). Entries 478 and 479 begin with the word «مدينة»; entry 482 is the word alone.
+@obs L04: the name of entry 476 is printed «⟨ماڡلو⟩ٮ»: the editor supplies the first five letters between angle brackets (note b: from entries 879-880); after the closing bracket stands an isolated ب without its dot, followed by the note mark b. The loop of the ف or ق has no dots.
+@obs L03: «مارٮاٮوس»: neither the tooth before the first alif nor the tooth before the و has a dot; the form that the editor's note a gives from entry (2071) has the dot of the ن. Transcribed as printed.
+@obs L13: «حلڡدوں»: an initial ح without a dot; a ل; a loop without dots standing above the line, 17 px high, as the ق of «هرقله» (L14); a د, a و and a final ن without its dot. Transcribed as printed; the note mark e stands above the left end of the ن.
+@obs L09: «ورقيس»: the و and the ر touch below the line; the ق has its two dots and the ي its two dots below.
+@obs Signs in the names, transcribed as printed: L05: «اراطى» and L11: «ارزمى» end in a ى without dots.
+@obs Letters printed without their dots in the numerals, transcribed so: ٮط (L03, the degrees of the longitude), the tooth without its dot; لٮ (L04, L05) and مٮ (L09), the degrees of the longitude, with a final ب without its dot, 32 and 42. With their dots: ن (L03, L11, the minutes of the longitude; L13, the degrees of the longitude); نج (L14), the ن with its dot above and the ج with its dot in the bowl; ند (L15); يه (L06); مز (L05, L09, the degrees of the latitude).
+@obs L04: the degrees of the latitude, «مر»: a ر without the dot of a ز; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed. L05 and L09 print the same degrees with the dot, مز.
+@obs The degrees printed with a final ح, مح (L07, L08, L12, the degrees of the latitude; L10, the degrees of the longitude), show no dot in the bowl; the same form is a ج without its dot, 3, which the print gives with its dot in نج (L14). Transcribed as printed.
+@obs The isolated ك, 20, is printed with the small inner stroke of the letter (L04, L10, L15, the minutes of the longitude; L08, L11, the minutes of the latitude). The minutes of the latitude in L07 and L09, «ٮه», are a tooth without its dot joined to a final ه, the form that L06 prints with the two dots of the ي, يه.
+@obs Specks, not transcribed: L09, a dark speck, 4 by 5 px, above the left part of the degrees of the longitude, «مٮ», where a ب has its dot below; L04 and L12, dark specks to the right of the column of the longitude.
+@obs Below the notes, at the left, the signature «3» of the printed sheet; the page number «— ٣٣ —» stands at the foot, centred.
+@copy Faint wavy grey hairlines, fibres on the paper: L02, to the right of the heading; L08, to the left of the name.
+@variant L03: at entry (2071) the name is written مارٮانوس, with the dot of the ن.
+@variant L04: the manuscript has a gap; the editor supplies the name from entries (879-880); at entry (2147) the name is written نياقيلون.
+@variant L08: at entry (2148) the name is written انردس.
+@variant L09: at entry (2148) the name is written ورقس.
+@variant L13: at entry (1055) the name is written حلقيدون.
+@variant L15: at entry (1952) the name is written اطوما, with the variant reading الوما.

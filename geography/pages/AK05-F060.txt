@@ -1,0 +1,40 @@
+@page 60 ٥٤
+@cols 22,50,82
+@align r,c,r
+% Frame 060, printed p. 54: the right-hand page of the opening pp. 54-55 of the table of the mountains of the fifth
+% clime: the numbers and names of seventeen mountains, entries 775/776-807/808: Lūs, joined to the sea, Arsṭafārā,
+% Īdūqrā, Awrā on an island, Fāriss, nine without a name, the two mountains Ḥārith and Ḥuwayrith, the mountain between
+% al-Mawṣil and Shahrazūr, and a mountain joined to Hamadhān, Ḥārith and Ḥuwayrith that reaches the mountain of Qazwīn;
+% the folio of the manuscript, «(fol. 14ᵇ)», in the margin. Two lines of the editor's footnotes, continued from the
+% foot of p. 55.
+@r (٧٧٥ ٧٧٦) | [١٢٦٥ ١٢٦٦] | جبل لوس متّصل بالبحر
+@r (٧٧٧ ٧٧٨) | [١٢٦٧ ١٢٦٨] | جبل ارسطفارا{n:a}
+@r (٧٧٩ ٧٨٠) | [١٢٦٩ ١٢٧٠] | جبل ايدوقرا{n:b}
+@r (٧٨١ ٧٨٢) | [١٢٧١ ١٢٧٢] | جبل اورا{n:c} فى جزيرة
+@r (٧٨٣ ٧٨٤) | [١٢٧٣ ١٢٧٤] | جبل
+@r (٧٨٥ ٧٨٦) | [١٢٧٥ ١٢٧٦] | جبل فارسس
+@r (٧٨٧ ٧٨٨) | [١٢٧٧ ١٢٧٨] | جبل
+@r (٧٨٩ ٧٩٠) | [١٢٧٩ ١٢٨٠] | جبل
+@r (٧٩١ ٧٩٢) | [١٢٨١ ١٢٨٢] | جبل
+@r (٧٩٣ ٧٩٤) | [١٢٨٣ ١٢٨٤] | جبل
+@r (٧٩٥ ٧٩٦) | [١٢٨٥ ١٢٨٦] | جبل
+@r (٧٩٧ ٧٩٨) | [١٢٨٧ ١٢٨٨] | جبل
+@r (٧٩٩ ٨٠٠) | [١٢٨٩ ١٢٩٠] | جبل
+@m (fol. 14ᵇ)
+@r (٨٠١ ٨٠٢) | [١٢٩١ ١٢٩٢] | جبل
+@r (٨٠٣ ٨٠٤) | [١٢٩٣ ١٢٩٤] | جبلا حارث وحويرث
+@r (٨٠٥ ٨٠٦) | [١٢٩٥ ١٢٩٦] | جبل ما بين الموصل وشهرزور
+@r (٨٠٧ ٨٠٨) | [١٢٩٧ ١٢٩٨] | جبل متّصل بهٰذا الجبل وبهمذان وحارث
+@r | | وحويرث حتّى يضرب جبل قزوين
+@ednotes d e f g 2
+@obs The table of the mountains of the fifth clime goes on across the opening pp. 54-55, without a heading: each row of p. 54 is continued by a row of p. 55 (frame 061), which gives the boundaries, the colour and the direction. The description of entry 807/808 takes two printed lines, L17-L18; the second line has no numbers and is transcribed as a row with empty number cells. Its boundaries, colour and direction stand on p. 55 at the height of the second line (L18), and p. 55 has no line at the height of L17, as on the opening pp. 52-53 (frames 058-059).
+@obs The running numbers go on from entry 773/774 (frame 058) and run (٧٧٥ ٧٧٦)-(٨٠٧ ٨٠٨); the numbers of Suhrāb run [١٢٦٥ ١٢٦٦]-[١٢٩٧ ١٢٩٨] without a gap. The folio of the Strasbourg manuscript, «(fol. 14ᵇ)», is printed in Latin type in the right margin beside entry 801/802 (L14).
+@obs L05, L07-L14: the name is the word «جبل» alone. L01: «جبل لوس متّصل بالبحر», the mountain Lūs, joined to the sea; L04: «فى جزيرة», on an island; L15: «جبلا حارث وحويرث», the two mountains Ḥārith and Ḥuwayrith, the ث of both names with its three dots; L16: «جبل ما بين الموصل وشهرزور», the mountain between al-Mawṣil and Shahrazūr; L17-L18: «جبل متّصل بهٰذا الجبل وبهمذان وحارث وحويرث حتّى يضرب جبل قزوين», a mountain joined to this mountain and to Hamadhān, Ḥārith and Ḥuwayrith, until it strikes the mountain of Qazwīn.
+@obs L02: «ارسطفارا», the three teeth of the س, the ط and the ف with its dot; L03: «ايدوقرا», the ي with its two dots below and the ق with its two; L04: «اورا». L06: «فارسس»: after «فار», six low teeth, 3 to 10 px high, before the bowl of the final س, in two groups of three: the teeth of two س. Transcribed فارسس.
+@obs Signs transcribed as printed: «متّصل» (L01, L17), with a shadda above the two dots of the ت; «بهٰذا» (L17), with the dagger alif above the ه, transcribed ٰ; «حتّى» (L18), with a shadda over the ت; «فى» (L04), with the dot of the ف and no dots on the ى. With their dots: «بالبحر» (L01), «همذان» (L17), «يضرب» and «قزوين» (L18).
+@obs The editor's footnotes of the opening begin at the foot of p. 55 (frame 061) with notes a, b and c, whose marks stand on this page (L02-L04), and continue here in two lines with notes d, e, f and g, whose marks stand on p. 55.
+@obs Specks, not transcribed: L15, a small mark, 6 by 5 px, above the last digit of the first number of Suhrāb.
+@obs The page number «— ٥٤ —» stands at the foot, centred.
+@variant L02: a variant reading is انطسفارا; at entry (1913) the name is written ارطسفازا, with the variant reading ارطسقارا (note a, printed at the foot of p. 55).
+@variant L03: at entry (1118) it is called ادواقرا (note b, printed at the foot of p. 55).
+@variant L04: a variant reading is واروى; at entry (1933) the name is written اطى, with the variant reading اطر (note c, printed at the foot of p. 55).

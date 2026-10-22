@@ -1,0 +1,4 @@
+@page 5 -
+@kind blank
+% Frame 005: a blank leaf side.
+@copy The free endpaper of the binding, blank.

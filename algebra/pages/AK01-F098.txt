@@ -1,0 +1,38 @@
+@page 98 ٨٢
+% Frame 098, printed p. 82: the problem of frame 097 worked out: all the bequests come from the third; from a third a
+% daughter's share is taken and what was excepted, a fifth of the rest, added back; then another daughter's share, and
+% the excepted third of the rest added back: eight fifteenths of the estate less two shares and fourteen fifteenths;
+% less half a sixth of the estate, twenty-seven sixtieths; with two thirds of the estate, an estate and seven sixtieths
+% equal eight shares and fourteen fifteenths; less seven sixty-sevenths, the share two hundred and one and the estate
+% one thousand six hundred and eight. Then, under «فان كانت الفريضة على حالها» in bold, the same heirs: a daughter's
+% share and a fifth of what remains of the third after the share, and another daughter's share and a third of what
+% remains of the quarter after one share; the bequests from the quarter and from the third, begun, continued on the
+% next page. The values check exactly. Below the rule one footnote of the editors.
+فان هذه الوصاياكلها من الثلث فتأخذ ثلث مال فتلقى منه نصيب بنت فيبقى ثلث
+مال إلا نصيباً ثم تزيد على ذلك ما استثنى وهو خمس الثلث إلا خمس نصيب
+فيكون ذلك ثلثا وخمس ثلث إلا نصيباً وخمس نصيب ثم تلقى من ذلك نصيب
+بنت أخرى فيبقى ثلث وخمس ثلث إلا نصيبين وخمس نصيب ثم تزيد على ذلك
+ما استثنى فيكون ثلثا وثلاثة أخماس ثلث إلا نصيبين وأربعة عشر جزءاً من
+خمسة عشر جزءاً من نصيب ثم تلقى من ذلك نصف سدس جميع المال فيبقى
+سبعة وعشرون جزءاً من ستين من مال إلا ما تنقص من الأنصباء فزد على ذلك
+ثلثى المال واجبره بما نقص من الانصباء وزدها على الانصباء فيكون معك مال
+وسبعة أجزاء من ستين جزءاً من مال تعدل ثمانية أنصباء وأربعة عشر جزءاً من
+خمسة عشر جزءاً من نصيب فاردد ذلك الى مال واحد وهو أن تنقص مما معك
+سبعة أجزاء من سبعة وستين منه فيكون النصيب مائتين وواحداً ويصير المال
+كله الفاً وستمائة وثمانية .{b:فان كانت الفريضة على حالها} وأوصى بمثل نصيب بنت
+وبخمس ما يبقى من الثلث بعد النصيب وبمثل نصيب بنت أخرى وبثلث
+ما يبقى من الربع بعد نصيب واحد {n:١} . فقياس ذلك أن الوصيتين من الربع
+ومن الثلث فتأخذ ثلث مال فتلقى منه نصيبا فيبقى ثلث مال إلا نصيبا ثم تلقى
+خمس ما يبقى وهو خمس ثلث إلا خمس نصيب فيبقى أربعة أخماس ثلث إلا
+أربعة أخماس نصيب ثم تأخذ أيضا ربع مال فتلقى منه نصيبا فيبقى معك ربع مال
+@ednotes ١ 4
+@obs L12: the words فان كانت الفريضة على حالها (L12), the run-in heading of the next problem, as on frames 091, 095 and 096, are printed in a bold face, after a full stop; وأوصى, which follows, is in the face of the text. The bold ن is printed without its dot; transcribed ن.
+@obs Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): الوصاياكلها (L01; 10 between the final alif and the arm of the ك), as ماكان and واذاكان, 5 to 7 px (frames 029, 035, 043 and 072), where هذا كان and جمعتهما كان with a space have 21 and 25 (frames 056 and 057).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: ثلثا وخمس (L03; 19 between the alif and the conjunction و, as وبنتا وأوصى on frame 094, 19, where the alif stands 9 to 13 px from a conjunction و set without a space); أجزاء من (L11; 15 between the hamza on the line and the م, where the hamza stands 4 to 11 px from the next letter without a space and the same words have 22 in L09; in doubt, the space is written); فزد على (L07; 20 between the د and the ع, where the د stands 3 to 8 px from the ع in أحدعشر on frames 056 and 062).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: بنت فيبقى (L01; 8 between the ت and the ف), ثم تزيد (L04; 15), نصيبين وخمس (L04; 17), من الأنصباء (L07; 9 between the ن and the alif), نصيب فاردد (L10; 18), فتلقى منه (L17).
+@obs The note mark and the full stops (gaps as the nearest approach of the ink at 400 ppi): in L12 the full stop stands 29 px after وثمانية and 9 px before the bold فان, and is transcribed with a space before it and none after it, as the print sets it (as on frame 055, L17); (١) stands 38 px after واحد, followed by a full stop 40 px after the mark and 28 px before فقياس (L14). L17: between أخماس and نصيب the impression shows a faint grey speck (4 by 7 px), far smaller and lighter than the full stops; it is not transcribed.
+@obs Plain alif where a hamza might be expected, as printed: استثنى (L02, L05), واجبره, الانصباء (L08, twice), فاردد, الى (L10), الفاً (L12), the first alif, as on frame 089, L01; with hamza: فتأخذ (L01), أخرى (L04), أخماس, وأربعة (L05), الأنصباء (L07), أجزاء, أنصباء, وأربعة (L09), أن (L10), أجزاء (L11), وأوصى (L12), أخرى (L13), أن (L14), فتأخذ (L15), أربعة, أخماس (L16), أربعة, أخماس, تأخذ, أيضا (L17); below the alif: إلا (L02, twice; L03, L04, L05, L07, L15; L16, twice); on ي: مائتين (L11), وستمائة (L12); the hamza on the line: جزءاً (L05, L06, L07, L10; L09, twice), الأنصباء (L07), الانصباء (L08, twice), أجزاء, أنصباء (L09), أجزاء (L11).
+@obs With tanwīn on the final alif: نصيباً (L02, L03), جزءاً (L05, L06, L07, L10; L09, twice), وواحداً (L11), الفاً (L12); without tanwīn as printed: ثلثا (L03, L05), نصيبا (L15, twice; L17), أيضا (L17).
+@obs The final yā' is printed without dots: فتلقى, فيبقى (L01), على, استثنى (L02), تلقى (L03), أخرى, فيبقى, على (L04), استثنى (L05), تلقى, فيبقى (L06), على (L07), ثلثى, على (L08), الى (L10), the bold على, وأوصى (L12), يبقى, أخرى (L13), يبقى (L14), فتلقى, فيبقى, تلقى (L15), يبقى, فيبقى (L16), فتلقى, فيبقى (L17).
+@obs The print stretches فيكون (L05, between the ي and the ك), وواحداً (L11, between the ح and the د), وبمثل (L13, between the م and the ث) and فقياس (L14, between the ي and the alif) with the elongation stroke; the stroke is not transcribed.
+@obs Note (١) of the editors restates the problem of L12-L14 in modern notation, with a daughter's share x: the first bequest x + 1/5 (1/3 − x), the second x + 1/3 (1/4 − x), the two together 22/15 x + 9/60; what remains of the estate, six shares: 51/60 − 22/15 x = 6x; hence a daughter's share is 153 parts of 1344. The values check exactly. The note is not reproduced.

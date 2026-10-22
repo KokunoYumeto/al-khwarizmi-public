@@ -1,0 +1,4 @@
+@page 130 -
+@kind provenance
+% Frame 130: the outside of the back board of the binding.
+@copy The label «COLUMBIA LIBRARIES OFFSITE» with the barcode «CU58976965», the call number «893.7195 K51» and the title «Kitab al-jabr wa-al-»; the call number written on the spine; the cloth spine and the grey board of the library's binding; not part of the edition.

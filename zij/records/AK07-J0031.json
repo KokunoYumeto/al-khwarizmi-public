@@ -1,0 +1,39 @@
+{
+ "anchor": "AK07-J0031",
+ "jp2_index": 31,
+ "jp2_member": "b24872489_0031.jp2",
+ "jp2_sha256": "928ec944243965eae111da3bd63f9fff283b1b18aa51d3ee0c6512fcf16cbd14",
+ "reading_copy": "page_0031.jpg",
+ "reading_copy_sha256": "72982e51901ff629d0eb90f558baab1206b26c00f144063ee9e73462d04ecc1e",
+ "printed_page": "[XXVII]",
+ "kind": "divider",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (part title)",
+ "file": "suter",
+ "comment": "JP2 0031: the part title of the Latin text, p. [XXVII].",
+ "lines": [
+  {
+   "id": "AK07-J0031-L01",
+   "n": 1,
+   "kind": "centre",
+   "text": "TEXT",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "TEXT",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The part title, unnumbered, before the Latin text: the word «TEXT», letter-spaced capitals, alone a little above the middle of the page. Damp stains run down from the top."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

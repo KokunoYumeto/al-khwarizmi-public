@@ -1,0 +1,20 @@
+{
+ "anchor": "AK02-F006",
+ "frame": 6,
+ "frame_file": "page_006.jpg",
+ "frame_sha256": "9b4e0c5787be000b1122512800bf1fc0098b8785110d97e912d9208a7e35bf5d",
+ "printed_page": "-",
+ "kind": "provenance",
+ "role": "COPY_PROVENANCE",
+ "comment": "Frame 006: a blank page before the text, with a library stamp.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Nothing is printed on the page."
+ ],
+ "copy_matter": [
+  "The rectangular stamp «Bayerische Staatsbibliothek München» in violet in the middle of the page. Not part of the edition."
+ ],
+ "critical_notes": []
+}

@@ -1,0 +1,40 @@
+@page 100 ٨٤
+% Frame 100, printed p. 84: the problem of frame 099 concluded: the third taken as eighty; less half a tenth of the
+% estate, sixty-eight less a share and four fifths, and its quarter, seventeen less the quarter of what is lacking,
+% added: eighty-five less two shares and a quarter; with two thirds of the estate, a hundred and sixty, an estate and a
+% sixth of an eighth less two shares and a quarter equal six shares; the estate eight shares and four forty-ninths:
+% the share forty-nine, the estate three hundred and ninety-six, the part of the first bequest from the quarter ten and
+% the part excepted from the second share six. Then «باب الوصية بالدرهم» in bold, a new chapter, on bequests with a
+% dirham: four sons; the share of one of them, a quarter of what remains of the third, and a dirham bequeathed:
+% eleven twelfths of the estate equal four shares and three quarters of a share and a dirham, continued on the next
+% page. The values check exactly. Below the rule one footnote of the editors.
+ما يبقى وهو الذى استثناه فاجعل الثلث ثمانين فاذا رفعت نصف عشر المال بقى
+منه ثمانية وستون إلا نصيباً وأربعة اخماس نصيب فزد على ذلك ربعه وهو سبعة
+عشرسهما إلا ربع ماينقص من الأنصباء فيكون ذلك خمسةوثمانين إلا نصيبين
+وربع نصيب فزد ذلك على ثلثى المال وهو مائة وستون فيكون معك مال وسدس
+ثمن مال إلا نصيبين وربعاً تعدل ستة أنصباء فاجبر ذلك بما نقص منه وزده على
+الأنصباء فيكون مالا وسدس ثمن مال تعدل ثمانية أنصباء وربع نصيب فاردد
+ذلك الى مال واحد وهو أن تنقص من الأنصباء جزءاً من تسعة وأربعين جزءاً
+من جميعها فيكون مالا يعدل ثمانية أنصباء وأربعة أجزاء من تسعة وأربعين جزءاً
+من نصيب فاجعل النصيب تسعة وأربعين فيكون المال ثلثمائة وستة وتسعين
+والنصيب تسعة وأربعون والوصية من الربع عشرة والمستثنى من النصيب الثانى
+ستة فافهم ذلك . {b:باب الوصية بالدرهم} رجل مات وترك أربعة بنين وأوصى
+لرجل بمثل نصيب أحدهم وبربع ما بقى من الثلث ودرهم {n:١} . فقياس ذلك أن
+تأخذ ثلث مال فتلقى منه نصيبا فيبقى ثلث إلا نصيبا ثم تلقى ربع ما يبقى معك
+وهو ربع ثلث الا ربع نصيب وتلقى أيضاً درهما فيبقى معك ثلاثة أرباع ثلث
+مال وهو ربع المال إلا ثلاثة أرباع نصيب والا درهما فتزيد ذلك على ثلثى
+المال فيكون معك أحدعشر جزءاً من اثنى عشر من مال إلا ثلاثة أرباع نصيب
+والا درهما تعدل أربعة أنصباء فاجبر ذلك بثلاثة أرباع نصيب وبدرهم فيكون
+أحد عشر جزءا من اثنى عشر من مال تعدل أربعة انصباء وثلاثة أرباع نصيب
+@ednotes ١ 4
+@obs L11: the words باب الوصية بالدرهم (L11), the heading of a new chapter of the book of wills, on bequests with a dirham, are printed in a bold face, after a full stop; the words that follow are in the face of the text.
+@obs Set without a word space after a non-connecting letter, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): عشرسهما (L03; 30 between the ر and the س above the baseline, and the tail of the ر 19 px from the س, as the ر stands from the ه inside درهما, L17, 27 and 27, where عشر من (L16) and عشر جزءا (L18) with a space have 46 and 47 above the baseline and 32 and 36 at the tail); ماينقص (L03; 18 between the alif and the ي, as مايبقى on frames 087, 091 and 092, 17 to 19, where ما يبقى in L01 has 30); خمسةوثمانين (L03; 6 between the ة and the conjunction و, where ثمانية وستون in L02 has 18); أحدعشر (L16; 8 between the د and the ع, as on frames 056 and 062), where أحد عشر in L18 has 24.
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: واحد وهو (L07; 21 between the د and the conjunction و, where the د stands 6 to 7 px from a و inside a word on frame 064).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: فيكون معك (L04), من جميعها (L08), من مال (L16).
+@obs The full stops and the note mark (gaps as the nearest approach of the ink at 400 ppi): the full stop after ذلك, before the bold باب, stands between spaces (L11; 28 and 30); (١) stands 42 px after ودرهم, followed by a full stop 39 px after the mark and 29 px before فقياس (L12).
+@obs L09: the hundreds are printed ثلثمائة (L09), without the alif of ثلاث, as on frames 089, 092, 095, 096 and 099; transcribed as printed. L02: «اخماس», without the hamza that أرباع and أربعة carry on this page; L18: «انصباء», where L05, L06, L08 and L17 print أنصباء; both transcribed as printed.
+@obs Plain alif where a hamza might be expected, as printed: استثناه, فاجعل, فاذا (L01), اخماس (L02), فاجبر (L05), فاردد (L06), الى (L07), فاجعل (L09), الا (L14), والا (L15), اثنى (L16), والا, فاجبر (L17), اثنى, انصباء (L18); with hamza: وأربعة (L02), الأنصباء (L03, L06, L07), أنصباء (L05, L06, L08, L17), أن, وأربعين (L07), وأربعة, أجزاء, وأربعين (L08), وأربعين (L09), وأربعون (L10), أربعة, وأوصى (L11), أحدهم, أن (L12), تأخذ (L13), أيضاً, أرباع (L14), أرباع (L15), أحدعشر, أرباع (L16), أربعة, أرباع (L17), أحد, أربعة, أرباع (L18); below the alif: إلا (L02; L03, twice; L05, L13, L15, L16); on ي: مائة (L04), ثلثمائة (L09); the hamza on the line: الأنصباء (L03, L06, L07), أنصباء (L05, L06, L08, L17), جزءاً (L07, twice; L08, L16), أجزاء (L08), جزءا, انصباء (L18).
+@obs With tanwīn on the final alif: نصيباً (L02), وربعاً (L05), جزءاً (L07, twice; L08, L16), أيضاً (L14); without tanwīn as printed: مالا (L06, L08), نصيبا (L13, twice), درهما (L14, L15, L17), جزءا (L18).
+@obs The final yā' is printed without dots: يبقى, الذى, بقى (L01), على (L02), على, ثلثى (L04), على (L05), الى (L07), والمستثنى, الثانى (L10), وأوصى (L11), بقى (L12), فتلقى, فيبقى, تلقى, يبقى (L13), وتلقى, فيبقى (L14), على, ثلثى (L15), اثنى (L16, L18).
+@obs The print stretches المال (L09 and L15, between the م and the alif) with the elongation stroke; the stroke is not transcribed.
+@obs Note (١) of the editors restates the problem of L11-L12 in modern notation, with a son's share x and the dirham d: the bequest x + 1/4 (1/3 − x) + d; what remains, 1 − x − 1/4 (1/3 − x) − d, equals four shares, 4x; hence 11/12 − d = 19/4 x, or x = 11/57 of the estate less 12/57 of the dirham. The values check exactly. The note is not reproduced.

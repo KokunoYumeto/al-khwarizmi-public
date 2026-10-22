@@ -1,0 +1,123 @@
+{
+ "session": "AK-I01",
+ "mode": "integration of sealed returns; no new transcription",
+ "date": "2026-10-22",
+ "lanes": [
+  {
+   "lane": "algebra",
+   "work": "AK01",
+   "sealed_commit": "41c21bb5f3d05cd1d8dd403e495e777226abb656",
+   "canonical_source_checkpoint_sha256": "c3e9a06c82ccc7677c629af53ea395045870e5e07cc379984ac7202e0f922bd8",
+   "units": 130,
+   "page_files": 130,
+   "anchored_lines": 1637,
+   "critical_notes": 38,
+   "figures": 21,
+   "unresolved": 2,
+   "last_fully_verified_source_unit": "frame130",
+   "proposed_corrections": 0,
+   "readiness": "READY: the Arabic printed witness (1939 edition), complete; the editors' preface, study and footnotes recorded, not reproduced"
+  },
+  {
+   "lane": "geography",
+   "work": "AK05",
+   "sealed_commit": "6c9a1370f9d470c67282f7f2d601dc4b1176168a",
+   "canonical_source_checkpoint_sha256": "104de5fdf60ce07e12e1c9e8ffff38da1b3da6463302fb70ceec0ebeb8d2531d",
+   "units": 218,
+   "page_files": 218,
+   "anchored_lines": 2569,
+   "critical_notes": 22,
+   "figures": 5,
+   "unresolved": 80,
+   "last_fully_verified_source_unit": "frame218",
+   "proposed_corrections": 0,
+   "readiness": "READY: the Arabic printed witness (Mzik's edition in the 1962 reprint), complete; the German editorial matter a separate layer; the German introduction and footnotes recorded, not reproduced"
+  },
+  {
+   "lane": "arithmetic",
+   "work": "AK02",
+   "sealed_commit": "f85e76c6ccb369fe7cdecfb1109eb10b2811787f",
+   "canonical_source_checkpoint_sha256": "cabd85ec2d67cbe4481030439b16c522dcd5a90c4478ec16929685d041f42942",
+   "units": 30,
+   "page_files": 30,
+   "anchored_lines": 768,
+   "critical_notes": 22,
+   "figures": 0,
+   "unresolved": 0,
+   "last_fully_verified_source_unit": "frame030",
+   "proposed_corrections": 0,
+   "readiness": "READY_LATIN_WITNESS: the Latin witness (Boncompagni 1857), complete to the point where it breaks off; the Arabic original is lost and is not reconstructed"
+  },
+  {
+   "lane": "zij",
+   "work": "AK07",
+   "sealed_commit": "995dc29b1d20b75c4f464f92334eab4007480e32",
+   "canonical_source_checkpoint_sha256": "b5cc4e36cea8abca1bd83055ef142477496beb396d396bd17734e63aae742034",
+   "units": 296,
+   "page_files": 296,
+   "anchored_lines": 11660,
+   "critical_notes": 322,
+   "figures": 0,
+   "unresolved": 2,
+   "last_fully_verified_source_unit": "JP2_0295",
+   "proposed_corrections": 0,
+   "readiness": "READY_DERIVATIVE_RECENSION: the Latin recension of Maslama and Adelard in Suter's edition, complete, with Suter's German matter as a separate layer; never an Arabic original"
+  },
+  {
+   "lane": "calendar",
+   "work": "AK15",
+   "sealed_commit": "12e85694f397c46aa99c66fe8c51a2cec7dc943e",
+   "canonical_source_checkpoint_sha256": "c6640f322a83eec62fcff10ee25e6ac756c587a0b174dfcc4b28b3d4b36e7714",
+   "units": 10,
+   "page_files": 10,
+   "anchored_lines": 170,
+   "critical_notes": 26,
+   "figures": 0,
+   "unresolved": 7,
+   "last_fully_verified_source_unit": "PDF010",
+   "proposed_corrections": 0,
+   "readiness": "READY_PRINTED_WITH_ERRORS: the Arabic printed witness (Hyderabad 1947), complete, with Layer 3 critical notes; the Patna manuscript not seen"
+  },
+  {
+   "lane": "practical/P01",
+   "work": "AK10-AK14",
+   "sealed_commit": "9151f0da666cb27565cb112072e18c2f7fdcc57f",
+   "canonical_source_checkpoint_sha256": "d2920c90a4fb9f53094d6a711d031bd2346045dbaabff7020965b38c6bf00d9b",
+   "units": 35,
+   "last_fully_transcribed_source_unit": "NONE",
+   "last_fully_verified_source_unit": "PDF034",
+   "unresolved": 7,
+   "readiness": "EVIDENCE_ONLY: an evidence and attribution audit of the modern study and the 1987 article; no source text produced; Berlin Landberg 56 ff. 77r-97v checked on public images; Istanbul Ayasofya 4830 held (no images)"
+  },
+  {
+   "lane": "practical/P02",
+   "work": "AK10-AK14",
+   "sealed_commit": "9151f0da666cb27565cb112072e18c2f7fdcc57f",
+   "canonical_source_checkpoint_sha256": "ebfb7b5c0c23f040672c10f50d923bf13d05d8317789e5621b29b4f137ea71a0",
+   "units": 85,
+   "last_fully_transcribed_source_unit": "NONE",
+   "last_fully_verified_source_unit": "51:PDF20",
+   "unresolved": 6,
+   "readiness": "EVIDENCE_ONLY: an evidence and attribution audit of the modern study and the 1987 article; no source text produced; Berlin Landberg 56 ff. 77r-97v checked on public images; Istanbul Ayasofya 4830 held (no images)"
+  }
+ ],
+ "coverage": "exact",
+ "source_language_artifacts": [
+  "AK01_algebra_1939.ar.tsv",
+  "AK05_geography_1926.ar.tsv",
+  "AK05_geography_1926_editor.de.tsv",
+  "AK02_arithmetic_1857_editor.it.tsv",
+  "AK02_arithmetic_1857.la.tsv",
+  "AK07_zij_1914_suter.de.tsv",
+  "AK07_zij_1914.la.tsv",
+  "AK15_calendar_1947.ar.tsv"
+ ],
+ "target_language_artifacts": [],
+ "language_synchronization": "no translation exists in any lane; every language_synchronization.tsv is empty",
+ "works_and_boundaries_rows": 45,
+ "holds": [
+  "Istanbul, Ayasofya 4830 ff. 183-200 and 231v-235r: no images (primary-pixel hold)",
+  "the Patna manuscript of the calendar treatise: not available; Layer 3 notes only"
+ ],
+ "checks_failed": []
+}

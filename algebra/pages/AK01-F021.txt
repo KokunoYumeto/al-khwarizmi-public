@@ -1,0 +1,4 @@
+@page 21 ٩
+@kind editorial
+% Frame 021: the editors' study «الجبر قبل الخوارزمى» (algebra before al-Khwārizmī), with footnotes.
+@withheld the editors' study «الجبر قبل الخوارزمى» (algebra before al-Khwārizmī), with footnotes

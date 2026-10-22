@@ -1,0 +1,57 @@
+@page 125 ١١٩
+% Frame 125, printed p. 119: the heading of the third clime and of its springs and rivers, with words supplied by the
+% editor between angle brackets; three springs whose rivers flow into the sea, at the beginning of which the
+% manuscript has gaps; the river حلٮڡاث; the river ساوس; a river from a spring; the river سوسولس; and another river
+% from a spring. The editor's running numbers (١٧٩٣)-(١٨٠٨) and the numbers of Suhrāb [١٧٩٦]-[١٨٠٥] and
+% [١٨٠٨]-[١٨١٣]; the folio of the manuscript, «(fol. 34ᵇ)», at the beginning of a line. Four lines of the editor's
+% footnotes.
+@h * ⟨الإق{n:a}ليم الثالث وما فيه من العيون و⟨الأنهار⟩{n:a} *
+⟨عين اوّلها⟩{n:a} عند طول {ov:ى م} والعرض {ov:كط ⟨{z}⟩}{n:a} (١٧٩٣) [١٧٩٦] ⟨ومصبّها فى البحر⟩{n:a}
+@m (fol. 34ᵇ)
+عند طول {ov:ح ك}{n:b} والعرض {ov:كح ٮه} (١٧٩٤) [١٧٩٧] * عين اوّلها عند طول
+{ov:⟨يا يه⟩}{n:c} ⟨وال⟩{n:d}عرض {ov:كح {z}} (١٧٩٥) [١٧٩٨] ومصبّها فى البحر عند طول {ov:ح {z}}
+والعرض {ov:كز ل} (١٧٩٦) [١٧٩٩] * عين ⟨اوّلها⟩{n:d} عند طول {ov:يا يه} والعرض {ov:كر ك}
+(١٧٩٧) [١٨٠٠] ومصبّها فى البحر عند طول {ov:ح {z}} والعرض {ov:كر {z}} (١٧٩٨) [١٨٠١] *
+نهر حلٮڡاث{n:e} اوّله عند طول {ov:ٮح {z}} والعرض {ov:ل {z}} (١٧٩٩) [١٨٠٢] ومصبّه فى البحر
+عند طول {ov:ٮر مه} والعرض {ov:لٮ {z}} (١٨٠٠) [١٨٠٣] * نهر ساوس اوّله عين عند طول
+{ov:يط م} والعرض {ov:ل {z}} (١٨٠١) [١٨٠٤] ومصبّه فى البحر عند طول {ov:ك ك} والعرض
+{ov:لٮ {z}} (١٨٠٢) [١٨٠٥] * نهر اوّله عين عند طول {ov:كٮ مه} والعرض {ov:كط ل} (١٨٠٣)
+[١٨٠٨] ومصبّه فى البحر عند طول {ov:كج مه}{n:f} والعرض {ov:لٮ {z}} (١٨٠٤) [١٨٠٩] *
+نهر سوسولس{n:g} اوّله عند طول {ov:كج ل} والعرض {ov:كط م} (١٨٠٥) [١٨١٠] ومصبّه فى
+البحر عند طول {ov:كد م} والعرض {ov:لٮ {z}} (١٨٠٦) [١٨١١] * نهر اوّله عين عند طول
+{ov:كج م} والعرض {ov:كه م}{n:h} (١٨٠٧) [١٨١٢] ومصبّه فى البحر عند طول {ov:كد ل}{n:i} والعرض
+{ov:لٮ {z}} (١٨٠٨) [١٨١٣] *
+@ednotes a b c d e f g h i 4
+@obs L01: the heading of the new section, in the large type, between two small open stars, transcribed as asterisks: «* ⟨الإق⟩ليم الثالث وما فيه من العيون و⟨الأنهار⟩ *», the third clime and the springs and the rivers in it; «الإقليم» with a hamza below the alif, «الأنهار» with a hamza over the alif. The editor supplies «الإق» and «الأنهار» (note a): an angle bracket opens before «الإق»; the ق is printed in its final form, not joined to the ل, and is followed by the note mark a, 18 by 20 px, of the size of the note mark after «⟨الأنهار⟩», 16 by 18 px, but without a closing bracket (critical note AK05-CN011). «الأنهار» stands between two brackets after «و», with the note mark a after the closing one.
+@obs L02-L03: «⟨عين اوّلها⟩ عند طول ى م والعرض كط ⟨{z}⟩ (١٧٩٣) ⟨ومصبّها فى البحر⟩ عند طول ح ك والعرض كح ٮه (١٧٩٤) *», ⟨a spring whose beginning⟩ is at the longitude 10° 40′ and the latitude 29° ⟨0′⟩, ⟨and its mouth in the sea⟩ is at the longitude 8° 20′ and the latitude كح ٮه.
+@obs L03-L05: «عين اوّلها عند طول ⟨يا يه⟩ ⟨وال⟩عرض كح {z} (١٧٩٥)», a spring whose beginning is at the longitude ⟨11° 15′⟩ and the latitude 28° 0′; «ومصبّها فى البحر عند طول ح {z} والعرض كز ل (١٧٩٦) *», and its mouth in the sea is at the longitude 8° 0′ and the latitude 27° 30′.
+@obs L05-L06: «عين ⟨اوّلها⟩ عند طول يا يه والعرض كر ك (١٧٩٧)», a spring ⟨whose beginning⟩ is at the longitude 11° 15′ and the latitude كر ك; «ومصبّها فى البحر عند طول ح {z} والعرض كر {z} (١٧٩٨) *», and its mouth in the sea is at the longitude 8° 0′ and the latitude كر ō.
+@obs L07-L08: «نهر حلٮڡاث اوّله عند طول ٮح {z} والعرض ل {z} (١٧٩٩)», the river حلٮڡاث; its beginning is at the longitude ٮح ō and the latitude 30° 0′; «ومصبّه فى البحر عند طول ٮر مه والعرض لٮ {z} (١٨٠٠) *», and its mouth in the sea is at the longitude ٮر مه and the latitude لٮ ō. The editor's note e refers to entry (1036), the mouth of a river on the coast of the sea of Tangier, «وهناك مصبّ نهر خليفان» (frame 075, L12), at the latitude لٮ ō.
+@obs L07: «حلٮڡاث»: the initial ح, the ل, a low rise in the joining stroke, 6 px wide and 4 to 5 px above it, an upright loop without dots, 14 px wide and 19 px high, joined to the alif, and a final ث with its three dots. The loop has the form of the medial ف or ق without dots, where the medial ع of «والعرض» (L07) is a flat filled loop. Transcribed with a low tooth without a dot, as «ڡٮدس» of frame 084 (L03).
+@unres L07: the low rise between the ل and the loop may also be the joining stroke without a tooth: حلڡاث. Transcribed حلٮڡاث.
+@obs L08-L10: «نهر ساوس اوّله عين عند طول يط م والعرض ل {z} (١٨٠١)», the river ساوس, whose beginning is a spring at the longitude 19° 40′ and the latitude 30° 0′; «ومصبّه فى البحر عند طول ك ك والعرض لٮ {z} (١٨٠٢) *», and its mouth in the sea is at the longitude 20° 20′ and the latitude لٮ ō.
+@obs L10-L11: «نهر اوّله عين عند طول كٮ مه والعرض كط ل (١٨٠٣)», a river whose beginning is a spring at the longitude كٮ مه and the latitude 29° 30′; «ومصبّه فى البحر عند طول كج مه والعرض لٮ {z} (١٨٠٤) *», and its mouth in the sea is at the longitude 23° 45′ and the latitude لٮ ō.
+@obs L12-L13: «نهر سوسولس اوّله عند طول كج ل والعرض كط م (١٨٠٥)», the river سوسولس; its beginning is at the longitude 23° 30′ and the latitude 29° 40′; «ومصبّه فى البحر عند طول كد م والعرض لٮ {z} (١٨٠٦) *», and its mouth in the sea is at the longitude 24° 40′ and the latitude لٮ ō. The ر of «نهر» touches the س of the name.
+@obs L13-L15: «نهر اوّله عين عند طول كج م والعرض كه م (١٨٠٧)», a river whose beginning is a spring at the longitude 23° 40′ and the latitude 25° 40′; «ومصبّه فى البحر عند طول كد ل والعرض لٮ {z} (١٨٠٨) *», and its mouth in the sea is at the longitude 24° 30′ and the latitude لٮ ō.
+@obs Angle brackets, each followed by a note mark, around what the editor supplies: in L01 see above; «⟨عين اوّلها⟩» (L02), note a; «⟨{z}⟩» (L02), the minutes of the latitude, within the line over the numerals, note a; «⟨ومصبّها فى البحر⟩» (L02), note a; «⟨يا يه⟩» (L04), with the line over the numerals reaching over both brackets, note c; «⟨وال⟩» (L04), the beginning of «والعرض», whose «عرض» follows the closing bracket and the note mark d; «⟨اوّلها⟩» (L05), note d. Transcribed with the brackets.
+@obs Numerals: «ى م» (L02), 10° 40′; «كط ⟨{z}⟩» (L02), 29° ⟨0′⟩; «ح ك» (L03), 8° 20′; «يا يه» (L04, L05), with the dots of both ي, 11° 15′; «كح {z}» (L04), 28° 0′; «ح {z}» (L04, L06), 8° 0′; «كز ل» (L05), with the dot of the ز, 27° 30′; «ل {z}» (L07, L09), 30° 0′; «يط م» (L09), with the dots of the ي, 19° 40′; «ك ك» (L09), 20° 20′; «كط ل» (L10), 29° 30′; «كج مه» (L11), 23° 45′; «كج ل» (L12), 23° 30′; «كط م» (L12), 29° 40′; «كد م» (L13), 24° 40′; «كج م» (L14), 23° 40′; «كه م» (L14), 25° 40′; «كد ل» (L14), 24° 30′. The ج of «كج» (L11, L12, L14) has its dot, 9 to 10 px.
+@obs Without their dots, transcribed so: «كح ٮه» (L03), the minutes a tooth without its dot joined to a final ه, which read with a ي gives 15, where L04 and L05 print «يه» with the two dots; «كر» (L05, L06), the ر without the dot of the ز, which read with ز gives 27, beside «كز ل» of L05 with the dot; «ٮح» (L07), a tooth without its dot joined to a ح, which read with a ي gives 18; «ٮر» (L08), the notched form of frame 041 (L06), a short tooth without a dot joined to a ر, the two forming a notch, 2 to 3 px deep, at the top, which read as يز gives 17; «لٮ» (L08, L10, L11, L13, L15), the ل joined to the flat final bowl of a ب without its dot, 32; «كٮ» (L10), the ك joined to the same bowl, 22.
+@unres L08: the notched form may also be read as a single ر whose head is split, ر, 7. Transcribed ٮر.
+@obs The ح of the numerals, «ح» (L03, L04, L06), «كح» (L03, L04) and «ٮح» (L07), shows no dot in the bowl; L07: a speck of 4 by 3 px stands in the bowl of «ٮح», where the dot of the ج of «كج» is 9 to 10 px. The isolated ك, 20, is printed with the small inner stroke of the letter (L09); the isolated ى, 10, has no dots (L02).
+@obs Signs in the text, transcribed as printed: «اوّلها» (L02, L03, L05) and «اوّله» (L07, L08, L10, L12, L13) with a shadda over the و; «ومصبّها» (L02, L04, L06) and «ومصبّه» (L07, L09, L11, L12, L14) with a shadda over the ب; «فى» ends in a ى without dots.
+@obs The running numbers run (١٧٩٣)-(١٨٠٨) without a gap, and each has a number of Suhrāb: [١٧٩٦]-[١٨٠٥], then [١٨٠٨]-[١٨١٣]; [١٨٠٦] and [١٨٠٧] do not occur. [١٨٠٨] stands at the beginning of L11, after the running number (١٨٠٣) at the end of L10; (١٧٩٧) stands at the beginning of L06. L03: the folio of the Strasbourg manuscript, «(fol. 34ᵇ)», is printed in Latin type at the beginning of the line, before «عند»; transcribed as a margin note before the line.
+@obs Asterisks: the small open stars with six points, around the heading (L01), after [١٧٩٧] (L03), after [١٧٩٩] (L05), after [١٨٠١] (L06), after [١٨٠٣] (L08), after [١٨٠٥] (L10), after [١٨٠٩] (L11), after [١٨١١] (L13) and after [١٨١٣] (L15), are transcribed as asterisks.
+@obs Note marks: L01, a after «الإق» and a after the closing bracket of «⟨الأنهار⟩»; L02, a after the closing brackets of «⟨عين اوّلها⟩», of the minutes of the latitude and of «⟨ومصبّها فى البحر⟩»; L03, b after the longitude; L04, c after the closing bracket of the longitude and d after the closing bracket of «⟨وال⟩»; L05, d after the closing bracket of «⟨اوّلها⟩»; L07, e after «حلٮڡاث»; L11, f after the longitude; L12, g after «سوسولس»; L14, h after the latitude and i after the longitude.
+@obs Marks not transcribed: L08, a speck of 12 by 15 px above «عند», at the height of the tops of the alifs, 26 px above the dot of the ن; L13, an irregular blot, 20 by 16 px, at the top of the د of «عند», at the height of the note marks; it shows no regular arms, where the editor's asterisk after a word is a star with six solid arms, 25 by 27 px (frame 124, L13, «بحر*»).
+@unres L13: the blot at the top of the د of «عند» may be a damaged asterisk of the editor: عند*. Transcribed without it.
+@obs The editor's footnotes stand in four lines below a short rule at the left: notes a-i. The page number «— ١١٩ —» stands at the foot, centred.
+@variant L01, L02: the manuscript has a gap at the words between the brackets; the editor supplies them (note a).
+@variant L03: a variant reading of the longitude is ح ط, with a line over the numerals (note b).
+@variant L04: the manuscript has a gap at the numerals between the brackets; the editor supplies them with regard to the reading of S (note c).
+@variant L04, L05: the manuscript has a gap at the words between the brackets; the editor supplies them (note d).
+@variant L07: at entry (1036) the name is written خليفان (note e).
+@variant L11: a variant reading of the longitude is كج ه, with a line over the numerals; a dash follows it (note f).
+@variant L12: a variant reading of the name is سوشولوس (note g).
+@variant L14: a variant reading of the latitude is كج ل, with a line over the numerals (note h).
+@variant L14: a variant reading of the longitude is كه ل, with a line over the numerals (note i).
+@critical AK05-CN011 | missing sort | L01 | ⟨الإقᵃليم | ⟨الإق⟩ᵃليم | the angle bracket that opens before «الإق» in the heading is not closed: the note mark a follows the ق, which is printed in its final form and not joined to the ل of «ليم», where the other supplied passages of the page, «⟨الأنهار⟩» in the same line and those of L02, L04 and L05, close with a bracket before their note mark | high | the extent of the supplied letters; the words read the same

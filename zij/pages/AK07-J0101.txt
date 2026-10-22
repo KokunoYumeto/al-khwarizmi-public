@@ -1,0 +1,52 @@
+@page 101 69
+@lang de
+% JP2 0101: Suter's commentary, p. 69: chapter 23 continued: the Latin names of the sine and the versed sine in Adelard
+% (elgeib planum, elgeib elmankūs, diminutum) and in Robert of Chester; the four quadrants in the sine table; the sine
+% of 6°; the readings of the table against al-Battānī's (note 1).
+@p {sp:Kh.} nennt den Sinus eines Winkels {i:elgeib elmustewi} = {i:al-djaib al-mustawī,} und
+{sp:Athelhard} gibt dies durch {i:elgeib planum} wieder (die meisten arabischen Wörter
+nimmt er als Neutra an) ; {i:planus} ist wohl eine Bedeutung von {i:mustawī,} besser aber
+wäre hier {i:rectus} = gerade, oder gerad aufgerichtet. {sp:Athelhard} kannte also (ums Jahr
+1126) die Übersetzung von {i:djaib} durch das lateinische {i:sinus} noch nicht, dagegen
+ersehen wir aus dem Madrider Ms. N, dass {sp:Robert von Chester}, der die bessere
+„Ordnung“ der {sp:Athelhard}’schen Übersetzung wohl etwa zwischen 1143 und 1150
+ausgeführt haben mag, das Wort {i:sinus} gekannt hat. Wir wissen nicht, wann {sp:Gerhard}
+{sp:von Cremona}, der seine Übersetzungen meist nicht datiert hat, die Astronomie
+des {sp:Djābir b. Aflaḥ}, in der das Wort {i:sinus} vorkommt, übersetzt hat, können also
+nicht entscheiden, ob er oder {sp:Robert von Chester} zuerst dieses Wort gebraucht
+habe, doch ist die Wahrscheinlichkeit für letztern grösser.
+@p Den {i:Sinus versus} nennt {sp:Athelhard} {i:elgeib elmankūs} (oder {i:maʿkūs}) = der um-
+gekehrte Sinus ; er übersetzt aber {i:mankūs} unrichtig mit {i:diminutum,} indem er es mit
+{i:manḳūṣ} verwechselt, das „vermindert“, „verkleinert“ bedeutet, und beinahe gleich
+ausgesprochen wird. Dies mag wohl ein Beweis dafür sein, dass man damals eine
+Sprache nicht sowohl aus Büchern erlernte, als vielmehr im sprachlichen Verkehr
+mit Menschen, daher bei Übersetzungen mehr auf das gesprochene Wort, als auf
+das geschriebene, bezw. gelesene vertraute ; daher mögen wohl auch noch andere
+falsche Schreibweisen arabischer Wörter stammen.
+@p Die unrichtigen Übersetzungen {sp:Athelhards}, {i:mustawī} durch {i:planus} und {i:mankūs}
+durch {i:diminutus,} hat {sp:Robert von Chester} nicht verbessert, er nennt den Sinus
+ebenfalls {i:sinus planus} und den Sinus versus {i:sinus diminutus.}
+@p Wir haben noch besonders darauf aufmerksam zu machen, dass {sp:Kh.} in der
+Sinustafel in den vier Spalten, die mit {i:Semitae numerorum} überschrieben sind, die
+Winkel aller vier Quadranten angibt, die denselben Sinus (abgesehen vom Vorzeichen)
+haben, so in der 6. Zahlenzeile :
+@t Sig. | Gr. | Sig. | Gr. | Sig. | Gr. | Sig. | Gr. | |
+@t 0 | 6 | 5 | 24 | 6 | 6 | 11 | 24 | das heisst : |
+@t 6° | | 174° | | 186° | | 354° | | |
+@p Der Sinus ist angegeben in {i:partes} (Radius = 60 solcher), oder wie der Text hat
+{i:partitiones, dakaicae} = arab. {i:daḳā’iḳ} = Minuten, und {i:theniae} (mit dem Artikel {i:eltheniae})
+= arab. {i:thāniya} = Sekunden{sup:1}). So ist der Sinus von 6° = 6{sup:{i:p}} 16′ 18″ = 6 + {fr:16|60} + {fr:18|60{sup:2}} =
+6,27166, dies gibt, den Radius = 1 gesetzt : sin 6° = 0,10453 (richtiger Wert = 0,104528).
+@p Bei Abweichungen von den Tafeln {sp:Batt.}’s haben wir, wenn der Fehler nur 1″
+betrug, die Lesart der Manuskripte in die Tafel aufgenommen, bei einem Fehler von
+mehr als 1″ aber den richtigen Wert {sp:Batt.}’s, entgegen dem Verfahren {sp:Björnbo}’s
+in der oben genannten Schrift, der überall die Werte von C und O aufgenommen
+hat, auch wenn sie unrichtig waren.
+@n {sup:1}) Vergl. oben p. 36.
+@obs The page number «69» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 continues chapter 23 from p. 68 (JP2 0100, L33-L37).
+@obs L28-L30: the example of the sixth row of the sine table, set as a small table centred in the page: four groups, each headed «Sig.» (signs) and «Gr.» (degrees), divided and closed by vertical rules, which are not transcribed; «das heisst :» at the right of the second row; the third row, the angles in degrees, stands below the groups, each value centred in its group. Each printed row is one line here, the cells separated by our «|»; in L30 each value spans its group, the empty cells after it are not printed. Checked: 0 signs 6° = 6°, 5 signs 24° = 174°, 6 signs 6° = 186°, 11 signs 24° = 354°, the four angles whose sine is ± sin 6°.
+@obs L33-L34. Checked: 60 sin 6° = 6.27171 = 6p 16′ 18.1″; 6 + 16/60 + 18/3600 = 6.271667, which Suter truncates to 6,27166; 6.271667 : 60 = 0.104528, «0,10453», and sin 6° = 0.1045285, «0,104528». L33: the two fractions built up, written {fr:NUMERATOR|DENOMINATOR}; «6p», the p raised and italic.
+@obs L04-L05: «ums Jahr 1126», the date of the translation given in O (p. 37, JP2 0069, L10-L21). L13-L15 and L21: «elmankūs», «mankūs» without dots, «manḳūṣ» with the dots under ḳ and ṣ, «maʿkūs» with the ʿayn raised; L32 «daḳā’iḳ» with the dots and the apostrophe of the hamza; L33 «thāniya»; L10 «Djābir b. Aflaḥ», spaced, with the dot under the ḥ.
+@obs L09: the arch of the n of «nicht» is covered by a grey blot, its two stems visible; L14: after «mit» a thin vertical stroke, lighter than the print, of spacing material, as on p. 66 (JP2 0098, L26); not transcribed. L23: the final s of «sinus» is printed light.
+@obs Spaced type, marked {sp:}: «Kh.», «Athelhard», «Athelhards», «Robert von Chester», «Gerhard von Cremona», «Djābir b. Aflaḥ», «Batt.», «Björnbo»; italics: the Arabic and Latin words, «Sinus versus» (L13; upright in L23), «Semitae numerorum», «partes», «partitiones», «dakaicae», «theniae», «eltheniae».
+@obs The colons and semicolons stand after the thin space of the edition (10-14 px measured; «Zahlenzeile :» 10 px).

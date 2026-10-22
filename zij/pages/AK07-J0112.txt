@@ -1,0 +1,52 @@
+@page 112 80
+@lang de
+% JP2 0112: Suter's commentary, p. 80: the end of chapters 30 and 30a (stupor for buht; the columns of the dragon);
+% the tables of the equation of time (Tables 67 and 68): their arrangement, the zero and the maximum compared with
+% al-Battānī, Ptolemy and the modern values (notes 1-4).
+@p Interessant ist das lateinische Wort {i:stupor,} mit dem {sp:Athelhard} das persische
+{i:buht} wiedergibt, wir können es wohl am bestem mit „Stocken“, „Anhalten“ (in der
+Bewegung) übersetzen, denn wenn das Gestirn bald schneller, bald langsamer geht,
+so stockt es gleichsam bisweilen in seiner Bewegung{sup:1}) ; bei den Planeten passt
+dieser Ausdruck allerdings besser als bei Sonne und Mond.
+@p Über die Bedeutung der 6. u. 7. Kolonne der Tafeln 61—66, die überschrieben
+sind mit {i:primum dimidium rotae draconis} und {i:secundum dimidium rotae draconis,}
+komme ich am Ende von Kap. 33 zu sprechen.
+@c {b:Die Tafeln der Tagesgleichung (Zeitgleichung).}
+@c (Tafeln 67 und 68.)
+@p Der Text des vorliegenden Werkes scheint, besonders gegen das Ende hin,
+mangelhaft zu sein, für diese Tafeln (67 u. 68) z. B. findet sich im Text kein erklä-
+rendes Kapitel. Die Tafeln entsprechen den Kolonnen bei {sp:Batt.}{sup:2}), die mit {i:Aequatio}
+{i:nychthemerōn} überschrieben sind, nur beginnen die Tafeln {sp:Batt.}’s mit dem 1. Grad
+des Steinbocks, bei {sp:Kh.} mit dem 1. Grad des Widders. Ein weiterer Unterschied
+ist der, dass {sp:Batt.} die {i:Zeitgleichung} (also Unterschied zwischen {i:wahrer} und {i:mittlerer}
+Zeit) in Graden und Minuten, {sp:Kh.} dagegen in Zeit-Minuten und Sekunden angibt.
+Sie stimmen dagegen darin überein, dass sie die Zeitgleichung Null annehmen, wenn
+die wahre Zeit am meisten hinter der mittlern nachgeht, zu allen andern Zeiten muss
+also dann die wahre Zeit der mittlern vorgehen, d. h. die {i:Zeitgleichung,} die die Tafel
+angibt, muss stets {i:subtrahiert} werden{sup:3}).
+@p {i:Beispiel :} Die Zeitgleichung ist {i:Null,} wenn die Sonne im 22.° des Wassermanns
+steht ({sp:Batt.} hat im 18.° u. 19.° Null, im 22.° 0° 1′) ; die arabischen Astronomen nahmen
+also bei diesem Stand der Sonne die wahre Zeit gleich der mittlern an. Wenn die
+Sonne im 9.° bis 10.° des Skorpions steht, so erreicht die Zeitgleichung ihr {i:Maximum}
+mit 34{sup:m} 28{sup:s}, d. h. die wahre Zeit geht der mittlern um 34{sup:m} 28{sup:s} vor ({sp:Batt.} hat 7° 54′
+= 31{sup:m} 36{sup:s}). Vergleichen wir diese Werte mit den heutigen, so entspricht der ara-
+bischen Zeitgleichung Null unsere Zeitgleichung von + 14{sup:m} 31{sup:s} am 12. Febr., und der
+arabischen Zeitgleichung 34{sup:m} 28{sup:s} unsere Zeitgleichung von — 16{sup:m} 18{sup:s} am 18. Novbr. ;
+der Unterschied dieser beiden ist 30{sup:m} 49{sup:s}, also ist der Wert {sp:Batt.}’s der Wahrheit
+näher als derjenige {sp:Kh.}’s.
+@p Wem sich {sp:Kh.} in dieser Frage angeschlossen hat, können wir nicht entscheiden ;
+das Maximum der Zeitgleichung bei {sp:Kh.} stimmt besser mit dem bei {sp:Ptol.} (33{sup:m} 30{sup:s})
+als mit dem bei {sp:Batt.} Im {i:Sūrya-Siddhānta} haben wir keine Werte der Zeitgleichung
+gefunden{sup:4}). — Diese Tafeln der Zeitgleichung werden am Schlusse des folgenden
+@n {sup:1}) Man vergleiche das {sp:Ovid}’sche : {i:stupuit Ixionis orbis}, oder auch : {i:stupuerunt verba palato}
+@n ({sp:Georges}’ latein. Wörterbuch).
+@n {sup:2}) Ed. {sp:Nallino}, II, p. 61—64.
+@n {sup:3}) Vergl. hiefür {sp:Batt.}, ed. {sp:Nallino}, I, p. 221—222 (nach {sp:Schiaparelli}).
+@n {sup:4}) Vergl. {i:Sūrya-Siddhānta}, transl. {sp:Burgess}, p. 220—221.
+@obs The page number «80» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L08 end chapters 30 and 30a (pp. 78-79, JP2 0110-0111). L09-L10: the heading of the tables of the equation of time, in bold, centred, with the reference to the tables below it, not to a chapter of the text (L11-L13).
+@obs L01-L02: «stupor», Adelard's word for buht, the daily true motion (p. 78, JP2 0110, L09-L13). N01: Ovid, Metamorphoses IV 461 (Ixion's wheel stood still) and «stupuerunt verba palato», words stuck to the palate; the italics as printed. L07: the sixth and seventh columns of Tables 61-66, the first and the second half of the «rota draconis», taken up at the end of chapter 33.
+@obs L22-L31. Checked: al-Battānī's 7° 54′ of the equator are 31m 36s of time (4 minutes to a degree); 14m 31s + 16m 18s = 30m 49s, which is nearer to al-Battānī's 31m 36s than to al-Khwārizmī's 34m 28s, as L30-L31 say. The modern values: in 1914 the equation of time (mean less apparent time) was +14m 27s on 12 February and reached its other extreme, −16m 24s, on 3-4 November; on 18 November it was −14m 53s, so that the date of L29 does not agree with the value given there. The values of Tables 67 and 68 and Ptolemy's 33m 30s (L33) are to be compared with the tables and the Almagest.
+@obs L22-L33: «34m 28s» and the other times with the m and the s raised, written with a space between the minutes and the seconds; L28 «+ 14m 31s» and L29 «— 16m 18s», the signs with a gap of 13 px before the figures, the minus a long dash. L22, L23, L25: «22.°», «18.°», «19.°», «9.°», «10.°», the degree sign after the point of the ordinal.
+@obs L14: «nychthemerōn» with the macron over the o, in italics with «Aequatio» (L13). Spaced type, marked {sp:}: «Athelhard», «Batt.», «Kh.», «Ptol.», «Ovid», «Georges», «Nallino», «Schiaparelli», «Burgess»; italics: «stupor,», «buht», the headings of the columns (L07), «Aequatio nychthemerōn», «Zeitgleichung» (L16, L20), «wahrer», «mittlerer», «subtrahiert», «Beispiel :», «Null,», «Maximum», «Sūrya-Siddhānta», the Latin of N01.
+@obs The colons and semicolons stand after the thin space of the edition (9-14 px measured).
+@critical AK07-CN062 | misprint | L02 | am bestem | am besten | the superlative after «am» ends in -en, «am besten», as «am meisten» (L19); the n is printed as m | high | none

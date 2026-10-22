@@ -1,0 +1,400 @@
+{
+ "anchor": "AK02-F028",
+ "frame": 28,
+ "frame_file": "page_028.jpg",
+ "frame_sha256": "68ac36c3c14abb61ebf3df052555b48be4ed39a486f23cb5bf37ef415cc07b9c",
+ "printed_page": "22",
+ "kind": "text",
+ "role": "RECENSION_LATIN (the Latin text and its lines); MODERN_EDITORIAL (the editor's page heads, folio notes in the margin and footnotes)",
+ "comment": "Frame 028, printed p. 22: addition of fractions with the carrying of sixty; subtraction, borrowing one from the place above as sixty parts; doubling and halving of fractions; other fractions worked like minutes and seconds.",
+ "lines": [
+  {
+   "id": "AK02-F028-L01",
+   "n": 1,
+   "kind": "indent",
+   "text": "Et similiter uniuersas differentias fractionum sub se inui-",
+   "margin": null,
+   "plain": "Et similiter uniuersas differentias fractionum sub se inui-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "cem; et quotienscumque collecta fuerint in aliqua mansione",
+   "margin": null,
+   "plain": "cem; et quotienscumque collecta fuerint in aliqua mansione",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L03",
+   "n": 3,
+   "kind": "text",
+   "text": ".{sc:lx}., uel plus, ponemus in loco eorum, idest in eorum diffe-",
+   "margin": null,
+   "plain": ".lx., uel plus, ponemus in loco eorum, idest in eorum diffe-",
+   "italic": [],
+   "small_caps": [
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "rentia quicquid residuum fuerit super .{sc:lx}.; et faciemus de",
+   "margin": null,
+   "plain": "rentia quicquid residuum fuerit super .lx.; et faciemus de",
+   "italic": [],
+   "small_caps": [
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "omni .{sc:lx}. unum.|Ponemus eum in superiora ({i:sic}) differentia: et",
+   "margin": "car. 109 {i:verso}.",
+   "plain": "omni .lx. unum.|Ponemus eum in superiora (sic) differentia: et",
+   "italic": [
+    "sic"
+   ],
+   "small_caps": [
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "similiter si uoluerimus inuenire fractiones, incipiemus a supe-",
+   "margin": null,
+   "plain": "similiter si uoluerimus inuenire fractiones, incipiemus a supe-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "riori differentia; minuemusque unamquamque differentiam de",
+   "margin": null,
+   "plain": "riori differentia; minuemusque unamquamque differentiam de",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "ea que supra ipsa est. Quod si fuerit in eadem superiori diffe-",
+   "margin": null,
+   "plain": "ea que supra ipsa est. Quod si fuerit in eadem superiori diffe-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "rentia minus eo quod uolueris, minue ex ea : uel fuerit in ea",
+   "margin": null,
+   "plain": "rentia minus eo quod uolueris, minue ex ea : uel fuerit in ea",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "circulus, minue unum de differentia que est super eam; fiet-",
+   "margin": null,
+   "plain": "circulus, minue unum de differentia que est super eam; fiet-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "que ipsum unum partes .{sc:lx}. de fractione quam operaris; et",
+   "margin": null,
+   "plain": "que ipsum unum partes .lx. de fractione quam operaris; et",
+   "italic": [],
+   "small_caps": [
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "minue ex eo quod operaris; et adde quod residuum fuerit super",
+   "margin": null,
+   "plain": "minue ex eo quod operaris; et adde quod residuum fuerit super",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "differentiam inperfectam: et si fuerit supra ipsam differentiam",
+   "margin": null,
+   "plain": "differentiam inperfectam: et si fuerit supra ipsam differentiam",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "circulus, minue de differentia que est supra eam, unum, et",
+   "margin": null,
+   "plain": "circulus, minue de differentia que est supra eam, unum, et",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "redde eum partes .{sc:lx}. in differentia que est infra ipsam: de-",
+   "margin": null,
+   "plain": "redde eum partes .lx. in differentia que est infra ipsam: de-",
+   "italic": [],
+   "small_caps": [
+    "lx"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "inde minue iterum ex ea etiam unum, et fac eum partes ut",
+   "margin": null,
+   "plain": "inde minue iterum ex ea etiam unum, et fac eum partes ut",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "supra in differentia quam uolueris. Post hec minue ex ea quod",
+   "margin": null,
+   "plain": "supra in differentia quam uolueris. Post hec minue ex ea quod",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "uolueris; et quod residuum fuerit pone in ea differentia qua",
+   "margin": null,
+   "plain": "uolueris; et quod residuum fuerit pone in ea differentia qua",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "finitum est id quod minuitur ex ea.",
+   "margin": null,
+   "plain": "finitum est id quod minuitur ex ea.",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L20",
+   "n": 20,
+   "kind": "indent",
+   "text": "Et cum duplare aliquem numerum uel fractionem, incipe",
+   "margin": null,
+   "plain": "Et cum duplare aliquem numerum uel fractionem, incipe",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "a differentia altiori : de inde ab ea que eam succedit. Cumque",
+   "margin": null,
+   "plain": "a differentia altiori : de inde ab ea que eam succedit. Cumque",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "collectum fuerit in aliqua differentiarum aliud plus numero",
+   "margin": null,
+   "plain": "collectum fuerit in aliqua differentiarum aliud plus numero",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "eius partium, pone superfluum in ea differentia, et subleua",
+   "margin": null,
+   "plain": "eius partium, pone superfluum in ea differentia, et subleua",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "unum a differentia que est supra ipsam. In mediatione autem",
+   "margin": null,
+   "plain": "unum a differentia que est supra ipsam. In mediatione autem",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "incipies ab inferiori differentia, mediabisque illam; deinde se-",
+   "margin": null,
+   "plain": "incipies ab inferiori differentia, mediabisque illam; deinde se-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "quentem : et si inueneris ibi unum, fac de eo quemadmodum",
+   "margin": null,
+   "plain": "quentem : et si inueneris ibi unum, fac de eo quemadmodum",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "exposui tibi in inicio libri. Et si uolueris multiplicare fractiones",
+   "margin": null,
+   "plain": "exposui tibi in inicio libri. Et si uolueris multiplicare fractiones",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "et numerum, ac fractiones extra minuta, uel secunda, ut sunt",
+   "margin": null,
+   "plain": "et numerum, ac fractiones extra minuta, uel secunda, ut sunt",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "quarte et septime, ac cetere partes his similes, et diuidere eas",
+   "margin": null,
+   "plain": "quarte et septime, ac cetere partes his similes, et diuidere eas",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "in inuicem, erit opus in eis sicut opus minutorum et secundo-",
+   "margin": null,
+   "plain": "in inuicem, erit opus in eis sicut opus minutorum et secundo-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "rum; et constituam tibi exemplar, si deus uoluerit. Et iam pa-",
+   "margin": null,
+   "plain": "rum; et constituam tibi exemplar, si deus uoluerit. Et iam pa-",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "tefeci tibi in multiplicacione minutorum et secundorum ac",
+   "margin": null,
+   "plain": "tefeci tibi in multiplicacione minutorum et secundorum ac",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  },
+  {
+   "id": "AK02-F028-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "terciorum de duobus numeris, quos uolueris multiplicare in",
+   "margin": null,
+   "plain": "terciorum de duobus numeris, quos uolueris multiplicare in",
+   "italic": [],
+   "small_caps": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «( 22 )» stands at the head of the page, centred. The page has no footnotes and no signature.",
+  "L01-L05: addition of fractions: the places set under one another; where sixty or more collect in a place, what is left above sixty stays there, and of each sixty one is made and set in the place above. L05-L19: subtraction: begin at the highest place and take each place from the one above it; where a place has less than is to be taken, or a circle, one is taken from the place above and becomes sixty parts of the fraction worked with; where the place above holds a circle too, one is taken from the next place up and brought down in the same way. L20-L24: doubling: begin at the highest place, then the next; where a place collects more than its parts, the excess stays and one is lifted to the place above. L24-L27: halving: begin at the lowest place, then the next; a one found there is treated as explained at the beginning of the book. L27-L33: other fractions, quarters and sevenths, are multiplied and divided as minutes and seconds; an example is promised. The page ends in the course of the sentence.",
+  "L05: the vertical bar in «unum.|Ponemus», set close to the point before it and the word after it, marks the beginning of fol. 109 verso of the manuscript, which the note in the left margin, «car. 109 verso.», names; transcribed as a margin note. L05: «superiora (sic)»: the edition marks the form with «(sic)» in italics. L13 «inperfectam» and L31 «deus», with a small d (p. 17, L22, has «Deus»), are transcribed as printed.",
+  "Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): with a space before the mark, L09 «ea :» (21 px), L21 «altiori :» (12 px) and L26 «quentem :» (21 px). L05 «differentia:» and L18 «uolueris;» (7 px) are set close. L13 «inperfectam: et» (13 px, the median word space of the line 16 px) and L31 «uoluerit. Et» (12 to 14 px, median 18 px) have a space. L27 is set close throughout, its word spaces 8 to 10 px; the words are transcribed with spaces. A speck between «.lx.» and «unum» (L05) and a pencil mark after the comma of L09 «uolueris,» shorten the measured gaps; the gaps to the next word are 19 px.",
+  "L09: «ea :» is a printed colon, to which a reader has added a light tail in pencil (darkest pixel 136); the semicolons of L02, L04, L07, L10, L11, L12, L18, L25 and L31 have printed tails (darkest pixel 44 to 69). L12: a faint dot after «eo» (darkest pixel above 90), lighter than the print, is not transcribed."
+ ],
+ "copy_matter": [
+  "A reader's notes in pencil: «quod» in the left margin beside L02, L13 and L31, with «et» underlined in each line; «minuere» in the left margin beside L09 and L10, with «minue» underlined in L09; L09, a tail added below the colon of «ea :»; L12, «super» underlined and «supra» in the right margin; L15, a small stroke after «infra»; L21, «de» and «inde» joined by an arc, with a stroke through the d of «inde»; «etiam?» in the left margin beside L24, with a stroke above «autem»; L27, «Et» underlined, and a brace, a bracket and «quod» in the left margin beside L27-L28. Not part of the edition."
+ ],
+ "critical_notes": []
+}

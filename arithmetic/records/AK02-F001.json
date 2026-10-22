@@ -1,0 +1,18 @@
+{
+ "anchor": "AK02-F001",
+ "frame": 1,
+ "frame_file": "page_001.jpg",
+ "frame_sha256": "00b953a6d092c85599240d9fafaecd96d950e08d3c25833ed3ea3aa7793ecc5d",
+ "printed_page": "-",
+ "kind": "binding",
+ "role": "COPY_PROVENANCE (binding)",
+ "comment": "Frame 001: the front of the library's cover of grey-blue card, with its label.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [],
+ "copy_matter": [
+  "A cover of grey-blue card, the library's, with a white label at the lower left: «<36626359630013», with a red «S» stamped beside it, «<36626359630013» and «Bayer. Staatsbibliothek»; the print of the title of the wrapper (frame 003) shows faintly on the card in mirror image. Not part of the edition."
+ ],
+ "critical_notes": []
+}

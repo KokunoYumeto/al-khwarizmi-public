@@ -1,0 +1,41 @@
+@page 33 ٢٧
+% Frame 033, printed p. 27: the cities of the fifth clime continued, entries 385-400: Qūmis, Ṭamīs near the sea,
+% Astarābādh, Jurjān near the sea, Nīsābūr, Ṭūs, Sarakhs, Marw, Marw al-Rūdh, Ammūya, Bukhārā, Balkh, Samarqand,
+% Ushrūsana, Khujanda and Banākath. Four lines of the editor's footnotes, the last holding one word.
+@r (٣٨٥) | [٣٦٥] | قومس | عح | يه | لو | كه
+@r (٣٨٦) | | طميس قرب البحر | عح | م | لح | م
+@r (٣٨٧) | | استاراباذ{n:a} | عط | ن | لح | مه
+@r (٣٨٨) | [٣٣٩] | جرجان قرب البحر | ڡ | مه | لح | ن
+@r (٣٨٩) | [٣٤٠] | نيسابور{n:b} | ف | مه | لز | {z}
+@r (٣٩٠) | [٣٤١] | طوس | قب | ن | لز | {z}
+@r (٣٩١) | [٣٤٢] | سرخس | ڡح | ك | لح | {z}
+@r (٣٩٢) | [٣٤٣] | مرو | فد | ك | لح | له
+@r (٣٩٣) | [٣٤٤] | مرو الروذ{n:c} | ڡه | {z} | لح | ن
+@r (٣٩٤) | [٣٤٥] | امّويه{n:d} | فه | مه | لر | م
+@r (٣٩٥) | [٣٤٦] | بخارا | ڡر | ك | لر | ن
+@r (٣٩٦) | [٣٤٧] | بلخ | ڡح | له | لح | م
+@r (٣٩٧) | [٣٤٨] | سمرقند | ڡط | ل | لر | ل
+@r (٣٩٨) | [٣٤٩] | اشروسنة{n:e} | صا | ى | لو | م
+@r (٣٩٩) | [٣٥٠] | خجندة{n:f} | صٮ | ل | لز | ى
+@r (٤٠٠) | [٣٥١] | بناكث{n:g} | صد | ل | لج | ل
+@ednotes a b c d e f g 4
+@obs The table goes on from frame 032 without a heading: the cities of the fifth clime, entries 385-400. No entry has the word «مدينة». Entries 386 and 387 have no number of Suhrāb; the others have [٣٦٥] (entry 385) and [٣٣٩]-[٣٥١] (entries 388-400).
+@obs Signs in the names, transcribed as printed: L10: «امّويه», with a shadda over the م.
+@obs L10: to the left of the note mark d stand a small curved stroke like an apostrophe, 6 by 8 px, and a round blot, 13 by 13 px, at the height of the note mark. Neither has the form of the editor's asterisk, a six-pointed star (frame 029, L08), and the notes do not mention them; not transcribed.
+@obs Letters printed without their dots in the numerals, transcribed so: the loop of ف or ق without dots in the degrees of the longitude, ڡ (L04), the isolated letter, a loop on a long flat bowl, 80, where L05 prints the same letter with its dot, ف; ڡح (L07, L12), ڡه (L09), ڡر (L11) and ڡط (L13); صٮ (L15), the ص and a final ب without its dot, 92. With their dots: ف (L05), فد (L08), فه (L10); قب (L06), the two dots of the ق above and the dot of the ب below; ن (L03, L06, the minutes of the longitude; L04, L09, L11, the minutes of the latitude); يه (L01); the ز of لز (L05, L06, L15).
+@obs L11: the degrees of the longitude, ڡر: the loop without dots joined to a ر; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed. A speck, 5 by 5 px, stands some 45 px to the left of the loop, at the height of its top and away from the head of the ر, above which the dot of a ز would stand; it is not transcribed.
+@obs The degrees printed with a final ح, عح (L01, L02), ڡح (L07, L12) and لح (L02-L04, L07-L09, L12), show no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.
+@obs L16: the degrees of the latitude, لج: a round dot, 6 by 6 px and as dark as the letters, stands in the bowl below the head of the ج, where this font sets the dot of the letter; it is smaller than the dot of the ج on frames 030 (L14) and 032 (L10), 8 to 9 px across. Transcribed لج, 33; the latitudes of the other entries of the page are 36 to 38 degrees.
+@obs L06: the degrees of the longitude, قب, 102, are printed with the two dots of the ق and the dot of the ب; the longitudes of the other entries of the page are 78 to 94 degrees. Transcribed as printed; the editor has no note on the entry.
+@obs The isolated ك, 20, is printed with the small inner stroke of the letter (L07, L08, L11, the minutes of the longitude).
+@obs Specks, not transcribed: L02, a speck to the right of the ع of the degrees of the longitude; L05, a speck, 4 by 4 px, to the right of the dot of the ف of the degrees of the longitude and lower than it, where the dot is 9 by 10 px; L06, a short horizontal stroke at the foot of the zero of the running number, between the zero and the bracket beside it; L07, two small dark specks to the right of the zero sign of the minutes of the latitude; L09, a dark speck below the line between the minutes and the degrees of the longitude; L13, a short dash to the left of the ل of the minutes of the longitude; L16, a short dash to the right of the ل of the degrees of the latitude.
+@obs L10, L11, L13, the degrees of the latitude: «لر»: the letter joined to the foot of the ل has the small pointed head of the joined ر, which stands out 6 to 7 px from the stem, as the ز of «لز» with its dot (L05, L06, L15, 7 to 8 px), where the و of «لو» (L01, L14) is a round loop that stands out 12 to 13 px and begins higher on the stem; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed, which read with ز gives 37.
+@obs The page number «— ٢٧ —» stands at the foot, centred.
+@copy A faint wavy grey hairline lies in the space between the number of Suhrāb and the running number of entry 388 (L04), a fibre on the paper.
+@variant L03: the manuscript reads استاراٮار, with a final ر for the ذ and without the dot of the ب.
+@variant L05: the manuscript reads ٮسابور, with a single tooth without a dot before the س; at entries (813-814) the name is written نساٮور, without the ي and without the dot of the ب.
+@variant L09: the manuscript reads مرواروذ, as one word; at entry (1975) the name is written مروارود.
+@variant L10: the manuscript reads امونه.
+@variant L14: the manuscript reads اسروسنه, without the dots of the ش and with a final ه, here and at entry (2207).
+@variant L15: the manuscript reads ححنده, without the dots of the خ and the ج and with a final ه; at entry (2207) the name is written خحنده, without the dot of the ج.
+@variant L16: the manuscript reads نياكت.

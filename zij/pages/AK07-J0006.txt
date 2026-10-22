@@ -1,0 +1,5 @@
+@page 6 [II]
+@kind provenance
+% JP2 0006: the back of the title page; nothing printed; a shelfmark and a library stamp.
+@obs Nothing is printed on the back of the title page; large stains of damp run down from the top, as on the title page (JP2 0005).
+@copy In pencil, the shelfmark «(2) AJB.CA.AA2», at mid-height on the left; at the lower left, the round stamp of the Wellcome Institute library, «WELLCOME» above, «LIBRARY» across the middle, «INSTITUTE» below.

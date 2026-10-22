@@ -1,0 +1,32 @@
+{
+ "anchor": "AK01-F028",
+ "frame": 28,
+ "frame_file": "page_028.jpg",
+ "frame_sha256": "ec66480aeb63597963c4246061b591086b7671c56d1c3f4c05daebf95944ed81",
+ "printed_page": "-",
+ "kind": "facsimile",
+ "role": "MODERN_EDITORIAL (plate: facsimile of the manuscript)",
+ "comment": "Frame 028: a plate: the facsimile, in a line block, of the first page of the text in the manuscript, from the basmala to the description of the uses of algebra, with notes in its margins; it faces the first page of the edition's text (frame 029).",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [
+  {
+   "id": "AK01-F028-FIG1",
+   "rect": [
+    180,
+    500,
+    2060,
+    3340
+   ],
+   "after": null
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The facsimile is reproduced as an image; its handwritten text is not transcribed. Its lines correspond to the edition's text of frames 029-030."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,758 @@
+{
+ "anchor": "AK07-J0013",
+ "jp2_index": 13,
+ "jp2_member": "b24872489_0013.jp2",
+ "jp2_sha256": "dfe86fc6cf2c6ad8fc35bf86f139f0f149a406bea88954e64d47408ba255f6a9",
+ "reading_copy": "page_0013.jpg",
+ "reading_copy_sha256": "8f652f25b1d96f522902fe3f3b118b6ef582164e91f654ecef41e37b63dab0aa",
+ "printed_page": "IX",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0013: the introduction, p. IX: al-Khwarizmi's other works (the geography, the chronicle, writings on sundials and astrolabes); 2. Maslama al-Majriti, his works; the report of Ibn Sa'id on Maslama's recension of the tables.",
+ "lines": [
+  {
+   "id": "AK07-J0013-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "({i:ṣūrat al-arḍ}), die eine ziemlich selbständige Bearbeitung der Geographie des {sp:Ptole-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(ṣūrat al-arḍ), die eine ziemlich selbständige Bearbeitung der Geographie des Ptole-",
+   "italic": [
+    "ṣūrat al-arḍ"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Ptole-"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "{sp:mäus} darstellt, in Strassburg noch arabisch vorhanden{sup:1}) ; eine {i:Chronik} ({i:kitāb al-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mäus darstellt, in Strassburg noch arabisch vorhanden1) ; eine Chronik (kitāb al-",
+   "italic": [
+    "Chronik",
+    "kitāb al-"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "mäus"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "{i:ta’rīkh}), und noch drei Schriften über Sonnenuhren und Astrolabien, die alle nicht",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ta’rīkh), und noch drei Schriften über Sonnenuhren und Astrolabien, die alle nicht",
+   "italic": [
+    "ta’rīkh"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "mehr vorhanden sind. Die „indische Rechenkunst“ und die „Algebra“ sind die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mehr vorhanden sind. Die „indische Rechenkunst“ und die „Algebra“ sind die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "Werke, denen man hauptsächlich die erste Bekanntschaft mit diesen Disziplinen im",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Werke, denen man hauptsächlich die erste Bekanntschaft mit diesen Disziplinen im",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "christlichen Abendlande zu verdanken hat ; vielleicht, wir können dies nicht mit",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "christlichen Abendlande zu verdanken hat ; vielleicht, wir können dies nicht mit",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "Sicherheit behaupten, bildeten auch seine astronomischen Tafeln in der Bearbeitung",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Sicherheit behaupten, bildeten auch seine astronomischen Tafeln in der Bearbeitung",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "{sp:Maslamas} die Grundlage für die späteren astronomischen Arbeiten im west-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Maslamas die Grundlage für die späteren astronomischen Arbeiten im west-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Maslamas"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "arabischen und christlichen Mittelalter.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "arabischen und christlichen Mittelalter.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L10",
+   "n": 10,
+   "kind": "indent",
+   "text": "2. {sp:Maslama b. Aḥmed al-Madjrīṭī, Abū’l-Ḳāsim}, aus Cordova, lebte",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "2. Maslama b. Aḥmed al-Madjrīṭī, Abū’l-Ḳāsim, aus Cordova, lebte",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Maslama b. Aḥmed al-Madjrīṭī, Abū’l-Ḳāsim"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "zur Zeit {sp:Ḥakems} II. (961—976) und {sp:Hishāms} II. (976—1013) und starb 1007/08.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zur Zeit Ḥakems II. (961—976) und Hishāms II. (976—1013) und starb 1007/08.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ḥakems",
+    "Hishāms"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "Er war zu seiner Zeit der bedeutendste Mathematiker und Astronom des arabischen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Er war zu seiner Zeit der bedeutendste Mathematiker und Astronom des arabischen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "Spaniens, seine Hauptwerke sind : Über das {i:kaufmännische} oder {i:Geschäfts-Rechnen}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Spaniens, seine Hauptwerke sind : Über das kaufmännische oder Geschäfts-Rechnen",
+   "italic": [
+    "kaufmännische",
+    "Geschäfts-Rechnen"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "({i:al-muʿāmalāt}), weder arabisch noch in Übersetzung vorhanden ; über {i:Konstruktion}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(al-muʿāmalāt), weder arabisch noch in Übersetzung vorhanden ; über Konstruktion",
+   "italic": [
+    "al-muʿāmalāt",
+    "Konstruktion"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "{i:und Gebrauch des Astrolabiums}, arabisch noch vorhanden im Escurial ; Übersetzung",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "und Gebrauch des Astrolabiums, arabisch noch vorhanden im Escurial ; Übersetzung",
+   "italic": [
+    "und Gebrauch des Astrolabiums"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "und Kommentar des {i:Planisphärium} des {sp:Ptolemäus}, ins Lateinische übersetzt von",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "und Kommentar des Planisphärium des Ptolemäus, ins Lateinische übersetzt von",
+   "italic": [
+    "Planisphärium"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Ptolemäus"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "{sp:Hermannus Dalmata}, gedruckt zu Basel 1536 und Venedig 1558 ; ein {i:Auszug}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Hermannus Dalmata, gedruckt zu Basel 1536 und Venedig 1558 ; ein Auszug",
+   "italic": [
+    "Auszug"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Hermannus Dalmata"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "aus den {i:Tafeln} {sp:Al-Battānīs}, nicht mehr vorhanden ; die {i:Umarbeitung der Tafeln}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "aus den Tafeln Al-Battānīs, nicht mehr vorhanden ; die Umarbeitung der Tafeln",
+   "italic": [
+    "Tafeln",
+    "Umarbeitung der Tafeln"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Al-Battānīs"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "{sp:Al-Khwārizmīs}, nur noch in der lateinischen Übersetzung des {sp:Athelhard von}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Al-Khwārizmīs, nur noch in der lateinischen Übersetzung des Athelhard von",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Khwārizmīs",
+    "Athelhard von"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "{sp:Bath} vorhanden, die wir hier der Öffentlichkeit übergeben.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Bath vorhanden, die wir hier der Öffentlichkeit übergeben.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Bath"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L21",
+   "n": 21,
+   "kind": "indent",
+   "text": "Wir geben hier auch noch die Stelle in wörtlicher Übersetzung wieder, die der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wir geben hier auch noch die Stelle in wörtlicher Übersetzung wieder, die der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "spanisch-arabische Historiker {sp:Ibn Ṣāʿid} (gest. 1070 in Toledo){sup:2}) über die Bearbeitung",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "spanisch-arabische Historiker Ibn Ṣāʿid (gest. 1070 in Toledo)2) über die Bearbeitung",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ibn Ṣāʿid"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "der Tafeln {sp:Al-Khwārizmīs} durch {sp:Maslama} uns überliefert hat{sup:3}) : „Er beschäftigte",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Tafeln Al-Khwārizmīs durch Maslama uns überliefert hat3) : „Er beschäftigte",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Khwārizmīs",
+    "Maslama"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "sich mit der Bearbeitung der Tafeln {sp:Al-Khwārizmīs} ; er wandelte die persische",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sich mit der Bearbeitung der Tafeln Al-Khwārizmīs ; er wandelte die persische",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Khwārizmīs"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "Zeitrechnung derselben in die arabische um, und bestimmte die mittlern Örter der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Zeitrechnung derselben in die arabische um, und bestimmte die mittlern Örter der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "Planeten für den Beginn der {i:Hidjra} ; er fügte zu dem Werke noch weitere schöne",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Planeten für den Beginn der Hidjra ; er fügte zu dem Werke noch weitere schöne",
+   "italic": [
+    "Hidjra"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "Tafeln hinzu, in denen er jedoch ihm (d. h. {sp:Khwārizmī}) genau folgte und nicht",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Tafeln hinzu, in denen er jedoch ihm (d. h. Khwārizmī) genau folgte und nicht",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Khwārizmī"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "auf die Fehler in seinem Werke aufmerksam machte ; ich habe auf diesen Umstand",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "auf die Fehler in seinem Werke aufmerksam machte ; ich habe auf diesen Umstand",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "hingewiesen in meinem Buche „über die Verbesserung der Bewegung der Planeten",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "hingewiesen in meinem Buche „über die Verbesserung der Bewegung der Planeten",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "und die Belehrung über die Irrtümer der Astronomen“.“",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "und die Belehrung über die Irrtümer der Astronomen“.“",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L31",
+   "n": 31,
+   "kind": "indent",
+   "text": "Diese Stelle beweist uns also, dass nicht alle Tafeln in dieser Bearbeitung von",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Diese Stelle beweist uns also, dass nicht alle Tafeln in dieser Bearbeitung von",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "{sp:Al-Khwārizmī} herstammen ; welches aber diejenigen sind, die {sp:Maslama} hinzu-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Al-Khwārizmī herstammen ; welches aber diejenigen sind, die Maslama hinzu-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Al-Khwārizmī",
+    "Maslama"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "gefügt hat, ist schwer zu entscheiden, wir haben auf diesen Punkt schon oben auf-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "gefügt hat, ist schwer zu entscheiden, wir haben auf diesen Punkt schon oben auf-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "merksam gemacht und kommen auf denselben noch im Kommentar zurück. — Mit",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "merksam gemacht und kommen auf denselben noch im Kommentar zurück. — Mit",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L35",
+   "n": 35,
+   "kind": "text",
+   "text": "der Bemerkung, {sp:Maslama} habe die Fehler {sp:Al-Khwārizmīs} nicht bemerkt, oder",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Bemerkung, Maslama habe die Fehler Al-Khwārizmīs nicht bemerkt, oder",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Maslama",
+    "Al-Khwārizmīs"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L36",
+   "n": 36,
+   "kind": "text",
+   "text": "nicht auf dieselben aufmerksam gemacht, meint er wohl in erster Linie die Nicht-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nicht auf dieselben aufmerksam gemacht, meint er wohl in erster Linie die Nicht-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "beachtung der Praezession der Aequinoctialpunkte.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "beachtung der Praezession der Aequinoctialpunkte.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Vergl. C. A. {sp:Nallino} : {i:Al-Ḫuwārizmī e il suo rifacimento della geografia di Tolomeo}, in den",
+   "margin": null,
+   "plain": "1) Vergl. C. A. Nallino : Al-Ḫuwārizmī e il suo rifacimento della geografia di Tolomeo, in den",
+   "italic": [
+    "Al-Ḫuwārizmī e il suo rifacimento della geografia di Tolomeo"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Nallino"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "Memorie della Reale Accademia dei Lincei (Classe di scienze morali, storiche e filologiche), Serie 5,",
+   "margin": null,
+   "plain": "Memorie della Reale Accademia dei Lincei (Classe di scienze morali, storiche e filologiche), Serie 5,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "Vol. II., P. I., Roma, 1894.",
+   "margin": null,
+   "plain": "Vol. II., P. I., Roma, 1894.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-N04",
+   "n": 4,
+   "kind": "note",
+   "text": "{sup:2}) Vergl. meine oben (p. VII) zitierte Arbeit, p. 106.",
+   "margin": null,
+   "plain": "2) Vergl. meine oben (p. VII) zitierte Arbeit, p. 106.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-N05",
+   "n": 5,
+   "kind": "note",
+   "text": "{sup:3}) Aus der Ausgabe seines Werkes {i:Ṭabaḳāt al-umam} (= Klassen der Völker) durch L. {sp:Cheikho},",
+   "margin": null,
+   "plain": "3) Aus der Ausgabe seines Werkes Ṭabaḳāt al-umam (= Klassen der Völker) durch L. Cheikho,",
+   "italic": [
+    "Ṭabaḳāt al-umam"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Cheikho"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0013-N06",
+   "n": 6,
+   "kind": "note",
+   "text": "S. J., Beirut 1912, p. 69.",
+   "margin": null,
+   "plain": "S. J., Beirut 1912, p. 69.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «IX» stands at the head of the page, centred, with a rule below it.",
+  "N01: «Al-Ḫuwārizmī», in Nallino's transliteration, with an arc under the H (ḫ). L10 «2.» numbers the second biography. L30 «Astronomen“.“»: the inner quotation closes before the full stop, the outer after it.",
+  "L37: a dark speck at mid-height between «beachtung» and «der»; not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

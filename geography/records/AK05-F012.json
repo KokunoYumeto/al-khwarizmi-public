@@ -1,0 +1,420 @@
+{
+ "anchor": "AK05-F012",
+ "frame": 12,
+ "frame_file": "page_012.jpg",
+ "frame_sha256": "ea5ccc2921b6f952a457b764b90534a5fdde0d841e9e9c85606e337730b5f722",
+ "printed_page": "٦",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 012, printed p. 6: the cities of the first clime continued, entries 35-52: Sūnā, Ẓafār and Dāẓa on the sea, three cities on the island of al-Mīdh, five places without the word «مدينة» and without numbers of Suhrāb (ʿAlwa Baḥriyya, Fazzān, Zaghāwa, Kawkaw, Ghāna), then the coast of Sind and Sarandīb to Marwā on the sea. Two lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F012-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٣٥) | [١٨ ٥٨] | مدينة سونا{n:a} | عه | {z} | يه | ل",
+   "margin": null,
+   "cells": [
+    "(٣٥)",
+    "[١٨ ٥٨]",
+    "مدينة سونا{n:a}",
+    "عه",
+    "{z}",
+    "يه",
+    "ل"
+   ],
+   "plain": "(٣٥) | [١٨ ٥٨] | مدينة سونا | عه | ō | يه | ل",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٣٦) | [١٩] | مدينة ظفار | عح | {z} | ٮه | {z}",
+   "margin": null,
+   "cells": [
+    "(٣٦)",
+    "[١٩]",
+    "مدينة ظفار",
+    "عح",
+    "{z}",
+    "ٮه",
+    "{z}"
+   ],
+   "plain": "(٣٦) | [١٩] | مدينة ظفار | عح | ō | ٮه | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٣٧) | [٢٠] | مدينة على البحر داظه | ڡ | {z} | يد | ل",
+   "margin": null,
+   "cells": [
+    "(٣٧)",
+    "[٢٠]",
+    "مدينة على البحر داظه",
+    "ڡ",
+    "{z}",
+    "يد",
+    "ل"
+   ],
+   "plain": "(٣٧) | [٢٠] | مدينة على البحر داظه | ڡ | ō | يد | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٣٨) | [٢١] | مدينة في جزيرة الميذ | ڡد | ل | ٮٮ | {z}",
+   "margin": null,
+   "cells": [
+    "(٣٨)",
+    "[٢١]",
+    "مدينة في جزيرة الميذ",
+    "ڡد",
+    "ل",
+    "ٮٮ",
+    "{z}"
+   ],
+   "plain": "(٣٨) | [٢١] | مدينة في جزيرة الميذ | ڡد | ل | ٮٮ | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٣٩) | [٢٢] | مدينة في جزيرة الميذ | ڡر | {z} | ط | {z}",
+   "margin": null,
+   "cells": [
+    "(٣٩)",
+    "[٢٢]",
+    "مدينة في جزيرة الميذ",
+    "ڡر",
+    "{z}",
+    "ط",
+    "{z}"
+   ],
+   "plain": "(٣٩) | [٢٢] | مدينة في جزيرة الميذ | ڡر | ō | ط | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٤٠) | [٢٣] | مدينة فى جزيرة الميذ | ڡط | {z} | يج | ل",
+   "margin": null,
+   "cells": [
+    "(٤٠)",
+    "[٢٣]",
+    "مدينة فى جزيرة الميذ",
+    "ڡط",
+    "{z}",
+    "يج",
+    "ل"
+   ],
+   "plain": "(٤٠) | [٢٣] | مدينة فى جزيرة الميذ | ڡط | ō | يج | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٤١) | | علوه بحريّة | س | {z} | ٮٮ | ك",
+   "margin": null,
+   "cells": [
+    "(٤١)",
+    "",
+    "علوه بحريّة",
+    "س",
+    "{z}",
+    "ٮٮ",
+    "ك"
+   ],
+   "plain": "(٤١) | | علوه بحريّة | س | ō | ٮٮ | ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٤٢) | | فزّان | سٮ | {z} | ٮا | مه",
+   "margin": null,
+   "cells": [
+    "(٤٢)",
+    "",
+    "فزّان",
+    "سٮ",
+    "{z}",
+    "ٮا",
+    "مه"
+   ],
+   "plain": "(٤٢) | | فزّان | سٮ | ō | ٮا | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٤٣) | | زغاوه | س | ٮه | ٮا | {z}",
+   "margin": null,
+   "cells": [
+    "(٤٣)",
+    "",
+    "زغاوه",
+    "س",
+    "ٮه",
+    "ٮا",
+    "{z}"
+   ],
+   "plain": "(٤٣) | | زغاوه | س | ٮه | ٮا | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٤٤) | | كوكو{n:b} | مح | {z} | ى | ٮه",
+   "margin": null,
+   "cells": [
+    "(٤٤)",
+    "",
+    "كوكو{n:b}",
+    "مح",
+    "{z}",
+    "ى",
+    "ٮه"
+   ],
+   "plain": "(٤٤) | | كوكو | مح | ō | ى | ٮه",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٤٥) | | غانه | مد | ل | ى | مه",
+   "margin": null,
+   "cells": [
+    "(٤٥)",
+    "",
+    "غانه",
+    "مد",
+    "ل",
+    "ى",
+    "مه"
+   ],
+   "plain": "(٤٥) | | غانه | مد | ل | ى | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٤٦) | [٢٤] | مسڡلى من السند على البحر | قى | {z} | يه | ل",
+   "margin": null,
+   "cells": [
+    "(٤٦)",
+    "[٢٤]",
+    "مسڡلى من السند على البحر",
+    "قى",
+    "{z}",
+    "يه",
+    "ل"
+   ],
+   "plain": "(٤٦) | [٢٤] | مسڡلى من السند على البحر | قى | ō | يه | ل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٤٧) | [٢٥] | مودٮرس{n:c} على البحر | ڡٮ | ٮه | يد | ل",
+   "margin": null,
+   "cells": [
+    "(٤٧)",
+    "[٢٥]",
+    "مودٮرس{n:c} على البحر",
+    "ڡٮ",
+    "ٮه",
+    "يد",
+    "ل"
+   ],
+   "plain": "(٤٧) | [٢٥] | مودٮرس على البحر | ڡٮ | ٮه | يد | ل",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٤٨) | [٢٦] | مدينة فيرواٮ | ڡٮه | {z} | ٮو | {z}",
+   "margin": null,
+   "cells": [
+    "(٤٨)",
+    "[٢٦]",
+    "مدينة فيرواٮ",
+    "ڡٮه",
+    "{z}",
+    "ٮو",
+    "{z}"
+   ],
+   "plain": "(٤٨) | [٢٦] | مدينة فيرواٮ | ڡٮه | ō | ٮو | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٤٩) | [٢٧] | ڡطرا{n:d} على البحر | ڡٮه | ٮه | يد | {z}",
+   "margin": null,
+   "cells": [
+    "(٤٩)",
+    "[٢٧]",
+    "ڡطرا{n:d} على البحر",
+    "ڡٮه",
+    "ٮه",
+    "يد",
+    "{z}"
+   ],
+   "plain": "(٤٩) | [٢٧] | ڡطرا على البحر | ڡٮه | ٮه | يد | ō",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٥٠) | [٢٨] | سندونا من سرنديب على البحر | قير | ٮه | د | {z}",
+   "margin": null,
+   "cells": [
+    "(٥٠)",
+    "[٢٨]",
+    "سندونا من سرنديب على البحر",
+    "قير",
+    "ٮه",
+    "د",
+    "{z}"
+   ],
+   "plain": "(٥٠) | [٢٨] | سندونا من سرنديب على البحر | قير | ٮه | د | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "(٥١) | [٢٩] | اٮودى{n:e} من سرنديب على البحر | ڡٮح | ٮه | د | ل",
+   "margin": null,
+   "cells": [
+    "(٥١)",
+    "[٢٩]",
+    "اٮودى{n:e} من سرنديب على البحر",
+    "ڡٮح",
+    "ٮه",
+    "د",
+    "ل"
+   ],
+   "plain": "(٥١) | [٢٩] | اٮودى من سرنديب على البحر | ڡٮح | ٮه | د | ل",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F012-L18",
+   "n": 18,
+   "kind": "row",
+   "text": "(٥٢) | [٣٠] | مدينة مروٮا على البحر | فك | {z} | ٮو | ٮه",
+   "margin": null,
+   "cells": [
+    "(٥٢)",
+    "[٣٠]",
+    "مدينة مروٮا على البحر",
+    "فك",
+    "{z}",
+    "ٮو",
+    "ٮه"
+   ],
+   "plain": "(٥٢) | [٣٠] | مدينة مروٮا على البحر | فك | ō | ٮو | ٮه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e"
+   ],
+   "lines": 2,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: at entry (1694) the name سونا is written سرنا.",
+  "L10: for كوكو the manuscript reads كنكو.",
+  "L13: for مودٮرس the editor records the variant reading موزرس; at entry (1188) the name is written موزيرس.",
+  "L15: at entry (1187) the name ڡطرا is written قطرا.",
+  "L17: at entry (1699) the name اٮودى is written اموزى, indistinctly."
+ ],
+ "unresolved": [],
+ "observations": [
+  "L01: the bracket of the numbers of Suhrāb holds two numbers, «١٨» above «٥٨», printed one above the other within one pair of square brackets; transcribed «[١٨ ٥٨]».",
+  "L07-L11: entries 41-45, ʿAlwa Baḥriyya, Fazzān, Zaghāwa, Kawkaw and Ghāna, are printed without the word «مدينة» and without numbers of Suhrāb. A short horizontal stroke crosses the left parenthesis of the running number «(٤٥)» (L11), a flaw of the print.",
+  "L04-L06: «في» is printed with the two dots of the final ي in L04 and L05, «فى» without them in L06; transcribed as printed. L07: «بحريّة» and L08: «فزّان» are printed with a shadda.",
+  "Letters printed without their dots, transcribed so (the editor keeps the defective writing of the manuscript): in the names مسڡلى (L12; the loop of ف or ق, a round loop with a counter standing on the line, as the medial ف of the font, where the medial ع of صنعاء, frame 011, L06, is a solid, flat-topped form), مودٮرس (L13; at entry (1188) the name is written موزيرس, with ز and ي), فيرواٮ (L14, the final ب), ڡطرا (L15; at entry (1187) قطرا), اٮودى (L17, the tooth before the و) and مروٮا (L18, the tooth before the alif); in the numerals ڡ (L03, an isolated ف), ڡد, ڡر, ڡط (L04-L06), ڡٮ (L13), ڡٮه (L14, L15), ڡٮح (L17), the loop without dots, and سٮ (L08), ٮا (L08, L09), ٮو (L14, L18), the tooth or the final ب without its dot, ٮٮ (L04, L07), a tooth joined to a final ب, both without dots, with two risers at the right end of the bowl where the isolated ب has one, and ٮه (L02, the degrees of the latitude; L09, L13, L15-L17, the minutes of the longitude; L10, L18, the minutes of the latitude), a tooth joined to a final ه, without its dot. Where the print dots them they are transcribed with their dots: قى (L12), قير (L16), فك (L18), يه, يد, يج.",
+  "L14, L15, L17: between the loop and the final ه (L14, L15) or the ح (L17), a short tooth without a dot that rises above the joining stroke, with no part below it, where the medial م of these numerals is a diamond that stands out above and below the stroke (frame 013, L13, «ڡمح») or is set under the ق (frame 082, L16, «قمط»); transcribed ڡٮه and ڡٮح, which read with ق and ي give 115 and 118, beside قى, 110 (L12), and قير, 117 (L16).",
+  "L05: the longitude ڡر: the loop of ف or ق joined to a ر, in the place of a value between those of the other cities of al-Mīdh, ڡد ل and ڡط (L04, L06). In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed. So also قير (L16).",
+  "L08-L09: the degrees of the latitude, ٮا: a tooth joined at its foot to an alif, without dots; transcribed so.",
+  "L18: the longitude فك, with the dot of the ف and the stroke of the ك printed, as printed.",
+  "The page number «— ٦ —» stands at the foot, centred."
+ ],
+ "copy_matter": [
+  "A small curved dark mark, perhaps a fibre, in the lower left margin of the page."
+ ],
+ "critical_notes": []
+}

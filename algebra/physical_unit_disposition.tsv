@@ -1,0 +1,131 @@
+anchor	frame	frame_file	frame_sha256	printed_page	kind	role	text_lines	editors_note_lines	figures	disposition
+AK01-F001	1	page_001.jpg	db3d5058aae0e6aa81f9b51f559c2ef76d27c9d458c1693b20aeeab6e94e637d	-	cover	MODERN_EDITORIAL (the edition's printed wrapper); COPY_PROVENANCE (binding)	17	0	0	transcribed
+AK01-F002	2	page_002.jpg	272012631ea49d57b20b69a34c206e0647d817022e4acfcc11c59e65a7cd3cdc	-	provenance	COPY_PROVENANCE	0	0	0	recorded, not reproduced
+AK01-F003	3	page_003.jpg	9884857418d56b69c2ac8eea0f541b675a78b4e448d3299ce0058c7d604043ce	-	blank	blank	0	0	0	recorded
+AK01-F004	4	page_004.jpg	ca7341bf08b31d9c831c1ddcfc92fd8515b692ba03fc27bf08038b973caa3b48	-	blank	blank	0	0	0	recorded
+AK01-F005	5	page_005.jpg	b89992b872dd3a2a4ec56351d2a8c97f70fc7fc4256412ba5e940ea14301fc3e	-	blank	blank	0	0	0	recorded
+AK01-F006	6	page_006.jpg	b6538f5af46432e7d30f159f5a9dea43a15ebfbb7fba81244e99e3dfc188cec5	-	blank	blank	0	0	0	recorded
+AK01-F007	7	page_007.jpg	e43f6f3a15ee273eb7fd2e3f461fb3e2fe6de954a422dc2eb28d8dceb9262445	-	title	MODERN_EDITORIAL (the edition's title page)	16	0	0	transcribed
+AK01-F008	8	page_008.jpg	3aa9ca925b23c75f6b1d8cdf143dc9fc6908c1c471000c748501565d77b884a8	-	provenance	COPY_PROVENANCE	0	0	0	recorded, not reproduced
+AK01-F009	9	page_009.jpg	e9bcbb02c7ee74bbc0590abdc8bc9fee01cb0d77ff515075d1452ed8c2825aca	-	facsimile	MODERN_EDITORIAL (plate: facsimile of the manuscript)	0	0	1	figure reproduced
+AK01-F010	10	page_010.jpg	9ec4f22aa65e4dc0869ab30146f46e8dc44e915a518ece64787f1640a45a9857	-	blank	blank	0	0	0	recorded
+AK01-F011	11	page_011.jpg	0726a7e397b92c96ae89026df6f0b60a8e1cc5f39dc5f0b54e4271453a85bfc6	-	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F012	12	page_012.jpg	9c7fb029fc006532ad46eb2c6aeb5f1f8a23f2fddb2bc803e15311a68882d74d	-	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F013	13	page_013.jpg	14689288f84bdf71fffb2e9bef7d9e00796fd1c213d9b217fa045c60e1ebda59	[١]	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F014	14	page_014.jpg	295b676dc09e9c65f0f4258ec4d4476ad6e503acf6bcf0343b9f7db8e5aad328	٢	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F015	15	page_015.jpg	59dc4a60c5ab78c1b4adf5a1591d4d6dfb3494ab91efd2ba31bee2b1f3eef4ec	٣	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F016	16	page_016.jpg	a92f2fcf97a4af3145cf3f6c0772578e5bc1c35dbb6d33a70f7cf42b1c2852c2	٤	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F017	17	page_017.jpg	6298674e6c5f0e56a900c4dc2d329db8e1b7843039dee09e0d9e04390555c1ba	٥	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F018	18	page_018.jpg	620e6638aed6130bd492f886e2d668c477472acaaa1b3a06953a97ad819a9a3e	٦	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F019	19	page_019.jpg	55bc1a40d6fa88e31cdb497a52c8b9ebc3a857d528ae440818fd9df36e21d973	٧	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F020	20	page_020.jpg	6bbcec1394c33b036d08adabfb9cb4937c6324e1a6bf5899d2f27c1bc79ddcf4	٨	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F021	21	page_021.jpg	365f03aeaac0b0dec93a5340222dd39f386c1e80a92b37f18e8651d7ebcddd8a	٩	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F022	22	page_022.jpg	a6c8e65ccef906dbc26b950fe77b80a5882b81dfeb0384eaf42d1281ab67fed0	[١٠]	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F023	23	page_023.jpg	e6f5b1a83f85d21794ad7f8fb77b61d4de7113f8356c028a2deed1ee4ec6e277	١١	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F024	24	page_024.jpg	711850e9c95ce00fb81aac6fa759b3cb6bedb513b23b2fda8c6052ecf8a50628	١٢	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F025	25	page_025.jpg	ade91e7869e9113f9120020aca55362ebad91f22d6eb1848817547c99bd4c059	١٣	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F026	26	page_026.jpg	4deb8c35295e2282a0273ab2b16856183503d395b4a9678ec712052680d8f4b3	١٤	editorial	MODERN_EDITORIAL (not reproduced)	0	0	0	recorded, not reproduced
+AK01-F027	27	page_027.jpg	3fa652e0abbe5b43c3f22356d84b496eee531de657931f32332504992db14d0e	-	blank	blank	0	0	0	recorded
+AK01-F028	28	page_028.jpg	ec66480aeb63597963c4246061b591086b7671c56d1c3f4c05daebf95944ed81	-	facsimile	MODERN_EDITORIAL (plate: facsimile of the manuscript)	0	0	1	figure reproduced
+AK01-F029	29	page_029.jpg	4296690791d0691f14809eb7c7fd8c10d18a6002881a8811194e0771673c29f4	[١٥]	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	20	0	0	transcribed
+AK01-F030	30	page_030.jpg	093230e883896a8bd28a9ce3ff256ab97c828b6c65a7f68360c8cda3307bb586	١٦	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	14	8	0	transcribed
+AK01-F031	31	page_031.jpg	feb145343a4d162b75430ee7ff207a836dc66e8a3e5d9c73538ecf45365137d1	١٧	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	12	8	0	transcribed
+AK01-F032	32	page_032.jpg	a1f952595dda2947888385fa4b44a8c96741fa448dae0c796e0a9ab74e76dd98	١٨	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	14	8	0	transcribed
+AK01-F033	33	page_033.jpg	228cf94d4894d6b7eea66723eeadc61393dae1840471656d2dd1a4fb3d803e5b	١٩	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	17	4	0	transcribed
+AK01-F034	34	page_034.jpg	3e7b2334db580d07c283d84f9009f2cbe4766ba8008f9a49d8e31ac62d3fd47d	٢٠	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	15	6	0	transcribed
+AK01-F035	35	page_035.jpg	51d6e6bfb7800afc17188616edf16b2478df3081c8a6ff0388bfe7575105025c	٢١	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	15	6	0	transcribed
+AK01-F036	36	page_036.jpg	b00610556bcfa385612e25b60628efb22dcfe9f085ae07d9652c15f1e3bd74cd	٢٢	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	1	transcribed
+AK01-F037	37	page_037.jpg	9bd9fa782b2b2e98b73d1b12cab78e38264f8559b6c9d227e8bf17661faa8ba3	٢٣	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	20	1	1	transcribed
+AK01-F038	38	page_038.jpg	b730bdb5e73682d6e390ae7ee3c6a343395a13c1264930d38c77f53ff07a8cc8	٢٤	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F039	39	page_039.jpg	c3d71e2561ebd7605bd150beae9cb99b0a78dfbb3651b56d4ee487398433fa96	-	facsimile	MODERN_EDITORIAL (plate: facsimile of the manuscript)	0	0	1	figure reproduced
+AK01-F040	40	page_040.jpg	16ce8c7d62d821dbb3bed61dff5e4eeb11d89a99814dad98853e45446c6f2026	-	blank	blank	0	0	0	recorded
+AK01-F041	41	page_041.jpg	c8dd957263cf2f212ad710be28f69b4dc57df30440c1bff0321408977f5c759a	٢٥	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	6	9	1	transcribed
+AK01-F042	42	page_042.jpg	875332ccb4c9550d8510fa7412eac79eb132cd8423fb17ec0d8f1ba97dc04c0a	٢٦	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	21	0	1	transcribed
+AK01-F043	43	page_043.jpg	01380b2d08ba052f484e575a521a1a82ad077224229726ef79f3dcc83f96df03	٢٧	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	17	4	0	transcribed
+AK01-F044	44	page_044.jpg	a1b1cd58da7d1e37d3c5cb48b3b5f12b7fa8f47468b4153fcd330332e044ddbb	٢٨	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	16	5	0	transcribed
+AK01-F045	45	page_045.jpg	4b81c0a869de2db7307896c9e4d650b0e610614cb1c4614057c9116523e664f5	٢٩	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	18	4	0	transcribed
+AK01-F046	46	page_046.jpg	bb1141726105fb8d8db2ba03d7ecf5d539c784531d89b02bad245c570020793f	٣٠	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	16	6	0	transcribed
+AK01-F047	47	page_047.jpg	ad5ad26999395e23780d97acf1806f7f9db3ef4c8dbb4760e9d00da8db3e8662	٣١	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	15	5	0	transcribed
+AK01-F048	48	page_048.jpg	4ea739128aab29a02deb85092c57e943dd9d447df451b328ded2dfb62175805e	٣٢	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	20	2	0	transcribed
+AK01-F049	49	page_049.jpg	950b271bebb9922123bd19d06eb0b2cdadaff0e05f81dbb67cda26a88a48767f	٣٣	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	21	0	1	transcribed
+AK01-F050	50	page_050.jpg	578c08a6fba25feb3786fcf1156004160d88394f3c37b02feeacf4a51fa53131	٣٤	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	21	0	1	transcribed
+AK01-F051	51	page_051.jpg	e384821d8219bc20d3677254c08245d7ae05da71a843d79a31a1f298b21080ae	٣٥	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	15	7	0	transcribed
+AK01-F052	52	page_052.jpg	6160312568fc361e2382a7a29d44b6d7f8da223ba6ecd346726c6cd26d9162a9	٣٦	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	15	6	0	transcribed
+AK01-F053	53	page_053.jpg	f8b47388b26294af6376051dc88312aa4b76d452a6d278ee3f5c3138286f42e1	٣٧	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	17	3	0	transcribed
+AK01-F054	54	page_054.jpg	7c750bd44e0f31fe5cd1a75bcc5a9f671c538df68c59bad5a1ddcf189155744f	٣٨	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	15	6	0	transcribed
+AK01-F055	55	page_055.jpg	a25c8d72aa28276f5fbdaaeb4578623295811a16dfa17e486010fca8674403ef	٣٩	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	17	4	0	transcribed
+AK01-F056	56	page_056.jpg	34030c2b5885bb8348af9adef2f0b7a2cefef4f8ce7d86ed54ac4fc3c2be634a	٤٠	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	15	7	0	transcribed
+AK01-F057	57	page_057.jpg	c43a2bdb62c491c3114c3af4271b2ad775095c32d5b6b6a562b3b583c0d9bac7	٤١	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	17	5	0	transcribed
+AK01-F058	58	page_058.jpg	1fdc33e6a4e2eaa701426e166a80ab08cf843d64bf069cda4025e345a4b410dd	٤٢	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	18	3	0	transcribed
+AK01-F059	59	page_059.jpg	b296bbddbda01bf05cc2bbb08c455d40c59332efdceb7de98f92ccb86754aeda	٤٣	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	13	8	0	transcribed
+AK01-F060	60	page_060.jpg	2acdbb989111c2f123bbd932adb638b938cd2aafa552b4a1f5beefaff16210fd	٤٤	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	16	7	0	transcribed
+AK01-F061	61	page_061.jpg	0458b7a886aa9a515f82e25fd2f1551cd39ae98fad111d4be8ee718d94e4c2fe	٤٥	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	19	2	0	transcribed
+AK01-F062	62	page_062.jpg	79a84997280e2556ad6146f1ea7ee2bba9e45a435e437d8444eb069fa90b1338	٤٦	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	18	5	0	transcribed
+AK01-F063	63	page_063.jpg	2558feed0dd93f889b2addacc8884e4d51774e1f3e70906fd4b7f56f5415f7e0	٤٧	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	17	5	0	transcribed
+AK01-F064	64	page_064.jpg	c8cc693a3b6ec17b31d2831d01a277788e9abdb5f88a260a1f1c1112a62429a2	٤٨	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	15	8	0	transcribed
+AK01-F065	65	page_065.jpg	17ffa6c68ccacb480705e945d6bd5dd8de8ea55bbada960b1692ece00c06951a	٤٩	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	19	2	0	transcribed
+AK01-F066	66	page_066.jpg	3c3d6905fe8afac14de7bf269883790cc1e2f38f07a6c2189b60213afd24b8ff	٥٠	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	16	4	0	transcribed
+AK01-F067	67	page_067.jpg	5e8a0dbbdd94ae4797a7eb4206496b5e225edcb191e03356a88ef5b9742a88fe	٥١	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	17	4	0	transcribed
+AK01-F068	68	page_068.jpg	bd4e13041e148b3653254ffecfcb6f7bff9b6012fbf438bb9e485edbfcdf7c81	٥٢	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	19	2	0	transcribed
+AK01-F069	69	page_069.jpg	b07273dfb69bee3e8956c3b013ae7ff1f73102ed3683a83a99b227e38d3b1261	٥٣	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	17	4	0	transcribed
+AK01-F070	70	page_070.jpg	99802869eece15aae3b2331fde32bc112daa30825ef30583cb3b1f10219ff158	٥٤	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F071	71	page_071.jpg	24a4f0cf28f1235232295c54b60282e78860c70ed7c8e98ccca0271da8e7ff6f	٥٥	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	11	13	0	transcribed
+AK01-F072	72	page_072.jpg	950aa5e710e43947bb8efac4157bdc654bcd8cbd625e3646b3f26695c6f44c0c	٥٦	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	16	5	0	transcribed
+AK01-F073	73	page_073.jpg	80f492f3820779d712010dc3edabd3ffe24d499ad120f23a8431911789b1ca1b	٥٧	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	16	7	0	transcribed
+AK01-F074	74	page_074.jpg	d84a5313ea934e0d503bd9e9e7584fbfa97d8bd1aabe540019805a6a154c3ef4	٥٨	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	11	1	1	transcribed
+AK01-F075	75	page_075.jpg	e0534e2070767ec97816dd2c194a5915e7715e6e5ca711cea1c1bd9433c60669	٥٩	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	19	2	2	transcribed
+AK01-F076	76	page_076.jpg	d1ae0f422225124832b4159d95d6b254157cb27982c12fcf7e79064d4912b813	٦٠	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	15	0	2	transcribed
+AK01-F077	77	page_077.jpg	8b2e6d5b6c22894ac0b8d47add49d802bce97b2a63a8ed50c38254d3ef73d723	٦١	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	21	0	1	transcribed
+AK01-F078	78	page_078.jpg	55a8e1f3af7187328a26ed5d390681cfa7198a6525b7f4cda78cf80b157c4180	٦٢	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	18	1	1	transcribed
+AK01-F079	79	page_079.jpg	514f1badb8c7451002edb4356a06fcb5a6a95b024f0968b59f046a40b242d5c4	٦٣	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	20	0	1	transcribed
+AK01-F080	80	page_080.jpg	5a2834104ba6d8712d1bd88234c16f33485058722b0b1d38067c27beb3c4021a	٦٤	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	17	3	2	transcribed
+AK01-F081	81	page_081.jpg	73e1e0be4a849b1b3a786b4b9255dc3ae30dff49390343eb87ed1eb5f4d3351a	٦٥	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	20	1	1	transcribed
+AK01-F082	82	page_082.jpg	9f595cad3a5ac3bbd296d8502d18befa0ae866c164eb79c91d62b2fb93c46861	٦٦	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	9	0	1	transcribed
+AK01-F083	83	page_083.jpg	f6054f29631c020a907f627ef9c83de8be8190fe53b750f17bea8abf0425eb35	[٦٧]	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	12	8	0	transcribed
+AK01-F084	84	page_084.jpg	9c3a795c13ab3cf5e0909fbba7163dce680cc5f6d3f784c310bfce7c1a50ee2d	٦٨	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	17	4	0	transcribed
+AK01-F085	85	page_085.jpg	ab971d15810412c5781430d0798a86ed85918a1ed11fe0269c701967b80e66a0	٦٩	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	12	9	0	transcribed
+AK01-F086	86	page_086.jpg	94b0ad43e2620308e6596005d916aed4d4640303b74d384cb4260ad27d760329	٧٠	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	10	12	0	transcribed
+AK01-F087	87	page_087.jpg	0ffc552bed817fcbc4e38f8a912d2cf3b7d783c44f0732010a367061d966e0ae	٧١	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	20	3	0	transcribed
+AK01-F088	88	page_088.jpg	af5b4111b5fc45daf5e5e6024f00f1102842ec2cae840d9867f364cea3ada6e0	٧٢	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	9	13	0	transcribed
+AK01-F089	89	page_089.jpg	f93d06d5ae5bfd26e81cbf6184cd69ec240d842d503f83e3239b95a117e560c8	٧٣	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	16	5	0	transcribed
+AK01-F090	90	page_090.jpg	246666d194566902cb96df33dd050ca40d533db0ed65df232d07868e0de03d77	٧٤	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	18	3	0	transcribed
+AK01-F091	91	page_091.jpg	eeb14ddcf64bd44013fe5b9f97b8f04d9292a1589e7e19a71dd0609c60f71040	٧٥	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F092	92	page_092.jpg	0c187c33bab31cceb56401e86e10fbbfbde8950d1a49fbba7ce0b023215f1f6b	٧٦	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	18	3	0	transcribed
+AK01-F093	93	page_093.jpg	bee3ad276c59437d891bcb8692f64944984bd9124d44fb91b36786e4fded878e	٧٧	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	21	0	0	transcribed
+AK01-F094	94	page_094.jpg	3fa5edf86c108783ba8a172096fd8cd471f8b7c6281cb948fadff4feeeeaa795	٧٨	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	16	5	0	transcribed
+AK01-F095	95	page_095.jpg	6b450fb30b2b9236096d342c777846c722a767ffa20b554b68211d92e894b1cf	٧٩	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	14	7	0	transcribed
+AK01-F096	96	page_096.jpg	27a4578dd0c18daf5f501aa8ebf7d1a0f0e79d29b9402ac9be2168137c1d627a	٨٠	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	10	12	0	transcribed
+AK01-F097	97	page_097.jpg	b1df4227613048cd9e5accdbb2e0b6a5801317a6263e0d6c980520e9de8b4c2c	٨١	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	13	11	0	transcribed
+AK01-F098	98	page_098.jpg	2fbebc82af270aeca9903357815de2caecc047d768b6cef703169e4f84cdd505	٨٢	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	17	4	0	transcribed
+AK01-F099	99	page_099.jpg	04fdfa515c2a35577b3e6291033c2571b45c43af2b109de624de60347dde207e	٨٣	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	16	6	0	transcribed
+AK01-F100	100	page_100.jpg	d5e0c7aaabf05a6dd5d6cda02bc1f8f259d237bc6226b77fbf08fdcf3ba84e5b	٨٤	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	18	4	0	transcribed
+AK01-F101	101	page_101.jpg	2fa309fe86bd369570d1e80f8acad3b8a39534f2084a6cc11f19ac7c2e867403	٨٥	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	16	5	0	transcribed
+AK01-F102	102	page_102.jpg	7b8c3bb63e0397fd858bc88b0c4bf86dc339000d8d86769794ac961360d3725b	٨٦	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	17	5	0	transcribed
+AK01-F103	103	page_103.jpg	51eb639d6ecc0cdeab83714d5a56fad19e045e36509682753afb58daa8c70e54	٨٧	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	16	6	0	transcribed
+AK01-F104	104	page_104.jpg	57c261adff39b5f051384bf81e145452146d9da009f4162bb21d9f759752ef08	٨٨	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F105	105	page_105.jpg	a0c433aaca454559433e8c94caa2ac74d346e2a3706021dd01f9378d9c89f8a5	٨٩	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F106	106	page_106.jpg	d5642d5397725bb16ef53048d3937dee44422fac6c0b43d39bee011192599f51	٩٠	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F107	107	page_107.jpg	9a6ad0e118ebca13ecc847dfeaf889c29a898a86076db5e090b547c6a13053d4	٩١	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F108	108	page_108.jpg	12abfdbb39ca343ce04ca441f3a27170c47b8cad50980200ceb37dc5e103bbb1	٩٢	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F109	109	page_109.jpg	de5f1afffc9dec9685e141427895e5e080e34239ac6fbb33e4a30b5ca6031452	٩٣	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F110	110	page_110.jpg	a63342dcf5650c35ec82e5e5417e4f619a276fe36404d4ac824ae5f03907a9f2	٩٤	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F111	111	page_111.jpg	c91eb26ad2ba760a4cdce36168109ac0ef4cc1361d13dc69902304db1ec7450e	٩٥	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F112	112	page_112.jpg	005777a1e4073b642555aeb85fde0728b096ad3b66339fca69fce4d38a1dde8c	٩٦	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F113	113	page_113.jpg	9927379859034546a6e89c4f4c833820fbefe33b0222cbe766e45ba6204102a7	٩٧	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F114	114	page_114.jpg	a70c08c9aa40b630f17b7b688e7530fb01b740eff869353dec0fd5b1314ca103	٩٨	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F115	115	page_115.jpg	7b85f6dce41a8bb6c0234f019c8d5e2a2b6647e149ec595691bbc7977fe7b28b	٩٩	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F116	116	page_116.jpg	bb71b31893cfe8912c10683de60962280fc86eb35702724f10cb216d06f24b41	١٠٠	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F117	117	page_117.jpg	55910bd0db39e2c521732956477f19b7c335e685cb8b85243742466ad29b129a	١٠١	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F118	118	page_118.jpg	adc44c0b2df3cceee4aa94474bbc26f902e515fe40f8800d57eae90fbf399a20	١٠٢	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F119	119	page_119.jpg	df0ace67db5129291de314b6d17a90949404a792100624459de949001b48633d	١٠٣	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F120	120	page_120.jpg	e227b74bf976b10cfd6407937d6dd74cd55e498c9d3e44542fe6a23e1a5d6f07	١٠٤	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F121	121	page_121.jpg	97202e3497eee2fb3c71251a7e56c0cbaf0242b4a81867fb8ab73bdc1051c020	١٠٥	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	22	0	0	transcribed
+AK01-F122	122	page_122.jpg	04b5d8cdbc433b8a4304c24fc6d81fc1264330b25a9b0eef588bea954043a370	١٠٦	text	AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)	8	0	0	transcribed
+AK01-F123	123	page_123.jpg	0a3f75a8f4163a51bc198872374c9bbe5d7a3df4c010fa2bb74e93d330f15307	-	blank	blank	0	0	0	recorded
+AK01-F124	124	page_124.jpg	a82237c28e5c9390bc86afb0e394eb53fe4dc9eb47fa5a763e4fbbbc9aaeffe1	-	blank	blank	0	0	0	recorded
+AK01-F125	125	page_125.jpg	b8bac7327fe7a67fce4ace35dbef63a0b8f07152b04f0c0ecf74eae21634a30c	-	blank	blank	0	0	0	recorded
+AK01-F126	126	page_126.jpg	fb60dd9c727ca8a9b8e3194e14cb3b3b12cb3e0e5911b6b7565e69b1e1ce11ca	-	wrapper	MODERN_EDITORIAL (the back of the edition's printed wrapper: the publisher's list, not reproduced)	0	0	0	recorded, not reproduced
+AK01-F127	127	page_127.jpg	a7ea4f87c4e09d954caa25debd99d7e1c86e9b96d43464ed960e97be46bd62b3	-	blank	blank	0	0	0	recorded
+AK01-F128	128	page_128.jpg	a7cd8c00a000ee3c022bb6b18e1efc9caa41552dd19c246c00302164139fafd9	-	provenance	COPY_PROVENANCE	0	0	0	recorded, not reproduced
+AK01-F129	129	page_129.jpg	c2d0ff938531db7f411b843336fd9ea636423af436c7b241567e2a7cb7092666	-	provenance	COPY_PROVENANCE	0	0	0	recorded, not reproduced
+AK01-F130	130	page_130.jpg	c5571e381a3e087a422f1afdf705f8ebe5bcc5d20281d28360c68ec50ab0b82b	-	provenance	COPY_PROVENANCE	0	0	0	recorded, not reproduced

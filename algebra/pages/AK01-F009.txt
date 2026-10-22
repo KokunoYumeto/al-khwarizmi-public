@@ -1,0 +1,10 @@
+@page 9 -
+@kind facsimile
+% Frame 009: a plate: the facsimile, in a line block, of the title page of the manuscript that the edition follows,
+% with the title «كتاب الخوارزمى» in a decorated frame and the notes of owners and readers inside and above it. The
+% editors' study (frame 026, p. ١٤) describes the manuscript as kept in the Bodleian Library at Oxford, written in
+% Cairo and finished on Sunday 19 Muharram 743 of the Hijra, the only copy of the work they knew; the edition gives no
+% shelfmark.
+@fig AK01-F009-FIG1 650 478 2289 3277
+@obs The facsimile is reproduced as an image; its handwritten text is not transcribed.
+@obs Frame 026: 19 Muharram 743 is 23 June 1342 (Julian), a Sunday, by the arithmetical calendar counted from 15 July 622, and 24 June, a Monday, from 16 July 622; the Sunday of the colophon agrees with the first.

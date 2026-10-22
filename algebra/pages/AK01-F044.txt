@@ -1,0 +1,32 @@
+@page 44 ٢٨
+% Frame 044, printed p. 28: the chapter on multiplication continued: the end of (10-1)(10-1) = 81; (10+2)(10-1) =
+% 108; why the examples were given; the things (roots) multiplied: (10-x)10 = 100-10x, (10+x)10 = 100+10x,
+% (10+x)(10+x) = 100+20x+x², (10-x)(10-x) = 100+x²-20x; continued on the next page. Below the rule five footnotes of
+% the editors, one printed line each.
+الناقص فى العشرة عشرة ناقصة والواحد الناقص أيضا فى العشرة عشرة ناقصة
+فذلك ثمانون والواحد الناقص فى الواحد الناقص واحد زائد فذلك أحد وثمانون.
+واذا كانت عشرة واثنان فى عشرة الا واحداً {n:١} فالعشرة فى العشرة مائة
+والواحد الناقص فى العشرةعشرةناقصةوالاثنان الزائدان فى العشرةعشرون زائدة
+فذلك مائة وعشرة والاثنان الزائدان فى الواحد المنقوص اثنان ناقصان فذلك
+كله مائة وثمانية . وإنما بينت ذلك لتستدل به على ضرب الأشياء بعضها فى بعض
+اذا كان معها عدد أو استثنيت من عدد أو استثنى منها عدد . فاذا قيل لك عشرة
+الا شيئا ومعنى الشىء الجذر فى عشرة {n:٢} فاضرب عشرة فى عشرة يكون مائة
+والا شيئا فى عشرة يكون عشرة أجذار ناقصة فيعدل مائة الا عشرة أشياء . فان
+قال عشرة وشىء فى عشرة فاضرب عشرة فى عشرة يكون مائة وشيئا فى عشرة
+بعشرة أشياء زائدة يكون مائة وعشرة أشياء . وان قال عشرة وشىء فى مثلها {n:٣}
+قلت عشرة فى عشرة مائة وعشرةفى شىء بعشرةأشياء وعشرةفى شىء بعشرة أشياء
+أيضا وشىء فى شىء مال زائد فيكون ذلك مائة درهم وعشرين شيئا ومالا زائداً .
+وإن قال عشرة الا شيئاً فى عشرة الا شيئاً {n:٤} قلت عشرة فى عشرة بمائة والا
+شيئاً فى عشرة عشرة أشياء ناقصة والا شيئا فى عشرة عشرة أشياء ناقصة والا
+شيئاً فى الا شيئاً مال زائد فيكون ذلك مائة ومالا الا عشرين شيئاً {n:٥} وكذلك
+@ednotes ١ ٢ ٣ ٤ ٥ 5
+@obs Set without a word space after the tā' marbūṭa, and transcribed so: العشرةعشرةناقصةوالاثنان, العشرةعشرون (L04), وعشرةفى (L12, twice), بعشرةأشياء (L12). The ة stands 4 to 9 px from the next letter (nearest approach of the letters at 400 ppi), as on frames 032-043 where the print sets these letters without a space (5 to 10 px); with a space they stand 17 to 46 px apart, and on this page the same words are set spaced in العشرة عشرة (L01, 26 and 34 px), عشرة فى and بعشرة أشياء (L12, 25 and 29 px). In L04 the ة of عشرة stands 13 px from the ن of ناقصة: the ن and the other toothed letters stand some px further from the preceding letter than other letters do (frame 045, L09 and L13: 11 px for أشياءناقصة), and the words are taken as set without a space.
+@obs L04 is set tight: after letters with a tail the word spaces measure 8 to 9 px (الناقص فى, فى العشرة), after the د of والواحد 24 px.
+@obs L02: the full stop is set close after وثمانون. L13: the full stop stands after a space at the end of the line. The other full stops (L06, L07, L09, L11) stand between spaces.
+@obs Plain alif where a hamza might be expected, as printed: واذا (L03), الا (L03, L08, L09, L14, L16), والا (L09, L14, L15), اذا (L07), فاذا (L07), فان (L09), وان (L11), والاثنان (L04, L05), اثنان (L05); with hamza: أيضا (L01, L13), أحد (L02), وإنما, الأشياء (L06), أو (L07), أجذار, أشياء (L09), وإن (L14).
+@obs With tanwīn on the final alif: واحداً (L03), زائداً (L13), شيئاً (L14, L15, L16); without tanwīn as printed: أيضا (L01, L13), شيئا (L08, L09, L13), وشيئا (L10), ومالا (L13, L16), and the second شيئا of L15.
+@obs The final yā' is printed without dots: فى throughout, على (L06), استثنى (L07), ومعنى (L08); and before the hamza: الشىء (L08), وشىء (L10, L11, L13), شىء (L12, L13).
+@obs The note marks (١) (L03), (٢) (L08), (٤) (L14) and (٥) (L16) stand between spaces; (٣) ends L11, after a space.
+@obs The print stretches واحداً (L03) with the elongation stroke; the stroke is not transcribed.
+@variant Note (٥) of the editors reproduces a marginal gloss (حاشية) of the manuscript: «ومثله لو كان السؤال شىء إلا عشرة فى شىء إلا عشرة», that is, and the same if the question were a thing less ten times a thing less ten. The gloss is the manuscript's text, quoted as the edition prints it (with إلا, where the text has الا).
+@obs Notes (١) to (٤) of the editors restate the examples in modern notation; not reproduced.

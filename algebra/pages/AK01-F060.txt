@@ -1,0 +1,34 @@
+@page 60 ٤٤
+% Frame 060, printed p. 44: the seventh of the various problems concluded (the four qafīz sold at four thirteenths
+% each and the six at two thirteenths: twenty-eight thirteenths, the two qafīz and the two parts); the eighth, «فان
+% قال» in bold: two quantities differing by two dirhams, the smaller divided by the larger gives a half (two and
+% four); the ninth, again in bold: ten divided into two parts, one part times ten equal to the other times itself;
+% then a tenth, «وكذلك لو قال», continued on the next page. Below the rule three footnotes of the editors.
+كل واحد بأربعة أجزاء من ثلاثة عشر من درهم وباع الستة كل واحد بجزأين
+من ثلاثة عشر من درهم فبلغ ذلك ثمانية وعشرين جزءا من ثلاثة عشر من درهم
+وذلك مثل فضل ما بين الكيلين وهو قفيزان فصرفهما ستة وعشرون جزءا
+وفضل ما بين السعرين وهو جزءان فذلك ثمانية وعشرون جزءا . {b:فان قال}
+مالان بينهما درهمان قسمت القليل على الكثير فأصاب القسم نصف درهم {n:١}
+فاجعل أحد المالين شيئا والآخر شيئا ودرهمين فلما قسمت شيئا على شىء
+ودرهمين خرج القسم نصف درهم وقد علمت أنك متى ضربت ما خرج لك
+من القسم فى المقسوم عليه عاد مالك الذى قسمته وهو شىء فقل شىء ودرهمان
+فى النصف الذى هو القسم فيكون نصف شىء ودرهما تعدل شيئا فألقيت
+نصف شىء بنصف شىء وبقى درهم يعدل نصف شىء فاضعفه يكون الشىء يعدل
+درهمين والآخر أربعة . {b:فان قال} عشرةقسمتها قسمين وضربت أحدهمافى عشرة
+والقسم الآخر فى نفسه فاستويا {n:٢} . فان قياسه أن تضرب شيئا فى عشرة فيكون
+عشرة أشياء ثم تضرب عشرة الا شيئا فى مثلها فتكون مائة ومالا الا عشرين شيئا
+تعدل العشرة الأجذار فقابل بها على ما قد وصفت لك . وكذلك لو قال عشرة
+قسمتها قسمين ثم ضربت أحدهما فى الآخر ثم قسمت ما اجتمع من الضرب
+على فضل ما بين القسمين قبل أن تضرب أحدهما فى الآخر فخرج خمسة وربعا{n:٣}
+@ednotes ١ ٢ ٣ 7
+@obs L04, at the end of the line, and L11: the words فان قال are printed in a bold face, the run-in headings of the eighth and the ninth of the various problems; the words that follow them are in the face of the text. The bold ن is printed without its dot and the two dots of the bold ق run together, as on frames 055-059; transcribed ن and ق. L14: the tenth problem is introduced in the face of the text, «وكذلك لو قال».
+@obs L03: فصرفهما, their value in parts: the two qafīz of the difference of the measures are twenty-six thirteenths.
+@obs Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): عشرةقسمتها (L11; 1 between the ة and the ق) and أحدهمافى (L11; 12 between the alif and the ف, where the alif stands 22 px or more from the next word on this page).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: مائة ومالا (L13; 15 between the ة and the conjunction و, where the ة stands 1 px from the next letter in عشرةقسمتها, L11, and 18 px or more from the next word elsewhere on frames 058-059), ومالا الا (L13; 21 between the لا and the alif, where the two stand 9 px apart in ومالاالا on frame 058, L10, and 27 in ومالا الا on frame 055, L10), ما قد (L14; 22 between the alif and the ق, as ما شئت on frame 059, L08, 21).
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: ودرهمين خرج (L07; 16 between the ن and the خ), قسمين وضربت (L11; 4 between the ن and the و), وضربت أحدهمافى (L11; 14 between the ت and the alif), تضرب عشرة (L13; 8 between the ب and the ع), فى مثلها (L13; 1 between the ى and the م).
+@obs The full stops of L04 (32 px after جزءا, 35 before the bold فان), L11 (27 and 23) and L14 stand between spaces. The note marks: (١) stands at the end of L05 after a space; (٢) stands 22 px after فاستويا, and the full stop after it 26 px from it and 21 px from فان; (٣) stands close after وربعا (15 px), at the end of L16, the last line of the text.
+@obs Plain alif where a hamza might be expected, as printed: فان (L04, L11, L12), فاجعل (L06), فاضعفه (L10), الا (L13, twice), اجتمع (L15); with hamza: بأربعة, أجزاء, بجزأين (L01), فأصاب (L05), أحد (L06), أنك (L07), فألقيت (L09), أربعة, أحدهمافى (L11), أن (L12, L16), أشياء (L13), الأجذار (L14), أحدهما (L15, L16); with madda: والآخر (L06, L11), الآخر (L12, L15, L16); on ي: مائة (L13); the hamza on the line: أجزاء (L01), جزءا (L02, L03; L04, the second), جزءان (L04), شىء (L06, L08, twice; L09; L10, three times), الشىء (L10), أشياء (L13).
+@obs Without tanwīn as printed: جزءا (L02, L03, L04), شيئا throughout, ودرهما (L09), ومالا (L13), وربعا (L16); no tanwīn is printed on this page.
+@obs The final yā' is printed without dots: على (L05, L06, L14, L16), متى (L07), فى (L08, L09, L12, L13, L15, L16), الذى (L08, L09), وبقى (L10), أحدهمافى (L11).
+@obs The print stretches الكيلين (L03, between the ل and the ك), الكثير (L05, between the ل and the ك), المالين and the second شيئا (L06) and فيكون (L09, between the ي and the ك) with the elongation stroke; the stroke is not transcribed.
+@obs Notes (١) to (٣) of the editors restate the eighth, the ninth and the tenth of the various problems as equations in modern notation and solve them: two; fifteen less the root of 125 (fifteen less five times the root of five); three (or seventeen and a half). None is reproduced.

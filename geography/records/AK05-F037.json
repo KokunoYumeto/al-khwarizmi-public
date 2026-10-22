@@ -1,0 +1,358 @@
+{
+ "anchor": "AK05-F037",
+ "frame": 37,
+ "frame_file": "page_037.jpg",
+ "frame_sha256": "580f196e6734c2ce5b3b897766e864accefb6bccdeeda5f4e12de7620183e80e",
+ "printed_page": "٣١",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 037, printed p. 31: the cities of the sixth clime continued, entries 445-458: Dāṭiya, Asqūqū, دواٮسس, Aykhlas, اوور on the sea, Als in a peninsula, Constantinople on the strait, Īliyūn near the sea, Nīqūmūdiyā, Ayṭaniyā, Malūmīlīn, Amāsā, سٮسمانى and Māsūriyā. Six lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F037-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٤٤٥) | [٣٩١] | داطيه{n:a} | مه | ك | مد | مه",
+   "margin": null,
+   "cells": [
+    "(٤٤٥)",
+    "[٣٩١]",
+    "داطيه{n:a}",
+    "مه",
+    "ك",
+    "مد",
+    "مه"
+   ],
+   "plain": "(٤٤٥) | [٣٩١] | داطيه | مه | ك | مد | مه",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F037-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "(٤٤٦) | [٣٩٢] | اسقوقو | مو | {z} | مح | ى",
+   "margin": null,
+   "cells": [
+    "(٤٤٦)",
+    "[٣٩٢]",
+    "اسقوقو",
+    "مو",
+    "{z}",
+    "مح",
+    "ى"
+   ],
+   "plain": "(٤٤٦) | [٣٩٢] | اسقوقو | مو | ō | مح | ى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F037-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "(٤٤٧) | [٣٩٣] | دواٮسس{n:b} | مر | ن | مد | ك",
+   "margin": null,
+   "cells": [
+    "(٤٤٧)",
+    "[٣٩٣]",
+    "دواٮسس{n:b}",
+    "مر",
+    "ن",
+    "مد",
+    "ك"
+   ],
+   "plain": "(٤٤٧) | [٣٩٣] | دواٮسس | مر | ن | مد | ك",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F037-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٤٤٨) | [٣٩٤] | ايخلس{n:c} | مز | مه | مه | {z}",
+   "margin": null,
+   "cells": [
+    "(٤٤٨)",
+    "[٣٩٤]",
+    "ايخلس{n:c}",
+    "مز",
+    "مه",
+    "مه",
+    "{z}"
+   ],
+   "plain": "(٤٤٨) | [٣٩٤] | ايخلس | مز | مه | مه | ō",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F037-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٤٤٩) | [٣٩٥] | اوور{n:d} على البحر | مح | ى | مح | مه",
+   "margin": null,
+   "cells": [
+    "(٤٤٩)",
+    "[٣٩٥]",
+    "اوور{n:d} على البحر",
+    "مح",
+    "ى",
+    "مح",
+    "مه"
+   ],
+   "plain": "(٤٤٩) | [٣٩٥] | اوور على البحر | مح | ى | مح | مه",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F037-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٤٥٠) | [٣٩٦] | الس فى شبه جزيرة | مح | له | مٮ | ٮه",
+   "margin": null,
+   "cells": [
+    "(٤٥٠)",
+    "[٣٩٦]",
+    "الس فى شبه جزيرة",
+    "مح",
+    "له",
+    "مٮ",
+    "ٮه"
+   ],
+   "plain": "(٤٥٠) | [٣٩٦] | الس فى شبه جزيرة | مح | له | مٮ | ٮه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F037-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٤٥١) | [٣٩٧] | قسطنطينيّة على الخليج | مط | ن | مه | {z}",
+   "margin": null,
+   "cells": [
+    "(٤٥١)",
+    "[٣٩٧]",
+    "قسطنطينيّة على الخليج",
+    "مط",
+    "ن",
+    "مه",
+    "{z}"
+   ],
+   "plain": "(٤٥١) | [٣٩٧] | قسطنطينيّة على الخليج | مط | ن | مه | ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F037-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٤٥٢) | [٣٩٨] | ايليون{n:e} قرب البحر | ن | مه | مٮ | ك",
+   "margin": null,
+   "cells": [
+    "(٤٥٢)",
+    "[٣٩٨]",
+    "ايليون{n:e} قرب البحر",
+    "ن",
+    "مه",
+    "مٮ",
+    "ك"
+   ],
+   "plain": "(٤٥٢) | [٣٩٨] | ايليون قرب البحر | ن | مه | مٮ | ك",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F037-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٤٥٣) | [٣٩٩] | نيقوموديا{n:f} | نا | {z} | مد | ٮه",
+   "margin": null,
+   "cells": [
+    "(٤٥٣)",
+    "[٣٩٩]",
+    "نيقوموديا{n:f}",
+    "نا",
+    "{z}",
+    "مد",
+    "ٮه"
+   ],
+   "plain": "(٤٥٣) | [٣٩٩] | نيقوموديا | نا | ō | مد | ٮه",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F037-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٤٥٤) | [٣٨١ ٤٠٣] | ايطنيا | ند | ك | ما | مه",
+   "margin": null,
+   "cells": [
+    "(٤٥٤)",
+    "[٣٨١ ٤٠٣]",
+    "ايطنيا",
+    "ند",
+    "ك",
+    "ما",
+    "مه"
+   ],
+   "plain": "(٤٥٤) | [٣٨١ ٤٠٣] | ايطنيا | ند | ك | ما | مه",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F037-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٤٥٥) | [٤١٥] | ملوميلين{n:g} | ند | مه | مٮ | ن",
+   "margin": null,
+   "cells": [
+    "(٤٥٥)",
+    "[٤١٥]",
+    "ملوميلين{n:g}",
+    "ند",
+    "مه",
+    "مٮ",
+    "ن"
+   ],
+   "plain": "(٤٥٥) | [٤١٥] | ملوميلين | ند | مه | مٮ | ن",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F037-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٤٥٦) | [٤١٦] | اماسا{n:h} | ٮر | ل | مه | {z}",
+   "margin": null,
+   "cells": [
+    "(٤٥٦)",
+    "[٤١٦]",
+    "اماسا{n:h}",
+    "ٮر",
+    "ل",
+    "مه",
+    "{z}"
+   ],
+   "plain": "(٤٥٦) | [٤١٦] | اماسا | ٮر | ل | مه | ō",
+   "note_marks": [
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F037-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٤٥٧) | [٤١٧] | سٮسمانى{n:i} | ٮح | ك | مح | مه",
+   "margin": null,
+   "cells": [
+    "(٤٥٧)",
+    "[٤١٧]",
+    "سٮسمانى{n:i}",
+    "ٮح",
+    "ك",
+    "مح",
+    "مه"
+   ],
+   "plain": "(٤٥٧) | [٤١٧] | سٮسمانى | ٮح | ك | مح | مه",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F037-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٤٥٨) | [٤١٨] | ماسوريا | ٮط | ٮه | ما | ن",
+   "margin": null,
+   "cells": [
+    "(٤٥٨)",
+    "[٤١٨]",
+    "ماسوريا",
+    "ٮط",
+    "ٮه",
+    "ما",
+    "ن"
+   ],
+   "plain": "(٤٥٨) | [٤١٨] | ماسوريا | ٮط | ٮه | ما | ن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+   ],
+   "lines": 6,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: at entry (2162) the name is written داطه, with the variant reading راطه.",
+  "L03: at entry (2162) the name is written the same way; the editor gives a variant reading with more teeth between the alif and the final bowl.",
+  "L04: at entry (2162) the name is written اكلس; the editor suggests that it may be read اٮحاس.",
+  "L05: at entry (1085) the name is written اود.",
+  "L08: at entry (1947) the name is written ابليون, and at entry (1949) اٮلون.",
+  "L09: at entry (1054) the name is written نيقوموذيا.",
+  "L11: at entry (1951) the name is written قبلوميلس.",
+  "L12: at entry (1958) the name is written اماسيا, and at entry (2185) اماسٮ, with the variant readings امايسا and ٮما.",
+  "L13: at entry (1958) the name is written سيسماى, and at entry (2189) سسماى."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The table goes on from frame 036 without a heading: the cities of the sixth clime, entries 445-458. All have numbers of Suhrāb: [٣٩١]-[٣٩٩] (entries 445-453), at entry 454 two numbers in one pair of square brackets, «٣٨١» above «٤٠٣», transcribed «[٣٨١ ٤٠٣]», as on frame 031, and [٤١٥]-[٤١٨] (entries 455-458); [٣٨١] is the number that does not appear on frame 036. No entry has the word «مدينة».",
+  "L03: «دواٮسس»: after the alif, a tooth 14 px above the line without a dot, then two groups of three low teeth, 3 to 6 px, the second running into the final bowl. The tooth is taller than the teeth of س, and the teeth that follow it are lower than those of an initial س, which are 10, 9 and 6 px in «اسقوقو» (L02) and «ماسوريا» (L14); transcribed دواٮسس. The note mark b stands lower than the other marks, at the height of the letters.",
+  "L05: «اوور»: after the alif, two و, the first with a short tail that ends at the line, the second with the long tail of the letter, then the ر; each و has the closed loop of the letter, which a د has not (L01, L03). Transcribed اوور.",
+  "L10: «ايطنيا»: a small round dot, 5 by 5 px, stands just above the top of the alif, at its left; it has not the form of a hamza, which in this font is some 15 by 14 px (frame 028, L08, «الأهواز»). Not transcribed.",
+  "L13: «سٮسمانى»: an initial س, with teeth of 13, 10 and 8 px; a tooth 18 px above the line without a dot; a second س with low teeth; م, ا, a ن with its dot and a final ى without dots. Transcribed so.",
+  "Signs in the names, transcribed as printed: L07: «قسطنطينيّة», with a shadda over the second ي. L06: «فى» has no dots on the ى.",
+  "Letters printed without their dots in the numerals, transcribed so: ٮر (L12, the degrees of the longitude), a tooth without its dot joined to a ر, as on frame 015 (L03, L04), and مر (L03, the degrees of the longitude); in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); ٮح (L13) and ٮط (L14, the degrees of the longitude), the tooth without its dot; مٮ (L06, L08, L11, the degrees of the latitude), the م and a final ب without its dot, 42. With their dots: مز (L04, the degrees of the longitude), the ز with its dot, 10 by 11 px, 14 px above the head of the letter; ن (L08, the degrees of the longitude; L03, L07, the minutes of the longitude; L11, L14, the minutes of the latitude); نا (L09) and ند (L10, L11), the ن with its dot.",
+  "The degrees printed with a final ح, مح (L02, L05, L13, the degrees of the latitude; L05, L06, the degrees of the longitude) and ٮح (L13), show no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. L13: two faint grey hairlines lie in the bowl of «ٮح», much lighter than the print; they are not a dot.",
+  "The isolated ك, 20, is printed with the small inner stroke of the letter (L01, L10, L13, the minutes of the longitude; L03, L08, the minutes of the latitude). The minutes of the latitude in L06 and L09 and of the longitude in L14, «ٮه», are a tooth without its dot joined to a final ه.",
+  "Specks, not transcribed: L03, a dark mark, 5 by 4 px, touching the head of the ر of the degrees of the longitude, «مر», at its upper left, half the size of a dot of the font and below the place of the dot of a ز; L04, a dark speck to the left of the degrees of the longitude, «مز», near the top of the ز; L06, a cluster of small specks above the degrees of the latitude «مٮ», smaller than the dots of the font, where no letter of the numeral has a dot above; L13, a dark speck above the degrees of the latitude «مح».",
+  "The page number «— ٣١ —» stands at the foot, centred."
+ ],
+ "copy_matter": [
+  "Faint wavy grey hairlines, fibres on the paper: L02, at the closing bracket of the number of Suhrāb; L09, beside the degrees of the longitude, at the right; L11, below the minutes of the longitude."
+ ],
+ "critical_notes": []
+}

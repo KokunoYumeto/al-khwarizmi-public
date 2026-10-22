@@ -1,0 +1,231 @@
+{
+ "anchor": "AK01-F063",
+ "frame": 63,
+ "frame_file": "page_063.jpg",
+ "frame_sha256": "2558feed0dd93f889b2addacc8884e4d51774e1f3e70906fd4b7f56f5415f7e0",
+ "printed_page": "٤٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 063, printed p. 47: the problem begun on frame 062, L18, concluded (a root times four roots gives three squares and fifty: the square fifty, checked: the root of fifty times four roots of fifty is two hundred); then, under «فان قال» in the face of the text, a square and twenty dirhams equal twelve of its roots (the root two, the square four); a quantity from which its third and three dirhams are taken, the rest multiplied by itself giving the quantity back: two thirds of a thing less three dirhams times itself, four ninths of a square and nine dirhams less four roots equal to a root, then five roots equal to four ninths of a square and nine dirhams, completed by two and a quarter, continued on the next page. Below the rule three footnotes of the editors.",
+ "lines": [
+  {
+   "id": "AK01-F063-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "درهما {n:١} قياسه أن تضرب جذراً فى أربعة أجذار فيكون أربعة أموال تعدل",
+   "note_marks": [
+    "١"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "ثلاثة أموال وخمسين درهماً فالق ثلاثة أموال من الاربعة الاموال يبقى مال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "واحد يعدل خمسين درهما وهو جذر خمسين مضروب فى اربعة أجذار",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "خمسين أيضاً فذلك مائتان يكون ثلاثة امثال المال وزيادة خمسين ،",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "درهما . فان قال مال تزيد عليه عشرين درهما فيكون مثل اثنى عشر جذره{n:٢}",
+   "note_marks": [
+    "٢"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "فقياسه أن تقول مال وعشرون درهما تعدل اثنى عشر جذراً فنصف الاجذار",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "واضربها فى مثلها تكن ستة وثلاثين فانقص منها العشرين الدرهم وخذ جذر مابقى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "فانقصه من نصف الاجذار وهو ستة فما بقى فهو جذر المال وهو درهمان والمال",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "أربعة . فان قال مال تعزل ثلثه وثلاثة دراهم وتضرب ما بقى فى مثله فيعود",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "المال {n:٣} قياسه أنك اذا القيت ثلثه وثلاثة دراهم بقى ثلثاه الا ثلاثة دراهم وهو",
+   "note_marks": [
+    "٣"
+   ],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "جذر فاضرب ثلثى شىء الاثلاثة دراهم فى مثله فتقول ثلثان فى ثلثين أربعة أتساع",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "مال والا ثلاثة دراهم فى ثلثى شىء جذران . والا ثلاثة دراهم فى ثلثى",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "شىء جذران والا ثلاثة دراهم فى الا ثلاثة دراهم تسعة دراهم فيصير",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "معك أربعة اتساع مال وتسعة دراهم الا أربعة أجذار تعدل جذرا . فرد الأربعة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "الاجذار على الجذر فيكون خمسة أجذار تعدل أربعة اتساع (مال)وتسعة دراهم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "فاكمل مالك وهو أن تضرب الأربعة الاتساع فى اثنين وربع فيكون مالا",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F063-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "واضرب تسعة دراهم فى اثنين وربع يكن عشرين وربعاً ثم اضرب الخمسة الاجذار",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "١",
+    "٢",
+    "٣"
+   ],
+   "lines": 5,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The problems of L05 and L09 are introduced with فان قال (L05, L09) in the face of the text, as on frame 062 from L06 on; the bold run-in headings of frames 055-062 do not recur on this page.",
+  "L13: in the first ثلاثة, after والا, the thin upright of the lām of the ligature لا is not printed: the alif and the foot of the ligature stand 14 px (nearest approach of the ink at 400 ppi) from the tooth of the ث, unjoined, and the word looks like ثرثة. The second ثلاثة of the line and those of L10 to L12 have the whole ligature. Transcribed ثلاثة; the machine reading has ثرثة.",
+  "Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): مابقى (L07; 13 between the alif and the ب, where ما بقى in L09 stands 31 apart and فما بقى in L08 32); الاثلاثة (L11; 24 between the لا and the ث, within the distances of the ligature from the next letter inside a word, 20 to 26 px, where the ligature stands 42 and 43 px from the ث in الا ثلاثة, L10 and L13, and 53 to 56 in والا ثلاثة, L12 and L13).",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: منها العشرين (L07; 20 between the two alifs, where the alif stands 13 px from the ب of مابقى in the same line and 31 from that of ما بقى in L09).",
+  "After ة a word space is transcribed where the gap is 16 px or more: ثلاثة أموال (L02; 24 and 26), ستة وثلاثين (L07; 17), أربعة اتساع (L14; 19), خمسة أجذار (L15; 19), وتسعة دراهم (L15; 16), تسعة دراهم (L17; 18), الخمسة الاجذار (L17; 20).",
+  "L15: «(مال)وتسعة», as printed: the word مال stands between parentheses, as on frame 054, and set close to them as there: the opening parenthesis stands 20 px (nearest approach of the ink at 400 ppi) from the م and the closing one 23 px from the final ل, the gaps beside these letters on frame 054 (23 and 24); the conjunction و of وتسعة follows the closing parenthesis without a space (6 px), as ضربت follows it on frame 054, L04 (7 px). Before the opening parenthesis a word space stands, 23 px from the ع of اتساع. The edition does not say what the parentheses mark; the same words stand without them in L14, أربعة اتساع مال (L14).",
+  "The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after درهما, before فان (L05; 33 and 26), after أربعة, before فان (L09; 25 and 28), after جذران, before والا (L12; 42 and 24), after جذرا, before فرد (L14; 24 and 20). L04 ends with a comma of the usual form (13 by 27 px, as the comma of frame 043, L13, 12 by 27), 22 px after خمسين; see the critical note AK01-CN018.",
+  "The note marks: (١) and (٣) stand in wide spaces, between درهما and قياسه (L01; 116 px between the words) and between المال and قياسه (L10; 111 px); (٢) stands close after جذره (L05; 11 px), at the end of the line. None of them has a full stop.",
+  "Plain alif where a hamza might be expected, as printed: فالق, الاربعة, الاموال (L02), اربعة (L03), امثال (L04), فان (L05, L09), اثنى (L05, L06), الاجذار (L06, L08, L15, L17), واضربها, فانقص (L07), فانقصه (L08), اذا, القيت, الا (L10), فاضرب, الاثلاثة (L11), والا (L12, L13), الا (L13, L14), اتساع (L14, L15), فاكمل, الاتساع, اثنين (L16), واضرب, اثنين, اضرب (L17); with hamza: أن, أربعة, أجذار, أموال (L01), أموال (L02), أجذار (L03), أيضاً (L04), أن (L06), أربعة (L09), أنك (L10), أربعة, أتساع (L11), أربعة, أجذار, الأربعة (L14), أجذار, أربعة (L15), أن, الأربعة (L16); on ي: مائتان (L04); the hamza on the line: شىء (L11, L12, L13).",
+  "With tanwīn on the final alif: جذراً (L01, L06), درهماً (L02), أيضاً (L04), وربعاً (L17); without tanwīn as printed: درهما (L01, L03, L05, L06), جذرا (L14), مالا (L16).",
+  "The final yā' is printed without dots: يبقى (L02), فى throughout, اثنى (L05, L06), مابقى (L07), بقى (L08, L09, L10), ثلثى (L11, L12), على (L15).",
+  "The print stretches يعدل and اربعة (L03), أيضاً, يكون and المال (L04) and فيصير (L13) with the elongation stroke; the stroke is not transcribed.",
+  "Notes (١) to (٣) of the editors restate the three problems of the page as equations in modern notation and solve them: the square fifty; the root two or ten and the square four or a hundred; the quantity nine or nine quarters. None is reproduced."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK01-CN018",
+   "class": "misplaced punctuation",
+   "line": "L04",
+   "printed": "وزيادة خمسين ، درهما (L04-L05)",
+   "proposed": "وزيادة خمسين درهما",
+   "evidence": "The sentence checks the answer: the root of fifty times four roots of fifty is two hundred, which is three times the square and fifty dirhams more, «فذلك مائتان يكون ثلاثة امثال المال وزيادة خمسين درهما». The comma stands at the end of L04, 22 px (nearest approach of the ink at 400 ppi) after خمسين, between the number and the noun it counts, درهما, which begins L05 and is followed by the full stop that ends the sentence.",
+   "confidence": "high that no comma belongs between the number and the noun it counts",
+   "impact": "none on the mathematics: the words are complete"
+  }
+ ]
+}

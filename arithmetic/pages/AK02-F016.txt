@@ -1,0 +1,44 @@
+@page 16 10
+% Frame 016, printed p. 10: the second example of subtraction, 1144 less 144; halving, place by place, with the half of
+% an odd unit written as thirty sixtieths and the half of an odd ten as five in the place before; doubling, from the
+% highest place; the beginning of multiplication: the products of the numbers from one to nine to be known, and the
+% placing of the two numbers in the table.
+numerus noster mille centum quadraginta quatuor, de quibus
+minuamus .{sc:c}.{sc:xliiii}., et constituamus unum quemque ex eis
+sub alio hoc modo.
+@p Cum uolueris mediare aliquem numerum, accipe a prima
+differentia, et media eam: in qua si fuerit numerus inpar, me-
+dia pares, et remanebit unum, quod mediabis, idest diuides in
+duas medietates; constituesque medietatem unam triginta par-
+tem ex sexaginta, que faciunt unum; et pone sub eadem diffe-
+rentia .{sc:xxx}.: deinde mediabis sequentem differentiam, si fue-
+rit numerus eius par; et si fuerit impar, accipe medietatem
+paris, et pone eam in loco eius, et constitue medietatem unius
+residui quinque; et pone eos in differentia que est ante ipsam.
+Si autem non fuerit in eadem differentia quam uolueris me-
+diare, nisi tantum unum, pone in loco eius circulum, et pone
+quinque in differentia que est ante ipsam. Et similiter operare
+in uniuersis differentiis. Et cum uolueris duplare, incipe a su-
+periori differentia, et dupla; et cum numerus crescendo exces-
+serit .{sc:x}., fac de decem unum, et pone eum in sequenti diffe-
+rentia, et inuenies, si Deus uoluerit.
+@p Etiam patefeci in libro, quod necesse est omni numero qui
+multiplicatur in aliquo quolibet numero, ut duplicetur unus
+ex eis secundum unitates alterius. Cumque uolueris multipli-
+care aliquem numerum in alio per literas indorum, necesse est
+retinere multiplicationem numeri, qui est inter unum et .{sc:ix}.
+in inuicem, siue concors fuerit numerus, siue diuersus. Cum-
+que uolueris multiplicare numerum in altero, pone unum ex
+eis secundum quantitatem mansionum eius in tabula, uel in
+qualibet re alia quam uolueris. De inde pone primam diffe-
+rentiam alterius numeri sub altiori differentia primi. Eritque
+prima mansio eiusdem numeri sub ultima mansione primi nu-
+meri quem posuisti. Et erit mansio secunda precedens primum
+numerum uersus sinistram: cuius rei exemplar est. Quod cum
+uellemus multiplicare duo milia tercentos .{sc:xxvi}. in .{sc:ccx}.{sc:iiii}{sup:or},
+@obs The page number «( 10 )» stands at the head of the page, centred. The page has no footnotes and no signature.
+@obs L01-L03: the example of subtraction is one thousand one hundred and forty-four («mille centum quadraginta quatuor») less «.c.xliiii.», one hundred and forty-four, written «.c.» and «xliiii.» with one point between them; L03 ends «hoc modo.», in this way, without the figure and without the four points of a gap. L33: «.ccx.iiiior», two hundred and fourteen, «iiii» with «or» raised, after «.ccx.».
+@obs L07-L09: the half of an odd unit is written as «triginta partem ex sexaginta», thirty sixtieths, placed under the place as «.xxx.».
+@obs L32: the second «u» of «numerum» is broken, its two stems printed as short strokes; transcribed «numerum».
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): L09 «.xxx.: deinde», the colon close to the point (8 px), without a space; L24 «unum et .ix.», with a wider space (31 px) before the point; the colon of L32 «sinistram:» is close to the word (6 px).
+@copy A reader's notes in pencil: «or / XLIIII» in the left margin beside L01-L02, a reading of «.xliiii.» as quadraginta quatuor; L03, a dot after «modo.» (darkest pixel 107, where the printed point is 22) and faint erased writing to the right of it; «quod» in the left margin beside L10, with «et» marked by a stroke; L11, «paris,» underlined and a slash after it; L11, a stroke over «loco»; L13, a stroke over «fuerit»; «quod / quod» in the left margin beside L15-L16, with strokes under «Et» (L15, L16); L27, a small comma-shaped mark at the base line between «eis» and «secundum», not in the ink of the print. Not part of the edition.

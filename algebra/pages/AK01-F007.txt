@@ -1,0 +1,21 @@
+@page 7 -
+@kind title
+% Frame 007: the title page of the edition.
+@c الجامعة المصرية
+@c كلية العلوم
+@c كتاب الجبر والمقابلة
+@c لمحمد بن موسى الخوارزمى
+@c قام بتقديمه والتعليق عليه
+@c على مصطفى مشرفة
+@c دكتور فى الفلسفة ــ دكتور فى العلوم
+@c من جامعة لندن
+@c أستاذ الرياضة التطبيقية بالجامعة المصرية
+@c و
+@c محمد مرسى احمد
+@c دكتور فى الفلسفة
+@c من جامعة إدنبرة
+@c أستاذ الرياضة البحتة المساعد بالجامعة المصرية
+@c مطبعة فتح الله الياس نورى وأولاده بمصر
+@c ١٩٣٩
+@obs The faculty stands at the top right in two underlined lines; under the title, a short rule; the two editors in two columns with «و» between them; a double rule above the printer and the year.
+@copy The perforated stamp «COLUMBIA UNIVERSITY LIBRARY» across the lower half, and a small mark in pencil in the right margin; copy matter.

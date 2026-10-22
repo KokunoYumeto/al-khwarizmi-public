@@ -1,0 +1,776 @@
+{
+ "anchor": "AK07-J0101",
+ "jp2_index": 101,
+ "jp2_member": "b24872489_0101.jp2",
+ "jp2_sha256": "947d41f3ee744351250cfd3a2875a504505b7b92e7197a8663beccc36d669788",
+ "reading_copy": "page_0101.jpg",
+ "reading_copy_sha256": "ee5821142c33d4ba4261b42313879ef6451e79d7a58a3974d4e3110a5cf19263",
+ "printed_page": "69",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0101: Suter's commentary, p. 69: chapter 23 continued: the Latin names of the sine and the versed sine in Adelard (elgeib planum, elgeib elmankūs, diminutum) and in Robert of Chester; the four quadrants in the sine table; the sine of 6°; the readings of the table against al-Battānī's (note 1).",
+ "lines": [
+  {
+   "id": "AK07-J0101-L01",
+   "n": 1,
+   "kind": "indent",
+   "text": "{sp:Kh.} nennt den Sinus eines Winkels {i:elgeib elmustewi} = {i:al-djaib al-mustawī,} und",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kh. nennt den Sinus eines Winkels elgeib elmustewi = al-djaib al-mustawī, und",
+   "italic": [
+    "elgeib elmustewi",
+    "al-djaib al-mustawī,"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "{sp:Athelhard} gibt dies durch {i:elgeib planum} wieder (die meisten arabischen Wörter",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Athelhard gibt dies durch elgeib planum wieder (die meisten arabischen Wörter",
+   "italic": [
+    "elgeib planum"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Athelhard"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "nimmt er als Neutra an) ; {i:planus} ist wohl eine Bedeutung von {i:mustawī,} besser aber",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nimmt er als Neutra an) ; planus ist wohl eine Bedeutung von mustawī, besser aber",
+   "italic": [
+    "planus",
+    "mustawī,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "wäre hier {i:rectus} = gerade, oder gerad aufgerichtet. {sp:Athelhard} kannte also (ums Jahr",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wäre hier rectus = gerade, oder gerad aufgerichtet. Athelhard kannte also (ums Jahr",
+   "italic": [
+    "rectus"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Athelhard"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "1126) die Übersetzung von {i:djaib} durch das lateinische {i:sinus} noch nicht, dagegen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "1126) die Übersetzung von djaib durch das lateinische sinus noch nicht, dagegen",
+   "italic": [
+    "djaib",
+    "sinus"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "ersehen wir aus dem Madrider Ms. N, dass {sp:Robert von Chester}, der die bessere",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ersehen wir aus dem Madrider Ms. N, dass Robert von Chester, der die bessere",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Robert von Chester"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "„Ordnung“ der {sp:Athelhard}’schen Übersetzung wohl etwa zwischen 1143 und 1150",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "„Ordnung“ der Athelhard’schen Übersetzung wohl etwa zwischen 1143 und 1150",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Athelhard"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "ausgeführt haben mag, das Wort {i:sinus} gekannt hat. Wir wissen nicht, wann {sp:Gerhard}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ausgeführt haben mag, das Wort sinus gekannt hat. Wir wissen nicht, wann Gerhard",
+   "italic": [
+    "sinus"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Gerhard"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "{sp:von Cremona}, der seine Übersetzungen meist nicht datiert hat, die Astronomie",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "von Cremona, der seine Übersetzungen meist nicht datiert hat, die Astronomie",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "von Cremona"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "des {sp:Djābir b. Aflaḥ}, in der das Wort {i:sinus} vorkommt, übersetzt hat, können also",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des Djābir b. Aflaḥ, in der das Wort sinus vorkommt, übersetzt hat, können also",
+   "italic": [
+    "sinus"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Djābir b. Aflaḥ"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "nicht entscheiden, ob er oder {sp:Robert von Chester} zuerst dieses Wort gebraucht",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nicht entscheiden, ob er oder Robert von Chester zuerst dieses Wort gebraucht",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Robert von Chester"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "habe, doch ist die Wahrscheinlichkeit für letztern grösser.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "habe, doch ist die Wahrscheinlichkeit für letztern grösser.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L13",
+   "n": 13,
+   "kind": "indent",
+   "text": "Den {i:Sinus versus} nennt {sp:Athelhard} {i:elgeib elmankūs} (oder {i:maʿkūs}) = der um-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Den Sinus versus nennt Athelhard elgeib elmankūs (oder maʿkūs) = der um-",
+   "italic": [
+    "Sinus versus",
+    "elgeib elmankūs",
+    "maʿkūs"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Athelhard"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "gekehrte Sinus ; er übersetzt aber {i:mankūs} unrichtig mit {i:diminutum,} indem er es mit",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "gekehrte Sinus ; er übersetzt aber mankūs unrichtig mit diminutum, indem er es mit",
+   "italic": [
+    "mankūs",
+    "diminutum,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "{i:manḳūṣ} verwechselt, das „vermindert“, „verkleinert“ bedeutet, und beinahe gleich",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "manḳūṣ verwechselt, das „vermindert“, „verkleinert“ bedeutet, und beinahe gleich",
+   "italic": [
+    "manḳūṣ"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "ausgesprochen wird. Dies mag wohl ein Beweis dafür sein, dass man damals eine",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ausgesprochen wird. Dies mag wohl ein Beweis dafür sein, dass man damals eine",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "Sprache nicht sowohl aus Büchern erlernte, als vielmehr im sprachlichen Verkehr",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Sprache nicht sowohl aus Büchern erlernte, als vielmehr im sprachlichen Verkehr",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "mit Menschen, daher bei Übersetzungen mehr auf das gesprochene Wort, als auf",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mit Menschen, daher bei Übersetzungen mehr auf das gesprochene Wort, als auf",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "das geschriebene, bezw. gelesene vertraute ; daher mögen wohl auch noch andere",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "das geschriebene, bezw. gelesene vertraute ; daher mögen wohl auch noch andere",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "falsche Schreibweisen arabischer Wörter stammen.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "falsche Schreibweisen arabischer Wörter stammen.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L21",
+   "n": 21,
+   "kind": "indent",
+   "text": "Die unrichtigen Übersetzungen {sp:Athelhards}, {i:mustawī} durch {i:planus} und {i:mankūs}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Die unrichtigen Übersetzungen Athelhards, mustawī durch planus und mankūs",
+   "italic": [
+    "mustawī",
+    "planus",
+    "mankūs"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Athelhards"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "durch {i:diminutus,} hat {sp:Robert von Chester} nicht verbessert, er nennt den Sinus",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "durch diminutus, hat Robert von Chester nicht verbessert, er nennt den Sinus",
+   "italic": [
+    "diminutus,"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Robert von Chester"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "ebenfalls {i:sinus planus} und den Sinus versus {i:sinus diminutus.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ebenfalls sinus planus und den Sinus versus sinus diminutus.",
+   "italic": [
+    "sinus planus",
+    "sinus diminutus."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L24",
+   "n": 24,
+   "kind": "indent",
+   "text": "Wir haben noch besonders darauf aufmerksam zu machen, dass {sp:Kh.} in der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Wir haben noch besonders darauf aufmerksam zu machen, dass Kh. in der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "Sinustafel in den vier Spalten, die mit {i:Semitae numerorum} überschrieben sind, die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Sinustafel in den vier Spalten, die mit Semitae numerorum überschrieben sind, die",
+   "italic": [
+    "Semitae numerorum"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "Winkel aller vier Quadranten angibt, die denselben Sinus (abgesehen vom Vorzeichen)",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Winkel aller vier Quadranten angibt, die denselben Sinus (abgesehen vom Vorzeichen)",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "haben, so in der 6. Zahlenzeile :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "haben, so in der 6. Zahlenzeile :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L28",
+   "n": 28,
+   "kind": "table",
+   "text": "Sig. | Gr. | Sig. | Gr. | Sig. | Gr. | Sig. | Gr. | |",
+   "cells": [
+    "Sig.",
+    "Gr.",
+    "Sig.",
+    "Gr.",
+    "Sig.",
+    "Gr.",
+    "Sig.",
+    "Gr.",
+    "",
+    ""
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Sig. | Gr. | Sig. | Gr. | Sig. | Gr. | Sig. | Gr. | |",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L29",
+   "n": 29,
+   "kind": "table",
+   "text": "0 | 6 | 5 | 24 | 6 | 6 | 11 | 24 | das heisst : |",
+   "cells": [
+    "0",
+    "6",
+    "5",
+    "24",
+    "6",
+    "6",
+    "11",
+    "24",
+    "das heisst :",
+    ""
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "0 | 6 | 5 | 24 | 6 | 6 | 11 | 24 | das heisst : |",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L30",
+   "n": 30,
+   "kind": "table",
+   "text": "6° | | 174° | | 186° | | 354° | | |",
+   "cells": [
+    "6°",
+    "",
+    "174°",
+    "",
+    "186°",
+    "",
+    "354°",
+    "",
+    "",
+    ""
+   ],
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "6° | | 174° | | 186° | | 354° | | |",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L31",
+   "n": 31,
+   "kind": "indent",
+   "text": "Der Sinus ist angegeben in {i:partes} (Radius = 60 solcher), oder wie der Text hat",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Der Sinus ist angegeben in partes (Radius = 60 solcher), oder wie der Text hat",
+   "italic": [
+    "partes"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "{i:partitiones, dakaicae} = arab. {i:daḳā’iḳ} = Minuten, und {i:theniae} (mit dem Artikel {i:eltheniae})",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "partitiones, dakaicae = arab. daḳā’iḳ = Minuten, und theniae (mit dem Artikel eltheniae)",
+   "italic": [
+    "partitiones, dakaicae",
+    "daḳā’iḳ",
+    "theniae",
+    "eltheniae"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "= arab. {i:thāniya} = Sekunden{sup:1}). So ist der Sinus von 6° = 6{sup:{i:p}} 16′ 18″ = 6 + {fr:16|60} + {fr:18|60{sup:2}} =",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "= arab. thāniya = Sekunden1). So ist der Sinus von 6° = 6p 16′ 18″ = 6 + (16)/(60) + (18)/(602) =",
+   "italic": [
+    "thāniya",
+    "p"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "6,27166, dies gibt, den Radius = 1 gesetzt : sin 6° = 0,10453 (richtiger Wert = 0,104528).",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "6,27166, dies gibt, den Radius = 1 gesetzt : sin 6° = 0,10453 (richtiger Wert = 0,104528).",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L35",
+   "n": 35,
+   "kind": "indent",
+   "text": "Bei Abweichungen von den Tafeln {sp:Batt.}’s haben wir, wenn der Fehler nur 1″",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Bei Abweichungen von den Tafeln Batt.’s haben wir, wenn der Fehler nur 1″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L36",
+   "n": 36,
+   "kind": "text",
+   "text": "betrug, die Lesart der Manuskripte in die Tafel aufgenommen, bei einem Fehler von",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "betrug, die Lesart der Manuskripte in die Tafel aufgenommen, bei einem Fehler von",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "mehr als 1″ aber den richtigen Wert {sp:Batt.}’s, entgegen dem Verfahren {sp:Björnbo}’s",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mehr als 1″ aber den richtigen Wert Batt.’s, entgegen dem Verfahren Björnbo’s",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt.",
+    "Björnbo"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L38",
+   "n": 38,
+   "kind": "text",
+   "text": "in der oben genannten Schrift, der überall die Werte von C und O aufgenommen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "in der oben genannten Schrift, der überall die Werte von C und O aufgenommen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-L39",
+   "n": 39,
+   "kind": "text",
+   "text": "hat, auch wenn sie unrichtig waren.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "hat, auch wenn sie unrichtig waren.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0101-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Vergl. oben p. 36.",
+   "margin": null,
+   "plain": "1) Vergl. oben p. 36.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «69» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 continues chapter 23 from p. 68 (JP2 0100, L33-L37).",
+  "L28-L30: the example of the sixth row of the sine table, set as a small table centred in the page: four groups, each headed «Sig.» (signs) and «Gr.» (degrees), divided and closed by vertical rules, which are not transcribed; «das heisst :» at the right of the second row; the third row, the angles in degrees, stands below the groups, each value centred in its group. Each printed row is one line here, the cells separated by our «|»; in L30 each value spans its group, the empty cells after it are not printed. Checked: 0 signs 6° = 6°, 5 signs 24° = 174°, 6 signs 6° = 186°, 11 signs 24° = 354°, the four angles whose sine is ± sin 6°.",
+  "L33-L34. Checked: 60 sin 6° = 6.27171 = 6p 16′ 18.1″; 6 + 16/60 + 18/3600 = 6.271667, which Suter truncates to 6,27166; 6.271667 : 60 = 0.104528, «0,10453», and sin 6° = 0.1045285, «0,104528». L33: the two fractions built up, written {fr:NUMERATOR|DENOMINATOR}; «6p», the p raised and italic.",
+  "L04-L05: «ums Jahr 1126», the date of the translation given in O (p. 37, JP2 0069, L10-L21). L13-L15 and L21: «elmankūs», «mankūs» without dots, «manḳūṣ» with the dots under ḳ and ṣ, «maʿkūs» with the ʿayn raised; L32 «daḳā’iḳ» with the dots and the apostrophe of the hamza; L33 «thāniya»; L10 «Djābir b. Aflaḥ», spaced, with the dot under the ḥ.",
+  "L09: the arch of the n of «nicht» is covered by a grey blot, its two stems visible; L14: after «mit» a thin vertical stroke, lighter than the print, of spacing material, as on p. 66 (JP2 0098, L26); not transcribed. L23: the final s of «sinus» is printed light.",
+  "Spaced type, marked {sp:}: «Kh.», «Athelhard», «Athelhards», «Robert von Chester», «Gerhard von Cremona», «Djābir b. Aflaḥ», «Batt.», «Björnbo»; italics: the Arabic and Latin words, «Sinus versus» (L13; upright in L23), «Semitae numerorum», «partes», «partitiones», «dakaicae», «theniae», «eltheniae».",
+  "The colons and semicolons stand after the thin space of the edition (10-14 px measured; «Zahlenzeile :» 10 px)."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

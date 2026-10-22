@@ -1,0 +1,293 @@
+{
+ "anchor": "AK05-F167",
+ "frame": 167,
+ "frame_file": "page_167.jpg",
+ "frame_sha256": "ca4dbb2d85df5f9193e326b9331dc7f64db0a407a72097f9f44a00491deb7f5b",
+ "printed_page": "١٦١",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 167, printed p. 161: the end of the editor's index: the islands of the sea of Jurjān and Ṭabaristān, the places where the boundaries of the countries are written, and the springs and rivers, from beyond the equator to beyond the seventh clime, with six great rivers as sub-entries; a short rule closes the index.",
+ "lines": [
+  {
+   "id": "AK05-F167-L01",
+   "n": 1,
+   "kind": "head",
+   "text": "| صحيفة",
+   "margin": null,
+   "cells": [
+    "",
+    "صحيفة"
+   ],
+   "plain": "| صحيفة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L02",
+   "n": 2,
+   "kind": "row",
+   "text": "جزائر بحر جرجان وطبرستان | ١٠١",
+   "margin": null,
+   "cells": [
+    "جزائر بحر جرجان وطبرستان",
+    "١٠١"
+   ],
+   "plain": "جزائر بحر جرجان وطبرستان | ١٠١",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L03",
+   "n": 3,
+   "kind": "row",
+   "text": "المواضع الّتى تَكتب فيها حدود البلدان | ١٠١—١٠٥",
+   "margin": null,
+   "cells": [
+    "المواضع الّتى تَكتب فيها حدود البلدان",
+    "١٠١—١٠٥"
+   ],
+   "plain": "المواضع الّتى تَكتب فيها حدود البلدان | ١٠١—١٠٥",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L04",
+   "n": 4,
+   "kind": "centre",
+   "text": "* العيون والأنهار التى على كرة الأرض المعمورة *",
+   "margin": null,
+   "cells": null,
+   "plain": "* العيون والأنهار التى على كرة الأرض المعمورة *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "العيون والأنهار الّتى خلف خطّ الاستواء | ١٠٦—١٠٩",
+   "margin": null,
+   "cells": [
+    "العيون والأنهار الّتى خلف خطّ الاستواء",
+    "١٠٦—١٠٩"
+   ],
+   "plain": "العيون والأنهار الّتى خلف خطّ الاستواء | ١٠٦—١٠٩",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L06",
+   "n": 6,
+   "kind": "centre",
+   "text": "نيل مصر ١٠٦—١٠٩",
+   "margin": null,
+   "cells": null,
+   "plain": "نيل مصر ١٠٦—١٠٩",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "الإقليم الأوّل وما فيه من العيون والأنهار | ١١٠—١١٥",
+   "margin": null,
+   "cells": [
+    "الإقليم الأوّل وما فيه من العيون والأنهار",
+    "١١٠—١١٥"
+   ],
+   "plain": "الإقليم الأوّل وما فيه من العيون والأنهار | ١١٠—١١٥",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "الإقليم الثانى وما فيه من العيون والأنهار | ١١٥—١١٨",
+   "margin": null,
+   "cells": [
+    "الإقليم الثانى وما فيه من العيون والأنهار",
+    "١١٥—١١٨"
+   ],
+   "plain": "الإقليم الثانى وما فيه من العيون والأنهار | ١١٥—١١٨",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "الإقليم الثالث وما فيه من العيون والأنهار | ١١٩—١٢٢",
+   "margin": null,
+   "cells": [
+    "الإقليم الثالث وما فيه من العيون والأنهار",
+    "١١٩—١٢٢"
+   ],
+   "plain": "الإقليم الثالث وما فيه من العيون والأنهار | ١١٩—١٢٢",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "الإقليم الرابع وما فيه من العيون والأنهار | ١٢٢—١٢٦",
+   "margin": null,
+   "cells": [
+    "الإقليم الرابع وما فيه من العيون والأنهار",
+    "١٢٢—١٢٦"
+   ],
+   "plain": "الإقليم الرابع وما فيه من العيون والأنهار | ١٢٢—١٢٦",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "الإقليم الخامس وما فيه من العيون والأنهار | ١٢٦—١٣٥",
+   "margin": null,
+   "cells": [
+    "الإقليم الخامس وما فيه من العيون والأنهار",
+    "١٢٦—١٣٥"
+   ],
+   "plain": "الإقليم الخامس وما فيه من العيون والأنهار | ١٢٦—١٣٥",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L12",
+   "n": 12,
+   "kind": "centre",
+   "text": "نهر دجلة ١٢٩—١٣٠",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر دجلة ١٢٩—١٣٠",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L13",
+   "n": 13,
+   "kind": "centre",
+   "text": "نهر مهران ١٣١—١٣٣",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر مهران ١٣١—١٣٣",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L14",
+   "n": 14,
+   "kind": "centre",
+   "text": "نهر جنجس ١٣٣—١٣٥",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر جنجس ١٣٣—١٣٥",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "الإقليم السادس وما فيه من العيون والأنهار | ١٣٥—١٤١",
+   "margin": null,
+   "cells": [
+    "الإقليم السادس وما فيه من العيون والأنهار",
+    "١٣٥—١٤١"
+   ],
+   "plain": "الإقليم السادس وما فيه من العيون والأنهار | ١٣٥—١٤١",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L16",
+   "n": 16,
+   "kind": "centre",
+   "text": "نهر الفرات ١٣٩—١٤٠",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر الفرات ١٣٩—١٤٠",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L17",
+   "n": 17,
+   "kind": "row",
+   "text": "الإقليم السابع وما فيه من العيون والأنهار | ١٤١—١٤٩",
+   "margin": null,
+   "cells": [
+    "الإقليم السابع وما فيه من العيون والأنهار",
+    "١٤١—١٤٩"
+   ],
+   "plain": "الإقليم السابع وما فيه من العيون والأنهار | ١٤١—١٤٩",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L18",
+   "n": 18,
+   "kind": "centre",
+   "text": "نهر بلخ ١٤٥—١٤٧",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر بلخ ١٤٥—١٤٧",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F167-L19",
+   "n": 19,
+   "kind": "row",
+   "text": "ما خلف الإقليم السابع من العيون والأنهار | ١٤٩—١٥٨",
+   "margin": null,
+   "cells": [
+    "ما خلف الإقليم السابع من العيون والأنهار",
+    "١٤٩—١٥٨"
+   ],
+   "plain": "ما خلف الإقليم السابع من العيون والأنهار | ١٤٩—١٥٨",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The last page of the editor's index, in the layout of pp. 159-160 (frames 165-166): each section of the text with the printed pages of the edition on which it stands, in a column at the left under the head «صحيفة», page, repeated at the top of the page. Transcribed as a table of two columns, the section and its pages; the first page of a range stands at the right of the long dash.",
+  "The pages agree with the frames (the printed page N is frame N + 6): the islands of the sea of Jurjān and Ṭabaristān and the places where the boundaries of the countries are written begin on p. 101 (frame 107), and the places end on p. 105 (frame 111); the springs and rivers begin on p. 106 (frame 112); the first clime on p. 110 (frame 116), the second on p. 115 (frame 121), the third on p. 119 (frame 125), the fourth on p. 122 (frame 128), the fifth on p. 126 (frame 132), the sixth on p. 135 (frame 141), the seventh on p. 141 (frame 147), and the springs and rivers beyond the seventh clime on p. 149 (frame 155), to the end of the text on p. 158 (frame 164).",
+  "L06, L12-L14, L16, L18: six great rivers are set as sub-entries under their clime, indented from the right, each with its pages after it in the middle of the line, as the sub-entries of pp. 159-160; transcribed as centred lines. Their pages agree with the frames on which the rivers are named: the Nile of Egypt, «نيل مصر», from p. 106 (frame 112); the Tigris, «نهر دجلة», from p. 129 (frame 135); the Mihrān, «نهر مهران», from p. 131 (frame 137); the Ganges, «نهر جنجس», from p. 133 (frame 139); the Euphrates, «نهر الفرات», from p. 139 (frame 145); the river of Balkh, «نهر بلخ», from p. 145 (frame 151).",
+  "L04: the head of the third group, centred, between two small open stars: «* العيون والأنهار التى على كرة الأرض المعمورة *», the springs and the rivers on the globe of the inhabited earth. «التى» has no shadda here, where L03, L05 and the heads of pp. 159-160 have «الّتى».",
+  "L03: «تَكتب» has a short slanting stroke, 10 by 5 px, above the two dots of the first ت, apart from the shaft of the ك: a fatha, which marks the reading «تَكتب», you write, and is transcribed. The medial ك of «الكبير» on p. 160 (frame 166, L11), in the same type, has no such stroke, and the head on p. 101 (frame 107) prints the word without a vowel sign.",
+  "The entries give the heads of the text with small differences of form: L05 has «العيون والأنهار الّتى خلف خطّ الاستواء» for the head on p. 106 (frame 112, L01), whose first words, damaged in the manuscript, the text prints with a gap between angle brackets (notes a and b there); L19 has «من العيون والأنهار», where the head on p. 149 (frame 155) has «من الأنهار والعيون».",
+  "Signs, transcribed as printed: «الّتى» (L03, L05) with a shadda over the ل; «الأنهار» and «والأنهار» with a hamza over the alif; «خطّ» (L05) with a shadda over the ط; «الاستواء» with a hamza on the line; «الإقليم» with a hamza below the alif; «الأوّل» (L07) with a shadda over the و; «جزائر» (L02) with a hamza on the tooth before the ر.",
+  "Below L19, a short rule of 277 px, centred, ends the index. At the foot, at the left, the signature «11» of the printed sheet; the page number «— ١٦١ —» stands at the foot, centred. The page has no footnotes."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

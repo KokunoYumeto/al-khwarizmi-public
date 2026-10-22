@@ -1,0 +1,4 @@
+@page 292 -
+@kind blank
+% JP2 0292: the verso of the free endpaper; nothing printed.
+@obs Blank: the verso of the free endpaper (JP2 0291); small specks and creases.

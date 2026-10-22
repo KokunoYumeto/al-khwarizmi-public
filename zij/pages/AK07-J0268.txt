@@ -1,0 +1,36 @@
+@page 268 236
+@lang de
+% JP2 0268: Additions and corrections, p. 236: 4. concluded; 5. «S... elmirech» of Tab. 92 read «Secundum
+% Emirethium» (Eumathius, Ammonius, al-Zarqālī); 6. Haskins's report of the Corpus Christi College manuscript;
+% 7. the parallaxes of Tab. 77 and 77a; with the closing rule.
+{sp:Batt.} ed. {sp:Nallino}, I, 206—209). — Diese Bemerkung ist auch in Berücksichtigung
+zu ziehen bei meinen Angaben p. 65 und 103.
+@p {b:5.} Auf Tafel 92 in den Noten soll {i:S... elmirech} wahrscheinlich heissen {i:Secun-}
+{i:dum Emirethium} (vergl. auch Tafel 7), und sich auf die astronomischen Tafeln des
+{sp:Eumathius} (d. i. wahrscheinlich {sp:Ammonius}) beziehen, die von {sp:Al-Zarḳālī}
+verbessert worden sind, von welcher Verbesserung sich ein Ms. in München (Nr. 853
+des Katal. v. Aumer) befindet, dessen Schluss lautet : „Beendigt ist der {i:Kānōn} des
+{sp:Eumathius}, verbessert von {sp:Abū Isḥāḳ al-Naḳḳāsh}, bekannt unter dem Namen
+{sp:Al-Zarḳālah}, in der Mitte des {i:Dhu’l-Ḥidjdja} 655 (Ende 1257)“. — Ammonius lebte
+zu Alexandria am Ende des 5. Jahrh. n. Chr. (vergl. auch {sp:Batt.} ed. {sp:Nallino}, I,
+XXXV, N. 5). — Ich habe auch an {i:al-mirrīkh} = Mars gedacht, ebenso an {i:al-mizādj}
+= Temperament, astrol. Natur eines Gestirns (vergl. {sp:Batt.} ed. {sp:Nallino}, II, 352—353),
+aber beides gibt an jener Stelle (Tafel 92) keinen Sinn.
+@p {b:6.} Als diese Arbeit schon zur Hälfte gedruckt war, erhielt ich von Herrn
+Prof. C. H. {sp:Haskins} in Cambridge (Mass.) die Mitteilung, dass im Ms. 283 des {i:Cor-}
+{i:pus Christi Coll.} in Oxford eine Abschrift von {sp:Athelhards} Übersetzung der Tafeln
+{sp:Kb.’s} vorhanden sei, die aber wahrscheinlich ziemlich unvollständig sei. Er bemerkt
+noch, dass, soweit er es feststellen konnte, dieser Text eher mit dem des Oxforder
+Ms. {i:Auct. F. I. 9} als mit dem der Mss. von Chartres und Madrid übereinstimme. Es
+wäre allerdings von Interesse, dieses Ms. nachträglich noch zur Vergleichung heran-
+zuziehen ; ich muss aber diese Arbeit solchen Gelehrten überlassen, denen dieses
+Ms. leichter zugänglich ist als mir, also in erster Linie den englischen.
+@p {b:7.} Es wurde in Kap. 34 vergessen, den Leser darauf aufmerksam zu machen,
+dass in den Tafeln 77 und 77{sup:a} die Parallaxe der Breite in Kreisteilen, nicht in
+Zeitteilen wie diejenige der Länge, angegeben ist. — In Tafel 77{sup:a} ist die Überschrift
+{i:Longitudo et Latitudo} irreführend, es sind nämlich die in diesen Kolonnen für die
+Argumente 91—150 verzeichneten Werte nur Parallaxen der Länge.
+@obs The page number «236» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 continues the parenthesis of p. 235 (JP2 0267, L39). After L27, a short double rule, centred, closes the additions and corrections; not transcribed as a line. The lower half of the page is blank; the text of the next page shows through, mirrored.
+@obs The cross-references, checked: Tab. 92 (p. 207, JP2 0239, N03) has the addition of C «S. . . (?) elmirech (?) a zodiaco in aequinoctialem radiatio cadit»; Tab. 7 (p. 118, JP2 0150, N13) has «Secundum Emirethium (?) cum fuerit ...»; Tab. 77a (p. 192, JP2 0224) has the head «Longitudo et Latitudo5)» over the columns of the parallax for the arguments 91 to 150, and Tab. 77 (p. 191, JP2 0223) gives the parallax in longitude in hours, minutes and seconds and the parallax in latitude in minutes and seconds of arc; p. 65 (JP2 0097) and p. 103 (JP2 0135, L09-L15) treat the length of the year.
+@obs Spaced type, marked {sp:}: «Batt.» (L01, L10, L12), «Nallino» (L01, L10, L12), «Eumathius» (L05, L08), «Ammonius» (L05), «Al-Zarḳālī» (L05), «Abū Isḥāḳ al-Naḳḳāsh» (L08), «Al-Zarḳālah» (L09), «Haskins» (L15), «Athelhards» (L16), «Kb.’s» (L17); «Ammonius» in L09 and «Aumer» (L07) are not spaced. Italics: «S... elmirech», «Secun-dum Emirethium», «Kānōn», «Dhu’l-Ḥidjdja», «al-mirrīkh», «al-mizādj», «Cor-pus Christi Coll.», «Auct. F. I. 9», «Longitudo et Latitudo». Bold: «5.», «6.», «7.». «77a» (L24, L25) with the a raised. The dash of «206—209» (L01) is printed in two pieces that touch, 49 px; the other dashes are long (45-48 px). A tick stands in the margin before «Eumathius» in L08 and a speck over the second s of «Mss.» in L19; not transcribed.
+@critical AK07-CN275 | wrong letter | L17 | {sp:Kb.’s} | {sp:Kh.’s} | Suter's abbreviation of al-Khwārizmī's name is «Kh.» throughout, as «Kh.’s» on p. 235 (JP2 0267, L02); a b is printed for the h | high | none

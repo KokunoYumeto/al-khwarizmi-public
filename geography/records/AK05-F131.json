@@ -1,0 +1,279 @@
+{
+ "anchor": "AK05-F131",
+ "frame": 131,
+ "frame_file": "page_131.jpg",
+ "frame_sha256": "edaf33f42cf1ecc0be9ce7018611ebec993ddfda884dd37ed42fadb02c710e31",
+ "printed_page": "١٢٥",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 131, printed p. 125: the second spring of Cyprus concluded; the lake of Tiberias, from which one river passes the mountain of snow and the mountain سنير to the sea and another goes to the Dead Sea; the Dead Sea; the river of the mountain of snow to Damascus; the river of the mountain of Lebanon past Ḥimṣ and Ḥamāh to the sea at Antioch; the river that cuts the mountain of Iṣṭakhr and Jūr to the sea near Sīrāf; a river from the same mountain; the river روس from the mountain سيمس; and the beginning of the river ڡطروس. The editor's running numbers (١٨٩٤)-(١٩٠٧) and the numbers of Suhrāb; the folio of the manuscript, «(fol. 37ᵇ)», within a line; words and numerals supplied by the editor between angle brackets. Three lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F131-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "{ov:ٮر {z}} والعرض {ov:لد ك} (١٨٩٤) [١٨٩٧] * بحيرة الطبريّة مقدار نصف جزء طولها",
+   "margin": null,
+   "cells": null,
+   "plain": "ٮر ō والعرض لد ك (١٨٩٤) [١٨٩٧] * بحيرة الطبريّة مقدار نصف جزء طولها",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F131-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "مثل عرضها عند طول {ov:نح ك} والعرض {ov:لٮ {z}} (١٨٩٥) [١٠٢٥] يخرج منها نهر فيمرّ",
+   "margin": null,
+   "cells": null,
+   "plain": "مثل عرضها عند طول نح ك والعرض لٮ ō (١٨٩٥) [١٠٢٥] يخرج منها نهر فيمرّ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F131-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "بجبل الثلج وجبل سنير ثمّ يصبّ فى البحر عند طول {ov:سا {z}} والعرض {ov:له {z}} (١٨٩٦)",
+   "margin": null,
+   "cells": null,
+   "plain": "بجبل الثلج وجبل سنير ثمّ يصبّ فى البحر عند طول سا ō والعرض له ō (١٨٩٦)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F131-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "[١٥٥٧] ويخرج ايضاً من هٰذه البحيرة نهر الى بحيرة* الميّتة{n:a} عند طول {ov:نح ك} والعرض {ov:ل ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٥٥٧] ويخرج ايضاً من هٰذه البحيرة نهر الى بحيرة* الميّتة عند طول نح ك والعرض ل ل",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F131-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "(١٨٩٧) [١٠٢٦] مقدار بحيرة* الميّتة نصف جزء مدوّرة * نهر من جبل الثلج اوّله",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٨٩٧) [١٠٢٦] مقدار بحيرة* الميّتة نصف جزء مدوّرة * نهر من جبل الثلج اوّله",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F131-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "عند طول {ov:ٮط مه} والعرض {ov:لٮ يه} (١٨٩٨) ومصبّه فى مدينة دمشق ويجوزها بقليل",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول ٮط مه والعرض لٮ يه (١٨٩٨) ومصبّه فى مدينة دمشق ويجوزها بقليل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F131-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "الى بحيرة يصبّ فيها * نهر يخرج من جبل لبنان اوّله عند طول {ov:سا {z}} والعرض {ov:لج م}",
+   "margin": null,
+   "cells": null,
+   "plain": "الى بحيرة يصبّ فيها * نهر يخرج من جبل لبنان اوّله عند طول سا ō والعرض لج م",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F131-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "(١٨٩٩) [١٨٩٨] ويمرّ بحمص وحماة وهو الأردنّ ويصبّ فى البحر عند انطاكيّة",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٨٩٩) [١٨٩٨] ويمرّ بحمص وحماة وهو الأردنّ ويصبّ فى البحر عند انطاكيّة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F131-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "عند طول {ov:سا {z}} والعرض {ov:لد مه} (١٩٠٠) [١٨٩٩] * نهر يخرج من جبل اوّله عند",
+   "margin": null,
+   "cells": null,
+   "plain": "عند طول سا ō والعرض لد مه (١٩٠٠) [١٨٩٩] * نهر يخرج من جبل اوّله عند",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F131-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "طول {ov:عط ك} والعرض {ov:⟨له⟩{n:b} م} (١٩٠١) [١٩٠٠] ويمرّ فيقطع جبل اصطخر وجور ويصبّ",
+   "margin": null,
+   "cells": null,
+   "plain": "طول عط ك والعرض ⟨له⟩ م (١٩٠١) [١٩٠٠] ويمرّ فيقطع جبل اصطخر وجور ويصبّ",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F131-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "فى البحر قرب سيراف{n:c} عند طول {ov:ف {z}} والعرض {ov:كط ⟨ل⟩}{n:d} (١٩٠٢) [١٩٠١] * نهر",
+   "margin": null,
+   "cells": null,
+   "plain": "فى البحر قرب سيراف عند طول ف ō والعرض كط ⟨ل⟩ (١٩٠٢) [١٩٠١] * نهر",
+   "note_marks": [
+    "c",
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F131-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "يخرج من الجبل اوّله عند طول {ov:ڡد ل} والعرض {ov:له م} (١٩٠٣) [١٩٠٢]",
+   "margin": "(fol. 37ᵇ)",
+   "cells": null,
+   "plain": "يخرج من الجبل اوّله عند طول ڡد ل والعرض له م (١٩٠٣) [١٩٠٢]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F131-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "ويصبّ فى البحر عند طول {ov:ڡد م} والعرض {ov:كط ك} (١٩٠٤) [١٩٠٣] * نهر روس{n:e}",
+   "margin": null,
+   "cells": null,
+   "plain": "ويصبّ فى البحر عند طول ڡد م والعرض كط ك (١٩٠٤) [١٩٠٣] * نهر روس",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F131-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "يخرج من جبل سيمس اوّله عند طول {ov:ڡٮح ل} والعرض {ov:لٮ {z}} (١٩٠٥) [١٩٠٤]",
+   "margin": null,
+   "cells": null,
+   "plain": "يخرج من جبل سيمس اوّله عند طول ڡٮح ل والعرض لٮ ō (١٩٠٥) [١٩٠٤]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F131-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "ومصبّه فى البحر عند طول {ov:ڡٮح {z}} والعرض {ov:ٮح ن} (١٩٠٦) [١٩٠٥] * نهر ڡطروس{n:f}",
+   "margin": null,
+   "cells": null,
+   "plain": "ومصبّه فى البحر عند طول ڡٮح ō والعرض ٮح ن (١٩٠٦) [١٩٠٥] * نهر ڡطروس",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F131-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "اوّله عين من جبل نهر سمس عند ⟨طول⟩{n:g} {ov:ڡسو ى}{n:h} والعرض {ov:لا ل}{n:i} (١٩٠٧) [١٩٠٦]",
+   "margin": null,
+   "cells": null,
+   "plain": "اوّله عين من جبل نهر سمس عند ⟨طول⟩ ڡسو ى والعرض لا ل (١٩٠٧) [١٩٠٦]",
+   "note_marks": [
+    "g",
+    "h",
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+   ],
+   "lines": 3,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L04, L05: the manuscript reads المٮٮه, without dots, here, and الميه at the second occurrence, in the passage that ends with the running number (1898) (note a).",
+  "L10: the manuscript has a gap at the degrees between the brackets; the editor supplies them after S (note b).",
+  "L11: the manuscript reads سراف (note c).",
+  "L11: the manuscript has a gap at the minutes between the brackets; the editor supplies them after S (note d).",
+  "L13: a variant reading of the name is روسز (note e).",
+  "L15: a variant reading of the name is ڡطوس (note f).",
+  "L16: the word between the brackets is missing in the manuscript (note g).",
+  "L16: a variant reading of the longitude is ڡسر ى, with a line over the numerals (note h).",
+  "L16: a variant reading of the latitude is لا ō, with a line over the numerals (note i)."
+ ],
+ "unresolved": [
+  "L01: the notched form may also be read as a single ر whose head is split, ر, 7. Transcribed ٮر.",
+  "L14, L15: the low rise between the loop and the ح may also be a lengthened joining stroke without a tooth: ڡح, 108 read with ق. Transcribed ڡٮح."
+ ],
+ "observations": [
+  "The second spring of Cyprus goes on from p. 124 (frame 130), whose last words, «ومصبّها فى البحر عند طول», L01 continues with «ٮر {z} والعرض لد ك (١٨٩٤) *», its mouth in the sea, at the longitude ٮر ō and the latitude 34° 20′.",
+  "L01-L03: «بحيرة الطبريّة مقدار نصف جزء طولها مثل عرضها عند طول نح ك والعرض لٮ {z} (١٨٩٥)», the lake of Tiberias, half a degree in size, its length equal to its width, at the longitude 58° 20′ and the latitude 32° 0′; «يخرج منها نهر فيمرّ بجبل الثلج وجبل سنير ثمّ يصبّ فى البحر عند طول سا {z} والعرض له {z} (١٨٩٦)», a river goes out of it and passes the mountain of snow and the mountain سنير, then flows into the sea at the longitude 61° 0′ and the latitude 35° 0′. The town is entry 257 of the table of the cities (frame 025, L08), «طبريّة الأردنّ», at the longitude ٮر مه and the latitude لٮ ō; the mountains are entries 741-742, «جبل الثلج بدمشق», the mountain of snow at Damascus, and 747-748, «جبل سنير», of the table of the mountains (frame 056, L13, L16).",
+  "L04-L05: «ويخرج ايضاً من هٰذه البحيرة نهر الى بحيرة* الميّتة عند طول نح ك والعرض ل ل (١٨٩٧)», and another river goes out of this lake to the Dead Sea, at the longitude 58° 20′ and the latitude 30° 30′; «مقدار بحيرة* الميّتة نصف جزء مدوّرة *», the size of the Dead Sea is half a degree, round. «بحيرة*» (L04, L05): an asterisk with six solid arms stands after «بحيرة», raised like the note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (frame 046, L10); in «بحيرة الميّتة» the article stands on the adjective alone.",
+  "L05-L07: «نهر من جبل الثلج اوّله عند طول ٮط مه والعرض لٮ يه (١٨٩٨)», a river from the mountain of snow, whose beginning is at the longitude ٮط مه and the latitude 32° 15′; «ومصبّه فى مدينة دمشق ويجوزها بقليل الى بحيرة يصبّ فيها *», and its mouth is in the town of Damascus, and it passes it by a little to a lake into which it flows; the mouth has no coordinates of its own. Damascus is entry 269 of the table of the cities (frame 026, L02).",
+  "L07-L09: «نهر يخرج من جبل لبنان اوّله عند طول سا {z} والعرض لج م (١٨٩٩)», a river comes out of the mountain of Lebanon, whose beginning is at the longitude 61° 0′ and the latitude 33° 40′; «ويمرّ بحمص وحماة وهو الأردنّ ويصبّ فى البحر عند انطاكيّة عند طول سا {z} والعرض لد مه (١٩٠٠) *», and it passes Ḥimṣ and Ḥamāh, «وهو الأردنّ», and it is the Urdunn, and flows into the sea at Antioch, at the longitude 61° 0′ and the latitude 34° 45′. The mountain is entries 743-744 of the table of the mountains (frame 056, L14), «جبل لبنان»; the towns are entries 270, 279 and 274 of the table of the cities (frame 026, L03, L12, L07).",
+  "L09-L11: «نهر يخرج من جبل اوّله عند طول عط ك والعرض ⟨له⟩ م (١٩٠١)», a river comes out of a mountain whose name is not given; its beginning is at the longitude 79° 20′ and the latitude ⟨35°⟩ 40′; «ويمرّ فيقطع جبل اصطخر وجور ويصبّ فى البحر قرب سيراف عند طول ف {z} والعرض كط ⟨ل⟩ (١٩٠٢) *», and it passes and cuts through the mountain of Iṣṭakhr and Jūr and flows into the sea near Sīrāf, at the longitude 80° 0′ and the latitude 29° ⟨30′⟩. The mountain is entries 763-764 of the table of the mountains (frame 058, L10), «جبل يمرّ فيما بين اصطخر وجور»; the towns are entries 319, 318 and 170 of the table of the cities (frame 028, L16, L15; frame 020, L06), where the editor records that the manuscript writes سيراف as سراف there too.",
+  "L11-L13: «نهر يخرج من الجبل اوّله عند طول ڡد ل والعرض له م (١٩٠٣)», a river comes out of the mountain; its beginning is at the longitude ڡد ل and the latitude 35° 40′; «ويصبّ فى البحر عند طول ڡد م والعرض كط ك (١٩٠٤) *», and it flows into the sea at the longitude ڡد م and the latitude 29° 20′.",
+  "L13-L15: «نهر روس يخرج من جبل سيمس اوّله عند طول ڡٮح ل والعرض لٮ {z} (١٩٠٥)», the river روس comes out of the mountain سيمس; its beginning is at the longitude ڡٮح ل and the latitude 32° 0′; «ومصبّه فى البحر عند طول ڡٮح {z} والعرض ٮح ن (١٩٠٦) *», and its mouth in the sea is at the longitude ڡٮح ō and the latitude ٮح ن. The mountain is entries 723-724 of the table of the mountains (frame 056, L02), «جبل سي⟨م⟩تين», where the editor's note c gives the form of this entry (1905), سيمس.",
+  "L15-L16: «نهر ڡطروس اوّله عين من جبل نهر سمس عند ⟨طول⟩ ڡسو ى والعرض لا ل (١٩٠٧)», the river ڡطروس, whose beginning is a spring of the mountain of the river سمس, at ⟨the longitude⟩ ڡسو ى and the latitude 31° 30′, continued on p. 126. The mountain is entries 725-726 of the table of the mountains (frame 056, L03), «جبل نهر سمس», as the editor's note e on p. 122 (frame 128) records for this entry. «ڡطروس»: the loop without dots.",
+  "L12: the folio of the Strasbourg manuscript, «(fol. 37ᵇ)», is printed in Latin type within the line, between «الجبل» and «اوّله»; transcribed as a margin note before the line.",
+  "Angle brackets, each followed by a note mark, around what the editor supplies: «⟨له⟩» (L10), the degrees of the latitude, within the line over the numerals, the note mark b standing between the closing bracket and the minutes; «⟨ل⟩» (L11), the minutes of the latitude, within the line over the numerals, note d; «⟨طول⟩» (L16), note g. Transcribed with the brackets.",
+  "Numerals: «لد ك» (L01), 34° 20′; «نح ك» (L02, L04), with the dot of the ن, 58° 20′; «سا {z}» (L03, L07, L09), 61° 0′; «له {z}» (L03), 35° 0′; «ل ل» (L04), 30° 30′; «لج م» (L07), with the dot of the ج, 33° 40′; «لد مه» (L09), 34° 45′; «عط ك» (L10), 79° 20′; «ف {z}» (L11), the isolated ف with its dot, 80° 0′; «كط ⟨ل⟩» (L11), 29° ⟨30′⟩; «له م» (L12), 35° 40′; «كط ك» (L13), 29° 20′; «لا ل» (L16), 31° 30′. The minutes «ى» of «ڡسو ى» (L16) stand 20 px from the degrees, the usual space between degrees and minutes.",
+  "Without their dots, transcribed so: «ٮر» (L01), the notched form of frame 041 (L06), a short tooth without a dot joined to a ر, the two forming a notch, 2 px deep, at the top, which read as نز gives 57, beside the longitude 57° 40′ of the beginning of the spring in the town سمار (frame 130, L17); «لٮ» (L02, L06, L14), the ل joined to the flat final bowl of a ب without its dot, 32; «ٮط» (L06), a tooth without its dot joined to a ط, which read with ن gives 59, beside Damascus, and read with ي 19; «ٮح» (L15), the same tooth joined to a ح, 18 read with ي. The loop of ف or ق without dots in the degrees of the longitude: «ڡد» (L12, L13), the loop joined directly to the د, 45 to 46 px wide, 104 read with ق, 84 read with ف; «ڡسو» (L16), 166 read with ق.",
+  "L14, L15: «ڡٮح»: the loop without dots, then a low tooth without a dot, 6 to 8 px above the joining stroke and 6 to 9 px wide, with no part below it, then the head of the ح. The groups are 67 and 69 px wide, where «ڡد» (L12, L13) is 45 to 46 px and «ڡح» of frame 128 (L04) 55 px. Transcribed with a low tooth without a dot, as «ڡٮج» of frame 128 (L08); 118 read with ق and ي.",
+  "The ح of the numerals, «نح» (L02, L04), «ڡٮح» (L14, L15) and «ٮح» (L15), shows no dot in the bowl. The isolated ك, 20, is printed with the small inner stroke of the letter (L01, L02, L04, L10, L13); the isolated ى, 10, has no dots (L16).",
+  "Signs in the text, transcribed as printed: «الطبريّة» (L01) and «انطاكيّة» (L08) with a shadda over the ي; «الميّتة» (L04, L05) with a shadda; «فيمرّ» (L02), «ويمرّ» (L08, L10) with a shadda over the ر; «ثمّ» (L03) with a shadda; «يصبّ» (L03, L07), «ويصبّ» (L08, L10, L13) and «ومصبّه» (L06, L15) with a shadda over the ب; «مدوّرة» (L05) and «اوّله» (L05, L07, L09, L12, L14, L16) with a shadda over the و; «الأردنّ» (L08) with a hamza over the alif and a shadda over the ن; «هٰذه» (L04) with a dagger alif above the ه; «ايضاً» (L04) with the tanwin of the accusative over its alif; «جزء» (L01, L05) with a hamza on the line; «فى» and «الى» end in a ى without dots.",
+  "The running numbers run (١٨٩٤)-(١٩٠٧) without a gap. The numbers of Suhrāb: [١٨٩٧] after (١٨٩٤); for the lakes, [١٠٢٥] after (١٨٩٥), [١٥٥٧] after (١٨٩٦), at the beginning of L04, and [١٠٢٦] after (١٨٩٧); none after (١٨٩٨); then [١٨٩٨]-[١٩٠٦] after (١٨٩٩)-(١٩٠٧), without a gap.",
+  "Asterisks: the small open stars with six points, after [١٨٩٧] (L01), after «مدوّرة» (L05), after «فيها» (L07), after [١٨٩٩] (L09), after [١٩٠١] (L11), after [١٩٠٣] (L13) and after [١٩٠٥] (L15), are transcribed as asterisks; the editor's asterisks after «بحيرة» (L04, L05) are transcribed after the word.",
+  "Note marks: L04, a after «الميّتة»; L10, b after the closing bracket of the latitude; L11, c after «سيراف» and d after the closing bracket of the latitude; L13, e after «روس»; L15, f after «ڡطروس»; L16, g after the closing bracket of «⟨طول⟩», h after the longitude and i after the latitude.",
+  "Marks not transcribed: L08, between «عند» and «انطاكيّة», two short strokes on the line, 4 and 9 px long and 3 px high; L09, the two dots of the ي of «يخرج» run together into a stroke, 45 by 14 px, below the first two letters; L12, a round dot of 12 by 14 px on the line between «طول» and the numerals «ڡد ل», the size of a dot of the font; L13, a broken vertical line of faint specks, 118 px high, along the inner side of the closing bracket of [١٩٠٣], from 40 px above the bracket to 10 px below it, a flaw of the impression.",
+  "Note a prints «المٮٮه»: after the م, two teeth without dots and the final ه; a speck of 2 by 2 px stands above the second tooth.",
+  "The editor's footnotes stand in three lines below a short rule at the left: notes a-i. The page number «— ١٢٥ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

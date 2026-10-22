@@ -1,0 +1,52 @@
+@page 82 50
+@lang de
+% JP2 0082: Suter's commentary, p. 50: chapter 10 continued: the halving of the equation of the anomaly, one half
+% correcting the apogee (Sublimatio examinata); two comparisons of al-Khwārizmī's and al-Battānī's tables for the
+% argument 70° of Saturn and of Jupiter.
+gelassenen {i:Aequans} des {sp:Ptol.} sein soll ; {sp:Chasles} irrt sich aber, oder verschreibt
+sich, wenn er sagt : {i:L’équation en question est précisément la moitié de l’équation du}
+{i:centre} ; wir haben gefunden, dass die in Frage kommende Gleichung (des Apogeums)
+bei {sp:Kh.} die {i:Hälfte der Gleichung der Anomalie} ist. Die Sache verhält sich so :
+@p Die Gleichung der Anomalie (in unsern Tafeln {i:Examinatio argumenti}) wird
+halbiert ; die eine Hälfte wird als Gleichung (Korrektur) des {i:Apogeums} von diesem
+abgezogen, und ergibt so das korrigierte Apogeum, das in der zweiten Hauptkolonne
+(vergl. z. B. Tafel 27 für Saturn), überschrieben {i:Sublimatio examinata}, verzeichnet ist ; die
+andere Hälfte wird wahrscheinlich zur Korrektur der {i:Gleichung} des {i:Centrums} verwendet,
+in welcher Weise aber, haben wir nicht herausgefunden. Wir haben verschiedene
+Proben gemacht, und dabei diese Hälfte das eine mal gleich, das andere mal viel
+grösser, ein drittes mal bedeutend kleiner wie die Gleichung des Centrums gefunden.
+Ich gebe hier zwei von diesen Proben, indem ich die Zahlen bei {sp:Kh.} mit den ent-
+sprechenden bei {sp:Batt.} vergleiche, die von denen des {sp:Ptol.} wenig abweichen.
+@p Wir nehmen zur Vergleichung : 1) die Daten beider Tafeln, die zum Argument
+70° des Saturns (bei {sp:Kh.} Tafel 29, bei {sp:Batt.} II, 110) gehören :
+@t {sp:Batt.} | | Aequat. (anomal. et) centri | Aequat. anomaliae
+@t | | 6° 2′ | 5° 37′
+@t {sp:Kh.} | Sublim. examin. | Examin. centri | Examin. argumenti (anomaliae)
+@t | 242° 20′ | 8° 1′ | 5° 10′
+Halbieren wir die {i:Gleichung der Anomalie} bei {sp:Kh.}, also 5° 10′, so erhalten wir 2° 35′,
+diese von dem wirklichen Apogeum des Saturns, das p. 14 des Textes zu 244° 55′
+angegeben ist, subtrahiert, gibt die {i:Sublimatio examinata} = 242° 20′ ; diese Hälfte zur
+Gleichung des Centrums bei {sp:Batt.} = 6° 2′ addiert, gibt 8° 37′, was von der Gleichung
+des Centrums bei {sp:Kh.}, nämlich 8° 1′, um 36′ abweicht.
+@p 2) die Daten beider Tafeln, die zum Argument 70° des Jupiters (bei {sp:Kh.} Tafel 35,
+bei {sp:Batt.} II, 116) gehören :
+@t {sp:Batt.} | | Aequat. (anomal. et) centri | Aequat. anomaliae
+@t | | 4° 52′ | 9° 36′
+@t {sp:Kh.} | Sublim. exam. | Examin. centri | Examin. argumenti (anomaliae)
+@t | 167° 50′ | 4° 44′ | 9° 25′
+Halbiert man die {i:Gleichung der Anomalie} bei {sp:Kh.}, also 9° 25′, so erhält man 4° 42′,
+diese von dem wirklichen Apogeum des Jupiters, das p. 14 des Textes zu 172° 32′
+angegeben ist, subtrahiert, gibt die {i:Sublimatio examinata} =167° 50′ ; diese Hälfte ist
+hier nur um 2′ kleiner als die Gleichung des Centrums bei {sp:Kh.} (vergl. Nachträge).
+@p Die Gründe dieses Verfahrens sind uns, wie schon gesagt, nicht klar geworden,
+wir haben nur soviel herausgefunden, dass man ungefähr auf denselben wahren Ort
+des Planeten kommt, ob man nach der Methode {sp:Batt.}’s, oder nach der {sp:Kh.}’s vorgehe,
+vorausgesetzt, dass man bei letzterem die {i:Praezession} berücksichtige, was er eben
+nicht getan hat. Sehr bedauert aber haben wir bei unsrer Kommentierungs-Arbeit,
+@obs The page number «50» stands at the head of the page, centred, with a rule below it. The page has no signature and no footnotes. L01: «gelassenen» completes «fallen-» at the end of p. 49 (JP2 0081, L39).
+@obs L02-L03: the sentence of Chasles quoted again, «L’équation en question est précisément la moitié de l’équation du centre», with «précisément», where p. 49 (JP2 0081, L35) prints «précisement»; see the critical note there.
+@obs L17-L20 and L28-L31: the two comparisons, each set as a small table in four columns: «Batt.» and «Kh.» spaced at the left; «Aequat. (anomal. et) centri» and «Aequat. anomaliae» over the second and third of al-Battānī's figures, «Sublim. examin.» (L19; «Sublim. exam.» in L30), «Examin. centri» and «Examin. argumenti (anomaliae)» over al-Khwārizmī's three; each figure centred under its heading. Each printed row is one line here, the cells separated by our «|»; the empty cells give the columns room and are not printed.
+@obs L21-L25 and L32-L35. Checked: half of 5° 10′ is 2° 35′; 244° 55′ − 2° 35′ = 242° 20′, the Sublimatio examinata of the table; 2° 35′ + 6° 2′ = 8° 37′, 36′ more than 8° 1′. Half of 9° 25′ is 4° 42½′, written 4° 42′; 172° 32′ − 4° 42′ = 167° 50′; 4° 44′ − 4° 42′ = 2′. The apogees of Saturn and Jupiter, 244° 55′ and 172° 32′, are those of the text, p. 14 (JP2 0046), and of p. 46 (JP2 0078, L26). The figures of Tables 27, 29 and 35 are to be compared with the tables.
+@obs L34: «=167° 50′»: the equals sign is set close to the figures (4 px), its lower bar broken into two pieces, and the 1 is a bold sort, heavier and wider than the 6 and the 7; transcribed as printed. The list of misprints, p. [237] (JP2 0271, L12), reads «167°» for «67°» in this line: in this copy the 1 stands already, in the heavier sort. L12: «kleiner wie», as printed. L35: «(vergl. Nachträge)», the additions at the end of the book, pp. [233]-235 (JP2 0265-0267), which take back the conclusion drawn on this page (p. [233], JP2 0265, L19-L23).
+@obs Spaced type, marked {sp:}: «Ptol.», «Chasles», «Kh.», «Batt.»; italics: «Aequans», the quotation of L02-L03, «Hälfte der Gleichung der Anomalie», «Examinatio argumenti», «Apogeums» (L06), «Sublimatio examinata», «Gleichung» and «Centrums» (L09), «Gleichung der Anomalie» (L21, L32), «Praezession».
+@obs The colons and semicolons stand after the thin space of the edition (8-14 px measured).

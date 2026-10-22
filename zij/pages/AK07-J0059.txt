@@ -1,0 +1,57 @@
+@page 59 27
+@lang la
+% JP2 0059: the Latin text, p. 27: the end of chapter 33 (the digits of a lunar eclipse); a second account in square
+% brackets, «Scientia examinationis lunarium defectuum»: the tables of the far and the near distance, the table of
+% proportion, the durations of the immersion and of the totality; with the apparatus (notes 1-35).
+portionis intrandum erit, eiusque adiunctum signandum. Huius itaque adiuncti summa
+in superationem praedictam{sup:1}) ducenda erit, quodque{sup:2}) inde producetur, ei quidem
+quod in spatio longinquo per argumentum{sup:3}) latitudinis repertum{sup:4}) est addendum.
+Sicque habebitur cuiuslibet eclipsis lunae secundum digitos quantitas definita{sup:5}).
+@p {b:[Scientia examinationis lunarium defectuum.} Cum ergo volueris scire defectus lunae,
+illam oppositionem excude in qua{sup:6}) luna caput vel caudam draconis obtineat{sup:7}) ;
+@m N 45{sup:r}
+argumentum quoque latitudinis | ad horam certam ipsius oppositionis pertinens dili-
+genter examinato. Deinde scrutare an sit luna in spatio longinquo. Si enim ibi
+fuerit, intrabis cum argumento latitudinis in tabulam defectus lunaris longinqui spatii
+et accipies digitorum quod invenies et dakaicas casus atque {i:elmuht}{sup:8}), id est morae,
+si habuerit {i:elmuth} ({i:sic}){sup:9}). Sin autem fuerit luna in spatio propinquo, intra cum
+argumento{sup:10}) latitudinis in tabulam defectus spatio propinquo{sup:11}), et sume quot{sup:12}) in
+eius contrapositione invenies digitorum atque dakaicas {i:elciicuth}{sup:13}) atque {i:elmuht}, si
+habuerit {i:elmuht}. Quod si neutro luna extiterit, intra cum argumento{sup:14}) latitudinis in
+utramque tabulam. Deinde primum secundo singulis singula sui generis subtrahe,
+differentiamque inter ea quanta fuerit memoriter teneto. Postremo cum argumento
+inde examinato{sup:15}) intrabis in lineas numeri{sup:16}) tabulae proportionis{sup:17}) eiusque adiunc-
+tum accipe{sup:18}) ex minutis residui{sup:19}), et per ipsa minuta{sup:20}) multiplica residuum me-
+moriae commendatum{sup:21}), videlicet digitorum et minutorum {i:elszukut}{sup:22}) atque {i:elmuht}.
+Quod autem inde provenerit, ei quidem quod{sup:23}) tibi a spatio longinquo exiit{sup:24}) sin-
+gula singulis sui generis coacervabis{sup:25}), eruntque digiti defectus examinati ex dia-
+metro lunae, eruntque{sup:26}) dakaicae{sup:27}) casus et morae examinati ({i:sic}) {i:liwacat elcuzuf}{sup:28}).
+Postea adde supra {i:dakaicas}{sup:29}) casus dimidium sextae eius, dividesque{sup:30}) illud secun-
+dum motum lunae horarium ; quod ergo{sup:31}) horarum exierit, ipsum est a principio
+eclipsis ad initium ipsius morae, si habuerit moram. Deinde supra {i:dakaicas}{sup:32}) morae
+adde dimidium sextae illius{sup:33}), dividesque illud secundum lunae motum horarium,
+accidetque{sup:34}) dimidium morae lunaris ; id ergo duplicabis, duplica quoque horas
+casus atque ea{sup:35}) coacervato, erit itaque illud a primo eclipsis usque ad completio-
+@n {sup:1}) superationem praedictam] O, superationem repositam C, suppositione repositam N. — {sup:2}) quodque]
+@n O, Quod autem C. — {sup:3}) per argumentum] C, argumento O. — {sup:4}) repertum] reppertum C, adiunctum
+@n repertum O. — {sup:5}) definita] C, determinata O. — {sup:6}) in qua] N, in C. — {sup:7}) obtineat] optineat C. — {sup:8}) et
+@n dakaicas casus atque elmuht] C, atque minutorum elmuht N. — {sup:9}) elmuth] C, elmuht id est moram N.
+@n {sup:10}) cum argumento] C, per argumentum N. — {sup:11}) spatio propinquo] C, lunae spatii propinqui N. —
+@n {sup:12}) quot] C, quod N. — {sup:13}) dakaicas elciicuth] C, minutorum elszukuf N. — {sup:14}) cum argumento] C, per
+@n argumentum N. — {sup:15}) cum . . . examinato] C, per argumentum lunae examinatum N. — {sup:16}) lineas numeri]
+@n N, cotoreladet C. — {sup:17}) proportionis] ON, propositionis C. — {sup:18}) eiusque . . . . accipe] N, et accipies quod
+@n contra invenies wakhod mebibelche C. — {sup:19}) ex . . . residui] N, dakaicarum elfudhul C. — {sup:20}) ipsa minuta]
+@n N, ipsas dakaicas C. — {sup:21}) residuum . . . . commendatum] N, elfudhul memoriae commendatam C. —
+@n {sup:22}) digitorum . . . elszukut] N, differentiam digitorum et dakaica (sic) elcukut C. — {sup:23}) quod] N, qui C. —
+@n {sup:24}) exiit] C, exierat N. — {sup:25}) coacervabis] {i:addid. N in marg.} : Si fuerit heza lunae aequata infra III signa
+@n aut ultra IX, aliter autem minuetur coacervatum de his quae invenientur in tabulis longitudinis pro-
+@n pinquioris. — {sup:26}) eruntque] N, erunt C. — {sup:27}) dakaicae] C, minuta N. — {sup:28}) elcuzuf] C, elkuszuf id est
+@n ad medium eclipsis N. — {sup:29}) dakaicas] C, minuta N. — {sup:30}) dividesque] N, {i:om.} C. — {sup:31}) ergo] N, autem
+@n C. — {sup:32}) dakaicas] C, minuta N. — {sup:33}) illius] C, ipsius N. — {sup:34}) accidetque] C, exibitque N. — {sup:35}) ea] C,
+@n {i:om.} N.
+@obs The page number «27» stands at the head of the page, centred, with a rule below it. At the foot, the signature «4*» on the right. L01-L04 end chapter 33 (p. 26, JP2 0058).
+@obs L05: a second account of the lunar eclipse begins with a run-in heading in bold, «[Scientia examinationis lunarium defectuum.», opening a passage in square brackets that does not close on this page. L07: the vertical bar between «latitudinis» and «ad» marks the beginning of fol. 45 recto of N, which the note in the right margin, «N 45r», names; transcribed as a margin note.
+@obs The Arabic terms in italics: «elmuht» and «elmuth» (al-mukth, the duration of totality), the editor's «(sic)» upright with «sic» in italics (L11, L22), «elciicuth» and «elszukut» (al-suqūṭ, the immersion), «liwacat elcuzuf» (li-waqt al-kusūf, for the time of the eclipse). N09: «wakhod mebibelche», the corrupt Arabic of C that Suter discusses on p. XXII (JP2 0026, L17-L22); N09-N10 «elfudhul» (al-fuḍūl, the differences).
+@obs L23-L28: the half-duration of the immersion and of the totality: the minutes of arc increased by half their sixth, a twelfth, divided by the moon's hourly motion, give the hours. Checked: the moon gains on the sun at about 0;30,28 degrees an hour (0;32,56 less the sun's 0;2,28) against its own 0;32,56, so that the arc divided by the relative motion is 1.081 times the arc divided by the moon's motion; adding a twelfth gives 1.083.
+@obs L13: the i of the last word, «si», is a bold sort, heavier than the s; transcribed «si». L10: a small dark speck below the line after «atque»; not transcribed. N04-N05: no dash stands between note 9, at the end of N04, and note 10, at the beginning of N05. N07: the bracket after the note number 15 is printed broken in the middle.
+@obs The semicolons of the text and the colon of N12 stand after the thin space of the edition (11-14 px measured).

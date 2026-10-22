@@ -1,0 +1,48 @@
+@page 78 ٧٢
+% Frame 078, printed p. 72: the sea of Tangier and the seas joined to it, continued, in running text: the coast from
+% point to point, with the editor's running numbers (١٠٧٨)-(١٠٩٨) and the numbers of Suhrāb, past the mouth of nine
+% rivers and the towns راسنياس, اسطورا, Constantinople, اود and اسلينو, to the mouth of two rivers; two points
+% supplied by the editor from S; the folio of the manuscript, «(fol, 18ᵃ)», within the line. Four lines of the
+% editor's footnotes.
+@m (fol, 18ᵃ)
+{ov:ن م} (١٠٧٨) [٦٦٢] يمرّ الى طول {ov:نا مه} والعرض {ov:ن مه}{n:a} (١٠٧٩) [٦٦٣]
+ويرجع الى طول {ov:ٮب مه}{n:b} والعرض {ov:ٮا ل} (١٠٨٠) [٦٦٤] يمرّ بأسفل مدينة راسنياس
+ويمرّ على صورة الطيلسان بمصبّ تسعة انهار الى طول {ov:ٮا {z}}{n:c} والعرض {ov:مط {z}}{n:d} (١٠٨١)
+[٦٦٥] يمرّ الى اسفل مدينة اسطورا عند طول {ov:مح ن} والعرض {ov:مح ل} (١٠٨٢) [٦٦٦]
+يمرّ على صورة الطيلسان الى طول {ov:ن {z}} والعرض {ov:مر يه} (١٠٨٣) [٦٦٧] ويمرّ بأسفل
+مدينة القسطنطينيّة ويصير الى طول {ov:ن {z}}{n:e} والعرض {ov:مد ل} (١٠٨٤) [٦٦٨] ويمرّ الى
+اسفل مدينة اود عند طول {ov:مح {z}} والعرض {ov:مح ك} (١٠٨٥) [٦٦٩] يمرّ الى طول {ov:مط {z}}
+والعرض {ov:مج {z}} (١٠٨٦) [٦٧٠] يمرّ الى طول {ov:مط {z}} والعرض {ov:مٮ {z}} (١٠٨٧)
+[٦٧١] يمرّ الى طول {ov:مح {z}} والعرض {ov:ما مه} (١٠٨٨) [٦٧٢] يمرّ الى طول {ov:مز ل} والعرض
+{ov:مب ل} (١٠٨٩) [٦٧٣] يمرّ الى طول {ov:مد ن} والعرض {ov:مب كه} (١٠٩٠) [٦٧٤] يماسّ{n:f}
+مدينة اسلينو يمرّ الى طول {ov:مو ل} والعرض {ov:ما م} (١٠٩١) [٦٧٥] يمرّ{n:g} الى طول {ov:مد ل}
+والعرض {ov:ما {z}}{n:h} (١٠٩٢) [٦٧٦] يمرّ الى طول {ov:مو م} والعرض {ov:ما {z}}{n:h} (١٠٩٣) [٦٧٧]
+يمرّ الى طول {ov:مه ك}{n:i} والعرض {ov:م ل} (١٠٩٤) [٦٧٨] يمرّ الى طول {ov:مو ل}{n:k} والعرض {ov:م ك}{n:l}
+(١٠٩٥) [٦٧٩] يمرّ الى طول {ov:مه {z}}{n:m} والعرض {ov:م {z}}{n:n} (١٠٩٦) [٦٨٠] وفيه مصبّ
+نهرين يمرّ الى طول {ov:مو ل} والعرض {ov:لط ل} (١٠٩٧) [٦٨١] ⟨يمرّ الى طول {ov:مه ل} والعرض
+{ov:لط يه} (١٠٩٧/١) [٦٨٢] يمرّ الى طول {ov:مو ل} والعرض {ov:لط {z}} (١٠٩٧/٢) [٦٨٣]⟩{n:o}
+يمرّ الى طول {ov:مز ى} والعرض {ov:لو ى} (١٠٩٨) [٦٨٤] يمرّ الى طول {ov:مو ى} والعرض {ov:لو ى}
+@ednotes a b c d e f g h i k l m n o 4
+@obs The running text goes on from p. 71 (frame 077), whose last word, «والعرض», L01 continues with the latitude «ن م»: the coast from point to point, with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}, the editor's running numbers in parentheses, (١٠٧٨)-(١٠٩٨), and the numbers of Suhrāb in square brackets, [٦٦٢]-[٦٨٤], without a gap. L01: the folio of the Strasbourg manuscript is printed in Latin type within the line, at its end after [٦٦٣], as «(fol, 18ᵃ)», with a comma after «fol»; transcribed as printed, as a margin note before the line (see the critical note).
+@obs The places of the coast: L02: «ويرجع الى», it returns to, and «يمرّ بأسفل مدينة راسنياس», it passes below the town of راسنياس; L03: «على صورة الطيلسان بمصبّ تسعة انهار», along the shape of the ṭaylasān, at the mouth of nine rivers; L04: «يمرّ الى اسفل مدينة اسطورا عند طول», below the town of اسطورا, at the longitude; L05-L06: «ويمرّ بأسفل مدينة القسطنطينيّة ويصير الى», below the town of Constantinople, and comes to; L06-L07: «ويمرّ الى اسفل مدينة اود عند طول», below the town of اود; L10-L11: «يماسّ مدينة اسلينو», it touches the town of اسلينو; L14-L15: «وفيه مصبّ نهرين», and in it is the mouth of two rivers. «يمرّ», «ويمرّ», «بمصبّ» and «مصبّ» are printed with a shadda; «بأسفل» with a hamza over the alif; «القسطنطينيّة» with a shadda over the ي; «يماسّ» with the two dots of the ي and a shadda over the س.
+@obs L15-L16: two points stand between angle brackets, from «⟨يمرّ» (L15) to «[٦٨٣]⟩» (L16), followed by the note mark o: the editor supplies them from S, which the manuscript lacks (note o). Their running numbers carry a stroke and a sub-number, (١٠٩٧/١) and (١٠٩٧/٢), and they have the numbers of Suhrāb [٦٨٢] and [٦٨٣].
+@obs L02: the degrees of the longitude, «ٮب»: a tooth without its dot joined to a final ب with its dot below the left part of the bowl, 64 px wide, where the isolated ب is a bowl of about 50 px with a riser at each end (frame 113, L03); read with a ن, 52° 45′, beside the longitudes 51° 45′ (L01) and «ٮا {z}» (L03), which read as نا gives 51° 0′, and the town راسنياس, which the point passes, at the longitude 52° 10′ (frame 043, L01). The editor's note b records that the manuscript is damaged at this place.
+@obs Letters printed without their dots in the numerals, transcribed so: ٮا (L02, the degrees of the latitude; L03, the degrees of the longitude), a tooth without a dot joined to an alif, which read as نا gives 51; مٮ (L08, the degrees of the second latitude), 42; ٮب (L02, the degrees of the longitude), the tooth without its dot and the ب with it, 52 read with a ن. With their dots: نا (L01), 51; مب (L10, both latitudes), 42; مج (L08), 43; مز (L09, L17), 47; ن (L01, L05, L06; L04, L10, the minutes).
+@obs In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: «مر» (L05, the degrees of the latitude), 47, where L09 and L17 print «مز» with the dot.
+@obs The ح of the numerals, «مح» (L04, L07, L09), shows no dot in the bowl; the same form is a ج without its dot, 3, which L08 prints with its dot in «مج». Transcribed as printed. The isolated ى, 10, has no dots (L17). The isolated ك, 20, is printed with the small inner stroke of the letter (L07, L13).
+@obs Note marks: L01, a after the second latitude; L02, b after the longitude; L03, c after the longitude and d after the latitude; L06, e after the longitude; L10, f after «يماسّ»; L11, g after the second «يمرّ»; L12, h after both latitudes, the same mark twice; L13, i after the first longitude, k after the second longitude and l after the second latitude; L14, m after the longitude and n after the latitude; L16, o after the closing angle bracket.
+@obs Marks not transcribed: L09, a thin stroke runs at the foot of the line from the bracket of [٦٧٢] to the parenthesis of (١٠٨٨) beside it, and another crosses the other parenthesis of (١٠٨٨) at mid-height; L09, a short dash, 10 by 5 px, at the lower right of the sign for zero of the first longitude; L06, specks of the paper around «القسطنطينيّة»; in the footnotes, a faint scribble drawn by hand in pencil beside the Arabic form of note f, not part of the print.
+@obs The editor's footnotes stand in four lines below a short rule at the left: notes a-o. The page number «— ٧٢ —» stands at the foot, centred.
+@critical AK05-CN006 | wrong sort | L01 | (fol, 18ᵃ) | (fol. 18ᵃ) | the folio of the manuscript is printed with a comma after «fol», where every other folio marked in the edition read so far, from «(fol. 2ᵇ)» (frame 009) to «(fol. 17ᵇ)» (frame 076), has a full stop | high | none: the folio reads 18ᵃ either way
+@variant L01: a variant reading of the second latitude is ن ه, with a line over the numerals (note a).
+@variant L02: the manuscript is damaged at the longitude (note b).
+@variant L03: variant readings: of the longitude ٮا ه, and of the latitude مط ه, each with a line over the numerals (notes c and d).
+@variant L06: a variant reading of the longitude is ن م, with a line over the numerals (note e).
+@variant L10: the manuscript has ٮماس, with a tooth without dots and without the shadda (note f).
+@variant L11: the manuscript has ثمّ for the second يمرّ (note g).
+@variant L12: a variant reading of both latitudes is ما ه, printed without a line over the numerals (note h).
+@variant L13: the manuscript has, by mistake, م ك for the first longitude; a variant reading is مه ط, each with a line over the numerals (note i).
+@variant L13: a variant reading of the second longitude is مو ك, with a line over the numerals (note k).
+@variant L13: the manuscript has, by mistake, مو ك for the second latitude (note l).
+@variant L14: variant readings: of the longitude مه ه, and of the latitude م ك, each with a line over the numerals (notes m and n).
+@variant L15-L16: the two points between angle brackets are missing in the manuscript; the editor supplies them after S (note o).

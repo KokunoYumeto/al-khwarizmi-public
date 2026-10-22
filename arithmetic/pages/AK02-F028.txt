@@ -1,0 +1,43 @@
+@page 28 22
+% Frame 028, printed p. 22: addition of fractions with the carrying of sixty; subtraction, borrowing one from the
+% place above as sixty parts; doubling and halving of fractions; other fractions worked like minutes and seconds.
+@p Et similiter uniuersas differentias fractionum sub se inui-
+cem; et quotienscumque collecta fuerint in aliqua mansione
+.{sc:lx}., uel plus, ponemus in loco eorum, idest in eorum diffe-
+rentia quicquid residuum fuerit super .{sc:lx}.; et faciemus de
+@m car. 109 {i:verso}.
+omni .{sc:lx}. unum.|Ponemus eum in superiora ({i:sic}) differentia: et
+similiter si uoluerimus inuenire fractiones, incipiemus a supe-
+riori differentia; minuemusque unamquamque differentiam de
+ea que supra ipsa est. Quod si fuerit in eadem superiori diffe-
+rentia minus eo quod uolueris, minue ex ea : uel fuerit in ea
+circulus, minue unum de differentia que est super eam; fiet-
+que ipsum unum partes .{sc:lx}. de fractione quam operaris; et
+minue ex eo quod operaris; et adde quod residuum fuerit super
+differentiam inperfectam: et si fuerit supra ipsam differentiam
+circulus, minue de differentia que est supra eam, unum, et
+redde eum partes .{sc:lx}. in differentia que est infra ipsam: de-
+inde minue iterum ex ea etiam unum, et fac eum partes ut
+supra in differentia quam uolueris. Post hec minue ex ea quod
+uolueris; et quod residuum fuerit pone in ea differentia qua
+finitum est id quod minuitur ex ea.
+@p Et cum duplare aliquem numerum uel fractionem, incipe
+a differentia altiori : de inde ab ea que eam succedit. Cumque
+collectum fuerit in aliqua differentiarum aliud plus numero
+eius partium, pone superfluum in ea differentia, et subleua
+unum a differentia que est supra ipsam. In mediatione autem
+incipies ab inferiori differentia, mediabisque illam; deinde se-
+quentem : et si inueneris ibi unum, fac de eo quemadmodum
+exposui tibi in inicio libri. Et si uolueris multiplicare fractiones
+et numerum, ac fractiones extra minuta, uel secunda, ut sunt
+quarte et septime, ac cetere partes his similes, et diuidere eas
+in inuicem, erit opus in eis sicut opus minutorum et secundo-
+rum; et constituam tibi exemplar, si deus uoluerit. Et iam pa-
+tefeci tibi in multiplicacione minutorum et secundorum ac
+terciorum de duobus numeris, quos uolueris multiplicare in
+@obs The page number «( 22 )» stands at the head of the page, centred. The page has no footnotes and no signature.
+@obs L01-L05: addition of fractions: the places set under one another; where sixty or more collect in a place, what is left above sixty stays there, and of each sixty one is made and set in the place above. L05-L19: subtraction: begin at the highest place and take each place from the one above it; where a place has less than is to be taken, or a circle, one is taken from the place above and becomes sixty parts of the fraction worked with; where the place above holds a circle too, one is taken from the next place up and brought down in the same way. L20-L24: doubling: begin at the highest place, then the next; where a place collects more than its parts, the excess stays and one is lifted to the place above. L24-L27: halving: begin at the lowest place, then the next; a one found there is treated as explained at the beginning of the book. L27-L33: other fractions, quarters and sevenths, are multiplied and divided as minutes and seconds; an example is promised. The page ends in the course of the sentence.
+@obs L05: the vertical bar in «unum.|Ponemus», set close to the point before it and the word after it, marks the beginning of fol. 109 verso of the manuscript, which the note in the left margin, «car. 109 verso.», names; transcribed as a margin note. L05: «superiora (sic)»: the edition marks the form with «(sic)» in italics. L13 «inperfectam» and L31 «deus», with a small d (p. 17, L22, has «Deus»), are transcribed as printed.
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): with a space before the mark, L09 «ea :» (21 px), L21 «altiori :» (12 px) and L26 «quentem :» (21 px). L05 «differentia:» and L18 «uolueris;» (7 px) are set close. L13 «inperfectam: et» (13 px, the median word space of the line 16 px) and L31 «uoluerit. Et» (12 to 14 px, median 18 px) have a space. L27 is set close throughout, its word spaces 8 to 10 px; the words are transcribed with spaces. A speck between «.lx.» and «unum» (L05) and a pencil mark after the comma of L09 «uolueris,» shorten the measured gaps; the gaps to the next word are 19 px.
+@obs L09: «ea :» is a printed colon, to which a reader has added a light tail in pencil (darkest pixel 136); the semicolons of L02, L04, L07, L10, L11, L12, L18, L25 and L31 have printed tails (darkest pixel 44 to 69). L12: a faint dot after «eo» (darkest pixel above 90), lighter than the print, is not transcribed.
+@copy A reader's notes in pencil: «quod» in the left margin beside L02, L13 and L31, with «et» underlined in each line; «minuere» in the left margin beside L09 and L10, with «minue» underlined in L09; L09, a tail added below the colon of «ea :»; L12, «super» underlined and «supra» in the right margin; L15, a small stroke after «infra»; L21, «de» and «inde» joined by an arc, with a stroke through the d of «inde»; «etiam?» in the left margin beside L24, with a stroke above «autem»; L27, «Et» underlined, and a brace, a bracket and «quod» in the left margin beside L27-L28. Not part of the edition.

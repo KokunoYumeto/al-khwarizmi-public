@@ -1,0 +1,43 @@
+@page 32 ٢٦
+% Frame 032, printed p. 26: the cities of the fifth clime continued, entries 368-384: Shimshāṭ, Sumaysāṭ, Qālīqalā,
+% Khilāṭ, Arzan, Balad, Arshīsh, Shahrazūr, Bājunays, Ādharbayjān, al-Daylam, Qazwīn, Dunbāwand in the mountains,
+% Sālūs, al-Rūyān, Āmul and Sāriya near the sea; the folio of the manuscript, «(fol. 7ᵇ)», in the margin. Three lines
+% of the editor's footnotes.
+@r (٣٦٨) | [٣٣٥] | شمشاط | سٮ | م | لح | مه
+@r (٣٦٩) | [٣٣٦] | سميساط | سٮ | له | لو | ك
+@r (٣٧٠) | [٣٣٧] | قاليقلا | سح | كه | لح | {z}
+@r (٣٧١) | [٢٩٩] | خلاط{n:a} | سد | ن | لط | ن
+@r (٣٧٢) | [٣٠٠] | ارزن | سو | {z} | لط | يه
+@r (٣٧٣) | | بلد{n:b} | سح | مه | لو | ك
+@r (٣٧٤) | [٣٠٣] | ارشيش{n:c} | سح | ن | م | له
+@r (٣٧٥) | [٣٠٤] | شهرزور | ع | ك | لز | مه
+@r (٣٧٦) | [٣٠٥] | باجنيس{n:d} | ع | ل | م | ى
+@r (٣٧٧) | [٣٠٧] | آذربيجان | عج | {z} | م | {z}
+@r (٣٧٨) | [٣٠٨] | الديلم | عه | {z} | لح | ى
+@r (٣٧٩) | [٣٠٩] | قزوين | عه | {z} | لر | {z}
+@r (٣٨٠) | [٣١٠] | دنباوند{n:e} فى الجبل | عه | ل | لو | يه
+@r (٣٨١) | [٣١٤] | سالوس{n:f} قرب البحر | عه | م | لز | ن
+@r (٣٨٢) | [٣١٣] | الرويان{n:g} | ⟨عز | له | لو | ى⟩{n:h}
+@m (fol. 7ᵇ)
+@r (٣٨٣) | [٣١٢] | آمل قرب البحر | عز | ك | لز | مه
+@r (٣ ٤) | [٣١١] | سارية{n:i} قرب البحر | عز | ن | لح | {z}
+@ednotes a b c d e f g h i 3
+@critical AK05-CN003 | missing letter | L17 | (٣ ٤) | (٣٨٤) | the running number of entry 384 is printed with a blank where its middle digit stands, between (٣٨٣) in L16 and (٣٨٥) on the next page; a speck of 5 px in the blank is all that shows of the digit, which has not printed | high | none on the table: the running number only counts the entries
+@obs The table goes on from frame 031 without a heading: the cities of the fifth clime, entries 368-384. No entry has the word «مدينة». Entry 373, Balad, has no number of Suhrāb; the others have [٣٣٥]-[٣٣٧] (entries 368-370), [٢٩٩], [٣٠٠] (entries 371-372) and [٣٠٣]-[٣٠٥], [٣٠٧]-[٣١٠], [٣١٤], [٣١٣], [٣١٢], [٣١١] (entries 374-384). The folio of the Strasbourg manuscript, «(fol. 7ᵇ)», is printed in Latin type in the right margin beside entry 383 (L16), as on frames 014, 016, 028 and 030.
+@obs L15: the coordinates of entry 382, al-Rūyān, stand within one pair of angle brackets, «⟨عز له لو ى⟩», the opening bracket before the degrees of the longitude and the closing one after the minutes of the latitude, followed by the note mark h: the editor supplies them from S where the manuscript has a gap (note h). Transcribed with the opening bracket in the first numeral cell and the closing one in the last, as on frame 028 (L02).
+@obs L17: the running number is printed «(٣ ٤)», with a blank between the ٣ and the ٤; transcribed with a no-break space for the blank, which keeps the two digits in the order of the number when the line is displayed right to left, with a critical note.
+@obs Signs in the names, transcribed as printed: L10: «آذربيجان» and L16: «آمل», with a madda over the alif.
+@obs Letters printed without their dots in the numerals, transcribed so: سٮ (L01, L02), the س and a final ب without its dot, a long flat bowl, where the isolated س of the numerals has a deep round bowl (frame 026, L01). With their dots: لز (L08, L14, L16), عز (L15-L17), the ز with its dot; ن (L04, L07, L17, the minutes of the longitude; L04, L14, the minutes of the latitude); عج (L10), the ج with its dot; يه (L05, L13).
+@obs The degrees printed with a final ح, سح (L03, L06, L07) and لح (L01, L03, L11, L17), show no dot in the bowl; the same form is a ج without its dot, 3, which the print gives with its dot in عج (L10). Transcribed as printed.
+@obs The isolated ك, 20, is printed with the small inner stroke of the letter (L02, L06, the minutes of the latitude; L08, L16, the minutes of the longitude).
+@obs Specks, not transcribed: L01, a speck to the right of the م of the minutes of the longitude; L08, a short dashed hairline below the ك of the minutes of the longitude.
+@obs L12, the degrees of the latitude: «لر»: the letter joined to the foot of the ل has the small pointed head of the joined ر, which stands out 7 px from the stem, as the ز of «لز» with its dot (L08, L14, L16, 7 to 8 px), where the و of «لو» (L02, L06, L13, L15) is a round loop that stands out 12 to 13 px and begins higher on the stem; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed, which read with ز gives 37.
+@obs The page number «— ٢٦ —» stands at the foot, centred.
+@variant L04: the manuscript reads حلاط, without the dot of the خ.
+@variant L06: the manuscript reads ٮلد, without the dot of the ب, here and at entry (1962).
+@variant L07: the manuscript reads ارسيس, without the dots of the two ش.
+@variant L09: the manuscript reads ٮاحتيس for باجنيس.
+@variant L13: the manuscript reads دٮاوند, without the dot of the ب, and so do entries (809-810).
+@variant L14: the manuscript reads سالسو.
+@variant L15: the manuscript reads الروٮان, without the dots of the ي; the coordinates fill a gap of the manuscript and are supplied from S.
+@variant L17: the manuscript reads سارٮه, without the dots of the ي, with a final ه.

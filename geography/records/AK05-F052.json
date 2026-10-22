@@ -1,0 +1,306 @@
+{
+ "anchor": "AK05-F052",
+ "frame": 52,
+ "frame_file": "page_052.jpg",
+ "frame_sha256": "72970998f4e45cb87ca8e059da16880f4d65e18ed0cdc1365b09c7b6f8ea341b",
+ "printed_page": "٤٦",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 052, printed p. 46: the right-hand page of the opening pp. 46-47 of the table of the mountains: the numbers and name of the last mountain of the second clime, entry 659/660, اوكسٯ; the headings of the third clime and of its mountains; and the numbers and names of thirteen mountains, entries 661/662-685/686: the Great Atlas, Durdūn, ⟨the mountain⟩ Marsūl, اعلاقا, ڡسا, ڡورٮغون, Aʿlūris, Rabn, Aghris, Nāghtrūs, اود⟨س⟩, اٮوٮوٮونا and one without a name; the folio of the manuscript, «(fol. 13ᵃ)», in the margin. One line of the editor's footnotes, continued from the foot of p. 47.",
+ "lines": [
+  {
+   "id": "AK05-F052-L01",
+   "n": 1,
+   "kind": "row",
+   "text": "(٦٥٩ ٦٦٠) | [١١٢١ ١١٢٢] | جبل اوكسٯ{n:a}",
+   "margin": null,
+   "cells": [
+    "(٦٥٩ ٦٦٠)",
+    "[١١٢١ ١١٢٢]",
+    "جبل اوكسٯ{n:a}"
+   ],
+   "plain": "(٦٥٩ ٦٦٠) | [١١٢١ ١١٢٢] | جبل اوكسٯ",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F052-L02",
+   "n": 2,
+   "kind": "heading",
+   "text": "* الإقليم الثالث",
+   "margin": null,
+   "cells": null,
+   "plain": "* الإقليم الثالث",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F052-L03",
+   "n": 3,
+   "kind": "heading",
+   "text": "* الجبال الّتى فى",
+   "margin": null,
+   "cells": null,
+   "plain": "* الجبال الّتى فى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F052-L04",
+   "n": 4,
+   "kind": "row",
+   "text": "(٦٦١ ٦٦٢) | [١١٥١ ١١٥٢] | جبل اطلس الكبير",
+   "margin": null,
+   "cells": [
+    "(٦٦١ ٦٦٢)",
+    "[١١٥١ ١١٥٢]",
+    "جبل اطلس الكبير"
+   ],
+   "plain": "(٦٦١ ٦٦٢) | [١١٥١ ١١٥٢] | جبل اطلس الكبير",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F052-L05",
+   "n": 5,
+   "kind": "row",
+   "text": "(٦٦٣ ٦٦٤) | [١١٥٣ ١١٥٤] | جبل دردون",
+   "margin": null,
+   "cells": [
+    "(٦٦٣ ٦٦٤)",
+    "[١١٥٣ ١١٥٤]",
+    "جبل دردون"
+   ],
+   "plain": "(٦٦٣ ٦٦٤) | [١١٥٣ ١١٥٤] | جبل دردون",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F052-L06",
+   "n": 6,
+   "kind": "row",
+   "text": "(٦٦٥ ٦٦٦) | [١١٥٥ ١١٥٦] | ⟨جبل⟩{n:b} مرسول",
+   "margin": null,
+   "cells": [
+    "(٦٦٥ ٦٦٦)",
+    "[١١٥٥ ١١٥٦]",
+    "⟨جبل⟩{n:b} مرسول"
+   ],
+   "plain": "(٦٦٥ ٦٦٦) | [١١٥٥ ١١٥٦] | ⟨جبل⟩ مرسول",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F052-L07",
+   "n": 7,
+   "kind": "row",
+   "text": "(٦٦٧ ٦٦٨) | [١١٥٧ ١١٥٨] | جبل اعلاقا",
+   "margin": null,
+   "cells": [
+    "(٦٦٧ ٦٦٨)",
+    "[١١٥٧ ١١٥٨]",
+    "جبل اعلاقا"
+   ],
+   "plain": "(٦٦٧ ٦٦٨) | [١١٥٧ ١١٥٨] | جبل اعلاقا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F052-L08",
+   "n": 8,
+   "kind": "row",
+   "text": "(٦٦٩ ٦٧٠) | [١١٥٩ ١١٦٠] | جبل ڡسا",
+   "margin": null,
+   "cells": [
+    "(٦٦٩ ٦٧٠)",
+    "[١١٥٩ ١١٦٠]",
+    "جبل ڡسا"
+   ],
+   "plain": "(٦٦٩ ٦٧٠) | [١١٥٩ ١١٦٠] | جبل ڡسا",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F052-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٦٧١ ٦٧٢) | [١١٦١ ١١٦٢] | جبل ڡورٮغون",
+   "margin": null,
+   "cells": [
+    "(٦٧١ ٦٧٢)",
+    "[١١٦١ ١١٦٢]",
+    "جبل ڡورٮغون"
+   ],
+   "plain": "(٦٧١ ٦٧٢) | [١١٦١ ١١٦٢] | جبل ڡورٮغون",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F052-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٦٧٣ ٦٧٤) | [١١٦٣ ١١٦٤] | جبل اعلورس",
+   "margin": null,
+   "cells": [
+    "(٦٧٣ ٦٧٤)",
+    "[١١٦٣ ١١٦٤]",
+    "جبل اعلورس"
+   ],
+   "plain": "(٦٧٣ ٦٧٤) | [١١٦٣ ١١٦٤] | جبل اعلورس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F052-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٦٧٥ ٦٧٦) | [١١٦٥ ١١٦٦] | جبل ربن",
+   "margin": null,
+   "cells": [
+    "(٦٧٥ ٦٧٦)",
+    "[١١٦٥ ١١٦٦]",
+    "جبل ربن"
+   ],
+   "plain": "(٦٧٥ ٦٧٦) | [١١٦٥ ١١٦٦] | جبل ربن",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F052-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٦٧٧ ٦٧٨) | [١١٦٧ ١١٦٨] | جبل اغرس",
+   "margin": null,
+   "cells": [
+    "(٦٧٧ ٦٧٨)",
+    "[١١٦٧ ١١٦٨]",
+    "جبل اغرس"
+   ],
+   "plain": "(٦٧٧ ٦٧٨) | [١١٦٧ ١١٦٨] | جبل اغرس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F052-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٦٧٩ ٦٨٠) | [١١٦٩ ١١٧٠] | جبل ناغتروس",
+   "margin": null,
+   "cells": [
+    "(٦٧٩ ٦٨٠)",
+    "[١١٦٩ ١١٧٠]",
+    "جبل ناغتروس"
+   ],
+   "plain": "(٦٧٩ ٦٨٠) | [١١٦٩ ١١٧٠] | جبل ناغتروس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F052-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٦٨١ ٦٨٢) | [١١٧١ ١١٧٢] | جبل اود⟨س⟩{n:e}",
+   "margin": "(fol. 13ᵃ)",
+   "cells": [
+    "(٦٨١ ٦٨٢)",
+    "[١١٧١ ١١٧٢]",
+    "جبل اود⟨س⟩{n:e}"
+   ],
+   "plain": "(٦٨١ ٦٨٢) | [١١٧١ ١١٧٢] | جبل اود⟨س⟩",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F052-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٦٨٣ ٦٨٤) | [١١٧٣ ١١٧٤] | جبل اٮوٮوٮونا{n:f}",
+   "margin": null,
+   "cells": [
+    "(٦٨٣ ٦٨٤)",
+    "[١١٧٣ ١١٧٤]",
+    "جبل اٮوٮوٮونا{n:f}"
+   ],
+   "plain": "(٦٨٣ ٦٨٤) | [١١٧٣ ١١٧٤] | جبل اٮوٮوٮونا",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F052-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٦٨٥ ٦٨٦) | [١١٧٥ ١١٧٦] | جبل",
+   "margin": null,
+   "cells": [
+    "(٦٨٥ ٦٨٦)",
+    "[١١٧٥ ١١٧٦]",
+    "جبل"
+   ],
+   "plain": "(٦٨٥ ٦٨٦) | [١١٧٥ ١١٧٦] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "d",
+    "e",
+    "f"
+   ],
+   "lines": 1,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: at entry (1776) the name is written اوكستر (note a, printed at the foot of p. 47).",
+  "L06: the word جبل is missing in the manuscript; the editor supplies it (note b, printed at the foot of p. 47).",
+  "L14: the manuscript is badly damaged at the end of the name (note e).",
+  "L15: at entry (1873) the name is written ٮوٮوٮورا (note f)."
+ ],
+ "unresolved": [
+  "L08: the tall middle stroke of «ڡسا» may be a tooth of its own, so that the three strokes may also be read as three teeth without dots, ڡٮٮٮا. Transcribed ڡسا."
+ ],
+ "observations": [
+  "The table of the mountains goes on across the opening pp. 46-47: each line of p. 46 is continued by the same line of p. 47 (frame 053), which gives the boundaries, the colour and the direction. L01 gives the last mountain of the second clime, entry 659/660. The headings run across the opening: L02, «* الإقليم الثالث», is continued on p. 47 by «عرضه ل *», the third clime and its latitude, 30; and L03, «* الجبال الّتى فى», by «الإقليم الثالث *», the mountains in the third clime. They are set in the large type, each beginning with a small open star, transcribed as an asterisk, and stand at the inner edge of the page, next to their ends on p. 47; transcribed as headings. L02: «الإقليم», with a hamza below the alif; L03: «الّتى», with a shadda over the ل, and «فى», with the dot of the ف and no dots on the ى.",
+  "The running numbers go on from entry 657/658 (frame 050) and run (٦٥٩ ٦٦٠)-(٦٨٥ ٦٨٦). The numbers of Suhrāb are [١١٢١ ١١٢٢] (L01), the pair that does not appear on frame 050, and [١١٥١ ١١٥٢]-[١١٧٥ ١١٧٦] (L04-L16), after [١١٤٩ ١١٥٠] of frame 050 (L15). The folio of the Strasbourg manuscript, «(fol. 13ᵃ)», is printed in Latin type in the right margin beside entry 681/682 (L14). L16: the name is the word «جبل» alone.",
+  "L01: «اوكسٯ»: after «او», the ك with its long upper stroke and the three low teeth of a س (6 to 9 px); then two uprights, 20 to 23 px high, joined at the top in an arch 15 px wide, and a round bowl: the final ق without its dots, the form of the ق with its two dots in «امق» (frame 016, L11), as at the end of frame 042, L01 and L02. The editor's note a gives the form of entry (1776), «اوكستر», with ت and ر in the place of the ق. Transcribed اوكسٯ.",
+  "L04: «اطلس الكبير», the Great Atlas, the ب of «الكبير» with its dot and the ي with its two. L05: «دردون», the ن with its dot. L06: «⟨جبل⟩ مرسول»: the word «جبل» stands between angle brackets, followed by the note mark b: the editor supplies it (note b); «مرسول», an initial م joined to a ر, the teeth of a س joined to a و, and a final ل. L07: «اعلاقا»: an alif; an initial ع without a dot joined to the lām-alif; a ق with its two dots joined to the final alif.",
+  "L08: «ڡسا»: after the loop of ف or ق without dots, three strokes before the final alif: a low tooth, 8 px high, an upright of 22 px, and a low tooth of 10 px; the upright stands as high as a tooth of ب or ن (frame 052, L09, 15 px; frame 043, L11, 14 px), where the teeth of a س are low (L01, 6 to 9 px). Transcribed as the three teeth of a س, ڡسا.",
+  "L09: «ڡورٮغون»: the loop of ف or ق without dots joined to a و; a ر; a tooth without a dot, 15 px high, joined to a medial غ, a loop wider than high (27 by 15 px) with its dot above, and a و; and a final ن with its dot. The medial غ has the form of the medial ع of «العرض» (frame 049, L02), where the loop of ف or ق is upright and rounded (frame 046, L05). L10: «اعلورس», the ع without a dot. L11: «ربن», the ب with its dot below and the ن with its dot above. L12: «اغرس», the initial غ with its dot.",
+  "L13: «ناغتروس»: after «جبل», a ن joined to an alif, its dot standing at the right of the alif and touching it, 10 by 9 px, as the dot of the ن of «نا» at the end of L15, where it stands free; then an initial غ and a ت, with three dots in a row above them, the two of the ت side by side and the dot of the غ at their right, 6 px lower; then ر, و and a final س.",
+  "L14: «اود⟨س⟩»: the final س stands between angle brackets, followed by the note mark e: the editor supplies it where the manuscript is badly damaged (note e).",
+  "L15: «اٮوٮوٮونا»: after the alif, three groups of a short tooth without a dot, 13 to 20 px high, joined to a و, where the و of «اوكسٯ» (L01) has no tooth before it; then a ن with its dot joined to the final alif. The editor's note f gives the form of entry (1873), «ٮوٮوٮورا», with the three groups and a ر.",
+  "The editor's footnotes of the opening are set as one line across both pages: it begins at the foot of p. 47 (frame 053) with notes a, b and c, and continues here with notes d, e and f. The texts of notes a and b, whose marks stand on this page (L01, L06), are printed on p. 47; the mark of note d stands on p. 47 (L11).",
+  "Specks, not transcribed: L10, a speck, 5 by 5 px, at the right of the closing parenthesis of the running numbers.",
+  "The page number «— ٤٦ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

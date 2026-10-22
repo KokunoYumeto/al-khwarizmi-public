@@ -1,0 +1,47 @@
+@page 249 217
+@lang la
+% JP2 0249: Tab. 102, p. 217: the projection of the rays continued: three fields, for the ascendant at 20°, 25° and
+% 30° of Virgo, the columns from Virgo to Aquarius, each field with the numbers for the sextile, the quadrature and
+% the trine, with the apparatus (notes 1-3 and a-k).
+@r C 96{sup:r}, O 151{sup:v}, N 62{sup:v}.
+@c {b:Viginti}{sup:1}) {b:gradus Virginis}
+@c {b:Exagonum 69° 30′} — {b:Tetragonum 104° 15′} — {b:Trigonum 139° 0′}
+@tw size=footnotesize 0.95 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62 0.62
+@t Gradus | Virgo |  | Libra |  | Scorpius |  | Sagittar. |  | Capricorn. |  | Aquarius |
+@t aequales | Pisces |  | Aries |  | Taurus |  | Gemini |  | Cancer |  | Leo |
+@t  | Horoscopus |  | Horoscopus |  | Horoscepus |  | Horoscopus |  | Horoscopus |  | Horoscopus |
+@t  | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.} | {b:Gr.} | {b:Min.}
+@t 5 | 5 | 57 | 42 | 23 | 79 | 13 | 114 | 21 | 147 | 11 | 179 | 59
+@t 10 | 12 | 11 | 48 | 28 | 85 | 6 | 119 | 39 | 152 | 11 | 185 | 39
+@t 15 | 18 | 15 | 54 | 46 | 90 | 56 | 125 | 6 | 158 | 11 | 191 | 29
+@t 20 | 24 | 21 | 60 | 50 | 96 | 36 | 130 | 41 | 163 | 36 | 197 | 14
+@t 25 | 30 | 10 | 67 | 3 | 102 | 41 | 136 | 19 | 168{sup:b}) | 51 | 202 | 52
+@t 30 | 36{sup:a}) | 28 | 73 | 26 | 108 | 41 | 141 | 41 | 174 | 19 | 208 | 30
+@c {b:Viginti quinque}{sup:2}) {b:gradus Virginis}
+@c {b:Exagonum 69° 50′} — {b:Tetragonum 103° 40′} — {b:Trigonum 138° 26′}
+@t 5 | 5 | 45 | 42 | 6 | 78 | 54 | 114 | 13 | 146 | 58{sup:g}) | 179 | 20{sup:h})
+@t 10 | 12 | 0 | 48 | 10 | 84 | 50 | 119 | 38{sup:f}) | 152 | 21 | 185 | 8
+@t 15 | 18 | 0 | 54 | 18 | 90 | 46 | 125 | 3 | 157 | 46 | 190 | 41
+@t 20 | 24 | 0 | 60 | 38 | 96 | 43 | 130 | 56 | 163 | 11 | 196 | 16
+@t 25 | 29 | 0 | 66{sup:c}) | 43 | 102 | 40 | 136 | 23 | 168 | 34 | 201 | 46
+@t 30 | 35 | 58 | 72{sup:d}) | 58 | 108{sup:e}) | 38 | 141 | 36 | 173 | 46 | 207 | 21
+@c {b:Triginta}{sup:3}) {b:gradus Virginis}
+@c {b:Exagonum 69°53′} — {b:Tetragonum 103° 50′} — {b:Trigonum 138° 26′} (?)
+@t 5 | 5 | 55 | 41 | 40 | 78 | 45 | 114 | 40 | 148 | 5 | 180 | 7
+@t 10 | 11 | 55 | 47 | 58 | 84 | 50 | 120 | 10 | 153 | 18 | 185 | 48
+@t 15 | 17 | 55 | 54{sup:i}) | 0 | 90 | 57 | 125 | 48 | 158 | 45 | 191 | 23
+@t 20 | 23 | 50 | 60{sup:k}) | 15 | 96 | 45 | 131 | 23 | 164 | 5 | 196 | 58
+@t 25 | 29 | 40 | 66 | 30 | 103 | 1 | 136 | 58 | 169 | 25 | 202 | 10
+@t 30 | 35 | 30 | 72 | 45 | 109 | 0 | 142 | 10 | 174 | 35 | 207 | 40
+@n {sup:1}) Viginti] C, Vicesimus O, XX. N — {sup:2}) Viginti quinque] C, Vicesimus quintus O, XXV. N —
+@n {sup:3}) Triginta] XXX. C, Tricesimus O.
+@n {sup:a}) 36] ON, 35 C — {sup:b}) 168] C, {i:om.} O — {sup:c}) 66] ON, 67 C — {sup:d}) 72] ON, 73 C — {sup:e}) 108] 106 CON
+@n — {sup:f}) 38] C, 37 O — {sup:g}) 58] O, 8 C — {sup:h}) 20] C, 21 ON — {sup:i}) 54] 7 CO — {sup:k}) 60] 4 CO.
+@obs The page number «217» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 102», in bold sans serif, underlined. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «28» on the right; recorded here, not transcribed as a line. The page has no title: the folios of the manuscripts stand at the right above the double rule of the first field, in one line of their own, «C 96r, O 151v, N 62v.», the letters raised (L01).
+@obs The page holds three fields, as pp. 206-216 (JP2 0238-0248): «Viginti1) gradus Virginis» (L02), «Viginti quinque2) gradus Virginis» (L14) and «Triginta3) gradus Virginis» (L22), the ascendant at 20°, 25° and 30° of Virgo, with the numbers for the sextile, the quadrature and the trine (L03, L15, L23); headings and numbers in bold; in L23 «69°53′» without the space after the sign of the degrees, and the trine followed by the editor's «(?)» in roman. The heads of the columns of the first field as on p. 216 (JP2 0248, L04-L07), from Virgo to Aquarius, with «Horoscopus» in each, the head over Scorpius reading «Horoscepus» (critical note), and without notes (L04-L07). The second and the third field have no heads. Double rules divide the fields.
+@obs The numbers at the head of a field, as on pp. 206-216 (JP2 0238-0248), are a third, a half and two thirds of one number. In the first field it is the last number of the field, 208° 30′ (L13), which gives 69° 30′, 104° 15′ and 139° 0′, as printed (L03). In the second and the third field the quadratures 103° 40′ and 103° 50′ (L15, L23) are the halves of the last numbers, 207° 21′ and 207° 40′ (L21, L29), and the trine of the third field, 138° 26′, is two thirds of 207° 39′; the sextiles 69° 50′ and 69° 53′ stand for the thirds 69° 7′ and 69° 13.3′, 43′ and 40′ more, and the trine of the second field, 138° 26′, the same as that of the third, for two thirds of 207° 21′, 138° 14′. The editor's «(?)» stands after the trine of the third field, which agrees with the rule.
+@obs The columns: in Virgo the three fields lie below the oblique ascensions from the beginning of Virgo for the latitude 38° 30′ (computed with the obliquity 23° 35′; 6° 15′, 12° 28′, 18° 41′, 24° 52′, 31° 3′, 37° 14′), by 18′ to 53′ in the first field, 29′ to 2° 3′ in the second and 20′ to 1° 44′ in the third; from Libra on they fall further below them, by 5° 52′, 5° 57′ and 5° 23′ at the end of Sagittarius (141° 41′, 141° 36′ and 142° 10′ for 147° 33′). Between 5° and 10° of Aquarius the columns pass the oblique ascensions, and they end 9° 48′, 8° 39′ and 8° 58′ above them (208° 30′, 207° 21′ and 207° 40′ for 198° 42′), as on p. 216 (JP2 0248). From 5° of Capricornus to the end of Aquarius the second field lies 24′ to 50′ below the mean of the first and the third.
+@obs Notes on the readings. Checked by the other fields, which differ by 5° of the ascendant, and by the steps of the columns: the edition's readings are the nearer at 30° of Virgo in the first field (note a, L13: the 36 of O and N against C's 35, the steps 6° 18′ and 5° 55′ against 5° 18′ and 6° 55′; 36° 43′ in the last field of p. 216, JP2 0248, L29, and 35° 58′ and 35° 30′ in the other fields here), at 25° and 30° of Libra in the second (notes c and d, L20-L21: the 66 and 72 of O and N against C's 67 and 73, the steps 6° 5′, 6° 15′ and 5° 56′ against 7° 5′, 6° 15′ and 4° 56′), at 30° of Scorpius in the second (note e, L21: the editor's 108 for the 106 of all three manuscripts; 108° 41′ and 109° 0′ in the other fields), at 5° of Capricornus in the second (note g, L16: O's 58 against C's 8, the steps 5° 22′ and 5° 23′ against 4° 32′ and 6° 13′) and at 15° and 20° of Libra in the third (notes i and k, L26-L27: the editor's 54 and 60 for the 7 and 4 of C and O). At 25° of Capricornus in the first field (note b, L12) O omits the number; C's 168° 51′ gives the steps 5° 15′ and 5° 28′. At 10° of Sagittarius and 5° of Aquarius in the second field (notes f and h, L17, L16) the readings differ by 1′; neither is decided.
+@obs Without variants: in the second field 29° 0′ at 25° of Virgo (L20) lies 1° 10′ and 40′ below the other fields (30° 10′, 29° 40′) and 2° 3′ below the oblique ascension, 31° 3′, between the steps 5° 0′ and 6° 58′; with 30° 0′ the steps would be 6° 0′ and 5° 58′, as the two steps before it, 6° 0′ and 6° 0′.
+@obs The dash before note 2 in N01 is broken into pieces of 7 and 21 px with a gap of 2 px, 30 px in all, against 39 px for the dash at the end of the line; written as one dash. A point stands after the 21 at 30° of Aquarius in the second field (L21), a speck; not transcribed. Italics: «om.».
+@critical AK07-CN241 | wrong letter | L06 | Horoscepus | Horoscopus | the five other heads of the line read «Horoscopus»; an e is printed for the o after the c | high | none

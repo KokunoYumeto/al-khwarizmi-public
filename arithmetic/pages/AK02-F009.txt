@@ -1,0 +1,43 @@
+@page 9 3
+% Frame 009, printed p. 3: the hundreds and thousands put in the place of the unit; the differences (places) of the
+% units, tens, hundreds, thousands and ten thousands; the beginning of the places at the writer's right; the small
+% circle in the empty place of the units, and the figures of the tens.
+duplicantur ibi atque triplicantur, quemadmodum factum est
+de uno et .{sc:x}. ; efficiunturque ex eis .{sc:cc}. et .{sc:ccc}. et cetera
+usque in .{sc:dcccc}. Rursum ponuntur mille in loco unius ; et
+duplicando et triplicando, ut diximus, fiunt ex eis .{sc:ii}. milia,
+et .{sc:iii}. et cetera usque in infinitum numerum, secundum hunc
+modum. Et inueni quod operati sunt yndi ex his differentiis.
+Quarum prima est differentia unitatum, in qua duplicatur et
+triplicatur quicquid est inter unum et .{sc:ix}. Secunda differentia
+decenorum, in qua duplicatur uel triplicatur quicquid est a
+.{sc:x}. in nonaginta. Tercia differentia centenorum, in qua du-
+plicatur uel triplicatur quicquid est a .{sc:c}. in .{sc:dcccc}. Quarta
+uero est differentia milium, in qua duplicatur ac triplicatur
+quicquid est a mille in .{sc:ix}. {sc:m}. Quinta differentia est .{sc:x̄}. hoc
+modo: quocienscumque ascenderit numerus, adduntur differen-
+tie: erit dispositio numeri ita: Omne unum quod fuerit in su-
+periora ({i:sic}) differentia, erit in inferiori que est ante ipsam .{sc:x}.;
+et quod fuerit .{sc:x}. inferiori, erit unum in superiori que pre-
+cedit eam; et erit inicium differentiarum in dextera scriptoris:
+et hec erit prima earum, et ipsa posita est unitatibus. Cum
+autem ponerentur .{sc:x}. in loco unius , et fierent in secunda
+differentia, essetque figura eorum figura unius, necesse fuit
+eis figura decenorum, eo quod similis esset figure unius, ut
+scirent per eam quod essent .{sc:x}. Proposuerunt igitur ei unam
+differentiam, et posuerunt in ea circulum paruulum in simi-
+litudine .o. litere, ut per hoc scirent quod differentia uni-
+tatum esset uacua, et nichil numeri esset in ea preter circulum
+paruulum, quem diximus occupare eam : et ostenditur quod
+numerus, qui est in sequenti differentia,esset decenis, et quod
+hec esset differentia secunda que est differentia decenorum.
+Et posuerunt post circulum in predicta differentia secunda
+quicquid uoluerunt ex numero decenorum de hoc quod est
+inter .{sc:x}. et .{sc:xc}., et he sunt figure decenorum : figura .{sc:x}. est
+@obs The page number «( 3 )» stands at the head of the page, centred. The page has no footnotes and no signature.
+@obs Numerals are printed in small capitals between points: «.cc.», «.ccc.», «.dcccc.» (L02-L03, L11), «.ii.» and «.iii.» milia (L04-L05); L13: «.ix. m.», nine thousand, with «m.» in small capitals after the point of «.ix.», and «.x̄.», ten thousand, an x in small capitals with a bar over it.
+@obs L16: «superiora (sic)»: the edition marks the form of the manuscript with «(sic)» in italics.
+@obs L17: the t of the first word, «et», shows its stem and foot but not its cross stroke and its pointed top, so that it looks like an l; transcribed «et».
+@obs L25: «.o. litere», the letter o between points, in roman type.
+@obs Spaces at punctuation: L28, «differentia,esset»: the gap after the comma is 7 px, where the word spaces of the line are 15 to 21 px, and no space is transcribed. Before the colons of L27 («eam :») and L32 («decenorum :») the gap is 10 px, a thin space, and before the semicolons of L02 and L03 and the comma of L20 a full space; transcribed with a space.
+@copy A reader's marks in pencil: L07, a vertical stroke through the «ff» of «differentia»; L28, a curve under «ni» of «decenis», and «decenus» written in the right margin beside the line. Not part of the edition.

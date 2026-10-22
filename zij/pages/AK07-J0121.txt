@@ -1,0 +1,54 @@
+@page 121 89
+@lang de
+% JP2 0121: Suter's commentary, p. 89: chapter 33 continued: minutes of arc or of time; the twelfth added in C and N;
+% the times of the casus and the half mora; the data of the lunar eclipse of 30 June 763 compared with Oppolzer;
+% al-Bīrūnī on the size of the earth's shadow begins (notes 1-2).
+@p Nun widersprechen sich zwei Stellen in unserm Texte : p. 26 heisst es : {i:In}
+{i:supposita autem tabula tam casus quam morae tempora per dakaicas et elthenias}
+{i:horarum determinata sunt} ; das Wort {i:horarum} hat aber nur O, C und N nicht.
+C und N fügen nun einen Zusatz zu diesem Kapitel hinzu, betitelt : {i:Scientia examina-}
+{i:tionis lunarium defectuum} (s. p. 27). In diesem Zuzatz findet sich die Vorschrift,
+diese gefundenen Minuten und Secunden für den Casus und die Mora um einen
+Zwölftel zu vermehren, und die Summe durch die stündliche Bewegung des Mondes
+zu teilen, so erhalte man die Zeit der partialen und der totalen Verfinsterung.
+C fasst also die gefundenen Min. und Sec. als Bogen-Min. und Sec. auf, O dagegen
+als Zeit-Min. und Sec. Wir müssen nach Vergleichung mit den Vorschriften {sp:Batt.}’s,
+die mit denen von C ziemlich identisch sind, die Darstellung des letztern Ms. als
+die richtige annehmen. Aber es besteht auch noch ein Unterschied zwischen den
+Vorschriften des Ms. C und denen {sp:Batt.}’s, der letztere verlangt die oben erwähnte
+Addition eines Zwölftels zu den Werten des Casus und der Mora nicht. Wir ver-
+fahren nun nach den Vorschriften des Ms. C und finden :
+@t Digiti der Verfinsterung : | Min. u. Sec. des Casus : | | Min. u. Sec. der halben Mora : |
+@t 19{sup:dig.} 36′ | | 31′ 25″ | | 23′ 8″
+@t | {cf:1|12} davon : | 2′ 37″ | {cf:1|12} davon : | 1′ 55″
+@t | | 34′ 2″{sup:1}) | | 25′ 3″{sup:1})
+@p Teilen wir nun die Min. und Sec. des Casus und der Mora durch 32′ 9″, d. i. die
+stündliche Bewegung des Mondes bei einer Anomalie von 285° 45′, so erhalten wir
+für die Zeit des {i:Casus} 1{sup:h} 3{sup:m} 30{sup:s}, für die Zeit der {i:halben Mora} 46{sup:m} 45{sup:s}. Wir haben
+nun folgende Daten für diese Finsternis :
+@p 1) {i:Totale,} aber nicht centrale Verfinsterung, da die Zahl der Digiti grösser ist
+als 12 — 2) Grösse der Verfinsterung 19{sup:dig.} 36′ — 3) Dauer der partialen Verfinsterung
+({i:Casus} + {i:Emersio}) = 2 (1{sup:h} 3{sup:m} 30{sup:s}) = 2{sup:h} 7{sup:m} — 4) Dauer der totalen Verfinsterung ({i:Mora})
+= 2 (46{sup:m} 45{sup:s}) = 1{sup:h} 33{sup:m} 30{sup:s} — 5) Dauer der {i:ganzen} Finsternis 3{sup:h} 40{sup:m} 30{sup:s}.
+@p Die Opposition hat, wie wir oben (p. 85) gefunden haben, am 13. Rabīʿ II, 146,14{sup:h}
+nach 12 Uhr Mittags = 30. Juni 763, 2 Uhr Morgens stattgefunden, dies ist die Zeit
+der Mitte der Finsternis, also war der Beginn derselben, wenn wir die Sekunden
+vernachlässigen, am 30. Juni 763, 0{sup:h} 10{sup:m} Morgens, das Ende 3{sup:h} 50{sup:m} Morgens. — Nach
+{sp:Oppolzer}{sup:2}) ergeben sich folgende Daten (für Greenwich) : Mitte der Finsternis
+30. Juni 763, 1{sup:h} 42{sup:m} Morgens ; Grösse = 22,3 Zoll ; Dauer der partialen Verfinsterung 2{sup:h} ;
+Dauer der Totalität 1{sup:h} 44{sup:m} ; Dauer der ganzen Finsternis 3{sup:h} 44{sup:m}. Es ist dies gewiss
+ein schönes Ergebnis mit Hilfe dieser über 1000 Jahre alten Tafeln der Araber!
+@p Wir haben hier noch einiges über die Bestimmung der Grösse des {i:Erdschat-}
+{i:tens} bei Mondfinsternissen hinzuzufügen. {sp:Al-Bīrūnī} macht in der oben (p. 79)
+zitierten Stelle noch die weitere Bemerkung, dass die Methode der Berechnung der
+@n {sup:1}) Die entsprechenden Zahlen nach den Vorschriften u. Tafeln {sp:Batt.}’s sind : 31′ 41″ u. 25′ 0″.
+@n {sup:2}) {i:Kanon der Finsternisse} (Denkschriften der Wiener Akademie, mathem. Klasse, LII. Bd.),
+@n p. 355, Nr. 3050 der Mondfinsternisse.
+@obs The page number «89» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «12» on the right; recorded here, not transcribed as a line.
+@obs L01-L03: the sentence of chapter 33 of the Latin text (p. 26, JP2 0058, L19-L21), in italics, without the note numbers of the edition; «horarum» is the reading of O (note 32 there: «horarum] O, om. C»). L04-L08: the bracketed account of the lunar eclipse in C (p. 27, JP2 0059, L05-L34), whose rule adds «dimidium sextae», a twelfth, to the minutes of the casus and of the mora (L23-L25 there). L05: «Zuzatz»; see the critical note.
+@obs L16-L19: the computation, set in three columns under the heads of L16 in the smaller type; «1/12 davon :» before the twelfths, the case fraction written {cf:1|12}; the sums below rules under the figures, with the note number 1 after each. Each printed row is one line here, the cells separated by our «|»; the empty cells give the columns room and are not printed. L16-L19. Checked: 31′ 25″ : 12 = 2′ 37″; 31′ 25″ + 2′ 37″ = 34′ 2″; 23′ 8″ : 12 = 1′ 55.7″, written 1′ 55″; 23′ 8″ + 1′ 55″ = 25′ 3″.
+@obs L20-L35. Checked: 34′ 2″ : 32′ 9″ = 1.0586 h = 1h 3m 30.9s, «1h 3m 30s»; 25′ 3″ : 32′ 9″ = 0.7792 h = 46m 45.0s; twice these are 2h 7m 1s and 1h 33m 30s, together 3h 40m 31s, «3h 40m 30s»; 2h less half of that, 1h 50m 15s, is 0h 9m 45s, «0h 10m», and 2h plus it 3h 50m 15s. The hourly motion of 32′ 9″ at the corrected anomaly 285° 45′ (74° 15′ from the apogee) agrees with the mean motion 32′ 56″ less 32′ 40″ · 0.0861 · cos 74° 15′ = 46″, 32′ 10″ (see p. 46, JP2 0078). Digits more than 12 mean a total eclipse (L24). Oppolzer's partial and total phases, 2h and 1h 44m, make the 3h 44m of the whole eclipse; Meeus's algorithm gives the full moon at 2.63h Terrestrial Time on 30 June 763 (p. 85, JP2 0117), about 1h 43m at Greenwich, near Oppolzer's middle at 1h 42m.
+@obs L28: «146,14h», the comma set close between the year and the hour; «Rabīʿ II» upright, with the macron and the ʿayn raised. L32: «(für Greenwich) :», the colon after a thin space (11 px). L24-L27: the five numbered items run on in the paragraph, each «1)», «2)» … set on the line, not raised, separated by long dashes with a space on either side; «Casus + Emersio» in italics with an upright plus sign. L04: «betitelt :» and «(s. p. 27)», the title in italics.
+@obs Spaced type, marked {sp:}: «Batt.», «Oppolzer», «Al-Bīrūnī»; italics: the Latin of L01-L05, «horarum» (L03), «Casus» (L22, L26), «halben Mora», «Totale,», «Mora» (L26), «ganzen», «Erdschattens», «Kanon der Finsternisse».
+@obs The colons and semicolons stand after the thin space of the edition (9-13 px measured).
+@critical AK07-CN066 | misprint | L05 | Zuzatz | Zusatz | «einen Zusatz zu diesem Kapitel» (L04), the same word; the s is printed as z, as in «Zuzätze» on p. XIV (JP2 0018, L37, AK07-CN003) | high | none

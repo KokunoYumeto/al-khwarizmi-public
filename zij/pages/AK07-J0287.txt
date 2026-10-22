@@ -1,0 +1,109 @@
+@page 287 253
+@lang de
+% JP2 0287: the index of names and subjects, p. 253: Monat to Robert von Chester (M-R), in two columns.
+@cl Monat, anomalistischer 64.
+@cl Monate, arabische, Beginn derselben 2, 5, 36,
+@cl 37, T. 2 ; Namen derselben XIV, XV, 2, 34,
+@cl T. 2, 3, 4, etc. und Glossar.
+@cl — ägyptische od. koptische 37, 38, T. 2{sup:b} ; Na-
+@cl men derselben T. 2{sup:b} und Glossar.
+@cl — persische 37, T. 2{sup:a} ; Namen derselben T. 2{sup:a}
+@cl und Glossar.
+@cl — römische (seleucid.), Beginn derselben 6,
+@cl 7, 38—40, T. 3{sup:a} ; Namen derselben T. 3{sup:a} und
+@cl Glossar.
+@cl Mond s. Bewegung, Breite, Länge, Sublimatio,
+@cl Durchmesser, Examinatio, Verfinsterung ;
+@cl Erscheinen desselben s. Neumond.
+@cl Mondbahn, Schiefe derselben zur Ekliptik 59.
+@cl Mondknoten, Länge derselben, s. Länge des
+@cl Drachenkopfes.
+@cl μονή = das Bleiben, Verweilen s. Mora.
+@cl Mora 26, 27, 87—89.
+@cl Motus verus vel inaequalis s. Bewegung, wahre.
+@cl Muḥammed b. Mūsā al-Khwārizmī s. al-Khwā-
+@cl rizmī.
+@cl Muḥammed b. Mūsā b. Shākir VIII.
+@cl Multiplikationstafel für Sexagesimalteile 68,
+@cl T. 57{sup:b}.
+@cl {b:N.}
+@cl Nabonassar XVI, 35, T. 1.
+@cl Nabukodonossor s. das vorhergeh.
+@cl Nachtbogen, des Ascendenten 97.
+@cl Nachtstunden 20, 25, 97, 98.
+@cl Nallino, C. A. IX, XIII, XV, XVI, XVIII (N.),
+@cl XXI—XXIII (N.), XXIV, 32, 34, 38, 43—48,
+@cl 54—58, 60, 63, 65, 66, 71—73, 76—78, 80—82,
+@cl 86, 87, 90—92, 94—96, 99, 100, 102, 103, 105,
+@cl 233, 236 ; s. auch al-Battānī.
+@cl Neumond, sein Erscheinen, 16, 17, 66—68, T. 57{sup:a}.
+@cl Notae, od. Notulae (auch Signa) 5, 34, 37, 39, 82.
+@cl Null ({i:cifra}) 8, 10, 36 ; Zeichen dafür XXIII, 8.
+@cl {b:O.}
+@cl Obliquatio s. Deklination.
+@cl Ocreat, N. XXIII (N. 2).
+@cl Ophiel XXII.
+@cl Oppolzer, Th. 89. 95.
+@cl Opposition s. Konjunktion.
+@cl Ort der Strahlenwerfung s. Radiatio stellarum.
+@cl Örter, mittlere der Planeten s. Bewegung,
+@cl mittlere.
+@cl — wahre der Planeten s. Länge, wahre.
+@cl Ortus iuxta circulum aequinoctialem s. Ascen-
+@cl siones rectae.
+@cr {b:P.}
+@cr Panchasiddhāntikā (= das Buch der fünf
+@cr Siddhāntas) 46, 64, 68, 75, 90, 235.
+@cr Parallaxe des Mondes in Länge 28, 29, 91—93,
+@cr 95, 96, 106, T. 77, 77{sup:a}.
+@cr — — in Breite 28, 29, 93, 94, 96, 106, T. 77, 77{sup:a}.
+@cr Pechüle, C. F. VI, 233—235.
+@cr Perigeum s. Submissio.
+@cr Petrus de Dacia XXIII (N. 2).
+@cr Philippus Aridaeus XVI, T. 1.
+@cr Planeten s. Bewegung, Breite, Länge, Subli-
+@cr matio, Examinatio, Exzentrizität, Stationen.
+@cr Planisphaerium, des Ptolemäus IX, XIII.
+@cr Plato von Tivoli 57.
+@cr Polhöhe s. Breite, geogr.
+@cr Praezession des Frühlingspunktes 42, 46, 50,
+@cr 52, 54.
+@cr Proiectio lucis stellarum s. Radiatio stellarum.
+@cr — radiorum s. dasselbe.
+@cr Prosneusis 45.
+@cr Prosthaphaeresis der Länge 49, 233.
+@cr Ptolemäus IX, XIIl, XXIV, 2, 16, 18, 33, 35, 38,
+@cr 44—47, 49, 50, 57—60, 63, 66, 70, 74, 80, 81,
+@cr 86, 87, 90. 96, 99, 104—106, 233, 234.
+@cr Puncta (= Minuta) 36.
+@cr {b:Q.}
+@cr Quadratschein (Tetragonum) 30, 31, 98, 99, 101,
+@cr T. 91—114.
+@cr Quadripartitum 96, 99.
+@cr Quantitas incidentiae s. Casus.
+@cr {b:R.}
+@cr Radiatio stellarum (exagonalis, tetragonalis,
+@cr trigonalis) 30, 31, 98—102, 106, T. 91—114.
+@cr — dextra 31, 101.
+@cr — sinistra 31, 101.
+@cr Radius des Erdschattens s. Durchmesser.
+@cr Radix XVI, 7, 33, 36, 41, 81, T. 3, 4, 6, 9, etc.
+@cr al-Raḳḳa 41, 74, 75, 81, 96.
+@cr Rechtläufigkeit der Planeten, s. Vorwärts-
+@cr schreiten.
+@cr Rectascension s. Ascensiones rectae.
+@cr Regel der vier Grössen 61.
+@cr Regenten s. Judices.
+@cr Regiomontanus, Joh. 99, 101.
+@cr Regnum s. Erhöhung.
+@cr Respiratio 26, 28, 87, 89.
+@cr Revolutiones annorum s. Umwandlung.
+@cr Robert von Chester VIII, XI—XIII, XVIII, 1,
+@cr 69, 106.
+@obs The page number «253» stands at the head of the page, centred, with a rule below it. The page has no signature. Two columns divided by a vertical rule, as on pp. [249]-252 (JP2 0283-0286), transcribed column by column: the left column L01-L50, the right L51-L99; the letter heads «N.» (L26), «O.» (L39), «P.» (L51), «Q.» (L76) and «R.» (L81) in bold, centred in their columns, «N.», «O.», «Q.» and «R.» each after a blank line, «P.» at the head of the right column; each entry begins at the edge of its column, its further lines indented, the subentries with a dash indented less.
+@obs The semicolons of L03, L05, L07, L10, L13, L35 and L38 stand after a thin space (8-11 px); written with a space. L18: «μονή» in the slanted Greek type of the edition; L38: «cifra» in italics. The letters a and b raised after the numbers of the tables (T. 2{sup:b}, T. 57{sup:a}) are small roman letters. L78: the dash of «91—114» is printed with a gap: a fragment of 4 px, 4 px of white, then the dash (25 px), as on p. 252 (JP2 0286, L64); written —. L82: the n of «tetragonalis» is printed faint, only its right stem visible; read «tetragonalis». L72: «XIIl», the last sign of the numeral a lowercase l, as on pp. 250-252; transcribed as printed.
+@obs Checked against the text, for example: «anomalistisch» on p. 64, «Mondbahn» on p. 59, «mora» on pp. 26, 27 and 87-89, «Muḥammed b. Mūsā b. Shākir» on p. VIII, the multiplication on p. 68 and Tab. 57b (p. 168, JP2 0200), «Nachtbogen» on p. 97, «Neumond» on p. 66, the notae on pp. 5, 34, 37, 39 and 82, «cifra» and the signs for zero on p. XXIII (JP2 0027) and pp. 8 and 36, «Ophiel» on p. XXII, «Oppolzer» on pp. 89 and 95, «Panchasiddhāntikā» on all the pages cited, «Pechüle» on pp. VI and 233-235, «Prologus N. Ocreati» in note 2 of p. XXIII, «Planisphaerium» on pp. IX and XIII, «Plato» on p. 57, the precession on pp. 42, 46, 50, 52 and 54, «Prosneusis» on p. 45, «prosthaphérèse» on p. 49 (JP2 0081) and «Prosthaphäresis» on p. 233 (JP2 0265), «Puncta» on p. 36, «Quadripartitum» on pp. 96 and 99, «Radix» on the pages cited, «al-Raḳḳa» on pp. 41, 74, 75, 81 and 96, «Regiomontanus» on pp. 99 and 101, «respiratio» on pp. 26, 28 and 87-88, with the emersio on p. 89, «Robert» on pp. VIII, XI-XIII, XVIII, 69 and 106.
+@critical AK07-CN316 | wrong punctuation | L43 | 89. 95. | 89, 95. | the references of an entry are divided by commas; Oppolzer is cited on pp. 89 and 95 (JP2 0121, 0127); a point is printed after 89 | high | none
+@critical AK07-CN317 | wrong note number | L59 | XXIII (N. 2) | XXIII (N. 1) | «Petri Philomeni de Dacia in Algorismum vulgarem Johannis de Sacrobosco Commentarius» is cited in note 1 of p. XXIII (JP2 0027, N01), as the index has «Johannes de Sacrobosco XXIII (N. 1)» (p. 252, JP2 0286, L34); note 2 cites Ocreatus | high | none
+@critical AK07-CN318 | wrong sort | L72 | XIIl | XIII | the references of Ptolemy run IX, XIII, XXIV; the last sign of the numeral is a lowercase l, with a flag on the left only at its top, where the I before it has serifs on both sides | high | none
+@critical AK07-CN319 | wrong punctuation | L74 | 90. 96, | 90, 96, | the references of the entry are divided by commas; a point is printed after 90 | high | none

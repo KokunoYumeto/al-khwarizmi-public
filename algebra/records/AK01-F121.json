@@ -1,0 +1,268 @@
+{
+ "anchor": "AK01-F121",
+ "frame": 121,
+ "frame_file": "page_121.jpg",
+ "frame_sha256": "97202e3497eee2fb3c71251a7e56c0cbaf0242b4a81867fb8ab73bdc1051c020",
+ "printed_page": "١٠٥",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 121, printed p. 105: the problem of frame 120 concluded (a slave-girl given in illness and given back, both having intercourse with her): a hundred and eighty equal a thing and a half and the bride-price returned, a sixth of a thing and ten: the thing, the giver's gift, a hundred and two; the gift back half of it less thirty, twenty-one; «والله أعلم». Then, under the bold heading «باب السلم فى المرض», the chapter of the advance purchase in illness: a sick man advances thirty dirhams for a kurr of food worth ten and dies: the favour that is valid is ten. Then a sick man advances twenty dirhams for a kurr worth fifty, cancels the contract in his illness and dies: four ninths of the kurr and eleven and a ninth dirhams are returned; the thing eight and eight ninths, continued on the next page. The values check exactly, but for one word given in the critical note AK01-CN038. No footnote on this page.",
+ "lines": [
+  {
+   "id": "AK01-F121-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "والعقر فاجبر ذلك بنصف شىء وزده على الشىء والعقر فيكون مائة وثمانين درهما",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "تعدل شيئا ونصف شىء والعقر الذى رد وهو سدس شىء وعشرة دراهم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "تسقط عشرة بعشرة فيبقى مائة وسبعون درهما تعدل شيئا وثلثى شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "فاردده لتعرف الشىء وهو أن تأخذ ثلاثة أخماسه فيكون مائة واثنين تعدل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "الشىء الذى هو وصية الواهب للموهوب له . وأما وصية الموهوب له للواهب",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "فهى نصف ذلك غير ثلاثين درهما وهو أحد وعشرون والله أعلم . {b:باب السلم فى}",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "باب السلم فى"
+   ]
+  },
+  {
+   "id": "AK01-F121-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "{b:المرض} . اذا أسلم رجل فى مرضه ثلاثين درهما فى كر من طعام تساوى عشرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": [
+    "المرض"
+   ]
+  },
+  {
+   "id": "AK01-F121-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "دراهم ثم مات فى مرضه فانه ترد الكر وترد على ورثة الميت عشرة دراهم . قياسه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "أن ترد الكر وقيمته عشرة دراهم فيكون قد حاباه بعشرين درهما فالوصية من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "المحاباة شىء ويصير فى أيدى الورثة عشرين غير شىء والكر فى كل ذلك ثلاثون",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "درهما غير شىء تعدل ستين وهو مثلا الوصية فاجبر الثلاثين بالشىء وزده على",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "الشيئين فتصير الثلاثون تعدل ثلاثة أشياء الشىء من ذلك ثلثه وهوعشرة دراهم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "وهو ما جاز من المحاباة . فان أسلم الى رجل عشرين درهما وهو مريض فى كر",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "تساوى خمسين درهما ثم أقاله فى مرضه ثم مات فانه يرد أربعة أتساع الكر وأحد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "عشر درهما وتسع درهم . وقياسه انك قد علمت أن قيمةالكر مثل المال الذى أسلم",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "اليه مرتين ونصفا فهو لا يرد من رأس المال شيئا إلا رد من الكر مثليه ومثل",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "نصفه فتجعل الذى يرد من الكر بالشىء شيئين ونصفا فزده على ما بقى من",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "العشرين وهو عشرون غير شىء فيصير فى أيدى ورثة الميت عشرون درهما",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "وشىء ونصف شىء فمثل نصفها هى الوصية وهوعشرة دراهم وثلاثة أرباع شىء",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "وذلك ثلث المال وهو ستة عشر درهما وثلثا درهم فالق عشرة بعشرة فتبقى ستة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "دراهم وثلثان تعدل ثلاثة ارباع شىء فكمل الشىء وهو أن تزيد عليه ثلثه وزد",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F121-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "على الستة والثلثين ثلثها وهو درهمان وتسعا درهم فيكون ثمانية دراهم وثمانية",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "L01: «والعقر فاجبر ذلك بنصف شىء» (L01) goes on from the last words of frame 120, «فنصف ذلك مائة وثمانون غير نصف شىء وهو مثل الشىء» (frame 120, L22): half of three hundred and sixty less a thing equals the thing and the bride-price returned.",
+  "L06-L07: the words باب السلم فى المرض, the heading of the chapter of the advance purchase in illness, are printed in a bold face, run in after a full stop at the end of L06 and continued at the beginning of L07, followed by a full stop; L07 is not indented. The stems of the bold letters are 5 to 6 px thick, those of the text 3 to 4. The bold ف of فى is printed with its dot. The chapter of the bride-price in the cycle closes with «والله أعلم» (L06).",
+  "L11: «تعدل ستين», as printed, sixty, where thirty less a thing equals two things, as the restoration that follows requires («وزده على الشيئين», L11-L12). See the critical note AK01-CN038.",
+  "Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): وهوعشرة (L12; 26 between the second و and the ع, and L19; 23), as on frames 049, 061, 108 and 111, 23 and 24, where وهو عشرون in L18 has 53; قيمةالكر (L15; 7 between the ة and the alif), where the ة stands 1 to 14 px from the next letter without a space and 16 or more with one.",
+  "Where the gap lies between the distances inside a word and those between words, a word space is transcribed: الشىء والعقر (L01; 16 between the hamza on the line and the conjunction و) and وشىء ونصف (L19; 17), where the hamza stands 2 to 11 px from the next letter without a space and 15 or more with one; مائة وثمانين (L01; 17 between the ة and the conjunction و) and فالوصية من (L09; 17 between the ة and the م), at the boundary of the gaps after ة; قد علمت (L15; 10 between the د and the ع, where the د stands 3 to 8 px from the ع in أحدعشر on frames 056 and 062, and 19 from it in وترد على, L08); in doubt, the space is written.",
+  "After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: بنصف شىء (6), فيكون مائة (L01; 6), نصف ذلك (8), ثلاثين درهما (6), وعشرون والله (L06; 5), فى مرضه (L07; 6), ثم مات (11), فى مرضه (8), مرضه فانه (8), على ورثة (L08; 11), فى أيدى (L10; 10), من ذلك (L12; 9), خمسين درهما (7), فى مرضه (L14; 7), وتسع درهم (14), علمت أن (8), مثل المال (14), الذى أسلم (L15; 10), ونصف شىء (17), هى الوصية (L19; 11).",
+  "The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after له, before وأما (L05; 28 and 27), after أعلم, before the bold باب (L06; 30 and 27), after the bold المرض, before اذا (L07; 34 and 33), after دراهم, before قياسه (L08; 22 and 28), after المحاباة, before فان (L13; 28 and 29), and after درهم, before وقياسه (L15; 22 and 25).",
+  "Plain alif where a hamza might be expected, as printed: فاجبر (L01, L11), فاردده, واثنين (L04), اذا (L07), فانه (L08, L14), الى (L13), انك (L15), اليه (L16), فالق (L20), ارباع (L21); with hamza: أن (L04, L09, L15, L21), تأخذ, أخماسه (L04), وأما (L05), أحد, أعلم (L06), أسلم (L07, L13, L15), أيدى (L10, L18), أشياء (L12), أقاله, أربعة, أتساع, وأحد (L14), رأس (L16), أرباع (L19); with the hamza below: إلا (L16); on ي: مائة (L01, L03, L04), شيئا (L02, L03, L16), الشيئين (L12), شيئين (L17); the hamza on the line: شىء (L01, L03, L11, L18, L21; L02, L10, L19, twice), الشىء (L01, L04, L05, L12, L21), بالشىء (L11, L17), أشياء (L12), وشىء (L19).",
+  "No tanwīn is printed on this page: درهما (L01, L03, L06, L07, L09, L11, L13, L14, L15, L18, L20), شيئا (L02, L03, L16).",
+  "L03, L11, L20, L22: «وثلثى شىء» (L03), «مثلا الوصية» (L11), «وثلثا درهم» (L20) and «وتسعا درهم» (L22), as printed: the dual without its ن before the noun that follows it, as on frames 094-120.",
+  "The final yā' is printed without dots: على (L01, L08, L11, L17, L22), الذى (L02, L05, L15, L17), فيبقى, وثلثى (L03), فهى (L06), فى (L06, L08, L13, L14, L18; L07, L10, twice), تساوى (L07, L14), أيدى (L10, L18), الى (L13), بقى (L17), هى (L19), فتبقى (L20).",
+  "The print stretches بنصف (L01, between the ص and the ف), تسقط (L03, between the س and the ق) and درهما (L03, between the م and the alif) with the elongation stroke; the stroke is not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK01-CN038",
+   "class": "wrong word",
+   "line": "L11",
+   "printed": "تعدل ستين",
+   "proposed": "تعدل شيئين",
+   "evidence": "The heirs hold the kurr, worth ten, and twenty dirhams less the thing of the favour: thirty less a thing (L10-L11), which is twice the bequest, the thing. The print says that it equals «ستين», sixty. The next words restore the thirty by the thing and add it «على الشيئين», to the two things (L11-L12), and find thirty equal to three things, the thing ten (L12): the equation of thirty less a thing equal to two things (checked exactly).",
+   "confidence": "high that the sense requires شيئين; whether the error lies in the print or in the manuscript is not known",
+   "impact": "none on the result: the equation and the favour of ten are those of two things"
+  }
+ ]
+}

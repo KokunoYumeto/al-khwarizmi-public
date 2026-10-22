@@ -1,0 +1,771 @@
+{
+ "anchor": "AK07-J0027",
+ "jp2_index": 27,
+ "jp2_member": "b24872489_0027.jp2",
+ "jp2_sha256": "28f3e081e2b560626b2a564889a248d543f39f1966596c3f6f92626f773af164",
+ "reading_copy": "page_0027.jpg",
+ "reading_copy_sha256": "841769806134951275a91e5c05dda80abae54c4be6fa33deebfa677e9c2b4aee",
+ "printed_page": "XXIII",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0027: the introduction, p. XXIII: the principles of the edition: the spelling of the Latin text; the Roman figures of the text and the Arabic figures of the tables; the three signs for zero; the confusion of the titles and column heads of the tables in C, O and M.",
+ "lines": [
+  {
+   "id": "AK07-J0027-L01",
+   "n": 1,
+   "kind": "indent",
+   "text": "Über die Grundsätze, die mich bei der Wiedergabe des Textes und der Tafeln",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Über die Grundsätze, die mich bei der Wiedergabe des Textes und der Tafeln",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "geleitet haben, muss ich folgendes bemerken :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "geleitet haben, muss ich folgendes bemerken :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L03",
+   "n": 3,
+   "kind": "indent",
+   "text": "Im Texte sind die Wörter wiedergegeben, wie sie in den Handschriften stehen,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Im Texte sind die Wörter wiedergegeben, wie sie in den Handschriften stehen,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "mit den Ausnahmen, dass erstens für die Genitiv- und Dativendung der ersten Deklin.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mit den Ausnahmen, dass erstens für die Genitiv- und Dativendung der ersten Deklin.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "Sing. das heutige {i:ae} statt des mittelalterlichen {i:e} geschrieben worden ist, zweitens",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Sing. das heutige ae statt des mittelalterlichen e geschrieben worden ist, zweitens",
+   "italic": [
+    "ae",
+    "e"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "für {i:u}, wenn es vor einem Vokal steht, also {i:v} gelesen wird, stets dieser Buchstabe",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "für u, wenn es vor einem Vokal steht, also v gelesen wird, stets dieser Buchstabe",
+   "italic": [
+    "u",
+    "v"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "gesetzt worden ist ; drittens ist in beiden Mss. für {i:t} vor {i:i} und folgendem Vokal oft",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "gesetzt worden ist ; drittens ist in beiden Mss. für t vor i und folgendem Vokal oft",
+   "italic": [
+    "t",
+    "i"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "(nicht immer) {i:c} gesetzt, wir haben immer {i:t} geschrieben.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(nicht immer) c gesetzt, wir haben immer t geschrieben.",
+   "italic": [
+    "c",
+    "t"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L09",
+   "n": 9,
+   "kind": "indent",
+   "text": "Der Text und die Tafeln enthalten nur römische Ziffern, mit Ausnahme einiger",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Der Text und die Tafeln enthalten nur römische Ziffern, mit Ausnahme einiger",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "Zusätze aus späterer Zeit in O und N. Im Text habe ich die römischen Ziffern",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Zusätze aus späterer Zeit in O und N. Im Text habe ich die römischen Ziffern",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "beibehalten mit Ausnahme des Zusatzes von späterer Hand zu Kap. 21, der sehr viele",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "beibehalten mit Ausnahme des Zusatzes von späterer Hand zu Kap. 21, der sehr viele",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "und grössere Zahlen enthält und nur in C vorkommt. In den Tafeln habe ich, um",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "und grössere Zahlen enthält und nur in C vorkommt. In den Tafeln habe ich, um",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "den Druck und das Lesen zu erleichtern, alle Ziffern durch arabische ersetzt.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "den Druck und das Lesen zu erleichtern, alle Ziffern durch arabische ersetzt.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L14",
+   "n": 14,
+   "kind": "indent",
+   "text": "Für die Null kommen im Text sowohl als in den Tafeln drei Zeichen vor :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Für die Null kommen im Text sowohl als in den Tafeln drei Zeichen vor :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "C und O haben bald τ (= {i:teca}){sup:1}), bald θ (= {i:theta} ?), N hat stets {ov:0}{sup:2}). Interessant ist,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "C und O haben bald τ (= teca)1), bald θ (= theta ?), N hat stets 02). Interessant ist,",
+   "italic": [
+    "teca",
+    "theta"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "dass in N an verschiedenen Stellen, von denen ich in den Fussnoten einige erwähnt",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dass in N an verschiedenen Stellen, von denen ich in den Fussnoten einige erwähnt",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "habe, für 38 (einige male auch für 28) geschrieben steht XXX0 (bezw. XX0) ; um die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "habe, für 38 (einige male auch für 28) geschrieben steht XXX0 (bezw. XX0) ; um die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "Zahl in römischen Ziffern nicht zu gross werden zu lassen, wurde also VIII durch",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Zahl in römischen Ziffern nicht zu gross werden zu lassen, wurde also VIII durch",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "0 ersetzt, es ist dies jedenfalls der Anfangsbuchstabe von {i:octo}.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "0 ersetzt, es ist dies jedenfalls der Anfangsbuchstabe von octo.",
+   "italic": [
+    "octo"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L20",
+   "n": 20,
+   "kind": "indent",
+   "text": "Was die Tafeln anbetrifft, so weisen alle Handschriften mit Ausnahme von N",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Was die Tafeln anbetrifft, so weisen alle Handschriften mit Ausnahme von N",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "in den Titeln und Kolonnenüberschriften eine unglaubliche Willkür und Inkonsequenz",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "in den Titeln und Kolonnenüberschriften eine unglaubliche Willkür und Inkonsequenz",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "auf ; bald steht sowohl der arabische als auch der lateinische Titel, bald nur der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "auf ; bald steht sowohl der arabische als auch der lateinische Titel, bald nur der",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "arabische, bald nur der lateinische, bald gar kein Titel. Auch die Kolonnenüber-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "arabische, bald nur der lateinische, bald gar kein Titel. Auch die Kolonnenüber-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "schriften lauten oft verschieden, obgleich sie dasselbe bezeichnen sollen, so steht z. B",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "schriften lauten oft verschieden, obgleich sie dasselbe bezeichnen sollen, so steht z. B",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "im gleichen Ms. in der einen Tafel {i:menses arabici}, in der andern {i:menses arabum}, in",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "im gleichen Ms. in der einen Tafel menses arabici, in der andern menses arabum, in",
+   "italic": [
+    "menses arabici",
+    "menses arabum"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "der einen {i:in annis collectis}, in der andern bloss {i:in collectis}, in der einen {i:via}, in der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der einen in annis collectis, in der andern bloss in collectis, in der einen via, in der",
+   "italic": [
+    "in annis collectis",
+    "in collectis",
+    "via"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "andern {i:semita}, in einer dritten {i:catar} (= {i:linea}), in der einen {i:recedentis}, in der andern",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "andern semita, in einer dritten catar (= linea), in der einen recedentis, in der andern",
+   "italic": [
+    "semita",
+    "catar",
+    "linea",
+    "recedentis"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "{i:descendentis}, u. s. w. ; oft sind auch Kolonnentitel ganz weggelassen, besonders in C.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "descendentis, u. s. w. ; oft sind auch Kolonnentitel ganz weggelassen, besonders in C.",
+   "italic": [
+    "descendentis"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "Das grösste Durcheinander herrscht in den Bezeichnungen der kleinern Winkelteile :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Das grösste Durcheinander herrscht in den Bezeichnungen der kleinern Winkelteile :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "die eine Tafel hat {i:Min. Sec.}, die andere {i:Dak.}{sup:3}) {i:Then.}{sup:4}), eine dritte {i:Dak. Sec.}, eine",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die eine Tafel hat Min. Sec., die andere Dak.3) Then.4), eine dritte Dak. Sec., eine",
+   "italic": [
+    "Min. Sec.",
+    "Dak.",
+    "Then.",
+    "Dak. Sec."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "vierte (besonders in C, aber nicht durchweg) {i:P.}{sup:5}) {i:M.}{sup:6}), und zwar diese Namen bald",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "vierte (besonders in C, aber nicht durchweg) P.5) M.6), und zwar diese Namen bald",
+   "italic": [
+    "P.",
+    "M."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "so abgekürzt, bald vollständig ausgeschrieben. Nur in der Bezeichnung der Tier-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "so abgekürzt, bald vollständig ausgeschrieben. Nur in der Bezeichnung der Tier-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-L33",
+   "n": 33,
+   "kind": "text",
+   "text": "kreiszeichen ({i:Signa}) und Grade ({i:Gradus}) herrscht Übereinstimmung, nur sind sie",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "kreiszeichen (Signa) und Grade (Gradus) herrscht Übereinstimmung, nur sind sie",
+   "italic": [
+    "Signa",
+    "Gradus"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Vergl. M. {sp:Curtze}, {i:Petri Philomeni de Dacia in Algorismum vulgarem Johannis de Sacro-}",
+   "margin": null,
+   "plain": "1) Vergl. M. Curtze, Petri Philomeni de Dacia in Algorismum vulgarem Johannis de Sacro-",
+   "italic": [
+    "Petri Philomeni de Dacia in Algorismum vulgarem Johannis de Sacro-"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Curtze"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "{i:bosco Commentarius}, Hauniae 1897, p. 2 u. 26.",
+   "margin": null,
+   "plain": "bosco Commentarius, Hauniae 1897, p. 2 u. 26.",
+   "italic": [
+    "bosco Commentarius"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "{sup:2}) τ und {ov:0} befinden sich auch in dem {i:Prologus N. Ocreati in Helceph ad Adelardum Batensem}",
+   "margin": null,
+   "plain": "2) τ und 0 befinden sich auch in dem Prologus N. Ocreati in Helceph ad Adelardum Batensem",
+   "italic": [
+    "Prologus N. Ocreati in Helceph ad Adelardum Batensem"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-N04",
+   "n": 4,
+   "kind": "note",
+   "text": "{i:magistrum suum} (herausgeg. von C. {sp:Henry} in den Abhandlungen z. Geschichte der mathem. Wissen-",
+   "margin": null,
+   "plain": "magistrum suum (herausgeg. von C. Henry in den Abhandlungen z. Geschichte der mathem. Wissen-",
+   "italic": [
+    "magistrum suum"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Henry"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-N05",
+   "n": 5,
+   "kind": "note",
+   "text": "schaften III, p. 131 ff.). Ebenso steht im Ms. des Escurial, das {sp:Nallino} zu seiner Ausgabe {sp:Al-}",
+   "margin": null,
+   "plain": "schaften III, p. 131 ff.). Ebenso steht im Ms. des Escurial, das Nallino zu seiner Ausgabe Al-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Nallino",
+    "Al-"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-N06",
+   "n": 6,
+   "kind": "note",
+   "text": "{sp:Battānīs} benutzt hat, in den Tafeln, wenn z. B. Minuten fehlen, dafür das Zeichen {ov:0}.",
+   "margin": null,
+   "plain": "Battānīs benutzt hat, in den Tafeln, wenn z. B. Minuten fehlen, dafür das Zeichen 0.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Battānīs"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0027-N07",
+   "n": 7,
+   "kind": "note",
+   "text": "{sup:3}) {b:{i:Dak.}} = {b:{i:Dakaicae}} (v. Gloss. arab.).",
+   "margin": null,
+   "plain": "3) Dak. = Dakaicae (v. Gloss. arab.).",
+   "italic": [
+    "Dak.",
+    "Dakaicae"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "Dak.",
+    "Dakaicae"
+   ]
+  },
+  {
+   "id": "AK07-J0027-N08",
+   "n": 8,
+   "kind": "note",
+   "text": "{sup:4}) {b:{i:Then.}} = {b:{i:Theniae}} (v. Gloss. arab.).",
+   "margin": null,
+   "plain": "4) Then. = Theniae (v. Gloss. arab.).",
+   "italic": [
+    "Then.",
+    "Theniae"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "Then.",
+    "Theniae"
+   ]
+  },
+  {
+   "id": "AK07-J0027-N09",
+   "n": 9,
+   "kind": "note",
+   "text": "{sup:5}) {b:{i:P.}} = {b:{i:Puncta}} für {b:{i:Min.}}",
+   "margin": null,
+   "plain": "5) P. = Puncta für Min.",
+   "italic": [
+    "P.",
+    "Puncta",
+    "Min."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "P.",
+    "Puncta",
+    "Min."
+   ]
+  },
+  {
+   "id": "AK07-J0027-N10",
+   "n": 10,
+   "kind": "note",
+   "text": "{sup:6}) {b:{i:M.}} = {b:{i:Minuta}} für {i:Sec.}",
+   "margin": null,
+   "plain": "6) M. = Minuta für Sec.",
+   "italic": [
+    "M.",
+    "Minuta",
+    "Sec."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "M.",
+    "Minuta"
+   ]
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «XXIII» stands at the head of the page, centred, with a rule below it. At the foot, the signature «IV*» on the right.",
+  "L15, N03, N06: the three signs for zero are printed as a Greek small tau, τ, a narrow oval with a crossbar, θ, and the figure 0 with a bar above it, {ov:0} (transcribed {ov:0}). L17 «XXX0» and «XX0» and L19 «0» are the figure zero without a bar. L15: «theta ?», the question mark, upright, after a thin space of 10 px.",
+  "N07-N10: the abbreviations and their expansions are set in a heavier italic than the other italics of the notes (strokes measured on the scan: horizontal runs of ink, mean 5.3-5.6 px in «Dakaicae», «Theniae», «Puncta», «Minuta», 4.9 px in «Min.», against 4.3-4.6 px in «Prologus», «Ocreati» and «Sec.»); transcribed as bold italic, «Sec.» (N10) as italic. The distinction for «Min.» is the least certain.",
+  "Marks not transcribed: a speck at the right margin beside L07, after «oft»."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK07-CN007",
+   "class": "missing point",
+   "line": "L24",
+   "printed": "z. B",
+   "proposed": "z. B.",
+   "evidence": "the abbreviation of «zum Beispiel» is printed «z. B.» elsewhere (N06 of this page); the point after the B, at the end of the line, is not printed",
+   "confidence": "high",
+   "impact": "none"
+  }
+ ]
+}

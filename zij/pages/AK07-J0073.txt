@@ -1,0 +1,52 @@
+@page 73 41
+@lang de
+% JP2 0073: Suter's commentary, p. 41: the end of the correspondence of Tables 1-3a with Nallino's spurious tables;
+% chapter 6, the division of the sphere; chapter 7, the mean motions of the planets: the columns of the tables, the
+% node (gauzahar, draco), the names of the mean motion, the radix for Ujjain and al-Battānī's (note 1).
+@t {sp:Batt.} p. 303 | = | {sp:Kh.} Tafel 2{sup:b}
+@t „ p. 304—305 | = | „ „ 3 (Hier sind aber nur die {i:anni Romanorum}
+@t | | aufgenommen, die {i:anni Coptorum} und
+@t | | {i:Persarum} nicht (s. Einleitung)).
+@c {b:Kap. 6. Über die Einteilung der Sphäre.}
+@c (Text p. 7.)
+@p Dieses kurze Kapitel bedarf keines Kommentars.
+@c {b:Kap. 7. Über die mittlere Bewegung der Planeten.}
+@c (Text p. 7—9, Tafeln 4—20.)
+@p Dieses Kapitel mit seinen Tafeln nimmt in jedem astronomischen Werk der
+Griechen und Araber eine Hauptstelle ein. Mit ihrer Hilfe berechnet man die mittlern
+Örter der Sonne, des Mondes und der fünf Planeten, und zwar zuerst mit Hilfe der
+Kolonne {i:anni collecti} überschrieben die Örter von je 30 zu 30 Jahren, dann für die
+{i:anni plani} oder {i:singuli}, hierauf für die Monate, Tage und Stunden, ja sogar für je
+2 zu 2 Minuten ; man kann also für jeden dieser sieben Himmelskörper seine mittlere
+Länge, d. h. seinen Abstand vom Frühlingspunkt für jeden beliebigen Zeitpunkt bis
+auf zwei Minuten hinunter bestimmen. Da für die Bestimmung der Breite des Mondes
+und auch für die Astrologie die Stellung der Knoten der Mondbahn von Bedeutung
+war, so wird neben Sonne, Mond und den fünf Planeten auch die mittlere Bewegung
+des nördlichen oder aufsteigenden Mondknotens (arab. {i:al-ʿaḳd al-shamālī}) angegeben.
+In unsern Tafeln wird er mit dem persisch-arabischen Wort {i:gavzehar} (= {i:djauzahar}),
+lateinisch durch {i:draco} (besser wäre {i:caput draconis} = Drachenkopf) bezeichnet.
+@p Bei {sp:Batt.} heisst die mittlere Beweguug {i:al-masīr al-wasaṭ} (= der mittlere Lauf),
+oder auch nur {i:al-wasaṭ} (das Mittel), oder sogar nur {i:al-masīr} (Lauf, Weg, Reise) ; in
+unsern Tafeln steht teils das arabische {i:wasaṭ}, geschrieben {i:wazat} und {i:wacat}, teils
+{i:medialitas}, oder {i:mediocritas}, teils {i:medius cursus}.
+@p Der mittlere Ort ist jeweilen angegeben in Tierkreiszeichen ({i:Signa}), Graden,
+Minuten und Sekunden ; {sp:Batt.} hat die Signa in Grade verwandelt, und vernachlässigt
+die Sekunden bei den fünf Planeten, während er sie bei der Sonne und beim Monde
+ebenfalls angibt.
+@p Die {i:Radix}, die im Anfang der {i:anni collecti} verzeichnet ist, gibt, wie oben schon
+bemerkt wurde, die Länge der Planeten am Mittag des 1. {i:Muḥarram} des Jahres 1 d. H.
+für den Meridian von {i:Udjain} an ; aber wenn man auch den Längenunterschied
+zwischen {i:Udjain} (c. 75° 52′ Gr.) und {i:Raḳḳa} (c. 39° 4′ Gr.) in Rechnung bringt, so stimmt
+die Radix doch nicht mit derjenigen {sp:Batt.}’s. Unsere Tafeln haben z. B. für die Sonne
+die Radix 113° 25′ 48″, {sp:Batt.} dagegen 113° 58′ 4″ ; im Anfang des Jahres 511 d. H.
+macht der Unterschied c. 9° 15′ aus ; dies sind jedenfalls die 9°, von denen {sp:Ibn ʿEzrā}
+in der Vorrede zur Übersetzung der {i:Gründe der Tafeln des} {sp:Khwārizmī} spricht{sup:1}) ;
+@n {sup:1}) Vergl. {sp:Steinschneider} : {i:Zur Geschichte der Übersetzungen aus dem Indischen ins Arabische},
+@n in Zeitschr. d. deutschen morgenländ. Gesellsch. 24. Bd., p. 355.
+@obs The page number «41» stands at the head of the page, centred, with a rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «6» on the right; recorded here, not transcribed as a line.
+@obs L01-L04 end the correspondence of the tables begun on p. 40 (JP2 0072, L38-L40): the ditto marks „ stand under «Batt.», «Kh.» and «Tafel»; the bracketed remark after «3» runs on in two lines set under its beginning, L03-L04. Each printed row is one line here, the cells separated by our «|»; the empty cells of L03-L04 give the indentation and are not printed. L05 and L08: the headings of chapters 6 and 7, in bold, centred, each followed by the reference to the text.
+@obs L20-L26: the transliteration as printed: «al-ʿaḳd al-shamālī» (the northern node), «al-masīr al-wasaṭ», «al-wasaṭ», «al-masīr», «wasaṭ», with the ʿayn, the dots under ḳ and ṭ and the macrons; L34 «Raḳḳa» with dots under both k; L37 «Ibn ʿEzrā» spaced, with the ʿayn.
+@obs L31-L38: the radix of the sun, 113° 25′ 48″, as on p. 33 (JP2 0065, L19); al-Battānī's, 113° 58′ 4″, 32′ 16″ more. Checked: the difference of longitude between Ujjain and Raqqa, 75° 52′ less 39° 4′, 36° 48′, is a tenth of a day and about 6′ of the sun's mean motion, which leaves about 26′ between the two radices at the meridian of Raqqa, so that the radices do not agree, as the text says. The 9° 15′ at the beginning of the year 511 are to be compared with the tables of the mean motion of the sun.
+@obs N01: «Steinschneider» spaced, the colon after it after a thin space (14 px); a speck below the line between the c and the h of «Geschichte»; not transcribed. L38: «spricht1) ;», the semicolon after a thin space (12 px) after the note number.
+@obs The semicolons stand after the thin space of the edition (11-15 px measured).
+@critical AK07-CN050 | turned letter | L23 | Beweguug | Bewegung | «die mittlere Bewegung», as in L19 and the heading of chapter 7 (L08); the n before the final g is printed as u, a turned n | high | none

@@ -1,0 +1,25 @@
+{
+ "anchor": "AK05-F192",
+ "frame": 192,
+ "frame_file": "page_192.jpg",
+ "frame_sha256": "1f52812ef21ef11f6e2078b1479a3c40b8c901a7c2a5fac1941a242851134629",
+ "printed_page": "XXI",
+ "kind": "editorial",
+ "role": "MODERN_EDITORIAL (not reproduced)",
+ "comment": "Frame 192, printed p. XXI: the editor's introduction continued, in German.",
+ "lines": [],
+ "editors_notes": [],
+ "withheld": [
+  "the editor's introduction, p. XXI, in German: 29 printed lines, with the forms of the zero sign"
+ ],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Topics of the page, with the entries and notes that it cites (the introduction is read for understanding and not reproduced or paraphrased): the numerals left as the manuscript writes them; the survey of misreadings of the numeral letters begins with the sign for zero, of which the Strasbourg manuscript has a single form, a small circle with a stroke above it (written {z}).",
+  "The introduction, pp. V-XXXI, is bound in the reverse order of its pages, from p. XXXI (frame 182) to p. V (frame 208); the frames keep the physical order, and the introduction is read from frame 208 back to frame 182. This page follows p. XX (frame 193); p. XXII follows on frame 191.",
+  "The page number «— XXI —» stands at the foot, centred. The page has no footnotes."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

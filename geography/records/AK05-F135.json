@@ -1,0 +1,270 @@
+{
+ "anchor": "AK05-F135",
+ "frame": 135,
+ "frame_file": "page_135.jpg",
+ "frame_sha256": "8ae50d2a555ad88e2db3d6c25aacd04d80309c7e3c6e732de0969f21378ff68c",
+ "printed_page": "١٢٩",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 135, printed p. 129: the river from the town افاسس concluded, between the mountains سيفولس, ٮلمون and درومر, past the towns قبلوميلس and اطوما and Heraclea to the sea; a river from a spring past اٮقره; two rivers from springs, the second between the towns اماسيا and سيسماى and past تيمنا; and the Tigris, from its spring between two mountains past آمد, between بلد and Shahrazūr, between Mosul and the mountain, past Takrīt and Sāmarrā into Baghdad, past al-Madāʾin and Wāsiṭ to the marshes. The editor's running numbers (١٩٥١)-(١٩٦١) and the numbers of Suhrāb, some in pairs; the folio of the manuscript, «(fol. 39ᵃ)», within a line; words and numerals supplied by the editor between angle brackets. Six lines of the editor's footnotes and the signature of the printed sheet.",
+ "lines": [
+  {
+   "id": "AK05-F135-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "بين جبل سيفولس وجبل ٮلمون يمرّ الى مدينة قبلوميلس ويرجع فيمر فيما بين جبل",
+   "margin": null,
+   "cells": null,
+   "plain": "بين جبل سيفولس وجبل ٮلمون يمرّ الى مدينة قبلوميلس ويرجع فيمر فيما بين جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F135-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "سيفولس وجبل درومر ويمرّ الى موضع طوله {ov:يه {z}} والعرض {ov:مه {z}} (١٩٥١) [١٦٧٧ ١٩٥١]",
+   "margin": null,
+   "cells": null,
+   "plain": "سيفولس وجبل درومر ويمرّ الى موضع طوله يه ō والعرض مه ō (١٩٥١) [١٦٧٧ ١٩٥١]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F135-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "ويرجع مماسّ* لمدينة اطوما{n:a} فيما بينها وبين هرقله ويصبّ فى البحر عند طول {ov:ٮٮ م} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "ويرجع مماسّ* لمدينة اطوما فيما بينها وبين هرقله ويصبّ فى البحر عند طول ٮٮ م والعرض",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F135-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "{ov:مز {z}} (١٩٥٢) [١٦٧٨ ١٩٥٢] * نهر اوّله عين عند طول {ov:ٮو {z}} والعرض {ov:م {z}} (١٩٥٣)",
+   "margin": null,
+   "cells": null,
+   "plain": "مز ō (١٩٥٢) [١٦٧٨ ١٩٥٢] * نهر اوّله عين عند طول ٮو ō والعرض م ō (١٩٥٣)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F135-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "[١٦٧٩ ١٩٥٣] يمرّ باٮقره ويصبّ فى البحر عند طول {ov:نو كه} والعرض {ov:مط ك} (١٩٥٤) [١٦٨٠ ١٩٥٤] *",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٦٧٩ ١٩٥٣] يمرّ باٮقره ويصبّ فى البحر عند طول نو كه والعرض مط ك (١٩٥٤) [١٦٨٠ ١٩٥٤] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F135-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "نهر اوّله عين عند طول {ov:ٮو يه} والعرض {ov:لز ل} (١٩٥٥) [١٩٥٥] ومصبّه{n:b} فى البحر عند",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر اوّله عين عند طول ٮو يه والعرض لز ل (١٩٥٥) [١٩٥٥] ومصبّه فى البحر عند",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F135-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "طول {ov:نو ك} والعرض {ov:له له} (١٩٥٦) [١٩٥٦] * نهر اوّله عين عند طول {ov:ٮر {z}} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "طول نو ك والعرض له له (١٩٥٦) [١٩٥٦] * نهر اوّله عين عند طول ٮر ō والعرض",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F135-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "{ov:م ك} (١٩٥٧) [١٩٥٧] يمرّ فيما بين مدينة اماسيا ومدينة سيسماى ويمرّ بركن مدينة",
+   "margin": null,
+   "cells": null,
+   "plain": "م ك (١٩٥٧) [١٩٥٧] يمرّ فيما بين مدينة اماسيا ومدينة سيسماى ويمرّ بركن مدينة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F135-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "تيمنا ويصبّ فى البحر عند طول {ov:⟨نط كه⟩}{n:c} والعرض {ov:مح م} (١٩٥٨) [١٩٥٨] *",
+   "margin": null,
+   "cells": null,
+   "plain": "تيمنا ويصبّ فى البحر عند طول ⟨نط كه⟩ والعرض مح م (١٩٥٨) [١٩٥٨] *",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F135-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "نهر دجلة اوّلها عين عند طول {ov:سد م} والعرض {ov:لط {z}} (١٩٥٩) [١٤٨٣] ويمرّ{n:d} فيما بين",
+   "margin": null,
+   "cells": null,
+   "plain": "نهر دجلة اوّلها عين عند طول سد م والعرض لط ō (١٩٥٩) [١٤٨٣] ويمرّ فيما بين",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F135-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "جبلين عند طول {ov:سد مه} والعرض {ov:لز مه} (١٩٦٠) [١٤٨٤] ويعدل مع الجبل الى طول",
+   "margin": null,
+   "cells": null,
+   "plain": "جبلين عند طول سد مه والعرض لز مه (١٩٦٠) [١٤٨٤] ويعدل مع الجبل الى طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F135-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "{ov:سح {z}} والعرض {ov:لح {z}} (١٩٦١) [١٤٨٥] ثمّ يمرّ الى آمد{n:e} ثمّ الى بلد فيما بين بلد",
+   "margin": null,
+   "cells": null,
+   "plain": "سح ō والعرض لح ō (١٩٦١) [١٤٨٥] ثمّ يمرّ الى آمد ثمّ الى بلد فيما بين بلد",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F135-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "وشهرزور{n:f} يمرّ فيما بين الموصل والجبل ايضاً ويمرّ بتكريت{n:g} ويمرّ بسرّ من رأى ويدخل",
+   "margin": null,
+   "cells": null,
+   "plain": "وشهرزور يمرّ فيما بين الموصل والجبل ايضاً ويمرّ بتكريت ويمرّ بسرّ من رأى ويدخل",
+   "note_marks": [
+    "f",
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F135-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "بغدادَ ⟨ويخرج م⟩{n:h}نها فيمرّ بالمدائن ويمرّ بو⟨اسط⟩{n:h} من ناحية حلوان ثمّ يصير الى",
+   "margin": null,
+   "cells": null,
+   "plain": "بغدادَ ⟨ويخرج م⟩نها فيمرّ بالمدائن ويمرّ بو⟨اسط⟩ من ناحية حلوان ثمّ يصير الى",
+   "note_marks": [
+    "h",
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F135-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "البطائح * م⟨. . .⟩{n:i} البطائح مقدار جزء وسط البطائح عند طول {ov:عح {z}}",
+   "margin": "(fol. 39ᵃ)",
+   "cells": null,
+   "plain": "البطائح * م⟨. . .⟩ البطائح مقدار جزء وسط البطائح عند طول عح ō",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+   ],
+   "lines": 6,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L03: a variant reading of the name is الوما (note a).",
+  "L06: the manuscript reads ومصب (note b).",
+  "L09: the manuscript has a gap at the numerals between the brackets; the editor supplies them after S (note c).",
+  "L10: the manuscript dots the verb here and again later with the ي of the masculine, although «اوّلها» treats the river as feminine; S has the same (note d).",
+  "L12: the manuscript reads امد, with بلد written above it; the town آمد is not in the table of the cities; the editor compares Suhrāb [١٧٥] (note e).",
+  "L13: above شهرزور the manuscript has the word جبل (note f).",
+  "L13: the town تكريت is not in the table of the cities; the editor compares Suhrāb [٢٧١] (note g).",
+  "L14: the manuscript has a gap at the words between the brackets; the editor supplies them (note h).",
+  "L15: the manuscript has a gap between the brackets; the editor suggests مقدار (note i)."
+ ],
+ "unresolved": [
+  "L14: the stroke above the final د of «بغدادَ» may be a speck: بغداد. Transcribed بغدادَ.",
+  "L07: the notched form may also be read as a single ر whose head is split, ر, 7. Transcribed ٮر."
+ ],
+ "observations": [
+  "The river from the town افاسس goes on from p. 128 (frame 134), whose last words, «نهر يخرج من مدينة افاسس عند طول نا ل والعرض لز م (١٩٥٠) [١٦٧٦ ١٩٥٠] يمرّ فيما», L01 continues: «بين جبل سيفولس وجبل ٮلمون يمرّ الى مدينة قبلوميلس ويرجع فيمر فيما بين جبل سيفولس وجبل درومر», it passes between the mountain سيفولس and the mountain ٮلمون, passes to the town قبلوميلس, turns back and passes between the mountain سيفولس and the mountain درومر; «ويمرّ الى موضع طوله يه {z} والعرض مه {z} (١٩٥١)», and it passes to a place whose longitude is يه ō and the latitude 45° 0′; «ويرجع مماسّ* لمدينة اطوما فيما بينها وبين هرقله ويصبّ فى البحر عند طول ٮٮ م والعرض مز {z} (١٩٥٢) *», and it turns back, touching the town اطوما, between it and Heraclea, and flows into the sea at the longitude ٮٮ م and the latitude 47° 0′.",
+  "The mountains are entries 847-848, «جبل سڡولس», 851-852, «جبل كلمون», and 849-850, «جبل درومن», of the table of the mountains (frame 064, L06, L08, L07); the editor's notes c and d there give the forms of this entry (1951), سيفولس and درومر, and none for the second mountain, which is printed here «ٮلمون»: a tooth without a dot, 7 px wide and 18 px above the line, joined to the ل, then the م, the و and the final ن with its dot. The towns are entries 455, «ملوميلين» (frame 037, L11), where the editor's note g gives the form of this entry (1951), قبلوميلس; 487, «اطورما» (frame 039, L15), where the editor's note f gives the form of this entry (1952), اطوما, with the variant reading الوما; and 486, «هرقله» (frame 039, L14), at the longitude 53° 25′ and the latitude 46° 35′.",
+  "L01: «فيمر» has no shadda, where «يمرّ» before it has one. «مماسّ*» (L03): an asterisk with six solid arms stands after the word, raised like the note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (frame 046, L10).",
+  "L04-L05: «نهر اوّله عين عند طول ٮو {z} والعرض م {z} (١٩٥٣)», a river whose beginning is a spring at the longitude ٮو ō and the latitude 40° 0′; «يمرّ باٮقره ويصبّ فى البحر عند طول نو كه والعرض مط ك (١٩٥٤) *», it passes اٮقره and flows into the sea at the longitude 56° 25′ and the latitude 49° 20′. The town is entry 491 of the table of the cities (frame 040, L04), «انقزه», at the longitude 58° 0′ and the latitude 48° 0′, where the editor's note c gives the form of this entry (1954), اٮقره; here «باٮقره» with the dot of the ب and the two dots of the ق, the tooth after the alif without a dot.",
+  "L06-L07: «نهر اوّله عين عند طول ٮو يه والعرض لز ل (١٩٥٥) ومصبّه فى البحر عند طول نو ك والعرض له له (١٩٥٦) *», a river whose beginning is a spring at the longitude ٮو يه and the latitude 37° 30′, and its mouth in the sea at the longitude 56° 20′ and the latitude 35° 35′.",
+  "L07-L09: «نهر اوّله عين عند طول ٮر {z} والعرض م ك (١٩٥٧)», a river whose beginning is a spring at the longitude ٮر ō and the latitude 40° 20′; «يمرّ فيما بين مدينة اماسيا ومدينة سيسماى ويمرّ بركن مدينة تيمنا ويصبّ فى البحر عند طول ⟨نط كه⟩ والعرض مح م (١٩٥٨) *», it passes between the town اماسيا and the town سيسماى, passes the corner of the town تيمنا and flows into the sea at the longitude ⟨59° 25′⟩ and the latitude 48° 40′. The towns are entries 456, «اماسا» (frame 037, L12), at the longitude ٮر ل; 457, «سٮسمانى» (frame 037, L13); and 490, «قيمنا» (frame 040, L03); the editor's notes there give the forms of this entry (1958), اماسيا, سيسماى and تيمنا. «سيسماى» ends in a ى without dots.",
+  "L10-L12: «نهر دجلة اوّلها عين عند طول سد م والعرض لط {z} (١٩٥٩)», the river Tigris, whose beginning is a spring at the longitude 64° 40′ and the latitude 39° 0′; «ويمرّ فيما بين جبلين عند طول سد مه والعرض لز مه (١٩٦٠)», and it passes between two mountains at the longitude 64° 45′ and the latitude 37° 45′; «ويعدل مع الجبل الى طول سح {z} والعرض لح {z} (١٩٦١)», and it turns with the mountain to the longitude 68° 0′ and the latitude 38° 0′. The numbers of Suhrāb of the three points are [١٤٨٣]-[١٤٨٥], out of the sequence of the page.",
+  "L12-L15: «ثمّ يمرّ الى آمد ثمّ الى بلد فيما بين بلد وشهرزور يمرّ فيما بين الموصل والجبل ايضاً ويمرّ بتكريت ويمرّ بسرّ من رأى ويدخل بغدادَ ⟨ويخرج م⟩نها فيمرّ بالمدائن ويمرّ بو⟨اسط⟩ من ناحية حلوان ثمّ يصير الى البطائح *», then it passes to Āmid, then to Balad, between Balad and Shahrazūr; it passes between Mosul and the mountain also, passes Takrīt, passes Surra man raʾā and enters Baghdad, ⟨goes out of it⟩ and passes al-Madāʾin, and passes ⟨Wāsiṭ⟩ on the side of Ḥulwān; then it comes to the marshes. The towns are entries of the table of the cities: Balad, 373 (frame 032, L06), where the editor records that the manuscript writes the name without the dot of the ب, there and at entry (1962); Shahrazūr, 375 (frame 032, L08); Mosul, 295 (frame 027, L09); Surra man raʾā, 301; Baghdad, 300; Wāsiṭ, 302; al-Madāʾin, 303 (frame 027, L15, L14, L16, L17); Ḥulwān, 306 (frame 028, L03). The editor's notes e and g record that Āmid and Takrīt are not in the table.",
+  "L15: «البطائح * م⟨. . .⟩ البطائح مقدار جزء وسط البطائح عند طول عح {z}», the marshes; ⟨…⟩ of the marshes is one degree; the middle of the marshes is at the longitude 78° 0′, continued on p. 130. «م⟨. . .⟩»: the م is printed in its joining form before the opening bracket, and three spaced dots stand between the brackets, followed by the note mark i, in which the editor suggests مقدار.",
+  "L14: «بغدادَ»: a short stroke, 14 by 5 px, stands above the final د, in the place of a fatha; transcribed as a fatha. «⟨ويخرج م⟩نها»: the م is printed in its joining form within the brackets and «نها» follows the closing bracket and the note mark h; «بو⟨اسط⟩»: «بو» stands before the opening bracket.",
+  "L15: the folio of the Strasbourg manuscript, «(fol. 39ᵃ)», is printed in Latin type within the line, between the note mark i and the second «البطائح»; transcribed as a margin note before the line.",
+  "Angle brackets, each followed by a note mark, around what the editor supplies: «⟨نط كه⟩» (L09), within the line over the numerals, note c; «⟨ويخرج م⟩» (L14) and «⟨اسط⟩» (L14), note h; «⟨. . .⟩» (L15), a gap that the editor leaves unfilled, note i. Transcribed with the brackets.",
+  "Numerals: «مه {z}» (L02), 45° 0′; «مز {z}» (L04), with the dot of the ز, 47° 0′; «م {z}» (L04), 40° 0′; «نو كه» (L05), with the dot of the ن, 56° 25′, the minutes printed close to the degrees under one line; «مط ك» (L05), 49° 20′; «لز ل» (L06), with the dot of the ز, 37° 30′; «نو ك» (L07), 56° 20′; «له له» (L07), 35° 35′; «م ك» (L08), 40° 20′; «⟨نط كه⟩» (L09), 59° 25′; «مح م» (L09), 48° 40′; «سد م» (L10), 64° 40′; «لط {z}» (L10), 39° 0′; «سد مه» (L11), 64° 45′; «لز مه» (L11), 37° 45′; «سح {z}» (L12), 68° 0′; «لح {z}» (L12), 38° 0′; «عح {z}» (L15), 78° 0′.",
+  "L02: «يه {z}», the degrees of the longitude: a tooth joined to a final ه, with the two dots of the ي printed run together into one stroke of 19 by 10 px below the tooth, 15° 0′. L06: «ٮو يه»: the minutes «يه» have the two dots of the ي run together in the same way, 18 by 10 px, 15.",
+  "Without their dots, transcribed so: «ٮٮ» (L03), the degrees of the longitude: a tooth without a dot, 20 px above the joining stroke, joined to the flat final bowl of a ب without its dot, 65 px wide, where the isolated ب of the numerals is a flat bowl whose right end rises only a little (frame 132, L07); read as نب it gives 52, beside the longitude 53° 25′ of Heraclea, read as يب 12. «ٮو» (L04, L06), a tooth without its dot joined to a و, which read as نو gives 56, as «نو» of L05 and L07 with the dot, read as يو 16. «ٮر» (L07), the notched form of frame 041 (L06), a short tooth without a dot joined to a ر, the two forming a notch at the top; in these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); read as نز it gives 57, beside the longitude ٮر ل of the town اماسيا, read as يز 17.",
+  "The ح of the numerals, «مح» (L09), «سح» (L12) and «لح» (L12), shows no dot in the bowl. The isolated ك, 20, is printed with the small inner stroke of the letter (L05, L07, L08).",
+  "Signs in the text, transcribed as printed: «يمرّ» (L01, L08, L12, L13), «ويمرّ» (L02, L08, L10, L13, twice; L14) and «فيمرّ» (L14) with a shadda over the ر, where «فيمر» (L01) has none; «مماسّ» (L03) with a shadda over the س; «ويصبّ» (L03, L05, L09) and «ومصبّه» (L06) with a shadda over the ب; «اوّله» (L04, L06, L07) and «اوّلها» (L10) with a shadda over the و; «ثمّ» (L12, twice; L14) with a shadda; «بسرّ» (L13) with a shadda over the ر and «رأى» with a hamza over the alif; «آمد» (L12) with a madda over the alif; «ايضاً» (L13) with the tanwin of the accusative over its alif; «البطائح» (L15, three times) with a hamza on the tooth; «جزء» (L15) with a hamza on the line; «فى», «الى» and «رأى» end in a ى without dots.",
+  "The running numbers run (١٩٥١)-(١٩٦١) without a gap. The numbers of Suhrāb: after (١٩٥١)-(١٩٥٤), two numbers in one pair of square brackets, one above the other, [١٦٧٧ ١٩٥١], [١٦٧٨ ١٩٥٢], [١٦٧٩ ١٩٥٣] and [١٦٨٠ ١٩٥٤], transcribed upper number first; after (١٩٥٥)-(١٩٥٨) the same numbers, [١٩٥٥]-[١٩٥٨]; after (١٩٥٩)-(١٩٦١) [١٤٨٣]-[١٤٨٥]. [١٦٧٩ ١٩٥٣] stands at the beginning of L05, after the running number (١٩٥٣) at the end of L04.",
+  "Asterisks: the small open stars with six points, after [١٦٧٨ ١٩٥٢] (L04), [١٦٨٠ ١٩٥٤] (L05), [١٩٥٦] (L07), [١٩٥٨] (L09) and after the first «البطائح» (L15), are transcribed as asterisks; the editor's asterisk after «مماسّ» (L03) is transcribed after the word.",
+  "Note marks: L03, a after «اطوما»; L06, b after «ومصبّه»; L09, c after the closing bracket of the longitude; L10, d after «ويمرّ»; L12, e after «آمد»; L13, f after «وشهرزور» and g after «بتكريت»; L14, h after the closing brackets of «⟨ويخرج م⟩» and «⟨اسط⟩»; L15, i after the closing bracket.",
+  "Marks not transcribed: L01, a thin broken line through «ويرجع», running down to the left, a crease of the paper; L03 and L04, many small specks of the impression around the numerals; L06, a round dot of 9 by 10 px between the latitude and the opening parenthesis of (١٩٥٥), at mid-height.",
+  "The editor's footnotes stand in six lines below a short rule at the left: notes a-i. Below them, at the left, the signature «9» of the printed sheet; the page number «— ١٢٩ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

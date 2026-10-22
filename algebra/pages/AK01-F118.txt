@@ -1,0 +1,46 @@
+@page 118 ١٠٢
+% Frame 118, printed p. 102: the problem of frame 117 worked (a slave-girl worth a hundred freed in illness; a
+% slave-girl worth five hundred, her bride-price a hundred, given to a man who had intercourse with her; a quarter of
+% the property bequeathed): the heirs hold six hundred less a thing and thirty-eight fortieths of a thing, twice the
+% bequests; half of it, three hundred less thirty-nine fortieths of a thing, equals the hundred, two things and
+% twenty-nine fortieths: the thing seventy-three and forty-three hundred-and-ninths. Then, under the bold heading
+% «باب العقر فى الدور», the chapter of the bride-price in the cycle: a man gives in his last illness his only property,
+% a slave-girl worth three hundred, her bride-price a hundred, to a man who has intercourse with her: the giver's heirs
+% hold four hundred less a thing and a third, twice the gift: the gift a hundred and twenty. Then, under «فان قال» in
+% bold, the giver himself has intercourse with her; begun, continued on the next page. The values check exactly. No
+% footnote on this page.
+شىء فيبقى خمسمائة درهم غير شىء وأخذوا العقر مائة درهم غير خمس شىء
+فصار فى أيدى الورثة ستمائة درهم غير شىء وخمس شىء ثم تعزل وصية
+صاحب الربع ثلاثة أرباع شىء لأن الثلث اذاكان شيئا فالربع ثلاثة أرباعه فيبقى
+ستمائة درهم غير شىء وثمانية وثلاثين جزءاً من أربعين جزءاً من شىء وذلك
+مثلا الوصية فنصف ذلك يعدل وصاياهم وهى ثلثمائة درهم غير تسعة وثلاثين
+جزءاً من أربعين جزءاً من شىء فاجبر ذلك بهذه الأجزاء فيكون ثلثمائة درهم
+تعدل مائة درهم وشيئين وتسعة وعشرين جزءاً من أربعين جزءا من شىء
+فاطرح مائة بمائة فتبقى مائتا درهم تعدل شيئين وتسعة وعشرين جزءاً من
+أربعين جزءا من شىء فقابل به فيكون الشىء يعدل ثلاثة وسبعين درهماً
+وثلاثة وأربعين جزءا من مائة وتسعة أجزاء من درهم . {b:باب العقر فى الدور} .
+رجل وهب لرجل جارية فى مرض موته ولا مال له غيرها ثم مات وقيمتها
+ثلثمائة درهم وعقرها مائة درهم فوطئها الرجل الموهوب له . فقياسه أن تجعل
+الوصية للموهوب له الجارية شيئا وانتقص من الهبة ثلثمائة غير شىء ويرجع
+الى ورثة الواهب ثلث الانتقاص للعقر لأن العقر ثلث القيمة وذلك مائة
+درهم غير ثلث شىء فصار فى أيدى ورثة الواهب اربعمائة غير شىء وثلث شىء
+وذلك مثلا الوصية التى هى شىء وذلك شيئان فاجبر الاربعمائة بشىء وثلث شىء
+وزده على الشيئين فيكون أربعمائة تعدل ثلاثة أشياء وثلث شىء فالشىء من
+ذلك ثلاثة أعشاره وهو مائة وعشرون درهما وهى الوصية . {b:فان قال} وهبها
+فى مرضه وقيمتها ثلثمائة وعقرها مائة فوطئها الواهب ثم مات . فقياسه
+أن تجعل الوصية شيئا والمنتقص ثلثمائة غير شىء فوطئها الواهب فلزمه العقر
+وهو ثلث الوصية لأن العقر ثلث القيمة وهو ثلث شىء فصار فى أيدى ورثة
+الواهب ثلثمائة غير شىء وثلث شىء وذلك مثلا الوصية التى هى شىء وهو شيئان
+@obs L01: «شىء فيبقى خمسمائة درهم» (L01) goes on from the last words of frame 117, «والوصية من ذلك» (frame 117, L22): the gift is a thing of the five hundred, and five hundred less a thing remain.
+@obs L10: the words باب العقر فى الدور (L10), the heading of the chapter of the bride-price in the cycle, are printed in a bold face, run in after a full stop and followed by one at the end of the line; L11, the first problem of the chapter, is not indented. The bold ر of العقر is set below the baseline, 21 px from فى (nearest approach of the ink at 400 ppi). L18: the words فان قال (L18), the run-in heading of the next problem, are printed in a bold face, after a full stop; وهبها, which follows, is in the face of the text. The two dots of the bold ق of قال are printed as one mark, 16 px wide and 133 px of ink, where the dot of the bold ف of فان is 10 px wide and 77 px of ink. The bold ن is printed without its dot; transcribed ن.
+@obs L10: over the alif before the final hamza of أجزاء stands a short thin stroke, 9 px wide and 15 px of ink, at the top of the alif, far smaller than the madda of the font (آخر, frame 116, L20, 36 px wide); it is not transcribed as a madda. الأجزاء in L06 has nothing over the alif.
+@obs L12: the final ب of الموهوب is printed with the end of its stroke broken off, 6 px from the rest of the letter; the end stands 21 px from له and is not a comma.
+@obs Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): اذاكان (L03; 6 between the alif and the ك, as ماكان and واذاكان on frames 029, 035, 043 and 072, 5 to 7, where هذا كان and جمعتهما كان have 21 and 25).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: اربعمائة غير (L15; 17 between the ة and the غ), at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one; شىء وثلث (L15; 16 between the hamza on the line and the conjunction و) and شىء وهو (L22; 16), where the hamza stands 2 to 11 px from the next letter without a space and 15 or more with one; in doubt, the space is written.
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: أرباع شىء (12), أرباعه فيبقى (L03; 9), وثلث شىء (L16; 11), الشيئين فيكون (L17; 7), ثلث شىء (L21; 11).
+@obs The full stops (gaps as the nearest approach of the ink at 400 ppi): after درهم, before the bold باب (L10; 28 and 27), after له, before فقياسه (L12; 29 and 22), after الوصية, before the bold فان (L18; 28 and 23), and after مات, before فقياسه (L19; 44 and 52), between spaces; after the bold الدور, ending L10 (25 px after the word).
+@obs Plain alif where a hamza might be expected, as printed: اذاكان (L03), فاجبر (L06, L16), فاطرح (L08), وانتقص (L13), الى (L14), اربعمائة (L15), الاربعمائة (L16); with hamza: وأخذوا (L01), أيدى (L02, L15, L21), أرباع, لأن, أرباعه (L03), أربعين (L04, L06, L07, L09), الأجزاء (L06), وأربعين, أجزاء (L10), أن (L12, L20), لأن (L14, L21), أربعمائة, أشياء (L17), أعشاره (L18); on ي: خمسمائة (L01), مائة (L01, L07, L08, L10, L12, L14, L18, L19), ستمائة (L02, L04), شيئا (L03, L13, L20), ثلثمائة (L05, L06, L12, L13, L19, L20, L22), وشيئين (L07), بمائة, مائتا, شيئين (L08), فوطئها (L12, L19, L20), اربعمائة (L15), شيئان (L16, L22), الاربعمائة (L16), الشيئين, أربعمائة (L17); the hamza on the line: شىء (L03, L06, L07, L09, L13, L17, L20, L21; L02, L04, L16, twice; L01, L15, L22, three times), جزءاً (L07, L08; L04, L06, twice), الأجزاء (L06), جزءا (L07, L09, L10), الشىء (L09), أجزاء (L10), بشىء (L16), أشياء, فالشىء (L17).
+@obs With tanwīn on the final alif: جزءاً (L07, L08; L04, L06, twice), درهماً (L09); without tanwīn as printed: شيئا (L03, L13, L20), جزءا (L07, L09, L10), درهما (L18).
+@obs L05, L08, L16, L22: «مثلا الوصية» (L05, L16, L22) and «مائتا درهم» (L08), as printed: the dual without its ن before the noun that follows it, as on frames 094-117.
+@obs The final yā' is printed without dots: فيبقى (L01, L03), فى (L02, L11, L15, L19, L21), the bold فى (L10), أيدى (L02, L15, L21), وهى (L05, L18), فتبقى (L08), الى (L14), التى, هى (L16, L22), على (L17).
+@obs The print stretches أشياء (L17, between the ش and the ي), وقيمتها and فوطئها (L19, between the ه and the alif) and فوطئها (L20, between the ه and the alif) with the elongation stroke; the stroke is not transcribed.

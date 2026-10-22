@@ -1,0 +1,4 @@
+@page 30 -
+@kind blank
+% Frame 030: the back of the last printed leaf, p. [24]; nothing printed. The last frame of the digitization.
+@obs Blank: the back of p. 23, without a page number. The text of p. 23 shows through in mirror image; brown spots of foxing near the edges. This is the last of the 30 frames of the digitization; there is no image of a back wrapper or cover.

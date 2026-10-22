@@ -1,0 +1,716 @@
+{
+ "anchor": "AK07-J0110",
+ "jp2_index": 110,
+ "jp2_member": "b24872489_0110.jp2",
+ "jp2_sha256": "6f4795568076b0e2af3d9700b3f837c69664931e1fef317fe71955c8b3c5f622",
+ "reading_copy": "page_0110.jpg",
+ "reading_copy_sha256": "315aba99eac108bb8307bedf37a284ba1360a593a1830e06914f73c3e79e0412",
+ "printed_page": "78",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0110: Suter's commentary, p. 78: the end of chapters 28-28b (Abū’l-Wafāʾ and the tangent tables); chapter 29, el-buht, the true hourly motions of the sun and the moon in Tables 61-66; chapters 30 and 30a, the apparent diameters of the sun and the moon, begin (notes 1-6).",
+ "lines": [
+  {
+   "id": "AK07-J0110-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "Cotangente ist“{sup:1}), so ist es doch so viel als gewiss, dass weder er selbst noch irgend",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Cotangente ist“1), so ist es doch so viel als gewiss, dass weder er selbst noch irgend",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "einer seiner Nachfolger diese Vereinfachung praktisch durchgeführt hat. Allerdings",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "einer seiner Nachfolger diese Vereinfachung praktisch durchgeführt hat. Allerdings",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "sagt {sp:Carra de Vaux}, {sp:Abū’l-Wefā} habe eine Tafel für Tangens und Cotangens",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sagt Carra de Vaux, Abū’l-Wefā habe eine Tafel für Tangens und Cotangens",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Carra de Vaux",
+    "Abū’l-Wefā"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "sowohl für den Radius 1 als auch für den Radius 60 aufgestellt, allein dies steht nicht",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "sowohl für den Radius 1 als auch für den Radius 60 aufgestellt, allein dies steht nicht",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "ganz fest, die Tafeln sind leider verloren gegangen, aber wenn auch solche Tafeln",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ganz fest, die Tafeln sind leider verloren gegangen, aber wenn auch solche Tafeln",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "einmal vorhanden waren, so wurden sie nachher gewiss nie mehr benutzt.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "einmal vorhanden waren, so wurden sie nachher gewiss nie mehr benutzt.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L07",
+   "n": 7,
+   "kind": "centre",
+   "text": "{b:Kap. 29. Über elbuht und seine Auffindung.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kap. 29. Über elbuht und seine Auffindung.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "Kap. 29. Über elbuht und seine Auffindung."
+   ]
+  },
+  {
+   "id": "AK07-J0110-L08",
+   "n": 8,
+   "kind": "centre",
+   "text": "(Text p. 22, Tafeln 61—66.)",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(Text p. 22, Tafeln 61—66.)",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L09",
+   "n": 9,
+   "kind": "indent",
+   "text": "Unter {i:el-buht} verstanden die arabischen und besonders die persischen{sup:2}) Astro-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Unter el-buht verstanden die arabischen und besonders die persischen2) Astro-",
+   "italic": [
+    "el-buht"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "nomen die wahre oder ungleiche Bewegung der Sonne, des Mondes und der Planeten",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nomen die wahre oder ungleiche Bewegung der Sonne, des Mondes und der Planeten",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "in einem Tage ; das Wort kommt vom indischen {i:bhukti,} das wörtlich „der Genuss,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "in einem Tage ; das Wort kommt vom indischen bhukti, das wörtlich „der Genuss,",
+   "italic": [
+    "bhukti,"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "die Freude“ bedeutet{sup:3}), und das im Persischen in {i:buht} überging, und so von den",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die Freude“ bedeutet3), und das im Persischen in buht überging, und so von den",
+   "italic": [
+    "buht"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "Arabern übernommen wurde{sup:4}).",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Arabern übernommen wurde4).",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L14",
+   "n": 14,
+   "kind": "indent",
+   "text": "Bekanntlich ist die Bewegung der Planeten eine ungleichförmige, im Perigeum",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Bekanntlich ist die Bewegung der Planeten eine ungleichförmige, im Perigeum",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "schneller als im Apogeum, wir finden also bei 180° Anomalie die grösste, bei 0° die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "schneller als im Apogeum, wir finden also bei 180° Anomalie die grösste, bei 0° die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "geringste wahre Bewegung. Unsere Tafeln 61—66 sind also leicht zu verstehen :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "geringste wahre Bewegung. Unsere Tafeln 61—66 sind also leicht zu verstehen :",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "Die Kolonne {i:semitae numerorum} überschrieben enthält die Anomalien von 0°—180°",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Die Kolonne semitae numerorum überschrieben enthält die Anomalien von 0°—180°",
+   "italic": [
+    "semitae numerorum"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "(bezw. 360°—180°), die zweite Kolonne die wahre Bewegung der Sonne in einer Stunde,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(bezw. 360°—180°), die zweite Kolonne die wahre Bewegung der Sonne in einer Stunde,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "die dritte Kolonne die des Mondes in einer Stunde{sup:5}). Für die Sonne ist das Mini-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "die dritte Kolonne die des Mondes in einer Stunde5). Für die Sonne ist das Mini-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "mum der Bewegung 2′ 22″, das Maximum 2′ 34″, für den Mond dagegen 30′ 12″,",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mum der Bewegung 2′ 22″, das Maximum 2′ 34″, für den Mond dagegen 30′ 12″,",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "bezw. 35′ 40″ ; {sp:Batt.} (l. c.) hat die Werte 2′ 23″, 2′ 33″ für die Sonne, 30′ 18″, 36′ 4″",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bezw. 35′ 40″ ; Batt. (l. c.) hat die Werte 2′ 23″, 2′ 33″ für die Sonne, 30′ 18″, 36′ 4″",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "für den Mond.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "für den Mond.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L23",
+   "n": 23,
+   "kind": "centre",
+   "text": "{b:Kap. 30. u. 30{sup:a}. Über die scheinbaren Sonnen- und Monddurchmesser.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kap. 30. u. 30a. Über die scheinbaren Sonnen- und Monddurchmesser.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "Kap. 30. u. 30a. Über die scheinbaren Sonnen- und Monddurchmesser."
+   ]
+  },
+  {
+   "id": "AK07-J0110-L24",
+   "n": 24,
+   "kind": "centre",
+   "text": "(Text p. 22—23, Tafeln 61—66.)",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(Text p. 22—23, Tafeln 61—66.)",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L25",
+   "n": 25,
+   "kind": "indent",
+   "text": "Die scheinbaren Sonnen- und Monddurchmesser nennt {sp:Kh.} {i:quantitas rotae solis,}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Die scheinbaren Sonnen- und Monddurchmesser nennt Kh. quantitas rotae solis,",
+   "italic": [
+    "quantitas rotae solis,"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L26",
+   "n": 26,
+   "kind": "text",
+   "text": "bezw. {i:rotae lunae.} Diese Durchmesser ändern sich natürlich mit der Entfernung",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bezw. rotae lunae. Diese Durchmesser ändern sich natürlich mit der Entfernung",
+   "italic": [
+    "rotae lunae."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L27",
+   "n": 27,
+   "kind": "text",
+   "text": "dieser Himmelskörper von der Erde. Während nun {sp:Batt.} sich damit begnügt, die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dieser Himmelskörper von der Erde. Während nun Batt. sich damit begnügt, die",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L28",
+   "n": 28,
+   "kind": "text",
+   "text": "maximale, mittlere und minimale Grösse dieser Durchmesser anzugeben{sup:6}), gibt sich",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "maximale, mittlere und minimale Grösse dieser Durchmesser anzugeben6), gibt sich",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "{sp:Kh.} die Mühe, diese Grössen für jeden Grad der Anomalie von 0°—180° zu bestimmen.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kh. die Mühe, diese Grössen für jeden Grad der Anomalie von 0°—180° zu bestimmen.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "In den Kolonnen 4 u. 5 der Tafeln 61—66 gibt er die scheinbaren Halbmesser ({i:dimi-}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "In den Kolonnen 4 u. 5 der Tafeln 61—66 gibt er die scheinbaren Halbmesser (dimi-",
+   "italic": [
+    "dimi-"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "{i:dium rotae solis vel lunae}) von Sonne und Mond für die verschiedenen Anomalien.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "dium rotae solis vel lunae) von Sonne und Mond für die verschiedenen Anomalien.",
+   "italic": [
+    "dium rotae solis vel lunae"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "Es treten hier wiederum konstante Faktoren auf, mit denen er die wahren {i:täglichen}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Es treten hier wiederum konstante Faktoren auf, mit denen er die wahren täglichen",
+   "italic": [
+    "täglichen"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Vergl. {sp:Carra de Vaux}, {i:L’Almageste d’Aboul-Wéfa}, im {i:Journal asiatique}, Série 8, T. XIX,",
+   "margin": null,
+   "plain": "1) Vergl. Carra de Vaux, L’Almageste d’Aboul-Wéfa, im Journal asiatique, Série 8, T. XIX,",
+   "italic": [
+    "L’Almageste d’Aboul-Wéfa",
+    "Journal asiatique"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Carra de Vaux"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "p. 420.",
+   "margin": null,
+   "plain": "p. 420.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "{sup:2}) {sp:Ulūgh Beg} gebraucht den Ausdruck in seinen Tafeln.",
+   "margin": null,
+   "plain": "2) Ulūgh Beg gebraucht den Ausdruck in seinen Tafeln.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ulūgh Beg"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-N04",
+   "n": 4,
+   "kind": "note",
+   "text": "{sup:3}) {i:Sūrya-Siddhānta}, transl. {sp:Burgess}, p. 158 : „{i:When a planet has} {i:{sp:enjoyed}} {i:the whole troop}",
+   "margin": null,
+   "plain": "3) Sūrya-Siddhānta, transl. Burgess, p. 158 : „When a planet has enjoyed the whole troop",
+   "italic": [
+    "Sūrya-Siddhānta",
+    "When a planet has",
+    "enjoyed",
+    "the whole troop"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Burgess",
+    "enjoyed"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-N05",
+   "n": 5,
+   "kind": "note",
+   "text": "{i:of asterisms, it has made a complete revolution.}",
+   "margin": null,
+   "plain": "of asterisms, it has made a complete revolution.",
+   "italic": [
+    "of asterisms, it has made a complete revolution."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-N06",
+   "n": 6,
+   "kind": "note",
+   "text": "{sup:4}) {sp:Batt.} kennt das Wort nicht, oder gebraucht es nicht, vergl. I, XLIII und II, 324.",
+   "margin": null,
+   "plain": "4) Batt. kennt das Wort nicht, oder gebraucht es nicht, vergl. I, XLIII und II, 324.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-N07",
+   "n": 7,
+   "kind": "note",
+   "text": "{sup:5}) Für die fünf Planeten fehlen die entsprechenden Tafeln, wie auch bei {sp:Batt.}, für Sonne",
+   "margin": null,
+   "plain": "5) Für die fünf Planeten fehlen die entsprechenden Tafeln, wie auch bei Batt., für Sonne",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-N08",
+   "n": 8,
+   "kind": "note",
+   "text": "und Mond gibt letzterer sie nur für Anomalien von je 6° zu 6° an, vergl. II, 88.",
+   "margin": null,
+   "plain": "und Mond gibt letzterer sie nur für Anomalien von je 6° zu 6° an, vergl. II, 88.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0110-N09",
+   "n": 9,
+   "kind": "note",
+   "text": "{sup:6}) Ed. {sp:Nallino}, I, 58.",
+   "margin": null,
+   "plain": "6) Ed. Nallino, I, 58.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Nallino"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «78» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «Cotangente ist“» ends the quotation of Abū’l-Wafāʾ begun on p. 77 (JP2 0109, L33-L35). L07-L08 and L23-L24: the headings of chapters 29 and 30-30a, in bold, centred, each with the reference to the text below it; «30a», the a raised; L07 «elbuht» in the bold of the heading.",
+  "L09-L13: «el-buht», «bhukti», «buht» in italics; the Sanskrit bhukti, enjoyment, the daily motion of a planet. N03: the English of Burgess's translation in italics, «enjoyed» letter-spaced in the italics.",
+  "L14-L22. Checked: the hourly true motions are symmetric about the mean ones: the sun 2′ 28″ ± 6″ (the mean 2′ 27″ 50‴, p. 65, JP2 0097, L21), the moon 32′ 56″ ± 2′ 44″; 2′ 27″ 50‴ × (1 ∓ sin 2° 14′) = 2′ 22.0″ and 2′ 33.6″, with the greatest solar equation of p. 45 (JP2 0077, L07). Al-Battānī's values follow from his eccentricity of the sun, 2p 4¾′, and his lunar epicycle of 5p 15′ (p. 46, JP2 0078, L05): 2′ 27.8″ × 60 : 62;4,45 = 2′ 22.9″ and × 60 : 57;55,15 = 2′ 33.1″; 32′ 56″ − 32′ 40″ · 5;15 : 65;15 = 30′ 18.3″ and 32′ 56″ + 32′ 40″ · 5;15 : 54;45 = 36′ 4.0″, the hourly motion in anomaly being 32′ 40″ (p. 24, JP2 0056). The values of Tables 61-66 are to be compared with the tables.",
+  "L15: the degree sign of «0°» is printed broken, open on its right side; L30: a dark blot over the first i of «dimi-»; L29: a speck after the full stop of «bestimmen.»; not transcribed. L21: «(l. c.)», al-Battānī's table of II, 88 (note 5).",
+  "The dashes: L08 «61—66» (35 px) and L24 «22—23» and «61—66» (36 and 44 px) in the small type of the references; L16 «61—66», L17 «0°—180°», L18 «360°—180°», L29 «0°—180°» and L30 «61—66» the long dash of the text (41-50 px), set close.",
+  "Spaced type, marked {sp:}: «Carra de Vaux», «Abū’l-Wefā», «Batt.», «Kh.», «Ulūgh Beg», «Burgess», «Nallino»; italics: «el-buht», «bhukti,», «buht», «semitae numerorum», «quantitas rotae solis,», «rotae lunae.», «dimidium rotae solis vel lunae», «täglichen», the titles of N01, «Sūrya-Siddhānta», the English of N04-N05.",
+  "The colons and semicolons stand after the thin space of the edition (10-13 px measured; «p. 158 :» in N04, 12 px)."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK07-CN061",
+   "class": "missing quotation mark",
+   "line": "N05",
+   "printed": "complete revolution.",
+   "proposed": "complete revolution.“",
+   "evidence": "the quotation opened by „ before «When» in N04 is not closed; the other quotations of the commentary close with “, as «Funktionen ab.“» (p. 77, JP2 0109, L32) and «Cotangente ist“» (L01)",
+   "confidence": "medium",
+   "impact": "none"
+  }
+ ]
+}

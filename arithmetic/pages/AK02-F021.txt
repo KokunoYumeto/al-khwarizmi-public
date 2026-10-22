@@ -1,0 +1,47 @@
+@page 21 15
+% Frame 021, printed p. 15: the example of division, 46468 by 324, worked: the divisor set under the highest places,
+% the quotient figure 1 found and multiplied into 3, 2 and 4, the remainders written above; the divisor moved one
+% place to the right, the figure 4 found and multiplied into 3, 2 and 4.
+milia ; postea .{sc:iiii}.{sup:or} que sunt quadringinta milia. Eruntque
+ultima harum differentiarum uersus sinistram, et prima earum
+@m car. 107 {i:recto}.
+octo uersus | dexteram: post hec scribes sub eis numerum su-
+per quem diuidis; scribesque ultimam differentiam numeri ,
+super quem diuidis, que est figura trium,et sunt tercenti sub
+ultima differentia numeri superioris, que sunt {sc:iiii}.{sup:or}, eo quod
+sit minus illo quod est supra eum : et si esset plus illo,retra-
+hemus eum una mansione, ponemusque eum sub sex : post
+hec ponemus in ea,que succedit tres,figuram duorum que sunt
+.{sc:xx}. sub sex: postea ponemus in ea que succedit .{sc:iiii}.{sup:or} idem
+.{sc:iiii}.{sup:or}: et hec figura earum.
+@p Post hec insipientes scribamus in directo prime differentie
+numeri super quem diuidimus super numerum superiorem
+quem diuidimus qui sunt quater unum: et si posuissemus eum
+sub .{sc:iiii}.{sup:or}, esset conueniens. Multiplicemusque ipsum in tri-
+bus, et minuemus eum de eo quod supra ipsum est, et rema-
+nebit unum. De inde multiplicemus eum in duobus; minue-
+mus eum de eo quod supra ipsum est, qui sunt .{sc:vi}., et re-
+manebunt .{sc:iiii}.{sup:or} Post hec multiplicemus eum iterum in
+.{sc:iiii}.{sup:or}, et minuemus eum de eo quod supra ipsum est, que
+sunt .{sc:iiii}., et nichil remanebit : ponemusque in loco eius cir-
+culum. Postea mutabis inicium numeri super quem diuidis,uel
+.{sc:iiii}.{sup:or} sub .{sc:vi}., et erunt duo sub circulo, et {sc:iii}. sub .{sc:iiii}. De
+inde scribes in directo inferioris numeri aliquid in ordine
+unius, idest .{sc:iiii}., quos multiplicabis in tribus, et erunt {sc:xii}.;
+minuesque eos de eo quod est super tres qui sunt {sc:xiiii}., et
+remanebunt .{sc:ii} : post hec multiplicabis etiam ipsos .{sc:iiii}.{sup:or} in
+duobus qui succedunt tres, et erunt {sc:viii}. , quos minues de eo
+quod supra ipsum est qui sunt .{sc:xx}., et remanebunt {sc:xii}., duo
+scilicet supra {sc:ii}.{sup:o}, et unum supra tres. Iterum multiplicabis
+.{sc:iiii}., in .{sc:iiii}. qui succedunt dexteram, et erunt {sc:xvi}.; minues-
+que eos de eo quod supra ipsos est qui sunt .{sc:cxxvi}. , et
+remanebunt supra .{sc:iiii}. circulus , et supra duos unum , et
+@obs The page number «( 15 )» stands at the head of the page, centred. The page has no footnotes and no signature.
+@obs L03: the vertical bar between «uersus» and «dexteram», with a word space on each side, marks the beginning of fol. 107 recto of the manuscript, which the note in the right margin, «car. 107 recto.», names; transcribed as a margin note.
+@obs The example (from p. 14, frame 020, L29-L33): 46468 divided by 324. L01-L11: the figures of 46468 written from the right, the divisor 324 under its three highest places, three under four; the figures of the divisor are not printed (L11 «et hec figura earum.»). L12-L21: the quotient figure one, above the first place of the divisor; one by three, four less three leaves one; one by two, six less two leaves four; one by four, four less four leaves nothing, and a circle is written. L22-L33: the divisor moved one place to the right, under 4068; the quotient figure four; four by three, twelve, fourteen less twelve leaves two; four by two, eight, twenty less eight leaves twelve; four by four, sixteen, one hundred and twenty-six less sixteen leaves a circle above the four, one above the two, and (on p. 16) one above the three. The working agrees with 46468 = 324 × 143 + 136.
+@obs L01: «quadringinta milia» stands where the fifth figure of 46468 is forty thousand; see the critical note. L12: «insipientes», with s for c, incipientes; transcribed as printed.
+@obs Numerals: «iiii.or» with «or» raised, quatuor, with or without the opening point (L01, L06, L10, L11, L15, L19, L20, L23, L27); L23 «iii.» and L25 «xii.», L26 «xiiii.», L28 «viii.», L29 «xii.», L31 «xvi.» without the opening point; L27 «.ii» without the closing point; L30 «ii.o», with «o» raised, against which a reader wrote «ii.o = uno?» in the margin.
+@obs Spaces at punctuation (rule of tools/punct.py: after a mark, a space where the gap is at least 12 px or two thirds of the median word space of the line; before a mark, where it is at least 10 px): with a space before the mark, L01 «milia ;», L04 «numeri ,» (17 px), L07 «eum :» (20 px), L08 «sex :» (22 px), L21 «remanebit :» (20 px), L27 «.ii :» (12 px), L28 «.viii. ,» (10 px), L32 «.cxxvi. ,» (20 px) and L33 «circulus ,» and «unum ,» (20 px); without a space after the comma, L05 «trium,et» (10 px, the median word space of the line 16.5 px), L07 «illo,retra-», L09 «ea,que» (8 px) and «tres,figuram» (6 px) and L22 «diuidis,uel» (8 px).
+@obs Marks not transcribed: L26, a thin vertical stroke, 3 to 7 px wide and 36 px high in two pieces, in the ink of the print, at the base line 17 px after «tres» and 4 px before «qui»; it has not the round head of a comma, and is not transcribed. Light specks at mid-height between «numeri» and «super» (L13), «ipsum» and «in» (L15) and after «bus,» (L16).
+@critical AK02-CN008 | wrong numeral word | L01 | quadringinta | quadraginta | the figures of 46468 are written from the right: eight, sixty, four hundred, six thousand (L33 of p. 14) and then four, «que sunt quadringinta milia»; the fifth figure is forty thousand, «quadraginta milia», and «quadringinta», a form between «quadraginta», forty, and «quadringenta», four hundred, is not a Latin word | high | the fifth figure of the example reads forty thousand
+@copy A reader's notes in pencil: «or / L .IIII.» in the right margin beside L01-L02; L02, a slash through the comma after «sinistram»; a «2» before the printed folio note beside L03; «ponemus(!)» in the right margin beside L10, with «po» of «ponemus» underlined; «quod» beside L14, with «et» underlined; «t et» beside L17, with an insertion mark after «duobus;»; L21, a hook added to the hyphen of «cir-»; «ii.o = uno?» beside L30, with «ii.o» underlined. Not part of the edition.

@@ -1,0 +1,22 @@
+{
+ "anchor": "AK07-J0032",
+ "jp2_index": 32,
+ "jp2_member": "b24872489_0032.jp2",
+ "jp2_sha256": "9a1f2a5a42b3e9252ef38c8c80e5f747415eac7e4ce51d233c87e472540461ad",
+ "reading_copy": "page_0032.jpg",
+ "reading_copy_sha256": "c15ae330f017fa26ea7707838cacc73d3aff0df00cd09cdb74bdf70fb2c50aae",
+ "printed_page": "[XXVIII]",
+ "kind": "blank",
+ "language": null,
+ "role": "blank",
+ "file": "suter",
+ "comment": "JP2 0032: the back of the part title, p. [XXVIII]; nothing printed.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Blank. Damp stains run down from the top."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

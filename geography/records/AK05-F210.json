@@ -1,0 +1,191 @@
+{
+ "anchor": "AK05-F210",
+ "frame": 210,
+ "frame_file": "page_210.jpg",
+ "frame_sha256": "b460748321756369ed1e8286762d23bc18c28980cd0ddd663fc63f7ec9b0305c",
+ "printed_page": "-",
+ "kind": "title",
+ "role": "MODERN_EDITORIAL (title page)",
+ "comment": "Frame 210: the German title page of the 1926 edition.",
+ "lines": [
+  {
+   "id": "AK05-F210-L01",
+   "n": 1,
+   "kind": "latin",
+   "text": "DAS KITĀB",
+   "margin": null,
+   "cells": null,
+   "plain": "DAS KITĀB",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F210-L02",
+   "n": 2,
+   "kind": "latin",
+   "text": "ṢŪRAT AL-ARḌ DES ABŪ ǦAʿFAR",
+   "margin": null,
+   "cells": null,
+   "plain": "ṢŪRAT AL-ARḌ DES ABŪ ǦAʿFAR",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F210-L03",
+   "n": 3,
+   "kind": "latin",
+   "text": "MUḤAMMAD IBN MŪSĀ",
+   "margin": null,
+   "cells": null,
+   "plain": "MUḤAMMAD IBN MŪSĀ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F210-L04",
+   "n": 4,
+   "kind": "latin",
+   "text": "AL-ḪUWĀRIZMĪ",
+   "margin": null,
+   "cells": null,
+   "plain": "AL-ḪUWĀRIZMĪ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F210-L05",
+   "n": 5,
+   "kind": "latin",
+   "text": "Herausgegeben",
+   "margin": null,
+   "cells": null,
+   "plain": "Herausgegeben",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F210-L06",
+   "n": 6,
+   "kind": "latin",
+   "text": "NACH DEM HANDSCHRIFTLICHEN UNIKUM DER",
+   "margin": null,
+   "cells": null,
+   "plain": "NACH DEM HANDSCHRIFTLICHEN UNIKUM DER",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F210-L07",
+   "n": 7,
+   "kind": "latin",
+   "text": "BIBLIOTHÈQUE DE L’UNIVERSITÉ ET RÉGIONALE",
+   "margin": null,
+   "cells": null,
+   "plain": "BIBLIOTHÈQUE DE L’UNIVERSITÉ ET RÉGIONALE",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F210-L08",
+   "n": 8,
+   "kind": "latin",
+   "text": "IN STRASSBURG / COD. 4247 /",
+   "margin": null,
+   "cells": null,
+   "plain": "IN STRASSBURG / COD. 4247 /",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F210-L09",
+   "n": 9,
+   "kind": "latin",
+   "text": "VON",
+   "margin": null,
+   "cells": null,
+   "plain": "VON",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F210-L10",
+   "n": 10,
+   "kind": "latin",
+   "text": "HANS v. MŹIK",
+   "margin": null,
+   "cells": null,
+   "plain": "HANS v. MŹIK",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F210-L11",
+   "n": 11,
+   "kind": "latin",
+   "text": "Mit fünf Tafeln in Lichtdruck",
+   "margin": null,
+   "cells": null,
+   "plain": "Mit fünf Tafeln in Lichtdruck",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F210-L12",
+   "n": 12,
+   "kind": "latin",
+   "text": "MCMXXVI",
+   "margin": null,
+   "cells": null,
+   "plain": "MCMXXVI",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F210-L13",
+   "n": 13,
+   "kind": "latin",
+   "text": "Otto Harrassowitz · Leipzig",
+   "margin": null,
+   "cells": null,
+   "plain": "Otto Harrassowitz · Leipzig",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The title page is set in Roman capitals, with three lines in black letter (Fraktur), transcribed in Roman type: «Herausgegeben» (L05), «Mit fünf Tafeln in Lichtdruck» (L11) and «Otto Harrassowitz · Leipzig» (L13). The transliterated names keep the diacritics of the print: the dots below Ṣ, Ḍ and Ḥ, the macrons, the haček of Ǧ and the breve below Ḫ of «AL-ḪUWĀRIZMĪ», the half ring of «ǦAʿFAR». The shelfmark of the manuscript, «COD. 4247», stands between two thin slanting strokes, transcribed as slashes; its figures are old-style. A rule separates the date, «MCMXXVI», 1926, from the publisher's line.",
+  "L10: the editor's name is printed «MŹIK», with an acute accent over the Z, where the series title page prints «MŽIK», with a haček (frame 212, L04), the form of the name Mžik; see the critical note. The reprint's copy of this page has the same accent (frame 214).",
+  "The volume is the third of the series «Bibliothek arabischer Historiker und Geographen» (frame 212). Its back, frame 209, carries the imprint."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK05-CN022",
+   "class": "wrong accent",
+   "line": "L10",
+   "printed": "MŹIK",
+   "proposed": "MŽIK",
+   "evidence": "the editor's name is printed with an acute accent over the Z, where the series title page of the same volume prints it with a haček, «HANS v. MŽIK» (frame 212, L04), the spelling of the name Mžik; the reprint's copy of this page has the same acute (frame 214, L10)",
+   "confidence": "medium",
+   "impact": "the name of the editor, Hans von Mžik"
+  }
+ ]
+}

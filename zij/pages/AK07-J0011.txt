@@ -1,0 +1,40 @@
+@page 11 [VII]
+@lang de
+% JP2 0011: Suter's introduction, first page (p. [VII]): Chasles 1846; Maslama al-Majriti's recension of the tables
+% of al-Khwarizmi, its change of era and of meridian (Arin to Cordova); Haskins and Bjornbo.
+@h EINLEITUNG
+@p Schon im Jahre 1846 hat der hervorragende französische Gelehrte M. {sp:Chasles}
+in einem Artikel der {i:Comptes rendus de l’Académie des Sciences}{sup:1}) auf die Wichtigkeit
+der {sp:Athelhard}’schen Übersetzung der Tafeln {sp:Al-Khwārizmīs} für die Geschichte
+der Astronomie aufmerksam gemacht. Er hat aber das Werk nicht eingehend stu-
+diert, da er keine Herausgabe desselben beabsichtigt hatte, deshalb halten auch die
+meisten Folgerungen, die er aus seinem Studium gezogen hat, heute vor der Kritik
+nicht mehr stand. {sp:Chasles} wusste nämlich damals noch nicht, dass verschiedene
+arabische Autoren dem spanisch-arabischen Mathematiker und Astronomen {sp:Maslama}
+{sp:al-Madjrīṭī}{sup:2}) eine Bearbeitung, oder besser Umarbeitung der Tafeln {sp:Al-Khwāriz-}
+{sp:mīs} zuschreiben. Diese Umarbeitung bestand hauptsächlich, wie die arabischen
+Biographen {sp:Ibn al Ḳifṭī} und {sp:Ibn Abī Uṣaibiʿa} nach dem {sp:Ḳāḍī Ibn Ṣāʿid}{sup:3})
+berichten, in der Umwandlung der nach der {i:Aera} {sp:Yezdegirds} verfassten Tafeln in
+solche, die auf die {sp:muhammedanische} {i:Aera} sich stützten, dann auch, wie einige
+Stellen des Textes und einige Tafeln beweisen, in teilweiser Ersetzung des Meridians
+von {i:Arin}, den {sp:Al-Khwārizmī} zu Grunde gelegt hatte, durch denjenigen von {i:Cordova},
+dem Wohnorte {sp:Al-Madjrīṭīs}.
+@p Aus eben diesen Textstellen und Tafeln (vergl. auch den Kommentar) folgt nun
+mit beinahe absoluter Sicherheit, dass wir in dieser Übersetzung {sp:Athelhards}{sup:4}) nicht
+diejenige des ursprünglichen astronomischen Werkes {sp:Al-Khwārizmīs}, sondern
+der Umarbeitung desselben durch {sp:Maslama al-Madjrīṭī} vor uns haben. Auf
+diese Tatsache hat, so viel ich weiss, zuerst C. H. {sp:Haskins} hingedeutet in seiner
+Abhandlung über {i:Adelard of Bath}{sup:5}) ; ob auch A. {sp:Björnbo} dieselbe erkannt habe,
+ergibt sich aus seinen hinterlassenen Papieren nicht, ist aber nicht wahrscheinlich,
+sonst hätte er wohl in seiner Abhandlung {i:Al-Chwarizmi’s trigonometriske Tavler}{sup:6})
+darauf aufmerksam gemacht. Hieraus folgt natürlich, dass wir in Bezug auf Schlüsse,
+@n {sup:1}) T. XXIII, p. 848 ff.
+@n {sup:2}) Vergl. H. {sp:Suter}, {i:Die Mathematiker u. Astronomen der Araber}, etc. in Abhandlungen zur
+@n Geschichte der mathem. Wissensch., X (1900), p. 76—77.
+@n {sup:3}) Ibid. p. 106—107.
+@n {sup:4}) Auch geschrieben {sp:Adhelhard}, {sp:Adelhard}, {sp:Adelard}, etc.
+@n {sup:5}) In {i:The English Historical Review}, July 1911, p. 493.
+@n {sup:6}) In der {i:Festskrift til H. G. Zeuthen}, København 1909.
+@obs The first page of the introduction; the page number, VII by the contents, is not printed. L01 «EINLEITUNG» in capitals, with a short rule below it; L02 opens with a large initial S, standing on the base line and rising above the line. At the foot, the signature «II*» on the right.
+@obs The note numbers are raised figures followed by a bracket on the line, «1)»; transcribed {sup:1}). The names and a few other words are set in spaced type, marked {sp:}: «Chasles», «Athelhard», «Al-Khwārizmīs», «Maslama al-Madjrīṭī», «Ibn al Ḳifṭī», «Ibn Abī Uṣaibiʿa», «Ḳāḍī Ibn Ṣāʿid», «Yezdegirds», «muhammedanische» (L14), «Haskins», «Björnbo»; italics: the titles, «Aera», «Arin» and «Cordova». The transliteration prints dots under Ḳ, ṭ, ṣ, ḍ, Ṣ, macrons on ā, ī, and the ʿayn as a small raised reversed comma, ʿ.
+@obs L10: a dark speck at mid-height between the h and the w of «Al-Khwāriz-»; not transcribed. Band below L17: the dot under the ṭ of «Al-Madjrīṭīs».

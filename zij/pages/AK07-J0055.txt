@@ -1,0 +1,55 @@
+@page 55 23
+@lang la
+% JP2 0055: the Latin text, p. 23: the end of chapter 30 (the size of the sun's disc); chapter 30a, the size of the
+% moon's disc, and the use of the table of the hourly motions; chapter 31, the conjunction and the opposition of the sun
+% and the moon (elistima, elistikbel), begins; with the apparatus (notes 1-30).
+producetur ipsum est quod quaeris. Si vero pro hora quaestio inciderit, horarius{sup:1})
+stupor solis in XIII et quintam ducendus est. Sicque habes quod desideras.
+@c {b:Cap. 30{sup:a}. De quantitate rotae lunae{sup:2}).}
+@p Quantitas vero rotae{sup:3}) lunae sic se habet. Stupore eius{sup:4}) diurno in duas
+dakaicas et XVI elthenias{sup:5}) ducto quaesitum habes ; stupore autem horario in LVIII
+dakaicas et X elthenias{sup:6}) ducto desideratum tenes. — Introitus autem in tabulam
+subscriptam hic est : Ut ergo scias, quantum circuli signiferi sol vel luna determinatae
+transeant, per argumentum alterutrius{sup:7}) eorum in semitam numerorum introduceris ;
+quod autem{sup:8}) ei adiunctum fuerit, motum horarium{sup:9}) ostendit. Eodemque modo
+ad dimidium rotae solis vel lunae atque etiam draconis accedendum est{sup:10}).
+@m C 79{sup:v}, O 136{sup:v}
+@c {b:Cap. 31. De elistima et elistikbel id est coniunctione et oppositione{sup:11}).}
+@m N 41{sup:v}
+@p Quaerenti coniunctionem vel oppositionem solis et lunae per tabulam coniunc-
+tionis et oppositionis subscriptam{sup:12}) inveniendum erit hoc modo.
+@p Per annos arabum{sup:13}) collectos praeteritos{sup:14}) anno praesenti proximos in tabulam
+praedictam intrandum erit, quodque eis adiunctum fuerit dierum et horarum et
+partium{sup:15}) diligenter notandum{sup:16}). Non dissimiliter etiam et medium{sup:17}) solis et
+lunae atque argumentum lunae, sed{sup:18}) et argumentum latitudinis semotim notanda{sup:19}).
+Secundo vero per annos planos{sup:20}), tertio per mensem pro quo laboras hic{sup:21}) intro-
+eundum{sup:22}). Deinde minoribus in maiora reductis{sup:23}), quotquot{sup:24}) dies subtrahendi
+interciderint, toti coacervato{sup:25}) subtrahemus{sup:26}). Horae vero a meridie deinceps diei
+sequentis computandae sunt{sup:27}). Secundum has itaque horas coniunctio vel oppositio
+solis et lunae pro medialitate{sup:28}) quidem eorum iudicanda sunt{sup:29}). Quaerenti autem
+determinationem rei adhuc procedendum est. Per ipsum ergo {i:elwacat}{sup:30}) solis et
+@n {sup:1}) horarius] C, hora vero O. — {sup:2}) De . . . . lunae] O, {i:om.} C. — {sup:3}) rotae] O, {i:om.} C. — {sup:4}) eius] C,
+@n enim eius O. — {sup:5}) elthenias] C, elgenias O. — {sup:6}) elthenias] C, elenias O. — {sup:7}) alterutrius] C, cuius-
+@n libet O. — {sup:8}) Quod autem] C, quodque O. — {sup:9}) motum horarium] C, horae motum O. — {sup:10}) atque
+@n . . . . est] C, ac draconis accede O. — {sup:11}) De . . . . oppositione] C O, De coniunctione et oppositione
+@n solis et lunae N. — {sup:12}) subscriptam] C, subscriptam id O. — {sup:13}) arabum] C, enim O. — {sup:14}) praeteritos]
+@n C, {i:om.} O. — {sup:15}) partium] O, dakaicarum et eltheniarum C, minutorum et secundorum N. — {sup:16}) notandum
+@n O N, notandus C. {i:Addid. C in marg.} : [No]ta quod per praesentem annum [. . . .]es intrandum est et
+@n elwacat [so]lis et lunae per se et argumentum [lu]nae et argumentum latitudinis [lu]nae per se quodque
+@n et ordinati [sic]ut scripta sunt ponendas. — {sup:17}) etiam et medium] O, quoque medius cursus N. —
+@n {sup:18}) sed] O, {i:om.} N. — {sup:19}) notanda] O, notanda sunt N ; Non dissimiliter . . . . notanda {i:om.} C. — {sup:20}) planos]
+@n C, planos residuos O. — {sup:21}) pro . . . . hic] C, cuius conjunctionem vel oppositionem quaeris in adiuncta
+@n eorum O. — {sup:22}) Secundo . . . . introeundum] O ; secundo vero per tabulam annorum planorum cum
+@n anno in quo est ipsa coniunctio et oppositio (scil. praecedentem {i:addid. in marg.}) atque ibi quod adiunc-
+@n tum fuerit sumendum ; tertio per mensem in quo est ipsa coniunctio vel oppositio in tabulam mensium ;
+@n sed et ibidem quod supradiximus accipiendum N. — {sup:23}) scilicet in quo est ipsa coniunctio vel oppositio
+@n quam quaeris in tabula mensium C {i:suprascr.} — {sup:24}) minoribus . . . . quotquot] C, similibus similia
+@n coaptando minora in maiora reducenda sunt, quotquot vero O. — {sup:25}) toti coacervato] C, et ipsos et
+@n totidem ex coacervatis O. — {sup:26}) sicque dies quidem sani ipsius mensis esse dicentur C {i:addid.} —
+@n {sup:27}) Horae . . . . sunt] C, {i:om.} O. — {sup:28}) medialitate] C, medio O. — {sup:29}) sunt] O N, {i:om.} C. — {sup:30}) ergo
+@n elwacat] C, ergo medium O, quoque medium cursum N.
+@obs The page number «23» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L02 end chapter 30 (p. 22, JP2 0054, L25-L27). L03 and L11: the headings of chapters 30a and 31, in bold, centred; in the right margin beside the heading of chapter 31 «C 79v, O 136v», beside L12 «N 41v». L11: «elistima» and «elistikbel», the conjunction (al-ijtimāʿ) and the opposition (al-istiqbāl).
+@obs L01-L10: the apparent diameters. The sun: its daily motion times 33 minutes (p. 22, L27), or its hourly motion times thirteen and a fifth. Checked: 24 × 0;33 = 13;12, so the two rules agree, and 59′ 8″ × 0;33 gives 32½′. The moon: its daily motion times 0;2,16, or its hourly motion times 0;58,10; these do not agree, since 24 × 0;2,16 is 0;54,24; with the moon's daily motion of 13° 10′ 35″ the first gives 29′ 52″, the second, with the hourly 32′ 56″, 31′ 56″. To be compared with Suter's commentary on chapters 30 and 30a (p. 78).
+@obs L12-L23: the conjunction and the opposition from the tables: enter with the collected years, the single years and the month, adding days, hours and parts, the mean motions of the sun and the moon, the argument of the moon and the argument of latitude; the hours are counted from noon of the following day; the result is the mean conjunction or opposition, which is then refined (continued on p. 24).
+@obs N02: the dash before the note number 6 is printed in two pieces, 24 and 7 px long with a gap of 3 px; transcribed as one long dash. N07-N09: the marginal addition of C, with the editor's square brackets around the letters he supplies, «[No]ta», «[so]lis», «[lu]nae», «[sic]ut», and «[. . . .]es» for a gap. N11: «conjunctionem», with j, where the edition prints i in this word everywhere else (L12, N04, N13-N15); transcribed as printed. N04 and N06: «C O» and «O N», the sigla with a space between them.
+@obs The colons and semicolons of the text and the apparatus stand after the thin space of the edition (12-13 px measured in the text).

@@ -1,0 +1,29 @@
+@page 29 XXV
+@lang de
+% JP2 0029: the introduction, p. XXV, its last page: the Arabic glossary (Besthorn's and Suter's share), the
+% transcription of the Arabic names after the Enzyklopädie des Islām, the use of the glossary and the indices.
+@p Das Werk schliessen zwei Indices ab, ein {i:arabisches Glossar} und ein allgemeines
+{i:Namen- und Sachregister}. Der Grundstock des erstern ist von Dr. R. O. {sp:Besthorn}
+in Kopenhagen verfasst, dem mit J. L. {sp:Heiberg} zusammen wir die Herausgabe der
+ältesten arabischen Euklid-Übersetzung verdanken. Verschiedenes ist nachher von
+mir ergänzt worden, so besonders die richtigen Formen der ägyptischen und per-
+sischen Monatsnamen. Die arabischen Namen gebe ich nur in Transskription, zuerst
+wie sie im Texte stehen, und dann in der richtigen Form ; hierbei halte ich mich
+an die Regeln der {i:Enzyklopädie des Islām}, die gegenwärtig unter der Leitung von
+Prof. {sp:Houtsma} in Utrecht u. A. erscheint ; für den Leser will ich hier nur anführen,
+dass {i:dj} wie {i:dsch}, {i:z} wie weiches {i:s}, {i:kh} wie alemannisches {i:ch}, {i:y} wie {i:j}, {i:dh} u. {i:th} wie
+weiches u. hartes englisches {i:th} auszusprechen sind ; die übrigen Zeichen bedürfen
+keiner Erklärung. Die Bedeutung der arabischen Wörter habe ich mit Zustimmung
+des Hrn. Dr. {sp:Besthorn}, der sie ursprünglich in lateinischer Sprache beigefügt hat,
+in deutscher Sprache wiedergegeben. — Was die Benützung des Glossars anbetrifft,
+so mache ich darauf aufmerksam, dass bei allen Wörtern, die mit dem Artikel {i:al}
+oder {i:el} beginnen, dieser wegzulassen ist, man suche also {i:elmuht} unter {i:muht}, {i:eltheniae}
+unter {i:theniae}, etc. — Bei sehr häufig wiederkehrenden Wörtern, wie {i:dakaicae}
+(= minutae), {i:theniae} (= secundae) und einigen andern, lasse ich die Verweisung
+auf die Seiten weg, mit Ausnahme derjenigen, wo ihre Bedeutung erklärt wird.
+@p Für beide Indices gilt folgendes : Zahlen ohne vorangehenden Buchstaben be-
+zeichnen die Seitenzahl der Einleitung, des Textes und des Kommentars, solche mit
+vorangehendem T. die Nummern der Tafeln, N in Klammer bedeutet „Note“.
+@obs The page number «XXV» stands at the head of the page, centred, with a rule below it. The introduction ends with L22; the rest of the page is blank.
+@obs L10: the final s of «alemannisches» is broken, its lower part not printed, with a light stain beside it; transcribed «alemannisches». L18: «minutae» and «secundae» in roman type, the Arabic words in italics.
+@obs Marks not transcribed: a dark speck in the left margin between L05 and L06, before «sischen».

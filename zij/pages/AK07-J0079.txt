@@ -1,0 +1,54 @@
+@page 79 47
+@lang de
+% JP2 0079: Suter's commentary, p. 47: chapter 10 continued: the apogee of Mercury; the "tested tables" of al-Ma'mūn's
+% astronomers; the motion of an upper planet after Ptolemy and al-Battānī: epicycle, deferent and equant, the true and
+% the mean apogee of the epicycle, with a figure (notes 1-2).
+das Apogeum des Merkur zu 220° 28′ angegeben wird, immerhin noch c. 4{sup:1}/{sub:2}° geringer
+als bei {sp:Kh.} Die Übereinstimmung des Jupiter-Apogeums bei {sp:Kh.} und den „erprobten
+Tafeln“ bestärkt uns in der oben (p. 32) schon ausgesprochenen Ansicht, dass gewisse
+Angaben der Tafeln {sp:Kh.}’s den „erprobten Tafeln“ der Astronomen {sp:Al-Ma’mūns}
+entnommen sein könnten. Allerdings weicht {sp:Kh.} wieder (wenn man sich wenigstens
+auf die Berichte des {sp:Ibn Yūnus} über die „erprobten Tafeln“ verlassen kann) darin
+von diesen Tafeln ab, dass er die Länge des Apogeums der Venus nicht gleich der
+des Apogeums der Sonne annimmt.
+@p Ich gebe im folgenden zum bessern Verständnis dieser Fragen eine kurze
+Darstellung der Bewegung eines obern Planeten nach {sp:Ptol.} und {sp:Batt.}, ich schliesse
+mich möglichst nahe an {sp:Nallino} an.{sup:1})
+@p Es wird angenommen, der Planet bewege sich auf einem {i:Epizykel}, dessen
+Centrum{sup:2}) {i:H} sich auf dem in Bezug auf die Erde {i:E} exzentrischen Kreise mit dem
+Mittelpunkt {i:M}, dem sogenannten {i:Deferens}, mit
+ungleicher Winkelgeschwindigkeit bewege, und
+zwar sowohl in Bezug auf den Punkt {i:M} als
+auf den Punkt {i:E}. Das Centrum {i:H} bewege sich
+aber gleichförmig auf einem dritten fingierten
+Kreis (ich lasse diesen in der Zeichnung weg)
+mit dem Centrum {i:E′} ({i:E′M} = {i:ME}), dem so-
+genannten {i:Aequans}, oder besser, die Bewegung
+des Punktes {i:H} erscheine von diesem Punkt {i:E′}
+aus gleichförmig. Sowohl der Planet auf dem
+Epizykel, als auch das Centrum des Epizykels
+auf dem Deferens bewegen sich von Westen
+nach Osten. Die obern Planeten vollenden
+ihren Umkreis im {i:Epizykel} in einem siderischen
+Jahr, die Centren ihrer Epizykeln ihren Um-
+kreis im {i:Deferens} in verschiedenen Zeiten. {i:EM}
+ist die Exzentrizität der Planetenbahn, {i:EE′} die doppelte. Das {i:wahre Apogeum} des
+Epizykels ist in jeder Lage des Punktes {i:H} der Punkt, in welchem die Verlängerung
+von {i:EH} die Ekliptik trifft (in unserer Fig. also {i:R}), das {i:mittlere Apogeum} der Punkt,
+in welchem die Verlängerung von {i:E′H} die Ekliptik trifft (in unserer Fig. also {i:Q}).
+Beide Punkte fallen zusammen, wenn der Mittelpunkt des Epizykels im Apogeum {i:G}
+oder im Perigeum {i:K} des Deferens sich befindet. {i:AFB} sei die Ekliptik, das Apogeum {i:G}
+habe in der Ekliptik die Länge {i:FA}, das Centrum {i:H} des Epizykels hat nach seiner
+mittlern Bewegung um das Centrum {i:E′} des Aequans die Länge {i:FQ}, nach seiner
+wahren Bewegung aber aus dem Centrum der Erde {i:E} gesehen die Länge {i:FR} ; die
+Differenz zwischen beiden, der mittlern und der wahren Länge, d. h. der Bogen {i:RQ},
+@n {sup:1}) Ibid. II, 238—241.
+@n {sup:2}) Da in der Folge oft deutsche mit lateinischen Bezeichnungen abwechseln, schreibe ich der
+@n Einheitlichkeit wegen stets „Centrum“ statt „Zentrum“.
+@obs The page number «47» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «das Apogeum des Merkur» continues «doch ist davon der Sūrya-Siddhānta auszunehmen, in welchem» at the end of p. 46 (JP2 0078, L36).
+@obs A figure stands at the right of L14-L29, which are set in a narrower measure at its left; it is not reproduced. A vertical line A B is the diameter of the large outer circle, the ecliptic A F B (L35), with F at its upper right and R and Q at its upper left; on the line lie, from the top, A, G, E′, M, E, K and B. The inner circle, the deferent, through G at its top and K at its bottom; the small circle of the epicycle about H, which stands on the deferent at the upper left. The line from Q through H and E′ runs on to S and N; the line from R through H to E; the line H M; the perpendiculars M S and E N from M and E to the line H E′ produced (p. 48, JP2 0080, L04). The letters are italic: A, B, E, E′, F, G, H, K, M, N, Q, R, S.
+@obs L01-L02. Checked: 224° 54′, the apogee of Mercury in the text (p. 46, JP2 0078, L26), less 220° 28′ is 4° 26′, about 4½°. L20 and L30: the equant point E′ lies on the line of the apsides at the distance ME from M on the other side, so that E E′ is twice the eccentricity E M.
+@obs Spaced type, marked {sp:}: «Kh.», «Al-Ma’mūns», «Ibn Yūnus», «Ptol.», «Batt.», «Nallino»; italics: the letters of the figure, «Epizykel» (L12, L27; upright in L24), «Deferens» (L14, L29; upright in L25 and L35), «Aequans» (L21; upright in L37), «wahre Apogeum», «mittlere Apogeum».
+@obs L01: «immerhin noch» is more heavily inked than the rest of the line (the strokes measure the same, 5 px); N01: «Ibid. II,» likewise (6 px against 5 px); transcribed in the type of the line. N01: the dash of «238—241» is printed in two pieces, 20 and 13 px long with a gap of 2 px; transcribed as one long dash. Specks not transcribed: a short stroke in the margin before the note number of N01, a speck above the u of «Aequans» (L37).
+@obs The semicolon of L38 stands after the thin space of the edition (11 px measured).
+@obs L26-L29: the slip «Nachtrag zu den Berichtigungen» (JP2 0269) replaces «Die obern Planeten vollenden . . . . Zeiten» by a new account of the periods in the epicycle and in the deferent.

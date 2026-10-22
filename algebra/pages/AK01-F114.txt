@@ -1,0 +1,44 @@
+@page 114 ٩٨
+% Frame 114, printed p. 98: the problem begun on frame 113 (a slave worth three hundred from whom the master had taken
+% five hundred and spent it; the slave dies before the master leaving a thousand and a daughter; the master owes two
+% hundred): the slave's estate a thousand and five hundred; the work-off three hundred less a thing; the daughter six
+% hundred and half a thing; the master's heirs two hundred less half a thing, twice the bequest: the bequest eighty;
+% checked: work-off two hundred and twenty, the daughter six hundred and forty, the heirs a hundred and sixty. Then,
+% under «فان أعتق» in bold at the beginning of a line, a slave worth five hundred from whom the master had taken six
+% hundred; the master owes three hundred; the slave dies leaving his mother, his master and one thousand seven hundred
+% and fifty, owing two hundred: seven hundred less a third of a thing, twice the bequest; begun, continued on the next
+% page. The values check exactly. No footnote on this page.
+خمسمائة درهم ثم مات العبد قبل موت المولى وترك ألف درهم وترك ابنة وعلى
+المولى دين مائتا درهم . فقياسه أن تجعل تركة العبد ألف درهم والخمسمائة التى
+استهلكها المولى . السعاية من ذلك ثلثمائة غير شىء يبقى ألف ومائتان وشىء .
+والنصف من ذلك لابنة العبد وهوستمائة درهم ونصف شىء فتلقيه من تركة العبد
+وهى ألف درهم فيبقى أربعمائةدرهم غير نصف شىء يقضى من ذلك دين المولى وهو
+مائتا درهم فيبقى مائتا درهم غير نصف شىء تعدل مثلى الوصية التى هى الشىء
+وذلك شيئان فاجبر ذلك بنصف شىءفيكون مائتى درهم تعدل شيئين ونصفا فقابل به
+فالشىء يعدل ثمانين درهما وهى الوصية فتجمع تركة العبد وما تعجل منه المولى
+وذلك ألف وخمسمائة درهم فترفع من ذلك السعاية وهى مائتان وعشرون درهما
+فيبقى ألف ومائتان وثمانون درهما للابنةالنصف ستمائة واربعون درهما فتلقيه من
+تركة العبد وهى ألف درهم فيبقى ثلثمائة وستون درهما فيقضى من ذلك دين المولى
+مائتا درهم ويبقى فى أيدى الورثة مائة وستون درهما وذلك مثلا الوصية
+{b:فان أعتق} عبدا له فى مرضه قيمته خمسمائة درهم فتعجل منه ستمائة درهم فاستهلكها
+وعلى المولى دين ثلثمائة درهم ثم مات العبد وترك أمه ومولاه وترك ألفاً
+وسبعمائة وخمسين درهما وعلى العبد دين مايتا درهم . فقياسه أن تجعل تركة العبد
+ألفا وسبعمائة وخمسين درهما والذى تعجل المولى ستمائة درهم فذلك ألفان
+وثلثمائة وخمسون درهما فتعزل منه الدين مائتى درهم وتعزل منه السعاية خمسمائة
+درهم غير شىء والوصية شىء فيبقى ألف وستمائة وخمسون درهما وشىء
+للأم من ذلك الثلث خمسمائة وخمسون وثلث شىء فتلقيه هو والدين الذى هو
+مائتا درهم من تركة العبد الموجودة وهى ألف وسبعمائة وخمسون فيبقى ألف
+درهم غير ثلث شىء ثم تقضى من ذلك دين المولى وهو ثلثمائة درهم فيبقى سبعمائة
+درهم غير ثلث شىء وهو مثلاوصية العبد وهى شىءفنصف ذلك ثلثمائةوخمسون
+@obs L01: «خمسمائة درهم» (L01) goes on from the last words of frame 113, «وقد تعجل المولى منه» (frame 113, L22): the master had taken five hundred dirhams from the slave.
+@obs L13: the words فان أعتق (L13), the heading of the next problem, are printed in a bold face at the beginning of the line, which is not indented; L12 ends with الوصية without a full stop. عبدا, which follows, is in the face of the text. The bold ن is printed without its dot; transcribed ن.
+@obs L15: «مايتا درهم», as printed: the seat of the hamza carries the two dots of the ي beneath it and no hamza, where L02, L06, L12 and L20 print مائتا.
+@obs Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): وهوستمائة (L04; 21 between the second و and the س, 25 above the baseline, as the first و of the word stands 20 px from the ه and the conjunction و 20 px from the س in وسبعمائة, L16, 22 above the baseline, within the 20 to 30 px of the و inside a word; where وهو ثلثمائة in L21 has 50); أربعمائةدرهم (L05; 6 between the ة and the د, where ستمائة درهم in L04 has 18); شىءفيكون (L07; 8 between the hamza on the line and the ف); للابنةالنصف (L10; 7 between the ة and the alif); مثلاوصية (L22; 22 between the ligature لا and the و, 26 above the baseline, at the upper end of the distances of the ligature from the next letter inside a word, 20 to 26, where مثلا الوصية in L12 has 30 and مثلا وصيتهما on frame 113, L05, 33 above the baseline); شىءفنصف (L22; 7 between the hamza on the line and the ف); ثلثمائةوخمسون (L22; 5 between the ة and the conjunction و).
+@obs Where the gap lies between the distances inside a word and those between words, a word space is transcribed: شىء يقضى (L05; 15 between the hamza on the line and the ي, where the hamza stands 2 to 11 px from the next letter without a space and 15 or more with one); وثلثمائة وخمسون (L17; 15 between the ة and the conjunction و) and السعاية خمسمائة (L17; 15 between the ة and the خ), at the boundary of the gaps after ة, 1 to 14 without a space and 16 or more with one; العبد الموجودة (L20; 18 between the د and the alif, where العبدالآخر on frame 110, L10, has 8); وهو مثلاوصية (L22; the و stands 24 px from the م, 33 above the baseline, where the conjunction و stands 17 px from the م in ومائتان, L03, 22 above the baseline); in doubt, the space is written.
+@obs After a connecting letter, whose final form marks the end of the word, a word space is transcribed where the print sets the words close: ثم مات, قبل موت (L01), ألف ومائتان (L03), النصف من (L04), وثمانون درهما, النصف ستمائة, واربعون درهما (L10), دين المولى (L11), له فى, قيمته خمسمائة, منه ستمائة, درهم فاستهلكها (L13), أمه ومولاه (L14), أن تجعل (L15), ثلث شىء, من ذلك, ذلك دين, دين المولى (L21), ثلث شىء (L22).
+@obs The full stops (gaps as the nearest approach of the ink at 400 ppi): after درهم, before فقياسه (L02; 36 and 28), and after درهم, before فقياسه (L15; 22 and 22), between spaces; after المولى, before السعاية (L03; 22 and 28), set low, its centre 12 px below the baseline; after وشىء, ending L03 (26 px after the hamza).
+@obs Plain alif where a hamza might be expected, as printed: ابنة (L01), استهلكها (L03), لابنة (L04), فاجبر (L07), للابنةالنصف, واربعون (L10), فاستهلكها (L13); with hamza: ألف (L01, L02, L05, L09, L11, L20; L03, L10, L18, L20, twice), أن (L02, L15), أربعمائةدرهم (L05), أيدى (L12), the bold أعتق (L13), أمه, ألفاً (L14), ألفا, ألفان (L16), للأم (L19); on ي: خمسمائة (L01, L13, L17, L19), مائتا (L02, L12, L20; L06, twice), والخمسمائة (L02), ثلثمائة (L03, L11, L14, L21), مائتان (L03, L09, L10), ستمائة (L04, L10, L13, L16), أربعمائةدرهم (L05), شيئان (L07), مائتى (L07, L17), شيئين (L07), وخمسمائة (L09), مائة (L12), وسبعمائة (L15, L16, L20), وثلثمائة (L17), وستمائة (L18), سبعمائة (L21), ثلثمائةوخمسون (L22); the hamza on the line: شىء (L03, L04, L06, L18, L19, L21, L22; L05, L06, twice), وشىء (L03, L18), الشىء (L06), شىءفيكون (L07), فالشىء (L08), شىءفنصف (L22).
+@obs With tanwīn on the final alif: ألفاً (L14); without tanwīn as printed: ونصفا (L07), درهما (L08, L09, L11, L12, L15, L16, L17, L18; L10, twice), عبدا (L13), ألفا (L16).
+@obs L02, L06, L07, L12, L15, L17, L20, L22: «مائتا درهم» (L02, L12, L20; L06, twice), «مايتا درهم» (L15), «مائتى درهم» (L07, L17), «مثلى الوصية» (L06), «مثلا الوصية» (L12) and «مثلاوصية» (L22), as printed: the dual without its ن before the noun that follows it, as on frames 094-113.
+@obs The final yā' is printed without dots: وعلى, المولى (L01), المولى, التى (L02), المولى, يبقى (L03), وهى, فيبقى, يقضى, المولى (L05), فيبقى, مثلى, التى, هى (L06), مائتى (L07), وهى, المولى (L08), وهى (L09), فيبقى (L10), وهى, فيبقى, فيقضى, المولى (L11), ويبقى, فى, أيدى (L12), فى (L13), وعلى, المولى (L14), وعلى (L15), والذى, المولى (L16), مائتى (L17), فيبقى (L18), الذى (L19), وهى, فيبقى (L20), تقضى, المولى, فيبقى (L21), وهى (L22).
+@obs The print stretches استهلكها (L03) and فاستهلكها (L13), between the ل and the ك, مائتا (L12, between the ت and the alif) and العبد (L14, between the ب and the د) with the elongation stroke; the stroke is not transcribed.

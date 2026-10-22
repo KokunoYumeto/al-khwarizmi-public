@@ -1,0 +1,50 @@
+@page 23 XIX
+@lang de
+% JP2 0023: the introduction, p. XIX: the corrected adiectiones; the additions of N, no. 8: other values of the mean
+% motion of the node for noon at Cordova (a small table); no. 9: the seconds of table 20; no. 10: a note of a second
+% hand on the true and mean natural day; no. 11 begins.
+sind nach den Tafeln 10, 12, 14 u. 20 : Saturn 25″, Jupiter 1′ 2″, Mars 6′ 33″, Drachen-
+kopf 40″ (für die Sonne 12′ 19″, für den Mond 2° 44′ 42″).
+@p 8) Auf fol. 23{sup:v} (Tafel 19) fügt N in der linken Ecke unten folgende in den
+Sekunden und teilweise auch in den Minuten von den unmittelbar oberhalb stehenden
+Daten der {i:Medialitas draconis} abweichende Zahlen hinzu :
+@t collecti | medio die Cordubae | | |
+@t 360 | 5 | 5 | 20 | 42
+@t 390 | 11 | 28 | 48 | 24
+@t 420 | 6 | 22 | 16 | 50 ?
+@t 450 | 1 | 15 | 43 | 49
+@t 480 | 8 | 9 | 11 | 32
+@t 510 | 3 | 2 | 39 | 14
+@t 540 | 9 | 26 | 6 | 57
+@t 570 | 4 | 19 | 34 | 39
+@p 9) Auf fol. 24{sup:r} (Tafel 20) hat N in der letzten Kolonne (die Tertien lässt es
+weg) folgende Zahlen für die Sekunden : 0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5,
+5, 5, 6, 6, 6, 6, 7, 7, 7, 8, 8. Man sieht, dass verschiedene dieser Zahlen, auch wenn
+die abgeworfenen Tertien berücksichtigt werden, nicht mit denen der Mss. C u. O
+übereinstimmen.
+@p 10) Auf fol. 42{sup:r} ist nach den Worten : {i:Sed et aequalibus idem e contrario addendo}
+{i:inaequales fient} (in unserm Text p. 25) von 2. Hand hinzugefügt : {i:Verus dies naturalis}
+{i:medius est XXIIII horarum, id est revolutio CCCLX graduum et LIX min. et V sec. Unde}
+(od. {i:una}) {i:hora est XV grad. et II. min. et XXVIII sec. Sed quoniam gradus aequinoctialis}
+{i:lineae, secundum quam haec determinata} (?) {i:sunt, et zodiaci in quo sol movetur, non}
+{i:similiter transeunt meridianam lineam, sed et sol aliquando citius aliquando tardius}
+{i:contra celum movetur, necesse est ergo naturali diei medio aliquando addi, aliquando}
+{i:subtrahi. Attamen haec tabula sic facta est, quod semper subtrahitur a die media, sed}
+{i:aliquando sequenti die maius aliquando minus quam priori. Sed quando maius tunc}
+{i:ille dies aequatus a meridiana linea in meridianam erit minor die media, si autem minus}
+{i:tunc necesse est esse maiorem ; maior enim subtractio minuit de medio, minor vero sub-}
+{i:tractio de medio et aequali residuum relinquit maius quam faceret subtractio maior.}
+{i:Exempli gratia : si hodie a revolutione sperae}{sup:1}) {i:et LIX min. et VIII sec. subtraherentur}
+{i:II min. et VIII sec., et in sequenti die III min. et VIII sec., esset tunc dies aequatus}
+{i:revolutio sperae et LVIII min., quod est minus die medio ; item si priori die III min. et}
+{i:VIII sec. subtraherentur et sequenti die tantum II min. et VIII sec., erit dies aequatus}
+{i:revolutio sperae et LX min., quod est maius die medio.}
+@p 11) In den Tafeln der Konjunktion und Opposition von Sonne und Mond für
+die {i:anni collecti} (fol. 42{sup:v} u. 43{sup:r}, Tafeln 69 u. 70) führt N noch die Daten für die Jahre
+@n {sup:1}) {i:revolutio sperae} = 360°.
+@obs The page number «XIX» stands at the head of the page, centred, with a rule below it. L01-L02 end Suter's discussion of Robert of Chester's adiectiones begun on p. XVIII (JP2 0022, L21-L37); the minutes and seconds of arc are printed with the single and double prime.
+@obs L06-L14: the table of N, between a double rule above and a double rule below its head, with single vertical rules between the columns: «collecti» over the years, «medio die Cordubae» (at noon at Cordova) over the signs, degrees, minutes and seconds of the mean motion of the node; each row is one line here, its cells separated by our «|». L09: «50 ?», the question mark printed in the table.
+@obs Checked: from row to row the values grow by 6 signs 23° 27′ 42″ or 43″ (the mean motion of the node in thirty Arab years), in every step but those before and after 420; with that step the seconds of 420 would be 6, not 50, and 450 follows from 6 as from the other rows. Suter's question mark stands at this value.
+@obs L16-L17: thirty figures, for the thirty single years of table 20. L23: «(od. una)», «or una», Suter's alternative reading, the parenthesis and «od.» in roman type. L24: «(?)», upright, after a thin space.
+@obs Marks not transcribed: the outline of a spacing sort, printed lightly as a bracket, between «Medialitas» and «draconis» (L05).
+@copy A vertical stroke of pencil, about 300 px long, in the right margin beside L37-L38. Not part of the edition.

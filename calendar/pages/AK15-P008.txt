@@ -1,0 +1,38 @@
+@page 8 ٧
+% PDF 8, printed p. 7: the end of the rules for the first day of Tishri (de Blois's section 5): a leap year and a common
+% year with the molad on Sunday, and a common year after a leap year with the molad on Monday; the solar year of 365 days
+% 5 3791/4104 hours and the years from the creation of Adam to the end of the year 1135 of the Seleucid era (section 6);
+% the mean positions of the sun and the moon and the positions of the apogee of the moon, the planets and the head on the
+% first day of Adam and at the building of the Temple, in abjad letters (section 7).
+يوم الاثنين يكون رأس تشرى يوم الاثنين ويكون مرحشوان
+وكسليو تامين فان لم يكن فى تلك السنة عبور وولد قمره قبل ٢٠٤
+اجزاء يمضى من الساعة العاشرة من ليلة الاحد يكون رأس تشرى
+يوم الاثنين ويكون مرحشوان وكسليو ناقصين فان ولد قمره
+بعد ٢٠٤ ـ اجزاء يمضى من الساعة العاشرة من يوم الاحد الى حد
+يوم الاثنين فان رأس تشرى يوم الاثنين ويكون مرحشوان
+وكسليو تامين وان لم يكن فى تلك السنة عبور وكان فى السنة التى
+مضت قبلها عبور وكان ميلاد القمر بعد ـ ٨٩ ـ اجزاء يمضى من
+الساعة الرابعة من يوم الاثنين فان رأس تشرى يوم الثلاثاء
+ويكون مرحشوان وكسليو كالتقدير •
+@p فاما سنة الشمس فان عدد ايامها ـ ٣٦٥ ـ يوما و ـ ٥ ـ
+ساعات ٣٧٩١ جزءا من ـ ٤١٠٤ ـ ساعة والذى مضى من السنين
+منذ خلق الله آدم الى ان ينقضى سنة الف ومأية وخمسة وثلاثين
+لذى القرنين ـ ٤٠٨٢ ـ سنة معبرة على ما فى التوراة وكتب
+الانبياء واخبار الآن كان وسط الشمس اول يوم من ايام آدم وهو
+يوم الجمعة ـ ه كو ـ وسط القمر ـ ه كو اوج القمر ـ ا ه ـ زحل
+ح نه ـ المشترى ـ و ه ـ المريخ ا و الزهرة ـ د كه عطارد (١)
+الرأس ـ ه يد ـ وسط الشمس لبناء بيت المقدس ـ ه كو ـ القمر
+كو ـ اوج القمر ـ ط كو م يو ـ زحل ـ ى كب ط ـ المشترى
+@n (١) بياض فى الاصل
+@obs The running head «استخراج تاريخ اليهود للخوارزمى» stands at the head of the page, the page number «٧» at its left; recorded here, not transcribed as a line. L01 continues the catchword «يوم» of p. 6 (PDF 7). L10 is a short line ending with the edition's full stop (•); L11 begins with a paragraph indent (about 120 px). Below L19 a rule across the text block, and under it the footnote N01, set in a smaller type at the right; no catchword.
+@obs The numbers are printed in Arabic-Indic digits; dashes (written ـ, as on p. 4, PDF 5) stand on both sides of the number in L08, L11 (twice), L12 and L14, after it only in L05; the number of L02 and «٣٧٩١» in L12 have none. L14: between the ٠ and the ٨ of «٤٠٨٢» a raised dot (8 x 7 px) stands at the height of the tops of the digits; not transcribed. L11: the fives of «٣٦٥» and «٥» are printed as fives.
+@obs The positions of L16-L19 are written in abjad letters, a group for the sign and a group for the degree, set apart and between dashes: «ه كو», 5 signs 26 degrees, that is 176°; some positions add groups for minutes and seconds, as L19 «ط كو م يو» (9 signs 26 degrees 40 minutes 16 seconds) and «ى كب ط», and as the list of p. 8 (PDF 9) does throughout. L16 «ا ه» (12 px apart) and L17 «و ه» (15 px), as «ه كو» (8 px); since «اه» and «وه» are not abjad numbers (the larger value is written first), they are written as two groups. L17: after «المريخ» the letters ا and و (8 px apart) stand without a dash where the position of Mars is expected; they are divided as the groups «ا و», like «ا ه» and «و ه»; the print may also be read «او», «or». L17 «عطارد (١)»: the footnote N01, «a blank in the original», says that the manuscript has no position for Mercury.
+@obs Read as printed: in L02 «تامين», L05 and L08 «يمضى من», L09 «الرابعة من» and L10 «مرحشوان» the م is a filled oval (about 10 x 15 px) standing apart from the next letter, its joining stroke not printed, so that it looks like a large dot; read م (the full stop measures 24 x 26 px). L07 «وكسليو»; L08 «ميلاد القمر», for the molad; L13 «ومأية» with the hamza on the alif, «آدم» with the madda; L14 «معبرة», with one dot under the third letter (6 x 7 px), and «التوراة» with the full alif; L15 «الآن» with the madda; L18 «لبناء».
+@obs Checked against the four gates of the standard calendar (calendar/checks/gates.py), with the hours counted as on p. 5 (PDF 6). L01-L02 with p. 6 (PDF 7) L18-L19, a leap year: a molad from Sunday 20h 491p to the limit of Monday gives Monday with the year complete (385 days). L02-L04, a common year: before Sunday 9h 204p, Monday, deficient (353 days); L04-L07: after it, to the limit of Monday, Monday, complete (355 days), see AK15-CN020. L07-L10, a common year after a leap year: a molad after 589 parts of the fourth hour of the day of Monday (Monday 15h 589p, see AK15-CN021) gives Tuesday with the year regular (354 days), the rule later called BeTUTaKPaT: with a molad from Monday 15h 589p the molad of the leap year before lies 5 days 21 hours 589 parts earlier, on Tuesday at 18h or later, so that its first of Tishri was Thursday, and a first of Tishri on Monday would leave it 382 days.
+@obs Checked: the solar year of L11-L12, 365 days and 5 3791/4104 hours, is the nineteen-year cycle divided by 19: 6939d 16h 595p (p. 5, PDF 6, L09-L10, with AK15-CN011) / 19 = 365d 5h 997 12/19 parts, and 997 12/19 parts = 18955/20520 hour = 3791/4104 hour, as de Blois states for this section.
+@unres L15: «على ما فى التوراة وكتب الانبياء واخبار الآن كان وسط الشمس ...»: «واخبار الآن» gives no clear sense («the reports of now»?); whether a word is missing after «واخبار» or «الآن» begins the next sentence is not clear; the print is kept.
+@unres L17: Saturn on the first day of Adam, «ح نه»: نه (55) cannot be a number of degrees; whether the degrees are missing or a letter is misread is not known; the print is kept.
+@critical AK15-CN020 | wrong word | L05 | من يوم الاحد | من ليلة الاحد | the limit is the one of L02-L03, 204 parts of the tenth hour of the night of Sunday (Sunday 9h 204p of the gates); «the tenth hour of the day of Sunday» would be Sunday 21h-22h and would leave the molads from Sunday 9h 204p to Sunday 21h 204p without a rule; the gates give Monday with the year complete from Sunday 9h 204p | high | none
+@critical AK15-CN021 | wrong figure | L08 | ٨٩ | ٥٨٩ | the limit for a common year after a leap year is Monday 15h 589p, 589 parts of the fourth hour of the day of Monday: the molad of the leap year before lies 383d 21h 589p (thirteen months) earlier, and from this limit it falls on Tuesday at 18h or later, so that that year began on Thursday and a first of Tishri on Monday would make it 382 days (calendar/checks/gates.py, constants.py); the hundreds digit is missing in the print | high | the limit of the rule for a common year after a leap year
+@critical AK15-CN022 | wrong figure | L14 | ٤٠٨٢ | ٤٥٨٣ | the Jewish reckoning puts 3448 years between the creation of Adam and the beginning of the era of Dhū l-Qarnayn (so reported by Elias of Nisibis, in de Blois's chapter), and 3448 + 1135 = 4583 years at the end of the year 1135; the standard calendar agrees: the Seleucid year 1135, from Tishri 823 CE, is the year 4584 of the era of the world, 4583 of the era of Adam, which begins one year later; the treatise's own rule on p. 8 (PDF 9, L08-L09), which adds 9 to the completed Seleucid years before casting out nineteens, agrees with 3448 years (3448 = 19 x 181 + 9), while 4082 - 1135 = 2947 leaves 2 (calendar/checks/constants.py); the author's own figure is not known here, and the print differs in two digits | medium | the number of years from Adam
+@critical AK15-CN023 | missing figure | L18 | القمر كو | القمر ـ ه كو | at the building of the Temple, as on the first day of Adam, the sun and the moon are in conjunction at 176° (de Blois, section 7); the print gives the sun «ه كو», 5 signs 26 degrees, and for the moon only «كو», without the sign, where the first list (L16) has «وسط القمر ـ ه كو» | medium | the position of the moon at the building of the Temple

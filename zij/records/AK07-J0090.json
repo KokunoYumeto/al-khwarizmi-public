@@ -1,0 +1,746 @@
+{
+ "anchor": "AK07-J0090",
+ "jp2_index": 90,
+ "jp2_member": "b24872489_0090.jp2",
+ "jp2_sha256": "a67ced3916b8bb5395d4a1df12f0530dbe608c887a2519f434f7d4cd22af0d2b",
+ "reading_copy": "page_0090.jpg",
+ "reading_copy_sha256": "fa7cadacc705c9f7f25856d67adae0bedbc08d3e6924bf30bffe1f32a608d045",
+ "printed_page": "58",
+ "kind": "text",
+ "language": "de",
+ "role": "MODERN_EDITORIAL (Suter's German text)",
+ "file": "suter",
+ "comment": "JP2 0090: Suter's commentary, p. 58: the end of chapter 14 (the stations of al-Khwārizmī, al-Battānī and Ptolemy); chapter 15, the declination of the sun and the obliquity of the ecliptic, 23° 51′; chapter 16, the latitude of the moon and the argument of latitude (notes 1-3).",
+ "lines": [
+  {
+   "id": "AK07-J0090-L01",
+   "n": 1,
+   "kind": "indent",
+   "text": "Die Werte der {i:Statio prima} bei {sp:Kh.} stimmen mehr mit denen bei {sp:Batt.}, als",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Die Werte der Statio prima bei Kh. stimmen mehr mit denen bei Batt., als",
+   "italic": [
+    "Statio prima"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh.",
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "mit denen bei {sp:Ptol.} überein, doch kommen zwischen {sp:Kh.} und {sp:Batt.} bisweilen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "mit denen bei Ptol. überein, doch kommen zwischen Kh. und Batt. bisweilen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ptol.",
+    "Kh.",
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "Unterschiede von 1′ bis 2′ vor. Die grössern Abweichungen bei {sp:Ptol.} rühren davon",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Unterschiede von 1′ bis 2′ vor. Die grössern Abweichungen bei Ptol. rühren davon",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ptol."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "her, dass dieser als Argument das {i:mittlere Centrum}, die beiden arabischen Astronomen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "her, dass dieser als Argument das mittlere Centrum, die beiden arabischen Astronomen",
+   "italic": [
+    "mittlere Centrum"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "aber das {i:Centrum aequatum} annehmen. Die Übereinstimmung zwischen {sp:Batt.} und",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "aber das Centrum aequatum annehmen. Die Übereinstimmung zwischen Batt. und",
+   "italic": [
+    "Centrum aequatum"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Batt."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "{sp:Kh.} ist gewiss keine zufällige, ohne Zweifel hat {sp:Batt.} die Tafeln {sp:Kh.}’s gekannt und",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kh. ist gewiss keine zufällige, ohne Zweifel hat Batt. die Tafeln Kh.’s gekannt und",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh.",
+    "Batt.",
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "wohl auch benutzt, wenn er sie auch nie zitiert.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wohl auch benutzt, wenn er sie auch nie zitiert.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L08",
+   "n": 8,
+   "kind": "centre",
+   "text": "{b:Kap. 15. Über die Deklination der Sonne.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kap. 15. Über die Deklination der Sonne.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "Kap. 15. Über die Deklination der Sonne."
+   ]
+  },
+  {
+   "id": "AK07-J0090-L09",
+   "n": 9,
+   "kind": "centre",
+   "text": "(Text p. 13, Tafeln 21—26.)",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(Text p. 13, Tafeln 21—26.)",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L10",
+   "n": 10,
+   "kind": "indent",
+   "text": "Über diese Tafeln ist wenig zu bemerken. {i:Porta} im Titel ist die Übersetzung",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Über diese Tafeln ist wenig zu bemerken. Porta im Titel ist die Übersetzung",
+   "italic": [
+    "Porta"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "des arabischen {i:bāb} = Pforte, Kapitel. Die Kolonne in den Tafeln 21—26, die die",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "des arabischen bāb = Pforte, Kapitel. Die Kolonne in den Tafeln 21—26, die die",
+   "italic": [
+    "bāb"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "Deklination der Sonne enthält, ist überschrieben : {i:Obliquatio solis} = Neigung der",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Deklination der Sonne enthält, ist überschrieben : Obliquatio solis = Neigung der",
+   "italic": [
+    "Obliquatio solis"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "Sonne (arab. {i:mail al-shams}) ; wir finden dann von 0° bis 90° (bezw. 360°—270°) hin-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Sonne (arab. mail al-shams) ; wir finden dann von 0° bis 90° (bezw. 360°—270°) hin-",
+   "italic": [
+    "mail al-shams"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "zugefügt {i:accedentis} (für {i:ascendentis}), von 90° bis 180° (270°—180°) {i:recedentis} (für",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zugefügt accedentis (für ascendentis), von 90° bis 180° (270°—180°) recedentis (für",
+   "italic": [
+    "accedentis",
+    "ascendentis",
+    "recedentis"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "{i:descendentis}). Die {i:grösste Deklination}, also {i:Schiefe der Ekliptik}, gibt {sp:Kh.} zu 23° 51′ an.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "descendentis). Die grösste Deklination, also Schiefe der Ekliptik, gibt Kh. zu 23° 51′ an.",
+   "italic": [
+    "descendentis",
+    "grösste Deklination",
+    "Schiefe der Ekliptik"
+   ],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "Der {i:Sūrya-Siddhānta}{sup:1}) hat 24°, die Verfasser der „erprobten Tafeln“ geben sie zu",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Der Sūrya-Siddhānta1) hat 24°, die Verfasser der „erprobten Tafeln“ geben sie zu",
+   "italic": [
+    "Sūrya-Siddhānta"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "23° 33′ an, {sp:Ptol.} hat den Wert 23° 51′ 20″, {sp:Batt.} 23° 35′ ; {sp:Kh.} schliesst sich also am",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "23° 33′ an, Ptol. hat den Wert 23° 51′ 20″, Batt. 23° 35′ ; Kh. schliesst sich also am",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ptol.",
+    "Batt.",
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "nächsten an {sp:Ptol.} an, er lässt bloss die 20″ weg (vergl. oben p. 33). Es ist übrigens",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "nächsten an Ptol. an, er lässt bloss die 20″ weg (vergl. oben p. 33). Es ist übrigens",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Ptol."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "zu bemerken, dass eine Reihe arabischer Astronomen den ptolemäischen Wert eben-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "zu bemerken, dass eine Reihe arabischer Astronomen den ptolemäischen Wert eben-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "falls mit Weglassung der Sekunden zu 23° 51′ angeben. Die Werte {sp:Kh.}’s weichen",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "falls mit Weglassung der Sekunden zu 23° 51′ angeben. Die Werte Kh.’s weichen",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "von denen nach der Formel sin {i:δ} = sin {i:l} · sin {i:e} (wo {i:l} die Grade der Ekliptik vom",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "von denen nach der Formel sin δ = sin l · sin e (wo l die Grade der Ekliptik vom",
+   "italic": [
+    "δ",
+    "l",
+    "e",
+    "l"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L22",
+   "n": 22,
+   "kind": "text",
+   "text": "Frühlingspunkt an gezählt, also die Länge der Sonne, und {i:e} die Schiefe der Ekliptik",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Frühlingspunkt an gezählt, also die Länge der Sonne, und e die Schiefe der Ekliptik",
+   "italic": [
+    "e"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L23",
+   "n": 23,
+   "kind": "text",
+   "text": "bezeichnen) berechneten im Maximum um 2″ ab. Diese Deklinationswerte bilden",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "bezeichnen) berechneten im Maximum um 2″ ab. Diese Deklinationswerte bilden",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L24",
+   "n": 24,
+   "kind": "text",
+   "text": "ein schönes Zeugnis dafür, mit welcher Genauigkeit {sp:Kh.} bei der Abfassung seines",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "ein schönes Zeugnis dafür, mit welcher Genauigkeit Kh. bei der Abfassung seines",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L25",
+   "n": 25,
+   "kind": "text",
+   "text": "Tafelwerkes vorgegangen ist.",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Tafelwerkes vorgegangen ist.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L26",
+   "n": 26,
+   "kind": "centre",
+   "text": "{b:Kap. 16. Über die Breite des Mondes.}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Kap. 16. Über die Breite des Mondes.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": [
+    "Kap. 16. Über die Breite des Mondes."
+   ]
+  },
+  {
+   "id": "AK07-J0090-L27",
+   "n": 27,
+   "kind": "centre",
+   "text": "(Text p. 14, Tafel 21—26, u. 19—20.)",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "(Text p. 14, Tafel 21—26, u. 19—20.)",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L28",
+   "n": 28,
+   "kind": "indent",
+   "text": "Die Breite des Mondes wird nach der gleichen Formel bestimmt wie die Deklina-",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Die Breite des Mondes wird nach der gleichen Formel bestimmt wie die Deklina-",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L29",
+   "n": 29,
+   "kind": "text",
+   "text": "tion der Sonne, also {i:sin latit. lunae} = {i:sin des Argumentes der Breite} × {i:sin der Schiefe}",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "tion der Sonne, also sin latit. lunae = sin des Argumentes der Breite × sin der Schiefe",
+   "italic": [
+    "sin latit. lunae",
+    "sin des Argumentes der Breite",
+    "sin der Schiefe"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L30",
+   "n": 30,
+   "kind": "text",
+   "text": "{i:der Mondbahn.} Unter dem Argument der Breite versteht man die Entfernung des",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "der Mondbahn. Unter dem Argument der Breite versteht man die Entfernung des",
+   "italic": [
+    "der Mondbahn."
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L31",
+   "n": 31,
+   "kind": "text",
+   "text": "wahren Ortes des Mondes in der Ekliptik vom nördlichen Knoten (Drachenkopf).",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "wahren Ortes des Mondes in der Ekliptik vom nördlichen Knoten (Drachenkopf).",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L32",
+   "n": 32,
+   "kind": "text",
+   "text": "Dieses {i:Argument der Breite} wird auf folgende Weise gefunden :",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Dieses Argument der Breite wird auf folgende Weise gefunden :",
+   "italic": [
+    "Argument der Breite"
+   ],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L33",
+   "n": 33,
+   "kind": "indent",
+   "text": "Man addiert zum wahren Ort des Mondes die mittlere Länge des Dıachenkopfes",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Man addiert zum wahren Ort des Mondes die mittlere Länge des Dıachenkopfes",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L34",
+   "n": 34,
+   "kind": "text",
+   "text": "[und subtrahiert von dieser Summe, wenn sie 360° übersteigt, diese Grösse]{sup:2}).",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "[und subtrahiert von dieser Summe, wenn sie 360° übersteigt, diese Grösse]2).",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L35",
+   "n": 35,
+   "kind": "indent",
+   "text": "{sp:Batt.} hat dieselbe Regel, dann aber noch folgende, die {sp:Kh.} weglässt : Man",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "Batt. hat dieselbe Regel, dann aber noch folgende, die Kh. weglässt : Man",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Batt.",
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L36",
+   "n": 36,
+   "kind": "text",
+   "text": "subtrahiert den wahren Ort des Drachenkopfes vom wahren Ort des Mondes, so hat",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "subtrahiert den wahren Ort des Drachenkopfes vom wahren Ort des Mondes, so hat",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-L37",
+   "n": 37,
+   "kind": "text",
+   "text": "man das Argument der Breite{sup:3}).",
+   "cells": null,
+   "pages": null,
+   "tables": null,
+   "margin": null,
+   "margin_side": null,
+   "plain": "man das Argument der Breite3).",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-N01",
+   "n": 1,
+   "kind": "note",
+   "text": "{sup:1}) Ed. {sp:Burgess}, p. 201.",
+   "margin": null,
+   "plain": "1) Ed. Burgess, p. 201.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Burgess"
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-N02",
+   "n": 2,
+   "kind": "note",
+   "text": "{sup:2}) Was in eckigen Klammern steht, fehlt bei {sp:Kh.}",
+   "margin": null,
+   "plain": "2) Was in eckigen Klammern steht, fehlt bei Kh.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Kh."
+   ],
+   "bold": []
+  },
+  {
+   "id": "AK07-J0090-N03",
+   "n": 3,
+   "kind": "note",
+   "text": "{sup:3}) Ed. {sp:Nallino}, I, 76.",
+   "margin": null,
+   "plain": "3) Ed. Nallino, I, 76.",
+   "italic": [],
+   "small_caps": [],
+   "spaced": [
+    "Nallino"
+   ],
+   "bold": []
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The page number «58» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L07 end chapter 14 (pp. 56-57, JP2 0088-0089). L08-L09 and L26-L27: the headings of chapters 15 and 16, in bold, centred, each with the reference to the text below it.",
+  "L10-L25: the obliquity of the ecliptic: al-Khwārizmī 23° 51′, the Sūrya-Siddhānta 24°, the «tested tables» 23° 33′, Ptolemy 23° 51′ 20″, al-Battānī 23° 35′. Ptolemy's value is half of the 47° 42′ 40″ between the tropics of Almagest I, 12; L18: «vergl. oben p. 33» refers to Ibn al-Qifṭī's report that al-Khwārizmī took the declination of the sun after Ptolemy (p. 33, JP2 0065, L03-L08). The declinations of Tables 21-26 are to be compared with the tables.",
+  "L21: «sin δ = sin l · sin e», δ, l and e in italics, «sin» upright, «·» the raised dot of multiplication; L29-L30: the rule for the latitude of the moon in italics, «×» the sign of multiplication, «=» upright.",
+  "L33-L37. Checked: the tables of the node give 360° less its longitude (p. 55, JP2 0087, L10-L13), so that the tabulated value added to the true longitude of the moon, 360° cast off when the sum exceeds it, is the true longitude of the moon less that of the node, the argument of latitude of al-Battānī's second rule. L33: the r of «Drachenkopfes» is printed without its arm; see the critical note. L34: the passage in square brackets, which note 2 says al-Khwārizmī does not have.",
+  "L17: the prime of «51′» in «23° 51′ 20″» is a heavier sort than the other primes of the page. N01: a speck above the point after «201»; not transcribed. Spaced type, marked {sp:}: «Kh.», «Batt.», «Ptol.», «Burgess», «Nallino»; italics: «Statio prima», «mittlere Centrum», «Centrum aequatum», «Porta», «bāb», «Obliquatio solis», «mail al-shams», «accedentis», «ascendentis», «recedentis», «descendentis», «grösste Deklination», «Schiefe der Ekliptik», «Sūrya-Siddhānta», «Argument der Breite» (L32).",
+  "The colons and semicolons stand after the thin space of the edition (9-14 px measured)."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK07-CN054",
+   "class": "damaged letter",
+   "line": "L33",
+   "printed": "Dıachenkopfes",
+   "proposed": "Drachenkopfes",
+   "evidence": "«die mittlere Länge des Drachenkopfes», as «Drachenkopf» in L31 and L36; the r is printed without its arm, as the r of «der» on p. 49 (JP2 0081, L27)",
+   "confidence": "high",
+   "impact": "none"
+  }
+ ]
+}

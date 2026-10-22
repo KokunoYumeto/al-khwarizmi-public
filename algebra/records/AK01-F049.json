@@ -1,0 +1,330 @@
+{
+ "anchor": "AK01-F049",
+ "frame": 49,
+ "frame_file": "page_049.jpg",
+ "frame_sha256": "950b271bebb9922123bd19d06eb0b2cdadaff0e05f81dbb67cda26a88a48767f",
+ "printed_page": "٣٣",
+ "kind": "text",
+ "role": "AK_TEXT (lines); MODERN_EDITORIAL (note marks, footnotes not reproduced)",
+ "comment": "Frame 049, printed p. 33: the demonstration of (√200 − 10) + (20 − √200) = 10 continued and ended, with its figure; then the demonstration of (20 − √200) − (√200 − 10) = 30 − 2√200 («وأما علة جذر مائتين الا عشرة منقوصاً من عشرين الا جذر مائتين»), continued on the next page. The figure stands at the left of lines 9-16, which are set in a narrower measure beside it. No footnotes on this page.",
+ "lines": [
+  {
+   "id": "AK01-F049-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "مثلا خط {ov:اح} الذى هو عشرة فمن نقطة {ov:ٮ} الى نقطة {ov:ه} مثل خط {ov:اٮ} فهو جذر",
+   "note_marks": [],
+   "figure_labels": [
+    "اح",
+    "ٮ",
+    "ه",
+    "اٮ"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "مائتين أيضا والباقى من العشرين هو من نقطة {ov:ه} الى نقطة {ov:د} فلما أردنا أن نجمع",
+   "note_marks": [],
+   "figure_labels": [
+    "ه",
+    "د"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "مابقى من جذر المائتين بعد طرح العشرة وهو خط {ov:حٮ} الى خط {ov:هد} الذى هو",
+   "note_marks": [],
+   "figure_labels": [
+    "حٮ",
+    "هد"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "عشرون الا جذر مائتين فقطعنا من خط {ov:ٮه} مثل خط {ov:حٮ} وهو خط {ov:زه} وقد",
+   "note_marks": [],
+   "figure_labels": [
+    "ٮه",
+    "حٮ",
+    "زه"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "كان تبين لنا أن خط {ov:اٮ} الذى هو جذرمائتين مثل خط {ov:ٮه} وأن خط {ov:اح} الذى",
+   "note_marks": [],
+   "figure_labels": [
+    "اٮ",
+    "ٮه",
+    "اح"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "هو العشرة مثل خط {ov:ٮز} والباقى من خط {ov:اٮ} الذى هو {ov:حٮ} مثل الباقى من خط",
+   "note_marks": [],
+   "figure_labels": [
+    "ٮز",
+    "اٮ",
+    "حٮ"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "{ov:ٮه} الذى هو {ov:زه} زدنا على خط {ov:هد} خط {ov:زه} فتبين لنا أنه قد نقص من خط {ov:ٮد}",
+   "note_marks": [],
+   "figure_labels": [
+    "ٮه",
+    "زه",
+    "هد",
+    "زه",
+    "ٮد"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "الذى هو عشرون مثل خط {ov:اح} الذى هوعشرة وهو خط {ov:ٮز} وبقى لناخط {ov:زد}",
+   "note_marks": [],
+   "figure_labels": [
+    "اح",
+    "ٮز",
+    "زد"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "وهوعشرة وذلك ما أردنا أن نبين وهذه",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "صورته . وأما علة جذر مائتين الا عشرة",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "منقوصاً من عشرين الا جذر مائتين فان",
+   "note_marks": [],
+   "figure_labels": [],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "صورة ذلك خط {ov:اٮ} وهو جذر مائتين",
+   "note_marks": [],
+   "figure_labels": [
+    "اٮ"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "ومن {ov:ا} الى نقطة {ov:ح} هى العشرة المعلومة",
+   "note_marks": [],
+   "figure_labels": [
+    "ا",
+    "ح"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "ونخرج من نقطة {ov:ٮ} خطا الى نقطة {ov:د}",
+   "note_marks": [],
+   "figure_labels": [
+    "ٮ",
+    "د"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "ونجعله العشرين ونجعل من {ov:ٮ} الى نقطة {ov:ه}",
+   "note_marks": [],
+   "figure_labels": [
+    "ٮ",
+    "ه"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L16",
+   "n": 16,
+   "kind": "text",
+   "text": "مثل خط جذر مائتين وهو مثل خط {ov:اٮ} وقد تبين لنا أن خط {ov:حٮ} هو مابقى",
+   "note_marks": [],
+   "figure_labels": [
+    "اٮ",
+    "حٮ"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L17",
+   "n": 17,
+   "kind": "text",
+   "text": "من جذر مائتين بعد القاء العشرة وخط {ov:ده} هو مابقى من العشرين بعد القاء",
+   "note_marks": [],
+   "figure_labels": [
+    "ده"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L18",
+   "n": 18,
+   "kind": "text",
+   "text": "جذر المائتين فأردنا أن ننقص خط {ov:حٮ} من خط {ov:هد} فأخرجنا من نقطة {ov:ٮ}",
+   "note_marks": [],
+   "figure_labels": [
+    "حٮ",
+    "هد",
+    "ٮ"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L19",
+   "n": 19,
+   "kind": "text",
+   "text": "خطا الى نقطة {ov:ر} وهو مثل خط {ov:اح} الذى هو العشرة فصار جميع خط {ov:رد} مثل",
+   "note_marks": [],
+   "figure_labels": [
+    "ر",
+    "اح",
+    "رد"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L20",
+   "n": 20,
+   "kind": "text",
+   "text": "خط {ov:رٮ} وخط {ov:ٮد} وقد تبين لنا أن ذلك كله ثلاثون وقطعنا من خط {ov:هد} مثل",
+   "note_marks": [],
+   "figure_labels": [
+    "رٮ",
+    "ٮد",
+    "هد"
+   ],
+   "turned_letters": [],
+   "bold": []
+  },
+  {
+   "id": "AK01-F049-L21",
+   "n": 21,
+   "kind": "text",
+   "text": "خط {ov:حٮ} وهو خط {ov:هح} فتبين لنا أن خط {ov:حد} هو مابقى من خط {ov:رد} الذى",
+   "note_marks": [],
+   "figure_labels": [
+    "حٮ",
+    "هح",
+    "حد",
+    "رد"
+   ],
+   "turned_letters": [],
+   "bold": []
+  }
+ ],
+ "editors_notes": [],
+ "withheld": [],
+ "figures": [
+  {
+   "id": "AK01-F049-FIG1",
+   "rect": [
+    540,
+    1790,
+    1335,
+    2520
+   ],
+   "after": 8
+  }
+ ],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "The figure, drawn, not set in type: a vertical line with ا at its top and ح beside it, at about two thirds of its length; at its foot ٮ, the corner from which a horizontal line runs to the left, with ز, ه and د below it in that order, د at its far end. The ب of the figure has no dot. It serves the first demonstration (L01-L09): اٮ is the root of two hundred, اح ten, ٮد twenty, ٮه equal to اٮ, ٮز equal to اح.",
+  "The figure of the second demonstration (L10-L21) is printed on the next page (frame 050), at the left of lines 4-9 there. It shows ر, at the end of the line of ten drawn from ٮ (L18-L19), so that رد is thirty, and on the line هد the point at which the piece equal to حٮ ends (L21), with a letter of its own. The text names that point ح, the letter of a point of the vertical line in L13 and in both figures; see the critical note AK01-CN014.",
+  "The labels of the figure carry a short wavy line above them (here a line above), also the single letters ا (L13), ٮ, ه, د, ح and ر. The ب of the labels is printed without its dot (ٮ), as on frames 036-048, and transcribed so; ه in its knotted initial form.",
+  "Set without a word space, and transcribed so (gaps as the nearest approach of the letter bodies, px at 400 ppi): مابقى (L03, L16, L17, L21; between the alif and the ب 8 to 18, where ما before another word stands 28 or more apart: ما أردنا, L09, 30); جذرمائتين (L05; 15 between the ر and the م, where جذر مائتين stands 37 to 46 apart in L04, L16 and L17); هوعشرة (L08) and وهوعشرة (L09; 24 between the و and the ع, as close as the conjunction و stands to the ع of وعشرة, 23 px on frame 046, L12); لناخط (L08; 11 between the alif and the خ).",
+  "Where the print sets the words close but leaves a narrow gap, a word space is transcribed: زدنا على (L07; 22 between the alif and the ع, which stand 10 to 11 apart inside فاعلم, frame 046), {ov:ٮز} والباقى (L06; 23), العشرة مثل (L06; 18), نقطة {ov:ر} (L19; 16), {ov:ر} وهو (L19; the tail of the ر ends well before the و). After a label whose last letter joins (ٮ, ح, the knotted ه), the space is written as after any joining letter, where the print sets the next word close: {ov:ه} الى (L02), {ov:زه} وقد (L04), {ov:ٮه} وأن (L05).",
+  "The heading of the second demonstration, «وأما علة» (L10), is printed in the face of the text, where the corresponding words of frame 048, L17, are bold.",
+  "L10: the full stop after صورته stands between spaces.",
+  "Plain alif where a hamza might be expected, as printed: الى throughout, الا (L04, L10, L11), فان (L11), القاء (L17, twice); with hamza: أيضا (L02), أردنا, أن (L02, L09), أن, وأن (L05), أنه (L07), وأما (L10), أن (L16, L18, L20, L21), فأردنا, فأخرجنا (L18).",
+  "With tanwīn on the final alif: منقوصاً (L11); without tanwīn as printed: مثلا (L01), أيضا (L02), خطا (L14, L19).",
+  "The final yā' is printed without dots: الذى throughout, والباقى (L02, L06), الباقى (L06), الى throughout, مابقى (L03, L16, L17, L21), على (L07), وبقى (L08), هى (L13).",
+  "The print stretches جذر (L12), نقطة (L14) and خط (L20, at the beginning of the line) with the elongation stroke; the stroke is not transcribed."
+ ],
+ "copy_matter": [],
+ "critical_notes": [
+  {
+   "id": "AK01-CN014",
+   "class": "labels of the text and of the figure disagree",
+   "line": "L21",
+   "printed": "هح, حد",
+   "proposed": "هج, جد",
+   "evidence": "The line names with ح the point at which the piece cut off from هد, equal to حٮ, ends: هح is that piece and حد the rest of رد. The letter ح also names the point of the vertical line at which the ten ends (L13; frame 050, L01), and the figure of the demonstration (frame 050) labels the two points differently: the point of the vertical line with a hooked ح, the point of هد with a letter shaped like ح without a dot, the letter which the figures of frames 041 and 042 have for ج. The next page names the same piece with the ع-shaped sort that the print sets for ج (frame 050, L02; AK01-CN015). The edition does not reproduce this page of the manuscript.",
+   "confidence": "high that the point of هد has a letter of its own; medium that it is ج, which rests on the figure and on the sort of frame 050, L02",
+   "impact": "the printed labels give one letter to two points of the figure; the construction makes clear which point is meant"
+  }
+ ]
+}

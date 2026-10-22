@@ -1,0 +1,32 @@
+@page 29 [١٥]
+% Frame 029, printed p. 15 (the page bears no number; frame 030 is p. ١٦): the opening of the work, the basmala, the
+% line that names the author, and the beginning of his preface: praise of God and the Prophet; the scholars of past
+% ages who wrote books, each of three kinds; the caliph al-Ma'mun's encouragement of learning.
+@h بسم الله الرحمن الرحيم
+@p هذا كتاب وضعه محمد بن موسى الخوارزمى افتتحه بأن قال
+@p الحمد لله على نعمه بما هو أهله من محامده التى بأداء ما افترض منها على من
+يعبده من خلقه يقع اسم الشكر ويستوجب المزيد ونؤمن من الغير اقراراً
+بربوبيته وتذللا لعزته وخشوعا لعظمته . بعث محمداً صلى الله عليه وعلى آله
+وسلم بالنبوة على حين فترة من الرسل وتنكر من الحق ودروس من الهدى فبصر
+به من العمى واستنقذ به من الهلكة وكثر به بعد القلة وألف به بعد الشتات .
+تبارك الله ربنا وتعالى جده وتقدست أسماؤه ولا إله غيره ، وصلى الله على محمد
+النبى وآله وسلم . ولم تزل العلماء فى الأزمنة الخالية والأمم الماضية يكتبون
+الكتب مما يصنفون من صنوف العلم ووجوه الحكمة نظراً لمن بعدهم واحتساباً
+للأجر بقدر الطاقة ورجاء أن يلحقهم من أجر ذلك وذخره وذكره ويبقى
+لهم من لسان الصدق ما يصغر فى جنبه كثير مماكانوا يتكلفونه من المؤونة
+ويحملونه على أنفسهم من المشقة فى كشف أسرار العلم وغامضه . إما رجل
+سبق إلى مالم يكن مستخرجاً قبله فورثه من بعده . وإما رجل شرح مما أبقى
+الأولون ما كان مستغلقاً فأوضح طريقه وسهل مسلكه وقرب مأخذه .
+وإما رجل وجد فى بعض الكتب خللا فلم شعثه وأقام أوده وأحسن الظن
+بصاحبه غير راد عليه ولا مفتخر بذلك من فعل نفسه . وقد شجعنى ما فضل
+الله به الامام المأمون أمير المؤمنين مع الخلافة التى حاز له إرثها وأكرمه بلباسها
+وحلاه بزينتها ، من الرغبة فى الأدب وتقريب أهله وادنائهم وبسط كنفه لهم
+ومعونته إياهم على إيضاح ماكان مستبهماً وتسهيل ما كان مستوعراً . على أن
+@obs L01: the basmala is set as a centred heading in a large display type; the word الله is printed as the usual ligature with shadda and a small alif above, which the edition's font draws from the plain letters.
+@obs L02-L03: both lines are printed with a paragraph indent.
+@obs The final yā' is printed without dots throughout this page (الخوارزمى, التى, على, فى, الهدى, النبى, ويبقى, أبقى, شجعنى); the print's dotless form is kept.
+@obs Set without a word space after a non-connecting letter, and transcribed so: مماكانوا (L12), مالم (L14), ماكان (L20; but ما كان later on the same line, and on L15). In وأكرمه (L18) the gap after the alif is a letter gap within the word.
+@obs Without tanwīn as printed: وتذللا, وخشوعا (L05), خللا (L16); with tanwīn on the final alif: اقراراً (L04), محمداً (L05), نظراً, واحتساباً (L10), مستخرجاً (L14), مستغلقاً (L15), مستبهماً, مستوعراً (L20).
+@obs Plain alif where a hamza might be expected, as printed: افتتحه (L02), افترض (L03), الامام (L18), وادنائهم (L19).
+@obs L14-L15: شرح مما أبقى / الأولون, as printed.
+@copy Pencil marks of a reader of the Columbia copy, not part of the print: underlines under parts of L10-L11, L15, L17-L18; rings round يلحقهم (L11) and الأولون (L15); the English word «shorten» written above L16 near الكتب.

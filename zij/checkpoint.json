@@ -1,0 +1,16 @@
+{
+ "lane": "AK07 Zij, Majriti/Adelard recension (Suter 1914, the Wellcome copy, IA b24872489, 296 JP2 images)",
+ "canonical_source_checkpoint_sha256": "b5cc4e36cea8abca1bd83055ef142477496beb396d396bd17734e63aae742034",
+ "canonical_source_checkpoint_note": "SHA-256 over the page files in order: file name, a NUL byte, the bytes",
+ "last_fully_transcribed_source_unit": "JP2_0295",
+ "last_fully_verified_source_unit": "JP2_0295",
+ "first_untouched_source_unit": null,
+ "owned_units_total": 296,
+ "owned_units_disposed": 296,
+ "unresolved_count": 2,
+ "critical_notes": 322,
+ "latin_lines": 5230,
+ "latin_note_lines": 1127,
+ "suter_lines": 4916,
+ "suter_note_lines": 387
+}

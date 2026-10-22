@@ -1,0 +1,258 @@
+{
+ "anchor": "AK05-F089",
+ "frame": 89,
+ "frame_file": "page_089.jpg",
+ "frame_sha256": "bbc818c69be3c111e6126898683c07368dc53670a7dedb703e19d4a0c6470125",
+ "printed_page": "٨٣",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 089, printed p. 83: the Dark Sea continued, in running text: the coast from point to point, with the editor's running numbers (١٢٦٩)-(١٢٨٢) and the numbers of Suhrāb, past the island called the Shining Castle, the mountain of the island of the Ruby and the Jewels, the island of Silver and the mouth of the river سواس, back to the place where it began, beyond the equator. Five lines of the editor's footnotes and the signature of the printed sheet.",
+ "lines": [
+  {
+   "id": "AK05-F089-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "{ov:ڡعو مه} والعرض {ov:كا ل} (١٢٦٩) [٨٢٥] يمرّ الى طول {ov:ڡعد {z}} والعرض {ov:كب ل} (١٢٧٠)",
+   "margin": null,
+   "cells": null,
+   "plain": "ڡعو مه والعرض كا ل (١٢٦٩) [٨٢٥] يمرّ الى طول ڡعد ō والعرض كب ل (١٢٧٠)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F089-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "[٨٢٦] هناك مصبّ نهر ويحدث فى هٰذا الموضع جزيرة يقال لها القلعة المضيئة يمرّ الى",
+   "margin": null,
+   "cells": null,
+   "plain": "[٨٢٦] هناك مصبّ نهر ويحدث فى هٰذا الموضع جزيرة يقال لها القلعة المضيئة يمرّ الى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F089-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "طول {ov:ڡعٮ ل}{n:a} والعرض {ov:كا {z}} (١٢٧١) [٨٢٧] يمرّ الى طول {ov:قعا ل} والعرض {ov:و {z}} (١٢٧٢)",
+   "margin": null,
+   "cells": null,
+   "plain": "طول ڡعٮ ل والعرض كا ō (١٢٧١) [٨٢٧] يمرّ الى طول قعا ل والعرض و ō (١٢٧٢)",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F089-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "[٨٢٨] ويمرّ فيماسّ جبل جزيرة الياقوت والجواهر{n:b} عند طول {ov:ڡعح ك} والعرض {ov:ه ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "[٨٢٨] ويمرّ فيماسّ جبل جزيرة الياقوت والجواهر عند طول ڡعح ك والعرض ه ل",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F089-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "(١٢٧٣) [٨٢٩] ويمرّ متّصل* بالجبل المحيط بجزيرة الجواهر مع الجبل حتّى يصير الى",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٢٧٣) [٨٢٩] ويمرّ متّصل* بالجبل المحيط بجزيرة الجواهر مع الجبل حتّى يصير الى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F089-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "طول {ov:ڡعا م}{n:c} والعرض {ov:د ك} (١٢٧٤) [٨٣٠] يمرّ الى طول {ov:ڡعا {z}}{n:d} والعرض {ov:ا {z}} خلف",
+   "margin": null,
+   "cells": null,
+   "plain": "طول ڡعا م والعرض د ك (١٢٧٤) [٨٣٠] يمرّ الى طول ڡعا ō والعرض ا ō خلف",
+   "note_marks": [
+    "c",
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F089-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "خطّ الاستواء (١٢٧٥) [٨٣١] يمرّ الى طول {ov:قسح ل} والعرض {ov:و ل} ⟨خلف خطّ",
+   "margin": null,
+   "cells": null,
+   "plain": "خطّ الاستواء (١٢٧٥) [٨٣١] يمرّ الى طول قسح ل والعرض و ل ⟨خلف خطّ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F089-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "الاستواء⟩{n:e} (١٢٧٦) [٨٣٢] يمرّ الى طول {ov:ڡسطى} والعرض {ov:ز ه} ⟨خلف خطّ الاستواء⟩{n:e}",
+   "margin": null,
+   "cells": null,
+   "plain": "الاستواء⟩ (١٢٧٦) [٨٣٢] يمرّ الى طول ڡسطى والعرض ز ه ⟨خلف خطّ الاستواء⟩",
+   "note_marks": [
+    "e",
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F089-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "(١٢٧٧) [٨٣٣] يمرّ الى طول {ov:قعٮ ل} والعرض {ov:ج ل}{n:f} خلف خطّ الاستواء (١٢٧٨)",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٢٧٧) [٨٣٣] يمرّ الى طول قعٮ ل والعرض ج ل خلف خطّ الاستواء (١٢٧٨)",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F089-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "[٨٣٤] يمرّ الى طول {ov:ڡعح ل} والعرض {ov:ر {z}} ⟨خلف خطّ الاستواء⟩{n:g} (١٢٧٩) [٨٣٥]",
+   "margin": null,
+   "cells": null,
+   "plain": "[٨٣٤] يمرّ الى طول ڡعح ل والعرض ر ō ⟨خلف خطّ الاستواء⟩ (١٢٧٩) [٨٣٥]",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F089-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "مصبّ نهر ويمرّ على صورة الطيلسان يمرّ بعرض {ov:ط ل} خلف الاستواء (١٢٨٠) [٨٣٦]",
+   "margin": null,
+   "cells": null,
+   "plain": "مصبّ نهر ويمرّ على صورة الطيلسان يمرّ بعرض ط ل خلف الاستواء (١٢٨٠) [٨٣٦]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F089-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "ويصير الى طول {ov:قع {z}} والعرض {ov:ح {z}} خلف الاستواء (١٢٨١) [٨٣٧] يمرّ الى طول",
+   "margin": null,
+   "cells": null,
+   "plain": "ويصير الى طول قع ō والعرض ح ō خلف الاستواء (١٢٨١) [٨٣٧] يمرّ الى طول",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F089-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "{ov:ڡسح {z}} والعرض {ov:ر {z}}{n:h} خلف الاستواء (١٢٨٢) [٨٣٨] فيحدث هناك جزيرة يقال",
+   "margin": null,
+   "cells": null,
+   "plain": "ڡسح ō والعرض ر ō خلف الاستواء (١٢٨٢) [٨٣٨] فيحدث هناك جزيرة يقال",
+   "note_marks": [
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F089-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "لها جزيرة الفضّة ويمرّ بمصبّ نهر سواس ويصير الى موضعه الّذى منه ابتدأنا وهو عند",
+   "margin": null,
+   "cells": null,
+   "plain": "لها جزيرة الفضّة ويمرّ بمصبّ نهر سواس ويصير الى موضعه الّذى منه ابتدأنا وهو عند",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F089-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "طول {ov:قسد {z}} والعرض {ov:ى {z}} خلف الاستواء{n:i} *",
+   "margin": null,
+   "cells": null,
+   "plain": "طول قسد ō والعرض ى ō خلف الاستواء *",
+   "note_marks": [
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+   ],
+   "lines": 5,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L03: a variant reading of the first longitude is ڡعد ل, with a line over the numerals (note a).",
+  "L04: the peninsula is called جزيرة الجوهر at entries (68), (69), (70), (71), (592)-(593) and (594)-(595), جزيرة الياقوت at entry (596), and جزيرة الجواهر at points (1274) and (1731) (note b).",
+  "L06: a variant reading of the first longitude is ڡعا د, and of the second longitude ڡعا ه, each with a line over the numerals (notes c and d).",
+  "L07-L08: the manuscript lacks the words خلف خطّ الاستواء, here and after the next latitude; the editor supplies them (note e).",
+  "L09: a variant reading of the latitude is ج له, with a line over the numerals (note f).",
+  "L10: the manuscript lacks the words خلف خطّ الاستواء, which the editor supplies (note g).",
+  "L13: a variant reading of the latitude is و ه, with a line over the numerals (note h).",
+  "L15: the point is the same as point 1147 (note i)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The running text goes on from p. 82 (frame 088), whose last words, «يمرّ الى طول», L01 continues with the longitude «ڡعو مه»: the coast from point to point, with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}, the editor's running numbers in parentheses, (١٢٦٩)-(١٢٨٢), and the numbers of Suhrāb in square brackets, [٨٢٥]-[٨٣٨], without a gap.",
+  "The places of the coast: L02: «هناك مصبّ نهر ويحدث فى هٰذا الموضع جزيرة يقال لها القلعة المضيئة», there is the mouth of a river, and at this place there arises an island called the Shining Castle; L04: «ويمرّ فيماسّ جبل جزيرة الياقوت والجواهر», and it passes and touches the mountain of the island of the Ruby and the Jewels; L05: «ويمرّ متّصل* بالجبل المحيط بجزيرة الجواهر مع الجبل حتّى يصير الى», and it passes joined to the mountain that surrounds the island of the Jewels, along the mountain, until it comes to; L11: «مصبّ نهر», the mouth of a river, and «على صورة الطيلسان», along the shape of the ṭaylasān; L13-L14: «فيحدث هناك جزيرة يقال لها جزيرة الفضّة», and there arises an island called the island of Silver; L14: «ويمرّ بمصبّ نهر سواس ويصير الى موضعه الّذى منه ابتدأنا وهو عند طول قسد {z} والعرض ى {z} خلف الاستواء», and it passes the mouth of the river سواس and comes to its place from which we began, which is at the longitude 164° 0′ and the latitude 0° 10′ beyond the equator: the first point of the Dark Sea, on p. 82 (frame 088, L02), and point 1147, as the editor's note i says; this last point has no running number. L15 ends with a small open star with six points, transcribed as an asterisk: the end of the section. Point 1280 (L11) is given by its latitude only, «يمرّ بعرض».",
+  "The latitudes from point 1275 on are said to be «خلف خطّ الاستواء» (L06-L07, L09) or «خلف الاستواء» (L11-L13, L15), beyond the equator. L07-L08, L08 and L10: «⟨خلف خطّ الاستواء⟩», between angle brackets and followed by the note marks e (twice) and g: the editor supplies the words, which the manuscript lacks (notes e and g). «الاستواء» ends in an alif and a small hamza on the line.",
+  "L05: «متّصل*»: an asterisk with six solid arms stands after it, raised like the note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (frame 046, L10).",
+  "Signs in the text, transcribed as printed: «يمرّ», «ويمرّ», «فيماسّ», «مصبّ», «بمصبّ», «متّصل», «حتّى», «خطّ» and «الفضّة» with a shadda; «هٰذا» with a dagger alif above the ه; «الّذى» with a shadda over the ل; «ابتدأنا» with a hamza over the alif; «فى» and «حتّى» end in a ى without dots.",
+  "L02: «المضيئة»: after the ض, two low teeth, 5 to 6 px high; the two dots of the ي stand below the second tooth, and the hamza above the join between the second tooth and the ة, 15 px to the left of the tooth. Transcribed المضيئة.",
+  "L08: the longitude is printed «ڡسطى», the degrees «ڡسط» joined to the minutes «ى» without a space, under a line printed in two pieces, of 70 and 94 px; it reads as ڡسط ى, the loop of ف or ق without dots, 169° 10′ with ق. Transcribed as printed.",
+  "L03: «ڡعٮ» and L09: «قعٮ»: after the loop and a medial ع, a long flat bowl with a short upturn at its left end, the final ب without its dot, where L12 prints «قع» with the deep bowl of a final ع; read with ق, 172.",
+  "Letters printed without their dots in the numerals, transcribed so: the loop of ف or ق without dots in the degrees of the longitude: «ڡعو» (L01), 176, «ڡعد» (L01), 174, «ڡعٮ» (L03), 172, «ڡعح» (L04, L10), 178, «ڡعا» (L06, twice), 171, «ڡسطى» (L08), 169 with the minutes ى, and «ڡسح» (L13), 168, read with ق, where «قعا» (L03), «قسح» (L07), «قعٮ» (L09), «قع» (L12) and «قسد» (L15) are printed with the two dots of the ق. With their dots: «كب» (L01), 22; «ج» (L09), 3; «ز» (L08), 7.",
+  "In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: «ر» (L10, L13, the degrees of the latitude), where L08 prints «ز» with the dot.",
+  "The ح of the numerals, «ڡعح» (L04, L10), «قسح» (L07), «ح» (L12) and «ڡسح» (L13), shows no dot in the bowl; the same form is a ج without its dot, 3, which L09 prints with its dot. Transcribed as printed. The isolated ى, 10, has no dots (L15). The isolated ك, 20, is printed with the small inner stroke of the letter.",
+  "Note marks: L03, a after the first longitude; L04, b after «والجواهر»; L06, c after the first longitude and d after the second longitude; L08, e after each of the two closing angle brackets; L09, f after the latitude; L10, g after the closing angle bracket; L13, h after the latitude; L15, i after «الاستواء».",
+  "Marks not transcribed: L10, a rule of the length of the lines over the numerals, 123 px, stands above the number of Suhrāb [٨٣٥], at the height of the other lines of L10; L03, a short oblique stroke, 6 by 10 px, below the ض of the second «والعرض», with the form of a kasra.",
+  "The editor's footnotes stand in five lines below a short rule at the left: notes a-i. Below the notes, at the left, the signature «6*» of the printed sheet; the page number «— ٨٣ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

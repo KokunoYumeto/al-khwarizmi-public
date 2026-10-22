@@ -1,0 +1,50 @@
+@page 19 XV
+@lang de
+% JP2 0019: the introduction, p. XV: the additions of N, nos. 2-3: a table of the Arabic months without days (fol. 8r);
+% the extra columns of table 3 in N (fol. 9r, 9v), which agree with the spurious tables of al-Battani in Nallino's
+% edition and so go back to Maslama's recension; A) the years of Yazdegerd, B) the anni plani, C) the Diocletian era.
+@p 2) Am Schlusse der zweiten Spalte desselben fol. (in unserm Text p. 2) steht
+nach den Worten {i:quandoque in hieme interdum in aestate accidat} folgende Tabelle
+der arabischen Monate ohne Angabe der Zahl der Tage :
+@t {i:Almuharram} | . . . . . . . . .
+@t {i:Szaphar} | . . . . . . . . .
+@t {i:Rabbe} | . . . . . . . . .
+@t {i:Rabbe} | . . . . . . . . .
+@t {i:Jumedi} | . . . . . . . . .
+@t {i:Jumedi} | . . . . . . . . .
+@t {i:Rageb} | . . . . . . . . .
+@t {i:Saaben} | . . . . . . . . .
+@t {i:Ramadhan} | . . . . . . . . .
+@t {i:Sewil} | . . . . . . . . .
+@t {i:Dulkidda} | . . . . . . . . .
+@t {i:Dulheiga} | . . . . . . . . .
+@p 3) Die Tafel 3, die in den Mss. C und O je eine Seite in Anspruch nimmt, ist in
+N auf zwei Seiten (9{sup:r} und 9{sup:v}) verteilt ; es kommen nämlich hier einige Kolonnen
+hinzu, die in C und O fehlen, die aber in den {i:Tabulae spuriae}, die {sp:Nallino} der Aus-
+gabe {sp:Al-Battānīs} hinzugefügt hat (II, p. 300—307) vorkommen. Es lassen sich also
+alle die unechten Tafeln {sp:Al-Battānīs} auf die {sp:Maslama}’sche Bearbeitung der Tafeln
+{sp:Al-Khwārizmīs} zurückführen, und damit hat sich die Vermutung, die {sp:Nallino}
+über diese Tafeln ausgesprochen hat (II, p. 308—309 : {i:Haud improbabile est tabulas}
+{i:p. 302—307 ex opere Maslamah quoque, ut de p. 300—301 affirmatur, exscriptas esse, etc.})
+bewahrheitet. Die in Ms. N hinzukommenden Kolonnen sind folgende :
+@p A) Auf fol. 9{sub:r} kommt nach der Kolonne {i:Anni Alexandri collecti}, die in unserer
+Tafel 3 die 2. Kol. ist, eine Kolonne mit der Überschrift {i:Anni iazdeiardi} ({i:Yezdegirdi})
+{i:post aeram arabum} ; diese stimmt mit der Kolonne 4 bei {sp:Al-Battānī} (II, 304), über-
+schrieben : {i:Anni Persarum sine intercalatione, etc.}, und zwar bis auf die Radix, die
+dort zu 9{sup:a}11{sup:m}9{sup:d} angegeben wird (s. auch Tafel 1, wo sich auch die unrichtige Radix
+9{sup:a}11{sup:m}4{sup:d} findet).
+@p B) Auf fol. 9{sup:v} befindet sich die der vorigen entsprechende Kolonne für die {i:anni}
+{i:plani} oder {i:residui}, sie steht nach der Kolonne {i:Anni Alexandri plani}, die in unserer
+Tafel 3 die 4. Kol. ist ; sie stimmt mit der Kolonne 4 bei {sp:Al-Battānī} (II, 305),
+überschrieben : {i:Anni singuli Persarum sine intercalatione}, und zwar bis auf die Tage
+für {i:annus} 27, wo unsere Tafel 19, {sp:Al-Battānī} aber 18 hat.
+@p C) Auf fol. 9{sup:r} befindet sich unmittelbar nach der Kolonne A für die {i:Anni iazdeiardi}
+eine solche für die {i:Anni Diocletiani completi}, sie stimmt im ganzen mit der Kol. 3
+bei {sp:Al-Battānī} (II, 304), überschrieben {i:Anni Coptorum intercalationem habentes etc.}
+Bei verschiedenen arabischen Astronomen wurde die {i:Aera Diocletiani} (Beginn am
+29. Aug. 284 n. Chr.) auch {i:Aera Coptorum} genannt, mit welchem Namen sonst ver-
+@obs The page number «XV» stands at the head of the page, centred, with a rule below it. At the foot, the signature «III*» on the right.
+@obs L04-L15: the table of N, set within a ruled frame of two columns, a double rule on the left and the right and a single rule between the columns; the month names in italics in the first column, and in the second, for the number of the days, which the table does not give, a row of nine dots in each row, about 20 px apart, transcribed as dots separated by spaces. Each row is one line here, the cells separated by our «|».
+@obs L25: «fol. 9{sub:r}»: the r is printed below the line, where L17 and L36 print the r and v of the folios raised; transcribed as printed. L23: the dash of «302—307» is printed in two pieces, as on p. XI (JP2 0015, L31); transcribed as one long dash. L29-L30: the radix in years, months and days, «9a11m9d» and «9a11m4d», the a, m and d raised; the figures are set without spaces (the gaps between them, 10-13 px, are those between the two figures of «11»).
+@obs Marks not transcribed: a dark mark on the k of «hinzukommenden» (L24) and one on the k of «kommt» (L25), in the ink of the print; a light speck at the right of the head of «Radix» (L29).
+@obs L25-L28: «Anni iazdeiardi (Yezdegirdi) post aeram arabum», the years of Yazdegerd after the Arab era; the radix that al-Battānī's column gives, 9 years 11 months 9 days, differs from that of N's column, and table 1 has the wrong radix 9 years 11 months 4 days.

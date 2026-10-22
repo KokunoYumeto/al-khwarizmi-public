@@ -1,0 +1,5 @@
+@page 293 -
+@kind provenance
+% JP2 0293: the rear pastedown, with a tick in pencil.
+@obs Nothing of the edition is printed on this page. The pastedown of the rear board: the edges of the cloth turned over the board show through the paper along the sides and at the corners.
+@copy A tick in pencil at the upper left.

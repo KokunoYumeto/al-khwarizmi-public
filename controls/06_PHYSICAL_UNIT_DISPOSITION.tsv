@@ -1,0 +1,81 @@
+source_id	unit_scheme	start_unit	end_unit	unit_class	authorship_or_witness_role	required_body_disposition	notes
+ALGEBRA	frame	1	130	mixed complete physical copy	AK_TEXT; MODERN_EDITORIAL; COPY_PROVENANCE; blanks	classify every frame during AK-A01-A04; preserve intrinsic matter and record/exclude extrinsic matter	old packet source order is exact and gap-free; no frame is silently dropped
+GEOGRAPHY	frame	1	1	front binding	COPY_PROVENANCE	exclude scholarly body; provenance only	blue binding
+GEOGRAPHY	frame	2	2	library stamp	COPY_PROVENANCE	exclude body; record holding-copy evidence	Columbia stamp
+GEOGRAPHY	frame	3	3	acquisition/digitization notice	SCAN_EXTRINSIC	exclude body; record provenance	Library of Congress Public Law 480 notice
+GEOGRAPHY	frame	4	4	call number leaf	COPY_PROVENANCE	exclude body; record	copy-specific number
+GEOGRAPHY	frame	5	5	1962 Baghdad reprint title	MODERN_EDITORIAL	preserve as intrinsic reprint layer	must not replace or erase 1926 title
+GEOGRAPHY	frame	6	6	blank	intrinsic physical topology	record blank; omit from reading body only with ledger row	no silent deletion
+GEOGRAPHY	frame	7	7	1926 Arabic title	MODERN_EDITORIAL	preserve intrinsic edition title	Mzik/Harrassowitz edition layer
+GEOGRAPHY	frame	8	8	copy annotation/call mark	COPY_PROVENANCE	exclude body; record	copy-specific
+GEOGRAPHY	frame	9	164	Arabic text and coordinate lists	AK_TEXT plus Mzik apparatus	preserve source-faithfully; keep editor notes credited	printed sequence begins at Arabic text
+GEOGRAPHY	frame	165	167	Arabic index close	AK_TEXT plus MODERN_EDITORIAL	preserve source-faithfully	printed Arabic pagination closes around 161
+GEOGRAPHY	frame	168	168	plate list with Arabic/German matter	MODERN_EDITORIAL	preserve and link to plates	intrinsic edition matter
+GEOGRAPHY	frame	169	169	Nachtraege und Verbesserungen	MODERN_EDITORIAL	preserve corrections separately; never silently patch Layer 1	intrinsic corrigenda
+GEOGRAPHY	frame	170	170	blank	intrinsic physical topology	record blank	plate transition
+GEOGRAPHY	frame	171	171	Plate I	AK_TABLE_OR_FIGURE plus MODERN_EDITORIAL	preserve raw image and faithful presentation	figure may not disappear
+GEOGRAPHY	frame	172	172	blank verso	intrinsic physical topology	record blank	plate pairing
+GEOGRAPHY	frame	173	173	Plate II	AK_TABLE_OR_FIGURE plus MODERN_EDITORIAL	preserve raw image and faithful presentation	figure may not disappear
+GEOGRAPHY	frame	174	174	blank verso	intrinsic physical topology	record blank	plate pairing
+GEOGRAPHY	frame	175	175	Plate III	AK_TABLE_OR_FIGURE plus MODERN_EDITORIAL	preserve raw image and faithful presentation	figure may not disappear
+GEOGRAPHY	frame	176	176	blank verso	intrinsic physical topology	record blank	plate pairing
+GEOGRAPHY	frame	177	177	Plate IV	AK_TABLE_OR_FIGURE plus MODERN_EDITORIAL	preserve raw image and faithful presentation	figure may not disappear
+GEOGRAPHY	frame	178	178	blank verso	intrinsic physical topology	record blank	plate pairing
+GEOGRAPHY	frame	179	179	Plate V	AK_TABLE_OR_FIGURE plus MODERN_EDITORIAL	preserve raw image and faithful presentation	figure may not disappear
+GEOGRAPHY	frame	180	181	blanks	intrinsic physical topology	record blanks	between plates and reverse-bound preliminaries
+GEOGRAPHY	frame	182	208	German introduction in reverse physical sequence	MODERN_EDITORIAL	preserve as separately credited German editorial layer; do not silently reorder source anchors	physical order runs printed roman XXXI down to V because right-to-left binding
+GEOGRAPHY	frame	209	209	printer colophon	MODERN_EDITORIAL	preserve intrinsic edition matter	Wien printer
+GEOGRAPHY	frame	210	210	German title	MODERN_EDITORIAL	preserve intrinsic edition title	1926 Leipzig
+GEOGRAPHY	frame	211	211	blank	intrinsic physical topology	record blank	no silent deletion
+GEOGRAPHY	frame	212	212	series title	MODERN_EDITORIAL	preserve intrinsic edition matter	Bibliothek Arabischer Historiker und Geographen
+GEOGRAPHY	frame	213	213	blank	intrinsic physical topology	record blank	no silent deletion
+GEOGRAPHY	frame	214	214	duplicate German title	MODERN_EDITORIAL	preserve as bound/reprint layer; record duplication	do not deduplicate silently
+GEOGRAPHY	frame	215	216	blanks	intrinsic physical topology	record blanks	back matter
+GEOGRAPHY	frame	217	217	barcode leaf	COPY_PROVENANCE	exclude body; record	Columbia barcode
+GEOGRAPHY	frame	218	218	rear binding/barcode	COPY_PROVENANCE	exclude body; record	blue rear binding
+ARITHMETIC	frame	1	1	inner cover/sticker	COPY_PROVENANCE	exclude body; record	BSB label
+ARITHMETIC	frame	2	2	blank	intrinsic physical topology	record blank	front blank
+ARITHMETIC	frame	3	3	1857 title	MODERN_EDITORIAL	preserve intrinsic edition title	Boncompagni edition
+ARITHMETIC	frame	4	4	title verso/stamps/bleed	COPY_PROVENANCE plus MODERN_EDITORIAL	preserve intrinsic verso matter; exclude copy stamps from body	classify regions separately
+ARITHMETIC	frame	5	5	blank/bleed	intrinsic physical topology	record blank	no silent deletion
+ARITHMETIC	frame	6	6	library stamp leaf	COPY_PROVENANCE	exclude body; record	copy-specific
+ARITHMETIC	frame	7	29	Latin text printed pp1-23	RECENSION_LATIN	produce source-faithful Latin witness; retain marginalia in apparatus	never call this the lost Arabic original
+ARITHMETIC	frame	30	30	blank/bleed	intrinsic physical topology	record blank	end leaf
+ZIJ	JP2_index	0	0	front color card	SCAN_EXTRINSIC	exclude body; record calibration provenance	omitted from navigation PDF
+ZIJ	JP2_index	1	1	front cover	COPY_PROVENANCE	exclude reading body; record	maps navigation PDF1
+ZIJ	JP2_index	2	2	bookplate	COPY_PROVENANCE	exclude body; record	maps PDF2
+ZIJ	JP2_index	3	3	Internet Archive notice	SCAN_EXTRINSIC	exclude body; record	maps PDF3
+ZIJ	JP2_index	4	4	blank	intrinsic physical topology	record blank	maps PDF4
+ZIJ	JP2_index	5	5	title	MODERN_EDITORIAL	preserve intrinsic Suter edition title	maps PDF5
+ZIJ	JP2_index	6	6	title verso/copy mark	MODERN_EDITORIAL plus COPY_PROVENANCE	preserve intrinsic matter; record copy mark	maps PDF6
+ZIJ	JP2_index	7	8	contents	MODERN_EDITORIAL	preserve and credit	maps PDF7-8
+ZIJ	JP2_index	9	32	foreword/introduction/part transition	MODERN_EDITORIAL	preserve separately from Latin recension	Suter/Bjornbo/Besthorn apparatus; includes physical blanks/part title to classify
+ZIJ	JP2_index	33	139	Latin recension prose, rules, and diagrams	RECENSION_LATIN plus MODERN_EDITORIAL	preserve source-faithfully with role separation	Majriti/Adelard recension in Suter edition
+ZIJ	JP2_index	140	140	Tafeln divider	MODERN_EDITORIAL	preserve intrinsic division	table section begins
+ZIJ	JP2_index	141	264	astronomical tables	RECENSION_LATIN; AK_TABLE_OR_FIGURE	preserve every cell/header/note; return visual table and machine-readable data	no silent normalization
+ZIJ	JP2_index	265	265	blank/section transition	intrinsic physical topology	record blank	back-matter transition
+ZIJ	JP2_index	266	266	corrections heading	MODERN_EDITORIAL	preserve separately; never silently patch Layer 1	Nachtraege und Verbesserungen
+ZIJ	JP2_index	267	268	corrections/addenda	MODERN_EDITORIAL	preserve with target anchors	intrinsic edition apparatus
+ZIJ	JP2_index	269	270	blank/copy insert	intrinsic topology plus COPY_PROVENANCE	record exact per-page disposition	do not treat as authorial content
+ZIJ	JP2_index	271	272	editorial back matter	MODERN_EDITORIAL	preserve and credit	pre-glossary matter
+ZIJ	JP2_index	273	273	glossary title	MODERN_EDITORIAL	preserve intrinsic title	Glossar
+ZIJ	JP2_index	274	274	blank	intrinsic physical topology	record blank	no silent deletion
+ZIJ	JP2_index	275	282	glossary	MODERN_EDITORIAL	preserve and credit	Namen- und Sachglossar
+ZIJ	JP2_index	283	289	index/bibliographic back matter	MODERN_EDITORIAL	preserve and credit	stable source anchors required
+ZIJ	JP2_index	290	290	copy mark/end leaf	COPY_PROVENANCE	exclude body; record	maps navigation PDF290
+ZIJ	JP2_index	291	293	blanks	intrinsic physical topology	record blanks	maps navigation PDF291-293
+ZIJ	JP2_index	294	294	rear cover	COPY_PROVENANCE	exclude body; record	maps navigation PDF294
+ZIJ	JP2_index	295	295	rear color card	SCAN_EXTRINSIC	exclude body; record calibration provenance	omitted from navigation PDF
+PRACTICAL	PDF_page	1	9	modern introduction/manuscript and attribution map	MODERN_EDITORIAL	evidence only; do not present as authorial text	Charette-Schmidl journal pp101-109
+PRACTICAL	PDF_page	10	34	modern Arabic critical edition of Texts 1-11	MODERN_EDITORIAL	evidence/reference only pending primary pixels; never call manuscript diplomatic	journal pp110-134
+PRACTICAL	PDF_page	35	60	modern English translation and illustrations	MODERN_EDITORIAL	evidence/reference only; never combine into bilingual reader	journal pp135-160
+PRACTICAL	PDF_page	61	62	published manuscript facsimiles	COPY_PROVENANCE plus primary-pixel comparator	retain as evidence crops only; not complete witness payload	Berlin examples
+PRACTICAL	PDF_page	63	85	modern commentary	MODERN_EDITORIAL	evidence and attribution analysis only	journal pp163-185
+PRACTICAL	PDF_page	86	91	appendices/glosses/tables	MODERN_EDITORIAL	evidence only; attribution itemized	journal pp186-191
+PRACTICAL	PDF_page	92	98	bibliography	MODERN_EDITORIAL	bibliographic evidence only	journal pp192-198
+ERDEM	PDF_page	1	20	historical study/comparator	MODERN_EDITORIAL	evidence only; do not inherit its 59-chapter unity as secure authorship	font substitution warning from visual QA does not alter source bytes
+CALENDAR	PDF_page	1	1	1948 compilation title/context	MODERN_EDITORIAL	preserve as collection provenance, not part of target work	front context
+CALENDAR	PDF_page	2	2	target work title and printed p1	AK_TEXT through corrupt printed witness	preserve diplomatic printed reading with witness warning	first target page
+CALENDAR	PDF_page	3	10	target work body printed pp2-9	AK_TEXT through corrupt printed witness	preserve every numeral as printed; proposed corrections only in critical layer	all nine sections end by PDF10
+CALENDAR	PDF_page	11	320	other works in compilation	OUT_OF_SCOPE_OTHER_AUTHORS_OR_WORKS	exclude from target production; record range disposition	PDF11 begins next work
+DEBLOIS	PDF_page	1	11	modern calendar study/critical comparator	MODERN_EDITORIAL	evidence only; do not silently correct Hyderabad Layer 1	visual QA readable with font substitution warning

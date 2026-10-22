@@ -1,0 +1,35 @@
+@page 66 ٥٠
+% Frame 066, printed p. 50: the twenty-fifth of the various problems concluded: twenty-five parts of a hundred and
+% forty-four of a square and four dirhams equal four roots and a third; everything is multiplied by five and nineteen
+% twenty-fifths, giving a square and twenty-three dirhams and one twenty-fifth equal to twenty-four roots and
+% twenty-four twenty-fifths; the half of the roots is squared, the dirhams are taken away, the root of the rest is
+% added to the half: the quantity is twenty-four, checked against the statement. Then «فان قال» in bold, continued on
+% the next page. Below the rule two footnotes of the editors.
+وثلثا فتحتاج أن تكمل مالك واكمالك اياه أن تضرب جميع ما معك فى خمسة
+وتسعة عشر جزءاً من أجزاء خمسة وعشرين . فتضرب خمسة وعشرين {n:١}
+فى خمسة وتسعة عشر جزءاً من خمسة وعشرين فيكون مالا وتضرب الأربعة
+الدراهم فى خمسة وتسعة عشر جزءا من خمسة وعشرين فيكون ثلاثة
+وعشرين درهما وجزءاً من خمسة وعشرين وتضرب أربعة أجذار وثلثا فى
+خمسة وتسعة عشر جزءاً من خمسة وعشرين فيكون أربعة وعشرين جذرا
+وأربعة وعشرين جزءاً من خمسة وعشرين من جذر . فنصف الأجذار فيكون
+اثنى عشر جذرا واثنى عشر جزءاً من خمسة وعشرين من جذر واضربها فى
+مثلها فيكون مائة وخمسة وخمسين ( درهما ) وأربعمائة وتسعة وستين
+جزءاً من ستمائة وخمسة وعشرين فالق منها ( الدراهم ) {n:٢} الثلاثة والعشرين
+والجزء من الخمسة والعشرين الذى كان مع المال فيبقى مائة واثنان وثلاثون
+وأربعمائة وأربعون جزءا من ستمائة وخمسة وعشرين فتأخذ جذر ذلك وهو
+أحد عشر ( درهما ) وثلاثة عشر جزءا من خمسة وعشرين فتزيده على نصف
+الأجذار التى هى اثنى عشر ( درهما ) واثنى عشر جزءا من خمسة وعشرين
+فيكون ذلك أربعة وعشرين وهو المال المطلوب الذى تعزل ثلثه وربعه وأربعة
+دراهم ثم تضرب ما بقى فى مثله فيعود المال وزيادة اثنى عشر درهما . {b:فان قال}
+@ednotes ١ ٢ 4
+@obs L16: the words فان قال (L16) at the end of the line are printed in a bold face, the run-in heading of the twenty-sixth of the various problems, as on frames 055-062; the bold ن is printed without its dot and the two dots of the bold ق run together; transcribed ن and ق.
+@obs The words درهما (L09, L13, L14) and الدراهم (L10) stand between parentheses, set apart from them as الشىء and شىء on frames 058 and 059: the parentheses stand 40 to 42 px (nearest approach of the ink at 400 ppi) from the د of درهما, 27 from the alif of الدراهم, and 24 to 26 from the alif or the م at the other end, where the close setting of frames 054, 063 and 065 has 10 to 13 px from an alif; transcribed with a space on either side. The editors' note (٢), set after الدراهم in L10, comments on these words.
+@obs After ة a word space is transcribed where the gap is 16 px or more; the narrowest such gaps on this page are about 20 px, as in وأربعة وعشرين (L07; 20 between the ة and the conjunction و).
+@obs The full stops stand between spaces (gaps as the nearest approach of the ink at 400 ppi): after وعشرين, before فتضرب (L02; 27 and 26), after جذر, before فنصف (L07; 27 and 26), and after درهما, before the bold فان (L16; 31 and 27). The note mark (١) stands 41 px after وعشرين at the end of L02, (٢) 40 px after the closing parenthesis and 24 px before الثلاثة (L10).
+@obs Plain alif where a hamza might be expected, as printed: واكمالك, اياه (L01), اثنى, واثنى, واضربها (L08), فالق (L10), واثنان (L11), اثنى, واثنى (L14), اثنى (L16); with hamza: أن (L01), أجزاء (L02), الأربعة (L03), أربعة, أجذار (L05), أربعة (L06), وأربعة, الأجذار (L07), وأربعمائة (L09), وأربعمائة, وأربعون, فتأخذ (L12), أحد (L13), الأجذار (L14), أربعة, وأربعة (L15); on ي: مائة (L09, L11), ستمائة (L10, L12); the hamza on the line: أجزاء (L02), والجزء (L11), and جزءاً, جزءا throughout.
+@obs With tanwīn on the final alif: جزءاً (L02, L03, L06, L07, L08, L10), وجزءاً (L05); without tanwīn as printed: وثلثا (L01, L05), مالا (L03), جزءا (L04, L12, L13, L14), درهما (L05, L09, L13, L14, L16), جذرا (L06, L08).
+@obs The final yā' is printed without dots: فى (L01, L03, L04, L05, L08, L16), اثنى, واثنى (L08), الذى, فيبقى (L11), على (L13), التى, هى, اثنى (L14), الذى (L15), بقى, اثنى (L16).
+@obs The print stretches تكمل (L01), خمسة and فيكون (L04), أربعة (L05), the second خمسة of L06, مثلها and وخمسة (L09) and الخمسة (L11) with the elongation stroke; the stroke is not transcribed.
+@obs Notes (١) and (٢) of the editors. (١) gives the reading that the multiplication of L02-L03 requires, the twenty-five parts of a hundred and forty-four of a square; see the critical note AK01-CN019. (٢) remarks that al-Khwārizmī names these numbers dirhams before the root is taken, and that المال in this problem means the quantity sought itself, not the square of a root. Neither note is reproduced.
+@critical AK01-CN019 | omission in the statement | L02 | فتضرب خمسة وعشرين | فتضرب خمسة وعشرين جزءاً من مائة وأربعة وأربعين جزءاً من مال | The square term of the equation is twenty-five parts of a hundred and forty-four of a square (frame 065, L18-L19), and it is this that the multiplication by five and nineteen twenty-fifths turns into a square, «فيكون مالا» (L03): 25/144 times 144/25 is 1. Twenty-five alone times five and nineteen twenty-fifths is a hundred and forty-four. The editors' note (١) gives the full phrase. | high that the multiplicand is the twenty-five parts of a hundred and forty-four of a square; whether words were lost or the author abbreviated is not known | none on the result: the product is stated correctly as a square
+@critical AK01-CN020 | wrong number | L12 | وأربعمائة وأربعون | وأربعمائة وأربعة وأربعون | From a hundred and fifty-five and 469/625 (L09-L10) the twenty-three dirhams and one twenty-fifth, 25/625, are taken away (L10-L11), which leaves 132 and 444/625, not 440/625. The root taken next, eleven and thirteen twenty-fifths (L13), is 288/25, whose square is 82944/625, that is 132 and 444/625; 132 and 440/625 has no rational root. The editors do not comment. | high: exact arithmetic | none on the result: the root and the quantity that follow, eleven and thirteen twenty-fifths and twenty-four, are those of 132 and 444/625

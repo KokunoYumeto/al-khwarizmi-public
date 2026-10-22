@@ -1,0 +1,58 @@
+@page 151 119
+@lang la
+% JP2 0151: Tab. 8, p. 119: the mean motion of the moon and of its anomaly in 1-24 hours and in 2-60 minutes of an
+% hour, in signs, degrees, minutes and seconds, with the apparatus (notes 1-8 and a-n).
+@c {b:Medialitas lunae et argumentum eiusdem} (O)
+@c {b:Wacat elkamar wahezatu — Medius cursus lunae et argumentum suum} (C)
+@tw 1 1
+@m C 47{sup:v}, O 104{sup:r}.
+@t {b:Horae} (C) | {b:Puncta horarum} (C)
+@tw size=footnotesize span=1.17 1.45 0.75 0.75 0.85 0.85 0.75 0.75 0.85 0.85 1.45 0.75 0.75 0.85 0.85 0.75 0.75 0.85 0.85
+@t Numerus | Medialitas lunae | | | | Argumentum lunae | | | | Partes | Medialitas lunae in | | | | Argumentum lunae in | | |
+@t horarum{sup:1}) | in horis{sup:2}) | | | | in horis{sup:3}) | | | | horarum{sup:4}) | partibus horarum{sup:5}) | | | | partibus horarum{sup:6}) | | |
+@t | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:7}) | {b:Sec.}{sup:8}) | {b:Sig.} | {b:Gr.} | {b:Mln.}{sup:7}) | {b:Sec.}{sup:8}) | | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:7}) | {b:Sec.}{sup:8}) | {b:Sig.} | {b:Gr.} | {b:Min.}{sup:7}) | {b:Sec.}{sup:8})
+@t 1 | 0 | 0 | 32 | 56 | 0 | 0 | 32 | 40 | 2 | 0 | 0 | 1 | 6 | 0 | 0 | 1 | 5
+@t 2 | 0 | 1 | 5 | 53{sup:c}) | 0 | 1 | 5 | 19 | 4 | 0 | 0 | 2 | 12 | 0 | 0 | 2 | 11
+@t 3 | 0 | 1 | 38 | 49{sup:d}) | 0 | 1 | 37 | 59 | 6 | 0 | 0 | 3 | 18 | 0 | 0 | 3 | 16{sup:l})
+@t 4 | 0 | 2 | 11 | 46 | 0 | 2 | 10 | 39{sup:g}) | 8 | 0 | 0 | 4 | 24 | 0 | 0 | 4 | 21
+@t 5 | 0 | 2 | 44{sup:a}) | 42 | 0 | 2 | 43 | 19 | 10 | 0 | 0 | 5 | 29 | 0 | 0 | 5 | 27
+@t 6 | 0 | 3 | 17 | 39 | 0 | 3 | 15 | 58{sup:h}) | 12 | 0 | 0 | 6 | 35 | 0 | 0 | 6 | 32
+@t 7 | 0 | 3 | 50 | 35 | 0 | 3 | 48 | 38 | 14 | 0 | 0 | 7 | 41 | 0 | 0 | 7 | 37{sup:m})
+@t 8 | 0 | 4 | 23 | 32{sup:e}) | 0 | 4 | 21 | 18 | 16 | 0 | 0 | 8 | 47 | 0 | 0 | 8 | 43
+@t 9 | 0 | 4 | 56 | 28 | 0 | 4 | 53 | 58 | 18 | 0 | 0 | 9 | 53 | 0 | 0 | 9 | 48
+@t 10 | 0 | 5 | 29 | 25 | 0 | 5 | 26 | 37 | 20 | 0 | 0 | 10 | 59 | 0 | 0 | 10 | 53
+@t 11 | 0 | 6 | 2 | 21 | 0 | 5 | 59 | 17 | 22 | 0 | 0 | 12 | 5 | 0 | 0 | 11 | 59
+@t 12 | 0 | 6 | 35 | 17 | 0 | 6 | 31 | 57 | 24 | 0 | 0 | 13 | 10 | 0 | 0 | 13 | 4
+@t 13 | 0 | 7 | 8 | 14 | 0 | 7 | 4 | 37 | 26 | 0 | 0 | 14 | 12 | 0 | 0 | 14 | 9{sup:n})
+@t 14 | 0 | 7 | 41 | 10 | 0 | 7 | 37 | 16 | 28 | 0 | 0 | 15 | 22 | 0 | 0 | 15 | 15
+@t 15 | 0 | 8 | 14 | 7 | 0 | 8 | 9 | 56 | 30 | 0 | 0 | 16 | 28 | 0 | 0 | 16 | 20
+@t 16 | 0 | 8 | 47{sup:b}) | 3 | 0 | 8 | 42 | 36 | 32 | 0 | 0 | 17 | 34 | 0 | 0 | 17 | 25
+@t 17 | 0 | 9 | 20 | 0 | 0 | 9 | 15{sup:f}) | 16{sup:i}) | 34 | 0 | 0 | 18 | 40 | 0 | 0 | 18 | 31
+@t 18 | 0 | 9 | 52 | 56 | 0 | 9 | 47 | 55 | 36 | 0 | 0 | 19 | 46 | 0 | 0 | 19 | 36
+@t 19 | 0 | 10 | 25 | 53 | 0 | 10 | 20 | 35 | 38 | 0 | 0 | 20 | 51 | 0 | 0 | 20 | 41
+@t 20 | 0 | 10 | 58 | 49 | 0 | 10 | 53 | 15 | 40 | 0 | 0 | 21 | 57 | 0 | 0 | 21 | 47
+@t 21 | 0 | 11 | 31 | 46 | 0 | 11 | 25 | 55 | 42 | 0 | 0 | 23 | 3 | 0 | 0 | 23 | 52
+@t 22 | 0 | 12 | 4 | 42 | 0 | 11 | 58 | 34 | 44 | 0 | 0 | 24 | 9 | 0 | 0 | 24 | 57
+@t 23 | 0 | 12 | 37 | 38 | 0 | 12 | 31 | 14 | 46 | 0 | 0 | 25 | 15 | 0 | 0 | 25 | 3
+@t 24 | 0 | 13 | 10 | 35 | 0 | 13 | 3 | 54 | 48 | 0 | 0 | 26 | 21 | 0 | 0 | 26 | 8
+@t | | | | | | | | | 50 | 0 | 0 | 27 | 27 | 0 | 0 | 27 | 13
+@t | | | | | | | | | 52 | 0 | 0 | 28 | 33 | 0 | 0 | 28 | 19
+@t | | | | | | | | | 54 | 0 | 0 | 29 | 38{sup:k}) | 0 | 0 | 29 | 24
+@t | | | | | | | | | 56 | 0 | 0 | 30 | 44 | 0 | 0 | 30 | 29
+@t | | | | | | | | | 58 | 0 | 0 | 31 | 50 | 0 | 0 | 31 | 35
+@t | | | | | | | | | 60 | 0 | 0 | 32 | 56 | 0 | 0 | 32 | 40
+@n {sup:1}) Numerus horarum] O, Horae C — {sup:2}) Medialitas . . . . horis] O, Medius cursus — elwacat C —
+@n {sup:3}) Argumentum . . . . horis] O, Argumentum — elheza C — {sup:4}) Partes horarum] O, Puncta horarum C —
+@n {sup:5}) Medialitas . . . . horarum] O, Medius cursus — elwacat C — {sup:6}) Argumentum . . . . horarum] O, Argumen-
+@n tum — elheza C — {sup:7}) Min.] O, Puncta C — {sup:8}) Sec.] O, Minuta C.
+@n {sup:a}) 44] O, 43 C — {sup:b}) 47] O, 48 C — {sup:c}) 53] C, 54 O — {sup:d}) 49] C, 48 O — {sup:e}) 32] O, 33 C —
+@n {sup:f}) 15] O, 16 C — {sup:g}) 39] O, 58 C — {sup:h}) 58] O, 18 C — {sup:i}) 16] O, 34 C — {sup:k}) 38] C, 36 O — {sup:l}) 16] C,
+@n 15 O — {sup:m}) 37] O, 38 C — {sup:n}) 9] C, 11 O.
+@obs The page number «119» stands at the head of the page, centred, with a rule below it; at the right the number of the table, «Tab. 8», in bold sans serif, underlined. The titles, in bold, the sigla in roman: L01 that of O, L02 that of C; L03, «Horae (C)» over the left half of the table and «Puncta horarum (C)» over the right half, C's heads of the two halves. The folios of the manuscripts, «C 47v, O 104r.», stand at the right of L03, the letters v and r raised; here as a margin note. The page has no signature.
+@obs The table: a thick and a thin rule above the head, a double rule below it; vertical rules divide the eighteen columns, double ones before and after the columns of the hours and of the parts; thin rules under the heads that span the four columns of signs, degrees, minutes and seconds, whose heads «Sig.», «Gr.», «Min.», «Sec.» are set in small bold type. «Numerus horarum» and «Partes horarum» are printed turned through a quarter, reading upwards, in two lines; here their two words stand in L04 and L05. Each printed row is one line here, the cells separated by our «|»; a head followed by empty cells spans their columns. The hours end with 24 (L30).
+@obs L07-L30, the hours. Checked against the daily motions of al-Khwārizmī's parameters (Tab. 6, p. 117, JP2 0149): the moon 32′ 56.45″ and the anomaly 32′ 39.75″ in an hour; all 24 hours of the moon and of the anomaly agree with n times these motions to within 0.5″, rounded to the second (with the readings of notes a-i). The 24 hours, 13° 10′ 35″ and 13° 3′ 54″, are the motions of one day (Tab. 7, p. 118, JP2 0150).
+@obs L07-L36, the parts. The «partes horarum» are the sixtieths of an hour, 2 to 60 in steps of 2, the moon 32.94″ and the anomaly 32.66″ to a part; 60 parts are the motions of one hour. Checked: the moon agrees to within 0.8″ in all rows but the 26 parts, 14′ 12″ against 14′ 16.5″ (its neighbours 13′ 10″ and 15′ 22″); the anomaly agrees to within 0.5″ in all rows but the 42 and 44 parts, 23′ 52″ and 24′ 57″ against 22′ 51.8″ and 23′ 57.2″, the minutes one too large, the same minutes as the moon's in those rows (with the readings of notes k-n). No note of the apparatus bears on these three values; they are recorded here, without critical notes.
+@obs L06: «Mln.», see the critical note; the «Sig» of the moon in the parts (L06) has its point very faintly inked (a grey mark of 4 px) and its g damaged; read as «Sig.».
+@obs The ellipses «. . . .» of the lemmata as printed. Specks in the table, among them one after the «59» of the moon in the 20 parts (L16); not transcribed.
+@copy A stroke of ink through the 2 of «12», the seconds of the moon in the 26 parts (L19), and «16» written in ink in the right margin beside the row, a reader's correction of the value in this copy. Not part of the edition.
+@critical AK07-CN087 | wrong sort | L06 | {b:Mln.}{sup:7}) | {b:Min.}{sup:7}) | the head of the minutes of the anomaly in the hours: the i is printed as an l, without its dot and with the full height of an ascender (21 px); «Min.» as in the other three heads of the minutes | high | none

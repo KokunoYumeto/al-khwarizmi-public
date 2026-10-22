@@ -1,0 +1,56 @@
+@page 204 172
+@lang la
+% JP2 0204: Tab. 59a, p. 172: the right ascensions of every degree of Taurus, Gemini, Cancer and Leo, counted from
+% the beginning of Capricornus, with the apparatus (notes 1-5 and a-p).
+@ml C 73{sup:v}—74{sup:r},
+@c {b:Horoscopus signorum secundum terram Arin.}{sup:1})
+@tw size=scriptsize span=1.0 1.1 0.6 0.75 0.7 1.1 0.6 0.75 0.7 1.1 0.6 0.75 0.7 1.1 0.6 0.75 0.7
+@ml O 131{sup:r}—131{sup:v}.
+@t Gradus | Horoscopus |  |  | Gradus | Horoscopus |  |  | Gradus | Horoscopus |  |  | Gradus | Horoscopus |  |
+@t regulares | Tauri |  |  | regulares | Geminorum |  |  | regulares | Cancri |  |  | regulares | Leonis |  |
+@t  | Matale elthaur{sup:2}) |  |  |  | Matale elgauze{sup:3}) |  |  |  | Matale elcaratan{sup:4}) |  |  |  | Matale elezed{sup:5}) |  |
+@t  | bilfelek |  |  |  | bilfelek |  |  |  | bilfelek |  |  |  | bilfelek |  |
+@t  | elmustakim |  |  |  | elmustakim |  |  |  | elmustakim |  |  |  | elmustakim |  |
+@t  | {b:Gr.} | {b:Min.} | {b:Sec.} |  | {b:Gr.} | {b:Min.} | {b:Sec.} |  | {b:Gr.} | {b:Min.} | {b:Sec.} |  | {b:Gr.} | {b:Min.} | {b:Sec.}
+@t 1 | 118 | 47 | 26 | 1 | 148 | 46 | 50 | 1 | 181 | 5 | 23 | 1 | 213 | 18 | 13
+@t 2 | 119 | 44 | 54 | 2 | 149 | 49 | 41 | 2 | 182{sup:d}) | 11 | 14{sup:h}) | 2 | 214 | 20 | 29
+@t 3 | 120 | 42 | 16 | 3 | 150 | 52 | 43 | 3 | 183{sup:e}) | 16 | 47 | 3 | 215 | 22 | 37{sup:l})
+@t 4 | 121 | 40 | 18 | 4 | 151 | 55 | 54 | 4 | 184 | 22 | 13 | 4 | 216 | 24 | 32
+@t 5 | 122 | 38 | 13 | 5 | 152 | 59 | 12 | 5 | 185 | 27 | 43 | 5 | 217 | 26 | 16{sup:m})
+@t 6 | 123 | 36 | 18 | 6 | 154 | 2 | 38 | 6 | 186 | 33 | 8{sup:i}) | 6 | 218 | 27 | 49
+@t 7 | 124 | 34 | 31 | 7 | 155 | 6 | 14 | 7 | 187 | 38 | 32 | 7 | 219 | 29 | 11
+@t 8 | 125 | 32 | 54 | 8 | 156 | 10 | 1 | 8 | 188 | 43 | 55 | 8 | 220 | 30 | 21
+@t 9 | 126 | 31{sup:a}) | 28 | 9 | 157 | 13 | 58 | 9 | 189 | 49 | 16 | 9 | 221 | 31 | 19
+@t 10 | 127 | 30 | 42 | 10 | 158 | 18 | 4 | 10 | 190 | 54 | 34 | 10 | 222 | 32 | 6
+@t 11 | 128 | 29 | 7 | 11 | 159 | 22 | 17 | 11 | 191 | 59 | 51 | 11 | 223 | 32 | 41
+@t 12 | 129 | 28 | 14 | 12 | 160 | 26 | 36 | 12 | 193 | 5 | 3 | 12 | 224 | 33 | 4
+@t 13 | 130 | 27 | 34 | 13 | 161 | 31 | 1 | 13 | 194 | 10 | 7 | 13 | 225 | 33 | 16
+@t 14 | 131 | 27 | 6 | 14 | 162 | 35 | 33 | 14 | 195 | 15 | 2 | 14 | 226 | 33 | 19{sup:n})
+@t 15 | 132 | 26 | 49 | 15 | 163 | 40 | 14 | 15 | 196 | 19 | 46 | 15 | 227 | 33 | 11{sup:o})
+@t 16 | 133 | 26 | 41 | 16 | 164 | 44 | 58 | 16 | 197 | 24 | 26 | 16 | 228 | 32 | 54
+@t 17 | 134 | 26 | 44 | 17 | 165 | 49{sup:b}) | 53 | 17 | 198 | 28 | 59 | 17 | 229 | 32 | 26
+@t 18 | 135 | 26 | 56 | 18 | 166 | 54 | 57 | 18 | 199 | 33{sup:f}) | 24 | 18 | 230 | 31 | 46
+@t 19 | 136 | 27 | 19 | 19 | 168 | 0 | 9 | 19 | 200 | 37 | 43 | 19 | 231 | 30 | 53
+@t 20 | 137 | 27 | 54 | 20 | 169 | 5 | 26 | 20 | 201 | 41 | 56 | 20 | 232 | 29 | 48
+@t 21 | 138 | 28 | 41 | 21 | 170 | 10 | 44 | 21 | 202 | 46 | 2 | 21 | 233 | 28 | 32
+@t 22 | 139 | 29 | 39 | 22 | 171 | 16 | 5 | 22 | 203 | 49 | 59 | 22 | 234{sup:k}) | 27 | 6
+@t 23 | 140 | 30 | 49 | 23 | 172 | 21 | 28 | 23 | 204 | 53 | 46 | 23 | 235 | 25 | 29
+@t 24 | 141 | 32 | 11 | 24 | 173 | 26 | 52 | 24 | 205 | 57 | 22 | 24 | 236 | 23 | 42
+@t 25 | 142 | 33 | 44 | 25 | 174 | 32{sup:c}) | 12 | 25 | 207 | 0 | 48 | 25 | 237 | 21 | 47
+@t 26 | 143 | 35 | 28 | 26 | 175 | 37 | 47 | 26 | 208 | 4 | 6 | 26 | 238 | 19 | 42
+@t 27 | 144 | 37 | 24 | 27 | 176 | 43 | 20 | 27 | 209 | 7{sup:g}) | 17 | 27 | 239 | 17 | 28{sup:p})
+@t 28 | 145 | 39 | 31 | 28 | 177 | 48 | 23 | 28 | 210 | 10 | 19 | 28 | 240 | 15 | 6
+@t 29 | 146 | 41 | 47 | 29 | 178 | 54 | 27 | 29 | 211 | 13 | 10 | 29 | 241{sup:k}) | 12 | 34
+@t 30 | 147 | 44 | 12 | 30 | 180 | 0 | 0 | 30 | 212 | 15 | 48 | 30 | 242 | 9 | 51
+@n {sup:1}) Horoscopus . . . . Arin] {i:om.} CO — {sup:2}) elthaur] el θur O — {sup:3}) elgauze] O, eliauze C — {sup:4}) elcaratan]
+@n O, elkaratan C — {sup:5}) elezed] O, eleced C.
+@n {sup:a}) 31] C, 32 O — {sup:b}) 49] O, 59 C — {sup:c}) 32] C, 33 O — {sup:d}) 182] C, 132 O — {sup:e}) 183] C, 133 O —
+@n {sup:f}) 33] C, 28 O — {sup:g}) 7] C, 53 O — {sup:h}) 14] O, 24 C — {sup:i}) 8] C, {i:ras.} O — {sup:k})—{sup:k}) 234—241] O, 233—240 C
+@n — {sup:l}) 37] C, 36 O — {sup:m}) 16] 56 CO — {sup:n}) 19] C, 26 O — {sup:o}) 11] 51 CO — {sup:p}) 28] C, 27 O.
+@obs The page number «172» stands at the head of the page, centred, with a rule below it; at the left the number of the table, «Tab. 59a», in bold sans serif, underlined. The page has no signature. The title (L01), «Horoscopus signorum secundum terram Arin.1)», in bold, with a point after «Arin» and note 1: the title is omitted in C and O, and the edition repeats that of p. 171 (JP2 0203). The folios of the manuscripts stand at the left of the title in two lines, «C 73v—74r,» and «O 131r—131v.», the letters raised; here as left margin notes.
+@obs The table: as on p. 171 (JP2 0203), four groups of a column «Gradus regulares», printed upwards, and three columns «Gr.», «Min.», «Sec.»; the heads «Horoscopus Tauri Matale elthaur2) bilfelek elmustakim», «Horoscopus Geminorum Matale elgauze3) bilfelek elmustakim», «Horoscopus Cancri Matale elcaratan4) bilfelek elmustakim» and «Horoscopus Leonis Matale elezed5) bilfelek elmustakim»; the units without notes. Here each head is set from the top, one printed line to a line (L02-L07), «Gradus regulares» divided over the first two of them; the cells separated by our «|»; a head followed by empty cells spans their columns.
+@obs L08-L37. The right ascensions continue from p. 171 to 180° at the end of Gemini and 242° 9′ 51″ at the end of Leo. Checked against the right ascension computed with the obliquity 23° 51′, as on p. 171: Taurus within 5.2″ except at 3° and 10°; Gemini within 6.7″ except at 20°-24° (9.8″ to 14.2″ larger) and 28°; Cancer within 7.8″ except at 1° (13.0″ smaller) and 6°-10° (9.8″ to 14.2″ smaller); Leo within 5.2″ in every row.
+@obs L08-L37. The four columns are built on the three of p. 171: Cancer and Leo repeat Capricornus and Aquarius increased by 180°, and Taurus and Gemini are 180° less the values of Aquarius and Capricornus taken backwards, the ascensions of x and 180° − x adding up to 180°. So the deviations of Capricornus 6°-10° on p. 171 return in Cancer 6°-10° and in Gemini 20°-24°. Checked: the relations hold in every row except eleven. Cancer 1°-3°, 181° 5′ 23″, 182° 11′ 14″ and 183° 16′ 47″ against 181° 5′ 33″, 182° 11′ 7″ and 183° 16′ 40″, as Suter says (p. 73, JP2 0105, L11-L13); computed 181° 5′ 36.0″, 182° 11′ 11.6″ and 183° 16′ 46.2″. Cancer 9° and Gemini 21°, 189° 49′ 16″ and 170° 10′ 44″, agree with O's 16 at Capricornus 9° (p. 171, note d), against the edition's 15 there. Cancer 16°, 197° 24′ 26″ against 197° 24′ 27″, and Leo 3°, C's 215° 22′ 37″ (note l) against O's 36 and the 215° 22′ 36″ from Aquarius 3° (215° 22′ 34.6″ computed): 1″ each.
+@obs L08-L37, continued. Taurus 3°, 120° 42′ 16″, where 180° less Aquarius 27° (59° 17′ 28″) is 120° 42′ 32″ and the computation 120° 42′ 29.9″, 13.9″ more. Taurus 10°, 127° 30′ 42″, where 180° less Aquarius 20° (52° 29′ 48″) is 127° 30′ 12″ and the computation 127° 30′ 15.5″; with 12 the steps of the column from 8° to 12° are 58′ 34″, 58′ 44″, 58′ 55″, 59′ 7″, with the printed 42 they are 58′ 34″, 59′ 14″, 58′ 25″, 59′ 7″. Gemini 25°, 174° 32′ 12″ against the 174° 32′ 17″ from Capricornus 5°, 174° 32′ 9.2″ computed. Gemini 28°, 177° 48′ 23″, where 180° less Capricornus 2° (2° 11′ 7″) is 177° 48′ 53″ and the computation 177° 48′ 48.4″, 25.4″ more. No note of the apparatus bears on these four figures.
+@obs Notes on the readings. Checked by the same relations: C's minutes 31 at Taurus 9° (note a, against O's 32), O's 49 at Gemini 17° (note b, against C's 59) and C's 32 at Gemini 25° (note c, against O's 33) agree with 180° less Aquarius 21°, Capricornus 13° and Capricornus 5°; the degrees 182 and 183 at Cancer 2° and 3° (notes d and e, C, against O's 132 and 133), the minutes 33 and 7 at Cancer 18° and 27° (notes f and g, C) and the seconds 8 at Cancer 6° (note i, C; erased in O) agree with Capricornus increased by 180°; O's seconds 14 at Cancer 2° (note h, against C's 24) are 2.4″ from the computation; O's degrees 234 to 241 from Leo 22° to 29° (notes k-k, against C's 233 to 240), and the seconds 16, 19, 11 and 28 at Leo 5°, 14°, 15° and 27° (notes m, n, o and p; at Leo 5° and 15° the edition's against the 56 and 51 of C and O) agree with Aquarius increased by 180°.
+@obs Notes 1-5: «el θur», O's reading, with a Greek theta; C's «eliauze», «elkaratan» and «eleced» for «elgauze» (al-jawzāʾ), «elcaratan» (al-saraṭān) and «elezed» (al-asad). Italics: «om.» and «ras.». N01: the ellipsis «. . . .» of the lemma as printed.

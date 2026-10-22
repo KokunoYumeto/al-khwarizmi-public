@@ -1,0 +1,54 @@
+@page 96 64
+@lang de
+% JP2 0096: Suter's commentary, p. 64: the end of chapter 17 (the latitude of Venus, 3° 7′, against al-Battānī's 57′;
+% the rules of the Pañcasiddhāntikā and the Sūrya-Siddhānta); chapter 18, apogee and perigee, the motion of the moon's
+% apogee (18‴ for 58‴); chapter 19, the nodes of the planets (note 1).
+@p 3° 54′ ∶ 1{sup:{i:p}} 15′ = 234′ ∶ 1,25 = 187′ = 3° 7′ = {i:Breite} der {i:Venus} im gegebenen
+Zeitpunkt. Nach den Tafeln {sp:Batt.}’s findet man die Breite = 57′ ; dieser grosse
+Unterschied lässt vermuten, dass die Regel {sp:Kh.}’s nicht richtig sei ; in der Tat ist es
+uns unklar, warum die {i:Anomalia aequata} auch noch zur Summe der mittlern Länge
+und der Länge des Knotens addiert werden muss, lässt man jene weg, so ergibt
+sich als Argument für die lat. sec. 190° 28′ und dazu gehört in Tafel 50 die lat. 54{sup:1}/{sub:2}′,
+also ist die {i:Breite} =
+@c 54,5′ ∶ 1,25 = c. 44′.
+@p Auch hier sagt unser Text über die Art der Breite nichts ; nach {i:Batt.’s} Regeln
+ist sie {i:nördlich.}
+@p Hiermit verlassen wir dieses schwierige Kapitel über die Breite der Planeten.
+In unserm Falle wurde diese Frage noch mehr erschwert durch den Umstand, dass
+auch die indischen astronomischen Werke in diesem Punkte nicht einig sind : Die
+Regel im {i:Sūrya-Siddhānta,} die wir oben zitiert haben, stimmt nicht mit derjenigen
+in der {i:Panchasiddhāntikā}{sup:1}) ; hier wird für Saturn und Merkur der Sinus der Distanz
+vom Knoten mit der Konstanten {fr:9|8} multipliziert (wenn der Kommentator recht hat),
+während er im {i:Sūrya-Siddhānta} mit der variabeln Grösse {fr:grösste Breite|{i:r′}} multipliziert wird.
+@c {b:Kap. 18. Über Apogeum und Perigeum der Planeten.}
+@c (Text p. 14—15.)
+@p Diese technischen Ausdrücke werden vom Übersetzer durch {i:sublimatio} (O und C
+haben bisweilen {i:sullimatio}) und {i:submissio} wiedergegeben. Wir haben oben schon
+(p. 46) die Apogeen der Planeten und der Sonne nach {sp:Kh.} angegeben, und auch über
+ihre Abweichungen von den Werten {sp:Batt.}’s und des {i:Sūrya-Siddhānta} gesprochen ;
+wir führen hier nur noch an, dass in Bezug auf den Mond die Bemerkung hinzu-
+gefügt wird, dass sein Apogeum beweglich sei und zwar betrage diese Bewegung
+im Tage 6′ 40″ 18‴, in der Stunde 16″ 42‴ 27{sup:{i:IV}} ; diese Bewegung, die die Ursache
+des anomalistischen Monats ist, finden wir bei {sp:Batt.} nicht erwähnt ; nach den neuern
+Bestimmungen braucht die Apsidenlinie zu einer vollen Umdrehung 3231,466{sup:d}
+(= c. 9{sup:a}), dies macht im Tage eine Bewegung von 6′ 41″ ; vergleicht man in den
+obigen Zahlen die stündliche Bewegung mit der täglichen, so müsste letztere, wenn
+die erstere richtig ist, 6′ 40″ 58‴ sein, es soll also wahrscheinlich statt 18‴ heissen
+58‴, welche Verwechslung in Zahlen mit arabischen Buchstaben ausgedrückt leicht
+möglich ist ; dann stimmen die Angaben {sp:Kh.}’s ausgezeichnet mit den modernen Werten.
+@c {b:Kap. 19. Über die Knotenpunkte der Planeten.}
+@c (Text p. 15.)
+@p Die Längen des Drachenkopfes für die einzelnen Planeten sind :
+@t Saturn | Jupiter | Mars | Venus | Merkur
+@t 103° 12′ | 82° 1′ | 21° 54′ (44′) | 59° 27′ | 21° 10.
+@n {sup:1}) Ed. G. {sp:Thibaut}, p. 95 und 96 der engl. Übersetzung.
+@obs The page number «64» stands at the head of the page, centred, with a rule below it. The page has no signature. L01-L17 end chapter 17, after the example of the latitude of Venus begun on p. 63 (JP2 0095, L32-L41). L18-L19 and L34-L35: the headings of chapters 18 and 19, in bold, centred, each with the reference to the text below it.
+@obs L01 and L08: the colons of the divisions are set with a word space on either side (26-32 px measured), written ∶ (U+2236); «1p», the p raised and italic. L07-L08: «also ist die Breite =» at the left, and the formula «54,5′ ∶ 1,25 = c. 44′.» displayed, centred, its base line about 25 px below that of L07.
+@obs L01-L08. Checked: 3° 54′ = 234′, and 234′ : 1.25 = 187.2′, 187′ = 3° 7′; leaving out the anomaly, 59° 27′ + 131° 1′ = 190° 28′ (p. 63, JP2 0095, L37-L40); 54½′ : 1.25 = 43.6′, about 44′. The values of Table 50 are to be compared with the table.
+@obs L16-L17: the fractions «9/8» and «grösste Breite / r′» printed built up within the line, written {fr:NUMERATOR|DENOMINATOR}.
+@obs L24-L33. Checked: the hourly motion of the moon's apogee, 16″ 42‴ 27⁗, times twenty-four is 6′ 40″ 58‴ 48⁗ (as on p. 15, JP2 0047), so that the daily motion of the text, 6′ 40″ 18‴ (chapter 18, p. 15, JP2 0047, L04), should be 6′ 40″ 58‴, as Suter says; in the abjad 18 is yāʾ ḥāʾ and 58 nūn ḥāʾ, letters distinguished by their dots. 360° in 3231.466 days are 6′ 41.1″ a day; 3231.466 days are 8.85 Julian years, «c. 9a».
+@obs L26: «27IV», the fourths written with a raised italic IV; L28: «3231,466d», the d raised; L29: «9a», the a raised. L09: «Batt.’s» in italics and not spaced, where it is spaced elsewhere on the page.
+@obs L36-L38. Checked against chapter 19 of the Latin text (p. 15, JP2 0047, L08-L12): Saturn three signs 13° 12′, Jupiter two signs 22° 1′, Mars 21° 54′, Venus one sign 29° 27′, Mercury 21° 10′, that is 103° 12′, 82° 1′, 21° 54′, 59° 27′ and 21° 10′; «(44′)» for Mars is the reading XLIIII of C and M (p. 15, note 12). These are the values that the text adds to the place of the planet for the argument of latitude (chapter 17, p. 14, JP2 0046, L10-L11), as in the example of Saturn on p. 62 (JP2 0094, L36). The values are set in five columns, the names over them; each printed row is one line here, the cells separated by our «|». L38: «21° 10.» without the prime after 10; see the critical note.
+@obs Spaced type, marked {sp:}: «Batt.», «Kh.», «Thibaut»; italics: «Breite» (L01, L07), «Venus», «Anomalia aequata», «nördlich.», «Sūrya-Siddhānta», «Panchasiddhāntikā», «r′», «sublimatio», «sullimatio», «submissio»; «lat. sec.» and «lat.» (L06) upright.
+@obs The other colons and the semicolons stand after the thin space of the edition (9-15 px measured).
+@critical AK07-CN058 | missing sign | L38 | 21° 10. | 21° 10′. | the other longitudes of the list have the sign of the minutes, «103° 12′», «82° 1′», and the Latin gives «dakaicae X» (p. 15, JP2 0047, L12); the prime after 10 is not printed | high | none

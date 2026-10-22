@@ -1,0 +1,268 @@
+{
+ "anchor": "AK05-F091",
+ "frame": 91,
+ "frame_file": "page_091.jpg",
+ "frame_sha256": "9e15e3a4f1013234553cb9bff62659abe641730ffc037af64cf9d69f8f010c9c",
+ "printed_page": "٨٥",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 091, printed p. 85: the islands of the outer western sea continued: three islands without a name, eleven small islands near one another, three small islands, and the island ٮوٮارنيا with its towns, whose coast is followed from point to point, past the town of مزٮدس, the mouths of rivers and the town of ٮور, back to its first point; then five small islands in one row. The editor's running numbers (١٢٩٥)-(١٣٠٦) and the numbers of Suhrāb [٨٧٥]-[٨٨١]; a gap of the manuscript filled by the editor; the folio of the manuscript, «(fol. 23ᵃ)», within the line. Six lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F091-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "جزيرة مقدار جزء ونصف فى مثله وسطها عند طول {ov:د {z}}{n:a} والعرض {ov:ل ل} (١٢٩٥) *",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة مقدار جزء ونصف فى مثله وسطها عند طول د ō والعرض ل ل (١٢٩٥) *",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F091-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "جزيرة مقدار جزء ونصف فى جزء وسطها عند طول {ov:ه {z}}{n:b} والعرض {ov:لح م} (١٢٩٦) *",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة مقدار جزء ونصف فى جزء وسطها عند طول ه ō والعرض لح م (١٢٩٦) *",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F091-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "جزيرة مقدار جزء فى جزء وربع وسطها عند طول {ov:د {z}}{n:c} والعرض {ov:ما ى} (١٢٩٧) *",
+   "margin": null,
+   "cells": null,
+   "plain": "جزيرة مقدار جزء فى جزء وربع وسطها عند طول د ō والعرض ما ى (١٢٩٧) *",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F091-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "احدى عشرة جزيرة صغار* متقاربة فى مقدار ثلٰثة اجزاء فى جزءين{n:d} وربع وسطها عند",
+   "margin": null,
+   "cells": null,
+   "plain": "احدى عشرة جزيرة صغار* متقاربة فى مقدار ثلٰثة اجزاء فى جزءين وربع وسطها عند",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F091-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "طول {ov:د م} والعرض {ov:مه ى} (١٢٩٨) * ثلٰث جزائر صغار* مقدار ربع جزء كلّ واحدة",
+   "margin": null,
+   "cells": null,
+   "plain": "طول د م والعرض مه ى (١٢٩٨) * ثلٰث جزائر صغار* مقدار ربع جزء كلّ واحدة",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F091-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "مقاديرها كلّها فى مقدار جزء ونصف فى مثله وسط ذٰلك عند طول {ov:ح ل}{n:e} والعرض {ov:مر {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "مقاديرها كلّها فى مقدار جزء ونصف فى مثله وسط ذٰلك عند طول ح ل والعرض مر ō",
+   "note_marks": [
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F091-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "(١٢٩٩) * جزيرة ٮوٮارنيا{n:f} فيها مدن اوّلها عند طول {ov:ز ل} والعرض {ov:ٮح {z}}{n:g} (١٣٠٠)",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٢٩٩) * جزيرة ٮوٮارنيا فيها مدن اوّلها عند طول ز ل والعرض ٮح ō (١٣٠٠)",
+   "note_marks": [
+    "f",
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F091-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "[٨٧٥] وتمرّ فتماسّ{n:h} اسفل مدينة مزٮدس{n:i} وتمرّ الى طول {ov:يد م} والعرض {ov:ٮر ل} (١٣٠١)",
+   "margin": null,
+   "cells": null,
+   "plain": "[٨٧٥] وتمرّ فتماسّ اسفل مدينة مزٮدس وتمرّ الى طول يد م والعرض ٮر ل (١٣٠١)",
+   "note_marks": [
+    "h",
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F091-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "[٨٧٦] تمرّ الى طول {ov:ٮح م} والعرض {ov:ٮح ن} (١٣٠٢) [٨٧٧] وتمرّ بمصبّ نهرين وبأسفل",
+   "margin": null,
+   "cells": null,
+   "plain": "[٨٧٦] تمرّ الى طول ٮح م والعرض ٮح ن (١٣٠٢) [٨٧٧] وتمرّ بمصبّ نهرين وبأسفل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F091-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "مدينة ٮور وتصير الى طول {ov:يو ل} والعرض {ov:سا م} (١٣٠٣) [٨٧٨] تمرّ الى طول {ov:يد {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "مدينة ٮور وتصير الى طول يو ل والعرض سا م (١٣٠٣) [٨٧٨] تمرّ الى طول يد ō",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F091-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "والعرض {ov:سا {z}}{n:k} (١٣٠٤) [٨٧٩] تمرّ بمصبّ نهر وتصير الى طول {ov:يا ى} والعرض {ov:سا ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض سا ō (١٣٠٤) [٨٧٩] تمرّ بمصبّ نهر وتصير الى طول يا ى والعرض سا ل",
+   "note_marks": [
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F091-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "(١٣٠٥) [٨٨٠] وتمرّ بمصبّ نهر وتصير الى طول {ov:يب {z}} والعرض {ov:س ل} (١٣٠٦)",
+   "margin": null,
+   "cells": null,
+   "plain": "(١٣٠٥) [٨٨٠] وتمرّ بمصبّ نهر وتصير الى طول يب ō والعرض س ل (١٣٠٦)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F091-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "[٨٨١] وتمرّ بمصبّ نهرين{n:l} حتّى توافى الموضع الّذى ⟨منه⟩{n:m} ابتدأ⟨نا و⟩{n:m}هو عند",
+   "margin": "(fol. 23ᵃ)",
+   "cells": null,
+   "plain": "[٨٨١] وتمرّ بمصبّ نهرين حتّى توافى الموضع الّذى ⟨منه⟩ ابتدأ⟨نا و⟩هو عند",
+   "note_marks": [
+    "l",
+    "m",
+    "m"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F091-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "طول {ov:ز ل} والعرض {ov:ٮح {z}}{n:n}{n:o} * خمس جزائر صغار* صفّ واحد كلّ{n:p} واحدة مقدارها ربع",
+   "margin": null,
+   "cells": null,
+   "plain": "طول ز ل والعرض ٮح ō * خمس جزائر صغار* صفّ واحد كلّ واحدة مقدارها ربع",
+   "note_marks": [
+    "n",
+    "o",
+    "p"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p"
+   ],
+   "lines": 6,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: the manuscript has, by mistake, ر {z} for the longitude; a variant reading is ر ه, each with a line over the numerals (note a).",
+  "L02: a variant reading of the longitude is ه ه, with a line over the numerals (note b).",
+  "L03: the manuscript has, by mistake, ز {z} for the longitude, with a line over the numerals (note c).",
+  "L04: the manuscript always writes the dual جزوين (note d).",
+  "L06: the manuscript has, by mistake, ع ل for the longitude, with a line over the numerals (note e).",
+  "L07: a variant reading of the name is هوٮارنيا; at entry (2261) the name is written بوبارنيا, with the dots of both ب, and a variant reading there is ڡوبارنيا, with a loop without dots (note f).",
+  "L07: a variant reading of the latitude is ٮح ه, with a line over the numerals (note g).",
+  "L08: the manuscript has فيهايں, with a final ن without its dot, for فتماسّ (note h).",
+  "L08: variant readings of the name are مزٮدس, ٮوٮدس and ٮوٮدس; the first is printed in the same letters as the name in the text, and the second and third alike, without dots (note i).",
+  "L11: a variant reading of the first latitude is سا م, with a line over the numerals (note k).",
+  "L13: a variant reading is نهر for نهرين (note l).",
+  "L13: the manuscript has a gap at منه and at the end of ابتدأنا with the و of وهو; the editor fills it (note m).",
+  "L14: a variant reading of the latitude is ٮح ه, with a line over the numerals (note n).",
+  "L14: the point is the same as point 1300 (note o).",
+  "L14: the word كلّ is written by a later hand in the manuscript (note p)."
+ ],
+ "unresolved": [
+  "L08: the notched form may also be read as a single ر whose head is split, ر, 7. Transcribed ٮر."
+ ],
+ "observations": [
+  "The description of the islands of the outer western sea goes on from p. 84 (frame 090): each island or group of islands with its size in degrees and the longitude and latitude of its middle, «وسطها عند طول … والعرض …», with the degrees and the minutes under one line, transcribed with {ov:…}; each entry ends with a small open star with six points, transcribed as an asterisk. L01-L03: three islands without a name, of «جزء ونصف فى مثله», «جزء ونصف فى جزء» and «جزء فى جزء وربع». L04-L05: «احدى عشرة جزيرة صغار* متقاربة فى مقدار ثلٰثة اجزاء فى جزءين وربع», eleven small islands near one another, within a size of three degrees by two and a quarter. L05-L06: «ثلٰث جزائر صغار* مقدار ربع جزء كلّ واحدة مقاديرها كلّها فى مقدار جزء ونصف فى مثله وسط ذٰلك عند طول», three small islands, each a quarter of a degree, all of them within a size of one and a half degrees by as much again, the middle of that at the longitude. L14: «خمس جزائر صغار* صفّ واحد كلّ واحدة مقدارها ربع», five small islands in one row, each of the size of a quarter, continued on p. 86.",
+  "L07-L14: «جزيرة ٮوٮارنيا فيها مدن اوّلها عند طول ز ل والعرض ٮح {z}», the island ٮوٮارنيا, on which are towns, the first of them at the longitude 7° 30′ and the latitude ٮح {z}; then its coast is followed from point to point, «وتمرّ … وتصير الى طول … والعرض …»: «وتمرّ فتماسّ اسفل مدينة مزٮدس» (L08), and it passes and touches the lower part of the town of مزٮدس; «وتمرّ بمصبّ نهرين وبأسفل مدينة ٮور» (L09-L10), past the mouth of two rivers and below the town of ٮور; «تمرّ بمصبّ نهر» (L11, L12), past the mouth of a river; «وتمرّ بمصبّ نهرين حتّى توافى الموضع الّذى ⟨منه⟩ ابتدأ⟨نا و⟩هو عند طول ز ل والعرض ٮح {z}» (L13-L14), past the mouth of two rivers until it meets the place from which we began, which is at the longitude 7° 30′ and the latitude ٮح {z}: point 1300 (L07), as the editor's note o says; this last point has no running number.",
+  "The running numbers run (١٢٩٥)-(١٣٠٦); the numbers of Suhrāb [٨٧٥]-[٨٨١] stand after (١٣٠٠)-(١٣٠٦); islands 1295-1299 have none.",
+  "L04, L05, L14: «صغار*»: an asterisk with six solid arms stands after the word, raised like the note marks: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (frame 046, L10); the asterisks between the entries are small open stars with six points.",
+  "Signs in the text, transcribed as printed: «ثلٰثة» (L04) and «ثلٰث» (L05) with a dagger alif above the ل; «ذٰلك» (L06) with a dagger alif above the ذ; «اجزاء» with a hamza on the line after the alif; «جزءين» (L04) with a hamza between the ز and the ي; «جزائر» with a hamza on the tooth; «كلّ», «كلّها», «صفّ», «اوّلها», «حتّى», «الّذى», «تمرّ», «وتمرّ», «فتماسّ» and «بمصبّ» with a shadda; «وبأسفل» with a hamza over the alif; «احدى», «توافى» and «الّذى» end in a ى without dots.",
+  "Letters without dots in the names, transcribed as printed: L07: «ٮوٮارنيا», the two teeth, each 15 to 20 px high, without dots, the ن with its dot and the ي with its two dots; L08: «مزٮدس», the ز with its dot, the tooth before the د without one; L10: «ٮور», the tooth joined to the و without a dot.",
+  "L07: a dark triangular mark, 14 by 15 px, stands about 30 px below the د of «مدن», between the lines, larger than the dots of the font; not transcribed.",
+  "L13: the folio of the Strasbourg manuscript, «(fol. 23ᵃ)», is printed in Latin type within the line, between «توافى» and «الموضع»; transcribed as a margin note before the line. Angle brackets: «⟨منه⟩» and «ابتدأ⟨نا و⟩هو», each followed by the note mark m: the manuscript has a gap there, which the editor fills (note m).",
+  "Letters printed without their dots in the numerals, transcribed so: a tooth without its dot in the degrees of the latitude, «ٮح» (L07; L09, twice; L14), which read with a ي gives 18 and read as a ن 58. The other latitudes of the points of the island are «ٮر ل» (L08), which read as نز gives 57° 30′, «سا م», «سا {z}» and «سا ل» (L10-L11), 61° 40′, 61° 0′ and 61° 30′, and «س ل» (L12), 60° 30′. With their dots: «يد» (L08, L10), «يو» (L10), «يا» (L11) and «يب» (L12), with the two dots of the ي and the dot of the ب, 14, 16, 11 and 12; «ز» (L07, L14), 7; «ن» (L09), 50.",
+  "In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: «مر» (L06, the degrees of the latitude), 47. L08, the degrees of the latitude: the notched form ٮر of frame 041 (L06), a short tooth without a dot joined to a ر, the two forming a notch at the top, where the isolated ر is a single rounded stroke; transcribed ٮر.",
+  "The ح of the numerals, «لح» (L02), «ح» (L06) and «ٮح» (L07, L09, L14), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. The isolated ى, 10, has no dots (L03, L05, L11).",
+  "Note marks: L01, a after the longitude; L02, b after the longitude; L03, c after the longitude; L04, d after «جزءين»; L06, e after the longitude; L07, f after «ٮوٮارنيا» and g after the latitude; L08, h after «فتماسّ» and i after «مزٮدس»; L11, k after the first latitude; L13, l after «نهرين» and m twice, after «⟨منه⟩» and after «⟨نا و⟩»; L14, n and o after the latitude, and p after «كلّ».",
+  "The editor's footnotes stand in six lines below a short rule at the left: notes a-p. The page number «— ٨٥ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

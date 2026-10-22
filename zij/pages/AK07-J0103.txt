@@ -1,0 +1,51 @@
+@page 103 71
+@lang de
+% JP2 0103: Suter's commentary, p. 71: the end of chapter 23 (sine tables before al-Khwārizmī; «ut in sequenti tabula
+% subnotatur» and an arc-sine table; the figure of Ms. N on p. 70 explained); chapter 24, the latitude of a place from
+% the meridian altitude of the sun, with the astrolabe, and from a circumpolar star (notes 1-2).
+diese Titel genau sind, den Schluss ziehen, dass schon vor {sp:Muh. b. Mūsā al-Kh.}
+Sinustafeln von Grad zu Grad fortschreitend existiert haben.
+@p Was die Regeln zur Auffindung des Sinus und Sinus versus zu einem Winkel
+und umgekehrt betrifft, so werde ich wohl dem Texte nichts beizufügen brauchen.
+Sonderbar ist die Bemerkung in Alinea 4 „{i:ut in sequenti tabula subnotatur}“, gleich-
+sam als ob zur Auffindung des Winkels aus dem Sinus eine andere Tafel notwendig
+wäre. Wir machen hier darauf aufmerksam, dass A. {sp:Björnbo} der Ansicht war{sup:1}),
+es könnte das Werk {sp:Kh.}’s noch eine Arcus-Sinustafel enthalten haben, wie sie bei
+{sp:Abū’l-Ḥasan ʿAlī} von Marokko vorkommt, der sie die „Tafel des Kh.“ nennt.
+@p Ich schliesse hier noch eine Figur an, die am Schlusse dieses Kapitels, aber
+nur im Ms. N steht, und die jedenfalls dem Autographen {sp:Athelhards} nicht ange-
+hört hat.
+@p Die Zahlen rings herum von I bis XII bedeuten die zwölf Zeichen ({i:Signa}) zu
+je 30° ; die sechs XX über dem horizontalen Durchmesser bezeichnen je einen
+Drittel des Radius, also 20 partes ; unter dem horizontalen Durchmesser sollte statt
+Gr. (= Gradus) P. (= Partes) stehen ; man kann dann aus der Figur ablesen : sin I
+= sin 30° = sin V = sin 150° = sin VII = sin 210° = sin XI = sin 330° = XXX P. ;
+sin (I + II) = sin 60° = sin 120° = sin 240° = sin 300° = XXX P. + XXI P. LVII M.
+XLI S. = LI P. LVII M. XLI S. ; sin (I+II+III) = sin 90° = sin 270° = LI P. LVII M.
+XLI S. + VIII P. II M. XIX S. = LX P. — Zu bemerken ist noch, dass in dieser Figur
+die Sinuslinien horizontal stehen, dann wäre auch die Übersetzung von {i:djaib mustawī}
+durch {i:sinus planus} eher zu verstehen.
+@c {b:Kap. 24. Über die Auffindung der Breite eines beliebigen Ortes.}
+@c (Text p. 18.)
+@p Zuerst wird angegeben, dass, wenn die Sonne im Anfang des Widders oder
+der Wage (d. h. im Aequator) stehe, ihre Mittagshöhe ({i:H}) von 90° zu subtrahieren
+sei, um die geogr. Breite des Ortes zu erhalten ({i:φ} = 90° — {i:H}).
+@p Steht die Sonne in einem andern Zeichen, so subtrahiert man von ihrer Mittags-
+höhe ihre Deklination, wenn diese nördlich, oder addiert sie zu der Mittagshöhe,
+wenn sie südlich ist, und subtrahiert das Resultat von 90°. ({i:φ} = 90° — ({i:H} ∓ {i:δ})).
+@p Dann wird die Methode angegeben, mit dem Astrolabium die Polhöhe zu
+bestimmen, die gleich der geogr. Breite des Ortes ist.
+@p Endlich wird die Methode behandelt, aus der grössten und kleinsten Höhe
+eines Circumpolarsternes die Höhe des Poles, d. h. die geogr. Breite zu bestimmen.
+({i:φ} = {i:h′} + {fr:{i:h″} — {i:h′}|2} = {fr:{i:h′} + {i:h″}|2}).
+@p Dieselben Bestimmungen findet man auch bei {sp:Batt.}{sup:2})
+@n {sup:1}) Vergl. die oben zitierte {i:Festskrift til} H. G. {sp:Zeuthen}, p. 14, und v. {sp:Braunmühl}, {i:Vor-}
+@n {i:lesungen über Geschichte der Trigonometrie}, Leipzig 1900, I, p. 84.
+@n {sup:2}) Ed. {sp:Nallino}, I, 15, 29—30.
+@obs The page number «71» stands at the head of the page, centred, with a rule below it. The page has no signature. L01 completes the sentence that ends p. 70 (JP2 0102, L14), «Hieraus muss man, wenn». L23-L24: the heading of chapter 24, in bold, centred, with the reference to the text below it.
+@obs L05: «ut in sequenti tabula subnotatur», the end of the fourth paragraph of chapter 23 of the Latin text (p. 17, JP2 0049, L27), in italics within German quotation marks. L10-L22: the figure of p. 70 (JP2 0102), which Suter adds from Ms. N; his reading of it agrees with the check recorded there.
+@obs L13-L20. Checked: 30 + 21;57,41 = 51;57,41 and 51;57,41 + 8;2,19 = 60; 60 sin 60° = 51;57,41.5; the sines of 210°, 240°, 270°, 300° and 330° are equal to these in magnitude, with the negative sign that p. 69 (JP2 0101, L26) sets aside.
+@obs L25-L36. Checked: at the equinoxes the sun stands on the equator, whose meridian altitude is 90° less the latitude; for a northern declination δ the meridian altitude is 90° − φ + δ, for a southern one 90° − φ − δ, so that φ = 90° − (H ∓ δ); a circumpolar star culminates at φ + p and φ − p, p its distance from the pole, so that the latitude is the mean of its greatest and least altitudes, h′ + (h″ − h′)/2 = (h′ + h″)/2. L27 and L30: the minus signs printed as long dashes, with a space on either side, «∓» the minus-plus sign; L35: the formula at the left margin, within large round brackets, its two fractions built up, written {fr:NUMERATOR|DENOMINATOR}, a full stop after it; H, φ, δ, h′, h″ in italics.
+@obs L19: the full stop after the last «M» is printed below the base line (its top 4 px under the line, where the other points stand on it); transcribed as a full stop. L09: «Abū’l-Ḥasan ʿAlī» spaced, with the dot under the Ḥ, the ʿayn raised; «„Tafel des Kh.“» not spaced. L01: «Muh. b. Mūsā al-Kh.» spaced, «Muh.» without a dot under the h.
+@obs Spaced type, marked {sp:}: «Muh. b. Mūsā al-Kh.», «Björnbo», «Kh.» (L08), «Abū’l-Ḥasan ʿAlī», «Athelhards», «Batt.», «Zeuthen», «Braunmühl», «Nallino»; italics: «ut in sequenti tabula subnotatur», «Signa», «djaib mustawī», «sinus planus», the letters of the formulas, «Festskrift til», «Vorlesungen über Geschichte der Trigonometrie».
+@obs The colons and semicolons stand after the thin space of the edition (9-15 px measured; «sin I», L16, the colon before it 12 px).

@@ -1,0 +1,37 @@
+@page 265 [233]
+@lang de
+% JP2 0265: Additions and corrections, p. [233]: 1. on chapter 10 of the commentary (the true places of the three
+% upper planets): Nallino on Ptolemy's equation of the centre and the simpler formula, Pechüle's formula for
+% al-Khwārizmī's equation of the centre (note 1).
+@c NACHTRÄGE UND BERICHTIGUNGEN
+@p {b:1.} Zu Kap. 10 meines Kommentars (Bestimmung des wahren Ortes der drei
+obern Planeten) habe ich einige Zusätze und Berichtigungen zu geben, auf die ich
+durch eine briefliche Mitteilung des Herren C. F. {sp:Pechüle}, w. Astronomen des kgl.
+Observatoriums in Kopenhagen, aufmerksam gemacht worden bin.
+@p {sp:Nallino} (Ed. {sp:Batt.}, II, 241) hat zuerst darauf hingewiesen, dass die Werte der
+{i:Prosthaphäresis} der Länge (Gleichung des {i:Centrums}), die {sp:Ptol.} in der 3. Kol. seiner
+Tafeln für die wahre Länge der Planeten{sup:1}) gibt, nicht der Formel (p. 48)
+@c tg aeq. centri = {fr:2{i:e}{sub:1} sin {i:m}|{rt:1 − ({i:e}{sub:1} sin {i:m}){sup:2}} + {i:e}{sub:1} cos {i:m}}
+entsprechen, sondern der einfachern :
+@c tg aeq. centri = {fr:{i:EN}|{i:HN}} = {fr:2{i:e}{sub:1} sin {i:m}|1 + 2{i:e}{sub:1} cos {i:m}}
+die sich aus der Fig. von p. 47 des Kommentars ergibt, wenn man das Centrum {i:H}
+des Epizykels im {i:Aequans} (den wir weggelassen haben) annimmt, und dann den
+Radius {i:HE′} des Aequans = 1 setzt. Da dies aber nur angenähert richtig ist, indem
+das Centrum {i:H} sich nicht im Aequans, sondern im {i:Deferens} bewegt, korrigiert {sp:Ptol.}
+die nach dieser Formel gefundenen Werte durch die Differenzenwerte der 4. Kol. ;
+diese korrigierten Werte hat dann {sp:Batt.} in die 3. Kol. seiner Tafeln der Gleichungen
+der Planeten (Ed. {sp:Nallino}, II, 108—135) aufgenommen.
+@p Da nun die Werte der Gleichung des Centrums bei {sp:Kh.} wesentlich von denen
+bei {sp:Ptol.-Batt.} abweichen, habe ich den Schluss gezogen (p. 50), es möchte die
+eine Hälfte der halbierten Gleichung der Anomalie bei Kh. zur Korrektur der Gleichung
+des Centrums benutzt worden sein. Es scheint dies aber in der Tat nicht der Fall
+zu sein ; Herr {sp:Pechüle} hat mir mitgeteilt, dass die Werte der Gleichung des Centrums
+bei {sp:Kh.} warhscheinlich nach der Formel {i:C}{sub:{i:α}} = {i:C}{sub:90} · sin {i:α} berechnet seien, wo {i:C}{sub:{i:α}} die
+Gleichung des Centrums für das Argument {i:α}, {i:C}{sub:90} diejenige für das Argument 90°,
+d. h. die maximale Gleichung (= 2{i:e}) bedeutet. Besser wäre freilich nach meiner
+@n {sup:1}) Ausgabe von {sp:Heiberg}, II, 436—444, Übers. v. {sp:Manitius}, II, 261–265.
+@obs The first page of the additions and corrections, p. [233], without a page number. The heading «NACHTRÄGE UND BERICHTIGUNGEN» (L01), in capitals, stands below the top of the text block with a short rule below it. At the foot, the signature line of the printed sheet: «D. K. D. Vidensk. Selsk. Skr., 7. Række, hist. og filos. Afd. III. 1.» on the left and the sheet number «30» on the right; recorded here, not transcribed as a line. The text of p. 232 does not show through; damp stains and the text of the next page, mirrored, in the upper third.
+@obs L09 and L11: the formulas are displayed, each in a line of its own, centred; the fractions are built up, written {fr:NUMERATOR|DENOMINATOR}; the square root of L09 is printed as a radical sign with a bar over «1 − (e1 sin m)²»; e, m, E, N and H in italics, the index 1 lowered; the minus sign printed as a dash, transcribed «−», as on p. 48 (JP2 0080). L24: «Cα», «C90», with the indices lowered, α in italics.
+@obs The first formula (L09) is that of p. 48 (JP2 0080, L20). The second (L11), as Suter describes it: with the centre H of the epicycle on a circle of radius 1 about the equant E′, the earth E at the distance 2e1 from E′ and m the mean anomaly at E′, the perpendicular EN on HE′ is 2e1 sin m and HN = 1 + 2e1 cos m. Pechüle's formula (L24-L26), Cα = C90 · sin α, makes the equation of the centre proportional to the sine of the argument.
+@obs Spaced type, marked {sp:}: «Pechüle» (L04, L23), «Nallino» (L06, L18), «Batt.» (L06, L17), «Ptol.» (L07, L15), «Kh.» (L19, L24), «Ptol.-Batt.» (L20), «Heiberg» and «Manitius» (N01); «Kh.» in L21 is not spaced. Italics: «Prosthaphäresis», «Centrums», «Aequans» (L13; in L14-L15 upright), «Deferens» and the letters of the formulas and the figure. Bold: the number «1.» (L02). Dashes: «108—135» (L18) and «436—444» (N01) long (38 and 44 px); «261–265» (N01) short (21 px, broken).
+@critical AK07-CN274 | misprint | L24 | warhscheinlich | wahrscheinlich | the h and the r are exchanged; «wahrscheinlich» elsewhere in Suter's text, as on p. 102 (JP2 0134, L14) | high | none

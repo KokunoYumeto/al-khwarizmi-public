@@ -1,0 +1,49 @@
+@page 121 ١١٥
+% Frame 121, printed p. 115: the river اوطاسى concluded, past the towns صلمى and صلاى to a lake between the mountain
+% and the town مخلاى; then the heading of the second clime and its springs and rivers: the river رودس; the river
+% ڡالوس, which is the river of the snakes; the rivers حوسوس and سالس; a river from a mountain without a name; and the
+% beginning of the river of the mountain سرجيس. The editor's running numbers (١٧٣١)-(١٧٤٣) and the numbers of Suhrāb
+% [١٧٤٠]-[١٧٥٠]; the folio of the manuscript, «(fol. 33ᵇ)», within a line; words supplied by the editor between angle
+% brackets. Four lines of the editor's footnotes and the signature of the printed sheet.
+{ov:ه مه} (١٧٣١) [١٧٤٠] يمرّ منها هٰذا النهر الى مدينة صلمى ثمّ يرجع الى مدينة
+صلاى ثمّ يمرّ الى بطيحة مابين الجبل ومدينة مخلاى اوّل البطيحة عند عرض {ov:ه ى}
+(١٧٣٢) وآخرها عند عرض {ov:د ى}{n:a} (١٧٣٣) *
+@h * الإقليم الثانى وما فيه من العيون والأنهار *
+نهر رودس{n:b} يخرج من جبل اوّله عند طول {ov:ٮه {z}} والعرض {ov:ٮح ك} (١٧٣٤) [١٧٤١]
+ومصبّه فى ⟨البح⟩{n:c}ر عند طول {ov:ط ك} والعرض {ov:ٮح ك} (١٧٣٥) [١٧٤٢] * نهر ڡالوس
+وهو نهر الحيات يخرج ⟨من جبل⟩{n:c} اوّله عند طول {ov:ٮه {z}} والعرض {ov:ك كه} (١٧٣٦)
+[١٧٤٣] ومصبّه فى البحر عند طول ⟨{ov:ط م} وال⟩{n:d}عرض {ov:ك كه} (١٧٣٧) [١٧٤٤] * نهر
+@m (fol. 33ᵇ)
+حوسوس{n:e} يخرج من جبل عند طول {ov:⟨يه {z}⟩}{n:f} والعرض {ov:كا مه} (١٧٣٨)
+[١٧٤٥] ومصبّه فى البحر عند طول {ov:ط مه} والعرض {ov:كا مه} (١٧٣٩) [١٧٤٦] * نهر
+سالس يخرج من جبل عند طول {ov:يه {z}} والعرض {ov:كٮ كه} (١٧٤٠) [١٧٤٧] ومصبّه فى
+البحر عند طول {ov:ط {z}} والعرض {ov:كح مه} (١٧٤١) [١٧٤٨] * نهر يخرج من جبل عند
+طول {ov:كح ى} والعرض {ov:كٮ ل} (١٧٤٢) [١٧٤٩] ومصبّه فى البحر عند طول {ov:ط {z}}
+والعرض {ov:كه م} (١٧٤٣) [١٧٥٠] * نهر يخرج من جبل سرجيس{n:g} اوّله عند طول
+@ednotes a b c d e f g 4
+@obs The river اوطاسى goes on from p. 114 (frame 120), whose last word, «والعرض», L01 continues with «ه مه (١٧٣١)», the latitude 5° 45′ of the beginning of its spring on the island of the jewels; «يمرّ منها هٰذا النهر الى مدينة صلمى ثمّ يرجع الى مدينة صلاى ثمّ يمرّ الى بطيحة مابين الجبل ومدينة مخلاى اوّل البطيحة عند عرض ه ى (١٧٣٢) وآخرها عند عرض د ى (١٧٣٣) *» (L01-L03), from there this river passes to the town صلمى, then turns back to the town صلاى, then passes to a lake between the mountain and the town مخلاى; the beginning of the lake is at the latitude 5° 10′ and its end at the latitude 4° 10′, points 1732 and 1733 given by their latitude only, without numbers of Suhrāb. The towns صلمى, صلاى and مخلاى are entries 69-71 of the table of the cities, on the island of the jewels (frame 014, L01-L03), where the third is printed «محلاى» and the editor's note a gives مخلاى at this entry (1732).
+@obs L04: the heading of the new section, in the large type, between two small open stars, transcribed as asterisks: «* الإقليم الثانى وما فيه من العيون والأنهار *», the second clime and the springs and the rivers in it. «الإقليم» with a hamza below the alif, «والأنهار» with a hamza over the alif.
+@obs L05-L06: «نهر رودس يخرج من جبل اوّله عند طول ٮه {z} والعرض ٮح ك (١٧٣٤)», the river رودس comes out of a mountain, whose name is not given; its beginning is at the longitude ٮه ō and the latitude ٮح ك; «ومصبّه فى ⟨البح⟩ر عند طول ط ك والعرض ٮح ك (١٧٣٥) *», and its mouth in the sea is at the longitude 9° 20′ and the latitude ٮح ك. The coast of frame 072 (L10) passes the mouth of the river روذس at entry (977).
+@obs L06-L08: «نهر ڡالوس وهو نهر الحيات يخرج ⟨من جبل⟩ اوّله عند طول ٮه {z} والعرض ك كه (١٧٣٦)», the river ڡالوس, which is the river of the snakes, comes out of a mountain; its beginning is at the longitude ٮه ō and the latitude 20° 25′; «ومصبّه فى البحر عند طول ⟨ط م وال⟩عرض ك كه (١٧٣٧) *», and its mouth in the sea is at the longitude ⟨9° 40′⟩ and the latitude 20° 25′.
+@obs L08-L10: «نهر حوسوس يخرج من جبل عند طول ⟨يه {z}⟩ والعرض كا مه (١٧٣٨)», the river حوسوس comes out of a mountain at the longitude ⟨15° 0′⟩ and the latitude 21° 45′; «ومصبّه فى البحر عند طول ط مه والعرض كا مه (١٧٣٩) *», and its mouth in the sea is at the longitude 9° 45′ and the latitude 21° 45′. The editor's note e refers to entry (979), the mouth of this river on the coast of frame 072 (L12), where the name is printed «حوسدس», with a د.
+@obs L10-L12: «نهر سالس يخرج من جبل عند طول يه {z} والعرض كٮ كه (١٧٤٠)», the river سالس comes out of a mountain at the longitude 15° 0′ and the latitude كٮ كه; «ومصبّه فى البحر عند طول ط {z} والعرض كح مه (١٧٤١) *», and its mouth in the sea is at the longitude 9° 0′ and the latitude كح مه.
+@obs L12-L14: «نهر يخرج من جبل عند طول كح ى والعرض كٮ ل (١٧٤٢)», a river comes out of a mountain at the longitude كح ى and the latitude كٮ ل; «ومصبّه فى البحر عند طول ط {z} والعرض كه م (١٧٤٣) *», and its mouth in the sea is at the longitude 9° 0′ and the latitude 25° 40′; then «نهر يخرج من جبل سرجيس اوّله عند طول», a river comes out of the mountain سرجيس; its beginning is at the longitude …, continued on p. 116.
+@obs Angle brackets, each followed by a note mark, around what the editor supplies: «⟨البح⟩» (L06), the beginning of «البحر», whose ر stands after the closing bracket and the note mark c; «⟨من جبل⟩» (L07), note c; «⟨ط م وال⟩» (L08), the longitude and the beginning of «والعرض», whose «عرض» follows the closing bracket and the note mark d, the line over the numerals reaching over the opening bracket; «⟨يه ō⟩» (L09), within the line over the numerals, note f. Transcribed with the brackets; the ل of «وال» is printed in its joining form before the bracket.
+@obs L05 and L07: the degrees of the longitude, «ٮه», are a tooth without its dot joined to a final ه, where L09 and L11 print «يه» with the two dots of the ي, 15, and the isolated ه, 5, of L01 and L02 is a small round ring; transcribed ٮه, which read with a ي gives 15° 0′, beside the longitudes 15° 0′ of the springs of L09 and L11.
+@obs L06: «ڡالوس»: the loop of ف or ق without dots, joined to the alif; transcribed so. L05: «اوّله»: the alif is printed broken, an upper stroke of 26 px with a fine hairline from its lower part, and a piece of 9 px below it, together the height of the alifs of the line; transcribed ا.
+@obs L02: «مابين» is printed as one word: «ما» touches «بين». L11: «سالس»: a ل, shorter than the alif, joined to the final س.
+@obs Signs in the text, transcribed as printed: «يمرّ» (L01, L02), «ثمّ» (L01, L02), «اوّل» (L02), «اوّله» (L05, L07, L14) and «ومصبّه» (L06, L08, L10, L11, L13) with a shadda; «هٰذا» (L01) with a dagger alif above the ه; «وآخرها» (L03) with a madda over the alif; «الى», «فى», «صلمى», «صلاى», «مخلاى» and «الثانى» end in a ى without dots.
+@obs Numerals: «ه مه» (L01), 5° 45′, and «ه ى» (L02), 5° 10′, the ه the small round ring of the isolated letter; «د ى» (L03), 4° 10′; «ط ك» (L06), 9° 20′; «ك كه» (L07, L08), 20° 25′; «ط م» (L08), 9° 40′; «يه {z}» (L09, L11), with the two dots of the ي, 15° 0′; «كا مه» (L09, L10), 21° 45′; «ط مه» (L10), 9° 45′; «ط {z}» (L12, L13), 9° 0′; «كح ى» (L13), 28° 10′; «كه م» (L14), 25° 40′. Without their dots, transcribed so: «ٮح» (L05, L06), a tooth without its dot joined to a ح, which read with a ي gives 18; «كٮ» (L11, L13), the ك joined to the flat final bowl of a ب without its dot, 22.
+@obs The ح of the numerals, «ٮح» (L05, L06) and «كح» (L12, L13), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. The isolated ك, 20, is printed with the small inner stroke of the letter (L05-L08); the isolated ى, 10, has no dots (L02, L03, L13).
+@obs The running numbers run (١٧٣١)-(١٧٤٣) without a gap; the numbers of Suhrāb [١٧٤٠]-[١٧٥٠] stand after (١٧٣١) and after (١٧٣٤)-(١٧٤٣), without a gap; points 1732 and 1733 have none. [١٧٤٣] and [١٧٤٥] stand at the beginning of L08 and L10, after the running numbers at the end of the line before. L09: the folio of the Strasbourg manuscript, «(fol. 33ᵇ)», is printed in Latin type within the line, between the longitude and «والعرض»; transcribed as a margin note before the line.
+@obs Asterisks: the small open stars with six points, after (١٧٣٣) (L03), around the heading (L04), after [١٧٤٢] (L06), after [١٧٤٤] (L08), after [١٧٤٦] (L10), after [١٧٤٨] (L12) and after [١٧٥٠] (L14), are transcribed as asterisks.
+@obs Note marks: L03, a after the latitude; L05, b after «رودس»; L06, c after the closing bracket of «⟨البح⟩»; L07, c after the closing bracket of «⟨من جبل⟩»; L08, d after the closing bracket; L09, e after «حوسوس» and f after the closing bracket, at the end of the line over the numerals; L14, g after «سرجيس».
+@obs Marks not transcribed: L01, a round dot, 12 by 10 px, below the lower end of the parenthesis that opens (١٧٣١).
+@obs The editor's footnotes stand in four lines below a short rule at the left: notes a-g. Below the notes, at the left, the signature «8*» of the printed sheet; the page number «— ١١٥ —» stands at the foot, centred.
+@variant L03: a variant reading of the latitude is د ز, with a line over the numerals; the editor suggests that it may perhaps be read د ن, and for points (1732) and (1733) compares Suhrāb [١٠٣٨] (note a).
+@variant L05: at entry (977) the name is written روذس (note b).
+@variant L06, L07: the manuscript is badly damaged at the words between the brackets (note c).
+@variant L08: the manuscript has a gap at the words between the brackets; the editor supplies them after S (note d).
+@variant L09: at entry (979) the name is written حوسرس (note e).
+@variant L09: the manuscript has a gap at the longitude; the editor supplies it after entries (607)-(608) and S (note f).
+@variant L14: a variant reading of the name is حزجيس (note g).

@@ -1,0 +1,50 @@
+@page 72 40
+@lang de
+% JP2 0072: Suter's commentary, p. 40: chapter 5 continued: Table 3a and the cycle of 28 years; three examples of the
+% weekday of a date (5 March 1363 of the Seleucid era, 26 January 1126, 10 October 1912); Tables 1-3a and the
+% spurious tables at the end of Nallino's al-Battānī, the correspondence begins.
+Kalender nach Verfluss von 28 Jahren die Tage eines Monats wieder auf dieselben
+Wochentage fallen wie vorher, dass also in Tafel 3{sup:a} unter {i:Anni romanorum plani}
+nur die Reste verzeichnet sind, die sich bei der Division der Jahreszahl durch 28
+ergeben, statt des Restes 0 steht die Zahl 28 am Ende der Kolonne. Um diese Divi-
+sion jeweilen zu ersparen, befindet sich in Tafel 3 eine Kolonne (die letzte) mit den
+Vielfachen von 28, dieselben Vielfachen in bedeutend grösserer Zahl findet man auch
+auf Tafel 1. Ich gebe drei Beispiele :
+@p 1. Welcher Wochentag war der 5. März (syr. {i:ādhār}, in unsern Tafeln geschrieben
+adar) des Jahres 1363 der {i:römischen} Aera ?
+@p In Tafel 1 findet man die nächste durch 28 teilbare Zahl unter 1363 gleich
+1344, dieses von 1363 abgezogen, bleibt 19, in Tafel 3{sup:a} findet man zu 19 in der
+Kolonne „{i:Mart.}“ überschrieben die {i:Nota} 1, d. h. der 1. März fiel auf einen Sonntag,
+der 5. also auf einen {i:Donnerstag}. Dieses Jahr der römischen Aera war ein Schaltjahr,
+denn in der Kolonne {i:Anni bissextiles} überschrieben steht {i:bissext.}, in der Tat, denn
+es entspricht dem Jahre 1052 der julianischen Zeitrechnung.
+@p 2. Welcher Wochentag war der 26. Januar 1126 der {i:julianischen} Zeitrechnung ?
+Wir addiren zu 1126 die Zahl 311, dies giebt 1437, in Tafel 3 findet man die nächste
+durch 28 teilbare Zahl gleich 1428, diese von 1437 abgezogen, bleibt 9, in Tafel 3{sup:a}
+findet man zu 9 in der Kolonne Januar überschrieben die {i:Nota} 6, d. h. der 1. Januar
+fiel auf einen Freitag, also auch der 8., 15., 22., der 26. also auf einen {i:Dienstag}.
+Dieses Resultat entspricht der Angabe, die sich p. 5 des Textes befindet (siehe auch
+oben p. 37).
+@p 3. Welcher Wochentag war der 10. Oktober des Jahres 1912 der {i:julianischen}
+Zeitrechnung ?
+@p Wir addieren zu 1912 die Zahl 312 (siehe p. 39), dies gibt 2224, die nächste
+durch 28 teilbare Zahl ist 2212 (diese Zahl steht nicht mehr in unsern Tafeln), Rest
+12, dazu gehört in Tafel 3{sup:a} unter Oktober die Note 2, also fiel der 1. Oktober auf
+einen Montag, ebenso der 8., der 10. also auf einen {i:Mittwoch}.
+@p Für die richtigen Lesarten der syrischen Monatsnamen, die in den Überschriften
+der einzelnen Kolonnen an oberster Stelle stehen, verweise ich auf das Glossar.
+@p Diese sechs ersten Tafeln (1, 2, 2{sup:a}, 2{sup:b}, 3, 3{sup:a}) entsprechen, einzelne ganz, andere
+nur teilweise den unechten, d. h. nicht von {sp:Batt.} stammenden Tafeln, die {sp:Nallino}
+am Ende seiner Ausgabe (II, p. 300—305) angefügt hat, und die jedenfalls, was bei
+einigen direkt angegeben ist, von {sp:Maslama al-Madjrīṭī} herstammen. Dies bildete
+natürlich einen wesentlichen Grund für unsere Vermutung, dass wir in diesem Werke
+nicht die ursprünglichen Tafeln {sp:Kh.}’s, sondern die Bearbeitung {sp:Maslamas} vor uns
+haben. Die Entsprechung dieser Tafeln ist folgende :
+@t {sp:Batt.} p. 301 (1. Hälfte) | = | {sp:Kh.} Tafel 2
+@t „ p. 301 (2. Hälfte) | = | „ „ 2{sup:a}
+@t „ p. 302 | = | „ „ 3{sup:a} und linke Hälfte von 1
+@obs The page number «40» stands at the head of the page, centred, with a rule below it. The page has no signature. L01: «Kalender» continues «dass im julianischen» at the end of p. 39 (JP2 0071, L36).
+@obs L08-L28. Checked: 1363 is 48 × 28 + 19; the Seleucid year 1363 began on 1 October 1051, so that its March is March 1052, a leap year of the Julian calendar, and 1 March 1052 was a Sunday, 5 March a Thursday. 1437 is 51 × 28 + 9; 1 January 1126 was a Friday and 26 January a Tuesday, the weekday of the text (p. 37, JP2 0069). 2224 is 79 × 28 + 12; 1 October 1912 of the Julian calendar was a Monday and 10 October, 23 October of the Gregorian calendar, a Wednesday. The Julian calendar repeats its weekdays after 28 years, four leap cycles of 1461 days, 5844 days or 834 weeks.
+@obs L38-L40: the correspondence of the tables, set in columns: the ditto marks „ stand under «Batt.», «Kh.» and «Tafel»; the list goes on on p. 41. Each printed row is one line here, the cells separated by our «|». L32-L36: «Batt.», «Nallino», «Maslama al-Madjrīṭī», «Kh.» and «Maslamas» spaced.
+@obs As printed: «addiren» and «giebt» (L17), «addieren» and «gibt» (L25); «die Note 2» (L27), where L12 and L19 have «Nota»; «adar» (L09) upright, as the spelling of the tables, after the italic «ādhār» (L08); «julianischen» italic in L16 and L23, upright in L15. L12: «„Mart.“», the abbreviation in italics within upright quotation marks.
+@obs The colons and the question marks stand after the thin space of the edition (9-13 px measured).

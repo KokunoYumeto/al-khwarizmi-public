@@ -1,0 +1,18 @@
+{
+ "anchor": "AK02-F030",
+ "frame": 30,
+ "frame_file": "page_030.jpg",
+ "frame_sha256": "86a68a82d9463ea20178c282061d3c6e10db4143c85244850ff94e3ed16cdca4",
+ "printed_page": "-",
+ "kind": "blank",
+ "role": "blank",
+ "comment": "Frame 030: the back of the last printed leaf, p. [24]; nothing printed. The last frame of the digitization.",
+ "lines": [],
+ "variants": [],
+ "unresolved": [],
+ "observations": [
+  "Blank: the back of p. 23, without a page number. The text of p. 23 shows through in mirror image; brown spots of foxing near the edges. This is the last of the 30 frames of the digitization; there is no image of a back wrapper or cover."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

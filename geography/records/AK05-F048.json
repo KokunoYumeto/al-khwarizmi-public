@@ -1,0 +1,285 @@
+{
+ "anchor": "AK05-F048",
+ "frame": 48,
+ "frame_file": "page_048.jpg",
+ "frame_sha256": "ffa6e0fc3274d6aab4721c952dc4ce5e6f75b23903257226dde7c0c2b4697289",
+ "printed_page": "٤٢",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 048, printed p. 42: the right-hand page of the opening pp. 42-43. Six lines of text begin the description of the mountain that surrounds the island of the Yāqūt in the far east: where it begins, the points it passes, entries 596-600, and how it encloses the island; the text goes on at the top of p. 43. Then the headings of the second clime and of its mountains, and the numbers and names of eight mountains, entries 607/608-621/622, among them Sarʿāṭūs, حرحس and Lūthiyā; the folios of the manuscript, «(fol. 11ᵇ)» and «(fol. 12ᵃ)». Two lines of the editor's footnotes, continued from the foot of p. 43.",
+ "lines": [
+  {
+   "id": "AK05-F048-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "* صفة الجبل المحيط بجزيرة الياقوت الّتى فى اوّل حدّ المشرق فى اقصا* بحر",
+   "margin": "(fol. 11ᵇ)",
+   "cells": null,
+   "plain": "* صفة الجبل المحيط بجزيرة الياقوت الّتى فى اوّل حدّ المشرق فى اقصا* بحر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F048-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "الصين ⟨وهو⟩{n:a} البحر المظلم الّذى لا يسلك وجبل محيط* بجزيرة الياقوت يبتدئ من طول",
+   "margin": null,
+   "cells": null,
+   "plain": "الصين ⟨وهو⟩ البحر المظلم الّذى لا يسلك وجبل محيط* بجزيرة الياقوت يبتدئ من طول",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F048-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "{ov:ڡسر {z}} وعرض {ov:ٮد ل} (٥٩٦) [١٤٥٧] مارّا الى عرض {ov:ط {z}} على استوى* (٥٩٧)",
+   "margin": null,
+   "cells": null,
+   "plain": "ڡسر ō وعرض ٮد ل (٥٩٦) [١٤٥٧] مارّا الى عرض ط ō على استوى* (٥٩٧)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F048-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "[١٤٥٨] ثمّ يستدير الى عرض {ov:ه {z}} وطول {ov:ڡع {z}} (٥٩٨) [١٤٥٩] ويمرّ فيدخل البحر",
+   "margin": null,
+   "cells": null,
+   "plain": "[١٤٥٨] ثمّ يستدير الى عرض ه ō وطول ڡع ō (٥٩٨) [١٤٥٩] ويمرّ فيدخل البحر",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F048-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "المظلم عند عرض {ov:د {z}} وطول {ov:ڡعٮ {z}} (٥٩٩) [١٤٦٠] ويدخل فى البحر عند{n:b} عرض",
+   "margin": null,
+   "cells": null,
+   "plain": "المظلم عند عرض د ō وطول ڡعٮ ō (٥٩٩) [١٤٦٠] ويدخل فى البحر عند عرض",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F048-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "{ov:ح ل} وطول {ov:ڡعح ل} (٦٠٠) [١٤٦١] ثمّ يحيط بالجزيرة على هيئة السفط{n:c} ثمّ يجىء الجبل",
+   "margin": null,
+   "cells": null,
+   "plain": "ح ل وطول ڡعح ل (٦٠٠) [١٤٦١] ثمّ يحيط بالجزيرة على هيئة السفط ثمّ يجىء الجبل",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F048-L07",
+   "n": 7,
+   "kind": "heading",
+   "text": "* الإقليم الثانى",
+   "margin": "(fol. 12ᵃ)",
+   "cells": null,
+   "plain": "* الإقليم الثانى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F048-L08",
+   "n": 8,
+   "kind": "heading",
+   "text": "* الجبال الّتى فى",
+   "margin": null,
+   "cells": null,
+   "plain": "* الجبال الّتى فى",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F048-L09",
+   "n": 9,
+   "kind": "row",
+   "text": "(٦٠٧ ٦٠٨) | [١٠٩٧ ١٠٩٨] | جبل",
+   "margin": null,
+   "cells": [
+    "(٦٠٧ ٦٠٨)",
+    "[١٠٩٧ ١٠٩٨]",
+    "جبل"
+   ],
+   "plain": "(٦٠٧ ٦٠٨) | [١٠٩٧ ١٠٩٨] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F048-L10",
+   "n": 10,
+   "kind": "row",
+   "text": "(٦٠٩ ٦١٠) | [١٠٩٩ ١١٠٠] | جبل",
+   "margin": null,
+   "cells": [
+    "(٦٠٩ ٦١٠)",
+    "[١٠٩٩ ١١٠٠]",
+    "جبل"
+   ],
+   "plain": "(٦٠٩ ٦١٠) | [١٠٩٩ ١١٠٠] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F048-L11",
+   "n": 11,
+   "kind": "row",
+   "text": "(٦١١ ٦١٢) | [١١٠١ ١١٠٢] | جبل",
+   "margin": null,
+   "cells": [
+    "(٦١١ ٦١٢)",
+    "[١١٠١ ١١٠٢]",
+    "جبل"
+   ],
+   "plain": "(٦١١ ٦١٢) | [١١٠١ ١١٠٢] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F048-L12",
+   "n": 12,
+   "kind": "row",
+   "text": "(٦١٣ ٦١٤) | [١١٠٣ ١١٠٤] | جبل سرعاطوس",
+   "margin": null,
+   "cells": [
+    "(٦١٣ ٦١٤)",
+    "[١١٠٣ ١١٠٤]",
+    "جبل سرعاطوس"
+   ],
+   "plain": "(٦١٣ ٦١٤) | [١١٠٣ ١١٠٤] | جبل سرعاطوس",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F048-L13",
+   "n": 13,
+   "kind": "row",
+   "text": "(٦١٥ ٦١٦) | [١١٠٥ ١١٠٦] | جبل حرحس{n:f}",
+   "margin": null,
+   "cells": [
+    "(٦١٥ ٦١٦)",
+    "[١١٠٥ ١١٠٦]",
+    "جبل حرحس{n:f}"
+   ],
+   "plain": "(٦١٥ ٦١٦) | [١١٠٥ ١١٠٦] | جبل حرحس",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F048-L14",
+   "n": 14,
+   "kind": "row",
+   "text": "(٦١٧ ٦١٨) | [١١٠٧ ١١٠٨] | جبل لوثيا{n:g}",
+   "margin": null,
+   "cells": [
+    "(٦١٧ ٦١٨)",
+    "[١١٠٧ ١١٠٨]",
+    "جبل لوثيا{n:g}"
+   ],
+   "plain": "(٦١٧ ٦١٨) | [١١٠٧ ١١٠٨] | جبل لوثيا",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F048-L15",
+   "n": 15,
+   "kind": "row",
+   "text": "(٦١٩ ٦٢٠) | [١١٠٩ ١١١٠] | جبل",
+   "margin": null,
+   "cells": [
+    "(٦١٩ ٦٢٠)",
+    "[١١٠٩ ١١١٠]",
+    "جبل"
+   ],
+   "plain": "(٦١٩ ٦٢٠) | [١١٠٩ ١١١٠] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F048-L16",
+   "n": 16,
+   "kind": "row",
+   "text": "(٦٢١ ٦٢٢) | [١١١١ ١١١٢] | جبل",
+   "margin": null,
+   "cells": [
+    "(٦٢١ ٦٢٢)",
+    "[١١١١ ١١١٢]",
+    "جبل"
+   ],
+   "plain": "(٦٢١ ٦٢٢) | [١١١١ ١١١٢] | جبل",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "e",
+    "f",
+    "g"
+   ],
+   "lines": 2,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: at entry (1726) the mountain is called جبل اروس احروسس and جبل الياقوت (a note added in the editor's corrigenda (p. 163, frame 169)).",
+  "L02: the word وهو is missing in the manuscript; the editor supplies it (note a, printed at the foot of p. 43).",
+  "L05: the manuscript reads الى, to, for عند, at (note b, printed at the foot of p. 43).",
+  "L06: the manuscript writes the word with ص in place of the س (note c, printed at the foot of p. 43).",
+  "L13: at entry (1744) the name is written سرجيس, with the variant reading حزجيس, and at entry (1746) سرحس, with the variant reading حرحس.",
+  "L14: at entry (1641) the name is written اليوها."
+ ],
+ "unresolved": [],
+ "observations": [
+  "L01-L06: the description of the mountain that surrounds the island of the Yāqūt, «صفة الجبل المحيط بجزيرة الياقوت», is set as running text in the type of the tables, the full width of the page; it goes on at the top of p. 43 (frame 049, L01-L06), from page to page and not across the opening. The headings L07-L08 and the rows L09-L16 run across the opening as on pp. 38-39 (frames 044-045): L07, «* الإقليم الثانى», is continued on p. 43 by «عرضه كد *», the second clime and its latitude, 24; L08, «* الجبال الّتى فى», by «الإقليم الثانى *», the mountains in the second clime; and each row by the same row of p. 43, which gives the boundaries, the colour and the direction. The headings stand at the inner edge of the page, next to their ends on p. 43; transcribed as headings.",
+  "L01: the folio of the Strasbourg manuscript, «(fol. 11ᵇ)», is printed in Latin type at the beginning of the line, within the text block, and is followed by a small open six-pointed star, transcribed as an asterisk, with which the description begins, as the headings L07 and L08 begin with the same star. The folio «(fol. 12ᵃ)» is printed in the right margin beside the heading of the second clime (L07).",
+  "L01: «اقصا*», L02: «محيط*» and L03: «استوى*»: an asterisk with six round-ended arms, as on frame 046 (L10), stands after the word, raised: the editor's sign for a form against the grammar of the classical language that he keeps from the manuscript (introduction, frame 184, p. XXIX). «اقصا» ends in an alif; «استوى», without the article, in a ى without dots.",
+  "L02: «⟨وهو⟩»: the word stands between angle brackets, followed by the note mark a: the editor supplies it (note a).",
+  "L02, L05: «المظلم», and L01: «المحيط»: the م after the ل of the article is a small loop at the foot of the ل, to the right of its stem, so that the following ظ or ح stands next to the ل; in «المشرق» (L01) the م is a loop on the line to the left of the ل.",
+  "L03-L06: the coordinates in the text are written with letters, each pair of degrees and minutes with a line above it, transcribed with {ov:…}: L03, the longitude «ڡسر» with the zero, the latitude «ٮد ل» and the latitude «ط» with the zero; L04, the latitude «ه» with the zero and the longitude «ڡع» with the zero; L05, the latitude «د» with the zero and the longitude «ڡعٮ» with the zero; L06, the latitude «ح ل» and the longitude «ڡعح ل». The running numbers (٥٩٦)-(٦٠٠) and the numbers of Suhrāb [١٤٥٧]-[١٤٦١] follow the points of the description.",
+  "Letters printed without their dots in the numerals of the text, transcribed so: the loop of ف or ق without dots in the longitudes, ڡسر (L03), ڡع (L04), ڡعٮ (L05), the last with a final ب without its dot, and ڡعح (L06); ٮد (L03), a tooth without its dot joined to a د, 14. In ڡسر the editor reads ر as ز, 7 (introduction, frame 196, p. XVII), so 167; transcribed ر as printed. The isolated ه of L04 is a small round ring, the round form of the letter. The ح of L06, alone and in ڡعح, shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed.",
+  "Signs transcribed as printed: L01: «الّتى», «اوّل» and «حدّ» with a shadda; L02: «الّذى» with a shadda over the ل and the dot of the ذ, and «يبتدئ» with a hamza over the final ى; L03: «مارّا» with a shadda over the ر; L04: «ثمّ» and «ويمرّ» with a shadda; L06: «ثمّ», twice, with a shadda, «هيئة» with a hamza over the tooth, and «يجىء», a final ى without dots followed by a hamza on the line, 15 by 15 px, larger than a dot of the font. «على» (L03, L06), «الى» (L03, L04) and «فى» (L01, twice; L05) end in a ى without dots. L07: «الإقليم» with a hamza below the alif; L08: «الّتى» with a shadda over the ل.",
+  "L09-L16: each mountain has two running numbers in one pair of parentheses and two numbers of Suhrāb in one pair of square brackets. The running numbers go on from the description, whose last number, (٦٠٦), stands on p. 43, and run (٦٠٧ ٦٠٨)-(٦٢١ ٦٢٢); the numbers of Suhrāb run [١٠٩٧]-[١١١٢], after [١٠٩٥ ١٠٩٦] of the last mountain of the first clime (frame 046, L17). L09-L11, L15, L16: the name is the word «جبل» alone.",
+  "L12: «سرعاطوس», the ع without a dot; L13: «حرحس», the two ح without dots; L14: «لوثيا», the ث with its three dots and the ي with its two.",
+  "L16: the middle digit of the second running number, a ٢, is printed heavier than the others, with a small third point at its top, but it is 22 px wide like the other ٢ of the page (20 to 22 px), where a ٣ is 31 px (L12, the first running number). Transcribed (٦٢٢), the number after (٦٢١).",
+  "The editor's footnotes of the opening begin at the foot of p. 43 (frame 049) with notes a, b, c and d and the beginning of note e, and continue here in two lines with the end of note e and notes f and g. The texts of notes a, b and c, whose marks stand on this page (L02, L05, L06), are printed on p. 43.",
+  "The page number «— ٤٢ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

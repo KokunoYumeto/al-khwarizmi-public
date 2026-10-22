@@ -1,0 +1,270 @@
+{
+ "anchor": "AK05-F163",
+ "frame": 163,
+ "frame_file": "page_163.jpg",
+ "frame_sha256": "ba92e564537855b7438559fe92afbca3e226a899b6ffd8c6ec586b53a1072034",
+ "printed_page": "١٥٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 163, printed p. 157: the marsh of the rivers from the mountain افقا concluded, its course past the town Ṭarmā, the five rivers and the town Ṭās, and the two rivers that leave it for the northern sea, with the words «وهٰذه صورة ذٰلك», after which the manuscript has its map of the marsh; then the river Rā, past one of the two towers of Dhū l-Qarnayn to the sea, and a river from a mountain that falls into it. The editor's running numbers (٢٣٨١)-(٢٣٩٠) and the numbers of Suhrāb; the folios of the manuscript, «(fol. 47ᵃ)» and «(fol. 47ᵇ)», within the lines; letters, words, numerals and a whole entry supplied by the editor between angle brackets. Eight lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F163-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "الى احد جوانبها الّذى يلى البحر الى طول {ov:سح ل} ⟨والعرض {ov:نب ل}⟩{n:a}",
+   "margin": "(fol. 47ᵃ)",
+   "cells": null,
+   "plain": "الى احد جوانبها الّذى يلى البحر الى طول سح ل ⟨والعرض نب ل⟩",
+   "note_marks": [
+    "a"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F163-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "(٢٣٨١) ⟨ثمّ تدور⟩{n:b} البطيحة فتمرّ بمدينة طرمى وتمرّ ⟨بالأنهار الخمسة⟩{n:b} الّتى مصبّ⟨ها",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٣٨١) ⟨ثمّ تدور⟩ البطيحة فتمرّ بمدينة طرمى وتمرّ ⟨بالأنهار الخمسة⟩ الّتى مصبّ⟨ها",
+   "note_marks": [
+    "b",
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F163-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "ع⟩{n:b}ند طول {ov:سط {z}} (٢٣٨٢) ومبتدأها من جبل افقا حتّى تنتهى الى ركن مدينة",
+   "margin": null,
+   "cells": null,
+   "plain": "ع⟩ند طول سط ō (٢٣٨٢) ومبتدأها من جبل افقا حتّى تنتهى الى ركن مدينة",
+   "note_marks": [
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F163-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "⟨طاس⟩{n:b} ثمّ تمرّ الى موضع طوله {ov:سح م} ⟨و⟩{n:b}العرض {ov:نز م} (٢٣٨٣) وتمرّ الى موضع طوله",
+   "margin": null,
+   "cells": null,
+   "plain": "⟨طاس⟩ ثمّ تمرّ الى موضع طوله سح م ⟨و⟩العرض نز م (٢٣٨٣) وتمرّ الى موضع طوله",
+   "note_marks": [
+    "b",
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F163-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "{ov:سب ⟨{z}⟩}{n:b} والعرض {ov:نه ل}{n:c} (٢٣٨٤) [١٠٣٧] ثمّ تمرّ الى موضع اسفل مسيل الأربعة",
+   "margin": null,
+   "cells": null,
+   "plain": "سب ⟨ō⟩ والعرض نه ل (٢٣٨٤) [١٠٣٧] ثمّ تمرّ الى موضع اسفل مسيل الأربعة",
+   "note_marks": [
+    "b",
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F163-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "الأنهار ثمّ يخرج منها نهران فيما بين ال⟨بحرين⟩{n:d} مصبّهما{n:e} الى بحر الشمال وهٰذه صورة",
+   "margin": null,
+   "cells": null,
+   "plain": "الأنهار ثمّ يخرج منها نهران فيما بين ال⟨بحرين⟩ مصبّهما الى بحر الشمال وهٰذه صورة",
+   "note_marks": [
+    "d",
+    "e"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F163-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "ذٰلك{n:f} *",
+   "margin": null,
+   "cells": null,
+   "plain": "ذٰلك *",
+   "note_marks": [
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F163-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "⟨نهر را اوّله من جبل عند طول {ov:عب ك} والعرض {ov:س ل}⟩{n:g} (٢٣٨٥) [٢٢١٢]",
+   "margin": "(fol. 47ᵇ)",
+   "cells": null,
+   "plain": "⟨نهر را اوّله من جبل عند طول عب ك والعرض س ل⟩ (٢٣٨٥) [٢٢١٢]",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F163-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "⟨يمرّ الى موضع طو⟩{n:g}له {ov:فا ل} والع⟨رض {ov:نح ل}⟩{n:g} (٢٣٨٦) [٢٢١٣] ويمرّ الى موضع طوله",
+   "margin": null,
+   "cells": null,
+   "plain": "⟨يمرّ الى موضع طو⟩له فا ل والع⟨رض نح ل⟩ (٢٣٨٦) [٢٢١٣] ويمرّ الى موضع طوله",
+   "note_marks": [
+    "g",
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F163-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "{ov:عه م} والعرض {ov:⟨نز ك⟩}{n:g} (٢٣٨٧) [٢٢١٤] ⟨ويمرّ فيضرب اح⟩{n:h}د البرجين ⟨الّذين",
+   "margin": null,
+   "cells": null,
+   "plain": "عه م والعرض ⟨نز ك⟩ (٢٣٨٧) [٢٢١٤] ⟨ويمرّ فيضرب اح⟩د البرجين ⟨الّذين",
+   "note_marks": [
+    "g",
+    "h"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F163-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "بناهما ذ⟩{n:h}و القرنين ويمرّ فيصبّ فى البحر عند طول {ov:⟨فا⟩{n:i} ى} والعرض {ov:مط ك} (٢٣٨٨)",
+   "margin": null,
+   "cells": null,
+   "plain": "بناهما ذ⟩و القرنين ويمرّ فيصبّ فى البحر عند طول ⟨فا⟩ ى والعرض مط ك (٢٣٨٨)",
+   "note_marks": [
+    "h",
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F163-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "[٢٢١٥] * ⟨ويقع الى⟩{n:k} هٰذا النهر نهر من جبل اوّله عند طول {ov:صب ل} والعرض {ov:سا {z}}",
+   "margin": null,
+   "cells": null,
+   "plain": "[٢٢١٥] * ⟨ويقع الى⟩ هٰذا النهر نهر من جبل اوّله عند طول صب ل والعرض سا ō",
+   "note_marks": [
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F163-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "(٢٣٨٩) [٢٢١٦] ومصبّه الى النهر عند طول {ov:فا ل}{n:l} والعرض {ov:ٮح ل} (٢٣٩٠)",
+   "margin": null,
+   "cells": null,
+   "plain": "(٢٣٨٩) [٢٢١٦] ومصبّه الى النهر عند طول فا ل والعرض ٮح ل (٢٣٩٠)",
+   "note_marks": [
+    "l"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F163-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "[٢٢١٧] *",
+   "margin": null,
+   "cells": null,
+   "plain": "[٢٢١٧] *",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l"
+   ],
+   "lines": 8,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: the manuscript has a gap at the brackets; the editor supplies the latitude from the course of the coast (note a).",
+  "L02-L05: the manuscript has gaps at the words and letters between the brackets; the editor supplies them (note b).",
+  "L05: the manuscript is badly damaged at the latitude, which may perhaps be read ند ل; the text is restored from S (note c).",
+  "L06: the manuscript has a gap at the word between the brackets; the editor supplies it (note d).",
+  "L06: the manuscript reads مصبّها; the editor notes that these rivers have already been described at (2375)-(2376) and (2377)-(2378) (note e).",
+  "L07: here the manuscript has the map of the marsh, which the editor reproduces as plate IV (note f).",
+  "L08-L10: the manuscript has gaps at the passages between the brackets; the editor supplies them from S (note g).",
+  "L10-L11: the manuscript has gaps with traces of letters at the words between the brackets; the editor supplies them (note h).",
+  "L11: the manuscript has a gap at the degrees between the brackets; the editor supplies them from S (note i).",
+  "L12: the manuscript has a gap with traces of letters at the words between the brackets; the editor supplies them (note k).",
+  "L13: the manuscript has, by mistake, قا ل for the longitude (note l)."
+ ],
+ "unresolved": [],
+ "observations": [
+  "The marsh goes on from p. 156 (frame 162), whose last words, «يبتدئ من موضع مسيل الأربعة الأنهار على قدر عرض الأربعة ⟨الأنهار . . . . . .⟩ الجانبين حتّى تصير», L01-L07 continue: «الى احد جوانبها الّذى يلى البحر الى طول سح ل ⟨والعرض نب ل⟩ (٢٣٨١) ⟨ثمّ تدور⟩ البطيحة فتمرّ بمدينة طرمى وتمرّ ⟨بالأنهار الخمسة⟩ الّتى مصبّ⟨ها ع⟩ند طول سط {z} (٢٣٨٢) ومبتدأها من جبل افقا حتّى تنتهى الى ركن مدينة ⟨طاس⟩ ثمّ تمرّ الى موضع طوله سح م ⟨و⟩العرض نز م (٢٣٨٣) وتمرّ الى موضع طوله سب ⟨{z}⟩ والعرض نه ل (٢٣٨٤) ثمّ تمرّ الى موضع اسفل مسيل الأربعة الأنهار ثمّ يخرج منها نهران فيما بين ال⟨بحرين⟩ مصبّهما الى بحر الشمال وهٰذه صورة ذٰلك *», … until it comes to one of its sides, the one next to the sea, at the longitude 68° 30′ ⟨and the latitude 52° 30′⟩; ⟨then⟩ the marsh ⟨turns⟩ and passes the town Ṭarmā, and passes ⟨the five rivers⟩ whose mouths are at the longitude 69° 0′ and whose beginning is in the mountain افقا, until it ends at the corner of the town ⟨Ṭās⟩; then it passes to a place whose longitude is 68° 40′ ⟨and⟩ latitude 57° 40′, and to a place whose longitude is 62° ⟨0′⟩ and latitude 55° 30′; then it passes to a place below the place where the four rivers flow; then two rivers come out of it, between the two ⟨seas⟩, their mouths into the sea of the north; and this is the picture of it.",
+  "The places of L01-L06: «طرمى» (L02) is entry 539 of the table of the cities, «طرمى على بطيحة» (frame 043, L13), at the longitude 69° 10′; the five rivers are those of frames 161-162 from the mountain افقا, مرونس, بوفاس, اسطس, اطفطيس and اٮحارس, whose mouths in the marsh lie at the longitudes 69° 0′ to 69° 40′; «طاس» (L04) is entry 533, «طاس على بطيحة» (frame 043, L07), Ṭās on a marsh, at the longitude 69° 0′ and the latitude نر ى; the four rivers (L05-L06) are those of frames 160-161, and the two rivers that leave the marsh are, by the editor's note e, those of the points (2375)-(2378) (frame 162, L05-L09).",
+  "L06: «ال⟨بحرين⟩»: outside the bracket the alif and the ل of the article, the ل a plain upright stroke without the bowl of the isolated ل, the form it has before a following letter; within the bracket ب with its dot below, ح, ر, the tooth of a ي and a final ن with its dot; the two dots of the ي run into the end of the tail of the ر.",
+  "L07: «وهٰذه صورة ذٰلك»: «ذٰلك», with the mark f, and an asterisk stand alone at the right of L07. The editor's note f says that the map of the marsh follows here in the manuscript and refers to his plate IV.",
+  "L08-L11: «⟨نهر را اوّله من جبل عند طول عب ك والعرض س ل⟩ (٢٣٨٥) ⟨يمرّ الى موضع طو⟩له فا ل والع⟨رض نح ل⟩ (٢٣٨٦) ويمرّ الى موضع طوله عه م والعرض ⟨نز ك⟩ (٢٣٨٧) ⟨ويمرّ فيضرب اح⟩د البرجين ⟨الّذين بناهما ذ⟩و القرنين ويمرّ فيصبّ فى البحر عند طول ⟨فا⟩ ى والعرض مط ك (٢٣٨٨) *», ⟨the river Rā: its beginning is in a mountain at the longitude 72° 20′ and the latitude 60° 30′⟩; ⟨it passes to a place whose longi⟩tude is 81° 30′ and lati⟨tude 58° 30′⟩, and passes to a place whose longitude is 75° 40′ and latitude ⟨57° 20′⟩; ⟨it passes and strikes on⟩e of the two towers ⟨which Dh⟩ū l-Qarnayn ⟨built⟩, and passes and flows into the sea at the longitude ⟨81°⟩ 10′ and the latitude 49° 20′.",
+  "L08: the whole first point of the river, from «نهر» to the latitude, stands within one pair of angle brackets with the note mark g; the running number and the number of Suhrāb follow outside them. The two towers are «منظرتان بناهما ذو القرنين», the two watchtowers which Dhū l-Qarnayn built, entries 923-924 of the table of the mountains (frame 068, L16), whose boundaries are at 77° 15′ and 54° 15′ and at 77° 45′ and ٮو ō (frame 069, L16).",
+  "L12-L14: «⟨ويقع الى⟩ هٰذا النهر نهر من جبل اوّله عند طول صب ل والعرض سا {z} (٢٣٨٩) ومصبّه الى النهر عند طول فا ل والعرض ٮح ل (٢٣٩٠) *», ⟨into⟩ this river ⟨falls⟩ a river from a mountain; its beginning is at the longitude 92° 30′ and the latitude 61° 0′, and its mouth into the river at the longitude 81° 30′ and the latitude ٮح ل, the place of the point (2386) of the river Rā at 81° 30′ and 58° 30′. L14 holds only the number of Suhrāb and the asterisk, at the right.",
+  "Numerals: «سح ل» (L01), 68° 30′; «⟨نب ل⟩» (L01), with the dots of the ن and of the ب, 52° 30′; «سط {z}» (L03), 69° 0′; «سح م» (L04), 68° 40′; «نز م» (L04), with the dots of the ن and of the ز, 57° 40′; «سب ⟨{z}⟩» (L05), with the dot of the ب, 62° 0′; «نه ل» (L05), with the dot of the ن, 55° 30′; «عب ك» (L08), with the dot of the ب, 72° 20′; «س ل» (L08), 60° 30′; «فا ل» (L09, L13), with the dot of the ف, 81° 30′; «نح ل» (L09), 58° 30′; «عه م» (L10), 75° 40′; «⟨نز ك⟩» (L10), 57° 20′; «⟨فا⟩ ى» (L11), 81° 10′; «مط ك» (L11), 49° 20′; «صب ل» (L12), with the dot of the ب, 92° 30′; «سا {z}» (L12), 61° 0′. The ك of «عب ك» (L08), «⟨نز ك⟩» (L10) and «مط ك» (L11) is the isolated ك with its small inner stroke, 20.",
+  "«ٮح ل» (L13): a tooth without its dot joined to a ح: read with ن, 58° 30′, the latitude of the point (2386) into which the river falls; read with ي, 18.",
+  "«سح ل» (L01), «سح م» (L04), «نح ل» (L09) and «ٮح ل» (L13): the ح shows no dot in the bowl; the same form is a ج without its dot, 3.",
+  "Angle brackets, each followed by a note mark, around what the editor supplies: «⟨والعرض نب ل⟩» (L01), note a; «⟨ثمّ تدور⟩» and «⟨بالأنهار الخمسة⟩» (L02), «⟨ها ع⟩» (L02-L03), across the end of the line, of the words «مصبّها عند», «⟨طاس⟩» and «⟨و⟩» (L04), the و of «والعرض», and «⟨{z}⟩» (L05), the minutes, under the line over the numerals, all with the mark b; «⟨بحرين⟩» (L06), note d; «⟨نهر را … س ل⟩» (L08), «⟨يمرّ الى موضع طو⟩» and «⟨رض نح ل⟩» (L09) and «⟨نز ك⟩» (L10), all with the mark g; «⟨ويمرّ فيضرب اح⟩» (L10) and «⟨الّذين بناهما ذ⟩» (L10-L11), across the end of the line, with the mark h; «⟨فا⟩» (L11), the degrees, under the line over the numerals, note i; «⟨ويقع الى⟩» (L12), note k. Transcribed with the brackets.",
+  "L01 and L08: the folios of the Strasbourg manuscript are printed in Latin type, «(fol. 47ᵃ)» within L01, between «طول» and the longitude «سح ل», and «(fol. 47ᵇ)» at the beginning of L08, before the bracket; each transcribed as a margin note before its line. The map of the marsh is on fol. 47ᵃ (the editor's note f; frame 064, note h).",
+  "Signs in the text, transcribed as printed: «الّذى» (L01) and «الّتى» (L02) with a shadda over the ل; «ثمّ» (L02, L04, L05, L06) with a shadda over the م; «فتمرّ», «وتمرّ» (L02, L04) and «تمرّ» (L04, L05) with a shadda over the ر; «الأنهار» (L02, L06) and «الأربعة» (L05) with a hamza over the alif; «مصبّ⟨ها» (L02), «مصبّهما» (L06), «فيصبّ» (L11) and «ومصبّه» (L13) with a shadda over the ب; «ومبتدأها» (L03) with a hamza over the alif; «حتّى» (L03) with a shadda over the ت; «وهٰذه» (L06), «ذٰلك» (L07) and «هٰذا» (L12) with a small alif; «اوّله» (L08, L12) with a shadda over the و; «يمرّ» (L09) and «ويمرّ» (L09, L10, L11) with a shadda over the ر; «⟨الّذين» (L10) with a shadda over the ل; «فى», «الى», «يلى», «تنتهى» and «طرمى» end in a ى without dots.",
+  "The running numbers run (٢٣٨١)-(٢٣٩٠) without a gap. The numbers of Suhrāb: (٢٣٨١)-(٢٣٨٣) have none; [١٠٣٧] after (٢٣٨٤), the last point of the marsh, which with [١٠٣٥] and [١٠٣٦] (frame 162) continues the series of the marsh; [٢٢١٢]-[٢٢١٧] after (٢٣٨٥)-(٢٣٩٠). (٢٣٨١) stands at the beginning of L02, and [٢٢١٥] and [٢٢١٧] at the beginnings of L12 and L14, after what ends the lines before.",
+  "Asterisks: the small open stars with six points, after «ذٰلك» (L07), [٢٢١٥] (L12) and [٢٢١٧] (L14), are transcribed as asterisks.",
+  "Note marks: L01, a after the closing bracket; L02, b after «⟨ثمّ تدور⟩» and «⟨بالأنهار الخمسة⟩»; L03, b after «ع⟩»; L04, b after «⟨طاس⟩» and «⟨و⟩»; L05, b after «⟨{z}⟩» and c after the latitude; L06, d after «⟨بحرين⟩» and e after «مصبّهما»; L07, f after «ذٰلك»; L08, g after the closing bracket; L09, g after «طو⟩» and after «نح ل⟩»; L10, g after «⟨نز ك⟩» and h after «اح⟩»; L11, h after «ذ⟩» and i after «⟨فا⟩»; L12, k after «⟨ويقع الى⟩»; L13, l after the longitude.",
+  "Marks not transcribed: L01 and L08, a short horizontal stroke, 24 by 5 px and 21 by 6 px, below the left end of the ل of the minutes «سح ل» and «س ل», of the form of a kasra; L08, the final ض of «والعرض» runs out in a flat stroke at the height of the line up to the س of the numeral; small specks of the impression.",
+  "The editor's footnotes stand in eight lines below a short rule at the left: notes a-l; note b serves the seven brackets of L02-L05, note g the four of L08-L10 and note h the two of L10-L11. The page number «— ١٥٧ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}

@@ -1,0 +1,265 @@
+{
+ "anchor": "AK05-F083",
+ "frame": 83,
+ "frame_file": "page_083.jpg",
+ "frame_sha256": "da15bc53175b74123bc07a5000dc7172ebb07578d75ae9c46f3e6d44e3f6290f",
+ "printed_page": "٧٧",
+ "kind": "text",
+ "role": "AK_TEXT (lines and table rows); MODERN_EDITORIAL (the editor's numbers, brackets, note marks and folio references; his footnotes not reproduced)",
+ "comment": "Frame 083, printed p. 77: the Great Sea continued, in running text: the coast from point to point, with the editor's running numbers (١١٦٨)-(١١٨٤) and the numbers of Suhrāb, past the mouths of the rivers ڡسوعس and Ṭamās, the mouth of ten rivers, among them جنجس, دالس, سروى and اٮٮدوس, and others without a name in the picture, the mouth of the river ثوس and the town of نبيرا. A passage repeated from the end of p. 76. Five lines of the editor's footnotes.",
+ "lines": [
+  {
+   "id": "AK05-F083-L01",
+   "n": 1,
+   "kind": "text",
+   "text": "والعرض{n:a} {ov:ز ه} (١١٦٨) ويمرّ على صورة القوارة الى طول {ov:قمط ⟨{z}⟩}{n:b} والعرض {ov:ح ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض ز ه (١١٦٨) ويمرّ على صورة القوارة الى طول قمط ⟨ō⟩ والعرض ح ل",
+   "note_marks": [
+    "a",
+    "b"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F083-L02",
+   "n": 2,
+   "kind": "text",
+   "text": "(١١٦٩) [٧٥٥] يمرّ على صورة الطيلسان الى طول {ov:قمح ل} والعرض {ov:ى {z}} (١١٧٠)",
+   "margin": null,
+   "cells": null,
+   "plain": "(١١٦٩) [٧٥٥] يمرّ على صورة الطيلسان الى طول قمح ل والعرض ى ō (١١٧٠)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F083-L03",
+   "n": 3,
+   "kind": "text",
+   "text": "[٧٥٦] ويمرّ على صورة الطيلسان ويمرّ بمصبّ نهر ڡسوعس{n:c} ويصير الى طول {ov:قمو ل}",
+   "margin": null,
+   "cells": null,
+   "plain": "[٧٥٦] ويمرّ على صورة الطيلسان ويمرّ بمصبّ نهر ڡسوعس ويصير الى طول قمو ل",
+   "note_marks": [
+    "c"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F083-L04",
+   "n": 4,
+   "kind": "text",
+   "text": "والعرض {ov:ٮا {z}} (١١٧١) [٧٥٧] ويمرّ على صورة القوارة يمرّ بعرض {ov:ط ل} (١١٧٢)",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض ٮا ō (١١٧١) [٧٥٧] ويمرّ على صورة القوارة يمرّ بعرض ط ل (١١٧٢)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F083-L05",
+   "n": 5,
+   "kind": "text",
+   "text": "[٧٥٨] ويصير الى طول {ov:قمه ك} والعرض {ov:ى {z}}{n:d} (١١٧٣) [٧٥٩] موضع مصبّ نهر",
+   "margin": null,
+   "cells": null,
+   "plain": "[٧٥٨] ويصير الى طول قمه ك والعرض ى ō (١١٧٣) [٧٥٩] موضع مصبّ نهر",
+   "note_marks": [
+    "d"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F083-L06",
+   "n": 6,
+   "kind": "text",
+   "text": "طماس ويمرّ الى طول {ov:ڡمد {z}} والعرض {ov:ٮا {z}}{n:e} (١١٧٤) [٧٦٠] ويمرّ الى طول {ov:ڡمح {z}}{n:f}",
+   "margin": null,
+   "cells": null,
+   "plain": "طماس ويمرّ الى طول ڡمد ō والعرض ٮا ō (١١٧٤) [٧٦٠] ويمرّ الى طول ڡمح ō",
+   "note_marks": [
+    "e",
+    "f"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F083-L07",
+   "n": 7,
+   "kind": "text",
+   "text": "والعرض {ov:ٮه مه} (١١٧٥) [٧٦١] ويمرّ الى طول {ov:قما مه} والعرض {ov:ٮه م} (١١٧٦) [٧٦٢]",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض ٮه مه (١١٧٥) [٧٦١] ويمرّ الى طول قما مه والعرض ٮه م (١١٧٦) [٧٦٢]",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F083-L08",
+   "n": 8,
+   "kind": "text",
+   "text": "يمرّ على صورة الطيلسان يمرّ بمصبّ عشرة انهار منها نهر جنجس{n:g} ونهر دالس ونهر",
+   "margin": null,
+   "cells": null,
+   "plain": "يمرّ على صورة الطيلسان يمرّ بمصبّ عشرة انهار منها نهر جنجس ونهر دالس ونهر",
+   "note_marks": [
+    "g"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F083-L09",
+   "n": 9,
+   "kind": "text",
+   "text": "سروى{n:h} ونهر اٮٮدوس وعير ذٰلك ممّا لا اسم له فى الصورة ويصير الى طول {ov:قل ل}{n:i}",
+   "margin": null,
+   "cells": null,
+   "plain": "سروى ونهر اٮٮدوس وعير ذٰلك ممّا لا اسم له فى الصورة ويصير الى طول قل ل",
+   "note_marks": [
+    "h",
+    "i"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F083-L10",
+   "n": 10,
+   "kind": "text",
+   "text": "والعرض {ov:ٮح {z}} (١١٧٧) [٧٦٣] ويمرّ على صورة القوارة يمرّ بعرض {ov:ٮٮ ل} (١١٧٨)",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض ٮح ō (١١٧٧) [٧٦٣] ويمرّ على صورة القوارة يمرّ بعرض ٮٮ ل (١١٧٨)",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F083-L11",
+   "n": 11,
+   "kind": "text",
+   "text": "[٧٦٤] ويمرّ الى طول {ov:قكو ل} والعرض {ov:ٮٮ م} (١١٧٩) [٧٦٥] ويمرّ الى طول {ov:قكو ك}",
+   "margin": null,
+   "cells": null,
+   "plain": "[٧٦٤] ويمرّ الى طول قكو ل والعرض ٮٮ م (١١٧٩) [٧٦٥] ويمرّ الى طول قكو ك",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F083-L12",
+   "n": 12,
+   "kind": "text",
+   "text": "والعرض {ov:ٮد م} (١١٨٠) [٧٦٦] مصبّ نهر ثوس يمرّ الى طول {ov:ڡكح {z}}{n:k} والعرض",
+   "margin": null,
+   "cells": null,
+   "plain": "والعرض ٮد م (١١٨٠) [٧٦٦] مصبّ نهر ثوس يمرّ الى طول ڡكح ō والعرض",
+   "note_marks": [
+    "k"
+   ],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F083-L13",
+   "n": 13,
+   "kind": "text",
+   "text": "{ov:يو ك} (١١٨١) [٧٦٧] ثمّ يمرّ الى طول {ov:ڡك ٮه} والعرض {ov:ٮه م} (١١٨٢) [٧٦٨] وقد",
+   "margin": null,
+   "cells": null,
+   "plain": "يو ك (١١٨١) [٧٦٧] ثمّ يمرّ الى طول ڡك ٮه والعرض ٮه م (١١٨٢) [٧٦٨] وقد",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F083-L14",
+   "n": 14,
+   "kind": "text",
+   "text": "مرّ بأسفل مدينة نبيرا ويمرّ الى طول {ov:ڡك {z}} والعرض {ov:ٮد {z}} (١١٨٣) [٧٦٩] ويمرّ",
+   "margin": null,
+   "cells": null,
+   "plain": "مرّ بأسفل مدينة نبيرا ويمرّ الى طول ڡك ō والعرض ٮد ō (١١٨٣) [٧٦٩] ويمرّ",
+   "note_marks": [],
+   "bold": [],
+   "underlined": []
+  },
+  {
+   "id": "AK05-F083-L15",
+   "n": 15,
+   "kind": "text",
+   "text": "الى طول {ov:قير م} والعرض {ov:ٮه {z}}{n:l} (١١٨٤) [٧٧٠] يمرّ الى طول {ov:قيو م} والعرض {ov:ٮه ك}",
+   "margin": null,
+   "cells": null,
+   "plain": "الى طول قير م والعرض ٮه ō (١١٨٤) [٧٧٠] يمرّ الى طول قيو م والعرض ٮه ك",
+   "note_marks": [
+    "l"
+   ],
+   "bold": [],
+   "underlined": []
+  }
+ ],
+ "editors_notes": [
+  {
+   "marks": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "k",
+    "l"
+   ],
+   "lines": 5,
+   "continued": false
+  }
+ ],
+ "withheld": [],
+ "figures": [],
+ "variants": [
+  "L01: the editor holds that the passage between the marks a and b repeats what immediately precedes it, perhaps by a slip of the copyist (note a-b).",
+  "L01: the manuscript lacks the minutes of the longitude, which the editor supplies (note b).",
+  "L03: a variant reading of the name is ٮمسوعس (note c).",
+  "L05: a variant reading of the latitude is ى م, with a line over the numerals (note d).",
+  "L06: a variant reading of the first latitude is ٮا ه, and of the second longitude ڡمح ه, each with a line over the numerals (notes e and f).",
+  "L08: the manuscript has حمحس for جنجس (note g).",
+  "L09: variant readings of the name are لارول, لاروى and سرول (note h).",
+  "L09: variant readings of the longitude are قل ك, قا ل and قا ك, each with a line over the numerals (note i).",
+  "L12: a variant reading of the longitude is ڡكح ه, with a line over the numerals (note k).",
+  "L15: a variant reading of the first latitude is ٮه ه, with a line over the numerals (note l)."
+ ],
+ "unresolved": [
+  "L09: the thickened head of the first tooth of «اٮٮدوس», with a small counter, may also be the loop of ف or ق without dots: اڡٮدوس. Transcribed اٮٮدوس."
+ ],
+ "observations": [
+  "The running text goes on from p. 76 (frame 082), whose last words, «ويمرّ على صورة القوارة الى طول قمط {z}», give the longitude of point 1168: the coast from point to point, with the degrees and the minutes of each longitude and latitude written with letters under one line, transcribed with {ov:…}, the editor's running numbers in parentheses, (١١٦٨)-(١١٨٤), and the numbers of Suhrāb in square brackets, [٧٥٥]-[٧٧٠], without a gap; point 1168 (L01) has none.",
+  "L01: the note mark a stands after the first «والعرض» and the mark b after the longitude «قمط ⟨{z}⟩»: the editor holds that the passage between them, «ز ه (١١٦٨) ويمرّ على صورة القوارة الى طول قمط ⟨{z}⟩», repeats what immediately precedes it, the latitude of point 1167 and the clause that follows it at the end of p. 76 (note a-b). The minutes of the longitude are the sign for zero between angle brackets, followed by the mark b: the editor supplies them, which the manuscript lacks (note b). The line over the longitude covers «قمط», the opening bracket and most of the zero.",
+  "The places of the coast: L03: «ويمرّ بمصبّ نهر ڡسوعس», past the mouth of the river ڡسوعس; L05-L06: «موضع مصبّ نهر طماس», the place of the mouth of the river Ṭamās; L08-L09: «يمرّ بمصبّ عشرة انهار منها نهر جنجس ونهر دالس ونهر سروى ونهر اٮٮدوس وعير ذٰلك ممّا لا اسم له فى الصورة», past the mouth of ten rivers, among them the rivers جنجس, دالس, سروى and اٮٮدوس, and others that have no name in the picture; L12: «مصبّ نهر ثوس», the mouth of the river ثوس; L13-L14: «وقد مرّ بأسفل مدينة نبيرا», and it has passed below the town of نبيرا. Points 1172 and 1178 (L04, L10) are given by their latitude only, «يمرّ بعرض». The shapes of the coast are «القوارة» (L01, L04, L10) and «الطيلسان» (L02, L03, L08).",
+  "Signs in the text, transcribed as printed: «يمرّ», «ويمرّ», «مرّ», «ثمّ», «مصبّ» and «بمصبّ» with a shadda; «ممّا» with a shadda over the second م; «ذٰلك» with a dagger alif above the ذ; «بأسفل» with a hamza over the alif; «سروى» and «فى» end in a ى without dots. L08: «جنجس», with the dots of both ج and of the ن; L12: «ثوس», with the three dots of the ث; L14: «نبيرا», with all its dots.",
+  "L09: «وعير»: the ع of «وغير», and others, is printed without its dot; transcribed as printed.",
+  "L03: «ڡسوعس»: the first letter is an upright loop, 14 by 16 px, with a white counter, raised above the line and joined at its foot to the three teeth of a س; the initial م of «مصبّ» (L05) is a round blob on the line. Transcribed ڡ. Then the س, a و, a medial ع and a final س. The editor's note c gives the variant «ٮمسوعس», with a tooth and a م.",
+  "L09: «اٮٮدوس»: after the alif, two teeth without dots, the first 13 px high with a thickened head, 10 by 8 px, the second 12 px high, then a د, a و and a final س.",
+  "Letters printed without their dots in the numerals, transcribed so: a tooth without its dot in the degrees of the latitude, ٮا (L04, L06), ٮه (L07, twice; L13; L15, twice), ٮح (L10) and ٮد (L12, L14), which read with a ي give 11, 15, 18 and 14, where L13 prints «يو» with the two dots of the ي; ٮٮ (L10, L11, the degrees of the latitude), a tooth joined to a final ب, both without dots, 70 px wide, which read with a ي give 12, between the latitudes 18° 0′ (L10) and 14° 40′ (L12); and the loop of ف or ق without dots in the degrees of the longitude: ڡمد (L06), 144, ڡمح (L06), 148, ڡكح (L12), 128, and ڡك (L13, L14), 120, where the other longitudes of the page are printed with the two dots of the ق: قمط, قمح, قمو, قمه, قما, قل, قكو, قير and قيو. In ڡكح the oblique top stroke of the ك passes above the loop; no dot stands there. L13: in «ڡك ٮه» the minutes, too, are a tooth without its dot joined to a final ه.",
+  "L07: «قما»: the loop of the ق, with its two dots, stands above a medial م, joined to the alif at its foot; 141.",
+  "In these numerals the editor reads ر as ز, 7 (introduction, frame 196, p. XVII); transcribed ر as printed: «قير» (L15, the degrees of the longitude), 117. L01 prints «ز» with the dot.",
+  "The ح of the numerals, ح (L01), قمح (L02), ڡمح (L06), ٮح (L10) and ڡكح (L12), shows no dot in the bowl; the same form is a ج without its dot, 3. Transcribed as printed. The isolated ى, 10, has no dots (L02, L05). The isolated ك, 20, is printed with the small inner stroke of the letter (L05, L13, L15).",
+  "Note marks: L01, a after «والعرض» and b after the longitude; L03, c after «ڡسوعس»; L05, d after the latitude; L06, e after the first latitude and f after the second longitude; L08, g after «جنجس»; L09, h after «سروى» and i after the longitude; L12, k after the longitude; L15, l after the first latitude.",
+  "Marks not transcribed: L07, the parenthesis at the right of (١١٧٥) is printed broken in two, its foot standing apart below it; L04, a speck of 4 by 5 px below the ٢ of (١١٧٢); L02, a speck between [٧٥٥] and «يمرّ».",
+  "The editor's footnotes stand in five lines below a short rule at the left: the note on the passage a-b, then notes b-l. The page number «— ٧٧ —» stands at the foot, centred."
+ ],
+ "copy_matter": [],
+ "critical_notes": []
+}
