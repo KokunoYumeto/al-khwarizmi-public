@@ -11,6 +11,7 @@ The Arabic arithmetic of al-Khwārizmī is lost. This Latin text is a witness of
 ## Read
 
 - [algoritmi_1857.pdf](algoritmi_1857.pdf): the transcription, frame by frame.
+- [EN/italian_en.pdf](EN/italian_en.pdf): Boncompagni's Italian (the title page, the heading, the folio marks in the margin and the six footnotes) in English, AI-translated (Claude). The Latin text is translated into English by J. N. Crossley and A. S. Henry (*Historia Mathematica* 17, 1990).
 
 ## What is reproduced
 

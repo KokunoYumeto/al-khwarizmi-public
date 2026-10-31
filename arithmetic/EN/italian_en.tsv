@@ -1,0 +1,44 @@
+# Boncompagni's Italian (and his Latin title) in the edition of 1857, with the English. One row per item:
+# the lines it covers (anchors of ../anchors.tsv, "A..B" for a run; "A@margin" for the margin note of line A), a TAB,
+# the English. *...* italics. The Latin text of the treatise is not translated here.
+AK02-F003-L01	TREATISES
+AK02-F003-L02	ON ARITHMETIC
+AK02-F003-L03	PUBLISHED
+AK02-F003-L04	BY BALDASSARRE BONCOMPAGNI
+AK02-F003-L05	ordinary member of the Pontifical Academy of the Nuovi Lincei,
+AK02-F003-L06	and corresponding member of the Royal Academy
+AK02-F003-L07	of Sciences of Turin,
+AK02-F003-L08	of the Royal Academy of Sciences of Naples,
+AK02-F003-L09	and of the Pontifical Academy of Sciences
+AK02-F003-L10	of the Institute of Bologna
+AK02-F003-L11	I.
+AK02-F003-L12	ALGORITMI DE NUMERO INDORUM. (Algoritmi on the numbers of the Indians.)
+AK02-F003-L13	ROME
+AK02-F003-L14	PRESS OF THE PHYSICAL AND MATHEMATICAL SCIENCES
+AK02-F003-L15	at Via Lata no. 211.
+AK02-F003-L16	1857.
+AK02-F007-L01	I.
+AK02-F007-L02	ALGORITMI DE NUMERO INDORUM. (Algoritmi on the numbers of the Indians.)
+AK02-F007-L03..AK02-F007-L04	(University Library, Cambridge, manuscript marked «Ii. 6. 5», ff. 102 recto – 109 verso.)
+AK02-F007-L05@margin	f. 102 recto.
+AK02-F007-N01..AK02-F007-N03	(1) The lacuna marked by four dots in line 25 of this page is found also in the above-mentioned manuscript Ii. 6. 5 of the University Library, Cambridge (f. 102 recto, l. 18).
+AK02-F008-N01..AK02-F008-N02	(1) The lacuna marked by four dots in the third line of this page is found also in the above-mentioned manuscript Ii. 6. 5 (f. 102 recto, l. 22).
+AK02-F008-L17@margin	f. 102 verso.
+AK02-F010-L01@margin	f. 103 recto.
+AK02-F010-N01..AK02-F010-N03	(1) The two lacunae, each of which is marked by four dots in the first line of this page, are found also in the above-mentioned manuscript Ii. 6. 5 (f. 102 verso, l. 33).
+AK02-F011-L23@margin	f. 103 verso.
+AK02-F013-L06@margin	f. 104 recto.
+AK02-F013-N01..AK02-F013-N03	(1) The lacuna marked by four dots in line 17 of this page is found also in the above-mentioned manuscript Ii. 6. 5 (f. 104 recto, ll. 8, 9).
+AK02-F014-L17@margin	f. 104 verso.
+AK02-F015-L28@margin	f. 105 recto.
+AK02-F015-N01..AK02-F015-N03	(1) The lacuna marked by four dots in line 29 of this page is found also in the above-mentioned manuscript Ii. 6. 5 (f. 105 recto, first line).
+AK02-F017-L08@margin	f. 105 verso.
+AK02-F018-L19@margin	f. 106 recto.
+AK02-F019-L25@margin	f. 106 verso.
+AK02-F021-L03@margin	f. 107 recto.
+AK02-F022-L16@margin	f. 107 verso.
+AK02-F023-L24@margin	f. 108 recto.
+AK02-F024-L30@margin	f. 108 verso.
+AK02-F026-L15@margin	f. 109 recto.
+AK02-F028-L05@margin	f. 109 verso.
+AK02-F029-N01..AK02-F029-N06	(1) In the lower margin of f. 109 verso of the said manuscript Ii. 6. 5 one reads: *dicque constitues .viii.* (and say: you will set down 8). Lower down in the same margin one reads: *est quidem* (there is indeed). The recto of f. 110 of the same manuscript begins thus (ll. 1–4): *Est quidem guazal cora tabula ad celi rotunditatem conformata, cuius itemque superficies equali spatiorum intersticione quadrifidis ab ipso centro per diametrum, fusis lineationibus, partita est.* (There is indeed a «guazal cora», a board shaped to the roundness of the sky, whose surface likewise is divided from the centre itself along the diameter into four parts, by lines drawn out at equal intervals.)
