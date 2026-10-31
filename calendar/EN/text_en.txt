@@ -1,0 +1,137 @@
+# al-Khwārizmī, the treatise on the Jewish calendar: the English of every line of the Hyderabad edition (1947).
+# Blocks: @t RANGE (title-page line), @r RANGE (title-page row: cells split by " | "), @h RANGE (heading),
+# @p RANGE (paragraph; a blank line inside starts a new paragraph), @f KEY RANGE (the edition's footnote).
+# RANGE: P003-L02..P003-L04 (anchors AK15-...), several joined by " + ". In the text: [^n] a translator's note,
+# given by the next "@n" line after the block; [^KEY] the edition's footnote; {ar:...} Arabic; *...* italics.
+
+@t P001-L01
+Miscellaneous Treatises on Astronomy
+@t P001-L02
+by the Early Scholars and the Contemporaries of al-Bīrūnī
+@t P001-L03
+(eleven treatises)
+@r P001-L04
+1. The Determination of the Era of the Jews, by al-Khwārizmī[^n] | 2. The Drawing of the Hour Lines, by al-Nayrīzī
+@n The print has {ar:للحوارزمى} (al-Ḥawārizmī), with ḥ for kh, here; the title page of the treatise has {ar:الخوارزمى}.
+@r P001-L05
+3. The Determination of the Era of the Jews, by al-Qāyinī | 4. The Determination of the Hours, by al-Qābinī[^n]
+@n The names stand as printed: {ar:للقاينى} (al-Qāyinī) in item 3 and {ar:للقابنى} (al-Qābinī) in item 4.
+@r P001-L06
+5. The Establishment of the Proof concerning the Circle, by al-Būzjānī | 6. The Measurement of the Paraboloid, by Wayjan al-Qūhī
+@r P001-L07
+7. How the Sphere is Projected onto a Plane, by Aḥmad al-Ṣaghānī | 8. The Figures of the Circle, by Naṣr ibn ʿAbd Allāh
+@r P001-L08
+9. Commensurable Magnitudes, by Ibn al-Baghdādī | 10. The Sector Figure, by Aḥmad al-Sijzī
+@t P001-L09
+11. The Distances and the Sizes, by Kūshyār al-Jīlī
+@t P001-L10
+First edition
+@t P001-L11
+at the press of the Dāʾirat al-Maʿārif al-ʿUthmāniyya Society
+@t P001-L12
+Hyderabad, Deccan (India)
+@t P001-L13
+in the year 1367 H / 1948 AD
+@t P001-L14
+Copies printed: 500. 1357 Faṣlī[^n]
+@n The year of the Faṣlī era, the official reckoning of Hyderabad, printed beside the number of copies.
+
+@t P002-L01
+A Treatise
+@t P002-L02
+on Finding the Era of the Jews and Their Festivals
+@t P002-L03
+by Abū Jaʿfar Muḥammad ibn Mūsā
+@t P002-L04
+al-Khwārizmī, may God Almighty have mercy on him
+@t P002-L05
+First edition
+@t P002-L06
+at the press of the Dāʾirat al-Maʿārif al-ʿUthmāniyya Society
+@t P002-L07
+in the capital of the Islamic Āṣafī state,
+@t P002-L08
+Hyderabad, Deccan,
+@t P002-L09
+may the suns of its benefits never cease to rise and the full moons
+@t P002-L10
+of its bounties to shine until the end of time,
+@t P002-L11
+in the year 1366 H / 1947 AD
+@t P002-L12
+Copies printed: 500. 1356 Faṣlī
+
+@t P003-L01
+In the name of God, the Merciful, the Compassionate.
+@p P003-L02..P003-L04
+It is fitting that the man of understanding should give his attention to what keeps the duties of his religion in good order and by which he keeps alive the ways of the righteous among those who went before him. When he does so, God takes it upon Himself to give him what suffices him, supports him with provision and grants him the reward of both abodes, this world and the hereafter.
+@p P003-L05..P003-L15 + P004-L01..P004-L16
+God, blessed and exalted is He, said in the Torah, in the first book: «Let there be light in the firmament, as a division between the night and the day, and as a sign of the times, the days and the years.»[^n] Then God Almighty commanded Moses, peace be upon him, in the fifth book, which confirms the books before it, to keep the month of the flowers, which is the month of Nisan, in which the month is renewed, the trees put forth their leaves, the earth splits open with its blossoms and the barley ripens; and to keep in the fifteenth night of it a Passover to his Lord, for the favour that God bestowed on him and on the children of Israel in bringing them out of the land of Egypt by night; and that this should fall at the filling of the moon and the completion of its light. He made it the head of the months and sent down the revelation of it in the first book. Then He commanded in the second book that this night be kept for ever, with many verses of the Torah in which He confirmed it, for He wished to choose the children of Israel, to try them and to test their obedience in the way He set for them, so as to reward them for what they do. So the prophet of God, peace be upon him, could not do without using the year of the sun and the year of the moon and making their reckoning clear, «{ar:والصاحة}»,[^n] and for the changes of the years, in which the explanation of the procedure will follow, so that the Passover should be in the month of the flowers, on the night of the fifteenth of Nisan, with fourteen nights of the lunar month [gone]. This differs from the reckoning of the Greeks and the Persians, because they keep to the year of the sun and its months alone, whether these agree with the months of the new moons or differ from them. So he, God bless him, commanded that a reckoning be set up to show the course of the sun and the moon, the number of the days of each of them, in how many days, hours and parts of these they come together when they have parted, the positions of the seven planets, and the beginning of the years from the day on which Adam was created. In every nineteen lunar years he put an addition of seven months, and he called the nineteen [years] with their addition the small *maḥzūr*, which means «the cycle». The year in which there is the addition of a month[^n] of the seven months is called the intercalated year, and he called that added month the last Adar, because the congregation of the children of Israel need to know it, and because it shows their days and their festivals, the entrances of the beginnings of their months and the years of their era, as century followed century.[^n]
+@n The words are Genesis 1:14. The print has «{ar:لكن الصبا فى ربيع}», «but the east wind in spring», which gives no sense here; the translation reads {ar:لتكن}, «let there be», {ar:رقيع}, «the firmament» (Hebrew *raqiaʿ*, which Arabic versions of the Bible keep), and, with less certainty, {ar:الضياء}, «the light», which differs from {ar:الصبا} only in its dots.
+@n The sense of «{ar:والصاحة}» is not clear ({ar:والصحة}, «and the soundness»? {ar:المصالحة}, «the reconciliation»?); it is left untranslated. In the next words {ar:ولغير السنين} is read as «and for the changes of the years».
+@n The print has {ar:اشهر}, «months»; the next words name «that added month».
+@n The print has {ar:فضت}; the translation reads {ar:مضت}, «passed», which differs from it by one dot.
+@p P004-L17..P004-L19 + P005-L01..P005-L02
+This is preserved among the most select of the children of Israel, who are not many in number, and it is closed to the great majority of them, because they neglect to study it, care little for it and rely on knowledge from their reports.[^n] So I have written on it a book easy to take in and clear in what it shows, to lighten the burden for anyone who takes the trouble to learn it. Success is from God.
+@n Thus the print, {ar:اخبارهم}. Perhaps {ar:احبارهم}, «their rabbis», which differs from it by one dot.
+@p P005-L03..P005-L10
+The first of this is the naming of the months of the children of Israel and the number of the days of each month.[^n] The first of them is Nisan, which has 30 days; Iyyar, 29 days; Sivan, 30 days; Tammuz, 29 days; Av, 30 days; Elul, 29 days; Tishri, 30 days. If the year is regular, a full month and a deficient month in turn, Marheshvan[^n] has 29 days, Kislev 30 days, Tevet 29 days, Shevat 30 days and Adar 29 days. If the year exceeds the regular one by a day, Marheshvan has 30 days and Kislev 30 days.
+@n The Arabic spells the names {ar:نيسن، اير، سيوان، تمز، اوب، ايلل، تشرى، مرحشوان، كسليو، طبيث، شباط، اذار}; the translation uses the usual English forms.
+@n The print has {ar:فرحشوان} here, with f for m; the month is {ar:مرحشوان} in the next lines.
+@p P005-L11..P005-L19 + P006-L01..P006-L04
+If the year falls short by a day, Marheshvan has 29 days and Kislev 29 days. If the year is intercalated, the first Adar has 30 days and the last Adar 29 days. Then the smaller *maḥzūr*, which is nineteen lunar years with an addition of seven months in them: the first year, Adar; the second year, Adar; the third year, Adar [and Adar];[^n] the fourth year, Adar; the fifth year, Adar [and Adar]; the sixth year, Adar; the seventh year, Adar; the eighth year, Adar and Adar; the ninth year, Adar; the tenth year, Adar; the eleventh year, Adar and Adar; the twelfth year, Adar; the thirteenth year, Adar; the fourteenth year, Adar and Adar; the fifteenth year, Adar; and the sixteenth year, Adar and Adar; the seventeenth year, Adar; the eighteenth year, Adar; the nineteenth year, Adar and Adar.
+
+[The parts][^n] of the hour, of the hours of the moon: 1080. The month of the moon, from birth to birth, is twenty-nine days, twelve hours and 793 parts.
+@n The print marks only five intercalated years, the 8th, 11th, 14th, 16th and 19th, though the cycle has seven intercalated months. The third and the fifth year, which complete the scheme 3, 5, 8, 11, 14, 16, 19 that F. de Blois reads in the manuscript, are supplied in brackets.
+@n The print has «{ar:آخر الساعة}», «the last of the hour», which gives no clear sense; the sentence gives the number of parts in an hour, 1080, and the words in brackets give that sense.
+@p P006-L05..P006-L19 + P007-L01..P007-L19 + P008-L01..P008-L10
+As for the year of the moon: when it has twelve months, it is three hundred and fifty-four days, eight hours and 876 parts; when it has thirteen months, its days are 383 days, 21 hours and 589[^n] parts. As for the small *maḥzūr*, it is nineteen years with their intercalations, which make in years of the moon nineteen years and seven months, and the number of its days is 6939 days, sixteen hours and 595[^n] parts.
+
+Every Tishri of a year that has an intercalation: if its moon is born before 491 [parts] have passed of the ninth hour of the day of Friday, the first of Tishri is on Saturday, and Marheshvan and Kislev are deficient. If there is no intercalation in that year nor in the following year, and the moon is born before 408 parts have passed of the first hour of the night of Friday, the first of Tishri is on Saturday and Marheshvan and Kislev are deficient; and if the moon is born after 408[^n] up to the limit of the day of Saturday, the first of Tishri is on Saturday and Marheshvan and Kislev are full. If there is no intercalation in the year and there is an intercalation in the following year, and the moon is born before 204 [parts have passed of the tenth hour of the night of Friday, the first of Tishri is on Saturday and Marheshvan and Kislev are deficient; and if the moon is born after 204][^n] up to the limit of the day of Saturday, Marheshvan and Kislev are full.
+
+Every Tishri of a year that has an intercalation: if its moon is born before 960 parts have passed of the eleventh[^n] hour[^n] of the night of Wednesday, the first of Tishri 11200000000[^n] is on Thursday and Marheshvan and Kislev are deficient; and if the moon is born after [ ][^n] have passed of the eleventh hour of the night of Wednesday, up to the limit of the day of Thursday, the first of Tishri is on Thursday and Marheshvan and Kislev are full. If there is no intercalation in that year, and the moon is born before 204 parts have passed of the tenth hour of the night of Thursday, the first of Tishri is on Thursday and Marheshvan and Kislev are as in the regular year; and if the moon is born after[^n] 204 parts of the tenth hour of the night of Thursday, up to the limit of the day of Thursday, the first of Tishri is [on Thursday][^n] and Marheshvan and Kislev are full.
+
+Every Tishri of a year that has an intercalation: if its moon is born before the seventh hour of the day of Tuesday, the first of Tishri is on Tuesday and Marheshvan and Kislev are as in the regular year. If there is no intercalation in that year, and its moon is born before 204 [parts] have passed of the tenth hour of the night of Tuesday, the first of Tishri is on Tuesday and Marheshvan and Kislev are as in the regular year; and if the moon is born after 204 parts have passed of the [tenth][^n] hour of the night of Tuesday, the first of Tishri is on Thursday and Marheshvan and Kislev are as in the regular year.
+
+Every Tishri of a year that has an intercalation: if its moon is born before 491 parts have passed of the ninth hour of the day of Sunday, the first of Tishri is on Monday and Marheshvan and Kislev are deficient; and if the moon is born after 491 parts have passed of the ninth hour of the day of Sunday, up to the limit of the day of Monday, the first of Tishri is on Monday and Marheshvan and Kislev are full. If there is no intercalation in that year and its moon is born before 204 parts have passed of the tenth hour of the night of Sunday, the first of Tishri is on Monday and Marheshvan and Kislev are deficient; and if its moon is born after 204 parts have passed of the tenth hour of the night[^n] of Sunday, up to the limit of the day of Monday, the first of Tishri is on Monday and Marheshvan and Kislev are full. If there is no intercalation in that year, and there was an intercalation in the year that went before it, and the birth of the moon is after 589[^n] parts have passed of the fourth hour of the day of Monday, the first of Tishri is on Tuesday and Marheshvan and Kislev are as in the regular year.
+@n The print has 489 ({ar:٤٨٩}). Thirteen months of 29 days 12 hours 793 parts make 383 days 21 hours 589 parts (13 × 793 = 10,309 parts = 9 hours 589 parts), as does the twelve-month year plus one month (876 + 793 = 1669 parts = 1 hour 589 parts). In this edition the five is often printed as a four.
+@n The print has 494 ({ar:٤٩٤}). The cycle of 235 months makes 6939 days 16 hours 595 parts (235 × 793 = 186,355 parts = 172 hours 595 parts), the sum of twelve years of 354 days 8 hours 876 parts and seven of 383 days 21 hours 589 parts.
+@n The print has 109 ({ar:١٠٩}). The two cases are divided by one limit, the 408 parts of the same sentence; it is the limit of the standard calendar for a common year followed by a common year (Friday, 0 hours 408 parts, counted from the evening).
+@n The words in brackets are not in the print, which passes from the first 204 to the end of the second case, as when the eye of a copyist slips from one 204 to the next. They follow the parallel sentence above and are not attested. The limit, 204 parts of the tenth hour of the night of Friday (Friday 9 hours 204 parts), divides the deficient from the full year in the standard calendar for a common year followed by a leap year; the words «the first of Tishri is on Saturday» may also be missing before «Marheshvan and Kislev are full».
+@n The print has «of the eleventh year» ({ar:من السنة الحادى عشرة}); the parallel phrases have «of the hour».
+@n The figure stands as printed. In a leap year that begins on Thursday the next year is common, and its first of Tishri moves from Tuesday to Thursday when its birth of the moon reaches 204 parts of the tenth hour of the night of Tuesday; with the text's own thirteen-month year (383 days 21 hours 589 parts) the limit of this sentence is then 695 parts of the twelfth hour of the night of Wednesday (Wednesday 11 hours 695 parts), the limit of the standard calendar. The print's 960 parts of the eleventh hour is 815 parts earlier. The eleventh hour stands again in the next clause, so the error may be older than the edition.
+@n The figure {ar:١١٢٠٠٠٠٠٠٠٠} stands here in the print, between «Tishri» and «on Thursday»; the sentence is complete without it, and what it stands for is not known.
+@n The print has no figure here and no word «parts»; the limit is the one of the preceding clause (see the note there).
+@n The print has {ar:يعد}, with two dots below the first letter, for {ar:بعد}, «after».
+@n The words in brackets are not in the print, which does not name the day; the parallel sentences have «the first of Tishri is on Thursday».
+@n The print has no ordinal here; the limit is the one of the preceding clause, 204 parts of the tenth hour of the night of Tuesday.
+@n The print has «of the day of Sunday» ({ar:من يوم الاحد}); the limit is the one of the preceding clause, 204 parts of the tenth hour of the night of Sunday (Sunday 9 hours 204 parts). The tenth hour of the day of Sunday would leave the births of the moon between the two without a rule.
+@n The print has 89 ({ar:٨٩}). The limit for a common year after a leap year is 589 parts of the fourth hour of the day of Monday (Monday 15 hours 589 parts): from it the birth of the moon of the leap year before, thirteen months earlier, falls on Tuesday at 18 hours or later, so that that year began on Thursday, and a first of Tishri on Monday would make it 382 days.
+@p P008-L11..P008-L19 + P009-L01..P009-L06
+As for the year of the sun, the number of its days is 365 days, 5 hours and 3791 parts of 4104 [in an] hour.[^n] The years that have passed from the time when God created Adam until the year one thousand one hundred and thirty-five of Dhū l-Qarnayn ends are 4082[^n] years with their intercalations, according to what is in the Torah, the books of the prophets and «the reports of now».[^n] The mean sun on the first of the days of Adam, which is Friday, was 5^s 26°;[^n] the mean moon 5^s 26°; the apogee of the moon 1^s 5°; Saturn 8^s 55;[^n] Jupiter 6^s 5°; Mars 1^s 6°; Venus 4^s 25°; Mercury[^1]; the head 5^s 14°. The mean sun at the building of the Temple, 5^s 26°; the moon [5^s][^n] 26°; the apogee of the moon 9^s 26° 40′ 16″; Saturn 10^s 22° 9′; Jupiter {ar:ج ـ رمت لد};[^n] Mars {ar:يخ انه كور}; Venus {ar:رنب يامر}; Mercury {ar:الج يط اط}; the head 4^s 26° 34′ 51″. The mean sun at the first of the years of Dhū l-Qarnayn, 6^s 18° 31′ 38″; the moon 4^s 6° 45′ 49″; the apogee of the moon {ar:ر كو ير يط};[^n] Saturn 8^s 8° 24′ 6″; Jupiter 3^s 12° 52′ 38″ 33‴; Mars 8^s 12° 14′ 46″; Venus 2^s 1° 22′ 3″; Mercury {ar:ر ى الح}; the head 4^s 23° 41′ 27″.
+@n That is, 365 days 5 hours and 3791/4104 of an hour, about 365 days 5 hours 55 minutes 25 seconds. It is the year of the base of the days given below: 35,975,351 days in 98,496 revolutions of the sun leave, after 365 days in each, 24,311 days, which are 5 hours and 3791/4104 of an hour in each year (98,496 = 24 × 4104).
+@n The figure stands as printed. The Jewish reckoning puts 3448 years between the creation of Adam and the era of Dhū l-Qarnayn (so Elias of Nisibis, reported by de Blois), which gives 4583 years at the end of the year 1135; the treatise's own rule below, which adds nine to the completed years of Dhū l-Qarnayn before casting out nineteens, agrees with 3448 years (3448 = 19 × 181 + 9), while 4082 − 1135 = 2947 leaves 2. The author's own figure is not known.
+@n «{ar:واخبار الآن}» gives no clear sense; whether a word is missing or «now» begins the next sentence is not clear. With one dot less, {ar:واحبار الآن} would be «and the rabbis of the present».
+@n The positions are written in the letters of the abjad: signs (^s, of 30 degrees), degrees, minutes, seconds and thirds. 5^s 26° is 5 signs 26 degrees, that is, 176° from the beginning of Aries.
+@n Thus the print, {ar:ح نه}: 55 cannot be a number of degrees, and whether the degrees are missing or a letter is misread is not known.
+@n The print has no sign here; at the building of the Temple, as on the first day of Adam, the sun and the moon are in conjunction at 5 signs 26 degrees.
+@n The positions of Jupiter, Mars, Venus and Mercury at the building of the Temple stand as printed: they are not regular abjad groups ({ar:ر}, 200, cannot stand for signs, degrees or minutes, and {ar:مت}, {ar:انه}, {ar:كور} and {ar:يامر} are not abjad numbers), and they cannot be restored from the print.
+@n The apogee of the moon and Mercury stand as printed: they begin with {ar:ر} (200), which cannot stand for signs, and {ar:ير} is not an abjad number. With {ar:ز} for {ar:ر} (one dot) the apogee would read 7 signs 26 degrees 17 minutes 19 seconds and Mercury would begin with 7 signs 10 degrees; this has not been checked against the author's tables.
+@f 1 P008-N01
+A blank in the original.
+@p P009-L07..P009-L18
+Whoever wishes to know the mean position of the sun and the mean of the moon, let him take the completed years of Dhū l-Qarnayn and always add nine to them; then let him cast out nineteen years at a time from the sum. What remains, less than nineteen years, are lunar years of the working of the *maḥzūr*: let him turn them into lunar days, and the result is the small base. Multiply it by the revolutions of whichever of the two you wish to know the mean of, and divide the product by the base of the days: what comes out is solar years; cast them out. Then multiply what remains by twelve and divide it by the base of the days: what comes out is signs. Multiply what remains by thirty and divide it by the base: what comes out is degrees. Multiply what remains by sixty and divide it by the base: what comes out is minutes. Then we find in the same way as many seconds, thirds and fourths as you like. What comes out of signs, degrees and minutes, add to the position of whichever of the two you have referred the era to:[^n] the sum is its mean [position] at sunrise, if God wills.
+@n That is, to its position at the beginning of the years of Dhū l-Qarnayn, given above.
+@p P009-L19 + P010-L01..P010-L03
+The base of the days: thirty-five million nine hundred and seventy-five thousand three hundred and fifty-one [35,975,351]. The revolutions of the sun: ninety-eight thousand four hundred and ninety-six [98,496]. The revolutions of the moon: one million three hundred[^n] and sixteen thousand seven hundred and thirty-six [1,316,736].[^n]
+@n The print has no «three hundred» ({ar:وثلثمائة}) and gives one million sixteen thousand seven hundred and thirty-six. The revolutions of the moon are the months of the base together with the revolutions of the sun: 1,218,240 + 98,496 = 1,316,736; and 35,975,351 / 1,316,736 = 27.3216 days, the period in which the moon goes round the zodiac.
+@n The base of the days is 5184 cycles of nineteen years (5184 × 6939 days 16 hours 595 parts = 35,975,351 days exactly), the least number of cycles that makes whole days; the 98,496 revolutions of the sun are their years (5184 × 19).
+@h P010-L04
+Finding the conjunction and the opposition
+@p P010-L05..P010-L12
+If you wish to know the conjunction of the sun and the moon, which is the beginning of the month of the children of Israel, multiply the small base by twenty-five thousand nine hundred and twenty, and divide the product by seven hundred and sixty-five thousand[^n] four hundred and thirty-three: what comes out is the months that have passed from the beginning of the *maḥzūr* to the month you are in. Divide what remains by twenty-five thousand nine hundred and twenty: what comes out is days. Divide what remains by one thousand and eighty: what comes out is hours. What comes out of days, hours and parts of the hour is what has passed of your month since the conjunction, if God wills.
+@n The print has «days» ({ar:يوما}) for «thousand» ({ar:الفا}). The divisor is the number of parts in a lunar month: 29 × 25,920 + 12 × 1080 + 793 = 765,433 (25,920 parts in a day).
+@t P010-L13
+Here ends the Era of the Jews, from Muḥammad ibn Mūsā al-Khwārizmī.
+@t P010-L14
+Praise be to God, the Lord of the worlds, and His blessing on His prophet Muḥammad and his family.

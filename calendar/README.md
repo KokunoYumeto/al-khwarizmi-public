@@ -21,7 +21,7 @@ Muḥammad ibn Mūsā al-Khwārizmī's treatise on the Jewish calendar, as print
 - **The running heads, the page numbers, the catchwords** (on pp. 2, 4, 6 and 8) and the foot marks «(١)» of pp. 4 and 9, which no mark in the text refers to: recorded in the page records, not transcribed as lines.
 - **Copy matter**: a number written in ink on the title page of the treatise (PDF 2), and the stamp «To: www.al-mostafa.com» at the foot of the last page of the treatise (PDF 10), added to this digital copy (`copy_provenance.tsv`).
 - **The manuscript.** The treatise survives in one manuscript, copied in Mosul in 632 H (1234) and now in the Khuda Bakhsh Library at Patna; it was not available here. This transcription is of the printed edition, not of the manuscript.
-- **Translations**: none was requested; `language_synchronization.tsv` is empty.
+- **Translation**: an English translation of every line is in [EN/](EN/) ([EN/calendar_en.pdf](EN/calendar_en.pdf); AI-translated, Claude); its build checks it line by line against `anchors.tsv`.
 
 ## The critical notes
 
@@ -57,7 +57,7 @@ Seven readings remain unresolved (`unresolved_readings.tsv`): «والصاحة»
 | `evidence_ledger.tsv`, `unresolved_readings.tsv`, `copy_provenance.tsv` | the observations; the unresolved readings; the copy matter |
 | `critical_findings.tsv` | the critical notes: errors of the print and the proposed corrections, with evidence and confidence |
 | `formula_table_ledger.tsv` | the numerical matter of the treatise (the constants, the rules for Tishri, the solar year, the years from Adam, the lists of positions, the two procedures) with its checks |
-| `witness_variants.tsv`, `figure_provenance.tsv`, `proposed_corrections.tsv`, `language_synchronization.tsv` | the remaining ledgers of the return protocol (empty: no second witness, no figures, no translation) |
+| `witness_variants.tsv`, `figure_provenance.tsv`, `proposed_corrections.tsv`, `language_synchronization.tsv` | the remaining ledgers of the return protocol (empty: no second witness, no figures; the English translation in [EN/](EN/) keeps its own alignment) |
 | `checkpoint.json` | the checkpoint of the lane |
 | `checks/` | `gates.py` and `constants.py` with their outputs |
 | `tools/` | the line strips, the enlarged bands with the dots boxed, the measurement of the white in a line |
