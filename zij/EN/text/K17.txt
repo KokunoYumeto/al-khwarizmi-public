@@ -1,0 +1,78 @@
+@unit K17
+@p 0112L01..0112L05
+Interesting is the Latin word *stupor*, by which Adelard renders the Persian *buht*; we can probably translate it best by “stopping”, “halting” (in the motion), for when the heavenly body goes now faster, now slower, it stops, as it were, now and then in its motion[^80.1]; for the planets, to be sure, this expression fits better than for the sun and the moon.
+@p 0112L06..0112L08
+I shall speak of the meaning of the 6th and 7th columns of Tables 61–66, which are headed *primum dimidium rotae draconis* and *secundum dimidium rotae draconis* (first and second half of the wheel of the dragon), at the end of chapter 33.
+@h 0112L09
+The tables of the equation of days (the equation of time)
+@c 0112L10
+(Tables 67 and 68.)
+@p 0112L11..0112L21
+The text of the present work seems to be defective, especially towards the end: for these tables (67 and 68), for example, there is no explanatory chapter in the text. The tables correspond to the columns of Batt.[^80.2] headed *Aequatio nychthemerōn*, except that Batt.'s tables begin with the 1st degree of Capricorn, Kh.'s with the 1st degree of Aries. A further difference is that Batt. gives the *equation of time* (that is, the difference between *true* and *mean* time) in degrees and minutes, Kh., on the other hand, in minutes and seconds of time. But they agree in taking the equation of time as zero when true time is furthest behind mean time; at all other times, then, true time must be ahead of mean time, that is, the *equation of time* that the table gives must always be *subtracted*[^80.3].
+@p 0112L22..0112L31
+*Example:* The equation of time is *zero* when the sun stands in the 22nd degree of Aquarius (Batt. has zero at the 18th and 19th degree, and 0° 1′ at the 22nd); at this position of the sun, then, the Arab astronomers took true time to be equal to mean time. When the sun stands in the 9th to 10th degree of Scorpio, the equation of time reaches its *maximum*, 34$^{m}$ 28$^{s}$, that is, true time is ahead of mean time by 34$^{m}$ 28$^{s}$ (Batt. has 7° 54′ = 31$^{m}$ 36$^{s}$). If we compare these values with the present ones, the Arab equation of time zero corresponds to our equation of time of + 14$^{m}$ 31$^{s}$ on 12 Feb., and the Arab equation of time of 34$^{m}$ 28$^{s}$ to our equation of time of − 16$^{m}$ 18$^{s}$ on 18 Nov.; the difference of the two is 30$^{m}$ 49$^{s}$, so that Batt.'s value is nearer the truth than Kh.'s.
+@p 0112L32..0112L35 + 0113L01..0113L02
+Whom Kh. followed in this question we cannot decide; the maximum of the equation of time in Kh. agrees better with that in Ptol. (33$^{m}$ 30$^{s}$) than with that in Batt. In the *Sūrya-Siddhānta* we have found no values of the equation of time[^80.4]. — These tables of the equation of time are mentioned at the end of the following chapter, where the conversion of equinoctial hours into unequal hours and conversely is dealt with.
+@h 0113L03
+Chapter 31. On the conjunction and the opposition of the sun and the moon
+@c 0113L04
+(Text pp. 23–25, Tables 69–72.)
+@p 0113L05..0113L16
+With the help of these tables, according to the rules of the text, the times of the conjunctions and oppositions of the sun and the moon are to be determined. On p. 25 of the text we find the remark: *Haec autem omnia pro situ Cordubae dicta sunt* (all this, however, has been said for the situation of Córdoba). This proves that Maslama al-Majrīṭī either added these tables of his own accord or recomputed them from those of Kh. for the meridian of Córdoba. Tables arranged quite similarly, but differing somewhat in their numerical values, are found in Batt.[^81.1]; but they contain only the *anni collecti*, and the *anni plani* (*singuli*) and the *menses* are missing; Nallino has rightly counted them among the spurious tables. For the meridian of *al-Raqqa* Batt. set up tables of the syzygies in Roman years[^81.2], which are arranged on the same principle as ours, except that the *anni collecti* proceed by 24 years instead of 30; and they begin with 1 *Ādhār* 879 of the Seleucid era = 1 March 568 AD.
+@p 0113L17..0113L30
+The determination of a *conjunction* or an *opposition* of the sun and the moon rests, of course, in the first place on the computation of the true longitudes of these heavenly bodies for the moment in question. If one finds these longitudes equal, the two bodies are then in conjunction; if they differ by 180°, they are in opposition. If they do not quite agree, one can infer from the difference of the longitudes and from the true hourly motions of the two bodies the time that is still needed until they come into true conjunction or opposition. The justification of this correction is set out by Batt.[^81.3] in a rather complicated way, but he also gives a simpler account[^81.4], which agrees with that of Ptol.[^81.5] and which Kh. too follows. — Both the construction of the tables and the computation of the conjunctions and oppositions with their help are far simpler in the Muslim reckoning than in the Seleucid or the Julian, because the conjunctions fall on the last or the second-to-last day of the month, and the oppositions always in its middle.
+@p 0113L31..0113L36 + 0114L01..0114L10
+The principle on which the arrangement of the tables, and especially of the 3rd column, headed *Dies et horae* or only *Horae*, rests is to determine the time needed from a given moment, or from a given position of the heavenly bodies (*radix*), to the conjunction sought, that is, until the two bodies have the same longitude. Thus in Table 69, for example, in the column headed *Dies et horae*, the number 29$^{d}$ 0$^{h}$ 14$^{m}$ 46$^{s}$, which corresponds to the number 31 in the column headed *Anni collecti*, means that after 30 whole Arab years have elapsed[^82.1] a further 29$^{d}$ 0$^{h}$ 14$^{m}$ 46$^{s}$ are needed until the next conjunction of the sun and the moon; and correspondingly in the other tables for the single years and the months: for example, after the end of the 1st year after the 30th, a further 8$^{h}$ 48$^{m}$ 7$^{s}$[^n] are needed, by Table 71, until the next conjunction. — The 4th column gives the mean longitude of the sun and the moon for the moment in question, the 5th column contains the anomaly of the moon, and the 6th the argument of latitude of the moon for that moment. The first column contains the *signa* (or *notae*) of the years or months concerned; we need neither it nor the last (6th) column for determining the conjunctions and oppositions.
+@n So Table 71 prints it; the value of the table is 8$^{h}$ 48$^{m}$ 27$^{s}$ (see the critical notes of the edition of the tables), and Suter quotes the misprint.
+@p 0114L11..0114L17
+We give below an *example* of the computation of a conjunction by the rules of the text, although here, perhaps more than anywhere else, it would have been necessary to give an intelligible German translation of this chapter, which is badly translated, or has at least come down to us in very bad Latin. We choose for it the moment of the eclipse of the sun that Batt. cites in chapter 30[^82.2], and whose elements Schiaparelli has recomputed from Batt.'s tables[^82.3].
+@p 0114L18..0114L19
+At what time did the *conjunction* of the sun and the moon (the *new moon*) take place at the end of the month *Muḥarram* of the year 288 AH (= 22/23 Jan. 901)?
+@p 0114L20
+From Tables 69–72 one finds:
+@t spec=lrrrr size=footnotesize 0114L21..0114L26
+! | Dies et horae | Longit. media // solis et lunae | Anomalia // lunae | Argumentum // latitud. lunae
+at the end of the year 270 | 29$^{d}$ 2$^{h}$ 4$^{m}$ 51$^{s}$ | 123° 49′ 42″ | 252° 31′ 18″ | 30° 19′ 50″
+for 17 years | 0 5 43 50 | 177 30 35 | 226 38 40 | 136 48 10
+for Muḥarram | 0 0 0 0 | 0 0 0 | 0 0 0 | 0 0 0
+for 0 Muḥ. 288: | 29$^{d}$ 7$^{h}$ 48$^{m}$ 41$^{s}$ | 301° 20′ 17″ | 119° 9′ 58″[^82.4] | 167° 8′ 0″
+@p 0114L27..0114L29
+The sun and the moon, then, have the same mean longitude, namely 301° 20′ 17″, on 29 Muḥ. of the year 288 AH at 7$^{h}$ 49$^{m}$ in the evening[^82.5]. One must now determine the true places of the sun and the moon for this time by chapters 8 and 9 (Tables 21–26):
+@t spec=lrlr 0114L30..0114L34
+! | Mean longitude of the sun: | | Mean longitude of the moon:
+| 301° 20′ 17″ | | 301° 20′ 17″
+Equation of the sun | | Equation of the moon |
+by Table 25[^82.6] | 1° 30′ 39″ | by Table 24[^82.7] | 4° 15′ 45″
+| 302° 50′ 56″ | | 297° 4′ 32″
+@f 80.1 0112N01..0112N02
+Compare Ovid's *stupuit Ixionis orbis* (the wheel of Ixion stood still), or also *stupuerunt verba palato* (the words stuck to the palate) (Georges' Latin dictionary).
+@f 80.2 0112N03
+Ed. Nallino, II, pp. 61–64.
+@f 80.3 0112N04
+See for this Batt., ed. Nallino, I, pp. 221–222 (after Schiaparelli).
+@f 80.4 0112N05
+See *Sūrya-Siddhānta*, transl. Burgess, pp. 220–221.
+@f 81.1 0113N01
+Ed. Nallino, II, 306–307.
+@f 81.2 0113N02
+Ibid., II, 84–86.
+@f 81.3 0113N03
+Ibid., I, 93–94; see also the explanations of Schiaparelli, I, 273–274.
+@f 81.4 0113N04
+Ibid., I, 94, ll. 26–34.
+@f 81.5 0113N05
+Ed. Heiberg, I, 472–475; translation by K. Manitius, I, 342–349.
+@f 82.1 0114N01
+The 31 means 0 *Muḥarram* of the year 31 AH.
+@f 82.2 0114N02
+Ed. Nallino, I, 56–57.
+@f 82.3 0114N03
+Ibid., I, 228–229.
+@f 82.4 0114N04
+Strictly 479° 9′ 58″; but 360° = a whole revolution is subtracted from it.
+@f 82.5 0114N05..0114N06
+The days of the tables begin at noon, at the culmination of the sun. I have rounded the seconds up to 1 min.
+@f 82.6 0114N07..0114N08
+This equation corresponds to the argument 223° 25′ 17″, which one obtains by subtracting the longitude of the apogee (77° 55′) from the mean longitude of the sun.
+@f 82.7 0114N09..0114N10
+This equation corresponds to the argument 119° 9′ 58″ (119° 10′), namely the anomaly of the moon.

@@ -1,0 +1,72 @@
+@unit K07
+@p+ 0082L01..0082L04
+*equant*, which the Indians, or the Persians, had dropped. But Chasles is mistaken, or makes a slip of the pen, when he says: *L’équation en question est précisément la moitié de l’équation du centre* (the equation in question is precisely half the equation of the centre); we have found that in Kh. the equation in question (that of the apogee) is *half the equation of the anomaly*. The matter stands thus.
+@p 0082L05..0082L14
+The equation of the anomaly (in our tables *Examinatio argumenti*) is halved; the one half is subtracted from the *apogee* as its equation (correction), and so gives the corrected apogee, which is entered in the second main column (see, for example, Table 27 for Saturn), headed *Sublimatio examinata*; the other half is probably used to correct the *equation* of the *centre*, but in what way we have not found out. We have made several tests, and in them have found this half now equal to the equation of the centre, now much greater, and a third time considerably smaller. I give two of these tests here, comparing the numbers in Kh. with the corresponding ones in Batt., which differ little from those of Ptol.
+@p 0082L15..0082L16
+For the comparison we take: 1) the data of the two tables that belong to the argument 70° of Saturn (in Kh. Table 29, in Batt. II, 110):
+@t spec=lccc 0082L17..0082L20
+! Batt. | | Aequat. (anomal. et) centri | Aequat. anomaliae
+| | 6° 2′ | 5° 37′
+! Kh. | Sublim. examin. | Examin. centri | Examin. argumenti (anomaliae)
+| 242° 20′ | 8° 1′ | 5° 10′
+@p 0082L21..0082L25
+If we halve the *equation of the anomaly* in Kh., that is, 5° 10′, we obtain 2° 35′; this, subtracted from the real apogee of Saturn, which is given on p. 14 of the text as 244° 55′, gives the *Sublimatio examinata* = 242° 20′; this half, added to the equation of the centre in Batt., = 6° 2′, gives 8° 37′, which differs by 36′ from the equation of the centre in Kh., namely 8° 1′.
+@p 0082L26..0082L27
+2) the data of the two tables that belong to the argument 70° of Jupiter (in Kh. Table 35, in Batt. II, 116):
+@t spec=lccc 0082L28..0082L31
+! Batt. | | Aequat. (anomal. et) centri | Aequat. anomaliae
+| | 4° 52′ | 9° 36′
+! Kh. | Sublim. exam. | Examin. centri | Examin. argumenti (anomaliae)
+| 167° 50′ | 4° 44′ | 9° 25′
+@p 0082L32..0082L35
+If one halves the *equation of the anomaly* in Kh., that is, 9° 25′, one obtains 4° 42′; this, subtracted from the real apogee of Jupiter, which is given on p. 14 of the text as 172° 32′, gives the *Sublimatio examinata* = 167° 50′; here this half is only 2′ less than the equation of the centre in Kh. (see the additions).
+@p 0082L36..0082L40 + 0083L01..0083L03
+The reasons for this procedure, as already said, have not become clear to us; we have found out only so much, that one arrives at about the same true place of the planet whether one proceeds by Batt.'s method or by Kh.'s, provided that with the latter one takes the *precession* into account, which is just what he did not do. But in our work of commentary, and especially in this chapter on the true places of the planets, we have very much regretted that the “Reasons of the tables of Kh.” by al-Bīrūnī[^51.1], which still exist in the Hebrew translation of Ibn Ezra, have not yet been published.
+@p 0083L04..0083L08
+Let us see further what the *Sūrya-Siddhānta* contains about determining the true place of the planets. Its rules[^51.2] are considerably more complicated than those of Kh., from which we may probably conclude that the Persian tables of the *Shāh* had already simplified the Indian method. I quote here only verses 43 and 44 (of book II) in the English translation of E. Burgess[^51.3]:
+@p 0083L09..0083L11
+43. *The process of correction for the apsis is the only one required for the sun and moon; for Mars and the other planets are prescribed that for the conjunction, that for the apsis, again that for the apsis and that for the conjunction — four in succession.*
+@p 0083L12..0083L14
+44. *To the mean place of the planet apply half the equation of the conjunction, likewise half the equation of the apsis; to the mean place of the planet apply the whole equation of the apsis and also that of the conjunction.*
+@p 0083L15..0083L17
+Without a commentary one could hardly do much with these rules; we see from them only so much, that a *halving* of the *equation* is involved here too. Burgess comments on these verses in the following way:
+@p 0083L18..0083L26
+*The phraseology of the text is not entirely explicit, and would bear, if taken alone, a different interpretation from that which the commentary puts upon it, and which the rules to be given later show to be its true meaning; this is as follows: first calculate from the mean place of the planet the equation of the conjunction, and apply the half of it to the mean place; from the position thus obtained calculate the equation of the apsis, and apply half of it to the longitude as already once equated; from this result find once more the equation of the apsis and apply it to the original mean place of the planet; and finally calculate from and apply to this last place the whole equation of the conjunction.*
+@p 0083L27..0083L39 + 0084L01..0084L10
+Burgess then gives examples of the computation of the true places of the five planets by these rules. We have spent a long time comparing these computations with those carried out by Kh.'s rules, but have not been able to find out the true connection. In the *Sūrya-Siddhānta* an equation is halved twice: first the *equation of the conjunction* (in our terms the *equation of the centre*) is halved, and half of this equation is added to the mean longitude of the planet; then the *equation of the apsis* (of the epicycle; in our terms the *equation of the anomaly*) is halved, and the half is again added to the new, corrected longitude of the planet; then the *equation of the anomaly* is determined anew from this twice corrected longitude, and it is added to the original mean longitude; finally the *equation of the centre* is determined from this result and added to the result just obtained, and so one has the *true longitude* of the planet. By these rules Burgess determined the true place of Saturn for 1 Jan. 1860 for the meridian of Washington, and found it c. 11° greater than the mean longitude; we have found it, by Kh.'s rules and with the same data as Burgess used, only c. 3° greater. This is so great a difference that one must almost suppose that Burgess did not understand or did not apply the rules of the *Sūrya-Siddhānta* correctly. In any case, however, the rules of the Persian tables of the *Shāh*, if Kh. really followed them, must, as has already been indicated, have departed considerably from those of the *Sūrya-Siddhānta*: of the *two* halvings of equations that Burgess found in the Indian tables, in our view only *one* has remained in Kh.
+@p 0084L11..0084L13
+Below we give, as an example of the determination of the *true place* of an upper planet, that of *Saturn*, both by the tables of Batt. and by those of Kh.
+@p 0084L14..0084L15
+*Computation of the true place of Saturn* for the beginning (noon) of 15 Ṣafar of the year 540 AH.
+@c 0084L16
+1. By al-Battānī.
+@t spec=llcl 0084L17..0084L27
+Mean longitude of the sun | (by the tables II, 19–23) | = | 140° 46′
+Mean longitude of Saturn | (by the tables II, 24–28) | = | 36° 13′ (396° 13′)
+| anomaly of Saturn: | | 104° 33′
+Mean longitude of Saturn | | = | 396° 13′
+Apogee (in the year 540)[^52.1] | | = | 248° 30′
+Centrum | | = | 147° 43′
+Equation of the centre | | = | 3° 37′ 40″[^52.2] (by Table II, 112)
+Centrum aequatum | | = | 144° 5′ 20″
+Anomaly | | = | 104° 33′
+Equation of the centre | | = | 3° 37′ 40″
+Anomalia aequata | | = | 108° 10′ 40″
+@p 0084L28..0084L32
+To the anomalia aequata of 108° 10′ 40″ there correspond (in Table II, 111), in columns VI and VII, the numbers 6° 6′ and 0° 25′, and in column IV the number 20′; 0° 25′ must now be reduced in the ratio 20′ ∶ 60′, which gives 8′ 20″[^52.3]; this is added to the number of column VI, that is, to 6° 6′, which gives 6° 14′ 20″; this, added to the centrum aequatum[^52.4], gives:
+@f 51.1 0083N01
+Or Aḥmad b. al-Muthannā; see *Biblioth. mathem.*, 3rd series, XII, p. 282.
+@f 51.2 0083N02
+*Transl.* Burgess, pp. 211–216.
+@f 51.3 0083N03
+Ibid., pp. 214–215.
+@f 52.1 0084N01..0084N02
+Here the precession from 266 to 540 AH has been taken into account; the apogee is therefore greater by ($\frac{274}{68}$)° = 4° 2′ than Batt. gives it (244° 28′).
+@f 52.2 0084N03..0084N04
+If the centrum is greater than 180°, the equation of the centre must be added to it, but subtracted from the anomaly.
+@n The print calls this note at both entries of the equation of the centre.
+@f 52.3 0084N05..0084N07
+If the differences that correspond to the centrum aequatum (here 144° 5′) in column IV are decreasing, one must take the numbers that correspond to the anomalia aequata in cols. VI and V.
+@f 52.4 0084N08
+To be subtracted if the anomalia aequata is greater than 180°.

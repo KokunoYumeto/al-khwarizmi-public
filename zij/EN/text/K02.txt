@@ -1,0 +1,69 @@
+@unit K02
+@p+ 0067L01..0067L04
+and was unknown in the East; for the authors of the *Alfonsine* tables too say (according to Nallino): *Dissentiunt de mense cui dies bissextus addere debeant; alii enim mensi Decembri eum addunt, alii Februario* (they disagree about the month to which they should add the bissextile day; for some add it to the month of December, others to February). Later western Arab authors say the same.
+@p 0067L05..0067L18
+In the last paragraph of this chapter reference is made to a table that gives the times elapsed from important events, such as the Flood, or the accession (or the death) of eminent rulers, up to a certain point in time. In the manuscripts this table does not stand in the first place, but because it is the first to be mentioned in the text, we have put it as Table 1. This table is also mentioned in the addition enclosed in square brackets (pp. 3–4), which occurs only in Mss. CMN. That this addition did not stand in Kh.'s Arabic manuscript, and cannot have been added by Maslama either, is proved by certain sentences of it, such as: *nos vero latinorum studemus utilitati, ideo et in primis tabulam suppositam praenotavimus, per quam ab eo quidem anno quo hic liber in nostrum sermonem translatus est* . . . . (but we study the advantage of the Latins, and therefore we have first of all set down the table below, by which, from the year in which this book was translated into our language ...). This addition is therefore to be regarded as a commentary or scholium of the translator or of a copyist, and it perhaps also shows that Mss. CMN may derive from a different translation from O (see my introduction).
+@p 0067L19..0067L24
+In this addition the time elapsed from the Flood to *Dhū l-Qarnayn*, that is, to the beginning of the *Seleucid era*, is given as IIDCCXCIII years, II months, V days; the II before D should be written $\overline{\text{II}}$, and then means MM; the time therefore amounts to 2793 years 2 months 5 days. — Table 1 is very disordered as regards the various eras; I give the most important of them below in their direct order:
+@t spec=lrrrl 0067L25..0067L30
+From Adam to the *Diluvium* | 2280 years | | |
+From the *Diluvium* to Nabukodonossor[^35.1] | 2356 years | 7 months | 23 days |
+From Nabukodonossor to Alexander | 436 years | 6 months | 12$\tfrac{1}{2}$ days | (?)
+From Alexander to Christ | 311 years | 3 months | |
+From Christ to the *Hijra* | 621 years | 6 months | 15 days |
+From the *Hijra* to Yazdegerd | 9 years | 11 months | 4 days |
+@p 0067L31..0067L37 + 0068L01..0068L02
+In this Table 1 an *Aera azofar* is also named twice. This is an era that was in use in Spain among the Christian population before and after the time of *Maslama*, and that began exactly 38 years before our Christian reckoning, as our Table 1 also correctly states in the fifth and the fourth lines from the end; according to the sixth and the seventh lines from the end, however, the difference between the two eras would be 38 years and 2 days, and there is probably an error here. — This Spanish era was called by the Arabs *taʾrīkh al-ṣufr* (pronounced *aṣ-ṣufr*); that this is connected with *ṣifr* (= empty, zero), as Ideler[^36.1] conjectures, is very improbable.[^36.2]
+@p 0068L03..0068L09
+At the end of this addition a second table is mentioned, with which the years of the Christian reckoning (but in the text *anni romani* stands as well as *anni domini*) can be converted into Arab years; this table is missing in all the manuscripts (see the introduction). There is only Table 3 in CO and N, headed *Pagina reducendi annos Alexandri ad elhigeram* (page for reducing the years of Alexander to the Hijra), which, however, serves in the first place to convert Arab years into years of the Seleucid era; it can, to be sure, also serve for the reverse; we shall come back to it below.
+@h 0068L10
+Chapter 3. On the headings of the columns of the tables
+@c 0068L11
+(Text pp. 4–5.)
+@p 0068L12..0068L30
+So the title *de numerorum praescriptionibus* must be translated. The author explains here what is to be understood by *anni collecti*, *anni plani*, *gradus*, *dakaicae*, etc., and how one must proceed in using the tables (as an example he takes those for determining the mean places of the planets). I have the following remarks to add to this chapter. In *anni plani*, *planum* is the translation of the Arabic *mabsūṭ* = spread out; instead of *planum* one therefore also finds (in C) *expansum*; we should say *anni singuli*; N has *anni residui*. — The first column of the tables[^36.3] for determining the mean places of the planets usually contains the path of the planet from the *radix* in periods of 30 years; then follows the column for the single years from 1 to 30, then the column for the months, and so on. For the word “minute” C and O curiously often use the Arabic *daqīqa*, in its plural form *daqāʾiq*; this is rendered in Latin by *dakaica*, which is then declined like a genuine Latin word (for example *dakaicarum*). On the other hand, especially in Ms. C, the Arabic singular form *thenia* = *thāniya* is put for “second”, and from it the plural *theniae* is formed, instead of the Arabic plural form *thawānī* being used. For the rest, Ms. C mostly has *puncta* instead of *minutae* and *minuta* instead of *secundae*[^36.4]. — I have already drawn attention in the introduction to the arbitrariness and inconsistency that reign in these headings of the columns.
+@h 0068L31
+Chapter 4. On the beginning of the Arab months
+@c 0068L32
+(Text p. 5, Tables 2–2$^{b}$.)
+@p 0068L33..0068L35 + 0069L01..0069L02
+This chapter, to which belongs Table 2 (found in all four manuscripts, but in O on the last page, 159$^{r}$), teaches how to determine the weekday (*feria*) on which any Arab month begins in any year. To make clear the rules of the text, which are often somewhat hard to understand, I give the following two examples.
+@p 0069L03
+1. On what weekday did *Ramaḍān* of the year 529 AH begin?
+@t spec=lr 0069L04..0069L07
+for 510 years the nota (that is, the number of the weekday)[^37.1] is | = 1
+for 19 years the nota is | = 6
+for the month of Ramaḍān the nota is | = 6
+| sum = 13
+@p 0069L08..0069L09
+From this sum 7 is subtracted (or it is divided by 7); the remainder is 6, that is, 1 *Ramaḍān* was a *Friday*.
+@p 0069L10..0069L12
+2. At its end this chapter states that 26 January of the year 1126 (in the Julian reckoning) fell on 1 *Muḥarram* of the year 520 AH and was a *Tuesday* (*feria tertia*); let us prove the correctness of this statement too from Table 2:
+@t spec=lr 0069L13..0069L16
+for 510 years the nota is | = 1
+for 10 years the nota is | = 1
+for the month of Muḥarram the nota is | = 1
+| sum = 3
+@p 0069L17..0069L21
+that is, 1 *Muḥarram* of the year 520 was a *Tuesday*. — This statement is found only in Ms. O, and probably means to say that the translation of this work into Latin was either begun or finished on that day; the conclusion would then suggest itself that Ms. O may represent, if not Adelard's autograph, at least a copy of it made soon afterwards.
+@p 0069L22..0069L24
+In Table 2 the designation *keb.* (= *kebice* = leap year) stands several times in the wrong place, and a leap year is missing as well, since their number within 30 years is 11.[^37.2]
+@p 0069L25..0069L36
+I add here a mention of two tables that are not named in the text at all, and that I have designated 2$^{a}$ and 2$^{b}$. The first table teaches with which weekday the months of the *era* of Yazdegerd begin. One will easily be able to determine the weekday if we note that in the first column of the section headed *Signa vel Notae* this table gives in each case the weekday of the beginning of the months of the first year of the era: thus 1 *Affrordinme* of the year 1 began with a Tuesday (3), 1 *Azdihestme* with a Thursday (5), and so on. For each following year the weekday moves on by one, since the Persian year had 365 days. Since every Persian month had 30 days, except *Abenme*, in which the 5 days beyond 360 were intercalated, so that it came to 35 days, that is, 5 full weeks, the following month, *Adarme*, has the same *notae* as *Abenme*.[^37.3] — Table 2$^{b}$ contains the *Egyptian* (*Coptic*)
+@f 35.1 0067N01..0067N03
+This is the *era of Nabonassar* used by Ptol. (Batt. and others call him *Bukhtanaṣṣar primus*), which begins on 26 February 747 BC; this, to be sure, does not quite agree with the figures above.
+@f 36.1 0068N01
+*Handbuch der math. u. techn. Chronologie*, Berlin 1826, II, 423–425.
+@f 36.2 0068N02
+See also Dozy, *Supplément aux dictionnaires arabes*, s. v. *ṣafar* and *aṣfar*.
+@f 36.3 0068N03
+After the column of the years.
+@f 36.4 0068N04..0068N05
+I write *minutae* and *secundae* instead of *minuta* and *secunda*, taking these words as adjectives to *partes*; the correct form would really be (*partes*) *primae*, (*partes*) *secundae*.
+@n The print calls this note after *minutae* and again after *secundae*.
+@f 37.1 0069N01
+1 = Sunday, 2 = Monday, and so on . . . 7 = Saturday.
+@f 37.2 0069N02
+See above, p. 34.
+@f 37.3 0069N03..0069N05
+Al-Bīrūnī gives instructions for determining the weekday of the beginning of each month for any year of this era in his *Chronology* (English translation by Sachau, p. 184; Arabic text p. 203).

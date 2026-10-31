@@ -1,0 +1,103 @@
+@unit F05
+@p 0019L01..0019L03
+2) At the end of the second column of the same folio (in our text p. 2), after the words *quandoque in hieme interdum in aestate accidat* (happens now in winter, now in summer), there stands the following table of the Arab months, without the number of their days:
+@t spec=ll 0019L04..0019L15
+*Almuharram* | . . . . . . . . .
+*Szaphar* | . . . . . . . . .
+*Rabbe* | . . . . . . . . .
+*Rabbe* | . . . . . . . . .
+*Jumedi* | . . . . . . . . .
+*Jumedi* | . . . . . . . . .
+*Rageb* | . . . . . . . . .
+*Saaben* | . . . . . . . . .
+*Ramadhan* | . . . . . . . . .
+*Sewil* | . . . . . . . . .
+*Dulkidda* | . . . . . . . . .
+*Dulheiga* | . . . . . . . . .
+@p 0019L16..0019L24
+3) Table 3, which takes up one page in each of the manuscripts C and O, is spread over two pages in N (9$^{r}$ and 9$^{v}$): some columns are added here that are missing in C and O, but that occur in the *Tabulae spuriae* which Nallino added to his edition of al-Battānī (II, pp. 300–307). All the spurious tables of al-Battānī can therefore be traced back to Maslama's reworking of the tables of al-Khwārizmī, and the conjecture that Nallino expressed about these tables (II, pp. 308–309: *Haud improbabile est tabulas p. 302–307 ex opere Maslamah quoque, ut de p. 300–301 affirmatur, exscriptas esse, etc.*, it is not improbable that the tables of pp. 302–307 too were copied from the work of Maslama, as is asserted of pp. 300–301, etc.) has thus proved true. The columns added in Ms. N are the following:
+@p 0019L25..0019L30
+A) On fol. 9$^{r}$, after the column *Anni Alexandri collecti*, which is the second column of our Table 3, there comes a column headed *Anni iazdeiardi* (*Yezdegirdi*) *post aeram arabum* (the years of Yazdegerd after the era of the Arabs); it agrees with column 4 of al-Battānī (II, 304), headed *Anni Persarum sine intercalatione, etc.* (the years of the Persians without intercalation), except for the radix, which is given there as 9$^{a}$ 11$^{m}$ 9$^{d}$ (see also Table 1, where the incorrect radix 9$^{a}$ 11$^{m}$ 4$^{d}$ is found too).
+@p 0019L31..0019L35
+B) On fol. 9$^{v}$ there is the column corresponding to the preceding one for the *anni plani* or *residui* (the single, or remaining, years); it stands after the column *Anni Alexandri plani*, which is the fourth column of our Table 3. It agrees with column 4 of al-Battānī (II, 305), headed *Anni singuli Persarum sine intercalatione* (the single years of the Persians without intercalation), except for the days for *annus* 27, where our table has 19 but al-Battānī 18.
+@p 0019L36..0019L40 + 0020L01..0020L05
+C) On fol. 9$^{r}$, immediately after column A for the *Anni iazdeiardi*, there is one for the *Anni Diocletiani completi* (the complete years of Diocletian); on the whole it agrees with col. 3 of al-Battānī (II, 304), headed *Anni Coptorum intercalationem habentes etc.* (the years of the Copts that have intercalation). With various Arab astronomers the *era of Diocletian* (beginning on 29 Aug. 284 AD) was also called the *era of the Copts*, a name by which various other eras were designated as well, such as the *era of Nabonassar*, that of *Philip Arrhidaeus*, and, in al-Battānī, also the *era of Augustus* or *Alexandrian era*, about whose beginning there is no full agreement[^XVI.1]. The column in N shows several deviations from that of al-Battānī: under a) it should read 483 instead of 488, under b) 977 instead of 997; and the last four lines should then of course read:
+@t spec=rrrr 0020L06..0020L09
+920. | 0. | 25. | $^{1}/_{4}$
+949. | 1. | 4. | 0
+978. | 2. | 13. | $^{3}/_{4}$
+1007. | 4. | 21. | $^{1}/_{2}$
+@p 0020L10..0020L13
+Al-Battānī too has 919. 12 instead of 920. 0, and the last line is missing in his table. The numbers of the column *Dies* agree with those of al-Battānī if we leave out the 25 of the second line from the top and move all the other numbers of the column up by one line, except for the two lowest numbers (13 and 21).
+@t spec=rrrr|rrrr|rrrrr size=scriptsize 0020L14..0020L46
+! <4> A.[^n] | <4> B. | <5> C.
+! Anni collecti | <3> Anni iazdeiardi post aeram arabum | Anni residui | <3> Anni iezdeiardi | Anni collecti | <4> Anni diocletiani completi
+! | Anni | Menses | Dies | | Anni | Menses | Dies | | Anni | Menses | Dies | Partes
+Radix | 9 | 11 | 4 | 1 | 0 | 11 | 24 | Radix | 337 | 10 | 19 | $^{3}/_{4}$
+30 | 19 | 2 | 12 | 2 | 1 | 11 | 14 | 30 | 366 | 11 | 25 | $^{1}/_{2}$
+60 | 48 | 3 | 28 | 3 | 2 | 11 | 3 | 60 | 396 | 1 | 28 | 0
+90 | 77 | 5 | 14 | 4 | 3 | 10 | 22 | 90 | 425 | 2 | 2 | $^{3}/_{4}$
+120 | 106 | 7 | 0 | 5 | 4 | 10 | 12 | 120 | 454 | 3 | 10 | $^{1}/_{2}$
+150 | 135 | 8 | 16 | 6 | 5 | 10 | 1 | 150 | 488$^{a}$) | 4 | 19 | $^{1}/_{4}$
+180 | 164 | 10 | 2 | 7 | 6 | 9 | 21 | 180 | 512 | 6 | 28 | 0
+210 | 193 | 11 | 18 | 8 | 7 | 9 | 10 | 210 | 541 | 7 | 7 | $^{3}/_{4}$
+240 | 223 | 0 | 29 | 9 | 8 | 8 | 29 | 240 | 570 | 8 | 15 | $^{1}/_{2}$
+270 | 252 | 2 | 15 | 10 | 9 | 8 | 19 | 270 | 599 | 10 | 24 | $^{1}/_{4}$
+300 | 281 | 4 | 1 | 11 | 10 | 8 | 8 | 300 | 628 | 11 | 3 | 0
+330 | 310 | 5 | 17 | 12 | 11 | 7 | 27 | 330 | 658 | 0 | 12 | $^{1}/_{2}$
+360 | 339 | 7 | 3 | 13 | 12 | 7 | 17 | 360 | 687 | 1 | 15 | $^{1}/_{4}$
+390 | 368 | 8 | 19 | 14 | 13 | 7 | 6 | 390 | 716 | 3 | 24 | 0
+420 | 397 | 10 | 5 | 15 | 14 | 6 | 25 | 420 | 745 | 4 | 3 | $^{3}/_{4}$
+450 | 426 | 11 | 21 | 16 | 15 | 6 | 15 | 450 | 774 | 5 | 11 | $^{1}/_{2}$
+480 | 456 | 1 | 2 | 17 | 16 | 6 | 4 | 480 | 803 | 6 | 20 | $^{1}/_{4}$
+510 | 485 | 2 | 18 | 18 | 17 | 5 | 24 | 510 | 832 | 8 | 28 | 0
+540 | 514 | 4 | 4 | 19 | 18 | 5 | 13 | 540 | 861 | 9 | 8 | $^{3}/_{4}$
+570 | 543 | 5 | 20 | 20 | 19 | 5 | 2 | 570 | 890 | 10 | 16 | $^{1}/_{2}$
+600 | 572 | 7 | 6 | 21 | 20 | 4 | 22 | 600 | 919 | 12 | 25 | $^{1}/_{4}$
+630 | 601 | 8 | 22 | 22 | 21 | 4 | 11 | 630 | 948 | 13 | 4 | 0
+660 | 630 | 10 | 8 | 23 | 22 | 4 | 0 | 660 | 997$^{b}$) | 14 | 13 | $^{3}/_{4}$
+690 | 659 | 11 | 24 | 24 | 23 | 3 | 20 | 690 | 1006 | 16 | 21 | $^{1}/_{2}$
+| | | | 25 | 24 | 3 | 9 | | | | |
+| | | | 26 | 25 | 2 | 29 | | | | |
+| | | | 27 | 26 | 2 | 19 | | | | |
+| | | | 28 | 27 | 2 | 7 | | | | |
+| | | | 29 | 28 | 1 | 27 | | | | |
+| | | | 30 | 29 | 1 | 16 | | | | |
+@n The heads of the tables that Suter copies from the manuscripts stand in their Latin: *anni collecti* and *residui*, the collected and the remaining (single) years; *anni iazdeiardi post aeram arabum*, the years of Yazdegerd after the era of the Arabs; *anni diocletiani completi*, the complete years of Diocletian; *anni*, *menses*, *dies*, *partes*: years, months, days, parts.
+@p 0021L01..0021L05
+4) At the foot of fol. 9$^{r}$ there is a small table that allows the conversion of *Arab* years into *Christian* ones, but only for the *anni collecti* from 30 to 660; it is thus incomplete. Perhaps it is a remnant of the table mentioned in the commentary, p. 36, which is missing in the other manuscripts; to be sure, it is only a scholium by a later hand, but I give it here as well:
+@t spec=rrrrrr 0021L06..0021L31
+! Notae | Anni arab. | Anni dom. collecti | Menses | Dies | Fract.
+5 | 30 | 650 | 7 | 23 | 3
+4 | 60 | 679 | 9 | 2 | 2
+1 | 90 | 708 | 10 | 11 | 1
+5 | 120 | 737 | 11 | 20 | 0
+4 | 150 | 767 | 0 | 28 | 2
+2 | 180 | 796 | 2 | 2 | 1
+7 | 210 | 825 | 3 | 11 | 0
+5 | 240 | 824$^{a}$) | 4 | 29 | 3
+4 | 270 | 883 | 5 | 28 | 2
+1 | 300 | 912 | 7 | 7 | 1
+5 | 330 | 941 | 8 | 16 | 0
+4 | 360 | 970 | 9 | 24 | 3
+2 | 390 | 999 | 11 | 3 | 2
+7 | 420 | 1029 | 0 | 7 | 0
+5 | 450 | 1058 | 1 | 15 | 3
+3 | 480 | 1087 | 2 | 24 | 2
+1 | 510 | 1116 | 4 | 3 | 1
+5 | 540 | 1145 | 5 | 12 | 0
+4 | 570 | 1174 | 6 | 20 | 3
+2 | 600 | 1203 | 7 | 29 | 2?
+7 | 630 | 1232 | 9 | 7 | 1
+5 | 660 | 1261 | 10 | 17 | 0
+| 690 | 1290 | 11 | 25 | 3
+| 720 | 1320 | 1 | 4 | 2
+| 750 | 1349 | 2 | 13 | 1
+@p 0021L32..0021L37
+On this table we have to remark: under a) it should read 854; the numbers of the last column mean “quarters”; the numbers of the column *Dies* (days) are often faulty, and can easily be corrected from modern tables; the *Fractiones* too are not right throughout. The last three lines, for the years 690, 720 and 750, have been added by a more recent hand, and in Arabic numerals that seem to me to be those of the fourteenth or fifteenth century[^XVII.1].
+@p 0021L38..0021L40
+5) In the margin of fol. 9$^{r}$ there stands the following note by a second hand: *Era (Aera) quoque* (?) *cesaris augusti tempore posita est: dicta autem era ex quo omnis orbis es (aes) reddere professus est reipublicae. Era secundum ysidorum adcescit (sic!) — Bissextus autem*
+@f XVI.1 0020N01
+See *Al-Battānī*, ed. Nallino, I, 244–245.
+@f XVII.1 0021N01..0021N03
+The figures of the 2nd, 4th and 6th columns were illegible for me because the photographic image was too faint; for a copy of them from the original I am most grateful to Mr. Gonzalez, archivist in Madrid, a pupil of Prof. Asín.

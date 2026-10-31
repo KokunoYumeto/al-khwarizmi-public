@@ -1,0 +1,90 @@
+@unit K10
+@p 0091L01..0091L03
+The latter rule also occurs among the Indians[^59.1], and in this form it holds for the three upper planets too; it is worth noting that Kh. does not give the rule in the Indian form (at least in that of the *Sūrya-Siddhānta*).
+@p 0091L04..0091L07
+As the greatest latitude (thus the inclination of the orbit of the moon to the ecliptic) Kh. has, at the argument 90°, the value 4° 30′, while Batt., like Ptol., has 5°. Here Kh. follows the *Sūrya-Siddhānta* (or the tables of the *Shāh*); at least the same value is found in the former[^59.2], but it may also have passed into the later *Siddhāntas*.
+@p 0091L08..0091L09
+*Example*: The latitude of the moon is to be determined for noon of 15 Ṣafar of the year 540 AH.
+@t spec=rcl 0091L10..0091L22
+! <3> True place of the moon (see above p. 45):
+319° 2′[^59.3] | |
+279° 41′ | = | mean longitude of the dragon's head
+598° 43′ | |
+−360° | |
+238° 43′ | = | argument of latitude (by the 1st rule)
+319° 2′ | = | true place of the moon
+80° 19′ | = | corrected longitude (= true place) of the dragon's head
+238° 43′ | = | argument of latitude (by the 2nd rule)
+@t spec=lr 0091L23..0091L32
+! <2> Mean longitude of the dragon's head (by Tables 19 and 20):
+at the end of the 510th year | 92° 39′
+for 29 years | 184° 42′
+for 1 month | 1° 35′
+for 14 days | 45′
+sum: | 279° 41′
+<2> 360° − 279° 41′ = 80° 19′ = the corrected longitude, since the dragon's head is retrograde.
+@p 0091L33
+With this argument one enters Table 25, and finds there:
+@t spec=lcl 0091L34..0091L36
+in the last column, for 238° (7$^{s}$ 28°), the latitudo lunae | = | 3° 48′ 57″
+difference for 43′ | = | 1′ 46″
+*latitude* of the moon at the given time: | | 3° 50′ 43″
+@p 0091L37..0091L40
+According to the remarks that Batt. adds to his rules, but Kh. leaves out, the latitude of the moon in this case is *southern* and *increasing*, that is, the moon is going still further towards the south, which is also indicated by the heading of the last column, *Latitudo lunae recedentis* (latitude of the receding moon).
+@p 0091L41..0091L49
+The headings of the first two columns of Tables 21–26, *Computatio minuenda et augmentum examinis et numeri* — *Computatio augenda et diminutio examinis et numeri* (computation to be subtracted, and increase of the equation and of the number — computation to be added, and decrease of the equation and of the number), are not quite clear, but they probably mean: if the argument is less than 180°, which is the case in the 1st column, the equation found (*computatio*) must be subtracted from the mean longitude; if it is greater than 180°, which is the case in the 2nd column, the equation must be added; further, when the argument increases from 0° to 180°, the equation (*examen*) increases too, but when the argument grows from 180° to 360°, the equation decreases again.
+@h 0092L01
+Chapter 17. On the latitude of the planets
+@c 0092L02
+(Text p. 14, Tables 27–56.)
+@p 0092L03..0092L08
+The Latin title of this chapter is incorrect: in its first paragraph the chapter deals with the three upper planets, in the second with the two lower ones. The theory of the change of the latitude of the planets is the most difficult and obscure part (book 13) of Ptol., so difficult and obscure that Batt. renounced going into this theory more closely; he gives only the rules by which the latitude of the planets can be found from the tables[^60.1].
+@p 0092L09..0092L27
+But this obscurity has been cleared up in an excellent way by Nallino, after Delambre and others had failed at it, and he has thereby brought the theory of Ptol. nearer to our understanding; he has also tried to give it a mathematical foundation, in which he has likewise succeeded finely. We cannot go into these foundations more closely here, but must refer the reader to Nallino's work[^60.2]; we shall only mention briefly the main factors on which the latitude of the planets in their various positions depends. The latitude of the *three upper* planets depends, first, on the constant inclination of the plane of the deferent to the ecliptic, and secondly on the variable inclination of the epicycle to the plane of the deferent. The latitude of the *two lower* planets depends, first, on the inclination of the plane of the deferent to the ecliptic, which Ptol. takes to be variable for the lower planets; secondly, on the variable inclination of the diameter apogee–perigee of the epicycle to the plane of the deferent; and thirdly, on the variable inclination to the plane of the ecliptic of the diameter perpendicular to the one just named (for the three upper planets this diameter is always parallel to the plane of the ecliptic). — The only thing we have to object to in Nallino's accounts is that he has not tried to make Ptol.'s unclear figures more vivid by adding perspective figures.
+@p 0092L28..0092L33
+If we now compare the rules that Kh. has given for determining the latitude of the planets with those of Batt., we see at once that the former must rest on other theories than the latter; and it is quite understandable that the difficulty of the Ptolemaic account deterred his successors from following the path of the great master and compelled them to use other, simpler methods.
+@p 0092L34..0092L39 + 0093L01..0093L03
+If we now look at the rule of the *Sūrya-Siddhānta*[^60.3], we find no direct agreement with Kh.'s here either; but that both proceeded from similar points of view is nevertheless evident. The rule of the *Sūrya-Siddhānta* says: the sine of the arc (the difference of the true longitude of the planet and the longitude of the node), multiplied by the maximum latitude and divided by the radius (for this position of the planet), gives the latitude for the position (time) concerned. Burgess says in his commentary[^61.1] on this rule that it results from the composition of two proportions, of which the one holds only for the moon, while the other is added for the planets, namely:
+@t spec=llcl 0093L04..0093L05
+*1st prop.* | *r* ∶ sin dist. from the node | = | greatest latitude ∶ latitude at the dist. *r*[^61.2]
+*2nd prop.* | var. *r* ∶ *r* | = | latitude at the dist. *r* ∶ latitude at the true dist.
+@p 0093L06
+From the two proportions it follows, by multiplication:
+@c 0093L07
+var. *r* ∶ sin dist. from the node = greatest latitude ∶ latitude at the true dist.,
+@p 0093L08
+so: latitude at the true dist. = $\dfrac{\text{sin dist. from the node} \times \text{greatest latitude}}{\text{var. } r}$.
+@p 0093L09..0093L11
+As for the first proportion, it follows from the rule of the four quantities in spherical trigonometry, sin *AB* ∶ sin *AB′* = sin *BC* ∶ sin *B′C′*, which passes into the formula
+@c 0093L12
+$\sin\alpha = \dfrac{\sin B'C'}{\sin AB'}$
+@p 0093L13..0093L18
+when *AB* becomes = 90°[^n]. Applied to our case, *A* is one of the nodes (the points of intersection of the deferent with the ecliptic), *α* = the inclination of the deferent to the ecliptic, *BC* = the maximum latitude, when *AB* = 90°, *B′C′* = the latitude of the planet at its position *B′* on the deferent, and *AB′* = the difference of the true longitude of the planet and the longitude of the node.
+@n Here the print has a figure, which is not reproduced: a spherical triangle with *B* at the upper left, *C* at the lower left and *A* at the right; the arc *BC* on the left, the arc *CC*′*A* below and the arc *BB*′*A* above, curving down to *A*; the arc *B*′*C*′ from *B*′ on the upper arc down to *C*′ on the lower; the angle *α* is marked at *A*.
+@p 0093L19..0093L20
+The second proportion is in any case only approximately correct; we can derive[^n] it from the following figure[^n]:
+@n The verb is missing in the print.
+@n Here the print has a figure, which is not reproduced: two large ellipses, the circles of the ecliptic and of the inclined deferent seen obliquely, crossing at two points; a straight line through *E* from the top of the outer ellipse to the lower crossing point; the small ellipse of the epicycle about *H* at the upper right, with *P* on it; the lines *EP*, *MH* and *EA*, the horizontal line *EMB*, and the vertical lines *PA* and *HB*.
+@p 0093L21..0093L32
+Let *P* be the position of the planet on the epicycle, *A* its projection on the plane of the ecliptic, and *B* the projection of the centre of the epicycle on the same plane; then the angles *HMB* and *PEA* are what in the *Sūrya-Siddhānta* are called the latitude of the planet at the distance *r* (the mean distance *MH*) and the latitude of the planet at the distance *r′* (the variable distance *EP*) respectively. Because of the small inclination of the plane of the epicycle to the ecliptic, the Indians took the two perpendiculars *PA* and *HB* as equal; one then has:
+@c 0093L33
+$\sin HMB = \dfrac{HB}{MH} = \dfrac{HB}{r}$; $\sin PEA = \dfrac{PA}{EP} = \dfrac{PA}{r'}$
+@p 0093L34
+so that $\dfrac{\sin HMB}{\sin PEA} = \dfrac{r'}{r}$,
+@f 59.1 0091N01
+*Sūrya-Siddhānta*, ed. Burgess, p. 228.
+@f 59.2 0091N02
+Ibid., pp. 188–189.
+@f 59.3 0091N03
+I round the seconds down or up to minutes.
+@n The print calls this note at 319° 2′ and again at 92° 39′.
+@f 60.1 0092N01
+Batt., ed. Nallino, I, 115–116; II, 140–141.
+@f 60.2 0092N02
+Ibid., II, 247–255.
+@f 60.3 0092N03
+*Transl.* Burgess, *Journal of the American Orient. Soc.*, Vol. VI, p. 228.
+@f 61.1 0093N01
+Ibid., pp. 229–230.
+@f 61.2 0093N02..0093N04
+Strictly, the sine should also be taken of the last two terms of the proportion; but since these inclinations are only small in the orbits of the planets, one can put the arcs instead of the sines without great error.

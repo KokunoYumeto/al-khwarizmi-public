@@ -1,0 +1,83 @@
+@unit K18
+@p 0115L01..0115L10
+The moon, then, is 302° 50′ 56″ − 297° 4′ 32″ = 5° 46′ 24″ behind the sun, that is, the sun *praecessit* (has gone ahead), as the text puts it; the true conjunction therefore takes place only after the time found above, and, if the sun were regarded as standing still, by as many hours as the true hourly motion of the moon is contained in the difference of longitude 5° 46′ 24″. But since the longitude of the sun changes too, a correction is added to this difference, namely its 12th part = 28′ 52″, and the difference of longitude is now 6° 15′ 16″; now 6° 15′ 16″ ∶ 34′ 20″[^83.1] = 10$^{h}$ 55$^{m}$ 48$^{s}$; the *true conjunction*, then, took place on 29 Muḥ. 288 AH, 18$^{h}$ 44$^{m}$ 29$^{s}$ after the culmination of the sun, that is, on 23 January 901 at 6$^{h}$ 44$^{m}$ in the morning[^83.2].
+@p 0115L11..0115L14
+To obtain the places of the sun and the moon at the true conjunction, one must, according to the precepts given, add 6° 15′ 16″ to the true place of the moon, but to that of the sun only the 12th part of the difference of longitude (or the 13th part of 6° 15′ 16″), that is, 28′ 52″; and one must then of course obtain the same quantities:
+@t spec=lrlr 0115L15..0115L17
+Place of the sun: | 302° 50′ 56″ | Place of the moon: | 297° 4′ 32″
+| + 28′ 52″ | | + 6° 15′ 16″
+| 303° 19′ 48″ | | 303° 19′ 48″
+@p 0115L18..0115L19
+This, then, is the *true longitude* of the sun and the moon at the time of their true conjunction, on 29 Muḥ. 288 at 6$^{h}$ 44$^{m}$ in the morning.
+@p 0115L20..0115L30 + 0116L01..0116L04
+The reason why $\tfrac{1}{12}$ of the difference of longitude must be added to the longitude of the sun, and $\tfrac{13}{12}$ of it to the longitude of the moon (in the case where the moon is ahead of the sun they must be subtracted), is surely that the mean hourly motions of the sun and the moon are nearly as 1 ∶ 13[^83.3]. Let *K* be the place of the true conjunction, *S* the place of the sun and *M* that of the moon, after the correction by their equations[^n]; then 13 parts fall to *MK* and one part to *SK*, and so 12 parts to *MS*. One therefore divides the difference of longitude *MS* by 12 and so has one part; adding this to the longitude of the sun, and thirteen times it to the longitude of the moon, one has the same true longitude of the two bodies at the time of the conjunction; and *MK* divided by the true hourly motion of the moon gives the number of hours that the two bodies still have to run from the positions *M* and *S* to the conjunction *K*. Since the ratio of the hourly motions of the two bodies is not constant, this procedure does not give quite exact results, and Batt. therefore remarks that his more lengthy procedure is the more correct one.
+@n Here the print has a small figure, which is not reproduced: a horizontal line with short upright strokes at its two ends and one between them, nearer the right end, with *M*, *S* and *K* above the left end, the inner stroke and the right end; it is not drawn to scale (*MS* about three times *SK*, where the text makes it twelve times).
+@p 0116L05..0116L17
+Two further precepts are now given, which are of no consequence for determining the conjunction, but are needed for the later computation of an eclipse that may occur. *First* it is remarked (p. 24) that the equation of the moon is also to be subtracted from (or added to) the argument of latitude; in our case this gives 167° 8′ − 4° 15′ 45″ = 162° 52′ 15″; and to this quantity the corrected difference of longitude (6° 15′ 16″) is to be added, which gives 169° 7′ 31″ as the corrected argument of latitude. *Secondly* it is added (pp. 24–25) that one must also correct the anomaly of the moon for the time correction found, 10$^{h}$ 55$^{m}$ 48$^{s}$; this is done by multiplying this quantity by 32′ 40″, that is, by the mean hourly motion of the anomaly of the moon; taking the decimal fraction 10.93 instead of 10$^{h}$ 55$^{m}$ 48$^{s}$, one obtains 5° 57′ 3″, and this, added to the anomaly (119° 10′)[^84.1], gives 125° 7′ = the corrected anomaly (in the text: *argumentum ratum*).
+@p 0116L18..0116L22
+At the end it is also stated how one must correct the time of the conjunction when the place of observation lies west or east of Córdoba.[^84.2] Then, for the case that one wants to convert equinoctial hours into unequal hours or conversely, it is pointed out that one must use the tables of the equation of time (67–68) for this.
+@p 0116L23
+We also give an *example* of the computation of an *opposition*.
+@p 0116L24..0116L25
+At what time about the middle of the month *Rabīʿ II* (which counts 29 days) of the year 146 AH did the *opposition* of the sun and the moon (the *full moon*) take place?[^84.3]
+@p 0116L26
+From Tables 70–72 one finds:
+@t spec=lrrrr size=footnotesize 0116L27..0116L33
+! | Dies et horae | Longit. media // solis et lunae | Anomalia // lunae | Argumentum // latitud. lunae
+at the end of the year 120 | 14$^{d}$ 6$^{h}$ 34$^{m}$ 9$^{s}$ | 279° 28′ 28″ | 29° 12′ 6″ | 67° 12′ 57″
+for 25 years | 4 11 21 | 91 37 55 | 185 3 54 | 201 10 50
+for 4 months | $\underline{1}$ 14 12 9[^84.4] | 87 18 58 | 77 27 4 | 92 0 42
+for 0 Rabīʿ II, 146: | 14$^{d}$ 0$^{h}$ 57$^{m}$ 39$^{s}$ | 458° 25′ 21″ | 291° 43′ 4″ | 360° 24′ 29″
+| | = 98° 25′ 21″ | | = 0° 24′ 29″
+@p 0116L34..0116L35
+One now determines the true longitudes of the sun and the moon by Tables 21–26:
+@t spec=lrlr 0117L01..0117L05
+! | Mean longitude of the sun: | | Mean longitude of the moon:[^85.1]
+| 98° 25′ 21″ | | 98° 25′ 21″
+Equation of the sun | | Equation of the moon |
+by Table 21: | 0° 45′ 44″ | by Table 23: | 4° 36′ 36″
+| 97° 39′ 37″ | | 103° 1′ 57″
+@p 0117L06..0117L14
+The moon, then, is 5° 22′ 20″ ahead of the sun, and so the opposition has already taken place. One divides the difference of the longitudes by 12, which gives 26′ 52″, and adds this to 5° 22′ 20″, which gives 5° 49′ 12″; this quantity, divided by the true hourly motion of the moon, which by Table 63 is = 31′ 50″, gives 10.97$^{h}$ = 10$^{h}$ 58$^{m}$; and this difference of time, subtracted from the time at which the mean opposition took place, gives, in round numbers, 13$^{d}$ 14$^{h}$ as the time of the true opposition; that is, this *opposition* took place on 13 Rabīʿ II, 146, 14$^{h}$ after 12 o'clock noon, that is, in our (civil) reckoning (with the day beginning at midnight), on 30 June 763 at 2 o'clock in the morning[^85.2].
+@p 0117L15..0117L18
+To obtain the true longitudes of the sun and the moon at the opposition, one must subtract from the longitude of the sun found above the 12th part of the difference of the longitudes, that is, 26′ 52″, but from the longitude of the moon thirteen times that, that is, 5° 49′ 12″; one then obtains:
+@t spec=lrlr 0117L19..0117L21
+Longitude of the sun: | 97° 39′ 37″ | Longitude of the moon: | 103° 1′ 57″
+| − 26′ 52″ | | − 5° 49′ 12″
+| 97° 12′ 45″ | | 97° 12′ 45″
+@p 0117L22..0117L23
+This number gives the true longitude of the sun at the time of the opposition; that of the moon is therefore 180° greater, that is, = 277° 12′ 45″.
+@p 0117L24..0117L25
+According to the precepts of the text, the argument of latitude of the moon and its anomaly must now still be corrected.
+@t spec=lr 0117L26..0117L31
+argument of latitude | = 360° 24′ 29″
+| − 5° 49′ 12″
+| 354° 35′ 17″
+to this is added the equation of the moon: | 4° 36′ 36″
+corrected argument of latitude: | 359° 11′ 53″
+@t spec=lr 0117L32..0117L35
+anomaly of the moon | = 291° 43′ 4″
+correction corresponding to the time correction of 10$^{h}$ 58$^{m}$[^85.3] | 5° 58′ 21″
+corrected anomaly[^85.4]: | 285° 44′ 43″
+@f 83.1 0115N01..0115N02
+This is, by Table 64, the true hourly motion of the moon for the argument (anomaly) 119° 10′.
+@f 83.2 0115N03..0115N09
+Schram's tables (*Kalendariograph. u. chronolog. Tafeln*, Leipzig, 1908) give 23 Jan., 6$^{h}$ 43$^{m}$ in the morning for *Greenwich*, and so 6$^{h}$ 23$^{m}$ for *Córdoba*, which lies c. 5° further west; the error would thus be c. 21$^{m}$; but Schram remarks that his tables give the syzygies to an accuracy of about half an hour, so that the error might reduce to zero. For *Antioch* Schiaparelli finds the time of the true conjunction = 9$^{h}$ 20$^{m}$ in the morning; since *Antioch* lies c. 41° east of *Córdoba*, the time for Antioch by our tables would come to 9$^{h}$ 29$^{m}$, and so differ by only 9$^{m}$ from Batt.'s tables.
+@f 83.3 0115N10
+Mean hourly motion of the moon 32′ 56″, of the sun 2′ 28″; the division gives 13.3.
+@f 84.1 0116N01
+This correction is to be subtracted when the moon is ahead of the sun.
+@f 84.2 0116N02
+The text is faulty here: *oriente* and *occidente* must be exchanged.
+@f 84.3 0116N03
+1 Rabīʿ II of the year 146 corresponds to 17 June 763.
+@f 84.4 0116N04..0116N05
+$\underline{1}$ means that this day is to be taken negatively, that is, subtracted from the sum of the other days and hours.
+@f 85.1 0117N01..0117N03
+For the further computations one keeps this longitude of the moon, which agrees with the mean longitude of the sun, although at the opposition it is really 180° greater (or smaller).
+@f 85.2 0117N04..0117N06
+Schram's tables give 30 June 763, 1$^{h}$ 41$^{m}$ in the morning for Greenwich, and so 1$^{h}$ 21$^{m}$ for Córdoba; the difference here would thus amount to c. 40$^{m}$; by Schram's remark quoted above it might reduce to 10$^{m}$.
+@f 85.3 0117N07
+As above, one must multiply the time correction by 32′ 40″, by the rule (p. 24).
+@f 85.4 0117N08
+Called *anomalia aequata* by Batt.

@@ -1,0 +1,263 @@
+@unit I01
+@h 0283L01
+Index of names and subjects[^n]
+@n The entries keep the order of the German index. German headwords are translated, with the German in square brackets; the Latin, Greek and Arabic headwords and the names stand as printed (in the rest of this translation Athelhard is Adelard and Björnbo Bjørnbo). The numbers are Suter's pages, given in the margin of this translation; T. is a table, N. a footnote.
+@c 0283L02
+**A.**
+@e 0283L03
+Abacus X.
+@e 0283L04
+ʿAbbās b. Saʿīd al-Djauharī 32.
+@e 0283L05
+Abraham b. ʿEzrā 41, 51, 99.
+@e 0283L06
+Abū’l-Ḥasan ʿAlī of Morocco 71.
+@e 0283L07
+Abū Isḥāḳ al-Naḳḳāsh see al-Zarḳālī.
+@e 0283L08
+Abū Naṣr Manṣūr see Manṣūr b. ʿAlī b. ʿIrāḳ.
+@e 0283L09
+Abū’l-Wefā 77, 78.
+@e 0283L10
+Adam 35, T. 1.
+@e 0283L11
+Adelhard see Athelhard.
+@e 0283L12
+Adiectiones XVIII.
+@e 0283L13
+Equant [Aequans] 47, 48, 50, 233.
+@e 0283L14
+Aequatio see Examinatio.
+@e 0283L15
+— domorum, see Houses, astrological [Häuser, astrolog.].
+@e 0283L16
+— nychthemerōn 80.
+@e 0283L17
+Equinoctial hours (equal) [Aequatorial-Stunden] 24, 76, 81, 84.
+@e 0283L18..0283L26
+Aera Arabum (or of the *Hidjra*) VII, IX, 1–3, 33–39, 106; — Augusti (or Alexandrina) XVI; — Coptorum XV; — Diocletiani XV; — Domini (Christian, Julian) XVII, 3, 4, 35, 36, 102; — Nabonassaris XVI; — Philippi Aridaei XVI; — Romanorum (Seleucid) 2–4, 6, 7, 34–40, 81; — Spanish [spanische] (*acofra*) XVIII, 3, 35; — of Yezdegird VII, VIII, XV, 33, 37, 106, T. 1.
+@e 0283L27
+Aḥmed b. al-Muthannā 51.
+@e 0283L28
+Albohazen 105.
+@e 0283L29
+Albumasar 105.
+@e 0283L30
+Alcabitius see Ḳabīṣī.
+@e 0283L31
+Algebra (al-Khwārizmī's) VIII, XII.
+@e 0283L32
+Alienatio 103, 104, T. 116.
+@e 0283L33
+Alexander, the Great, 5[^n], 34, 35, 38, T. 1.
+@n So the print; Alexander is named on p. 3 of the text, not on p. 5.
+@e 0283L34..0283L35
+Almagest, the, of Ptolemy XI, 2, 16, 18, 33, 44, 70, etc.
+@e 0283L36
+Altitudo see Altitude [Höhe].
+@e 0283L37
+Ammonius see Emirethius.
+@e 0283L38..0283L39
+ἀναπλήρωσις = the making full again (of the moon, or of the sun in eclipses) 88.
+@e 0283L40
+Andersen, D. VI.
+@e 0283L41..0283L42
+Anni collecti XV, XVII, 4–7, 23, 36, etc. T. 2, 3, 4, 6, etc.
+@e 0283L43..0283L44
+— plani (vel expansi, singuli, residui) XV, 4–7, 23, 36, etc. T. 2, 3, 4, 6, etc.
+@e 0283L45
+— vagi (of the Egyptians) 38.
+@e 0283L46..0283L48
+Annus Arabum, description of it, 2, 34; its conversion into Roman years, 6–7, 38–40, T. 3, 3$^{a}$.
+@e 0283L49..0283L50
+— bissextus or bissextilis (leap year) XVII, XVIII, 6–7, 34, 35, T. 3$^{a}$.
+@e 0283L51
+— Persarum, see Aera, of Yezdegird.
+@e 0283L52..0283L54
+— Romanorum vel Alexandri, description of it, 2–4, 34–36; finding it, 6–7, 38–40, T. 1, 3.
+@e 0283L55
+Anomalia see Argumentum.
+@e 0283L56
+Antioch [Antiochia] 83 (N. 2), 95, 96.
+@e 0283L57
+Apogeum see Sublimatio.
+@e 0283L58
+Line of apsides [Apsidenlinie] 65.
+@e 0283L59..0283L61
+Argumentum (Anomalia, *Heza*) XIV, 9–12, 43–46, 48–55, 67, 82–85, 93, T. 6–9, 11, 13, 15–18, 27–56, 69–72.
+@e 0283L62..0283L63
+— (examinatum, or aequatum) 11–13, 14, 52–57, 62–64.
+@e 0283L64..0283L65
+— (the quantity with which one enters a table) 19, 20, 55, 92.
+@e 0283L66..0283L67
+— (latitudinis lunae) 23, 24, 26, 27, 29, 58, 59, 68, 82, 84–86, 94, T. 69–76, 78.
+@e 0283L68
+— (procedure, logical inference) 13, 56.
+@e 0283L69
+— (ratum) 25, 84.
+@e 0283L70
+Arin VII, XVIII, 1, 8, 9, 17–19, 33, 41, 43, 68, 72.
+@e 0283L71
+Arkand, the book al-, see Khaṇḍakhādyaka.
+@e 0283L72
+Āryabhaṭṭa (or Āryabhaṭa) 42.
+@e 0283L73
+Ārya-Siddhānta see Siddhāntas.
+@e 0283L74
+Ascendens see Horoscopus.
+@e 0283L75
+Ascensional difference [Ascensional-Differenz] 74–76, 92.
+@e 0283L76..0283L77
+Ascensiones obliquae XII, 20, 21, 73–76, 92, 93, 100–102.
+@e 0284L01..0284L02
+Ascensiones rectae (= right ascension) 17–20, 72–76, 93, 99, 100, 102.
+@e 0284L03
+Asín, Miguel, XI, XVII.
+@e 0284L04
+Astrolabe [Astrolabium] IX, X, XX, 18, 71.
+@e 0284L05
+Ascendant [Aszendent] see Ascendens.
+@e 0284L06..0284L07
+Athelhard of Bath VI–X, XII, XIII, XXIII (N. 2), 1, 37, 69, 71, 80, 96, 236, T. 116.
+@e 0284L08
+Aug see Sublimatio.
+@e 0284L09
+Augustus (emperor) XVI, XVII.
+@e 0284L10
+Azin see Arin.
+@c 0284L11
+**B.**
+@e 0284L12
+Baghdād 74.
+@e 0284L13..0284L17
+al-Battānī, Muḥ. b. Djābir b. Sinān (and his astronomical tables, ed. Nallino) IX, XIII, XV, XVI, XVIII, XXI, XXIII, XXIV, 32, 34, 35, 38–50, 52, 54–60, 62–66, 69, 71–97, 99, 100, 102–106, 233, 234, 236.
+@e 0284L18
+Bernelinus X.
+@e 0284L19
+Bernhelmus see the preceding.
+@e 0284L20
+Besthorn, R. O., V, XXV.
+@e 0284L21..0284L23
+Motion, mean (of the sun) [Bewegung, mittlere] XIV, XVIII, 7–9, 23, 33, 36, 41–44, 65, 67, 82, 84, 85, 105, 106, 235, T. 4, 5.
+@e 0284L24..0284L26
+— mean (of the moon) XIV, XVIII, 7, 8, 10, 23, 33, 36, 41–43, 45, 46, 65, 67, 82, 84, 85, 105, 106, T. 6, 7, 8.
+@e 0284L27..0284L29
+— mean (of the upper planets) XIV, XVIII, 7, 8, 10–12, 36, 41–44, 51–54, 63, 64, 105, 106, T. 9–14.
+@e 0284L30..0284L31
+— mean (of the dragon's head) XIV, XIX, 7, 8, 12, T. 19, 20.
+@e 0284L32..0284L33
+— mean (of the anomaly of the lower planets) 54, T. 15–18.
+@e 0284L34..0284L35
+— true (that is, unequal, of the moon) 22, 23, 28, 78, 79, 81, 83, 105, T. 61–66.
+@e 0284L36..0284L37
+— true (of the sun) 22, 23, 78, 79, 81, 83, 105, T. 61–66.
+@e 0284L38
+Bhāskara, 70.
+@e 0284L39
+Billeter, G. VI.
+@e 0284L40..0284L41
+al-Bīrūnī, Muḥ. b. Aḥmed, 37, 38, 44, 49, 51, 66, 79, 89, 90, 105, 235.
+@e 0284L42..0284L43
+Björnbo, A. V, VII, X, XI, XIII, XXIV, 68, 69–71, 76, 77, 102.
+@e 0284L44
+Boll, F. 105.
+@e 0284L45
+Boncompagni, B. VIII.
+@e 0284L46
+Bouché-Leclercq, A. 105.
+@e 0284L47
+Brahmagupta 32, 42, 45, 79, 90.
+@e 0284L48
+von Braunmühl, A. 71.
+@e 0284L49..0284L50
+Latitude, of the moon [Breite] 14, 27, 29, 58, 59, 66–68, 86, 88, 94, T. 21–26.
+@e 0284L51
+— of the planets, 14, 60–64, T. 27–56.[^n]
+@n The print has «S. 27—56»; the latitudes of the planets stand in Tables 27–56.
+@e 0284L52..0284L53
+Latitude, apparent, of the moon (produced by the parallax) [Breite, scheinbare] 94.
+@e 0284L54..0284L55
+— geographical, of a place (its determination) 18, 28, 71.
+@e 0284L56
+Brevis circulus see Epicycle [Epicyklus].
+@e 0284L57
+Broger, M. 95 (N. 1).
+@e 0284L58
+Bukhtanaṣṣar see Nabonassar.
+@e 0284L59..0284L60
+Burgess, E. 42, 45, 46, 51, 52, 58–61, 68, 75, 78–80, 86, 90, 92.
+@c 0284L61
+**C.**
+@e 0284L62
+Caldei 9, 11, 43.
+@e 0284L63
+Caput draconis see Nodes (of the moon) [Knotenpunkte].
+@e 0284L64
+Carra de Vaux 78.
+@e 0284L65
+Casae see Houses [Häuser].
+@e 0284L66
+Casus 26, 27, 87–89, 95, see also Dejection [Tiefstand].
+@e 0284L67
+Cauda draconis see Nodes (of the moon) [Knotenpunkte].
+@e 0284L68
+Celada (cardinal) XI.
+@e 0284L69..0284L70
+Centrum (astron.) 11, 48–54, 57, 58, see also Examinatio centri.
+@e 0284L71
+— examinatum vel aequatum 11, 12, 52–55, 57.
+@e 0284L72
+— ultimum 11, 53, 54.
+@e 0284L73
+Chaldei see Caldei.
+@e 0284L74
+Chasles, M. VII, X, 43, 49, 50.
+@e 0284L75
+Cheikho, L. IX (N. 3).
+@e 0284L76
+Cifra see Zero [Null].
+@e 0284L77
+Circulus aequinoctialis 18–21, 25.
+@e 0284L78
+— excentricus 26, 44, 47.
+@e 0284L79
+Circumpolar stars [Circumpolarsterne] 71.
+@e 0284L80
+Coaequatio see Examinatio.
+@e 0284L81
+Computatio XIV, 59, T. 21–26.
+@e 0284L82
+Computus (Gerlandi) X.
+@e 0284L83
+Conversio annorum see Conversion [Umwandlung].
+@e 0284L84..0284L85
+Corduba (Cordova) VII, XII, 25, 33, 81, 83–85, 92–97, 100, 106.
+@e 0284L86
+Cotangent [Cotangens] see Umbra.
+@e 0284L87
+Curtze, M. XXIII.
+@c 0284L88
+**D.**
+@e 0284L89
+Darius Medus 105.
+@e 0284L90
+Decani see Facies.
+@e 0284L91
+Defectus see Eclipse [Verfinsterung].
+@e 0284L92
+Deferent [Deferens] 16, 17[^n], 57, 60, 61, 233, 234.
+@n So the print; the deferent is introduced on pp. 47–48, the 16th and 17th pages of the commentary; pp. 16–17, of the Latin text, do not name it.
+@e 0284L93
+Deiectio see Dejection [Tiefstand].
+@e 0284L94..0284L95
+Declination (obliquatio) of the sun [Deklination] 13, 18, 19, 58, 91, T. 21–26.
+@e 0284L96..0284L97
+— of any point of the ecliptic 74, 75, see also Ecliptic [Ekliptik].
+@e 0284L98
+Delambre 60.
+@e 0284L99
+Detrimentum see Alienatio.
+@e 0284L100
+Dieterici, F. 105.
+@e 0284L101
+Digiti = parts of the gnomon 20–22, T. 60.

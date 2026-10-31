@@ -1,0 +1,72 @@
+@unit K15
+@p+ 0106L01..0106L02
+of *Mecca*, *Baghdad*, *Ḥarrān* and *al-Raqqa*, and then also generally for all places whose day lengths amount to 13$^{h}$ to 16$^{h}$, at intervals of 15$^{m}$.[^74.1]
+@p 0106L03..0106L04
+Batt. gives two ways of determining the oblique ascensions for any place[^74.2]; the second, which Kh. too follows in part, is the following:
+@c 0106L05
+*Ascensio obliqua* for the latitude *φ* = *ascensio recta* ∓ arc sin (tg *φ* · tg *δ*),
+@p 0106L06..0106L15
+where *δ* is the declination of the point of the ecliptic whose *ascensio obliqua* is sought. This formula follows from the following figure[^n], from which Ptol. too derives it by means of the theorem of Menelaus[^74.3]: let *HT* be the horizon, *AQ* the equator, *EK* the ecliptic, ♈ the vernal point, *P* the north pole of the equator and *PN* the circle of declination of the rising point *L* of the ecliptic; then ♈*N* is the right ascension and ♈*D* the oblique ascension of the point *L* of the ecliptic, and *DN* is the so-called *ascensional difference*. Now
+@n Here the print has a figure, which is not reproduced: a circle, the meridian, with *Z* at the top, *P* at the upper right, *A* and *E* at the upper left, *H* and *T* at the ends of a horizontal dashed diameter and *K* and *Q* at the lower right; dashed lines from the centre to *Z*, *P*, *A*, *E*, *K* and *Q*; within the circle the arcs of the horizon from *H* through *D* and *L* to *T*, of the equator from *A* through the vernal point, *D* and *N* to *Q*, of the ecliptic from *E* through the vernal point and *L* to *K*, and of the circle of declination from *P* through *L* to *N*; the angle at *D* is marked.
+@c 0106L16
+♈*D* = ♈*N* − *DN*,
+@p 0106L17..0106L21
+but *DN* follows from the right-angled spherical triangle *DNL* in the following way: *LN* is the declination *δ* of the point *L*, and ∠ *D* = arc *AH* = 90° − *φ*; by the formula given above ($\sin a = \dfrac{\mathrm{tg}\,b}{\mathrm{tg}\,B}$), then,
+@c 0106L22
+$\sin DN = \dfrac{\mathrm{tg}\,LN}{\mathrm{tg}\,D} = \dfrac{\mathrm{tg}\,\delta}{\mathrm{tg}\,(90-\varphi)} = \mathrm{tg}\,\delta\cdot\mathrm{tg}\,\varphi$,
+@p 0106L23..0106L26
+so that ♈*D* = ♈*N* − arc sin (tg *δ* · tg *φ*), or: *ascensio obliqua* = *ascensio recta* − arc sin (tg *δ* · tg *φ*). If the declination *δ* of the point *L* is southern, the arc whose sine is tg *δ* · tg *φ* must be added to the *ascensio recta*.
+@p 0106L27..0106L34 + 0107L01..0107L04
+Batt. again uses the formula in the form $\sin DN = \dfrac{\sin\varphi\cdot\sin\delta}{\cos\varphi\cdot\cos\delta}$, whereas Kh., curiously, determines tg *φ* with the help of the gnomon, or takes it from the table of shadows (the table of cotangents)[^74.4]; but he does not multiply this tg *φ* by tg *δ*, but, in the various cases, by certain factors whose origin is not really clear and which also give only approximate results. Kh. first gives the rule for determining the *ascensio obliqua* for the whole sign of Aries; he says: multiply the noon shadow of the sun, when it is in the 1st degree of Aries (really the 0th), by 114 and divide the product by 115, and you have (in degrees) what must be subtracted from, or added to, the right ascension to obtain the *ascensio obliqua*. We give below the computation for *al-Raqqa* (geogr. latitude = 36°) by this rule:
+@c 0107L05
+cot 54° = tg 36° = 8$^{p}$ 44′ (by Table 60); 8$^{p}$ 44′ · $\tfrac{114}{115}$ = 8$^{p}$ 39′;
+@p 0107L06..0107L11
+Kh. puts this = 8° 39′ and subtracts it from the right ascension of 30° of Aries, which by Table 59 is = 117° 50′ − 90° = 27° 50′; this gives the *ascensio obliqua* of the sign of Aries for *al-Raqqa* = 19° 11′. By the tables of Batt. one obtains 19° 21′; Ptol. (l. c.) has 19° 12′, since he takes about the same obliquity of the ecliptic as Kh. If one computes *DN* by Batt.'s formula, but with Kh.'s values, one obtains 8° 37$\tfrac{1}{2}$′; the factor $\tfrac{114}{115}$ is therefore a little too large.
+@p 0107L12..0107L17
+If one were to compute sin *DN* entirely with Kh.'s table of cotangents, one would first find in Table 21 the declination of 30° of Aries = 11° 39′ 50″ = 11° 40′, to which belongs in Table 60 the tangent 2$^{p}$ 28′, and one would then have sin *DN* = 8$^{p}$ 44′ · 2$^{p}$ 28′; but since the tangents are computed for the gnomon 12 and the sines for the radius 60, this must be divided by 144 and multiplied by 60, which gives:
+@c 0107L18
+$\sin DN = \dfrac{8^{p}\,44'\cdot 2^{p}\,28'\cdot 60}{144} = 8^{p}\,44'\cdot\dfrac{148}{144} = 8^{p}\,59'$;
+@p 0107L19..0107L23
+to this sine there belongs in Table 58 the angle 8° 37′. To obtain the sine, then, one must multiply 8$^{p}$ 44′ by the factor $\tfrac{148}{144}$; to obtain the angle at once, Kh. multiplies 8$^{p}$ 44′ by the factor $\tfrac{114}{115}$; whether and how this was obtained from the former can hardly be found out; in our view it was found empirically.
+@p 0107L24..0107L27
+If one wants the ascensional difference for only a certain part of the sign, one simply takes the corresponding part of the factor, for example, for 15°, only $\tfrac{57}{115}$; this then gives the value 4° 19$\tfrac{1}{2}$′ for the arc *DN*, and so the value 9° 26$\tfrac{1}{2}$′ for the *ascensio obliqua* of 15° of Aries (Batt. has 9° 28′).
+@p 0107L28..0107L33
+For the sign of Taurus Kh. has the factor $\tfrac{113}{116}$; there is certainly an error here: the ascensional difference becomes too great; a better value would be $\tfrac{103}{126}$. — For the sign of Gemini Kh. gives the factor $\tfrac{1}{3}$, which is fairly good: with this factor one obtains for the *ascensio obliqua* of this sign the value 29° 21′, while Batt. has 29° 17′. — In the *Sūrya-Siddhānta* we find nothing of these factors, but in verses 60 and 61 of chapter 2[^75.1] the rule
+@c 0107L34
+$\sin\text{ascens.-diff.} = \dfrac{\sin\delta\cdot\mathrm{tg}\,\varphi\cdot 60}{12\cdot\cos\delta}$,
+@p 0107L35
+which agrees with Batt.'s formula given above.
+@p 0108L01..0108L06
+The same factor that is used for Aries also gives the ascensional difference for Pisces, Virgo and Libra; the factor for Taurus also that for Aquarius, Leo and Scorpio; and the factor for Gemini also that for Capricorn, Cancer and Sagittarius. For Virgo, Libra, Leo, Scorpio, Cancer and Sagittarius, however, the ascensional difference must be added to the right ascension.
+@p 0108L07..0108L17
+In Ms. O there is (in our text p. 21) a second rule for determining the *ascensio obliqua*, which I have designated chapter 26$^{a}$, since it belongs to chapter 26 but is inserted at a later place. It agrees with the first in saying that one first determines tg *φ* (the equinoctial shadow); but then it does not multiply this by the factors named above, but refers to a table *differentiarum* (of differences), which is missing, however, in O as well as in C and N, and in which one would find for any degree of the ecliptic the quantity by which tg *φ* must be multiplied to obtain the sine of the ascensional difference; this table must therefore have contained the values of tg *δ* · $\tfrac{60}{144}$ for all the degrees of the ecliptic, and it would in any case have given more exact values than one obtains with the factors above.
+@h 0108L18..0108L19
+Chapter 27. Determination of the size of the seasonal hour[^76.1] of any day for any place
+@c 0108L20
+(Text pp. 20–21.)
+@p 0108L21..0108L25
+For this our work has the short rule: “Divide the day arc of the sun by 12, and you have what is sought.” This, to be sure, is only the length of a seasonal hour in degrees; to convert it into time one has, as is well known, the relations 15° = 1$^{h}$, 15′ = 1$^{m}$, 15″ = 1$^{s}$. But how the day arc is to be determined our tables give no information.[^76.2]
+@h 0108L26..0108L27
+Chapters 28–28$^{b}$. How the two shadows are determined from the altitude of the sun, and conversely[^76.3]
+@c 0108L28
+(Text pp. 21–22, Table 60.)
+@p 0108L29..0108L33
+Bjørnbo too has already spoken about this chapter in the paper cited above (p. 68). The radius (*gnomon*) is thus taken = 12$^{p}$; as is well known, it was only Ḥabash[^76.4], a contemporary of Batt., who computed the cotangents for the radius 60, and this probably after the appearance of Batt.'s tables, since otherwise Batt. would surely have used these tables.
+@f 74.1 0106N01
+Ibid., II, 65–71.
+@f 74.2 0106N02
+Ibid., II, 27 and 187–189.
+@f 74.3 0106N03
+Ed. Heiberg, I, 121 ff.; translation by K. Manitius, I, 83–85.
+@f 74.4 0106N04..0106N06
+The shadows, especially the equinoctial shadow (= tg *φ*), occur already in the *Sūrya-Siddhānta*, though it has no table of them: each time the sine is divided by the cosine, or the shadow is determined separately for each case with the help of the gnomon.
+@f 75.1 0107N01..0107N02
+*Transl.* Burgess, pp. 232–233. The same rule is also found in the *Pañcasiddhāntikā*, ed. G. Thibaut, p. 27 of the translation.
+@f 76.1 0108N01..0108N03
+As is well known, the Greeks, and then the Arabs too, distinguished seasonal and equinoctial hours; the former were the twelfth part of the day arc, and so unequal according to the geographical latitude and the season; the latter are our present equal hours.
+@f 76.2 0108N04
+See Batt., ed. Nallino, I, 28–29.
+@f 76.3 0108N05
+These chapters, and the table, are missing in N.
+@f 76.4 0108N06
+See *Abhandlgn. z. Gesch. d. mathem. Wissensch.* X, 1900, p. 12.

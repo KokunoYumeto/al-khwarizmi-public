@@ -1,0 +1,80 @@
+@unit K04
+@t spec=lcl 0073L01..0073L04
+Batt. p. 303 | = | Kh. Table 2$^{b}$
+Batt. pp. 304–305 | = | Kh. Table 3 (but here only the *anni Romanorum* // are taken in, not the *anni Coptorum* // and *Persarum* (see the introduction))
+@h 0073L05
+Chapter 6. On the division of the sphere
+@c 0073L06
+(Text p. 7.)
+@p 0073L07
+This short chapter needs no commentary.
+@h 0073L08
+Chapter 7. On the mean motion of the planets
+@c 0073L09
+(Text pp. 7–9, Tables 4–20.)
+@p 0073L10..0073L22
+This chapter with its tables holds a principal place in every astronomical work of the Greeks and the Arabs. With its help one computes the mean places of the sun, the moon and the five planets: first, with the column headed *anni collecti*, the places for every 30 years, then for the *anni plani* or *singuli*, then for the months, the days and the hours, and even for every 2 minutes; for each of these seven heavenly bodies, then, one can determine its mean longitude, that is, its distance from the vernal point, for any moment of time, down to two minutes. Since the position of the nodes of the lunar orbit was important for determining the latitude of the moon, and for astrology as well, the mean motion of the northern or ascending node of the moon (Arab. *al-ʿaqd al-shamālī*) is given besides those of the sun, the moon and the five planets. In our tables it is designated by the Persian-Arabic word *gavzehar* (= *jawzahar*), in Latin by *draco* (*caput draconis* = the dragon's head would be better).
+@p 0073L23..0073L26
+In Batt. the mean motion is called *al-masīr al-wasaṭ* (= the mean course), or just *al-wasaṭ* (the mean), or even just *al-masīr* (course, path, journey); in our tables there stands partly the Arabic *wasaṭ*, written *wazat* and *wacat*, partly *medialitas* or *mediocritas*, partly *medius cursus*.
+@p 0073L27..0073L30
+The mean place is given in each case in signs of the zodiac (*Signa*), degrees, minutes and seconds; Batt. has converted the signs into degrees, and he neglects the seconds for the five planets, while he gives them for the sun and the moon.
+@p 0073L31..0073L38 + 0074L01..0074L07
+The *radix* entered at the beginning of the *anni collecti* gives, as was remarked above, the longitude of the planets at noon of 1 *Muḥarram* of the year 1 AH for the meridian of *Ujjain*; but even if one takes into account the difference in longitude between *Ujjain* (c. 75° 52′ from Greenwich) and *Raqqa* (c. 39° 4′ from Greenwich), the radix still does not agree with that of Batt. Our tables have, for example, the radix 113° 25′ 48″ for the sun, Batt. 113° 58′ 4″; at the beginning of the year 511 AH the difference amounts to c. 9° 15′; these are surely the 9° of which Ibn Ezra speaks in the preface to the translation of the *Reasons of the tables* of al-Khwārizmī[^41.1]. In the longitudes of the planets too we find this difference of 8$\tfrac{1}{2}$ to 9$\tfrac{1}{2}$° again, except for Mars, where the difference is 11$\tfrac{1}{2}$°; there are probably copyists' errors here. These differences come from the neglect of the *precession* of the vernal point: indeed Kh., unlike Batt., took as the basis for determining the mean course of the sun the *sidereal* year and not the *tropical* year; for when we determine from Tables 4 and 5 the time the sun needs to run through a whole circle (= 360°), we find:
+@t spec=rrrr 0074L08..0074L12
+in 12 · 30 = | 360 days | = 12 · (29° 34′ 5″) = | 354° 49′
+in | 5 days | = | 4° 55′ 41″
+in | 6 hours | = | 14′ 47″
+in | 13 min. | = | 32″
+so in | 365$^{d}$ 6$^{h}$ 13$^{m}$ | = | 360° 0′ 0″
+@p 0074L13..0074L20
+Kh., then, took the length of the sidereal year as 365$^{d}$ 6$^{h}$ 13$^{m}$; in the *Sūrya-Siddhānta*[^42.1] we find for the length of the sidereal year 365$^{d}$ 6$^{h}$ 12.6$^{m}$, which agrees roughly with our computation[^42.2]. — Kh. does not mention the tropical year at all in his work, and it seems indeed that the Indians too, up to and including Brahmagupta, did not know it. What is said in the *Sūrya-Siddhānta*[^42.3] about the precession is, according to Burgess and Thibaut[^42.4], a later interpolation; on the other hand Āryabhaṭa, at the end of the fifth century AD, did teach the *trepidation* of the fixed stars, or of the vernal point.
+@p 0074L21..0074L22
+As examples of the use of the tables we give the computation of the mean place of the sun and of the moon for noon of *15 Ṣafar* of the year 540 AH.
+@t spec=llcr 0074L23..0074L27
+*1. Sun*: | longitude at the end of the 510th year | = | 38° 35′ 45″
+| increase in 29 years | = | 49° 2′ 50″
+| increase in 1 month | = | 29° 34′ 5″
+| increase in 14 days | = | 13° 47′ 54″
+| sum | = | 131° 0′ 34″
+@p 0074L28
+So the mean longitude of the sun at the time named was 131° 0′ 34″.
+@t spec=llcr 0074L29..0074L33
+*2. Moon*: | longitude at the end of the 510th year | = | 40° 56′ 38″
+| increase in 29 years | = | 53° 24′ 16″
+| increase in 1 month | = | 35° 17′ 26″
+| increase in 14 days | = | 184° 28′ 8″
+| sum: | = | 314° 6′ 28″
+@p 0074L34
+So the mean longitude of the moon at the time named was 314° 6′ 28″.
+@p 0075L01..0075L03
+At the end of the rule the text remarks how one is to proceed when the place for which one wants to determine the mean longitude of a planet lies east or west of *Arin*.
+@p 0075L04..0075L08
+At the end of the chapter there is an addition, which in C and O stands only in the margin, but in M in the text, and which speaks of the relation of degrees and miles: it is stated that on the earth 66$\tfrac{2}{3}$ miles go to one degree, so that the circumference of the earth is 24000 miles; at the beginning it is remarked that according to the Chaldeans 4000 camel's paces make a mile.
+@p 0075L09..0075L13
+This mile, of which 66$\tfrac{2}{3}$ are said to go to a degree, is the mile of 4000 cubits (*dhirāʿ*), the cubit of 24 fingers (*aṣbaʿ* or *iṣbaʿ*), which the Arab geographers and astronomers commonly used in their data; according to Nallino[^43.1] such a mile was c. 1973 m. After the measurement of a degree under al-Maʾmūn the better value of 56$\tfrac{2}{3}$ miles = 1° came into use beside this one.
+@p 0075L14..0075L22
+M. Chasles[^43.2] concludes from the above passage that the *Chaldeans* (Babylonians) already knew the nearly correct circumference of the earth. We do not want to dispute this absolutely; but, first, the statement that a mile of c. 2000 metres takes 4000 camel's paces is already somewhat suspicious, and, secondly, by *Caldei* the *Arabs* are most probably meant here, for we hold this passage to be an interpolation of the translator or of copyists: on p. 11 of the text the word *Caldei* occurs once more, in a passage that is undoubtedly an interpolation, and there it certainly designates the Arabs; and Ms. O has in fact “arabice” instead of “a Caldeis”.
+@h 0075L23
+Chapter 8. On finding the (true) place of the sun
+@c 0075L24
+(Text pp. 9–10, Tables 21–26.)
+@p 0075L25..0075L32
+To determine the true place of the sun from the mean one, one must, according to the precept of this chapter, subtract from the mean longitude of the sun the longitude of its *apogee*, which in these tables is taken as 77° 55′[^43.3]; this gives the so-called *anomaly* of the sun. With this as the argument one looks up in Tables 21–26 the so-called *equation* of the sun; this equation must be subtracted from the mean longitude of the sun, or added to it, according as the anomaly is less or greater than 180°; the result gives the *true longitude* of the sun.
+@p 0075L33..0075L34
+*Example*: In the preceding chapter we found the mean longitude of the sun for noon of *15 Ṣafar* of the year 540 AH = 131° 0′ 34″. If we subtract from it the
+@f 41.1 0073N01..0073N02
+See Steinschneider, *Zur Geschichte der Übersetzungen aus dem Indischen ins Arabische*, in Zeitschr. d. deutschen morgenländ. Gesellsch., vol. 24, p. 355.
+@f 42.1 0074N01..0074N02
+E. Burgess, *Translation of the S. S.*, in the Journal of the American Oriental Society, Vol. VI, 1860, p. 161.
+@f 42.2 0074N03
+See below, chapters 21 and 22.
+@f 42.3 0074N04
+Transl. Burgess, l. c., pp. 244–249.
+@f 42.4 0074N05..0074N06
+*Astronomie, Astrologie u. Mathematik*, in the Grundriss der Indo-Arischen Philologie u. Altertumskunde, vol. 3, part 9, pp. 45–46.
+@f 43.1 0075N01..0075N02
+*Il valore metrico del grado di meridiano secondo i geografi arabi*, in the Cosmos di Guido Cora, Vol. XI, 1892–93, fascic. I–IV, and *Estratto*, Turin, 1893.
+@f 43.2 0075N03..0075N04
+*Recherches sur l’astronomie ancienne*, in Comptes-rendus de l’Académie des Sciences, t. XXIII, Paris, 1846, p. 851.
+@f 43.3 0075N05..0075N08
+When the numbers are expressed by Arabic letters, this number can easily be confused with 77° 15′, and the value would then agree with that of the later redaction of the *Sūrya-Siddhānta* and of the Arabic *Sindhind* (according to the testimony of Ibn Hibintā) (see Batt., ed. Nallino, I, 218).

@@ -1,0 +1,69 @@
+@unit G04
+@e+ 0281L01..0281L02
+33, 52, etc.; see also the index of names and subjects, under “Tafeln” (tables).
+@e 0281L03
+*Zīg* see *Zich*.
+@e 0281L04..0281L05
+*Ẓill*, shadow, the trigonometric function of the *tangent* and the *cotangent*, 77; see also *Dhel*.
+@e 0281L06..0281L07
+*Zohal* = *Zuḥal*, the planet Saturn, T. 9, 10, 27–32.
+@e 0281L08..0281L09
+*Zohara* = *Zuhara*, the planet Venus, XXII, T. 45, 47, 49, 50.
+@e 0281L10..0281L11
+*Zohari* = *zuharī*, belonging to Venus, T. 15, 16.
+@e 0281L12..0281L16
+*Zukut* = *suḳūṭ*, (the) falling, falling in; in astronomy the phase of an eclipse from its beginning to the totality, rendered in this work by *casus*, elsewhere by *immersio*, 26, 27, 87, T. 73, 78.
+@e 0281L17
+*Zukuz* see *Zukut*.
+@c 0281L18
+II. Egyptian (Coptic) names of the months (Tab. 2$^{b}$).
+@p 0281L19..0281L21
+(The Coptic names of the months are taken in these tables from the Upper Egyptian (Theban) dialect; in parentheses I have also added the forms of the Lower Egyptian (Memphitic) dialect.)
+@t spec=rlll 0281L22..0281L33
+1. | Tut = thowt (thōwt) | Greek | θώθ
+2. | Beba = paape (paopi) | — | φαωφί
+3. | Hettur = hatōr (athōr) | — | ἀθύρ
+4. | Keihec = kiakh (khoiak) | — | χοιάκ
+5. | Tuba = tōbe (tōbi) | — | τυβί
+6. | Amushir = $^{e}$mshir (mekhir) | — | μεχίρ
+7. | Burimihez = parmhāt (phamenōth) | — | φαμενώθ
+8. | Burmuda = parmūte (pharmūthi) | — | φαρμουθί
+9. | Besenz = pashons (pakhōn) | — | παχών
+10. | Buba = paōne (paōni) | — | παϋνί
+11. | Abib = epep (epēp) | — | ἐπιφί
+12. | Muzre = mesōrē (mesōrē) | — | μεσορή
+@c 0281L34
+III. Persian names of the months (Tab. 2$^{a}$).
+@c 0281L35
+(*māh* = month)
+@t spec=rll 0281L36..0281L47
+1. | Affrordinme | = Farwardīn-māh.
+2. | Azdihestme | = Ardībihist-māh.[^n]
+3. | Chordezme | = Khurdādh-māh.
+4. | Tiierme | = Tīr-māh.
+5. | Merdezme | = Murdādh-māh.
+6. | Shaharirme | = Shahrīwar-māh.
+7. | Meherime | = Mihr-māh.
+8. | Abenme | = Ābān-māh.
+9. | Adarme | = Ādhar-māh.
+10. | Dime | = Dai-māh.
+11. | Bahamanme | = Bahman-māh.
+12. | Izfindarme | = Isfandārmadh-māh.
+@n So the print; the name of the second Persian month is Ardībihisht.
+@c 0282L01
+IV. Syrian (Seleucid) names of the months (Tab. 3$^{a}$).
+@c 0282L02
+(*Nomina mensium Romanorum*, the names of the months of the Romans)
+@t spec=rllll 0282L03..0282L14
+1. | Tisrin elawel | = Teshrīn q$^{e}$dīm (I.) | = October | (of the Julian year).
+2. | Tisrin elachir | = Teshrīn ḥ$^{e}$rai (II.) | = November | ( — — ).
+3. | Keinun elawel | = Kānūn q$^{e}$dīm (I.) | = December | ( — — ).
+4. | Keinun elachir | = Kānūn ḥ$^{e}$rai (II.) | = Januarius | ( — — ).
+5. | Sabat | = Sh$^{e}$bāṭ | = Februarius | ( — — ).
+6. | Adar | = Ādār | = Martius | ( — — ).
+7. | Nizan | = Nīsān | = Aprilis | ( — — ).
+8. | Iiar (Iyar) | = Iyār | = Maius | ( — — ).
+9. | Heziren | = Ḥ$^{e}$zīrān | = Junius | ( — — ).
+10. | Temuz | = Tāmūz | = Julius | ( — — ).
+11. | Ab | = Āb | = Augustus | ( — — ).
+12. | Elul | = Īlūl | = September | ( — — ).

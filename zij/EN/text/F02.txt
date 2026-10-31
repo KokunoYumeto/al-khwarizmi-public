@@ -1,0 +1,44 @@
+@unit F02
+@h 0009L01
+Foreword
+@p 0009L02..0009L23
+The edition of these astronomical tables was begun about five years ago by the eminent Danish scholar A. Bjørnbo, who unhappily died too early. After his death in October 1911 his manuscript was handed over to me by the Royal Danish Academy of Sciences, when I had declared myself ready to finish the work that A. Bjørnbo had begun. This manuscript contained the text of the work with the readings that had resulted from the collation of three manuscripts (*Oxford*, *Chartres* and *Paris*), likewise the tables with the readings of these manuscripts, and also the rendering into Latin of most of the Arabic terms that occur in them by the meritorious Danish Arabist Dr. R. Besthorn of Copenhagen. Shortly before his death A. Bjørnbo had learned that a fourth manuscript of this translation of Adelard's existed in the National Library at *Madrid*. So my task was, first, to bring this manuscript too into the collation; secondly, I had to have the manuscript of *Chartres* sent once more for revision, since on several leaves of his manuscript A. Bjørnbo had noted that a further collation with it was needed; thirdly, it was necessary to work out a commentary on the short and often hardly intelligible text, and to add to the work an introduction, a glossary and an index of names and subjects. At the end of July 1913 I submitted my work to the Royal Danish Academy of Sciences for examination; in December of the same year the Academy resolved to publish it in its *Skrifter*, for which I here express my sincere thanks.
+@p 0010L01..0010L08
+I am likewise indebted to Professors Dr. D. Andersen in Copenhagen and Dr. G. Billeter in Zürich for the kind help they gave me with the proofs. Unhappily my thanks to a third scholar no longer find him among the living: Mr. C. F. Pechüle, observer at the Royal Observatory in Copenhagen, who died in May of this year, drew my attention to some points in the commentary that called for a somewhat different interpretation and presentation; I have taken his remarks into account in Addition 1).
+@p 0010L09..0010L13
+The undersigned hopes that the publication of this work may help to advance the knowledge of the older Arabic astronomy, and in particular to make easier the understanding of the astronomical tables of the western Middle Ages, which very probably are based for the most part on this translation of Adelard's.
+@p 0010L14
+Küsnacht, near Zürich, July 1914.
+@r 0010L15
+*H. Suter.*
+@h 0011L01
+Introduction
+@p 0011L02..0011L17
+As early as 1846 the eminent French scholar M. Chasles, in an article in the *Comptes rendus de l’Académie des Sciences*[^VII.1], drew attention to the importance of Adelard's translation of the tables of al-Khwārizmī for the history of astronomy. But he did not study the work closely, since he did not intend to edit it, and for this reason most of the conclusions that he drew from his study no longer stand up to criticism today. For Chasles did not yet know at that time that several Arabic authors ascribe to the Spanish-Arab mathematician and astronomer Maslama al-Majrīṭī[^VII.2] a recension, or better a reworking, of al-Khwārizmī's tables. This reworking consisted chiefly, as the Arabic biographers Ibn al-Qifṭī and Ibn Abī Uṣaybiʿa report after the Qāḍī Ibn Ṣāʿid[^VII.3], in the conversion of the tables, which had been made for the *era* of Yazdegerd, into tables based on the Muslim *era*; and also, as some passages of the text and some tables prove, in the partial replacement of the meridian of *Arin*, which al-Khwārizmī had taken as his basis, by that of *Córdoba*, where al-Majrīṭī lived.
+@p 0011L18..0011L26 + 0012L01..0012L11
+From these very passages of the text and tables (see also the commentary) it follows with almost absolute certainty that in this translation of Adelard's[^VII.4][^n] we have before us the translation not of al-Khwārizmī's original astronomical work but of its reworking by Maslama al-Majrīṭī. As far as I know, C. H. Haskins was the first to point to this fact, in his paper on *Adelard of Bath*[^VII.5]; whether A. Bjørnbo recognised it too does not appear from the papers he left, but it is not likely, for otherwise he would surely have drawn attention to it in his paper *Al-Chwarizmi’s trigonometriske Tavler*[^VII.6]. From this it naturally follows that we must be very cautious with regard to the conclusions that have been drawn, and may yet be drawn, from this work about the dependence of the older Arabic astronomy on the Indian; for it is very difficult, indeed in most cases impossible, to decide what in the present work still comes from al-Khwārizmī and what is to be ascribed to Maslama. But the work does not by any means lose interest on that account: for, first, the main part of the original work will probably still be present in the recension, and secondly, whatever influence this work had on the astronomy of the western Middle Ages is in any case due to this recension by the Spanish-Arab astronomer, since the original work very probably never became known in the Christian West.
+@n Suter writes Athelhard; the translation uses the usual English form of the name, Adelard.
+@p 0012L12..0012L15
+Before we come to the discussion of the manuscripts on which this edition is based, it will be in place to add a few short biographical notes on the Arab scholars who are chiefly concerned here; for further material I refer to my work cited above (p. VII).
+@p 0012L16..0012L34
+1. Muḥammad b. Mūsā al-Khwārizmī (also written al-Khuwārizmī) Abū ʿAbdallāh[^VIII.1] was one of the astronomers in the service of al-Maʾmūn (who reigned as caliph from 813 to 833); he was a Persian by descent; the years of his birth and of his death are not known. At al-Maʾmūn's command he composed an abridgement of an Indian *Siddhānta* (= astronomical work, system), which Ibrāhīm (according to others Muḥ. b. Ibrāhīm) al-Fazārī had translated from the Indian into Arabic and which the Arabs called “the *great Sindhind*”; the abridgement was then called, in contrast to it, “the *small Sindhind*”. He likewise composed astronomical tables (*zīj*) based on this Indian *Siddhānta*, which are said to have appeared in two editions.[^VIII.2] In them he determined the mean places of the planets for the Persian *era* of Yazdegerd and for the meridian of *Arin* (see the commentary). These tables, then, no longer exist; but their reworking by Maslama al-Majrīṭī does, in the Latin translation of Adelard of Bath. — He further composed a book on *Indian reckoning*, which no longer exists in Arabic either and was edited in a Latin translation (the translator has not been established) by B. Boncompagni[^VIII.3]; one on *algebra* (*fī l-jabr wa-l-muqābala*), translated into Latin by Gerard of Cremona and Robert of Chester (*Cestrensis*), edited in Arabic with an English translation by F. Rosen[^VIII.4]; a *Geography*
+@f VII.1 0011N01
+Vol. XXIII, p. 848 ff.
+@f VII.2 0011N02..0011N03
+See H. Suter, *Die Mathematiker u. Astronomen der Araber*, etc., in Abhandlungen zur Geschichte der mathem. Wissensch., X (1900), pp. 76–77.
+@f VII.3 0011N04
+Ibid., pp. 106–107.
+@f VII.4 0011N05
+Also written Adhelhard, Adelhard, Adelard, etc.
+@f VII.5 0011N06
+In *The English Historical Review*, July 1911, p. 493.
+@f VII.6 0011N07
+In the *Festskrift til H. G. Zeuthen*, København 1909.
+@f VIII.1 0012N01..0012N04
+*Abū Jaʿfar* is also given as his by-name (*kunya*), but I take *Abū ʿAbdallāh* to be the right one; the former has probably arisen from a confusion of our astronomer with Muḥ. b. Mūsā b. Shākir (d. 873), who lived somewhat later and bore this by-name.
+@f VIII.2 0012N05..0012N07
+The sources do not quite agree here; according to others it would also be possible that these tables were themselves the abridgement of the great *Sindhind*; the question can no longer be decided.
+@f VIII.3 0012N08
+*Trattati d’aritmetica*, I, Rome, 1857.
+@f VIII.4 0012N09
+*Algebra of Mohammed ben Musa, edited and translated* by Frederic Rosen, London, 1831.

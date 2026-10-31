@@ -1,0 +1,203 @@
+@unit G01
+@part 0273L01..0273L03
+Glossary and index of names and subjects
+@h 0275L01
+Glossary[^n]
+@n The Arabic forms keep Suter's transcription, explained in the introduction (p. XXV); his *dj* is the *j* and his *ḳ* the *q* of the transliteration used elsewhere in this translation. The meanings are translated into English.
+@c 0275L02
+I. Arabic (and some Persian) words
+@c 0275L03
+**A.**
+@e 0275L04
+*Aakrab* see *Akrab*.
+@e 0275L05..0275L08
+*Aalemet* = *ʿalāmāt* (pl. of *ʿalāma*) *Notulae*, signs, marks, signatures, here the numbers of the days of the week (1 . . . 7 = Sunday to Saturday), T. 69.
+@e 0275L09
+*Aard* see *Ard*.
+@e 0275L10..0275L11
+*Abaad* = *abʿad*, farther away (*longinquior*), T. 73, 74.
+@e 0275L12
+*Achir* = *ākhir*, (the) last, second, T. 2, 3 etc.
+@e 0275L13..0275L15
+*Acofra* = *aṣ-ṣufr* (*Ta’rīkh aṣ-ṣufr*), the Spanish era, also called simply the era (in the text *Era*), 3, 35, T. 1.
+@e 0275L16
+*Acrab* see *Akrab*.
+@e 0275L17..0275L19
+*Aded* and *Adet* = *ʿadad*, number, T. 21 etc.; perhaps it sometimes also means the plural *aʿdād*.
+@e 0275L20
+*Adel* (?) T. 10.
+@e 0275L21
+*Adhel* = *al-dhel*, see *Dhel*.
+@e 0275L22
+*Aguze* = *adjzā’* (pl. of *djuz*), parts, T. 73.
+@e 0275L23..0275L24
+*Ahemar* = *aḥmar*, red, here also the name of the planet Mars, besides *Mirrīkh*, T. 39–42.
+@e 0275L25
+*Ajuze* see *Aguze*.
+@e 0275L26..0275L28
+*ʿAḳd*, node (of the orbits of the planets); *ʿaḳd al-shamālī*, the northern node (of the orbit of the moon) 41.
+@e 0275L29..0275L31
+*Akrab*, 1) = *aḳrab*, nearer (*propinquior*) T. 75, 76; 2) = *ʿaḳrab*, scorpion (the 8th sign of the zodiac) T. 59$^{b}$.
+@e 0275L32..0275L33
+*Anāhīd*, Persian name of the planet Venus, XXII, T. 45.
+@e 0275L34
+*Arafa* (?) 15 (N. 20).
+@e 0275L35..0275L36
+*Ard* = *ʿarḍ*, latitude of a heavenly body, or geographical latitude of a place, 19 (N. 1), T. 22, 79.
+@e 0275L37
+*Arhik* T. 15 (N. 7) see *Achir*.
+@e 0275L38..0275L39
+*Arin* = *Uzain* = *Udjain*, VII, XVIII, 1, 8, 19, 33, etc.
+@e 0275L40..0275L41
+*Artifa* = *irtifāʿ*, altitude (of a heavenly body), 18, 21, 22, etc. T. 60.
+@e 0275L42
+*Aṣbaʿ*, finger, inch, an Arabic measure of length, 43.
+@e 0275L43
+*Asceir* see *Sceir*.
+@e 0275L44
+*Ascowa* see *Shoa*.
+@e 0275L45
+*Ashoa* see *Shoa*.
+@e 0275L46..0275L47
+*Asmir* = *as-sair*, or *al-masīr*, the course, the path (of a heavenly body), XXI, T. 9.
+@e 0275L48..0275L49
+*Athofen* = *aṭ-ṭūfān*, the Flood (*diluvium*) 5, 35, T. 1.
+@e 0275L50
+*Aub*, corrupted from *Aug*; see this.
+@e 0275L51..0275L52
+*Audel*, probably corrupted from *ʿarḍ el*, latitude of the . . .[^n] T. 10.
+@n Suter writes «Breite des . . ., oder Breite der . . .», with the German article of the genitive in its two forms.
+@e 0275L53..0275L56
+*Aug* = *audj* (*awdj*), *apogeum* = the greatest distance of a planet from the earth, 9, 10, 14; *aug el-musteri muadala* = the corrected apogee of Jupiter, T. 36; see also *Muadala*.
+@e 0275L57
+*Autarid* see *Otari[d]*.
+@e 0275L58
+*Avvel* see *Awel*.
+@e 0275L59
+*Avtarid* see *Otari[d]*.
+@e 0275L60
+*Awel* = *awwel*, (the) first, T. 2, 3, etc.
+@e 0275L61..0275L64
+*Azabaa* = *aṣābiʿ* (pl. of *aṣbaʿ*), fingers (*digiti*), the measure for the diameter of the sun and the moon, also for the earth's shadow in eclipses of the moon, T. 73.
+@e 0275L65
+*Azofar* see *Acofra*.
+@c 0275L66
+**B.**
+@e 0275L67
+*Bāb*, gate, chapter, 58.
+@e 0275L68..0275L69
+*Baheram* and *Bahram* = *Bahrām*, Persian name for the planet Mars, XXII, T. 39–42.
+@e 0275L70..0275L71
+*Batiae*, probably the feminine of *baṭī’* = *baṭī’a*, slow, T. 24.
+@e 0275L72
+*Bei ed halt* see the following.
+@e 0275L73..0275L74
+*Beied hakht* = *Bēdukht*, Persian name for the planet Venus, XXII, T. 45.
+@e 0276L01..0276L02
+*Bergis* = *Birdjis*, Persian name for the planet Jupiter, T. 33, 36.
+@e 0276L03..0276L05
+*Bi*, joined with the article *bil*, Arabic preposition, in, on, with, for example *bilfelek*, in (or on) the sphere (see *felek*).
+@e 0276L06
+*Bhukti* (Sanskrit) enjoyment, pleasure, 78.
+@e 0276L07
+*Bood* = *buʿd*, distance, T. 73.
+@e 0276L08..0276L10
+*Buht* (Persian), in astronomy the true (unequal) daily motion of the sun, the moon and the five planets, 22, 78, 90.
+@e 0276L11..0276L12
+*Buiut* = *buyūt* (pl. of *bait*), houses, especially the twelve astrological houses, 25, T. 79.
+@e 0276L13..0276L15
+*Burug* = *burūdj* (pl. of *burdj*), castles, houses, especially the twelve signs (houses) of the zodiac, 11 (N. 40), 18 (N. 23), T. 79.
+@e 0276L16
+*Buruga* see *Burug*.
+@e 0276L17
+*Burus* see *Burug*.
+@c 0276L18
+**C.**
+@e 0276L19..0276L20
+*Caat* = *sāʿāt* (pl. of *sāʿa*), hours, perhaps also the singular, T. 5.
+@e 0276L21..0276L22
+*Caratan* = *saraṭān*, crab, here the sign of the Crab in the zodiac, T. 59$^{a}$.
+@e 0276L23
+*Care* = *sarīʿ*, fast, T. 24.
+@e 0276L24
+*Carne* (?) T. 9.
+@e 0276L25
+*Carneli* (?) T. 13.
+@e 0276L26..0276L29
+*Catar* = *saṭar* or *saṭr*, line, row, column, XIV; pl. *cotor* = *suṭūr*; *catar eladed* = *saṭar al-ʿadad*, column of the number, T. 21, 22, 25–30, 32, etc.
+@e 0276L30
+*Catur* see *Catar*.
+@e 0276L31..0276L33
+*Cauz* = *ḳaus* (*ḳaws*), arc (of a circle), also the sign of the Archer in the zodiac, T. 59$^{b}$.
+@e 0276L34
+*Cavsc* see *Cauz*.
+@e 0276L35
+*Ciicuth* see *Zukut*.
+@e 0276L36
+*Ciikuf* see *Zukut*.
+@e 0276L37..0276L38
+*Cotoreladet* = *suṭūr al-ʿadad*, columns of the number, 27 (N. 16); see also *Catar*.
+@e 0276L39
+*Cukut* see *Zukut*.
+@e 0276L40..0276L41
+*Cumbula* = *sumbula*, ear of corn, here the sign of the Virgin in the zodiac, T. 59$^{b}$.
+@e 0276L42
+*Cuzuf* see *Kucuf*.
+@c 0276L43
+**D.**
+@e 0276L44..0276L46
+*Dakaicae* = *daḳā’iḳ* (pl. of *daḳīḳa*) minutes (the 60th part of the degree or of the hour) XXIII, XXV; 3, 4, 36, etc.
+@e 0276L47
+*Dakaik* see *Dakaicae*.
+@e 0276L48
+*Dakeca* see *Dakaicae*.
+@e 0276L49..0276L50
+*Darega* = *daradja* (pl. *daradj*) degree (the 360th part of the circumference of the circle) 11 (N. 40).
+@e 0276L51..0276L52
+*Dareis*, corrupted from *daregis*, dat. plur. of *darega*; see this.
+@e 0276L53..0276L55
+*Dehi* = *dalw* (*dalu*), large jug, bucket, the sign of the Water-bearer (*Aquarius*) in the zodiac, T. 59.
+@e 0276L56
+*Delidhe* see *Thelitha*.
+@e 0276L57..0276L58
+*Dhel* = *ẓill* shadow, then the trigonometric function of the *cotangent*, T. 60.
+@e 0276L59
+*Dhirāʿ*, ell (a measure of length) 43.
+@e 0276L60..0276L61
+*Djebr*, restoration; *al-djebr wa’l-muḳābala* = algebra, VIII; see also *Muḳābala*.
+@e 0276L62..0276L64
+*Dulheia* and *Dulheiga* = *Dhū’l-ḥidjdja*, the twelfth month of the Muslims, the month of the pilgrimage, XIV, XV, 2, T. 2, 3, etc.
+@e 0276L65..0276L66
+*Dulkada* = *Dhū’l-ḳaʿda*, the eleventh month of the Muslims, XIV, XV, 2, T. 2, 3, etc.
+@e 0276L67..0276L69
+*Dulkarnain* = *Dhū’l-ḳarnain*, the two-horned (*bicornus*), the Arabs' epithet for Alexander the Great, 3, 35.
+@e 0276L70
+*Dulkeda* and *Dulkidda* see *Dulkada*.
+@c 0276L71
+**E.**
+@e 0276L72
+*Ecumbula* see *Cumbula*.
+@e 0276L73
+*Ekucufet* see *Kucufet*.
+@e 0276L74
+*Eneid* see *Anāhīd*.
+@e 0276L75
+*Etdeiard* see *Jazdeiard*.
+@e 0276L76
+*Ezdeiard* see *Jazdeiard*.
+@e 0276L77..0276L78
+*Ezed* = *asad*, lion, the sign of the Lion in the zodiac, T. 59$^{a}$.
+@e 0276L79
+*Ezeig* see *Zich*.
+@e 0276L80
+*Ezich* see *Zich*.
+@c 0276L81
+**F.**
+@e 0276L82..0276L85
+*Felek* = *falak*, sphere, vault of heaven, circular path of a heavenly body about the earth, 7, 18, 25, etc.; *felek elmustakim* see *Mustakim*; *felek eltedewir* see *Tedewir*.
+@e 0276L86
+*Feler* see *Felek*.
+@e 0276L87..0276L97
+*Fi*, joined with the article *fil* (= *fi’l*), Arabic preposition, in, on, for example *fiaard* = *fī ʿarḍ*, in latitude (with a following genitive) T. 79 (here *Cordubae* has dropped out after *fiaard*) — *filcaat* and *filacaat* = *fī’l-sāʿa*, in the hour, or *fī’l-sāʿāt*, in the hours, T. 5 — *filcinun* = *fī’l-sinīn*, in the years, T. 69 — *fil dakaik elcaat* = *fī daḳā’iḳ al-sāʿa*, in the minutes of the hour, T. 5 — *filiaum* = *fī’l-yaum*, in the day, T. 5 — *filshohor* = *fī’l-shuhūr*, in the months, T. 9 — *fil zahat* see *filcaat*.
+@e 0276L98..0276L99
+*Fudhul* = *fuḍūl* (pl. of *faḍl*), excesses, differences, 27 (N. 19), T. 73.

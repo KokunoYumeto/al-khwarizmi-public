@@ -1,0 +1,70 @@
+@unit K23
+@p 0130L01..0130L15
+By the precepts of our text (chapter 32), one has to add the length of the double night hour to the right ascension of the ascendant, which by Table 59 is = 29° 10′; this gives 65° 2′; for this right ascension one finds in the same table the longitude 3° 1′ of Pisces, and this is the beginning of house II counted from the ascendant. If one adds the amount of the double night hour once more to the right ascension 65° 2′, one obtains 100° 54′; to this belongs, in the same Table 59, the longitude 11° 54′ of Aries, and this is the beginning of house III. 35° 52′ added once more to 100° 54′ gives 136° 46′; to this belongs, in Table 59$^{a}$, the longitude 19° 19′ of Taurus, and this is the beginning of house IV. — Now one adds the length of the double day hour (= 24° 8′) to 136° 46′; this gives 160° 54′; to this belongs, in the same Table 59$^{a}$, the longitude 12° 25′ of Gemini, and this is the beginning of house V; 24° 8′ added once more to 160° 54′ gives 185° 2′; to this belongs, in the same table, the longitude 4° 36′ of Cancer, and this is the beginning of house VI; 24° 8′ added once more to 185° 2′ gives 209° 10′; to this belongs, in the same table, the longitude 27° 3′ of Cancer; this is the beginning of house VII, and it is the nadir of the ascendant, = 27° 3′ of Capricorn.
+@p 0130L16
+We therefore have the following values for the beginnings of the twelve houses:
+@t spec=cccccc 0130L17..0130L21
+! I and VII | II and VIII | III and IX | IV and X | V and XI | VI and XII
+27° 3′ | 3° 1′ | 11° 54′ | 19° 19′ | 12° 25′ | 4° 36′
+of Capricorn | of Pisces | of Aries | of Taurus | of Gemini | of Cancer
+or | or | or | or | or | or
+of Cancer | of Virgo | of Libra | of Scorpio | of Sagittarius | of Capricorn
+@p 0130L22..0130L23
+Now in our Table 88 we find, for the ascendant 27° 3′ of Capricorn, the following values for the beginnings of the twelve houses (the signs of the zodiac being left out):
+@t spec=cccccc 0130L24..0130L25
+! I and VII | II and VIII | III and IX | IV and X | V and XI | VI and XII
+27° 3′ | 3° 8′ | 12° 2′ | 19° 31′ | 12° 33′ | 4° 36′
+@p 0130L26..0130L28
+The differences range between 0′ and 12′; they may come in the first place from a different length of the temporal hour, but errors of writing in the numbers may also be the cause.
+@p 0130L29..0130L34
+For casting a horoscope at a birth etc. these tables were of great importance, and replaced laborious computations and observations that were not always possible: if one knew the mean and true places of the sun, the moon and the five planets from Tables 4–56, one could at once determine by Tables 79–90 in which of the twelve houses each of these heavenly bodies stood at the time concerned.
+@h 0130L35
+Chapter 37. On the places of the casting of the rays
+@c 0130L36
+(Text pp. 30–31, Tables 91–114.)
+@p 0130L37..0130L41 + 0131L01..0131L10
+Of as great importance in astrology as the knowledge of the distribution of the twelve houses, or of greater importance still, was the determination of the *proiectiones radiorum* (projections of the rays), that is, of those points of the ecliptic that stand 60°, 90° or 120° from a given point in the heavens, for example from a planet, or, in other words, that stand with it in *sextile*, *square* or *trine aspect*. To these three *aspects* are then added the *conjunction* and the *opposition* (the *opposite aspect*). It is characteristic that Kh. devoted the greatest space of his tables precisely to this chapter: text and tables together take up 26 pages; this illustrates better than any other considerations or investigations the fact, known already, that the whole scientific work of antiquity[^99.1] and of the Middle Ages in the field of astronomy was not an end in itself, but had only to supply the means for the needs of astrology. It is well known, moreover, that even *Regiomontanus* wrote a work of his own on a related astrological subject[^99.2], in which he likewise (Problema 31) deals with the question of determining the *place* of the *casting of the rays* (*radiatio*).
+@p 0131L11..0131L26
+For determining these places too there were various routes, for whose details I must again refer to Batt.[^99.3]. The simplest were those that neglected the latitude of the planets, that is, assumed them to lie in the ecliptic; the most obvious thing then, naturally, was to go 60° (or 90° or 120°) forwards or backwards in the ecliptic from the planet, and one had the two points (the left and the right) of the sextile aspect (or of the square or the trine aspect): this primitive route was taken, for example, by al-Qabīṣī (Alcabitius) and Abraham ibn ʿEzra[^99.4]. Others, for example the Greek astrologer Dorotheus, are said, according to Ibn Hibintā, to have measured the place of the casting of the rays not on the ecliptic but on the equator; that is, they regarded as the radius of the sextile aspect the arc of the equator that was equal to the difference: right ascension of the planet minus right ascension of [longitude of the planet ± 60°], or conversely; in this way they came to the same point of the ecliptic as those named before. — Ptol. took a somewhat more complicated route in the *Quadripartitum*[^99.5], but likewise neglected the latitude of the planets. — The first to take it into account seems to have been Batt., who set up the formula
+@m 0131L27
+\mathrm{crd.}\,x = \sqrt{R\cdot\frac{\mathrm{crd.}^{2}\,60^{\circ}-\mathrm{crd.}^{2}\,b}{\cos b}}\,,
+@p 0131L28..0131L31
+where *b* is the latitude of the planet and *x* the arc of the ecliptic that corresponds to the hypotenuse 60° (the radius of the sextile aspect); this formula already occurs implicitly in the problem of determining the distance of two stars from their latitudes and longitudes, and can, as Nallino has shown[^99.6], easily be transformed into the formula
+@m 0131L32
+\cos x = \frac{\cos 60^{\circ}}{\cos b}\,,
+@p 0131L33..0131L35
+which follows at once from the right spherical triangle *ABC*[^n] by the formula $\cos c = \cos a\cdot\cos b$, which Batt. did not yet know.
+@n Here the print has a figure at the right of the text, which is not reproduced: a right spherical triangle, with *B* at the left, *A* at the upper right and *C* below *A*; the arc from *B* to *A* is marked 60°, the short side from *A* down to *C* is marked *b*, and the arc from *B* to *C* below it is marked *x*; the right angle is at *C*.
+@p 0132L01..0132L16
+Which route, then, did Kh. take? From what Nallino[^100.1] quotes from Ibn Hibintā one would have to conclude that Kh. proceeded roughly as was reported above of Dorotheus, except that he converted the right ascension of the arc of the equator back into degrees of the ecliptic, and then took this arc of the ecliptic as the radius of the sextile aspect. But the tables before us here differ essentially, both in arrangement and in content, from Kh.'s tables as Ibn Hibintā has handed them down to us, a sample of which Nallino very kindly sent me: first, those go only from 10° to 10° of the signs, ours from 5° to 5°; secondly, they do not give in each case the whole oblique ascension[^n] counted from the vernal point, but only the oblique ascension of each sign by itself[^100.2]; the numbers for the sextile, square and trine aspects are also different. Our tables take as their basis the *ascensiones obliquae* (oblique ascensions) for the latitude of *Córdoba*, which Maslama gives as 38° 30′; Kh.'s tables for the *proiectiones radiorum* have therefore likewise been reworked for Córdoba. But now a difficult problem arises for us: the oblique ascensions agree in each case only with the numbers of the first three columns; after that they differ rather strongly. Let us give an example of this:
+@n The print has «Rectascension» (right ascension) here and in the next clause; Suter's list of misprints corrects both to «Ascensio obliqua» (oblique ascension). It leaves the footnote to this passage, whose numbers are right ascensions, as it stands.
+@p 0132L17
+Table 91, first line, has the following numbers:
+@t spec=lcccccc 0132L18..0132L23
+! Gradus | Aries | Taurus | Gemini | Cancer | Leo | Virgo
+! aequales // (equal degrees) | (Libra) | (Scorpius) | (Sagittar.) | (Capricorn.) | (Aquar.) | (Pisces)
+5° | 2° 58′ | 21° 50′ | 45° 20′ | 76° 0′ | 106° 32′ | 131° 9′
+<7> But the oblique ascensions of the first 5 degrees of each sign // are, for the latitude 38° 30′:
+| 3° 0′ | 21° 55′ | 45° 5′ | 75° 18′ | 111° 24′ | 149° 2′
+@p 0132L24..0132L29
+These deviations in the last three to four columns show themselves everywhere; where do they come from? I have not so far succeeded in explaining this, and the way in which the tables were computed is therefore still obscure to me; but from the rules of the text, very short as they are and often disfigured by the corrupt Latin translation, I have found out how one must use the tables to determine the place of the casting of the rays. I give three *examples* of this:
+@p 0132L30..0132L37
+1. To compute the place one needs in the first place the *horoscope*[^100.3], that is, the degree of the ecliptic that rises at the given time (of the computation); let it be 55° (= 25° of Taurus); in the second place the *longitude* of the planet; let it be 65° (5° of Gemini). One now first looks up in the tables the field (*area*) that corresponds to the horoscope 25° of Taurus; it is the field on Table 94 headed *Viginti quinque gradus tauri* (twenty-five degrees of Taurus); one then enters this field with the longitude of the planet, 5° of Gemini, that is, one looks for 5° in the first column and goes horizontally along to the column that is headed at the top Gemini / Sagittar.; here one finds
+@f 99.1 0131N01
+At least from Ptol. on.
+@f 99.2 0131N02
+*Tabulae directionum profectionumque*, Augsburg 1490, Tübingen 1550.
+@f 99.3 0131N03
+Ed. Nallino, I, 307–313.
+@f 99.4 0131N04
+Ibid., I, 309.
+@f 99.5 0131N05
+Ibid., I, 311.
+@f 99.6 0131N06
+Ibid., I, 307–308.
+@f 100.1 0132N01
+Ibid., I, 312.
+@f 100.2 0132N02..0132N04
+That is, for example, the right ascension of Aries, that is, of 30°, is 27° 54′, that of Aries and Taurus together, that is, of 60°, is 57° 48′; hence that of Taurus alone is equal to the difference of these numbers, that is, = 29° 54′.
+@f 100.3 0132N05
+*Horoscopus* = *ascendens* (the ascendant).

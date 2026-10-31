@@ -1,0 +1,50 @@
+@unit K13
+@p 0100L01..0100L16
+True longitude less the longitude of the dragon's head = 42° 12′[^n]. This is the *argument* for the *latitude*; to it belongs in Table 22 the *latitude* 3° 1′ 22″; this latitude, added to the difference of the longitudes found before (9° 37′[^n]), since the latitude of the moon is northern, gives in round numbers 12° 38′; this quantity is called the *distantia definita*. One now enters Table 57$^{a}$ with the true longitude of the moon, in the following way: the true longitude is expressed in signs, degrees and minutes, so in our case it is = 11$^{s}$ 2° 4′, and the moon therefore stands in the 2nd degree (of the first face)[^68.1] of Pisces. In our tables the number 9° 21′ corresponds to the column *Pisces* in the row X; but 9° 19′ should rather be taken, since the place of the moon is nearer to 30° of Aquarius than to 10° of Pisces; this, however, makes no difference here. This number (9° 21′) is less than the distance found above; the moon is thus farther from the sun than 9° 21′, and so on this evening the lunar crescent must be visible at 6 o'clock. If the number found in the tables were greater than the distance, the lunar crescent would not become visible on the evening of 29 *Shaʿbān*, and the fast would then begin only on the following evening, that is, on the evening of 1 *Ramaḍān*.
+@n Here Suter takes the sum of Tables 19 and 20 (289° 51′ 57″) itself away from the true longitude of the moon. By his own rule (pp. 55 and 59) the node stands at 360° − 289° 51′ 57″ = 70° 8′, and the argument of latitude is 332° 4′ − 70° 8′ = 261° 56′; the latitude is then about 4° 27′ south (4° 30′ × sin 81° 56′), the distantia definita by the rule of the text about 9° 37′ − 4° 27′ = 5° 10′, less than the 9° 21′ of Table 57$^{a}$, and the crescent would not have been visible that evening.
+@n The print has «9° 37″», with the sign of the seconds.
+@p 0100L17..0100L20
+The computation given holds for the meridian of *Arin*. In the last paragraph Kh. adds the remark that for a place other than Arin the difference in time must be taken into account and the longitudes of the sun and the moon corrected accordingly.
+@p 0100L21..0100L23
+The middle paragraph states how one is to proceed if one wants to know whether or not the lunar crescent will be visible on the morning of the 27th day of the month (thus one day before the conjunction); the procedure is of course analogous to the preceding one.
+@p 0100L24..0100L28
+How the numbers of Table 57$^{a}$ were found it was impossible for us to establish. Kh.'s rules also differ considerably from those of the *Sūrya-Siddhānta*[^68.2] and of the *Pañcasiddhāntikā*[^68.3]; in these two astronomical works one also finds the statement, missing in Kh., that the lunar crescent becomes visible in the west when its distance from the sun amounts to 12 or more equatorial degrees.
+@p 0100L29..0100L32
+Table 57$^{b}$ does not belong to this chapter; I have put it here to make use of the little room that 57$^{a}$ leaves free. As the reader will recognize at once, it is a multiplication table for sexagesimal parts, and so needs no further explanation; nor is it mentioned anywhere in the text.
+@h 0100L33
+Chapter 23. On finding the sine from the arc and conversely
+@c 0100L34
+(Text pp. 17–18, Tables 58 and 58$^{a}$.)
+@p 0100L35..0100L37
+On this trigonometrical chapter we have a few remarks to add to what Bjørnbo has already published about the table of sines and cotangents of this work.[^68.4]
+@p 0101L01..0101L12
+Kh. calls the sine of an angle *elgeib elmustewi* = *al-jayb al-mustawī*, and Adelard renders this by *elgeib planum* (he takes most Arabic words as neuters); *planus* is indeed one meaning of *mustawī*, but *rectus* = straight, or set straight upright, would be better here. Adelard, then, did not yet know (about the year 1126) the translation of *jayb* by the Latin *sinus*; on the other hand we see from the Madrid Ms. N that Robert of Chester, who probably carried out the better “ordering” of Adelard's translation between about 1143 and 1150, knew the word *sinus*. We do not know when Gerard of Cremona, who mostly did not date his translations, translated the astronomy of Jābir b. Aflaḥ, in which the word *sinus* occurs, and so we cannot decide whether he or Robert of Chester was the first to use this word; but the probability is greater for the latter.
+@p 0101L13..0101L20
+The *versed sine* Adelard calls *elgeib elmankūs* (or *maʿkūs*) = the reversed sine; but he translates *mankūs* wrongly by *diminutum*, confusing it with *manqūṣ*, which means “diminished”, “reduced”, and is pronounced almost the same. This may well be a proof that at that time one learned a language not so much from books as rather in spoken intercourse with people, and therefore in translating relied more on the spoken word than on the written or read one; other wrong spellings of Arabic words may well come from this too.
+@p 0101L21..0101L23
+Adelard's wrong translations, *mustawī* by *planus* and *mankūs* by *diminutus*, Robert of Chester did not correct; he too calls the sine *sinus planus* and the versed sine *sinus diminutus*.
+@p 0101L24..0101L27
+We must also point out in particular that in the table of sines, in the four columns headed *Semitae numerorum*, Kh. gives the angles of all four quadrants that have the same sine (apart from its sign); thus in the 6th row of numbers:
+@t spec=cccccccc|l 0101L28..0101L30
+! Sig. | Gr. | Sig. | Gr. | Sig. | Gr. | Sig. | Gr. |
+0 | 6 | 5 | 24 | 6 | 6 | 11 | 24 | that is:
+<2> 6° | <2> 174° | <2> 186° | <2> 354° |
+@p 0101L31..0101L34
+The sine is given in *partes* (the radius = 60 of these), or, as the text has it, *partitiones*, *dakaicae* = Arab. *daqāʾiq* = minutes, and *theniae* (with the article *eltheniae*) = Arab. *thāniya* = seconds[^69.1]. Thus the sine of 6° = 6$^{p}$ 16′ 18″ = 6 + $\tfrac{16}{60}$ + $\tfrac{18}{60^{2}}$ = 6.27166, which gives, with the radius put = 1, sin 6° = 0.10453 (correct value = 0.104528).
+@p 0101L35..0101L39
+Where the tables deviate from those of Batt., we have taken the reading of the manuscripts into the table when the error was only 1″, but the correct value of Batt. when the error was more than 1″, contrary to the procedure of Bjørnbo in the paper named above, who everywhere took the values of C and O, even when they were wrong.
+@p 0102L01..0102L14
+We are of Bjørnbo's opinion that Kh. took his table of sines from the Ptolemaic table of chords by halving the angles and the chords, for he himself mentions the *Almagest* at the end of the chapter; perhaps the rather frequent deviations of 1″ also come from this, one rounding up and the other down in halving odd numbers of seconds[^n]. It would not, to be sure, be impossible that the Indian scholar who came to the court of al-Manṣūr about the year 750 brought with him in his *Siddhānta* a table of sines proceeding from degree to degree, which was then reduced from the Indian radius 3438 to the radius 60. But so far we know of no work earlier than the *Siddhānta-Śiromaṇi* of Bhāskara in which the computation of the sine of 1° is taught. It must not go unmentioned, moreover, that a probably somewhat older contemporary of Kh., Yaʿqūb b. Ṭāriq, composed two works, entitled “on the division of the *kardaja*” (that is, of the sine or arc of 3° 45′) and “astronomical tables composed after the *Sindhind*, from degree to degree”.[^70.1] From this one must, if
+@n Here the print has a figure across the page, which is not reproduced; it stands at the end of chapter 23 in Ms. N only, and Suter explains it on p. 71: a circle divided into the twelve signs, numbered I to XII; the vertical and the horizontal diameter and the chords that join the points of division, two horizontal chords above and below the horizontal diameter and two vertical chords on either side of the vertical one, forming a tall and a wide rectangle; along the upper half of the vertical diameter «Sinus diminuti» (versed sines), below the horizontal diameter «Sinus plani» (sines); above the horizontal diameter, which small strokes divide into six parts, six times «XX»; below it, in the segments between the circle and the vertical chords and between the chords, from the left: «Gr. VIII M. II S. XIX», «Gr. XXI M. LVII S. XLI», «Gr. XXX», «Gr. XXX», «Gr. XXI M. LVII S. XLI», «Gr. VIII M. II S. XIX».
+@f 68.1 0100N01
+A sign of the zodiac is divided into three decans (*facies*), each of which comprises 10°.
+@f 68.2 0100N02
+*Transl.* Burgess, pp. 365 and 370.
+@f 68.3 0100N03
+Ed. Thibaut, pp. 38–39 of the translation.
+@f 68.4 0100N04
+Al-Chwarizmi’s *Trigonometriske Tavler.* *Af Festskrift til* H. G. Zeuthen, København, 1909.
+@f 69.1 0101N01
+See above, p. 36.
+@f 70.1 0102N01
+See H. Suter, *Die Mathematiker und Astronomen der Araber*, etc., p. 4.

@@ -1,0 +1,42 @@
+unit	part	title	lines
+F01	F	the front matter (pp. I–IV)	AK07-J0005-L01..AK07-J0008-L19
+F02	F	the front matter (pp. V–VIII)	AK07-J0009-L01..AK07-J0012-N09
+F03	F	the front matter (pp. IX–XI)	AK07-J0013-L01..AK07-J0015-N08
+F04	F	the front matter (pp. XII–XIV)	AK07-J0016-L01..AK07-J0018-N01
+F05	F	the front matter (pp. XV–XVII)	AK07-J0019-L01..AK07-J0021-N03
+F06	F	the front matter (pp. XVIII–XX)	AK07-J0022-L01..AK07-J0024-N03
+F07	F	the front matter (pp. XXI–XXIII)	AK07-J0025-L01..AK07-J0027-N10
+F08	F	the front matter (pp. XXIV–XXV)	AK07-J0028-L01..AK07-J0029-L22
+K01	K	the commentary (pp. 32–34)	AK07-J0064-L01..AK07-J0066-N01
+K02	K	the commentary (pp. 35–37)	AK07-J0067-L01..AK07-J0069-N05
+K03	K	the commentary (pp. 38–40)	AK07-J0070-L01..AK07-J0072-L40
+K04	K	the commentary (pp. 41–43)	AK07-J0073-L01..AK07-J0075-N08
+K05	K	the commentary (pp. 44–46)	AK07-J0076-L01..AK07-J0078-N03
+K06	K	the commentary (pp. 47–49)	AK07-J0079-L01..AK07-J0081-N02
+K07	K	the commentary (pp. 50–52)	AK07-J0082-L01..AK07-J0084-N08
+K08	K	the commentary (pp. 53–55)	AK07-J0085-L01..AK07-J0087-N04
+K09	K	the commentary (pp. 56–58)	AK07-J0088-L01..AK07-J0090-N03
+K10	K	the commentary (pp. 59–61)	AK07-J0091-L01..AK07-J0093-N04
+K11	K	the commentary (pp. 62–64)	AK07-J0094-L01..AK07-J0096-N01
+K12	K	the commentary (pp. 65–67)	AK07-J0097-L01..AK07-J0099-N07
+K13	K	the commentary (pp. 68–70)	AK07-J0100-L01..AK07-J0102-N01
+K14	K	the commentary (pp. 71–73)	AK07-J0103-L01..AK07-J0105-N03
+K15	K	the commentary (pp. 74–76)	AK07-J0106-L01..AK07-J0108-N06
+K16	K	the commentary (pp. 77–79)	AK07-J0109-L01..AK07-J0111-N08
+K17	K	the commentary (pp. 80–82)	AK07-J0112-L01..AK07-J0114-N10
+K18	K	the commentary (pp. 83–85)	AK07-J0115-L01..AK07-J0117-N08
+K19	K	the commentary (pp. 86–88)	AK07-J0118-L01..AK07-J0120-N02
+K20	K	the commentary (pp. 89–91)	AK07-J0121-L01..AK07-J0123-N02
+K21	K	the commentary (pp. 92–94)	AK07-J0124-L01..AK07-J0126-N04
+K22	K	the commentary (pp. 95–97)	AK07-J0127-L01..AK07-J0129-N06
+K23	K	the commentary (pp. 98–100)	AK07-J0130-L01..AK07-J0132-N05
+K24	K	the commentary (pp. 101–103)	AK07-J0133-L01..AK07-J0135-N04
+K25	K	the commentary (pp. 104–106)	AK07-J0136-L01..AK07-J0138-L41
+B01	B	the additions and corrections (pp. 233–237)	AK07-J0265-L01..AK07-J0271-L20
+G01	G	the glossary (pp. 239–242)	AK07-J0273-L01..AK07-J0276-L99
+G02	G	the glossary (pp. 243–244)	AK07-J0277-L01..AK07-J0278-L100
+G03	G	the glossary (pp. 245–246)	AK07-J0279-L01..AK07-J0280-L95
+G04	G	the glossary (pp. 247–248)	AK07-J0281-L01..AK07-J0282-L14
+I01	I	the index (pp. 249–250)	AK07-J0283-L01..AK07-J0284-L101
+I02	I	the index (pp. 251–252)	AK07-J0285-L01..AK07-J0286-L97
+I03	I	the index (pp. 253–255)	AK07-J0287-L01..AK07-J0289-L45

@@ -1,0 +1,69 @@
+@unit K05
+@p+ 0076L01..0076L05
+*apogee* = 77° 55′, we obtain the *anomaly* = 53° 5′ 34″; with this argument one enters Table 22 and finds there, by interpolation, 1° 46′ for the *equation* of the sun; this equation, subtracted from the mean longitude, gives 129° 14′ 34″ as the *true place* of the sun, that is, at that moment the sun was in 9° 14′ 34″ of Leo.
+@p 0076L06..0076L09
+The explanation of how one is to proceed with any minutes of the anomaly is corrupt in our text (pp. 9–10: *Quod si ab argumento partes aliquae restiterint* . . ., but if some parts remain over from the argument ...); it is of course the same computation of proportional parts to be carried out as with our logarithmic-trigonometric tables.[^44.1]
+@p 0076L10..0076L14
+We give below the geometrical explanation of the above procedure for determining the true longitude of the sun according to Ptol.-Batt., namely according to the eccentric hypothesis, that is, that the sun moves in a circle eccentric to the ecliptic, not on an epicycle. Ptol., moreover, already showed that one arrives at exactly the same result with the help of an epicycle.
+@p 0076L15..0076L32
+Let *E* be the centre of the ecliptic, thus the centre of the earth, and *M* the centre of the eccentric circle in which the sun is supposed to move uniformly[^n]. *A* is then the apogee and *P* the perigee of the sun; let the sun be at the point *S*, and let *F* be the vernal point. Now ∢ *FMS* is the mean longitude of the sun; from it one subtracts the longitude of the apogee, that is, ∢ *FMA*, and then has ∢ *AMS*, the so-called *mean anomaly*, usually called *argument* in our tables. But we want ∢ *AES*, under which the arc *AS*, which the sun has run through from the apogee, appears as seen from the earth (*E*); we obtain this angle if we subtract from the mean anomaly ∢ *α*, the so-called *equation* of the sun. ∢ *AES*, or *AMG* if *MG* ∥ *ES*, is now called the *true anomaly*; if one again adds to it ∢ *AMF*, that is, the longitude of the apogee, one has ∢ *FMG* or the arc *FG*, that is, the *true longitude* of the sun. — In our text the equation *α* is subtracted directly from the mean longitude of the sun, which of course comes to the same thing.
+@n Here the print has a figure, which is not reproduced: two circles of the same radius, the eccentric with the centre *M*, on which lie *A* at the left end of a dashed horizontal diameter, *F* at the upper left, *G* and *S* at the lower left and *P* at the right end of the diameter, and the circle of the ecliptic with the centre *E*, which passes through *P*′ at the right end of the same dashed line; solid lines *FM*, *SM* produced to *H*, *HE* and *SE*; a dashed line *GM* parallel to *SE*; the angle *α* is marked at *S*, between *SM* and *SE*, and at *M*, between *MG* and *MS*.
+@p 0076L33..0076L38
+How one computes the equation for each arc *AS*, or for each mean anomaly, I will not set out in detail here; I only remark that Ptol.[^44.2] and Batt.[^44.3] compute it by means of the Pythagorean theorem and trigonometric relations from the triangles *HME* and *HES*, whereas al-Bīrūnī[^44.4] first computes *ES* from the triangle *EMS* with the help of the cosine theorem, and then ∢ *α* from the right-angled triangle *HES*.
+@p 0077L01..0077L13
+The values of the *equation* of the sun, moreover, do not agree with those of Batt. (ed. Nallino, II, 78–83), which are computed by the formula $\mathrm{tg\ aeq.} = \dfrac{e\sin m}{1+e\cos m}$; already for 1° of mean anomaly the difference is 16″. This can only come from a different value of the eccentricity *e* of the sun's orbit. Batt. takes it (thus *ME* in the preceding figure) as 2$^{p}$ 4$\tfrac{3}{4}$′ (when *MA* is put = 60$^{p}$); in Kh. there is no value for the eccentricity of the sun; from the maximum of the equation (2° 14′) at 90° we find *e* = 2$^{p}$ 20′, and in other tests that we have made we found it = 2$^{p}$ 22′; the *Sūrya-Siddhānta*, according to Burgess[^45.1], has a maximum equation of 2° 10′ 31″, which corresponds to an eccentricity *e* = 2$^{p}$ 17′; Ptol. takes an eccentricity of 2$^{p}$ 29′ 30″, but sometimes rounds it up to 2$^{p}$ 30′. We see, then, that Kh. follows neither the *Sūrya-Siddhānta* nor Ptol.; perhaps he took his value from the works of Brahmagupta, or from the Persian tables (see above, p. 32).
+@h 0077L14
+Chapter 9. On finding the (true) place of the moon
+@c 0077L15
+(Text p. 10, Tables 21–26.)
+@p 0077L16..0077L23
+In Tables 6–8 one finds, besides the mean longitude of the moon, its anomaly too, in an analogous way; the column that serves for this is headed *Argumentum lunae* in our tables. Kh.'s determination is very simple compared with Batt.'s: the former takes the equation of the moon from a single column, whereas the latter needs four of them, since he takes into account the inequalities of the moon's motion, the so-called *evectio* and *prosneusis*.[^45.2] Let us determine, by our rules and tables, the true place of the moon for noon of 15 Ṣafar of the year 540 AH.
+@t spec=llcr 0077L24..0077L30
+*Example*: | the *anomaly* at the end of the 510th year is | = | 61° 52′ 40″
+| increase for 29 years | = | 348° 56′ 57″
+| increase for the first month, Muḥarram | = | 31° 56′ 59″
+| increase for 14 days | = | 182° 54′ 36″
+| sum: | | 625° 41′ 12″
+| | | − 360°
+| *anomaly* | = | 265° 41′ 12″
+@p 0077L31..0077L34
+For this one finds in Table 24 the *equation* 4° 55′ 7″[^45.3]; it is added to the mean longitude, which we found above to be 314° 6′ 28″, because the anomaly is greater than 180°; this gives 319° 1′ 35″ for the *true place* of the moon, that is, at the given time the moon was in 19° 1′ 35″ of Aquarius.
+@p 0077L35 + 0078L01..0078L02
+By the tables of Batt. one finds 330° 41′, for they give the mean longitude at the end of the 510th year as 50° 44′ 20″ instead of the 40° 56′ 38″ of our tables, and the equation is found to be 6° 19′ 57″ instead of 4° 55′ 7″.
+@p 0078L03..0078L06
+How Kh.'s tables of the moon are computed has not become clear to me. The greatest equation amounts to 4° 56′ at 90° of mean anomaly, which corresponds to a radius of the epicycle of c. 5$^{p}$ 10′ instead of the 5$^{p}$ 15′ of Batt.; but if one computes the equation for other anomalies (*m*) by the formula
+@m 0078L07
+\mathrm{tg\ aeq.\ anom.} = \dfrac{e\sin m}{1+e\cos m},
+@p 0078L08..0078L10
+in which *e* is then to be put = $\dfrac{5^{p}\,10'}{60^{p}}$ = 0.08611, one finds no agreement; one or both of the inequalities named above must therefore surely have been taken into account after all, but in what way we could not find out.
+@p 0078L11..0078L20
+In the headings of the tables and of the columns we find for the Arabic *taʿdīl* = *equation* now the Arabic word in the form *Tadil*, now the Latin *Examinatio*; *Aequatio* does not occur; instead of this word N has *Coaequatio*. The word *elheza*, also written *elheca*, is the Arabic *al-khāṣṣa* (also written *al-ḥāṣṣa*) = the (motion) peculiar (to the planet); correct would be *al-ḥaraka al-khāṣṣa* = the motion peculiar (to it), that is, the so-called *anomaly*, that is, the arc that the moon or the planet has run through on the epicycle from its apogee up to a given moment. In our work this word is translated, especially in Ms. C, by *Argumentum*; it is confused with *al-ḥiṣṣa* = share, lot, that is, the argument with which one enters a table.
+@h 0078L21
+Chapter 10. Determination of the (true) place of the three upper planets
+@c 0078L22
+(Text pp. 10–11, Tables 27–44.)
+@p 0078L23..0078L24
+Let us first consider the *apogees* of the planets and of the sun; for them we find, in the text pp. 14–15 and in Tables 27–44, the following values:
+@t spec=cccccc 0078L25..0078L26
+! Saturn | Jupiter | Mars | Venus | Mercury | Sun
+244° 55′ | 172° 32′ | 128° 24′ | 81° 15′ | 224° 54′ | 77° 55′.
+@p 0078L27..0078L36
+These numbers, even when the *precession* is taken into account, agree neither with those of Ptol. nor with those of Batt., nor with the values in the *Sūrya-Siddhānta* and in the *Pañcasiddhāntikā*.[^46.1] In particular the values for Jupiter, Mercury and Venus differ considerably from one another in the works named. The value for the apogee of the sun agrees, if we read 15′ for 55′, as we have already remarked above (p. 43), with the value that the Arabic *Sindhind* gave according to the testimony of Ibn Hibintā; and the value for Jupiter likewise with that of the “tested tables” according to Ibn Yūnus[^46.2]. The value for Mercury differs most from those of the other tables, in which it does not go beyond 202°; but the *Sūrya-Siddhānta* is to be excepted from this, in which
+@f 44.1 0076N01
+See also Batt., ed. Nallino, I, 72, ll. 9–13.
+@f 44.2 0076N02
+*Almagest* III, 5 (ed. Heiberg, I, 240–255; German translation by K. Manitius, I, 173–180).
+@f 44.3 0076N03
+Ed. Nallino, I, 48, 219–220.
+@f 44.4 0076N04
+See *Biblioth. mathem.* 11$_{3}$, 1910, pp. 45 and 71.
+@f 45.1 0077N01
+l. c., p. 220.
+@f 45.2 0077N02..0077N03
+For Batt.'s determination compare the rules of the text in Nallino, I, 50–54 and 75, and the explanations of them in II, 223–226.
+@f 45.3 0077N04
+For 265° one finds 4° 54′ 52″, and for the 41′ a further 15″ results.
+@f 46.1 0078N01..0078N02
+See Burgess, l. c., pp. 216 and 427; also *The Panchasiddhāntikā of Varāha Mihira*, ed. by G. Thibaut, etc., Benares 1889, p. 93 of the English translation.
+@f 46.2 0078N03
+Batt., ed. Nallino, I, 218 and 239–242.

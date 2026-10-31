@@ -1,0 +1,91 @@
+@unit K12
+@p 0097L01..0097L11
+For the moon he remarks again that its nodes are movable, and that their motion amounts to 3′ 11″ 48‴ a day and 7″ 57‴ an hour; if one multiplies the latter number by 24, one obtains 3′ 10″ 48‴, and so it must read instead of 3′ 11″ 48‴; then it also agrees with Table 20, which, like Batt., has 3′ 11″ for the daily motion of the dragon's head and 8″ for the hourly. That this motion of the nodes is opposite to that of the apsides is not mentioned by Kh. According to the more recent determinations the line of the nodes needs 6798.3355$^{d}$ for a full revolution, which makes a motion of 3′ 10″ 38‴ in a day, so again a very fine agreement. The tables of Batt.[^65.1] agree with those of Kh. only up to 4 days; from there on the deviations begin, and they grow to 1′ 14″ in one year and to 34′ 46″ in 30 years.
+@h 0097L12
+Chapters 20 and 21. On the daily motion of the moon and of the sun
+@c 0097L13
+(Text pp. 15–16.)
+@p 0097L14..0097L16
+These two chapters do not stand in the right place here; they should immediately follow chapter 7, “On the mean motion of the planets”, or better be united with it.
+@p 0097L17..0097L19
+The mean daily motion of the moon is given as 13° 10′ 34″ 52‴ 48$^{\mathit{IV}}$, the hourly as 32′ 56″ 47‴ 52$^{\mathit{IV}}$; the last two numbers are wrong: it must read 27‴ 12$^{\mathit{IV}}$.
+@p 0097L20..0097L23
+The mean daily motion of the sun is given as 59′ 8″, the hourly as 2′ 27″ 50‴ 25$^{\mathit{IV}}$; but the division of 59′ 8″ by 24 gives only 2′ 27″ 50‴, so ten thirds have probably dropped out, or been left out, after 59′ 8″.
+@p 0097L24..0097L38 + 0098L01..0098L02
+If we take as the basis for the motion of the sun the above mean hourly motion of 2′ 27″ 50‴ 25$^{\mathit{IV}}$, we obtain for the mean motion in 365 days 359° 44′ 40″ 50‴. To this mean motion there corresponds a length of the year of 365$^{d}$ 6$^{h}$ 13$^{m}$ 2$^{s}$, about the same quantity as we found above (p. 42), which shows us again that Kh. took the sidereal year as the basis of his tables of the sun and the planets. But this length of the year does not quite correspond to the values found in the Indian *Siddhāntas*[^65.2]: it is c. 25$^{s}$ greater than that given by the *Sūrya-Siddhānta* and the later *Ārya-Siddhānta*, and 53$^{s}$ greater than that given by the *Brahma-Siddhānta*. If, conversely, we start from the length of the year of these *Siddhāntas*, we arrive, for the *Sūrya-Siddhānta* (365$^{d}$ 6$^{h}$ 12$^{m}$ 36.5$^{s}$), at a mean daily motion of 59′ 8″ 10‴ 10$^{\mathit{IV}}$, and for the *Brahma-Siddhānta* (365$^{d}$ 6$^{h}$ 12$^{m}$ 9$^{s}$) at one of 59′ 8″ 10‴ 21$^{\mathit{IV}}$ 22$^{\mathit{V}}$[^n]; to the former value there corresponds an hourly motion of 2′ 27″ 50‴ 25.4$^{\mathit{IV}}$, to the latter one of 2′ 27″ 50‴ 25.8$^{\mathit{IV}}$. Since Kh. gives the hourly motion as 2′ 27″ 50‴ 25$^{\mathit{IV}}$, the probability is somewhat greater that he followed the *Sūrya-Siddhānta* and the later *Ārya-Siddhānta*; but this question can by no means be decided definitively from the numbers given[^66.1].
+@n Recomputed from the year of 365$^{d}$ 6$^{h}$ 12$^{m}$ 9$^{s}$, the daily motion is 59′ 8″ 10‴ 21$^{\mathit{IV}}$ 33$^{\mathit{V}}$ and the hourly motion 2′ 27″ 50‴ 25.9$^{\mathit{IV}}$; the two hourly motions of the text are truncated, not rounded.
+@p 0098L03..0098L10
+In a note that only Ms. C contains, the data of Ptol. for the length of the year and for the monthly, daily and hourly mean motion of the sun are given correctly, and so is the path of the sun in a year (of 365 whole days) and in 18 years[^66.2]. As for the length of the year, it is given as 365$^{d}$ 14′ 48″, that is, 365 + $\tfrac{14}{60}$ + $\tfrac{48}{3600}$ days; converted into hours, minutes and seconds this makes 365$^{d}$ 5$^{h}$ 55$^{m}$ 12$^{s}$, that is, the length of Ptol.'s tropical year. — It is curious that nowhere in the whole of Kh.'s work is there a statement of the length of the sidereal year on which it is based.
+@h 0098L11
+Chapter 22. On the appearance of the moon on the evening of the 29th day (of the month)
+@c 0098L12
+(Text pp. 16–17, Table 57$^{a}$.)
+@p 0098L13..0098L18
+This chapter is one of the most difficult of Arabic astronomy. Al-Bīrūnī says about it in his *Chronology*[^66.3]: “As for the appearance of the new moon, its exact determination is lengthy and difficult (to explain), and it needs complicated computations and many tables; let it suffice to refer to what is said on this subject in the tables of al-Battānī and of Ḥabash the Reckoner”.
+@p 0098L19..0098L32
+Batt. treats this question in chapter 41[^66.4], and G. Schiaparelli and Nallino have commented on it excellently[^66.5]. I cannot go into this subject more closely here; let it suffice to remark that Kh.'s rule and his table must probably rest on a different basis from Batt.'s account. I bring out only one point that can support this assertion. According to Batt., the first appearance of the lunar crescent depends not only on the difference of the true longitudes of the sun and the moon, but also on the latitude of the moon; he gives (p. 87) the precept that one must add the square of the difference of the true longitudes of the sun and the moon to the square of the latitude of the moon, and one then obtains approximately the square of the distance of the moon from the sun; the correctness of this precept follows at once from the figure beside[^n]:
+@n Here the print has a figure, which is not reproduced: an arc, concave downward, labelled «Ekliptik» (ecliptic), with *C* and *S* on it; *M* above *C*, joined to *C* by a short vertical line and to *S* by a straight line.
+@c 0098L33
+*MS* ∽ $\sqrt{CS^{2}+MC^{2}}$.
+@p 0098L34..0098L36 + 0099L01..0099L03
+But Kh., who does take the latitude of the moon into account too, says (p. 16): “If the latitude of the moon is northern, it is to be added to the difference of the true longitudes of the sun and the moon; if it is southern, it is to be subtracted from that difference.” — How Table 57$^{a}$ is to be used to determine the time of the first visibility of the lunar crescent will best become clear from an example.
+@p 0099L04..0099L05
+*Example:* We are to examine whether the lunar crescent became visible on the evening of 29 *Shaʿbān*[^67.1] of the year 540 AH.
+@t spec=lr 0099L06..0099L18
+! <2> *Mean longitude of the sun:*
+at the end of the 510th year | = 38° 35′ 45″
+increase for 29 years | = 49° 2′ 50″
+increase for 7 months | = 204° 1′ 11″
+increase for 29 days[^n] | = 28° 34′ 57″
+increase for 6 hours | = 14′ 47″
+| 320° 29′ 30″
+apogee of the sun: | 77° 55′
+*anomaly:* | 242° 34′ 30″
+<2> For this one finds in Table 24 the equation 1° 57′ 35″, which, added to the mean longitude, gives in round numbers 322° 27′ for the *true longitude* of the sun.
+@n Counted as on p. 42, where noon of 15 Ṣafar is 1 month and 14 days after the end of the year, 7 months, 29 days and 6 hours lead to 6 in the evening of 30 Shaʿbān; the evening that ends 29 Shaʿbān would be 7 months, 28 days and 6 hours.
+@t spec=lr 0099L19..0099L38
+! <2> *Mean longitude of the moon:*
+at the end of the 510th year | = 40° 56′ 38″
+increase for 29 years | = 53° 24′ 16″
+increase for 7 months | = 207° 30′ 20″
+increase for 29 days | = 22° 6′ 52″
+increase for 6 hours | = 3° 17′ 39″
+| 327° 15′ 45″
+! <2> *Anomaly of the moon:*
+at the end of the 510th year | = 61° 52′ 40″
+increase for 29 years | = 348° 56′ 57″
+increase for 7 months | = 184° 27′ 14″
+increase for 29 days | = 18° 53′ 5″
+increase for 6 hours | = 3° 15′ 58″
+| 617° 25′ 54″
+| −360°
+*anomaly:* | 257° 25′ 54″
+<2> For this one finds in Table 24 the equation 4° 48′ 29″, which, added to the mean longitude, gives in round numbers 332° 4′ for the *true longitude* of the moon.
+@p 0099L39..0099L40
+Difference of the two true longitudes = 9° 37′. We now have to determine the *latitude* of the moon for this time:
+@t spec=lr 0099L41..0099L48
+<2> True longitude of the moon = 332° 4′.
+! <2> Longitude of the dragon's head (by Tables 19 and 20):
+at the end of the 510th year | = 92° 38′ 42″
+increase for 29 years | = 184° 41′ 57″
+increase for 7 months | = 10° 58′ 16″
+increase for 29 days | = 1° 32′ 14″
+increase for 6 hours | = 48″
+| 289° 51′ 57″
+@f 65.1 0097N01
+Ed. Nallino, II, 19–22.
+@f 65.2 0097N02
+Batt., ed. Nallino, I, 206.
+@f 66.1 0098N01
+See also p. 103.
+@n The print has «Kap. 38» (chapter 38); Suter's list of misprints corrects it to p. 103.
+@f 66.2 0098N02
+This statement is faulty in the degrees: instead of 1350 it must read 355.
+@f 66.3 0098N03
+Ed. Sachau, Arabic text p. 196, English translation p. 176.
+@f 66.4 0098N04
+Ed. Nallino, I, 85–92.
+@f 66.5 0098N05
+Ibid., I, 265–272.
+@f 67.1 0099N01..0099N07
+My reason for choosing this day is that the determination of the visibility of the lunar crescent is really of importance only for this day, for with the end of 29 *Shaʿbān* (at 6 o'clock in the evening) the month of fasting, *Ramaḍān*, begins. The fast, however, does not begin at 6 o'clock, but at the moment when the lunar crescent first becomes visible. This can happen some time before or after 6 o'clock. Since the weather does not always permit the appearance of the lunar crescent to be observed, computation and the tables must be called in to help.

@@ -1,0 +1,48 @@
+@unit K01
+@part 0064L01
+Commentary
+@h 0064L02
+Introduction of the text
+@c 0064L03
+(Text pp. 1–2.)
+@p 0064L04..0064L29 + 0065L01..0065L10
+The Arabic word *ezich* = *elzīj* (pronounced *ez-zīj*) is, like several other Arabic technical terms, not translated. It is originally a Persian word (*zīg*) and means the warp threads of a cloth, into which the weaver or the embroiderer works the weft or the embroidery, and then, correspondingly, “astronomical tables”. Of these there was a great number in the Arabic astronomical literature: the oldest were the tables composed after the Indian *Siddhāntas* (see the introduction) by Ibrāhīm al-Fazārī and Yaʿqūb b. Ṭāriq; then come the two editions of the *Sindhind* (the Arabic spelling of the Indian *Siddhānta*) by Muḥ. b. Mūsā al-Khwārizmī, which were probably composed in the years 800–830 AD; after them the “tested tables” of the astronomers of al-Maʾmūn (Yaḥyā b. Abī Manṣūr, Sanad b. ʿAlī, ʿAbbās b. Saʿīd al-Jawharī and others)[^32.1]. — It is possible that Kh.'s later edition of the *Sindhind* was already somewhat influenced by the observations of al-Maʾmūn's astronomers and so departed somewhat further from the Indian models than the first edition, and that, as we should like to conclude from the content of the present work, it was probably this second edition that Maslama al-Majrīṭī (see the introduction) subjected to a reworking. But of course nothing certain can be said about this; we are only putting forward conjectures that seem to us justified. — Which of the various Indian *Siddhāntas* Kh. took as the basis of his tables likewise cannot be decided with certainty. Until now it has been regarded as fairly probable that it was the *Brahma-Siddhānta* (composed by Brahmagupta in the first half of the seventh century AD); but we shall see further on that other *Siddhāntas* may also come into question, especially the *Sūrya-Siddhānta*. This would then indicate that Kh. perhaps also consulted the Persian “Tables of the Shāh” (*zīj al-shāh*, or *zīj al-shahriyār*)[^32.2], which were translated into Arabic in the second century of the *Hijra* and were probably based on the *Sūrya-Siddhānta*. In particular the value of the apogee of the sun and the manner of computing the equations of the planets might have been taken from these Persian tables; for Ibn al-Qifṭī[^33.1], in his biography of al-Fazārī, says the following after Ibn al-Ādamī[^33.2]: “He (Kh.) relied in his tables on the mean places of the *Sindhind*, but departed from it in the equations (of the planets) and in the obliquity (of the ecliptic); he fixed his equations by the method of the Persians, and the declination of the sun by the method of Ptolemy.” Since the latter assertion is correct, as we shall see below, the former may well be true too; we cannot prove it, since these Persian tables no longer exist.
+@p 0065L11..0065L33
+According to the introduction of the text, the data of the tables for the mean and the true places of the sun, the moon and the planets (or, as the Arabs say, of the seven planets) refer to the meridian of *Arin* (a wrong spelling for *Azīn* or *Uzain*, and this in turn the Arabic form of the Indian *Ujjain*, in Sanskrit *Ujjayini*), which lies in northern India (geogr. lat. 23° 11′, geogr. long. 75° 52′ from Greenwich). As for the time to which the *radix* of the various tables refers in each case, the starting point given is noon of 1 *Muḥarram* of the year 1 of the Hijra (that is, 15 July 622 AD); in Table 4, for example, the radix for the sun is given as 3$^{s}$ 23° 25′ 48″ (= 113° 25′ 48″), that is, this was the mean longitude of the sun at noon (the astronomical beginning of the day with most Arab astronomers) of 1 *Muḥarram* of the year 1 of the *Hijra* for the meridian of *Arin*. Maslama al-Majrīṭī, then, as we already remarked in the introduction, replaced the *era* of Yazdegerd (beginning on 16 June 632 AD), on which Kh. had based himself, by the Muslim era, but he kept the meridian of *Arin*. This holds, however, only for the tables of the mean and the true motion of the sun, the moon and the five planets; we shall see later that Maslama referred a series of tables (especially those of the conjunctions, the oppositions and the eclipses) to the meridian of *Córdoba*. The possibility is therefore not excluded that these tables were not originally contained in Kh.'s work; statements pointing to this were indeed made, as we saw in the introduction, by the Spanish scholar Ibn Ṣāʿid, and Ibn al-Qifṭī[^33.3] repeated them; but in that case Kh.'s work would have been all too insignificant, for precisely these tables are among the most important of an astronomical work.
+@p 0065L34..0065L39
+In this introduction there also occurs the only proper name that these tables contain besides those of the author and the translator, the name “Ptolomaeus”. One sees, then — and this also follows from the study of the tables — that Kh., like the later astronomers after him, especially Batt., already relied on Ptolemy's *Almagest* and was therefore also substantially influenced by it, as will appear in several places in the course of our discussion.
+@h 0066L01
+Chapter 1. Description of the Arab year
+@c 0066L02
+(Text p. 2.)
+@p 0066L03..0066L09
+The Arab lunar year has about 354$\tfrac{11}{30}$ days; it is divided into 12 months of alternately 30 and 29 days; to make up for the fraction of a day, the last month, which otherwise counts 29 days, is sometimes given 30 days. In which years this happens Kh. does not say: they are the 2nd, 5th, 7th, 10th, 13th, 16th, 18th, 21st, 24th, 26th and 29th of a cycle of 30 years. Such a year of 355 days is called *sana kabīsa* = leap year. The Arab months are called (in the text Kh. names only the first two and the last):
+@t spec=llll 0066L10..0066L16
+1) *Muḥarram* | = 30 days | 7) *Rajab* | = 30 days
+2) *Ṣafar* | = 29 days | 8) *Shaʿbān* | = 29 days
+3) *Rabīʿ I* | = 30 days | 9) *Ramaḍān* | = 30 days
+4) *Rabīʿ II* | = 29 days | 10) *Shawwāl* | = 29 days
+5) *Jumādā I* | = 30 days | 11) *Dhū l-Qaʿda* | = 30 days
+6) *Jumādā II* | = 29 days | 12) *Dhū l-Ḥijja* | = 29 days (in leap years 30)
+@p 0066L17..0066L20
+These names are often badly disfigured in the text and in the tables; it should be noted in particular that *j* is mostly rendered by *i*, so that the last month is almost throughout written *Dulheia*; *sh* is often expressed by *sc*, especially in Ms. O (see also the introduction).
+@p 0066L21..0066L24
+At the end of the chapter Kh. remarks that the length of the Arab lunar year in relation to the solar year has the consequence that the beginning of the Arab year falls in different seasons, now in winter, now in summer.
+@h 0066L25
+Chapter 2. Description of the Roman year
+@c 0066L26
+(Text pp. 2–4, Table 1.)
+@p 0066L27..0066L40
+By this name the Arab astronomers usually designate the years of the era of *Dhū l-Qarnayn* (that is, of Alexander the Great), the so-called *Seleucid* era, which began on 1 October 312 BC and whose years were taken as 365$\tfrac{1}{4}$ days, as in the *Julian* reckoning. Interesting is the remark of our text that the leap day was added each time (thus every 4 years) at the end of December. Nallino[^34.1] calls this an erroneous view; but he did not yet know this passage of our tables, and according to it it seems fairly certain that at least among the Christian Spaniards of the tenth century (in Maslama's time) this *intercalation* of the leap day really took place in December instead of February. This also follows from the *Notulae* or *Signa* of our Table 3$^{a}$, which increase by 4 from December to January in the leap years, but by 3 in the other years. The Spaniards had, moreover, a special chronology of their own (see below), which began 38 years before ours, so they could well also have had an intercalation of their own, valid only among them
+@f 32.1 0064N01..0064N02
+For these astronomers see H. Suter, *Die Mathematiker und Astronomen der Araber*, etc., pp. 3–14, and our introduction to this edition.
+@f 32.2 0064N03
+See Batt., ed. Nallino, I, 218.
+@f 33.1 0065N01
+See the edition by Lippert, Leipzig, 1903, pp. 270–271.
+@f 33.2 0065N02
+See H. Suter, *Die Mathematiker und Astronomen der Araber*, etc., p. 44.
+@f 33.3 0065N03
+Ed. Lippert, p. 326.
+@f 34.1 0066N01
+Batt., ed. Nallino, II, 314–316.

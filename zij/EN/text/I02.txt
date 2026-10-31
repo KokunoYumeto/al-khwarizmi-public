@@ -1,0 +1,311 @@
+@unit I02
+@e 0285L01..0285L02
+Digiti = parts of the diameter of the moon or of the sun 26, 27, 87–89, 95.
+@e 0285L03
+Dignitates see Exaltations [Erhöhungen].
+@e 0285L04
+Diluvium 3, 35, T. 1.
+@e 0285L05
+Diocletianus (emperor) XV, T. 1.
+@e 0285L06..0285L07
+Dispositio (casarum duodecim) see Houses, astrological [Häuser, astrol.].
+@e 0285L08
+Distantia definita 16, 68.
+@e 0285L09
+Distance, geocentric, of the centre of the epicycle [Distanz] 48, 49.
+@e 0285L10
+Diversitas aspectus vel aspectuum see Parallax [Parallaxe].
+@e 0285L11
+— respectus, see the same.
+@e 0285L12
+Djābir b. Aflaḥ 69.
+@e 0285L13
+Domicilia 103, 106, T. 116.
+@e 0285L14
+Domini 31, 103, 104, T. 116.
+@e 0285L15
+Dorotheus 99, 100.
+@e 0285L16
+Dozy, R. 36.
+@e 0285L17
+Dragon's head [Drachenkopf] see Nodes (of the moon) [Knotenpunkte].
+@e 0285L18
+Dragon's tail [Drachenschwanz] see the same.
+@e 0285L19
+Dracones see the same.
+@e 0285L20..0285L21
+Diameter (rota), apparent (of the moon) [Durchmesser] 23, 78–79, 90, T. 61–66.
+@e 0285L22..0285L23
+— apparent (of the sun) 22–23, 78–79, T. 61–66.
+@e 0285L24
+— of the earth's shadow 90, 91, T. 61–66.
+@c 0285L25
+**E.**
+@e 0285L26
+Eclipsis see Eclipse [Verfinsterung].
+@e 0285L27..0285L28
+Ecliptic [Ekliptik] 44, 47, 58–61, 63, 72–74, 76, 96–101; its obliquity 19, 33, 58, 72, 105.
+@e 0285L29
+Ecliptic zenith distance [Ekliptik-Zenitdistanz] 92, 93.
+@e 0285L30
+Emersio see Respiratio.
+@e 0285L31..0285L34
+Emirethius (?), perhaps Eumathius (probably = Ammonius), whose canon (astronomical tables) is said to have been improved by al-Zarḳālī (compare addition 5) T. 7, 92.
+@e 0285L35
+ἔμπτωσις = the falling in 87.
+@e 0285L36..0285L38
+Epicycle [Epicyclus] XX, XXI, 44, 47–49, 51, 57, 60, 61, 234; its radius for the moon 46, for the planets 48.
+@e 0285L39
+Era see Aera.
+@e 0285L40
+Earth's shadow [Erdschatten] see Umbra terrae.
+@e 0285L41
+Exaltations [Erhöhungen] 103, 104, 106, T. 116.
+@e 0285L42
+Eumathius see Emirethius.
+@e 0285L43
+Evectio 45.
+@e 0285L44
+Exagonum see Sextile aspect [Sextilschein].
+@e 0285L45
+Exaltatio see Exaltation [Erhöhung].
+@e 0285L46
+Examen see the following.
+@e 0285L47..0285L49
+Examinatio (equation) of the sun, the moon and the planets XIV, 9, 10, 24, 43–46, 82, 83, T. 21–26.
+@e 0285L50..0285L51
+— argumenti (= anomaliae, *elheza*) 10, 11, 48–54, 233–235, T. 27–56.
+@e 0285L52..0285L53
+Examinatio centri 11, 12, 48–54, 233, 234, T. 27–56.
+@e 0285L54
+Eccentricity, of the orbits of the planets [Exzentrizität] 47, 48, 234.
+@e 0285L55
+— of the orbit of the sun 45.
+@c 0285L56
+**F.**
+@e 0285L57..0285L58
+Facies (= decanus), the third part (10°) of a sign of the zodiac, 16, 68, 103, 104, T. 116.
+@e 0285L59
+Fall see Dejection [Tiefstand].
+@e 0285L60
+Feria = day of the week 1, 5–7, 36, 37.
+@e 0285L61
+Fines see Bounds [Grenzen].
+@e 0285L62
+Eclipses [Finsternisse] see Eclipse [Verfinsterung].
+@e 0285L63
+Fleischer, H. L. 105.
+@c 0285L64
+**G.**
+@e 0285L65
+Opposite aspect [Gegenschein] 99.
+@e 0285L66
+Geib see Sinus.
+@e 0285L67
+Gerbert (Pope Sylvester II) X.
+@e 0285L68
+Gerhard of Cremona VIII, 69.
+@e 0285L69
+Gerlandus X.
+@e 0285L70
+Ghoarizmi see Khwārizmī.
+@e 0285L71..0285L72
+Equation of the anomaly and of the centre (in Battānī) [Gleichung] 48, 50.
+@e 0285L73
+— of the apogee 50.
+@e 0285L74
+— of the apsis 51.
+@e 0285L75
+— of the conjunction 51.
+@e 0285L76..0285L77
+Equations (of the sun, of the moon, of the anomaly, of the centre) [Gleichungen] see Examinatio.
+@e 0285L78..0285L79
+— (of the planets) 33, 49, 55, 105; see also Examinatio (argumenti and centri).
+@e 0285L80
+Gnomon 72, 74–76.
+@e 0285L81
+Goebel, J. XXII (N. 1).
+@e 0285L82
+Gonzalez XVII (N.).
+@e 0285L83
+Greenwich 83, 85.
+@e 0285L84..0285L85
+Bounds (unequal parts of the signs of the zodiac) [Grenzen] 104, 105, T. 116.
+@e 0285L86
+Reasons of the tables of Khwārizmī [Gründe der Tafeln des Khwārizmī] 41, 51.
+@c 0285L87
+**H.**
+@e 0285L88
+Ḥabash, the Calculator, 66, 76, 77.
+@e 0285L89
+Halving of the equation (of the planets) [Halbierung der Gleichung] 49–52.
+@e 0285L90
+Ḥarrān 74.
+@e 0285L91
+Haskins, C. H. VII, X, 236.
+@e 0285L92..0285L94
+Houses, the 12 astrological [Häuser], 25; their distribution (aequatio, dispositio) 29, 30, 96–98, 106, T. 79–90.
+@e 0285L95..0285L96
+Heiberg, J. L. XIII, XXIV, XXV, 44, 57, 74, 81, 90, 233.
+@e 0285L97
+Henry, C. XXIII.
+@e 0285L98
+Hermes Trismegistos XXII.
+@e 0285L99
+Hermannus Contractus X.
+@e 0285L100
+— Dalmata XIII, XVIII (N.).
+@e 0286L01
+Heza see Argumentum.
+@e 0286L02
+Altitude of the sun (artifa solis) [Höhe] 21–22, 76, 77.
+@e 0286L03..0286L04
+Horae aequales see Equinoctial hours [Aequatorial-Stunden]; — inaequales see Temporal hours [Zeitstunden].
+@e 0286L05
+— diurnae see Day hours [Tagesstunden].
+@e 0286L06
+— nocturnae see Night hours [Nachtstunden].
+@e 0286L07..0286L09
+Horoscopi signorum (= the risings of the signs of the zodiac) see Signum, and the glossary, under Matale.
+@e 0286L10..0286L12
+Horoscopus (Ascendens), the point of the ecliptic that rises at a given time, 25, 28–31, 91–94, 97, 98, 100, 101, T. 79.
+@e 0286L13
+Houtsma, M. Th. XXV.
+@c 0286L14
+**I.**
+@e 0286L15
+Ibn Abī Uṣaibiʿa VII.
+@e 0286L16
+— al-Adamī 33, 49.
+@e 0286L17
+— ʿEzrā see Abraham b. ʿEzrā.
+@e 0286L18
+— Hibintā 43, 46, 99, 100, 106.
+@e 0286L19
+— al-Ḳifṭī VII, 33.
+@e 0286L20
+— Ṣāʿid see Ḳāḍī Ṣāʿid.
+@e 0286L21
+— Yūnus 47.
+@e 0286L22
+Ibrāhīm al-Fazārī VIII, 32, 33.
+@e 0286L23
+Ideler, L. XVIII, 36.
+@e 0286L24
+Immersio see Casus.
+@e 0286L25
+Intercalation (of the leap day) XV, 34.
+@e 0286L26
+Interstitium 24, 29, 93.
+@e 0286L27
+Isidore of Seville [Isidor von Sevilla] XVIII.
+@c 0286L28
+**J.**
+@e 0286L29
+Year, Arab [Jahr], see Annus Arabum.
+@e 0286L30
+— Roman (Seleucid) see Annus Romanorum.
+@e 0286L31..0286L32
+— sidereal (star year) 42, 65, 66, 102, 105, 235.
+@e 0286L33
+— tropical 42, 66, 102.
+@e 0286L34
+Johannes de Sacrobosco XXIII (N. 1).
+@e 0286L35
+— of Seville XI.
+@e 0286L36
+Jordanus Nemorarius XI.
+@e 0286L37
+Judices (= Domini) 104, T. 116.
+@c 0286L38
+**K.**
+@e 0286L39
+al-Ḳabīṣī 99, 105.
+@e 0286L40
+Ḳāḍī Ṣāʿid VII, IX, 33.
+@e 0286L41
+Kardadja, its division 70.
+@e 0286L42
+Karpinski, L. C. XII.
+@e 0286L43
+Kaurezmi see Khwārizmī.
+@e 0286L44
+Khaṇḍakhādyaka 79, 90.
+@e 0286L45..0286L48
+al-Khwārizmī, Muḥ. b. Mūsā VII–X, XII, XIII, XV, XXI, XXII, XXIV, 1, 32–35, 38–42, 45–47, 49–60, 62–66, 68–75, 77–81, 86, 87, 90–97, 99–103, 105, 106, 233–236, T. 116.
+@e 0286L49
+al-Kindī 105.
+@e 0286L50
+Line of the nodes, of the moon [Knotenlinie] 65.
+@e 0286L51..0286L52
+Nodes, of the moon [Knotenpunkte] 12, 14, 15, 27, 41, 55, 65, 67, 68.
+@e 0286L53
+— of the planets 15, 64.
+@e 0286L54..0286L56
+Conjunction and opposition (syzygies) of the sun and the moon [Konjunktion und Opposition] XIX, 23–29, 33, 81–86, 89, 92, 94–96, 106, T. 69–72.
+@e 0286L57
+— apparent, of the sun and the moon 94, 95.
+@e 0286L58
+Circle, eccentric [Kreis, exzentrischer] see Circulus excentricus.
+@c 0286L59
+**L.**
+@e 0286L60
+Longitude, mean [Länge, mittlere] see Motion, mean [Bewegung, mittlere].
+@e 0286L61..0286L62
+Longitude, true, of the moon [Länge, wahre] 10, 14, 16, 33, 45, 46, 58, 59, 66–68, 81–86, 93, T. 6–8, 21–26.
+@e 0286L63..0286L64
+— — of the sun 9, 10, 16, 33, 43–45, 66, 67, 81–86, T. 4, 5, 21–26.
+@e 0286L65..0286L66
+— — of the upper planets 10, 11, 33, 46–54, 60, 62, T. 9–14, 27–44.
+@e 0286L67..0286L68
+— — of the lower planets 12, 33, 54, 55, 60, 62, T. 15–18, 45–56.
+@e 0286L69..0286L70
+— — of the dragon's head 12, 55, 58, 59, 67, 68, T. 19, 20.
+@e 0286L71
+Latitudo lunae, etc., see Latitude [Breite].
+@e 0286L72
+— regionum (habitationum) see Latitude, geographical [Breite, geogr.].
+@e 0286L73
+Liber Embadorum X.
+@e 0286L74
+Lippert, J. 33.
+@e 0286L75
+London, meridian of, XVIII.
+@e 0286L76..0286L77
+Longinquitas maxima lunae see Spatium longinquum.
+@e 0286L78
+— minima lunae see Spatium propinquum.
+@e 0286L79
+Loth, O. 105.
+@c 0286L80
+**M.**
+@e 0286L81
+al-Madjrīṭī see Maslama.
+@e 0286L82
+al-Ma’mūn, caliph VIII, 32, 43, 47, 106.
+@e 0286L83
+Manitius, K. 44, 57, 74, 81, 90, 233.
+@e 0286L84
+al-Manṣūr, caliph 70.
+@e 0286L85
+— b. ʿAlī b. ʿIrāḳ 49.
+@e 0286L86..0286L88
+Maslama b. Aḥmed al-Madjrīṭī VII–X, XIII, XV, XXI, XXII, 32–35, 39, 40, 77, 81, 86, 90, 100, 102, 103, 105, 106.
+@e 0286L89
+Medialitas see Motion, mean [Bewegung, mittlere].
+@e 0286L90
+Mediocritas see the same.
+@e 0286L91
+Medium coelum 25, 28, 29, 91–94.
+@e 0286L92
+Medius cursus see Motion, mean [Bewegung, mittlere].
+@e 0286L93
+Megistophiel XXII.
+@e 0286L94
+Mecca [Mekka] 74.
+@e 0286L95
+Menelaus, theorem of, 74.
+@e 0286L96
+Mephistopheles XXII.
+@e 0286L97
+Meridian distance [Meridian-Distanz] 92.

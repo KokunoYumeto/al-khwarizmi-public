@@ -1,0 +1,366 @@
+@unit I03
+@e 0287L01
+Month, anomalistic [Monat] 64.
+@e 0287L02..0287L04
+Months, Arab [Monate], their beginning 2, 5, 36, 37, T. 2; their names XIV, XV, 2, 34, T. 2, 3, 4, etc. and the glossary.
+@e 0287L05..0287L06
+— Egyptian or Coptic 37, 38, T. 2$^{b}$; their names T. 2$^{b}$ and the glossary.
+@e 0287L07..0287L08
+— Persian 37, T. 2$^{a}$; their names T. 2$^{a}$ and the glossary.
+@e 0287L09..0287L11
+— Roman (Seleucid), their beginning 6, 7, 38–40, T. 3$^{a}$; their names T. 3$^{a}$ and the glossary.
+@e 0287L12..0287L14
+Moon [Mond] see Motion [Bewegung], Latitude [Breite], Longitude [Länge], Sublimatio, Diameter [Durchmesser], Examinatio, Eclipse [Verfinsterung]; its appearing see New moon [Neumond].
+@e 0287L15
+Orbit of the moon, its obliquity to the ecliptic [Mondbahn] 59.
+@e 0287L16..0287L17
+Nodes of the moon, their longitude [Mondknoten], see Longitude of the dragon's head [Länge].
+@e 0287L18
+μονή = the remaining, staying, see Mora.
+@e 0287L19
+Mora 26, 27, 87–89.
+@e 0287L20
+Motus verus vel inaequalis see Motion, true [Bewegung, wahre].
+@e 0287L21..0287L22
+Muḥammed b. Mūsā al-Khwārizmī see al-Khwārizmī.
+@e 0287L23
+Muḥammed b. Mūsā b. Shākir VIII.
+@e 0287L24..0287L25
+Multiplication table for sexagesimal parts [Multiplikationstafel] 68, T. 57$^{b}$.
+@c 0287L26
+**N.**
+@e 0287L27
+Nabonassar XVI, 35, T. 1.
+@e 0287L28
+Nabukodonossor see the preceding.
+@e 0287L29
+Night arc, of the ascendant [Nachtbogen] 97.
+@e 0287L30
+Night hours [Nachtstunden] 20, 25, 97, 98.
+@e 0287L31..0287L35
+Nallino, C. A. IX, XIII, XV, XVI, XVIII (N.), XXI–XXIII (N.), XXIV, 32, 34, 38, 43–48, 54–58, 60, 63, 65, 66, 71–73, 76–78, 80–82, 86, 87, 90–92, 94–96, 99, 100, 102, 103, 105, 233, 236; see also al-Battānī.
+@e 0287L36
+New moon, its appearing [Neumond], 16, 17, 66–68, T. 57$^{a}$.
+@e 0287L37
+Notae, or Notulae (also Signa) 5, 34, 37, 39, 82.
+@e 0287L38
+Zero (*cifra*) [Null] 8, 10, 36; its sign XXIII, 8.
+@c 0287L39
+**O.**
+@e 0287L40
+Obliquatio see Declination [Deklination].
+@e 0287L41
+Ocreat, N. XXIII (N. 2).
+@e 0287L42
+Ophiel XXII.
+@e 0287L43
+Oppolzer, Th. 89, 95.
+@e 0287L44
+Opposition see Conjunction [Konjunktion].
+@e 0287L45
+Place of the casting of the rays [Ort der Strahlenwerfung] see Radiatio stellarum.
+@e 0287L46..0287L47
+Places, mean, of the planets [Örter] see Motion, mean [Bewegung, mittlere].
+@e 0287L48
+— true, of the planets see Longitude, true [Länge, wahre].
+@e 0287L49..0287L50
+Ortus iuxta circulum aequinoctialem see Ascensiones rectae.
+@c 0287L51
+**P.**
+@e 0287L52..0287L53
+Panchasiddhāntikā (= the book of the five Siddhāntas) 46, 64, 68, 75, 90, 235.
+@e 0287L54..0287L55
+Parallax of the moon in longitude [Parallaxe] 28, 29, 91–93, 95, 96, 106, T. 77, 77$^{a}$.
+@e 0287L56
+— — in latitude 28, 29, 93, 94, 96, 106, T. 77, 77$^{a}$.
+@e 0287L57
+Pechüle, C. F. VI, 233–235.
+@e 0287L58
+Perigeum see Submissio.
+@e 0287L59
+Petrus de Dacia XXIII (N. 1).[^n]
+@n The print has «(N. 2)»; Petrus de Dacia is cited in note 1 of p. XXIII, Ocreatus in note 2.
+@e 0287L60
+Philippus Aridaeus XVI, T. 1.
+@e 0287L61..0287L62
+Planets [Planeten] see Motion [Bewegung], Latitude [Breite], Longitude [Länge], Sublimatio, Examinatio, Eccentricity [Exzentrizität], Stations [Stationen].
+@e 0287L63
+Planisphaerium, of Ptolemy IX, XIII.
+@e 0287L64
+Plato of Tivoli 57.
+@e 0287L65
+Altitude of the pole [Polhöhe] see Latitude, geographical [Breite, geogr.].
+@e 0287L66..0287L67
+Precession of the vernal point [Praezession] 42, 46, 50, 52, 54.
+@e 0287L68
+Proiectio lucis stellarum see Radiatio stellarum.
+@e 0287L69
+— radiorum see the same.
+@e 0287L70
+Prosneusis 45.
+@e 0287L71
+Prosthaphaeresis of longitude 49, 233.
+@e 0287L72..0287L74
+Ptolemy [Ptolemäus] IX, XIII, XXIV, 2, 16, 18, 33, 35, 38, 44–47, 49, 50, 57–60, 63, 66, 70, 74, 80, 81, 86, 87, 90, 96, 99, 104–106, 233, 234.
+@e 0287L75
+Puncta (= Minuta) 36.
+@c 0287L76
+**Q.**
+@e 0287L77..0287L78
+Square aspect (tetragonum) [Quadratschein] 30, 31, 98, 99, 101, T. 91–114.
+@e 0287L79
+Quadripartitum 96, 99.
+@e 0287L80
+Quantitas incidentiae see Casus.
+@c 0287L81
+**R.**
+@e 0287L82..0287L83
+Radiatio stellarum (exagonalis, tetragonalis, trigonalis) 30, 31, 98–102, 106, T. 91–114.
+@e 0287L84
+— dextra 31, 101.
+@e 0287L85
+— sinistra 31, 101.
+@e 0287L86
+Radius of the earth's shadow [Radius des Erdschattens] see Diameter [Durchmesser].
+@e 0287L87
+Radix XVI, 7, 33, 36, 41, 81, T. 3, 4, 6, 9, etc.
+@e 0287L88
+al-Raḳḳa 41, 74, 75, 81, 96.
+@e 0287L89..0287L90
+Direct motion of the planets [Rechtläufigkeit], see Progression [Vorwärtsschreiten].
+@e 0287L91
+Right ascension [Rectascension] see Ascensiones rectae.
+@e 0287L92
+Rule of the four quantities [Regel der vier Grössen] 61.
+@e 0287L93
+Rulers [Regenten] see Judices.
+@e 0287L94
+Regiomontanus, Joh. 99, 101.
+@e 0287L95
+Regnum see Exaltation [Erhöhung].
+@e 0287L96
+Respiratio 26, 28, 87, 89.
+@e 0287L97
+Revolutiones annorum see Conversion [Umwandlung].
+@e 0287L98..0287L99
+Robert of Chester [Robert von Chester] VIII, XI–XIII, XVIII, 1, 69, 106.
+@e 0288L01..0288L02
+Robertus Ketenensis or Retinensis see Robert of Chester.
+@e 0288L03
+Rodbertus Cestrensis see Robert of Chester.
+@e 0288L04
+Roger of Hereford [Roger von Hereford] XII, 106.
+@e 0288L05
+Rose, astrological [Rose, astrologische] 102–105.
+@e 0288L06..0288L07
+Rota = circumferentia, peripheria, sphaera 4, 7; see also Diameter [Durchmesser].
+@e 0288L08
+— draconis see Diameter of the earth's shadow [Durchmesser].
+@e 0288L09
+Rudolf of Bruges [Rudolf von Brügge] XIII, XVIII.
+@e 0288L10
+Retrogradation [Rückläufigkeit] see the following.
+@e 0288L11..0288L12
+Retrogression, of the planets [Rückwärtsschreiten] 12, 55, 56; its time 12, 13, 56–58.
+@e 0288L13
+Rumor (?) 31.
+@c 0288L14
+**S.**
+@e 0288L15
+Sachau, E. 37, 38, 49, 66, 79, 105, 235.
+@e 0288L16
+Savasorda X.
+@e 0288L17
+Detriment [Schaden] see Alienatio.
+@e 0288L18..0288L19
+Leap years [Schaltjahre] of the Arabs 34, 37; of the Julian reckoning see Annus bissextus.
+@e 0288L20
+Shadow [Schatten] see Umbra.
+@e 0288L21
+Schiaparelli, Giov. XXIV, 66, 80–83.
+@e 0288L22
+Obliquity of the ecliptic [Schiefe] see Ecliptic [Ekliptik].
+@e 0288L23
+— of the orbit of the moon see Orbit of the moon [Mondbahn].
+@e 0288L24
+Schram, R. 83, 85 (N. 2).
+@e 0288L25..0288L26
+Semita numerorum (column of the numbers) 69, 78, T. 21, 22 etc., 58, 58$^{a}$, 61–66.
+@e 0288L27
+Sened b. ʿAlī 32.
+@e 0288L28
+Servitus see Dejection [Tiefstand].
+@e 0288L29
+Sexagesimal parts [Sexagesimalteile] see Multiplication table [Multiplikationstafel].
+@e 0288L30..0288L31
+Sextile aspect (exagonum) [Sextilschein] 30, 31, 98–101, T. 91–114.
+@e 0288L32
+Seybold, C. F. XXI.
+@e 0288L33..0288L36
+Siddhāntas VIII, 32, 59, 65, 70, 105, 106; Ārya-S. 65, 66; Brahma-S. 32, 65, 235; Śiromani-S. 70; Sūrya-S. 32, 33, 42, 43, 45, 46, 51, 52, 58–60, 62, 64, 65, 68, 74, 75, 78–80, 86, 90, 92.
+@e 0288L37
+Signa see Notae.
+@e 0288L38..0288L42
+Signum, sign of the zodiac, 14, 15, 41, 71; their risings in the right sphere 18–20, 72, 73, T. 59, 59$^{a}$; see also Ascensiones rectae; in the oblique sphere 20, 21, 73–76; see also Ascensiones obliquae.
+@e 0288L43
+Sindhind 32, 33, 43, 46, 49, 70, 103, 235.
+@e 0288L44..0288L45
+Sinus, finding it, 17, 18, 68–71, T. 58 and 58$^{a}$.
+@e 0288L46
+— of the complement (cosinus) 73, 77.
+@e 0288L47
+— diminutus (versus) 17, 69, 71.
+@e 0288L48
+— planus (rectus) 17, 21, 22, 69, 71, 77.
+@e 0288L49..0288L51
+Sun [Sonne] see Motion [Bewegung], Longitude [Länge], Sublimatio, Declination [Deklination], Diameter [Durchmesser], Examinatio, Eclipse [Verfinsterung].
+@e 0288L52..0288L53
+Spatium longinquum (remotum) 26–28, 86, 87, 94, 95.
+@e 0288L54
+— propinquum 26–28, 86, 87, 94, 95.
+@e 0288L55
+Stations, of the planets [Stationen] 12, 13, 55–58, T. 27–56.
+@e 0288L56
+Steinschneider, M. XIII, 41.
+@e 0288L57
+Star year [Sternjahr] see Year, sidereal [Jahr, siderisches].
+@e 0288L58
+Standing still of the planets [Stillstand], see Stations [Stationen].
+@e 0288L59
+Hours, unequal [Stunden, ungleiche], see Temporal hours [Zeitstunden].
+@e 0288L60
+Hour angle [Stundenwinkel] 92, 93.
+@e 0288L61
+Stupor 22–24, 80.
+@e 0288L62..0288L65
+Sublimatio (apogeum) of the moon 14, 15, 64, 88; of the planets 14, 15, 46–50, 52, 53, 60, 63, 64, 235; of the sun 9, 14, 33, 43, 44, 46, 47, 67, 82.
+@e 0288L66..0288L67
+— examinata vel definita 10, 11, 49, 50, 53, 54, T. 27–56.
+@e 0288L68
+Submissio (perigeum) 14, 15, 47, 63, 64, 88.
+@e 0288L69
+Sullimatio see Sublimatio.
+@e 0288L70
+Syzygies [Syzygien] see Conjunction and opposition [Konjunktion und Opposition].
+@c 0288L71
+**T.**
+@e 0288L72
+Tabula (vel pagina) differentiarum 21, 76.
+@e 0288L73
+— correctionis 95.
+@e 0288L74
+Tabulae proportionis 26, 27, 88, 94, T. 73–75.
+@e 0288L75
+— spuriae (al-Battānī's) XV, 40, 102.
+@e 0288L76..0288L80
+Tables (astron.) [Tafeln]: the Alfonsine 35; those of Battānī see al-Battānī; the tested 32, 46, 47, 58; the Persian (of the Shāh) 32, 45, 49, 51, 52, 105, 106, 235; those composed after the Sindhind VIII, 70; Theon's 94.
+@e 0288L81
+Day arc of the ascendant [Tagebogen] 97.
+@e 0288L82
+Day hours [Tagesstunden] 20, 25, 76, 97, 98.
+@e 0288L83
+Tangent [Tangens] see Umbra.
+@e 0288L84
+Tempora = equatorial degrees 97.
+@e 0288L85
+Termini see Bounds [Grenzen].
+@e 0288L86
+Tetragonum see Square aspect [Quadratschein].
+@e 0288L87
+Thābit b. Ḳurra XI.
+@e 0288L88
+Thebit see Thābit.
+@e 0288L89
+Thibaut, G. 42, 46, 64, 68, 75, 90, 235.
+@e 0288L90
+Thoth (Egyptian deity) XXII.
+@e 0288L91
+Dejection [Tiefstand] 104, T. 116.
+@e 0288L92
+Sign of the zodiac [Tierkreiszeichen] see Signum.
+@e 0288L93
+Trepidation of the fixed stars 42.
+@e 0288L94
+Trigonalia see Triplicities [Triplizitäten].
+@e 0288L95
+Trine aspect [Trigonalschein] 30, 31, 98, 99, 101, T. 91–114.
+@e 0288L96
+Trigonum see the preceding.
+@e 0288L97
+Triplicities [Triplizitäten] 104.
+@c 0288L98
+**U.**
+@e 0288L99
+Udjain see Arin.
+@e 0288L100
+Uhlemann 105.
+@e 0289L01
+Ujjayinī see Arin.
+@e 0289L02
+Ulūgh Beg 78.
+@e 0289L03
+Umbra meridiana et aequinoctialis 20, 21, 74, 76.
+@e 0289L04
+— mankūs (versa) = tangent 22, 76–78.
+@e 0289L05..0289L06
+— mustewia (plana) = cotangent 21, 22, 68, 76–78, 106, T. 60.
+@e 0289L07..0289L08
+— terrae 26, 86–91; see also Diameter of the earth's shadow [Durchmesser].
+@e 0289L09..0289L11
+Conversion (conversio, revolutio) of the years of birth (annorum nativitatum) [Umwandlung] 102, 103, 106, T. 115.
+@e 0289L12
+— of the years of the world (annorum mundi) 103.
+@c 0289L13
+**V.**
+@e 0289L14
+Varāha-Mihira 46, 235.
+@e 0289L15..0289L16
+Eclipse of the moon [Verfinsterung] 26–28, 86–90, T. 73–76.
+@e 0289L17
+— of the sun 28, 29, 94–96, T. 78.
+@e 0289L18
+Distribution of the 12 astrological houses [Verteilung], see Houses [Häuser].
+@e 0289L19
+Full moon [Vollmond] 84.
+@e 0289L20..0289L21
+Progression of the planets [Vorwärtsschreiten] 12, 55, 56; its time 12, 13, 56–58.
+@c 0289L22
+**W.**
+@e 0289L23
+Washington, meridian of, 52.
+@e 0289L24
+Angles of latitude and longitude [Winkel] 91, 92.
+@e 0289L25
+Wüstenfeld, F. XIII.
+@c 0289L26
+**Y.**
+@e 0289L27
+Yaḥyā b. Abī Manṣūr 32.
+@e 0289L28
+Yaʿḳūb b. Ṭāriḳ 32, 70.
+@e 0289L29..0289L31
+Yezdegird III, the last king of the Sasanians, VII, VIII, XV, 33, 35, 37, 106, T. 1, see also Aera.
+@e 0289L32
+Ysidorus see Isidore [Isidor].
+@e 0289L33
+Yojana 91.
+@c 0289L34
+**Z.**
+@e 0289L35
+al-Zarḳālī 236.
+@e 0289L36
+Time, mean [Zeit, mittlere] 80.
+@e 0289L37
+— true 80.
+@e 0289L38
+Equation of time [Zeitgleichung] 25, 80, 84, 106, T. 67–68.
+@e 0289L39..0289L41
+Temporal hours (unequal) [Zeitstunden] 20, 21, 25, 76, 81, 84, 97, 98; see also Night hours [Nachtstunden] and Day hours [Tagesstunden].
+@e 0289L42
+Zenith distance (of the moon) [Zenitdistanz] 92.
+@e 0289L43
+Centre [Zentrum] see Centrum.
+@e 0289L44
+Zeuthen, H. G. VII, 68, 71.
+@e 0289L45
+Zodiacus 29; see also Ecliptic [Ekliptik].

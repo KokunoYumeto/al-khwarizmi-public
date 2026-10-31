@@ -13,6 +13,8 @@ The Arabic *Zīj al-Sindhind* of al-Khwārizmī is lost. Suter's book edits a de
 - [tafeln_1914_latin.pdf](tafeln_1914_latin.pdf): the Latin text and tables of the recension, with the editor's apparatus (pp. 1–31 and 109–231). The text, pp. 1–31, and the tables, pp. 109–231 (Tab. 1–116), are complete.
 - [tafeln_1914_suter.pdf](tafeln_1914_suter.pdf): Suter's German matter (title, contents, foreword, introduction, commentary, corrections, glossary, index) and the pages without text.
 
+Suter's German matter is translated into English, line by line, in [EN/](EN/) ([EN/suter_en.pdf](EN/suter_en.pdf)): AI-translated (Claude), 2026, not proofread by a person.
+
 The two layers are kept apart and never merged into one reader.
 
 ## What is reproduced

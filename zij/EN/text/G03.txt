@@ -1,0 +1,202 @@
+@unit G03
+@e 0279L01..0279L02
+*Mizādj*, temperament, the astrological nature of a heavenly body; see addition 5.
+@e 0279L03..0279L04
+*Mobzota* = *mabsūṭa* (fem. of *mabsūṭ*), spread out, plane (*planus*), T. 15 (N. 2).
+@e 0279L05..0279L07
+*Muadala* and *Muaddala* = *muʿaddala* (fem. of *muʿaddal*), equated, corrected, 13 (N. 2), T. 36, 54.
+@e 0279L08..0279L09
+*Muʿāmalāt* (pl. of *muʿāmala*), commercial or business computations, IX.
+@e 0279L10..0279L12
+*Muchre* = *mu’akhkhara*, conclusion, end, here the eastern and the western end of the inhabited half of the earth, 9.
+@e 0279L13..0279L15
+*Muharram* = *Muḥarram*, the first month of the Muslim year, XIV, XV, 1, 2, 34, 37, etc. T. 2, 3, etc.
+@e 0279L16
+*Muhit* = *muḥīṭ*, circumference, periphery, 18.
+@e 0279L17
+*Muht* see *Mukdh*.
+@e 0279L18..0279L19
+*Mukaam* = *muḳām*, stay, station (of the planets), 12, 13 (N. 8, 12, 14), T. 54.
+@e 0279L20..0279L21
+*Muḳābala*, confrontation, balancing, VIII; see also *Djebr*.
+@e 0279L22..0279L25
+*Mukatil* = *muḳātil*, fighter, murderer, epithet of the planet Saturn, probably used only in Spain and North Africa, T. 27–29.
+@e 0279L26..0279L28
+*Mukdh* = *mukth* (or *makth*), staying, stay (*mora*), the time during which an eclipse is total, 26, 27, 87.
+@e 0279L29
+*Mult* see *Muhit*.
+@e 0279L30..0279L31
+*Munegim* = *munadjdjim*, astronomer, astrologer, XXII, 20 (N. 3).
+@e 0279L32..0279L36
+*Mustakim* = *mustaḳīm*, straight, right; *elfelek elmustakim* = *al-falak al-mustaḳīm*, the right sphere, that is, the celestial sphere as it appears at the equator, 18, 20, 25, etc. T. 59–59$^{b}$.
+@e 0279L37..0279L38
+*Musteri* = *Mushtarī*, the planet Jupiter, T. 11, 12, 33–38.
+@e 0279L39..0279L40
+*Mustewi* = *mustawī*, level, straight, 69, 77; fem. *mustewia* = *mustawiya*, 21.
+@e 0279L41
+*Muth* see *Mukdh*.
+@c 0279L42
+**N.**
+@e 0279L43
+*Nadair* see the following.
+@e 0279L44..0279L47
+*Nadir* = *naẓīr*, the point of the heavens opposite the zenith (*samt al-ra’s*), then in general the opposite point of any point in the heavens, XX, 97, 98, 101.
+@e 0279L48
+*Nāhīd* see *Anāhīd*.
+@e 0279L49..0279L50
+*Nuzf* = *nuṣf* and *niṣf*, half (*dimidium*), T. 73.
+@c 0279L51
+**O.**
+@e 0279L52..0279L53
+*Otari[d]* = *ʿUṭārid*, the planet Mercury, XXI, T. 17, 18, 51–56.
+@e 0279L54
+*Ozari* see the preceding.
+@c 0279L55
+**R.**
+@e 0279L56
+*Rabb*, lord, master, 103.
+@e 0279L57
+*Raba* see *Rabia*.
+@e 0279L58
+*Rabe* = pl. of *Raba* or *Rabia*; see this.
+@e 0279L59..0279L61
+*Rabe elachir* = *Rabīʿ al-ākhir*, the fourth Muslim month, XIV, XV, 34, 84, 86, 89, T. 2, 3, etc.
+@e 0279L62..0279L63
+*Rabe elawel* = *Rabīʿ al-awwal*, the third Muslim month, XIV, XV, 34, T. 2, 3, etc.
+@e 0279L64..0279L67
+*Rabia* = *rābiʿ*, fem. *rābiʿa*, (the) fourth; in computing with sexagesimal fractions the *partes quartae*, that is, the multiples of $\tfrac{1}{60^{4}}$, 15 (N. 26).
+@e 0279L68..0279L71
+*Race* = *ra’s*, head; *race* is probably meant to be the ablative of *rac*; *Race elhamel* = *ra’s al-ḥamal*, head, beginning (of the sign) of the Ram, 20.
+@e 0279L72
+*Rageb* see *Regeb*.
+@e 0279L73..0279L75
+*Ramadham* = *Ramaḍān*, the ninth Muslim month, the month of fasting, XIV, XV, 34, 37, 67, 68, T. 2, 3, etc.
+@e 0279L76
+*Raz* see *Race*.
+@e 0279L77..0279L78
+*Regeb* = *Radjab*, the seventh Muslim month, XIV, XV, 34, 38, 39, T. 2, 3, etc.
+@c 0279L79
+**S.**
+@e 0279L80
+*Saaben* see *Shabin*.
+@e 0279L81
+*Safar* see *Zafar*.
+@e 0279L82..0279L84
+*Ṣāḥib*, lord, master of the house, owner, in astrology the *dominus* of a sign, or of a part of a sign, 103.
+@e 0279L85
+*Sana kabīsa*, leap year, 34.
+@e 0279L86
+*Scabin* see *Shabin*.
+@e 0279L87
+*Scawal* see *Shawel*.
+@e 0279L88
+*Sceir* = *sair*, going, course, path, XXI.
+@e 0279L89
+*Sewil* see *Shawel*.
+@e 0279L90..0279L91
+*Shabin* = *Shaʿbān*, the eighth Muslim month, XIV, XV, 34, 67, 68, T. 2, 3, etc.
+@e 0279L92..0279L94
+*Sharaf* (pl. *ashrāf*), height, elevation, distinction; in medieval astrology *exaltatio*, XXI, 104.
+@e 0279L95..0279L97
+*Shawel* (also *Shavvel*) = *Shawwāl*, the tenth Muslim month, XIV, XV, 34, 39, T. 2, 3, etc.
+@e 0280L01..0280L02
+*Shemeli* = *shamālī*, northern, 13, 16, 18, 29 (N. 5, 12, 13).
+@e 0280L03..0280L04
+*Shemelia* = *shamālīya*, fem. of the preceding, 29 (N. 5, 13).
+@e 0280L05
+*Shems* = *Shams*, sun, 58, T. 21–26.
+@e 0280L06..0280L08
+*Shoa* = *shuʿāʿ* (pl. *shuʿuʿ* and *shuʿāʿāt*), ray of a heavenly body, for example of the sun, 31 (N. 6), T. 91; *matrak elshoa* see *Matrak*.
+@e 0280L09..0280L10
+*Shohor* = *shuhūr*, pl. of *shahr*, month, T. 9; see also *filshohor* (under *fi*).
+@e 0280L11
+*Ṣifr*, empty, zero, 35.
+@e 0280L12
+*Sohor* see *Shohor*.
+@e 0280L13..0280L14
+*Ṣūra*, form, figure; *ṣūrat al-arḍ*, picture (figure) of the earth, IX.
+@e 0280L15
+*Szukuf* see *Zukut*.
+@e 0280L16
+*Szukut* see *Zukut*.
+@c 0280L17
+**T.**
+@e 0280L18..0280L20
+*Ṭabaḳāt* (pl. of *ṭabaḳa*), classes; *ṭabaḳāt al-umam*, the classes of the nations, IX; see also *Umam*.
+@e 0280L21
+*Tabeb* = *ṭabīb*, scholar, physician, XXII, 20.
+@e 0280L22..0280L25
+*Tadil* = *taʿdīl*, equation (of the sun, the moon and the planets), rendered in the Latin text by *aequatio*, *coaequatio* and *examinatio*, 9, 10, 46 etc. T. 21–56.
+@e 0280L26..0280L27
+*Tarbea* = *tarbīʿ*, quartile or square aspect (astrol.) T. 91.
+@e 0280L28..0280L30
+*Ta’rīkh*, reckoning of time, chronicle, date, IX; *Ta’rīkh al-ṣufr*, the Spanish era, 35; see also *Acofra*.
+@e 0280L31..0280L33
+*Tedewir* = *tadwīr*, turning (in a circle); *felek eltedewir* = *falak al-tadwīr*, the epicycle, T. 9 (N. 20).
+@e 0280L34..0280L35
+*Tethlith* = *tathlīth*, trine or trigonal aspect (astrol.) T. 91.
+@e 0280L36..0280L37
+*Tezdiz* = *tasdīs*, sextile or hexagonal aspect (astrol.) T. 91.
+@e 0280L38
+*Tezweit* see *Tezwiet*.
+@e 0280L39..0280L40
+*Tezwiet* = *taswiya*, equalizing, arrangement, distribution, 25, 96, T. 79.
+@e 0280L41..0280L42
+*Thaur*, bull, the sign of the Bull (*Taurus*) in the zodiac, T. 59$^{a}$.
+@e 0280L43
+*Thedewir* see *Tedewir*.
+@e 0280L44..0280L45
+*Thelide* and *Thelidhe* = pl. of *Thelidha*; see the following.
+@e 0280L46..0280L49
+*Thelitha* = *thālitha*, fem. of *thālith*, (the) third; in computing with sexagesimal fractions the *partes tertiae*, that is, the multiples of $\tfrac{1}{60^{3}}$, 15 (N.).
+@e 0280L50
+*Theni* = *thānī*, (the) second, 12.
+@e 0280L51..0280L55
+*Thenia* = *thāniya*, fem. of the preceding, second (of arc or time); in computing with sexagesimal fractions the *partes secundae*, that is, the multiples of $\tfrac{1}{60^{2}}$, XXIII, XXV, 11, 14, 15, 36, 69, T. 4, 5, etc.
+@e 0280L56
+*Thuid* see *Thuld*.
+@e 0280L57
+*Thuld* = *thulth*, a third, 9.
+@e 0280L58
+*Thur* see *Thaur*.
+@c 0280L59
+**U.**
+@e 0280L60
+*Udjain* see *Arin*.
+@e 0280L61..0280L62
+*Ule* = *ūlā*, fem. of *awwal*, (the) first, T. 2, 3, etc.
+@e 0280L63
+*Umam* (pl. of *umma*), peoples, nations.
+@e 0280L64
+*Uzain*, the Arabic form of the Indian *Udjain*; see *Arin*.
+@c 0280L65
+**W.**
+@e 0280L66..0280L69
+*Wa*, Arabic preposition, and; for example *wakhod* = *wakhudh*, and take, XXII, 27 (N. 18); *wahezatu* = *wakhāṣṣathu*, and its anomaly, T. 6–8; see also *Heza*.
+@e 0280L70
+*Wabāl*, detriment, 161.[^n]
+@n So the print; *wabāl* is explained on p. 103, and p. 161 is Table 50.
+@e 0280L71..0280L77
+*Wacat* = *wasaṭ* (or *wasṭ*), middle, mean, mean motion (of the sun, the moon and the planets), rendered in the text and in the tables mostly by *medialitas*, 7–12 etc., 41, T. 4–20, etc.; *wacat alkamar* = *wasaṭ al-ḳamar*, the mean course (the mean motion) of the moon, T. 6–8.
+@e 0280L78..0280L81
+*Wadjh*, pl. *wudjūh*, front side, face, manner, etc.; in astrology the third part (10°) of a sign of the zodiac (Latin *decanus*, also *facies*) 104.
+@e 0280L82
+*Wakhod mebibelche* XXII, 27 (N. 18).
+@e 0280L83
+*Wazat* see *Wacat*.
+@c 0280L84
+**Y.**
+@e 0280L85
+*Yle* see *Ule*.
+@c 0280L86
+**Z.**
+@e 0280L87..0280L88
+*Zafar* = *Ṣafar*, the second Muslim month, XIV, XV, 2, 34, 42, 43, 45 etc. T. 2, 3, 4 etc.
+@e 0280L89
+*Zahat* see *Caat*.
+@e 0280L90
+*Zare* see *Care*.
+@e 0280L91
+*Zenia* see *Thenia*.
+@e 0280L92..0280L95
+*Zich* = *zīdj* (Persian *zīg*), a work of astronomical tables, VIII, 1, 32, etc. T. 116; *zīdj al-shāh* or *al-shahriyār*, the tables of the Shāh (of the king) = the Persian tables, 32,

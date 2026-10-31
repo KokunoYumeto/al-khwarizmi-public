@@ -1,0 +1,71 @@
+@unit K03
+@p+ 0070L01..0070L05
+months, which Ptol. too used for his astronomical data, with their *Signa* or *Notae*. — Both the Persian and the Coptic names are rather disfigured in the two Mss. M and N, which alone contain the two Tables 2$^{a}$ and 2$^{b}$; we have entered the correct ones in the glossary, after Nallino[^38.1] and al-Bīrūnī's *Chronology*[^38.2].
+@h 0070L06
+Chapter 5. On finding the Roman year
+@c 0070L07
+(Text pp. 6–7, Tables 3 and 3$^{a}$.)
+@p 0070L08..0070L19
+The title is really *De anni bissextilis inventione* (on finding the bissextile year). But in fact it is a matter of converting the years of the *Hijra* into years of the *Seleucid era*, or of finding the *Roman* date that corresponds to a given *Arab* date. The years of the Roman era were also called *anni bissextiles* (leap years), which seems somewhat strange, since the Arabs too had leap years; but this *anni bissextiles* stands in contrast to the *anni vagi* of the Egyptians, who knew no *intercalation*. The corresponding Table 3 is headed *Pagina reducendi annos Alexandri ad elhigeram* (page for reducing the years of Alexander to the Hijra), which is really incorrect. The table is arranged somewhat differently from the corresponding tables of Batt.[^38.3], which give, for the beginning of each year of the *Hijra* from 1 to 600, the corresponding date of the *Roman era*; Kh.'s table takes up much less room, but still requires subsidiary computations. We give three examples of this reduction.
+@p 0070L20..0070L21
+1. To which day of the *Roman era* does *1 Muḥarram* of the year 520 AH correspond?
+@t spec=lrrrl 0070L22..0070L24
+At the end of the 510th year AH there had elapsed | 1427 y. | 7 m. | 5$\tfrac{1}{4}$ d. | of the Roman era
+9 Muslim years are | = 8 y. | 8 m. | 27 d. | of the Roman era
+sum: | 1436 y. | 3 m. | 32$\tfrac{1}{4}$ d. |
+@p 0070L25..0070L32
+Since a conversion of 12 months into one year has taken place once, one must subtract 5$\tfrac{1}{4}$ days from this sum (for if one takes a year for 12 months, one has taken 5$\tfrac{1}{4}$ days too many)[^38.4]; this gives 1436 y. 3 m. 27 d. Since among the 3 months from October onwards there are two months of 31 days, one must subtract 2 more from the number of days; this gives 25 days. That is, since the beginning of the Roman era (1 Oct. 312 BC) 1436 y. 3 m. 25 d. have elapsed; that is, *1 Muḥarram* 520 AH corresponds to *26 Kānūn II* of the year 1437, that is, to *26 January* 1126 AD.
+@p 0070L33..0070L34
+2. To which day of the *Roman era* does *5 Rajab* of the year 413 AH correspond?
+@t spec=lrrrl 0071L01..0071L05
+At the end of the 390th year AH there had elapsed | 1311 y. | 2 m. | $\tfrac{1}{4}$ d. | of the Roman era
+22 Muslim years are | = 21 y. | 4 m. | 5$\tfrac{3}{4}$ d. | of the Roman era
+the first 6 Muslim months are | = | 5 m. | 27 d. | of the Roman era
+and in Rajab a further | | | 4 d. |
+sum: | 1333 y. | 0 m. | 7 d. |
+@p 0071L06..0071L10
+Since again a conversion of 12 months into one year has taken place once, one must take 5$\tfrac{1}{4}$ days from this sum; this gives 1333 y. 0 m. 2 d. That is, from the beginning of the Roman era to 5 Rajab 413 AH, 1333 y. 0 m. 2 d. have elapsed; or 5 Rajab 413 corresponds to 3 *Tishrīn I* of the year 1334, that is, to *3 October* 1022 AD.[^39.1]
+@p 0071L11..0071L12
+3. To which day of the *Roman era* does *3 Shawwāl* of the year 399 AH correspond?
+@t spec=lrrrl 0071L13..0071L17
+At the end of the 390th year AH there had elapsed | 1311 y. | 2 m. | $\tfrac{1}{4}$ d. | of the Roman era
+8 Muslim years are | = 7 y. | 9 m. | 8$\tfrac{1}{4}$ d. | of the Roman era
+the first 9 Muslim months are | = | 8 m. | 26 d. | of the Roman era
+and in Shawwāl a further | | | 2 d. |
+sum: | 1319 y. | 7 m. | 36$\tfrac{1}{2}$ d. |
+@p 0071L18..0071L26
+Since again a conversion of 12 months into one year has taken place once, one must take 5$\tfrac{1}{4}$ days from this sum; this gives 1319 y. 7 m. 31$\tfrac{1}{4}$ d. Since among the 7 months from October onwards there are four months of 31 days, one must subtract 4 more from the number of days; this gives 1319 y. 7 m. 27$\tfrac{1}{4}$ d. Since, further, February is among these 7 months, one must add 2 to the number of days; this gives 1319 y. 7 m. 29$\tfrac{1}{4}$ d. That is, from the beginning of the Roman era to 3 Shawwāl 399 AH, 1319 y. 7 m. 29 d. have elapsed; or *3 Shawwāl* 399 corresponds to *30 Hiyār* (the correct form is *Ayyār*) 1320, that is, to *30 May* 1009.
+@p 0071L27..0071L30
+By the modern comparative tables one obtains 27 January for the first example, 4 October for the second and 31 May for the third; Kh. or Maslama, then, like Batt., put the beginning of the Muslim era on 15 July 622 instead of the 16th.
+@p 0071L31..0071L36 + 0072L01..0072L07
+Table 3$^{a}$ serves to determine whether the Roman year found is a leap year or not, and with which weekday it and its months begin. The columns headed with the names of the months contain the *Signa* (*Notae*). It should be noted that, if one wants the beginning of a month of a given year in the *Julian* reckoning, one has to add 311 (312) to this year number.[^39.2] Further, one must take into account that in the Julian calendar the days of a month fall again on the same weekdays as before after 28 years have passed, so that in Table 3$^{a}$, under *Anni romanorum plani*, only the remainders are entered that result from dividing the year number by 28; instead of the remainder 0 the number 28 stands at the end of the column. To spare this division each time, Table 3 has a column (the last) with the multiples of 28; the same multiples, in considerably greater number, are also found in Table 1. I give three examples.
+@p 0072L08..0072L09
+1. What weekday was 5 March (Syr. *ādhār*, in our tables written adar) of the year 1363 of the *Roman* era?
+@p 0072L10..0072L15
+In Table 1 one finds the nearest number below 1363 that is divisible by 28 to be 1344; this taken from 1363 leaves 19; in Table 3$^{a}$ one finds against 19, in the column headed “*Mart.*”, the *nota* 1, that is, 1 March fell on a Sunday, the 5th, then, on a *Thursday*. This year of the Roman era was a leap year, for in the column headed *Anni bissextiles* there stands *bissext.*; and so it was, for it corresponds to the year 1052 of the Julian reckoning.
+@p 0072L16..0072L22
+2. What weekday was 26 January 1126 of the *Julian* reckoning? We add the number 311 to 1126; this gives 1437; in Table 3 one finds the nearest number divisible by 28 to be 1428; this taken from 1437 leaves 9; in Table 3$^{a}$ one finds against 9, in the column headed January, the *nota* 6, that is, 1 January fell on a Friday, and so did the 8th, the 15th and the 22nd; the 26th, then, on a *Tuesday*. This result agrees with the statement on p. 5 of the text (see also above, p. 37).
+@p 0072L23..0072L24
+3. What weekday was 10 October of the year 1912 of the *Julian* reckoning?
+@p 0072L25..0072L28
+We add the number 312 to 1912 (see p. 39); this gives 2224; the nearest number divisible by 28 is 2212 (this number no longer stands in our tables), remainder 12; to it belongs, in Table 3$^{a}$ under October, the nota 2; so 1 October fell on a Monday, and so did the 8th; the 10th, then, on a *Wednesday*.
+@p 0072L29..0072L30
+For the correct readings of the Syrian names of the months, which stand at the top of the headings of the individual columns, I refer to the glossary.
+@p 0072L31..0072L37
+These first six tables (1, 2, 2$^{a}$, 2$^{b}$, 3, 3$^{a}$) correspond, some wholly, others only in part, to the spurious tables, that is, those not by Batt., that Nallino added at the end of his edition (II, pp. 300–305), and which certainly come from Maslama al-Majrīṭī, as is stated directly of some of them. This of course formed an essential reason for our conjecture that in this work we have before us not Kh.'s original tables but Maslama's reworking. The correspondence of these tables is as follows:
+@t spec=lcl 0072L38..0072L40
+Batt. p. 301 (first half) | = | Kh. Table 2
+Batt. p. 301 (second half) | = | Kh. Table 2$^{a}$
+Batt. p. 302 | = | Kh. Table 3$^{a}$ and the left half of 1
+@f 38.1 0070N01
+Batt., ed. Nallino, I, 67 and 243.
+@f 38.2 0070N02
+English translation by Sachau, pp. 82 and 199–217; Arabic text pp. 215–233.
+@f 38.3 0070N03
+Ed. Nallino, II, 9–18.
+@f 38.4 0070N04
+Since the months are reckoned at only 30 days.
+@f 39.1 0071N01..0071N03
+If the date falls in the months October to December, one must subtract 312 from the Roman year number to obtain the Christian (Julian) year number, otherwise 311; the reader will easily find the explanation.
+@f 39.2 0071N04
+See the preceding note.

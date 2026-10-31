@@ -1,0 +1,57 @@
+@unit F04
+@p+ 0016L01..0016L06
+which are missing in the other three manuscripts, as the “arranger” of the translation of Adelard of Bath. This arranging hand can indeed be felt in the text in several respects, as we shall see below, but not in the order of the tables: there Ms. N shows a bad disorder that we do not meet in C and O; but we must certainly not lay it at the door of Robert of Chester, rather of later copyists or binders of the manuscript.
+@p 0016L07..0016L13
+L. C. Karpinski[^XII.1] regards Robert of Chester as identical with Robertus Ketenensis, or Retinensis (Robert of Reading), who was the first to translate the Koran into Latin (1143) and then, as he himself remarks[^XII.2], turned to the study and translation of astronomical and astrological works of the Arabs. A translation by him of the *Algebra* of al-Khwārizmī is also known to exist[^XII.3]. — It is a pity that the result of this arranging hand of Robert of Chester has come down to us once more in disorder and incomplete.
+@p 0016L14..0016L29
+Our treatise occupies fol. 8$^{r}$–68$^{v}$ of Ms. N. Besides it, this codex contains a series of mostly anonymous texts and tables of astronomical and astrological content, of which only those that immediately follow our treatise (fol. 69–84, that is, to the end) concern us: they are tables on various astronomical subjects, especially on eclipses, composed by the Englishman Roger of Hereford (c. 1150–1220)[^XII.4] for the latitude and longitude of that place, which are given as 52° and 24° respectively. Thus fol. 71 says, for example: *Sunt autem hae tabulae compositae super Herefordiam a magistro Rogerio Herefordensi, sicut et praemissa tabula de eclipsi solis et regulae praescriptae. Est autem longitudo Herefordiae ab occidente arcus XXIV graduum, latitudo vero LII*[^XII.5] (these tables were composed for Hereford by Master Roger of Hereford, as were the preceding table of the eclipse of the sun and the rules written before it; the longitude of Hereford from the west is an arc of 24 degrees, and its latitude 52). — On fol. 73 there follows: *Tabula medii motus solis super mediam noctem Herefordiae secundum annos domini* (table of the mean motion of the sun for midnight at Hereford, by the years of the Lord). — These tables may be regarded as supplements to Adelard's translation, for precisely this part of the work, on the eclipses, leaves something to be desired, since the tables of the *ascensiones obliquae* for *Córdoba* are missing; Roger of Hereford has indeed supplied this, but not for Córdoba: for his home town.
+@p 0016L30..0016L37 + 0017L01..0017L03
+How, then, are these manuscripts related to one another? As I have mentioned above, M is most probably a careless copy of C. As for N, we are of the opinion that Robert of Chester had both C and O, or their archetypes, before him: in the text he follows C almost word for word, with only a few deviations; in the figures of the tables he follows now the reading of C, now that of O, but the former more often. Robert's correcting hand shows itself above all in his having replaced, with very few exceptions, the many Arabic words that C and O leave untranslated or keep beside the translation by Latin ones: thus for *dakaicae* he always has *minuta*, for *eltheniae* *secunda*, for *elwacat* *medius cursus*, for *tadil* *coaequatio* (not *aequatio*), for *elgeib* *sinus*, for *elfelek elmustakim* *circulus aequatorialis* or *aequinoctialis*, etc.
+@p 0017L04..0017L35
+The relation of C to O, and the relation of both to Adelard's autograph, is the hardest to explain. Bjørnbo, who left no written statement on the matter, was of the opinion, according to a letter to me from Prof. Heiberg in Copenhagen, “that we have only copies of two unfinished working copies of the translator, so that the restitution of an original text would be impossible; rather, in many cases the two texts would have to be printed side by side.” Yet the two texts C and O do not differ from each other so much that this would be necessary; Bjørnbo himself did it in one single chapter only (no. 7), and we have followed him in this. He is right that a restitution of the original text is impossible, and that very probably the text and the tables are incomplete in C and O too, though only slightly. But the deviations are nevertheless such that they cannot come from the mere copying of one manuscript from the other; and so the conjecture has forced itself upon us that the scribe of O or of C — which of the two we cannot decide — had another translation before him besides Adelard's, and took his text now from the one, now from the other, whichever seemed to him the better. It is indeed very probable that Hermannus Dalmata, the contemporary and friend of Robert of Chester, also translated the tables of al-Khwārizmī (as altered by Maslama). In a passage of the translation of Ptolemy's *Planisphaerium* with Maslama's commentary, which was long wrongly ascribed to Rudolf of Bruges, Hermannus says: *Quem locum a Ptolemaeo minus diligenter perspectum cum Albatene miratur et Alchoarismus, quorum hunc quidem opera nostra Latium habet, illius vero commodissima translatio Roberti mei industria, Latinae orationis thesaurum accumulat*[^XIII.1] (al-Khwārizmī, together with al-Battānī, wonders at this place, which Ptolemy examined with too little care; of these two, Latium has the former through our labour, while a most convenient translation of the latter, by the diligence of my Robert, adds to the treasure of the Latin tongue). Might the different rendering of the Arabic letter *shīn* in the two manuscripts C and O, by *sh* (English) and by *sc* (Dalmatian-Italian?) respectively, be connected with this? I must leave it to the philologists to pursue this question further and, if possible, to decide it. There is then the further question whether Hermannus Dalmata also brought Adelard's translation into his comparison; as a friend of Robert of Chester, its “arranger”, he will surely have known this translation.
+@p 0017L36..0017L37 + 0018L01..0018L08
+Since I received the photographs of Ms. N from Madrid (chiefly through my own fault) only when the text and the tables had already been written out ready for the press, I have taken the following course so as not to have to make too many corrections in the footnotes: in the cases where N agrees with C, and these are the majority, I have mostly not mentioned Ms. N at all; where N is missing in the footnotes, then, its reading is the same as that of C. — Since N shows rather many deviations from C and O in the titles of the columns, I have put these together below for the two main groups of tables, so as not to have to give them again in the notes to each table:
+@p 0018L09..0018L10
+In Tables 9 to 20, which contain the mean motion of the planets and of the head of the dragon of the lunar orbit, N has
+@t spec=lll 0018L11..0018L14
+for *Medialitas* | always | *Medius cursus*
+for *plani* | always | *residui*
+for *Heza* | always | *Argumentum*
+for *partes horarum* | sometimes | *minuta horarum*
+@p 0018L15..0018L16
+The names of the months are written in N almost throughout as follows (variants in brackets):
+@t spec=ll 0018L17..0018L28
+*Almuharram* | *Rageb*
+*Szafar* (*Szaffar, Szaphar*) | *Saaben* (*Szaaben*)
+*Rabbe*[^XIV.1] (*Rabe*) | *Ramadhan* (*Ramadham*)
+*Rabbe* (*Rabe*) | *Sewil*
+*Jumedi* | *Dulkidda* (*Dulkadda*)
+*Jumedi* | *Dulheigga* (*Dulheiga, Dulhegga*)
+@p 0018L29..0018L30
+In Tables 22 to 56 (21 is missing in N), which contain the equations of the sun, of the moon and of the five planets, N has
+@t spec=lll 0018L31..0018L36
+for *Examinatio* | always | *Coaequatio*
+for *Catar* (*Semita, Pagina, Via*) | always | *Linea*
+for *Computatio minuenda* | mostly | *Computatio diminuta*
+for *Computatio augenda* | mostly | *Computatio aucta*
+for *Sublimatio examinata* | always | *Sublimatio definita*
+for *Heza* | always | *Argumentum*
+@p 0018L37..0018L40
+Ms. N also contains some larger additions and marginal glosses, which I could not well take into the footnotes, since almost all of them need a commentary; I give them here in the introduction, in the order in which they occur in the text and in the tables:
+@p 0018L41..0018L45
+1) On fol. 8$^{r}$, after the words *omnia quae hic* (in our text p. 2), which should form the end of the first column, there come four more lines in the same hand which evidently do not belong to our text but probably to the text of fol. 7$^{v}$: *Ab aequinoctio usque ad solstitium augmentatio sive diminutio dierum et noctium duorum minutorum et XL secundorum computatur* (from the equinox to the solstice the increase or decrease of the days and the nights is reckoned at two minutes and 40 seconds).
+@f XII.1 0016N01
+*Biblioth. mathem.*, 3rd series, vol. 11 (1911), p. 127.
+@f XII.2 0016N02
+In the introduction to his translation of the Koran.
+@f XII.3 0016N03
+*Biblioth. mathem.*, ibid., pp. 125–131.
+@f XII.4 0016N04..0016N05
+See my paper *Die Mathematik auf den Universitäten des Mittelalters*, p. 21 (Wissenschaftl. Beilage zum Programm der Kantonsschule in Zürich, 1887).
+@f XII.5 0016N06
+In another place the latitude is given as 51° 30′.
+@f XIII.1 0017N01..0017N05
+See Wüstenfeld, *Die Übersetzungen arab. Werke in das Lateinische seit dem 11. Jahrh.*, p. 52 (in Abhandlungen der k. Gesellsch. d. Wissensch. zu Göttingen, histor.-philolog. Kl. XXII, 2, 1877); Steinschneider, *Die europäischen Übersetzungen aus dem Arabischen*, A, p. 34 (in Sitzungsberichte der k. Akademie d. Wissensch. in Wien, philos.-histor. Kl. CXLIX, 1904); *Al-Battānī*, ed. Nallino, I, Praefatio, p. XLIX.
+@f XIV.1 0018N01
+Without the distinguishing numbers I and II.
+@n The print calls this note at both *Rabbe* and at both *Jumedi*.

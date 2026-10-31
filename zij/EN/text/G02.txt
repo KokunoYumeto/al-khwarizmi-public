@@ -1,0 +1,190 @@
+@unit G02
+@c 0277L01
+**G.**
+@e 0277L02
+*Gauze* see *Jauze*.
+@e 0277L03..0277L06
+*Gauzehar* = *djauzahar* (Persian), the points where the orbits of the planets intersect the ecliptic, especially the nodes of the moon (see also *ʿAḳd*) 15, 41, T. 19, 20.
+@e 0277L07
+*Gavzehar* see *Gauzehar*.
+@e 0277L08..0277L09
+*Gedi* = *djady* (or *djadi*), he-goat, kid, the sign of the Goat in the zodiac, T. 59.
+@e 0277L10..0277L11
+*Gedval* = *djadwal*, table, tabulation (astronomical) 28, T. 60–66, 69–71.
+@e 0277L12..0277L13
+*Geib* = *djaib*, the trigonometric function of the *sine*, 17–19, 21, 22, 69, 71, T. 58, 58$^{a}$.
+@e 0277L14..0277L16
+*Genubi* = *djanūbī*, southern, 13, 16, 18, 29 (N. 1, 6, 14, 15); *genubia* = *djanūbīya* (fem.). 29 (N. 1, 6, 15).
+@e 0277L17
+*Genubium* see the preceding.
+@e 0277L18..0277L19
+*Gidher* = *djidhr*, root, especially square root, 22.
+@e 0277L20
+*Gumedi* see *Jumedi*.
+@c 0277L21
+**H.**
+@e 0277L22
+*Haazem* (?) XXII, 20 (N. 3).
+@e 0277L23
+*Hacib* = *ḥāsib*, calculator, XXII, 20 (N. 3).
+@e 0277L24..0277L25
+*Hacil* = *ḥāṣil*, outcome, result (for example of a computation) 11.
+@e 0277L26..0277L27
+*Ḥadd* (pl. *ḥudūd*), bounds, parts of the signs of the zodiac (Latin *termini*, *fines*) 105.
+@e 0277L28..0277L30
+*Hadhid* = *ḥaḍīḍ*, lowest part, in astronomy the *perigeum* of a planet, rendered in this work by *submissio*, 14 (N. 28).
+@e 0277L31..0277L32
+*Hamel* = *ḥamal*, ram, the sign of the Ram (*Aries*) in the zodiac, T. 59.
+@e 0277L33..0277L35
+*Harket* = *ḥaraka*, motion; *harket elscems* = *ḥarakat al-shams*, motion of the sun, T. 61.
+@e 0277L36..0277L38
+*Hea* = *hai’a*, outward appearance (of the heavens); *ʿilm al-hai’a*, the science of the heavens, astronomy: see also *Kiteb*.
+@e 0277L39
+*Heca* see *Heza*.
+@e 0277L40
+*Helhacib* see *Hacib*.
+@e 0277L41
+*Hemar* see *Ahemar*.
+@e 0277L42
+*Hemeli* see *Shemeli*.
+@e 0277L43..0277L48
+*Heza* = *ḥāṣṣa* and *khāṣṣa*, the motion peculiar to the planet on the epicycle, the so-called *anomaly*, rendered in this work by *argumentum*, XIV, XXI, 9–14 (and notes), 28 (N. 1) 46, 53; T. 6–9, 11, 13, 15–18, etc.
+@e 0277L49..0277L51
+*Higera* = *Hidjra*, Muhammad's flight from Mecca, the beginning of the Muslim era, 1, 3, 33, etc. T. 1.
+@e 0277L52..0277L53
+*Ḥiṣṣa*, share, lot, the argument with which one enters a table, 46.
+@e 0277L54..0277L56
+*Hormi* and *Horom*, corrupted from *Hormuzd* or *Hormuz* = *Ormuzd*, Persian name for the planet Jupiter, XXII, T. 33, 36.
+@e 0277L57..0277L58
+*Hout* = *ḥūt*, fish, the sign of the Fishes in the zodiac, T. 59.
+@e 0277L59..0277L60
+*Hubūṭ*, fall, falling, in astrology the dejection, the fall (*casus*) of a planet, 104.
+@c 0277L61
+**I.**
+@e 0277L62
+*Iblīs*, Satan, the devil, XXI.
+@e 0277L63
+*Idhnascer* = *ithnā ʿashar*, twelve, T. 79.
+@e 0277L64
+*Igstimaat* = *idjtimāʿāt* (pl. of *idjtimāʿ*) see *Istima*.
+@e 0277L65..0277L68
+*Ihtilef* = *ikhtilāf*, difference T. 73; *elihtilef lilmanshar* = *al-ikhtilāf lil-manẓar*, the difference of the aspect (of a heavenly body), that is, its *parallax* 28 (N. 3).
+@e 0277L69
+*Ihtilief*, corrupted from *Ihtilef*; see this.
+@e 0277L70..0277L73
+*Ingile* = *indjilā’*, disappearance, especially the going out or the end of an eclipse, the phase from the totality to the end (Latin *emersio*), 26, 87.
+@e 0277L74
+*Ingine* see *Ingile*.
+@e 0277L75
+*Iṣbaʿ* see *Aṣbaʿ*.
+@e 0277L76..0277L77
+*Ishemz* corrupted from *eshemz* = *el-shems*; see *Shems*.
+@e 0277L78
+*Isticbelet* = *istiḳbālāt* (pl. of *istiḳbāl*) see *Istikbel*.
+@e 0277L79..0277L80
+*Istikbel* = *istiḳbāl*, opposition (of two heavenly bodies), especially of the sun and the moon, 23, T. 70.
+@e 0277L81..0277L83
+*Istima* = *idjtimāʿ*, conjunction (of two heavenly bodies), especially of the sun and the moon, 23, T. 69.
+@e 0277L84
+*Istimaz* see *Istima*.
+@c 0277L85
+**J.**
+@e 0277L86..0277L88
+*Jauze* = *djauzā’* (or *djawzā’*), the sign of the Twins in the zodiac, T. 59$^{a}$; also the constellation of Orion.
+@e 0277L89
+*Jauzehar* see *Gauzehar*.
+@e 0277L90..0277L91
+*Jazdeiard* = *Yezdegird* III, the last king of the Sasanians, XV, XVI, T. 1.
+@e 0277L92
+*Jenubi* see *Genubi*.
+@e 0277L93..0277L95
+*Jumedi elachir* = *Djumādā al-ākhira*, *Djumādā II.*, the sixth month of the Muslim year, XIV, XV, T. 2, 3, etc.
+@e 0277L96..0277L98
+*Jumedi elule* = *Djumādā al-ūlā*, *Djumādā I*, the fifth month of the Muslim year, XIV, XV, T. 2, 3, etc.
+@c 0278L01
+**K.**
+@e 0278L02
+*Kamar* = *ḳamar*, moon, T. 2$^{a}$, 6–8, 21–26, etc.
+@e 0278L03..0278L04
+*Kamarie* = *ḳamarīya*, fem. of *ḳamarī*, relating to the moon, T. 73, 74.
+@e 0278L05
+*Kamene*, corrupted from *Kamarie*.
+@e 0278L06
+*Karnain* see *Dulkarnain*.
+@e 0278L07..0278L09
+*Kawekib* (also *Kavvekib*) = *kawākib* (pl. of *kaukab* or *kawkab*), the heavenly bodies, especially the seven planets, T. 55 (N.).
+@e 0278L10..0278L11
+*Keiwen* = *Kaiwān*, Persian name for the planet Saturn, XXII, T. 27–29.
+@e 0278L12..0278L14
+*Ketib* = *Kātib*, scribe, then a name for the planet Mercury used mainly in Spain and North Africa, T. 51, 53.
+@e 0278L15..0278L19
+*Kiteb* = *Kitāb*, book; *Kiteb hea* = *kitāb al-hai’a*, book of astronomy, 3 (N. 32); perhaps the astronomy of *Djābir b. Aflaḥ* is meant by this, which bears the title *kitāb al-hai’a* in the Ms. of the Escorial.
+@e 0278L20..0278L21
+*Kucuf* and *Kuzuf* = *kusūf*, eclipse, darkening (of the sun and the moon) 27, T. 73, 74.
+@e 0278L22
+*Kucufet* = *kusūfāt* (pl. of *kusūf*) see *Kucuf*.
+@e 0278L23..0278L24
+*Kuscus*, probably = *ḳaus*, arc, 9; see also *Cauz*.
+@e 0278L25
+*Kuszuf* see *Kucuf*.
+@c 0278L26
+**L.**
+@e 0278L27..0278L42
+*Li*, joined with the article *lil*, Arabic preposition, to, for, because of, with respect to; it also denotes simply the dative; also a conjunction: that, so that. For example *libood elabaad* = *lil-buʿd al-abʿad*, for the greatest distance (*pro spatio longinquo*) T. 73 — *liburug elhamel* = *liburdj al-ḥamal*, for the sign of the Ram, T. 79 — *lieztekim* = *liyastaḳīm*, that he may determine, regulate . . . XXI, T. 9 — *lilkawekib* = *lil-kawākib*, for the heavenly bodies, or with respect to the heavenly bodies, T. 91 — *lilmanshar* = *lil-manẓar*, with respect to the aspect (the place of appearance) 28; see also *Manshar* — *liwacat alcuzuf* = *liwasaṭ al-kusūf*, for the middle of the eclipse, 27; see also *Wacat*.
+@c 0278L43
+**M.**
+@e 0278L44..0278L45
+*Mabsūṭ*, spread out (*planus*), 36, 77; see also *Mobzota*.
+@e 0278L46..0278L48
+*Magesti* (also *Megesti*) = *Madjisṭī*, the Almagest (the great Syntaxis) of Ptolemy, 2, 18, etc.
+@e 0278L49..0278L53
+*Magmoa* = *madjmūʿ*, sum, totality; also a participle = collected (fem. *madjmūʿa*) T. 15 (N. 1); *filcinun elmagmoa* = *fī’l-sinīn al-madjmūʿa*, in the years united (by 30) (*in annis collectis*) T. 69.
+@e 0278L54..0278L55
+*Mahwar* = *miḥwar*, axis, the axis of the earth, here its pole, 18.
+@e 0278L56
+*Maimoa* see *Magmoa*.
+@e 0278L57..0278L58
+*Makuz* = *maʿkūs*, reversed, 22 (N. 6), 69; see also *Mankuz*.
+@e 0278L59..0278L60
+*Mandhar* = *manẓar*, aspect, place of appearance, 28 (N. 3), T. 77; see also *Ihtilef*.
+@e 0278L61
+*Mankut* see *Mankuz*.
+@e 0278L62..0278L63
+*Mankuz*, 1) = *mankūs*, reversed, 17, 22, 69, 77; 2) = *manḳūṣ*, diminished (*diminutus*), 17, 69.
+@e 0278L64
+*Manshar* see *Mandhar*.
+@e 0278L65..0278L66
+*Marech* = *Mirrīkh*, the planet Mars, T. 13, 14, 39, 41–44.
+@e 0278L67
+*Mareh* see *Marech*.
+@e 0278L68..0278L70
+*Markez* = *markaz*, middle point, centre, 48; *Tadil elmarkez* = *Taʿdīl al-markaz*, equation of the centre, T. 54.
+@e 0278L71
+*Maruz*, corrupted from *Mankuz*; see this.
+@e 0278L72..0278L74
+*Masīr*, course, path, XXI; *al-masīr al-wasaṭ*, the mean course, the mean motion, 41.
+@e 0278L75..0278L79
+*Matale* = *maṭāliʿ* (pl. of *maṭlaʿ*), ascensions of the heavenly bodies (*ascensiones rectae et obliquae*), rendered in this work by *horoscopi*, 18 (N. 23), T. 59–59$^{b}$, 91 (N. 1), 95 (N. 1), 97 (N. 4).
+@e 0278L80
+*Matarech* see *Matareh*.
+@e 0278L81
+*Matareh* = *maṭāriḥ* (pl. of *maṭraḥ*) see *Matrak*.
+@e 0278L82..0278L84
+*Matrak* = *maṭraḥ*, place of the projection; *matrak elshoa* = *maṭraḥ al-shuʿāʿ*, place of the casting of the rays, 31 (N. 6), T. 91; see also *Shoa*.
+@e 0278L85..0278L87
+*Maudho* = *mauḍūʿ*[^n], place, position; *maudho Jauzegarhu* = *mauḍūʿ djauzaharhu*, place of its (ascending) node, T. 34.
+@n The print has «maudūʿ» here, without the dot under the *d*.
+@e 0278L88..0278L89
+*Medek* = *mudaḳḳ*, finely crushed, divided into very small parts, minute, 7 (N. 20).
+@e 0278L90..0278L91
+*Medte* = *madda* (or *mudda*), extension, duration, T. 13 (N. 17).
+@e 0278L92
+*Megil* see *Meil*.
+@e 0278L93..0278L96
+*Meil* = *mail*, inclination, the declination of every point of the ecliptic to the equator; 13, 14, 58, T. 21 (N. 4); *al-mail al-kullī*, the whole inclination, that is, the obliquity of the ecliptic.
+@e 0278L97..0278L98
+*Mezen* = *mīzān*, balance, the sign of the Balance in the zodiac, T. 59$^{b}$.
+@e 0278L99
+*Mirech*, T. 92, see addition 5.
+@e 0278L100
+*Mirrīkh*, the planet Mars, 236.

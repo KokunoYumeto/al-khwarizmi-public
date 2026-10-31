@@ -1,0 +1,101 @@
+@unit K08
+@t spec=lcl 0085L01..0085L07
+Centrum aequat. | = | 144° 5′ 20″
+Aequat. anomal. corr. | = | 6° 14′ 20″
+| | 150° 19′ 40″
+apogee | = | 248° 30′
+added: | = | 398° 50′
+| | −360°
+| = | 38° 50′ = *true longitude*
+@p 0085L08
+that is, at the given time Saturn was in 8° 50′ of Taurus.
+@c 0085L09
+2. By al-Khwārizmī.
+@t spec=lcl 0085L10..0085L17
+Mean longitude of the sun (by Tables 4 and 5, see above p. 42) | = | 131° 1′[^53.1]
+Mean longitude of Saturn (by Tables 9 and 10) | = | 26° 33′ (386° 33′)
+anomaly (Argumentum) | = | 104° 28′
+Mean longitude of Saturn | = | 386° 33′
+Sublimatio (Apogeum) definita (for 104° 28′) | = | 242° 5′[^53.2]
+centrum | = | 144° 28′
+To this belongs (by Table 31) the Examinatio centri | = | 4° 56′ 30″[^53.3]
+subtracted: | = | 139° 31′ 30″
+@p 0085L18
+This is the centrum aequatum or examinatum.
+@t spec=lcl 0085L19..0085L21
+anomaly | = | 104° 28′
+Examinatio centri | = | 4° 56′ 30″
+added: | | 109° 24′ 30″
+@p 0085L22..0085L28
+This is the argumentum (anomalia) examinatum. For it the examinatio argumenti (*elheza*), that is, the equation of the anomaly, is looked up in Table 30; it is = 5° 35′ 35″, and it is to be added to the centrum examinatum = 139° 31′ 30″[^53.4]; this gives 145° 7′, a quantity that Kh. calls the centrum ultimum. If one again adds to it the sublimatio examinata = 242° 5′, one has the *true longitude* of Saturn for the given time, that is, = 387° 12′ = 27° 12′; that is, Saturn was in 27° 12′ of Aries.
+@p 0086L01..0086L07
+The error of c. 11° with respect to the determination of the true place by Batt. comes in the first place from the smaller mean longitude of Saturn in Kh., which, because Kh. neglects the precession, is c. 10° smaller than in Batt.; but in the second place also from deviating values in the equations of the centre and of the anomaly. If one takes the precession into account in Kh. too, but in other respects proceeds by his method, one obtains for the true place of Saturn c. 43′ less than by Batt.'s method.
+@h 0086L08
+Chapter 11. Determination of the (true) place of the two lower planets
+@c 0086L09
+(Text p. 12, Tables 45–56.)
+@p 0086L10..0086L14
+Kh. remarks that the true place of Venus and Mercury is determined in the same way as for the upper planets, but that the mean longitude of these two planets is the same as that of the sun, and that in the tables for the mean course of these planets (Tables 15 and 16) the anomaly is given instead of the mean longitude[^54.1]. Batt.[^54.2] expresses himself in a similar way.
+@p 0086L15..0086L17
+Here too we give an example, for the planet Venus, and for the theory and the computation of the equations, which depart somewhat from those of the upper planets (especially for Mercury), we refer to Batt.[^54.3]
+@p 0086L18..0086L19
+*Determination of the true place of Venus* for noon of 15 Ṣafar of the year 540 AH.
+@t spec=lcl 0086L20..0086L29
+Anomaly of Venus at the end of the 510th year (by Tables 15 and 16) | | 232° 45′
+increase in 29 years | | 216° 15′
+increase in 1 month | | 18° 30′
+increase in 14 days | | 8° 38′
+sum: | | 476° 8′
+| | −360°
+anomaly | = | 116° 8′
+Mean longitude, the same as that of the sun | = | 131° 1′ (see pp. 42 and 53)
+Sublimatio (apog.) exam. for 116° 8′ (by Table 48) | = | 59° 9′
+centrum | = | 71° 52′
+@t spec=lrlr 0086L30..0086L32
+Centrum | 71° 52′ | Anomaly | 116° 8′
+Examin. centri (by Table 47) | 2° 7′ | Exam. centri | 2° 7′
+Centrum aequat. | 69° 45′ | Argument. exam. | 118° 15′
+@p 0086L33..0086L35 + 0087L01..0087L02
+For this argum. exam. one finds in Table 48, as the equation of the anomaly (examinatio elheza), 44° 43$\tfrac{1}{2}$′; this is to be added to the centrum aequat., which gives 114° 28$\tfrac{1}{2}$′, the centrum ultimum; adding to it the sublim. examin. (= 59° 9′) gives 173° 37$\tfrac{1}{2}$′. This was the *true longitude* of Venus at the given time; that is, the planet was in 23° 37$\tfrac{1}{2}$′ of Virgo.
+@p 0087L03..0087L05
+By the tables of Batt. one finds the true longitude = 181° 17′. That the difference here is not 10°, as with Saturn, but only about 7° 40′, comes from the mean anomaly of Venus being c. 5° greater in Kh. than in Batt.
+@h 0087L06
+Chapter 12. Determination of the longitude of the nodes of the moon
+@c 0087L07
+(Text p. 12, Tables 19 and 20.)
+@p 0087L08..0087L13
+As in Batt., only the ascending node (the dragon's head) is considered, because the longitude of the descending node (the dragon's tail) differs from it by 180°. The mean longitude is computed, like that of the sun and of the moon, from Tables 19 and 20 for any given moment; the result is then subtracted from 360°, because the motion of the nodes is retrograde, and the remainder is the true longitude of the node. I refrain from giving an example of this.
+@h 0087L14
+Chapter 13. On the stations and the forward and backward motion of the planets
+@c 0087L15
+(Text p. 12, Tables 27–56.)
+@p 0087L16..0087L19
+For these determinations Kh. does not set up tables of their own, as Batt. does (II, 138 and 139), but he has a special column for them in the tables of the equations of the planets, headed *Statio prima*; the column *Statio secunda* of Batt., which contains only the complements of the numbers of the *Statio prima* to 360°, Kh. leaves out.
+@p 0087L20..0087L27
+The rule is the following: for any given moment one determines, as in computing the true place of the planet, its *centrum aequat.* (*examinat.*), looks up the *statio prima* for this argument and subtracts it from 360°, and so has the *statio secunda*; then one also determines the *anomalia* (*elheza*) *examinata* of the planet at this moment. If it is equal to one of the two stations, the planet is stationary; if it lies between the two, that is, is greater than the first and less than the second, the planet is retrograde; in the other case (that is, when it is less than the first or greater than the second), it is moving forward.[^55.1]
+@p 0087L28..0087L30
+The rule in Batt. (I, 114) runs exactly the same, except that he leaves out (probably because he thought it obvious) the case where the anomal. exam. is equal to one of the two stations.
+@p 0087L31..0087L32
+*Example*: How did Saturn stand in this respect at noon of 15 Ṣafar of the year 540 AH?
+@p 0087L33
+We found above (p. 53) for Saturn:
+@t spec=cc 0087L34..0087L35
+! Centrum aequatum | Anomalia aequata
+139° 31$\tfrac{1}{2}$′ | 109° 24$\tfrac{1}{2}$′
+@f 53.1 0085N01..0085N02
+We leave out the seconds when they are under 30, and round them up to 1′ when they are over 30.
+@f 53.2 0085N03..0085N05
+By the rules of the text, when the anomaly is greater than 180°, one must add the examin. argumenti (*elheza*) to the sublim. examin., and subtract the sum from the mean longitude of the planet.
+@f 53.3 0085N06..0085N07
+If the centrum is greater than 180°, the examin. centri must be added to the centrum, but subtracted from the anomaly.
+@n The print calls this note at both entries of the examinatio centri.
+@f 53.4 0085N08..0085N09
+When the argumentum (anomalia) examinatum is less than 180°; it is, on the other hand, to be subtracted from the centrum examinatum when the argumentum examinatum is greater than 180°.
+@f 54.1 0086N01..0086N02
+This is what the sentence, somewhat unclear in its first part, means to say: *quod eorum in libro scriptum est argumentum atque eorundem et solis unum idemque est elwacat* (that what is written for them in the book is the argument, and that the *elwacat* of them and of the sun is one and the same).
+@f 54.2 0086N03
+Ed. Nallino, I, 113.
+@f 54.3 0086N04
+Ibid., II, 243–244.
+@f 55.1 0087N01..0087N04
+The second sentence in Batt., *si contra maior secunda statione et minor prima, directus* (if, on the contrary, greater than the second station and less than the first, direct), has a small error, for so put the case is impossible; it must simply read *aut* instead of *et*. The error is already in the Arabic text, where *aw* (or) should stand instead of *wa* (and). (Ed. Nallino, I, 114 and III, 173.)

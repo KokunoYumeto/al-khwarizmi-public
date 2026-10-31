@@ -1,0 +1,63 @@
+@unit K09
+@t spec=lr 0088L01..0088L02
+To 139°[^56.1] there belongs in Table 31 the *statio prima* | 115° 10′
+so the *statio secunda* is | = 244° 50′
+@p 0088L03..0088L05
+Now the *anomal. aeq.* is less than the first station; on that day, then, Saturn was *moving forward* (*direct*). The rule can probably be understood without further commentary.
+@h 0088L06
+Chapter 14. On the time of the direct and the retrograde motion
+@c 0088L07
+(Text pp. 12–13, Tables 27–56.)
+@p 0088L08..0088L09
+If one wants to know the time during which a planet is direct or retrograde, one must proceed as follows, according to Kh.:
+@p 0088L10..0088L25
+a) Let the planet be *retrograde*. If one wants to know how long it has already been retrograde, one takes the difference between the *statio prima* and the *anomal. aeq.* and determines how much time the planet needed to run through this difference; but if one wants to know how long it will still remain retrograde, one takes the difference between the *statio secunda* and the *anomal. aeq.* and determines how much time the planet needs to run through this difference. To find these times one must know the daily motion of the anomaly of the planet; Batt. gives it in his account of this determination. Kh. does not speak of these daily motions; he says simply: *Deinde per argumentum* (that is, here, = logical inference, procedure) *ad hoc negotium proprium, quanto tempore illud transeat, coniectabitur* (then by a reasoning proper to this business it will be inferred in how much time it passes through it). Someone not familiar with the matter would hardly find out what is meant by this; here the clear rules of Batt. put us on the right path: one must divide the said differences between the stations and the anomal. aeq. by the daily motion of the anomaly of the planet[^56.2], and one then obtains the number of days for which the planet has already been retrograde, or will still remain retrograde.
+@p 0088L26..0088L32
+b) Let the planet be *direct*. For this case the rules are incomplete both in Batt. and in Kh., and in the latter unintelligible besides. Two cases must be distinguished here, namely whether the anomal. aeq. is less than the 1st station or greater than the 2nd; in both cases one can ask again how long the planet will still remain direct, and how long it has already been direct. Batt. considers only the first case and asks only the first question; Kh. considers both cases, but asks only one question in each. The complete rule would be the following.
+@p 0088L33..0088L35 + 0089L01..0089L07
+*Case 1*: The *anomal. aeq.* is *less* than the 1st station. If one wants to know how long the planet will still remain direct, one takes the difference between the two and divides it by the daily motion of the anomaly of the planet[^56.3]. Our example above for the planet Saturn belongs to this case: it is, as we have found, direct; the difference between statio I and the anomal. aeq. is 5° 45$\tfrac{1}{2}$′; so it remains direct for another $\dfrac{5^{\circ}\,45\tfrac{1}{2}'}{57'}$ = c. 6 days, then becomes stationary and after that retrograde. — If one wants to know how long the planet has already been direct, one adds the anomal. aeq. to the 1st station[^57.1] and divides the sum by 57′; in our case this gives $\dfrac{224^{\circ}\,34\tfrac{1}{2}'}{57'}$ = 236 days; in all, then, it was direct for 242 days.
+@p 0089L08..0089L13
+*Case 2*: The *anomal. aeq.* is *greater* than the 2nd station. If one wants to know how long the planet will still remain direct, one subtracts the anomal. aeq. from 360°, adds the 1st station to the remainder, and divides the result by the daily motion of the anomaly of the planet. If one wants to know how long the planet has already been direct, one takes the difference between the anomal. aeq. and the 2nd station and divides it by the daily motion of the anomaly of the planet[^57.2].
+@p 0089L14..0089L15
+All this can easily be recognized from the following figure[^n], if we add a few remarks to it.
+@n Here the print has a figure, which is not reproduced: the circle of the epicycle about *H*, with *A* at the left end and *P* at the right end of a horizontal line through *H*, which runs on to *E* far to the right; on the circle *K* at the upper left, *C* at the upper right, *B* at the lower right, *G* at the lower left and *D* at the bottom; the lines *ECK*, *EBG* and the tangent *ED*; *F* on the chord *GB*, joined to *H* by a line perpendicular to the chord; small arrows at *A* and between *P* and *C* show the direction of the planet on the epicycle.
+@p 0089L16..0089L34
+Let *E* be the earth and *H* the centre of the epicycle; *B* and *C* are the stations I and II, at which the retrograde motion begins and ends respectively. According to the theory of Ptol., which Batt. too follows, the retrograde motion does not begin at the point of contact *D* of the tangent from *E* to the epicycle, but at a point *B* so placed that *FB* ∶ *BE* is equal to the ratio of the speed of the centre of the epicycle to that of the planet on the epicycle; if the former ratio (*FB* ∶ *BE*) is greater than the latter, the planet is retrograde, and this takes place on the arc *BC*; on the arc *CAB* it is direct (the short time of standing still being included). But the stations I and II are not constant: they change with the position of the centre of the epicycle *H* on the *deferent*, that is, with the so-called *centrum* of the planet; one must therefore enter the tables of the direct and the retrograde motion with the *centrum* (*aequat.*). On the computation of the stations for any centrum from 0° to 180°, compare Batt.[^57.3] and Ptol.[^57.4]
+@p 0090L01..0090L07
+The values of the *statio prima* in Kh. agree more with those of Batt. than with those of Ptol., though differences of 1′ to 2′ sometimes occur between Kh. and Batt. The greater deviations in Ptol. come from his taking the *mean centrum* as the argument, whereas the two Arab astronomers take the *centrum aequatum*. The agreement between Batt. and Kh. is certainly not accidental; Batt. undoubtedly knew Kh.'s tables, and probably used them too, even though he never cites them.
+@h 0090L08
+Chapter 15. On the declination of the sun
+@c 0090L09
+(Text p. 13, Tables 21–26.)
+@p 0090L10..0090L25
+There is little to remark about these tables. *Porta* in the title is the translation of the Arabic *bāb* = gate, chapter. The column of Tables 21–26 that contains the declination of the sun is headed *Obliquatio solis* = inclination of the sun (Arab. *mayl al-shams*); then we find added *accedentis* (for *ascendentis*) from 0° to 90° (or 360°–270°), and *recedentis* (for *descendentis*) from 90° to 180° (270°–180°). Kh. gives the *greatest declination*, thus the *obliquity of the ecliptic*, as 23° 51′. The *Sūrya-Siddhānta*[^58.1] has 24°, the authors of the “tested tables” give it as 23° 33′, Ptol. has the value 23° 51′ 20″, Batt. 23° 35′; Kh., then, comes nearest to Ptol.: he merely leaves out the 20″ (see above, p. 33). It should be noted, moreover, that a number of Arab astronomers likewise give the Ptolemaic value as 23° 51′, leaving out the seconds. Kh.'s values differ by at most 2″ from those computed by the formula sin *δ* = sin *l* · sin *e* (where *l* denotes the degrees of the ecliptic counted from the vernal point, thus the longitude of the sun, and *e* the obliquity of the ecliptic). These values of the declination are a fine testimony to the accuracy with which Kh. proceeded in composing his tables.
+@h 0090L26
+Chapter 16. On the latitude of the moon
+@c 0090L27
+(Text p. 14, Tables 21–26 and 19–20.)
+@p 0090L28..0090L32
+The latitude of the moon is determined by the same formula as the declination of the sun, that is, *sin latit. lunae* = *sin of the argument of latitude* × *sin of the inclination of the orbit of the moon.* By the argument of latitude one understands the distance of the true place of the moon in the ecliptic from the northern node (the dragon's head). This *argument of latitude* is found in the following way.
+@p 0090L33..0090L34
+To the true place of the moon one adds the mean longitude of the dragon's head [and subtracts 360° from this sum, when it exceeds this quantity][^58.2].
+@p 0090L35..0090L37
+Batt. has the same rule, but then also the following one, which Kh. leaves out: one subtracts the true place of the dragon's head from the true place of the moon, and so has the argument of latitude[^58.3].
+@f 56.1 0088N01
+I take only the whole degrees.
+@f 56.2 0088N02..0088N05
+These numbers for the daily motion of the planets are found in the following tables (under the heading of the column *Heza* (Anomalia or Argumentum)): Table 9, Saturn = 57′ 8″; Table 11, Jupiter = 54′ 9″; Table 13, Mars = 27′ 42″; Table 16, Venus = 37′ 0″; Table 18, Mercury = 3° 6′ 24″.
+@f 56.3 0088N06..0088N07
+This case is considered by Batt. at the end of chapter 46 (ed. Nallino, I, 114) and by Kh. at the end of his rule (p. 13): *Quod si non procul a statione prima fuerit* . . . . (but if it is not far from the first station ...).
+@f 57.1 0089N01
+Strictly: (360° − Stat. II) + Anomal. aeq.
+@f 57.2 0089N02..0089N06
+Batt. does not consider this case at all, and Kh. only the second question of this case, in the passage (p. 13) that begins *Si vero de progrediente scire desideras* (but if you wish to know about a planet moving forward). The text of chapter 46 of Batt. in the edition of 1645, moreover, differs in some places from Nallino's translation and from the Arabic text; it is probable that the latter has omissions that the Arabic text which Plato of Tivoli had before him did not have.
+@f 57.3 0089N07
+Ed. Nallino, II, 245–247.
+@f 57.4 0089N08
+Ed. Heiberg, II, 450–494; translation by K. Manitius, II, 267–302.
+@f 58.1 0090N01
+Ed. Burgess, p. 201.
+@f 58.2 0090N02
+What stands in square brackets is missing in Kh.
+@f 58.3 0090N03
+Ed. Nallino, I, 76.

@@ -1,0 +1,75 @@
+@unit K11
+@p+ 0094L01
+or, as was remarked above, putting the arcs (angles) instead of the sines:
+@c 0094L02
+$\dfrac{\text{latitude at the mean dist. } r}{\text{latitude at the true dist. } r'} = \dfrac{r'}{r}$,
+@p 0094L03
+and this is the second proportion of the *Sūrya-Siddhānta*.
+@p 0094L04..0094L08
+Now the values of the latitude of the planets computed according to Batt. by no means agree with those computed according to the *Sūrya-Siddhānta*; but the latter do not agree with those computed according to Kh. either. We have already remarked above that Kh.'s rule shows no direct agreement with that of the *Sūrya-Siddhānta*; we shall now try to show how far they do agree.
+@p 0094L09..0094L10
+We have found that the numbers of the last column of Tables 27–56, which bears the heading *Latitudo secunda*, are obtained by the formula
+@c 0094L11
+sin *lat. sec.* = sin *argum.* × sin *lat. maxim.*,
+@p 0094L12..0094L25
+where the *argumentum* = the true longitude of the planet less the longitude of its node = the distance of the planet from the node, and the *lat. max.* (at the mean distance) = the *lat. secunda* for 90° (for Saturn = 5° according to Kh.); this *lat. secunda*, then, agrees with the numerator of the value for the latitude at the true distance (see p. 61)[^62.1]. Now Kh.'s rule says that one must divide the *lat. secunda* by the *lat. prima* to obtain the latitude sought: not by the *lat. prima* that corresponds to the preceding argument (the distance of the planet from the node), but by the one that corresponds to the argument *anomalia aequata* (*elheza examinatum* (!) in the text). If one compares this with the formula given in the *Sūrya-Siddhānta* for the latitude at the true distance, this *lat. prima*, which corresponds to the *anomalia aequata*, would then have to be equal to the variable radius *r′*. The tables of the planets (nos. 27–56), however, do not contain this *r′* in absolute magnitude, but give its ratio to the mean radius *r*; in other words, the numbers of the column *lat. prima* represent the values of *r′* when *r* is taken = 1.
+@p 0094L26..0094L30
+How this *r′* was determined we could not find out; but in any case it is wrong that the column of the *lat. prima* is headed with degrees and minutes: *r′*, or rather $\dfrac{r'}{r}$, is a pure number, and so instead of *degrees* and *minutes* it should read *partes* and *minutae*; one then also obtains degrees and minutes again for the quotient of the *lat. sec.* by the *lat. prima*.
+@p 0094L31..0094L32
+We shall now give an *example* that follows Kh.'s rules exactly. Let the *latitude* of *Saturn* be determined for the beginning of 15 Ṣafar of the year 540 AH.
+@p 0094L33..0094L37
+The *anomalia aequata* (*elheza examinata*) for this moment is = 109° 24$\tfrac{1}{2}$′ (see p. 53); to it belongs, by Table 30, the latitudo prima 1° 15′, or rather 1$^{p}$ 15′ = 1$\tfrac{1}{4}$; the true place of the planet for this moment is = 27° 12′ (see p. 53), and the longitude of the node = 103° 12′ (see p. 64); the two added give 130° 24′; to this argument there corresponds in Table 31 the latitudo secunda 3° 48′ 27″[^n]; we now have:
+@n The print has «3° 48″ 27′», with the signs of the minutes and the seconds exchanged.
+@c 0094L38
+3° 48$\tfrac{1}{2}$′ ∶ 1$^{p}$ 15′ = 228$\tfrac{1}{2}$′ ∶ 1$\tfrac{1}{4}$ = 183′ = 3° 3′ = *the latitude sought.*
+@p 0095L01..0095L02
+The computation by Batt.'s rules gives the value 2° 34′; the computation with Batt.'s data, but by Kh.'s rules, gives 2° 28′.
+@p 0095L03..0095L14
+Whether the latitude is *northern* or *southern* our text does not say at all, while Batt. (I, 115–116) speaks clearly about it: by his rules it is *southern* for Saturn in our example; further, the planet is *descendens*, that is, going from the ecliptic towards the south, which can also be read directly in our Table 31: the column from which we took the *lat. sec.* is headed *latitudo Saturni recedentis* (the latitude of Saturn receding). — By the rule of our text the argument for the *lat. sec.* is, it seems, counted from the ascending node through the perigee of the deferent of the planet; counted from the same node through the apogee it would be = 360° − 130° 24′ = 229° 36′, a value from which it would be easier to see that the latitude is southern. — The rule given here for determining the *lat. sec.* is, moreover, the same as the one given for determining the latitude of the moon (see above, pp. 58–59).
+@p 0095L15..0095L27
+If one compares our rule with those in Ptol. and Batt., which agree fairly closely, one sees that they behave in exactly opposite ways as regards the arguments for the latitude and the proportional numbers: Ptol. determines the latitude number with the *anomalia aequata* as argument, and the proportional number (by which the latitude found must be multiplied) with the true longitude of the planet increased by 50° (for Saturn)[^63.1] as argument; Kh., on the other hand, determines the latitude number with the distance of the planet from the ascending node (that is, indirectly with the true longitude), but the proportional number (*latit. prima*) with the *anomalia aequata* as argument. These different conceptions then naturally entail a quite different arrangement of the tables as well; we shall mention only one main difference: for the upper planets Ptol. and Batt. have the maximum of the latitude at the argument 180° and the minimum at 0° (360°); Kh., on the other hand, has the maximum of the *latitudo secunda* at 90° (270°) and the minimum at 0° and 180°.
+@p 0095L28..0095L31
+For the *lower* planets the theory of the determination of the *latitude*, and the computation with the help of the tables, are considerably more complicated still in Ptol. and Batt. than for the upper ones; I may be excused from going into it here, and for details I refer the reader to Nallino's edition of Batt.[^63.2]
+@p 0095L32..0095L33
+As an *example* we give the computation of the *latitude* of *Venus* for the beginning of 15 Ṣafar 540 AH by Kh.'s rules and tables.
+@p 0095L34..0095L36
+The *anomalia* (*argumentum* in the text) *aequata* of Venus for this moment, computed from Tables 15–17, is = 118° 15′ (see above, p. 54); to it belongs in Table 48 the *latit. prima* = 1$^{p}$ 15′.
+@t spec=lcl 0095L37..0095L40
+anomalia aequata | = | 118° 15′
+longitude of the node | = | 59° 27′
+Mean longitude of Venus, the same as that of the sun | = | 131° 1′
+sum: | | 308° 43′
+@p 0095L41
+to which there belongs in Table 46 the *latitud. sec.* 3° 54′.
+@p 0096L01..0096L07
+3° 54′ ∶ 1$^{p}$ 15′ = 234′ ∶ 1.25 = 187′ = 3° 7′ = the *latitude* of *Venus* at the given moment. By the tables of Batt. one finds the latitude = 57′; this great difference suggests that Kh.'s rule is not right. Indeed it is unclear to us why the *anomalia aequata* must be added as well to the sum of the mean longitude and the longitude of the node; if one leaves it out, the argument for the lat. sec. comes out as 190° 28′, and to it belongs in Table 50 the lat. 54$\tfrac{1}{2}$′; the *latitude* is then =
+@c 0096L08
+54.5′ ∶ 1.25 = c. 44′.
+@p 0096L09..0096L10
+Here too our text says nothing about the kind of latitude; by *Batt.'s* rules it is *northern*.
+@p 0096L11..0096L17
+With this we leave this difficult chapter on the latitude of the planets. In our case the question was made harder still by the fact that the Indian astronomical works are not in agreement on this point either: the rule of the *Sūrya-Siddhānta*, which we quoted above, does not agree with that of the *Pañcasiddhāntikā*[^64.1]; there, for Saturn and Mercury, the sine of the distance from the node is multiplied by the constant $\tfrac{9}{8}$ (if the commentator is right), whereas in the *Sūrya-Siddhānta* it is multiplied by the variable quantity $\dfrac{\text{greatest latitude}}{r'}$.
+@h 0096L18
+Chapter 18. On the apogee and the perigee of the planets
+@c 0096L19
+(Text pp. 14–15.)
+@p 0096L20..0096L33
+These technical terms are rendered by the translator by *sublimatio* (O and C sometimes have *sullimatio*) and *submissio*. We have already given above (p. 46) the apogees of the planets and of the sun according to Kh., and have also spoken of their deviations from the values of Batt. and of the *Sūrya-Siddhānta*; we add here only that, with regard to the moon, the remark is made that its apogee is movable, and that this motion amounts to 6′ 40″ 18‴ in a day and 16″ 42‴ 27$^{\mathit{IV}}$ in an hour. This motion, which is the cause of the anomalistic month, we do not find mentioned in Batt.; according to the more recent determinations the line of the apsides needs 3231.466$^{d}$ (= c. 9$^{a}$) for a full revolution, which makes a motion of 6′ 41″ in a day; if in the above numbers one compares the hourly motion with the daily one, the latter, if the former is right, would have to be 6′ 40″ 58‴; so 58‴ should probably be read instead of 18‴, a confusion that is easily possible in numbers expressed in Arabic letters; and then Kh.'s data agree excellently with the modern values.
+@h 0096L34
+Chapter 19. On the nodes of the planets
+@c 0096L35
+(Text p. 15.)
+@p 0096L36
+The longitudes of the dragon's head for the individual planets are:
+@t spec=ccccc 0096L37..0096L38
+! Saturn | Jupiter | Mars | Venus | Mercury
+103° 12′ | 82° 1′ | 21° 54′ (44′) | 59° 27′ | 21° 10′.[^n]
+@n The print has «21° 10.», without the sign of the minutes.
+@f 62.1 0094N01
+If one puts “*sin* greatest latitude” instead of “greatest latitude”.
+@f 63.1 0095N01
+Batt. takes the centrum instead of the true longitude.
+@f 63.2 0095N02
+I, 115–116, and II, 249–253.
+@f 64.1 0096N01
+Ed. G. Thibaut, pp. 95 and 96 of the English translation.

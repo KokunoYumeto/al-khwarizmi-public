@@ -1,0 +1,52 @@
+@unit K20
+@p 0121L01..0121L15
+Now two passages of our text contradict each other. On p. 26 it says: *In supposita autem tabula tam casus quam morae tempora per dakaicas et elthenias horarum determinata sunt* (in the table below, the times both of the casus and of the mora are given in minutes and seconds of hours); but only O has the word *horarum*, C and N do not. C and N now add to this chapter an addition headed *Scientia examinationis lunarium defectuum* (the knowledge of the examination of the eclipses of the moon) (see p. 27). In this addition is found the precept to increase these minutes and seconds found for the casus and the mora by a twelfth, and to divide the sum by the hourly motion of the moon; one then has the time of the partial and of the total eclipse. C, then, takes the minutes and seconds found as minutes and seconds of arc, O, on the other hand, as minutes and seconds of time. After comparison with Batt.'s precepts, which are fairly identical with those of C, we must accept the account of the latter Ms. as the right one. But there is still a difference between the precepts of Ms. C and those of Batt.: the latter does not require the addition of a twelfth to the values of the casus and the mora mentioned above. We now proceed by the precepts of Ms. C and find:
+@t spec=lrrrr 0121L16..0121L19
+! Digits of the eclipse: | <2> Min. and sec. of the casus: | <2> Min. and sec. of the half mora:
+19$^{\text{dig.}}$ 36′ | | 31′ 25″ | | 23′ 8″
+| $\tfrac{1}{12}$ of it: | 2′ 37″ | $\tfrac{1}{12}$ of it: | 1′ 55″
+| | 34′ 2″[^89.1] | | 25′ 3″
+@p 0121L20..0121L23
+If we now divide the minutes and seconds of the casus and of the mora by 32′ 9″, that is, by the hourly motion of the moon at an anomaly of 285° 45′, we obtain 1$^{h}$ 3$^{m}$ 30$^{s}$ for the time of the *casus* and 46$^{m}$ 45$^{s}$ for the time of the *half mora*. We now have the following data for this eclipse:
+@p 0121L24..0121L27
+1) A *total*, but not central, eclipse, since the number of digits is greater than 12 — 2) magnitude of the eclipse 19$^{\text{dig.}}$ 36′ — 3) duration of the partial eclipse (*casus* + *emersio*) = 2 (1$^{h}$ 3$^{m}$ 30$^{s}$) = 2$^{h}$ 7$^{m}$ — 4) duration of the total eclipse (*mora*) = 2 (46$^{m}$ 45$^{s}$) = 1$^{h}$ 33$^{m}$ 30$^{s}$ — 5) duration of the *whole* eclipse 3$^{h}$ 40$^{m}$ 30$^{s}$.
+@p 0121L28..0121L35
+The opposition took place, as we found above (p. 85), on 13 Rabīʿ II, 146, 14$^{h}$ after 12 o'clock noon = 30 June 763, 2 o'clock in the morning; this is the time of the middle of the eclipse, and so its beginning, if we neglect the seconds, was on 30 June 763 at 0$^{h}$ 10$^{m}$ in the morning, and its end at 3$^{h}$ 50$^{m}$ in the morning. — According to Oppolzer[^89.2] the following data result (for Greenwich): middle of the eclipse 30 June 763, 1$^{h}$ 42$^{m}$ in the morning; magnitude = 22.3 inches; duration of the partial eclipse 2$^{h}$; duration of totality 1$^{h}$ 44$^{m}$; duration of the whole eclipse 3$^{h}$ 44$^{m}$. This is surely a fine result to obtain with the help of these tables of the Arabs, more than 1000 years old!
+@p 0121L36..0121L38 + 0122L01..0122L10
+We have still to add here something about the determination of the size of the *earth's shadow* in eclipses of the moon. In the passage cited above (p. 79) al-Bīrūnī makes the further remark that the method of computing the size of the earth's shadow in eclipses of the moon is likewise the same in the *Khaṇḍakhādyaka* as in Kh. Of this method, however, we find nothing at all in our work; we have only, in Tables 61–66, two columns each (the 6th and the 7th), headed *Primum dimidium rotae draconis* and *Secundum dimidium rotae draconis* (first and second half of the wheel of the dragon), with which we shall deal directly. That those rules for determining the size of the earth's shadow are missing in this work may have its reason either in al-Bīrūnī's having had before him another edition of Kh.'s tables than Maslama al-Majrīṭī, or, what is more probable, in the present work's having been much abridged; whether by Maslama, or by the translator, or only by later copyists, remains undecided.
+@p 0122L11..0122L29
+As regards the 6th and 7th columns of Tables 61–66, I have found the following. The numbers of the 6th column are 5 times the corresponding values of the hourly unequal motion (*buht*) of the sun, which are entered in column 2; the numbers of the 7th column are 1$\tfrac{3}{5}$ times the corresponding values of the hourly unequal motion of the moon, which are given in column 3; if one subtracts the values of column 6 from the corresponding ones of column 7, one obtains in each case the values of the radius of the earth's shadow that correspond to the anomalies of column 1. If, then, Kh. carried out these computations according to the *Khaṇḍakhādyaka*, as al-Bīrūnī reports, the rule of the Indian work must have run roughly as follows: subtract 5 times the hourly *buht* of the sun from 1$\tfrac{3}{5}$ times the hourly *buht* of the moon, and one has the apparent radius of the earth's shadow. *Example:* at an anomaly of 3$^{\text{sig.}}$ = 90° (Table 63, bottom line) the hourly *buht* of the sun (*motus solis in hora*, the motion of the sun in an hour) is = 2′ 28″, that of the moon = 32′ 56″; the former number multiplied by 5 gives 12′ 20″, and this is the corresponding number of the 6th column, that is, the *primum dimidium rotae draconis*; the second number multiplied by 1$\tfrac{3}{5}$ gives 52′ 42″, while the corresponding number of the 7th column, that is, the *secundum dimidium rotae draconis*, is = 52′ 47″[^90.1]; the apparent semidiameter of the earth's shadow at this anomaly is therefore = 52′ 47″ − 12′ 20″ = 40′ 27″.
+@p 0122L30..0122L37 + 0123L01..0123L08
+Ptol.[^90.2] and after him Batt.[^90.3] state that the radius of the earth's shadow is c. 2$\tfrac{3}{5}$ times the apparent radius of the moon; in Kh. this factor is not quite constant: according to various trials that we have made, its values vary between 2.5 and 2.6, and so differ little from Ptol.'s value. This leads us to the conjecture that Brahmagupta, in his *Khaṇḍakhādyaka*, may perhaps have followed Ptol. in this question more than his Indian predecessors; at least the rules of the *Sūrya-Siddhānta*[^90.4] and of the *Pañcasiddhāntikā*[^90.5] for determining the size of the earth's shadow show no great kinship with that of Kh. In the first work the true diameters of the earth, the sun and the moon and the mean and true motions of the latter two heavenly bodies are drawn into the computation, and the result gives the true diameter of the earth's shadow in *yojanas*[^91.1], which can then, to be sure, easily be converted into minutes. In the second work the rule runs: “Multiply the true distance of the moon by 36, and divide this product by the true distance of the sun multiplied by 90 and divided by 276; subtract this quotient from 36, and one has the diameter of the earth's shadow (in *yojanas*).”
+@h 0123L09
+Chapter 34. On the parallaxes of the moon in longitude and latitude
+@c 0123L10
+(Text pp. 28–29, Tables 77 and 77$^{a}$.)
+@p 0123L11..0123L18
+Kh.'s rules for determining the *parallaxes* of the moon in longitude and latitude are, in my view, somewhat corrupt, especially the former, or at least quite unclear. For orientation we state first that, since the determination of the parallax is used in this work only for computing the eclipses of the sun, the moon is assumed to be in the ecliptic when the parallax in longitude is determined, that is, its latitude is set equal to zero. It is further to be noted that, when the moon is in the meridian of the place of observation at the time of the conjunction, its parallax in longitude is equal to zero.
+@p 0123L19..0123L22
+As for Batt., his treatment of this subject is a very thorough and complicated one[^91.2]; I cannot go into the details here, and remark only, in summary, that he needs in the first place the *zenith distance z* of the moon, which he finds by the formula
+@m 0123L23
+\cos z = \sin h = \frac{\sin EH\cdot\sin MB}{\sin EB}\,,
+@p 0123L24..0123L38
+which follows at once from the triangles *EHB* and *MAB*[^n] by the rule of four quantities. *EH* is the altitude of the ecliptic, easily found from the declination of the sun and the geographical latitude of the place of observation; *E* is the so-called *medium coelum* (midheaven), *EB* the distance of the *medium coelum* from the *ascendant B*, *MB* the distance of the moon from the ascendant. Batt. then computes the so-called *angles* of *latitude* and *longitude*, that is, the angle that the ecliptic makes with the circle of altitude passing through the moon, and its complement (thus the angles *EMZ* and *ZMP*, if *Z* is the zenith and *P* the pole of the
+@n Here the print has a figure at the right of the text, which is not reproduced: a circle, the meridian, with *Z* at its top, *P* at the upper right, *E* at the upper left, *H* at the left end and *T* at the right end of a horizontal diameter, and *K* at the lower right; dashed lines: the vertical diameter from *Z*, the diameter *HT*, the diameter from *E* through the centre to *K*, and a diameter from *P* through the centre to the lower left. Solid arcs: the horizon from *H* to *T*, curving down through *A* and *B*; the ecliptic from *E* through *M* and *B* to *K*; the circle of altitude from *Z* through *M* to *A*, marked *z* between *Z* and *M* and *h* between *M* and *A*; and the arc from *M* to *P*; the angle at *M* between *ME* and *MZ* is marked with a small arc.
+@f 89.1 0121N01
+The corresponding numbers by Batt.'s precepts and tables are 31′ 41″ and 25′ 0″.
+@n The print calls this note after 34′ 2″ and again after 25′ 3″.
+@f 89.2 0121N02..0121N03
+*Kanon der Finsternisse* (Denkschriften der Wiener Akademie, mathem. Klasse, vol. LII), p. 355, no. 3050 of the eclipses of the moon.
+@f 90.1 0122N01
+The discrepancy amounts to 5″; it is the greatest that we have found in our trials.
+@f 90.2 0122N02
+Ed. Heiberg, I, 421–423; translation by Manitius, I, pp. 309–310.
+@f 90.3 0122N03
+Ed. Nallino, I, 59–60.
+@f 90.4 0122N04
+Transl. Burgess, p. 273.
+@f 90.5 0122N05
+Ed. Thibaut, pp. 63–65 of the translation.
+@f 91.1 0123N01
+One *yojana* = 8 Arab miles = c. 16000 metres.
+@f 91.2 0123N02
+Ed. Nallino, I, 76–84, and 251–265.

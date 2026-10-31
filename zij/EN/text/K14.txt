@@ -1,0 +1,74 @@
+@unit K14
+@p+ 0103L01..0103L02
+these titles are exact, draw the conclusion that tables of sines proceeding from degree to degree already existed before Muḥ. b. Mūsā al-Kh.
+@p 0103L03..0103L09
+As for the rules for finding the sine and the versed sine of an angle and conversely, I shall hardly need to add anything to the text. Strange is the remark in paragraph 4, “*ut in sequenti tabula subnotatur*” (as is noted below in the following table), as if another table were needed to find the angle from the sine. We point out here that A. Bjørnbo was of the opinion[^71.1] that Kh.'s work might also have contained a table of arc sines, such as occurs in Abū l-Ḥasan ʿAlī of Morocco, who calls it the “table of Kh.”.
+@p 0103L10..0103L12
+I add here a figure[^n] that stands at the end of this chapter, but only in Ms. N, and that certainly did not belong to Adelard's autograph.
+@n The figure stands on p. 70; see the note there.
+@p 0103L13..0103L22
+The numbers all round, from I to XII, mean the twelve signs (*signa*) of 30° each; the six XX above the horizontal diameter each designate a third of the radius, thus 20 partes; below the horizontal diameter P. (= partes) should stand instead of Gr. (= gradus); one can then read from the figure: sin I = sin 30° = sin V = sin 150° = sin VII = sin 210° = sin XI = sin 330° = XXX P.; sin (I + II) = sin 60° = sin 120° = sin 240° = sin 300° = XXX P. + XXI P. LVII M. XLI S. = LI P. LVII M. XLI S.; sin (I + II + III) = sin 90° = sin 270° = LI P. LVII M. XLI S. + VIII P. II M. XIX S. = LX P. — It should also be noted that in this figure the lines of the sines are horizontal; the translation of *jayb mustawī* by *sinus planus* would then be easier to understand.
+@h 0103L23
+Chapter 24. On finding the latitude of any place
+@c 0103L24
+(Text p. 18.)
+@p 0103L25..0103L27
+First it is stated that, when the sun stands at the beginning of Aries or of Libra (that is, on the equator), its meridian altitude (*H*) is to be subtracted from 90° to obtain the geographical latitude of the place (*φ* = 90° − *H*).
+@p 0103L28..0103L30
+If the sun stands in another sign, one subtracts its declination from its meridian altitude when it is northern, or adds it to the meridian altitude when it is southern, and subtracts the result from 90° (*φ* = 90° − (*H* ∓ *δ*)).
+@p 0103L31..0103L32
+Then the method is given of determining with the astrolabe the altitude of the pole, which is equal to the geographical latitude of the place.
+@p 0103L33..0103L35
+Finally the method is treated of determining the altitude of the pole, that is, the geographical latitude, from the greatest and the least altitude of a circumpolar star ($\varphi = h' + \dfrac{h''-h'}{2} = \dfrac{h'+h''}{2}$).
+@p 0103L36
+The same determinations are also found in Batt.[^71.2]
+@h 0104L01
+Chapter 25. The ascensions of the signs of the zodiac in the right sphere
+@c 0104L02
+(Text pp. 18–19, Tables 59–59$^{b}$.)
+@p 0104L03..0104L06
+This chapter with the tables that belong to it teaches how to compute the *right ascension* (*a*) of every degree of the ecliptic in the right sphere (that is, at the equator, or, as our tables have it, *secundum terram Arin*, for the land of Arin)[^72.1]. This is done by the same formula as in Batt., namely
+@c 0104L07
+$\sin a = \dfrac{\sin\delta\cdot\cos\varepsilon}{\cos\delta\cdot\sin\varepsilon}\cdot r$.
+@p 0104L08..0104L15
+Since Batt., like Kh., does know the tangents and cotangents, but has tables of them only for the radius (gnomon) 12, they do not use the simpler formula sin *a* = tg *δ* · cot *ε*, which corresponds to the formula $\sin a = \dfrac{\mathrm{tg}\,b}{\mathrm{tg}\,B}$ of the right-angled spherical triangle[^n]. In our case the angle *B* is the obliquity (*ε*) of the ecliptic, *c* a given arc of the ecliptic, *b* the declination (*δ*) of the point *A* of the ecliptic, and *a* the corresponding arc of the equator, that is, the *right ascension* of the point *A*; the above formula therefore reads in our case:
+@n Here the print has a figure, which is not reproduced: a right-angled spherical triangle with *B* at the left, *C* at the lower right and *A* at the upper right; the arc *c* from *B* to *A* above, the arc *a* from *B* to *C* below, the arc *b* from *A* down to *C*, and the right angle at *C*.
+@c 0104L16
+$\sin a = \dfrac{\mathrm{tg}\,\delta}{\mathrm{tg}\,\varepsilon} = \mathrm{tg}\,\delta\cdot\cot\varepsilon = \dfrac{\sin\delta\cdot\cos\varepsilon}{\cos\delta\cdot\sin\varepsilon}$.
+@p 0104L17..0104L20
+The Arab mathematicians still had to multiply this expression by *r* = 60$^{p}$, because their trigonometric functions were computed for this radius. We give an *example*.
+@p 0104L21..0104L32
+What right ascension corresponds to the arc 25° of Aries? For this case we must first look up in Table 21 the declination (obliquatio) *δ* of the sun for the 25th degree of Aries; it is 9° 50′ 21″; Kh. takes the obliquity of the ecliptic as 23° 51′; the computation by the formula sin *a* = tg *δ* · cot *ε* gives (computed with five-place logarithms) the value 23° 5′ 50″ for *a*; our Table 59 has, at 25° of longitude (in the section *Horoscopus arietis*), the number 113° 5′ 49″; since Kh., like Batt. in the corresponding tables[^72.2], counts the right ascension from 0° of Capricorn instead of from 0° of Aries, one must subtract 3 signs = 90°, and so obtains *a* = 23° 5′ 49″.[^72.3] — Batt.'s values naturally differ from Kh.'s, since he takes the obliquity of the ecliptic = 23° 35′; Batt. also contents himself with degrees and minutes: in our example he has a right ascension of 113° 8′ (= 23° 8′).
+@p 0104L33..0104L35 + 0105L01..0105L04
+That some Arab astronomers count the right ascension from 0° of Capricorn has its reason in this, that this right ascension, increased by 90°, then gives precisely the degree of the equator that rises at the same time as the degree of the ecliptic in question culminates; and this was important to know for astrological purposes. In our example, then, the point of the equator with the right ascension 113° 5′ 49″ rises at the same time as the point of the ecliptic with the longitude 25° culminates.[^73.1]
+@p 0105L05..0105L08
+Kh. does not yet use the expression “sine of the complement” (that is, cosine), as Batt. does; he says: “subtract the arc from 90° and look up the sine of the difference.” The concept of a special function, then, was not yet as far developed in Kh. as in Batt.
+@p 0105L09..0105L21
+The explanation of the tables agrees almost throughout with that in Batt.[^73.2] We still have to mention some errors in our tables. The right ascensions of the first three degrees of Cancer (Table 59$^{a}$) do not agree in the seconds with those of Capricorn, although they should be the same increased by 180°; our computation even gives deviations in the minutes in part. These may also come from errors in the declinations, for at longitudes that differ by not more than 1°–2° from 90° or 270°, a difference of 1″ in the declination causes one of 1$\tfrac{1}{2}$′ to 2$\tfrac{1}{2}$′ in the right ascension: if, for example, one takes the declination at 89° or 271° as 23° 50′ 46″ instead of the 23° 50′ 47″ of the table, the right ascension of 1° of Capricorn becomes = 1° 5′ 55″ instead of 1° 3′ 30″. By our computations the following values result for the right ascensions of the first three degrees of Capricorn and of Cancer, if one takes the declinations as they are given in Tables 23 and 24:
+@t spec=rr 0105L22..0105L25
+! Capricorn: | Cancer:
+1° 3′ 30″ | 181° 3′ 30″
+2° 10′ 34″ | 182° 10′ 34″
+3° 16′ 48″ | 183° 16′ 48″
+@p 0105L26..0105L27
+Of these values only the one for 3° of Cancer agrees, to 1″, with the one given in Table 59$^{a}$.
+@h 0105L28..0105L29
+Chapters 26 and 26$^{a}$. With how many degrees (of the equator) each sign of the zodiac rises at any place
+@c 0105L30
+(Text pp. 20 and 21, Tables 59–59$^{b}$.)
+@p 0105L31..0105L36
+For places that have a given latitude, and so do not lie on the equator, our work has no special tables for determining the ascensions: first, probably, because the number of tables would grow very large if one wanted to take many latitudes into account, and secondly perhaps also because these so-called oblique ascensions (*ascensiones obliquae*) can be derived from the right ones in a fairly simple way. Batt. has such tables for the latitudes
+@f 71.1 0103N01..0103N02
+See the *Festskrift til* H. G. Zeuthen cited above, p. 14, and v. Braunmühl, *Vorlesungen über Geschichte der Trigonometrie*, Leipzig 1900, I, p. 84.
+@f 71.2 0103N03
+Ed. Nallino, I, 15, 29–30.
+@f 72.1 0104N01..0104N02
+*Arin* (*Azin*, today *Ujjain*, see above p. 33) was placed on the equator by the older Arab astronomers and regarded as the middle of the inhabited half of the earth.
+@f 72.2 0104N03
+Ed. Nallino, II, 61–64.
+@f 72.3 0104N04
+In six tests we have not met an error greater than 1″–2″.
+@f 73.1 0105N01..0105N02
+We should say: the point of the ecliptic with the longitude 25° rises at the same time as the point of the equator with the right ascension 23° 5′ 49″.
+@f 73.2 0105N03
+Ed. Nallino, I, 13–14.

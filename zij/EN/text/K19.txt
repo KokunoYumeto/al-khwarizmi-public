@@ -1,0 +1,65 @@
+@unit K19
+@p 0118L01..0118L04
+From these examples one sees that Kh. (or al-Majrīṭī) on the whole followed Ptol. in determining the syzygies, as Batt. did too. The determinations of the *Sūrya-Siddhānta* are incomplete and obscure in this respect[^86.1].
+@h 0118L05
+Chapter 33. How the eclipse of the moon is determined[^86.2]
+@c 0118L06
+(Text pp. 26–28, Tables 73–76.)
+@p 0118L07..0118L09
+Since chapter 32 appears to have been inserted at this place[^86.3], as it does not fit at all the subject treated in chapters 31 and 33, namely the computation of the syzygies and of the eclipses, we take chapter 33 directly here.
+@p 0118L10..0118L13
+Batt.'s rules for determining the time and the magnitude of eclipses are much more complicated than Kh.'s; he deals with them in chapters 43 and 44[^86.4]. Kh.'s tables, on the other hand, are worked out somewhat further: Batt. has left to computation various things that can be read off from the tables in Kh.
+@p 0118L14..0118L17
+To compute an *eclipse of the moon*, one first determines and notes: the time of the opposition, the true places of the sun and the moon, and the corrected argument of latitude. For our example of an *opposition* given above (pp. 84–85) these quantities are the following:
+@t spec=lll 0118L18..0118L20
+! Time of the opposition: | True place of the sun // (or of the moon): | Corrected argument // of latitude:
+13 Rabīʿ II, 146, 14$^{h}$ | 97° 12′ 45″ (277° 12′ 45″) | 359° 11′ 53″
+@p 0118L21..0118L30
+We must now first examine whether the moon is near the earth or far from it, for on this depends the size of the earth's shadow, and with it also the duration and the magnitude of the eclipse. According to a remark at the end, which stands only in Mss. C and N[^86.5], the moon is *in spatio longinquo* (at the far distance) when its longitude amounts to 89°–91°, and *in spatio propinquo* (at the near distance) when it amounts to 269°–271°. In our case it amounts to c. 277° 13′, which is no longer taken as the near distance, at least as regards our computation; in this case, then, according to the precept, we must enter with the argument of latitude (359° 12′)[^86.6] both the tables *pro spatio propinquo* and those *pro spatio longinquo*. We now find in Table 76, for this argument of latitude (by interpolation), the following data:
+@t spec=lccc 0119L01..0119L05
+! | Digits of the eclipse: | Min. and sec. of the casus: | Min. and sec. of the half mora:
+| 20$^{\text{dig.}}$ 14′ | 34′ 45″ | 27′ 8″
+<4> in Table 74 the following:
+| 19$^{\text{dig.}}$ 16′ | 29′ 39″ | 21′ 2″
+differences: | 0$^{\text{dig.}}$ 58′ | 5′ 6″ | 6′ 6″
+@p 0119L06..0119L11
+These are the differences of the three data at the near and the far distance. What, then, do these data mean? Our text tells us nothing about it; but Batt. instructs us in chapter 43.[^87.1] He, like Kh., understands by the *digits* of the eclipse, in a *partial* as well as in a *total* eclipse of the moon, the distance from the edge of the earth's shadow to the edge of the disc of the moon that is convex towards it, in parts of which 12 go to the diameter of the moon.
+@p 0119L12..0119L14
+If *S* is the centre of the earth's shadow, which must lie in the ecliptic, and *M* the centre of the moon (in Fig. 1 for a partial, in Fig. 2 for a total eclipse), then in Fig. 1 *AM*, expressed in digits (inches), is the magnitude of the eclipse, in
+@t spec=cc 0119L15
+Fig. 1.[^n] | Fig. 2.
+@n Here the print has two figures side by side, which are not reproduced. Fig. 1: a large semicircle, the earth's shadow, on a base line with *E* at its left end, *S* at its middle and *K* at its right end; a vertical line from *S* upwards through *A*, *M* and *C*; a small circle, the moon, about *M*, which lies on the large semicircle, *A* the lowest and *C* the highest point of the small circle. Fig. 2: the same semicircle with *E*, *S* and *K*; the vertical line from *S* upwards through *A*, *M*, *B* and *C*, *B* where it meets the semicircle and *C* above it; the small circle about *M* lies within the semicircle, *A* its lowest point.
+@p 0119L16..0119L21
+Fig. 2 *AB*. It is computed in the following way (by Batt.'s simple precept): one adds the two radii, of the shadow and of the moon (in both figures let this be *SC*), subtracts from this sum the latitude of the moon (*SM*), and so has the magnitude of the eclipse in minutes (in Fig. 1 *AM*, in Fig. 2 *CM* = *AB*). One multiplies this by 12 and divides the product by the diameter of the moon in minutes, and so has the eclipse in *digits*.
+@p 0119L22..0119L29 + 0120L01..0120L02
+As for the terms *casus* and *mora*, the former is the translation of the Arab. *suqūṭ*, which we must translate here by “falling in”; by this word the Arab astronomers render the Ptolemaic *ἔμπτωσις* = the “falling into”; *casus* therefore means the phase from the beginning of the eclipse to the beginning of totality. The second (*mora*) is the translation of the Arab. *mukth* (or *makth*) = “staying”, which in turn translates the Ptolemaic *μονή*; *mora* therefore means the phase of the total eclipse. — In the text of this chapter there also occurs *respiratio*, as the translation of the Arab. *injilāʾ* = “appearing”, which in turn corresponds to the Ptolemaic *ἀναπλήρωσις* = the “making full again” (of the moon); *emersio* would be better than *respiratio*.
+@p 0120L03..0120L15
+For computing the minutes of the *casus* and of the *mora* we likewise give Batt.'s rules (I, 98, ll. 5–14), and show their correctness with the help of the following two figures. Batt. says first: from the square of the sum of the two radii (*MS*$^{2}$ in Fig. 3) subtract the square of the latitude of the moon (*SN*$^{2}$); then the root of the difference (thus *MN*), divided by the hourly motion of the moon, gives the time from the beginning of the eclipse to the middle of the total eclipse (thus the *casus* and the *half mora* together). — Secondly he says: if a total eclipse takes place (and one wants to know its time alone), subtract the diameter of the moon (*MT* in Fig. 4) from the sum of the two radii (*ST*)[^88.1], and from the square of this difference (*SM*$^{2}$) subtract the square of the latitude of the moon (*SN*$^{2}$); then the root of the difference (thus *MN*), divided by the hourly motion of the moon, gives half the time of the total eclipse (thus the *half mora*). If one subtracts this from the time obtained by the first rule, one obtains the time of the *casus*.
+@t spec=cc 0120L16
+Fig. 3.[^n] | Fig. 4.
+@n Here the print has two figures side by side, which are not reproduced. Fig. 3: a large semicircle, the earth's shadow, on a base line *ESK*, *S* its centre; a vertical line from *S* to the top of the semicircle, with *N* on it; the small circle of the moon about *M* at the upper right, outside the semicircle, which crosses the lower left part of the small circle; the horizontal line *NM* and the line *SM*. Fig. 4: the same semicircle with *E*, *S* and *K* and the vertical line from *S* with *N* on it; the small circle about *M* inside the semicircle, touching it at *P* at the upper right; the horizontal line *NM* and the line from *S* through *M* and *P* to *T*, outside the semicircle.
+@p 0120L17..0120L25
+Let us now return to the differences obtained above between the data of the near and the far distance. They now undergo a correction which comes from the change of the diameter of the moon in its motion from the apogee to the perigee, and which is determined with the help of the second-to-last column of Table 74 (or 73), headed *Tabula proportionis*. One enters this column with the *anomalia aequata* (the corrected anomaly), which in our case is, in round numbers, 285° 45′ (see above, p. 85); the corresponding value, called *dakaicae superationum* (minutes of the excesses), is 20′ 43″; by this number, which is thus = 20$\tfrac{43}{60}$ ∶ 60, that is, as a decimal fraction, = 0.345, one multiplies the above three differences, and obtains the values:
+@t spec=ccc 0120L26
+0$^{\text{dig.}}$ 20′ | 1′ 46″ | 2′ 6″
+@p 0120L27..0120L28
+these one adds to the corresponding values of the second row (for the far distance), and so obtains the corrected values:
+@t spec=ccc 0120L29..0120L30
+! Digits of the eclipse: | Min. and sec. of the casus: | Min. and sec. of the half mora:
+19$^{\text{dig.}}$ 36′ | 31′ 25″ | 23′ 8″
+@f 86.1 0118N01
+Transl. Burgess, p. 275.
+@f 86.2 0118N02..0118N04
+The title of the text speaks of the sun and the moon, but in this chapter only the eclipses of the moon are in fact treated; the eclipses of the sun follow in chapter 35, and I have therefore changed the title in this sense.
+@f 86.3 0118N05..0118N06
+It stands at this place only in Ms. C; in N only on fol. 56$^{r}$, that is, in its right place; in O it is missing altogether.
+@f 86.4 0118N07
+Ed. Nallino, I, 96–113, and 275–282.
+@f 86.5 0118N08..0118N09
+In N the wording of C has been corrected by a later hand, see p. 28, note 1; in my account I follow Ms. C, whose wording I regard as the right one.
+@f 86.6 0118N10
+Batt.'s tables (II, 90) have the latitude itself in the 1st column.
+@f 87.1 0119N01
+Ed. Nallino, I, 97, l. 25 – 98, l. 5.
+@f 88.1 0120N01..0120N02
+He could also have said more simply: the radius of the moon (*MP*) from the radius of the shadow (*SP*).

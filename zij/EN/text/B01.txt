@@ -1,0 +1,98 @@
+@unit B01
+@part 0265L01
+Additions and corrections
+@p 0265L02..0265L05
+**1.** To chapter 10 of my commentary (the determination of the true place of the three upper planets) I have some additions and corrections to give, to which my attention was drawn by a communication by letter from the late[^n] Mr. C. F. Pechüle, astronomer at the royal observatory in Copenhagen.
+@n The print has the abbreviation «w.», read as *weiland* (the late): Pechüle died in May 1914, as the foreword (p. VI) says.
+@p 0265L06..0265L08
+Nallino (ed. Batt., II, 241) was the first to point out that the values of the *prosthaphaeresis* of longitude (the equation of the *centre*) that Ptol. gives in the 3rd column of his tables for the true longitude of the planets[^233.1] do not correspond to the formula (p. 48)
+@c 0265L09
+$\mathrm{tg\ aeq.\ centri} = \dfrac{2e_{1}\sin m}{\sqrt{1-(e_{1}\sin m)^{2}}+e_{1}\cos m}$
+@p 0265L10
+but to the simpler one
+@c 0265L11
+$\mathrm{tg\ aeq.\ centri} = \dfrac{EN}{HN} = \dfrac{2e_{1}\sin m}{1+2e_{1}\cos m}$,
+@p 0265L12..0265L18
+which follows from the figure on p. 47 of the commentary if one takes the centre *H* of the epicycle to be on the *equant* (which we have left out), and then sets the radius *HE′* of the equant = 1. But since this is only approximately right, the centre *H* moving not on the equant but on the *deferent*, Ptol. corrects the values found by this formula by the differences of the 4th column; these corrected values Batt. then took into the 3rd column of his tables of the equations of the planets (ed. Nallino, II, 108–135).
+@p 0265L19..0265L26 + 0266L01..0266L07
+Now, since the values of the equation of the centre in Kh. differ essentially from those in Ptol.-Batt., I drew the conclusion (p. 50) that one half of the halved equation of the anomaly might have been used in Kh. to correct the equation of the centre. But this seems in fact not to be the case: Mr. Pechüle has informed me that the values of the equation of the centre in Kh. were probably computed by the formula $C_{\alpha} = C_{90}\cdot\sin\alpha$, where $C_{\alpha}$ means the equation of the centre for the argument *α*, and $C_{90}$ that for the argument 90°, that is, the greatest equation (= 2*e*). Better, to be sure, would be in my view: $\sin C_{\alpha} = 2e\cdot\sin\alpha$; for very small angles one can, of course, put the arcs instead of the sines, but here it is after all a matter of angles of 8°–9°. If one computes the equations of the centre by the formula named, one finds the greatest deviation between the values so computed and those of Kh.'s tables to be 3$\tfrac{1}{2}$′–4′. — If Pechüle's view is right, and it really seems to me to be so, Kh. would then, in the formula (see the figure on p. 47)
+@c 0266L08
+$\sin E'HE = \sin\mathrm{aeq.\ centri} = \dfrac{EN}{HE}$,
+@p 0266L09
+take *HE* = 1 (or = 60$^{p}$); then, since $EN = 2e_{1}\sin m$,
+@c 0266L10
+$\sin\mathrm{aeq.\ centri} = 2e_{1}\sin m$.
+@p 0266L11..0266L17
+By this formula one can also determine the eccentricities of the orbits of the planets, which are recorded nowhere in Kh., neither in the text nor in the tables. For Saturn, for example, Kh. has the greatest equation 8° 36′ at 90° of centre, so that $\sin 8^{\circ}36' = 2e_{1}\sin 90^{\circ} = 2e_{1}$; this gives $2e_{1}$ = 0.1495 = 8$^{p}$ 58′; Ptol. has 6$^{p}$ 50′. The eccentricities of the orbits of Jupiter, Mars and Venus in Kh., computed in this way, agree fairly well with those in Ptol.-Batt.; in those for Saturn and Mercury, on the other hand, greater deviations show themselves, for Saturn more than 2$^{p}$.
+@p 0266L18..0266L19
+As for the computation of the equation of the *anomaly*, I gave on p. 49 the formula
+@c 0266L20
+$\mathrm{tg}\,RET = \mathrm{tg\ anom.} = \dfrac{r\sin\psi}{\text{Dist. centri epic.}+r\cos\psi}$,
+@p 0266L21..0266L24
+where *r* means the radius of the epicycle expressed in decimal parts of the radius of the deferent, and *ψ* the anomaly. Mr. Pechüle informed me that in Ptol. the values of the equations of the anomaly (in col. 6 of his tables for the true longitude of the planets) correspond almost exactly to the formula
+@c 0266L25
+$\mathrm{tg}\,B_{\alpha} = \dfrac{\mathrm{tg}\,B_{90}\cdot\sin\alpha}{1+\mathrm{tg}\,B_{90}\cdot\cos\alpha}$,
+@p 0266L26..0266L34
+where $B_{\alpha}$ means the equation of the anomaly for the argument (anomaly) *α*. I informed him that Ptol.'s values would agree with the formula still better if one put *sin aeq. anom. max.* (the sine of the greatest equation of the anomaly) instead of tg $B_{90}$, thus, for example, for Saturn sin $B_{96}$ instead of tg $B_{90}$; for Ptol. has the maximum of the anomaly for Saturn at 96° (Kh. likewise at 95°–98°), because it is not at 90° but at 96° of anomaly that the line *EP* (see the figure on p. 49) touches the epicycle, so that the triangle *EHP* then becomes right-angled at *P*, and sin *HEP* becomes = $\tfrac{HP}{HE}$, thus sin *HEP* = *HP* = *r* if *HE*, that is, the radius of the deferent, is set = 1; the formula would then run:
+@c 0266L35
+$\mathrm{tg}\,B_{\alpha} = \dfrac{r\cdot\sin\alpha}{1+r\cdot\cos\alpha}$,
+@p 0266L36..0266L37 + 0267L01..0267L07
+thus quite corresponding to the formula for the equation of the centre if in place of $2e_{1}$, that is, of the eccentricity of the orbit of the planet, the radius *r* of the epicycle is put. — Mr. Pechüle has now also tested the values of the equation of the anomaly in Kh.'s tables against this formula, and found on the whole fair agreement (greatest deviations 4′–5′); only for Mars did differences of up to 21′ show themselves (at an anomaly of 160°–170°). Kh. seems, then, in the formula given above for tg *RET*, to have taken the distance of the centre of the epicycle from the earth as constant, that is, = 1 (or 60$^{p}$), for then it changes into
+@c 0267L08
+$\mathrm{tg\ aeq.\ anom.} = \dfrac{r\sin\psi}{1+r\cdot\cos\psi}$.
+@p 0267L09..0267L11
+Only for Mars, which has a fairly large eccentricity, does he seem to have taken the variability of this distance somewhat into account; but in what way can hardly be found out.
+@p 0267L12..0267L14
+With these additions to chapter 10, however, the reasons why Kh. diminished the mean apogee of the planets by half the equation of the anomaly are by no means revealed.
+@p 0267L15..0267L17
+**2.** On p. 48, line 10 from the top, instead of “because it is thought of as measured from the centre of the equant” it must read: “because it gives the position of the centre of the epicycle with respect to the apogee of the eccentric”.
+@p 0267L18..0267L21
+**3.** On p. 46, etc., I have given the astronomical work of the Indian Varāhamihira in the form *Panchasiddhāntikā*, which Thibaut used after the English manner of transcription; by the manner of transcription now generally adopted by the orientalists it should be written *Pañcasiddhāntikā*.[^n]
+@n This translation writes *Pañcasiddhāntikā* throughout, except in the title of Thibaut's edition.
+@p 0267L22..0267L27
+**4.** On p. 42 (chapter 7) I computed the mean motion of the sun in 360 days by multiplying the mean motion in 30 days by 12; this is not quite right, for if the 5″ in the mean motion in 30 days (= 29° 34′ 5″) still had a fraction that was thrown away, the error so arising would become that many times greater through the multiplication by 12; we therefore give another determination below:
+@t spec=lllrlcrl 0267L28..0267L32
+Mean motion | in | 1 year of | 354 | days | = | 348° 54′ 13″ | (see T. 4)
+— | — | | 11 | — | = | 10° 50′ 30″ | (see T. 5)
+— | — | | 6 | hours | = | 14′ 47″ | (see T. 5)
+— | — | | 12 | minutes | = | 30″ | (see T. 5)
+---
+Mean motion | in | <3> 365$^{d}$ 6$^{h}$ 12$^{m}$ | = | 360° 0′ 0″ |
+@p 0267L33..0267L39 + 0268L01..0268L02
+that is, Kh. took the length of the sidereal year as 365$^{d}$ 6$^{h}$ 12$^{m}$. This would agree with what al-Bīrūnī reports to us in his Chronology (ed. Sachau, Arabic text p. 11, English transl. pp. 12–13) about the Persian solar year; in another place of the same work (Arabic text p. 52, English transl. pp. 61–62), to be sure, he then adds a further 9$^{s}$ to this length of the year, and so obtains the value that the *Brahma-Siddhānta* and the Arabic *Sindhind* also have. It seems, then, that in this point too Kh. had probably followed the *Persian* tables of the *Shāh* (compare also Batt., ed. Nallino, I, 206–209). — This remark is also to be taken into account in my statements on pp. 65 and 103.
+@p 0268L03..0268L13
+**5.** On Table 92, in the notes, *S... elmirech* should probably read *Secundum Emirethium* (according to Emirethius) (compare also Table 7), and refer to the astronomical tables of Eumathius (that is, probably Ammonius), which were improved by al-Zarqālī; of this improvement there is a Ms. in Munich (no. 853 of Aumer's catalogue), whose end runs: “Finished is the *Kānōn* of Eumathius, improved by Abū Isḥāq al-Naqqāsh, known by the name al-Zarqālah, in the middle of *Dhū l-Ḥijja* 655 (end of 1257).” — Ammonius lived at Alexandria at the end of the 5th century AD (compare also Batt., ed. Nallino, I, XXXV, n. 5). — I have also thought of *al-mirrīkh* = Mars, and likewise of *al-mizāj* = temperament, the astrological nature of a heavenly body (compare Batt., ed. Nallino, II, 352–353), but neither gives any sense in that place (Table 92).
+@p 0268L14..0268L22
+**6.** When this work was already half printed, I received from Prof. C. H. Haskins in Cambridge (Mass.) the information that in Ms. 283 of *Corpus Christi Coll.* in Oxford there is a copy of Adelard's translation of Kh.'s[^n] tables, which, however, is probably rather incomplete. He remarks further that, as far as he could establish, this text agrees rather with that of the Oxford Ms. *Auct. F. I. 9* than with that of the Mss. of Chartres and Madrid. It would certainly be of interest to draw on this Ms. for comparison even now; but I must leave this work to such scholars as have easier access to this Ms. than I, that is, in the first place to the English ones.
+@n The print has «Kb.’s».
+@p 0268L23..0268L27
+**7.** In chapter 34 it was forgotten to draw the reader's attention to the fact that in Tables 77 and 77$^{a}$ the parallax of latitude is given in parts of the circle, not in parts of time like that of longitude. — In Table 77$^{a}$ the heading *Longitudo et Latitudo* (longitude and latitude) is misleading, for the values entered in these columns for the arguments 91–150 are only parallaxes of longitude.
+@h 0269L01
+Addendum to the corrections
+@p 0269L02..0269L08
+On p. 47, l. 14 from below, instead of “The upper planets complete . . . . times” it should read: The two uppermost planets (Jupiter and Saturn) complete their circuit on the epicycle in about one year, Mars, on the other hand, in c. 2 years (780 days); the centres of their epicycles complete their circuit on the deferent in different times, which agree fairly well with the present sidereal periods.[^n]
+@n A slip printed on one side, without a page number, tipped in after p. 236. The translation of p. 47 gives the new wording.
+@h 0271L01
+Misprints
+@c 0271L02
+(In giving the line numbers the footnotes are not counted.)[^n]
+@n The corrections to the commentary are made in the translation of the commentary; the copy transcribed has «167°» on p. 50 already. The corrections to the Latin text and the tables concern the edition of the Latin, which is not translated here.
+@t spec=rr>{\raggedright\arraybackslash}p{0.75\textwidth} 0271L03..0271L20
+Page | 3, | note 32: read kiteb hea (librum canonum N) for librum hea (canonum N).
+— | 6, | l. 10 from below: read $^{26}$) for $^{21}$).
+— | 17, | note 8 must be inserted between CO and alius: *sed supra* planum *scrips.* C elmustewi, *supra* diminutum elmaruz (but above planum C has written elmustewi, above diminutum elmaruz).
+— | 22, | l. 9 from the top: read $^{11a}$) for $^{10a}$).
+— | 26, | l. 1 from below: read $^{39}$) and $^{40}$) for $^{38}$) and $^{39}$), and likewise in the notes (last line) $^{40}$) for $^{39}$).
+— | —, | l. 8 from below: read tabulam for tabulum.
+— | 31, | l. 15 from the top (beginning): read tetragoni for trigoni.
+— | 49, | l. 11 from below: read p. VII for p. I.
+— | 50, | l. 7 from below: read 167° for 67°.
+— | 62, | l. 2 from below: read 48′27″ for 48″27′.
+— | 66, | note 1: read p. 103 for Kap. 38 (chapter 38).
+— | 92, | l. 19 from below: read so for zo.
+— | 100, | ll. 9 and 10 from the top: read Ascensio obliqua for Rectascension.
+— | 120, | (Tab. 9): in the section headed “Heza Saturni supradictum”, at 60 (Dies), in the column of the “Signa” read 1 for 0.
+— | 131 | (Tab. 20) n. 7: read in for tn.
+— | 145 | (Tab. 34) n. 1: read Jauzegarhu for Jauzezarhu.
+@f 233.1 0265N01
+Edition of Heiberg, II, 436–444; translation by Manitius, II, 261–265.

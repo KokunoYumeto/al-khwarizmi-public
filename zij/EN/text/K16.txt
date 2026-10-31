@@ -1,0 +1,71 @@
+@unit K16
+@p 0109L01..0109L05
+Kh. calls the cotangent *al-ẓill al-mustawī* = the plane or straight shadow, and the tangent *al-ẓill al-mankūs* (or *maʿkūs*) = the reversed shadow. Better are the expressions that Batt. uses, namely *al-ẓill al-mabsūṭ* = the spread-out, plane shadow, and *al-ẓill al-muntaṣib* or *al-qāʾim* = the erect, vertical shadow; they are also called the *second* and the *first* shadow respectively.
+@p 0109L06..0109L07
+Like Batt.[^77.1], Kh. too teaches how to compute the tangent and the cotangent from the sine and the cosine, and so uses the formulas
+@c 0109L08
+$\cot\alpha = \dfrac{\cos\alpha}{\sin\alpha}\cdot 12$ and $\mathrm{tg}\,\alpha = \dfrac{\sin\alpha}{\cos\alpha}\cdot 12$.
+@p 0109L09..0109L10
+For determining the altitude of the sun *α* from the cotangent the following formula is given:
+@c 0109L11
+$\sin(90-\alpha) = \dfrac{\cot\alpha\cdot 60}{\sqrt{12^{2}+\cot^{2}\alpha}}$,
+@p 0109L12
+that is, our present formula $\cos\alpha = \dfrac{\cot\alpha}{\sqrt{1+\cot^{2}\alpha}}$.
+@p 0109L13..0109L14
+Batt. also gives the formulas $\sin\alpha = \dfrac{1}{\sqrt{1+\cot^{2}\alpha}}$, $\sin\alpha = \dfrac{\mathrm{tg}\,\alpha}{\sqrt{1+\mathrm{tg}^{2}\alpha}}$, $\cos\alpha = \dfrac{1}{\sqrt{1+\mathrm{tg}^{2}\alpha}}$, which are missing in Kh.
+@p 0109L15..0109L16
+At the end Kh., as Batt. does too, refers to the table of cotangents, from which one can determine the shadow directly from the altitude and conversely.
+@p 0109L17..0109L25
+We find, then, the first table of cotangents in Kh., and not only in Batt. or Ḥabash. But, contrary to Bjørnbo[^77.2], we refrain from drawing further conclusions from this; for it is by no means impossible, indeed not even improbable, that this table of cotangents was not in Kh.'s original work but was taken into his recension only by Maslama, who, after all, also composed an abridgement of Batt.'s tables: the rules of the text are very similar to those of Batt., only somewhat more briefly put. — As for the numerical values that we have taken into the table, the same holds here as we said above (p. 69) in discussing the table of sines.
+@p 0109L26..0109L35 + 0110L01..0110L06
+We come here to a statement of Bjørnbo's in the paper cited; he says, p. 17: “Abū l-Wafāʾ finally took the last and greatest step. He threw both the Greek division into sixty and the Indian division into twelve overboard, put the radius = 1, made, without changing the names, the plane shadow into what we understand by cotangent and the erect shadow into what we understand by tangent, and with this concluded the history of the development of the two functions.” In our view this goes somewhat too far. Even though Abū l-Wafāʾ says in one place of his Almagest: “from this it is clear that, if one takes the radius = 1, the ratio of the sine to the cosine is equal to the tangent, and the ratio of the cosine to the sine equal to the cotangent”[^78.1], it is nevertheless as good as certain that neither he himself nor any of his successors carried out this simplification in practice. Carra de Vaux, to be sure, says that Abū l-Wafāʾ set up a table of the tangent and the cotangent both for the radius 1 and for the radius 60; but this is not quite established, and the tables have unfortunately been lost; and even if such tables did once exist, they were certainly never used again afterwards.
+@h 0110L07
+Chapter 29. On *elbuht* and how to find it
+@c 0110L08
+(Text p. 22, Tables 61–66.)
+@p 0110L09..0110L13
+By *al-buht* the Arab and especially the Persian[^78.2] astronomers understood the true, or unequal, motion of the sun, the moon and the planets in a day; the word comes from the Indian *bhukti*, which literally means “enjoyment, pleasure”[^78.3], and which became *buht* in Persian and was so taken over by the Arabs[^78.4].
+@p 0110L14..0110L22
+As is well known, the motion of the planets is non-uniform, faster at the perigee than at the apogee; we therefore find the greatest true motion at 180° of anomaly and the least at 0°. Our Tables 61–66 are therefore easy to understand: the column headed *semitae numerorum* contains the anomalies from 0° to 180° (or 360° to 180°), the second column the true motion of the sun in an hour, the third column that of the moon in an hour[^78.5]. For the sun the minimum of the motion is 2′ 22″ and the maximum 2′ 34″; for the moon, on the other hand, 30′ 12″ and 35′ 40″ respectively; Batt. (l. c.) has the values 2′ 23″ and 2′ 33″ for the sun, 30′ 18″ and 36′ 4″ for the moon.
+@h 0110L23
+Chapters 30 and 30$^{a}$. On the apparent diameters of the sun and the moon
+@c 0110L24
+(Text pp. 22–23, Tables 61–66.)
+@p 0110L25..0110L32 + 0111L01..0111L08
+The apparent diameters of the sun and the moon Kh. calls *quantitas rotae solis* and *rotae lunae* (the size of the wheel of the sun, of the moon). These diameters naturally change with the distance of these heavenly bodies from the earth. While Batt. contents himself with giving the maximum, the mean and the minimum size of these diameters[^78.6], Kh. takes the trouble to determine these sizes for every degree of the anomaly from 0° to 180°. In columns 4 and 5 of Tables 61–66 he gives the apparent semidiameters (*dimidium rotae solis vel lunae*) of the sun and the moon for the various anomalies. Here again constant factors occur, by which he multiplies the true *daily* motions of the sun and the moon to obtain the apparent diameters: the factor for the sun is = 33′ = $\tfrac{33}{60}$ = $\tfrac{11}{20}$, that for the moon = 2′ 25″[^79.1] = 2$\tfrac{25}{60}$ ∶ 60 = $\tfrac{145}{3600}$ = $\tfrac{29}{720}$. Batt.[^79.2] gives a similar rule for computing the diameter of the moon: he says that one must multiply the true *hourly* motion of the moon by 5$\tfrac{7}{8}$ and divide by 6 (that is, multiply by $\tfrac{47}{48}$) to obtain the apparent diameter of the moon; if we reduce Kh.'s factor to the *hourly* true motion, it becomes = $\tfrac{29}{30}$, and the difference of the two factors is = $\tfrac{1}{80}$. Let us give an *example* each for the sun and for the moon.
+@p 0111L09..0111L11
+The daily true motion of the sun for 90° of anomaly is, by Table 63, = 2′ 28″ · 24; this, multiplied by $\tfrac{11}{20}$, gives 32′ 33$\tfrac{1}{2}$″ for the diameter of the sun, and so 16′ 16$\tfrac{3}{4}$″ for the semidiameter; the table has 16′ 17″[^79.3].
+@p 0111L12..0111L14
+The daily true motion of the moon for 90° of anomaly is, by the same table, 32′ 56″ · 24; this, multiplied by $\tfrac{29}{720}$, gives 31′ 50″ for the diameter of the moon, and so 15′ 55″ for the semidiameter; the table has 15′ 58″.
+@p 0111L15..0111L21
+One will not always find the correct value of the daily true motion of the sun and the moon, moreover, by multiplying the hourly one by 24, for the latter values are rounded in the tables partly down and partly up, and multiplication by 24 makes the error that many times greater. The text therefore also remarks that one finds the daily motion by determining the true place of the heavenly body for noon of a given day and likewise for noon of the following day: the difference of the two places is the *buht* of this heavenly body.
+@p 0111L22..0111L35
+The rules of Kh. named above for determining the apparent diameters of the sun and the moon seem to have been taken from the Indian works. The *Sūrya-Siddhānta*, to be sure, does not contain them in this form, and its values for the mean diameters of the sun and the moon (32′ 25″ and 32′ respectively)[^79.4] do not quite agree with those of Kh. (32′ 34″ and 31′ 50″), though the differences are small. But al-Bīrūnī has a passage in his work on India[^79.5] which proves to us that Kh. relied on Indian sources on this point: he says that the method of computing the apparent diameters of the sun and the moon contained in the *Khaṇḍakhādyaka*[^79.6] of Brahmagupta is the same as the one found in the tables of Kh. Indeed the Arabs knew early a translation of this work under the name *al-Arkand*, which was later improved by al-Bīrūnī himself, as he states in the list of his writings. There is thus probably no doubt that Kh. knew and used this work of Brahmagupta too. (See further below, the end of chapter 33.)
+@f 77.1 0109N01
+Ed. Nallino, I, 22–23 and 180–182.
+@f 77.2 0109N02
+*Al-Chwarizmi’s Trigonometriske Tavler*, pp. 16–17.
+@f 78.1 0110N01..0110N02
+See Carra de Vaux, *L’Almageste d’Aboul-Wéfa*, in the *Journal asiatique*, Série 8, T. XIX, p. 420.
+@f 78.2 0110N03
+Ulugh Beg uses the expression in his tables.
+@f 78.3 0110N04..0110N05
+*Sūrya-Siddhānta*, transl. Burgess, p. 158: “*When a planet has* enjoyed *the whole troop of asterisms, it has made a complete revolution.*”
+@f 78.4 0110N06
+Batt. does not know the word, or does not use it; see I, XLIII and II, 324.
+@f 78.5 0110N07..0110N08
+For the five planets the corresponding tables are missing, as they are in Batt.; for the sun and the moon the latter gives them only for anomalies at intervals of 6°; see II, 88.
+@f 78.6 0110N09
+Ed. Nallino, I, 58.
+@f 79.1 0111N01
+The text has, wrongly, 2′ 16″.
+@f 79.2 0111N02
+Ibid., I, 97.
+@f 79.3 0111N03
+For other values of the anomaly, to be sure, the computation does not always agree so well.
+@f 79.4 0111N04
+Transl. Burgess, pp. 269–272.
+@f 79.5 0111N05..0111N06
+*Alberuni's India*, English edition by E. C. Sachau, London 1888 and 1910, II, 79 (Arabic text, London 1887, p. 241).
+@f 79.6 0111N07..0111N08
+A work that Brahmagupta wrote after his *Siddhānta*, built on somewhat different principles.

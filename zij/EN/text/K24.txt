@@ -1,0 +1,57 @@
+@unit K24
+@p+ 0133L01..0133L09
+the number 26° 45′; to this one must add the number that stands at the head of this field at *Exagonum* (sextile aspect), that is, 53° 30′[^101.1]; this gives 80° 15′. One looks for this number in the same field among the numbers of the six lines and six columns, and finds the next higher, 80° 23′, in the 5th line, 4th column; to it belongs (it is taken as an *ascensio obliqua*) the longitude 25° of Cancer; for the difference 80° 23′ − 80° 15′ = 8′ the interpolation gives the number 7′, and so the place (= the longitude) of the *left sextile aspect* is = 24° 53′ of Cancer[^101.2]. If one wants the place of the right sextile aspect, one must look for the place of the left trine aspect and add 180° to it.
+@p 0133L10..0133L20
+2. *Horoscope* = 317° (= 17° of Aquarius), *longitude* of the planet = 138° (= 18° of Leo). In the field of Table 111 headed *Quindecim gradus Aquarii* (fifteen degrees of Aquarius) one finds for 18° of Leo, with the help of interpolation, the number 14° 16′; adding to it the number that stands at the head of the field at *Exagonum*, 49° 28′, gives 63° 44′; for this number one finds in the same field, with the help of interpolation, the longitude 3° 40′ of Scorpio. But since the horoscope is not 15° but 17° of Aquarius, one must also determine the sextile aspect for 20° of Aquarius; by the same procedure one finds it in the next field (Table 112) = 3° 55′ of Scorpio; the difference of the two values is therefore 15′ for 5° of the horoscope, and so 6′ for 2° (from 15° to 17°); this, added to 3° 40′, gives 3° 46′ of Scorpio for the place sought of the *left sextile aspect*.
+@p 0133L21..0133L27
+3. *Horoscope* = 335° (= 5° of Pisces), *longitude* of the planet = 115° (= 25° of Cancer). In the field of Table 113 headed *Quinque gradus Piscium* (five degrees of Pisces) one finds for 25° of Cancer the number 117° 13′; adding to it the number that stands at *Exagonum*, 48° 19′, gives 165° 32′; this number is no longer found in this field, whose highest number is 144° 58′; one subtracts this from the number obtained, and 20° 34′ remains; for this one finds in the 1st–2nd column of the same field, with the help of interpolation, the longitude 3° 45′ of Libra as the place of the *left sextile aspect*.
+@p 0133L28..0133L29
+When one has determined the *left* sextile, square and trine aspects in this way, one finds the *right* ones by the rules:
+@t spec=llll 0133L30..0133L32
+The right | trine aspect | is the nadir of the left | sextile aspect.
+The right | square aspect | is the nadir of the left | square aspect.
+The right | sextile aspect | is the nadir of the left | trine aspect.
+@p 0133L33..0133L36
+Thus in the 1st example the right trine aspect is = 24° 53′ of Capricorn. In the three examples given, all the cases are shown that can possibly occur in these determinations and that are taken into account in the rules of the text.
+@p 0133L37 + 0134L01..0134L04
+Kh.'s method probably belongs to the category named by *Regiomontanus* (l. c.), of which he says: *Alii autem exequuntur id negotium per ascensiones quidem rectas stella meridianum tenente, per obliquas autem ascensiones regionis, si in oriente extiterit, aut per descensiones si in occidente* (others, however, carry out this business by the right ascensions when the star holds the meridian, but by the oblique ascensions of the region if it is in the east, or by the descensions if it is in the west); only, Kh. does not treat separately the case where the star is in the meridian.
+@p 0134L05..0134L07
+One must admit that these tables of Kh.'s were very convenient for the astrologers in determining the various aspects; only, they may have left something to be desired as regards accuracy.
+@p 0134L08..0134L20
+With this the commentary on the text and the tables, as far as these agree in the manuscripts C, O and N, is ended. But Ms. O contains two further tables at the end (fol. 158$^{r}$ and 158$^{v}$), which Bjørnbo had not taken into his copy at all; he probably overlooked the sentence *Explicit ezich* (here ends the zīj), etc., which stands at the end of Table 116, and therefore took these two tables for appendages added by a copyist that did not belong to the present work. It must be admitted that this would well be possible; but I think it more probable that these tables, since they do stand in some connection with the preceding astrological tables, formed the end of Maslama's recension of Kh.'s tables, especially as the second table (as the astrological rose) is also found among Batt.'s *tabulae spuriae*[^102.1], which all derive from Maslama. In the two following (unnumbered) final chapters I therefore give a short description and explanation of these two tables.
+@h 0134L21
+On the conversion of the years of birth
+@c 0134L22
+(Table 115.)
+@p 0134L23..0134L33
+Table 115 teaches how to determine the place in the heavens that the sun occupies after a number of full years have elapsed, for example on the 35th birthday of a person, or, in other words, how many degrees (or how much time) it still has to run until it has arrived again at the same point (fixed star) at which it stood at the birth. Understood from the purely astronomical standpoint, one can also regard this table as a table for converting civil (Julian) years into sidereal years. Batt. has (II, 188) a similar table for converting civil years into tropical years, but its *anni collecti* proceed from 20 to 20 instead of from 10 to 10 as in our table, and the excesses over the full civil years are given only in degrees of arc, whereas in our table they are also given in measure of time.
+@p 0134L34..0134L37
+*Example:* Someone was born on 4 January 962 at a certain hour; how much time must he still wait, from the same hour of 4 Jan. 997, until the sun has arrived at the same place in the heavens, that is, at the same fixed star, at which it stood at the moment of the birth?
+@p 0134L38..0134L39 + 0135L01..0135L08
+Table 115 gives for 30 years (in the column *anni deceni*, the years by tens) 7$^{d}$ 18$^{h}$ 4$^{m}$, for 5 years (in the column *anni singulares*, the single years) 1$^{d}$ 7$^{h}$ 1$^{m}$, together 9$^{d}$ 1$^{h}$ 5$^{m}$. Only 9$^{d}$ 1$^{h}$ 5$^{m}$ after his 35th birthday[^n], then, does the sun stand at the same fixed star as at his birth. This time, however, undergoes a further correction through the determination of the *true* place of the sun, for the place found is only the *mean* one; but I shall not go into this further, and refer for it to Batt. I, 148. The second half of the table gives the path still to be run by the sun in degrees, minutes and seconds. — These *revolutiones* or *conversiones annorum nativitatum* (revolutions or conversions of the years of the nativities), and likewise the *revolutiones annorum mundi* (or *civitatum*) (revolutions of the years of the world, or of the cities), played a great part in the astrology of antiquity and of the Middle Ages[^103.1].
+@n Table 115 counts the excess over years of 365 days: with al-Khwārizmī's year of 365.2584375 days (p. 42), 30 years exceed 30 × 365 days by 7$^{d}$ 18$^{h}$ 4$^{m}$, and 5 years exceed 5 × 365 days by 1$^{d}$ 7$^{h}$ 1$^{m}$. From 4 January 962 to 4 January 997 the Julian calendar counts 35 × 365 days and 9 leap days; the 9$^{d}$ 1$^{h}$ 5$^{m}$ thus run from 26 December 996, the end of 35 years of 365 days, and the sun returns to its place of the birth 1$^{h}$ 5$^{m}$ after the same hour of 4 January 997. The «civil (Julian) years» of p. 102 are likewise years of 365 days.
+@p 0135L09..0135L15
+It is still to be mentioned here that in this table the excess of the sidereal year over the civil year is taken as 6$^{h}$ 12$^{m}$, or, if we convert the 93° 2′ 15″ of the last column into time, more exactly as 6$^{h}$ 12$^{m}$ 9$^{s}$, whereas by chapters 20 and 21 6$^{h}$ 13$^{m}$ 2$^{s}$ would have been expected. The value of 6$^{h}$ 12$^{m}$ 9$^{s}$ corresponds, according to the statements of various Arab astronomers, to the length of the sidereal year in the Arabic *Sindhind*; Maslama al-Majrīṭī too, then, seems to have adopted this value, and so not to have followed Kh. in this.[^103.2]
+@h 0135L16
+On the domicilia, exaltationes, decani, etc. (the houses, exaltations, decans, etc.) of the planets
+@c 0135L17
+(Table 116.)
+@p 0135L18..0135L20
+This table is on the whole identical with the *astrological rose* in Batt., as I have already mentioned above; but in single points, which are still to be named, the two differ from each other.
+@p 0135L21..0135L30
+The 1st column[^103.3] contains the twelve signs of the zodiac, which in the rose named stand outside the outermost circle, which is accordingly divided into twelve sectors. In the 2nd column stand the lords (*domini*) of the corresponding houses (*domicilia*) of the 1st column; it would therefore rather have to be headed *domini* instead of *domicilia*; thus the Ram (*Aries*) is the house of *Mars*, or *Mars* is the lord of the house of the *Ram*, *Venus* that of the *Bull* (*Taurus*), and so on. The sun and the moon have only *one* house each, but the five planets *two* each; thus besides the *Ram* the *Scorpion* too is the house of *Mars*, and besides the *Bull* the *Balance* (*Libra*) too is the house of *Venus*. — These *domini* (Arab. *ṣāḥib* or *rabb*) stand in Batt.'s rose in the second innermost circle.
+@p 0135L31..0135L37
+In the 4th column, headed *alienatio* (estrangement), stand the planets that are in the so-called *detriment* (*detrimentum*, Arab. *wabāl*) in the corresponding sign of the zodiac; a planet is in its detriment in the house that is 180° distant from its domicilium, or that is the nadir of its domicilium; it is then, as it were, estranged from this, hence the name *alienatio*, which I have not so far found in any other medieval astrologer. Thus *Venus* is in her *detriment* in the *Ram* and the *Scorpion*, because her houses are the Balance and the Bull, *Mars* in the *Bull* and in the *Balance* in
+@f 101.1 0133N01..0133N03
+This, naturally, when one is looking for the sextile aspect; if one is looking for the square or the trine aspect, one must add the number that stands at the head of the field at *Tetragonum* or *Trigonum* respectively.
+@f 101.2 0133N04..0133N05
+This, then, is c. 10° less than would result if one simply counted 60° forwards on the ecliptic from the place of the planet; one would then come to 5° of Leo.
+@f 102.1 0134N01
+Ed. Nallino, II, 299.
+@n The print has no call for this note in the text; it is placed here, where the note gives the page of the astrological rose among the *tabulae spuriae*.
+@f 103.1 0135N01
+Compare Batt., ed. Nallino, I, 304–305.
+@f 103.2 0135N02
+See above, pp. 42 and 65.
+@f 103.3 0135N03..0135N04
+For convenience of citation I have provided the columns of the upper half of the table with numbers, which are missing in the Ms.

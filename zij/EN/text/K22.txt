@@ -1,0 +1,57 @@
+@unit K22
+@p+ 0127L01
+*latitude* we now find, by Batt.'s tables (II, 91), the following data:
+@t spec=llll size=footnotesize 0127L02..0127L04
+! <2> in maxima longinquitate lunae // (at the greatest distance of the moon): | <2> in minima longinquitate lunae // (at the least distance of the moon):
+! Digiti diametri solaris // (digits of the diameter of the sun): | Quantitas incidentiae // (amount of the falling in): | Digiti diametri solaris: | Quantitas incidentiae:
+7$^{\text{dig.}}$ 42′ | 29′ 15″ | 8$^{\text{dig.}}$ 48′ | 32′ 26″
+@p 0127L05
+The differences of the corresponding values are:
+@c 0127L06
+1$^{\text{dig.}}$ 6′ and 3′ 11″.
+@p 0127L07..0127L12
+Of these, by the precepts (I, 111), one must take proportional parts, namely they must be reduced in the ratio 46$\tfrac{1}{3}$ ∶ 60 (the number 46$\tfrac{1}{3}$, more exactly 46′ 17″, is found in the *tabula correctionis* (table of correction) (II, 89) as the value corresponding to the anomaly 125° 7′ of the moon). Carrying out these corrections, one changes those differences into 51′ and 2′ 27″ respectively; these values, added to the data for the *maxima longinquitas lunae* (greatest distance of the moon) (= *pro spatio longinquo*), give
+@c 0127L13
+8$^{\text{dig.}}$ 33′ and 31′ 42″.
+@p 0127L14..0127L16
+The minutes of the *quantitas incidentiae* (in our tables the *casus*) are divided by the unequal hourly motion of the moon at the anomaly of 125° 7′, that is, by 34′ 34″; this gives c. 55$^{m}$. We now have the following results:
+@p 0127L17..0127L21
+1) For the time of the true conjunction we found above (p. 83): 18$^{h}$ 44$^{m}$ 29$^{s}$; by the precepts of our text, and of Batt. too (I, 105 and 110), we must subtract from this the parallax of longitude in time, that is, 1$^{h}$ 33$\tfrac{1}{2}$$^{m}$; this gives, in round numbers, 17$^{h}$ 11$^{m}$ for the time of the *apparent conjunction*, that is, of the *middle* of the eclipse; that is, the middle took place on 23 Jan. 901 at 5$^{h}$ 11$^{m}$ in the morning (for Córdoba).
+@p 0127L22..0127L23
+2) The *beginning* of the eclipse took place at 5$^{h}$ 11$^{m}$ − 55$^{m}$ = 4$^{h}$ 16$^{m}$, the *end* at 5$^{h}$ 11$^{m}$ + 55$^{m}$ = 6$^{h}$ 6$^{m}$.
+@p 0127L24..0127L25
+3) The *maximum* of the eclipse amounted to 8$^{\text{dig.}}$ 33′, that is, somewhat more than $\tfrac{2}{3}$ of the diameter of the sun.
+@p 0127L26..0127L33
+I remark expressly that these data can make no claim to accuracy, since they are computed partly by Kh.'s tables and partly by Batt.'s. It will nevertheless be of interest to compare the results with those that one obtains for this eclipse from Oppolzer's *Kanon*: for Córdoba the greatest phase (the middle) of the eclipse was at 5$^{h}$ 14$^{m}$ in the morning, and the end at 6$^{h}$ 0$^{m}$. But since at Córdoba on 23 Jan. 901 the sun rose only at 7$^{h}$, the eclipse was not visible there[^95.1]. So once again a quite fine result!
+@p 0127L34..0127L36 + 0128L01..0128L06
+Let us further compare these data with Batt.'s statements about this eclipse. He says[^95.2] that the middle of the eclipse took place at *Antioch* 3$^{h}$ 40$^{m}$ before the beginning of 23 Jan. 901 (the beginning being, according to the Arab astronomers, at 12 o'clock noon), and so, in our civil reckoning, on 23 Jan. at 8$^{h}$ 20$^{m}$ in the morning. Now *Antioch* lies c. 41° east of *Córdoba*; this makes 2$^{h}$ 44$^{m}$ in time, and this added to 5$^{h}$ 11$^{m}$ gives 7$^{h}$ 55$^{m}$ as the time of the middle of the eclipse for *Antioch*; the difference from Batt.'s statement is therefore c. 25$^{m}$. The magnitude of the eclipse, says Batt., amounted to little more than half, or at *al-Raqqa* to somewhat less than two thirds. These statements too differ little from those of our computation.
+@p 0128L07..0128L22
+As we have remarked above, the two chapters 34 and 35 are very unclear, and most probably incomplete and in part wrongly rendered in the translation. We shall hardly go wrong if we assume that Adelard did not properly understand these somewhat difficult astronomical sections, and later copyists, naturally, still much less; from this resulted partly false interpretations, partly omissions, two of which I wish to mention here and to try to correct. In chapter 34 (p. 28) it says: *erit hoc productum horis coniunctionis addendum* (this product is to be added to the hours of the conjunction); instead of *horis coniunctionis* it must probably read *loco coniunctionis* (to the place of the conjunction), or better *loco vero lunae* (to the true place of the moon); for here it is not specifically a matter of a conjunction, but generally of the place of the moon as changed by the *parallax*. And further it says in the same place: *Quodque inde surget, horam eclipsis supra locum pro quo inquiris ex diversitate aspectus mutatam ponit* (and what results from this gives the hour of the eclipse, as changed by the parallax, for the place for which you are inquiring); instead of *horam eclipsis* it must read: *locum lunae apparentem in ecliptica* (the apparent place of the moon in the ecliptic)[^96.1]. In chapter 35 the passage from the beginning to *Si enim fuerit locus coniunctionis* (for if the place of the conjunction is) is quite insufficient for determining an eclipse of the sun; but I shall not be blamed if I refrain from an attempt to restore the right text.
+@h 0128L23
+Chapters 32 and 36. On the division of the twelve astrological houses
+@c 0128L24
+(Text pp. 25 and 29–30, Tables 79–90.)
+@p 0128L25..0128L29
+These two chapters and the last, which follows next, deal with purely *astrological* questions. Chapter 32 stands only in Mss. C and N, and in the former in the wrong place[^96.2]; it should immediately precede chapter 36, for it contains the precepts for finding the beginnings of the twelve houses on the ecliptic, chapter 36, on the other hand, the instructions for using the tables that belong to them.
+@p 0128L30..0128L37 + 0129L01..0129L19
+The Arabic *taswiya* = distribution, division, arrangement has been rendered by the translator partly by *aequatio*, partly by the more correct *dispositio*. It is a matter of the distribution of the twelve astrological houses over the celestial sphere. Various kinds of this distribution existed, for which I refer to Batt.[^96.3]; all have in common that six great circles of the celestial sphere intersect in one diameter, by which the sphere is divided into twelve spherical lunes. Batt.'s division, which is probably also the Ptolemaic one in the *Quadripartitum*, and which Kh. too follows, is the following. The six great circles pass through the poles of the equator, and are thus meridians or circles of declination; the first, passing through the *ascendant*, marks the beginning of house I. Now, to obtain the point on the ecliptic through which the second circle passes (counted from the ascendant towards the east, in the order of the signs of the zodiac), with which, then, house II begins, one must divide the night arc of the ascendant by 6[^97.1], add the result to the right ascension of the ascendant, and look up the longitude for this new right ascension in Tables 59–59$^{b}$; one then has the degree of the beginning of house II, and, increased by 180°, the degree of the beginning of house VIII, which is the nadir (*naẓīr*) of that of house II. If one wants the beginning of house III (or IX), one adds the 6th part of the night arc once more to the right ascension found just now, and the sum is the right ascension of the beginning of house III (or IX); the same holds also for computing the beginning of house IV (or X). To obtain the beginning of house V (or XI), one must add to the right ascension of house IV the 6th part of the day arc of the ascendant (= $\tfrac{360^{\circ} - \text{night arc}}{6}$ = 60° − $\tfrac{\text{night arc}}{6}$), and again look up the longitude for this right ascension; this is the beginning of house V (or XI). One now proceeds in the same way for finding the beginnings of houses VI and VII; if the computation has been carried out correctly, the beginning of house VII must be the nadir of the beginning of house I, that is, of the ascendant.
+@p 0129L20..0129L25
+One sees from this, then, that these twelve houses were of unequal size; still, houses I, II, III, VII, VIII and IX are congruent with one another, and so are houses IV, V, VI, X, XI and XII. What is peculiar is that smaller and larger houses fall both on the day arc and on the night arc. Each geographical latitude has its own size of the houses, and this changes again with the season; only at the equator are all the houses of equal size at every season[^97.2].
+@p 0129L26..0129L36
+In chapter 32 it is then also stated how one can determine the size (in degrees) of a *temporal hour*, that is, both of a *day hour* and of a *night hour*; for this one needs the tables of the oblique ascensions for the latitude concerned, but these tables, as has been remarked before, are missing in this work. To make a trial of the beginnings of the twelve houses, we have determined the size of the temporal hour for Córdoba approximately by Batt.'s tables (II, 67), and found it = 12° 4′ for the morning of 23 Jan. 901, that is, for the ascendant 297° 3′ (= 27° 3′ of Capricorn)[^97.3]; one can, to be sure, also compute it trigonometrically, by looking for the hour angle of the sun at its rising on the day concerned at Córdoba. The length of the double day hour is therefore 24° 8′, and the length of the double night hour = 35° 52′.
+@f 95.1 0127N01..0127N03
+I owe the computation for *Córdoba* by Oppolzer's *Kanon* to the kindness of Mr Broger, assistant at the Zurich observatory, to whom I here express my best thanks.
+@f 95.2 0127N04
+Ed. Nallino, I, 56–57.
+@f 96.1 0128N01
+Compare Batt., ed. Nallino, I, 83–84.
+@f 96.2 0128N02
+See above, p. 86, note 3.
+@f 96.3 0128N03
+Ed. Nallino, I, 246–249.
+@f 97.1 0129N01..0129N02
+According to Kh. this gives the *tempora duarum horarum nocturnarum* (the times of two night hours); by *tempora* equatorial degrees are meant here.
+@f 97.2 0129N03
+At the time of the equinox this is the case at the other latitudes too.
+@f 97.3 0129N04..0129N06
+This value rests on the geographical latitude 38° 30′ for Córdoba; for we found afterwards, in the tables of the *proiectio radiorum* (projection of the rays), that al-Majrīṭī took it to be so large.
