@@ -69,7 +69,7 @@ The names of the cities that are beyond the equator
 @r F009-L12
 (8) |  | a city of the land of China | 165 | 0 | 7 | 0
 @h F010-L01
-The first clime whose latitude is 16° 27′
+The first clime, whose latitude is 16° 27′
 @h F010-L02
 The cities that are in the first clime
 @r F010-L03
@@ -201,7 +201,7 @@ The cities that are in the first clime
 @r F014-L04
 (72) |  | the city of Sijilmāsa | 31 | 0 | 21 | 0
 @h F014-L05
-The second clime whose latitude is 24° 0′
+The second clime, whose latitude is 24° 0′
 @h F014-L06
 The names of the cities that are in the second clime
 @r F014-L07
@@ -313,7 +313,7 @@ The names of the cities that are in the second clime
 @r F017-L12
 (126) | [104] | the city of China | 164 | 40 | 18 | 30
 @h F017-L13
-The third clime and whose latitude is 30° 22′
+The third clime, and its latitude is 30° 22′
 @h F017-L14
 The cities that are in the third clime
 @r F017-L15
@@ -435,7 +435,7 @@ The cities that are in the third clime
 @r F021-L05
 (185) | [150] | the city of {ar:اراٮدا} | 160 | 0 | 28 | 30
 @h F021-L06
-The fourth clime whose latitude is 36° 0′
+The fourth clime, whose latitude is 36° 0′
 @h F021-L07
 The cities that are in the fourth clime
 @r F021-L08
@@ -737,7 +737,7 @@ The cities that are in the fourth clime
 @r F029-L10
 (332) |  | {ar:سردانيه} in an island | 42 | 8 | 36 | 0
 @h F029-L11
-The fifth clime whose latitude is 41° 0′
+The fifth clime, whose latitude is 41° 0′
 @h F029-L12
 The cities that are in the fifth clime
 @r F029-L13
@@ -899,7 +899,7 @@ The cities that are in the fifth clime
 @r F034-L11
 (411) | [291] | {ar:شرقا} in the island | 29 | 35 | 40 | 10
 @h F034-L12
-The sixth clime whose latitude is 45°
+The sixth clime, whose latitude is 45°
 @h F034-L13
 The cities that are in the sixth clime
 @r F034-L14
@@ -1030,7 +1030,7 @@ The cities that are in the sixth clime
 @r F038-L16
 (474) |  | the city of Magog | 171 | 0 | 45 | 0
 @h F039-L01
-The seventh clime whose latitude is 48°
+The seventh clime, whose latitude is 48°
 @h F039-L02
 The cities that are in the seventh clime
 @r F039-L03
@@ -2091,7 +2091,7 @@ The mountains that are beyond …
 @r F071-L19
 178 | 20 | 49 | 45 | 178 | 20 | 54 | 30 | yellow mukhayyar | east
 @h F072-L01
-The seas on the globe of the inhabited earth {ar:وجزائرها}
+The seas on the globe of the inhabited earth, and its islands
 @h F072-L02
 The outer western sea and the outer northern sea
 @p F072-L03..F075-L04
