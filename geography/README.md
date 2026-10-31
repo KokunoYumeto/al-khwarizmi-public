@@ -7,6 +7,7 @@ Muḥammad ibn Mūsā al-Khwārizmī's *Book of the image of the earth*, his tab
 ## Read
 
 - [surat_1962.pdf](surat_1962.pdf): the transcription, frame by frame.
+- [EN/surat_en.pdf](EN/surat_en.pdf): an English translation of every line of al-Khwārizmī's text (AI-translated, Claude), in [EN/](EN/); its build checks it line by line against `anchors.tsv`.
 
 ## What is reproduced
 
