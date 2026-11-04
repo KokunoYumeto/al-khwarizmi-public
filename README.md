@@ -4,7 +4,7 @@ Source-faithful digital editions of the works of Muḥammad ibn Mūsā al-Khwār
 
 ## Published
 
-All the editions are public on GitHub, in [KokunoYumeto/al-khwarizmi-public](https://github.com/KokunoYumeto/al-khwarizmi-public). An earlier, incomplete state is on Zenodo, concept DOI [10.5281/zenodo.23464530](https://doi.org/10.5281/zenodo.23464530): thirteen versions of 2026-10-19 and 2026-10-20, the last of which ([10.5281/zenodo.23513038](https://doi.org/10.5281/zenodo.23513038)) holds the complete algebra and the geography to frame 150. That record is no longer updated.
+All the editions are public on GitHub, in [KokunoYumeto/al-khwarizmi-public](https://github.com/KokunoYumeto/al-khwarizmi-public).
 
 ## Errata of the printed editions
 
